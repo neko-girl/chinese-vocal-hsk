@@ -1,0 +1,63 @@
+id: 3
+hanzi: 恩爱
+pinyin: ēn ài
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: (of husband and wife) affectionate; loving; deeply devoted
+  es: (entre cónyuges) cariñoso; amoroso; profundamente afectuoso
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | mutually loving and deeply affectionate (specifically used for married couples) | afectuoso y enamorado recíprocamente (empleado en particular para parejas de cónyuges) | 夫妻恩爱 (affectionate married couple)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 爷爷奶奶结婚五十年了，日常生活中互敬互助，街坊邻里都羡慕他们十分恩爱。 | Yéye nǎinai jiéhūn wǔshí nián le, rìcháng shēnghuó zhōng hù jìng hù zhù, jiēfang línlǐ dōu xiànmù tāmen shífēn ēn'ài. | Grandpa and grandma have been married for fifty years; they respect and help each other daily, and all the neighbors admire how deeply affectionate they are. | El abuelo y la abuela llevan cincuenta años casados; se respetan y ayudan mutuamente cada día, y todos los vecinos admiran lo cariñosos y unidos que son.
+  #2 | 家庭社会学调研显示，夫妻恩爱且沟通顺畅的家庭环境，对于未成年子女健全人格的塑造具有决定性影响。 | Jiātíng shèhuìxué diàoyán xiǎnshì, fūqī ēn'ài qiě gōutōng shùnchàng de jiātíng huánjìng, duìyú wèichéngnián zǐnǚ jiànquán réngé de shùzào jùyǒu juédìngxìng yǐngxiǎng. | Family sociology surveys demonstrate that an affectionate marital environment with smooth communication exerts a decisive influence on shaping wholesome personalities in underage children. | Los estudios de sociología familiar demuestran que un entorno doméstico donde los cónyuges son amorosos y mantienen una comunicación fluida tiene un impacto decisivo en la formación de una personalidad sana en los hijos menores.
+
+collocations[6]{hanzi,en}:
+  夫妻恩爱 | loving married couple
+  十分恩爱 | extremely affectionate
+  恩爱夫妻 | devoted husband and wife
+  恩爱如初 | as loving as in the beginning
+  恩爱有加 | exceptionally loving and caring
+  秀恩爱 | publicly display affection
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  恩重如山 | ēn zhòng rú shān | benevolence as heavy as a mountain; immense gratitude
+  爱不释手 | ài bù shì shǒu | love something so much that one cannot bear to part with it
+  相濡以沫 | xiāng rú yǐ mò | moisten each other with saliva; share meager resources in adversity
+  恩威并施 | ēn wēi bìng shī | combine mercy with severity; balance kindness and authority
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  恩 | ēn | grace; favor; gratitude; kindness | gracia; favor; gratitud; bondad | 心 | heart | 心 (heart, feelings of gratitude) | 因 (yīn, phonetic root) | 10 | 上下结构 | Phono-semantic compound composed of 因 (cause/source) over 心 (heart), evoking deep gratitude felt in the heart for kindness received. | When someone gives you a reason (因) to survive hardship, your heart (心) fills with lifelong grace. | Cuando alguien te brinda un motivo (因) para superar la adversidad, tu corazón (心) se llena de gratitud eterna. | 55 | WKP | ""
+  爱 | ài | love; affection; cherish | amor; afecto; apreciar | 爫 | claw / hand | 爫 (hand holding gently) + 友 (friendship/embrace) | 冖 (cover/canopy protecting) | 10 | 上下结构 | Originally featured 心 (heart) in traditional 愛; simplified to shelter (爫/冖) over friend (友), denoting tender embrace. | A protective canopy (冖) extends caring hands (爫) to shelter a cherished friend (友). | Un manto protector (冖) extiende manos cariñosas (爫) para cobijar a un amigo entrañable (友). | 51 | BBE | 愛
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Mutual kindness and lifelong grace (恩) combined with passionate tenderness (爱) define marital devotion.
+  composite_memory_hook_es: La bondad mutua y la gratitud compartida (恩) unidas a la ternura sincera (爱) definen el amor conyugal.
+  cultural_and_cognitive_roots: In Chinese marital ethics, romantic passion alone is fragile; true matrimonial harmony requires 'ēn' (benevolence, mutual obligation, and shared loyalty) alongside 'ài' (emotional affection). Hence, conjugal love is conceived as moral and emotional reciprocity.
+  tone_sandhi_and_pitch_modulation: 55-51 pitch contour (1st tone high level at 55, smoothly sliding into 4th tone falling from 5 to 1). Note the glottal onset or smooth liaison between ēn and ài.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    思 | sī | think; consider | Features 田 (field) over 心 (heart) instead of 因 (cause)
+    受 | shòu | receive; endure | Lacks the top stroke and has 又 at the bottom; distinct from 爱
+    妥 | tuǒ | appropriate; settled | Features 女 (woman) below 爫 instead of 友
+    息 | xī | breath; rest | Has 自 (nose/self) above 心 instead of 因
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    因 | yīn | cause; reason; phonetic matrix for 恩
+    德 | dé | virtue; moral grace sharing heart radical
+    友 | yǒu | friend; companion component of simplified 爱
+    慈 | cí | compassionate; merciful love
+
+semantic_boundary_contrasts:
+  core_nuance: 恩爱 specifically characterizes reciprocal tenderness, devotion, and moral-emotional bonding between spouses.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 恩爱 vs. 相爱 | xiāng'ài | 恩爱 is strictly used to describe married couples possessing enduring mutual care, whereas 相爱 can refer broadly to lovers, partners, or people falling in love at any relationship stage.
+    2 | 恩爱 vs. 亲热 | qīnrè | 恩爱 denotes deep emotional and spiritual harmony in marriage, while 亲热 emphasizes overtly affectionate, warm, or physically intimate behaviour between friends or partners.
+    3 | 恩爱 vs. 关爱 | guān'ài | 恩爱 describes mutual spousal devotion, while 关爱 is a transitive verb/noun referring to caring for and looking after elders, children, subordinates, or the vulnerable.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 世间最动人的爱情，往往是步入晚年后依然相濡以沫的恩爱。当岁月的风霜爬满额头，彼此依然能读懂对方眼中的温存，在柴米油盐中相守一生。这种恩爱早已化作生命的契约。 | Shìjiān zuì dòngrén de àiqíng, wǎngwǎng shì bùrù wǎnnián hòu yīrán xiāngrúyǐmò de ēn'ài. Dāng suìyuè de fēngshuāng pámǎn étóu, bǐcǐ yīrán néng dúdǒng duìfāng yǎn zhōng de wēncún, zài cháimǐyóuyán zhōng xiāngshǒu yìshēng. Zhè zhǒng ēn'ài zǎoyǐ huàzuò shēngmìng de qìyuē. | The most touching love is the lifelong affection of growing old together. When frost marks their foreheads, they still read tenderness in each other's eyes throughout daily life. Such marital love becomes an enduring covenant of existence. | El amor más conmovedor es el afecto conyugal que perdura en la vejez. Cuando el tiempo marca el rostro, ambos siguen leyendo ternura en sus miradas a través de la vida diaria, convirtiendo su cariño en un pacto indestructible.
+  #2 | 在快节奏生活下，夫妻情感凝聚力成为重要的社会议题。婚姻学者强调，健康的恩爱关系需要在同甘共苦中培育责任认同。通过建立良性倾听机制与情感仪式感，才能有效抵御现代家庭的解构风险。 | Zài kuài jièzòu shēnghuó xià, fūqī qínggǎn níngjùlì chéngwéi zhòngyào de shèhuì yìtí. Hūnyīn xuézhě qiángdiào, jiànkāng de ēn'ài guānxì xūyào zài tónggāngòngkǔ zhōng péiyù zérèn rèntóng. Tōngguò jiànlì liángxìng qīngtīng jīzhì yǔ qínggǎn yíshìgǎn, cáinǐng yǒuxiào dǐyù xiàndài jiātíng de jiěgòu fēngxiǎn. | In fast-paced life, spousal cohesion is an essential social issue. Scholars emphasize that healthy marital love requires cultivating shared responsibility through thick and thin. Establishing listening habits and emotional rituals effectively resists the risk of family fragmentation. | En la vida contemporánea, la cohesión conyugal es una cuestión social clave. Los especialistas señalan que un amor matrimonial sano exige cultivar la responsabilidad compartida. La escucha mutua y los rituales afectivos protegen a la familia frente a la fragmentación.

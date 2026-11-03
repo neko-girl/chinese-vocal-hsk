@@ -1,0 +1,65 @@
+id: 15
+hanzi: 相敬如宾
+pinyin: xiāng jìng rú bīn
+level: HSK 5
+part_of_speech: Idiom
+
+meanings_summary:
+  en: (of husband and wife) to respect each other like honored guests; mutual respect in marriage
+  es: (entre cónyuges) respetarse mutuamente como huéspedes de honor; respeto conyugal ejemplar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Idiom | Literary | married couples treating each other with the profound courtesy, decorum, and deference due to an honored guest | tratarse los cónyuges con la consideración, reverencia y cortesía debidas a un huésped de honor | 夫妻相敬如宾 (husband and wife respect each other like guests)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这对学者夫妇相伴走过半个世纪的风雨，在日常生活中始终相敬如宾，被后辈学者传为佳话。 | Zhè duì xuézhě fūfù xiāngbàn zǒuguò bàn gè shìjì de fēngyǔ, zài rìcháng shēnghuó zhōng shǐzhōng xiāngjìngrúbīn, bèi hòubèi xuézhě chuán wéi jiāhuà. | This scholar couple walked through half a century of trials together, always respecting each other like honored guests in daily life, hailed by younger scholars as an exemplary union. | Este matrimonio de académicos compartió medio siglo de vicisitudes tratándose siempre con mutuo respeto ejemplar, admirados por las nuevas generaciones.
+  #2 | 中国传统家风研究专家指出，“相敬如宾”不仅是一种婚姻处世哲学，更是维护古代家族制度秩序稳定的伦理基石。 | Zhōngguó chuántǒng jiāfēng yánjiū zhuānjiā zhǐchū, “xiāngjìngrúbīn” bùjǐn shì yì zhǒng hūnyīn chǔshì zhéxué, gèng shì wéihù gǔdài jiāzú zhìdù zhìxù wěndìng de lúnlǐ jīshí. | Experts on traditional Chinese family values note that 'respecting each other like guests' is not merely a philosophy of marriage, but an ethical cornerstone ensuring family stability. | Especialistas en tradiciones familiares chinas señalan que respetarse como huéspedes en el matrimonio constituye la base ética de la armonía y estabilidad del hogar.
+
+collocations[6]{hanzi,en}:
+  夫妻相敬如宾 | husband and wife respect each other like guests
+  相敬如宾数十年 | respect each other like guests for decades
+  始终相敬如宾 | remain courteous and respectful like guests throughout
+  相敬如宾的生活 | a life of mutual marital courtesy
+  相敬如宾的相处模式 | a relationship dynamic of mutual deference
+  做到了相敬如宾 | achieved mutual deference in marriage
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  举案齐眉 | jǔ àn qí méi | lift the food tray to eyebrow level; exemplary spousal respect and harmony
+  琴瑟和鸣 | qín sè hé míng | harmony of zither and lute; blissful marital accord
+  夫唱妇随 | fū chàng fù suí | husband and wife in happy harmony
+  白头偕老 | bái tóu xié lǎo | live together until white hair; grow old together
+
+character_decomposition[4]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  相 | xiāng | mutually; each other | mutuamente; el uno al otro | 目 | eye | 目 (eye looking) + 木 (tree/target observed) | 木 (phonetic association) | 9 | 左右结构 | Depicts an eye (目) carefully examining a tree (木), extended to mutually gazing and interacting. | An eye (目) looks across at a slender tree (木), symbolizing mutual observation. | Un ojo (目) contempla un árbol (木), reflejando una interacción y mirada mutua. | 55 | DUB | ""
+  敬 | jìng | respect; honor; revere | respetar; venerar; honrar | 攵 | strike / action | 攵 (disciplined action) | 苟 (jìng, alert posture) | 12 | 左右结构 | Depicts adopting an alert, humble stance (苟) under self-discipline (攵), denoting reverence. | Under self-discipline (攵), one bows attentively with profound respect (敬). | Con autocontrol sereno (攵), uno se inclina mostrando respeto y reverencia. | 51 | TKOK | ""
+  如 | rú | as if; like; similar to | como; al igual que; semejante a | 女 | woman | 女 (woman / harmony) | 口 (mouth) | 6 | 左右结构 | Ideogram of speech (口) complying harmoniously with instruction (女), signifying 'like' or 'accordance'. | Speaking from the mouth (口) with the graceful compliance of a lady (女) makes actions resemble words. | Expresarse desde la boca (口) con elegancia (女) asegura que todo transcurra conforme a lo debido. | 35 | VR | ""
+  宾 | bīn | guest; visitor; receive with honor | huésped; invitado de honor | 宀 | roof | 宀 (hall/mansion welcoming guests) | 兵 / 贝 (bīn, precious gift exchange) | 10 | 上下结构 | Depicts a guest welcomed under the roof (宀) presented with gifts of cowrie shells (贝). | Under the mansion roof (宀), gifts are exchanged to honor the arriving guest (宾). | Bajo el techo señorial (宀), se ofrecen presentes para agasajar al huésped de honor (宾). | 55 | JOMC | 賓
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Treating each other (相) with solemn reverence (敬) just as (如) one honors an esteemed guest (宾) defines matrimonial decorum.
+  composite_memory_hook_es: Tratarse mutuamente (相) con profundo respeto (敬) igual que (如) a un huésped distinguido (宾) define la virtud matrimonial.
+  cultural_and_cognitive_roots: Originating in the Spring and Autumn Annals (左传·僖公三十三年), when Xi Que and his wife were observed weeding fields together with mutual courtesy like honoring an imperial guest. It became the highest traditional ideal of marital decorum without excessive casualness.
+  tone_sandhi_and_pitch_modulation: 55-51-35-55 pitch pattern. Articulate four balanced syllables with distinct high level (55), falling (51), rising (35), and high level (55) contours.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    警 | jǐng | warn; police | Features 言 (speech) at the bottom instead of 攵 alone
+    惊 | jīng | startle; surprise | Has heart radical 忄 on the left with 京
+    滨 | bīn | shore; coast | Has water radical 氵 on the left side of 宾
+    摈 | bìn | discard; reject | Has hand radical 扌 on the left side of 宾
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    礼 | lǐ | ritual propriety; decorum
+    客 | kè | guest; visitor under the roof radical
+    待 | dài | treat; receive guests
+    尊 | zūn | revere; honor with wine vessel
+
+semantic_boundary_contrasts:
+  core_nuance: 相敬如宾 specifically characterizes married couples treating one another with dignified courtesy, mutual deference, and unflagging decorum.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 相敬如宾 vs. 举案齐眉 | jǔ'ànqíméi | Both describe marital respect, but 举案齐眉 historically highlighted the wife's dutiful deference to the husband, whereas 相敬如宾 emphasizes symmetrical, mutual respect between both partners.
+    2 | 相敬如宾 vs. 恩爱如初 | ēn'àirúchū | 恩爱如初 emphasizes the undiminished emotional passion and affection of early romance, while 相敬如宾 emphasizes polite restraint, decorum, and mutual reverence.
+    3 | 相敬如宾 vs. 亲密无间 | qīnmìwújiàn | 亲密无间 denotes boundless casual intimacy without formalities, whereas 相敬如宾 maintains a respectful, courteous boundary to avoid domestic contempt.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古人将相敬如宾视为夫妻相处的最高境界。爱情最初由激情点燃，但要在数十年的柴米油盐中免于厌倦，唯有以礼相待。将伴侣视作尊贵的宾客，言语有度，举止有礼，才能让婚姻在岁月流转中沉淀出温润的优雅。 | Zhōngguó gǔrén jiāng xiāngjìngrúbīn shìwéi fūqī xiāngchǔ de zuìgāo jìngjiè. Àiqíng zuìchū yóu jīqíng diǎnrán, dàn yào zài shù shí nián de cháimǐyóuyán zhōng miǎnyú yànjuàn, wéiyǒu yǐ lǐ xiāng dài. Jiāng bànlǚ shìzuò zūnguì de bīnkè, yányǔ yǒudù, jǔzhǐ yǒulǐ, cáinǐng ràng hūnyīn zài suìyuè liúzhuǎn zhōng chéndiàn chū wēnrùn de yōuyǎ. | Ancient Chinese regarded mutual respect like guests as the summit of matrimony. Passion kindles love, but avoiding domestic weariness over decades requires courtesy. Treating your partner as an honored guest allows marriage to distill gentle elegance over time. | Los antiguos concebían el respeto mutuo como la cúspide conyugal. La pasión enciende el amor, pero para sortear el tedio cotidiano durante décadas se precisa cortesía. Considerar al cónyuge como un huésped de honor destila una serena elegancia matrimonial.
+  #2 | 在现代文化语境中，相敬如宾这一传统成语常被赋予关于婚姻边界感的新内涵。现代家庭咨询顾问指出，过度亲昵往往容易模糊彼此的心理界限，引发不必要的控制欲。保持如宾客般的相互尊重与独立空间，是构建健康伙伴式婚姻的重要法则。 | Zài xiàndài wénhuà yǔjìng zhōng, xiāngjìngrúbīn zhè yì chuántǒng chéngyǔ cháng bèi fùyǔ guānyú hūnyīn biānjiègǎn de xīn nèihán. Xiàndài jiātíng zīxún gùwèn zhǐchū, guòdù qīnnì wǎngwǎng róngyì móhu bǐcǐ de xīnlǐ jièxiàn, yǐnfā búbìyào de kòngzhìyù. Bǎochí rú bīnkè bān de xiānghù zūnzhòng yǔ dúlì kōngjiān, shì gòujiàn jiànkāng huǒbànshì hūnyīn de zhòngyào fǎzé. | In contemporary contexts, respecting each other like guests gains new meaning around marital psychological boundaries. Counselors note that unchecked familiarity blurs boundaries and fuels possessiveness. Preserving courteous space is a vital rule for healthy partnership marriage. | En la psicología contemporánea, respetarse como huéspedes cobra nuevo sentido sobre los límites personales en la pareja. La excesiva confianza borra las fronteras afectivas y alienta el afán de control. Mantener un espacio de respeto mutuo forja una convivencia sana y equilibrada.

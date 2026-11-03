@@ -1,0 +1,63 @@
+id: 34
+hanzi: 叮
+pinyin: dīng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to bite; to sting (of insects); to prompt/exhort; tinkling sound
+  es: picar (un insecto); encargar con insistencia; tintinear
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to sting or bite with a proboscis or stinger (of mosquitoes, bees, insects) | picar o morder con aguijón o probóscide (insectos, mosquitos) | 被蚊子叮了一口 (bitten by a mosquito)
+  2 | Verb | Standard | to exhort repeatedly, prompt, or urge with careful instructions | encargar o advertir con insistencia y cuidado | 叮嘱再三 (exhort repeatedly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 昨晚在湖边草丛里散步时，我的脖子不小心被蚊子叮了好几个包，又红又痒，十分难受。 | Zuówǎn zài húbiān cǎocóng lǐ sànbù shí, wǒ de bózi bù xiǎoxīn bèi wénzi dīng le hǎojǐ gè bāo, yòu hóng yòu yǎng, shífēn nánshòu. | When strolling in the grassy brush by the lake last night, my neck was accidentally bitten by mosquitoes into several welts, red, itchy, and uncomfortable. | Anoche, al pasear por el pasto junto al lago, los mosquitos me picaron varias veces en el cuello, dejándome ronchas rojas que picaban mucho.
+  #2 | 临行前往高原高寒边防哨所慰问前，后勤医疗总监特意反复叮嘱队员们务必随身携带抗高原反应与防叮咬药品。 | Línxíng qiánwǎng gāoyuán gāohán biānfáng shàosuǒ wèiwèn qián, hòuqín yīliáo zǒngjiān tèyì fǎnfù dīngzhǔ duìyuán men wùbì suíshēn xiàidài kàng gāoyuán fǎnyìng yǔ fáng dīngyǎo yàopǐn. | Prior to departing for plateau border sentries, the chief medical officer repeatedly exhorted team members to carry altitude sickness and insect bite remedies. | Antes de viajar a los puestos fronterizos de la meseta, el jefe médico encargó a los brigadistas llevar consigo medicamentos contra el mal de altura y picaduras.
+
+collocations[6]{hanzi,en}:
+  被蚊子叮 | bitten by a mosquito
+  叮了一口 | stung once / bitten once
+  叮嘱 | exhort / urge with care
+  千叮万嘱 | exhort and admonish countless times
+  防蚊虫叮咬 | prevent mosquito and insect bites
+  叮咚作响 | tinkle and clink melodiously
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  千叮万嘱 | qiān dīng wàn zhǔ | give repeated earnest instructions and exhortations
+  再三叮咛 | zài sān dīng níng | exhort over and over again with tender solicitude
+  言犹在耳 | yán yóu zài ěr | words still ringing in one's ears; advice remembered freshly
+  耳提面命 | ěr tí miàn mìng | instruct face to face and pull by the ear; give earnest guidance
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  叮 | dīng | bite/sting; exhort; clear tinkle | picar; encargar; tintinear | 口 | mouth | 口 (mouth/stinger piercing or words prompting) | 丁 (dīng, nail/pointed tool) | 5 | 左右结构 | Phono-semantic character pairing mouth (口) with pointed nail (丁), describing a sharp sting like a nail, or sharp verbal reminders. | An insect uses its mouthpart like a sharp nail (丁) to sting through skin with a needle-like prick. | Un insecto usa su boca como un clavo diminuto y punzante (丁) para picar la piel. | 55 | RMN | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A mouth (口) driving in like a sharp nail (丁) stings into your skin or drives home a repeated warning (叮).
+  composite_memory_hook_es: Una boca (口) punzante como un clavo (丁) pica la piel o clava una advertencia insistente (叮).
+  cultural_and_cognitive_roots: Polysemous in Chinese culture: physically it mimics the sharp piercing of a nail (丁); rhetorically it duplicates in '叮咛' / '叮嘱', metaphorically nailing wise parental advice firmly into the listener's memory.
+  tone_sandhi_and_pitch_modulation: 55 pitch contour. A high, clear, ringing 1st tone (55); sounds brisk and crisp like a metallic chime.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    订 | dìng | book; order | Features speech radical 讠 on the left instead of mouth 口
+    钉 | dīng / dìng | nail; tack | Features metal radical 钅 on the left instead of mouth 口
+    盯 | dīng | stare; gaze fixedly | Features eye radical 目 on the left instead of mouth 口
+    叮 | dīng | sting; exhort | Headword character itself
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    咬 | yǎo | bite; snap at in the mouth radical family
+    啄 | zhuó | peck; pick with beak
+    嚼 | jiáo | chew; masticate
+    嘱 | zhǔ | enjoin; bid words
+
+semantic_boundary_contrasts:
+  core_nuance: 叮 specifically denotes insect stinging/biting with mouthparts, or verbal earnest exhortation (叮嘱).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 叮 vs. 咬 | yǎo | 咬 implies using upper and lower teeth to clamp down and chew, whereas 叮 specifically applies to insect mouthparts or stingers piercing the skin.
+    2 | 叮 vs. 蛰 | zhē | 蛰 refers to venomous stinging by bees, wasps, or scorpions causing burning pain, whereas 叮 applies to mosquito and gnat blood-sucking bites.
+    3 | 叮 vs. 嘱咐 | zhǔfù | 嘱咐 is a general verb for bidding or instructing, whereas 叮 specifically emphasizes repeated, earnest verbal urging (as in 叮嘱).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每次远行离家，母亲总会拉着我的手，千叮万嘱要按时吃饭、注意保暖。那些朴实无华的言语，宛如冬日里的一缕暖阳，穿透遥远的距离，在岁月的长河中化作心头最深沉的牵挂与前行的力量。 | Měi cì yuǎnxíng líjiā, mǔqīn zǒng huì lā zhe wǒ de shǒu, qiān dīng wàn zhǔ yào ànshí chīfàn, zhùyì bǎonuǎn. Nàxiē pǔshíwúhuá de yányǔ, wǎnrú dōngrì lǐ de yì lǚ nuǎnyáng, chuāntòu yuǎnyuán de jùlí, zài suìyuè de chánghé zhōng huàzuò xīntóu zuì shēnchén de qiānguà yǔ qiánxíng de lìliàng. | Whenever I left home for long journeys, mother held my hand, repeatedly exhorting me to eat on time and stay warm. Those unadorned words were like winter sunlight, spanning distance to become enduring solace and strength. | Cada vez que partía de viaje, mi madre me tomaba de las manos encargándome una y otra vez que comiera a tiempo y me abrigara. Esas sencillas palabras fueron como un sol invernal que acortó distancias, dándome fuerzas para el camino.
+  #2 | 在现代野外边境科考与丛林探险安全规范中，防范毒虫叮咬是保障队员生存能力的关键科目。通过配发高长效驱避防护服与抗组胺外用药膏，能够有效遏制野外有害蚊蠓叮咬引发的过敏性皮炎及虫媒疾病感染。 | Zài xiàndài yěwài biānjìng kěkǎo yǔ cónglín tànxiǎn ānquán guīfàn zhōng, fángfàn dúchóng dīngyǎo shì bǎozhàng duìyuán shēngcún nénglì de guānjiàn kēmù. Tōngguò pèifā gāo chángxiào qūbì fánghùfú yǔ kàngzǔ'àn wàiyòng yàogāo, nénggòu yǒuxiào èzhì yěwài yǒuhài wénměng dīngyǎo yǐnfā de guòmǐnxìng píyán jí chóngméi jíbìng gǎnrǎn. | In field expeditions and jungle safety protocols, preventing toxic insect bites is critical for team survival. Equipping long-lasting repellent gear and antihistamines curbs allergic dermatitis and vector-borne infections caused by insect bites. | En las expediciones por la selva, prevenir las picaduras de insectos venenosos es vital para la supervivencia. Dotar al equipo de ropa repelente y pomadas antihistamínicas frena la dermatitis alérgica y los contagios parasitarios.

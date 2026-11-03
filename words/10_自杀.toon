@@ -1,0 +1,64 @@
+id: 10
+hanzi: 自杀
+pinyin: zì shā
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to commit suicide; suicide; self-destruction
+  es: suicidarse; suicidio; autodestrucción
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to intentionally end one's own life; commit suicide | quitarse voluntariamente la vida; cometer suicidio | 自杀未遂 (attempted suicide)
+  2 | Noun | Standard | the act or tragedy of taking one's own life | el acto de quitarse la propia vida | 自杀干预 (suicide intervention)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 社会工作者通过二十四小时心理热线成功劝导了一名企图自杀的重度抑郁症患者，帮助其重拾生存的希望。 | Shèhuì gōngzuòzhě tōngguò èrshísì xiǎoshí xīnlǐ rèxiàn chénggōng quàndǎo le yì míng qǐtú zìshā de zhòngdù yìyùzhèng huànzhě, bāngzhù qí zhòngshí shēngcún de xīwàng. | Social workers via a 24-hour psychological hotline successfully dissuaded a patient with severe depression from suicide, helping restore hope for life. | Mediante una línea telefónica de ayuda 24 horas, los trabajadores sociales disuadieron del suicidio a una persona con depresión severa, devolviéndole la esperanza.
+  #2 | 世界卫生组织公共卫生报告指出，建立全社会的自杀危机预警与干预网络，能够大幅降低青年群体的非正常死亡率。 | Shìjiè Wèishēng Zǔzhī gōnggòng wèishēng bàogào zhǐchū, jiànlì quán shèhuì de zìshā wēijī yùjǐng yǔ gānyù wǎngluò, nénggòu dàfú jiàngdī qīngnián qúntǐ de fēizhèngcháng sǐwánglǜ. | The World Health Organization public health report notes that establishing society-wide suicide crisis early warning and intervention networks significantly reduces youth mortality. | El informe de la Organización Mundial de la Salud señala que crear redes sociales de alerta e intervención ante el suicidio reduce la mortalidad juvenil de forma sustancial.
+
+collocations[6]{hanzi,en}:
+  自杀倾向 | suicidal ideation / tendencies
+  自杀未遂 | attempted suicide
+  自杀率 | suicide rate
+  自杀干预 | suicide intervention
+  企图自杀 | attempt suicide
+  自杀式攻击 | suicide attack
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  自取灭亡 | zì qǔ miè wáng | court one's own destruction; invite doom upon oneself
+  自绝于人 | zì jué yú rén | alienate oneself completely from the people
+  杀身成仁 | shā shēn chéng rén | sacrifice one's life for benevolence and justice
+  杀鸡儆猴 | shā jī jǐng hóu | kill the chicken to warn the monkey; punish one to warn others
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  自 | zì | self; oneself; from | uno mismo; propio; desde | 自 | nose / self | 自 (pictogram of human nose, pointing to self) | 自 (inherent archaic phoneme) | 6 | 独体字 | Originally a pictogram of the human nose; in ancient China, one pointed to one's nose to indicate 'myself'. | A person points directly at the bridge of their nose (自) to say 'I, myself'. | Una persona señala el tabique de su propia nariz (自) para referirse a 'sí mismo'. | 51 | HDU | ""
+  杀 | shā | kill; slaughter; slay | matar; asesinar; sacrificar | 木 | wood / spear | 木 (wooden weapon/shaft) | 乂 (scythe slashing stroke) | 6 | 上下结构 | Traditional 殺 combined beast/hair with a hand holding a weapon; simplified to cross weapon strokes (乂/木). | Crossing blades (乂) strike down upon a wooden post (木) to end life. | Hojas cruzadas en aspa (乂) caen sobre una estaca de madera (木) segando la vida. | 55 | KCD | 殺
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Directing the lethal blade (杀) against oneself (自) embodies the tragedy of suicide.
+  composite_memory_hook_es: Dirigir el arma letal (杀) contra uno mismo (自) representa la tragedia del suicidio.
+  cultural_and_cognitive_roots: Confucian morality historically regarded the body as a sacred inheritance from parents ('身体发肤，受之父母，不敢毁伤'). In modern biomedical and psychological contexts, 自杀 is approached as a treatable mental health crisis demanding compassionate societal intervention.
+  tone_sandhi_and_pitch_modulation: 51-55 pitch contour. The falling 4th tone of zì (51) steps up into the high level 1st tone of shā (55).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    白 | bái | white | Has only five strokes and lacks the top horizontal stroke of 自
+    目 | mù | eye | Lacks the top diagonal dot/drop stroke that 自 possesses
+    杂 | zá | mixed; miscellaneous | Features 九 on top instead of 乂 above 木
+    条 | tiáo | strip; branch | Features 夂 (walking slowly) on top of 木
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    己 | jǐ | self; own person
+    死 | sǐ | death; mortality
+    灭 | miè | extinguish; perish
+    绝 | jué | sever; terminate
+
+semantic_boundary_contrasts:
+  core_nuance: 自杀 specifically denotes the intentional act of ending one's own physical life.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 自杀 vs. 自残 | zìcán | 自残 refers to non-fatal deliberate self-harm or bodily mutilation, whereas 自杀 aims at ending one's life entirely.
+    2 | 自杀 vs. 殉职 | xùnzhí | 殉职 refers to dying in the heroic performance of official duty or line of duty, whereas 自杀 is taking one's own life.
+    3 | 自杀 vs. 牺牲 | xīshēng | 牺牲 denotes noble self-sacrifice for a greater societal cause or loss in war, whereas 自杀 carries psychological or individual distress connotations.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生命是一场不可逆的旅程，无论遭遇多么沉重的阴霾，黎明的微光总在云层之后。在痛苦的深渊里，每一次向外界伸出求助之手的勇气，都是对自杀冲动的有力阻击。学会向世界坦露脆弱，才能重新握住生命的温度。 | Shēngmìng shì yì chǎng bùkěnì de lǚchéng, wúlùn zāoyù duōme chénzhòng de yīnmái, límíng de wēiguāng zǒng zài yúncéng zhīhòu. Zài tòngkǔ de shēnyuān lǐ, měi yí cì xiàng wàijiè shēnchū qiúzhù zhī shǒu de yǒngqì, dōu shì duì zìshā chōngdòng de yǒulì zǔjī. Xuéhuì xiàng shìjiè tǎnlù cuìruò, cáinǐng chóngxīn wòzhù shēngmìng de wēndù. | Life is an irreversible journey; no matter how heavy the shadows, the dawn's faint glow always awaits beyond the clouds. In deep suffering, every courage to reach out for help fends off suicidal impulses. Revealing vulnerability helps reclaim life's warmth. | La vida es un viaje sin retorno; por densas que sean las sombras, la claridad del alba siempre aguarda tras las nubes. En el sufrimiento, cada intento de pedir auxilio frena el impulso suicida. Mostrar vulnerabilidad permite recuperar la calidez de la existencia.
+  #2 | 现代公共卫生与心理健康研究证明，自杀并非单纯的个人悲剧，而是复杂的社会心理危机。通过在社区与高校设立心理咨询中心，普及心理急救知识，能够建立起灵敏的自杀预防安全网，为迷茫的心灵构筑生命防线。 | Xiàndài gōnggòng wèishēng yǔ xīnlǐ jiànkāng yánjiū zhèngmíng, zìshā bìng fēi dānchún de gèrén bēijù, érshì fùzá de shèhuì xīnlǐ wēijī. Tōngguò zài shèqū yǔ gāoxiào shèlì xīnlǐ zīxún zhōngxīn, pǔjí xīnlǐ jíjiù zhīshì, nénggòu jiànlì qǐ língmǐn de zìshā yùfáng ānquánwǎng, wèi mímáng de xīnlíng gòuzhù shēngmìng fángxiàn. | Modern public health demonstrates that suicide is not merely an individual tragedy, but a complex social crisis. Establishing counseling clinics in communities and universities and teaching psychological first aid build an effective safety net for troubled minds. | La salud pública demuestra que el suicidio no es una simple tragedia personal, sino una crisis psicosocial compleja. Abrir centros de orientación en comunidades y universidades y difundir primeros auxilios psicológicos teje una red protectora para vidas en crisis.

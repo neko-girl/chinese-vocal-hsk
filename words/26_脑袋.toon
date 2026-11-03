@@ -1,0 +1,64 @@
+id: 26
+hanzi: 脑袋
+pinyin: nǎo dai
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: head; skull; brains; mental capacity
+  es: cabeza; cráneo; seso; inteligencia; mente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the human physical head or cranium containing the brain | la cabeza física humana que aloja el cerebro | 摸摸脑袋 (scratch or touch one's head)
+  2 | Noun | Colloquial | intellect, mental wits, or cleverness | inteligencia, seso o agudeza mental | 很有商业脑袋 (have a great head for business)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 小弟弟做错了数学算术题，有些害羞地挠了挠毛茸茸的小脑袋，逗得全家人都哈哈大笑。 | Xiǎo dìdi zuòcuò le shùxué suànshù tí, yǒuxiē hàixiū de náo le náo máorōngrōng de xiǎo nǎodai, dòu de quánjiā rén dōu hāhā dàxiào. | Having made a mistake on his math arithmetic problem, my little brother shyly scratched his fluffy little head, making the whole family burst into laughter. | Al equivocarse en la cuenta de matemáticas, mi hermanito se rascó la cabecita con timidez, haciendo reír a toda la familia a carcajadas.
+  #2 | 现代神经认知科学与类脑计算研究发现，人类脑袋在处理高维度模糊信息时表现出的超低能耗与高容错性，为下一代神经形态芯片提供了重要启发。 | Xiàndài shénjīng rènzhī kēxué yǔ lèi nǎo jìsuàn yánjiū fāxiàn, rénlèi nǎodai zài chǔlǐ gāo wéidù móhu xìnxī shí biǎoxiàn chū de chāodī nénghào yǔ gāo róngcuòxìng, wèi xià yí dài shénjīng xíngtài xīnpiàn tígōng le zhòngyào qǐfā. | Neurocognitive science and brain-inspired computing have revealed that the ultra-low energy consumption and high fault tolerance of human brains in processing complex fuzzy data inspire neuromorphic chips. | La neurociencia cognitiva ha descubierto que el bajo consumo energético y la tolerancia a fallos del cerebro humano al procesar datos complejos inspiran el diseño de chips neuromórficos.
+
+collocations[6]{hanzi,en}:
+  摸摸脑袋 | pat or rub one's head
+  歪着脑袋 | cock one's head to one side
+  脑袋灵活 | quick-witted / sharp head
+  拍脑袋决定 | make a knee-jerk decision off the top of one's head
+  脑袋发懵 | one's head is dazed / befuddled
+  摇晃脑袋 | shake one's head
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  头晕脑胀 | tóu yūn nǎo zhàng | dizzy and light-headed; head swelling with fatigue
+  呆头呆脑 | dāi tóu dāi nǎo | slow-witted and wooden-headed; mutton-headed
+  探头探脑 | tàn tóu tàn nǎo | pop one's head in and peer around slyly
+  没头没脑 | méi tóu méi nǎo | without head or tail; completely senseless and abrupt
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  脑 | nǎo | brain; cranium; intellect | cerebro; seso; entendimiento | 肉 | meat / flesh | 月/肉 (flesh/body organ) | 囟 / 凶 (xìn, fontanelle of skull) | 10 | 左右结构 | Depicts bodily tissue (月) housed under the cranial fontanelle (囟/凶) with hair fibers, representing the physical brain. | The vital organ of flesh (月) protected inside the skull (凶/匕) powers thoughts and wits. | El órgano vital de carne (月) resguardado dentro del cráneo (凶/匕) impulsa las ideas y la lucidez. | 214 | BYUK | 腦
+  袋 | dai | pouch; bag; pocket; sack | bolsa; saco; faltriquera | 衣 | clothing | 衣 (fabric garment/container) | 代 (dài, replacement/generation) | 11 | 上下结构 | Phono-semantic character pairing garment (衣) with 代 (dài), denoting a fabric pouch sewn to hold precious contents. | A pouch of cloth garment (衣) holds valuables across generations (代). | Una bolsa de tela (衣) contiene objetos valiosos que pasan de una generación a otra (代). | 51 | OPYV | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The brain (脑) encased within the fleshly cranial pouch (袋) forms our head and mind (脑袋).
+  composite_memory_hook_es: El cerebro (脑) alojado dentro de la cavidad o saco craneal (袋) conforma nuestra cabeza y mente (脑袋).
+  cultural_and_cognitive_roots: Metaphorically visualizes the human cranium as a biological pouch ('dài') containing brains ('nǎo'); colloquial Chinese frequently uses 'nǎodai' to indicate practical wits ('商业脑袋') or impulsive decisions ('拍脑袋').
+  tone_sandhi_and_pitch_modulation: 214-51 contour. In standard colloquial Mandarin, the second syllable is almost universally pronounced in a neutral tone (nǎodai / nǎodɑi).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    恼 | nǎo | annoyed; irritated | Features heart radical 忄 on the left instead of flesh 月
+    贷 | dài | loan; borrow | Features shell radical 贝 at the bottom instead of clothing 衣
+    装 | zhuāng | attire; load | Features 壮 on top instead of 代 above 衣
+    囊 | náng | pocket; bag | Much more complex radical structure for pouch
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    头 | tóu | head; chief
+    颅 | lú | skull; cranium
+    胞 | bāo | cell; uterine sac
+    肚 | dù | belly; stomach sac
+
+semantic_boundary_contrasts:
+  core_nuance: 脑袋 refers colloquially to the physical head and anatomical skull, or informally to a person's mental wits and ingenuity.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 脑袋 vs. 头部 | tóubù | 头部 is a formal medical, scientific, and technical anatomical term, whereas 脑袋 is everyday, vivid spoken Chinese.
+    2 | 脑袋 vs. 头脑 | tóunǎo | 头脑 refers primarily to cognitive reasoning, mental capacity, or organizational leadership (e.g., 清醒的头脑), while 脑袋 can refer literally to the physical head.
+    3 | 脑袋 vs. 脑海 | nǎohǎi | 脑海 is a poetic/literary term denoting the subjective theatre of memory and consciousness (e.g., 浮现在脑海中), not physical anatomy.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 夕阳的余晖洒在静谧的村庄里，老爷爷戴着老花镜，一边看着报纸，一边轻轻抚摸着膝头孙子毛茸茸的小脑袋。屋檐下微风拂过，岁月安详得如同一幅水墨画。小小的脑袋里装满了对外头世界的奇思妙想。 | Xīyáng de yúhuī sǎ zài jìngmì de cūnzhuāng lǐ, lǎoyéye dài zhe lǎohuājìng, yìbiān kàn zhe bàozhǐ, yìbiān qīngqīng fǔmō zhe xītóu sūnzi máorōngrōng de xiǎo nǎodai. Wūyán xià wēifēng fúguò, suìyuè ānxiáng de rútóng yì fú shuǐmòhuà. Xiǎoxiǎo de nǎodai lǐ zhuāngmǎn le duì wàitóu shìjiè de qísīmiàoxiǎng. | Sunset glow bathed the tranquil village as grandfather read his paper while stroking the fluffy head of his grandson on his knee. Under the eaves breezes blew, peaceful as a wash painting. That little head was full of wonder for the world. | La luz del atardecer doraba la aldea tranquila mientras el abuelo leía acariciando la cabecita de su nieto en su regazo. La brisa bajo el alero evocaba una pintura apacible. Aquella cabecita rebosaba asombro por el mundo exterior.
+  #2 | 在智能网联汽车的研发试验中，碰撞假人脑袋加速度传感器是测定被动安全防护等级的关键指标。工程师通过精确计算碰撞瞬间假人脑袋承受的动能冲击峰值，不断优化安全气囊点爆算法与吸能转向柱结构。 | Zài zhìnéng wǎnglián qìchē de yánfā shìyàn zhōng, pèngzhuàng jiǎrén nǎodai jiāsùdù chuángǎnqì shì cèdìng bèidòng ānquán fánghù děngjí de guānjiàn zhǐbiāo. Gōngchéngshī tōngguò jīngquè jìsuàn pèngzhuàng shùnjiān jiǎrén nǎodai chéngshòu de dòngnéng chōngjī fēngzhí, bùduàn yōuhuà ānquán qìnáng diǎnbào suànfǎ yǔ xīnén zhuǎnxiàngzhù jiégòu. | In crash testing for intelligent vehicles, crash dummy head acceleration sensors are key indicators measuring passive protection. By calculating impact peaks on the head, engineers optimize airbag deployment algorithms and steering columns. | En los ensayos automovilísticos de seguridad, los sensores de aceleración en la cabeza de los maniquíes miden la protección pasiva. Calcular el impacto recibido en la cabeza permite perfeccionar los algoritmos de los airbags y columnas de dirección.

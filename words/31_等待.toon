@@ -1,0 +1,63 @@
+id: 31
+hanzi: 等待
+pinyin: děng dài
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to wait for; to await; wait; expectation
+  es: esperar; aguardar; espera; expectativa
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to stay in a place or state expecting a person, event, or condition to occur | permanecer a la espera de que ocurra una persona, acontecimiento o estado | 耐心等待 (wait patiently)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在漫天飘雪的冬夜，母亲站在老屋檐下，搓着冰凉的双手，静静等待着远方归家的游子。 | Zài màntiān piāoxuě de dōngyè, mǔqīn zhàn zài lǎo wūyán xià, cuō zhe bīngliáng de shuāngshǒu, jìngjìng děngdài zhe yuǎnfāng guījiā de yóuzǐ. | On a winter night with snowflakes swirling through the sky, mother stood under the old eaves, rubbing cold hands, quietly waiting for her traveler returning home from afar. | En una noche invernal bajo la nieve, la madre aguardaba bajo el alero de la casa, frotándose las manos frías mientras esperaba al hijo que volvía del lejano hogar.
+  #2 | 经过长达八个月的临床试验数据审评，创新抗癌靶向药物研发团队终于拿到了国家药品监督管理局批准上市的决定，结束了漫长焦灼的等待。 | Jīngguò chángdá bā gè yuè de línchuáng shíyàn shùjù shěnpíng, chuàngxīn kàng'ái bǎxiàng yàowù yánfā tuánduì zhōngyú ná dào le Guójiā Yàopǐn Jiāndǔ Guǎnlǐjú pīzhǔn shàngshì de juédìng, jiéshù le màncháng jiāozhuó de děngdài. | After eight months of clinical trial data evaluation, the innovative targeted cancer drug R&D team finally received the marketing approval decision from the medical administration, ending their long and anxious wait. | Tras ocho meses de rigurosa evaluación de datos clínicos, el equipo del fármaco oncológico obtuvo por fin la autorización oficial de comercialización, concluyendo una prolongada y tensa espera.
+
+collocations[6]{hanzi,en}:
+  耐心等待 | wait patiently
+  漫长等待 | long wait
+  焦急等待 | wait anxiously
+  等待时机 | await an opportune moment
+  等待结果 | wait for the result
+  静静等待 | wait in quiet silence
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  拭目以待 | shì mù yǐ dài | wipe one's eyes and wait; wait and see with high anticipation
+  严阵以待 | yán zhèn yǐ dài | stand in battle array awaiting the enemy; ready for action
+  守株待兔 | shǒu zhū dài tù | stand by a tree stump waiting for rabbits; wait idly for windfalls
+  翘首以待 | qiáo shǒu yǐ dài | crane one's neck in eager anticipation
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  等 | děng | wait; equal; rank; class | esperar; igual; rango; clase | 竹 | bamboo | 竹 (bamboo slats for ranking/weighing) | 寺 (sì, temple/official court) | 12 | 上下结构 | Phono-semantic character pairing bamboo tallies (竹) with imperial office (寺), anciently denoting classifying equal ranks on tallies, extended to pausing/waiting. | Bamboo measurement slips (竹) are stacked in the hall (寺) until records are verified. | Varillas de bambú (竹) aguardan apiladas en el tribunal (寺) hasta certificar los registros. | 214 | HGDI | ""
+  待 | dài | wait; treat; stay; about to | esperar; aguardar; tratar; quedarse | 彳 | step / walk slowly | 彳 (step pausing on road) | 寺 (sì, court/stopping point) | 9 | 左右结构 | Depicts halting one's steps (彳) at an official post (寺) awaiting orders. | Halting footsteps (彳) outside the sanctuary gate (寺) to wait patiently for arrival. | Detener el paso (彳) ante el umbral (寺) para esperar pacientemente la llegada. | 51 | HOGDI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Halting with bamboo tallies (等) and pausing your steps (待) to let time unfold creates patient waiting.
+  composite_memory_hook_es: Contar los días como varillas (等) y frenar el paso (待) para dar tiempo al tiempo constituye la serena espera.
+  cultural_and_cognitive_roots: Both characters share the courtly/temple root '寺' (sì); ancient Chinese view of waiting was not passive paralysis but disciplined temporal incubation ('待时而动', biding one's time until heaven's moment arrives).
+  tone_sandhi_and_pitch_modulation: 214-51 contour. The 3rd tone of děng is pronounced as a half-3rd tone (21 low) before the crisp falling 4th tone of dài (51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    持 | chí | hold; grasp | Features hand radical 扌 on the left instead of step 彳
+    特 | tè | special | Features ox radical 牛 on the left instead of step 彳
+    诗 | shī | poetry; verse | Features speech radical 讠 on the left with 寺
+    符 | fú | tally; symbol | Features bamboo radical 竹 over 付 instead of 寺
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    候 | hòu | wait; expect season
+    盼 | pàn | long for; look expectantly
+    停 | tíng | stop; halt steps
+    守 | shǒu | guard; keep watch
+
+semantic_boundary_contrasts:
+  core_nuance: 等待 denotes spending time in a steady state anticipation of an event, person, or result to materialize.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 等待 vs. 等候 | děnghòu | 等候 is more specific to physical waiting in a dedicated area (e.g., 在候车室等候), whereas 等待 encompasses deep psychological and temporal anticipation (e.g., 等待时机, 等待奇迹).
+    2 | 等待 vs. 期盼 | qīpàn | 期盼 emphasizes strong yearning and subjective eagerness, whereas 等待 is an objective state of passing time.
+    3 | 等待 vs. 逗留 | dòuliú | 逗留 means staying or lingering at a geographic destination during travel, unrelated to expecting future results.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生命中许多美好的事物，都值得我们耐心地等待。春天的花开，秋天的硕果，都需要经过风霜雨雪的漫长孕育。学会学会在浮躁的尘世中平静等待，不是消极怠工，而是在时光深处积蓄破土而出的蓬勃生机。 | Shēngmìng zhōng xǔduō měihǎo de shìwù, dōu zhídé wǒmen nàixīn de děngdài. Chūntiān de huākāi, qiūtiān de shuòguǒ, dōu xūyào jīngguò fēngshuāngyǔxuě de màncháng yùnyù. Xuéhuì zài fúzào de chénshì zhōng píngjìng děngdài, bú shì xiāojí dàigōng, érshì zài shíguāng shēnchù jīxù pòtǔ'érchū de péngbó shēngjī. | Many wonders of life are worth waiting for patiently. Spring flowers and autumn fruit demand long maturation through wind and frost. Learning to wait with serenity amidst turmoil is not passive surrender, but gathering vitality to burst forth. | Muchas maravillas de la vida merecen una paciente espera. Las flores primaverales y los frutos de otoño maduran tras largos fríos. Aprender a aguardar con serenidad no es pasividad, sino acumular la fuerza vital necesaria para brotar.
+  #2 | 在现代宏观经济资本运作与长周期产业投资领域，秉持耐心资本理念是穿越行业周期的关键。面对底层硬核技术的漫长研发周期，投资机构唯有经得起时间等待，摒弃短期投机套利冲动，才能分享战略产业自主创新的丰厚红利。 | Zài xiàndài hóngguān jīngjì zīběn yùnzuò yǔ chángzhōuqī chǎnyè tóuzī lǐngyù, bǐngchí nàixīn zīběn lǐniàn shì chuānyuè hángyè zhōuqī de guānjiàn. Miànduì dǐcéng yìnghé jìshù de màncháng yánfā zhōuqī, tóuzī jīgòu wéiyǒu jīngdéqǐ shíjiān děngdài, bìngqì duǎnqī tóujī tàolì chōngdòng, cáinǐng fēnxiǎng zhànlüè chǎnyè zìzhǔ chuàngxīn de fēnghòu hónglì. | In long-cycle industrial investment, patient capital philosophy is vital to traversing economic cycles. Facing lengthy R&D timelines for foundational technology, investors who endure the wait and reject speculation reap innovation dividends. | En la inversión industrial a largo plazo, el capital paciente permite atravesar los ciclos económicos. Frente a la prolongada gestación de las tecnologías de base, los inversores capaces de esperar sin especular cosechan los frutos de la innovación.

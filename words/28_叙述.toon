@@ -1,0 +1,63 @@
+id: 28
+hanzi: 叙述
+pinyin: xù shù
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to narrate; to recount; to relate; narration
+  es: narrar; relatar; contar; exponer; narración
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to relate, recount, or describe events or a sequence of actions in oral or written form | relatar o exponer acontecimientos y hechos de forma ordenada, oral o escrita | 详细叙述事情经过 (recount in detail what happened)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在警方的案情询问室里，目击证人喝了一口热水平复情绪后，开始清晰地叙述案发当晚所见到的全部情景。 | Zài jǐngfāng de ànqíng xùnwènshì lǐ, mùjī zhèngrén hē le yì kǒu rèshuǐ píngfù qíngxù hòu, kāishǐ qīngxī de xùshù ànfā dāngwǎn suǒ jiàndào de quánbù qíngjǐng. | In the police interrogation room, after sipping warm water to calm his nerves, the eyewitness began to clearly recount everything seen on the night of the crime. | En la sala policial, tras calmarse con un sorbo de agua tibia, el testigo comenzó a relatar con claridad todo lo que presenció la noche del suceso.
+  #2 | 这部历史文献长卷以宏阔的叙事笔触，详尽叙述了近代工商业家族在时代巨变波澜中的创业艰辛与命运起伏。 | Zhè bù lìshǐ wénxiàn chángjuàn yǐ hóngkuò de xùshì bǐchù, xiángjìn xùshù le jìndài gōngshāngyè jiāzú zài shídài jùbiàn bōlán zhōng de chuàngyè jiānxīn yǔ mìngyùn qǐfú. | With an expansive narrative brush, this historical documentary volume recounts in detail the entrepreneurial hardships and vicissitudes of a modern industrial family. | Con una prosa narrativa monumental, este volumen histórico relata minuciosamente las vicisitudes y afanes de un clan empresarial frente a los grandes cambios de la época.
+
+collocations[6]{hanzi,en}:
+  详细叙述 | recount in detail
+  简要叙述 | briefly narrate / summarize
+  叙述经过 | recount the process / course of events
+  叙述事实 | narrate facts
+  叙述手法 | narrative technique / device
+  按时间顺序叙述 | narrate in chronological order
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  娓娓道来 | wěi wěi dào lái | narrate ceaselessly and charmingly; talk in an engaging flow
+  长话短说 | cháng huà duǎn shuō | make a long story short
+  平铺直叙 | píng pū zhí xù | straightforward and dull narration; tell a story without dramatic flair
+  借题发挥 | jiè tí fā huī | seize upon an incident or topic to air one's own views
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  叙 | xù | narrate; recount; chat; arrange in order | narrar; relatar; conversar; ordenar | 又 | again / hand | 余 (surplus/self) + 又 (hand making marks) | 余 (yú, phonetic harmony) | 9 | 左右结构 | Anciently depicted arranging building materials or genealogical lines in order (余/又), extended to sequential narration. | A hand (又) neatly arranges leftover history scrolls (余) in sequence to narrate the chronicle. | Una mano (又) ordena rollos históricos (余) de manera secuencial para relatar la crónica. | 51 | ODNE | 敘
+  述 | shù | recount; state; transmit; follow | relatar; exponer; transmitir; seguir | 辵 | walk / movement | 辶 (walk/follow a path) | 术 (shù, technique/path) | 8 | 半包围结构 | Depicts walking along a defined path (辶/术) transmitting ancient ancestral traditions without invention. | Stepping along the road (辶) using refined art and technique (术) to relate truth. | Caminar por la senda (辶) aplicando el arte de la elocuencia (术) para relatar la verdad. | 51 | YID | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Arranging facts in order (叙) and tracking their path step by step (述) delivers a thorough narration (叙述).
+  composite_memory_hook_es: Ordenar los hechos en secuencia (叙) y seguir su curso paso a paso (述) logra una narración acabada (叙述).
+  cultural_and_cognitive_roots: Derived from the ancient historiographical dictum of Confucius: '述而不作，信而好古' (transmit, don't innovate; trust and love antiquity). 'Xùshù' embodies objective, faithful chronological reporting without fictional distortion.
+  tone_sandhi_and_pitch_modulation: 51-51 pitch contour. Two crisp 4th tones; maintain falling contours on both syllables without slurring into a flat cadence.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    斜 | xié | slanting; tilted | Features 斗 on the right instead of 又
+    途 | tú | way; route | Features 余 inside 辶 rather than 术
+    术 | shù | technique; art | Lacks the movement radical 辶
+    述 | shù | recount | Headword character itself
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    说 | shuō | speak; tell
+    讲 | jiǎng | explain; lecture
+    记 | jì | record; remember
+    陈 | chén | lay out; state
+
+semantic_boundary_contrasts:
+  core_nuance: 叙述 focuses on sequentially setting forth the development of an event or story in an orderly, objective manner.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 叙述 vs. 描写 | miáoxiě | 叙述 recounts chronological progression of events (what happened), whereas 描写 paints vivid sensory impressions, scenery, or facial expressions (how it looked).
+    2 | 叙述 vs. 说明 | shuōmíng | 说明 explains concepts, principles, rules, or instructions, whereas 叙述 chronicles temporal sequences of incidents.
+    3 | 叙述 vs. 议论 | yìlùn | 议论 expresses viewpoints, arguments, and commentary, whereas 叙述 establishes narrative facts.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 文学的魅力往往在于如何叙述时光的流逝。优秀的作家不需要浮夸的辞藻，只需用沉静克制的语言，将普通人在命运沉浮中的欢笑与泪水娓娓道来。这种真实的叙述，往往比虚构的戏剧更能震撼心灵。 | Wénxué de mèilì wǎngwǎng zài yú rúhé xùshù shíguāng de liúshì. Yōuxiù de zuòjiā bù xūyào fúkuā de cízǎo, zhǐ xū yòng chénjìng kèzhì de yǔyán, jiāng pǔtōngrén zài mìngyùn chénfú zhōng de huānxiào yǔ lèishuǐ wěiwěidàolái. Zhè zhǒng zhēnshí de xùshù, wǎngwǎng bǐ xūgòu de xìjù gèng néng zhènhàn xīnlíng. | The charm of literature lies in how it recounts the passage of time. Master writers need no bombast; with serene language they relate ordinary people's joy and tears amid fate's tides. Such authentic narration touches souls deeply. | El encanto de la literatura radica en cómo relata el transcurso del tiempo. Los grandes autores no precisan artificios; con lenguaje sobrio desgranan las alegrías y llantos cotidianos. Esta narración auténtica conmueve el alma con hondura.
+  #2 | 在司法审判实践中，案件事实的客观叙述是法官准确适用法律裁判的前提。当事人陈述若出现逻辑断裂或自相矛盾，审判人员需通过多方举证质证，排除非理性情绪干扰，还原清晰可靠的案发事实链条。 | Zài sīfǎ shěnpàn shíjiàn zhōng, ànjiàn shìshí de kèguān xùshù shì fǎguān zhǔnquè shìyòng fǎlǜ cáipàn de qiántí. Dāngshìrén chénshù ruò chūxiàn luójí duànliè huò zìxiāngmáodùn, shěnpàn rényuán xū tōngguò duōfāng jǔzhèng zhìzhèng, páichú fēilǐxìng qíngxù gānrǎo, huányuán qīngxī kěkào de ànfā shìshí liàntiáo. | In judicial adjudication, objective narration of case facts is the prerequisite for accurate application of law. When testimonies show contradictions, judges cross-examine evidence to eliminate emotion and reconstruct facts. | En la práctica judicial, el relato objetivo de los hechos es el presupuesto indispensable para aplicar la ley con justicia. Si los testimonios incurren en contradicciones, los jueces contrastan pruebas para reconstruir la cadena fáctica verídica.

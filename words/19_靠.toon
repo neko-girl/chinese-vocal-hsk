@@ -1,0 +1,63 @@
+id: 19
+hanzi: 靠
+pinyin: kào
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to lean on; to rely on; to depend on; near; by
+  es: apoyarse en; depender de; fiarse de; arrimarse a; cerca de
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to rest against; to physically lean against something for support | recostarse o apoyarse físicamente contra algo | 背靠墙壁 (lean with back against the wall)
+  2 | Verb | Standard | to depend on; to rely upon for support or sustenance | depender de; confiar o apoyarse moral o materialmente en alguien | 靠双手生活 (depend on one's own hands to live)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在连续加班十二个小时后，疲惫不堪的他一坐在地铁座位上，就忍不住把头靠在身后的车窗上睡着了。 | Zài liánxù jiābān shí'èr gè xiǎoshí hòu, píbèibùkān de tā yí zuò zài dìtiě zuòwèi shàng, jiù rěnbuzhù bǎ tóu kào zài shēnhòu de chēchuāng shàng shuìzháo le. | After working overtime for twelve consecutive hours, exhausted, as soon as he sat on the subway he leaned his head against the window and fell asleep. | Tras trabajar doce horas seguidas, agotado, en cuanto se sentó en el metro recostó la cabeza en la ventanilla y se quedó profundamente dormido.
+  #2 | 初创科技企业要想在激烈的市场竞争中生存壮大，归根结底必须靠自主核心技术的突破，而非单纯依赖资本输血。 | Chūchuàng kējì qǐyè yào xiǎng zài jīliè de shìchǎng jìngzhēng zhōng shēngcún zhuàngdà, guīgēnjiédǐ bìxū kào zìzhǔ héxīn jìshù de tūpò, ér fēi dānchún yīlài zīběn shūxiè. | For startup tech firms to survive and thrive amidst fierce competition, in the final analysis they must rely on breakthroughs in autonomous proprietary technology rather than capital subsidies. | Para que una empresa emergente prospere en un mercado competitivo, debe apoyarse ante todo en la innovación tecnológica propia y no solo en inyecciones de capital.
+
+collocations[6]{hanzi,en}:
+  依靠自己 | rely on oneself
+  靠窗座位 | window seat
+  靠山 | backing; patron; sponsor
+  值得信赖依靠 | worthy of trust and reliance
+  靠谱 | reliable; trustworthy
+  靠近边缘 | approach near the edge
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  无依无靠 | wú yī wú kào | helpless and destitute; have no one to rely upon
+  牢不可破 | láo bù kě pò | unbreakable; completely solid foundation to lean on
+  坐吃山空 | zuò chī shān kōng | sit idle and eat till mountains are empty without relying on work
+  自力更生 | zì lì gēng shēng | rely on one's own efforts; regeneration through self-reliance
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  靠 | kào | lean on; rely; near; depend | apoyarse; depender; cerca; arrimar | 非 | oppose / not | 告 (tell/declare) + 非 (opposing wings/buttress) | 告 (gào, phonetic association) | 15 | 上下结构 | Anciently depicted back-to-back bird wings opposing and leaning against each other (非) to provide physical stability. | Opposing wings (非) lean firmly against the post (告), supporting each other upright. | Alas opuestas (非) se apoyan con firmeza contra un soporte (告) sosteniéndose en pie. | 51 | HRMYY | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Leaning your body firmly against a steadfast pillar (靠) gives you the reliable support needed to face hardship.
+  composite_memory_hook_es: Apoyar la espalda contra un pilar sólido (靠) brinda el respaldo necesario para resistir la dificultad.
+  cultural_and_cognitive_roots: The proverb '在家靠父母，出门靠朋友' (at home rely on parents, abroad rely on friends) reflects traditional Chinese relational networking (关系). True maturity balances communal reliance with self-reliance ('靠人不如靠己').
+  tone_sandhi_and_pitch_modulation: 51 pitch contour. A crisp, resolute falling 4th tone (51) that emphasizes firm physical or psychological grounding.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    告 | gào | tell; report | Lacks the bottom 非 component of 靠
+    非 | fēi | wrong; not | Lacks the top 告 component of 靠
+    排 | pái | line up; row | Features hand radical 扌 on the left with 非
+    悲 | bēi | sad; sorrow | Features 心 (heart) at the bottom instead of 告 on top
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    依 | yī | rely on; comply with
+    附 | fù | attach; adhere to
+    赖 | lài | depend; lean on
+    倚 | yǐ | lean against; rely
+
+semantic_boundary_contrasts:
+  core_nuance: 靠 denotes physically leaning against a supportive structure, or depending on individuals, skills, or resources for survival.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 靠 vs. 依 | yī | 依 is formal/literary meaning to depend or comply, whereas 靠 is universal in both physical actions ('leaning on a wall') and colloquial reliance ('靠自己').
+    2 | 靠 vs. 赖 | lài | 赖 often carries pejorative connotations of clingy dependency or shirking accountability (如‘耍赖’), while 靠 denotes legitimate, earnest reliance or self-sustenance.
+    3 | 靠 vs. 挨 | āi | 挨 emphasizes close proximity or physical touching side-by-side, while 靠 implies applying weight or leaning for support.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 成长是一场逐渐学会依靠自己的跋涉。少年时，我们习惯靠在父母宽厚的臂弯里避风；成年后，我们终于明白，世间最坚固的靠山不是他人的馈赠，而是自己脚踏实地踩出的每一步脚印。 | Chéngzhǎng shì yì chǎng zhújiàn xuéhuì yīkào zìjǐ de báshè. Shàonián shí, wǒmen xíguàn kào zài fùmǔ kuānhòu de bìwān lǐ bìfēng; chéngnián hòu, wǒmen zhōngyú míngbai, shìjiān zuì jiāngù de kàoshān bú shì tārén de kuìzèng, érshì zìjǐ jiǎotàshídì cǎi chū de měi yí bù jiǎoyìn. | Growing up is a journey of gradually learning to rely on oneself. In youth, we lean in parents' warm embrace; in adulthood, we realize the sturdiest refuge is not others' gifts, but our own steady footprints on the ground. | Crecer es aprender a apoyarse en uno mismo. De niños nos cobijamos en el abrazo protector de los padres; de adultos comprendemos que el mayor respaldo no procede de regalos ajenos, sino de nuestras propias pisadas firmes.
+  #2 | 在现代产业经济转型升级的浪潮中，资源型城市必须打破过度靠山吃山的路径依赖。通过培育高新技术产业与数字创意经济，变资源红利为创新红利，才能真正实现高质量与可持续发展。 | Zài xiàndài chǎnyè jīngjì zhuǎnxíng shēngjí de làngcháo zhōng, zīyuán xíng chéngshì bìxū dǎpò guòdù kàoshānchīshān de lùjìng yīlài. Tōngguò péiyù gāoxīnjìshù chǎnyè yǔ shùzì chuàngyì jīngjì, biàn zīyuán hónglì wéi chuàngxīn hónglì, cáinǐng zhēnzhèng shíxiàn gāozhìliàng yǔ kěchíxù fāzhǎn. | Amid industrial restructuring, resource-based cities must break their path dependency on mineral extraction. By fostering high-tech sectors and digital creativity, shifting resource windfalls to innovation dividends, they achieve sustainable growth. | En la reconversión industrial, las ciudades mineras deben romper la dependencia pasiva de los recursos naturales. Al cultivar sectores tecnológicos y creativos, transforman la riqueza extractiva en innovación sostenible de alta calidad.

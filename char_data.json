@@ -1,0 +1,337 @@
+{
+  "细": {
+    "han_char": "rn=120|rad=纟|as=05|sn=8|four=26100|canj=VMW|ids=⿰纟田",
+    "also": "細",
+    "zh_see": "細"
+  },
+  "节": {
+    "han_char": "rn=140|rad=艸|as=02|sn=8|four=44227|canj=TSL|ids=⿱艹𰆊",
+    "also": "節",
+    "zh_see": "節"
+  },
+  "电": {
+    "han_char": "rn=102|rad=田|as=00|sn=5|four=50716|canj=LWU|ids=⿻日乚",
+    "also": "電|申",
+    "zh_see": "電"
+  },
+  "台": {
+    "han_char": "rn=30|rad=口|as=02|sn=5|four=23600|canj=IR|ids=⿱厶口",
+    "also": "臺|檯|颱|枱|合",
+    "zh_see": "臺"
+  },
+  "恩": {
+    "han_char": "rn=61|rad=心|as=06|sn=10|four=60330|canj=WKP|ids=⿱因心",
+    "also": "思",
+    "zh_see": ""
+  },
+  "爱": {
+    "han_char": "rn=87|rad=爪|as=6|sn=10|four=20407|canj=BBKE|ids=⿳爫冖友",
+    "also": "受|愛|爰",
+    "zh_see": "愛"
+  },
+  "对": {
+    "han_char": "rn=41|rad=寸|as=02|sn=5|four=|canj=EDI|ids=⿰又寸",
+    "also": "對|対",
+    "zh_see": "對"
+  },
+  "比": {
+    "han_char": "rn=81|rad=比|as=00|sn=4|four=21710|canj=PP|ids=⿰⿺𠄌一匕(GHT),⿻𠃏⿰一一(GHT),⿰⿱⺊㇀匕(JKV)",
+    "also": "此|北",
+    "zh_see": ""
+  },
+  "入": {
+    "han_char": "rn=11|rad=入|as=00|sn=2|four=80000|canj=OH|ids=⿹乀丿",
+    "also": "人|𠆢|八|ㅅ|ג|λ|uni=auto",
+    "zh_see": ""
+  },
+  "围": {
+    "han_char": "rn=31|rad=囗|as=04|sn=7|four=|canj=WQS|ids=⿴囗韦",
+    "also": "圍",
+    "zh_see": "圍"
+  },
+  "评": {
+    "han_char": "rn=149|rad=讠|as=05|sn=7|four=31749|canj=IVMFJ|ids=⿰讠平",
+    "also": "評",
+    "zh_see": "評"
+  },
+  "委": {
+    "han_char": "rn=38|rad=女|as=05|sn=8|four=20404|canj=HDV|ids=⿱禾女",
+    "also": "",
+    "zh_see": "諉"
+  },
+  "如": {
+    "han_char": "rn=38|rad=女|as=03|sn=6|four=46400|canj=VR|ids=⿰女口",
+    "also": "",
+    "zh_see": ""
+  },
+  "何": {
+    "han_char": "rn=9|rad=人|as=05|sn=7|four=21220|canj=OMNR|ids=⿰亻可",
+    "also": "伺|向|同|回",
+    "zh_see": ""
+  },
+  "瘫": {
+    "han_char": "rn=104|rad=疒|as=10|sn=15|four=00115|canj=KEOG|ids=⿸疒难",
+    "also": "癱",
+    "zh_see": "癱"
+  },
+  "痪": {
+    "han_char": "rn=104|rad=疒|as=07|sn=12|four=|canj=KNBK,XKNBK|ids=⿸疒奂",
+    "also": "瘓",
+    "zh_see": "瘓"
+  },
+  "离": {
+    "han_char": "rn=114|rad=禸|as=06|sn=11|four=00227|canj=YUKB|ids=⿱㐫禸",
+    "also": "離",
+    "zh_see": "離"
+  },
+  "婚": {
+    "han_char": "rn=38|rad=女|as=08|sn=11|four=42464|canj=VHPA|ids=⿰女昏",
+    "also": "",
+    "zh_see": ""
+  },
+  "自": {
+    "han_char": "rn=132|rad=自|as=00|sn=6|four=26000|canj=HBU|ids=⿱丿目",
+    "also": "白|目|且",
+    "zh_see": ""
+  },
+  "杀": {
+    "han_char": "rn=75|rad=木|as=02|sn=6|four=|canj=KD,XKD|ids=⿱㐅朩(G),⿱㐅𣎳(T)",
+    "also": "殺",
+    "zh_see": "殺"
+  },
+  "抱": {
+    "han_char": "rn=64|rad=手|as=05|sn=8|four=57012|canj=QPRU|ids=⿰扌包",
+    "also": "抔",
+    "zh_see": ""
+  },
+  "怨": {
+    "han_char": "rn=61|rad=心|as=05|sn=9|four=27331|canj=NUP|ids=⿱夗心",
+    "also": "",
+    "zh_see": ""
+  },
+  "护": {
+    "han_char": "rn=64|rad=手|as=04|sn=7|four=53007|canj=QIS|ids=⿰扌户(GH),⿰扌戶(T)",
+    "also": "護",
+    "zh_see": "護"
+  },
+  "姻": {
+    "han_char": "rn=38|rad=女|as=06|sn=9|four=46400|canj=VWK|ids=⿱女因",
+    "also": "婣",
+    "zh_see": ""
+  },
+  "吵": {
+    "han_char": "rn=30|rad=口|as=04|sn=7|four=69020|canj=RFH|ids=⿰口少",
+    "also": "",
+    "zh_see": ""
+  },
+  "架": {
+    "han_char": "rn=75|rad=木|as=05|sn=9|four=46904|canj=KRD|ids=⿱加木",
+    "also": "",
+    "zh_see": "碻"
+  },
+  "相": {
+    "han_char": "rn=109|rad=目|as=04|sn=9|four=46900|canj=DBU|ids=⿰木目",
+    "also": "租",
+    "zh_see": ""
+  },
+  "敬": {
+    "han_char": "rn=66|rad=攴|as=09|asmj+=08|sn=13|snmj+=12|four=48640|canj=TROK|ids=⿰苟攵(GJKV),⿰茍攵(HT)",
+    "also": "茍",
+    "zh_see": ""
+  },
+  "宾": {
+    "han_char": "rn=40|rad=宀|as=07|sn=10|four=|canj=JOMC|ids=⿱宀兵",
+    "also": "賓",
+    "zh_see": "賓"
+  },
+  "暗": {
+    "han_char": "rn=72|rad=日|as=09|sn=13|four=60061|canj=AYTA|ids=⿰日音",
+    "also": "晻|闇",
+    "zh_see": ""
+  },
+  "轮": {
+    "han_char": "rn=159|rad=车|as=04|sn=8|four=|canj=KQOP,JQOP|ids=⿰车仑",
+    "also": "輪",
+    "zh_see": "輪"
+  },
+  "不": {
+    "han_char": "rn=1|rad=一|as=03|sn=4|four=10900|canj=MF|ids=⿸丆⿰丨丶(GHJKT),⿻丆卜(V)",
+    "also": "𣎴|𤓯",
+    "zh_see": ""
+  },
+  "耐": {
+    "han_char": "rn=126|rad=而|as=03|sn=9|four=14200|canj=MBDI|ids=⿰而寸",
+    "also": "",
+    "zh_see": "倷"
+  },
+  "烦": {
+    "han_char": "rn=86|rad=火|as=06|sn=10|four=91882|canj=FMBO|ids=⿰火页",
+    "also": "煩",
+    "zh_see": "煩"
+  },
+  "靠": {
+    "han_char": "rn=175|rad=非|as=07|sn=15|four=24111|canj=HGRLY|ids=⿱告非,⿱吿非",
+    "also": "",
+    "zh_see": ""
+  },
+  "肩": {
+    "han_char": "rn=130|rad=肉|as=04|sn=8|four=30227|canj=HSB,ISB|ids=⿸戶月, ⿸户月, ⿸戸月",
+    "also": "",
+    "zh_see": ""
+  },
+  "膀": {
+    "han_char": "rn=130|rad=肉|as=10|sn=14|four=70227|canj=BYBS|ids=⿰⺼旁",
+    "also": "髈",
+    "zh_see": ""
+  },
+  "喊": {
+    "han_char": "rn=30|rad=口|as=09|sn=12|four=63050|canj=RIHR|ids=⿰口咸",
+    "also": "",
+    "zh_see": ""
+  },
+  "伸": {
+    "han_char": "rn=9|rad=人|as=05|sn=7|four=25206|canj=OLWL|ids=⿰亻申",
+    "also": "",
+    "zh_see": ""
+  },
+  "手": {
+    "han_char": "rn=64|rad=手|as=00|sn=4|four=20500|canj=Q|ids=⿻𠂌一",
+    "also": "爪|寸|毛",
+    "zh_see": ""
+  },
+  "指": {
+    "han_char": "rn=64|rad=手|as=06|sn=9|four=51061|canj=QPA|ids=⿰扌旨",
+    "also": "",
+    "zh_see": ""
+  },
+  "歪": {
+    "han_char": "rn=77|rad=止|as=05|sn=9|four=10101|canj=MFMYM|ids=⿱不正",
+    "also": "",
+    "zh_see": ""
+  },
+  "扭": {
+    "han_char": "rn=64|rad=手|as=04|sn=7|four=57015|canj=QNG|ids=⿰扌丑",
+    "also": "",
+    "zh_see": ""
+  },
+  "递": {
+    "han_char": "rn=162|rad=辵|as=07|sn=10|four=38302|canj=YCNH|ids=⿺辶弟",
+    "also": "遞",
+    "zh_see": "遞"
+  },
+  "脑": {
+    "han_char": "rn=130|rad=肉|as=06|sn=10|four=|canj=BYUK|ids=⿰⺼㐫",
+    "also": "胸|腦|脳",
+    "zh_see": "腦"
+  },
+  "袋": {
+    "han_char": "rn=145|rad=衣|as=05|sn=11|four=23732|canj=OPYHV|ids=⿱代衣",
+    "also": "",
+    "zh_see": ""
+  },
+  "女": {
+    "han_char": "rn=38|rad=女|as=00|sn=3|four=40400|canj=V|ids=⿻𡿨丆(GJKV),⿻𡿨𠂇(HT)",
+    "also": "タ|ヌ|ㄆ|ㄡ|又|夂|夊|夕|支|攴|攵|文|歹|歺|𡚦|𠨰",
+    "zh_see": ""
+  },
+  "士": {
+    "han_char": "rn=33|rad=士|as=00|sn=3|four=40100|canj=JM|ids=⿱十一",
+    "also": "土|±",
+    "zh_see": "土"
+  },
+  "叙": {
+    "han_char": "rn=29|rad=又|as=07|sn=9|four=87940|canj=ODE|ids=⿰余又",
+    "also": "敘|敍",
+    "zh_see": "敘"
+  },
+  "述": {
+    "han_char": "rn=162|rad=辵|as=05|sn=9|snmj+=8|four=33309|canj=YID,YIJC|ids=⿺辶术(GV),⿺辶朮(HTJK)",
+    "also": "迷",
+    "zh_see": ""
+  },
+  "居": {
+    "han_char": "rn=44|rad=尸|as=05|sn=8|four=77264|canj=SJR|ids=⿸尸古",
+    "also": "",
+    "zh_see": ""
+  },
+  "然": {
+    "han_char": "rn=86|rad=火|as=08|sn=12|four=23333|canj=BKF|ids=⿱⿰𱼀犬灬",
+    "also": "",
+    "zh_see": ""
+  },
+  "催": {
+    "han_char": "rn=9|rad=人|as=11|sn=13|four=22214|canj=OUOG|ids=⿰亻崔",
+    "also": "",
+    "zh_see": ""
+  },
+  "等": {
+    "han_char": "rn=118|rad=竹|as=06|sn=12|four=88341|canj=HGDI|ids=⿱𥫗寺",
+    "also": "朩",
+    "zh_see": ""
+  },
+  "待": {
+    "han_char": "rn=60|rad=彳|as=06|sn=9|four=24241|canj=HOGDI|ids=⿰彳寺",
+    "also": "",
+    "zh_see": ""
+  },
+  "蚊": {
+    "han_char": "rn=142|rad=虫|as=04|sn=10|four=50140|canj=LIYK|ids=⿰虫文",
+    "also": "螡",
+    "zh_see": ""
+  },
+  "子": {
+    "han_char": "rn=39|rad=子|as=00|sn=3|four=17407|canj=ND|ids=⿻了一",
+    "also": "孑|孓|孒|了|千|干|于|구|𛂘|𛄢",
+    "zh_see": "茈#Etymology_5"
+  },
+  "半": {
+    "han_char": "rn=24|rad=十|as=03|sn=5|four=90500|canj=FQ|ids=⿻丷𰀁(GHTJ),⿻八𰀁(K)",
+    "also": "",
+    "zh_see": ""
+  },
+  "夜": {
+    "han_char": "rn=36|rad=夕|as=05|sn=8|four=00247|canj=YONK|ids=⿱亠⿰亻⿴夂丶",
+    "also": "亱",
+    "zh_see": ""
+  },
+  "叮": {
+    "han_char": "rn=30|rad=口|as=02|sn=5|four=61020|canj=RMN|ids=⿱口丁",
+    "also": "",
+    "zh_see": ""
+  },
+  "老": {
+    "han_char": "rn=125|rad=老|as=00|sn=6|four=44711|canj=JKP|ids=⿱耂匕",
+    "also": "耂",
+    "zh_see": ""
+  },
+  "婆": {
+    "han_char": "rn=38|rad=女|as=08|sn=11|four=34404|canj=EEV|ids=⿱波女",
+    "also": "",
+    "zh_see": ""
+  },
+  "项": {
+    "han_char": "rn=181|rad=页|as=03|sn=9|four=11182|canj=MMBO|ids=⿰工页",
+    "also": "項",
+    "zh_see": "項"
+  },
+  "患": {
+    "han_char": "rn=61|rad=心|as=07|sn=11|four=50336|canj=LLP|ids=⿱串心",
+    "also": "",
+    "zh_see": ""
+  },
+  "难": {
+    "han_char": "rn=172|rad=隹|as=02|sn=10|four=70415|canj=EOG|ids=⿰又隹",
+    "also": "難",
+    "zh_see": "難"
+  },
+  "与": {
+    "han_char": "rn=1|rad=一|as=02|ask+=03|sn=3|snk+=4|four=21407,21127|canj=YSM|ids=⿹⿺㇉一一(GHKTV),⿻⿺㇉一一(J)",
+    "also": "與",
+    "zh_see": "與"
+  },
+  "共": {
+    "han_char": "rn=12|rad=八|as=04|sn=6|four=44801|canj=TC|ids=⿱龷八",
+    "also": "舁<!--ancient-->",
+    "zh_see": ""
+  }
+}

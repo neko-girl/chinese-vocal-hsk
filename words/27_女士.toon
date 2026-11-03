@@ -1,0 +1,63 @@
+id: 27
+hanzi: 女士
+pinyin: nǚ shì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: lady; Madam; Ms.; gentlewoman
+  es: señora; señorita; dama; distinguida dama
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Formal | polite, respectful term of address or reference for an adult woman regardless of marital status | tratamiento cortés y respetuoso para una mujer adulta independiente de su estado civil | 女士们，先生们 (ladies and gentlemen)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在盛大的国际慈善晚宴开始前，主持人面带微笑走向舞台中央，礼貌地说道：“各位女士，各位先生，欢迎大家莅临。” | Zài shèngdà de guójì císhàn wǎnyàn kāishǐ qián, zhǔchírén miàn dài wēixiào zǒuxiàng wǔtái zhōngyāng, lǐmào de shuōdào: “Gèwèi nǚshì, gèwèi xiānsheng, huānyíng dàjiā lìlín.” | Before the grand international charity banquet commenced, the host walked to center stage with a smile and politely announced: 'Ladies and gentlemen, welcome.' | Antes de iniciar la gala benéfica internacional, el presentador se acercó al escenario con una sonrisa diciendo con cortesía: 'Damas y caballeros, bienvenidos a todos'.
+  #2 | 这位享有盛誉的杰出女科学家荣获国家最高科学技术奖，成为首位获此殊荣的当代女性学者，社会各界称赞她是科学界的卓越女士。 | Zhè wèi xiǎngyǒu shèngyù de jiéchū nǚ kēxuéjiā rónghuò guójiā zuìgāo kējì jiǎng, chéngwéi shǒuwèi huò cǐ shūróng de dāngdài nǚxìng xuézhě, shèhuì gèjiè chēngzàn tā shì kēxuéjiè de zhuóyuè nǚshì. | This renowned female scientist won the State Preeminent Science and Technology Award, hailed by society as an outstanding lady of the scientific community. | Esta destacada científica obtuvo el máximo galardón tecnológico nacional, siendo aclamada por la sociedad como una dama insigne de la comunidad científica.
+
+collocations[6]{hanzi,en}:
+  女士们先生们 | ladies and gentlemen
+  年轻女士 | young lady
+  女士优先 | ladies first
+  尊敬的女士 | distinguished / respected lady
+  职业女士 | career woman / professional lady
+  女士专区 | ladies' exclusive section
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  巾帼英雄 | jīn guó yīng xióng | heroine; female hero of great renown
+  温文尔雅 | wēn wén ěr yǎ | gentle, cultivated, and refined in manner
+  贤妻良母 | xián qī liáng mǔ | a good wife and loving mother; model matriarch
+  大家闺秀 | dà jiā guī xiù | lady of noble birth; well-bred daughter of an eminent family
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  女 | nǚ | woman; female; daughter | mujer; femenino; hija | 女 | woman | 女 (pictogram of kneeling graceful woman) | 女 (inherent female phoneme) | 3 | 单一结构 | Oracle bone pictogram of a woman kneeling demurely with arms crossed over her lap in ancient decorum. | A graceful figure (女) kneels serenely with crossed sleeves, embodying feminine grace. | Una figura esbelta (女) se arrodilla con serenidad y brazos cruzados, personificando la elegancia femenina. | 214 | V | ""
+  士 | shì | scholar; gentleman; warrior; cultivated person | erudito; caballero; letrado; persona culta | 士 | scholar / warrior | 十 (ten/beginning) + 一 (one/completion) | 士 (inherent scholar sound) | 3 | 单一结构 | Depicts one who knows matters from one to ten (一至十), designating an educated gentleman or scholar-warrior. | A scholar stands tall with shoulders broader than the base (士), mastering knowledge. | Un letrado erguido con hombros anchos (士) domina el saber desde el inicio al fin. | 51 | J | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A woman (女) endowed with the honor and wisdom of a scholar (士) is addressed as an esteemed lady (女士).
+  composite_memory_hook_es: Una mujer (女) investida con la distinción y cultura de un letrado (士) recibe el honroso título de dama (女士).
+  cultural_and_cognitive_roots: Historically, 'shì' designated the educated gentry class. In modern Chinese diplomacy and civil society, pairing 'nǚ' with 'shì' elevated female address to universal parity with 'xiānsheng' (先生), honoring female dignity without marital distinction.
+  tone_sandhi_and_pitch_modulation: 214-51 contour. The dipping 3rd tone of nǚ is pronounced as a half-3rd tone (21 low) before the crisp falling 4th tone of shì (51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    土 | tǔ | soil; earth | Bottom horizontal stroke is longer than the top stroke, whereas in 士 top stroke is longer
+    干 | gān | do; dry | Top stroke is horizontal and vertical stroke extends through top
+    子 | zǐ | child | Has a curved hook and horizontal stroke; distinct from 女
+    刃 | rèn | blade edge | Different structure entirely
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    妇 | fù | married woman; matron
+    娘 | niáng | mother; young woman
+    贤 | xián | virtuous; worthy person
+    儒 | rú | Confucian scholar
+
+semantic_boundary_contrasts:
+  core_nuance: 女士 is a neutral, polite, and respectful formal address for an adult woman regardless of marital status.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 女士 vs. 夫人 | fūrén | 夫人 is a high-register diplomatic or ceremonial term specifically indicating someone's wife (Madam/First Lady), whereas 女士 applies generally to any woman.
+    2 | 女士 vs. 小姐 | xiǎojiě | 小姐 traditionally means Miss/unmarried woman, but can carry ambiguous or service-industry connotations in certain mainland contexts; 女士 is universally safe and respectful.
+    3 | 女士 vs. 太太 | tàitai | 太太 is a colloquial or domestic term referring specifically to a married woman/wife, whereas 女士 ignores marital status entirely.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 她是一位优雅而从容的女士，无论岁月如何在眼角留下细纹，她的眼神始终澄澈而坚定。她用温和的言语化解生活中的龃龉，用坚韧的脊梁扛起家庭的担当。这种由内而外散发的从容风度，正是当代女性最动人的风采。 | Tā shì yí wèi yōuyǎ ér cóngróng de nǚshì, wúlùn suìyuè rúhé zài yǎnjiǎo liúxià xìwén, tā de yǎnshén shǐzhōng chéngchè ér jiāndìng. Tā yòng wēnhé de yányǔ huàjiě shēnghuó zhōng de jǔyǔ, yòng jiānrèn de jǐliáng kángqǐ jiātíng de dāndāng. Zhè zhǒng yóunèijíwài sànfā de cóngróng fēngdù, zhèng shì dāngdài nǚxìng zuì dòngrén de fēngcǎi. | She was an elegant and serene lady; no matter the fine lines carved by time, her gaze remained limpid and firm. She dissolved disputes with gentle words and carried family duties with resilience, radiating true modern feminine grace. | Era una dama elegante y serena; por más huellas que dejaran los años, su mirada permanecía diáfana y firme. Suavizaba desavenencias con palabras amables y sostenía al hogar con firmeza, personificando la templanza contemporánea.
+  #2 | 在联合国妇女署推动的可持续发展论坛上，多位杰出女性领袖就提高女性科技工作者话语权发表专题演讲。代表们指出，为女性科研人员消除职业晋升隐形壁垒，助力每一位卓越女士施展才华，是推动全球科技公平创新的重要基石。 | Zài Liánhéguó Fùnǚshǔ tuīdòng de kěchíxù fāzhǎn lùntán shàng, duō wèi jiéchū nǚxìng lǐngxiù jiù tígāo nǚxìng kējì gōngzuòzhě huàyǔquán fābiǎo zhuāntí yǎnjiǎng. Dàibiǎo men zhǐchū, wèi nǚxìng kēyán rényuán xiāochú zhíyè jìnshēng yǐnxíng bìlěi, zhùlì měi yí wèi zhuóyuè nǚshì shīzhǎn cáihuá, shì tuīdòng quánqiú kējì gōngpíng chuàngxīn de zhòngyào jīshí. | At the UN Women forum, female leaders delivered speeches on elevating female scientists' voice. Delegates stressed that dismantling career barriers and empowering ladies to display their talents constitute a cornerstone for equitable global innovation. | En el foro de ONU Mujeres, varias líderes intervinieron para fortalecer la voz de las científicas. Señalaron que derribar techos de cristal y apoyar el talento de cada dama investigadora es indispensable para la innovación equitativa global.

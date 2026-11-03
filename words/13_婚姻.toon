@@ -1,0 +1,63 @@
+id: 13
+hanzi: 婚姻
+pinyin: hūn yīn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: marriage; matrimony; marital relationship
+  es: matrimonio; unión conyugal; nupcias
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the legally or socially recognized union of two people as partners in a personal relationship | unión legal y socialmente reconocida de dos personas como pareja conyugal | 婚姻幸福 (happy marriage)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在长达数十年的婚姻旅程中，相互信任与包容是化解生活琐事争执、保持感情历久弥新的坚实基石。 | Zài chángdá shù shí nián de hūnyīn lǚchéng zhōng, xiānghù xìnrèn yǔ bāoróng shì huàjiě shēnghuó suǒshì zhēngzhí, bǎochí gǎnqíng lìjiǔmíxīn de jiānshí jīshí. | Across a decades-long marital journey, mutual trust and tolerance are the solid cornerstone resolving daily domestic squabbles and keeping affection fresh. | A lo largo de décadas de matrimonio, la confianza y la tolerancia mutuas son la piedra angular para resolver roces diarios y mantener vivo el amor.
+  #2 | 社会学学者通过跟踪调查指出，当代青年群体对婚姻制度的认知正从功能性结盟转向精神契合度优先。 | Shèhuìxué xuézhě tōngguò gēnzōng diàochá zhǐchū, dāngdài qīngnián qúntǐ duì hūnyīn zhìdù de rènzhī zhèng cóng gōngnéngxìng jiéméng zhuǎnxiàng jīngshén qìhédù yōuxiān. | Sociologists point out via longitudinal surveys that modern youth's perception of marriage is shifting from functional alliance toward spiritual compatibility. | A través de estudios sociológicos, se observa que los jóvenes conciben el matrimonio no como una alianza utilitaria, sino como una afinidad espiritual prioritaria.
+
+collocations[6]{hanzi,en}:
+  婚姻家庭 | marriage and family
+  美满婚姻 | happy / blessed marriage
+  婚姻法 | marriage law
+  走进婚姻 | enter into marriage
+  婚姻危机 | marital crisis
+  包办婚姻 | arranged marriage
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  男婚女嫁 | nán hūn nǚ jià | men and women marrying; getting married as a normal part of life
+  千里姻缘 | qiān lǐ yīn yuán | romantic affinity bringing people together from a thousand miles apart
+  秦晋之好 | qín jìn zhī hǎo | match between two families; firm matrimonial alliance
+  结为连理 | jié wéi lián lǐ | join together as intertwining branches; tie the knot
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  婚 | hūn | marry; wedding; bridegroom taking bride | casarse; matrimonio; desposar | 女 | woman | 女 (woman / bride) | 昏 (hūn, dusk/evening wedding rites) | 11 | 左右结构 | Depicts taking a woman (女) as wife at dusk (昏), the auspicious time for ancient matrimonial rituals. | At twilight dusk (昏), the carriage arrives to welcome the bride (女) into her new home. | Al caer el crepúsculo (昏), el carruaje llega para recibir a la novia (女) en su nuevo hogar. | 55 | VHPA | ""
+  姻 | yīn | marriage affinity; in-law relationship | afinidad matrimonial; lazo por matrimonio | 女 | woman | 女 (woman, forming kinship ties) | 因 (yīn, origin/basis) | 9 | 左右结构 | Phono-semantic character pairing woman (女) with cause/foundation (因), denoting family ties forged through marriage. | A woman (女) becomes the source and reason (因) uniting two completely separate families. | Una mujer (女) se convierte en el motivo y la causa (因) que entrelaza a dos familias. | 55 | VWK | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Taking a bride at twilight dusk (婚) establishes the lifelong family affinity (姻) of sacred marriage.
+  composite_memory_hook_es: Celebrar las nupcias al crepúsculo (婚) crea el lazo de afinidad eterna (姻) en el matrimonio.
+  cultural_and_cognitive_roots: Both characters bear the woman radical (女); ancient Chinese matrimony merged the bridegroom's home welcoming at dusk ('hūn') with the alliance between two lineages ('yīn'). Thus, 婚姻 represents both emotional bonding and institutional kinship.
+  tone_sandhi_and_pitch_modulation: 55-55 pitch contour. Both syllables are high level 1st tones (55); maintain an even, sustained pitch without dragging.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    昏 | hūn | dusk; faint | Lacks the left woman radical 女
+    荤 | hūn | meat; pungent food | Features grass radical 艹 on top of 军
+    咽 | yān / yàn | throat; swallow | Has mouth radical 口 on the left instead of 女
+    烟 | yān | smoke; cigarette | Has fire radical 火 on the left instead of 女
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    嫁 | jià | marry off a daughter
+    娶 | qǔ | marry a woman as wife
+    妻 | qī | wife in the 女 radical network
+    妇 | fù | married woman; matron
+
+semantic_boundary_contrasts:
+  core_nuance: 婚姻 specifically designates the formal institution, legal contract, and marital status of being husband and wife.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 婚姻 vs. 婚礼 | hūnlǐ | 婚礼 is the one-time ceremonial wedding celebration or nuptial service, whereas 婚姻 refers to the ongoing institution, contract, and relationship.
+    2 | 婚姻 vs. 感情 | gǎnqíng | 感情 refers to subjective emotional feelings or affection between any persons, whereas 婚姻 is a socially ratified and legalized status.
+    3 | 婚姻 vs. 恋爱 | liàn'ài | 恋爱 denotes romantic courtship and dating before or without marriage, whereas 婚姻 entails civil rights and legal obligations.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 美满的婚姻绝非一劳永逸的誓言，而是两个人共同构筑的避风港。当最初的激情随岁月沉淀，唯有彼此的真诚与体谅，才能在日复一日的平淡琐碎中抵御风雨，让婚姻成为灵魂深处最温暖的依靠。 | Měimǎn de hūnyīn jué fēi yíláoyǒngyì de shìyán, érshì liǎng gè rén gòngtóng gòuzhù de bìfēnggǎng. Dāng zuìchū de jīqíng suí suìyuè chéndiàn, wéiyǒu bǐcǐ de zhēnchéng yǔ tǐliàng, cáinǐng zài rìfùyírì de píngdàn suǒsuì zhōng dǐyù fēngyǔ, ràng hūnyīn chéngwéi línghún shēnchù zuì wēnnuǎn de yīkào. | A fulfilling marriage is no one-and-done vow, but a shared haven built by two people. When initial passion settles with years, only sincerity and mutual understanding weather life's storms, making marriage the warmest anchor of the soul. | Un matrimonio pleno no es un juramento estático, sino un refugio edificado entre dos. Cuando la pasión juvenil madura con los años, solo la sinceridad y la comprensión mutua resisten las tormentas, convirtiendo la unión en el ancla más cálida del alma.
+  #2 | 从法理学视角审视，现代婚姻制度兼具人身伦理属性与重大财产法效力。民法典婚姻家庭编通过完善婚前财产登记与夫妻共同债务认定标准，为保护弱势配偶权益与维护交易安全提供了坚实的制度保障。 | Cóng fǎlǐxué shìjiǎo shěnshì, xiàndài hūnyīn zhìdù jiānjù rénshēn lúnlǐ shǔxìng yǔ zhòngdà cáichǎnfǎ xiàolì. Mínfǎdiǎn hūnyīn jiātíng biān tōngguò wánshàn hūnqián cáichǎn dēngjì yǔ fūqī gòngtóng zhàiwù rèndìng biāozhǔn, wèi bǎohù ruòshì pèi'ǒu quányì yǔ wéihù jiāoyì ānquán tígōng le jiānshí de zhìdù bǎozhàng. | From a legal perspective, modern marriage embodies ethical personal relations and significant property rights. The Civil Code protects vulnerable spouses and preserves transaction security through refined premarital asset registration and joint debt standards. | Desde la jurisprudencia, el matrimonio moderno conjuga lazos éticos personales con efectos patrimoniales. El Código Civil protege a los cónyuges vulnerables y garantiza la seguridad jurídica regulando el patrimonio prematrimonial y las deudas comunes.

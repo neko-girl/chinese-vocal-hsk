@@ -1,0 +1,64 @@
+id: 18
+hanzi: 不耐烦
+pinyin: bù nài fán
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: impatient; irritated; restless
+  es: impaciente; fastidiado; mosqueado; sin paciencia
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | impatient, annoyed, or irritated by delay, monotony, or tediousness | que muestra impaciencia, fastidio o molestia ante retrasos o repeticiones | 脸上露出不耐烦的神情 (wear an impatient expression)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在拥挤闷热的火车站候车大厅里等待了四个小时后，排队的乘客们逐渐变得焦躁不安且很不耐烦。 | Zài yōngjǐ mēnrè de huǒchēzhàn hòuchē dàtīng lǐ děngdài le sì gè xiǎoshí hòu, páiduì de chéngkè men zhújiàn biànde jiāozào bù'ān qiě hěn bùnàifán. | After waiting four hours in the crowded, sweltering railway station waiting hall, the queuing passengers gradually grew restless and very impatient. | Tras esperar cuatro horas en la abarrotada sala de la estación bajo un calor sofocante, los viajeros en fila empezaron a impacientarse y fastidiarse.
+  #2 | 无论客户提出多么琐碎苛刻的要求，优秀的客服经理始终保持微笑与倾听，绝不在言语间流露出丝毫不耐烦。 | Wúlùn kèhù tíchū duōme suǒsuì kèkè de yāoqiú, yōuxiù de kèfú jīnglǐ shǐzhōng bǎochí wēixiào yǔ qīngtīng, jué bú zài yányǔ jiān liúlù chū sīháo bùnàifán. | No matter how trivial or demanding the client's requests were, the stellar customer service manager always maintained a smile and never betrayed the slightest impatience. | Sin importar cuán minuciosas fueran las exigencias del cliente, el gestor de atención conservó la sonrisa y la escucha sin mostrar el menor asomo de fastidio.
+
+collocations[6]{hanzi,en}:
+  显得不耐烦 | appear impatient
+  不耐烦的神情 | impatient expression
+  极为不耐烦 | extremely impatient
+  开始不耐烦 | start becoming impatient
+  挥手表示不耐烦 | wave hands impatiently
+  不耐烦地打断 | interrupt impatiently
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  心急如焚 | xīn jí rú fén | heart burning with anxiety; extremely anxious and impatient
+  急不可待 | jí bù kě dài | too impatient to wait; unable to hold back
+  焦躁不安 | jiāo zào bù'ān | fretful and fidgety; agitated with impatience
+  百折不挠 | bǎi zhé bù náo | indomitable; unyielding patience in face of hundreds of setbacks
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  不 | bù | not; no; negative prefix | no; prefijo negativo | 一 | one | 一 (sky ceiling/barrier) | 不 (inherent negation sound) | 4 | 单一结构 | Anciently depicted a bird flying up to the heavens but unable to ascend further (negation). | A bird attempts to fly upward but hits an immovable ceiling line (一), indicating 'not'. | Un ave intenta volar alto pero topa contra una línea barrera (一), señalando la negación 'no'. | 51 | MF | ""
+  耐 | nài | endure; bear; withstand; patient | soportar; aguantar; tolerar; resistir | 而 | and / facial whiskers | 而 (whiskers/beard) | 寸 (inch/law penalty of shaving whiskers) | 9 | 左右结构 | Originally an ancient judicial punishment (寸) of shaving facial whiskers (而); one who endured the disgrace displayed patience. | Shaving whiskers (而) with an inch blade (寸) tests a man's endurance and patience. | Afeitar la barba (而) con una pequeña cuchilla (寸) pone a prueba la paciencia y aguante del hombre. | 51 | MBDI | ""
+  烦 | fán | troubled; vexed; irritated; bother | molesto; fastidiado; agobiado; preocupado | 火 | fire | 火 (fire burning inside) | 页 (head/feverish temples) | 10 | 左右结构 | Phono-semantic character pairing fire (火) with head (页), denoting a feverish headache from agitation. | Flames of fire (火) flare in the mind and head (页), causing intense vexation. | Llamas de fuego (火) arden en la cabeza (页), provocando fastidio e irritación profunda. | 35 | FMBO | 煩
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Incapable of (不) enduring (耐) the burning mental heat of vexation (烦) produces blatant impatience.
+  composite_memory_hook_es: Ser incapaz de (不) aguantar (耐) el fuego molesto en la cabeza (烦) se traduce en impaciencia manifiesta.
+  cultural_and_cognitive_roots: Traditional Chinese medicine links 'fán' to internal heat in the heart and liver scorching the mind; 'bùnài' means inability to absorb this friction, leading to visible annoyance.
+  tone_sandhi_and_pitch_modulation: Tone sandhi applies to 不: preceding the 4th tone nài (51), 不 changes from 4th tone (51) to 2nd tone (35): pronounced bú nài fán (35-51-35).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    项 | xiàng | item; neck | Features 工 on the left of 页 instead of 火
+    顺 | shùn | smooth; along | Features 川 on the left of 页 instead of 火
+    耍 | shuǎ | play; fool | Features 而 over 女 rather than beside 寸
+    寸 | cùn | inch | Only the right component of 耐
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    忍 | rěn | endure; blade over heart
+    燥 | zào | restless; irritable fire radical
+    恼 | nǎo | angry; annoyed heart radical
+    急 | jí | urgent; anxious
+
+semantic_boundary_contrasts:
+  core_nuance: 不耐烦 expresses visible irritation, restlessness, and annoyance caused by waiting or dealing with tedious matters.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 不耐烦 vs. 着急 | zháojí | 着急 reflects intense worry or eagerness due to running out of time, whereas 不耐烦 expresses annoyance, grumpy irritation, or disgust with delay.
+    2 | 不耐烦 vs. 讨厌 | tǎoyàn | 讨厌 means to dislike, loathe, or find someone repulsive, whereas 不耐烦 is a temporary emotional state of exasperation and short temper.
+    3 | 不耐烦 vs. 厌烦 | yànfán | 厌烦 denotes being deeply sick and tired of long-term repetition or monotony, whereas 不耐烦 is an immediate behavioral reaction to frustration.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 快节奏的现代生活催生了太多的浮躁，人们在红灯前频繁按喇叭，在网页加载时露出不耐烦的神色。然而，生命中最珍贵的东西往往需要时间慢慢发酵。学会放下不耐烦，耐住性子等待，才能看清生命本来的从容美感。 | Kuài jièzòu de xiàndài shēnghuó cuīshēng le tài duō de fúzào, rénmen zài hóngdēng qián pínfán àn lǎba, zài wǎngyè jiāzài shí lùchū bùnàifán de shénsè. Rán'ér, shēngmìng zhōng zuì zhēnguì de dōngxi wǎngwǎng xūyào shíjiān mànman fājiào. Xuéhuì fàngxià bùnàifán, nàizhù xìngzi děngdài, cáinǐng kànqīng shēngmìng běnlái de cóngróng měigǎn. | Fast-paced living breeds impetuousness: people honk at red lights and wear impatient looks when webpages load. Yet life's treasures require patient fermentation. Releasing impatience and waiting steadily reveals life's tranquil beauty. | El ritmo frenético engendra impaciencia: la gente toca el claxon en los semáforos y muestra fastidio si una página tarda en cargar. Sin embargo, lo más valioso requiere madurar con calma. Desprenderse de la impaciencia rescata la serenidad de la vida.
+  #2 | 在复杂精密的科研实验与工程调试过程中，任何急躁与不耐烦都可能导致前功尽弃。面对海量数据的异常波动与反复失败，顶尖科学家之所以能取得突破，往往正是凭借着把枯燥实验重复千百次而不显丝毫浮躁的超常耐心。 | Zài fùzá jīngmì de kēyán shíyàn yǔ gōngchéng tiáoshì guòchéng zhōng, rènhé jízào yǔ bùnàifán dōu kěnéng dǎozhì qiángōngjìnqì. Miànduì hǎiliàng shùjù de yìcháng bōdòng yǔ fǎnfù shībài, dǐngjiān kēxuéjiā zhī suǒyǐ néng qǔdé tūpò, wǎngwǎng zhèng shì píngjiè zhe bǎ kūzào shíyàn chóngfù qiānbǎi cì ér bù xiǎn sīháo fúzào de chāocháng nàixīn. | In precision scientific experiments and engineering debugging, any haste and impatience can ruin all prior gains. Facing anomalous data and repeated setbacks, top scientists achieve breakthroughs through extraordinary patience, repeating tests thousands of times without haste. | En la investigación científica y calibración técnica, cualquier impaciencia arruina el trabajo previo. Ante fallos y fluctuaciones de datos, los grandes científicos logran descubrimientos gracias a una paciencia tenaz que repite experimentos mil veces sin decaer.

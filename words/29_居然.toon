@@ -1,0 +1,63 @@
+id: 29
+hanzi: 居然
+pinyin: jū rán
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: unexpectedly; to one's surprise; actually; go so far as to
+  es: inesperadamente; para sorpresa de uno; sorprendentemente; llegar al colmo de
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | expressing that something happened contrary to expectation, surprising the speaker | expresa que un hecho ocurre en contra de lo esperado causando asombro | 他居然考了第一名 (to everyone's surprise, he actually came in first)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 原本天气预报说今天全天都有大暴雨，没想到午后居然放晴了，天边甚至挂起了一道绚丽的彩虹。 | Yuánběn tiānqì yùbào shuō jīntiān quántiān dōu yǒu dà bàoyǔ, méi xiǎngdào wǔhòu jūrán fàngqíng le, tiānbiān shènzhì guàqǐ le yí dào xuànlì de cǎihóng. | The weather forecast had predicted heavy torrential downpours all day, but to our surprise it actually cleared up in the afternoon, with a gorgeous rainbow appearing. | El pronóstico del tiempo anunciaba tormentas todo el día, pero para sorpresa de todos, por la tarde escampó e incluso apareció un hermoso arcoíris.
+  #2 | 在完全没有外部战略投资扶持的艰难处境下，这家初创人工智能企业居然在短短两年内实现了关键芯片算法的量产突破。 | Zài wánquán méiyǒu wàibù zhànlüè tóuzī fúchí de jiānnán chǔjìng xià, zhè jiā chūchuàng réngōng zhìnéng qǐyè jūrán zài duǎnduǎn liǎng nián nèi shíxiàn le guānjiàn xīnpiàn suànfǎ de liàngchǎn tūpò. | In the arduous situation of lacking external venture capital, this AI startup unexpectedly achieved mass-production breakthroughs in key algorithms within two years. | En medio de una difícil situación sin inversión externa, esta empresa emergente de inteligencia artificial logró sorprendentemente avances clave de producción en dos años.
+
+collocations[6]{hanzi,en}:
+  居然是他 | unexpectedly, it was him
+  居然做到了 | actually managed to achieve it
+  没想到居然 | never expected that unexpectedly...
+  居然会发生 | could actually happen against all odds
+  居然敢 | actually have the nerve to
+  居然不知道 | actually did not even know
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  意料之外 | yì liào zhī wài | beyond all expectations; completely surprising
+  出人意料 | chū rén yì liào | exceeding people's expectations; surprise everyone
+  安居乐业 | ān jū lè yè | live in peace and work happily
+  理所当然 | lǐ suǒ dāng rán | take it as natural; matters following natural logic
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  居 | jū | dwell; reside; occupy; sit still | residir; habitar; ocupar; estar sentado | 尸 | corpse / body posture | 尸 (seated body posture) | 古 (gǔ, old/stable phonetics) | 8 | 半包围结构 | Depicts a person resting in a settled seated position (尸) in an ancient dwelling (古), conveying resting firmly. | A person rests settled inside a sheltered shelter (尸) atop ancient foundations (古). | Una persona reposa instalada bajo techo (尸) sobre cimientos ancestrales (古). | 55 | SJLR | ""
+  然 | rán | so; like this; suffix forming adverbs | así; de este modo; sufijo adverbial | 灬 | fire | 灬 (fire flames burning) | 肰 (rán, dog meat roasted) | 12 | 上下结构 | Originally depicted roasting meat over fire (灬), borrowed phonetically as an adverbial suffix meaning 'in such a manner'. | Flames of fire (灬) blaze brightly, demonstrating things happening visibly in this manner (然). | Llamas de fuego (灬) arden vivas, mostrando con claridad que las cosas ocurren de este modo (然). | 35 | BKF | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Something quietly sitting in the background (居) turns out in this unexpected state (然) to everyone's amazement.
+  composite_memory_hook_es: Algo que permanecía en reposo aparente (居) se revela de este modo asombroso (然) para sorpresa de todos.
+  cultural_and_cognitive_roots: Originally conveyed 'sitting calmly in such a state' in classical prose; evolved by contrastive pragmatics to describe startling events where reality defies subjective expectation.
+  tone_sandhi_and_pitch_modulation: 55-35 pitch contour. A high flat 1st tone (55) on jū steps cleanly down then rises smoothly with rán (35).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    据 | jù | according to; basis | Has hand radical 扌 on the left instead of 居 alone
+    剧 | jù | drama; fierce | Features knife radical 刂 on the right of 居
+    燃 | rán | burn; ignite | Has additional fire radical 火 on the left side of 然
+    烈 | liè | intense; fiery | Features 列 above 灬 instead of 肰
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    竟 | jìng | unexpectedly; in the end
+    竟 | jìng | synonym root marker
+    俄 | é | suddenly; unexpectedly
+    忽 | hū | suddenly; abruptly
+
+semantic_boundary_contrasts:
+  core_nuance: 居然 emphasizes that an event occurred completely contrary to reasonable expectation, carrying surprise, marvel, or disbelief.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 居然 vs. 竟然 | jìngrán | Both indicate surprise, but 竟然 often carries stronger emotional tone (often indignation or severe shock), whereas 居然 can convey delightful pleasant surprise or neutral amazement.
+    2 | 居然 vs. 果然 | guǒrán | 居然 is contrary to expectations (unexpected surprise), whereas 果然 indicates that reality exactly matches prior predictions (as expected).
+    3 | 居然 vs. 突然 | tūrán | 突然 describes rapid, unexpected temporal onset ('suddenly'), whereas 居然 highlights cognitive contrast with psychological expectations.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 命运常常在不经意间峰回路转。在经历了无数次被拒之门外的沮丧后，青年在几乎放弃希望的清晨，居然收到了国际顶尖学府全额奖学金的录取通知书。那一刻，曾经流过的所有泪水，都化作了不可思议的奇迹。 | Mìngyùn chángcháng zài bùjīngyì jiān fēnghuílùzhuǎn. Zài jīnglì le wúshù cì bèi jù zhī ménwài de jǔsàng hòu, qīngnián zài jīhū fàngqì xīwàng de qīngchén, jūrán shōudào le guójì dǐngjiān xuéfǔ quán'é jiǎngxuéjīn de lùqǔ tōngzhīshū. Nà yí kè, céngjīng liúguò de suǒyǒu lèishuǐ, dōu huàzuò le bùkěsīyì de qíjì. | Fate often takes unexpected turns when least anticipated. After experiencing endless rejections, on a morning when he nearly surrendered hope, the youth unexpectedly received a full-scholarship admission letter, turning tears into miracles. | El destino suele dar giros asombrosos en los momentos menos previstos. Tras innumerables rechazos, cuando casi se daba por vencido, el joven recibió para su sorpresa una carta de admisión con beca completa, trocando lágrimas en un milagro.
+  #2 | 在极度干旱贫瘠的戈壁深处，生态科考队员居然发现了一片生机勃勃的珍稀濒危灌木群落。依托深层地下水脉的微循环补给，这片绿洲在极端气候中顽强存续了数百年，为全球荒漠化治理研究提供了不可多得的生态样本。 | Zài jídù gānhàn pínjí de gēbì shēnchù, shēngtài kěkǎo duìyuán jūrán fāxiàn le yí piàn shēngjībóbó de zhēnxī bīnwēi guānmù qúnluò. Yītuō shēncéng dìxiàshuǐ mài de wēi xúnhuán bǔjǐ, zhè piàn lǜzhōu zài jíduān qìhòu zhōng wánqiáng cúnxù le shù bǎi nián, wèi quánqiú huāngmòhuà zhìlǐ yánjiū tígōng le bùkěduōdé de shēngtài yàngběn. | Deep in the arid Gobi, ecological researchers surprisingly discovered a thriving community of endangered shrubs. Sustained by deep aquifer micro-cycles, this oasis endured extreme climate for centuries, offering an invaluable sample for desertification studies. | En las profundidades del desierto árido, los ecólogos descubrieron sorprendentemente una comunidad viva de arbustos en peligro de extinción. Nutridos por corrientes subterráneas, este oasis pervivió siglos aportando un modelo clave contra la desertificación.

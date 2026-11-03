@@ -1,0 +1,62 @@
+id: 22
+hanzi: 伸
+pinyin: shēn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to stretch; to extend; to reach out; to unfold
+  es: estirar; extender; alargar; tender
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to stretch or extend limbs, body parts, or objects outward from a bent state | extender o alargar extremidades o partes del cuerpo desplegándolas | 伸手求助 (reach out a hand for help)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨推开阳台的落地窗，迎着初升的朝阳，他惬意地伸了一个大大的懒腰，顿觉浑身精力充沛。 | Qīngchén tuīkāi yángtái de luòdìchuāng, yíng zhe chūshēng de zhāoyáng, tā qièyì de shēn le yí gè dàdà de lǎnyāo, dùnjué húnshēn jīnglì chōngpèi. | Pushing open the French windows in the early morning toward the rising sun, he pleasantly stretched his body, feeling fully invigorated. | Al abrir las ventanas del balcón al alba hacia el sol naciente, se estiró perezosamente con deleite, sintiéndose lleno de renovada energía.
+  #2 | 在发生重大地震灾害的第一时间，邻近省份的应急救援力量迅速向灾区伸出援手，紧急调拨大型搜救装备。 | Zài fāshēng zhòngdà dìzhèn zāihài de dì-yī shíjiān, línjìn shěngfèn de yìngjí jiùyuán lìliàng xùnsù xiàng zāiqū shēnchū yuánshǒu, jǐnjí diàobō dàxíng sōujiù zhuāngbèi. | Immediately after the major earthquake struck, emergency rescue forces from neighboring provinces swiftly extended a helping hand to the disaster area, mobilizing heavy equipment. | Tras el fuerte terremoto, las brigadas de auxilio de las provincias vecinas extendieron una mano solidaria a la zona afectada, enviando equipos de rescate pesado.
+
+collocations[6]{hanzi,en}:
+  伸手 | reach out a hand
+  伸懒腰 | stretch oneself lazily
+  伸出援手 | extend a helping hand
+  伸腿 | stretch one's legs
+  伸展肢体 | stretch and flex limbs
+  向外延伸 | extend outward
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  能屈能伸 | néng qū néng shēn | able to bend and stretch; adaptable to circumstances
+  缩手缩脚 | suō shǒu suō jiǎo | cautious and hesitating; shrinking back hands and feet
+  引颈受戮 | yǐn jǐng shòu lù | stretch out one's neck for the sword; submit meekly to slaughter
+  大显身手 | dà xiǎn shēn shǒu | fully display one's prowess and skills
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  伸 | shēn | stretch; extend; reach out; expand | estirar; extender; prolongar; desplegar | 亻 | person | 亻 (person flexing limbs) | 申 (shēn, lightning/straight line extending) | 7 | 左右结构 | Phono-semantic character combining person (亻) with lightning bolt piercing straight through (申), conveying extending the body straight. | A person (亻) straightens their arms and spine in a straight vertical line (申) like lightning. | Una persona (亻) estira sus brazos y columna en una línea recta (申) igual que un rayo. | 55 | OLWL | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A person (亻) standing upright straightens and extends outward (申) like a stretching gymnast.
+  composite_memory_hook_es: Una persona (亻) de pie se estira y alarga en línea recta (申) desplegando sus brazos.
+  cultural_and_cognitive_roots: Philosophically linked to the ancient concept of 'qū shēn' (bending and extending, 屈伸) in the Book of Changes (易经): life alternates between contracting for defense and extending for progress.
+  tone_sandhi_and_pitch_modulation: 55 pitch contour. A steady, clean high level 1st tone (55) that conveys open elongation.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    神 | shén | spirit; god | Features altar radical 礻 on the left instead of person 亻
+    审 | shěn | judge; examine | Features roof radical 宀 on top of 申
+    坤 | kūn | earth; female principle | Has earth radical 土 on the left with 申
+    绅 | shēn | gentry | Has silk radical 纟 on the left with 申
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    申 | shēn | extend; express; root morpheme
+    展 | zhǎn | unfold; spread open
+    延 | yán | extend; prolong
+    长 | cháng | long; length
+
+semantic_boundary_contrasts:
+  core_nuance: 伸 emphasizes extending bodily limbs or physical flexible objects outward from a folded or curled posture.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 伸 vs. 展 | zhǎn | 展 focuses on unfolding flat surfaces (e.g., flags, wings, drawings), whereas 伸 focuses on reaching or stretching out linear limbs (e.g., 手, 腿).
+    2 | 伸 vs. 延 | yán | 延 refers to temporal extensions of deadlines or abstract spatial routes (e.g., 延长, 延伸), while 伸 denotes physical bodily movements.
+    3 | 伸 vs. 缩 | suō | 缩 is the exact antonym of 伸, meaning to contract, shrink, or recoil inward.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 寒冬悄然褪去，春回大地，沉睡的柳枝在细雨中缓缓伸出了鹅黄色的嫩芽。生命的美好正在于这种向阳而生的力量，无论曾经经历怎样的霜冻，只要春风吹拂，便能重新伸展身姿，拥抱明媚的人间。 | Hándōng qiǎorán tuìqù, chūn huí dàdì, chénshuì de liǔzhī zài xìyǔ zhōng huǎnhuǎn shēnchū le éhuángsè de nènyá. Shēngmìng de měihǎo zhèng zài yú zhè zhǒng xiàngyáng'érshēng de lìliàng, wúlùn céngjīng jīnglì zěnyàng de shuāngdòng, zhǐyào chūnfēng chuīfú, biàn néng chóngxīn shēnzhǎn shēnzī, yōngbào míngmèi de rénjiān. | Winter quietly retreats and spring returns as slumbering willow branches stretch yellow buds in the rain. Life's grace lies in this solar power: no matter the frost endured, once spring breezes blow, it stretches anew to embrace sunshine. | El crudo invierno se retira y las ramas del sauce dormido extienden tiernos brotes amarillos bajo la llovizna. La belleza vital reside en crecer hacia la luz: tras las heladas, la brisa primaveral permite desplegarse y abrazar la vida.
+  #2 | 在现代机械工程与智能机器人研发领域，仿生机械臂的伸缩关节设计是实现高精度微创手术的核心技术。研发人员通过模拟人体肌肉纤维的伸缩力学特性，使机械手术爪在狭窄空间内兼具柔顺伸展与精微作业能力。 | Zài xiàndài jīxiè gōngchéng yǔ zhìnéng jīqìrén yánfā lǐngyù, fǎngshēng jīxièbì de shēnsuō guānjié shèjì shì shíxiàn gāojīngdù wēichuàng shǒushù de héxīn jìshù. Yánfā rényuán tōngguò mónǐ réntǐ jīròu xiānwéi de shēnsuō lìxué tèxìng, shǐ jīxiè shǒushùzhuǎ zài xiázhǎi kōngjiān nèi jiānjù róushùn shēnzhǎn yǔ jīngwēi zuòyè nénglì. | In robotics, telescopic joint design for bionic robotic arms is core to minimally invasive surgery. By simulating human muscle fiber mechanics, surgical claws achieve supple extension and micrometric dexterity in tight spaces. | En la robótica biomédica, el diseño de articulaciones extensibles para brazos biónicos es clave en cirugía mínimamente invasiva. Al imitar las fibras musculares humanas, las pinzas quirúrgicas logran extenderse con precisión en cavidades reducidas.

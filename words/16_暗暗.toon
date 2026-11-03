@@ -1,0 +1,62 @@
+id: 16
+hanzi: 暗暗
+pinyin: àn àn
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: secretly; inwardly; quietly to oneself
+  es: en secreto; para sus adentros; secretamente; interiormente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | acting or feeling inwardly without revealing thoughts or intentions to others | sentir o actuar interiormente sin exteriorizar las intenciones ni pensamientos | 暗暗下定决心 (inwardly resolve to oneself)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 看到好友在舞台上取得耀眼的成就，我由衷替他高兴，同时也在心底暗暗下定决心要更加努力。 | Kàndào hǎoyǒu zài wǔtái shàng qǔdé yàoyǎn de chéngjiù, wǒ yóuzhōng tì tā gāoxìng, tóngshí yě zài xīndǐ àn'àn xiàdìng juéxīn yào gèngjiā nǔlì. | Seeing my close friend achieve dazzling success on stage, I was genuinely happy for him and simultaneously resolved inwardly to work harder. | Al ver a mi buen amigo triunfar en el escenario, me alegré sinceramente por él y a la vez decidí para mis adentros esforzarme con mayor ahínco.
+  #2 | 面对竞争对手在核心技术专利上的先发优势，研发主管在会议室里暗暗盘算着弯道超车的替代方案。 | Miànduì jìngzhēng duìshǒu zài héxīn jìshù zhuānlì shàng de xiānfā yōushì, yánfā zhǔguǎn zài huìyìshì lǐ àn'àn pánsuàn zhe wāndào chāochē de tìdài fāng'àn. | Confronting the rival's first-mover advantage in core technology patents, the R&D director sat in the conference room inwardly calculating alternative leapfrogging schemes. | Frente a la ventaja de la competencia en patentes tecnológicas, el director de desarrollo calculaba en silencio estrategias alternativas para superarlos.
+
+collocations[6]{hanzi,en}:
+  暗暗高兴 | rejoice secretly to oneself
+  暗暗下决心 | inwardly make up one's mind
+  暗暗吃惊 | secretly astonished
+  暗暗发誓 | vow silently inwardly
+  暗暗观察 | observe quietly and unnoticed
+  暗暗佩服 | admire someone in secret
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  明察暗访 | míng chá àn fǎng | investigate openly and secretly; thorough undercover probe
+  暗度陈仓 | àn dù chén cāng | cross Chencang in secret; do something clandestine under distraction
+  潜移默化 | qián yí mò huà | exert a subtle, imperceptible influence over time
+  弃暗投明 | qì àn tóu míng | abandon the darkness and cross over to the light
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  暗 | àn | dark; dim; secret; hidden | oscuro; tenue; secreto; oculto | 日 | sun / light | 日 (sun eclipsed/dimmed) | 音 (yīn, sound/tone) | 13 | 左右结构 | Phono-semantic character combining the sun (日) with sound (音); sunlight obscured leaving only unseen sound vibrations in the dark. | When the sun (日) sets, only unseen voices and musical sounds (音) carry in the quiet darkness. | Al ocultarse el sol (日), solo las voces y sonidos musicales (音) resuenan en la tranquila penumbra. | 51 | AYTA | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Repeating the character for hidden darkness (暗暗) depicts internal feelings concealed deep inside without a trace.
+  composite_memory_hook_es: Duplicar el carácter de la penumbra secreta (暗暗) retrata pensamientos guardados para los adentros.
+  cultural_and_cognitive_roots: Reduplication of monosyllabic adjectives/adverbs in Chinese produces subjective emotional vividness. 'Àn' (unseen darkness) reduplicated conveys intense psychological interiority shielded from the public gaze.
+  tone_sandhi_and_pitch_modulation: 51-51 pitch contour. In natural speech, reduplicated adverbs may soften slightly on the second syllable, yet both retain falling tonal trajectories.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    明 | míng | bright; clear | Features 月 (moon) on the right instead of 音 (sound); direct antonym
+    晴 | qíng | sunny; clear sky | Features 青 on the right rather than 音
+    暗 | àn | dark | Headword character itself
+    喑 | yīn | mute; silent | Features mouth radical 口 on the left instead of sun 日
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    默 | mò | silent; quiet
+    潜 | qián | submerged; covert
+    隐 | yǐn | hidden; concealed
+    秘 | mì | secret; confidential
+
+semantic_boundary_contrasts:
+  core_nuance: 暗暗 specifies psychological states, private thoughts, or covert intentions kept hidden from outward manifestation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 暗暗 vs. 偷偷 | tōutōu | 偷偷 stresses physical stealth and sneaking around to evade physical detection, while 暗暗 describes purely psychological internal feelings and unspoken intentions.
+    2 | 暗暗 vs. 悄悄 | qiāoqiāo | 悄悄 emphasizes lowering volume or moving without sound, whereas 暗暗 implies completely private contemplation without any outward reveal.
+    3 | 暗暗 vs. 秘密 | mìmì | 秘密 is an adjective/noun meaning confidential or classified, whereas 暗暗 is strictly an adverb modifying internal psychological verbs.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 站在喧嚣的人群中，少年看着橱窗里那把精致的吉他，心头暗暗涌起一阵莫名的冲动。生活的困顿从未磨灭心中的乐章，他在心底暗暗起誓，终有一日要用自己的琴弦，弹奏出属于黎明的滚烫旋律。 | Zhàn zài xuānxiāo de rénqún zhōng, shàonián kànzhe chúchuāng lǐ nà bǎ jīngzhì de jítā, xīntóu àn'àn yǒngqǐ yí zhèn mòmíng de chōngdòng. Shēnghuó de kùndùn cóngwèi mómiè xīnzhōng de yuèzhāng, tā zài xīndǐ àn'àn qǐshì, zhōng yǒu yí rì yào yòng zìjǐ de qínxián, tánzòu chū shǔyú límíng de gǔntàng xuánlǜ. | Standing among noisy crowds, the youth gazed at the exquisite guitar in the display window, feeling a surge of emotion. Hardship had never silenced his inner music; he vowed in secret to play dawn's fervent melody one day. | Entre la bulliciosa multitud, el joven contemplaba la guitarra del escaparate sintiendo un impulso íntimo. Las penurias jamás apagaron su música interior; se prometió en secreto que algún día tocaría la melodía del amanecer.
+  #2 | 在激烈的国际半导体科技博弈中，各大科研机构都在暗暗积蓄原始创新力量。面对高精度光刻技术专利壁垒，研究团队在数年寂寞攻关中暗暗校准测量参数，终于突破了微纳制造核心装备的工艺瓶颈。 | Zài jīliè de guójì bàndǎotǐ kējì bóyì zhōng, gè dà kēyán jīgòu dōu zài àn'àn jīxù yuánshǐ chuàngxīn lìliàng. Miànduì gāojīngdù guāngkè jìshù zhuānlì bìlěi, yánjiū tuánduì zài shù nián jìmò gōngguān zhōng àn'àn jiàozhǔn cèliáng cānshù, zhōngyú tūpò le wēi-nà zhìzào héxīn zhuāngbèi de gōngyì píngjǐng. | In the intense rivalry over semiconductors, major institutes have been quietly building innovation strength. Confronting lithography patent walls, researchers spent years calibrating parameters in quiet diligence, breaking fabrication bottlenecks. | En la carrera de los semiconductores, los centros de investigación acumulan fuerzas en silencio. Ante las barreras de patentes en fotolitografía, el equipo calibró parámetros durante años de discreto empeño hasta superar el obstáculo tecnológico.

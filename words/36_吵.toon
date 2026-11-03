@@ -1,0 +1,63 @@
+id: 36
+hanzi: 吵
+pinyin: chǎo
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to make a noise; to quarrel; to disturb; noisy; clamorous
+  es: hacer ruido; reñir; molestar; ruidoso; bullicioso
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to make loud clamor, disturb someone with noise, or quarrel vocally | hacer ruido perturbador, alborotar o reñir en voz alta | 别吵了 (stop making noise / stop arguing)
+  2 | Adjective | Standard | noisy, turbulent, or deafeningly loud | ruidoso, bullicioso o estrepitoso | 外边太吵 (it is too noisy outside)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 隔壁邻居家装修房屋的声音实在太吵了，正在准备高考复习的姐姐根本无法在书房集中注意力。 | Gébì línjī jiā zhuāngxiū fángwū de shēngyīn shízài tài chǎo le, zhèngzài zhǔnbèi gāokǎo fùxí de jiějie gēnběn wúfǎ zài shūfáng jízhōng zhùyìlì. | The noise from home renovation in the neighboring apartment was far too noisy; my older sister preparing for college entrance exams simply could not concentrate. | El ruido de las obras en la casa del vecino era insoportable; mi hermana, que repasaba para el examen de ingreso universitario, no lograba concentrarse en absoluto.
+  #2 | 市生态环境综合执法支队针对市民反复投诉的工业噪声污染企业展开突击夜查，对违法夜间超标排放吵民噪声的施工现场下达限期停工整改通知书。 | Shì shēngtài huánjìng zōnghé zhífǎ zhīduì zhēnduì shìmín fǎnfù tóusù de gōngyè zhàoshēng wūrǎn qǐyè zhǎnkāi tūjī yèchá, duì wéifǎ yèjiān chāobiāo páifàng chǎo mín zhàoshēng de shīgōng xiànchǎng xiàdá xiànqī tínggōng zhěnggǎi tōngzhīshū. | Environmental law enforcement launched surprise night inspections against industrial noise pollution, issuing suspension orders to construction sites unlawfully disturbing residents. | La brigada ambiental realizó inspecciones nocturnas contra la contaminación acústica, ordenando la paralización inmediata de las obras que perturbaban el descanso vecinal.
+
+collocations[6]{hanzi,en}:
+  吵闹不休 | clamorous and ceaseless
+  吵醒熟睡的人 | awaken someone from sleep with noise
+  环境太吵 | environment is too noisy
+  别吵了 | stop shouting / stop bickering
+  吵吵闹闹 | noisy and turbulent
+  吵得头疼 | so loud it gives one a headache
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  吵吵闹闹 | chāo chao nào nào | noisy and clamorous; full of squabbling
+  人声鼎沸 | rén shēng dǐng fèi | a boiling hubbub of human voices; noisy clamor
+  沸反盈天 | fèi fǎn yíng tiān | uproarious din reaching the skies; chaotic noise
+  鸦雀无声 | yā què wú shēng | not even a crow or sparrow heard; dead silence; direct antonym
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  吵 | chǎo | make noise; noisy; quarrel | hacer ruido; ruidoso; reñir | 口 | mouth | 口 (mouth emitting sound) | 少 (shǎo, phonetic harmony) | 7 | 左右结构 | Phono-semantic character pairing mouth (口) with 少 (shǎo), describing intrusive racket uttered by unrestrained mouths. | Unrestrained mouths (口) yelling with small (少) consideration create intolerable noise. | Bocas (口) vociferando con poca (少) consideración provocan un ruido insoportable. | 214 | RFH | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Opening a loud mouth (口) with too little (少) courtesy creates a noisy clamor (吵).
+  composite_memory_hook_es: Abrir una boca (口) ruidosa con poca (少) prudencia provoca un gran alboroto (吵).
+  cultural_and_cognitive_roots: In traditional Chinese spatial aesthetics, tranquility ('静') represents philosophical refinement; 'chǎo' (auditory disturbance) disrupts domestic peace (安宁) and emotional equilibrium.
+  tone_sandhi_and_pitch_modulation: 214 pitch contour. A dipping 3rd tone; when placed before 1st, 2nd, or 4th tones, it is pronounced as a half-3rd tone (21 low).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    抄 | chāo | copy; transcribe | Has hand radical 扌 on the left instead of mouth 口
+    秒 | miǎo | second (time) | Has grain radical 禾 on the left instead of mouth 口
+    炒 | chǎo | stir-fry; sauté | Has fire radical 火 on the left instead of mouth 口
+    砂 | shā | sand; grit | Has stone radical 石 on the left instead of mouth 口
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    喧 | xuān | clamor; noisy mouth radical
+    哗 | huá | hubbub; uproar
+    噪 | zào | cacophony; noise
+    闹 | nào | boisterous; make trouble
+
+semantic_boundary_contrasts:
+  core_nuance: 吵 functions flexibly as a verb (to make noise / quarrel) and as an adjective (noisy and irritating).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 吵 vs. 闹 | nào | 吵 focuses strictly on unpleasant auditory loudness and verbal friction, whereas 闹 can indicate lively festive bustling (e.g., 热闹) or mischievous antics.
+    2 | 吵 vs. 喧哗 | xuānhuá | 喧哗 is formal and written, denoting unseemly loud clamor in public places (e.g., 请勿喧哗), while 吵 is common vernacular spoken Chinese.
+    3 | 吵 vs. 嘈杂 | cáozá | 嘈杂 is an adjective describing a confused, disordered bedlam of overlapping sounds (e.g., 嘈杂的市场), whereas 吵 can function as a transitive verb (e.g., 别吵我).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 厌倦了都市车水马龙的喧吵，周末独自漫步在清幽的山林深处。耳畔没有了刺耳的鸣笛与刺目的喧嚣，只有松涛阵阵与溪流潺潺。在远离吵闹的大自然怀抱中，心灵终于找回了久违的安宁与从容。 | Yànjuàn le dūshì chēshuǐmǎlóng de xuānchǎo, zhōumò dúzì mànbù zài qīngyōu de shānlín shēnchù. Ěrpàn méiyǒu le cì'ěr de míngdí yǔ cìmù de xuānxiāo, zhǐyǒu sōngtāo zhènzhèn yǔ xīliú chánchán. Zài yuǎnlí chǎonào de dàzìrán huáibào zhōng, xīnlíng zhōngyú zhǎohuí le jiǔwéi de ānníng yǔ cóngróng. | Weary of urban traffic and clamor, I strolled alone through tranquil mountain forests over the weekend. Gone were shrill horns and bustle, replaced by pine breezes and bubbling brooks. Far from noise, the soul reclaimed peace. | Fatigado del bullicio urbano y los atascos, caminé a solas por la espesura del bosque el fin de semana. Lejos de bocinazos estridentes, solo susurraban los pinos y el arroyo, permitiendo al alma reencontrar la calma perdida.
+  #2 | 在现代高科技声学工程与室内建筑设计中，低频结构传声隔震已成为治理施工吵民的核心技术。通过在精密仪器实验室与住宅楼层间铺设阻尼隔音垫层，能有效将刺耳噪声衰减在法定阈值以内，保障高品质声环境。 | Zài xiàndài gāokējì shēngxué gōngchéng yǔ shìnèi jiànzhù shèjì zhōng, dīpín jiégòu chuánshēng gézhèn yǐ chéngwéi zhìlǐ shīgōng chǎomín de héxīn jìshù. Tōngguò zài jīngmì yíqì shíyànshì yǔ zhùzhái lóucéng jiān pūsè zǔní géyīn diàncéng, néng yǒuxiào jiāng cì'ěr zhàoshēng shuāijiǎn zài fǎdìng yùzhí yǐnèi, bǎozhàng gāozhìliàng shēnghuánjìng. | In acoustic engineering and building design, low-frequency structural vibration dampening is core to mitigating residential noise disturbances. Laying acoustic damping underlays between residential floors attenuates intrusive noise within statutory thresholds. | En la ingeniería acústica y el diseño arquitectónico, el aislamiento de vibraciones estructurales es clave contra la contaminación acústica. Instalar capas aislantes entre plantas residenciales atenúa ruidos molestos dentro de los umbrales legales.

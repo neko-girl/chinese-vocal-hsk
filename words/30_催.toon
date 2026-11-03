@@ -1,0 +1,63 @@
+id: 30
+hanzi: 催
+pinyin: cuī
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to urge; to hurry; to press; to hasten; to prompt
+  es: apurar; apremiar; apresurar; urgir; instar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to urge or press someone to act or finish something faster | apremiar o instar a alguien a actuar o completar una tarea con prisa | 催他快走 (urge him to hurry up)
+  2 | Verb | Standard | to hasten, induce, or stimulate a natural or chemical process | acelerar o inducir un proceso biológico o químico | 催熟水果 (ripen fruits artificially)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 眼看校车马上就要到小区门口了，妈妈站在玄关一边帮弟弟整理书包，一边不停催他快点穿鞋。 | Yǎnkàn xiàochē mǎshàng jiù yào dào xiǎoqū ménkǒu le, māma zhàn zài xuánguān yìbiān bāng dìdi zhěnglǐ shūbāo, yìbiān bùtíng cuī tā kuài diǎn chuān xié. | Seeing that the school bus was arriving at the neighborhood gate, mother stood by the foyer helping brother pack his bag while constantly urging him to put on his shoes. | Al ver que el autobús escolar casi llegaba a la puerta, mamá ayudaba a mi hermano con la mochila en el recibidor mientras le apuraba sin parar para que se calzara.
+  #2 | 面对供应链核心零部件交货延期风险，项目总监亲自向主要供应商派出督导组，现场催促产能释放并紧盯交付节点。 | Miànduì gōngyìngliàn héxīn língbùjiàn jiāohuò yánqī fēngxiǎn, xiàngmù zǒngjiān qīnzì xiàng zhǔyào gōngyìngshāng pàichū dūdǎozǔ, xiànchǎng cuīcù chǎnnéng shìfàng bìng jǐndīng jiāofù jiédiǎn. | Facing delivery delay risks for critical supply chain parts, the project director dispatched a supervisor team to suppliers to urge capacity ramp-up and track delivery milestones. | Ante el riesgo de demora en componentes clave, el director del proyecto envió supervisores a los proveedores para apremiar la producción y asegurar los plazos.
+
+collocations[6]{hanzi,en}:
+  催促进度 | urge progress on a schedule
+  催交作业 | press to submit homework
+  催款 | press for payment of debts
+  催眠 | hypnotize; induce sleep
+  催熟 | accelerate ripening
+  催人奋进 | urge people onward to strive
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  催人泪下 | cuī rén lèi xià | moving one to tears; poignant and tear-inducing
+  羯鼓催花 | jié gǔ cuī huā | beating drums to hasten flower blossoms; eager impatience
+  星夜兼程 | xīng yè jiān chéng | travel night and day by star light; hurry through journey
+  雷厉风行 | léi lì fēng xíng | vigorously and swiftly as thunder and wind
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  催 | cuī | urge; press; hurry; hasten | apurar; apremiar; apresurar; instar | 亻 | person | 亻 (person prodding/urging) | 崔 (cuī, steep high mountain) | 13 | 左右结构 | Phono-semantic character pairing person (亻) with steep crag (崔), conveying pressing someone forward as if climbing a steep slope. | A guide (亻) urgently prods climbers up a steep mountain crag (崔) before sunset. | Un guía (亻) apremia a los montañistas para que asciendan el risco escarpado (崔) antes del anochecer. | 55 | OUOG | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A person (亻) pushing you up a towering, precipitous mountain (崔) embodies being hurried and urged forward (催).
+  composite_memory_hook_es: Una persona (亻) que te empuja a subir una montaña empinada (崔) representa estar siendo apurado y apremiado (催).
+  cultural_and_cognitive_roots: Associated in Chinese poetry with seasonal urgency ('春风催新绿', spring breezes prompt fresh green) as well as the urgency of official tax collectors or military drums driving soldiers into battle.
+  tone_sandhi_and_pitch_modulation: 55 pitch contour. A high, steady 1st tone (55); keep the onset crisp and sustained without dipping.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    璀 | cuǐ | resplendent; luster of jade | Features jade radical 王 on the left instead of person 亻
+    摧 | cuī | destroy; break | Features hand radical 扌 on the left instead of person 亻
+    崔 | cuī | lofty mountain; surname | The phonetic stem without the left person radical 亻
+    维 | wéi | maintain; dimension | Has silk radical 纟 on the left instead of person 亻
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    赶 | gǎn | rush; hurry
+    督 | dū | supervise; urge forward
+    迫 | pò | compel; press
+    促 | cù | hasten; promote
+
+semantic_boundary_contrasts:
+  core_nuance: 催 focuses on verbally or operationally pressing someone to accelerate their pace and finish promptly.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 催 vs. 赶 | gǎn | 赶 focuses on accelerating one's own physical movement to catch a vehicle or meet a deadline (e.g., 赶时间, 赶火车), whereas 催 is transitive, pressing another person to act faster.
+    2 | 催 vs. 促 | cù | 促 is more formal/written, denoting facilitating or catalyzing broad trends (e.g., 促进, 督促), whereas 催 is direct spoken prompting (e.g., 催促, 别催了).
+    3 | 催 vs. 逼 | bī | 逼 implies coercive intimidation, cornering, or extortion without choice, whereas 催 is urging speed and timeliness.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生活总是催促着人们匆匆赶路，早晨急促的闹钟，地铁里拥挤的脚步，都在无声地催促着我们向前奔跑。然而，偶尔放慢脚步，听听路边清脆的鸟鸣，看看花开的姿态，才能让疲惫的灵魂重新找回宁静的归宿。 | Shēnghuó zǒngshì cuīcù zhe rénmen cōngcōng gǎnlù, zǎochen jícù de nàozhōng, dìtiě lǐ yōngjǐ de jiǎobù, dōu zài wúshēng de cuīcù zhe wǒmen xiàngqián bēnpǎo. Rán'ér, ǒu'ěr fàngmàn jiǎobù, tīngting lùbiān qīngcuì de niǎomíng, kànkan huākāi de zītài, cáinǐng ràng píbèi de línghún chóngxīn zhǎohuí níngjìng de guīsù. | Life constantly urges people onward in haste: buzzing alarm clocks and rushed subway steps push us forward silently. Yet slowing down occasionally to hear birds chirping and view flowers allows weary souls to reclaim peaceful havens. | La vida nos apremia a correr deprisa: el despertador matutino y los pasos apresurados en el metro nos empujan en silencio. Sin embargo, frenar el paso para escuchar el canto de las aves y contemplar las flores devuelve la paz al alma fatigada.
+  #2 | 在现代敏捷项目开发流程中，项目经理通过看板系统实时监控研发瓶颈。当某一核心功能模块出现交付滞后风险时，项目组需及时组织跨部门资源会商，通过梳理阻塞节点替代盲目催促进度，以确保系统按期高质量交付。 | Zài xiàndài mǐnjié xiàngmù kāifā liúchéng zhōng, xiàngmù jīnglǐ tōngguò kànbǎn xìtǒng shíshí jiānkòng yánfā píngjǐng. Dāng mǒu yí héxīn gōngnéng mókuài chūxiàn jiāofù zhìhòu fēngxiǎn shí, xiàngmùzǔ xū jíshí zǔzhī kuà bùmén zīyuán huìshāng, tōngguò shūlǐ zǔsè jiédiǎn tìdài mángmù cuīcù jìndù, yǐ quèbǎo xìtǒng ànqī gāozhìliàng jiāofù. | In agile development workflows, project managers monitor bottlenecks via Kanban systems. When module delays arise, teams coordinate cross-functional resources to unblock bottlenecks rather than blindly rushing schedules, ensuring quality. | En el desarrollo ágil de proyectos, los directores supervisan cuellos de botella con tableros Kanban. Al surgir retrasos en módulos clave, se coordinan recursos para despejar trabas en vez de apremiar a ciegas, asegurando entregas de calidad.

@@ -1,0 +1,64 @@
+id: 4
+hanzi: 对比
+pinyin: duì bǐ
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to compare; to contrast; contrast; comparison
+  es: comparar; contrastar; contraste; comparación
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to juxtapose two or more things to examine their differences and similarities | yuxtaponer dos o más cosas para examinar sus diferencias y similitudes | 对比两组数据 (compare two sets of data)
+  2 | Noun | Standard | a marked contrast or juxtaposition | un marcado contraste o contraposición | 形成鲜明对比 (form a sharp contrast)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老师让我们仔细对比这两篇题材相同的作文，分析它们在写作手法与结构上的异同。 | Lǎoshī ràng wǒmen zǐxì duìbǐ zhè liǎng piān tícái xiāngtóng de zuòwén, fēnxī tāmen zài xiězuò shǒufǎ yǔ jiégòu shàng de yìtóng. | The teacher had us carefully compare these two essays on the same topic, analyzing similarities and differences in writing techniques and structure. | El profesor nos pidió comparar detenidamente estas dos redacciones sobre el mismo tema, analizando similitudes y diferencias en sus técnicas narrativas y estructura.
+  #2 | 经济研究团队通过对比过去三十年间的进出口贸易数据，深入论证了新兴产业转型升级的战略成效。 | Jīngjì yánjiū tuánduì tōngguò duìbǐ guòqù sānshí nián jiān de jìnchūkǒu màoyì shùjù, shēnrù lùnzhèng le xīnxīng chǎnyè zhuǎnxíng shēngjí de zhànlüè chéngxiào. | By contrasting import and export trade data over the past thirty years, the economic research team substantiated the strategic efficacy of emerging industry upgrades. | Al contrastar los datos comerciales de importación y exportación de las últimas tres décadas, el equipo de investigación económica demostró la eficacia estratégica de la transformación industrial emergente.
+
+collocations[6]{hanzi,en}:
+  鲜明对比 | sharp contrast
+  强烈对比 | strong contrast
+  对比分析 | comparative analysis
+  对比数据 | compare data
+  横向对比 | horizontal/peer comparison
+  纵向对比 | longitudinal/historical comparison
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  截然不同 | jié rán bù tóng | completely different; worlds apart
+  对比鲜明 | duì bǐ xiān míng | in striking contrast; sharply demarcated
+  针锋相对 | zhēn fēng xiāng duì | tit for tat; sharply oppose head-on
+  比上不足 | bǐ shàng bù zú | fall short of the best, but better than the worst
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  对 | duì | face; pair; opposite; correct | frente a; pareja; opuesto; correcto | 寸 | inch / hand measurement | 寸 (inch/rule for measurement) | 又 (hand/phonetic simplification) | 5 | 左右结构 | Originally depicted standing face-to-face and answering appropriately under royal measure (寸). | Two hands (又) measure with a small inch ruler (寸) to ensure two objects face each other evenly. | Dos manos (又) miden con una regla de pulgada (寸) para asegurarse de que dos piezas se enfrenten con exactitud. | 51 | EDI | 對
+  比 | bǐ | compare; emulate; close together | comparar; competir; estar juntos | 比 | compare | 匕 (person standing next to another) | 匕 (bǐ, mirrored human figures) | 4 | 左右结构 | Pictogram of two people walking side by side shoulder-to-shoulder, compared against each other. | Two people (匕 + 匕) stand side by side back-to-back to compare their heights. | Dos personas (匕 + 匕) se paran hombro con hombro para comparar sus estaturas. | 214 | PP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Place two objects face-to-face (对) and stand them side by side (比) to highlight their contrast.
+  composite_memory_hook_es: Coloca dos objetos frente a frente (对) y ponlos hombro con hombro (比) para contrastar sus diferencias.
+  cultural_and_cognitive_roots: The cognitive framework of 'duì' (confronting/pairing) and 'bǐ' (parallel alignment) stems from ancient Chinese logic of polar dialectics: understanding truth requires balancing symmetrical opposites.
+  tone_sandhi_and_pitch_modulation: 51-214 contour. The first syllable is a crisp falling 4th tone (51), followed by the dipping 3rd tone of bǐ (214). When followed by another syllable, bǐ drops to a low dipping tone (21).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    寸 | cùn | inch | Lacks the left component 又 of 对
+    北 | běi | north; flee | Depicts two people back-to-back (opposite facing), while 比 has both facing the same direction
+    皆 | jiē | all; each | Features 比 over 白 (white); denotes universality
+    毕 | bì | complete; finish | Has 比 at the top over 十; means to conclude
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    匹 | pǐ | match; equal counterpart; sharing pairing nuance
+    从 | cóng | follow; two people aligned sequentially
+    齐 | qí | even; uniform level
+    双 | shuāng | pair; two hands together
+
+semantic_boundary_contrasts:
+  core_nuance: 对比 emphasizes laying two contrasting entities side by side to discern discrepancies, discrepancies of scale, or oppositional characteristics.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 对比 vs. 比较 | bǐjiào | 比较 is a general verb/adverb meaning to compare or 'relatively', whereas 对比 strongly highlights stark differences, polarity, or visual/analytical juxtaposition.
+    2 | 对比 vs. 相比 | xiāngbǐ | 相比 is typically used in introductory adverbial frames (如“与……相比”), whereas 对比 functions directly as a transitive verb or an independent noun (如“鲜明的对比”).
+    3 | 对比 vs. 对照 | duìzhào | 对照 implies checking against a standard, benchmark, or reference text (e.g., verifying against a translation), whereas 对比 investigates thematic or statistical divergences.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古老的青砖瓦房与高耸的现代玻璃幕墙在晨光中形成了鲜明的对比。历史的厚重与现代的轻盈在街头对话，让人体会到岁月的流变。正是在这种对比中，城市记忆才更加立体丰满。 | Gǔlǎo de qīngzhuān wǎfáng yǔ gāosǒng de xiàndài bōlí mùqiáng zài chénguāng zhōng xíngchéng le xiānmíng de duìbǐ. Lìshǐ de hòuzhòng yǔ xiàndài de qīngyíng zài jiētóu duìhuà, ràng rén tǐhuì dào suìyuè de liúbiàn. Zhèng shì zài zhè zhǒng duìbǐ zhōng, chéngshì jìyì cái gèngjiā lìtǐ fēngmǎn. | Ancient grey tile cottages and soaring modern glass curtain walls form a vivid contrast in the morning light. Historical gravitas converses with contemporary grace, making urban memories richer through contrast. | Las antiguas casas de teja gris y los modernos muros de cristal forman un vivo contraste bajo la luz matutina. La solidez histórica dialoga con la ligereza contemporánea, enriqueciendo la memoria urbana a través de este contraste.
+  #2 | 在现代企业战略管理中，标杆管理方法的核心正是跨行业对比。企业通过对标行业领军者的周转速度与创新周期，精准识别价值链短板。深入的对比分析不仅能打破路径依赖，更为流程再造提供了量化依据。 | Zài xiàndài qǐyè zhànlüè guǎnlǐ zhōng, biāogān guǎnlǐ fāngfǎ de héxīn zhèng shì kuà hángyè duìbǐ. Qǐyè tōngguò duìbiāo hángyè lǐngjūnzhě de zhōuzhuǎn sùdù yǔ chuàngxīn zhōuqī, jīngzhǔn shíbié jiàzhíliàn duǎnbǎn. Shēnrù de duìbǐ fēnxī bùjǐn néng dǎpò lùjìng yīlài, gèng wèi liúchéng zàizào tígōng le liànghuà yījù. | In corporate strategy, benchmarking centers on cross-industry comparison. By comparing turnover velocity and innovation cycles with leaders, firms identify value-chain weaknesses. Deep comparative analysis breaks path dependency and provides quantitative grounds for reengineering. | En la estrategia empresarial moderna, el benchmarking se basa en la comparación intersectorial. Al contrastar la velocidad de rotación e innovación con los líderes, las empresas identifican fallos y obtienen bases cuantitativas para rediseñar procesos.

@@ -1,0 +1,63 @@
+id: 32
+hanzi: 蚊子
+pinyin: wén zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: mosquito; biting gnat
+  es: mosquito; zancudo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a small slender dipteran insect with piercing mouthparts, the female of which bites and sucks blood | insecto díptero pequeño de piezas bucales punzantes cuya hembra pica para succionar sangre | 消灭蚊子 (eradicate mosquitoes)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 夏天夜里在院子里乘凉时，如果不点燃盘装蚊香或喷洒防蚊花露水，手臂上很容易被可恶的蚊子叮出好几个红肿的大包。 | Xiàtiān yèlǐ zài yuànzi lǐ chéngliáng shí, rúguǒ bù diǎnrán pánzhuāng wénxiāng huò pēnsǎ fángwén huālùshuǐ, shǒubì shàng hěn róngyì bèi kě'wù de wénzi dīng chū hǎojǐ gè hóngzhǒng de dàbāo. | When enjoying the cool evening in the courtyard during summer, unless one lights a mosquito coil or sprays repellent, arms easily get bitten by pesky mosquitoes into red swollen welts. | Al tomar el fresco nocturno en el patio durante el verano, si no se enciende repelente o espirales, los molestos mosquitos acaban acribillando los brazos de ronchas rojas.
+  #2 | 热带公共卫生疾病控制专家多次警告，伊蚊等特定种类的蚊子是登革热、疟疾和寨卡病毒等急性传染病跨区域扩散的关键媒介。 | Rèdài gōnggòng wèishēng jíbìng kòngzhì zhuānjiā duō cì jǐnggào, yīwén děng tèdìng zhǒnglèi de wénzi shì dēnggérè, nüèjí hé zhàikǎ bìngdú děng jíxìng chuánrǎnbìng kuà qūyù kuòsàn de guānjiàn méijiè. | Tropical public health disease control experts have repeatedly warned that specific mosquito species like Aedes are crucial vectors spreading acute infectious diseases such as dengue, malaria, and Zika. | Expertos en salud pública advierten de que ciertas especies de mosquitos como el Aedes son vectores biológicos clave en la propagación de enfermedades como el dengue, la malaria y el zika.
+
+collocations[6]{hanzi,en}:
+  蚊子叮咬 | mosquito bites
+  驱赶蚊子 | repel / drive away mosquitoes
+  消灭蚊子 | exterminate mosquitoes
+  蚊子幼虫 | mosquito larvae / wrigglers
+  蚊子叫声 | whining / buzzing of mosquitoes
+  招蚊子 | attract mosquitoes
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  聚蚊成雷 | jù wén chéng léi | a swarm of mosquitoes buzzing like thunder; small slanders growing into formidable harm
+  秋蚊见血 | qiū wén jiàn xiè | autumn mosquitoes thirsty for blood; fierce desperation before death
+  蝇营狗苟 | yíng yíng gǒu gǒu | scurrying like flies and creeping like dogs; shamelessly chasing personal gain
+  蛛丝马迹 | zhū sī mǎ jì | spider web and horse tracks; faint clues
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  蚊 | wén | mosquito; gnat | mosquito; zancudo | 虫 | insect / bug | 虫 (insect radical) | 文 (wén, pattern/humming vibration) | 10 | 左右结构 | Phono-semantic character combining insect (虫) with 文 (wén), imitating the fine high-pitched humming drone of mosquito wings. | An annoying insect (虫) flies around writing invisible patterns in the air with a humming drone (文). | Un insecto molesto (虫) traza dibujos invisibles en el aire con un zumbido agudo (文). | 35 | LIYK | ""
+  子 | zi | noun suffix; child; son | sufijo nominal; niño; hijo | 子 | child | 子 (infant/nominal affix) | 子 (inherent phoneme) | 3 | 单一结构 | Pictogram of an infant with outstretched arms, widely utilized in vernacular Chinese as a common nominalizing noun suffix. | A small child (子) swaddled up, functioning as the ubiquitous Chinese noun particle. | Un infante (子) envuelto en mantas, usado como el sufijo de sustantivo más común del idioma. | 214 | ND | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The humming insect (蚊) with the standard noun suffix (子) forms the pesky mosquito.
+  composite_memory_hook_es: El insecto zumbador (蚊) con el sufijo de sustantivo (子) forma la palabra mosquito.
+  cultural_and_cognitive_roots: Symbol of annoying, disruptive trifles in classical poetry; the idiom '聚蚊成雷' warns that tiny pests humming together can generate the roar of thunder, metaphor for the dangerous accumulation of minor slander.
+  tone_sandhi_and_pitch_modulation: 35-214 contour. In everyday spoken Chinese, 子 is universally reduced to a light neutral tone: wénzi (35-neutral).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    纹 | wén | pattern; grain | Features silk radical 纟 on the left instead of insect 虫
+    蚊 | wén | mosquito | Headword character with insect radical 虫
+    蛇 | shé | snake | Right side is 它 rather than 文
+    蜂 | fēng | bee; wasp | Right side is 夆 rather than 文
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    蝇 | yíng | housefly in the 虫 radical system
+    蛾 | é | moth
+    蝉 | chán | cicada
+    蝶 | dié | butterfly
+
+semantic_boundary_contrasts:
+  core_nuance: 蚊子 refers specifically and biologically to mosquitoes (Culicidae family) that suck blood and hum loudly.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 蚊子 vs. 苍蝇 | cāngying | 蚊子 sucks blood with piercing mouthparts and makes a high-pitched hum at night, whereas 苍蝇 is a filth-feeding fly that spreads digestive pathogens during daytime.
+    2 | 蚊子 vs. 飞蛾 | fēi'é | 飞蛾 is a nocturnal powdery moth attracted to flames, harmless to human skin, unlike blood-biting 蚊子.
+    3 | 蚊子 vs. 蜜蜂 | mìfēng | 蜜蜂 is a beneficial honeybee that stings defensively when provoked, unlike parasitic mosquitoes that feed on human blood.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 童年的盛夏夜里，庭院中摇曳的蒲扇是抵挡蚊子最好的盾牌。微风吹散了白昼的暑气，耳边偶尔响起蚊子微弱的嗡嗡声，却很快在漫天繁星与阵阵蛙鸣中远去。那一缕艾草蚊香的清香，是故乡最悠长的夏夜记忆。 | Tóngnián de shèngxià yèlǐ, tíngyuàn zhōng yáoyè de púshàn shì dǐdǎng wénzi zuì hǎo de dùnpái. Wēifēng chuīsàn le báizhòu de shǔqì, ěrbiān ǒu'ěr xiǎngqǐ wénzi wēiruò de wēngwēng shēng, què hěn kuài zài màntiān fánxīng yǔ zhènzhèn wāmíng zhōng yuǎnqù. Nà yì lǚ àicǎo wénxiāng de qīngxiāng, shì gùxiāng zuì yōucháng de xiàyè jìyì. | On summer nights of childhood, swaying cattail fans were our best shield against mosquitoes. Breezes cooled the day's heat; faint buzzing in our ears soon receded into starlight and croaking frogs. The scent of mugwort incense is my deepest memory. | En las noches infantiles de verano, el abanico de paja era el mejor escudo contra los zancudos. La brisa disipaba el bochorno y el zumbido de los mosquitos se perdía entre estrellas y ranas. El aroma a incienso de artemisa es el recuerdo más dulce de mi tierra.
+  #2 | 在现代生物技术防蚊治理前沿，科研团队正在利用基因驱动技术对野生蚊子种群实施精准干预。通过向自然界释放不育雄蚊阻断虫媒交配链条，能够在不破坏食物链生态平衡的前提下，大幅压低登革热与黄热病在城市的暴发风险。 | Zài xiàndài shēngwù jìshù fángwén zhìlǐ qiányán, kēyán tuánduì zhèngzài lìyòng jīyīn qūdòng jìshù duì yěshēng wénzi zhǒngqún shíshī jīngzhǔn gānyù. Tōngguò xiàng zìránjiè shìfàng bùyù xióngwén zǔduàn chóngméi jiāopèi liàntiáo, nénggòu zài bù pòhuài shíwùliàn shēngtài pínghéng de qiántí xià, dàfú yādī dēnggérè yǔ huángrèbìng zài chéngshì de bàofā fēngxiǎn. | At the forefront of biotechnology mosquito control, scientists utilize gene drives to intervene in wild mosquito populations. Releasing sterile males disrupts reproduction, suppressing dengue and yellow fever risks without disrupting food chains. | En la biotecnología contra insectos transmisores, los científicos aplican impulsos genéticos a poblaciones silvestres de mosquitos. Liberar machos estériles corta la reproducción y reduce el riesgo de dengue y fiebre amarilla sin alterar el ecosistema.

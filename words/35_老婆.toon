@@ -1,0 +1,63 @@
+id: 35
+hanzi: 老婆
+pinyin: lǎo po
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: wife (colloquial; affectionate)
+  es: esposa; mujer (coloquial y cariñoso)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Colloquial | informal, affectionate spoken term for one's wife or someone's spouse | término coloquial y afectuoso para referirse a la propia esposa o cónyuge | 疼老婆 (cherish one's wife)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 下班回家的路上，王强特意去花店买了一束新鲜的红玫瑰，打算给正在厨房忙着做晚餐的老婆一个惊喜。 | Xiàbān huíjiā de lùshang, Wáng Qiáng tèyì qù huādiàn mǎi le yí shù xīnxiān de hóng méiguī, dǎsuàn gěi zhèngzài chúfáng máng zhe zuò wǎncān de lǎopo yí gè jīngxǐ. | On his way home from work, Wang Qiang stopped by the florist to buy fresh red roses, intending to give his wife cooking dinner in the kitchen a surprise. | Al volver del trabajo, Wang Qiang pasó por la floristería a comprar rosas rojas para sorprender a su esposa, que preparaba la cena en la cocina.
+  #2 | 社会学学者在关于当代城市家庭劳务分工的调研中指出，“怕老婆”等民间幽默俗语的演变，从侧面折射出女性家庭话语权与家庭平等地位的实质性提升。 | Shèhuìxué xuézhě zài guānyú dāngdài chéngshì jiātíng láowù fēngōng de diàoyán zhōng zhǐchū, “pà lǎopo” děng mínjiān yōumò súyǔ de yǎnbiàn, cóng cèmiàn zhéshè chū nǚxìng jiātíng huàyǔquán yǔ jiātíng píngděng dìwèi de shízhìxìng tíshēng. | Sociologists researching urban household labor division note that humorous folk sayings like 'henpecked / fearing one's wife' mirror the substantive rise of women's domestic status and equality. | Los sociólogos señalan que dichos humorísticos populares como 'temer a la esposa' reflejan el aumento real de la equidad y del poder de decisión de las mujeres en el hogar moderno.
+
+collocations[6]{hanzi,en}:
+  疼老婆 | cherish and dote on one's wife
+  怕老婆 | henpecked / respect one's wife immensely
+  娶老婆 | take a wife / marry
+  老婆孩子 | wife and kids; family
+  讨老婆 | seek a wife to marry
+  爱老婆 | love one's wife
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  白头偕老 | bái tóu xié lǎo | live together until white hair; grow old together in marital devotion
+  相濡以沫 | xiāng rú yǐ mò | share meager resources in adversity; mutual support in marital hardship
+  老骥伏枥 | lǎo jì fú lì | an old steed in the stable still aspires to gallop a thousand miles
+  返老还童 | fǎn lǎo huán tóng | rejuvenate; recover youthful vigor in old age
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  老 | lǎo | old; experienced; affectionate prefix | viejo; anciano; experimentado; prefijo afectivo | 老 | old | 老 (elderly man with long hair leaning on cane) | 老 (inherent root) | 6 | 上下结构 | Pictogram of an elderly revered person with long hair leaning upon a walking staff (匕/𠤎). | An elderly person with silver hair leans on a walking cane (老), embodying lifelong companionship. | Un anciano con cabellos canos se apoya en un bastón (老), simbolizando la compañía de toda la vida. | 214 | JKP | ""
+  婆 | po | elderly woman; grandmother; matron; wife | anciana; abuela; matrona; esposa | 女 | woman | 女 (woman) | 波 (bō, rippling waves) | 11 | 上下结构 | Phono-semantic character pairing woman (女) with rippling waves (波), historically denoting a venerable matron with silver hair. | A respected woman (女) whose hair has rippled like soft waves (波) through years of devotion. | Una mujer respetable (女) cuyos cabellos ondean como suaves olas (波) tras años de vida compartida. | 35 | EDV | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The lifelong companion (老) with whom you vow to grow into venerable old age (婆) is your cherished wife (老婆).
+  composite_memory_hook_es: La compañera de por vida (老) con quien envejecerás hasta peinar canas (婆) es tu querida esposa (老婆).
+  cultural_and_cognitive_roots: Song Dynasty folklore records poet Mai Aixin desiring a concubine; his wife composed a rhyming couplet: '老公十分公道，老婆一片婆心'. Moved by her devotion, he abandoned the thought. Ever since, 'lǎogōng' and 'lǎopo' became China's most affectionate spousal terms.
+  tone_sandhi_and_pitch_modulation: 214-35 contour. In everyday spoken Chinese, 婆 is universally reduced to a light neutral tone: lǎopo (21-neutral).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    考 | kǎo | test; examine | Features 丂 at the bottom instead of 匕
+    孝 | xiào | filial piety | Features 子 (child) at the bottom beneath 土
+    波 | bō | wave; ripple | Features water radical 氵 on the left without 女
+    婆 | pó | matron; wife | Headword character itself
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    妻 | qī | formal wife
+    妇 | fù | married woman; matron
+    媳 | xí | daughter-in-law; wife in 媳妇
+    娘 | niáng | mother; young woman
+
+semantic_boundary_contrasts:
+  core_nuance: 老婆 is an affectionate, colloquial, and warm spoken term used to refer to one's own wife.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 老婆 vs. 妻子 | qīzi | 妻子 is the formal, standard, written, and legal term for wife, whereas 老婆 is predominantly colloquial and intimate.
+    2 | 老婆 vs. 太太 | tàitai | 太太 is a polite, respectful, and slightly formal term for someone else's wife or socially elevated spouse, whereas 老婆 is everyday casual.
+    3 | 老婆 vs. 爱人 | àirén | 爱人 is gender-neutral meaning 'spouse' in mainland administrative/social contexts, whereas 老婆 specifically designates a female spouse.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨厨房里冒着热气的清粥小菜，深夜归家时门厅留着的一盏暖灯，都是老婆给予这个家最温柔的守候。岁月悄然带走了青春的容颜，但彼此相视一笑的默契，却在柴米油盐的琐碎烟火中化作了不可磨灭的依恋。 | Qīngchén chúfáng lǐ màozhe rèqì de qīngzhōu xiǎocài, shēnyè guījiā shí méntīng liúzhe de yì zhǎn nuǎndēng, dōu shì lǎopo jǐyǔ zhè gè jiā zuì wēnróu de shǒuhòu. Suìyuè qiǎorán dàizǒu le qīngchūn de róngyán, dàn bǐcǐ xiāngshìyíxiào de mòqì, què zài cháimǐyóuyán de suǒsuì yānhuǒ zhōng huàzuò le bùkěmómiè de yīliàn. | Steaming porridge in the morning kitchen and a warm light in the foyer late at night are the gentlest guardianship a wife gives a home. Time takes youthful looks, but a knowing smile across daily meals becomes an indelible bond. | El tazón humeante en la cocina matinal y la luz tibia en el zaguán de noche son la devoción más dulce de una esposa. El tiempo atenúa la juventud, pero la sonrisa cómplice entre los quehaceres cotidianos forja un apego imborrable.
+  #2 | 在当代家庭社会学研究中，核心家庭内部的情感表达方式展现出深刻的平等化特征。男性在日常社交中大方表达对老婆的关爱与敬重，不仅体现了家庭决策权向平等协商的转变，更重塑了现代文明家庭伦理的包容范式。 | Zài dāngdài jiātíng shèhuìxué yánjiū zhōng, héxīn jiātíng nèibù de qínggǎn biǎodá fāngshì zhǎnxiàn chū shēnkè de píngděnghuà tèzhēng. Nánxìng zài rìcháng shèjiāo zhōng dàfāng biǎodá duì lǎopo de guān'ài yǔ jìngzhòng, bùjǐn tǐxiàn le jiātíng juécèquán xiàng píngděng xiéshāng de zhuǎnbìan, gèng zhòngshù le xiàndài wénmíng jiātíng lúnlǐ de bāoróng fànshì. | In contemporary family sociology, emotional expression within nuclear families shows profound egalitarian characteristics. Husbands openly expressing care and respect for their wives mirrors democratic household decisions, reshaping civilized ethics. | En la sociología familiar contemporánea, la expresión de afecto en el hogar evidencia una profunda igualdad. Que los hombres manifiesten cariño y respeto hacia sus esposas refleja decisiones domésticas democráticas, renovando la ética familiar.

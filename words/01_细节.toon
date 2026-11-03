@@ -1,0 +1,63 @@
+id: 1
+hanzi: 细节
+pinyin: xì jié
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: details; particulars; minor points
+  es: detalles; pormenores; minucias
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | details; minute aspects; particulars of an event or object | detalles; aspectos minuciosos; pormenores de un hecho u objeto | 注意细节 (pay attention to details)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老艺术家的画作细腻生动，连花瓣上的露珠这种细节都被表现得惟妙惟肖。 | Lǎo yìshùjiā de huàzuò xìnì shēngdòng, lián huābàn shàng de lùzhū zhè zhǒng xìjié dōu bèi biǎoxiàn de wéimiàowéixiào. | The veteran artist's paintings are exquisite and vivid; even such details as dew on petals are depicted to perfection. | Las pinturas del veterano artista son exquisitas y vivaces; incluso detalles como el rocío en los pétalos están plasmados a la perfección.
+  #2 | 在复杂的外交谈判中，代表团对协议文本的每一处细节都进行了反复推敲和严谨确认。 | Zài fùzá de wàijiāo tánpàn zhōng, dàibiǎotuán duì xiéyì wénběn de měi yí chù xìjié dōu jìnxíng le fǎnfù tuīqiāo hé yánjǐn quèrèn. | In complex diplomatic negotiations, the delegation repeatedly scrutinized and rigorously confirmed every detail of the agreement text. | En las complejas negociaciones diplomáticas, la delegación examinó minuciosamente y confirmó con rigor cada detalle del texto del acuerdo.
+
+collocations[6]{hanzi,en}:
+  注意细节 | pay attention to details
+  忽略细节 | overlook details
+  具体细节 | specific details
+  技术细节 | technical details
+  细节决定成败 | details determine success or failure
+  丰富细节 | enrich the details
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  不拘小节 | bù jū xiǎo jié | not bother about trifles; not adhere strictly to trivial rules
+  细水长流 | xì shuǐ cháng liú | a fine stream flows long; economize to ensure long-term sustainability
+  节衣缩食 | jié yī suō shí | live frugally; practice strict economy in clothing and food
+  明察秋毫 | míng chá qiū háo | perceive the finest detail; see clearly down to an autumn hair
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  细 | xì | fine; thin; meticulous | fino; delgado; meticuloso | 纟 | silk | 纟 (silk, suggesting fine threads) | 田 (tián, phonetic harmony) | 8 | 左右结构 | Phono-semantic compound where silk radical indicates delicate spun fiber. | A silken thread (纟) stretched across an open rice field (田) is so fine it captures the tiniest dew drops. | Un hilo de seda (纟) tendido sobre un campo de arroz (田) es tan fino que atrapa las gotas más diminutas. | 51 | VMW | 細
+  节 | jié | joint; node; segment; moderation | nudo; articulación; segmento; moderación | 艸 | grass | 艸 (grass, derived from bamboo nodes) | 卩 (jié, simplified form marker) | 8 | 上下结构 | Originally written with bamboo radical 節 indicating the distinct nodes dividing bamboo into measured sections. | Sprouts of vegetation (艹) growing up to a seal (卩) mark the measured seasonal breaks of a stem. | Brotes de hierba (艹) que crecen junto a un sello (卩) marcan las secciones medidas del tallo. | 35 | TSL | 節
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Examine every fine silk thread (细) tied at each bamboo joint (节) to grasp the true details.
+  composite_memory_hook_es: Examina cada fino hilo de seda (细) atado en cada nudo de bambú (节) para comprender los verdaderos detalles.
+  cultural_and_cognitive_roots: Traditional Chinese philosophy posits that wholeness emerges from the disciplined harmony of micro-units; 'xì' (fine thread) and 'jié' (bamboo joint) signify that elegance resides in flawless joints.
+  tone_sandhi_and_pitch_modulation: Pronounced with a 51-35 pitch contour (4th tone falling sharply, followed by 2nd tone rising cleanly). Do not truncate the rising contour of jié.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    粗 | cū | coarse; rough | Has radical 米 (rice) instead of 纟 (silk); semantically its direct antonym
+    组 | zǔ | group; organize | Shares radical 纟 but has 且 on the right instead of 田
+    符 | fú | tally; symbol | Has bamboo radical 竹 over 付; unrelated to 节
+    爷 | yé | grandfather; lord | Has top radical 父; distinct lower structure from 节
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    丝 | sī | silk; minute thread
+    幼 | yòu | infant; tender micro-growth
+    竹 | zhú | bamboo; parent radical of traditional 節
+    阶 | jiē | steps; discrete levels
+
+semantic_boundary_contrasts:
+  core_nuance: 细节 refers specifically to concrete micro-components, particulars, or subtle nuances embedded within a whole entity or situation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 细节 vs. 详细 | xiángxì | 细节 is a noun referring to the discrete facts or structural particulars, whereas 详细 is an adjective meaning thorough, detailed, or exhaustive in explanation.
+    2 | 细节 vs. 环节 | huánjié | 细节 denotes static individual elements or subtle touches, while 环节 represents a vital link, stage, or operational phase within a sequential process.
+    3 | 细节 vs. 情节 | qíngjié | 细节 applies broadly to any physical, technical, or behavioural detail, whereas 情节 is restricted to narrative plots, storylines, or dramatic sequences.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生活的美好往往隐藏在那些不被注意的细节之中。清晨桌案上一杯温热的红茶，窗台前一盆悄然绽放的花，都在静默中诉说着温度。懂得捕捉细节的人，才能在平凡岁月中体会生命的温润。 | Shēnghuó de měihǎo wǎngwǎng yǐncáng zài nàxiē bú bèi zhùyì de xìjié zhīzhōng. Qīngchén zhuō'àn shàng yì bēi wēnrè de hóngchá, chuāngtái qián yì pén qiǎorán zhànfàng de huā, dōu zài jìngmò zhōng sùshuō zhe wēndù. Dǒngdé bǔzhuō xìjié de rén, cáinǐng zài píngfán suìyuè zhōng tǐhuì shēngmìng de wēnrùn. | The beauty of life often hides within unnoticed details. A warm cup of black tea on the morning desk and a flower quietly blooming by the window silently convey warmth. Only those who know how to capture details can savor life's gentle grace in ordinary days. | La belleza de la vida a menudo se oculta en aquellos detalles que pasan desapercibidos. Una taza de té tibio sobre la mesa matutina y una flor que florece en silencio junto a la ventana expresan calidez. Solo quien sabe apreciar los detalles logra percibir la ternura de la existencia.
+  #2 | 制造业的竞争力正转向精密制造。在高端装备与半导体产业中，公差控制的微米级细节往往决定了整体性能与良品率。国际标准对生产细节的严苛要求，倒逼企业建立全生命周期的精细化管理体系。 | Zhìzàoyè de jìngzhēnglì zhèng zhuǎnxiàng jīngmì zhìzào. Zài gāoduān zhuāngbèi yǔ bàndǎotǐ chǎnyè zhōng, gōngchā kòngzhì de wēimǐ jí xìjié wǎngwǎng juédìng le zhěngtǐ xìngnéng yǔ liángpǐnlǜ. Guójì biāozhǔn duì shēngchǎn xìjié de yánkē yāoqiú, dàobī qǐyè jiànlì quán shēngmìng zhōuqī de jīngxìhuà guǎnlǐ tǐxì. | Manufacturing competitiveness is shifting toward precision engineering. In high-end equipment and semiconductor sectors, micron-level tolerance details often determine overall performance and yield. Stringent international standards on production details compel enterprises to establish lifecycle refined management systems. | La competitividad manufacturera evoluciona hacia la ingeniería de precisión. En equipos avanzados y semiconductores, los detalles de tolerancia micrométrica determinan el rendimiento y la calidad. Las exigentes normas internacionales sobre detalles productivos obligan a implantar una gestión refinada integral.

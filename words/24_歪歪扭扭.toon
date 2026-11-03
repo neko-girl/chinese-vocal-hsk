@@ -1,0 +1,63 @@
+id: 24
+hanzi: 歪歪扭扭
+pinyin: wāi wai niǔ niǔ
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: crooked; askew; winding; irregularly shaped; wobbling
+  es: torcido; chueco; torcido y desparejo; zigzagueante; desgarbado
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | crooked, uneven, askew, or irregularly aligned (often of handwriting, lines, or walking) | torcido, desalineado o irregular (se dice de la caligrafía, líneas o el andar) | 字写得歪歪扭扭 (handwriting is crooked and uneven)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 六岁的小外甥刚开始学写汉字，在练习本上用铅笔一笔一画写出歪歪扭扭的“爸爸妈妈”，模样十分可爱。 | Liù suì de xiǎo wàishēng gāng kāishǐ xué xiě hànzì, zài liànxí běn shàng yòng qiānbǐ yìbǐyíhuà xiě chū wāiwāiniǔniǔ de “bàba māma”, múyàng shífēn kě'ài. | My six-year-old nephew who just started learning Chinese characters wrote 'mom and dad' in crooked, uneven pencil strokes, looking utterly adorable. | Mi sobrino de seis años acaba de empezar a escribir hanzi, y trazó a lápiz un entrañable y torcido 'papá y mamá' en su libreta.
+  #2 | 地震发生后，原本笔直宽阔的乡间柏油马路在强烈的地质断裂挤压下，瞬间撕裂成数段歪歪扭扭的残破断道。 | Dìzhèn fāshēng hòu, yuánběn bǐzhí kuānkuò de xiāngjiān bǎiyóu mǎlù zài qiángliè de dìzhì duànliè jǐyā xià, shùnjiān sīliè chéng shù duàn wāiwāiniǔniǔ de cánpò duàndào. | After the earthquake, the once straight and wide rural asphalt road was instantly torn into crooked, buckled fragments by fault line shearing. | Tras el terremoto, la carretera asfaltada antes recta quedó quebrada en varios tramos zigzagueantes y deformes por la fractura geológica.
+
+collocations[6]{hanzi,en}:
+  字迹歪歪扭扭 | crooked handwriting
+  走得歪歪扭扭 | walk wobbly / staggering
+  排得歪歪扭扭 | arranged unevenly and crooked
+  歪歪扭扭的线条 | wobbly, crooked lines
+  歪歪扭扭的篱笆 | a crooked, askew fence
+  小路歪歪扭扭 | a winding, uneven path
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  东倒西歪 | dōng dǎo xī wāi | toppling over in all directions; unsteady and rickety
+  七扭八歪 | qī niǔ bā wāi | crooked and twisted in all directions
+  歪门邪道 | wāi mén xié dào | crooked ways and dishonest practices
+  歪风邪气 | wāi fēng xié qì | unhealthy tendencies and perverse atmospheres
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  歪 | wāi | crooked; askew; devious; inclined | torcido; ladeado; chueco; inclinado | 止 | stop / foot | 不 (not) + 正 (upright/straight) | 不 / 正 (compound ideograph) | 9 | 上下结构 | Brilliant compound ideograph joining 'not' (不) atop 'upright' (正): what is not straight is crooked (歪). | Placing 'not' (不) directly over 'upright' (正) literally creates 'not straight' = crooked. | Colocar 'no' (不) sobre 'recto' (正) genera literalmente 'no recto' = torcido. | 55 | MFMYM | ""
+  扭 | niǔ | turn; twist; wrench; wrenching motion | torcer; retorcer; girar; contorsionar | 手 | hand | 扌 (hand twisting) | 丑 (chǒu, claw/twisted knot) | 7 | 左右结构 | Phono-semantic character combining hand (扌) with a knotted hand/cord (丑), describing twisting with force. | Hands (扌) wrench and twist a stubborn knotted rope (丑). | Las manos (扌) retuercen una cuerda anudada y rebelde (丑). | 214 | QNG | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: What is not straight (歪) combined with hands wrenching and twisting (扭) produces a crooked, wobbly mess (歪歪扭扭).
+  composite_memory_hook_es: Lo que no es recto (歪) junto a manos que retuercen (扭) da lugar a trazos torcidos y desparejos (歪歪扭扭).
+  cultural_and_cognitive_roots: AABB reduplication emphasizes visual irregularity and playful clumsiness; in Chinese calligraphy culture where uprightness (正) signifies moral virtue, 歪扭 portrays innocent lack of discipline or physical decay.
+  tone_sandhi_and_pitch_modulation: 55-55-214-214 contour. In colloquial speech, the second syllable often takes a light or neutral tone (wāi-wai-niǔ-niu).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    正 | zhèng | upright; straight | Lacks the top 不 component of 歪; direct semantic antonym
+    纽 | niǔ | button; knot | Has silk radical 纟 on the left instead of hand 扌
+    妞 | niū | girl; lass | Has woman radical 女 on the left instead of hand 扌
+    羞 | xiū | shy; shame | Features 羊 (sheep) over 丑 instead of hand 扌
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    斜 | xié | slanting; tilted
+    曲 | qū | bent; curved
+    偏 | piān | deviated; off-center
+    拐 | guǎi | turn corner; swerve
+
+semantic_boundary_contrasts:
+  core_nuance: 歪歪扭扭 specifically describes lines, handwriting, pathways, or physical movement that are crooked, irregular, and lack straightness.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 歪歪扭扭 vs. 弯弯曲曲 | wānwānqūqū | 弯弯曲曲 describes smooth, natural, flowing bends (e.g., winding rivers, serpentine mountain roads), whereas 歪歪扭扭 suggests clumsy, unsightly, or irregular jagged crookedness.
+    2 | 歪歪扭扭 vs. 崎岖 | qíqū | 崎岖 emphasizes rugged, steep, rocky mountain topography difficult to traverse, whereas 歪歪扭扭 characterizes unaligned visual lines or stumbling footsteps.
+    3 | 歪歪扭扭 vs. 潦草 | liáocǎo | 潦草 strictly describes hasty, illegible handwriting or careless work, while 歪歪扭扭 denotes uneven alignment and physical deviation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 翻开泛黄的旧日记本，那几页用铅笔写下的字迹歪歪扭扭，记录着童年最纯真的秘密。虽然笔画稚嫩甚至偶有涂改，但每一笔都饱含着对世界最初的敬畏。那些歪歪扭扭的字迹，正是生命最鲜活的印记。 | Fānkāi fànhuáng de jiù rìjìběn, nà jǐ yè yòng qiānbǐ xiěxià de zìjì wāiwāiniǔniǔ, jìlù zhe tóngnián zuì chúnzhēn de mìmì. Suīrán bǐhuà zhìnèn shènzhì ǒu yǒu túgǎi, dàn měi yí bǐ dōu bǎohán zhe duì shìjiè zuìchū de jìngwèi. Nàxiē wāiwāiniǔniǔ de zìjì, zhèng shì shēngmìng zuì xiānhuó de yìnjì. | Opening the yellowed old diary, those pages written in crooked pencil strokes record childhood's purest secrets. Though strokes were immature and smudged, each stroke contained awe toward the world, becoming life's most vivid imprint. | Al abrir el viejo diario amarillento, aquellas páginas a lápiz con trazos torcidos guardan los secretos más puros de la infancia. Aunque los trazos eran torpes, reflejaban asombro por el mundo, convirtiéndose en huellas vivas del pasado.
+  #2 | 在古建筑保护修复工程中，老工匠们面对岁月侵蚀导致歪歪扭扭的木构架梁柱，始终坚持修旧如旧的原则。通过微创纠偏与碳纤维加固技术，既校正了结构的安全承载极限，又完整保留了岁月沉淀的历史沧桑美感。 | Zài gǔ jiànzhù bǎohù xiūfù gōngchéng zhōng, lǎo gōngjiàng men miànduì suìyuè qīnshí dǎozhì wāiwāiniǔniǔ de mù gòujià liángzhù, shǐzhōng jiānchí xiūjiùrújìu de yuánzé. Tōngguò wēichuàng jiūpiān yǔ tànxiānwéi jiāgù jìshù, jì jiàozhèng le jiégòu de ānquán chéngzài jíxiàn, yòu wánzhěng bǎoliú le suìyuè chéndiàn de lìshǐ cāngsāng měigǎn. | In restoring historical architecture, veteran artisans confronting timbers distorted and askew by centuries abide by the principle of restoring the old as it was. Correcting load thresholds via micro-realignment preserves authentic aged beauty. | En la restauración patrimonial, los maestros artesanos ante vigas de madera torcidas por los siglos aplican el principio de reparar conservando la vejez. Reajustar la carga estructural rescata la seguridad sin borrar la pátina histórica.

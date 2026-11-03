@@ -1,0 +1,62 @@
+id: 21
+hanzi: 喊
+pinyin: hǎn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to shout; to yell; to cry out; to call someone
+  es: gritar; vocear; llamar a alguien; clamar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to utter a loud vocal cry, shout, or call out someone's name | emitir gritos o alzar la voz con fuerza para llamar o alertar | 大声呼喊 (shout loudly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在人声鼎沸的火车站广场上，母亲远远看到刚下火车的儿子，激动地挥着手大声喊着他的名字。 | Zài rénshēngdǐngfèi de huǒchēzhàn guǎngchǎng shàng, mǔqīn yuǎnyuǎn kàndào gāng xià huǒchē de érzi, jīdòng de huī zhe shǒu dàshēng hǎn zhe tā de míngzi. | In the bustling railway station square, spotting her son who had just stepped off the train from afar, the mother excitedly waved and shouted his name. | En la concurrida plaza de la estación, al divisar de lejos a su hijo que bajaba del tren, la madre agitó el brazo emocionada llamándolo a gritos por su nombre.
+  #2 | 在发生山体滑坡地质险情时，巡防网格员第一时间敲响铜锣并沿街高喊预警口号，迅速疏散群众。 | Zài fāshēng shāntǐ huápō dìzhì xiǎnqíng shí, xúnfáng wǎnggéyuán dì-yī shíjiān qiāoxiǎng tóngluó bìng yánjiē gāohǎn yùjǐng kǒuhào, xùnsù shūsàn qúnzhòng. | When a dangerous landslide occurred, the patrol officer immediately sounded the brass gong and shouted warning alerts along the street, rapidly evacuating residents. | Ante la amenaza de un deslizamiento de tierra, el vigilante hizo sonar el gong y recorrió las calles gritando alertas para evacuar rápidamente a los vecinos.
+
+collocations[6]{hanzi,en}:
+  大声喊 | shout at the top of one's voice
+  高喊口号 | shout slogans aloud
+  喊救命 | shout for help
+  大喊大叫 | shout and scream rowdily
+  喊停 | call a halt / yell stop
+  喊他一声 | call him over
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大喊大叫 | dà hǎn dà jiào | shout and scream loudly; kick up a row
+  摇旗呐喊 | yáo qí nà hǎn | wave flags and shout battle cries; cheer on and support
+  贼喊捉贼 | zéi hǎn zhuō zéi | a thief crying 'catch thief'; divert attention by blaming others
+  人喊马叫 | rén hǎn mǎ jiào | men shouting and horses neighing; hustle and din of motion
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  喊 | hǎn | shout; yell; call; cry out | gritar; vocear; llamar | 口 | mouth | 口 (mouth, projecting vocal cries) | 咸 (xián, collective/all phonetics) | 12 | 左右结构 | Phono-semantic character pairing mouth (口) with 咸 (xián), meaning to raise a loud unified call heard by all. | Opening the mouth (口) wide with weapons raised (咸) to bellow a battle cry across the fields. | Abrir la boca (口) de par en par alzando lanzas (咸) para lanzar un potente grito al viento. | 214 | RIHR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A wide-open mouth (口) bellows a commanding cry (咸) that carries across the hills: that is shouting (喊).
+  composite_memory_hook_es: Una boca abierta (口) proyecta una orden sonora (咸) que retumba en el valle: eso es gritar (喊).
+  cultural_and_cognitive_roots: Derived from military calls and village collective alerts ('呐喊'); raising the voice carries primal social functions: warning of imminent peril or uniting collective morale.
+  tone_sandhi_and_pitch_modulation: 214 pitch contour. A deep dipping 3rd tone; when placed before other 3rd tones, it changes to 2nd tone (35); in isolation, it drops low and rises distinctly.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    减 | jiǎn | reduce; subtract | Has water radical 冫/氵 on the left instead of mouth 口
+    缄 | jiān | seal; close | Has silk radical 纟 on the left instead of mouth 口
+    感 | gǎn | feel; sense | Features 心 (heart) at the bottom beneath 咸
+    咸 | xián | salty; all | The phonetic stem itself lacking mouth radical 口
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    叫 | jiào | call; shout; yell
+    唤 | huàn | summon; call out
+    呼 | hū | exhale; cry aloud
+    咆 | páo | roar; bluster
+
+semantic_boundary_contrasts:
+  core_nuance: 喊 denotes forcefully raising the acoustic volume of the voice to project distance cries, alerts, or emotional shouts.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 喊 vs. 叫 | jiào | 叫 can mean calling someone's name, being named, animal sounds, or ordering, whereas 喊 focuses specifically on projecting loud vocal volume into the air.
+    2 | 喊 vs. 呼 | hū | 呼 is more formal/literary (e.g., 呼唤, 欢呼), while 喊 is colloquial and physically direct (e.g., 大喊大叫).
+    3 | 喊 vs. 嚷 | rǎng | 嚷 carries the negative nuance of noisy, disorderly blustering or making an irritating fuss, while 喊 is a neutral acoustic description.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 站在青翠巍峨的苍山之巅，面对无边无际的云海翻涌，胸中所有的郁结都在那一刻化作了一声悠长的大喊。山风穿透胸膛，回声在幽谷间荡气回肠，将少年的热血与梦想送向了天际。 | Zhàn zài qīngcuì wēi'é de cāngshān zhī diān, miànduì wúbiānwújì de yúnhǎi fānyǒng, xiōng zhōng suǒyǒu de yùjié dōu zài nà yí kè huàzuò le yì shēng yōucháng de dàhǎn. Shānfēng chuāntòu xiōngtáng, huíshēng zài yōugǔ jiān dàngqìhuícháng, jiāng shàonián de rèxuè yǔ mèngxiǎng sòngxiàng le tiānjì. | Standing atop the verdant peaks facing boundless seas of surging clouds, all gloom within the chest dissolved into a resounding shout. Mountain breezes pierced through as echoes lingered, carrying dreams toward the sky. | En la cima de las montañas frente a un mar de nubes ondulantes, el desasosiego del pecho se disolvió en un grito prolongado. La brisa serrana y el eco en el valle elevaron los sueños juveniles hacia el firmamento.
+  #2 | 在现代海上应急搜救体系中，声光双重遇险求救信号能够大幅提升搜寻效率。即便在卫星通信失效的极端海况下，水上扩音喊话设备依然是搜救船只在浓雾视距内实施喊话联络与生命指引的可靠手段。 | Zài xiàndài hǎishàng yìngjí sōujiù tǐxì zhōng, shēng guāng shuāngzhòng yùxiǎn qiújiù xìnhào nénggòu dàfú tíshēng sōuxún xiàolǜ. Jíbīan zài wèixīng tōngxìn shīxiào de jíduān hǎikuàng xià, shuǐshàng kuòyīn hǎnhuà shèbèi yīrán shì sōujiù chuánzhī zài nóngwù shìjù nèi shíshī hǎnhuà liánluò yǔ shēngmìng zhǐyǐn de kěkào shǒuduàn. | In maritime emergency search and rescue systems, dual acoustic-optical distress signals elevate search efficiency. When satellite communication fails in extreme seas, amplification hailing gear remains a dependable method for guiding survivors in dense fog. | En el salvamento marítimo, las señales acústicas y ópticas multiplican la eficacia del rescate. Ante el fallo de satélites en tormentas, los megáfonos de largo alcance siguen siendo un medio seguro para guiar vidas entre la niebla.

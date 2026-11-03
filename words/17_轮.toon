@@ -1,0 +1,63 @@
+id: 17
+hanzi: 轮
+pinyin: lún
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to take turns; to rotate; round; wheel
+  es: turnar; tocarle el turno a; rueda; ronda
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to take turns; to rotate in sequence; to be one's turn to act | tomar turnos; rotar sucesivamente; corresponderle el turno a alguien | 轮到谁了 (whose turn is it?)
+  2 | Measure Word | Standard | measure word for rounds of negotiations, rounds of matches, or big round celestial bodies | clasificador para rondas de negociaciones, partidos o astros redondos | 新一轮谈判 (a new round of talks)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 按照我们宿舍制定的值日生规则，今天放学后该轮到我和李明一起负责打扫教室走廊了。 | Ànzhào wǒmen sùshè zhìdìng de zhírìshēng guīzé, jīntiān fàngxué hòu gāi lún dào wǒ hé Lǐ Míng yìqǐ fùzé dǎsǎo jiàoshì zǒuláng le. | According to the duty roster formulated in our dormitory, after school today it is my and Li Ming's turn to clean the classroom corridor. | Según el turno de limpieza fijado en nuestro dormitorio, hoy al salir de clase nos toca a Li Ming y a mí limpiar el pasillo de las aulas.
+  #2 | 多边贸易谈判代表团在日内瓦结束了第二轮密集磋商，就关税减免清单的阶段性执行达成了初步共识。 | Duōbiān màoyì tánpàn dàibiǎotuán zài Rìnèiwǎ jiéshù le dì-èr lún mìjí cuōshāng, jiù guānshuì jiǎnmiǎn qīngdān de jiēduànxìng zhíxíng dáchéng le chūbù gòngshí. | The multilateral trade negotiation delegation concluded its second round of intensive consultations in Geneva, reaching an initial consensus on phased tariff reduction lists. | La delegación de negociaciones comerciales multilaterales concluyó su segunda ronda de consultas en Ginebra, logrando un consenso preliminar sobre desgravaciones arancelarias.
+
+collocations[6]{hanzi,en}:
+  轮到我 | my turn
+  轮流值班 | take turns on duty
+  新一轮 | a brand new round
+  轮流发言 | take turns speaking
+  风水轮流转 | fortune rotates round and round
+  一轮明月 | a bright round moon
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  摩拳擦掌 | mó quán cā zhǎng | rub one's fists and palms; eager to take one's turn to fight
+  轮番上阵 | lún fān shàng zhèn | take the field in alternating shifts; attack in relays
+  风水轮流转 | fēng shuǐ lún liú zhuàn | the wheel of fortune keeps turning
+  珠圆玉润 | zhū yuán yù rùn | round as pearls and smooth as jade; elegant articulation
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  轮 | lún | wheel; turn; rotate; disk | rueda; turno; rotar; disco | 车 | cart / vehicle | 车 (cart/chariot vehicle) | 仑 (lún, orderly sequence) | 8 | 左右结构 | Phono-semantic character combining cart (车) with ordered sequence (仑), denoting the cyclical revolution of vehicle wheels. | A wooden cart (车) rolls forward on wheels turning in orderly rhythm (仑). | Un carro (车) avanza sobre ruedas que giran en orden constante (仑). | 35 | KQOP | 輪
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Just as a cart wheel (轮) circles continuously, human turns and rounds rotate in orderly cycles.
+  composite_memory_hook_es: Igual que la rueda de un carro (轮) gira sin cesar, los turnos humanos rotan en ciclos ordenados.
+  cultural_and_cognitive_roots: The cart wheel ('lún') is an archetypal Chinese cognitive metaphor for cyclical movement, cosmic cycles (Samsara 轮回), and equitable rotation of responsibilities among individuals.
+  tone_sandhi_and_pitch_modulation: 35 pitch contour. A single rising 2nd tone that starts mid-pitch and ascends clearly to high pitch without falling.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    辆 | liàng | measure word for vehicles | Right side is 两 rather than 仑
+    输 | shū | lose; transport | Right side is 俞 rather than 仑
+    论 | lùn | discuss; theory | Has speech radical 讠 on the left instead of cart 车
+    伦 | lún | ethics; logic | Has person radical 亻 on the left instead of cart 车
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    仑 | lún | order; logic; phonetic matrix
+    转 | zhuǎn | turn; rotate sharing the cart radical
+    轨 | guǐ | track; orbital path of wheels
+    轩 | xuān | carriage with high canopy
+
+semantic_boundary_contrasts:
+  core_nuance: 轮 focuses on cyclical succession, orderly rotation, or the arrival of a scheduled sequential turn.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 轮 vs. 替 | tì | 替 means to substitute or stand in for someone else out of necessity, whereas 轮 indicates taking turns according to a planned sequential order.
+    2 | 轮 vs. 换 | huàn | 换 refers to exchanging or swapping items or positions, whereas 轮 denotes cyclical progression along a roster.
+    3 | 轮 vs. 次 | cì | 次 is a generic measure word for occurrences, whereas 轮 specifically marks rounds in a match, cycles of negotiations, or rotations.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 岁月如车轮般滚滚向前，春去秋来，寒暑交替。生命的每个阶段都有它独特的景致，年少时的欢愉终会轮换为成年后的担当。懂得在人生的四季流转中顺应自然，便能在静观万物中收获内心的豁达。 | Suìyuè rú chēlún bān gǔngǔn qiánxiàng, chūn qù qiū lái, hánshǔ jiāotì. Shēngmìng de měi gè jiēduàn dōu yǒu tā dútè de jǐngzhì, niánshào shí de huányú zhōng huì lúnhuàn wéi chéngnián hòu de dāndāng. Dǒngdé zài rénshēng de sìjì liúzhuǎn zhōng shùnyìng zìrán, biàn néng zài jìngguān wànwù zhōng shōuhuò nèixīn de huòdá. | Time rolls forward like a wheel; spring departs and autumn arrives as seasons alternate. Each stage of life possesses distinct scenery, where youth's mirth yields in turn to adult duty. Yielding to nature's cycles grants profound inner peace. | El tiempo avanza como una rueda; la primavera cede su lugar al otoño en un ciclo constante. Cada etapa vital encierra su propia belleza, donde el júbilo juvenil se transforma en responsabilidad adulta, brindando serenidad a quien fluye con los cambios.
+  #2 | 为防范金融系统周期性信贷风险，宏观调控部门启动了新一轮逆周期监管措施。各大商业银行轮流展开信贷资产质量压力测试，重点排查地方隐性债务与高杠杆行业风险，为实体经济平稳健康运行筑牢安全底线。 | Wèi fángfàn jīnróng xìtǒng zhōuqīxìng xìndài fēngxiǎn, hóngguān tiáokòng bùmén qǐdòng le xīn yì lún nìzhōuqī jiānguǎn cuòshī. Gè dà shāngyè yínháng lúnliú zhǎnkāi xìndài zīchǎn zhìliàng yālì cèshì, zhòngdiǎn páichá dìfāng yǐnxìng zhàiwù yǔ gāo gànggǎn hángyè fēngxiǎn, wèi shítǐ jīngjì píngwěn jiànkāng yùnxíng zhùláo ānquán dǐxiàn. | To guard against cyclical credit risks in finance, regulators launched a new round of countercyclical oversight measures. Commercial banks took turns conducting stress tests on asset quality, screening local debt and highly leveraged sectors to fortify economic stability. | Para prevenir riesgos crediticios cíclicos, los reguladores financieros iniciaron una nueva ronda de medidas contracíclicas. Los bancos comerciales realizaron pruebas de resistencia por turnos, evaluando deudas ocultas y sectores de alto apalancamiento para blindar la economía.

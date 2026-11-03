@@ -1,0 +1,63 @@
+id: 23
+hanzi: 手指
+pinyin: shǒu zhǐ
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: finger; digits of the hand
+  es: dedo; dedos de la mano
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | any of the five jointed terminal appendages of the human hand | cada una de las cinco extremidades articuladas de la mano humana | 手指灵活 (nimble fingers)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 年轻的钢琴家坐在聚光灯下，十根修长的手指在黑白琴键上飞速跃动，流淌出令人沉醉的激昂乐章。 | Niánqīng de gāngqínjiā zuò zài jùguāngdēng xià, shí gēn xiūcháng de shǒuzhǐ zài hēibái qínjiàn shàng fēisù yuèdòng, liútǎng chū lìng rén chénzuì de jī'áng yuèzhāng. | Under the spotlight, the young pianist sat as his ten slender fingers danced swiftly over the black and white keys, pouring forth an intoxicating movement. | Bajo los reflectores, el joven pianista tocaba mientras sus diez dedos alargados danzaban sobre las teclas blancas y negras, desgranando una melodía apasionada.
+  #2 | 随着现代智能终端的普及，多模态生物识别技术已通过采集手指静脉纹理特征，实现了金融级安全认证。 | Suízhe xiàndài zhìnéng zhōngduān de pǔjí, duōmótài shēngwù shíbié jìshù yǐ tōngguò cǎijí shǒuzhǐ jìngmài wénlǐ tèzhēng, shíxiàn le jīnróng jí ānquán rènzhèng. | With the ubiquity of smart terminals, multimodal biometric recognition has achieved financial-grade authentication by capturing finger vein patterns. | Con el auge de los dispositivos inteligentes, la identificación biométrica multimodal autentica transacciones financieras captando el mapa de venas del dedo.
+
+collocations[6]{hanzi,en}:
+  手指灵活 | nimble / dexterous fingers
+  掰手指 | count on one's fingers
+  手指受伤 | injured finger
+  十根手指 | ten fingers
+  手指肚 | pad of the finger / fingertip
+  咬破手指 | bite one's finger
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  了如指掌 | liǎo rú zhǐ zhǎng | know something as clearly as the palm and fingers of one's hand
+  屈指可数 | qū zhǐ kě shǔ | can be counted on one's fingers; very few in number
+  指鹿为马 | zhǐ lù wéi mǎ | point to a deer and call it a horse; deliberate falsehood
+  十指连心 | shí zhǐ lián xīn | all ten fingers connect to the heart; pain deeply felt
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  手 | shǒu | hand; skilled person | mano; persona diestra | 手 | hand | 手 (pictogram of palm and five fingers) | 手 (inherent phoneme) | 4 | 单一结构 | Pictogram of an open human palm displaying outstretched fingers. | An open hand (手) extends five distinct finger lines ready to grasp. | Una mano abierta (手) extiende sus dedos lista para asir y trabajar. | 214 | Q | ""
+  指 | zhǐ | finger; point; direct; indicate | dedo; apuntar; indicar; señalar | 手 | hand | 扌 (hand radical) | 旨 (zhǐ, purpose/delicious marker) | 9 | 左右结构 | Phono-semantic character pairing hand (扌) with pointing out intention (旨), denoting the pointing finger. | The hand's foremost tool (扌) points directly toward the target destination (旨). | La herramienta frontal de la mano (扌) señala directamente hacia el objetivo (旨). | 214 | QPA | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The hand's (手) pointing appendages (指) are our agile fingers.
+  composite_memory_hook_es: Los extremos señaladores (指) de la mano (手) componen nuestros hábiles dedos.
+  cultural_and_cognitive_roots: The proverb '十指连心' (ten fingers connect to the heart) reflects the neurological truth that fingertips possess the highest density of tactile receptors, metaphorically linking manual touch with emotional empathy.
+  tone_sandhi_and_pitch_modulation: Tone sandhi: two consecutive 3rd tones (214-214) shift the first syllable to a rising 2nd tone (35): pronounced shóuzhǐ (35-214).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    毛 | máo | hair; fur | Bottom stroke bends rightward with a hook (乚) rather than a curved sweep
+    牛 | niú | ox; cow | Vertical stroke pierces top horizontal stroke; distinct from 手
+    脂 | zhī | fat; grease | Has meat/moon radical 月 on the left instead of hand 扌
+    诣 | yì | attainment; visit | Has speech radical 讠 on the left instead of hand 扌
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    掌 | zhǎng | palm; sole
+    拳 | quán | fist
+    甲 | jiǎ | fingernail; armor
+    爪 | zhuǎ | claw; talon
+
+semantic_boundary_contrasts:
+  core_nuance: 手指 refers specifically and anatomically to the individual digits extending from the hand.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 手指 vs. 手掌 | shǒuzhǎng | 手掌 is the flat broad palm of the hand, whereas 手指 refers to the articulated digits extending from the palm.
+    2 | 手指 vs. 手头 | shǒutóu | 手头 is an abstract idiom referring to one's current financial or material condition (e.g., 手头紧), unrelated to anatomy.
+    3 | 手指 vs. 脚趾 | jiǎozhǐ | 手指 refers to fingers of the hand, whereas 脚趾 refers to toes of the foot.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 母亲那一双布满老茧的手指，曾抚平过我童年无数次的跌倒与哭泣。岁月在她的指节上刻下了粗糙的沟壑，但当那双温暖的手指轻轻拂过额头，所有的疲惫与委屈都会在刹那间烟消云散。 | Mǔqīn nà yì shuāng bùmǎn lǎojiǎn de shǒuzhǐ, céng fǔpíng guò wǒ tóngnián wúshù cì de diēdǎo yǔ kūqì. Suìyuè zài tā de zhǐjié shàng kèxià le cūcāo de gōuhè, dàn dāng nà shuāng wēnnuǎn de shǒuzhǐ qīngqīng fúguò étóu, suǒyǒu de píbèi yǔ wěiqu dōu huì zài chànà jiān yānxiāoyúnsàn. | Mother's calloused fingers smoothed away countless falls and tears in my childhood. Years carved rough furrows into her knuckles, but when those warm fingers brushed across my brow, all weariness vanished instantly. | Los dedos encallecidos de mi madre calmaron incontables caídas de mi infancia. El paso del tiempo grabó surcos en sus nudillos, pero cuando rozaban mi frente con ternura, cualquier fatiga se disipaba al instante.
+  #2 | 在工业机器人高精装配领域，微米级多指柔性灵巧手代表着精密机械制造的尖端水平。通过在仿生手指末端集成阵列式触觉传感器，机器人能够在毫秒间精准感知接触面摩擦力，实现脆弱元件的安全抓取。 | Zài gōngyè jīqìrén gāojīng zhuāngpèi lǐngyù, wēimǐ jí duōzhǐ róuxìng língqiǎo shǒu dàibiǎo zhe jīngmì jīxiè zhìzào de jiānduān shuǐpíng. Tōngguò zài fǎngshēng shǒuzhǐ mòduān jíchéng zhènlièshì chùjué chuángǎnqì, jīqìrén nénggòu zài háomiǎo jiān jīngzhǔn gǎnzhī jiēchùmiàn mócālì, shíxiàn cuìruò yuánjiàn de ānquán zhuāqǔ. | In precision industrial robotics, multifacted dexterous hands represent manufacturing frontiers. Integrating tactile sensor arrays on bionic fingertips enables robots to sense friction within milliseconds, safely gripping fragile components. | En la robótica de montaje, las manos biónicas multidedo representan la vanguardia técnica. Integrar sensores táctiles en las yemas permite detectar la fricción en milisegundos para manipular componentes delicados sin dañarlos.

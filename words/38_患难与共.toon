@@ -1,0 +1,65 @@
+id: 38
+hanzi: 患难与共
+pinyin: huàn nàn yǔ gòng
+level: HSK 5
+part_of_speech: Idiom
+
+meanings_summary:
+  en: to share hardships and tribulations together; go through thick and thin together
+  es: compartir juntos las adversidades; apoyarse en las duras y en las maduras; compartir infortunios
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Idiom | Literary | to stand together and share adversity, hardship, and peril side by side as steadfast partners or companions | permanecer unidos afrontando juntos las penurias, peligros y adversidades como aliados incondicionales | 患难与共的夫妻 (husband and wife who shared hardships together)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在创业最艰难的创业初期，合伙人不仅没有分道扬镳，反而同住一间地下室患难与共，最终攻克难关创立了行业知名品牌。 | Zài chuàngyè zuì jiānnán de chuàngyè chūqī, héhuǒrén bùjǐn méiyǒu fēndàoyángbiāo, fǎn'ér tóng zhù yì jiān dìxiàshì huànnànyǔgòng, zuìzhōng gōngkè nánguān chuànglì le hángyè zhīmíng pǐnpái. | During the most grueling early startup days, the partners did not part ways; instead, they lived in a basement sharing hardships together, conquering hurdles to establish a renowned brand. | En los inicios más duros del emprendimiento, los socios no se dispersaron; compartieron juntos las penurias en un sótano, superando obstáculos hasta forjar una marca líder.
+  #2 | 建交半个多世纪以来，两国人民在争取民族独立与推动国家现代化建设的历史进程中始终患难与共，结下了坚不可摧的深厚友谊。 | Jiànjiāo bàn gè shìjì yǐlái, liǎng guó rénmín zài zhēngqǔ mínzú dúlì yǔ tuīdòng guójiā xiàndàihuà jiànshè de lìshǐ jìnchéng zhōng shǐzhōng huànnànyǔgòng, jiéxià le jiānbùkěcuī de shēnhòu yǒuyì. | Since establishing diplomatic relations over half a century ago, the peoples of both nations have shared hardships together in modernization, forging unbreakable friendship. | En más de medio siglo de lazos diplomáticos, ambos pueblos han compartido vicisitudes en la búsqueda de su soberanía y desarrollo, forjando una amistad indestructible.
+
+collocations[6]{hanzi,en}:
+  患难与共的朋友 | friends who shared trials and tribulations
+  患难与共的真情 | true devotion tested by hardship
+  始终患难与共 | always share hardships together throughout
+  患难与共的经历 | experience of weathering storms together
+  誓死患难与共 | vow to share trials together unto death
+  同舟共济患难与共 | in the same boat sharing tribulations
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  同甘共苦 | tóng gān gòng kǔ | share both sweetness and bitterness; go through thick and thin
+  风雨同舟 | fēng yǔ tóng zhōu | stand together in the same boat through wind and rain
+  肝胆相照 | gān dǎn xiāng zhào | show utmost sincerity and devotion; hearts reflecting each other
+  生死与共 | shēng sǐ yǔ gòng | share life and death together; inseparable unto the grave
+
+character_decomposition[4]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  患 | huàn | calamity; disaster; suffer; illness | calamidad; padecer; infortunio; mal | 心 | heart | 心 (heart weighed down by trouble) | 串 (chuàn, strung through) | 11 | 上下结构 | Depicts two arrows or obstacles pierced through (串) over the heart (心), signifying deep anxieties and perils. | Troubles pierce like arrows through the heart (心), bringing grief and peril (患). | Las penas atraviesan el corazón (心) como flechas, trayendo aflicción e infortunio (患). | 51 | LKP | ""
+  难 | nàn | disaster; catastrophe; hardship; adversity | desgracia; catástrofe; adversidad; tribulación | 隹 | short-tailed bird | 隹 (bird trapped in distress) | 又 (hand grasping phonetics) | 10 | 左右结构 | Depicts a distressed bird (隹) caught in adversity; pronounced in 4th tone (nàn) meaning calamity or disaster. | A bird (隹) caught under hardship struggles through catastrophic calamity (难). | Un ave (隹) atrapada en la tormenta lucha por sobrevivir a la catástrofe (难). | 51 | EOG | 難
+  与 | yǔ | and; with; together with; give | y; con; junto a; dar | 一 | one | 一 (unifying link / hands joining) | 与 (archaic phoneme) | 3 | 单一结构 | Simplification of traditional 與 depicting multiple hands joining together in mutual cooperation. | A stroke bends round to link two entities into unified companionship (与). | Un trazo fluido enlaza a dos partes en mutua compañía (与). | 214 | YSM | 與
+  共 | gòng | common; shared; together; join | común; compartido; juntos; unirse | 八 | eight / divide | 廾 (two hands lifting together) | 廿 (twenty/plurality) | 6 | 上下结构 | Depicts two hands (廾/八) jointly holding and lifting an object together in shared solidarity. | Two hands raised together from below (八) unite to bear a shared destiny. | Dos manos alzadas a la vez (八) se unen para sostener un destino común. | 51 | TC | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Confronting perils (患) and catastrophes (难), standing hand-in-hand together with (与) shared destiny (共) defines enduring solidarity.
+  composite_memory_hook_es: Afrontar peligros (患) y desdichas (难), unidos de la mano (与) en hermandad común (共) encarna la solidaridad inquebrantable.
+  cultural_and_cognitive_roots: From the Sima Qian's Records of the Grand Historian (史记·越王勾践世家): '越王为人长颈鸟喙，可与共患难，不可与共乐' (The King of Yue is a man with whom one can share adversity, but not prosperity). In modern Chinese ethics, the idiom represents the ultimate benchmark of steadfast friendship and marital loyalty.
+  tone_sandhi_and_pitch_modulation: 51-51-214-51 pitch contour. Notice that 难 is pronounced in the 4th tone nàn (51, meaning calamity), NOT 2nd tone nán (difficult); yǔ is pronounced as a half-3rd tone (21 low) before gòng (51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    忠 | zhōng | loyal | Features 中 over 心 instead of 串
+    淮 | huái | Huai River | Features water radical 氵 on the left with 隹
+    写 | xiě | write | Features crown radical 冖 on top of 与
+    其 | qí | his; its | Features additional horizontal strokes inside
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    同 | tóng | same; shared with
+    盟 | méng | alliance sworn in blood
+    劫 | jié | calamity; catastrophe
+    难 | nàn | adversity; headword root
+
+semantic_boundary_contrasts:
+  core_nuance: 患难与共 specifically denotes staunchly staying together to endure severe hardship, danger, and adversity without deserting one another.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 患难与共 vs. 同甘共苦 | tónggāngòngkǔ | 同甘共苦 covers sharing both joy and sorrow (sweetness and bitterness), whereas 患难与共 specifically emphasizes standing firm through severe peril and tribulation.
+    2 | 患难与共 vs. 风雨同舟 | fēngyǔtóngzhōu | 风雨同舟 evokes the visual metaphor of sailing together in a turbulent storm facing common peril, while 患难与共 focuses on deep personal and institutional loyalty during life crises.
+    3 | 患难与共 vs. 同舟共济 | tóngzhōugòngjì | 同舟共济 stresses practical mutual assistance and cooperative effort to overcome an emergency obstacle, whereas 患难与共 highlights enduring emotional and ethical solidarity.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 岁月如流水般冲刷着人间的喧嚣，唯有患难与共的情谊能抵挡时光的侵蚀。锦上添花者虽众，但当暴风雨降临，能在泥泞中紧握你的双手、共担寒霜的知己，才是生命中最珍贵的奇迹。这种深情，早已超越了言语的界限。 | Suìyuè rú liúshuǐ bān chōngshuā zhe rénjiān de xuānxiāo, wéiyǒu huànnànyǔgòng de qíngyì néng dǐdǎng shíguāng de qīnshí. Jǐnshàngtiānhuā zhě suī zhòng, dàn dāng bàofēngyǔ jiànglín, néng zài nǐnìng zhōng jǐnwò nǐ de shuāngshǒu, gòngdān hánshuāng de zhījǐ, cái shì shēngmìng zhōng zuì zhēnguì de qíjì. Zhè zhǒng shēnqíng, zǎoyǐ chāoyuè le yányǔ de jièxiàn. | Years wash away mortal clamor like flowing water; only bonds forged in shared hardship withstand time. Flatterers abound, but friends who grip your hand in the mud and share the frost when storms hit are life's rarest miracles, surpassing all words. | Los años disipan el bullicio humano como agua corriente; solo la amistad que comparte adversidades desafía al tiempo. Sobran quienes halagan en la dicha, pero el amigo que te sostiene en el fango compartiendo el frío es el mayor milagro de la vida.
+  #2 | 在错综复杂的国际局势下，真正的战略伙伴关系建立在患难与共的互信基础之上。面对全球供应链动荡与气候危机，各国唯有摒弃零和思维，携手应对挑战，方能筑牢命运共同体的安全屏障。 | Zài cuòzōngfùzá de guójì júshì xià, zhēnzhèng de zhànlüè huǒbàn guānxì jiànlì zài huànnànyǔgòng de hùxìn jīchǔ zhī shàng. Miànduì quánqiú gōngyìngliàn dòngdàng yǔ qìhòu wēijī, gè guó wéiyǒu bìngqì línghé sīwéi, xiéshǒu yìngduì tiǎozhàn, fāng néng zhùláo mìngyùn gòngtóngtǐ de ānquán píngzhàng. | In complex geopolitics, genuine strategic partnerships are founded on mutual trust forged through shared hardship. Confronting supply chain turmoil and climate crises, nations must discard zero-sum mindsets and unite to fortify global security. | En la compleja geopolítica, la auténtica alianza estratégica se cimienta en la confianza mutua que comparte vicisitudes. Frente a la inestabilidad global y la crisis climática, los países deben superar la mentalidad de suma cero y cooperar por la seguridad común.

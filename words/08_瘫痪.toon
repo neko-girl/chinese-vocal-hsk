@@ -1,0 +1,64 @@
+id: 8
+hanzi: 瘫痪
+pinyin: tān huàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to be paralyzed; paralysis; breakdown; gridlock
+  es: estar paralizado; parálisis; colapso; paralización
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to suffer loss of motor function or physical paralysis due to neurological or spinal illness | perder la función motora o sufrir parálisis física por enfermedad neurológica | 双腿瘫痪 (legs are paralyzed)
+  2 | Verb | Metaphorical | to completely break down, grind to a halt, or collapse (of systems, traffic, computers) | colapsar por completo o quedar inoperante (tráfico, redes, sistemas) | 交通陷入瘫痪 (traffic collapsed into gridlock)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 虽然在一场意外车祸中不幸下肢瘫痪，但他凭借坚强的毅力自学编程，最终创办了无障碍软件公司。 | Suīrán zài yì chǎng yìwài chēhuò zhōng bùxìng xiàzhī tānhuàn, dàn tā píngjiè jiānqiáng de yìlì zìxué biānchéng, zuìzhōng chuàngbàn le wúzhàng'ài ruǎnjiàn gōngsī. | Although his lower limbs were paralyzed in an unfortunate car accident, he taught himself programming through sheer willpower and founded an accessibility software company. | A pesar de que sus piernas quedaron paralizadas en un accidente, aprendió programación con tenacidad y fundó una empresa de software de accesibilidad.
+  #2 | 突如其来的罕见特大暴雪导致该枢纽机场跑道严重结冰，供电系统受损，整个地面交通保障网络陷入全面瘫痪。 | Tūrúqílái de hǎnjiàn tìdà bàoxuě dǎozhì gāi shūniǔ jīchǎng pǎodào yánzhòng jiébīng, gōngdiàn xìtǒng shòusǔn, zhěnggè dìmiàn jiāotōng bǎozhàng wǎngluò xiànrù quánmiàn tānhuàn. | A sudden blizzard caused severe icing on the hub airport's runways and power damage, plunging the entire ground transport network into complete paralysis. | Una inesperada ventisca heló las pistas del aeropuerto neurálgico y dañó el suministro eléctrico, sumiendo la red de transporte en una parálisis total.
+
+collocations[6]{hanzi,en}:
+  陷入瘫痪 | fall into complete paralysis / gridlock
+  下肢瘫痪 | paralysis of the lower limbs
+  交通瘫痪 | traffic gridlock / breakdown
+  全身瘫痪 | quadriplegia / total paralysis
+  系统瘫痪 | system outage / crash
+  导致瘫痪 | lead to paralysis / standstill
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  半身不遂 | bàn shēn bù suí | hemiplegia; paralysis of one side of the body
+  寸步难行 | cùn bù nán xíng | cannot take a single step; stuck in immense difficulty
+  风烛残年 | fēng zhú cán nián | like a candle in the wind; in one's frail declining years
+  麻木不仁 | má mù bù rén | numb and unfeeling; utterly insensitive
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  瘫 | tān | paralysis; palsy; collapse | parálisis; postración; entumecimiento | 疒 | sickness / disease | 疒 (sickness enclosure) | 难 (nán, difficulty/hardship) | 15 | 半包围结构 | Phono-semantic character with disease radical (疒) enclosing hardship (难), describing motor incapacity. | A sickbed frame (疒) bounds a patient enduring great physical hardship (难), unable to stand. | El marco de una cama de hospital (疒) cobija a un enfermo en gran aflicción (难), sin poder moverse. | 55 | KTOE | 癱
+  痪 | huàn | paralysis; numbness; infirmity | parálisis; atrofia motora | 疒 | sickness / disease | 疒 (sickness radical) | 奂 (huàn, broad/slackening phonetic) | 14 | 半包围结构 | Phono-semantic character pairing disease (疒) with 奂 (huàn), describing bodily muscles losing tone. | Under the illness shelter (疒), limbs slacken into complete immobility (奂). | Bajo el techo de la enfermedad (疒), los músculos se relajan hasta la inmovilidad (奂). | 51 | KNBK | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Both characters share the sickness radical (疒): suffering motor difficulty (瘫) and bodily slackness (痪) paralyzes movement.
+  composite_memory_hook_es: Ambos caracteres comparten el radical de enfermedad (疒): la postración (瘫) y la atrofia (痪) provocan parálisis total.
+  cultural_and_cognitive_roots: Traditional Chinese medicine conceptualizes 瘫痪 as severe obstruction of Qi and Blood within meridians. In modern sociology, it naturally metaphoricalized to urban gridlock and digital system outages.
+  tone_sandhi_and_pitch_modulation: 55-51 pitch contour. High flat level tone (55) on tān swiftly descends into the crisp falling 4th tone (51) of huàn.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    痛 | tòng | pain; ache | Contains 甬 inside 疒 instead of 难
+    疯 | fēng | insane; mad | Contains 风 (wind) inside 疒 instead of 难
+    涣 | huàn | dissipate; disperse | Has water radical 氵 on the left instead of disease 疒
+    唤 | huàn | call; awaken | Has mouth radical 口 on the left instead of disease 疒
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    病 | bìng | disease; illness in the 疒 radical system
+    疾 | jí | ailment; rapid onset sickness
+    痹 | bì | numbness; rheumatic paralysis
+    滞 | zhì | stagnant; clogged flow
+
+semantic_boundary_contrasts:
+  core_nuance: 瘫痪 denotes complete loss of motor function biologically, or the total cessation of functional operation in systems.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 瘫痪 vs. 残废 | cánfèi | 残废 refers broadly to physical disability or bodily maiming (often permanent), while 瘫痪 specifically targets neurological or systematic loss of functional movement.
+    2 | 瘫痪 vs. 停顿 | tíngdùn | 停顿 indicates a temporary pause or interruption in motion, whereas 瘫痪 indicates a disastrous systemic breakdown incapable of spontaneous recovery.
+    3 | 瘫痪 vs. 崩溃 | bēngkuì | 崩溃 emphasizes structural collapse or psychological disintegration, while 瘫痪 highlights functional immobilization and loss of transmission.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 突如其来的疾病夺去了他的行走能力，让健步如飞的青年不得不面对身体瘫痪的严酷现实。经过漫长的内心挣扎，他在书海与文字中重获新生。肉体虽被束缚在轮椅之上，他的思想却穿越群山，奔向了辽阔的星空。 | Tūrúqílái de jíbìng duóqù le tā de xíngzǒu nénglì, ràng jiànbùrúfēi de qīngnián bùdébù miànduì shēntǐ tānhuàn de yánkù xiànshí. Jīngguò màncháng de nèixīn zhēngzhá, tā zài shūhǎi yǔ wénzì zhōng zhònghuò xīnshēng. Ròutǐ suī bèi shùfù zài lúnyǐ zhī shàng, tā de sīxiǎng què chuānyuè qúnshān, bènxiàng le liáokuò de xīngkōng. | A sudden illness stripped away his ability to walk, forcing the agile youth to confront physical paralysis. Following prolonged inner anguish, he found renewal in books and writing. Though his body was tethered to a wheelchair, his mind traversed mountains toward the vast stars. | Una inesperada enfermedad lo privó de caminar, obligándolo a afrontar la parálisis física. Tras una dura lucha interior, renació entre libros y palabras. Aunque su cuerpo quedó atado a una silla de ruedas, su pensamiento cruzó cordilleras hacia la inmensidad del cielo.
+  #2 | 在高度互联的现代智慧城市中，核心电网与云服务器已成为维系运转的中枢神经。一旦遭遇恶意网络攻击或极端气象灾害，不仅可能导致城市金融与交通系统全面瘫痪，更会引发连锁安全危机。构建多重容灾备份机制已是当务之急。 | Zài gāodù hùlián de xiàndài zhìhuì chéngshì zhōng, héxīn diànwǎng yǔ yún fúwùqì yǐ chéngwéi wéixì yùnzhuǎn de zhōngshū shénjīng. Yídàn zāoyù è'yì wǎngluò gōngjī huò jíduān qìxiàng zāihài, bùjǐn kěnéng dǎozhì chéngshì jīnróng yǔ jiāotōng xìtǒng quánmiàn tānhuàn, gèng huì yǐnfā liánsuǒ ānquán wēijī. Gòujiàn duōchóng róngzāi bèifèn jīzhì yǐ shì dāngwùzhījí. | In interconnected smart cities, power grids and cloud servers are the central nervous system. A malicious cyberattack or extreme storm could plunge financial and transit networks into total paralysis and trigger cascading crises, making redundant disaster recovery urgent. | En las ciudades inteligentes, las redes eléctricas y servidores en la nube forman el sistema nervioso vital. Un ciberataque o tormenta extrema no solo paralizaría las finanzas y el transporte, sino que desataría crisis en cadena, haciendo urgente la protección de respaldo.

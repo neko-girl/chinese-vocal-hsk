@@ -1,0 +1,63 @@
+id: 37
+hanzi: 项
+pinyin: xiàng
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: measure word for itemized things, tasks, proposals, and projects; nape of neck; item
+  es: clasificador para asuntos, tareas, partidas, proyectos y normas; nuca; rubro
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | measure word used for itemized tasks, proposals, scientific research projects, principles, or regulations | clasificador empleado para proyectos, tareas, propuestas, medidas o principios numerados | 一项重要任务 (an important task)
+  2 | Noun | Formal | nape of the neck; itemized entry; term in algebra | nuca; partida contable; rubro; término matemático | 望其项背 (see the back of someone's neck)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在今天上午举行的毕业典礼上，校长亲自为每一位在各学科学术竞赛中斩获殊荣的优秀毕业生颁发了一项特别荣誉奖。 | Zài jīntiān shàngwǔ jǔxíng de bìyè diǎnlǐ shàng, xiàozhǎng qīnzì wèi měi yí wèi zài gè xuékē xuéshù jìngsài zhōng zhǎnhuò shūróng de yōuxiù bìyèshēng bānfā le yí xiàng tèbié róngyù jiǎng. | At the graduation ceremony this morning, the principal personally presented a special honorary award to each outstanding graduate who triumphed in academic contests. | En la ceremonia de graduación de esta mañana, el rector entregó personalmente una distinción de honor especial a cada graduado destacado en certámenes académicos.
+  #2 | 为深化全国统一大市场建设，国家发展改革委联合商务部正式发布了新版市场准入负面清单，取消了多项不合理的行政审批许可事项。 | Wèi shēnhuà quánguó tǒngyī dà shìchǎng jiànshè, Guójiā Fāzhǎn Gǎigé Wěi liánhé Shāngwùbù zhèngshì fābù le xīnbǎn shìchǎng zhǔnrù fùmiàn qīngdān, qǔxiāo le duō xiàng bù hélǐ de xíngzhèng shěnpī xǔkě shìxiàng. | To deepen unified national market construction, authorities issued a negative list for market access, abolishing multiple unreasonable administrative licensing items. | Para profundizar el mercado unificado, las autoridades publicaron la nueva lista negativa de acceso al mercado, eliminando múltiples trámites y licencias administrativas desmedidas.
+
+collocations[6]{hanzi,en}:
+  一项任务 | an itemized task
+  多项原则 | multiple principles
+  一项研究 | a research study
+  注意事项 | matters needing attention / caveats
+  一项新技术 | a new technology
+  专项资金 | special earmarked fund
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  望其项背 | wàng qí xiàng bèi | see the back of someone's neck; catch up with someone of superior ability
+  名列前茅 | míng liè qián máo | rank among the very best on the roster
+  有条不紊 | yǒu tiáo bù wěn | methodical and systematic without disorder
+  分门别类 | fēn mén bié lèi | classify into distinct categories and rubrics
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  项 | xiàng | item; neck; nape; classifier for tasks | rubro; nuca; clasificador para tareas y asuntos | 页 | leaf / head | 页 (head/neck area) | 工 (gōng, phonetic association) | 9 | 左右结构 | Depicts the back of the neck (页) supporting the head with work (工); extended metaphorically to individual itemized heads in an official inventory. | A muscular work (工) posture holds the nape of the head (页) high, checking off cataloged items. | Una postura firme de trabajo (工) sostiene erguida la nuca (页) al verificar los rubros catalogados. | 51 | MCB | 項
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Holding your head (页) high while undertaking work (工) allows you to check off each itemized task (项).
+  composite_memory_hook_es: Mantener la nuca erguida (页) para trabajar con empeño (工) permite cumplir cada tarea y partida (项).
+  cultural_and_cognitive_roots: Anatomically meant the nape of the neck ('项背'); in Chinese bureaucratic accounting, documents were divided into 'heads' (项) like items in a ledger, transforming into the quintessential measure word for formal endeavors.
+  tone_sandhi_and_pitch_modulation: 51 pitch contour. A resolute falling 4th tone (51); enunciate with firm falling projection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    顶 | dǐng | top; crown | Features 丁 on the left instead of 工 with 页
+    预 | yù | in advance; prepare | Features 予 on the left instead of 工 with 页
+    烦 | fán | troubled; vexed | Features 火 (fire) on the left instead of 工 with 页
+    领 | lǐng | collar; lead | Features 令 on the left of 页
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    条 | tiáo | item; clause; strip
+    款 | kuǎn | clause; paragraph; fund
+    目 | mù | item; eye; rubric in 项目
+    件 | jiàn | piece; document
+
+semantic_boundary_contrasts:
+  core_nuance: 项 is a formal measure word specifically tailored for itemized projects, research tasks, policies, awards, or sports events.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 项 vs. 个 | gè | 个 is a universal colloquial measure word, whereas 项 is reserved for formalized, itemized projects, proposals, or tasks (e.g., 一项研究, 一项任务).
+    2 | 项 vs. 条 | tiáo | 条 is used for slender objects, roads, or legal statutory clauses (如一条法规), while 项 is used for programmatic projects or overarching endeavors.
+    3 | 项 vs. 宗 | zōng | 宗 is an administrative/commercial measure word for large bulk transactions or court cases (e.g., 一宗大买卖), whereas 项 classifies discrete tasks or criteria.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 科研探索从来不是一蹴而就的坦途，每一项重大科学理论的诞生，都凝结着无数科学家数十载甘坐冷板凳的心血。在平凡的岗位上把每一项细微的数据测算做到极致，才能在人类探索真理的征程中留下坚实的足迹。 | Kēyán tànsuǒ cónglái bú shì yícù'érjiù de tǎntú, měi yí xiàng zhòngdà kēxué lǐlùn de dànshēng, dōu níngjié zhe wúshù kēxuéjiā shù shí zǎi gān zuò lěngbǎndèng de xīnxuè. Zài píngfán de gǎngwèi shàng bǎ měi yí xiàng xìwēi de shùjù cèsuàn zuò dào jízhì, cáinǐng zài rénlèi tànsuǒ zhēnlǐ de zhēngchéng zhōng liúxià jiānshí de zújì. | Scientific discovery is never a smooth journey achieved overnight; the birth of every major theory embodies decades of tireless dedication by scientists. Perfecting every measurement in ordinary posts leaves indelible footprints toward truth. | La investigación científica nunca es un camino llano ni inmediato; el nacimiento de cada teoría trascendental condensa décadas de paciente entrega. Llevar cada medición al máximo rigor en el trabajo diario forja huellas firmes hacia la verdad.
+  #2 | 在推动高水平对外开放的战略框架下，我国自贸试验区持续对标国际高标准经贸规则。通过率先推进外商投资管理体制改革，累计向全国复制推广了数百项制度创新成果，为优化营商环境注入了强劲动力。 | Zài tuīdòng gāoshuǐpíng duìwài kāifàng de zhànlüè kuàngjià xià, wǒ guó zìmào shìyànqū chíxù duìbiāo guójì gāobiāozhǔn jīngmào guīzé. Tōngguò shuàixiān tuījìn wàishāng tóuzī guǎnlǐ tǐzhì gǎigé, lěijì xiàng quánguó fùzhì tuīguǎng le shù bǎi xiàng zhìdù chuàngxīn chéngguǒ, wèi yōuhuà yíngshāng huánjìng zhùrù le qiángjìn dònglì. | Under high-level opening-up strategies, pilot free trade zones align with international economic rules. By leading foreign investment reforms, they replicated hundreds of institutional innovations nationwide, infusing vitality into business environments. | En la apertura comercial de alto nivel, las zonas piloto de libre comercio se adaptan a las normas económicas internacionales. Al liderar reformas a la inversión extranjera, han difundido cientos de innovaciones institucionales vigorizando los negocios.

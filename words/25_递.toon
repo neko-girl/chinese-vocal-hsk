@@ -1,0 +1,63 @@
+id: 25
+hanzi: 递
+pinyin: dì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to hand over; to pass; to deliver; in succession
+  es: pasar; entregar en mano; transmitir; sucesivamente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to hand something to someone; pass along by hand | entregar algo en mano a alguien; pasar un objeto | 递上一杯热茶 (hand over a cup of hot tea)
+  2 | Verb | Formal | to transmit, forward, or escalate in successive order | transmitir o avanzar en orden progresivo | 逐级呈递 (escalate successively)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 看到爷爷在书桌前揉着酸痛的眼睛，懂事的小孙女赶忙倒了一杯温水，双手轻轻递到爷爷手中。 | Kàndào yéye zài shūzhuō qián róu zhe suāntòng de yǎnjing, dǒngshì de xiǎo sūnnǚ gǎnmáng dào le yì bēi wēnshuǐ, shuāngshǒu qīngqīng dì dào yéye shǒu zhōng. | Seeing grandpa rubbing his tired eyes at the desk, the thoughtful granddaughter poured warm water and gently handed it to him with both hands. | Al ver al abuelo frotarse los ojos cansados en el escritorio, la atenta nieta sirvió agua tibia y se la entregó con ambas manos con delicadeza.
+  #2 | 在外资企业入驻审批流程中，行政服务大厅推行一窗通办改革，企业无须在各个审批部门间反复递交材料。 | Zài wàizī qǐyè rùzhù shěnpī liúchéng zhōng, xíngzhèng fúwù dàtīng tuīxíng yì chuāng tōng bàn gǎigé, qǐyè wúxū zài gè gè shěnpī bùmén jiān fǎnfù dìjiāo cáiliào. | In foreign enterprise settlement approval, the administrative service hall implemented single-window reforms so firms need not repeatedly submit documents across departments. | En la aprobación de inversiones extranjeras, la ventanilla única eliminó la necesidad de que las empresas entreguen documentación repetidamente en distintas oficinas.
+
+collocations[6]{hanzi,en}:
+  递交申请 | submit / hand in an application
+  递送包裹 | deliver parcels
+  递过来 | hand it over here
+  投递员 | mail carrier / deliverer
+  顺手递给 | hand over in passing
+  递增 | increase progressively
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  暗度陈仓 | àn dù chén cāng | advance secretly while making feints elsewhere
+  循序渐进 | xún xù jiàn jìn | proceed in an orderly, step-by-step manner
+  投桃报李 | tóu táo bào lǐ | give a plum in return for a peach; exchange gifts
+  送往迎来 | sòng wǎng yíng lái | see off departing guests and welcome arriving ones
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  递 | dì | hand over; pass; deliver; transfer | entregar; pasar; remitir; transmitir | 辵 | walk / movement | 辶 (motion along a path) | 弟 (dì, younger brother / sequential steps) | 10 | 半包围结构 | Phono-semantic character pairing movement along roads (辶) with succession/stages (弟), depicting relay runners handing over mail. | A messenger moves along the path (辶) passing relay items to the next brother in sequence (弟). | Un mensajero avanza por el camino (辶) entregando el relevo en mano al siguiente compañero (弟). | 51 | YCNH | 遞
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Moving along the postal path (辶) from one sequential station to the next (弟) delivers and hands over the message.
+  composite_memory_hook_es: Avanzar por el camino postal (辶) de estación en estación (弟) permite entregar y pasar el mensaje en mano.
+  cultural_and_cognitive_roots: Originating in China's ancient imperial postal relay courier system ('驿递'), where couriers on horseback handed off confidential dispatches across post stations to achieve rapid long-distance delivery.
+  tone_sandhi_and_pitch_modulation: 51 pitch contour. A crisp, direct falling 4th tone (51) that evokes the decisive physical motion of passing an item into another's hands.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    梯 | tī | ladder; stairs | Features wood radical 木 on the left instead of motion 辶
+    涕 | tì | tears; nasal mucus | Features water radical 氵 on the left instead of motion 辶
+    第 | dì | ordinal prefix | Features bamboo radical 竹 on top of 弟
+    弟 | dì | younger brother | The internal phonetic component itself
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    送 | sòng | send; deliver in the 辶 radical family
+    达 | dá | reach; arrive
+    传 | chuán | pass on; transmit
+    交 | jiāo | hand over; exchange
+
+semantic_boundary_contrasts:
+  core_nuance: 递 emphasizes handing an object directly to another person with the hand, or transmitting sequentially across stations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 递 vs. 给 | gěi | 给 is the universal preposition/verb for giving, whereas 递 specifically denotes the physical kinetic gesture of extending one's hand to pass an object across a short distance.
+    2 | 递 vs. 送 | sòng | 送 implies transporting something over longer distances or presenting a gift, whereas 递 focuses on immediate hand-to-hand transfer.
+    3 | 递 vs. 呈 | chéng | 呈 is an elevated administrative verb for formal upward submission to superiors, while 递 is applicable across casual and professional contexts.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 有时候，人世间最动人的关怀往往不需要千言万语。雨天里陌生人递来的一把雨伞，冬夜里摊主递来的一碗热汤，这些看似不经意的动作，却能在冰冷的世界里传递无限暖意，照亮彼此前行的夜路。 | Yǒushíhou, rénshìjiān zuì dòngrén de guānhuái wǎngwǎng bù xūyào qiānyánwànyǔ. Yǔtiān lǐ mòshēngrén dì lái de yì bǎ yǔsǎn, dōngyè lǐ tānzhǔ dì lái de yì wǎn rètāng, zhèxiē kànsì bùjīngyì de dòngzuò, què néng zài bīnglěng de shìjiè lǐ chuándì wúxiàn nuǎnyì, zhàoliàng bǐcǐ qiánxíng de yèlù. | Sometimes the most touching kindness requires no words: an umbrella handed by a stranger in the rain, a bowl of hot soup passed on a winter night. These casual gestures transmit warmth through a chilly world, lighting the road ahead. | A veces la mayor bondad no precisa palabras: un paraguas tendido por un desconocido bajo la lluvia o un tazón de sopa caliente entregado en una noche fría transmiten una calidez infinita que alumbra el camino en la penumbra.
+  #2 | 在现代智慧物流生态系统中，自动化分拣与最后一公里即时递送效率已成为核心指标。依托高精度定位与无人配送车网络，冷链医药与关键生鲜包裹的递送时效大幅压缩，为城市保供构筑了敏捷韧性的物流通道。 | Zài xiàndài zhìhuì wùliú shēngtài xìtǒng zhōng, zìdònghuà fēnjiǎn yǔ zuìhòu yì gōnglǐ jíshí dìsòng xiàolǜ yǐ chéngwéi héxīn zhǐbiāo. Yītuō gāojīngdù dìngwèi yǔ wúrén pèisòng chē wǎngluò, lěngliàn yīyào yǔ guānjiàn shēngxiān bāoguǒ de dìsòng shíxiào dàfú yāsuō, wèi chéngshì bǎogōng gòuzhù le mǐnjié rènxìng de wùliú tōngdào. | In smart logistics, automated sorting and last-mile on-demand delivery efficiency are key indicators. Leveraging geolocation and autonomous delivery vehicles, pharmaceutical and fresh deliveries compress timelines, building agile supply corridors. | En la logística inteligente, la clasificación automatizada y la entrega inmediata de última milla son prioritarias. Con geolocalización y vehículos autónomos, la entrega de fármacos y alimentos reduce tiempos forjando canales de suministro ágiles.

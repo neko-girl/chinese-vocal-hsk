@@ -1,0 +1,63 @@
+id: 33
+hanzi: 半夜
+pinyin: bàn yè
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: midnight; middle of the night; late at night
+  es: medianoche; altas horas de la noche; en plena noche
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the middle period of the night, around or after midnight | el periodo central de la noche, alrededor o pasada la medianoche | 半夜醒来 (wake up in the middle of the night)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 昨天半夜突然狂风大作，窗外电闪雷鸣，暴雨敲打着窗玻璃，把熟睡中的全家人都惊醒了。 | Zuótiān bànyè tūrán kuángfēng dàzuò, chuāngwài diànshǎnléimíng, bàoyǔ qiāodǎ zhe chuāngbōlí, bǎ shúshuì zhōng de quánjiā rén dōu jīngxǐng le. | Wild winds suddenly blew in the middle of the night yesterday with lightning and thunder, torrential rain hammering the windowpanes and startling the whole sleeping family awake. | Ayer a medianoche se desató un vendaval con truenos y relámpagos, y la lluvia torrencial azotó los cristales despertando a toda la familia de su sueño.
+  #2 | 由于系统服务器集群在半夜遭遇异常网络流量冲击，技术值班团队紧急响应，历经三小时通宵排查修复了核心链路。 | Yóuyú xìtǒng fúwùqì jíqún zài bànyè zāoyù yìcháng wǎngluò liúliàng chōngjī, jìshù zhíbān tuánduì jǐnjí xiǎngyìng, lìjīng sān xiǎoshí tōngxiāo páichá xiūfù le héxīn liànlù. | Because server clusters were hit by abnormal network traffic surges in the middle of the night, on-duty tech staff responded swiftly, troubleshooting overnight to restore links. | Debido a una sobrecarga de tráfico anómala en los servidores a medianoche, el equipo técnico de guardia actuó de urgencia reparando los enlaces críticos tras horas de desvelo.
+
+collocations[6]{hanzi,en}:
+  半夜三更 | in the dead of night / middle of the night
+  深更半夜 | deep in the dead of night
+  半夜醒来 | wake up in the middle of the night
+  大半夜 | late at night; wee hours
+  半夜敲门 | knock on the door at midnight
+  半夜起床 | get up in the middle of the night
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  夜以继日 | yè yǐ jì rì | day and night without cease; working round the clock
+  深更半夜 | shēn gēng bàn yè | the small hours of the morning; the dead of night
+  半夜三更 | bàn yè sān gēng | the third watch of the night; in the deep of the night
+  风雨交加 | fēng yǔ jiāo jiā | wind and rain accompanied by thunder; severe nighttime storm
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  半 | bàn | half; semi-; partly | mitad; medio; a medias | 十 | ten | 八 (divide in two) + 牛 (ox halved) | 半 (inherent phoneme) | 5 | 单一结构 | Anciently depicted cleaving an ox (牛) down the middle into two symmetrical halves (八). | A central stroke cuts directly down through an animal carcass (十/八) into two equal halves. | Un trazo vertical divide en dos mitades exactas (十/八) el cuerpo para compartirlo a medias. | 51 | FQ | ""
+  夜 | yè | night; darkness; evening | noche; oscuridad; anochecer | 夕 | evening / sunset | 夕 (crescent moon rising at evening) | 亦 (yì, phonetic match / arms sheltering) | 8 | 上下结构 | Depicts a human standing under the evening moon (夕) sheltered by the canopy of darkness. | Under the canopy of the roof (亠), the crescent moon (夕) shines through darkness of night. | Bajo el manto del cielo (亠), la luna creciente (夕) alumbra la oscuridad de la noche. | 51 | YOKD | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Reaching the exact midpoint (半) of the dark night (夜) marks midnight (半夜).
+  composite_memory_hook_es: Llegar a la mitad exacta (半) de la noche oscura (夜) define la medianoche (半夜).
+  cultural_and_cognitive_roots: Linked to the ancient Chinese system of five night watches ('五更'); the third watch ('三更', 23:00 to 01:00) sits at the balance of Yin and Yang, designated colloquially as 'bànyè' (half of the night).
+  tone_sandhi_and_pitch_modulation: 51-51 pitch contour. Two consecutive crisp falling 4th tones; articulate both syllables distinctly.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    伴 | bàn | companion; partner | Features person radical 亻 on the left instead of 半 alone
+    拌 | bàn | mix; stir | Features hand radical 扌 on the left instead of 半 alone
+    变 | biàn | change | Top component is 亦 with dots; bottom is 又
+    夕 | xī | evening; dusk | Radical component itself inside 夜
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    晚 | wǎn | evening; late
+    昏 | hūn | dusk; twilight
+    宵 | xiāo | night; night watch
+    暮 | mù | sunset; dusk
+
+semantic_boundary_contrasts:
+  core_nuance: 半夜 refers specifically to the middle of the night, around or after midnight, usually between 23:00 and 03:00.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 半夜 vs. 午夜 | wǔyè | 午夜 is a formal, precise, or literary chronological point marking 24:00/00:00, whereas 半夜 is a broader colloquial time window describing the deep of the night.
+    2 | 半夜 vs. 晚上 | wǎnshang | 晚上 covers the entire evening from sunset to bedtime (typically 18:00 to 22:00), while 半夜 begins after most people have fallen asleep.
+    3 | 半夜 vs. 黎明 | límíng | 黎明 marks the crack of dawn right before sunrise, the direct temporal successor to the dead of night.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 整座城市在半夜陷入了深沉的沉睡，白日的喧嚣与车水马龙都悄然退去。窗外只有几颗清冷的寒星，静静俯瞰着静谧的街巷。在这样万籁俱寂的半夜，人的心境往往格外澄明，能听见心底最真实的声音。 | Zhěng zuò chéngshì zài bànyè xiànrù le shēnchén de chénshuì, báirì de xuānxiāo yǔ chēshuǐmǎlóng dōu qiǎorán tuìqù. Chuāngwài zhǐyǒu jǐ kē qīnglěng de hánxīng, jìngjìng fǔkàn zhe jìngmì de jiēxiàng. Zài zhèyàng wànlàijùjì de bànyè, rén de xīnjìng wǎngwǎng géwài chéngmíng, néng tīngjiàn xīndǐ zuì zhēnshí de shēngyīn. | The entire city sank into deep slumber at midnight; daylight clamor and traffic receded. Outside the window, cool stars silently overlooked quiet lanes. In such stillness, the mind becomes clear, hearing the truest voice within. | La ciudad entera se sumió en un sueño profundo a medianoche; el bullicio diurno y el tráfico desaparecieron. Por la ventana, frías estrellas contemplaban callejuelas en silencio. En esa quietud nocturna, el alma escucha sus anhelos más sinceros.
+  #2 | 在现代越洋跨国金融外汇交易中，许多投资机构的技术团队必须在半夜保持高强度值守。面对国际外汇市场与大宗商品由于突发地缘事件引发的剧烈波动，半夜的实时风险对冲操作往往直接关乎数十亿美元头寸的资产安全。 | Zài xiàndài yuèyáng kuàguó jīnróng wàihuì jiāoyì zhōng, xǔduō tóuzī jīgòu de jìshù tuánduì bìxū zài bànyè bǎochí gāoxiàngdù zhíshǒu. Miànduì guójì wàihuì shìchǎng yǔ dàzōng shāngpǐn yóuyú tūfā dìyuán shìjiàn yǐnfā de jùliè bōdòng, bànyè de shíshí fēngxiǎn duìchōng cāozuò wǎngwǎng zhíjiē guānhū shù shí yì měiyuán tóucùn de zīchǎn ānquán. | In transoceanic foreign exchange trading, investment teams must maintain vigilance in the middle of the night. Confronting extreme currency volatility sparked by geopolitical events, midnight hedging operations safeguard billions in institutional capital. | En las finanzas internacionales y el mercado de divisas, los analistas deben hacer guardia a medianoche. Ante la volatilidad extrema provocada por sucesos geopolíticos, las operaciones de cobertura en plena noche protegen carteras multimillonarias de activos.

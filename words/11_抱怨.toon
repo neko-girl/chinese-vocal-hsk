@@ -1,0 +1,63 @@
+id: 11
+hanzi: 抱怨
+pinyin: bào yuàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to complain; to grumble; to blame
+  es: quejarse; rezongar; lamentarse; culpar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to express dissatisfaction, resentment, or grievance about an unpleasant situation or person | expresar descontento, resentimiento o reproche ante una situación adversa o persona | 抱怨天气 (complain about the weather)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 遇到生活中的挫折时，一味抱怨外界环境并不能解决问题，积极调整心态才是走出困境的关键。 | Yùdào shēnghuó zhōng de cuòzhé shí, yíwèi bàoyuàn wàijiè huánjìng bìng bù néng jiějué wèntí, jījí tiáozhěng xīntài cái shì zǒuchū kùnjìng de guānjiàn. | When encountering setbacks in life, blindly complaining about external circumstances resolves nothing; proactively adjusting one's mindset is the key out of adversity. | Al afrontar reveses en la vida, quejarse ciegamente del entorno no resuelve nada; ajustar una actitud proactiva es la clave para superar las dificultades.
+  #2 | 在产品发布后的用户体验追踪调研中，不少消费者公开抱怨该款智能软件的操作界面复杂繁琐。 | Zài chǎnpǐn fābù hòu de yònghù tǐyàn zhuīzōng diàoyán zhōng, bùshǎo xiāofèizhě gōngkāi bàoyuàn gāi kuǎn zhìnéng ruǎnjiàn de cāozuò jièmiàn fùzá fánsuǒ. | In post-launch user experience tracking surveys, many consumers openly complained that the operating interface of the smart software was convoluted and cumbersome. | En las encuestas de seguimiento de experiencia de usuario tras el lanzamiento, numerosos consumidores se quejaron de que la interfaz del software resultaba confusa.
+
+collocations[6]{hanzi,en}:
+  经常抱怨 | constantly complain
+  停止抱怨 | stop complaining
+  抱怨命运 | complain about fate
+  毫无抱怨 | without any complaint
+  引起抱怨 | cause complaints / grumbling
+  私下抱怨 | grumble in private
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  怨天尤人 | yuàn tiān yóu rén | blame heaven and other people; complain of fate
+  满腹牢骚 | mǎn fù láo sāo | full of grievances and complaints
+  以德报怨 | yǐ dé bào yuàn | repay injury with kindness
+  任劳任怨 | rèn láo rèn yuàn | bear hardships and work without complaints
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  抱 | bào | hold in arms; hug; cherish; harbor | abrazar; sostener en brazos; albergar | 手 | hand | 扌 (hand, embracing or holding) | 包 (bāo, wrap/bundle) | 8 | 左右结构 | Phono-semantic character combining hand (扌) with wrapping package (包), describing folding arms around something or harboring sentiments in one's bosom. | Hands (扌) wrap tightly around a heavy bundle (包), holding grudges close to the chest. | Las manos (扌) envuelven con fuerza un fardo (包), reteniendo amarguras contra el pecho. | 51 | QPU | ""
+  怨 | yuàn | resent; blame; grievance; malice | resentimiento; rencor; agravio; quejarse | 心 | heart | 心 (heart, inner emotional distress) | 夗 (yuàn, bent/turned over in bed) | 9 | 上下结构 | Phono-semantic character of turning restlessly in bed (夗) over heartache (心), conveying brooding bitterness. | Tossing restlessly at dusk (夗) because the heart (心) harbors unresolved grievances. | Dar vueltas inquietas al anochecer (夗) porque el corazón (心) alberga rencores no resueltos. | 51 | NUP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Harboring in your chest (抱) a wounded heart full of resentment (怨) spills outward as constant complaining.
+  composite_memory_hook_es: Abrazar en el pecho (抱) un corazón herido de resentimiento (怨) se desborda en quejas continuas.
+  cultural_and_cognitive_roots: Chinese psychological tradition distinguishes between verbal expression and internal brooding; 'bàoyuàn' literally describes carrying (抱) grievances (怨) in one's bosom, reflecting the Buddhist-Taoist observation that harboring resentment harms internal harmony.
+  tone_sandhi_and_pitch_modulation: 51-51 pitch contour. Two consecutive 4th tones require crisp, assertive downward falls (51 to 51) without merging into flat tones.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    跑 | pǎo | run | Has foot radical 𧾷 on the left instead of hand 扌
+    饱 | bǎo | full; satisfied | Has food radical 饣 on the left instead of hand 扌
+    恕 | shù | forgive; pardon | Features 如 over 心 instead of 夗
+    怒 | nù | anger; furious | Features 奴 over 心 instead of 夗
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    包 | bāo | wrap; phonetic root of 抱
+    恨 | hèn | hate; remorse in the heart family
+    悔 | huǐ | regret; remorse
+    忧 | yōu | grief; worry
+
+semantic_boundary_contrasts:
+  core_nuance: 抱怨 focuses on venting vocal discontent or harboring chronic dissatisfaction toward unfavorable conditions or people.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 抱怨 vs. 埋怨 | mányuàn | 埋怨 emphasizes finding fault with or blaming someone for minor blunders (often mild or implicit), whereas 抱怨 focuses on openly grumbling about hardship or poor conditions.
+    2 | 抱怨 vs. 批评 | pīpíng | 批评 is constructive or formal critique aimed at evaluating faults or correcting behaviour, whereas 抱怨 is an emotional venting of dissatisfaction.
+    3 | 抱怨 vs. 控告 | kònggào | 控告 is a formal legal term meaning to file criminal or legal charges, whereas 抱怨 is casual or emotional grumbling.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生活就像一面镜子，你对它抱怨，它便回赠你阴霾；你对它微笑，它便报之以晴朗。无休止的抱怨如同一杯苦酒，不仅会腐蚀自己的心境，也会疏远身边的挚友。唯有放下抱怨，才能看清前路的花开。 | Shēnghuó jiù xiàng yí miàn jìngzi, nǐ duì tā bàoyuàn, tā biàn huízèng nǐ yīnmái; nǐ duì tā wēixiào, tā biàn bào zhī yǐ qínglǎng. Wúxiūzhǐ de bàoyuàn rútóng yì bēi kǔjiǔ, bùjǐn huì fǔshí zìjǐ de xīnjìng, yě huì shūyuǎn shēnbiān de zhìyǒu. Wéiyǒu fàngxià bàoyuàn, cáinǐng kànqīng qiánlù de huākāi. | Life is like a mirror: if you complain to it, it returns gloom; if you smile, it gives warmth. Ceaseless complaining is a bitter draught, eroding your mood and distancing friends. Only dropping complaints reveals the flowers ahead. | La vida es como un espejo: si te quejas ante ella, te devuelve sombras; si le sonríes, te brinda luz. Quejarse sin cesar es como un trago amargo que marchita el ánimo y aleja a los amigos. Dejar las quejas permite ver los senderos floridos.
+  #2 | 在现代企业组织行为学中，员工无序的抱怨往往是内部管理沟通机制不畅的警示信号。卓越的管理者善于将消极抱怨转化为建设性反馈，通过构建开放的民主申诉通道，将潜在的团队怨气转化为流程革新的动力。 | Zài xiàndài qǐyè zǔzhī xíngwéixué zhōng, yuángōng wúxù de bàoyuàn wǎngwǎng shì nèibù guǎnlǐ gōutōng jīzhì bú chàng de jǐngshì xìnhào. Zhuóyuè de guǎnlǐzhě shànyú jiāng xiāojí bàoyuàn zhuǎnhuà wéi jiànshèxìng fǎnkuì, tōngguò gòujiàn kāifàng de mínzhǔ shēnsù tōngdào, jiāng qiánzài de tuánduì yuànqì zhuǎnhuà wéi liúchéng géxīn de dònglì. | In organizational behavior, disordered employee complaining serves as a red flag signaling obstructed internal communication. Astute managers convert complaints into constructive feedback, channeling latent team frustration into motivation for process innovation. | En el comportamiento organizativo moderno, las quejas continuas de los empleados advierten fallas de comunicación interna. Los líderes competentes transforman los descontentos en aportes constructivos, convirtiendo el malestar latente en motor de innovación.

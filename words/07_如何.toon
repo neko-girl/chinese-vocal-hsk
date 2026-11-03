@@ -1,0 +1,63 @@
+id: 7
+hanzi: 如何
+pinyin: rú hé
+level: HSK 5
+part_of_speech: Pronoun
+
+meanings_summary:
+  en: how; what; what way; in what condition
+  es: ¿cómo?; ¿de qué manera?; ¿en qué estado?
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Pronoun | Formal | in what manner, way, or state (formal inquiry equivalent to 怎么 or 怎么样) | de qué modo o en qué circunstancias (interrogativo formal equivalente a 怎么 o 怎么样) | 如何解决问题 (how to resolve the issue)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对大学毕业后的人生十字路口，年轻人们都在认真思考如何平衡理想追求与现实生活压力。 | Miànduì dàxué bìyè hòu de rénshēng shízì lùkǒu, niánqīngrén men dōu zài rènzhēn sīkǎo rúhé pínghéng lǐxiǎng zhuīqiú yǔ xiànshí shēnghuó yālì. | Faced with the crossroads of life after university graduation, young people earnestly ponder how to balance idealism with the pressures of reality. | Frente a la encrucijada vital tras graduarse de la universidad, los jóvenes meditan con seriedad cómo equilibrar sus ideales con las presiones de la realidad.
+  #2 | 如何在全球供应链动荡的外部挑战下构建高韧性产业生态，是当前各国宏观经济决策者面临的紧迫课题。 | Rúhé zài quánqiú gōngyìngliàn dòngdàng de wàibù tiǎozhàn xià gòujiàn gāo rènxìng chǎnyè shēngtài, shì dāngqián gè guó hóngguān jīngjì juécèzhě miànlín de jǐnpò kètí. | How to construct a resilient industrial ecosystem amidst external global supply chain disruptions is an urgent topic for macroeconomic policymakers worldwide. | Cómo construir un ecosistema productivo resiliente frente a las disrupciones en las cadenas globales de suministro constituye un reto prioritario para los gobernantes.
+
+collocations[6]{hanzi,en}:
+  如何处理 | how to handle
+  如何看待 | how to view / regard
+  如何解决 | how to resolve
+  无论如何 | in any case; no matter what
+  不知如何是好 | not know what to do
+  如何应对 | how to respond to
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  无可奈何 | wú kě nài hé | have no alternative; helpless in the face of fate
+  如火如荼 | rú huǒ rú tú | like raging fire and blooming rush; thriving vigorously
+  何去何从 | hé qù hé cóng | what course to follow; which path to choose
+  谈何容易 | tán hé róng yì | far from easy; easier said than done
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  如 | rú | as; like; if; accord with | como; igual que; según; si | 女 | woman | 女 (woman / accommodating) | 口 (mouth / words complying) | 6 | 左右结构 | Ancient ideogram of mouth (口) yielding to guidance (女), evolving to mean 'in accordance with' or 'likeness'. | Speaking from the mouth (口) with the graceful compliance of a lady (女) ensures actions match intentions. | Expresarse con la boca (口) de forma armónica como una dama (女) logra que las acciones se correspondan con las palabras. | 35 | VR | ""
+  何 | hé | what; how; why; which | qué; cómo; por qué; cuál | 亻 | person | 亻 (person carrying/asking) | 可 (kě, phonetic marker) | 7 | 左右结构 | Originally a person (亻) carrying a burden on the shoulder asking where to go, borrowed early on as an interrogative pronoun. | A traveler (亻) pauses asking if it is possible (可) to proceed in this manner. | Un viajero (亻) se detiene a preguntar si es posible (可) seguir por ese camino. | 35 | OMNR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: In accordance with (如) what method (何) should we proceed? That is the heart of asking 'how'.
+  composite_memory_hook_es: ¿Conforme a (如) qué camino (何) debemos actuar? Así se indaga el 'cómo' formal de las cosas.
+  cultural_and_cognitive_roots: Inherited directly from Classical Chinese (文言文), 'rú hé' blends the comparative particle 'rú' (to resemble/conform) and interrogative 'hé' (what), framing practical inquiries with philosophical elegance.
+  tone_sandhi_and_pitch_modulation: 35-35 tone sequence. In standard Mandarin, two consecutive 2nd tones (rising 35) are pronounced distinctly without tone change, giving a melodious double-rising cadence.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    知 | zhī | know | Left component is 矢 (arrow) rather than 女 (woman)
+    和 | hé | harmony; and | Left component is 禾 (grain) rather than 女 or 口
+    河 | hé | river | Has water radical 氵 on the left instead of person 亻
+    荷 | hé | lotus; carry | Has grass radical 艹 above 何
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    若 | ruò | like; if; shares classical subjunctive lineage with 如
+    孰 | shú | who; which; classical interrogative relative of 何
+    胡 | hú | why; how; archaic question root
+    安 | ān | how; where; classical modal interrogative
+
+semantic_boundary_contrasts:
+  core_nuance: 如何 is a formal, written-register interrogative pronoun asking about the manner, method, condition, or state of affairs.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 如何 vs. 怎么 | zěnme | 怎么 is predominantly colloquial and everyday spoken Chinese, whereas 如何 belongs to formal, academic, written, or elevated oratorical registers.
+    2 | 如何 vs. 怎样 | zěnyàng | 怎样 is neutral-colloquial inquiring about state or appearance, while 如何 often introduces strategic inquiries or formal problem formulations.
+    3 | 如何 vs. 为何 | wèihé | 为何 inquires specifically about reason or causation ('why'), whereas 如何 inquires about methodology, degree, or status ('how').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古人常问，人在顺境与逆境中应如何安身立命。顺境时保持清醒克制，不迷失于喧嚣；逆境中坚守信念初衷，不屈服于风雨。懂得如何与孤独相处，如何在喧嚣中守住内心宁静，是每个人终其一生的修行。 | Gǔrén cháng wèn, rén zài shùnjìng yǔ nìjìng zhōng yīng rúhé ānshēnlìmìng. Shùnjìng shí bǎochí qīngxǐng kèzhì, bù míshī yú xuānxiāo; nìjìng zhōng jiānshǒu xìnniàn chūzhōng, bù qūfú yú fēngyǔ. Dǒngdé rúhé yǔ gūdú xiāngchǔ, rúhé zài xuānxiāo zhōng shǒuzhù nèixīn níngjìng, shì měi gè rén zhōng qí yìshēng de xiūxíng. | The ancients frequently asked how one should find peace amid fortune and adversity. Remaining sober in success and resolute in hardship is key. Knowing how to dwell with solitude and preserve inner quiet amidst clamor is a lifelong cultivation. | Los antiguos se preguntaban cómo encontrar paz en la prosperidad y la adversidad. Conservar la serenidad en el éxito y la firmeza en la dificultad es esencial. Saber convivir con la soledad y cuidar la calma interior es un aprendizaje para toda la vida.
+  #2 | 在人工智能技术快速重塑劳动力市场的背景下，教育体系应如何调整培养方案成为全球焦点。如何在基础课程中强化批判性思维，如何培养跨学科解决复杂现实问题的能力，直接决定了未来人才的竞争格局。 | Zài réngōng zhìnéng jìshù kuàisù zhòngshù láodònglì shìchǎng de bèijǐng xià, jiàoyù tǐxì yīng rúhé tiáozhěng péiyǎng fāng'àn chéngwéi quánqiú jiāodiǎn. Rúhé zài jīchǔ kèchéng zhōng qiánghuà pīpànxìng sīwéi, rúhé péiyǎng kuà xuékē jiějué fùzá xiànshí wèntí de nénglì, zhíjiē juédìng le wèilái réncái de jìngzhēng géjú. | As artificial intelligence rapidly reshapes labor markets, how education systems adapt has become a global focal point. How to strengthen critical thinking and nurture cross-disciplinary problem-solving will dictate future human capital competitiveness. | Con el avance de la inteligencia artificial sobre el mercado laboral, cómo adaptar la educación se ha vuelto prioritario. Cómo reforzar el pensamiento crítico y fomentar la capacidad multidisciplinar definirá la competitividad del talento futuro.

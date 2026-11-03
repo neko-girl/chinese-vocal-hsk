@@ -1,0 +1,64 @@
+id: 20
+hanzi: 肩膀
+pinyin: jiān bǎng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: shoulder; shoulders; ability to bear responsibility
+  es: hombro; hombros; capacidad de asumir responsabilidades
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the anatomical upper joint connecting the human arm with the torso | articulación superior que une el brazo con el tronco del cuerpo humano | 宽阔的肩膀 (broad shoulders)
+  2 | Noun | Metaphorical | capacity to shoulder burdens, responsibilities, or familial duties | capacidad moral para soportar cargas o asumir responsabilidades | 有肩膀的男人 (a man who takes responsibility)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 小时候每次去游乐园看花车巡游，父亲总会把我高高抱起，让我坐在他宽厚结实的肩膀上纵情欢呼。 | Xiǎoshíhou měi cì qù yóulèyuán kàn huāchē xúnyóu, fùqīn zǒng huì bǎ wǒ gāogāo bàoqǐ, ràng wǒ zuò zài tā kuānhòu jiēshi de jiānbǎng shàng zòngqíng huānhū. | Whenever we went to the amusement park for parades in my childhood, father would lift me high onto his broad shoulders to cheer with delight. | De niño, en las cabalgatas del parque de atracciones, mi padre me subía en alto para que me sentara en sus hombros anchos y aclamara feliz.
+  #2 | 新时代青年应当勇于将时代的重任扛在自己的肩膀上，在科技攻关与基层治理一线展现担当与作为。 | Xīn shídài qīngnián yīngdāng yǒngyú jiāng shídài de zhòngrèn káng zài zìjǐ de jiānbǎng shàng, zài kējì gōngguān yǔ jīcéng zhìlǐ yīxiàn zhǎnxiàn dāndāng yǔ zuòwéi. | Youth of the new era should courageously carry the era's heavy responsibilities on their shoulders, demonstrating accountability on scientific and community frontlines. | La juventud contemporánea debe asumir con valentía las responsabilidades históricas sobre sus hombros, demostrando compromiso en la ciencia y la sociedad.
+
+collocations[6]{hanzi,en}:
+  宽厚的肩膀 | broad and solid shoulders
+  拍拍肩膀 | pat on the shoulder
+  肩膀酸痛 | sore / aching shoulders
+  扛在肩膀上 | carry on one's shoulders
+  并起肩膀 | stand shoulder to shoulder
+  结实的肩膀 | sturdy shoulders
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  并肩作战 | bìng jiān zuò zhàn | fight shoulder to shoulder in combat
+  摩肩接踵 | mó jiān jiē zhǒng | shoulders rubbing and heels touching; crowded densely
+  比肩同行 | bǐ jiān tóng xíng | walk side by side as peers
+  息肩之所 | xī jiān zhī suǒ | a place to put down one's burdens and rest
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  肩 | jiān | shoulder; bear burdens | hombro; sobrellevar cargas | 肉 | meat / flesh | 月/肉 (flesh of the body) | 户 (hù, door frame/collarbone) | 8 | 半包围结构 | Depicts torso flesh (月) beneath the collarbone doorway (户), forming the shoulder joint supporting loads. | Flesh (月) supporting the collarbone arch (户) forms a muscular shoulder to bear weights. | La carne (月) bajo el arco clavicular (户) forma un hombro fuerte para cargar pesos. | 55 | HSB | ""
+  膀 | bǎng | upper arm; shoulder wing; bladder | brazo superior; hombro; ala | 肉 | meat / flesh | 月/肉 (flesh/body muscle) | 旁 (páng, side) | 14 | 左右结构 | Phono-semantic character combining flesh (月) with side (旁), describing the lateral muscle wings of the torso. | The flesh (月) expanding on both sides (旁) of the torso forms the broad shoulder flank. | La masa muscular (月) a ambos lados (旁) del torso forma el hombro y costado. | 214 | BYBS | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Both characters share the body flesh radical (月): the upper load-bearing bone (肩) and lateral torso muscle (膀) form our sturdy shoulders.
+  composite_memory_hook_es: Ambos caracteres llevan el radical de carne corporal (月): la estructura de carga (肩) y el músculo lateral (膀) componen los hombros.
+  cultural_and_cognitive_roots: Across Chinese literary and sociological idioms, the shoulder ('jiān') represents moral capacity for filial duty, civic duty, and protection ('挑起重担'). To have shoulders ('有肩膀') means to be dependable.
+  tone_sandhi_and_pitch_modulation: 55-214 pitch contour. In colloquial spoken Mandarin, 膀 is frequently reduced to a light neutral tone (jiānbang), whereas formal reading preserves the dipping 3rd tone (214).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    房 | fáng | room; house | Features 方 at the bottom instead of 肉/月
+    扇 | shān / shàn | fan | Features 羽 (feathers) inside 户 instead of 肉/月
+    榜 | bǎng | roster; placard | Has wood radical 木 on the left instead of 月
+    膀 | bǎng | shoulder; wing | Headword character itself
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    臂 | bì | arm sharing flesh radical
+    胸 | xiōng | chest; thorax
+    背 | bèi | back
+    胛 | jiǎ | shoulder blade
+
+semantic_boundary_contrasts:
+  core_nuance: 肩膀 refers to the physical shoulder anatomy, and figuratively to the locus of moral burden and duty.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 肩膀 vs. 臂膀 | bìbǎng | 臂膀 combines arm and shoulder highlighting protective wing-like embrace or capable assisting hands, whereas 肩膀 stresses bearing upward weight and duty.
+    2 | 肩膀 vs. 挑子 | tiāozi | 挑子 is the physical carrying pole or metaphorical load itself (如‘撂挑子’), while 肩膀 is the bodily or psychological capacity carrying that load.
+    3 | 肩膀 vs. 脊梁 | jǐliáng | 脊梁 represents the central spine or moral backbone of courage, whereas 肩膀 focuses on willingness to shoulder burdens.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 父亲的肩膀曾是我童年仰望天空的起点。那宽厚的双肩不仅扛起过沉重的农具，更替全家人挡住了漫天风雪。当岁月的重担悄然压弯他的脊背，我才读懂那双肩膀上沉淀的无声深情。 | Fùqīn de jiānbǎng céng shì wǒ tóngnián yǎngwàng tiānkōng de qǐdiǎn. Nà kuānhòu de shuāngjiān bùjǐn kángqǐ guò chénzhòng de nóngjù, gèng tì quánjiā rén dǎngzhù le màntiān fēngxuě. Dāng suìyuè de zhòngdàn qiǎorán yāwān tā de jǐbèi, wǒ cái dúdǒng nà shuāng jiānbǎng shàng chéndiàn de wúshēng shēnqíng. | Father's shoulders were the vantage point from which my childhood gazed at the sky. Those broad shoulders bore heavy farm tools and sheltered the family from storms. As years bent his back, I understood the deep love in those shoulders. | Los hombros de mi padre fueron el mirador desde el cual contemplé el cielo en mi niñez. Aquellos hombros cargaron aperos pesados y resguardaron al hogar de las tormentas. Al verlos encorvados por los años, comprendí la honda devoción que sostenían.
+  #2 | 站在科技变革的风口浪尖，青年科研工作者的肩膀承载着国家战略科技自立自强的历史重托。唯有耐得住寂寞、勇于啃硬骨头，把个人学术追求融入现代化建设洪流，才能在科技前沿展现坚实的青年担当。 | Zhàn zài kējì biàngé de fēngkǒulàngjiān, qīngnián kēyán gōngzuòzhě de jiānbǎng chéngzài zhe guójiā zhànlüè kējì zìlìzìqiáng de lìshǐ zhòngtuō. Wéiyǒu nàidēzhù jìmò, yǒngyú kěn yìnggǔtou, bǎ gèrén xuéshù zhuīqiú róngrù xiàndàihuà jiànshè hóngliú, cáinǐng zài kējì qiányán zhǎnxiàn jiānshí de qīngnián dāndāng. | At the forefront of technological transformation, the shoulders of young scientists bear the historic mandate of technological self-reliance. Overcoming solitude and tackling hard problems on the frontier showcase youth's firm commitment. | En la vanguardia de la transformación científica, los hombros de los jóvenes investigadores soportan el reto histórico de la soberanía tecnológica. Afrontar los problemas difíciles en la frontera del saber demuestra su madura responsabilidad.

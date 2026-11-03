@@ -1,0 +1,63 @@
+id: 14
+hanzi: 吵架
+pinyin: chǎo jià
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to quarrel; to have a row; to bicker; verbal dispute
+  es: pelear; discutir; reñir; tener una discusión acalorada
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Colloquial | to engage in an angry, loud verbal altercation or dispute with someone | sostener una riña o disputa verbal acalorada y en voz alta con alguien | 跟邻居吵架 (quarrel with a neighbor)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 昨天下午因为对周末出游计划意见不合，我和同桌大声吵架，但今天早上我们又笑着和好了。 | Zuótiān xiàwǔ yīnwèi duì zhōumò chūyóu jìhuà yìjiàn bù hé, wǒ hé tóngzhuō dàshēng chǎojià, dàn jīntiān zǎoshang wǒmen yòu xiào zhe héhǎo le. | Yesterday afternoon, having differing opinions on weekend outing plans, my deskmate and I had a loud quarrel, but this morning we laughed and reconciled. | Ayer por la tarde, por no ponernos de acuerdo sobre el paseo del fin de semana, mi compañero y yo tuvimos una fuerte discusión, pero esta mañana nos reconciliamos con una sonrisa.
+  #2 | 人际沟通培训讲师指出，团队成员在方案研讨中就事论事的激烈争论是正常的，但绝不能演化为情绪化的人身攻击与吵架。 | Rénjì gōutōng péixùn jiǎngshī zhǐchū, tuánduì chéngyuán zài fāng'àn yántǎo zhōng jiùshìlùnshì de jīliè zhēnglùn shì zhèngcháng de, dàn jué bù néng yǎnhuà wéi qíngxùhuà de rénshēng gōngjī yǔ chǎojià. | The interpersonal communication trainer noted that spirited, objective debate over proposals among team members is healthy, but it must never degenerate into personal bickering. | El instructor de comunicación interpersonal señaló que el debate técnico apasionado es productivo, pero nunca debe degenerar en ataques personales ni discusiones destructivas.
+
+collocations[6]{hanzi,en}:
+  激烈吵架 | quarrel fiercely
+  大吵一架 | have a big row
+  频繁吵架 | quarrel frequently
+  夫妻吵架 | spouses bickering
+  当街吵架 | quarrel in the public street
+  吵架闹别扭 | squabble and give the cold shoulder
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  吵吵闹闹 | chāo chao nào nào | noisy and turbulent; constantly squabbling
+  鸡犬不宁 | jī quǎn bù níng | even fowls and dogs are disturbed; utterly tumultuous
+  唇枪舌剑 | chún qiāng shé jiàn | lips as spears and tongues as swords; fierce war of words
+  各执一词 | gè zhí yì cí | each sticks to their own version of the story
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  吵 | chǎo | make noise; quarrel; clamor; noisy | hacer ruido; pelear; discutir; ruidoso | 口 | mouth | 口 (mouth, making vocal racket) | 少 (shǎo, phonetic match) | 7 | 左右结构 | Phono-semantic character pairing loud mouth (口) with 少 (shǎo), describing noisy verbal squabbling. | Opening a loud mouth (口) with small (少) self-restraint creates clamor. | Abrir una boca (口) ruidosa con poca (少) prudencia provoca escándalo y disputas. | 214 | RFH | ""
+  架 | jià | frame; rack; support; fight/brawl | estante; armazón; pelear; riña | 木 | wood | 木 (wooden timber frame) | 加 (jiā, add/impose phonetics) | 9 | 上下结构 | Depicts assembling wooden timbers (木) by adding (加) them together; extended colloquially to clashing or throwing hands/words in a fight (打架/吵架). | Putting together added force (加) over timber stakes (木) builds a fighting posture. | Aplicar fuerza adicional (加) sobre estacas de madera (木) levanta una postura de pelea. | 51 | KRD | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Loud, clamoring mouths (吵) locking into a rigid verbal confrontation frame (架) sparks a bitter quarrel.
+  composite_memory_hook_es: Bocas ruidosas (吵) que chocan en un forcejeo violento (架) dan lugar a una acalorada pelea verbal.
+  cultural_and_cognitive_roots: Chinese vernacular uses 'jià' (frame/scaffolding) metaphorically to describe squaring off in conflict; pairing it with vocal racket ('chǎo') designates verbal fights, contrasting with physical blows ('dǎjià').
+  tone_sandhi_and_pitch_modulation: 214-51 contour. The 3rd tone of chǎo is pronounced as a half-3rd tone (21 low pitch) when immediately preceding the 4th tone of jià (51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    抄 | chāo | copy; plagiarize | Has hand radical 扌 on the left instead of mouth 口
+    秒 | miǎo | second (time) | Has grain radical 禾 on the left instead of mouth 口
+    驾 | jià | drive; harness | Features horse radical 马 at the bottom instead of wood 木
+    贺 | hè | congratulate | Features shell radical 贝 at the bottom instead of wood 木
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    闹 | nào | noisy; make a scene
+    争 | zhēng | contend; dispute
+    吵 | chǎo | noisy; root morpheme
+    打 | dǎ | strike; partner morpheme in 打架
+
+semantic_boundary_contrasts:
+  core_nuance: 吵架 refers specifically to loud, angry, emotional verbal quarreling or bickering between individuals.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 吵架 vs. 争论 | zhēnglùn | 争论 refers to intellectual, academic, or professional argumentation where parties debate reasons objectively, whereas 吵架 is emotional venting and shouting.
+    2 | 吵架 vs. 打架 | dǎjià | 吵架 is strictly verbal warfare, whereas 打架 involves physical violence, punching, or brawling.
+    3 | 吵架 vs. 发生争执 | fāshēng zhēngzhí | 发生争执 is a formal, written-register description for experiencing disagreement, while 吵架 is everyday spoken Chinese for shouting matches.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 人与人之间的相处难免会有摩擦，但无休止的吵架只会消耗彼此的情感。真正成熟的沟通，是在情绪翻涌时懂得克制退让，用倾听代替指责。化解矛盾需要的不是争辩输赢，而是理解对方的委屈。 | Rén yǔ rén zhījiān de xiāngchǔ nánmiǎn huì yǒu mócā, dàn wúxiūzhǐ de chǎojià zhǐ huì xiāohào bǐcǐ de qínggǎn. Zhēnzhèng chéngshú de gōutōng, shì zài qíngxù fānyǒng shí dǒngdé kèzhì tuìràng, yòng qīngtīng dàitì zhǐzé. Huàjiě máodùn xūyào de bú shì zhēngbiàn shūyíng, érshì lǐjiě duìfāng de wěiqu. | Friction is inevitable among people, but endless quarreling merely drains mutual affection. Mature communication means practicing restraint when emotions surge and listening rather than blaming. Resolving conflict requires understanding, not winning arguments. | Los roces en el trato humano son inevitables, pero pelear sin cesar agota el cariño mutuo. La madurez consiste en contenerse cuando las emociones hierven y escuchar en vez de acusar. Resolver discordias exige comprender los sentimientos del otro.
+  #2 | 在现代企业团队协作中，将人际吵架与业务研讨严格区分，是保障项目平稳推进的关键组织规则。健康的团队文化鼓励针对技术难点各抒己见，但严禁将业务分歧异化为人身攻击与非理性情绪宣泄。 | Zài xiàndài qǐyè tuánduì xiézuò zhōng, jiāng rénjì chǎojià yǔ yèwù yántǎo yángé qūfēn, shì bǎozhàng xiàngmù píngwěn tuījìn de guānjiàn zǔzhī guīzé. Jiànkāng de tuánduì wénhuà gǔlì zhēnduì jìshù nándiǎn gèshūjǐjiàn, dàn yánjìn jiāng yèwù fēnqí yìhuà wéi rénshēng gōngjī yǔ fēilǐxìng qíngxù xuānxiè. | In modern corporate teamwork, strictly demarcating interpersonal bickering from technical deliberation is vital for project advancement. Healthy cultures encourage diverse views on technical hurdles while banning personal attacks and emotional outbursts. | En la colaboración empresarial moderna, separar los altercados personales del debate técnico asegura el avance del proyecto. Una cultura sólida fomenta el debate de ideas pero prohíbe que las discrepancias degeneren en ataques personales.

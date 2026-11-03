@@ -1,0 +1,63 @@
+id: 2
+hanzi: 电台
+pinyin: diàn tái
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: radio station; broadcasting station; transceiver station
+  es: emisora de radio; estación de radio; radiotransmisor
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | radio broadcasting station; transceiver apparatus | estación de radiodifusión; aparato transmisor y receptor de radio | 收听电台 (listen to the radio station)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每当深夜开车行驶在空旷的高速公路上，我总习惯打开车载广播，收听音乐电台的经典老歌。 | Měidāng shēnyè kāichē xíngshǐ zài kōngkuàng de gāosù gōnglù shàng, wǒ zǒng xíguàn dǎkāi chēzài guǎngbō, shōutīng yīnyuè diàntái de jīngdiǎn lǎogē. | Whenever I drive on the empty highway late at night, I am accustomed to turning on the car radio to listen to classics on the music station. | Cada vez que conduzco de noche por la autopista despejada, suelo encender la radio del coche para escuchar canciones clásicas en la emisora musical.
+  #2 | 在发生重大自然灾害导致移动通信网络中断时，民用无线电台成了灾区与外界取得联系的关键通道。 | Zài fāshēng zhòngdà zìrán zāihài dǎozhì yídòng tōngxìn wǎngluò zhōngduàn shí, mínyòng wúxiàndiàn diàntái chéng le zāiqū yǔ wàijiè qǔdé liánxì de guānjiàn tōngdào. | When a major natural disaster cuts off cellular networks, civilian radio transceiver stations become the crucial channel connecting the disaster area with the outside world. | Cuando un gran desastre natural interrumpe las redes móviles, las estaciones de radiotransmisión civil se convierten en el canal decisivo para comunicar la zona afectada con el exterior.
+
+collocations[6]{hanzi,en}:
+  广播电台 | radio broadcasting station
+  收听电台 | listen to a radio station
+  地方电台 | local radio station
+  无线电台 | wireless transceiver station
+  电台主持人 | radio show host
+  电台频率 | radio station frequency
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  风驰电掣 | fēng chí diàn chè | swift as the wind and quick as lightning
+  雷电交加 | léi diàn jiāo jiā | lightning accompanied by thunder; severe storms
+  电光石火 | diàn guāng shí huǒ | lightning flash and spark of flint; in a flash
+  登台亮相 | dēng tái liàng xiàng | mount the stage and make an appearance
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  电 | diàn | electricity; lightning | electricidad; rayo | 田 | field | 田 (field / cloud matrix) | 乚 (lightning bolt curving downwards) | 5 | 单一结构 | Originally depicted a flash of lightning bursting through rain clouds. | Sun and clouds overhead (日) discharge a bright curved bolt of lightning (乚) onto the land. | El sol y las nubes (日) descargan un rayo curvo y luminoso (乚) sobre la tierra. | 51 | LWU | 電
+  台 | tái | platform; stage; station | plataforma; escenario; estación | 口 | mouth | 口 (mouth, speaking or commanding) | 厶 (sī, phonetic marker) | 5 | 上下结构 | Simplification conflating 台 (elevated structure/terrace) and 臺 (watchtower). | A speaker stands on a private platform (厶) projecting announcements through a megaphone mouth (口). | Un locutor se para sobre una plataforma elevada (厶) y transmite su mensaje a través de la boca (口). | 35 | IR | 臺
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Harnessing electric lightning waves (电) on an elevated broadcast platform (台) creates a radio station.
+  composite_memory_hook_es: Aprovechar las ondas eléctricas (电) sobre una plataforma elevada (台) da vida a una emisora de radio.
+  cultural_and_cognitive_roots: Early 20th-century Chinese modernization combined 'diàn' (lightning/electricity) with 'tái' (high terrace or altar), conceptualizing mass radio broadcasting as an elevated electric stage beaming voices into every household.
+  tone_sandhi_and_pitch_modulation: 51-35 pitch contour (4th tone falling sharp, 2nd tone rising smooth). Avoid neutralizing the second syllable into a light tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    申 | shēn | express; state | Vertical stroke extends through both top and bottom, unlike 电
+    甲 | jiǎ | first; armor | Vertical stroke extends only downward from 田, unlike 电 which curls
+    合 | hé | combine; join | Has roof 人/一 on top instead of 厶; distinct from 台
+    苔 | tái | moss | Has grass radical 艹 above 台; refers to botanical moss
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    雷 | léi | thunder; shares rain/storm root with traditional 電
+    震 | zhèn | shock; quake; meteorological family
+    坛 | tán | altar; elevated platform
+    基 | jī | base; foundation stage
+
+semantic_boundary_contrasts:
+  core_nuance: 电台 specifically denotes a radio transmission station or apparatus that broadcasts voice and acoustic signals over electromagnetic airwaves.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 电台 vs. 电视台 | diànshìtái | 电台 broadcasts purely auditory content over radio frequencies, whereas 电视台 produces and broadcasts audio-visual television programming.
+    2 | 电台 vs. 广播 | guǎngbō | 电台 is the institutional facility, organization, or physical station, while 广播 refers to the medium or action of broadcasting audio signals.
+    3 | 电台 vs. 报社 | bàoshè | 电台 is an electronic audio broadcasting institution, whereas 报社 is a print or digital newspaper publishing house.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在收音机普及的岁月里，电台播音曾陪伴了一代人的青春。每当夜幕降临，主持人温和的声音穿透黑暗，抚慰着无数孤独的心灵。电台用电波架起了一座温暖之桥。 | Zài shōuyīnjī pǔjí de suìyuè lǐ, diàntái bōyīn céng péibàn le yí dài rén de qīngchūn. Měidāng yèmù jiànglín, zhǔchírén wēnhé de shēngyīn chuāntòu hēi'àn, fǔwèi zhe wúshù gūdú de xīnlíng. Diàntái yòng diànbō jiàqǐ le yí zuò wēnnuǎn zhī qiáo. | In the days when radios were widespread, radio broadcasts accompanied a generation's youth. As night fell, the host's gentle voice pierced the darkness, comforting lonely hearts. The station built a bridge of warmth with radio waves. | En la época en que la radio era común, sus emisiones acompañaron a toda una generación. Al caer la noche, la voz serena del locutor atravesaba la penumbra, reconfortando corazones solitarios y tendiendo un puente de calidez.
+  #2 | 随着融媒体时代的发展，传统广播电台正加快数字化转型步伐。许多电台进军音频客户端与网络播客，重构交互式内容生态，不仅拓宽了受众边界，更提升了现代公共传媒的传播实效。 | Suízhe róng méitǐ shídài de fāzhǎn, chuántǒng guǎngbō diàntái zhèng jiākuài shùzìhuà zhuǎnxíng bùfá. Xǔduō diàntái jìnjūn yīnpín kèhùduān yǔ wǎngluò bōkè, zhònggòu jiāohùshì nèiróng shēngtài, bùjǐn tuòkuān le shòuzhòng biānjiè, gèng tíshēng le xiàndài gōnggòng chuánméi de chuánbō shíxiào. | With the development of media convergence, traditional radio stations are accelerating digital transformation. Many stations enter audio apps and podcasts to reshape interactive ecosystems, broadening audiences and improving public communication. | Con el avance de la convergencia de medios, las emisoras tradicionales aceleran su digitalización. Al incursionar en aplicaciones y podcasts, reconstruyen un ecosistema interactivo que amplía audiencias y optimiza la comunicación pública.

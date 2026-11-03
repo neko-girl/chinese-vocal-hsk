@@ -1,0 +1,63 @@
+id: 12
+hanzi: 爱护
+pinyin: ài hù
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to care for; to cherish; to treasure; to take good care of
+  es: cuidar; proteger; mimar; valorar con esmero
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to cherish, protect, and care tenderly for people (subordinates/children) or public property | cuidar con cariño y proteger a personas o cuidar esmeradamente bienes públicos | 爱护公物 (take good care of public property)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 班主任老师不仅悉心指导我们的学业，更像父母一样在日常生活中爱护每一个学生的身体与心理健康。 | Bānzhǔrèn lǎoshī bùjǐn xīxīn zhǐdǎo wǒmen de xuéyè, gèng xiàng fùmǔ yíyàng zài rìcháng shēnghuó zhōng àihù měi yí gè xuéshēng de shēntǐ yǔ xīnlǐ jiànkāng. | Our homeroom teacher not only guides our academics with diligence, but also cares for every student's physical and mental health like a parent. | El tutor no solo orienta nuestros estudios con esmero, sino que cuida la salud física y emocional de cada alumno con afecto maternal.
+  #2 | 企业社会责任报告特别强调，所有员工在日常生产经营活动中都应自觉爱护厂区环境，严守生态保护红线。 | Qǐyè shèhuì zérèn bàogào tèbié qiángdiào, suǒyǒu yuángōng zài rìcháng shēngchǎn jīngyíng huó dòng zhōng dōu yīng zìjué àihù chǎngqū huánjìng, yánshǒu shēngtài bǎohù hóngxiàn. | The corporate social responsibility report specifically emphasized that all employees must take good care of the factory environment and respect ecological baselines. | El informe de responsabilidad social empresarial destacó que todos los empleados deben cuidar conscientemente las instalaciones y respetar las normas ecológicas.
+
+collocations[6]{hanzi,en}:
+  爱护公物 | take care of public property
+  爱护环境 | care for the environment
+  爱护花草 | protect flora and greenery
+  倍加爱护 | cherish with double care
+  爱护儿童 | care for and protect children
+  爱护名誉 | cherish one's reputation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  爱不释手 | ài bù shì shǒu | love something so much one cannot part with it
+  爱憎分明 | ài zēng fēn míng | have a clear distinction between what to love and what to hate
+  官官相护 | guān guān xiāng hù | bureaucrats shielding one another; mutual complicity
+  自相庇护 | zì xiāng bì hù | shield each other mutually
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  爱 | ài | love; affection; cherish | amor; afecto; apreciar | 爫 | claw / hand | 爫 (caring hands) | 冖 (protective shelter) + 友 (friend) | 10 | 上下结构 | Depicts tender hands (爫) stretching a shelter (冖) over a cherished companion (友). | A protective canopy (冖) extends gentle hands (爫) over a beloved friend (友). | Un techo protector (冖) extiende manos cariñosas (爫) para amparar al amigo querido (友). | 51 | BBE | 愛
+  护 | hù | protect; guard; shield; shelter | proteger; cuidar; guardar; defender | 手 | hand | 扌 (hand protecting/defending) | 户 (hù, household door) | 7 | 左右结构 | Phono-semantic character combining protective hand (扌) with home portal (户), conveying guarding the threshold. | Hands (扌) stand guard at the entryway door (户) to protect those inside. | Unas manos firmes (扌) guardan la puerta de casa (户) para proteger a la familia. | 51 | QHS | 護
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pouring genuine love (爱) while extending hands to shield and protect (护) encapsulates caring deeply for someone or something.
+  composite_memory_hook_es: Brindar amor sincero (爱) extendiendo las manos para proteger (护) significa cuidar con devoción.
+  cultural_and_cognitive_roots: Derived from classical ethics of paternal benevolence and ecological stewardship ('仁民而爱物'); caring combines tender warmth with vigilant protective action.
+  tone_sandhi_and_pitch_modulation: 51-51 pitch contour. Both syllables are sharp falling 4th tones; articulate each tone distinctly without swallowing the syllable finals.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    受 | shòu | receive; bear | Lacks the upper horizontal roof stroke; different top component from 爱
+    妥 | tuǒ | proper | Features 女 below 爫 instead of 友
+    炉 | lú | stove; furnace | Has fire radical 火 on the left instead of hand 扌
+    庐 | lú | thatched hut | Features 广 on the outside enclosing 户
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    保 | bǎo | protect; preserve
+    卫 | wèi | defend; guard
+    惜 | xī | cherish; feel tender regret
+    疼 | téng | love dearly; dote upon
+
+semantic_boundary_contrasts:
+  core_nuance: 爱护 conveys protective affection and conscientious care, used towards subordinates, youth, animals, or public objects.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 爱护 vs. 爱惜 | àixī | 爱惜 focuses on not wasting or squandering scarce resources (e.g., 爱惜时间, 爱惜粮食), while 爱护 stresses protecting something fragile from damage or harm (e.g., 爱护公物, 爱护身体).
+    2 | 爱护 vs. 保护 | bǎohù | 保护 focuses on shielding against external threats, attacks, or environmental legal frameworks, whereas 爱护 adds a layer of emotional warmth, gentleness, and moral duty.
+    3 | 爱护 vs. 关心 | guānxīn | 关心 denotes psychological solicitude and attentiveness to someone's welfare, whereas 爱护 emphasizes physical protection, stewardship, and preservation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正的爱护不是将幼苗置于温室中免受风雨，而是在它成长时给予坚定的庇护与守望。唯有懂得尊重自然的规律，悉心呵护弱小而不横加干涉，才能让生命在辽阔的天地间自由舒展，长成参天大树。 | Zhēnzhèng de àihù bú shì jiāng yòumiáo zhìyú wēnshì zhōng miǎnshòu fēngyǔ, érshì zài tā chéngzhǎng shí jǐyǔ jiāndìng de bìhù yǔ shǒuwàng. Wéiyǒu dǒngdé zūnzhòng zìrán de guīlǜ, xīxīn hēhù ruòxiǎo ér bù héngjiā gānshè, cáinǐng ràng shēngmìng zài liáokuò de tiāndì jiān zìyóu shūzhǎn, zhǎng chéng cāntiān dàshù. | True care does not mean locking seedlings in a greenhouse away from rain, but offering steady guardianship as they grow. Only by respecting nature's rhythm and tenderly protecting the young can life thrive freely into towering trees. | Cuidar de verdad no consiste en encerrar los brotes en un invernadero, sino en brindarles cobijo constante mientras crecen. Solo respetando la naturaleza y protegiendo a los frágiles sin asfixiarlos puede la vida florecer en árboles robustos.
+  #2 | 在现代公共文化遗产保护与城市更新的交汇点上，全社会爱护历史古迹的意识成为衡量城市文明的重要标尺。通过立法规范古建筑修缮标准，引导市民自发参与文物巡查，方能实现珍贵历史文脉的永续传承。 | Zài xiàndài gōnggòng wénhuà yíchǎn bǎohù yǔ chéngshì gēngxīn de jiāohuìdiǎn shàng, quán shèhuì àihù lìshǐ gǔjì de yìshí chéngwéi héngliáng chéngshì wénmíng de zhòngyào biāochǐ. Tōngguò lìfǎ guīfàn gǔ jiànzhù xiūshàn biāozhǔn, yǐndǎo shìmín zìfā cānyù wénwù xúnchá, fāng néng shíxiàn zhēnguì lìshǐ wénmài de yǒngxù chuánchéng. | At the crossroads of heritage preservation and urban renewal, societal care for historical relics measures urban civility. Regulating restoration standards and guiding citizens to monitor heritage ensure that precious cultural roots endure. | En la intersección entre patrimonio y renovación urbana, la conciencia social de cuidar los monumentos mide la madurez de una ciudad. Regular la restauración de edificios antiguos y fomentar la participación ciudadana preserva las raíces culturales.

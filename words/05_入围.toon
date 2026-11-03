@@ -1,0 +1,63 @@
+id: 5
+hanzi: 入围
+pinyin: rù wéi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to be shortlisted; to qualify for the next round; to make the finalist list
+  es: ser seleccionado; quedar como finalista; pasar a la ronda final
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to pass preliminary screening and enter the final selection or shortlist of a competition | superar la selección preliminar y entrar en la lista de finalistas de un certamen o concurso | 入围决赛 (make it to the finals)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过长达半年的刻苦备战，我们学校的辩论队凭借出色的发挥顺利入围全国中学生辩论锦标赛总决赛。 | Jīngguò chángdá bàn nián de kèkǔ bèizhàn, wǒmen xuéxiào de biànlùn duì píngjiè chūsè de fāhuī shùnlì rùwéi quánguó zhōngxuéshēng biànlùn jǐnbiāosài zǒngjuésài. | After half a year of arduous preparation, our school debate team smoothly qualified for the national high school debate championship grand finals. | Tras medio año de rigurosa preparación, el equipo de debate de nuestra escuela logró clasificarse con éxito para la gran final del campeonato nacional escolar.
+  #2 | 该项绿色能源专利技术凭借显著的减排效益，成功入围联合国工业发展组织全球可持续技术前沿榜单。 | Gāi xiàng lǜsè néngyuán zhuānlì jìshù píngjiè xiǎnzhù de jiǎnpái xiàoyì, chénggōng rùwéi Liánhéguó Gōngyè Fāzhǎn Zǔzhī quánqiú kěchíxù jìshù qiányán bǎngdān. | By virtue of significant emission reduction efficacy, this green energy patent successfully made the shortlist of UNIDO's global sustainable technology frontier ranking. | Gracias a su notable eficacia en reducción de emisiones, esta patente de energía verde logró ser seleccionada en la prestigiosa lista de tecnologías sostenibles de la ONUDI.
+
+collocations[6]{hanzi,en}:
+  成功入围 | successfully shortlisted
+  入围名单 | shortlist / finalists roster
+  入围作品 | shortlisted works
+  入围决赛 | qualify for the finals
+  入围奖项 | shortlisted for awards
+  顺利入围 | smoothly made the cut
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  脱颖而出 | tuō yǐng ér chū | stand out from the crowd; talent revealing itself
+  入木三分 | rù mù sān fēn | penetrate deeply; keen and incisive
+  金榜题名 | jīn bǎng tí míng | pass the civil examination; succeed in a competitive test
+  重围之中 | chóng wéi zhī zhōng | amid tight encirclement; in the thick of a cordon
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  入 | rù | enter; join; admit | entrar; ingresar; admitir | 入 | enter | 入 (pictogram of sharp downward entry) | 入 (inherent archaic sound) | 2 | 独体字 | Pictogram of an arrow or wedge penetrating downward through a membrane or portal. | A sharp root or wedge (入) pushes its tip deep into the soil to gain entry. | Una cuña afilada (入) se abre paso hacia abajo para penetrar en la tierra. | 51 | OH | ""
+  围 | wéi | surround; enclose; corral; perimeter | rodear; cercar; recinto; perímetro | 囗 | enclosure | 囗 (surrounding boundary wall) | 韦 (wéi, leather/encircling belt) | 7 | 全包围结构 | Depicts an enclosing border wall (囗) surrounding leather perimeter guards (韦). | Soldiers wearing leather armor (韦) stand inside fortified city walls (囗) guarding the designated perimeter. | Guardianes con corazas de cuero (韦) vigilan dentro de las murallas (囗) el perímetro del recinto. | 35 | ODS | 圍
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Penetrating (入) inside the exclusive enclosure (围) means you have officially made the shortlist.
+  composite_memory_hook_es: Penetrar (入) dentro del recinto exclusivo (围) significa que has sido seleccionado como finalista.
+  cultural_and_cognitive_roots: Derived from the ancient imperial examination and hunting cordon where only top performers were permitted to enter the inner imperial enclosure ('wéi'); modern usage adapts this to entering competitive shortlists.
+  tone_sandhi_and_pitch_modulation: 51-35 pitch contour. The entering tone of rù falls swiftly (51), followed by the smooth rising contour of wéi (35).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    人 | rén | person; human | Left falling stroke extends above the right stroke, unlike 入 where right overlaps left
+    八 | bā | eight | The two strokes do not touch at the top, leaving an open apex
+    国 | guó | country; nation | Contains 玉 (jade) inside the 囗 enclosure instead of 韦
+    园 | yuán | garden; park | Contains 元 inside the 囗 enclosure instead of 韦
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    进 | jìn | advance; enter forward
+    内 | nèi | inside; interior, sharing inward penetration root
+    圈 | quān | circle; bounded ring
+    界 | jiè | boundary; border scope
+
+semantic_boundary_contrasts:
+  core_nuance: 入围 specifically denotes crossing the threshold of preliminary selection to secure a designated spot on the final nominee list.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 入围 vs. 晋级 | jìnjí | 入围 stresses entering an elite shortlist or nomination bracket (e.g., film awards), while 晋级 emphasizes tournament stage progression (e.g., advancing from round of 16 to quarterfinals).
+    2 | 入围 vs. 获奖 | huòjiǎng | 入围 indicates qualification as a finalist or nominee, whereas 获奖 denotes actually winning an award or final prize.
+    3 | 入围 vs. 入选 | rùxuǎn | 入选 means being chosen or accepted into a team, anthology, or roster, whereas 入围 strictly implies qualifying for an ongoing competitive final round.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 对青年电影人而言，作品入围国际电影节主竞赛单元，是一份极大的肯定。当掌声在影厅响起，所有的付出都在这一刻化为前行的力量。入围不仅关乎荣耀，更关乎被看见的喜悦。 | Duì qīngnián diànyǐngrén éryán, zuòpǐn rùwéi guójì diànyǐngjié zhǔ jìngsài dānyuán, shì yí fèn jídà de kěndìng. Dāng zhǎngshēng zài yǐngtīng xiǎngqǐ, suǒyǒu de fùchū dōu zài zhè yí kè huàwéi qiánxíng de lìliàng. Rùwéi bùjǐn guānhū róngyào, gèng guānhū bèi kànjiàn de xǐyuè. | For young filmmakers, having a work shortlisted in an international festival's main competition is immense validation. When applause rings out, all effort turns into strength to forge ahead. Being shortlisted is not just about honor, but the joy of being seen. | Para un joven cineasta, que su obra quede finalista en la sección oficial de un festival internacional es un gran reconocimiento. Los aplausos convierten todo esfuerzo en impulso. Ser finalista no es solo un honor, sino la alegría de ser apreciado.
+  #2 | 在大型工程招标实践中，资格预审入围是防范履约风险的首要关卡。招标方从财务稳健度、技术资质及历史绩效等维度展开全面审查。只有成功入围的联合体，方有资格递交最终商务标书。 | Zài dàxíng gōngchéng zhāobiāo shíjiàn zhōng, zīgé yùshěn rùwéi shì fángfàn lǚyuē fēngxiǎn de shǒuyào guānkǎ. Zhāobiāofāng cóng cáiwù wěnjiàndù, jìshù zīzhì jí lìshǐ jìxiào děng wéidù zhǎnkāi quánmiàn shěnchá. Zhǐyǒu chénggōng rùwéi de liánhétǐ, fāng yǒu zīgé dìjiāo zuìzhōng shāngwù biāoshū. | In major project tendering, prequalification shortlisting is the primary defense against default risk. Tendering authorities review financial health, technical qualifications, and track record. Only shortlisted consortia may submit final commercial proposals. | En licitaciones de gran envergadura, la preselección de finalistas es el filtro principal contra riesgos de incumplimiento. Se revisan solvencia económica, capacidad técnica e historial. Solo los consorcios seleccionados pueden presentar ofertas comerciales definitivas.
