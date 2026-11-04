@@ -1,0 +1,65 @@
+id: 12
+hanzi: 胡说
+pinyin: hú shuō
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to talk nonsense; to drivel; to speak rubbish without factual basis
+  es: decir tonterías; hablar disparates; hablar sin ton ni son; desvariar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Colloquial | to utter statements that are completely untrue, absurd, groundless, or irrational | decir cosas absurdas, falsas, descabelladas o desprovistas de fundamento | 纯属胡说 (sheer nonsense)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对毫无事实依据的网络谣言，当事人严正声明这完全是在胡说，并保留法律追责的权利。 | Miànduì háowú shìshí yījù de wǎnglù yáoyán, dāngshìrén yánzhèng shēngmíng zhè wánquán shì zài húshuō, bìng bǎoliú fǎlǜ zhuīzé de quánlì. | Facing internet rumors with zero factual basis, the party solemn declared this was sheer nonsense, reserving the right to seek legal accountability. | Ante los infundados bulos propagados por internet, el afectado declaró con firmeza que se trataba de meras calumnias y se reservó el derecho a emprender acciones legales.
+  #2 | 盲人们因各执己见而彼此斥责对方在胡说，这则寓言深刻揭示了主观片面性如何导致无谓的争吵。 | Mángrénmen yīn gèzhíjǐjiàn ér bǐcǐ chìzé duìfāng zài húshuō, zhè zé yùyán shēnkè jiēshì le zhǔguān piànmiànxìng rúhé dǎozhì wúwèi de zhēngchǎo. | Because each clung to their own view, the blind men rebuked each other for talking nonsense, revealing how one-sidedness incites futile discord. | Al aferrarse cada cual a su juicio, los ciegos se reprocharon hablar disparates, mostrando cómo la parcialidad subjetiva desata disputas estériles.
+
+collocations[6]{hanzi,en}:
+  胡说八道 | talk sheer rubbish; babble drivel
+  纯属胡说 | sheer nonsense; total drivel
+  简直是胡说 | simply talking utter nonsense
+  胡言乱语 | raving nonsense; wild babble
+  休得胡说 | stop talking nonsense!
+  信口胡说 | blabber wildly without thinking
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  胡说八道 | hú shuō bā dào | talk complete drivel; spout unadulterated nonsense
+  信口雌黄 | xìn kǒu cí huáng | make irresponsible remarks; change words arbitrarily
+  信口开河 | xìn kǒu kāi hé | talk at random; speak without restraint or facts
+  捕风捉影 | bǔ fēng zhuō yǐng | catch at wind and shadows; make groundless accusations
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  胡 | hú | reckless; barbarian; beard; why | imprudente; desordenado; barba | 月 | flesh / moon | 月 (flesh, animal throat dewlap) | 古 (gǔ, ancient / phonetic) | 9 | 左右结构 | Ancient pictogram depicting the hanging dewlap of flesh beneath an ox's chin. Later borrowed phonetically for northern nomads, and figuratively for wild/reckless behavior. | An ancient (古) beast with a loose flap of flesh (月) beneath its neck babbles wildly (胡). | Una criatura con piel colgante (月) y trazas arcaicas (古) que profiere sonidos desordenados (胡). | 35 | JRB | 
+  说 | shuō | speak; talk; explain; persuade | hablar; decir; explicar | 讠 | speech / words | 讠 (speech, utterance) | 兑 (duì, exchange / pleasure / mouth) | 9 | 左右结构 | Phono-semantic compound: speech radical 讠 combined with joyous mouth 兑, expressing exchanging thoughts through verbal words. | Exchanging words (讠) through a smiling, expressive mouth (兑) conveys human speech (说). | Palabras (讠) que brotan gozosas de una boca abierta (兑) para comunicar el pensamiento hablado (说). | 55 | IVCR | 說
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Speaking (说) in a wild, ungrounded, reckless fashion (胡) amounts to talking pure nonsense (胡说).
+  composite_memory_hook_es: Hablar (说) de forma salvaje y sin fundamento (胡) equivale a decir disparates (胡说).
+  cultural_and_cognitive_roots: In ancient Han Chinese records, nomadic tribes from northern frontiers were termed 胡 (Hú). Because their languages and customs were unfamiliar to central plains dwellers, words prefixed with 胡 (胡说, 胡思乱想, 胡闹) came to designate speech or actions deemed chaotic, irregular, or absurd.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by high level 1st tone: 'hú shuō' (35-55). Glide up with 'hú', then produce a steady, unvarying high pitch on 'shuō'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    湖 | hú | lake; water pool | Has water radical 氵 on the left
+    蝴 | hú | butterfly | Has insect radical 虫 on the left
+    糊 | hú | paste; porridge; muddled | Has rice radical 米 on the left
+    脱 | tuō | shed; take off; escape | Has 月 on the left and 兑 on the right
+    悦 | yuè | pleased; delighted | Has heart radical 忄 next to 兑
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    蝴 | hú | butterfly (蝴蝶)
+    湖 | hú | lake; body of water
+    葫 | hú | bottle gourd (葫芦)
+    糊 | hú | paste; congee; indistinct
+    说 | shuō | speak; talk; explain
+
+semantic_boundary_contrasts:
+  core_nuance: 胡说 is an emphatic colloquial verb expressing that statements are completely fictitious, absurd, or groundless.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 胡说 vs. 瞎说 | xiāshuō | Both mean talking nonsense, but 瞎说 emphasizes speaking without having seen the facts (blind guesswork), while 胡说 emphasizes speaking absurdly, outrageously, or offensively.
+    2 | 胡说 vs. 造谣 | zàoyáo | 胡说 can be casual exaggeration or foolish talk, whereas 造谣 is a deliberate, malicious criminal act of manufacturing false rumors to mislead the public.
+    3 | 胡说 vs. 撒谎 | sāhuǎng | 胡说 highlights that the words are bizarre, illogical, or unfounded nonsense, whereas 撒谎 specifically means telling a conscious, deliberate lie to deceive.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在人际沟通中，无端的胡说与猜忌最容易摧毁彼此历经岁月建立的深厚信任。遇事多一份理性的求证，少一点轻信与传讹，用真诚的倾听化解误解，人与人之间的交往才能真正回归坦荡与温存。 | Zài rénjì gōutōng zhōng, wúduān de húshuō yǔ cāijì zuì róngyì cuīhuǐ bǐcǐ lìjīng suìyuè jiànlì de shēnhòu xìnrèn. Yùshì duō yí fèn lǐxìng de qiúzhèng, shǎo yìdiǎn qīngxìn yǔ chuán'é, yòng zhēnchéng de qīngtīng huàjiě wùjiě, rén yǔ rén zhījiān de jiāowǎng cáinéng zhēnzhèng huíguī tǎndàng yǔ wēncún. | In interpersonal communication, groundless rubbish and suspicion most easily destroy mutual trust built over years. Seeking rational verification, minimizing credulity, and dissolving misunderstandings through sincere listening allows relationships to remain candid. | En el trato humano, los infundios y sospechas destruyen con facilidad la confianza forjada durante años. Aportar rigor racional, desterrar la ligereza y disolver malentendidos mediante la escucha leal devuelve a la convivencia su noble franqueza.
+  #2 | 融媒体时代的网络舆论场极其敏感脆弱，个别自媒体为了追求流量眼球往往信口胡说、扭曲事实真相。建立健全的互联网法治监管机制与事实核查体系，对于净化网络生态空间具有深远意义。 | Róngméitǐ shídài de wǎnglù yúlùnchǎng jíqí mǐngǎn cuìruò, gèbié zìméitǐ wèile zhuīqiú liúliàng yǎnqiú wǎngwǎng xìnkǒu-húshuō, niǔqū shìshí zhēnxiàng. Jiànlì jiànquán de hùliánwǎng fǎzhì jiānguǎn jīzhì yǔ shìshí héchá tǐxì, duìyú jìnghuà wǎnglù shēngtài kōngjiān jùyǒu shēnyuǎn yìyì. | In the convergence media era, online public opinion is fragile; certain creators spout drivel and distort truth merely to chase clicks. Establishing robust legal oversight and fact-checking systems carries profound significance for purifying cyberspace. | En la era digital, la opinión pública en redes es vulnerable; creadores irresponsables vierten falsedades distorsionando la realidad por ganar clics. Erigir un marco regulatorio eficaz y mecanismos de verificación es crucial para sanear el ecosistema informativo en línea.

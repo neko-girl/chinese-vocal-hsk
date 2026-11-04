@@ -1,0 +1,66 @@
+id: 27
+hanzi: 不要紧
+pinyin: bú yào jǐn
+level: HSK 5
+part_of_speech: Idiom
+
+meanings_summary:
+  en: not serious; it doesn't matter; never mind; of no great consequence
+  es: no importa; no es grave; no pasa nada; no tiene importancia; no te preocupes
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Idiom | Colloquial | not serious or critical; not a cause for concern or alarm; it doesn't matter | no reviste gravedad ni peligro; no tiene mayor trascendencia; no hay de qué preocuparse | 伤势不要紧 (the injury isn't serious)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对手下随从惊恐万状的劝阻，李广将军只是从容一笑，淡淡地说了声“不要紧”，便稳稳拔出长箭。 | Miànduì shǒuxià suícóng jīngkǒng-wànzhuàng de quànzǔ, Lǐ Guǎng jiāngjūn zhǐshì cóngróng yíxiào, dàndàn de shuō le shēng 'búyàojǐn', biàn wěnwěn báchū chángjiàn. | Facing terrified dissuasion from his retinue, General Li Guang merely smiled with composure, murmured 'it doesn't matter', and drew his long arrow. | Ante los asustados ruegos de sus guardias, el general Li Guang sonrió con serenidad, musitó un tranquilo 'no pasa nada' y desenvainó con pulso firme una flecha.
+  #2 | 医生仔细检查了伤口后宽慰病人说，只是轻微擦伤，按时换药即可，身体健康完全不要紧。 | Yīshēng zǐxì jiǎnchá le shāngkǒu hòu kuānwèi bìngrén shuō, zhǐshì qīngwēi cāshāng, ànshí huànyào jíkě, shēntǐ jiànkāng wánquán búyàojǐn. | After carefully inspecting the wound, the doctor comforted the patient that it was merely a graze; taking medicine on time, his health was fine. | Tras examinar la herida con detenimiento, el médico tranquilizó al paciente diciéndole que solo era una rozadura leve y que su salud no corría riesgo.
+
+collocations[6]{hanzi,en}:
+  伤势不要紧 | the injury is not serious
+  生病不要紧 | being sick is nothing serious
+  失败不要紧 | failure does not matter; it's okay to fail
+  不要紧的微恙 | a minor, inconsequential ailment
+  安慰说不要紧 | console someone saying it doesn't matter
+  完全不要紧 | totally inconsequential; completely fine
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  无关紧要 | wú guān jǐn yào | of no importance; insignificant; immaterial
+  紧锣密鼓 | jǐn luó mì gǔ | beating gongs and rolling drums; in intense preparation
+  风紧扯呼 | fēng jǐn chě hū | wind is harsh so run; slang for beating a swift retreat
+  松紧有度 | sōng jǐn yǒu dù | appropriate balance between looseness and tightness
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  不 | bù | no; not; un-; negative prefix | no; partícula negativa | 一 | one | 一 (heaven boundary / root) | 卜 (calyx / downward shoot) | 4 | 单一结构 | Ancient pictogram of a seed root or plant shoot unable to sprout above the earth line 一, symbolizing negation. | A seed sprout attempts to burst through the ground line (一) but fails to emerge, expressing negation (不). | Un brote que lucha por atravesar la superficie de la tierra (一) sin lograr asomar, indicando negación (不). | 51 | MF | 
+  要 | yào | want; need; important; demand | querer; necesitar; esencial | 覀 | west / cover | 覀 (waist of human body / corset) | 女 (nǚ, woman) | 9 | 上下结构 | Ancient pictogram depicting a woman 女 with hands resting on her slender waist 覀. Later borrowed for 'crucial, need, essential'. | A woman (女) holding her essential, delicate waist (覀) represents what is most crucial and required (要). | Una mujer (女) con las manos ceñidas a su cintura esencial (覀) simboliza lo primordial y perentorio (要). | 51 | MWD | 
+  紧 | jǐn | tight; strict; urgent; close | apretado; urgente; tenso; estricto | 糸 | silk / thread | 糸 (twisted silk fibers pulled taut) | 臤 (qiān, firm hand / resolute) | 10 | 上下结构 | Simplified from 緊. Ancient pictogram of a resolute hand 臤 pulling strands of silk thread 糸 taut with tension. | Strong hands pull silk cords (糸) with unyielding force to make them extremely taut and urgent (紧). | Manos enérgicas tensan las hebras de seda (糸) con pulso firme hasta dejarlas prietas y urgentes (紧). | 214 | SEVIF | 緊
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Something that is not (不) demanding or crucially urgent (要紧) is lighthearted and doesn't matter (不要紧).
+  composite_memory_hook_es: Aquello que no (不) reviste una tensión apremiante (要紧) carece de gravedad y no tiene importancia (不要紧).
+  cultural_and_cognitive_roots: In Chinese colloquial discourse, 要紧 (crucial / tense) derives from 紧 (tight cords pulled to the breaking point). Prefixing with 不 relaxes all existential tension, serving as the quintessential phrase for reassuring anxious peers in crises.
+  tone_sandhi_and_pitch_modulation: Tone sandhi: 'bú yào jǐn' (35-51-214). 'bù' changes from 4th tone to rising 2nd tone 'bú' because it precedes falling 4th tone 'yào'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    下 | xià | below; down; descend | Has horizontal line on top with dot below right
+    耍 | shuǎ | play; juggle; fool around | Has 而 on top of 女 instead of 覀
+    絮 | xù | cotton wadding; garrulous | Has 如 on top of 糸 instead of 臤
+    紫 | zǐ | purple; violet | Has 此 on top of 糸 instead of 臤
+    索 | suǒ | cable; search; demand | Has 十 and 冖 on top of 糸
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    否 | fǒu | negate; deny; negative
+    丕 | pī | grand; glorious; great
+    腰 | yāo | waist; small of back
+    耍 | shuǎ | play; trick; sport with
+    紧 | jǐn | tight; urgent; strict
+
+semantic_boundary_contrasts:
+  core_nuance: 不要紧 is an informal spoken consolation expressing that a mishap, injury, or mistake is harmless and trivial.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 不要紧 vs. 没关系 | méi guānxi | 没关系 is polite social etiquette responding to an apology or thanks ('no problem / you're welcome'), whereas 不要紧 specifically addresses health, danger, or injury ('it's not critical / not dangerous').
+    2 | 不要紧 vs. 无所谓 | wúsuǒwèi | 不要紧 is warm and reassuring about low risk, whereas 无所谓 expresses apathy, indifference, or unconcern ('I don't care either way').
+    3 | 不要紧 vs. 不碍事 | bú àishì | Both mean not hindering, but 不碍事 emphasizes that something does not physically block an action, while 不要紧 focuses on severity of consequences.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生活中难免会遇到跌倒与挫折，一句温暖从容的“不要紧”，往往胜过千言万语的劝慰。它不仅能抚平内心的慌乱与沮丧，更能给予前行者重整旗鼓的勇气。学会坦然面对得失，人生才能走得更加宽广从容。 | Shēnghuó zhōng nánmiǎn huì yùdào diēdǎo yǔ cuòzhé, yí jù wēnnuǎn cóngróng de 'búyàojǐn', wǎngwǎng shèngguò qiānyán-wànyǔ de quànwèi. Tā bùjǐn néng fǔpíng nèixīn de huāngluàn yǔ jǔsàng, gèng néng jǐyǔ qiánxíngzhě chóngzhěng-qígǔ de yǒngqì. Xuéhuì tǎnrán miànduì déshī, rénshēng cáinéng zǒu de gèngjiā kuānguǎng cóngróng. | Stumbles and setbacks are inevitable in life; a warm, tranquil 'it doesn't matter' often outshines thousands of words. It smooths away panic and confers courage to regroup. Facing gains and losses with equanimity broadens one's path. | Los tropiezos son inevitables en la vida; un apacible 'no pasa nada' vale más que mil consuelos. Calma el desasosiego y alienta a recomponer fuerzas. Mirar con serenidad las vicisitudes ensancha el horizonte vital.
+  #2 | 在危机管理与团队决策中，优秀的领导者既能在战略上洞察全局，又能在战术失误时以“不要紧”的豁达胸襟稳定军心。允许团队在试错中探索成长，恰恰是激发组织内部创新活力与坚韧韧性的关键所在。 | Zài wēijī guǎnlǐ yǔ tuánduì juécè zhōng, yōuxiù de lǐngdǎozhě jì néng zài zhànlüè shàng dòngchá quánjú, yòu néng zài zhànshù shīwù shí yǐ 'búyàojǐn' de huòdá xiōngjīn wěndìng jūnxīn. Yǔnxǔ tuánduì zài shìcuò zhōng tànsuǒ chéngzhǎng, qiàqià shì jīfā zǔzhī nèibù chuàngxīn huólì yǔ jiānrèn rènxìng de guānjiàn suǒzài. | In crisis management, great leaders oversee strategy while calming troops with magnanimous equanimity during tactical errors. Allowing teams to learn from trial and error is the catalyst sparking innovation and resilient cohesion. | En la gestión de crisis, los líderes eminentes dominan el tablero estratégico y apaciguan ánimos con noble templanza ante los errores tácticos. Permitir aprender del ensayo y error es la clave que desata la creatividad y fortalece a los equipos.

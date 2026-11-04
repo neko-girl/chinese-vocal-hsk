@@ -1,0 +1,66 @@
+id: 36
+hanzi: 连续
+pinyin: lián xù
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: continuous; successive; consecutive; running; in succession; uninterrupted
+  es: continuo; sucesivo; consecutivo; ininterrumpido; seguido
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | extending or continuing uninterrupted in space, time, or sequence | que se prolonga sin interrupción en el tiempo, espacio o secuencia; ininterrumpido | 连续工作 (work continuously)
+  2 | Adverb | Standard | successively; in unbroken sequence without stopping; consecutively | de forma sucesiva; consecutivamente; sin cesar | 连续射箭 (shoot arrows in succession)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军难以置信，退回原处又连续射出数箭，然而箭箭撞在坚硬的石壁上火星四溅，再也无法射入。 | Lǐ Guǎng jiāngjūn nǎnyǐ-zhìxìn, tuìhuí yuánchù yòu liánxù shèchū shù jiàn, rán'ér jiànjiàn zhuàng zài jiānyìng de shíbì shàng huǒxīng-sìjiàn, zàiyě wúfǎ shèrù. | Incredulous, General Li Guang stepped back and shot several more arrows in succession, but every arrow struck the rock with sparks flying, unable to pierce again. | Incrédulo, el general Li Guang retrocedió y disparó varias flechas seguidas, pero cada saeta rebotó despidiendo chispas contra la roca sin poder penetrarla.
+  #2 | 该高新技术企业连续五年保持两位数以上的研发投入增长，为其核心技术的持续突破注入了强劲动力。 | Gāi gāoxīn-jìshù qǐyè liánxù wǔ nián bǎochí liǎngwèishù yǐshàng de yánfā tóurù zēngzhǎng, wèi qí héxīn jìshù de chíxù tūpò zhùrù le qiángjìn dònglì. | The tech enterprise maintained double-digit R&D investment growth for five consecutive years, injecting robust impetus into core breakthroughs. | Esta empresa de alta tecnología mantuvo un crecimiento de dos dígitos en I+D durante cinco años consecutivos, inyectando un firme impulso a sus avances tecnológicos.
+
+collocations[6]{hanzi,en}:
+  连续不断 | continuous and unbroken; incessant
+  连续工作 | work continuously without rest
+  连续三天 | three consecutive days
+  连续数箭 | several arrows in succession
+  连续发生 | occur in succession
+  连续增长 | continuous growth
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  接连不断 | jiē lián bú duàn | in continuous succession; one after another
+  连绵不断 | lián mián bú duàn | rolling on continuously (mountains, rain)
+  后继有人 | hòu jì yǒu rén | there is no lack of qualified successors
+  连绵起伏 | lián mián qǐ fú | rolling undulating hills; undulating continuously
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  连 | lián | link; connect; join; even | unir; conectar; eslabonar; incluso | 辶 | walk / motion | 辶 (movement on road) | 车 (chē, vehicle / chariot) | 7 | 半包围结构 | Simplified from 連. Ancient pictogram showing carts and chariots 车 following one after another along a road 辶 in a train. | War chariots (车) traveling consecutively along a roadway (辶) form a continuous linked procession (连). | Carros de combate (车) avanzando uno tras otro por el camino (辶) forman una hilera enlazada (连). | 35 | YKQ | 連
+  续 | xù | continue; prolong; replenish; succeed | continuar; proseguir; empalmar | 纟 | silk / thread | 纟 (silk thread, splicing fibers) | 卖 (mài, display / trade) | 11 | 左右结构 | Simplified from 續. Ancient pictogram of tying new strands of raw silk 纟 onto the end of spun yarn to prolong the thread. | Splicing an extra skein of fine silk (纟) onto the spool prolongs the thread so it can continue (续). | Empalmar una nueva madeja de seda (纟) a la rueca prolonga el hilo permitiendo que continúe sin fin (续). | 51 | VMJNC | 續
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Chariots linked in a convoy (连) joined to unbroken threads of spun silk (续) run in continuous succession (连续).
+  composite_memory_hook_es: Carros eslabonados en marcha (连) unidos al hilo de seda que se empalma sin cesar (续) fluyen de forma continua (连续).
+  cultural_and_cognitive_roots: In textile manufacturing, 接续 (splicing threads together) preserved the structural integrity of the fabric. Combined with 连 (chariots following one another), 连续 encapsulates uninterrupted chronological and spatial continuum.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by falling 4th tone: 'lián xù' (35-51). Lift cleanly on 'lián', then drop with decisive cadence on 'xù'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    过 | guò | pass; cross; undergo | Has 寸 inside 辶 instead of 车
+    送 | sòng | deliver; give as gift | Has 关 inside 辶 instead of 车
+    运 | yùn | transport; luck | Has 云 inside 辶 instead of 车
+    读 | dú | read; study | Has speech radical 讠 on the left instead of 纟
+    绩 | jì | achievement; merit; spin silk | Has 责 on the right instead of 卖
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    连 | lián | connect; join; link
+    链 | liàn | metal chain; cable
+    涟 | lián | ripples on water surface
+    续 | xù | continue; prolong; renew
+    渎 | dú | ditch; show disrespect
+
+semantic_boundary_contrasts:
+  core_nuance: 连续 emphasizes chronological or spatial succession without interruption or gaps between iterations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 连续 vs. 继续 | jìxù | 连续 is an adjective/adverb describing actions occurring in unbroken consecutive sequence (连续三天), whereas 继续 is a verb meaning resuming an action after a pause, or carrying on (继续努力).
+    2 | 连续 vs. 持续 | chíxù | 连续 highlights repeated discrete actions happening back-to-back (连续射箭), while 持续 highlights an ongoing state or trend enduring steadily over time (经济持续增长).
+    3 | 连续 vs. 断续 | duànxù | 连续 is seamless and unbroken (antonym), while 断续 is intermittent and sporadic (断断续续).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 窗外连绵阴雨已连续下了数日，湿润的雾气笼罩着整个江南水乡。青石小巷在雨水的洗刷下显得格外清幽，沿街的屋檐下滴答作响。这连绵不断的淅沥雨声，仿佛在低声吟唱着岁月静好的古老歌谣。 | Chuāngwài liánmián yīnyǔ yǐ liánxù xià le shù rì, shīrùn de wùqì lǒngzhào zhe zhěnggè Jiāngnán shuǐxiāng. Qīngshí xiǎoxiàng zài yǔshuǐ de xǐshuā xià xiǎnde géwài qīngyōu, yánjiē de wūyán xià dīdā zuòxiǎng. Zhè liánmián-búduàn de xīlì yǔshēng, fǎngfú zài dīshēng yínchàng zhe suìyuè-jìnghǎo de gǔlǎo gēyáo. | Dreary rains outside have fallen for consecutive days, shrouding the water town in mist. Bluestone lanes gleam washed clean under eaves dripping rhythms. This unbroken drizzle seems to softly sing an antique ballad of tranquil times. | La lluvia persistente cae desde hace días cubriendo de bruma la comarca sureña. Los callejones de losas lucen serenos mientras los aleros gotean sin cesar; el rumor continuo de la llovizna entona una balada ancestral de dulce sosiego.
+  #2 | 在重大航天工程的连续监控中，测控团队在长达几十个小时的任务周期内保持高度专注，确保指令毫秒级精准下达。正是这种严谨周密的连续作战作风，托举起大国重器在浩瀚星空中稳步巡天。 | Zài zhòngdà hángtiān gōngchéng de liánxù jiānkòng zhōng, cèkòng tuánduì zài chángdá jǐshí gè xiǎoshí de rènwù zhōuqī nèi bǎochí gāodù zhuānzhù, quèbǎo zhǐlìng háomiǎojí jīngzhǔn xiàdá. Zhèng shì zhè zhǒng yánjǐn zhōumì de liánxù zuòzhàn zuòfēng, tuōjǔ qǐ dàguó zhòngqì zài hàohàn xīngkōng zhōng wěnbù xúntiān. | In continuous aerospace tracking, telemetry teams sustain intense focus across tens of mission hours, ensuring millisecond command delivery. This rigorous, unbroken vigilance carries the nation's spacecraft aloft through boundless space. | En el seguimiento aeroespacial ininterrumpido, los ingenieros mantienen la atención durante extenuantes jornadas garantizando órdenes al milisegundo. Esta rigurosa disciplina sin pausas sostiene el vuelo triunfal de las naves en el cosmos.

@@ -1,0 +1,66 @@
+id: 31
+hanzi: 倒
+pinyin: dào
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: on the contrary; contrariwise; actually; unexpectedly; inverted; pour
+  es: al contrario; por el contrario; en cambio; en realidad; al revés; verter
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | indicating an unexpected contrast, contrary result, or concession ("on the contrary", "actually", "all the same") | adverbio que denota contraste inesperado, concesión o resultado contrario a lo previsto | 倒挺有意思 (actually quite interesting)
+  2 | Verb | Standard | to turn upside down, reverse order, or move backward | poner algo al revés, invertir la dirección o retroceder | 倒车 (back up a car / reverse)
+  3 | Verb | Standard | to pour out liquid, tea, or contents from a container | verter o servir líquido desde un recipiente | 倒茶 (pour tea / serve tea)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 原以为这部晦涩的历史纪录片会枯燥无味，看完之后倒觉得引人入胜、发人深省。 | Yuányǐwéi zhè bù huìsè de lìshǐ jìlùpiàn huì kūzào-wúwèi, kànwán zhīhòu dào juéde yǐnrén-rùshèng, fārén-shēnxǐng. | I originally thought this obscure history documentary would be dry and dull, but after watching it, I actually found it fascinating and thought-provoking. | Creí que aquel documental histórico resultaría árido y tedioso; no obstante, al terminarlo me pareció en cambio apasionante y revelador.
+  #2 | 在复杂的商业博弈中，急功近利往往适得其反；潜下心来夯实产品质量，倒能够厚积薄发、赢得市场的长远信赖。 | Zài fùzá de shāngyè bóyì zhōng, jígōng-jìnlì wǎngwǎng shìdéqífǎn; qiánxià xīn lái hāngshí chǎnpǐn zhìliàng, dào nénggòu hòujī-bófā, yíngdé shìchǎng de chángyuǎn xìnlài. | In complex business games, seeking quick gains often backfires; taking time to solidify quality can actually build lasting market trust. | En las disputas mercantiles, el afán de lucro rápido suele ser contraproducente; cuidar la calidad rinde en cambio frutos sólidos y credibilidad.
+
+collocations[6]{hanzi,en}:
+  倒也挺好 | actually quite good; not bad at all
+  反倒更糟 | on the contrary even worse
+  倒数第一 | last from the bottom; ranked lowest
+  倒茶招待 | pour tea to entertain; serve tea to guests
+  倒打一耙 | turn around to falsely accuse; counter-attack
+  倒背如流 | recite backwards fluently; know by heart
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  本末倒置 | běn mò dào zhì | put the cart before the horse; reverse the essential and trivial
+  颠倒黑白 | diān dǎo hēi bái | invert black and white; distort the truth
+  倒打一耙 | dào dǎ yì pá | make false counter-charges; counter-accuse
+  排山倒海 | pái shān dǎo hǎi | topple mountains and overturn the seas; gigantic force
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  倒 | dào | invert; reverse; on the contrary; pour | invertir; al revés; al contrario; verter | 亻 | person | 亻 (person standing) | 到 (dào, arrive / reached) | 10 | 左右结构 | Phono-semantic character where person radical 亻 combines with 到 (arrive/reach), illustrating an erect human leaning over or inverting posture. | A person (亻) tilting over upon arrival (到) reverses their position, signifying unexpected inversion and contrary turns (倒). | Una persona (亻) que al llegar (到) se reclina o vuelca de improviso invierte su postura, denotando el giro contrario a lo esperado (倒). | 51 | OMGIN | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A standing person (亻) who tilts or turns arriving (到) upside-down embodies doing the reverse or turning out contrary to expectation (倒).
+  composite_memory_hook_es: Una persona (亻) que al llegar (到) gira en sentido inverso encarna el giro contrario o inesperado (倒).
+  cultural_and_cognitive_roots: The character 倒 is famous in Chinese Spring Festival culture in the pun 'Fú dào le' (福倒了 / 福到了 - Fortune is turned upside down / Fortune has arrived). Pasting the character 福 upside down on front doors playfully welcomes arriving prosperity.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone: 'dào' (51). Deliver with a crisp, dropping pitch trajectory from the upper register to the lowest.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    到 | dào | arrive; reach | Lacks the person radical 亻 on the left
+    例 | lì | example; instance; rule | Right component is 列 instead of 到
+    俐 | lì | clever; sharp | Right side is 刂 with 禾 inside, different structure
+    俩 | liǎ | two (people) | Right side is 两 instead of 到
+    偷 | tōu | steal; stealthy | Right side is 俞 instead of 到
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    倒 | dào | invert; on the contrary; pour; fall
+    到 | dào | arrive; reach; towards
+    逆 | nì | contrary; reverse; rebel
+    反 | fǎn | return; reverse; contrary
+    颠 | diān | top; crown; overturn; shake
+
+semantic_boundary_contrasts:
+  core_nuance: 倒 as an adverb highlights an unexpected turning of expectations, concessions, or contrariwise situations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 倒 vs. 反而 | fǎn'ér | 倒 can be mildly conversational and express subtle concession (味道倒不错), whereas 反而 indicates a strong, objective contrast or opposite outcome (不但没好，反而加重了).
+    2 | 倒 vs. 却 | què | 倒 expresses unexpected nuance or mild concession, while 却 is a direct adversative conjunction expressing a sharp turning transition (想去，却没时间).
+    3 | 倒 vs. 倒是 | dàoshì | 倒 is a versatile monosyllabic adverb, whereas 倒是 emphasizes concession before a qualification (质量倒是不错，就是价格偏高).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 暴风雨来临前的午后，原本酷热难耐的闷气被阵阵穿堂风驱散，庭院里倒显出一丝难得的清凉。祖孙俩坐在竹椅上剥着莲蓬，听着屋檐下风铃叮咚作响。 | Bàofēngyǔ láilín qián de wǔhòu, yuánběn kùrè-nánnài de mēnqì bèi zhènzhèn chuāntángfēng qūsàn, tíngyuàn lǐ dào xiǎnchū yì sī nándé de qīngliáng. Zǔsūn liǎ zuò zài zhúyǐ shàng bō zhe liánpeng, tīngzhe wūyán xià fēnglíng dīngdōng zuòxiǎng. | Before the storm, the stifling heat was dispersed by cross-breezes; the courtyard actually felt refreshingly cool. Grandparent and child shelled lotus pods beneath chiming wind bells. | Antes de la tormenta, el bochorno se disipó con la brisa; el patio adquirió en cambio un frescor reconfortante. Abuelo y nieto desgranaban lotos escuchando el tintineo del carillón.
+  #2 | 在人际交往中，刻意讨好往往使人感到虚浮造作，倒不如坦诚相待、展现最真实质朴的自我。真诚的拙朴往往比虚饰的圆滑更能跨越隔阂，赢得长久而深厚的友谊。 | Zài rénjì jiāowǎng zhōng, kèyì tǎohǎo wǎngwǎng shǐ rén gǎndào xūfú-zàozuò, dào bùrú tǎnchéng xiāngdài, zhǎnxiàn zuì zhēnshí zhìpǔ de zìwǒ. Zhēnchéng de zhuōpǔ wǎngwǎng bǐ xūshì de yuánhuá gèng néng kuàyuè géhé, yíngdé chángjiǔ ér shēnhòu de yǒuyì. | In relationships, deliberate flattery feels contrived; it is actually better to be sincere and authentic. Genuine simplicity bridges divides better than superficial slickness. | En el trato social, el halago fingido resulta artificioso; es en cambio preferible mostrarse franco y auténtico. La sencillez sincera une más que la zalamería y forja amistades duraderas.

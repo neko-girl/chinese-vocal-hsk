@@ -1,0 +1,66 @@
+id: 6
+hanzi: 综合
+pinyin: zōng hé
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to synthesize; to integrate; to sum up; comprehensive; synthesized; composite
+  es: sintetizar; integrar; compendiar; sintetizado; global; integral
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to combine or integrate separate elements, factors, or data into a coherent unified whole | reunir, integrar o combinar elementos, datos o factores dispersos en un todo coherente | 综合分析 (synthesize and analyze)
+  2 | Adjective | Standard | consisting of diverse components or aspects; comprehensive; multi-disciplinary | que abarca múltiples aspectos o disciplinas; omnicomprensivo; global | 综合大学 (comprehensive university)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 成语的整体意义绝非每个字面意思的简单综合，而是凝聚了特定的历史典故与文化隐喻。 | Chéngyǔ de zhěngtǐ yìyì juéfēi měi gè zìmiàn yìsi de jiǎndān zōnghé, érshì níngjù le tèdìng de lìshǐ diǎngù yǔ wénhuà yǐnyù. | An idiom's overarching meaning is by no means a simple synthesis of literal characters, but crystallizes historical allusions. | El sentido general de un modismo dista de ser una mera síntesis de sus caracteres aislados, pues condensa fábulas históricas y metáforas culturales.
+  #2 | 专家组在深入考察了地理环境、交通网络与产业配套后，对新区的开发方案进行了客观科学的综合评估。 | Zhuānjiāzǔ zài shēnrù kǎochá le dìlǐ huánjìng, jiāotōng wǎnglù yǔ chǎnyè pèitào hòu, duì xīnqū de kāifā fāng'àn jìnxíng le kèguān kēxué de zōnghé pínggū. | After inspecting terrain, transit, and industrial zoning, the panel conducted a scientific, comprehensive evaluation of the zone. | Tras evaluar el entorno, las comunicaciones y el tejido industrial, el comité de expertos realizó una rigurosa valoración integral del nuevo distrito.
+
+collocations[6]{hanzi,en}:
+  综合分析 | synthesize and analyze; comprehensive analysis
+  综合素质 | comprehensive quality or caliber
+  综合性大学 | comprehensive university
+  综合国力 | comprehensive national power
+  综合评估 | comprehensive assessment or appraisal
+  综合治理 | comprehensive management or control
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  综览全局 | zōng lǎn quán jú | take a comprehensive view of the overall situation
+  融会贯通 | róng huì guàn tōng | achieve comprehensive mastery through thorough integration
+  博采众长 | bó cǎi zhòng cháng | draw extensively upon the strengths of diverse schools
+  兼收并蓄 | jiān shōu bìng xù | incorporate and absorb things of diverse natures
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  综 | zōng | synthesize; gather; heddle of loom | sintetizar; compendiar; lizo de telar | 纟 | silk / thread | 纟 (silk thread, loom heddle) | 宗 (zōng, ancestral shrine / origin) | 11 | 左右结构 | Simplified from 綜. Ancient pictogram of a loom's heddle guiding thousands of warp threads 纟 into an orderly fabric. | Thousands of silk threads (纟) gathered beneath the ancestral temple roof (宗) are woven into a single synthesis (综). | Miles de hebras de seda (纟) reunidas bajo el templo ancestral (宗) se entretejen en una síntesis ordenada (综). | 55 | VMJMF | 綜
+  合 | hé | combine; join; fit; close; match | unir; juntar; encajar; cerrar; acorde | 口 | mouth | 亼 (gather together) | 口 (kǒu, mouth / vessel) | 6 | 上下结构 | Ancient pictogram of a lid 亼 fitting securely over a box mouth 口, signifying closing, uniting, and joining. | A matching lid (亼) fits perfectly over the mouth of a container (口), joining two halves into one (合). | Una tapadera a medida (亼) ajusta a la perfección sobre la boca de la vasija (口), uniendo ambas partes en armonía (合). | 35 | OMR | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Weaving thousands of silk threads together on a loom (综) and joining them tightly with a matching lid (合) produces a comprehensive synthesis (综合).
+  composite_memory_hook_es: Entretejer miles de hilos en el telar (综) y ajustarlos en una sola vasija (合) produce una síntesis cabal (综合).
+  cultural_and_cognitive_roots: In ancient Chinese sericulture and weaving, 综 was the heddle frame coordinating warp and weft into cloth. From textile weaving, 综合 developed into the classical philosophical term for inductive synthesis, paired against dialectical analysis (分析).
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by rising 2nd tone: 'zōng hé' (55-35). Start with a level high pitch before sweeping smoothly upward.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    宗 | zōng | ancestor; clan; sect | Lacks the silk radical 纟 on the left
+    崇 | chóng | revere; worship; high | Has mountain radical 山 at top above 宗
+    棕 | zōng | palm tree; brown | Has wood radical 木 on the left instead of 纟
+    盒 | hé | small box; case | Has dish radical 皿 at bottom instead of 口
+    答 | dá | answer; reply | Has bamboo radical 竹 at top above 合
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    综 | zōng | synthesize; summarize; heddle
+    棕 | zōng | palm tree; brownish
+    鬃 | zōng | mane; bristle of animals
+    宗 | zōng | ancestor; school; faction
+    合 | hé | combine; join; close
+
+semantic_boundary_contrasts:
+  core_nuance: 综合 highlights integrating distinct components, viewpoints, or data streams into a cohesive unified result.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 综合 vs. 分析 | fēnxī | Direct dialectical antonym: 综合 integrates parts into a whole (synthesis), whereas 分析 breaks a whole down into its individual components (analysis).
+    2 | 综合 vs. 总结 | zǒngjié | 综合 emphasizes multi-factorial integration and cross-referencing, while 总结 emphasizes summarizing the accomplishments or lessons learned over a past period.
+    3 | 综合 vs. 整合 | zhěnghé | 综合 is analytical and cognitive (综合判断), while 整合 is structural and operational, such as reorganizing company resources or corporate departments.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对错综复杂的人生境遇，片面的主观臆断往往容易使人误入歧途。唯有学会综合听取各方意见，在冷静观察中权衡利弊得失，才能在纷繁复杂的迷雾中看清前进的方向，做出真正经得起岁月检验的理性抉择。 | Miànduì cuòzōng-fùzá de rénshēng jìngyù, piànmiàn de zhǔguān yìduàn wǎngwǎng róngyì shǐ rén wùrù-qítú. Wéiyǒu xuéhuì zōnghé tīngqǔ gèfāng yìjiàn, zài lěngjìng guānchá zhōng quánhéng lìbì-déshī, cáinéng zài fēnfán-fùzá de míwù zhōng kànqīng qiánjìn de fāngxiàng, zuòchū zhēnzhèng jīngdeqǐ suìyuè jiǎnyàn de lǐxìng juézé. | Facing intricate circumstances, one-sided guesswork easily leads astray. Only by synthesizing diverse views and weighing pros and cons in calm reflection can one pierce confusing fogs to make rational choices that endure through time. | Ante los complejos avatares del vivir, las suposiciones sesgadas extravían el camino. Solo ponderando con criterio integral los pareceres y sopesando pros y contras se disipa la bruma para forjar decisiones juiciosas que venzan al tiempo.
+  #2 | 在新一轮全球产业革命深入演进的浪潮中，跨学科交叉融合已成为颠覆性创新的重要源泉。一流大学正积极探索建设新型综合实验平台，打破传统学院学科壁垒，旨在培养能够综合运用前沿科技攻克国家重大战略难题的复合型英才。 | Zài xīn yí lùn quánqiú chǎnyè gémìng shēnrù yǎnjìn de làngcháo zhōng, kuà-xuékē jiāochā rónghé yǐ chéngwéi diānfùxìng chuàngxīn de zhòngyào yuánquán. Yīliú dàxué zhèng jījí tànsuǒ jiànshè xīnxíng zōnghé shíyàn píngtái, dǎpò chuántǒng xuéyuàn xuékē bìlěi, zhǐzài péiyǎng nénggòu zōnghé yùnyòng qiányán kējì gōngkè guójiā zhòngdà zhànlüè nándí de fùhéxíng yīngcái. | In global industrial revolutions, interdisciplinary convergence is a fountainhead of innovation. Top universities are building integrated platforms, breaking departmental silos to nurture versatile talent adept at synthesizing technologies to solve strategic challenges. | En la actual revolución industrial, la hibridación interdisciplinaria es manantial de hallazgos punteros. Las grandes universidades construyen plataformas de investigación integral que derriban barreras departamentales, forjando talentos capaces de coordinar tecnologías estratégicas.

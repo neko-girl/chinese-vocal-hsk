@@ -1,0 +1,65 @@
+id: 6
+hanzi: 智慧
+pinyin: zhì huì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: wisdom; intelligence; sagacity; discernment
+  es: sabiduría; entendimiento; discernimiento; inteligencia profunda
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the ability to understand, judge, perceive truth, and act wisely based on knowledge and experience | capacidad de discernir, comprender las causas profundas y actuar con prudencia y agudeza | 东方智慧 (Eastern wisdom)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对错综复杂的生活变故，保持内心的从容淡定需要非凡的人生智慧与胸襟。 | Miànduì cuòzōng-fùzá de shēnghuó biàngù, bǎochí nèixīn de cóngróng dàndìng xūyào fēifán de rénshēng zhìhuì yǔ xiōngjīn. | When facing intricate twists of fate, maintaining inner composure and tranquility requires extraordinary life wisdom and breadth of mind. | Ante los complejos avatares del destino, conservar la serenidad y la paz interior exige una extraordinaria sabiduría vital y una noble amplitud de miras.
+  #2 | 这部古典著作凝聚了古代思想家的卓越智慧，为解决现代社会的可持续发展问题提供了深刻启迪。 | Zhè bù gǔdiǎn zhùzuò níngjù le gǔdài sīxiǎngjiā de zhuóyuè zhìhuì, wèi jiějué xiàndài shèhuì de kěchíxù fāzhǎn wèntí tígōng le shēnkè qǐdí. | This classical opus crystallizes the remarkable wisdom of ancient thinkers, offering profound inspiration for solving modern sustainability challenges. | Esta obra clásica condensa la preclara sabiduría de los pensadores antiguos, brindando fecunda inspiración para encarar el desarrollo sostenible del mundo contemporáneo.
+
+collocations[6]{hanzi,en}:
+  人生智慧 | life wisdom; philosophy of living
+  集体智慧 | collective wisdom; group intelligence
+  充满智慧 | full of wisdom; sagacious
+  智慧城市 | smart city
+  东方智慧 | Eastern wisdom
+  发挥智慧 | bring one's wisdom into full play
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大智若愚 | dà zhì ruò yú | great wisdom often appears as folly; true sages remain unassuming
+  足智多谋 | zú zhì duō móu | wise and resourceful; full of stratagems
+  智勇双全 | zhì yǒng shuāng quán | possessing both wisdom and courage
+  急中生智 | jí zhōng shēng zhì | hit upon a brilliant idea in a crisis
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  智 | zhì | wisdom; knowledge; cleverness | sabiduría; intelecto; ingenio | 日 | sun / day | 日 (sun, illumination) | 知 (zhī, know / knowledge) | 12 | 上下结构 | Ideogram: knowledge 知 illuminated beneath the radiant sun 日, signifying enlightened, clear discernment. | When true knowledge (知) is held up to the radiant light of the sun (日), it becomes illuminating wisdom (智). | Cuando el saber verdadero (知) se baña en la claridad del sol (日), florece el discernimiento sabio (智). | 51 | ODA | 
+  慧 | huì | intelligent; bright; discerning | perspicaz; lúcido; brillante | 心 | heart / mind | 心 (heart, emotional/cognitive seat) | 彗 (huì, broom / sweeping clean) | 15 | 上下结构 | Phono-semantic compound: broom 彗 above heart 心, denoting sweeping away ignorance from the mind to achieve lucidity. | Sweeping away inner dust with a broom (彗) cleanses the perceptual heart (心) to foster bright intelligence (慧). | Barrer la ignorancia con una escoba (彗) purifica el corazón y la mente (心), dejando brotar la inteligencia viva (慧). | 51 | QJSP | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Knowledge lit by the sun (智) paired with a mind swept clear of ignorance (慧) produces true philosophical wisdom (智慧).
+  composite_memory_hook_es: El saber iluminado por el sol (智) unido a un corazón limpio de ofuscación (慧) engendra la auténtica sabiduría (智慧).
+  cultural_and_cognitive_roots: In Confucian and Buddhist traditions, 智 represents rational cognition and learning, while 慧 (prajñā) denotes intuitive enlightenment and spiritual discernment. Together, 智慧 signifies holistic comprehension spanning empirical acuity and moral depth.
+  tone_sandhi_and_pitch_modulation: Dual falling 4th tones: 'zhì huì' (51-51). Pronounce each syllable with firm, crisp falling intonation.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    知 | zhī | know; realize | Lacks the sun radical 日 at the bottom
+    惠 | huì | benefit; favor | Has 恵 structure without the double hand broom 彗 at top
+    彗 | huì | comet; broom | Lacks the heart radical 心 at the bottom
+    誓 | shì | oath; pledge | Has words radical 言 at bottom instead of 日
+    穗 | suì | ear of grain; tassel | Has grain radical 禾 on the left
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    知 | zhī | know; perceive; be aware
+    智 | zhì | wise; intellect
+    痴 | chī | infatuated; foolish
+    彗 | huì | broom; sweeping comet
+    蕙 | huì | fragrant orchid; pure virtue
+
+semantic_boundary_contrasts:
+  core_nuance: 智慧 represents deep, holistic life philosophy and discernment, far deeper than mere cleverness or raw intellectual capacity.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 智慧 vs. 聪明 | cōngming | 智慧 is profound philosophical insight and ethical maturity gained through experience, whereas 聪明 denotes quick wit, sharp senses, and academic agility (聪=keen ears, 明=clear eyes).
+    2 | 智慧 vs. 知识 | zhīshi | 智慧 is the ability to apply principles and understand life's deeper truths, whereas 知识 refers to learned factual information, academic data, or technical skills.
+    3 | 智慧 vs. 机智 | jīzhì | 智慧 is enduring and serene depth of character, while 机智 emphasizes lightning-fast tactical wit in responding to immediate emergencies or humor.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正的智慧并非炫耀渊博的学识，而是在纷扰的世界中洞察事物的本质。懂得适时止步，懂得包容异己，在看似平凡的柴米油盐中体会生命的深沉与从容，这才是最可宝贵的人生大智慧。 | Zhēnzhèng de zhìhuì bìng fēi xuànyào yuānbó de xuéshí, érshì zài fēnrǎo de shìjiè zhōng dòngchá shìwù de běnzhì. Dǒngdé shìshí zhǐbù, dǒngdé bāoróng yìjǐ, zài kànsì píngfán de cháimǐyóuyán zhōng tǐhuì shēngmìng de shēnchén yǔ cóngróng, zhè cái shì zuì kě bǎoguì de rénshēng dà zhìhuì. | Genuine wisdom does not flaunt erudite scholarship, but penetrates to the essence of things amid a chaotic world. Knowing when to pause, embracing differences, and perceiving depth in ordinary daily life constitute the most precious life wisdom. | La verdadera sabiduría no alardea de vasta erudición, sino que discierne la esencia de las cosas en medio del tumulto. Saber detenerse a tiempo, acoger la discrepancia y apreciar la hondura de lo cotidiano forjan la más valiosa de las virtudes humanas.
+  #2 | 在人工智能飞速演进的时代，人类的独特价值不仅在于强大的计算逻辑，更在于饱含道德同理心与生命体验的文化智慧。唯有将科技发展根植于人类文明的智慧土壤，才能确保技术造福于整个社会的和谐进步。 | Zài réngōng zhìnéng fēisù yǎnjìn de shídài, rénlèi de dútè jiàzhí bùjǐn zàiyú qiángdà de jìsuàn luóji, gèng zàiyú bǎohán dàodé tónglǐxīn yǔ shēngmìng tǐyàn de wénhuà zhìhuì. Wéiyǒu jiāng kējì fāzhǎn gēnzhí yú rénlèi wénmíng de zhìhuì tǔrǎng, cáinéng quèbǎo jìshù zàofú yú zhěnggè shèhuì de héxié jìnbù. | In an era of rapid AI evolution, unique human worth lies not just in computing prowess, but in cultural wisdom imbued with empathy and lived experience. Only by rooting tech progress in civilizational wisdom can we ensure it enriches harmonious social progress. | En la era del auge vertiginoso de la inteligencia artificial, el valor irreemplazable del ser humano radica en su empatía moral y sabiduría existencial. Solo anclando la innovación tecnológica en el acervo ético de la civilización se garantizará un progreso armónico para toda la sociedad.

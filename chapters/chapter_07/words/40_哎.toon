@@ -1,0 +1,65 @@
+id: 40
+hanzi: 哎
+pinyin: āi
+level: HSK 5
+part_of_speech: Interjection
+
+meanings_summary:
+  en: hey; ah; oh; interjection expressing surprise, dissatisfaction, alert, or calling out
+  es: ¡eh!; ¡ah!; ¡ay!; ¡vaya!; interjección que expresa sorpresa, llamada de atención o disgusto
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Interjection | Colloquial | used to express surprise, astonishment, sudden realization, or discontent | interjección usada para denotar asombro, sorpresa repentina, extrañeza o disconformidad | 哎，怎么会这样？ (Ah, how could this be?)
+  2 | Interjection | Colloquial | used to greet, hail, alert, or call someone to catch their attention | interjección empleada para llamar la atención de alguien o saludar informalmente | 哎，你快来看！ (Hey, come quick and look!)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军看着折断的箭杆连连摇头，百思不得其解地惊叹道：“哎，怎么会这样呢？” | Lǐ Guǎng jiāngjūn kànzhe zhéduàn de jiàngǎn liánlián yáotóu, bǎisī-bùdéqíjiě de jīngtàn dào: 'Āi, zěnme huì zhèyàng ne?' | Looking at the snapped arrow shafts, General Li Guang shook his head repeatedly, exclaiming in bewilderment: 'Ah, how could this be?' | Al contemplar las varas rotas de saeta, el general Li Guang no cesó de menear la cabeza exclamando perplejo: '¡Ah! ¿Cómo ha podido suceder esto?'.
+  #2 | “哎，等等我，别走那么急，前面的山路又陡又滑危险得很！”同伴在身后大声呼喊道。 | 'Āi, děngděng wǒ, bié zǒu nàme jí, qiánmian de shānlù yòu dǒu yòu huá wēixiǎn de hěn!' Tóngbàn zài shēnhòu dàshēng hūhǎn dào. | 'Hey, wait for me, don't walk so fast; the mountain path ahead is steep, slick, and dangerous!' his companion shouted from behind. | '¡Eh, espérame, no vayas tan deprisa, que el sendero de la montaña es empinado, resbaladizo y peligroso!', gritó el compañero desde atrás.
+
+collocations[6]{hanzi,en}:
+  哎呀 | goodness gracious!; oh dear!
+  哎哟 | ouch!; oh my goodness! (pain/surprise)
+  哎一声 | utter a shout or response of 'āi'
+  哎，怎么回事 | hey, what's going on?
+  哎，等等我 | hey, wait for me!
+  哎，快来看 | hey, come look quickly!
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大呼小叫 | dà hū xiǎo jiào | shout and yell in commotion; make a loud fuss
+  惊呼连连 | jīng hū lián lián | cry out in astonishment repeatedly
+  面面相觑 | miàn miàn xiāng qù | look at each other in blank dismay
+  膛目结舌 | táng mù jié shé | stare wide-eyed and tongue-tied with shock
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  哎 | āi | interjection hey, ah, oh | ¡eh!; ¡ah!; ¡ay! | 口 | mouth | 口 (mouth, vocal exclamation) | 艾 (ài, mugwort / silver-haired sage) | 8 | 左右结构 | Phono-semantic compound: mouth radical 口 expressing spontaneous acoustic cry, paired with 艾 (ài). | An astonished mouth (口) cries out in sudden exclamation like smelling sharp pungent herbs (艾) to say 'āi' (哎). | Una boca abierta (口) profiere un grito espontáneo de sorpresa semejante al aroma del ajenjo (艾) exclamando (哎). | 55 | RTK | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An expressive mouth (口) uttering a startled exclamation like encountering fragrant mugwort (艾) cries 'hey!' (哎).
+  composite_memory_hook_es: Una boca (口) que exhala una exclamación repentina de extrañeza (艾) lanza la voz ¡eh! o ¡ah! (哎).
+  cultural_and_cognitive_roots: In Chinese colloquial phonetics, 哎 (high 1st tone āi) is an affective discourse marker capturing immediate sensory surprise or calling out, distinct from the sad sighing 唉 (falling 4th tone ài). It frequently combines with 呀 and 哟 to form conversational exclamations.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'āi' (55). Pronounce with an energetic, sustained high vocal pitch.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    唉 | ài | alas; sigh of regret | Has 矣 on the right instead of 艾 (pronounced 4th tone ài)
+    艾 | ài | mugwort; sage; end | Lacks the mouth radical 口 on the left
+    吱 | zhī | creak; chirp | Has 支 on the right instead of 艾
+    吃 | chī | eat; consume | Has 乞 on the right instead of 艾
+    叫 | jiào | shout; call; cry | Has 丩 on the right instead of 艾
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    唉 | ài | sigh; alas; yes
+    艾 | ài | mugwort (Artemisia); terminate
+    哎 | āi | hey; oh; ah
+    哎呀 | āiyā | oh dear; gosh
+    哎哟 | āiyō | ouch; ow
+
+semantic_boundary_contrasts:
+  core_nuance: 哎 conveys alert surprise, calling attention, or minor dissatisfaction, articulated on a high pitch.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 哎 vs. 唉 | ài | 哎 is pronounced 1st tone (āi) expressing surprise, alert, or calling out ('Hey!'), whereas 唉 is pronounced 4th tone (ài) expressing a despondent, heavy sigh of regret or sorrow ('Alas!').
+    2 | 哎 vs. 喂 | wèi | 哎 is an informal interjection of surprise or calling out, while 喂 is specifically used when answering the phone ('hello?') or hailing strangers across distance.
+    3 | 哎 vs. 哦 | ó / ò | 哎 captures surprise or protest, whereas 哦 expresses sudden realization, receipt of info, or neutral acknowledgment.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨的薄雾尚未散尽，山间小道上传来清脆的呼喊声：“哎，快看东边的云海！”顺着呼唤的方向望去，万道金光正从云层中喷薄而出，将整座山峦染得一片灿烂。大自然瞬息万变的神奇造化，总在不经意间撞击着旅人的心扉。 | Qīngchén de bówù shàngwèi sǎnjìn, shānjiān xiǎodào shàng chuánlái qīngcuì de hūhǎn shēng: 'Āi, kuài kàn dōngbian de yúnhǎi!' Shùnzhe hūhuàn de fāngxiàng wàngqù, wàndào jīnguāng zhèng cóng yúncéng zhōng pēnbó-érchū, jiāng zhěng zuò shānluán rǎn de yípiàn cànlàn. Dàzìrán shùnxī-wànbiàn de shénqí zàohuà, zǒng zài bùjīngyì jiān zhuàngjī zhe lǚrén de xīnfēi. | Before morning mist cleared, a crisp shout echoed along the mountain path: 'Hey, look quick at the cloud sea to the east!' Looking toward the voice, golden rays burst through clouds, drenching peaks in brilliance. Nature's wonder constantly thrills travelers. | Antes de disiparse la niebla matutina, un grito jovial resonó en la senda: '¡Eh, miren el mar de nubes al oriente!'. Hacia allí apuntaban rayos de oro puro que coronaban la sierra; la magia de la naturaleza conmueve el alma del caminante cuando menos lo espera.
+  #2 | 在忙碌的都市街头，一声亲切熟悉的“哎”往往能瞬间拉近人与人之间的距离。无论时代如何变迁、科技如何演进，这种最质朴纯粹的人际声调呼应，依然在快节奏的冷漠楼宇间传递着温润的脉脉温情。 | Zài mánglù de dūshì jiētóu, yì shēng qīnqiè shúxī de 'āi' wǎngwǎng néng shùnjiān lājìn rén yǔ rén zhījiān de jùlí. Wúlùn shídài rúhé biànqiān, kējì rúhé yǎnjìn, zhè zhǒng zuì zhìpǔ chúncuì de rénjì shēngdiào hūyìng, yīrán zài kuàijièzòu de lěngmò lóuyǔ jiān chuándì zhe wēnrùn de mònnò wēnqíng. | On bustling city streets, a familiar, warm 'Hey!' instantly bridges distance between souls. No matter how eras shift or technology evolves, this simple vocal greeting continues to radiate human warmth between cold glass skyscrapers. | En las calles de la urbe, un '¡eh!' familiar y cordial acorta al instante las distancias humanas. Por más que corran los tiempos y avance la técnica, este humilde saludo vocal sigue infundiendo un destello de calor fraterno entre los rascacielos.

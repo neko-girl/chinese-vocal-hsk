@@ -1,0 +1,65 @@
+id: 17
+hanzi: 扇子
+pinyin: shàn zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: fan (handheld folding or round fan); device creating cool breezes
+  es: abanico; pai-pai; abano; instrumento de mano para refrescarse
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a handheld device made of paper, silk, bamboo, or feathers used to agitate the air and generate a cooling breeze | instrumento de mano de papel, seda, bambú o plumas para agitar el aire y refrescarse | 摇动扇子 (wave a fan)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 盛夏的傍晚，老人们喜欢坐在弄堂的大槐树下，一边摇着蒲扇，一边惬意地闲话家常。 | Shèngxià de bàngwǎn, lǎorénmen xǐhuan zuò zài lòngtáng de dà huáishù xià, yìbiān yáo zhe púshàn, yìbiān qièyì de xiánhuà-jiācháng. | On midsummer evenings, elders like sitting beneath the alley's large locust tree, comfortably chatting about daily life while waving palm leaf fans. | Al atardecer en pleno estío, los ancianos gustan de sentarse bajo las acacias del callejón, charlando plácidamente de la vida cotidiana mientras agitan sus abanicos de palma.
+  #2 | 摸象故事中摸到大象宽大耳朵的盲人，立刻斩钉截铁地大呼大象明明就是一把随风摇摆的扇子。 | Mō xiàng gùshì zhōng mōdào dàxiàng kuāndà ěrduo de mángrén, lìkè zhǎndīng-jiètiě de dàhū dàxiàng míngmíng jiùshì yì bǎ suífēng yáobǎi de shànzi. | In the fable, the blind man who touched the elephant's broad ear immediately shouted unequivocally that an elephant was simply a fan swaying in the wind. | En la fábula, el ciego que rozó las anchas orejas del elefante exclamó tajante que el animal era a todas luces un abanico que ondeaba al viento.
+
+collocations[6]{hanzi,en}:
+  一把扇子 | a fan (classifier: 把)
+  摇扇子 | wave a fan
+  折叠扇子 | folding fan (折扇)
+  纸质扇子 | paper fan
+  羽毛扇子 | feather fan (羽扇)
+  收起扇子 | fold or put away a fan
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  羽扇纶巾 | yǔ shàn guān jīn | feather fan and silk kerchief; poised, graceful demeanor of a strategist
+  秋风见扇 | qiū fēng jiàn shàn | a fan discarded in autumn breeze; neglected after outliving utility
+  摇扇纳凉 | yáo shàn nà liáng | wave a fan to enjoy the cool breeze
+  扇风点火 | shān fēng diǎn huǒ | fan the flames; incite trouble and stir up discord
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  扇 | shàn | fan; flap wings; door leaf | abanico; batir alas; batiente | 户 | single door / household | 户 (single door leaf swinging open) | 羽 (yǔ, feathers / wings) | 10 | 半包围结构 | Ideogram combining door leaf 户 and wings/feathers 羽, representing a swinging leaf that beats breezes like birds' wings. | Under the door frame (户), feathered wings (羽) flutter back and forth to create a cooling handheld fan (扇). | Bajo el marco de la puerta (户), un haz de plumas (羽) se bate con suavidad para engendrar la brisa del abanico (扇). | 51 | HSSMM | 
+  子 | zi | child; son; noun suffix | hijo; niño; sufijo nominal | 子 | child / son | 子 (swaddled baby) | "" | 3 | 单一结构 | Universal noun suffix designating everyday utensils and household objects. | A lively infant (子) waves its hands happily in the cool summer breeze. | Un niño vivaz (子) mueve las manitas alegre al sentir la brisa del verano. | 214 | ND | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A door flap (户) adorned with fluttering feathers (羽) creates the refreshing breeze of a summer fan (扇子).
+  composite_memory_hook_es: Una batiente de puerta (户) guarnecida de plumas (羽) agita el aire fresco del abanico tradicional (扇子).
+  cultural_and_cognitive_roots: In classical Chinese literati culture, fans (折扇, 团扇) were not merely functional cooling tools, but canvas mediums for calligraphy, landscape painting, and poetry, carried as essential emblems of scholastic poise (文人雅士之信物).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by neutral tone: 'shàn zi' (51-neutral). Articulate 'shàn' with crisp downward momentum and pronounce 'zi' lightly.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    肩 | jiān | shoulder | Has flesh radical 月 inside 户 instead of 羽
+    房 | fáng | room; house | Has 方 inside 户 instead of 羽
+    雇 | gù | hire; employ | Has 隹 (bird) inside 户 instead of 羽
+    戾 | lì | contrary; perverse | Has 犬 (dog) inside 户 instead of 羽
+    启 | qǐ | open; start; enlighten | Has 口 inside 户 instead of 羽
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    扇 | shān | fan the flames; slap; incite
+    搧 | shān | strike with palm; fan
+    煽 | shān | incite; instigate; stir up
+    羽 | yǔ | feather; plume; wing
+    翩 | piān | flutter lightly; fly gracefully
+
+semantic_boundary_contrasts:
+  core_nuance: 扇子 is the standard handheld cooling implement, distinguished from mechanized electric fans.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 扇子 vs. 电风扇 | diànfēngshàn | 扇子 is a manual, handheld fan made of bamboo, paper, or silk, whereas 电风扇 is an electrical motor-driven rotary appliance.
+    2 | 扇子 vs. 团扇 | tuánshàn | 扇子 is the general umbrella noun, while 团扇 specifies a traditional circular, rigid silk fan favored by ancient palace ladies.
+    3 | 扇子 vs. 折扇 | zhéshàn | 扇子 covers all fan typologies, whereas 折扇 refers specifically to the accordion-folding fan invented for portability.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 一柄轻巧的竹骨折扇，不仅是夏日驱赶暑热的实用器物，更是承载文人雅趣的艺术珍品。名家在扇面上题诗作画，摇曳间清风徐来，散发着淡淡的墨香，在方寸之间尽显东方古典审美的从容与洒脱。 | Yì bǐng qīngqiǎo de zhúgǔ zhéshàn, bùjǐn shì xiàrì qūgǎn shǔrè de shíyòng qìwù, gèng shì chéngzài wénrén yǎqù de yìshù zhēnpǐn. Míngjiā zài shànmiàn shàng tíshī-zuòhuà, yáoyè jiān qīngfēng xúlái, sànfà zhe dàndàn de mòxiāng, zài fāngcùn zhījiān jìnxiǎn dōngfāng gǔdiǎn shěnměi de cóngróng yǔ sǎtuō. | A nimble bamboo folding fan is not merely a practical utensil dispelling summer heat, but an artistic treasure carrying literati poise. Master painters brush poetry and landscapes on its silk; waving it brings gentle breezes and ink fragrances, showing classical oriental aesthetics. | Un grácil abanico plegable de varillas de bambú trasciende su utilidad para combatir el bochorno, erigiéndose en joya artística de la estética letrada. Maestros de la caligrafía ilustran sus varillajes, trayendo en cada vaivén aromas a tinta y la serena soltura del arte oriental.
+  #2 | 在传统非物质文化遗产传承中，手工制扇工艺凝聚了选竹、排骨、糊面等数十道精细工序。年轻一代手艺人将现代极简设计融入古老扇艺，使历经千年的传统扇子在当代生活美学中重新焕发出蓬勃生机。 | Zài chuántǒng fēiwùzhì wénhuà yíchǎn chuánchéng zhōng, shǒugōng zhìshàn gōngyì níngjù le xuǎnzhú, páigǔ, húmiàn děng shùshí dào jīngxì gōngxù. Niánqīng yídài shǒuyìrén jiāng xiàndài jíjiǎn shèjì róngrù gǔlǎo shànyì, shǐ lìjīng qiānnián de chuántǒng shànzi zài dāngdài shēnghuó měixué zhōng chóngxīn huànfā chū péngbó shēngjī. | In intangible cultural heritage preservation, crafting artisanal fans crystallizes dozens of meticulous steps like selecting bamboo and mounting paper. Young artisans infuse minimalist modern designs, revitalizing thousand-year-old traditional fans in contemporary lifestyle aesthetics. | En la salvaguardia del patrimonio inmaterial, la confección artesanal de abanicos condensa decenas de primorosas fases, desde la selección del bambú hasta el entelado. Nuevas generaciones de artífices fusionan diseño minimalista y tradición milenaria, insuflándoles renovada vitalidad.

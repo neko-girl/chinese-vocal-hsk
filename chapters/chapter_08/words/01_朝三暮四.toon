@@ -1,0 +1,68 @@
+id: 1
+hanzi: 朝三暮四
+pinyin: zhāo sān mù sì
+level: HSK 5
+part_of_speech: Idiom
+
+meanings_summary:
+  en: change one's mind constantly; blow hot and cold; capricious; play fast and loose with tricks
+  es: cambiar de opinión constantemente; ser veleta o veleidoso; engañar con triquiñuelas superficiales
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Idiom | Standard | (modern sense) to frequently change one's mind, plans, or loyalty; capricious and unreliable | (sentido moderno) cambiar de opinión, planes o fidelidad a cada instante; ser veleidoso o inconstante | 作风朝三暮四 (fickle and erratic style)
+  2 | Idiom | Literary | (classical Zhuangzi sense) to deceive others through superficial alterations of form without changing the underlying substance | (sentido clásico) engañar a otros alterando la apariencia sin modificar la realidad sustancial | 弄虚作假 (play deceitful tricks)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 职场规划最忌讳的就是朝三暮四，只有锚定长远目标并深耕细作，才能在专业领域有所建树。 | Zhíchǎng guīhuà zuì jìhuì de jiùshì zhāosān-mùsì, zhǐyǒu máodìng chángyuǎn mùbiāo bìng shēngēng-xìzuò, cáinéng zài zhuānyè lǐngyù yǒusuǒ-jiànshù. | What career planning should avoid most is blowing hot and cold; only by anchoring long-term goals and cultivating deeply can one achieve greatness. | Lo que más debe evitarse en la carrera profesional es la veleidad; solo fijando metas a largo plazo y perseverando con paciencia se cosecharán logros señeros.
+  #2 | 在《庄子·齐物论》的原初寓言中，老人以朝三暮四戏弄群猴，深刻阐明了事物在本质上并无实质得失的哲理。 | Zài 《Zhuāngzǐ · Qíwùlùn》 de yuánchū yùyán zhōng, lǎorén yǐ zhāosān-mùsì xìnòng qúnhóu, shēnkè chǎnmíng le shìwù zài běnzhì shàng bìng wú shízhì déshī de zhélǐ. | In the original fable from Zhuangzi, the elder tricked monkeys with 'three in morning, four at dusk', elucidating that gains and losses are fundamentally relative. | En la fábula primigenia de Zhuangzi, el anciano burló a los monos cambiando el orden de la comida, revelando que las ganancias y pérdidas son solo apariencias relativas.
+
+collocations[6]{hanzi,en}:
+  朝三暮四的作风 | fickle and capricious style
+  做事朝三暮四 | act inconstantly without persistence
+  切忌朝三暮四 | strictly avoid blowing hot and cold
+  朝三暮四的古义 | classical origin of Zhao San Mu Si
+  朝三暮四的今义 | modern meaning of Zhao San Mu Si
+  朝三暮四变卦 | repeatedly change one's mind and back out
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  朝秦暮楚 | zhāo Qín mù Chǔ | serve Qin in morning and Chu at dusk; constantly switch allegiances
+  见异思迁 | jiàn yì sī qiān | change one's mind upon seeing something new; fickle
+  出尔反尔 | chū ěr fǎn ěr | go back on one's word; contradict oneself constantly
+  三心二意 | sān xīn èr yì | half-hearted; indecisive and distracted
+
+character_decomposition[4]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  朝 | zhāo | morning; dawn; dynasty; court | mañana; alba; dinastía; corte | 月 | moon / flesh | 𠦝 (sun rising in mist/grass) | 月 (yuè, fading morning moon) | 12 | 左右结构 | Ancient oracle bone pictogram of the bright morning sun 杲 rising amid tall grass while the pale moon 月 fades away. | The radiant dawn sun rises through morning dew while the pale crescent moon (月) departs into dawn (朝). | El sol del alba despide sus primeros rayos entre el rocío mientras la luna menguante (月) se retira al amanecer (朝). | 55 | JBB | 
+  三 | sān | three; several; triple | tres; varios; triple | 一 | one | 一 (heaven) | 一 (earth, man) | 3 | 单一结构 | Ancient ideogram of three stacked horizontal counting tallies, symbolizing the triad of Heaven, Earth, and Humanity. | Three level tallies laid parallel in ancient arithmetic count out the number three (三). | Tres varillas horizontales apiladas en el cómputo aritmético arcaico marcan el número tres (三). | 55 | MMM | 
+  暮 | mù | dusk; evening; sunset; late | crepúsculo; tarde; anochecer | 日 | sun / day | 莫 (mò, sun sinking in tall grass) | 日 (rì, sun) | 14 | 上下结构 | Ancient pictogram of the solar orb 日 sinking into thick marsh grass 莫 at nightfall. | The red setting sun (日) sinks low beneath dark marsh weeds (莫) as dusk descends (暮). | El sol poniente (日) se sumerge al fin bajo la maleza del pantano (莫) anunciando el anochecer (暮). | 51 | TAKA | 
+  四 | sì | four; quadruple | cuatro; cuádruple | 口 | mouth / enclosure | 囗 (enclosure) | 儿 (breath dispersing in four directions) | 5 | 全包围结构 | Ancient ideogram representing exhalations of breath dispersing into the four cardinal quadrants within an enclosure. | Breaths of air divide symmetrically into four compass directions within the window frame (四). | El aliento se divide con simetría hacia los cuatro puntos cardinales tras el ventanal (四). | 51 | WC | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Offering three acorns in the morning (朝三) and four at evening dusk (暮四) duped the monkeys and became a proverb for shifting capriciously (朝三暮四).
+  composite_memory_hook_es: Ofrecer tres bellotas por la mañana (朝三) y cuatro al crepúsculo (暮四) engañó a los monos y dio origen al modismo de la veleidad (朝三暮四).
+  cultural_and_cognitive_roots: Originating in the Daoist classic 《庄子·齐物论》, the keeper offered monkeys 3 acorns in the morning and 4 at night; when they raged, he offered 4 in the morning and 3 at night, pacifying them. Originally it illustrated the philosophical illusion of subjective gain and loss (两行), but over centuries shifted into condemning fickle inconstancy in human behavior.
+  tone_sandhi_and_pitch_modulation: High, high, falling, falling: 'zhāo sān mù sì' (55-55-51-51). Articulate the first two syllables with level high pitch, followed by two crisp descending strikes.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    潮 | cháo | tide; damp; moist | Has water radical 氵 on the left instead of standalone 朝
+    嘲 | cháo | mock; ridicule; sneer | Has mouth radical 口 on the left instead of standalone 朝
+    二 | èr | two | Has only two horizontal strokes
+    幕 | mù | curtain; theatrical act | Has cloth radical 巾 at the bottom instead of 日
+    墓 | mù | tomb; grave; cemetery | Has earth radical 土 at the bottom instead of 日
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    潮 | cháo | ocean tide; surging flow
+    嘲 | cháo | deride; sneer; scoff
+    莫 | mò | do not; none; sunset
+    慕 | mù | admire; yearn for; adore
+    募 | mù | recruit; raise funds; solicit
+
+semantic_boundary_contrasts:
+  core_nuance: 朝三暮四 specifically characterizes inconstancy of will, frequently flipping decisions, or manipulating terms to deceive.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 朝三暮四 vs. 见异思迁 | jiànyì-sīqiān | 朝三暮四 emphasizes vacillating inconstancy of decisions and whims, whereas 见异思迁 emphasizes abandoning one's current post or partner immediately upon seeing something more attractive.
+    2 | 朝三暮四 vs. 朝秦暮楚 | zhāoQín-mùChǔ | 朝三暮四 highlights behavioral or strategic inconsistency, whereas 朝秦暮楚 specifically highlights opportunistic disloyalty in shifting political or personal allegiances.
+    3 | 朝三暮四 vs. 出尔反尔 | chū'ěr-fǎn'ěr | 朝三暮四 reflects an internal fickle disposition, while 出尔反尔 refers directly to speaking self-contradictory words and breaking promises.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 很多人在浮躁的世风中迷失了自我，今天渴望当作家，明天又向往从商，在朝三暮四的犹豫摇摆中白白虚掷了青春年华。唯有静下心来认清真正的内心热爱，耐得住寂寞深耕细作，才能收获丰硕的生命果实。 | Hěnduō rén zài fúzào de shìfēng zhōng míshī le zìwǒ, jīntiān kěwàng dāng zuòjiā, míngtiān yòu xiàngwǎng cóngshāng, zài zhāosān-mùsì de yóuyù yáobǎi zhōng báibái xūzhì le qīngchūn niánhuá. Wéiyǒu jìngxià xīn lái rènqīng zhēnzhèng de nèixīn rè'ài, nàidezhù jìmò shēngēng-xìzuò, cáinéng shōuhuò fēngshuò de shēngmìng guǒshí. | Many lose themselves in restless social trends, longing to be authors today and entrepreneurs tomorrow, squandering youth in capricious vacillation. Only by quieting the mind to discern genuine passion and enduring quiet labor can life's fruits be harvested. | Muchos se pierden en el torbellino de la frivolidad, deseando hoy ser escritores y mañana negociantes, malgastando sus mejores años en veleidades estériles. Solo serenando el ánimo para abrazar una auténtica vocación y trabajando con constancia se recogen frutos colmados.
+  #2 | 回溯中国哲学史，《庄子》中的“朝三暮四”本意在阐明生死齐一、万物玄同的道家智慧，告诫世人切莫被表象的得失所蒙蔽。然而历经千年演变，这一成语在现代语境中已完全转化为对反复无常之举的道德针砭。 | Huísù Zhōngguó zhéxuéshǐ, 《Zhuāngzǐ》 zhōng de 'zhāosān-mùsì' běnyì zài chǎnmíng shēngsǐ-qíyī, wànwù-xuántóng de Dàojiā zhìhuì, gàojiè shìrén qièmò bèi biǎoxiàng de déshī suǒ méngbì. Rán'ér lìjīng qiānnián yǎnbiàn, zhè yì chéngyǔ zài xiàndài yǔjìng zhōng yǐ wánquán zhuǎnhuà wéi duì fǎnfù-wúcháng zhī jǔ de dàodé zhēnbiān. | Tracing Chinese philosophy, Zhuangzi's 'Zhao San Mu Si' originally elucidated Daoist wisdom on the equality of things, warning against illusion. Through millennia of evolution, this idiom has completely transformed into a moral rebuke of capricious fickle behavior. | En la filosofía china, la fábula de Zhuangzi ilustraba la relatividad de ganancias y pérdidas exhortando a no engañarse por las apariencias. Sin embargo, tras siglos de evolución lingüística, el modismo censura hoy la inconstancia de ánimo y la falta de palabra.

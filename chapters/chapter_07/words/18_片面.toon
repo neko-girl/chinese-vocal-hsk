@@ -1,0 +1,65 @@
+id: 18
+hanzi: 片面
+pinyin: piàn miàn
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: one-sided; unilateral; partial; biased; lacking comprehensive overview
+  es: unilateral; parcial; sesgado; que atiende solo a una faceta; incompleto
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | considering only one side or aspect of an issue while neglecting the whole; unilateral; partial | que considera únicamente un aspecto o faceta de un problema descuidando el conjunto; parcial | 片面的看法 (a one-sided view)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 仅凭片面的传言就对一个人的品行妄下定论，既不公平，也极易造成难以挽回的深深误解。 | Jǐn píng piànmiàn de chuányán jiù duì yí gè rén de pǐnxìng wàngxià dìnglùn, jì bù gōngpíng, yě jíyì zàochéng nányǐ wǎnhuí de shēnshēn wùjiě. | Jumping to conclusions regarding someone's moral character based merely on one-sided hearsay is both unfair and prone to irreversible misunderstandings. | Precipitarse a juzgar la rectitud moral de una persona fundándose en rumores unilaterales resulta tan injusto como proclive a forjar graves agravios.
+  #2 | 《盲人摸象》之所以能成为千古传颂的哲学寓言，正是因为它生动讽刺了以片面认知替代客观整体的思维误区。 | 《Mángrén Mō Xiàng》 zhīsuǒyǐ néng chéngwéi qiāngǔ chuánsòng de zhéxué yùyán, zhèng shì yīnwèi tā shēngdòng fěngcì le yǐ piànmiàn rènzhī tìdài kèguān zhěngtǐ de sīwéi wùqū. | Why 'The Blind Men and the Elephant' has remained an immortal allegory is precisely because it vividly satirizes the fallacy of mistaking partial impressions for the objective whole. | El motivo de que la fábula de los ciegos y el elefante haya perdurado es su certera sátira contra el desatino cognitivo de suplantar la realidad integral por una visión sesgada.
+
+collocations[6]{hanzi,en}:
+  片面观点 | one-sided or partial viewpoint
+  片面追求 | unilaterally pursue (e.g. GDP without ecology)
+  认识片面 | partial or superficial cognition
+  过于片面 | excessively one-sided
+  片面结论 | unilateral or biased conclusion
+  片面性 | one-sidedness; partiality
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  盲人摸象 | máng rén mō xiàng | blind men feeling an elephant; take a part for the whole
+  以偏概全 | yǐ piān gài quán | take a part for the whole; generalize from the particular
+  管中窥豹 | guǎn zhōng kuī bào | look at a leopard through a bamboo tube; narrow, limited view
+  坐井观天 | zuò jǐng guān tiān | sit in a well and gaze at the sky; narrow-mindedness
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  片 | piàn | slice; flake; thin piece; partial | rebanada; lámina; fragmento | 片 | slice / split wood | 片 (half of a split tree trunk 木) | "" | 4 | 单一结构 | Ancient pictogram representing the right half of a split log of timber (木 split vertically into 爿 on the left and 片 on the right). | A tree trunk split cleanly down the center leaves a thin, single side of sliced wood (片). | Un tronco de leña hendido por el eje longitudinal deja al descubierto una lámina parcial de madera (片). | 51 | LML | 
+  面 | miàn | face; surface; side; aspect | rostro; cara; superficie; faceta | 面 | face / surface | 面 (human countenance with eyes framed by outline) | "" | 9 | 单一结构 | Ancient bronze pictogram showing the outline of a human head and face enclosing the central eye 目. | An outlined profile framing the central eye represents a single visible surface and face (面). | El contorno de la cabeza humana que enmarca el ojo representa un semblante y una superficie visible (面). | 51 | MWSL | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Gazing at only one sliced fragment (片) of a multifaceted surface (面) yields a narrow, one-sided perspective (片面).
+  composite_memory_hook_es: Mirar únicamente una lámina aislada (片) de una superficie compleja (面) engendra un juicio unilateral (片面).
+  cultural_and_cognitive_roots: In dialectical Chinese philosophy (especially Mao's 《矛盾论》/ On Contradiction), 片面性 (one-sidedness) is contrasted against 全面性 (comprehensiveness). It reflects the cognitive hazard of evaluating problems from an isolated angle without grasping systemic dialectical connections.
+  tone_sandhi_and_pitch_modulation: Dual falling 4th tones: 'piàn miàn' (51-51). Pronounce each syllable with firm, crisp descending pitch.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    牌 | pái | card; plate; brand | Has 片 on the left and 卑 on the right
+    版 | bǎn | printing block; edition | Has 片 on the left and 反 on the right
+    斤 | jīn | catty; axe | Has different stroke order and curved left swoop
+    而 | ér | and; but; yet | Has vertical side strokes instead of enclosed box 面
+    页 | yè | page; leaf | Has 一 at top with 自/贝 structure below
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    牌 | pái | signboard; brand; playing card
+    版 | bǎn | printing block; edition; layout
+    牖 | yǒu | lattice window; opening
+    牍 | dú | ancient wooden writing tablet
+    牒 | dié | official document; dispatch
+
+semantic_boundary_contrasts:
+  core_nuance: 片面 describes thinking or judgment that considers only one isolated angle while ignoring the organic whole.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 片面 vs. 全面 | quánmiàn | 片面 is viewing only one aspect (antonym), whereas 全面 means comprehensive, all-round, and thorough across every dimension.
+    2 | 片面 vs. 主观 | zhǔguān | 片面 emphasizes incompleteness of perspective (lacking other sides), whereas 主观 emphasizes distortion by personal emotional bias and ego rather than objective facts.
+    3 | 片面 vs. 肤浅 | fūqiǎn | 片面 focuses on narrow horizontal scope (ignoring other facets), while 肤浅 refers to superficial vertical depth (failing to penetrate beneath the surface).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 世界上许多纷争与偏见，往往源于人们看问题时的片面与固执。每个人都习惯于站在自己的狭窄视角评判他人，将局部现象误当作全貌。唯有学会换位思考，跳出自我认知的局限，我们才能真正走向理智与宽容。 | Shìjiè shàng xǔduō fēnzhēng yǔ piānjiàn, wǎngwǎng yuányú rénmen kàn wèntí shí de piànmiàn yǔ gùzhí. Měi gè rén dōu xíguàn yú zhàn zài zìjǐ de xiázhǎi shìjiǎo píngpàn tārén, jiāng júbù xiànxiàng wù dàngzuò quánmào. Wéiyǒu xuéhuì huànwèi-sīkǎo, tiàochū zìwǒ rènzhī de júxiàn, wǒmen cáinéng zhēnzhèng zǒuxiàng lǐzhì yǔ kuānróng. | Many disputes and prejudices in the world stem from one-sidedness and stubbornness when evaluating issues. People habitually judge others from narrow perspectives, confusing localized details with reality. Empathy and stepping outside ego limits foster sanity and tolerance. | Gran parte de las disputas nacen de juicios sesgados y obstinados. Las personas tienden a juzgar a los demás desde su propia atalaya, tomando la parte por el todo. Solo aprendiendo a ponerse en el lugar del prójimo y trascendiendo prejuicios se avanza hacia la madurez y la concordia.
+  #2 | 在制定宏观公共政策时，必须坚决摒弃片面追求单一经济指标的政绩观。只有统筹兼顾经济增长、生态保护、民生福祉与社会公平等多重维度，才能实现经济社会的全面协调与永续健康发展。 | Zài zhìdìng hóngguān gōnggòng zhèngcè shí, bìxū jiānjué bìngqì piànmiàn zhuīqiú dānyī jīngjì zhǐbiāo de zhèngjìguān. Zhǐyǒu tǒngchóu-jiāngù jīngjì zēngzhǎng, shēngtài bǎohù, mínshēng fúzhǐ yǔ shèhuì gōngpíng děng duōchóng wéidù, cáinéng shíxiàn jīngjì shèhuì de quánmiàn xiétóng yǔ yǒngxù jiànkāng fāzhǎn. | In formulating public policies, one must firmly abandon the one-sided pursuit of isolated economic indices. Only by balancing economic growth, ecological preservation, public welfare, and equity can comprehensive, sustainable development be achieved. | Al trazar políticas públicas, es imperativo desterrar la búsqueda unilateral de índices puramente cuantitativos. Solo conjugando el crecimiento económico, la preservación ecológica, el bienestar ciudadano y la equidad social se alcanzará un progreso integral y perdurable.

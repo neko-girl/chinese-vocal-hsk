@@ -1,0 +1,65 @@
+id: 12
+hanzi: 宠物
+pinyin: chǒng wù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: pet; domestic companion animal; favorite creature kept for pleasure
+  es: mascota; animal de compañía; animal doméstico criado por afecto
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a domestic or tamed animal kept for companionship, amusement, or affection rather than working utility | animal domesticado criado por afecto y solaz familiar más que por utilidad productiva | 饲养宠物 (raise a pet)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着现代生活水平的提高，越来越多忙碌的都市人选择饲养宠物，以此缓解精神压力并在彼此陪伴中获得慰藉。 | Suízhe xiàndài shēnghuó shuǐpíng de tígāo, yuèláiyuè duō mánglù de dūshìrén xuǎnzé sìyǎng chǒngwù, yǐcǐ huǎnjiě jīngshén yālì bìng zài bǐcǐ péibàn zhōng huòdé wèijiè. | With rising living standards, more busy urbanites choose to keep pets to relieve stress and gain solace through mutual companionship. | Al mejorar el nivel de vida, más urbanitas crían mascotas para aliviar tensiones y hallar consuelo en la mutua compañía.
+  #2 | 寓言中那位老人对猴子的宠爱异于常人，甚至宁愿克扣全家人的开销也要把这些特殊的宠物喂养得白白胖胖。 | Yùyán zhōng nà wèi lǎorén duì hóuzi de chǒng'ài yìyú-chángrén, shènzhì nìngyuàn kèkòu quánjiā rén de kāixiāo yě yào bǎ zhèxiē tèshū de chǒngwù wèiyǎng de báibái-pàngpàng. | The elder's love for his monkeys was extraordinary; he chose to trim family expenses rather than let his special pets go hungry. | El anciano de la fábula sentía un apego insólito hacia sus monos; prefería recortar el gasto hogareño antes que desatender a sus mascotas.
+
+collocations[6]{hanzi,en}:
+  饲养宠物 | keep or raise a pet
+  宠物医院 | pet hospital or veterinary clinic
+  宠物食品 | pet food
+  家庭宠物 | household pet
+  宠物收容所 | animal shelter for pets
+  关爱宠物 | care for and cherish pets
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  得宠受幸 | dé chǒng shòu xìng | find favor and enjoy high imperial patronage
+  宠辱不惊 | chǒng rǔ bù jīng | remain unruffled by neither favor nor disgrace
+  受宠若惊 | shòu chǒng ruò jīng | flattered and overwhelmed by unexpected favor
+  养尊处优 | yǎng zūn chǔ yōu | live in luxury and pampering without toiling
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  宠 | chǒng | spoil; favor; pamper; dote on | mimar; consentir; favorecer; predilecto | 宀 | roof / dwelling | 宀 (shelter of domestic home) | 龙 (lóng, noble dragon / phonetic) | 8 | 上下结构 | Simplified from 寵. Ancient pictogram of a favored dragon 龙 cherished beneath an imperial chamber roof 宀. | Cherishing a wondrous imperial dragon (龙) safe beneath your household roof (宀) means to shower it with affection (宠). | Cobijar a un dragón noble (龙) bajo el seguro techo del hogar (宀) simboliza colmarlo de favores y mimos (宠). | 214 | JIK | 寵
+  物 | wù | thing; matter; creature; object | cosa; objeto; criatura; materia | 牜 | ox / cattle | 牜 (ox, physical animal) | 勿 (wù, multicolored flags / phonetic) | 8 | 左右结构 | Ancient bronze pictogram of an ox 牜 of various colors, representing the diverse living creatures of the world. | An ox (牜) standing before waving banners (勿) represents all living creatures and material things on earth (物). | Un buey firme (牜) que contempla banderas al viento (勿) encarna la diversidad de criaturas y seres del orbe (物). | 51 | HQPH | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A living creature (物) that is pampered, doted upon, and cherished beneath a home roof (宠) is a beloved domestic pet (宠物).
+  composite_memory_hook_es: Una criatura viva (物) mimada y consentida bajo el amoroso techo del hogar (宠) es una mascota querida (宠物).
+  cultural_and_cognitive_roots: In imperial China, 宠 designated royal concubines and favorites receiving imperial favors (恩宠). Combined with 物 (creature/beast), 宠物 originally denoted precious exotic beasts kept in imperial menageries, evolving into the modern term for companion animals.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by falling 4th tone: 'chǒng wù' (214-51). Dip low on 'chǒng', then drop with decisive downward stress on 'wù'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    庞 | páng | colossal; huge; face | Has cliff radical 广 on the outside instead of 宀
+    垄 | lǒng | ridge between fields; monopoly | Has earth radical 土 below 龙
+    拢 | lǒng | gather; collect; comb | Has hand radical 扌 next to 龙
+    特 | tè | special; unique | Has 寺 on the right instead of 勿
+    牧 | mù | herd; pasture; shepherd | Has 攵 on the right instead of 勿
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    宠 | chǒng | dote on; pamper; favor
+    庞 | páng | huge; immense; facial look
+    物 | wù | matter; object; creature
+    吻 | wěn | kiss; lips; coincide
+    勿 | wù | do not; negative imperative
+
+semantic_boundary_contrasts:
+  core_nuance: 宠物 specifies an animal kept purely for emotional companionship and pleasure, not for economic exploitation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 宠物 vs. 家禽 | jiāqín | 宠物 are companion animals kept for affection (dogs, cats, monkeys), whereas 家禽 are domestic poultry kept for meat and eggs (chickens, ducks, geese).
+    2 | 宠物 vs. 牲畜 | shēngchù | 宠物 receive emotional bonds, while 牲畜 are working agricultural livestock (oxen, horses, swine).
+    3 | 宠物 vs. 野兽 | yěshòu | 宠物 are domesticated and dependent on human feeding, while 野兽 are untamed feral animals living independently in the wilderness.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 温暖的午后阳光洒满阳台，一只慵懒的猫咪正蜷缩在主人膝头发出惬意的呼噜声。在快节奏的都市生活中，宠物不仅是家庭中不可或缺的萌趣成员，更像是一剂温柔的良药，在无声的依偎中抚平了人们内心的疲惫与孤寂。 | Wēnnuǎn de wǔhòu yángguāng sǎmǎn yángtái, yì zhī yōnglǎn de māomī zhèng quánsuō zài zhǔrén xītóu fāchū qièyì de hūlūshēng. Zài kuàijièzòu de dūshì shēnghuó zhōng, chǒngwù bùjǐn shì jiātíng zhōng bùkě-huòquē de méngqù chéngyuán, gèng xiàng shì yí jì wēnróu de liángyào, zài wúshēng de yīwēi zhōng fǔpíng le rénmen nèixīn de píbèi yǔ gūjì. | Warm afternoon sunlight dapples the balcony as a languid cat curls on its owner's lap purring. In urban life, pets are not only cheerful companions, but gentle medicine whose silent snuggling smooths away fatigue. | El sol tibio baña el balcón mientras un gato perezoso ronronea en el regazo de su amo. En la vida urbana, las mascotas son bálsamo tierno que con su apego mudo cura el cansancio y la soledad del alma.
+  #2 | 伴随现代社会老龄化与独居人口比例的持续上升，“宠物经济”正在演变为具有巨大发展潜力的庞大消费新赛道。涵盖高品质健康粮、智能看护设备与宠物医疗保险在内的新型服务业态，映射出当代人对精神情感陪伴的强烈渴望。 | Bànsuí xiàndài shèhuì lǎolínghuà yǔ dújū rénkǒu bǐlì de chíxù shàngshēng, 'chǒngwù jīngjì' zhèngzài yǎnbiàn wéi jùyǒu jùdà fāzhǎn qiánlì de pángdà xiāofèi xīn sàidào. Hángài gāopǐnzhì jiànkāngliáng, zhìnéng kānhù shèbèi yǔ chǒngwù yīliáo bǎoxiǎn zài nèi de xīnxíng fúwù yètài, yìngshè chū dāngdàirén duì jīngshén qínggǎn péibàn de qiángliè kěwàng. | With aging populations and single living, the 'pet economy' has evolved into a vast consumption track. High-grade foods, smart cameras, and pet insurance reflect modern people's intense yearning for emotional companionship. | Con el envejecimiento y la vida solitaria, la 'economía de mascotas' florece como un mercado pujante. Piensos de gama alta, collares inteligentes y seguros veterinarios reflejan el vivo anhelo de calor afectivo en las ciudades.

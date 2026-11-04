@@ -1,0 +1,67 @@
+id: 30
+hanzi: 不足
+pinyin: bù zú
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: insufficient; inadequate; lacking; deficient; less than; shortcoming
+  es: insuficiente; escaso; deficiente; carente; no llegar a; defecto
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | not enough in quantity, capacity, intensity, or degree; lacking sufficiency | que no alcanza la cantidad, intensidad o grado indispensable; escaso o deficitario | 经验不足 (lack of experience / insufficient experience)
+  2 | Noun | Formal | a defect, weakness, shortcoming, or area needing improvement | defecto, carencia o limitación susceptible de mejora | 弥补不足 (make up for deficiencies / overcome shortcomings)
+  3 | Adverb | Standard | less than a specified number, amount, or duration | que no alcanza o no llega a cierta cifra, cantidad o plazo | 不足三成 (less than thirty percent)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 由于前期准备工作严重不足，加上突发恶劣暴风雨，原本周密制定的户外登山计划被迫中途取消。 | Yóuyú qiánqī zhǔnbèi gōngzuò yánzhòng bùzú, jiāshàng tūfā èliè bàofēngyǔ, yuánběn zhōumì zhìdìng de hùwài dēngshān jìhuà bèipò zhōngtú qǔxiāo. | Due to severe inadequacy in preliminary preparations combined with sudden storms, the meticulously planned mountaineering trip had to be canceled. | Debido a una preparación previa seriamente deficiente y a una tempestad imprevista, la excursión de alta montaña hubo de cancelarse a mitad de camino.
+  #2 | 在年终工作总结大会上，部门负责人既充分肯定了团队取得的优异业绩，也实事求是地指出了当前管理流程中存在的短板与不足。 | Zài niánzhōng gōngzuò zǒngjié dàhuì shàng, bùmén fùzérén jì chōngfèn kěndìng le tuánduì qǔdé de yōuyì yèjì, yě shíshì-qiúshì de zhǐchū le dāngqián guǎnlǐ liúchéng zhōng cúnzài de duǎnbǎn yǔ bùzú. | At the year-end review, the department head affirmed the team's achievements while pointing out shortcomings in current workflows. | En el balance de fin de año, el jefe elogió los logros del equipo al tiempo que señaló con rigor las lagunas y deficiencias en la gestión.
+
+collocations[6]{hanzi,en}:
+  经验不足 | lack of experience; insufficient expertise
+  严重不足 | severely insufficient; acute shortage
+  信心不足 | lack of confidence; insufficient resolve
+  弥补不足 | make up for shortcomings; remedy defects
+  微不足道 | negligible; insignificant; not worth mentioning
+  睡眠不足 | sleep deprivation; lack of sleep
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  微不足道 | wēi bù zú dào | negligible; trivial; not worth mentioning
+  力不从心 | lì bù cóng xīn | ability falling short of one's will; powerless
+  捉襟见肘 | zhuō jīn jiàn zhǒu | pull up jacket and expose elbows; short of funds
+  自知之明 | zì zhī zhī míng | self-knowledge; knowing one's own limitations
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  不 | bù | not; no; negative | no; negación; carente | 一 | one / root stroke | 一 (barrier/line) | 𠀤 (calyx of flower) | 4 | 单一结构 | Ancient pictograph of a floral calyx before opening, borrowed phonetically in classical antiquity to serve as the absolute negative adverb. | A horizontal line (一) blocking the downward strokes below signals a firm, decisive negation: 'not' (不). | Una barra horizontal (一) que cierra el paso a los trazos inferiores formula una negación terminante: no (不). | 51 | MF | 
+  足 | zú | foot; leg; sufficient; full | pie; pata; suficiente; colmado | 足 | foot / leg | 口 (knee joint / marker) | 止 (foot on ground) | 7 | 上下结构 | Ancient bronze pictograph showing a human calf and foot 止 planted firmly on solid earth, conveying stability, completion, and fullness. | Standing firmly on two strong feet (足) planted solidly on the ground represents having ample strength and sufficiency (足). | Apoyarse con firmeza sobre ambos pies (足) erguidos en el suelo denota estabilidad y suficiencia plena (足). | 35 | RYO | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The negative particle (不) negating solid, grounded sufficiency (足) defines being insufficient, deficient, or lacking (不足).
+  composite_memory_hook_es: La negación categórica (不) aplicada a la suficiencia y firmeza del pie (足) describe lo que es insuficiente o escaso (不足).
+  cultural_and_cognitive_roots: In ancient Daoist philosophy (老子: 知足常乐 - one who knows contentment is always happy), 'zú' represents existential completion. The Book of Rites (礼记: 学然后知不足) teaches that 'only after studying does one realize one's deficiency', framing awareness of 不足 as the gateway to wisdom.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by rising 2nd tone: 'bù zú' (51-35). 'bù' retains its original 4th tone before 2nd-tone 'zú'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    下 | xià | below; down | Horizontal on top with vertical and dot pointing down
+    木 | mù | tree; wood | Has horizontal and vertical crossing with two diagonal slants
+    本 | běn | origin; book | Has base line across vertical stem
+    促 | cù | urge; hurry; compact | Has person radical 亻 on the left of 足
+    捉 | zhuō | clutch; grasp; catch | Has hand radical 扌 on the left of 足
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    不 | bù | not; no; non-
+    否 | fǒu | deny; negate; whether
+    足 | zú | foot; leg; sufficient; satisfy
+    缺 | quē | lack; deficient; shortage
+    乏 | fá | short of; lack; tired
+
+semantic_boundary_contrasts:
+  core_nuance: 不足 indicates failing to reach a required standard, quantity, threshold, or degree.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 不足 vs. 缺少 | quēshǎo | 不足 means the quantity present is inadequate or below requirement (睡眠不足), whereas 缺少 means something is completely missing or absent (缺少工具).
+    2 | 不足 vs. 缺乏 | quēfá | 不足 can describe both concrete deficits and minor flaws, while 缺乏 describes severe, chronic, or abstract deficiencies (缺乏信心, 缺乏维生素).
+    3 | 不足 vs. 缺点 | quēdiǎn | 不足 refers to deficiencies or areas where capacity is inadequate, whereas 缺点 refers to specific character flaws, behavioral defects, or system bugs.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 初出茅庐的年轻手艺人虽然理论熟练，但面对复杂的榫卯结构，终因动手经验不足而屡屡受挫。老木匠耐心鼓励他多看多练，因为任何精湛的技艺都需要岁月打磨。 | Chūchū-máolú de niánqīng shǒuyìrén suīrán lǐlùn shúliàn, dàn miànduì fùzá de sǔnmǎo jiégòu, zhōng yīn dòngshǒu jīngyàn bùzú ér lǚlǚ shòucuò. Lǎo mùjiang nàixīn gǔlì tā duō kàn duō liàn, yīnwèi rènhé jīngzhàn de jìyì dōu xūyào suìyuè dǎmó. | Though adept in theory, the novice artisan stumbled on complex mortise-and-tenon joints due to lacking hands-on experience. The master carpenter encouraged him, as mastery requires time. | Aunque dominaba la teoría, el joven aprendiz erraba en los ensambles por falta de destreza manual. El viejo ebanista le exhortó a practicar, pues la maestría exige el cincel del tiempo.
+  #2 | “学然后知不足，教然后知困。”古圣先贤的教诲深刻揭示了认知递进的辩证规律。唯有清醒认识到自身的局限与不足，保持虚怀若谷的治学胸襟，才能在探索真理的道路上永不停滞。 | "Xué ránhòu zhī bùzú, jiào ránhòu zhī kùn." Gǔ shèng xiānxián de jiàohuì shēnkè jiēshì le rènzhī dìjìn de biànzhèng guīlǜ. Wéiyǒu qīngxǐng rènshí dào zìshēn de júxiàn yǔ bùzú, bǎochí xūhuái-ruògǔ de zhìxué xiōngjīn, cáinéng zài tànsuǒ zhēnlǐ de dàolù shàng yǒng bù tíngzhì. | "Only after learning does one know one's deficiency; only after teaching does one know perplexity." Recognizing limitations with humility ensures progress on the path of truth. | "Solo tras aprender se conoce la propia limitación; solo tras enseñar se comprende la dificultad". Reconocer las deficiencias con humildad alienta el paso hacia la verdad.

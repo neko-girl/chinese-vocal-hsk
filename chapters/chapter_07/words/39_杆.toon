@@ -1,0 +1,65 @@
+id: 39
+hanzi: 杆
+pinyin: gǎn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: shaft; pole; rod; stem of an arrow, spear, or pipe; classifier for guns
+  es: asta; pértiga; vara; mango; caña de una flecha o lanza; clasificador de armas
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a slender pole, shaft, rod, or stem forming the structural body of a tool, arrow, spear, or pipe | vara, asta, vástago, mango o caña que constituye el cuerpo alargado de un arma o útil | 箭杆 (arrow shaft)
+  2 | Measure Word | Colloquial | used as a counting classifier for long firearms or smoking pipes | clasificador para armas de fuego largas, fusiles o pipas | 一杆枪 (a rifle)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军定睛细看，发现前一晚射出的白羽箭，其坚硬的箭杆竟然已经有大半深深没入了坚石之中。 | Lǐ Guǎng jiāngjūn dìngjīng xìkàn, fāxiàn qiányīwǎn shèchū de báiyǔjiàn, qí jiānyìng de jiàngǎn jìngrán yǐjīng yǒu dàbàn shēnshēn mòrù le jiānshí zhīzhōng. | Gazing intently, General Li Guang discovered that over half of the hard shaft of the feathered arrow shot the previous night had sunk deep into solid stone. | Mirando de cerca, el general Li Guang comprobó que más de la mitad de la recia vara de la saeta disparada la víspera se había hundido en la roca viva.
+  #2 | 老农夫手握一杆沉甸甸的木制秤杆，熟练地拨动着秤砣，为前来赶集的乡邻准确称量新鲜收割的蔬菜。 | Lǎo nóngfū shǒuwò yì gǎn chéndiāndiān de mùzhì chènggǎn, shúliàn de bōdòng zhe chèngtuó, wèi qiánlái gǎnjí de xiānglín zhǔnquè chēngliáng xīnxiān shōugē de shūcài. | Holding a heavy wooden steelyard beam, the old farmer skillfully slid the weight to accurately weigh freshly harvested vegetables for neighbors. | Con una pesada vara de balanza de madera en la mano, el viejo campesino deslizaba el contrapeso con destreza para pesar hortalizas recién cosechadas.
+
+collocations[6]{hanzi,en}:
+  箭杆 | arrow shaft
+  秤杆 | beam of a steelyard balance
+  笔杆子 | penholder; skilled writer; polemicist
+  枪杆子 | barrel of a gun; military armed force
+  旗杆 | flagpole (often pronounced qígān)
+  栏杆 | railing; banister; balustrade
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  枪杆子里出政权 | qiāng gǎn zi lǐ chū zhèng quán | political power grows out of the barrel of a gun
+  笔杆子摇天下 | bǐ gǎn zi yáo tiān xià | the power of the pen shakes the world
+  一杆到底 | yì gǎn dào dǐ | follow through to the very end in one go
+  百尺竿头 | bǎi chǐ gān tóu | at the top of a hundred-foot pole; pinnacle of achievement
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  杆 | gǎn | shaft; pole; rod; stem | asta; vara; mango; pértiga | 木 | tree / wood | 木 (wood, botanical shaft) | 干 (gān, shield / trunk / pestle) | 7 | 左右结构 | Phono-semantic compound: wood radical 木 indicating long wooden timber, paired with 干 (trunk/shield). | A tall, straight wooden tree trunk (木) shaved into an unbending straight rod (干) forms an arrow shaft (杆). | El madero recto de un árbol (木) desbastado hasta formar una vara derecha y recia (干) da forma al asta de flecha (杆). | 214 | DMJ | 桿
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Carving straight timber (木) into an unyielding wooden rod (干) produces a sturdy arrow shaft and measuring pole (杆).
+  composite_memory_hook_es: Labrar madera recta (木) hasta forjar una vara inquebrantable (干) crea la recia caña o asta de flecha (杆).
+  cultural_and_cognitive_roots: In ancient Chinese material culture, 杆 was the central wooden spine of archery arrows (箭杆), combat lances (枪杆), and steelyard balances (秤杆). In modern political discourse, 枪杆子 (military arms) and 笔杆子 (literary propaganda) represent the two pillars of power.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'gǎn' (214) when meaning shaft, small rod, or tool body (箭杆, 笔杆子, 一杆枪). Note 1st tone 'gān' in tall upright poles (旗杆, 电线杆).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    干 | gān | dry; shield; stem | Lacks the tree radical 木 on the left
+    杠 | gàng | thick bar; lever | Has 工 on the right instead of 干
+    枉 | wǎng | crooked; in vain; pervert | Has 王 on the right instead of 干
+    杯 | bēi | cup; trophy | Has 不 on the right instead of 干
+    枝 | zhī | branch; bough | Has 支 on the right instead of 干
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    竿 | gān | bamboo pole (竹竿)
+    擀 | gǎn | roll with pin (擀面杖)
+    干 | gàn | tree trunk; stem; backbone
+    杆 | gǎn | shaft; rod; lever
+    赶 | gǎn | catch up; rush; drive away
+
+semantic_boundary_contrasts:
+  core_nuance: 杆 specifies a slender wooden or metallic shaft forming the backbone of an arrow, pen, or tool.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 杆 vs. 竿 | gān | 杆 has a wood radical 木 and typically denotes a shorter, thicker wooden tool shaft or rifle barrel (箭杆, 枪杆), whereas 竿 has a bamboo radical 竹 and denotes tall flexible bamboo poles (鱼竿, 竹竿).
+    2 | 杆 vs. 棍 | gùn | 杆 is a refined, crafted slender shaft designed for arrows or tools, while 棍 is a blunt, thicker wooden cudgel or club meant for bludgeoning.
+    3 | 杆 vs. 柄 | bǐng | 杆 is the full linear shaft, while 柄 is specifically the localized handle or grasp of a weapon, blade, or ladle.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 传统的弓箭制作工艺极其繁复，其中最为关键的便是精选笔直沉实的箭杆。老工匠在炉火边耐心烘烤校正，确保每一支箭杆纹理顺畅、受力均匀。正是这种对细节的极致苛求，才铸就了百步穿杨的传奇神话。 | Chuántǒng de gōngjiàn zhìzuò gōngyì jíqí fánfù, qízhōng zuìwéi guānjiàn de biànshì jīngxuǎn bǐzhí chénshí de jiàngǎn. Lǎo gōngjiàng zài lúhuǒ biān nàixīn hōngkǎo jiàozhèng, quèbǎo měi yì zhī jiàngǎn wénlǐ shùnchàng, shòulì jūnyún. Zhèng shì zhè zhǒng duì xìjié de jízhì kēqiú, cái zhùjiù le bǎibù-chuānyáng de chuánqí shénhuà. | Crafting traditional bows and arrows is intricate; selecting straight, dense arrow shafts is critical. The artisan bakes and aligns shafts beside the forge, ensuring smooth grain and uniform tension. This rigor births legends of marksmanship. | Fabricar arcos clásicos es un arte prolijo donde seleccionar varas de flecha rectas y densas es primordial. El maestro artesano las alinea junto al fuego para que reciban la tensión con uniformidad. De ese rigor nacen hazañas de puntería milagrosa.
+  #2 | 在漫长的革命斗争岁月中，中国共产党人深刻认识到“枪杆子里面出政权”的历史真理。正是依靠人民军队在烽火连天的战场上浴血奋战，推翻三座大山，中华民族才迎来了彻底翻身解放、自立自强的崭新历史纪元。 | Zài màncháng de gémìng dòuzhēng suìyuè zhōng, Zhōngguó Gòngchǎndǎngrén shēnkè rènshi dào 'qiānggǎnzǐ lǐmiàn chū zhèngquán' de lìshǐ zhēnlǐ. Zhèng shì yīkào rénmín jūnduì zài fēnghuǒ-liántiān de zhànchǎng shàng yùxiě fènzhàn, tuīfān sān zuò dàshān, Zhōnghuá mínzú cái yínglái le chèdǐ fānshēn jiěfàng, zìlì-zìqiáng de zhǎnxīn lìshǐ jìyuán. | In revolutionary struggles, patriots recognized that political power grows from gun barrels. Relying on the people's army battling through war to topple oppression, the Chinese nation ushered in a new epoch of liberation and self-reliance. | En las gestas de liberación nacional, los patriotas constataron la verdad histórica del poder que emana de las armas. Apoyándose en el ejército del pueblo que batalló con heroísmo, la nación derribó la opresión abriendo una era soberana de dignidad.

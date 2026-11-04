@@ -1,0 +1,65 @@
+id: 42
+hanzi: 哈
+pinyin: hā
+level: HSK 5
+part_of_speech: Interjection
+
+meanings_summary:
+  en: ha (sound of laughter); haha; to exhale breath; to breathe out warm air
+  es: ¡ja!; ¡jaja! (onomatopeya de risa franca); exhalar vaho; jadear
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Interjection | Standard | an onomatopoeic exclamation expressing hearty laughter, sudden realization, or amused delight ("ha!", "haha!") | interjección u onomatopeya que expresa risa franca, sorpresa gozosa o ironía ligera ("¡ja!", "¡jaja!") | 哈哈大笑 (laugh heartily / roar with laughter)
+  2 | Verb | Standard | to exhale breath forcefully through an open mouth, or blow warm moisture onto a surface (such as cold hands or foggy glass) | exhalar el aliento cálido por la boca abierta o echar vaho para calentarse las manos o limpiar cristales | 哈了一口气 (blew a puff of warm air / exhaled a breath)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 听完相声演员惟妙惟肖的滑稽模仿，台下的观众们再也忍不住了，齐声哈哈大笑起来。 | Tīngwán xiàngsheng yǎnyuán wéimiào-wéixiào de huájī mófǎng, táixià de guānzhòngmen zàiyě bǔrěnzhu le, qíshēng hāhā dàxiào qǐlái. | Hearing the crosstalk comedian's lifelike comical imitation, the audience couldn't hold it in any longer and burst into hearty laughter together. | Al escuchar la cómica e impecable parodia del comediante, los espectadores no pudieron contenerse y prorrumpieron en sonoras carcajadas al unísono.
+  #2 | 寒风凛冽的清晨，守候在校门口的交警叔叔不时朝冻僵的双手哈出一口热气，搓了搓手继续坚守岗位。 | Hánfēng lǐnliè de qīngchén, shǒuhòu zài xiàoménkǒu de jiāojǐng shūshu bùshí cháo dòngjiāng de shuāngshǒu hāchū yì kǒu rèqì, cuō le cuō shǒu jìxù jiānshǒu gǎngwèi. | On a bitterly freezing morning, the traffic officer guarding the school gate puffed warm breath onto his numb hands and rubbed them, standing firm on duty. | En el alba gélida y ventosa, el agente apostado ante el colegio exhalaba vaho tibio sobre sus manos ateridas y las frotaba para seguir firme en su puesto.
+
+collocations[6]{hanzi,en}:
+  哈哈大笑 | laugh heartily; roar with laughter
+  打哈欠 | yawn; emit a yawn
+  哈一口气 | blow a breath of warm air; exhale steam
+  哈腰道歉 | bow low to apologize; bend forward
+  乐得哈哈笑 | laugh with joy; chuckle with glee
+  哈巴狗 | pug dog; lapdog; sycophant
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  捧腹大笑 | pěng fù dà xiào | hold one's belly and laugh uproariously
+  啼笑皆非 | tí xiào jiē fēi | not know whether to laugh or cry; in an awkward dilemma
+  喜笑颜开 | xǐ xiào yán kāi | face lit up with joyful smiles; beaming with happiness
+  开怀大笑 | kāi huái dà xiào | laugh one's heart out; laugh unrestrainedly
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  哈 | hā | ha / laughter / exhale breath | ja / risa / exhalar vaho | 口 | mouth | 口 (open mouth laughing) | 合 (hé, join / phonetic) | 9 | 左右结构 | Phono-semantic character where mouth radical 口 depicts vocal laughter, and 合 indicates harmonious blending of breath. | Opening one's mouth (口) wide with friendly companions (合) to exhale cheerful breath bursts into hearty laughter (哈). | Abrir la boca (口) de par en par en grata compañía (合) para soltar el aire produce una carcajada sonora (哈). | 55 | ROMR | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An open mouth (口) combining harmoniously with others (合) to exhale merry laughter produces the joyous sound 'ha!' (哈).
+  composite_memory_hook_es: Abrir la boca (口) en armoniosa comunión (合) para expulsar el aliento alegre emite la franca carcajada '¡ja!' (哈).
+  cultural_and_cognitive_roots: In Chinese traditional stage performance (戏曲: 京剧、相声), hearty laughter (哈哈大笑) and exaggerated yawns (打哈欠) are key expressive gestures. The character captures physiological breathwork and unrestrained comedic mirth.
+  tone_sandhi_and_pitch_modulation: High-level 1st tone: 'hā' (55). Sound with open vocal resonance and clear, high sustained pitch.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    合 | hé | combine; unite; close | Lacks the mouth radical 口 on the left
+    给 | gěi | give; provide | Left side is silk radical 纟 instead of mouth 口
+    恰 | qià | just; appropriate | Left side is heart radical 忄 instead of mouth 口
+    答 | dá | answer; reply | Top is bamboo radical ⺮ instead of mouth 口
+    咯 | gē | cluck; rattle; particle | Right side is 各 instead of 合
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    哈 | hā | ha (laughter); exhale
+    笑 | xiào | smile; laugh
+    嗤 | chī | sneer; scoff; laugh
+    嘻 | xī | chuckle; giggle; heedless
+    呼 | hū | exhale; shout; call
+
+semantic_boundary_contrasts:
+  core_nuance: 哈 is an onomatopoeic exclamation of hearty open laughter or the action of blowing warm breath.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 哈 vs. 嘿 | hēi | 哈 expresses open laughter, amusement, or breathing warm air, while 嘿 is an attention-calling interjection ("hey!") or sinister snicker (嘿嘿冷笑).
+    2 | 哈 vs. 呵 | hē | 哈 indicates hearty, loud, open-mouthed laughter (哈哈), whereas 呵 can denote gentle chuckles, ironic internet smirks (呵呵), or scolding (呵斥).
+    3 | 哈 vs. 呀 | ya | 哈 is an onomatopoeia for laughter or exhaling, while 呀 is an expressive modal particle or cry of surprise ("ah! / oh!").
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 冬日清晨的操场上呵气成霜，几个穿着厚棉袄的小伙伴哈着热气互相追逐嬉戏。谁不小心在雪地上滑了一跤，不但没哭，反倒爬起来拍拍雪花哈哈大笑。 | Dōngrì qīngchén de cāochǎng shàng hēqì-chéngshuāng, jǐ ge chuānzhe hòumián'ǎo de xiǎohuǒbàn hā zhe rèqì hùxiāng zhuīzhú xīxì. Shéi bùxiǎoxīn zài xuědì shàng huá le yì jiāo, búdàn méi kū, fǎndào pá qǐlái pāipai xuěhuā hāhā dàxiào. | On the winter morning playground where breath turned to frost, kids bundled in coats chased each other puffing steam. Slipping on snow, none cried, but brushed off snow and roared with laughter. | En el patio helado de la escuela, niños abrigados se perseguían echando vaho. Al resbalar sobre la nieve, lejos de llorar, se incorporaban sacudiéndose las solapas entre limpias carcajadas.
+  #2 | 庄子以老夫赋芧的谐趣故事解构世俗执念，读者读至“众狙皆悦”处往往不禁莞尔而笑，哈的一声参透了万物齐一的玄妙机趣。笑声之中，浮躁的争名夺利顿时化为乌有。 | Zhuāngzǐ yǐ lǎofū fùyù de xiéqù gùshì jiěgòu shìsú zhíniàn, dúzhě dú zhì "zhòngjū jiē yuè" chù wǎngwǎng bùjīn wǎn'ěr ér xiào, hā de yì shēng cāntòu le wànwù-qíyī de xuánmiào jīqù. Xiàoshēng zhīzhōng, fúzào de zhēngmíng-duólì dùnshí huàwéiwūyǒu. | Zhuangzi's witty fable deconstructs earthly obsessions; reading "all monkeys rejoiced", one smiles and exhales a "ha!", grasping universal unity as trivial disputes dissolve into laughter. | Con la fábula del anciano y las bellotas, Zhuangzi desbarata el apego terrenal; al leer que "todos los monos se alegraron", brota una carcajada lúcida que disuelve las vanas querellas.

@@ -1,0 +1,65 @@
+id: 19
+hanzi: 粮食
+pinyin: liáng shi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: grain; cereals; food supplies; staple grain crops (wheat, rice, corn)
+  es: grano; cereales; víveres; alimentos básicos (arroz, trigo, maíz)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | cultivated cereal crops (such as rice, wheat, corn, millet) used as staple food, or processed grains for human consumption | cereales y granos cultivados (arroz, trigo, maíz) que constituyen la base de la alimentación humana; víveres | 节约粮食 (save grain / avoid food waste)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对连年歉收、家中存粮严重不足的困境，老人不得不精打细算，想方设法节省粮食以度过寒冬。 | Miànduì liánnián qiànshōu, jiāzhōng cúnliáng yánzhòng bùzú de kùnjìng, lǎorén bùdébù jīngdǎ-xìsuàn, xiǎngfāng-shèfǎ jiéshěng liángshi yǐ dùguò hándōng. | Facing successive bad harvests and dwindling grain stores at home, the elder had to budget carefully and save grain to survive the cold winter. | Ante las malas cosechas y la escasez de grano en casa, el anciano no tuvo más remedio que calcular al céntimo y racionar los víveres para pasar el invierno.
+  #2 | 悠悠万事，吃饭为大；保障国家粮食安全是维系十四亿人民安居乐业与国家长治久安的最坚固基石。 | Yōuyōu wànshì, chīfàn wéi dà; bǎozhàng guójiā liángshi ānquán shì wéixì shísì yì rénmín ānjū-lèyè yǔ guójiā chángzhì-jiǔ'ān de zuì jiāngù jīshí. | Among all worldly affairs, sustenance is paramount; safeguarding national food security is the bedrock for long-term stability and livelihood. | Entre todos los asuntos humanos, el sustento es primordial; salvaguardar la soberanía alimentaria es el pilar innegociable de la estabilidad nacional.
+
+collocations[6]{hanzi,en}:
+  粮食安全 | food security; grain security
+  节约粮食 | save grain; avoid wasting food
+  粮食产量 | grain yield or output
+  储备粮食 | stockpile or store grain reserves
+  粮食短缺 | grain shortage; food scarcity
+  主要粮食作物 | staple cereal crops
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  粒粒皆辛苦 | lì lì jiē xīn kǔ | every single grain is the fruit of bitter toil
+  兵马未动，粮草先行 | bīng mǎ wèi dòng, liáng cǎo xiān xíng | provisions must march before soldiers and horses
+  丰衣足食 | fēng yī zú shí | abundant clothing and ample food; prosperous life
+  积谷防饥 | jī gǔ fáng jī | store up grain against famine; prepare for lean years
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  粮 | liáng | grain; cereals; food supplies | grano; cereal; víveres; provisiones | 米 | rice / grain | 米 (hulled grain seeds) | 量 (liáng, measure / quantity) | 13 | 左右结构 | Simplified from 糧. Ancient pictogram of hulled grain seeds 米 accurately weighed and measured 量 for rations. | Hulled grains of pure rice (米) precisely measured into standard sacks (量) supply essential grain food (粮). | Granos limpios de arroz (米) pesados y medidos en la balanza (量) componen los víveres de la despensa (粮). | 35 | FDAMJ | 糧
+  食 | shí | eat; food; meal; feed | comer; comida; alimento; pasto | 食 | food / eat | 亼 (lid covering bowl) | 皀 (bī, steaming food in ritual bowl) | 9 | 单一结构 | Ancient bronze pictogram of an exquisite covered ritual vessel 亼 holding fragrant steaming cooked grain 皀. | Lifting the decorative lid (亼) from a steaming ceramic bowl reveals hot, fragrant food to eat (食). | Alzar la tapadera (亼) de un cuenco humeante deja al descubierto el exquisito alimento preparado para comer (食). | 35 | OIV | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Measured baskets of golden grain (粮) cooked into steaming domestic bowls of food (食) constitute life's staple food and grain (粮食).
+  composite_memory_hook_es: Raciones medidas de cereal (粮) cocinadas al vapor como sustento diario (食) integran el grano y los víveres (粮食).
+  cultural_and_cognitive_roots: In ancient Chinese statecraft (管子: 仓廪实而知礼节), 粮食 was the supreme national currency and lifeline of dynastic order. Emperors performed ceremonial plowing rites (先农坛) each spring, reflecting the civilizational centrality of agrarian grain cultivation.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by neutral tone: 'liáng shi' (35-neutral). Rise steadily on 'liáng' and deliver 'shi' lightly without stress.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    良 | liáng | good; virtuous; fine | Lacks the rice radical 米 on the left
+    娘 | niáng | mother; young woman | Has woman radical 女 on the left instead of 米
+    浪 | làng | wave; breaker; wander | Has water radical 氵 on the left instead of 米
+    狼 | láng | wolf | Has dog radical 犭 on the left instead of 米
+    餐 | cān | meal; dine | Has 歺 at top above 食
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    粮 | liáng | grain; rations; foodstuff
+    量 | liáng | measure; estimate; capacity
+    凉 | liáng | cool; refreshing; discouraged
+    食 | shí | eat; food; meal; Eclipse
+    饮 | yǐn | drink; beverage; water animals
+
+semantic_boundary_contrasts:
+  core_nuance: 粮食 specifically designates the raw or milled staple cereal crops (rice, wheat, corn) sustaining human life.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 粮食 vs. 食品 | shípǐn | 粮食 refers to raw agricultural grains and staples (wheat, paddy, corn), whereas 食品 refers broadly to processed, packaged consumer foods and snacks (罐头食品, 休闲食品).
+    2 | 粮食 vs. 庄稼 | zhuāngjia | 粮食 denotes the harvested seeds and grains, while 庄稼 refers to the growing crops standing out in the agricultural fields.
+    3 | 粮食 vs. 饭 | fàn | 粮食 is the economic and macroscopic agricultural term, while 饭 refers to cooked rice or an immediate daily meal (吃早饭).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走进秋日的农家院落，金黄的玉米棒堆积如山，饱满的稻谷在阳光下散发着醉人的麦香。春种一粒粟，秋收万颗子，每一捧沉甸甸的粮食背后，都凝结着农人一年到头面朝黄土背朝天的辛勤汗水与质朴祈愿。 | Zǒujìn qiūrì de nóngjiā yuànluò, jīnhuáng de yùmǐbàng duījī-rúshān, bǎomǎn de dàogǔ zài yángguāng xià sànfà zhe zuìrén de màixiāng. Chūn zhòng yí lì sù, qiū shōu wàn kē zǐ, měi yì pěng chéndiāndiān de liángshi bèihòu, dōu níngjié zhe nóngrén yì nián dào tóu miàncháo-huángtǔ bèi-cháotiān de xīnqín hànshuǐ yǔ zhìpǔ qíyuàn. | Stepping into autumn farmyards, golden corn heaps like mountains as plump grain basks in the sun with sweet aromas. Sowing in spring and reaping thousands in autumn, every handful of heavy grain crystallizes a year of farmers' sweat. | En el patio otoñal de la aldea, las mazorcas doradas se apilan como collados despidiendo un cálido aroma a cereal al sol. Cada puñado de grano dorado condensa el sudor honrado del campesino que labra la tierra de sol a sol.
+  #2 | 在全球极端气候频发与地缘冲突加剧的严峻挑战下，确保国家粮食安全始终是关系国计民生的重中之重。中国依靠自主研发高产耐旱的杂交水稻与耐盐碱粮作新品种，把中国人的饭碗牢牢端在自己手中。 | Zài quánqiú jíduān qìhòu pínfā yǔ dìyuán chōngtū jiājù de yánjùn tiǎozhàn xià, quèbǎo guójiā liángshi ānquán shǐzhōng shì guānxì guójì-mínshēng de zhòngzhōngzhīzhòng. Zhōngguó yīkào zìzhǔ yánfā gāochǎn nàihàn de zájiāo shuǐdào yǔ nàiyánjiǎn liángzuò xīn pǐnzhǒng, bǎ Zhōngguórén de fànwǎn láoláo duān zài zìjǐ shǒuzhōng. | Amid extreme climate shocks and geopolitical tensions, national food security is of paramount strategic priority. China relies on indigenous hybrid rice and saline-tolerant crops to hold its rice bowl firmly in its own hands. | Ante los embates climáticos y las tensiones mundiales, la seguridad alimentaria es prioridad ineludible. Mediante arroces híbridos de alto rendimiento y cereales resistentes a la salinidad, el país afianza su sustento con soberanía.

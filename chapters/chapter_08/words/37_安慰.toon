@@ -1,0 +1,66 @@
+id: 37
+hanzi: 安慰
+pinyin: ān wèi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to comfort; to console; to soothe; consolation; comfort; solace
+  es: consolar; confortar; aliviar; consuelo; solaz; alivio
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to soothe grief, distress, disappointment, or anxiety with gentle words or empathetic actions | aliviar el dolor, la pesadumbre o el desánimo ajeno con palabras amables o gestos de empatía | 安慰朋友 (comfort a friend / console a friend)
+  2 | Noun | Standard | a person, thing, or circumstance that brings peace of mind, relief, or consolation | aquello que proporciona alivio, sosiego, serenidad o resignación moral | 莫大的安慰 (immense consolation / great comfort)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 看到好友因考试失利而伤心落泪，小林轻轻拍了拍她的肩膀，用温柔真诚的话语耐心安慰她。 | Kàndào hǎoyǒu yīn kǎoshì shīlì ér shāngxīn luòlèi, Xiǎolín qīngqīng pāi le pai tā de jiānbǎng, yòng wēnróu zhēnchéng de huàyǔ nàixīn ānwèi tā. | Seeing her friend weeping in grief over failing the exam, Xiaolin gently patted her shoulder and patiently consoled her with tender, sincere words. | Al ver a su amiga llorando desconsolada por suspender el examen, Xiaolin le palmeó el hombro con afecto y la consoló con palabras tiernas.
+  #2 | 尽管老先生晚年生活清贫如洗，但得知自己毕生倾注心血的学术遗著顺利出版，内心感到了莫大的欣慰与安宁。 | Jǐnguǎn lǎo xiānsheng wǎnnián shēnghuó qīngpín-rúxǐ, dàn dézhī zìjǐ bìshēng qīngzhù xīnxuè de xuéshù yízhù shùnlì chūbǎn, nèixīn gǎndào le mòdà de xīnwèi yǔ ānníng. | Though the old scholar lived in humble poverty in old age, learning that his lifetime manuscript was smoothly published brought immense solace. | Pese a vivir en modesta estrechez en su vejez, saber que su obra magna vería la luz brindó al anciano erudito un consuelo y una paz inmensos.
+
+collocations[6]{hanzi,en}:
+  耐心安慰 | patiently comfort; soothe gently
+  感到安慰 | feel consoled; find comfort
+  莫大的安慰 | immense consolation; supreme comfort
+  自欺欺人的安慰 | deceptive self-comfort; cold comfort
+  寻求安慰 | seek comfort; look for solace
+  安慰人心 | soothe people's hearts; bring solace
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  问寒问暖 | wèn hán wèn nuǎn | inquire solicitously about well-being; show caring concern
+  推心置腹 | tuī xīn zhì fù | lay bare one's heart; treat with utmost sincerity
+  休戚与共 | xiū qī yǔ gòng | share weal and woe; stand together through thick and thin
+  相濡以沫 | xiāng rú yǐ mò | moisten each other with spit; mutual aid in dire straits
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  安 | ān | calm; safe; peaceful; quiet | seguro; quieto; apacible; tranquilo | 宀 | roof / shelter | 宀 (sheltered house) | 女 (woman at home) | 6 | 上下结构 | Ancient oracle bone pictogram of a woman 女 resting safely inside her sheltered domestic home 宀, conveying safety and deep serenity. | A woman (女) sitting safely under the protective roof (宀) of her home embodies profound peace, safety, and tranquil calm (安). | Una mujer (女) descansando a salvo bajo el techo familiar (宀) irradia sosiego, seguridad y apacible serenidad (安). | 55 | JV | 
+  慰 | wèi | comfort; console; soothe | consolar; aliviar; serenar | 心 | heart | 尉 (wèi, pacify / soothe) | 心 (heart / feeling) | 15 | 上下结构 | Phono-semantic character where heart radical 心 denotes emotional solace, and 尉 depicts soothing hands smoothing distress. | Gentle hands (尉) touching an aching heart (心) to smooth away sorrow and worry bring soothing consolation (慰). | Manos solícitas (尉) que acarician un corazón afligido (心) mitigando las congojas brindan consuelo y alivio (慰). | 51 | SIP | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Sheltering someone safely under a roof (安) while gently soothing their sorrowful heart (慰) offers loving comfort and consolation (安慰).
+  composite_memory_hook_es: Dar cobijo tranquilo bajo techo (安) acariciando el corazón adolorido (慰) brinda consuelo y bálsamo reparador (安慰).
+  cultural_and_cognitive_roots: In Confucian interpersonal ethics (仁爱 / 恻隐之心), empathy toward another's grief is the very wellspring of humanity. Verbal comfort (慰藉) serves not merely as polite pleasantry, but as an active moral duty to restore emotional harmony.
+  tone_sandhi_and_pitch_modulation: High-level 1st tone followed by falling 4th tone: 'ān wèi' (55-51). Hold 'ān' high and tranquil, then drop resolutely with warm emphasis on 'wèi'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    按 | àn | press; push; according to | Has hand radical 扌 on the left of 安
+    案 | àn | desk; legal case; table | Has wood radical 木 at the bottom of 安
+    尉 | wèi | military officer; rank | Lacks the heart radical 心 at the bottom
+    蔚 | wèi | luxuriant; grand (蔚蓝) | Has grass radical 艹 on top of 尉
+    熨 | yùn | iron clothes; reconcile | Has fire radical 火 at bottom instead of 心
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    安 | ān | peaceful; calm; safe; quiet
+    慰 | wèi | comfort; console; soothe
+    抚 | fǔ | stroke; caress; console; pacify
+    藉 | jiè | bedding; rely on; solace (慰藉)
+    抚慰 | fǔwèi | soothe; comfort; caress
+
+semantic_boundary_contrasts:
+  core_nuance: 安慰 focuses on alleviating psychological pain, distress, or grief through compassionate speech and presence.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 安慰 vs. 欣慰 | xīnwèi | 安慰 is offered to someone who is hurting or in distress (安慰伤心的人), whereas 欣慰 is self-experienced joy and relief at a positive outcome (感到十分欣慰).
+    2 | 安慰 vs. 鼓励 | gǔlì | 安慰 aims to alleviate sorrow and ease emotional distress, while 鼓励 aims to boost courage, drive, and proactive action.
+    3 | 安慰 vs. 关怀 | guānhuái | 安慰 is a specific response to sadness or loss, while 关怀 is general ongoing care and solicitude for another's welfare.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对病榻前愁眉不展的母亲，儿子握紧母亲粗糙的双手，一句句轻声细语的安慰犹如春风化雨，抚平了老人心头的焦虑与惊恐，让简陋的病房也变得格外温暖。 | Miànduì bìngtà qián chóuméi-bùzhǎn de mǔqīn, érzi wòjǐn mǔqīn cūcāo de shuāngshǒu, yíjùjù qīngshēng-xìyǔ de ānwèi yóurú chūnfēng-huàyǔ, fǔpíng le lǎorén xīntóu de jiāolǜ yǔ jīngkǒng, ràng jiǎnlòu de bìngfáng yě biàn de géwài wēnnuǎn. | Before his ailing mother, the son clasped her rough hands; gentle words of comfort like spring rain smoothed her anxiety, warming the room. | Ante su madre enferma y compungida, el hijo estrechó sus manos callosas; sus dulces palabras de consuelo calmaron el desasosiego infundiendo calor a la estancia.
+  #2 | 在人生跌宕起伏的逆境征程中，来自亲友的一句真诚安慰，往往能够成为身处暗夜者重燃希望的微光。它传递的不仅是言语上的抚慰，更是人类灵魂深处守望相助的力量。 | Zài rénshēng diēdàng-qǐfú de nìjìng zhēngchéng zhōng, láizì qīnyǒu de yí jù zhēnchéng ānwèi, wǎngwǎng nénggòu chéngwéi shēnchǔ ànyè zhě chóngrán xīwàng de wēiguāng. Tā chuándì de bùjǐn shì yányǔ shàng de fǔwèi, gèng shì rénlèi línghún shēnchù shǒuwàng-xiāngzhù de lìliàng. | Amid life's bitter trials, a sincere word of comfort from kin or friend rekindles hope like a distant light, conveying soul-deep solidarity. | En los trances adversos de la existencia, un consuelo leal de amigos o parientes alumbra la noche íntima, transmitiendo el fraternal auxilio del alma.

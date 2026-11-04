@@ -1,0 +1,65 @@
+id: 17
+hanzi: 对方
+pinyin: duì fāng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: the other party; counterparty; opposite side; interlocutor; opponent
+  es: la otra parte; la contraparte; el interlocutor; el contrario; el adversario
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the opposite side, partner, counterparty, or opponent involved in a dialogue, negotiation, contest, or relationship | la otra parte o persona involucrada en un diálogo, negociación, litigio o contienda | 倾听对方 (listen to the other side)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 谈判桌上若想打破僵局达成双赢，关键在于能够站在对方的立场上权衡利弊，切实照顾对方的核心关切。 | Tánpànzhuō shàng ruò xiǎng dǎpò jiāngjú dáchéng shuāngyíng, guānjiàn zàiyú nénggòu zhàn zài duìfāng de lìchǎng shàng quánhéng lìbì, qièshí zhàogù duìfāng de héxīn guānqiè. | To break deadlocks and achieve win-win outcomes at the negotiation table, the key lies in standing in the other party's shoes and addressing their core concerns. | Para superar el bloqueo negociador y alcanzar un acuerdo fructífero, es vital ponerse en la piel de la otra parte y atender a sus inquietudes primordiales.
+  #2 | 老人与猴子虽分属不同物种，却在长久的互动中能够敏锐捕捉对方的眼神与情绪，展现出令人称奇的跨物种沟通默契。 | Lǎorén yǔ hóuzi suī fēnshǔ bùtóng wùzhǒng, què zài chángjiǔ de hùdòng zhōng nénggòu mǐnruì bǔzhuō duìfāng de yǎnshén yǔ qíngxù, zhǎnshì chū lìngrén-chēngqí de kuà-wùzhǒng gōutōng mòqì. | Though of different species, the elder and monkeys caught each other's glances and moods through interaction, displaying interspecies rapport. | Perteneciendo a especies distintas, el anciano y los monos captaban el sentir de la otra parte con la mirada, mostrando una complicidad admirable.
+
+collocations[6]{hanzi,en}:
+  站在对方角度 | stand in the other party's shoes
+  尊重对方 | respect the other party
+  了解对方 | understand the other side
+  对方辩友 | fellow debater on the opposing side
+  对方立场 | counterparty's stance or position
+  与对方沟通 | communicate with the other side
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  知己知彼 | zhī jǐ zhī bǐ | know yourself and know your enemy; mutual strategic insight
+  反客为主 | fǎn kè wéi zhǔ | reverse guest and host; seize the initiative from opponent
+  平分秋色 | píng fēn qiū sè | share the autumn scenery equally; tie or match each other
+  针锋相对 | zhēn fēng xiāng duì | diamond cut diamond; sharp mutual confrontation
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  对 | duì | opposite; facing; pair; correct | opuesto; frente a; par; correcto | 寸 | inch / hand rule | 又 (hand holding tool) | 寸 (cùn, hand measuring) | 5 | 左右结构 | Simplified from 對. Ancient pictogram of two hands 又 and 寸 holding ceremonial vessels opposite each other in mutual alignment. | Two measuring hands face each other directly across the table in mutual response and balance (对). | Dos manos que miden y pesan se miran frente a frente en mutua concordancia y equilibrio (对). | 51 | EI | 對
+  方 | fāng | square; direction; side; region | cuadrado; dirección; lado; región | 方 | square / directional flag | 方 (two crossed boats or handled plow) | "" | 4 | 单一结构 | Ancient bronze pictogram of two boats moored side-by-side or a rectangular square plow demarcating directions and territory. | A sturdy plow or moored boat faces a distinct quadrant, demarcating spatial direction and side (方). | El arado cuadrangular que delimita los campos traza un rumbo y señala una dirección o bando (方). | 55 | YHS | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Directly facing (对) the person standing in the opposite direction and quadrant (方) addresses the other party (对方).
+  composite_memory_hook_es: Mirar de frente (对) a quien ocupa la posición y rumbo opuestos (方) señala a la contraparte (对方).
+  cultural_and_cognitive_roots: In ancient Chinese diplomacy and chess, 对 denoted mutual facing alignment (对话, 对弈), while 方 denoted territorial cardinal quadrants (四方). Combined, 对方 refers to the conversational or contractual partner facing you in reciprocal relation.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by high level 1st tone: 'duì fāng' (51-55). Strike downward with 'duì', then glide into a sustained level pitch on 'fāng'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    寸 | cùn | inch; thumb | Lacks the 又 stroke on the left
+    讨 | tǎo | discuss; demand; punish | Has speech radical 讠 on the left instead of 又
+    万 | wàn | ten thousand | Has a straight top horizontal stroke with 刀 hook
+    才 | cái | talent; just now | Has vertical stroke with hook and downward slash
+    放 | fàng | release; put; let go | Has 攵 on the right of 方
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    对 | duì | face; opposite; correct
+    怼 | duì | resent; hate; push back
+    方 | fāng | square; direction; method
+    房 | fáng | room; house; building
+    仿 | fǎng | imitate; copy; resemble
+
+semantic_boundary_contrasts:
+  core_nuance: 对方 specifically identifies the distinct other individual or collective party involved in a mutual relationship or negotiation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 对方 vs. 别人 | biérén | 别人 is a generic third-person term for any unrelated other people ('others'), whereas 对方 refers specifically to the counterparty in the immediate interaction.
+    2 | 对方 vs. 人家 | rénjia | 人家 is colloquial, informal, and can refer coyly to oneself or to others, while 对方 is precise, objective, and formal.
+    3 | 对方 vs. 敌方 | dífāng | 对方 is neutral (partner, friend, client, or opponent), while 敌方 specifically denotes an antagonistic military or hostile enemy.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在人与人深度交往的过程中，真正的共情绝非浮于表面的客套，而是能够敏锐体察对方未曾言说的隐微心事。懂得在对方疲惫时递上一杯温水，在对方受挫时给予坚定的注视，这种设身处地的关怀最能抚慰人心。 | Zài rén yǔ rén shēndù jiāowǎng de guòchéng zhōng, zhēnzhèng de gòngqíng juéfēi fúyú-biǎomiàn de kètào, érshì nénggòu mǐnruì tǐchá duìfāng wèicéng yánshuō de yǐnwēi xīnshì. Dǒngdé zài duìfāng píbèi shí dìshàng yì bēi wēnshuǐ, zài duìfāng shòucuò shí jǐyǔ jiāndìng de zhùshì, zhè zhǒng shèshēn-chǔdì de guānhuái zuì néng fǔwèi rénxīn. | In deep human connections, empathy is not superficial etiquette, but perceiving the other's unspoken feelings. Handing warm water when they are tired and offering firm gazes when they stumble consoles hearts most deeply. | En el trato íntimo, la empatía auténtica trasciende la cortesía superficial para auscultar los desvelos mudos de la otra parte. Ofrecer agua en la fatiga y mirar con aliento en el traspié consuela hondamente el alma.
+  #2 | 在复杂的跨国商务谈判与争端调解中，善于探寻对方底线利益并积极构建利益共同点是达成和解的钥匙。双方只有秉持契约精神，在保障各自合法权益的同时充分照顾对方合理关切，才能签署互利共赢的经贸协议。 | Zài fùzá de kuàguó shāngwù tánpàn yǔ zhēngduān tiáojiě zhōng, shànyú tànxún duìfāng dǐxiàn lìyì bìng jījí gòujiàn lìyì gòngtóngdiǎn shì dáchéng héjiě de yàoshi. Shuāngfāng zhǐyǒu bǐngchí qìyuē jīngshén, zài bǎozhàng gèzì héfǎ quányì de tóngshí chōngfèn zhàogù duìfāng hélǐ guānqiè, cáinéng qiānshǔ hùlì-gòngyíng de jīngmào xiéyì. | In international negotiations, exploring counterparty bottom lines and building common ground unlocks consensus. Upholding contract spirit while honoring the other side's legitimate concerns yields win-win accords. | En la mediación comercial internacional, auscultar los límites de la contraparte y tender puentes es la llave del pacto. Salvaguardando los derechos mutuos sobre la buena fe contractual, se sellan alianzas de prosperidad compartida.

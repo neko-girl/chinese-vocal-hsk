@@ -5,6 +5,7 @@ Commands:
   status        Check generation progress and pending words for a chapter
   validate      Validate schema compliance of .toon files
   build         Compile .toon files into web datasets (data.json & data.js)
+  audio         Generate native Chinese audio using MiniMax TTS across 4 voices
   new-chapter   Scaffold a new chapter folder with vocabulary source
   prompt        Generate agent-ready prompt for a batch of words
   generate      Run batch generator scripts for a chapter
@@ -22,6 +23,8 @@ import socketserver
 
 from core.toon_validator import validate_chapter, validate_toon_file
 from core.compiler import compile_chapter, compile_all
+from core.audio_generator import generate_chapter_audio, VOICE_CONFIGS
+
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 
@@ -297,6 +300,32 @@ def cmd_generate(args):
     print(f"Executing: {' '.join(cmd)}")
     return subprocess.call(cmd)
 
+def cmd_audio(args):
+    """Generate native Chinese audio using MiniMax TTS API across 4 voices."""
+    voice_list = [v.strip() for v in args.voices.split(",")] if args.voices else None
+    item_list = [it.strip() for it in args.items.split(",")] if args.items else None
+
+    if args.chapter is not None:
+        target_dirs = [get_chapter_dir(args.chapter)]
+    else:
+        target_dirs = list_all_chapter_dirs()
+
+    if not target_dirs:
+        print("No chapters found in chapters/ directory.")
+        return 1
+
+    for cdir in target_dirs:
+        generate_chapter_audio(
+            chapter_dir=cdir,
+            voices=voice_list,
+            item_types=item_list,
+            word_filter=args.word,
+            dry_run=args.dry_run,
+            force=args.force,
+            delay=args.delay
+        )
+    return 0
+
 def cmd_serve(args):
     """Start local preview HTTP server."""
     port = args.port or 8000
@@ -329,6 +358,16 @@ def main():
     p_build = subparsers.add_parser("build", help="Compile .toon files into JSON datasets & manifest")
     p_build.add_argument("--chapter", "-c", type=int, help="Chapter number (default: all)")
 
+    # audio
+    p_audio = subparsers.add_parser("audio", help="Generate Chinese audio using MiniMax TTS API (4 voices)")
+    p_audio.add_argument("--chapter", "-c", type=int, help="Chapter number (default: all)")
+    p_audio.add_argument("--word", "-w", type=int, help="Specific word ID (e.g. 1)")
+    p_audio.add_argument("--voices", "-v", type=str, help="Comma-separated voices: mature_woman,soothing_host,office_man,tender_ceo")
+    p_audio.add_argument("--items", "-i", type=str, help="Comma-separated item types: headword,sentence,collocation,idiom,passage,char")
+    p_audio.add_argument("--dry-run", action="store_true", help="Preview planned generation without calling API")
+    p_audio.add_argument("--force", "-f", action="store_true", help="Overwrite existing audio files")
+    p_audio.add_argument("--delay", type=float, default=0.25, help="Delay between API calls in seconds (default: 0.25)")
+
     # new-chapter
     p_new = subparsers.add_parser("new-chapter", help="Scaffold a new chapter directory")
     p_new.add_argument("number", type=int, help="Chapter number (e.g. 2)")
@@ -358,6 +397,7 @@ def main():
         "status": cmd_status,
         "validate": cmd_validate,
         "build": cmd_build,
+        "audio": cmd_audio,
         "new-chapter": cmd_new_chapter,
         "prompt": cmd_prompt,
         "generate": cmd_generate,

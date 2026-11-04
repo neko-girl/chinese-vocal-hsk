@@ -1,0 +1,66 @@
+id: 3
+hanzi: 固定
+pinyin: gù dìng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: fixed; regular; settled; stationary; to fasten; to immobilize
+  es: fijo; regular; estacionario; inmutable; sujetar; inmovilizar; afianzar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | firmly established, settled, stationary, or unvarying; unchanging | firmemente establecido, invariable, estacionario o constante | 固定的格式 (fixed format)
+  2 | Verb | Standard | to fasten, anchor, bind, or secure something in place so it cannot move | sujetar, afianzar, fijar o inmovilizar algo en una posición fija | 固定帐篷 (fasten the tent)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 汉语成语大多拥有经过数千年锤炼而形成的固定结构，通常不能凭个人喜好随意增减或替换字词。 | Hànyǔ chéngyǔ dàduō yǒngyǒu jīngguò shù qiān nián chuíliàn ér xíngchéng de gùdìng jiégòu, tōngcháng bùnéng píng gèrén xǐhào suíyì zēngjiǎn huò tìhuàn zìcí. | Most Chinese idioms possess fixed structures forged over millennia, and usually cannot be casually altered or substituted at personal whim. | La mayoría de los modismos chinos poseen una estructura fija forjada a lo largo de milenios, que no debe alterarse ni sustituirse al capricho personal.
+  #2 | 为了确保高空作业安全，施工人员用多根高强度钢丝绳将脚手架牢牢固定在坚固的混凝土主梁上。 | Wèile quèbǎo gāokōng zuòyè ānquán, shīgōng rényuán yòng duō gēn gāoxiàngdù gāngsīshéng jiāng jiǎoshǒujià láoláo gùdìng zài jiāngù de hùnníngtǔ zhǔliáng shàng. | To ensure safety during high-altitude operations, workers securely fastened the scaffolding to concrete girders with steel cables. | Para garantizar la seguridad en andamios de gran altura, los operarios sujetaron la estructura a la viga maestra de hormigón con recios cables de acero.
+
+collocations[6]{hanzi,en}:
+  固定结构 | fixed structure or formula
+  固定资产 | fixed assets (accounting)
+  固定收入 | fixed income
+  牢牢固定 | securely fasten or anchor
+  固定时间 | fixed or regular time
+  固定住所 | permanent or fixed residence
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  坚固耐用 | jiān gù nài yòng | solid, sturdy, and durable
+  根深蒂固 | gēn shēn dì gù | deep-rooted and firmly entrenched
+  固若金汤 | gù ruò jīn tāng | solidly fortified like an iron bastion
+  定海神针 | dìng hǎi shén zhēn | magical needle calming the ocean; stabilizing anchor
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  固 | gù | solid; firm; sturdy; stubborn | sólido; firme; terco; fortificar | 口 | mouth / enclosure | 囗 (protective fortress walls) | 古 (gǔ, ancient / ancient shield) | 8 | 全包围结构 | Ancient pictogram showing an ancient fortress wall 囗 reinforced by ancient shields 古, representing unbending solidity. | Ancient traditions and weapons (古) protected securely behind city enclosure walls (囗) remain firm and solid (固). | El saber y los escudos de los antiguos (古) guarnecidos tras las murallas (囗) permanecen firmes e inmutables (固). | 51 | WJR | 
+  定 | dìng | settle; fix; calm; establish | fijar; asentar; aquietar; decidir | 宀 | roof / shelter | 宀 (sheltering roof) | 疋 (zhèng, foot planted still) | 8 | 上下结构 | Ancient pictogram of a foot 疋 stepping into a peaceful home 宀 and standing still without moving. | Resting one's feet securely inside a peaceful sheltered room (宀) brings fixed calm and repose (定). | Asentar las plantas de los pies bajo el reposo del hogar (宀) afianza el equilibrio y sosiega el rumbo (定). | 51 | JMHO | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Enclosing something behind ancient walls (固) beneath a sturdy domestic roof (定) locks it in place as fixed and permanent (固定).
+  composite_memory_hook_es: Proteger algo tras sólidas murallas (固) bajo el cobijo de un techo firme (定) lo deja sujeto e inmutable (固定).
+  cultural_and_cognitive_roots: In ancient architectural and ritual engineering, 固定 represented physical anchoring that resisted the shifting forces of floods and wind. In language, it embodies the grammatical stabilization of lexicalized chunks that resist ad-hoc mutation.
+  tone_sandhi_and_pitch_modulation: Dual falling 4th tones: 'gù dìng' (51-51). Articulate both syllables with firm, crisp, descending pitch.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    因 | yīn | cause; reason | Has 大 inside 囗 instead of 古
+    困 | kùn | trapped; sleepy | Has 木 (tree) inside 囗 instead of 古
+    国 | guó | country; nation | Has 玉 (jade) inside 囗 instead of 古
+    锭 | dìng | ingot; spindle | Has metal radical 钅 on the left next to 定
+    啶 | dìng | chemical suffix | Has mouth radical 口 on the left next to 定
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    锢 | gù | confine; cast metal; imprison
+    涸 | hé | dry up; exhausted water
+    涸辙之鲋 | hézhézhīfù | carp in a dry rut
+    锭 | dìng | silver/gold ingot
+    碇 | dìng | ship stone anchor
+
+semantic_boundary_contrasts:
+  core_nuance: 固定 expresses spatial stability, unchanging constancy, or deliberate physical tethering in contrast with fluid motion.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 固定 vs. 稳定 | wěndìng | 固定 means unchanging, stationary, or physically bolted down (固定结构, 固定资产), whereas 稳定 means steady, balanced, and free from violent fluctuation or crisis (社会稳定, 情绪稳定).
+    2 | 固定 vs. 确定 | quèdìng | 固定 emphasizes remaining unaltered and stationary, whereas 确定 emphasizes making a definite verification or arriving at certainty.
+    3 | 固定 vs. 流动 | liúdòng | Direct antonym: 固定 is static and permanent (固定资金), while 流动 is mobile, shifting, and liquid (流动人口, 流动资产).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 世界上没有一成不变的事物，看似固定的山川河岳，在漫长的地质岁月中也经历着沧海桑田的变迁。真正成熟的智慧，是在变化中寻找确定性，在固定的法则与灵活的变通之间找到平衡，从而保持内心的丰盈与从容。 | Shìjiè shàng méiyǒu yìchéng-búbiàn de shìwù, kànsì gùdìng de shānchuān-héyuè, zài màncháng de dìzhì suìyuè zhōng yě jīnglì zhe cānghǎi-sāngtián de biànqiān. Zhēnzhèng chéngshú de zhìhuì, shì zài biànhuà zhōng xúnzhǎo quèdìngxìng, zài gùdìng de fǎzé yǔ línghuó de biàntōng zhījiān zhǎodào pínghéng, cóng'ér bǎochí nèixīn de fēngyíng yǔ cóngróng. | Nothing is permanent; mountains that appear fixed undergo epochal shifts over geological eras. Mature wisdom finds certainty amid flux, balancing fixed principles and flexible adaptations to sustain inner poise. | Nada en el mundo es inmutable; las cordilleras que parecen eternas sufren mudanzas profundas a lo largo de las eras. La sabiduría madura halla la certeza en el cambio, equilibrando las normas fijas con la flexibilidad para preservar la paz del alma.
+  #2 | 在现代企业管理制度建设中，固定的组织架构必须辅以敏捷高效的跨部门协同机制。面对日新月异的技术变革与市场波动，适时打破僵化的固定壁垒，能够有效激发基层员工的主观能动性与创新创造活力。 | Zài xiàndài qǐyè guǎnlǐ zhìdù jiànshè zhōng, gùdìng de zǔzhī jiàgòu bìxū fǔyǐ mǐnjié gāoxiào de kuà-bùmén xiétóng jīzhì. Miànduì rìxīn-yuèyì de jìshù biàngé yǔ shìchǎng bōdòng, shìshí dǎpò jiānghuà de gùdìng bìlěi, nénggòu yǒuxiào jīfā jīcéng yuángōng de zhǔguān néngdòngxìng yǔ chuàngxīn chuàngzào huólì. | In modern management, fixed structures must be coupled with agile cross-departmental mechanisms. Facing rapid tech changes, breaking rigid institutional walls liberates grassroots initiative and creative vitality. | En la gestión corporativa moderna, el organigrama fijo debe articularse con dinámicas ágiles de colaboración. Ante el vertiginoso ritmo de la innovación, flexibilizar las estructuras rígidas desata la creatividad y el talento de los empleados.

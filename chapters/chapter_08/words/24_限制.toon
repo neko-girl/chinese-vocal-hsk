@@ -1,0 +1,66 @@
+id: 24
+hanzi: 限制
+pinyin: xiàn zhì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to restrict; to limit; to constrain; restriction; boundary
+  es: restringir; limitar; acotar; restricción; límite; condicionamiento
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to set boundaries or impose conditions to prevent something from exceeding a predetermined scope or quantity | fijar límites o imponer condiciones para impedir que algo sobrepase un umbral prefijado | 限制人数 (limit the number of people)
+  2 | Noun | Standard | a condition, regulation, or boundary that sets bounds on actions, rights, or freedoms | norma, condición o frontera reglamentaria que acota las acciones o facultades | 年龄限制 (age restriction)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 由于古建筑承载能力有限，景区管理部门决定严格限制每日进入景区的游客数量。 | Yóuyú gǔjiànzhù chéngzài nénglì yǒuxiàn, jǐngqū guǎnlǐ bùmén juédìng yángé xiànzhì měirì jìnrù jǐngqū de yóukè shùliàng. | Due to the limited load capacity of the ancient architecture, scenic area management decided to strictly limit the daily number of visiting tourists. | Dada la capacidad de carga del conjunto histórico, la dirección del parque decidió restringir con rigor el número diario de visitantes.
+  #2 | 真正有生命力的文艺创作应当突破陈规陋习的限制，在广阔的生活沃土中汲取灵感、勇于探索未知。 | Zhēnzhèng yǒu shēngmìnglì de wényì chuàngzuò yīngdāng tūpò chéngguī-lòuxí de xiànzhì, zài guǎngkuò de shēnghuó wòtǔ zhōng jíqǔ línggǎn, yǒngyú tànsuǒ wèizhī. | Truly vital artistic creation must break through the restrictions of rigid conventions, drawing inspiration from rich soils of life to explore the unknown. | La creación artística vigorosa debe romper las restricciones de los viejos moldes y beber de la savia viva de la realidad para explorar lo inédito.
+
+collocations[6]{hanzi,en}:
+  受到限制 | be subject to restrictions; be limited
+  严格限制 | strictly restrict; impose severe limits
+  年龄限制 | age restriction; age limit
+  放宽限制 | ease restrictions; relax limits
+  时间限制 | time limit; time constraint
+  突破限制 | break through restrictions; surpass limits
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  划地为牢 | huà dì wéi láo | draw a circle on the ground as a prison; set rigid restrictions on oneself
+  受制于人 | shòu zhì yú rén | be controlled by others; fall under someone else's sway
+  规行矩步 | guī xíng jǔ bù | adhere strictly to rules and compass; act cautiously
+  拘泥于法 | jū nì yú fǎ | cling blindly to rigid rules; overly bound by regulations
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  限 | xiàn | limit; boundary; threshold | límite; confín; frontera | 阝 | mound / hill | 阝 (steep mountain barrier) | 艮 (gèn, obstinate / limit) | 8 | 左右结构 | Phono-semantic character where mound radical 阝 depicts an impassable mountain ridge blocking passage, and 艮 denotes stopping. | A steep mountain barrier (阝) halts travelers, marking the impassable geographic limit and boundary (限). | Una cresta montañosa escarpada (阝) detiene el paso a los caminantes, marcando la frontera y el límite (限) insalvable. | 51 | NLAV | 
+  制 | zhì | regulate; restrict; establish | regular; pautar; gobernar; controlar | 刂 | knife / cut | 刂 (cutting knife trimming excess) | 未 (branching tree) | 8 | 左右结构 | Ancient character showing a sharp pruning knife 刂 trimming branches and cattle hides to prescribed legal dimensions, signifying regulation and restraint. | A sharp knife (刂) trims away wild growth to fit established forms, regulating and keeping actions in check (制). | Un cuchillo afilado (刂) poda las ramas desmandadas para ajustarlas a la norma, regulando y conteniendo los excesos (制). | 51 | HNLL | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A mountain barrier marking boundaries (限) trimmed into strict discipline by the law's knife (制) establishes authoritative limits and restrictions (限制).
+  composite_memory_hook_es: La barrera montañosa que frena el paso (限) esculpida con el cuchillo regulador (制) define los límites y las restricciones (限制).
+  cultural_and_cognitive_roots: In Chinese legalist philosophy (法家: 商鞅、韩非子), 'zhì' (制) signifies the supreme institutional instruments and statutes through which sovereign rulers regulate behavior, balance competing interests, and prevent transgression.
+  tone_sandhi_and_pitch_modulation: Double falling 4th tones: 'xiàn zhì' (51-51). Pronounce both syllables with firm, emphatic, downward vocal trajectories without slurring.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    恨 | hèn | hate; regret | Has heart radical 忄 on the left instead of mound 阝
+    很 | hěn | very; quite | Has step radical 彳 on the left instead of mound 阝
+    根 | gēn | root; base | Has wood radical 木 on the left instead of mound 阝
+    刺 | cì | thorn; stab; prick | Left component is 朿 instead of 制's left side
+    刻 | kè | carve; quarter hour; harsh | Left component is 亥 instead of 制's left side
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    限 | xiàn | limit; boundary; threshold
+    界 | jiè | boundary; border; scope
+    制 | zhì | regulate; make; system; rule
+    裁 | cái | cut; trim; judge; rule
+    控 | kòng | control; restrain; charge
+
+semantic_boundary_contrasts:
+  core_nuance: 限制 focuses on bounding scope or setting ceilings to prevent actions or quantities from exceeding bounds.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 限制 vs. 约束 | yuēshù | 限制 refers to objective caps, bounds, or rules (限制消费, 限制车速), whereas 约束 emphasizes self-discipline or moral and contractual binding forces (自我约束).
+    2 | 限制 vs. 禁止 | jìnzhǐ | 限制 allows activity within defined limits or allowances, whereas 禁止 completely outlaws or forbids the activity altogether.
+    3 | 限制 vs. 控制 | kòngzhì | 限制 sets an outer ceiling or perimeter, while 控制 involves active, dynamic operational mastery and continuous steering over a process.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对连日干旱造成的蓄水告急，城市供水部门不得不对部分工业企业的分段用水施加临时限制。尽管面临产能调整的困难，各方依然积极配合，共同守护整座城市的生命用水线。 | Miànduì liánrì gànhàn zàochéng de xùshuǐ gàojí, chéngshì gōngshuǐ bùmén bùdébù duì bùfen gōngyè qǐyè de fēnduàn yòngshuǐ shījiā línshí xiànzhì. Jǐnguǎn miànlín chǎnnéng tiáozhěng de kùnnan, gèfāng yīrán jījí pèihé, gòngtóng shǒuhù zhěng zuò chéngshì de shēngmìng yòngshuǐxiàn. | Facing depleted water reserves from prolonged drought, city utilities imposed temporary limits on industrial water usage. Despite operational challenges, all parties cooperated to safeguard lifeline supplies. | Ante el agotamiento de los embalses por la sequía, el suministro urbano impuso restricciones de agua a la industria. Pese a las dificultades, todos cooperaron para velar por el recurso vital de la ciudad.
+  #2 | 任何真正的自由都必须建立在规则与法律的限制之上，没有边界的任性终将导致混乱与失序。唯有在合理的社会规范框架内行使权利，才能兼顾个人发展与公共福祉的持久平衡。 | Rènhé zhēnzhèng de zìyóu dōu bìxū jiànlì zài guīzé yǔ fǎlǜ de xiànzhì zhīshàng, méiyǒu biānjiè de rènxìng zhōngjiāng dǎozhì hùnluàn yǔ shīxù. Wéiyǒu zài hélǐ de shèhuì guīfàn kuàngjià nèi xíngshǐ quánlì, cáinéng jiāngù gèrén fāzhǎn yǔ gōnggòng fúzhǐ de chíjiǔ pínghéng. | True freedom must rest upon constraints of rules and laws; boundless indulgence ultimately leads to chaos. Only exercising rights within rational social norms balances individual progress and public good. | La verdadera libertad se asienta sobre los límites de las leyes; el arbitrio sin barreras desemboca en el caos. Solo ejerciendo los derechos bajo normas colectivas se armoniza el bienestar individual y social.

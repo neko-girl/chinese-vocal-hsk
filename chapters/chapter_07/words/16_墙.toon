@@ -1,0 +1,64 @@
+id: 16
+hanzi: 墙
+pinyin: qiáng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: wall; vertical masonry structure; barrier; partition
+  es: pared; muro; muralla; tabique; barrera arquitectónica
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a vertical masonry or wooden structure enclosing or dividing an area of land or a building | estructura vertical de ladrillo, piedra o madera que delimita o sostiene un edificio | 白色的墙壁 (white walls)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 祖父在老院子的砖墙上种植了绿意盎然的爬山虎，夏天给整间屋子带来宜人的凉爽。 | Zǔfù zài lǎoyuànzi de zhuānqiáng shàng zhòngzhí le lǜyì-àngrán de páshānhǔ, xiàtiān gěi zhěng jiān wūzi dàilái yírén de liángshuǎng. | Grandfather planted lush green ivy along the old courtyard's brick wall, bringing pleasant coolness to the whole house in summer. | El abuelo plantó hiedra verde sobre el muro de ladrillo del viejo patio, refrescando gratamente toda la estancia en verano.
+  #2 | 摸象寓言中那位摸到象身的盲人笃信大象是一堵坚不可摧的墙，生动折射出偏听偏信的认知迷局。 | Mō xiàng yùyán zhōng nà wèi mōdào xiàng shēn de mángrén dǔxìn dàxiàng shì yì dǔ jiānbùkěcuī de qiáng, shēngdòng zhéshè chū piāntīng-piānxìn de rènzhī míjú. | In the fable, the blind man who touched the body believed the elephant was an impregnable wall, reflecting the cognitive trap of partial impressions. | En la fábula, el ciego que rozó el cuerpo del animal juró que era un muro infranqueable, reflejando el laberinto cognitivo de juzgar por impresiones parciales.
+
+collocations[6]{hanzi,en}:
+  一堵墙 | a wall (classifier: 堵 / 面)
+  墙壁洁白 | spotless white walls
+  翻过围墙 | scale or climb over a perimeter wall
+  城墙高大 | towering city fortress wall
+  墙角花草 | flowers and plants in the corner of a wall
+  隔墙有耳 | walls have ears; eavesdropping
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  隔墙有耳 | gé qiáng yǒu ěr | walls have ears; beware of eavesdroppers
+  铜墙铁壁 | tóng qiáng tiě bì | bronze wall and iron bastion; an impenetrable defense
+  祸起萧墙 | huò qǐ xiāo qiáng | trouble originates from within one's own screen wall; internal strife
+  撞墙回头 | zhuàng qiáng huí tóu | turn back only after hitting a brick wall; stubborn until blocked
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  墙 | qiáng | wall; enclosure; barrier | pared; muro; muralla | 土 | earth / soil | 土 (rammed earth, adobe masonry) | 啬 (sè, granary storage / miserly) | 14 | 左右结构 | Simplified from 墻/牆. Ancient pictogram of earthen soil 土 packed around granaries 啬 to protect harvests and domestic boundaries. | Rammed earth and clay (土) stacked high to guard stored grain inside granaries creates a solid wall (墙). | Tierra apisonada y arcilla (土) levantadas para proteger las reservas de grano forman un muro sólido (墙). | 35 | GGIW | 牆
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Packing rammed earth (土) firmly around stored granaries creates a protective barrier and domestic wall (墙).
+  composite_memory_hook_es: Apisonar tierra y barro (土) alrededor de las provisiones crea un muro protector inexpugnable (墙).
+  cultural_and_cognitive_roots: In traditional Chinese vernacular architecture, rammed-earth walls (夯土墙) sheltered courtyards (四合院) and delineated sacred domestic boundaries from external disorder. Walls also served defense (万里长城), symbolizing both physical security and cognitive barriers.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'qiáng' (35). The pitch ascends smoothly and clearly without wavering.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    蔷 | qiáng | rose; multiflora | Has grass radical 艹 above 啬
+    啬 | sè | stingy; parsimonious | Lacks the earth radical 土 on the left
+    场 | chǎng | open field; threshing floor | Has 𠃓 on the right instead of 啬
+    坊 | fāng | neighborhood lane; workshop | Has 方 on the right instead of 啬
+    堵 | dǔ | block; classifier for walls | Has 者 on the right instead of 啬
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    蔷 | qiáng | multiflora rose (蔷薇)
+    樯 | qiáng | mast of a sailboat
+    啬 | sè | parsimonious; stingy
+    垣 | yuán | low boundary wall
+    壁 | bì | steep cliff; interior wall
+
+semantic_boundary_contrasts:
+  core_nuance: 墙 is the universal word for vertical dividing walls and boundary fences, concrete or metaphorical.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 墙 vs. 壁 | bì | 墙 is the common standalone noun for any indoor or outdoor wall, whereas 壁 is a formal morpheme often describing sheer precipices (绝壁) or interior lining surfaces (壁纸, 隔壁).
+    2 | 墙 vs. 栏杆 | lángān | 墙 is a solid opaque structural masonry mass, while 栏杆 is a waist-high open protective railing or balustrade.
+    3 | 墙 vs. 屏风 | píngfēng | 墙 is a permanent architectural load-bearing or enclosing structure, whereas 屏风 is a lightweight movable decorative folding screen.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 斑驳古旧的青砖墙上，岁月的风雨雕刻出沧桑的痕迹。几株野草顽强地从墙缝中探出新绿，在微风中轻轻摇曳。这堵沉默的老墙宛如一位阅尽千帆的长者，在时光深处无声守候着历史的沧海桑田。 | Bānbó gǔjiù de qīngzhuānqiáng shàng, suìyuè de fēngyǔ diāokè chū cāngsāng de hénjì. Jǐ zhū yěcǎo wánqiáng de cóng qiángfèng zhōng tànchū xīnlǜ, zài wēifēng zhōng qīngqīng yáoyè. Zhè dǔ chénmò de lǎoqiáng wǎnrú yí wèi yuèjìn-qiānfān de zhǎngzhě, zài shíguāng shēnchù wúshēng shǒuhòu zhe lìshǐ de cānghǎi-sāngtián. | Upon mottled antique blue brick walls, passing years carved traces of vicissitude. Wild grasses poke tenaciously through mortar cracks, swaying gently in the breeze. This silent wall stands like an elder who has witnessed thousands of sails, silently cradling the epochal changes of history. | Sobre el viejo muro de ladrillos azulados, el viento y la lluvia tallaron huellas de añoranza. Briznas de hierba silvestre asoman tercas entre las grietas mecidas por la brisa. Este añoso muro en silencio asemeja a un sabio anciano que custodia el fluir callado de los siglos.
+  #2 | 在全球化深入发展的今天，国与国之间应当打破贸易壁垒与心理隔阂，多修沟通的桥梁，少筑排他的高墙。唯有坚持开放包容与合作共赢，才能凝聚应对全球性挑战的强大合力，共同开创人类美好的未来。 | Zài quánqiúhuà shēnrù fāzhǎn de jīntiān, guó yǔ guó zhījiān yīngdāng dǎpò màoyì bìlěi yǔ xīnlǐ géhé, duō xiū gōutōng de qiáoliáng, shǎo zhù páitā de gāoqiáng. Wéiyǒu jiānchí kāifàng bāoróng yǔ hézuò gòngyíng, cáinéng níngjù yìngduì quánqiúxìng tiǎozhàn de qiángdà hélì, gòngtóng kāichuàng rénlèi měihǎo de wèilái. | In today's interconnected global landscape, nations should dismantle trade barriers and psychological divides, building bridges of dialogue instead of exclusive high walls. Openness, inclusivity, and mutual benefit alone unite strength against planetary crises. | En el mundo globalizado de hoy, los países han de derribar barreras arancelarias y muros de recelo psicológico, tendiendo puentes de entendimiento. Solo la apertura integradora y el beneficio compartido concitarán voluntades firmes para afrontar los retos globales y abrir un futuro venturoso.

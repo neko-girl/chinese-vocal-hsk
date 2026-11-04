@@ -1,0 +1,64 @@
+id: 25
+hanzi: 猪
+pinyin: zhū
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: pig; swine; hog; domestic porker
+  es: cerdo; puerco; chancho; marrano
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a stout cloven-hoofed domestic mammal (Sus scrofa domesticus) with a short tail and snouted head, raised widely for meat | mamífero doméstico omnívoro y artiodáctilo de hocico chato y cola corta, criado comúnmente para carne | 养猪 (raise pigs / swine farming)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 爷爷在后院的小圈里圈养了两头小肥猪，每天清晨天刚蒙蒙亮就准时起来拌糠喂食。 | Yéye zài hòuyuàn de xiǎo quān lǐ quānyǎng le liǎng tóu xiǎo féizhū, měitiān qīngchén tiān gāng méngméngliàng jiù zhǔnshí qǐlái bànkāng wèishí. | Grandpa raised two plump piglets in a pen in the backyard, getting up promptly at dawn every morning to mix bran and feed them. | El abuelo criaba dos cerditos cebados en el corral trasero, y al clarear el día ya estaba en pie para mezclar el salvado y darles de comer.
+  #2 | 在现代生态循环农业示范园中，猪舍排出的废弃物经过高效沼气池发酵处理，既净化了环境又为温室大棚提供了优质有机肥料。 | Zài xiàndài shēngtài xúnhuán nóngyè shìfànyuán zhōng, zhūshè páichū de fèiqìwù jīngguò gāoxiào zhǎoqìchí fājiào chǔlǐ, jì jìnghuà le huánjìng yòu wèi wēnshì dàpéng tígōng le yōuzhì yǒujī féiliào. | In the modern eco-circular agriculture park, waste from pigpens is fermented in biogas digesters, purifying the environment and supplying organic fertilizer for greenhouses. | En el parque de economía circular moderna, los efluentes de las pocilgas se fermentan en biodigestores, saneando el entorno y rindiendo fertilizantes orgánicos para los invernaderos.
+
+collocations[6]{hanzi,en}:
+  生猪养殖 | live hog breeding; swine farming
+  野猪出没 | wild boars frequenting; wild boar sighting
+  一头肥猪 | a fat pig; a plump hog
+  猪肉价格 | pork price; market cost of pork
+  猪圈清洁 | cleaning pigpens; sty hygiene
+  养猪专业户 | specialized swine farmer; pig farming household
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  猪朋狗友 | zhū péng gǒu yǒu | disreputable friends; fair-weather drinking companions
+  杀猪宰羊 | shā zhū zǎi yáng | slaughter pigs and sheep; prepare lavish celebratory feast
+  泥猪瓦狗 | ní zhū wǎ gǒu | clay pig and pottery dog; utterly useless objects
+  牧猪奴戏 | mù zhū nú xì | gambling dice games; pastimes of low rogues
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  猪 | zhū | pig; swine; hog | cerdo; puerco; chancho | 犭 | dog / beast | 犭 (four-legged beast) | 者 (zhě, person / phonetic) | 11 | 左右结构 | Simplified from 豬. Phono-semantic compound where animal radical 犭 (originally 豕) indicates a domestic beast, and 者 supplies sound. | A stout domestic four-legged beast (犭) tended diligently by the farmer (者) grows into a plump pig (猪). | Una bestia cuadrúpeda doméstica (犭) cebada a diario por el aldeano (者) engorda hasta convertirse en cerdo (猪). | 55 | KHJA | 豬
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The beast radical (犭) next to person (者) depicts the loyal farm animal raised with care: the pig (猪).
+  composite_memory_hook_es: La fiera doméstica (犭) al lado del criador (者) retrata al lechón cebado en la granja: el cerdo (猪).
+  cultural_and_cognitive_roots: The pig (猪) is the twelfth and final animal of the Chinese Zodiac (生肖), symbolizing contentment, earthly prosperity, and good fortune. In traditional rural culture, slaughtering a fat pig for Chinese New Year (杀年猪) was the festive peak of communal celebration.
+  tone_sandhi_and_pitch_modulation: High-level 1st tone: 'zhū' (55). Sound with a steady, clear, elevated pitch from start to end without falling.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    诸 | zhū | various; all; many | Has speech radical 讠 on the left instead of beast 犭
+    煮 | zhǔ | boil; cook | Has four fire dots 灬 at bottom instead of beast 犭
+    猎 | liè | hunt; chase | Right side is 昔 with 豕/犭, different structure
+    猫 | māo | cat | Has 苗 on the right instead of 者
+    猛 | měng | fierce; ferocious | Has 孟 on the right instead of 者
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    猪 | zhū | pig; hog; swine
+    豕 | shǐ | pig; boar (classical radical)
+    豚 | tún | sucking piglet; pork
+    彘 | zhì | swine; hog (classical)
+    家 | jiā | home; family (pig 豕 under roof 宀)
+
+semantic_boundary_contrasts:
+  core_nuance: 猪 specifically refers to the biological animal Sus scrofa domesticus or its culinary meat source.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 猪 vs. 野猪 | yězhū | 猪 refers to the domesticated farm pig, whereas 野猪 specifically designates the wild boar with tusks living in natural forests.
+    2 | 猪 vs. 猪肉 | zhūròu | 猪 refers to the living animal or species, while 猪肉 denotes the butchered meat prepared for culinary consumption.
+    3 | 猪 vs. 豚 | tún | 猪 is the universal modern word for swine, whereas 豚 is an archaic or classical term for piglet, surviving in fixed words like 海豚 (dolphin) or 河豚 (pufferfish).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 乡村腊月里最热闹的民俗莫过于杀年猪。四邻乡亲聚在热气腾腾的场院边谈笑风生，女人们忙着灌香肠、炖大锅粉条，满院弥漫着丰衣足食、期盼阖家团圆的年味。 | Xiāngcūn làyuè lǐ zuì rènao de mínsú mòguò yú shā niánzhū. Sìlín xiāngqīn jù zài rèqì-téngténg de chǎngyuàn biān tánxiào-fēngshēng, nǚrénmen máng zhe guàn xiāngcháng, dùn dàguō fěntiáo, mǎnyuàn mímàn zhe fēngyī-zúshí, qīpàn héjiā tuányuán de niánwèi. | In the village's twelfth lunar month, the liveliest custom is slaughtering the New Year pig. Neighbors gather amid steaming kettles making sausages, filling the yard with aromas of abundance. | En el duodécimo mes lunar, la matanza del cerdo del Año Nuevo llena de alborozo la aldea. Los vecinos charlan entre calderos humeantes preparando embutidos, envueltos en aromas de prosperidad.
+  #2 | 在华夏农耕历史上，六畜兴旺历来被视为国泰民安的重要标志。作为十二生肖的压轴之属，憨态可掬的生猪不仅是农家最踏实的财富积累，也承载着风调雨顺、五谷丰登的美好寄托。 | Zài Huáxià nónggēng lìshǐ shàng, liùchù xīngwàng lìlái bèi shìwéi guótài-mín'ān de zhòngyào biāozhì. Zuòwéi shí'èr shēngxiào de yāzhóu zhī shǔ, hāntài-kějū de shēngzhū bùjǐn shì nóngjiā zuì tàshi de cáifù jīlěi, yě chéngzài zhe fēngtiáo-yǔshùn, wǔgǔ-fēngdēng de měihǎo jìtuō. | In Chinese agrarian history, thriving livestock symbolized national peace. As the final zodiac sign, the genial pig was not only a farmer's wealth, but a beacon of plentiful harvests. | En la historia agraria de China, la crianza próspera del ganado representaba la paz social. Como broche del zodiaco, el noble cerdo encarnaba el ahorro campesino y el anhelo de cosechas colmadas.

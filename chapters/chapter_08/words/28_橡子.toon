@@ -1,0 +1,65 @@
+id: 28
+hanzi: 橡子
+pinyin: xiàng zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: acorn; oak nut; fruit of the oak tree
+  es: bellota; fruto del roble o de la encina
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the oval, smooth-shelled nut of the oak tree, enclosed at the base in a woody cupule, eaten by squirrels, monkeys, and wild boars | fruto ovalado del roble o encina con corteza dura y cúpula leñosa, alimento de ardillas, monos y jabalíes | 捡橡子 (gather acorns / pick up acorns)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 深秋时节，几只机灵的灰松鼠忙着在栎树林里穿梭，把掉落在落叶堆里的橡子悄悄埋进土里以备过冬。 | Shēnqiū shíjié, jǐ zhī jīling de huīsōngshǔ máng zhe zài lìshùlín lǐ chuānsuō, bǎ diàoluò zài luòyèduī lǐ de xiàngzi qiāoqiāo mái jìn tǔ lǐ yǐ bèi guòdōng. | In late autumn, several agile squirrels scurried through the oak grove, busily burying fallen acorns beneath leaf piles for winter. | En el otoño tardío, varias ardillas correteaban por el robledal enterrando con premura las bellotas caídas entre la hojarasca para pasar el invierno.
+  #2 | 在庄子所记载的“朝三暮四”经典寓言中，养猴老人正是巧妙利用早晚分发橡子数量的变化，平息了群猴的愤怒。 | Zài Zhuāngzǐ suǒ jìzǎi de "zhāosān-mùsì" jīngdiǎn yùyán zhōng, yǎnghóu lǎorén zhèngshì qiǎomiào lìyòng zǎowǎn fēnfā xiàngzi shùliàng de biànhuà, píngxī le qúnhóu de fènnù. | In the classic Zhuangzi fable "Zhao San Mu Si", the monkey keeper subtly adjusted the morning and evening acorn distribution to pacify the troupe. | En la célebre fábula del Zhuangzi sobre "tres por la mañana y cuatro por la noche", el anciano calmó a los monos cambiando el reparto diario de bellotas.
+
+collocations[6]{hanzi,en}:
+  捡橡子 | gather acorns; pick up oak nuts
+  满地橡子 | acorns scattered all over the ground
+  坚硬的橡子 | hard acorn; tough oak nut
+  成熟的橡子 | ripe acorns; mature oak nuts
+  橡子面粉 | acorn flour; acorn meal
+  喂食橡子 | feed with acorns; provide acorns as forage
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  朝三暮四 | zhāo sān mù sì | three in the morning and four at night; fickle; deceptive manipulation
+  硕果仅存 | shuò guǒ jǐn cún | the only surviving fruit; sole remaining relic
+  拔苗助长 | bá miáo zhù zhǎng | pull up seedlings to help them grow; spoil things through impatience
+  草木皆兵 | cǎo mù jiē bīng | every bush and tree looks like an enemy soldier; state of extreme panic
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  橡 | xiàng | oak tree; rubber; chestnut oak | roble; encina; caucho | 木 | tree / wood | 木 (tree species) | 象 (xiàng, elephant / phonetic) | 15 | 左右结构 | Phono-semantic character where wood radical 木 denotes an arboreal oak tree, and 象 supplies the phonetic sound. | A magnificent ancient forest tree (木) standing strong and sturdy like a giant elephant (象) is the mighty oak (橡). | Un árbol robusto del bosque (木) corpulento y majestuoso como un gran elefante (象) es el roble que da bellotas (橡). | 51 | DNAO | 
+  子 | zǐ | child; seed; small nut | hijo; cría; semilla; fruto menudo | 子 | child / seed | 子 (swaddled baby with arms) | 子 (pictographic) | 3 | 单一结构 | Ancient pictograph of an infant swaddled with legs wrapped and arms reaching out, extended to mean seeds and small round nuts. | An infant reaching out with tiny hands, extended metaphorically to any small, hard, precious seed or nut (子). | Un tierno infante que extiende sus bracitos, cuyo contorno pasó a nombrar los frutos redondos y semillas menudas (子). | 214 | ND | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The fruit of the mighty elephant-like oak tree (橡) packed into small round nuts (子) produces nutritious acorns (橡子).
+  composite_memory_hook_es: El fruto del roble corpulento como elefante (橡) condensado en pequeña semilla dura (子) es la bellota (橡子).
+  cultural_and_cognitive_roots: In the Taoist masterwork Zhuangzi (齐物论), acorns (芧/橡子) are the central narrative device of the keeper and monkeys (狙公赋芧). The parable illustrates cognitive blindness: people rejoice or despair over superficial rearrangements that leave underlying totals unchanged.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by neutral tone: 'xiàng zi' (51-neutral). Drop sharply on 'xiàng' and pronounce 'zi' lightly and briefly.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    像 | xiàng | look like; statue | Has person radical 亻 on the left instead of wood 木
+    象 | xiàng | elephant; phenomenon; image | Lacks the wood radical 木 entirely on the left
+    豫 | yù | hesitate; comfortable | Left side is 予 instead of 木
+    李 | lǐ | plum; surname Li | Has wood 木 on top of 子
+    杏 | xìng | apricot | Has wood 木 on top of mouth 口
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    橡 | xiàng | oak tree; acorn tree; rubber
+    象 | xiàng | elephant; appearance; figure
+    果 | guǒ | fruit; seed; result; resolute
+    实 | shí | solid; fruit; truth; reality
+    栗 | lì | chestnut; fearful; shiver
+
+semantic_boundary_contrasts:
+  core_nuance: 橡子 specifically refers to the wild nut or acorn yielded by oak trees (栎属植物果实).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 橡子 vs. 板栗 | bǎnlì | 橡子 is an oak acorn with a smooth shell and woody cupule, while 板栗 is a sweet edible chestnut encased in a sharp, spiny burr.
+    2 | 橡子 vs. 松子 | sōngzǐ | 橡子 grows on deciduous oak trees, whereas 松子 is the pine nut harvest from coniferous pine cones.
+    3 | 橡子 vs. 果实 | guǒshí | 橡子 is the specific botanical species of nut, while 果实 is the broad general term for any biological fruit or yield.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在金秋的古树林间，微风拂过，头顶不时传来成熟橡子簌簌坠地的轻响。林间的小鹿与野兔寻声而至，低头在厚厚的落叶里刨食这大自然慷慨赐予的越冬美味。 | Mànbù zài jīnqiū de gǔshùlín jiān, wēifēng fúguò, tóudǐng bùshí chuánlái chéngshú xiàngzi sùsù zhuìdì de qīngxiǎng. Línjiān de xiǎolù yǔ yětù xúnshēng ér zhì, dītóu zài hòuhòu de luòyè lǐ páoshí zhè dàzìrán kāngkǎi cìyǔ de yuèdōng měiwèi. | Strolling through ancient autumn woods, ripe acorns patter onto the ground as the breeze stirs. Woodland deer and hares gather to forage for nature's bountiful winter treats. | Al pasear por el hayedo otoñal, las bellotas maduras caen con leve crujido entre las hojas mecidas por el viento. Corzos y liebres acuden a desenterrar este generoso manjar invernal.
+  #2 | “狙公赋芧”的寓言流传两千余载，小小的橡子因而成为中国哲学史上最富启发性的隐喻符号。它警醒世人切勿被外在形式与瞬时顺序的表象所惑，而应洞见事物内在的等同与统一。 | "Jūgōng fùyù" de yùyán liúchuán liǎngqiān yú zǎi, xiǎoxiǎo de xiàngzi yīn'ér chéngwéi Zhōngguó zhéxué shǐshàng zuì fù qǐfāxìng de yǐnyù fúhào. Tā jǐngxǐng shìrén qièwù bèi wàizài xíngshì yǔ shùnshí shùnxù de biǎoxiàng suǒ huò, ér yīng dòngjiàn shìwù nèizài de děngtóng yǔ tǒngyī. | The acorn fable has endured for over two millennia, making the humble oak nut a potent philosophical metaphor. It cautions us not to be duped by superficial orders, but to perceive underlying unity. | La parábola de las bellotas perdura tras dos milenios como símbolo filosófico. Nos alerta contra el engaño de las apariencias y el orden superficial, exhortándonos a percibir la equidad esencial.

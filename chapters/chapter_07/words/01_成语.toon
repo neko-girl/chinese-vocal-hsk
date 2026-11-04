@@ -1,0 +1,65 @@
+id: 1
+hanzi: 成语
+pinyin: chéng yǔ
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: Chinese idiom; four-character set phrase; proverb derived from classical literature
+  es: modismo chino; frase hecha clásica; proverbio de cuatro caracteres con origen histórico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a traditional Chinese idiomatic expression, typically four characters in length, rooted in classical history, literature, or folklore | locución o modismo tradicional chino, casi siempre de cuatro caracteres, arraigado en la literatura clásica o fábulas históricas | 学习成语 (study idioms)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 学习汉语成语不仅能丰富表达，更能让我们深入了解古代中国的历史典故与处世哲学。 | Xuéxí Hànyǔ chéngyǔ bùjǐn néng fēngfù biǎodá, gèng néng ràng wǒmen shēnrù liǎojiě gǔdài Zhōngguó de lìshǐ diǎngù yǔ chǔshì zhéxué. | Studying Chinese idioms not only enriches our expression, but also allows us to deeply understand ancient Chinese historical allusions and life philosophies. | Estudiar modismos chinos no solo enriquece nuestra expresión, sino que nos permite comprender profundamente las fábulas históricas y la filosofía de vida de la China antigua.
+  #2 | 在学术论文或正式演讲中，恰如其分地引用成语往往能使论述更加凝练精辟、富有说服力。 | Zài xuéshù lùnwén huò zhèngshì yǎnjiǎng zhōng, qiàrúqífèn de yǐnyòng chéngyǔ wǎngwǎng néng shǐ lùnshù gèngjiā níngliàn jīngpì, fùyǒu shuōfúlì. | In academic essays or formal speeches, appropriately citing idioms often makes arguments more concise, incisive, and persuasive. | En ensayos académicos o discursos formales, citar modismos con precisión y mesura hace que la argumentación sea más concisa, elocuente y convincente.
+
+collocations[6]{hanzi,en}:
+  成语故事 | idiom story; fable behind an idiom
+  四字成语 | four-character idiom
+  引用成语 | quote or cite an idiom
+  成语典故 | historical allusion behind an idiom
+  汉语成语 | Chinese idiom
+  积累成语 | accumulate idiom vocabulary
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  成语两则 | chéng yǔ liǎng zé | two classical idiom stories
+  出口成章 | chū kǒu chéng zhāng | speak with literary grace; articulate thoughts brilliantly
+  言不由衷 | yán bù yóu zhōng | speak insincerely; words not coming from the heart
+  语重心长 | yǔ zhòng xīn cháng | speak with sincere, earnest words and weighty advice
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  成 | chéng | accomplish; succeed; become | lograr; cumplir; convertirse en | 戈 | dagger-axe / halberd | 戈 (halberd, martial weapon) | 戊 (wù, cyclical sign) | 6 | 单一结构 | Originally represented a ritual axe sealing an official covenant upon achieving victory or establishing order. | A victorious spear (戈) thrusts downward to plant the boundary marker of accomplishment (成). | Una lanza triunfal (戈) se alza firme sellando con honor el pacto del éxito alcanzado (成). | 35 | IHS | 
+  语 | yǔ | spoken language; speech; words | idioma; lenguaje hablado; palabras | 讠 | speech / words | 讠 (speech, linguistic expression) | 吾 (wú, I / my voice) | 9 | 左右结构 | Phono-semantic compound: speech radical 讠 combined with personal pronoun 吾, literally 'words spoken from my own voice'. | Words (讠) spoken directly from the five (五) senses of my true mouth (口) form genuine spoken language (语). | Palabras (讠) brotadas con sinceridad de mi propia voz (吾) para dar vida al lenguaje humano (语). | 214 | IVMMR | 語
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Words (语) that have become firmly established (成) through centuries of literary wisdom constitute a timeless Chinese idiom (成语).
+  composite_memory_hook_es: Palabras (语) que han quedado consolidadas y logradas (成) tras siglos de historia forman un modismo clásico (成语).
+  cultural_and_cognitive_roots: Chinese chéngyǔ (成语) typically distill multi-page classical historical narratives (典故) from texts like the Shiji or Zhuangzi into strict 4-character phonetic balanced tetrasyllables, serving as cultural shorthand across centuries.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'chéng' (35) followed by dipping 3rd tone 'yǔ' (214). Keep the rising pitch steady before allowing the vocal tone to dip smoothly into the chest register.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    城 | chéng | city; city wall | Has earth radical 土 on the left
+    诚 | chéng | sincere; honest | Has speech radical 讠 on the left
+    盛 | shèng | flourishing; grand | Has vessel radical 皿 at the bottom
+    悟 | wù | comprehend; realize | Has heart radical 忄 paired with 吾
+    话 | huà | spoken dialect; talk | Has 舌 (tongue) next to 讠 instead of 吾
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    诚 | chéng | sincere; honest
+    城 | chéng | fortified city; rampart
+    盛 | shèng | prosperous; abundant
+    谚 | yàn | folk proverb; saying
+    话 | huà | speech; conversation
+
+semantic_boundary_contrasts:
+  core_nuance: 成语 designates a classical, fixed 4-character phrase anchored in historical literature, distinct from vernacular proverbs or slang.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 成语 vs. 俗语 | súyǔ | 成语 are classical, refined idioms almost always 4 characters long with literary allusions, whereas 俗语 are colloquial folk sayings and colloquialisms originating from common folk speech.
+    2 | 成语 vs. 谚语 | yànyǔ | 成语 function syntactically as lexical items (nouns, verbs, adjectives) inside sentences, while 谚语 are complete autonomous moral proverbs or agrarian aphorisms (e.g., '一分耕耘，一分收获').
+    3 | 成语 vs. 歇后语 | xiēhòuyǔ | 成语 carry direct metaphorical significance derived from historical records, while 歇后语 are two-part allegorical puns where the first clause sets up a riddle and the second supplies the witty punchline.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 汉语中的成语是凝固的华夏历史。每一个四字成语的背后，往往深藏着一段跌宕起伏的历史风云或引人深省的寓言故事。细细品读成语，我们仿佛在与古人进行跨越千年的心灵对话，感悟生命的大智慧。 | Hànyǔ zhōng de chéngyǔ shì nínggù de Huáxià lìshǐ. Měi yí gè sì zì chéngyǔ de bèihòu, wǎngwǎng shēncáng zhe yí duàn diēdàng-qǐfú de lìshǐ fēngyún huò yǐnrén shēnxǐng de yùyán gùshì. Xìxì pǐndú chéngyǔ, wǒmen fǎngfú zài yǔ gǔrén jìnxíng kuàyuè qiānnián de xīnlíng duìhuà, gǎnwù shēngmìng de dà zhìhuì. | Idioms in Chinese are frozen facets of Cathayan history. Behind each four-character idiom often lies a tumultuous historical drama or a thought-provoking allegory. Delicately savoring idioms feels like engaging in a spiritual dialogue across millennia with ancient sages, intuiting profound wisdom of life. | Los modismos del idioma chino son historia viva petrificada en cuatro caracteres. Tras cada uno se oculta un relato fascinante o una fábula moral. Leerlos con calma es conversar a través de los siglos con sabios remotos, captando lecciones indelebles sobre la condición humana.
+  #2 | 在当代跨文化交流中，成语既是汉语学习者的理解难点，也是打开中华传统文化宝库的金钥匙。准确运用成语不仅能够使跨文化沟通更加生动典雅，更能展现出深厚的人文积淀与纯正的语言审美素养。 | Zài dāngdài kuà-wénhuà jiāoliú zhōng, chéngyǔ jì shì Hànyǔ xuéxízhě de lǐjiě nándiǎn, yěshì dǎkāi Zhōnghuá chuántǒng wénhuà bǎokù de jīn yàoshi. Zhǔnquè yùnyòng chéngyǔ bùjǐn nénggòu shǐ kuà-wénhuà gōutōng gèngjiā shēngdòng diǎnyǎ, gèng néng zhǎnxiàn chū shēnhòu de rénwén jīdiàn yǔ chúnzhèng de yǔyán shěnměi sùyǎng. | In contemporary cross-cultural communication, idioms represent both a comprehension hurdle for learners and a golden key unlocking China's cultural treasury. Accurately deploying idioms renders intercultural exchange vivid and elegant, while manifesting cultural depth and refined linguistic aesthetics. | En la comunicación intercultural actual, los modismos suponen tanto un reto como una llave maestra al legado de la civilización china. Su empleo diestro y certero infunde elegancia y viveza al diálogo, revelando una genuina solvencia humanística y una alta sensibilidad lingüística.

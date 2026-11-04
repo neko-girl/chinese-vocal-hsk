@@ -1,0 +1,67 @@
+id: 31
+hanzi: 全神贯注
+pinyin: quán shén guàn zhù
+level: HSK 5
+part_of_speech: Idiom
+
+meanings_summary:
+  en: to concentrate with undivided attention; to be completely absorbed or engrossed
+  es: concentrarse en cuerpo y alma; estar absorto; prestar atención total y exclusiva
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Idiom | Standard | focusing all of one's mental energy, spirit, and faculties on a single task without the slightest distraction | concentrar toda la energía anímica, espíritu y atención en una sola labor sin distracción alguna | 全神贯注地听讲 (listen with rapt attention)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军扎稳马步，屏住呼吸，全神贯注地凝视着草丛中的猛虎，拉满弓弦蓄势待发。 | Lǐ Guǎng jiāngjūn zhāwěn mǎbù, bǐngzhù hūxī, quánshén-guànzhù de níngshì zhe cǎocóng zhōng de měnghǔ, lāmǎn gōngxián xùshì-dàifā. | General Li Guang planted his stance, held his breath, and gazed at the tiger in the grass with undivided focus, drawing his bow taut. | El general Li Guang afianzó su postura, contuvo el aliento y clavó la vista en el tigre con concentración absoluta, tensando el arco al límite.
+  #2 | 外科手术台上，主刀医生全神贯注地操作着微创显微仪器，长达八小时未曾有丝毫懈怠。 | Wàikē shǒushùtái shàng, zhǔdāo yīshēng quánshén-guànzhù de cāozuò zhe wēichuàng xiǎnwēi yíqì, chángdá bā xiǎoshí wèicéng yǒu sīháo xièdài. | Over the operating table, the chief surgeon operated micro-instruments with undivided attention, never slacking for eight straight hours. | Sobre la mesa de operaciones, el cirujano jefe manejaba los instrumentos microscópicos con concentración total, sin un instante de fatiga durante ocho horas.
+
+collocations[6]{hanzi,en}:
+  全神贯注地看书 | read a book with undivided attention
+  全神贯注地倾听 | listen with rapt attention
+  全神贯注于工作 | completely absorbed in work
+  保持全神贯注 | maintain total focus and concentration
+  全神贯注的神态 | expression of intense absorption
+  瞬间全神贯注 | instantly focused with undivided mind
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  聚精会神 | jù jīng huì shén | gather one's spirit and thoughts; concentrate intensely
+  专心致志 | zhuān xīn zhì zhì | devote oneself heart and soul; dedicated focus
+  目不转睛 | mù bù zhuǎn jīng | gaze with fixed eyes without blinking
+  心无旁骛 | xīn wú páng wù | heart free of worldly distractions; completely dedicated
+
+character_decomposition[4]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  全 | quán | whole; entire; complete; total | todo; entero; completo; total | 入 | enter | 入 (enter / shelter) | 王 (wáng, precious jade ingot) | 6 | 上下结构 | Ancient pictogram of pure, unblemished jade entered beneath a sheltering roof, meaning flawless and complete. | Pure, flawless jade stored under a roof preserves its entire, complete perfection (全). | Una gema de jade puro guardada bajo techado conserva su integridad entera y cabal (全). | 35 | OMG | 
+  神 | shén | spirit; soul; mind; deity | espíritu; alma; mente; divinidad | 礻 | spirit / ritual | 礻 (altar, divine revelation) | 申 (shēn, lightning bolt / expansion) | 9 | 左右结构 | Ancient bronze pictogram of celestial lightning 申 flashing beside a ritual altar 礻, signifying spiritual energy and consciousness. | Heavenly lightning (申) descends upon the sacred altar (礻) to awaken divine spirit and focus (神). | El rayo celestial (申) desciende sobre el ara sagrada (礻) iluminando la chispa del espíritu (神). | 35 | IFSL | 
+  贯 | guàn | pierce; string together; run through | atravesar; ensartar; hilvanar | 贝 | shell / currency | 毌 (guàn, piercing cord) | 贝 (bèi, cowrie coin / treasure) | 8 | 上下结构 | Simplified from 貫. Ancient pictogram showing a cord 毌 piercing through cowrie shell currency 贝 to bind them in one line. | A cord pierces right through the center of valuable coins (贝) to string them together into one unified line (贯). | Una cuerda atraviesa el centro de monedas valiosas (贝) ensartándolas en un solo hilo continuo (贯). | 51 | WBO | 貫
+  注 | zhù | pour; concentrate; annotate; inject | verter; concentrar; fijar; inyectar | 氵 | water | 氵 (water stream flowing) | 主 (zhǔ, flame lamp wick / master) | 8 | 左右结构 | Phono-semantic compound: water 氵 flowing decisively toward the lamp wick 主, signifying pouring water or pouring mental energy into one focus. | Pouring water (氵) with steady precision directly onto the master wick (主) focuses all flow into one point (注). | Verter agua (氵) con pulso certero sobre la mecha maestra (主) concentra toda la energía en un solo foco (注). | 51 | EYG | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pouring (注) your entire, complete (全) spiritual mind (神) like a cord strung through an arrow (贯) achieves undivided concentration (全神贯注).
+  composite_memory_hook_es: Verter (注) todo (全) el espíritu (神) como un hilo tenaz que lo atraviesa (贯) cristaliza la concentración total (全神贯注).
+  cultural_and_cognitive_roots: In ancient Chinese archery lore (射艺), as described in Liezi (列子) and Zhuangzi, marksmanship was not merely physical exertion but a meditative trance of 'unifying spirit' (凝神). When concentration achieves absolute unity, arrows can pierce solid stone.
+  tone_sandhi_and_pitch_modulation: Rising, rising, falling, falling: 'quán shén guàn zhù' (35-35-51-51). Lift smoothly across the first two syllables, then strike down emphatically on the final two.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    金 | jīn | gold; metal | Has 人 at top above 王 and two dots
+    视 | shì | look at; inspect | Has 见 on the right instead of 申
+    贵 | guì | expensive; noble | Has 中 at top above 贝 instead of 毌
+    住 | zhù | live; dwell; stop | Has person radical 亻 on the left instead of 氵
+    柱 | zhù | pillar; column; post | Has wood radical 木 on the left instead of 氵
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    栓 | shuān | bolt; plug; peg
+    申 | shēn | explain; state; lightning
+    贯 | guàn | penetrate; string of coins
+    惯 | guàn | accustomed to; habit
+    注 | zhù | pour; focus; annotate
+
+semantic_boundary_contrasts:
+  core_nuance: 全神贯注 describes the psychological state where 100% of conscious mental energy is channeled into a single target.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 全神贯注 vs. 专心致志 | zhuānxīn-zhìzhì | Both mean concentrating, but 全神贯注 highlights the intense physiological absorption of senses and mental faculties at a single moment, whereas 专心致志 highlights long-term dedication to a craft or study.
+    2 | 全神贯注 vs. 聚精会神 | jùjīng-huìshén | Highly synonymous; 聚精会神 emphasizes gathering dispersed energy together, while 全神贯注 emphasizes pouring that gathered energy outward like a focused beam into an object.
+    3 | 全神贯注 vs. 目不转睛 | mùbù-zhuǎnjīng | 目不转睛 describes solely the fixed optical gaze of the physical eyes without blinking, whereas 全神贯注 describes the entire mind, spirit, and awareness.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 静谧的书斋里，老画家屏息凝神，全神贯注地落下了长卷上的最后一笔。案头那一方墨砚早已干涸，窗外的夜色不知何时已然深沉。这种沉醉于艺术创作的忘我境界，让心灵彻底脱离了世俗的羁绊与尘劳。 | Jìngmì de shūzhāi lǐ, lǎo huàjiā bǐngxī-níngshén, quánshén-guànzhù de luòxià le chángjuàn shàng de zuìhòu yì bǐ. Àntóu nà yì fāng mòyàn zǎoyǐ gānhé, chuāngwài de yèsè bùzhī héshí yǐrán shēnchén. Zhè zhǒng chénzuì yú yìshù chuàngzuò de wàngwǒ jìngjiè, ràng xīnlíng chèdǐ tuōlí le shìsú de jībàn yǔ chénláo. | In the serene studio, the veteran painter held his breath, executing the final stroke with rapt attention. The inkstone on the desk had long dried, and night had fallen outside. This selfless immersion in creation freed his soul from worldly shackles. | En el sosegado estudio, el veterano pintor contuvo el aliento y trazó la última pincelada con entrega absoluta. La tintero del pupitre se había secado y la noche envolvía ya el ventanal; tal comunión creadora liberó su alma de toda atadura mundana.
+  #2 | 在重大科研攻关的紧要关头，全神贯注的专注力往往是激发颠覆性灵感的决定性催化剂。科研团队在长达数周的高强度推演中心无旁骛，排除外界的一切干扰，终于在海量复杂数据中捕捉到了那一丝转瞬即逝的关键规律。 | Zài zhòngdà kēyán gōngguān de jǐnyào guāntóu, quánshén-guànzhù de zhuānzhùlì wǎngwǎng shì jīfā diānfùxìng línggǎn de juédìngxìng cuīhuàjì. Kēyán tuánduì zài chángdá shù zhōu de gāoxiàngdù tuīyǎn zhōng xīnwú-pángwù, páichú wàijiè de yíqiè gānrǎo, zhōngyú zài hǎiliàng fùzá shùjù zhōng bǔzhuō dào le nà yì sī zhuǎnshùn-jíshì de guānjiàn guīlǜ. | At critical research junctures, undivided concentration catalyses disruptive breakthroughs. Filtering out external interference through weeks of high-intensity derivation, the team finally captured the fleeting key law hidden inside complex datasets. | En la hora decisiva de la investigación puntera, la atención sin fisuras es el catalizador que desata hallazgos revolucionarios. El equipo científico, ajeno a toda distracción en semanas de ardua labor, logró aislar la esquiva clave oculta en los datos.

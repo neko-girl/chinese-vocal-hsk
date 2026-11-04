@@ -1,0 +1,66 @@
+id: 14
+hanzi: 彼此
+pinyin: bǐ cǐ
+level: HSK 5
+part_of_speech: Pronoun
+
+meanings_summary:
+  en: each other; one another; mutually; both parties; (polite) the same to you
+  es: el uno al otro; mutuamente; entrambos; ambas partes; (cortesía) igualmente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Pronoun | Standard | each other; one another; referring to both sides or parties in a mutual reciprocal relationship | el uno al otro; recíprocamente; ambas partes en una relación de reciprocidad | 彼此信任 (trust each other)
+  2 | Pronoun | Colloquial | polite formulaic reply returning praise or greeting ('likewise / the same to you / we are both in the same boat') | respuesta cortés de cortesía ('igualmente / estamos en las mismas / mutuo') | 彼此彼此 (likewise / same to you)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过漫长时间的朝夕相伴，老人与猴群彼此建立起了无需语言翻译的深厚心灵默契。 | Jīngguò màncháng shíjiān de zhāoxī-xiāngbàn, lǎorén yǔ hóuqún bǐcǐ jiànlì qǐ le wúxū yǔyán fānyì de shēnhòu xīnlíng mòqì. | Through long days and nights together, the elder and the monkey troop built tacit mutual rapport requiring no linguistic translation. | A través de una prolongada convivencia diaria, el anciano y la manada forjaron una honda compenetración mutua que prescindía de palabras.
+  #2 | 面对全球性气候危机的共同考验，世界各国应当放下地缘政治分歧，在彼此尊重的基础上深化互利合作。 | Miànduì quánqiúxìng qìhòu wēijī de gòngtóng kǎoyàn, shìjiè gèguó yīngdāng fàngxià dìyuán-zhèngzhì fēnqí, zài bǐcǐ zūnzhòng de jīchǔ shàng shēnhuà hùlì hézuò. | Facing the common test of climate crises, nations should set aside geopolitics and deepen cooperation on mutual respect. | Ante el reto común de la crisis climática, los países deben aparcar discrepancias geopolíticas y ahondar su cooperación sobre el respeto mutuo.
+
+collocations[6]{hanzi,en}:
+  彼此信任 | trust one another mutually
+  彼此尊重 | mutual respect
+  彼此理解 | mutual understanding
+  彼此关照 | take care of each other
+  彼此彼此 | same to you; likewise (polite formula)
+  拉近彼此距离 | shorten the distance between each other
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  彼此彼此 | bǐ cǐ bǐ cǐ | likewise; same to both of us; in the same boat
+  顾此失彼 | gù cǐ shī bǐ | attend to one and lose the other; unable to attend to both
+  厚此薄彼 | hòu cǐ bó bǐ | favor one over the other; treat with discrimination
+  不分彼此 | bù fēn bǐ cǐ | make no distinction between what is yours and mine; share intimately
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  彼 | bǐ | that; there; the other; those | aquel; ese; el otro; aquello | 彳 | step / walk | 彳 (walking along the road) | 皮 (pí, animal hide / phonetic) | 8 | 左右结构 | Phono-semantic compound: step radical 彳 indicating walking into the distance, paired with 皮. Means 'that distant other'. | Taking measured footsteps along the road (彳) toward that distant, far-off horizon points toward the other (彼). | Avanzar con pasos medidos (彳) hacia el horizonte distante señala aquello lejano y al otro (彼). | 214 | HODHE | 
+  此 | cǐ | this; here; present | este; esta; esto; aquí; presente | 止 | stop / foot | 止 (foot planted on the ground) | 匕 (bǐ, sitting person close by) | 6 | 左右结构 | Ancient oracle bone pictogram of a person 匕 standing with foot 止 firmly planted right here on the ground, meaning 'this place / here'. | A person pauses and plants their foot firmly on the earth (止) right here in this present spot (此). | Una persona planta con firmeza la planta del pie (止) justo en este lugar y en este instante (此). | 214 | YMP | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Linking what is situated far over there (彼) with what is planted right here (此) encompasses both parties and each other (彼此).
+  composite_memory_hook_es: Conectar lo que está allá a lo lejos (彼) con lo que reposa aquí a los pies (此) abarca a ambas partes el uno con el otro (彼此).
+  cultural_and_cognitive_roots: In ancient classical grammar, 彼 (that / the other) and 此 (this / oneself) formed a spatial deictic binary. Fused together, 彼此 transcended polar opposition into a reciprocal relational pronoun uniting two parties in intersubjective dialogue.
+  tone_sandhi_and_pitch_modulation: Dual dipping 3rd tones: 'bǐ cǐ'. Under standard Mandarin sandhi, the first 3rd tone shifts to rising 2nd tone: 'bí cǐ' (35-214).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    坡 | pō | slope; hill | Has earth radical 土 on the left instead of 彳
+    波 | bō | wave; ripple | Has water radical 氵 on the left instead of 彳
+    破 | pò | broken; tear | Has stone radical 石 on the left instead of 彳
+    些 | xiē | some; few; several | Has 二 at bottom below 此
+    柴 | chái | firewood; lean | Has 木 at bottom below 此
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    彼 | bǐ | that; the other
+    披 | pī | drape over shoulders; split open
+    波 | bō | water wave; ripple
+    此 | cǐ | this; here; now
+    紫 | zǐ | purple; violet
+
+semantic_boundary_contrasts:
+  core_nuance: 彼此 is a reciprocal pronoun referring to both interacting sides in a relationship, with an elevated literary register compared to 互相.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 彼此 vs. 互相 | hùxiāng | 互相 is purely an adverb that must directly precede a verb (互相帮助), whereas 彼此 is a noun/pronoun that can stand as subject, object, or modifier (彼此的心愿, 增进彼此的了解).
+    2 | 彼此 vs. 双方 | shuāngfāng | 双方 is formal, legal, and institutional (合同双方), whereas 彼此 is psychological, philosophical, and personal.
+    3 | 彼此 vs. 相互 | xiānghù | 相互 is an adverbial synonym of 互相, while 彼此 can function as a standalone colloquial response ('彼此彼此!').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在漫长的人生旅途中，能够遇到一位彼此理解、彼此欣赏的知心挚友，实乃生命莫大的幸运。真正的深情从来不需要繁复的言辞修饰，只要目光交汇，彼此心底的默契便如春雨般润物无声，温暖着漫漫岁月。 | Zài màncháng de rénshēng lǚtú zhōng, nénggòu yùdào yí wèi bǐcǐ lǐjiě, bǐcǐ xīnshǎng de zhīxīn zhìyǒu, shí nǎi shēngmìng mòdà de xìngyùn. Zhēnzhèng de shēnqíng cónglái bù xūyào fánfù de yáncí xiūshì, zhǐyào mùguāng jiāohuì, bǐcǐ xīndǐ de mòqì biàn rú chūnyǔ bān rùnwù-wúshēng, wēnnuǎn zhe mànmàn suìyuè. | On the long journey of life, encountering a soulmate who mutually understands and appreciates you is supreme fortune. True devotion requires no florid rhetoric; when eyes meet, tacit harmony moistens the heart like gentle spring rain. | En la andadura de la vida, hallar a alguien con quien entenderse y apreciarse mutuamente es ventura suma. El afecto auténtico prescinde de artificios; al cruzarse las miradas, la complicidad cala en el alma como lluvia primaveral templando el tiempo.
+  #2 | 在推动构建新型国际关系的历史征程中，相互尊重与彼此关照核心利益是国与国之间持久和平交往的黄金法则。唯有打破霸权主义与双重标准，推动各大国在彼此平等的基础上携手合作，才能实现全球治理的稳定繁荣。 | Zài tuīdòng gòujiàn xīnxíng guójì guānxì de lìshǐ zhēngchéng zhōng, xiānghù zūnzhòng yǔ bǐcǐ guānzhào héxīn lìyì shì guó yǔ guó zhījiān chǐjiǔ hépíng jiāowǎng de huángjīn fǎzé. Wéiyǒu dǎpò bàquánzhǔyì yǔ shuāngchóng biāozhǔn, tuīdòng gè dàguó zài bǐcǐ píngděng de jīchǔ shàng xiéshǒu hézuò, cáinéng shíxiàn quánqiú zhìlǐ de wěndìng fánróng. | In building new international relations, mutual respect and accommodating vital interests is the golden rule of peace. Dismantling hegemony and promoting equal cooperation fosters stability and prosperity in global governance. | En la forja de unas relaciones internacionales renovadas, el respeto mutuo a los intereses vitales es la regla áurea de la paz. Desterrando hegemonismos y aunando voluntades en pie de igualdad, se alcanzará la estabilidad en la gobernanza global.

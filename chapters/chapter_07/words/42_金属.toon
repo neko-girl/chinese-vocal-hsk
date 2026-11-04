@@ -1,0 +1,65 @@
+id: 42
+hanzi: 金属
+pinyin: jīn shǔ
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: metal; metallic element; metallic material
+  es: metal; elemento metálico; material metálico conductor y maleable
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an opaque, lustrous chemical element or alloy that is a good conductor of electricity and heat, malleable, and ductile | elemento o aleación química brillante, opaca, dúctil, maleable y conductora del calor y la electricidad | 贵重金属 (precious metals)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古人常以“金石为开”来勉励后人，其中“金”指的便是坚硬无比的金属，象征着至诚之道能感通天地。 | Gǔrén cháng yǐ 'jīn shí wéi kāi' lái miǎnlì hòurén, qízhōng 'jīn' zhǐ de biànshì jiānyìng-wúbǐ de jīnshǔ, xiàngzhēng zhe zhìchéng zhī dào néng gǎntōng tiāndì. | Ancients used 'sincerity opens metal and stone' to inspire posterity; 'jin' denotes hard metal, symbolizing that absolute sincerity moves heaven and earth. | Los antiguos decían que la sinceridad abre el metal y la roca; el 'oro' representa el duro metal, simbolizando que el fervor sincero conmueve al cosmos.
+  #2 | 在航空航天装备制造中，耐高温、耐腐蚀的新型特种金属合金是确保火箭发动机安全运行的关键材料。 | Zài hángtiān zhuāngbèi zhìzào zhōng, nài gāowēn, nài fǔshí de xīnxíng tèzhǒng jīnshǔ héjīn shì quèbǎo huǒjiàn fādòngjī ānquán yùnxíng de guānjiàn cáiliào. | In aerospace manufacturing, advanced specialty metal alloys resistant to heat and corrosion are critical materials ensuring rocket engine safety. | En la industria aeroespacial, las aleaciones metálicas avanzadas resistentes a altas temperaturas y a la corrosión garantizan el funcionamiento seguro del motor.
+
+collocations[6]{hanzi,en}:
+  贵重金属 | precious metals (gold, platinum)
+  金属材料 | metallic materials
+  重金属污染 | heavy metal pollution
+  稀有金属 | rare metals; rare earths
+  金属光泽 | metallic luster or sheen
+  加工金属 | process or forge metal
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  精诚所至 | jīng chéng suǒ zhì | when utmost sincerity is attained, anything is possible
+  金石为开 | jīn shí wéi kāi | even metal and stone open to absolute sincerity
+  点石成金 | diǎn shí chéng jīn | touch stone and turn it into gold; turn ordinary into superb
+  固若金汤 | gù ruò jīn tāng | as solid as a metal rampart and boiling moat; impregnable
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  金 | jīn | gold; metal; money; yellow | oro; metal; dinero; dorado | 金 | gold / metal | 土 (earth, mining ground) | 亼 (smelting roof / nuggets) | 8 | 单一结构 | Ancient bronze pictogram of gold and copper nuggets 丷 mined and smelted beneath an earthen shelter 土. | Precious mineral nuggets (丷) smelted from rich earthen mines (土) produce shining metal and gold (金). | Pepitas de mineral brillante (丷) fundidas de las entrañas de la tierra (土) alumbran el noble metal (金). | 55 | OPC | 
+  属 | shǔ | category; belong to; genus; subordinates | categoría; pertenecer a; linaje | 尸 | corpse / body frame | 尸 (human lineage frame) | 蜀 (shǔ, caterpillar / Sichuan silk) | 12 | 半包围结构 | Simplified from 屬. Ancient pictogram of descendants connected by silk ribbons to family lineage 尸, denoting category or belonging. | Silk threads connect family members beneath one ancestral shelter (尸), grouping all who belong to the same genus (属). | Hebras de seda unen a los vástagos bajo el mismo alero (尸), reuniendo a cuantos pertenecen a un linaje o género (属). | 214 | SYTI | 屬
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Precious mineral ores smelted from earth (金) grouped into their scientific family genus (属) constitute ductile metal (金属).
+  composite_memory_hook_es: Brillantes minerales fundidos de la tierra (金) adscritos a su categoría química (属) integran la familia del metal (金属).
+  cultural_and_cognitive_roots: In ancient China's Five Phases (五行), 金 represented the west, autumn, hardness, and justice. Paired with the classificatory morpheme 属 (category/genus), 金属 formed the modern scientific noun for all metallic elements.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by dipping 3rd tone: 'jīn shǔ' (55-214). Maintain a level high pitch on 'jīn' before letting 'shǔ' dip into low vocal register.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    全 | quán | whole; entire; complete | Has 王 at bottom instead of 土 and two dots
+    针 | zhēn | needle | Has metal radical 钅 on the left
+    屡 | lǚ | repeatedly; time and again | Has 米 inside 尸 instead of 禹
+    屑 | xiè | scrap; crumb; trivial | Has 肖 inside 尸 instead of 禹
+    尾 | wěi | tail; rear | Has 毛 inside 尸 instead of 禹
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    钑 | sà | spear; lance
+    鉴 | jiàn | inspect; mirror; examine
+    铁 | tiě | iron; weapon; determined
+    嘱 | zhǔ | urge; enjoin; entrust
+    瞩 | zhǔ | gaze intently; focus eyes on
+
+semantic_boundary_contrasts:
+  core_nuance: 金属 is the scientific and material umbrella term for all lustrous, conductive metallic substances.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 金属 vs. 铁 | tiě | 金属 is the overarching chemical class (including copper, aluminum, gold, silver), whereas 铁 is specifically the single element iron (Fe).
+    2 | 金属 vs. 黄金 | huángjīn | 金属 encompasses all elemental metals, while 黄金 refers specifically to the precious element gold (Au).
+    3 | 金属 vs. 塑料 | sùliào | 金属 is dense, conductive, and mined from ore, while 塑料 is a synthetic organic polymer petroleum product.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 青铜器上的斑驳锈迹，记录着三千年前工匠淬炼金属的非凡智慧。从烈火中熔铸而出的鼎彝盘簋，铭刻着华夏文明最初的礼乐制度。沉稳厚重的金属光芒，穿越漫长的岁月长河，依然散发着令人肃然起敬的历史威严。 | Qīngtóngqì shàng de bānbó xiùjì, jìlù zhe sānqiān nián qián gōngjiàng cuìliàn jīnshǔ de fēifán zhìhuì. Cóng lièhuǒ zhōng róngzhù-érchū de dǐng-yí-pán-guǐ, míngkè zhe Huáxià wénmíng zuìchū de lǐyuè zhìdù. Chénwěn hòuzhòng de jīnshǔ guāngmáng, chuānyuè màncháng de suìyuè chánghé, yīrán sànfà zhe lìngrén sùrán-qǐjìng de lìshǐ wēiyán. | Mottled patinas on bronzes record artisans' wisdom smelting metal three millennia ago. Ritual cauldrons forged in roaring fire inscribed Cathayan rites and music. This metallic sheen crosses millennia, radiating history's awe-inspiring majesty. | La pátina de los bronces atestigua el ingenio de los artífices que templaban el metal hace tres milenios. Los calderos rituales forjados al fuego grabaron la armonía de la civilización china; su noble brillo metálico impone respeto a través de los siglos.
+  #2 | 在现代高端制造业与绿色新能源领域，高纯度稀有金属是制造芯片传感器与动力电池不可或缺的战略基石。加强特种金属资源的科学开采与循环回收利用，对于保障国家产业链供应链安全具有不可替代的战略价值。 | Zài xiàndài gāoduān zhìzàoyè yǔ lǜsè xīnnéngyuán lǐngyù, gāochúndù xīyǒu jīnshǔ shì zhìzào xīnpiàn chuángǎnqì yǔ dònglì diànchí bùkě-huòquē de zhànlüè jīshí. Jiāqiáng tèzhǒng jīnshǔ zīyuán de kēxué kāicǎi yǔ xúnhuán huíshōu lìyòng, duìyú bǎozhàng guójiā chǎnyèliàn gōngyìngliàn ānquán jùyǒu bùkě-tìdài de zhànlüè jiàzhí. | In advanced manufacturing and renewables, high-purity rare metals are strategic pillars for semiconductor chips and batteries. Bolstering scientific mining and recycling of specialty metals safeguards national industrial supply chains. | En la industria de vanguardia y las energías renovables, los metales raros son pilares estratégicos para fabricar chips y baterías. Reforzar la extracción científica y el reciclaje de estos metales asegura la soberanía de las cadenas de suministro.

@@ -1,0 +1,66 @@
+id: 22
+hanzi: 称
+pinyin: chēng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to call; to name; to praise; to state or claim; to weigh
+  es: llamar; denominar; alabar; proclamar o declarar; pesar
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to call, name, or address someone or something by a particular title or designation | llamar, denominar o designar a alguien o algo con un apelativo o título | 称之为 (call it)
+  2 | Verb | Standard | to praise, commend, or extol laudable achievements or qualities | elogiar, encomiar o alabar cualidades o hazañas | 称赞他的勇敢 (praise his courage)
+  3 | Verb | Standard | to weigh an object with a scale or balance (also pronounced chèng in noun contexts) | pesar un objeto con una balanza o báscula | 称一下重量 (weigh the weight)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军英勇善战、箭无虚发，匈奴军队闻风丧胆，纷纷尊称他为汉朝的飞将军。 | Lǐ Guǎng jiāngjūn yīngyǒng shànzhàn, jiànwúxūfā, Xiōngnú jūnduì wénfēng-sàngdǎn, fēnfēn zūnchēng tā wéi Hàncháo de Fēijiāngjūn. | General Li Guang was brave and skilled in battle, never missing a shot; terrified, Xiongnu troops respectfully called him the Flying General of Han. | El general Li Guang era valeroso y certero; sus enemigos, sobrecogidos de pavor, lo llamaban respetuosamente el General Volador de la dinastía Han.
+  #2 | 这项具有里程碑意义的科学突破被国际学术界广泛称赞为当代材料科学领域的重大飞跃。 | Zhè xiàng jùyǒu lǐchéngbēi yìyì de kēxué tūpò bèi guójì xuéshùjiè guǎnfàn chēngzàn wéi dāngdài cáiliào kēxué lǐngyù de zhòngdà fēiyuè. | This landmark scientific breakthrough was widely praised by the international academic community as a major leap in contemporary materials science. | Este hito científico fue unánimemente elogiado por la comunidad académica internacional como un avance formidable en la ciencia de materiales.
+
+collocations[6]{hanzi,en}:
+  被称为 | be called; be known as
+  称赞不已 | praise unceasingly; acclaim highly
+  尊称 | respectfully address; honorific title
+  统称 | be collectively called; general term
+  自称 | call oneself; claim to be
+  称重量 | weigh the weight on a scale
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  称心如意 | chèn xīn rú yì | gratify one's heart and fulfill desires; thoroughly satisfying
+  称兄道弟 | chēng xiōng dào dì | call each other brothers; on intimate, chummy terms
+  拍手称快 | pāi shǒu chēng kuài | clap hands and rejoice; applaud with satisfaction
+  啧啧称赞 | zé zé chēng zàn | click one's tongue in unceasing admiration
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  称 | chēng | call; praise; weigh; name | llamar; elogiar; pesar; título | 禾 | grain / seedling | 禾 (grain harvest, standard weight) | 尔 (ěr, you / balance scale) | 10 | 左右结构 | Simplified from 稱. Ancient bronze pictogram of a hand holding up a steelyard balance to weigh harvested grain 禾, assessing value. | Holding up a bundle of harvested grain (禾) on a balance scale to measure its true weight and proclaim its value (称). | Sostener una gavilla de grano (禾) sobre la balanza para comprobar su peso exacto y proclamar su valía (称). | 55 | HDF | 稱
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Weighing a bundle of golden grain (禾) upon a scale allows you to accurately assess its merit, praise it, and give it a name (称).
+  composite_memory_hook_es: Pesar una gavilla de grano (禾) en la balanza permite calcular su mérito, alabarlo y darle un justo nombre (称).
+  cultural_and_cognitive_roots: In ancient agriculture, weighing grain (禾) on a steelyard was the basis of fair trade and taxation. From calculating physical weight (秤重), 称 evolved into moral appraisal (称许, 称赞), giving social titles (称号), and naming things (称谓).
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'chēng' (55) for verbs of naming, praising, and weighing. (Note 4th tone 'chèn' in idioms like 称心如意).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    秤 | chèng | steelyard scale; balance | Has 平 on the right instead of 尔
+    秘 | mì | secret; mysterious | Has 必 on the right instead of 尔
+    秧 | yāng | rice seedling; sprout | Has 央 on the right instead of 尔
+    秩 | zhì | order; sequence | Has 失 on the right instead of 尔
+    税 | shuì | tax; duty | Has 兑 on the right instead of 尔
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    秤 | chèng | steelyard; balance scale
+    称 | chēng | call; name; praise
+    尔 | ěr | you; that; like that
+    弥 | mí | full; overflowing; fill
+    你 | nǐ | you (second person)
+
+semantic_boundary_contrasts:
+  core_nuance: 称 functions as a formal verb for naming/calling a person or thing by a title, or praising their merit.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 称 vs. 叫 | jiào | 叫 is the everyday colloquial verb for calling someone by name (叫什么名字), whereas 称 is formal, literary, and polite, often used for official designations and honorifics (被称为, 尊称).
+    2 | 称 vs. 夸 | kuā | 称 (in 称赞) is dignified and formal public commendation, while 夸 is casual oral praise or flattery (夸奖, 夸夸其谈).
+    3 | 称 vs. 赞成 | zànchéng | 称赞 expresses admiration and acclaim for an achievement, whereas 赞成 means agreeing with or voting in favor of a proposal.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在浩瀚的中华历史长卷中，无数为国为民奋勇拼搏的仁人志士被后世广为传颂。他们不仅赢得了当世百姓由衷的称赞，更被尊称为民族的脊梁，其高尚品格宛如璀璨星辰，在岁月的长河中永远熠熠生辉。 | Zài hàohàn de Zhōnghuá lìshǐ chángjuàn zhōng, wúshù wèi guó wèi mín fènyǒng pīnbó de rénrén-zhìshì bèi hòushì guǎngwéi chuánsòng. Tāmen bùjǐn yíngdé le dāngshì bǎixìng yóuzhōng de chēngzàn, gèng bèi zūnchēng wéi mínzú de jǐliáng, qí gāoshàng pǐngé wǎnrú cuǐcàn xīngchén, zài suìyuè de chánghé zhōng yǒngyuǎn yìyì-shēnghuī. | In the vast scrolls of Chinese history, countless devoted patriots who fought for the nation are sung by posterity. They not only won sincere praise from common folk, but are revered as the backbone of the nation, their noble character shining like stars. | En los anales de la historia china, incontables patriotas que lucharon con abnegación por el pueblo son recordados con devoción. Merecieron el elogio sincero de sus gentes y fueron llamados pilares de la nación, fulgurando eternamente como constelaciones.
+  #2 | 所谓匠人精神，正是数十年如一日对技艺精益求精的执着坚守。那些被行业内外一致公称为一代宗师的手艺人，无不是在默默无闻的漫长岁月中千锤百炼，以近乎苛求的态度成就了登峰造极的传世作品。 | Suǒwèi jiàngrén jīngshén, zhèng shì shùshí nián rù yírì duì jìyì jīngyìqiújīng de zhízhuó jiānshǒu. Nàxiē bèi hángyè nèiwài yízhì gōngchēng wéi yí dài zōngshī de shǒuyìrén, wúbúshì zài mòmò-wúwén de màncháng suìyuè zhōng qiānchuí-bǎiliàn, yǐ jìnhū kēqiú de tàidù chéngjiù le dēngfēng-zàojí de chuánshì zuòpǐn. | The artisan spirit is devotion to perfecting craft across decades. Those publicly hailed by their craft as grandmasters underwent arduous tempering in obscurity, achieving pinnacle masterpieces through relentless striving. | El espíritu artesanal consiste en consagrarse a la excelencia día tras día. Quienes son reconocidos unánimemente como grandes maestros forjaron su temple en años de humilde faena, alumbrando con rigor y desvelo obras inmortales que rozan la perfección.

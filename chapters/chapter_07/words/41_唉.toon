@@ -1,0 +1,65 @@
+id: 41
+hanzi: 唉
+pinyin: ài
+level: HSK 5
+part_of_speech: Interjection
+
+meanings_summary:
+  en: alas; sigh expressing sadness, helplessness, disappointment, or regret; yes
+  es: ¡ay!; ¡ay de mí!; suspiro de pesar, desilusión, tristeza o impotencia; sí
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Interjection | Colloquial | an involuntary sigh expressing sorrow, disappointment, regret, or resignation | suspiro que denota pesar, desilusión, tristeza o resignación impotente | 唉声叹气 (sigh and moan)
+  2 | Interjection | Literary | affirmative response expressing consent or answering a call (pronounced āi in literary contexts) | respuesta afirmativa de asentimiento o al atender una llamada | 唉，我这就来 (Yes, I'm coming right away)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军看着满地折断的箭矢，无奈地长叹一声：“唉，大概是我刚才太专注了，现在心中有了杂念，自然就射不进去了。” | Lǐ Guǎng jiāngjūn kànzhe mǎndì zhéduàn de jiànshǐ, wúnài de chángtàn yì shēng: 'Ài, dàgài shì wǒ gāngcái tài zhuānzhù le, xiànzài xīnzhōng yǒu le zániàn, zìrán jiù shè bújìnqu le.' | Looking at the snapped arrows, General Li Guang sighed resignedly: 'Alas, perhaps I was completely focused earlier; now with distractions in mind, naturally they cannot pierce.' | Mirando las saetas rotas, el general Li Guang suspiró con impotencia: '¡Ay! Quizá antes mi concentración era pura; ahora que anidan dudas en mi ánimo, la flecha no entra'.
+  #2 | 面对突如其来的经济损失与多重打击，老厂长神情落寞，除了连声说“唉”，一时之间竟不知该如何向职工们交代。 | Miànduì tūrúqílái de jīngjì sǔnshī yǔ duōchóng dǎjī, lǎo chǎngzhǎng shénqíng luòmò, chúle liánshēng shuō 'ài', yìshí zhījiān jìng bùzhī gāi rúhé xiàng zhígōng men jiāodài. | Facing sudden financial losses and blows, the old factory director looked forlorn; beyond uttering 'alas' repeatedly, he had no words for workers. | Ante las graves pérdidas económicas y reveses imprevistos, el veterano director no hallaba consuelo; repitiendo suspiros de pesar, no supo qué decir a sus obreros.
+
+collocations[6]{hanzi,en}:
+  长叹一声唉 | utter a deep sigh of 'alas'
+  唉声叹气 | sigh and groan; moan despondently
+  唉，真倒霉 | alas, what terrible luck!
+  唉，没办法 | alas, there's simply no way out
+  连连说唉 | repeat 'alas' again and again
+  唉，怎么会这样 | alas, how could this happen?
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  唉声叹气 | ài shēng tàn qì | sigh and groan in despair; heave deep despondent sighs
+  长吁短叹 | cháng xū duǎn tàn | sigh repeatedly; moan over misfortunes
+  扼腕叹息 | è wàn tàn xī | wring one's wrists and sigh deeply in regret
+  抚今追昔 | fǔ jīn zhuī xī | reflect on the present and sigh over the past
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  唉 | ài | sigh; alas; affirmative answer | ¡ay!; suspirar; gemir de pesar | 口 | mouth | 口 (mouth, breath sighing) | 矣 (yǐ, exclamatory particle / finish) | 10 | 左右结构 | Phono-semantic compound: mouth radical 口 emitting a breath of resignation, paired with grammatical final aspect particle 矣 (it is done). | An aching mouth (口) exhales a despondent breath when an unfortunate event has reached its end (矣), sighing 'alas' (唉). | Una boca pesarosa (口) exhala un suspiro de resignación al consumarse un desenlace aciago (矣), exclamando ¡ay! (唉). | 51 | RIOK | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A mouth (口) exhaling a breath upon realizing a sad outcome is already finished (矣) utters a heavy sigh of 'alas!' (唉).
+  composite_memory_hook_es: Una boca (口) que suspira al ver consumada una desdicha (矣) profiere un gemido de pesar (唉).
+  cultural_and_cognitive_roots: In classical literature, 唉 (falling 4th tone ài) represents the quintessential sigh of existential resignation, regret, or tragic realization. In ancient poetry, it embodies the heaviness of historical melancholy (唉声叹气).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'ài' (51). Pronounce with an exhalation that starts high and sinks into a heavy, downward sigh.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    哎 | āi | hey; surprise | Has 艾 on the right instead of 矣 (pronounced 1st tone āi)
+    矣 | yǐ | classical final particle | Lacks the mouth radical 口 on the left
+    埃 | āi | dust; Egypt | Has earth radical 土 on the left instead of 口
+    挨 | āi / ái | get close to; endure | Has hand radical 扌 on the left instead of 口
+    唤 | huàn | call out; summon | Has 奂 on the right instead of 矣
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    矣 | yǐ | final aspect particle (it is finished)
+    唉 | ài | sigh; alas
+    埃 | āi | fine dust; dirt
+    挨 | ái | endure; suffer through
+    唉声叹气 | àishēng-tànqì | sigh and moan despondently
+
+semantic_boundary_contrasts:
+  core_nuance: 唉 is an exhalation of melancholy, regret, or helpless disappointment, uttered on a falling tone.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 唉 vs. 哎 | āi | 唉 is pronounced 4th tone (ài) expressing a deep, sorrowful sigh or disappointment ('Alas!'), whereas 哎 is pronounced 1st tone (āi) expressing energetic surprise or hailing someone ('Hey!').
+    2 | 唉 vs. 叹 | tàn | 唉 is the actual phonetic interjection uttered by the mouth, while 叹 is the verb meaning 'to sigh' (叹气, 叹息).
+    3 | 唉 vs. 呵 | hē / ā | 唉 expresses sorrow and frustration, while 呵 expresses amusement, mocking laughter, or deep affection.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对物是人非的岁月流转，伫立在暮色中的旅人不禁发出一声深沉的“唉”。那些曾经鲜活的欢笑与誓言早已散落风中，只有斑驳的老墙和满地落叶依旧。这声无奈的叹息，道尽了世间多少繁华落尽的苍凉。 | Miànduì wùshì-rénfēi de suìyuè liúzhuǎn, zhùlì zài mùsè zhōng de lǚrén bùjīn fāchū yì shēng shēnchén de 'ài'. Nàxiē céngjīng xiānhuó de huānxiào yǔ shìyán zǎoyǐ sànluò fēngzhōng, zhǐyǒu bānbó de lǎoqiáng hé mǎndì luòyè yījiù. Zhè shēng wúnài de tànxī, dàojìn le shìjiān duōshǎo fánhuá-luòjìn de cāngliáng. | Facing the changes of passing years, a traveler standing at twilight sighs a deep 'alas'. Laughter and vows of youth have scattered in the wind, leaving only mottled walls and fallen leaves. This sigh captures the desolation of faded glories. | Ante la mudanza de los tiempos, el viajero suspira con hondo pesar al anochecer. Risas y promesas de antaño se perdieron en el viento; solo quedan muros agrietados y hojarasca. Este gemido resume la callada soledad tras la dicha extinguida.
+  #2 | 在遭遇严重挫折与困境时，长期的唉声叹气不仅于事无补，更容易消磨团队的斗志。优秀的领导者深知，越是在风雨如晦的关头，越要迅速甩掉消极情绪，以坚定乐观的心态带领大家破浪前行。 | Zài zāoyù yánzhòng cuòzhé yǔ kùnjìng shí, chángqī de àishēng-tànqì bùjǐn yúshì-wúbǔ, gèng róngyì xiāomó tuánduì de dòuzhì. Yōuxiù de lǐngdǎozhě shēnzhī, yuè shì zài fēngyǔ-rúhuì de guāntóu, yuè yào xùnsù shuǎidiào xiāojí qíngxù, yǐ jiāndìng lèguān de xīntài dàilǐng dàjiā pòlàng-qiánxíng. | When encountering setbacks, chronic groaning and sighing solves nothing while eroding morale. Great leaders know that when storms rage, one must swiftly banish gloom and guide teams forward with optimism. | Ante las contrariedades del camino, los constantes lamentos nada resuelven y socavan la moral del grupo. Un líder perspicaz sabe que en la tormenta urge sacudirse el desaliento para guiar a todos con entereza hacia puerto seguro.

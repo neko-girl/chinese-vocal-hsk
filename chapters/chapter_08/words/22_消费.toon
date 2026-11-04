@@ -1,0 +1,66 @@
+id: 22
+hanzi: 消费
+pinyin: xiāo fèi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to consume; to spend; consumption; expenditure
+  es: consumir; gastar; consumo; gasto; desembolso
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to spend money or deplete material resources in exchange for goods, food, or commercial services | gastar dinero o emplear recursos y víveres para adquirir bienes de consumo o servicios | 理性消费 (consume rationally / spend sensibly)
+  2 | Noun | Formal | the economic activity of using up goods and services to satisfy human wants; consumer expenditure | actividad económica y social consistente en la utilización de bienes y servicios; consumo | 消费水平 (consumption level / consumer spending level)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 年轻人在网上购物时应当保持克制与理性，量入为出，切忌盲目跟风和过度消费。 | Niánqīngrén zài wǎngshàng gòuwù shí yīngdāng bǎochí kèzhì yǔ lǐxìng, liàngrù-wéichū, qièjì mángmù gēnfēng hé guòdù xiāofèi. | Young people should exercise restraint and rationality when shopping online, living within their means and avoiding blind following or overspending. | Los jóvenes deben mantener la templanza y el juicio al comprar en línea, gastando según sus ingresos y evitando modas ciegas o el consumismo desenfrenado.
+  #2 | 作为拉动经济增长的三驾马车之一，持续扩大国内居民消费需求，是推动产业转型升级与经济高质量发展的强劲引擎。 | Zuòwéi lādòng jīngjì zēngzhǎng de sānjià mǎchē zhīyī, chíxù kuòdà guónèi jūmín xiāofèi xūqiú, shì tuīdòng chǎnyè zhuǎnxíng shēngjí yǔ jīngjì gāozhìliàng fāzhǎn de qiángjìn yǐnqíng. | As one of the three troikas driving economic growth, expanding domestic consumption demand is a powerful engine for industrial upgrading and high-quality development. | Como una de las tres locomotoras del crecimiento económico, fomentar la demanda interna de consumo es un motor vigoroso para la modernización productiva del país.
+
+collocations[6]{hanzi,en}:
+  刺激消费 | stimulate consumption; boost consumer spending
+  消费者权益 | consumer rights and interests
+  过度消费 | excessive consumption; overspending
+  日常消费 | daily expenditures; routine consumption
+  绿色消费 | green consumption; eco-friendly consumer habits
+  消费水平 | consumption level; standard of spending
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  量入为出 | liàng rù wéi chū | assess income to determine expenditure; live within means
+  节衣缩食 | jié yī suō shí | tighten one's belt; economize on food and clothing
+  挥金如土 | huī jīn rú tǔ | squander money like dirt; spend lavishly
+  开源节流 | kāi yuán jié liú | tap new sources of revenue and reduce expenditures
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  消 | xiāo | vanish; disperse; consume; eliminate | desaparecer; disipar; consumir; extinguir | 氵 | water | 氵 (water washing away) | 肖 (xiāo, small / resemble) | 10 | 左右结构 | Phono-semantic character where water radical 氵 indicates flowing water gradually dissolving or eroding goods away, and 肖 supplies sound. | Water (氵) flowing ceaselessly dissolves and washes away grains and resources until they diminish and disappear (消). | El agua corriente (氵) disuelve y desvanece los recursos poco a poco hasta hacerlos desaparecer por completo (消). | 55 | EFB | 
+  费 | fèi | cost; spend; expense; waste | gastar; costo; gasto; honorarios | 贝 | cowrie shell / money | 贝 (shell currency, expense) | 弗 (fú, not / wind around) | 9 | 上下结构 | Simplified from 費. Ancient character combining 弗 (winding, tension) above cowrie currency 贝, depicting outbound money spent and disbursed. | Strings of valuable shell currency (贝) untied and disbursed (弗) to acquire goods constitute expense and spending (费). | Las sartas de conchas monetarias (贝) desatadas y entregadas (弗) a cambio de provisiones representan el gasto y el costo (费). | 51 | LNBO | 費
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Resources washed away and diminished like water (消) while valuable shell money is expended (费) represents commercial consumption and spending (消费).
+  composite_memory_hook_es: Víveres que se desvanecen como el agua (消) mientras se desembolsan conchas monetarias (费) encarnan el consumo y el gasto (消费).
+  cultural_and_cognitive_roots: Traditional Chinese economic philosophy, exemplified in Xunzi's 'Rich Country' (荀子·富国), prioritized production and frugality over conspicuous consumption. Modern macroeconomic discourse in China has repositioned domestic consumption (内需消费) as the primary stabilizing engine of the dual-circulation model.
+  tone_sandhi_and_pitch_modulation: High-level 1st tone followed by falling 4th tone: 'xiāo fèi' (55-51). Hold 'xiāo' high and sustained, then drop sharply with decisive stress on 'fèi'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    悄 | qiāo | quiet; silent | Contains heart radical 忄 on the left instead of water 氵
+    梢 | shāo | tip of branch; treetop | Contains wood radical 木 on the left instead of water 氵
+    捎 | shāo | bring along; carry casually | Contains hand radical 扌 on the left instead of water 氵
+    沸 | fèi | boil; bubble over | Contains water radical 氵 before 弗 instead of shell 贝 below
+    拂 | fú | brush off; sweep lightly | Contains hand radical 扌 before 弗 instead of shell 贝 below
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    消 | xiāo | vanish; dissolve; disperse; spend
+    销 | xiāo | melt; cancel; market; sell
+    费 | fèi | spend; expense; fee; consume
+    资 | zī | money; capital; resources; endow
+    财 | cái | wealth; money; valuables
+
+semantic_boundary_contrasts:
+  core_nuance: 消费 denotes the ongoing purchase and consumption of goods, products, and services to satisfy living needs.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 消费 vs. 花费 | huāfèi | 消费 is an economic and sociological concept of consumer expenditure, while 花费 is an everyday term referring to specific money, time, or energy spent.
+    2 | 消费 vs. 浪费 | làngfèi | 消费 is standard, legitimate expenditure for life's needs, whereas 浪费 carries a negative moral judgment meaning to squander or misuse resources needlessly.
+    3 | 消费 vs. 投资 | tóuzī | 消费 depletes capital to satisfy current consumption, while 投资 deploys capital into assets with the expectation of generating future economic returns.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走在流光溢彩的商业街区，琳琅满目的橱窗让人目不暇接。面对形形色色的打折促销，理性的消费者懂得按需选购，不为华丽的宣传所诱惑，让每一分消费都物有所值。 | Zǒu zài liúguāng-yìcǎi de shāngyè jiēqū, línláng-mǎnmù de chúchuāng ràng rén mùbùxiájiē. Miànduì xíngxíng-sèsè de dǎzhé cùxiāo, lǐxìng de xiāofèizhě dǒngde ànxū xuǎngòu, bù wèi huálì de xuānchuán suǒ yòuhuò, ràng měi yì fēn xiāofèi dōu wùyǒusuǒzhí. | Walking through gleaming commercial avenues, eye-catching shop displays dazzle pedestrians. Facing diverse discounts, sensible consumers buy only what they need, ensuring every penny spent delivers true value. | Al pasear por las avenidas comerciales, los escaparates luminosos cautivan la vista. Ante las múltiples rebajas, el comprador juicioso adquiere solo lo preciso, haciendo que cada desembolso valga la pena.
+  #2 | 在数字经济时代，移动支付与线上平台的飞速普及极大地重构了大众的消费模式。从有形商品的采购到文化旅游等服务体验，消费结构的持续升级折射出当代人对美好生活的热切追求。 | Zài shùzì jīngjì shídài, yídòng zhīfù yǔ xiànshàng píngtái de fēisù pǔjí jídà de chónggòu le dàzhòng de xiāofèi móshì. Cóng yǒuxíng shāngpǐn de cǎigòu dào wénhuà lǚyóu děng fúwù tǐyàn, xiāofèi jiégòu de chíxù shēngjí zhéshè chū dāngdàirén duì měihǎo shēnghuó de rèqiè zhuīqiú. | In the digital era, mobile payments and online platforms have reshaped consumer patterns. From tangible goods to travel services, the upgrade in consumption reflects people's pursuit of a quality life. | En la era digital, los pagos móviles han remodelado el consumo popular. Desde mercancías tangibles hasta experiencias culturales, el auge del consumo refleja la aspiración contemporánea al bienestar.

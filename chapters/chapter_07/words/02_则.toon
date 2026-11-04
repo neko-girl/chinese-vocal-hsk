@@ -1,0 +1,65 @@
+id: 2
+hanzi: 则
+pinyin: zé
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: measure word for pieces of news, stories, regulations, or advertisements; standard; rule
+  es: clasificador para noticias, fábulas, artículos o reglamentos; norma; regla
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | used as a counting unit for distinct textual items such as stories, fables, news reports, announcements, or written rules | clasificador para contar piezas textuales autónomas como noticias, fábulas, artículos breves o anuncios | 一则寓言 (a fable)
+  2 | Conjunction | Literary | conjunction indicating contrast or logical consequence (equivalent to 'then', 'on the other hand', or 'in contrast') | conjunción literaria que expresa contraste o consecuencia lógica (por su parte, en cambio, entonces) | 穷则变，变则通 (in extremity there is change)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 今天的早报刊登了一则关于野生大象迁徙的新闻，引起了许多环保爱好者的热烈讨论。 | Jīntiān de zǎobào kāndēng le yì zé guānyú yěshēng dàxiàng qiānxǐ de xīnwén, yǐnqǐ le xǔduō huánbǎo àihàozhě de rèliè tǎolùn. | Today's morning paper published a news item regarding wild elephant migration, sparking lively discussion among environmentalists. | El periódico matutino publicó hoy una noticia sobre la migración de elefantes salvajes, suscitando un animado debate entre los ecologistas.
+  #2 | 这两则流传千古的寓言故事短小精悍，却以生动的比喻阐明了不可片面看问题的深刻哲理。 | Zhè liǎng zé liúchuán qiāngǔ de yùyán gùshì duǎnxiǎo jīnghàn, què yǐ shēngdòng de bǐyù chǎnmíng le bùkě piànmiàn kàn wèntí de shēnkè zhélǐ. | These two time-honored fables are concise yet punchy, using vivid metaphors to elucidate profound philosophical truths against viewing issues one-sidedly. | Estas dos fábulas transmitidas por generaciones son breves y certeras, y valiéndose de elocuentes metáforas aclaran la honda lección de no juzgar las cosas de forma parcial.
+
+collocations[6]{hanzi,en}:
+  一则新闻 | an item of news; a news story
+  一则寓言 | a fable; an allegorical tale
+  成语两则 | two idiom stories
+  一则广告 | a classified advertisement; a notice
+  一则日记 | a diary entry
+  原则规范 | principles and standards
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  以身作则 | yǐ shēn zuò zé | lead by personal example; serve as a model
+  有则改之 | yǒu zé gǎi zhī | correct errors if you have committed them
+  成则为王 | chéng zé wéi wáng | success makes a hero; might is right
+  原则分明 | yuán zé fēn míng | adhere to clear, unambiguous principles
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  则 | zé | rule; standard; measure word for items | norma; regla; clasificador de textos | 刂 | knife / cut | 刂 (knife, carving incision) | 贝 (bèi, value / shell) | 6 | 左右结构 | Originally depicted a sharp knife (刂) incising legal codes and regulations onto bronze ritual vessels or cowrie records (贝). | A sharp carver's knife (刂) precisely engraves an essential standard of value (贝) to create a binding rule (则). | Un cuchillo afilado (刂) graba con exactitud una norma valiosa (贝), fijando una regla o artículo indeleble (则). | 35 | BONI | 則
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A legal carver incises rules and measures onto valuable tablets with a sharp knife (刂), producing each distinct measured article or story (则).
+  composite_memory_hook_es: Con un cuchillo afilado (刂) se graba una valiosa norma (贝), dando origen a una regla o a una pieza escrita singular (则).
+  cultural_and_cognitive_roots: In ancient legalism and epigraphy, decrees were carved onto valuable bronze vessels with bronze knives. Thus 'zé' evolved from 'inscribed legal statutes' into a counting measure for discrete written clauses, journalistic dispatches, and classical stories.
+  tone_sandhi_and_pitch_modulation: High-rising 2nd tone 'zé' (35). The pitch glides steadily upward from mid register (3) to upper register (5).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    刚 | gāng | hard; barely; just now | Has 冈 on the left instead of 贝
+    列 | liè | row; list; arrange | Has 歹 on the left instead of 贝
+    划 | huà | row; scratch; plan | Has 戈 on the left instead of 贝
+    财 | cái | wealth; money | Has 贝 on the left and 才 on the right
+    判 | pàn | judge; decide | Has 半 on the left instead of 贝
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    恻 | cè | sorrowful; sympathetic
+    侧 | cè | side; lateral
+    测 | cè | survey; measure; gauge
+    厕 | cè | latrine; mingle
+    铡 | zhá | large guillotine paper/fodder cutter
+
+semantic_boundary_contrasts:
+  core_nuance: 则 is an elegant, formal measure word dedicated to counting discrete textual, regulatory, or journalistic units.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 则 vs. 条 | tiáo | 则 is used strictly for written textual narratives, fables, announcements, and news dispatches (e.g. 一则消息), whereas 条 is far broader, classifying long slender physical items (绳子, 鱼) as well as legal clauses (一条规定).
+    2 | 则 vs. 篇 | piān | 则 classifies short standalone announcements, notices, or micro-stories within a larger collection, whereas 篇 classifies complete, extensive standalone essays, articles, or chapters (一篇论文, 一篇文章).
+    3 | 则 vs. 个 | gè | 则 confers a formal, literary, or journalistic register appropriate for published entries, whereas 个 is the generic colloquial classifier (一个故事).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随手翻阅古典笔记，几则意蕴幽深的小故事跃然纸上。古人用极为简练的笔墨勾勒出世态炎凉，每一则都闪烁着理性的光芒。这种凝练的文字力量，跨越时空依然能够直击现代读者的心灵深处。 | Suíshǒu fānyuè gǔdiǎn bǐjì, jǐ zé yìyùn yōushēn de xiǎo gùshì yuèrán zhǐ shàng. Gǔrén yòng jíwéi jiǎnliàn de bǐmò gōulè chū shìtài-yánliáng, měi yì zé dōu shǎnshuò zhe lǐxìng de guāngmáng. Zhè zhǒng níngliàn de wénzì lìliàng, kuàyuè shíkōng yīrán nénggòu zhíjī xiàndài dúzhě de xīnlíng shēnchù. | Leafing through classical anthologies at leisure, several deeply suggestive micro-tales leap from the page. Ancient authors outlined the vicissitudes of human affairs with minimal brushstrokes, each item radiating the brilliance of reason. Such condensed literary power transcends time, directly touching modern readers. | Hojeando relatos clásicos, varias viñetas de hondo significado cobran vida en el papel. Los antiguos esbozaban la complejidad humana con trazos sucintos; cada pasaje irradia lucidez racional. Esta admirable economía verbal trasciende las épocas y conmueve hondamente la sensibilidad del lector contemporáneo.
+  #2 | 现代传媒环境下，每天都有成千上万则资讯通过算法推送到受众眼前。面对纷繁复杂的信息洪流，如何保持独立思考、从浩瀚的数据中甄别出有价值的内容，成为衡量现代公民信息素养的重要准则。 | Xiàndài chuánméi huánjìng xià, měitiān dōu yǒu chéngqiān-shàngwàn zé zīxùn tōngguò suànfǎ tuīsòng dào shòuzhòng yǎnqián. Miànduì fēnfán fùzá de xìnxī hóngliú, rúhé bǎochí dúlì sīkǎo, cóng hàohàn de shùjù zhōng zhēnbié chū yǒu jiàzhí de nèiróng, chéngwéi héngliáng xiàndài gōngmín xìnxī sùyǎng de zhòngyào zhǔnzé. | In modern media environments, tens of thousands of news dispatches are pushed before audiences daily by algorithms. Facing this torrent, maintaining independent reflection and discerning truly valuable content from vast data streams has become an essential benchmark of information literacy. | En los entornos digitales contemporáneos, miles de noticias y avisos son suministrados a diario a los usuarios. Ante esta marea informativa, preservar el juicio crítico e identificar el saber valioso entre la avalancha de datos se erige en pauta esencial de madurez intelectual.

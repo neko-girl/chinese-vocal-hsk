@@ -1,0 +1,65 @@
+id: 23
+hanzi: 打猎
+pinyin: dǎ liè
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to go hunting; to chase and catch wild animals; venery
+  es: cazar; ir de cacería; perseguir y abatir presas o piezas de caza
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to pursue, chase, and shoot or capture wild animals or game for food, sport, or protection | perseguir y disparar a animales salvajes o presas para alimento, deporte o defensa | 上山打猎 (go up the mountain to hunt)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 天色渐晚，李广将军率领随从在山林深处打猎，忽然发现前方草丛中似乎有一只猛虎正虎视眈眈。 | Tiānsè jiàn wǎn, Lǐ Guǎng jiāngjūn shuàilǐng suícóng zài shānlín shēnchù dǎliè, hūrán fāxiàn qiánfāng cǎocóng zhōng sìhū yǒu yì zhī měnghǔ zhèng hǔshì-dāndān. | As dusk deepened, General Li Guang led his retinue to hunt deep in mountain woods, when he suddenly spotted what seemed to be a fierce tiger glaring intently. | Caía la tarde cuando el general Li Guang y su séquito cazaban en la espesura del bosque, cuando divisó de improviso lo que parecía un tigre acechando entre la maleza.
+  #2 | 为了保护珍稀濒危野生动物资源，国家自然保护区内严禁任何形式的非法打猎与盗伐林木行为。 | Wèile bǎohù zhēnxī bīnwēi yěshēng dòngwù zīyuán, guójiā zìrán bǎohùqū nèi yánjìn rènhé xíngshì de fēifǎ dǎliè yǔ dàofá línmù xíngwéi. | To protect rare and endangered wildlife resources, all forms of illegal hunting and unauthorized timber poaching are strictly banned in national reserves. | Para salvaguardar la fauna en peligro de extinción, en las reservas naturales nacionales queda tajantemente prohibida toda forma de caza furtiva o tala ilegal de árboles.
+
+collocations[6]{hanzi,en}:
+  上山打猎 | go into the mountains to hunt
+  非法打猎 | illegal hunting; poaching
+  打猎工具 | hunting gear or implements
+  外出打猎 | go out on a hunt
+  打猎猎犬 | hunting dog; hound
+  打猎季节 | hunting season
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  打猎巡山 | dǎ liè xún shān | hunt and patrol the mountain forests
+  引狼入室 | yǐn láng rù shì | lead a wolf into the house; invite disaster unwittingly
+  如狼似虎 | rú láng sì hǔ | like wolves and tigers; ferocious and menacing
+  草木皆兵 | cǎo mù jiē bīng | every bush and tree looks like an enemy soldier; state of extreme panic
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  打 | dǎ | strike; hit; beat; engage in | golpear; batir; emprender; cazar | 扌 | hand | 扌 (hand, physical strike) | 丁 (dīng, nail / phonetic) | 5 | 左右结构 | Phono-semantic compound: hand 扌 striking a nail or tool 丁. Extensively grammaticalized as a dynamic verb prefix. | A determined hand (扌) strikes down firmly like hammer on nail (丁) to perform an action (打). | Una mano decidida (扌) golpea con firmeza como martillo sobre clavo (丁) para emprender la acción (打). | 214 | QMN | 
+  猎 | liè | hunt; chase game; pursue | cazar; perseguir presas | 犭 | dog / wild beast | 犭 (hunting hound / beast) | 昔 (xī, sun dried meat / past) | 11 | 左右结构 | Simplified from 獵. Ancient pictogram of hunting hounds 犭 racing through wild terrain to seize meat 昔. | An alert hunting dog (犭) dashes through golden autumn fields tracking game for dinner (昔) to hunt (猎). | Un fiel perro lebrel (犭) corretea ágil entre el matorral siguiendo el rastro de la caza (昔) para abatirla (猎). | 51 | KHTA | 獵
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Striking with armed hands (打) alongside fierce hunting dogs tracking wild game (猎) captures the thrill of hunting (打猎).
+  composite_memory_hook_es: Golpear con presteza (打) junto a lebreles de caza que persiguen a la fiera (猎) recrea la faena de cazar (打猎).
+  cultural_and_cognitive_roots: In ancient China, imperial spring and autumn hunting expeditions (田猎) were sacred rituals testing martial readiness and horsemanship. Classical military strategy was intimately linked to tracking quarry in the wild, explaining why generals like Li Guang were consummate hunters.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by falling 4th tone: 'dǎ liè' (214-51). Dip the pitch on 'dǎ' before striking firmly downward on 'liè'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    猪 | zhū | pig; swine | Has 者 on the right instead of 昔
+    猫 | māo | cat | Has 苗 on the right instead of 昔
+    借 | jiè | borrow; lend | Has person radical 亻 on the left instead of 犭
+    惜 | xī | cherish; pity; regret | Has heart radical 忄 on the left instead of 犭
+    错 | cuò | mistake; wrong; complex | Has metal radical 钅 on the left
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    猎 | liè | hunt; pursue game; seek
+    猎人 | lièrén | hunter; huntsman
+    昔 | xī | past times; former days
+    借 | jiè | borrow; lend
+    惜 | xī | cherish; spare; begrudge
+
+semantic_boundary_contrasts:
+  core_nuance: 打猎 is the everyday verb phrase for hunting wildlife in forests and mountains.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 打猎 vs. 捕鱼 | bǔyú | 打猎 focuses on terrestrial game, birds, and forest mammals using bows, guns, or traps, whereas 捕鱼 refers specifically to catching aquatic fish and crustaceans.
+    2 | 打猎 vs. 盗猎 | dàoliè | 打猎 is a neutral historical or permitted sporting activity, whereas 盗猎 refers specifically to illegal poaching in violation of environmental laws.
+    3 | 打猎 vs. 围猎 | wéiliè | 打猎 is generic hunting, whereas 围猎 denotes a large-scale collective battue or cordon hunt where troops encircle game.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 深秋的山林层林尽染，落叶在脚下发出沙沙的声响。猎人身背弓箭穿行在崇山峻岭之间，敏锐的双耳倾听着林间风吹草动的细微变化。古老的打猎生活不仅是对体魄的考验，更需要人与自然生态达成某种心照不宣的默契。 | Shēnqiū de shānlín cénglín-jìnrǎn, luòyè zài jiǎoxià fāchū shāshā de shēngxiǎng. Lièrén shēnbēi gōngjiàn chuānxíng zài chóngshān-jùnlǐng zhījiān, mǐnruì de shuāng'ěr qīngtīng zhe línjiān fēngchuī-cǎodòng de xìwēi biànhuà. Gǔlǎo de dǎliè shēnghuó bùjǐn shì duì tǐpò de kǎoyàn, gèng xūyào rén yǔ zìrán shēngtài dáchéng mǒuzhǒng xīnzhào-bùxuān de mòqì. | Late autumn woods glow with red leaves rustling underfoot. The hunter treks between rugged peaks with bow and arrow, ears alert to subtle changes in the breeze. Ancient hunting tested physical endurance and required tacit understanding with the mountain. | En otoño, las hojas caídas crujen bajo las pisadas en el bosque teñido de ocres. El cazador cruza riscos con su arco, atento al leve crujido de la hojarasca. Aquella ancestral vida de caza templaba el cuerpo y exigía una callada sintonía con las leyes del monte.
+  #2 | 随着生态保护意识的不断增强，传统游猎民族的生活方式正在经历深刻转变。许多曾经世代依靠打猎为生的猎民主动收起猎枪，转而成为保护区里的护林员，用深沉的爱心守望着祖祖辈辈生活的莽莽林海。 | Suízhe shēngtài bǎohù yìshí de búduàn zēngqiáng, chuántǒng yóuliè mínzú de shēnghuó fāngshì zhèngzài jīnglì shēnkè zhuǎnbiàn. Xǔduō céngjīng shìdài yīkào dǎliè wéishēng de lièmín zhǔdòng shōuqǐ lièqiāng, zhuǎn'ér chéngwéi bǎohùqū lǐ de hùlínyuán, yòng shēnchén de àixīn shǒuwàng zhe zǔzǔ-bèibèi shēnghuó de mǎngmǎng línhǎi. | With burgeoning ecological awareness, nomadic hunting traditions are undergoing transformation. Many hunters who once subsisted on game voluntarily surrendered firearms to become rangers, safeguarding ancestral mountain forests with deep affection. | Al despertar la conciencia ecológica, los pueblos que vivían de la caza han transformado su modo de vida. Muchos cazadores han depuesto sus escopetas para convertirse en guardabosques de reservas naturales, custodiando con cariño la inmensidad forestal de sus ancestros.

@@ -1,0 +1,65 @@
+id: 27
+hanzi: 淘气
+pinyin: táo qì
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: naughty; mischievous; playfully unruly; boisterous
+  es: travieso; revoltoso; inquieto; travieso e indisciplinado
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | full of energetic mischief, restless romp, and minor disobedience typical of spirited young children | lleno de energía desbordante y propensión a corretear, jugar y cometer pequeñas diabluras infantiles | 淘气包 (little troublemaker / naughty imp)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 那个淘气的小男孩整天爬树抓知了，衣服上沾满了泥巴，却依然笑得格外开心。 | Nàge táoqì de xiǎo nánhái zhěngtiān páshù zhuā zhīliǎo, yīfu shang zhānmǎn le níbā, què yīrán xiào de géwài kāixīn. | That naughty little boy climbed trees catching cicadas all day, clothes covered in mud, yet beamed with utmost delight. | Aquel chiquillo revoltoso se pasaba el día trepando a los árboles cazando cigarras con la ropa embarrada, pero riendo a carcajadas.
+  #2 | 面对精力极其充沛且淘气好动的低龄学童，教师更需要具备充足的耐心与善于发现闪光点的教育智慧。 | Miànduì jīnglì jíqí chōngpèi qiě táoqì hàodòng de dīlíng xuétóng, jiàoshī gèng xūyào jùbèi chōngzú de nàixīn yǔ shànyú fāxiàn shǎnguāngdiǎn de jiàoyù zhìhuì. | Facing energetic, mischievous young schoolchildren, teachers need abundant patience and educational wisdom to spot their unique sparks. | Ante alumnos de corta edad rebosantes de brío y travesura, los maestros precisan paciencia infinita y agudeza para descubrir sus talentos.
+
+collocations[6]{hanzi,en}:
+  淘气包 | little rascal; bundle of mischief
+  淘气好动 | boisterously mischievous; restless and playful
+  顽皮淘气 | playful and naughty; mischievous
+  生性淘气 | naturally mischievous; restless by temperament
+  显得淘气 | appear naughty; look playful
+  淘气的眼神 | mischievous gaze; playful eyes
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  生龙活虎 | shēng lóng huó hǔ | doughty as a dragon and lively as a tiger; brimming with vitality
+  上蹿下跳 | shàng cuān xià tiào | leap up and down; hop about restlessly
+  活蹦乱跳 | huó bèng luàn tiào | bouncing and skipping; full of life and friskiness
+  欢蹦乱跳 | huān bèng luàn tiào | leap and romp with joy; frisk about happily
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  淘 | táo | wash; dredge; sift;淘气 (mischievous) | lavar; colar; cribar; dragar | 氵 | water | 氵 (water washing away) | 匋 (táo, pottery jar / phonetic) | 11 | 左右结构 | Phono-semantic character where water radical 氵 evokes swirling river water panning gravel, and 匋 supplies sound. | Water swirling energetically (氵) inside an earthen basin (匋) to pan rice depicts turbulent, restless splashing activity (淘). | El agua que se agita briosa (氵) dentro de la vasija de barro (匋) para lavar el grano evoca el movimiento revoltoso e incesante (淘). | 35 | EOU | 
+  气 | qì | gas; air; energy; temperament | aire; gas; vapor; soplo vital | 气 | steam / gas | 气 (curling rising vapor) | 气 (pictographic) | 4 | 单一结构 | Simplified from 氣. Ancient pictograph showing three swirling layers of atmospheric vapor and mist rising effortlessly into the skies. | Wisps of warm rising vapor and atmospheric energy (气) express boundless vitality, breath, and restless spirit (气). | Espirales de vapor y aire cálido (气) que ascienden con ligereza expresan el aliento vital y el ánimo revoltoso (气). | 51 | OMN | 氣
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Swirling, bubbling water that refuses to stay still (淘) driven by boundless, restless inner vapor and energy (气) defines a naughty child (淘气).
+  composite_memory_hook_es: Agua que se agita sin reposo (淘) impulsada por un vapor de energía inagotable (气) encarna al chiquillo revoltoso (淘气).
+  cultural_and_cognitive_roots: In everyday northern Chinese vernacular, calling a child a 'táoqì bāo' (淘气包 - bag of mischief) is a term of genuine family endearment. It portrays a healthy, spirited disposition full of physical vigor rather than moral failing.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by falling 4th tone: 'táo qì' (35-51). Glide smoothly up on 'táo', then drop sharply and crisply on 'qì'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    萄 | táo | grape (葡萄) | Has grass radical 艹 on top instead of water 氵 on left
+    陶 | táo | pottery; ceramics; happy | Has mound/ear radical 阝 on the left instead of water 氵
+    淘 | táo | wash; sift | Contains water radical 氵 before 匋
+    汽 | qì | steam; vapor | Has water radical 氵 on the left of 气
+    氛 | fēn | atmosphere; fragrance | Has 分 inside 气 at bottom
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    淘 | táo | pan; sift; wash; cleanse
+    汰 | tài | discard; weed out; wash
+    气 | qì | breath; vapor; energy; anger
+    息 | xī | breath; cease; news; rest
+    神 | shén | spirit; deity; expression
+
+semantic_boundary_contrasts:
+  core_nuance: 淘气 focuses primarily on high-energy, boisterous, restless physical antics and playful disobedience in children.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 淘气 vs. 调皮 | tiáopí | 淘气 emphasizes unrestrained physical exuberance, scampering, and romp, while 调皮 emphasizes clever mental teasing, sly humor, and banter.
+    2 | 淘气 vs. 任性 | rènxìng | 淘气 is lighthearted and innocent play, while 任性 signifies willful self-centeredness, obstinacy, and temper tantrums.
+    3 | 淘气 vs. 乖巧 | guāiqiǎo | 淘气 describes a child who is constantly running around and pushing boundaries, the exact opposite of 乖巧 (obedient, well-behaved, demure).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 乡村夏日的池塘边总能听见淘气孩童的欢叫声。他们头顶宽大的荷叶，光着脚丫踩在松软的淤泥里捉小鱼小虾，哪怕摔成一个个小泥人，也乐得手舞足蹈。 | Xiāngcūn xiàrì de chítáng biān zǒng néng tīngjiàn táoqì háitóng de huānjiàoshēng. Tāmen tóudǐng kuāndà de héyè, guāngzhe jiǎoyā cǎi zài sōngruǎn de yūní lǐ zhuō xiǎoyú xiǎoxiā, nǎpà shuāi chéng yí gè gè xiǎonírén, yě lè de shǒuwǔ-zúdǎo. | By the rural summer pond, one always hears naughty kids cheering. Wearing lotus leaves on their heads and treading mud for fish, even falling into muddy imps brings wild dance. | Junto al estanque rural en verano siempre resuenan los gritos de chiquillos revoltosos. Con hojas de loto por sombrero buscan renacuajos en el fango, brincando de gozo embadurnados de lodo.
+  #2 | 儿童心理学研究表明，适度的淘气是幼童大脑认知发育与空间探索欲旺盛的健康征兆。宽容理解孩子的探索天性，才能让他们在充满安全感与欢笑的环境中茁壮成长。 | Értóng xīnlǐxué yánjiū biǎomíng, shìdù de táoqì shì yòutóng dànǎo rènzhī fāyù yǔ kōngjiān tànsuǒyù wàngshèng de jiànkāng zhēngzhào. Kuānróng lǐjiě háizi de tànsuǒ tiānxìng, cáinéng ràng tāmen zài chōngmǎn ānquángǎn yǔ huánxiào de huánjìng zhōng zhuózhuàng chéngzhǎng. | Child psychology reveals moderate naughtiness is a healthy sign of cognitive growth and spatial curiosity. Embracing this instinct helps children thrive in safe, joyful settings. | La psicología infantil constata que cierta inquietud traviesa es indicio de vigor mental y afán exploratorio. Comprender este instinto permite que los niños maduren seguros entre risas.

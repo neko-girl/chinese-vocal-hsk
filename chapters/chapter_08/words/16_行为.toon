@@ -1,0 +1,65 @@
+id: 16
+hanzi: 行为
+pinyin: xíng wéi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: behavior; conduct; action; activity; deeds; behavioral manners
+  es: conducta; comportamiento; proceder; actuación; actos humanos
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the way in which one acts or conducts oneself, especially toward others; visible physical activities or moral deeds | modo de actuar o conducirse en la vida, especialmente respecto a las normas y a los demás; conducta | 文明行为 (civilized behavior)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老人凭借敏锐的观察力，能够从猴子们蹦跳、抓挠等细微的行为举止中准确判断出它们当下的情绪与需求。 | Lǎorén píngjiè mǐnruì de guānchálì, nénggòu cóng hóuzi men bèngtiào, zhuānáo děng xìwēi de xíngwéi jǔzhǐ zhōng zhǔnquè pànduàn chū tāmen dāngxià de qíngxù yǔ xūqiú. | With sharp observation, the elder could accurately judge the monkeys' immediate moods and needs from subtle behavioral mannerisms like hopping and scratching. | Valiéndose de una fina observación, el anciano descifraba el ánimo y las necesidades de los monos a partir de ademanes sutiles como brincar o rascarse.
+  #2 | 在公共场所大声喧哗甚至随意插队的不文明行为，不仅严重破坏了公共秩序，更是缺乏社会公德心的具体表现。 | Zài gōnggòng chǎngsuǒ dàshēng xuānhuá shènzhì suíyì chāduì de bù wénmíng xíngwéi, bùjǐn yánzhòng pòhuài le gōnggòng zhìxù, gèng shì quēfá shèhuì gōngdéxīn de jùtǐ biǎoxiàn. | Uncivilized behaviors such as shouting or cutting queues in public not only disrupt order, but manifest a severe lack of civic virtue. | Vociferar o colarse en lugares públicos no solo altera la convivencia ciudadana, sino que evidencia una grave carencia de civismo y respeto al prójimo.
+
+collocations[6]{hanzi,en}:
+  文明行为 | civilized conduct or behavior
+  违法行为 | illegal act; unlawful conduct
+  行为举止 | demeanor; manners; bearing
+  日常行为 | everyday behavior or conduct
+  规范行为 | standardize or regulate behavior
+  消费者行为 | consumer behavior (marketing)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  言行一致 | yán xíng yí zhì | words and deeds coincide; practice what one preaches
+  胡作非为 | hú zuò fēi wéi | act recklessly and defy the law; run amok
+  身体力行 | shēn tǐ lì xíng | practice what one preaches earnestly in physical deeds
+  谨言慎行 | jǐn yán shèn xíng | be cautious in speech and prudent in deeds
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  行 | xíng | walk; go; travel; execute | caminar; andar; ejecutar; conducta | 行 | crossroad / step | 彳 (left foot step) | 亍 (right foot step) | 6 | 左右结构 | Ancient oracle bone pictogram of a four-way street crossroad, portraying walking, travelling, and active movement. | Taking alternating footsteps (彳 and 亍) across a wide four-way intersection drives dynamic human action (行). | Dar pasos alternos en una encrucijada de cuatro caminos pone en marcha la acción humana en camino (行). | 35 | HONO | 
+  为 | wéi | do; act; become; serve as | hacer; actuar; obrar; servir de | 丶 | dot | 丶 (guiding spark) | 力 (lì, muscular labor / hand) | 4 | 单一结构 | Simplified from 為. Ancient oracle bone pictogram showing a human hand guiding a female elephant to work. | Guiding a strong beast with a determined hand to build, create, and labor actively performs deeds (为). | Conducir a la bestia con mano diestra para labrar y construir ejecuta la acción creadora (为). | 35 | IKS | 為
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Walking with purpose along the crossroad (行) while executing deliberate deeds (为) constitutes observable human conduct and behavior (行为).
+  composite_memory_hook_es: Caminar por la encrucijada (行) realizando obras con las manos (为) conforma la conducta y el proceder (行为).
+  cultural_and_cognitive_roots: In Confucian morality (论语), 行 (deeds) is always coupled with 言 (words), where moral integrity requires unity of speech and action (讷于言而敏于行). In modern psychology and legal jurisprudence, 行为 defines intentional, goal-directed physical manifestations of human consciousness.
+  tone_sandhi_and_pitch_modulation: Dual rising 2nd tones: 'xíng wéi' (35-35). Rise smoothly on both syllables without dropping pitch mid-way.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    待 | dài | wait; treat | Has 寺 inside the crossroad radical
+    街 | jiē | street; thoroughfare | Has 圭 inside the crossroad radical
+    办 | bàn | handle; manage | Has 力 flanked by two dots
+    力 | lì | strength; power | Lacks the upper dots and hook of 为
+    九 | jiǔ | nine | Has a curved hook without dots
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    行 | xíng | walk; travel; conduct
+    衍 | yǎn | overflow; develop; elaborate
+    衔 | xián | hold in mouth; title; rank
+    为 | wéi | act; do; become
+    伪 | wěi | false; fake; counterfeit
+
+semantic_boundary_contrasts:
+  core_nuance: 行为 refers to outward physical actions or social conduct subjected to ethical or legal judgment.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 行为 vs. 行动 | xíngdòng | 行为 emphasizes moral or behavioral patterns (文明行为, 犯罪行为), whereas 行动 emphasizes concrete physical execution, movements, or campaign operations (采取行动).
+    2 | 行为 vs. 举动 | jǔdòng | 举动 refers to a brief, spontaneous physical gesture or impulse (反常的举动), while 行为 is broader and structured.
+    3 | 行为 vs. 表现 | biǎoxiàn | 行为 refers to physical deeds performed, while 表现 refers to the evaluative performance, attitude, or outward manifestation of character.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 衡量一个人的道德修养，不在于他说了多么动听的漂亮话，而在于他在现实生活中的一言一行。那些在无人注视的幽微之处依然恪守良知、严于律己的高尚行为，宛如暗夜中的明灯，散发着永恒的人格光辉。 | Héngliáng yí gè rén de dàodé xiūyǎng, búzàiyú tā shuō le duōme dòngtīng de piàoliang huà, ér zàiyú tā zài xiànshí shēnghuó zhōng de yìyán-yìxíng. Nàxiē zài wúrén zhùshì de yōuwēi zhīchù yīrán kèshǒu liángzhī, yányúlùjǐ de gāoshàng xíngwéi, wǎnrú ànyè zhōng de míngdēng, sànfà zhe yǒnghéng de réngé guānghuī. | Measuring moral character depends not on florid words spoken, but deeds in daily life. Honorable acts of self-discipline upheld in obscurity where no one watches radiate eternal personal nobility like beacons in the dark. | El temple moral de una persona no se mide por bellas palabras, sino por sus actos en la vida diaria. Las conductas nobles que en la soledad acatan la conciencia y el deber brillan en la penumbra como un faro eterno de virtud.
+  #2 | 在大数据与行为科学深度融合的今天，消费者在线浏览与支付行为的数字化足迹正成为重塑商业模式的关键驱动力。企业必须在严格保障用户数据隐私与合法权益的前提下，通过对群体行为模式的理性分析实现精准服务。 | Zài dàshùjù yǔ xíngwéi kēxué shēndù rónghé de jīntiān, xiāofèizhě zàixiàn liúlǎn yǔ zhīfù xíngwéi de shùzìhuà zújì zhèng chéngwéi chóngsù shāngyè móshì de guānjiàn qūdònglì. Qǐyè bìxū zài yángé bǎozhàng yònghù shùjù yǐnsī yǔ héfǎ quányì de qiántí xià, tōngguò duì qúntǐ xíngwéi móshì de lǐxìng fēnxī shíxiàn jīngzhǔn fúwù. | As big data merges with behavioral science, digital footprints of browsing and payments drive new business models. Firms must safeguard privacy while analyzing collective behavioral patterns to optimize customer service. | En la convergencia de la ciencia de la conducta y los macrodatos, las huellas digitales de compra guían la innovación mercantil. Las empresas deben velar por la privacidad del usuario al analizar patrones colectivos para prestar servicios precisos.

@@ -1,0 +1,65 @@
+id: 2
+hanzi: 词汇
+pinyin: cí huì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: vocabulary; lexicon; collective words of a language or specialist domain
+  es: vocabulario; léxico; caudal de palabras de un idioma o disciplina
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the total body of words employed in a particular language, literary style, individual's usage, or specialized field | conjunto total de palabras que integran un idioma, el repertorio de un autor o un campo científico | 丰富词汇量 (enrich vocabulary size)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 成语是汉语词汇宝库中极富表现力的一部分，短短四个字往往蕴含着深邃的历史文化意蕴。 | Chéngyǔ shì Hànyǔ cíhuì bǎokù zhōng jí fù biǎoxiànlì de yíbùfen, duǎnduǎn sì gè zì wǎngwǎng yùnhán zhe shēnsù de lìshǐ wénhuà yìyùn. | Idioms form an exceptionally expressive part of the Chinese lexical treasury, four short characters holding deep cultural connotations. | Los modismos integran una parcela extraordinariamente expresiva del léxico chino; cuatro breves caracteres encierran una honda resonancia histórica.
+  #2 | 在第二语言习得过程中，广泛阅读是快速扩大学习者词汇储备并培养地道语感的最有效途径。 | Zài dì-èr yǔyán xídé guòchéng zhōng, guǎngfàn yuèdú shì kuàisù kuòdà xuéxízhě cíhuì chǔbèi bìng péiyǎng dìdào yǔgǎn de zuì yǒuxiào tújìng. | In second language acquisition, extensive reading is the most effective avenue for rapidly expanding vocabulary reserves and nurturing intuition. | En el aprendizaje de segundas lenguas, la lectura asidua constituye la vía más fecunda para ensanchar el caudal de vocabulario y afinar el sentido del idioma.
+
+collocations[6]{hanzi,en}:
+  词汇量 | size or volume of vocabulary
+  丰富词汇 | enrich one's vocabulary
+  专业词汇 | specialized technical vocabulary
+  核心词汇 | core lexical vocabulary
+  积累词汇 | accumulate vocabulary items
+  词汇系统 | lexical system of a language
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  言近旨远 | yán jìn zhǐ yuǎn | words are simple but meaning is profound
+  微言大义 | wēi yán dà yì | subtle words carrying sublime, profound principles
+  字字珠玑 | zì zì zhū jī | every word is a shining pearl; exquisite literary style
+  博闻强识 | bó wén qiáng zhì | widely read with retentive encyclopedic memory
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  词 | cí | word; speech; lyrics; poetic song | palabra; término; letra poética | 讠 | speech / words | 讠 (speech, spoken words) | 司 (sī, manage / preside / mouth) | 7 | 左右结构 | Simplified from 詞. Phono-semantic compound: speech radical 讠 paired with 司 (official decree/governing), meaning officially governed spoken phrases. | Formulating words (讠) under the strict command and governance of grammar (司) creates a distinct word (词). | Articular palabras (讠) bajo la pauta rectora de la expresión ordenada (司) alumbra un término preciso (词). | 35 | IVNSR | 詞
+  汇 | huì | converge; gather together; remit | confluir; converger; reunir; remitir | 氵 | water | 氵 (water streams) | 匚 (fāng, box / vessel) | 5 | 左右结构 | Simplified from 彙 and 滙. Water 氵 converging into a deep reservoir 匚, or hedgehog spikes gathering together 彙. | Clear water streams (氵) flowing from all mountain valleys converge into a rich central basin (匚) to assemble (汇). | Las corrientes de agua (氵) que bajan de los valles confluyen en un estanque común (匚) reuniéndose en manantial (汇). | 51 | EKS | 彙
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When individual spoken words (词) flow like streams to converge into a collective reservoir (汇), they form a language's vocabulary (词汇).
+  composite_memory_hook_es: Cuando las palabras dichas (词) confluyen como arroyos en un caudal común (汇), integran el caudal de vocabulario (词汇).
+  cultural_and_cognitive_roots: The character 词 originally denoted poetic verses set to musical tunes in the Song Dynasty (宋词). Paired with 汇 (confluence of waters), 词汇 conceptualizes a language's vocabulary as an oceanic convergence of centuries of cultural wisdom and communicative innovation.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by falling 4th tone: 'cí huì' (35-51). Lift cleanly on 'cí', then drop with firm cadence on 'huì'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    司 | sī | manage; control; department | Lacks the speech radical 讠 on the left
+    伺 | sì | wait for; serve; spy | Has person radical 亻 on the left instead of 讠
+    饲 | sì | feed; rear animals | Has food radical 饣 on the left instead of 讠
+    江 | jiāng | river | Has 工 on the right instead of 匚
+    汁 | zhī | juice; gravy; sap | Has 十 on the right instead of 匚
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    词 | cí | word; speech; Song lyric
+    司 | sī | take charge of; administer
+    嗣 | sì | inherit; succeed; heirs
+    汇 | huì | converge; collect; remit
+    淮 | huái | Huai River in central China
+
+semantic_boundary_contrasts:
+  core_nuance: 词汇 refers to the collective aggregate lexical inventory of a language or speaker, rather than an isolated word.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 词汇 vs. 词语 | cíyǔ | 词汇 is a collective noun designating the whole lexicon or lexical system (词汇丰富), whereas 词语 refers to discrete, individual vocabulary items or words (这个词语的意思).
+    2 | 词汇 vs. 单词 | dāncí | 词汇 is abstract and systemic, while 单词 specifically refers to a single individual word, most frequently used when learning foreign vocabulary (背英语单词).
+    3 | 词汇 vs. 术语 | shùyǔ | 词汇 is the general lexicon, while 术语 refers specifically to standardized professional technical terms in science and law.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 语言是思想的直接载体，而丰富生动的词汇则是心灵表达的七彩画笔。一个人掌握的词汇越充盈，他对大千世界的观察便越精微，精神内涵也就越深邃。在阅读经典的漫长过程中积累词汇，便是在为自己的灵魂构筑殿堂。 | Yǔyán shì sīxiǎng de zhíjiē zàitǐ, ér fēngfù shēngdòng de cíhuì zé shì xīnlíng biǎodá de qīcǎi huàbǐ. Yí gè rén zhǎngwò de cíhuì yuè chōngyíng, tā duì dàqiān-shìjiè de guānchá biàn yuè jīngwēi, jīngshén nèihán yě jiù yuè shēnsù. Zài yuèdú jīngdiǎn de màncháng guòchéng zhōng jīlěi cíhuì, biàn shì zài wèi zìjǐ de línghún gòuzhù diàntáng. | Language is the carrier of thought, and vivid vocabulary is the paintbrush of the soul. The richer a person's vocabulary, the more subtle their observations of the world, and the deeper their spirit. Accumulating words while reading classics builds palaces for the soul. | La lengua es cauce del pensamiento y el rico léxico el pincel multicolor del espíritu. Cuanto mayor es el caudal de vocabulario, más penetrante se torna la mirada sobre el mundo y más hondo el entendimiento. Atesorar palabras leyendo a los clásicos es erigir un templo para el alma.
+  #2 | 在现代计算语言学中，大规模语料库为构建多维度现代汉语词汇语义知识库提供了坚实支撑。通过分析海量数字化文本中的词汇共现与搭配规律，机器能够更自然地理解人类语义，推动自然语言处理技术的跨越式突破。 | Zài xiàndài jìsuàn yǔyánxué zhōng, dàguīmó yǔliàokù wèi gòujiàn duōwéidù xiàndài Hànyǔ cíhuì yánjí zhīshìkù tígōng le jiānshí zhīchēng. Tōngguò fēnxī hǎiliàng shùzìhuà wénběn zhōng de cíhuì gòngxiàn yǔ dāpèi guīlǜ, jīqì nénggòu gèng zìrán de lǐjiě rénlèi yǔyì, tuīdòng zìrán yǔyán chǔlǐ jìshù de kuàyuèshì tūpò. | In computational linguistics, large corpora support multi-dimensional Chinese lexical semantic ontologies. Analyzing word co-occurrences in digitized texts allows machines to comprehend human semantics naturally, driving leaps in NLP. | En la lingüística computacional, los corpus masivos sustentan bases de conocimiento léxico-semántico multidimensionales. El análisis de colocaciones y coocurrencias textuales permite a las máquinas captar el sentido del habla, propiciando saltos históricos en el procesamiento del lenguaje natural.

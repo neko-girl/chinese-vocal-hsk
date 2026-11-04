@@ -1,0 +1,65 @@
+id: 26
+hanzi: 摇
+pinyin: yáo
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to shake; to wave; to rock; to sway; to oscillate; to turn (a handle)
+  es: agitar; mover; sacudir; menear; mecer; oscilar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to move back and forth, from side to side, or up and down; to rock, sway, or wave | mover de un lado a otro o de arriba abajo; agitar, menear o sacudir | 摇摇头 (shake one's head)
+  2 | Verb | Standard | to cause to vacillate or waver (beliefs, determination, status) | hacer vacilar o tambalearse (la determinación, la fe o la estabilidad) | 动摇决心 (shake someone's resolve)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对老虎的潜伏，身旁的随从们吓得面如土色，连连摇头劝说李广将军赶快撤退。 | Miànduì lǎohǔ de qiánfú, shēnpáng de suícóng men xià de miànrútǔsè, liánlián yáotóu quànshuō Lǐ Guǎng jiāngjūn gǎnkuài chètuì. | Facing the lurking tiger, retinue members turned ashen with fear, shaking heads repeatedly urging General Li Guang to withdraw immediately. | Ante el tigre al acecho, los aterrados guardias palidecieron de miedo y no cesaron de menear la cabeza instando al general Li Guang a replegarse deprisa.
+  #2 | 无论外界的环境多么喧嚣浮躁，真正的智者始终心如磐石，任何诱惑都无法动摇他内心的信念。 | Wúlùn wàijiè de huánjìng duōme xuāoxiāo fúzào, zhēnzhèng de zhìzhě shǐzhōng xīnrúpánshí, rènhé yòuhuò dōu wúfǎ dòngyáo tā nèixīn de xìnniàn. | No matter how noisy and volatile the outside world is, a true sage remains firm as a boulder; no temptations can shake inner conviction. | Por ruidoso y frívolo que resulte el mundo exterior, el sabio auténtico permanece firme como roca; ninguna tentación logra hacer tambalear su fe íntima.
+
+collocations[6]{hanzi,en}:
+  摇头叹息 | shake one's head and sigh
+  摇晃船只 | rock or sway a boat
+  摇摆不定 | sway or vacillate indecisively
+  大摇大摆 | strut swaggering back and forth
+  动摇信念 | shake one's beliefs or resolve
+  摇动扇子 | wave a handheld fan
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  摇摇欲坠 | yáo yáo yù zhuì | tottering and about to collapse; highly precarious
+  招摇过市 | zhāo yáo guò shì | swagger through streets seeking attention; ostentatious
+  动摇人心 | dòng yáo rén xīn | unsettle the minds of the people; shake morale
+  地动山摇 | dì dòng shān yáo | earth trembles and mountains shake; titanic upheaval
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  摇 | yáo | shake; wave; rock; sway | agitar; mover; sacudir; mecer | 扌 | hand | 扌 (hand, physical shaking motion) | 䍃 (yáo, earthenware jar / phonetic) | 13 | 左右结构 | Simplified from 搖. Phono-semantic compound: hand radical 扌 indicating manual shaking or waving, paired with phonetic 䍃. | A hand (扌) reaches out to grasp and vigorously sway a vessel from side to side to shake (摇). | Una mano (扌) se extiende para asir y mecer con vigor una vasija de lado a lado para agitarla (摇). | 35 | QBOU | 搖
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Using your agile hand (扌) to sway a jar back and forth causes it to rock, wave, and shake (摇).
+  composite_memory_hook_es: Con la mano diestra (扌) se menea un recipiente de izquierda a derecha para agitar y mecer (摇).
+  cultural_and_cognitive_roots: In Chinese gesture language, 摇头 (shaking head) universally indicates negation, pity, or disbelief. Beyond bodily movement, 摇 conveys ontological instability and cognitive doubt (动摇, 摇摆), contrasted with Confucian unshakeable rectitude (不可动摇).
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'yáo' (35). The voice glides cleanly upward from mid-pitch to the upper register.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    谣 | yáo | ballad; rumor; gossip | Has speech radical 讠 on the left instead of 扌
+    遥 | yáo | distant; remote; far away | Has walking radical 辶 around 䍃
+    瑶 | yáo | precious jade; jasper | Has jade radical 王 on the left instead of 扌
+    摆 | bǎi | place; arrange; sway | Has 罒 and 去 on the right instead of 䍃
+    摘 | zhāi | pick; pluck; excerpt | Has 啇 on the right instead of 䍃
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    谣 | yáo | folk ballad; rumor
+    遥 | yáo | distant; far-off; remote
+    瑶 | yáo | pure jade; mother-of-pearl
+    窑 | yáo | kiln; coal pit; cave dwelling
+    舀 | yǎo | ladle out; scoop up
+
+semantic_boundary_contrasts:
+  core_nuance: 摇 emphasizes oscillating or swinging movements anchored around a pivot or axis.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 摇 vs. 摆 | bǎi | 摇 focuses on reciprocating oscillation or shaking (摇头, 摇铃), whereas 摆 can mean swinging like a pendulum (钟摆) but also extensively means placing/arranging items in order (摆放).
+    2 | 摇 vs. 晃 | huàng | 摇 is an active, deliberate mechanical action (摇扇子), whereas 晃 describes dizzy, unsteady rocking caused by external waves or loss of balance (车厢摇晃, 晃晃悠悠).
+    3 | 摇 vs. 甩 | shuǎi | 摇 is smooth bilateral swinging, while 甩 is a forceful, centrifugal fling or whip of the arm to cast something away (甩掉包袱).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 秋风萧瑟，吹落了一树金黄的银杏叶，枝头的残叶在风中凄楚地微微摇曳。古寺的铜钟在暮色中随风轻摇，发出深沉悠远的钟声。伫立在庭院中，听着钟声与落叶的私语，内心的浮华与喧嚣渐渐平静。 | Qiūfēng xiāosè, chuīluò le yí shù jīnhuáng de yínxìng yè, zhītóu de cányè zài fēng zhōng qīchǔ de wēiwēi yáoyè. Gǔsì de tóngzhōng zài mùsè zhōng suífēng qīng yáo, fāchū shēnchén yōuyuǎn de zhōngshēng. Zhùlì zài tíngyuàn zhōng, tīngzhe zhōngshēng yǔ luòyè de sīyǔ, nèixīn de fúhuá yǔ xuāoxiāo jiànjiàn píngjìng. | Bleak autumn winds blow down golden ginkgo leaves, lingering foliage swaying in the air. The ancient temple's bronze bell sways gently at dusk, tolling a deep resonance. Standing in the courtyard hearing the chimes, inner vanities gradually quiet down. | El viento otoñal derriba hojas doradas de ginkgo que oscilan en las ramas. La campana de bronce del monasterio se mece al ocaso tañendo con gravedad. De pie en el patio escuchando su rumor, las vanidades del mundo se van desvaneciendo en silencio.
+  #2 | 在复杂的国际风云变幻面前，保持战略定力是国家行稳致远的关键底气。无论外部风浪如何冲击，只要全国上下万众一心，任何霸权施压都无法动摇中国人民坚定走和平发展道路的坚强决心。 | Zài fùzá de guójì fēngyún-biànhuàn miànqián, bǎochí zhànlüè dìnglì shì guójiā xíngwěn-zhìyuǎn de guānjiàn dǐqì. Wúlùn wàibù fēnglàng rúhé chōngjī, zhǐyào quánguó shàngxià wànzhòng-yìxīn, rènhé bàquán shīyā dōu wúfǎ dòngyáo Zhōngguó rénmín jiāndìng zǒu hépíng fāzhǎn dàolù de jiānqiáng juéxīn. | In volatile international arenas, preserving strategic resolve is crucial for steady progress. No matter how fierce external storms rage, if the whole nation stands united, no hegemonic coercion can shake the Chinese people's dedication to peace. | Ante los vaivenes del tablero internacional, mantener el aplomo estratégico es clave para avanzar con paso firme. Por recios que sean los vientos externos, ningún acoso hegemónico logrará quebrar la firme voluntad del pueblo de transitar la senda de la paz.

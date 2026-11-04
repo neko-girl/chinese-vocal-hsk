@@ -1,0 +1,66 @@
+id: 7
+hanzi: 哲学家
+pinyin: zhé xué jiā
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: philosopher; scholar specializing in philosophical inquiry and epistemology
+  es: filósofo; pensador consagrado a la filosofía, la ontología y el pensamiento crítico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a scholar, thinker, or intellectual who engages in the study of fundamental questions concerning existence, knowledge, ethics, and reason | pensador o erudito dedicado al estudio de los enigmas fundamentales de la existencia, el conocimiento y la moral | 古代哲学家 (ancient philosopher)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古代哲学家庄子善于用寓言故事启迪世人，以“朝三暮四”的生动比喻揭示了物我两忘、齐同得失的豁达心境。 | Gǔdài zhéxuéjiā Zhuāngzǐ shànyú yòng yùyán gùshì qǐdí shìrén, yǐ 'zhāosān-mùsì' de shēngdòng bǐyù jiēshì le wùwǒ-liǎngwàng, qítóng-déshī de huòdá xīnjìng. | The ancient philosopher Zhuangzi excelled at enlightening people with allegories, using the metaphor of 'Zhao San Mu Si' to reveal transcendence of gain. | El filósofo de la antigüedad Zhuangzi ilustraba sus enseñanzas con alegorías, valiéndose de la fábula de los monos para mostrar la sabia serenidad ante la pérdida.
+  #2 | 伟大的哲学家不仅关注终极的形而上学本体之问，更致力于通过理性思辨为人类社会构建公平正义的伦理准则。 | Wěidà de zhéxuéjiā bùjǐn guānzhù zhōngjí de xíng'érshàngxué běntǐ zhī wèn, gèng zhìlì yú tōngguò lǐxìng sībiàn wèi rénlèi shèhuì gòujiàn gōngpíng-zhèngyì de lúnlǐ zhǔnzé. | Great philosophers not only ponder ultimate ontological inquiries, but strive to construct ethical standards of justice through rational contemplation. | Los grandes filósofos no solo escrutan las preguntas ontológicas fundamentales, sino que erigen normas éticas de justicia y convivencia a través de la razón.
+
+collocations[6]{hanzi,en}:
+  古代哲学家 | ancient philosopher
+  西方哲学家 | Western philosopher
+  杰出的哲学家 | distinguished philosopher
+  哲学家思想 | philosopher's thought or ideology
+  成为哲学家 | become a philosopher
+  当代哲学家 | contemporary philosopher
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  知足常乐 | zhī zú cháng lè | he who is contented is always happy; philosophical serenity
+  塞翁失马 | sài wēng shī mǎ | the old frontiersman lost his horse; blessing in disguise
+  物极必反 | wù jí bì fǎn | things turn into their opposites when reaching extremes
+  大道至简 | dà dào zhì jiǎn | the greatest truth is concise and simple
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  哲 | zhé | philosophy; wise; sagacious | sabio; lúcido; filosofía | 口 | mouth | 口 (mouth, articulate speech) | 折 (zhé, snap / discern / axe) | 10 | 上下结构 | Ancient pictogram: an axe cutting and discerning 折 truth, spoken by a mouth 口 with sharp sagacity. | A sharp mind cuts through confusing arguments like an axe (折) and articulates truth through the mouth (口) with wisdom (哲). | Una mente que hendi los engaños como hacha certera (折) y pronuncia la verdad con la boca (口) alumbra la sabiduría (哲). | 35 | QLR | 
+  学 | xué | study; learn; science; branch of knowledge | estudiar; aprender; ciencia; disciplina | 子 | child / son | 冖 (roof / schoolroom) | 𦥯 (hands guiding child) | 8 | 上下结构 | Simplified from 學. Ancient pictogram of a child 子 beneath schoolroom eaves guided by teachers' hands to learn. | Under the sheltering school roof, a curious young student (子) receives guidance from teachers to learn (学). | Bajo el alero de la escuela, un niño despierto (子) recibe la guía atenta de sus maestros para aprender (学). | 35 | FND | 學
+  家 | jiā | family; home; expert; master | familia; hogar; experto; maestro | 宀 | roof / shelter | 宀 (roof, household) | 豕 (shǐ, domestic pig / wealth) | 10 | 上下结构 | Ancient bronze pictogram of a domestic pig 豕 sheltered beneath a home roof 宀. Extensively suffixed for master scholars. | Beneath the safe shelter of a home roof (宀), deep lifetime mastery establishes a distinguished expert and scholar (家). | Bajo el amparo de un techo seguro (宀), la consagración de una vida de estudio encumbra a un maestro consumado (家). | 55 | JMBO | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A wise sage (哲) who dedicates a lifetime to study (学) in the household of ideas (家) becomes a celebrated philosopher (哲学家).
+  composite_memory_hook_es: Un sabio lúcido (哲) consagrado al estudio (学) en el hogar del conocimiento (家) se erige en eminente filósofo (哲学家).
+  cultural_and_cognitive_roots: The character 哲 (wisdom/sagacity) dates back to the Shangshu (尚书: 知人则哲). In the late 19th century, Nishi Amane coined the Sino-Japanese neologism 哲学 to translate Western 'philosophia' (love of wisdom). Suffixing 家 (master/school) created 哲学家.
+  tone_sandhi_and_pitch_modulation: Rising, rising, high: 'zhé xué jiā' (35-35-55). Ascend smoothly across 'zhé' and 'xué', finishing with a sustained high pitch on 'jiā'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    折 | zhé | snap; bend; discount | Lacks the mouth radical 口 at the bottom
+    誓 | shì | oath; pledge; vow | Has words radical 言 at bottom instead of 口
+    字 | zì | character; word; script | Has 子 inside 宀 without the top crown strokes
+    冢 | zhǒng | ancient mound; tomb | Has 冖 and 豕 with extra dot strokes
+    豪 | háo | heroic; grand | Has 亠 and 口 at top above 豕
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    哲 | zhé | sagacious; wise; philosophy
+    浙 | zhè | Zhejiang province; rapid river
+    折 | zhé | bend; snap; break; fold
+    晢 | zhé | bright; clear; splendid
+    誓 | shì | solemn oath; pledge
+
+semantic_boundary_contrasts:
+  core_nuance: 哲学家 specifically designates a deep academic or historical thinker who investigates fundamental ontology and logic.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 哲学家 vs. 思想家 | sīxiǎngjiā | 哲学家 focuses strictly on philosophical metaphysics, ontology, and epistemology, whereas 思想家 is broader, including sociopolitical thinkers and cultural reformers (e.g. Lu Xun).
+    2 | 哲学家 vs. 科学家 | kēxuéjiā | 哲学家 pursues conceptual and rational reflection on ultimate meaning and ethics, while 科学家 investigates empirical physical reality through experimental methods.
+    3 | 哲学家 vs. 学者 | xuézhě | 学者 is a general academic term for any university researcher, whereas 哲学家 is specifically an expert in philosophy.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正的哲学家从来不是脱离现实的书斋隐士，而是人类灵魂深处的守望者。他们以冷峻深邃的目光凝视尘世的喧嚣，在看似不容置疑的日常教条中提出震聋发聩的发问，引领大众穿透表象的迷雾，寻找生命的真谛。 | Zhēnzhèng de zhéxuéjiā cónglái búshì tuōlí xiànshí de shūzhāi yǐnshì, érshì rénlèi línghún shēnchù de shǒuwàngzhě. Tāmen yǐ lěngjùn shēnsù de mùguāng níngshì chénshì de xuāoxiāo, zài kànsì bùróng-zhìyí de rìcháng jiàotiáo zhōng tíchū zhènlóng-fākuì de fāwèn, yǐnlǐng dàzhòng chuāntòu biǎoxiàng de míwù, xúnzhǎo shēngmìng de zhēndì. | True philosophers are never hermits detached from reality, but guardians of humanity's soul. With piercing gaze they observe worldly tumult, raising provocative questions to guide people through mists of illusion toward truth. | Los filósofos genuinos jamás son ermitaños ajenos al mundo, sino centinelas del alma humana. Con mirada serena escrutan el fragor cotidiano formulando preguntas audaces que disipan la bruma en pos del sentido del existir.
+  #2 | 在科技与物质文明突飞猛进的当下，哲学家的审思与人文关怀显得尤为不可或缺。面对基因编辑与强人工智能等前沿伦理挑战，哲学家所提供的价值反思与理性底线，为人类文明在技术狂飙中守住了永恒的道德灯塔。 | Zài kējì yǔ wùzhí wénmíng tūfēi-měngjìn de dāngxià, zhéxuéjiā de shěnsī yǔ rénwén guānhuái xiǎnde yóuwéi bùkě-huòquē. Miànduì jīyīn biānjí yǔ qiáng réngōngzhìnéng děng qiányán lúnlǐ tiǎozhàn, zhéxuéjiā suǒ tígōng de jiàzhí fǎnsī yǔ lǐxìng dǐxiàn, wèi rénlèi wénmíng zài jìshù kuángbiāo zhōng shǒuzhù le yǒnghéng de dàodé dēngtǎ. | Amid leaps in material tech, philosophers' reflections are indispensable. Facing genetic editing and AI ethics, their philosophical values and moral boundaries preserve an eternal moral beacon for civilization amidst technical storms. | En pleno auge tecnológico y material, las reflexiones de los filósofos resultan insustituibles. Frente a la edición genética y la inteligencia artificial, sus dilemas éticos resguardan el faro moral del progreso de la civilización.

@@ -1,0 +1,65 @@
+id: 11
+hanzi: 牙齿
+pinyin: yá chǐ
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: tooth; teeth; dental structures
+  es: diente; dientes; dentadura; piezas dentales
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the hard, calcified structures rooted in the jaws used for biting and chewing food | estructuras duras y calcificadas en las mandíbulas para masticar y triturar los alimentos | 保护牙齿 (protect one's teeth)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 养成早晚按时认真刷牙的好习惯，对于预防龋齿、保持牙齿洁白健康至关重要。 | Yǎngchéng zǎowǎn ànshí rènzhēn shuāyá de hǎo xíguàn, duìyú yùfáng qǔchǐ, bǎochí yáchǐ jiébái jiànkāng zhìguān zhòngyào. | Cultivating the habit of thoroughly brushing morning and evening is crucial for preventing cavities and keeping teeth white and healthy. | Adquirir el hábito de cepillarse con esmero mañana y noche resulta decisivo para prevenir la caries y conservar una dentadura blanca y sana.
+  #2 | 摸象的盲人中有人摸到了大象坚硬锋利的牙齿，便断言大象长得如同一根光滑圆润的萝卜。 | Mō xiàng de mángrén zhōng yǒurén mōdào le dàxiàng jiānyìng fēnglì de yáchǐ, biàn duànyán dàxiàng zhǎng de rútóng yì gēn guānghuá yuánrùn de luóbo. | Among the blind men feeling the elephant, one touched its hard, sharp tusk, and promptly asserted that an elephant resembled a smooth, rounded radish. | Uno de los ciegos palpó los colmillos duros y afilados del paquidermo, y de inmediato aseveró que un elefante era idéntico a un rábano liso y cónico.
+
+collocations[6]{hanzi,en}:
+  保护牙齿 | protect one's teeth
+  牙齿洁白 | gleaming white teeth
+  检查牙齿 | inspect or examine teeth
+  拔掉牙齿 | extract a tooth
+  大象牙齿 | elephant tusk; ivory
+  牙齿过敏 | tooth sensitivity
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  唇齿相依 | chún chǐ xiāng yī | as close as lips and teeth; mutually interdependent
+  咬紧牙关 | yǎo jǐn yá guān | bite teeth tightly; grit teeth and endure hardship
+  唇亡齿寒 | chún wáng chǐ hán | if lips are gone teeth get cold; when one falls the other suffers
+  伶牙俐齿 | líng yá lì chǐ | clever tongue and sharp teeth; eloquent and glib
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  牙 | yá | tooth; ivory; tusk | diente; colmillo; marfil | 牙 | tooth / tusk | 牙 (interlocking molars or curved tusks) | "" | 4 | 单一结构 | Ancient bronze pictogram representing interlocking animal molars or curved ivory tusks with interlocking hooks. | The curved, interlocking ivory tusk of a great wild beast hooks upward into view (牙). | El colmillo curvado y entrelazado de una bestia milenaria que se curva con fuerza (牙). | 35 | MVH | 
+  齿 | chǐ | tooth; age; speak of | diente; dentadura; edad | 齿 | tooth / age | 止 (zhǐ, foot / phonetic) | 口 (mouth with row of teeth) | 8 | 上下结构 | Simplified from traditional 齒. Ancient oracle bone pictogram showing a gaping mouth with an exposed row of teeth. | Open the mouth wide to reveal a neat, sturdy row of biting white teeth (齿). | Abrir la boca de par en par para mostrar la hilera de dientes blancos y firmes (齿). | 214 | YMYB | 齒
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The sharp curved tusks (牙) combined with the neat rows of biting teeth in the mouth (齿) form human dental teeth (牙齿).
+  composite_memory_hook_es: Los afilados colmillos (牙) combinados con la hilera de piezas dentales (齿) componen la dentadura (牙齿).
+  cultural_and_cognitive_roots: In classical Chinese anatomy, 牙 originally denoted large rear molars and animal tusks (象牙), while 齿 denoted the front incisors and human teeth. Together, 牙齿 forms the modern collective noun for human and animal dentition.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by dipping 3rd tone: 'yá chǐ' (35-214). Elevate the pitch on 'yá' before letting 'chǐ' dip into low vocal fry.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    互 | hù | mutual; each other | Has two horizontal strokes connected by an S-like spine
+    瓦 | wǎ | tile; earthenware | Has a dot inside and different radical structure
+    岁 | suì | year of age; harvest | Has 山 (mountain) at the top above 夕
+    步 | bù | step; pace | Has 止 at top with a different bottom stroke
+    卡 | kǎ | card; block; wedge | Has 上 and 卜 merged together
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    芽 | yá | sprout; bud; shoot
+    蚜 | yá | aphid (plant louse)
+    讶 | yà | surprise; astounded
+    邪 | xié | evil; demonic; unorthodox
+    龈 | yín | gum of tooth; gingiva
+
+semantic_boundary_contrasts:
+  core_nuance: 牙齿 is the complete, standard noun for physical human or animal teeth, while 牙 alone is used in set compounds and idioms.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 牙齿 vs. 牙 | yá | 牙齿 is the formal and full anatomical noun (刷牙齿, 保护牙齿), whereas 牙 is a flexible monosyllable used in compound terms and daily verbs (刷牙, 牙医, 门牙).
+    2 | 牙齿 vs. 象牙 | xiàngyá | 牙齿 refers generally to ordinary teeth, whereas 象牙 designates the valuable, curved ivory tusks of an elephant.
+    3 | 牙齿 vs. 齿轮 | chǐlún | 牙齿 is biological dentition, whereas 齿轮 refers to mechanical gearwheels with interlocking cog teeth.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 洁白健康的牙齿不仅关乎个人的形象与自信，更直接影响着食物的消化吸收与身体健康。在日常生活中注重口腔卫生，定期进行牙科检查，是在岁月的流转中留住灿烂笑容与健康体魄的最好方式。 | Jiébái jiànkāng de yáchǐ bùjǐn guānhū gèrén de xíngxiàng yǔ zìxìn, gèng zhíjiē yǐngxiǎng zhe shíwù de xiāohuà xīshōu yǔ shēntǐ jiànkāng. Zài rìcháng shēnghuó zhōng zhùzhòng kǒuqiāng wèishēng, dìngqī jìnxíng yákē jiǎnchá, shì zài suìyuè de liúzhuǎn zhōng liúzhù cànlàn xiàoróng yǔ jiànkāng tǐpò de zuì hǎo fāngshì. | Gleaming white, healthy teeth not only influence personal image and confidence, but directly impact digestion, nutrient absorption, and bodily health. Caring for oral hygiene and scheduling regular dental checkups is the best way to preserve bright smiles across passing years. | Unos dientes blancos y sanos no solo realzan la imagen y la seguridad en uno mismo, sino que condicionan la digestión y el bienestar general. Cuidar la higiene bucal y acudir con regularidad al odontólogo es la mejor forma de conservar una sonrisa radiante a lo largo de los años.
+  #2 | 在古生物学研究中，动物的牙齿化石是最能经受岁月侵蚀的珍贵地质凭证。通过微观结构分析与同位素测定，科学家能够从细小的古生物牙齿中精准推断出千万年前古气候变迁以及动物的演化谱系。 | Zài gǔshēngwùxué yánjiū zhōng, dòngwù de yáchǐ huàshí shì zuì néng jīngshòu suìyuè qīnshí de zhēnguì dìzhì píngzhèng. Tōngguò wēiguān jiégòu fēnxī yǔ tóngwèisù cèdìng, kēxuéjiā nénggòu cóng xìxiǎo de gǔshēngwù yáchǐ zhōng jīngzhǔn tuīduàn chū qiānwàn nián qián gǔqìhòu biànqiān yǐjí dòngwù de yǎnhuà pǔxì. | In paleontology, fossilized teeth are the most resilient geological evidence enduring millennia of erosion. Through microstructure and isotopic analysis, scientists can accurately deduce paleoclimate shifts and evolutionary lineages from ancient animal teeth. | En paleontología, los dientes fosilizados son los testimonios geológicos más resistentes a la erosión del tiempo. Mediante el análisis microscópico e isotópico de estas piezas, los científicos infieren con exactitud cambios climáticos remotos y linajes evolutivos milenarios.

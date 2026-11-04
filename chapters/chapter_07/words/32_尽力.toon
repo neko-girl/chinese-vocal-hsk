@@ -1,0 +1,65 @@
+id: 32
+hanzi: 尽力
+pinyin: jìn lì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to try one's best; to do all one can; to exert all of one's strength; to strive hard
+  es: esforzarse al máximo; dar lo mejor de sí; hacer todo lo posible; poner todo el empeño
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to expend every ounce of one's physical energy, mental ability, or resources to achieve an aim | dedicar todas las fuerzas, talento o recursos a la consecución de una meta | 尽力而为 (do one's utmost)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军屏住呼吸，用尽全身的力气把强弓拉成了一轮圆月，利箭呼啸着破空而出。 | Lǐ Guǎng jiāngjūn bǐngzhù hūxī, yòngjìn quánshēn de lìqi bǎ qiánggōng lāchéng le yì lún yuányuè, lìjiàn hūxiào zhe pòkōng-érchū. | Holding his breath, General Li Guang exerted all his bodily strength to pull the strong bow into a full moon, the sharp arrow shrieking into flight. | Conteniendo el aliento, el general Li Guang desplegó todas sus fuerzas hasta combar el recio arco como luna llena, lanzando la flecha silbante al aire.
+  #2 | 无论最终的比赛结果如何，只要我们在赛场上毫无保留地拼搏过、尽力了，便问心无愧。 | Wúlùn zuìzhōng de bǐsài jiéguǒ rúhé, zhǐyào wǒmen zài sàichǎng shàng háowú-bǎoliú de pīnbó guò, jìnlì le, biàn wènxīn-wúkuì. | Regardless of the final competition outcome, as long as we fought unreservedly on the court and did our best, our conscience is clear. | Sea cual fuere el resultado final del torneo, mientras hayamos luchado sin reservas y dado lo mejor de nosotros, tendremos la conciencia tranquila.
+
+collocations[6]{hanzi,en}:
+  尽力而为 | do one's utmost according to one's ability
+  尽心尽力 | dedicate heart and strength; conscientious
+  尽力协助 | assist with all one's power
+  尽最大努力 | exert the greatest possible effort
+  用尽全力 | use up all of one's strength
+  尽力挽救 | strive one's best to rescue or salvage
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  竭尽全力 | jié jìn quán lì | spare no effort; exert every ounce of strength
+  尽善尽美 | jìn shàn jìn měi | perfect in every detail; crowning excellence
+  尽忠报国 | jìn zhōng bào guó | serve one's country with unyielding loyalty
+  恪尽职守 | kè jìn zhí shǒu | scrupulously fulfill one's duties
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  尽 | jìn | exhaust; utmost; end; all | agotar; extremo; colmo; todo | 尸 | corpse / body frame | 尸 (hand holding brush/container) | ⺀ (two drops of water scraped clean) | 6 | 上下结构 | Simplified from 盡. Ancient pictogram of a hand holding a brush to scrape the bottom of a bowl dry until empty. | Scraping the very bottom of a vessel until the last two drops (⺀) are completely empty exhausts the limit (尽). | Raspar el fondo de una vasija hasta que caen las dos últimas gotas (⺀), agotando hasta la última reserva (尽). | 51 | SO | 盡
+  力 | lì | strength; power; physical effort | fuerza; vigor; energía | 力 | power / plow | 力 (curved arm muscle flexing or ancient plow) | "" | 2 | 单一结构 | Ancient bronze pictogram of an arm flexing its sinews or a foot pressing down a farm spade, symbolizing physical power. | A flexing arm tendon strains with unyielding muscular power to pull a heavy load (力). | El tendón de un brazo vigoroso se tensa con firmeza desatando una gran fuerza muscular (力). | 51 | KS | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Draining every last drop from the vessel (尽) by exerting all muscular power (力) means to strive with one's utmost effort (尽力).
+  composite_memory_hook_es: Agotar hasta la última reserva (尽) entregando toda la fuerza muscular (力) encarna el deber de esforzarse al máximo (尽力).
+  cultural_and_cognitive_roots: In Confucian ethics, 尽 (exhausting sincerity / duty) is central: 尽心 (dedicating one's mind), 尽孝 (fulfilling filial piety), 尽力 (striving to one's limit). Traditional moral philosophy measures virtue not by external success, but by whether one has genuinely 'exhausted one's heart and power' (尽心竭力).
+  tone_sandhi_and_pitch_modulation: Dual falling 4th tones: 'jìn lì' (51-51). Pronounce both syllables with firm, emphatic, downward momentum.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    尺 | chǐ | foot rule | Has no dots inside the lower opening
+    刀 | dāo | knife; sword | Has a straight top horizontal stroke rather than extending left hook
+    万 | wàn | ten thousand | Has a straight top horizontal stroke with curved hook
+    办 | bàn | manage; handle | Has two dots flanking 力
+    为 | wèi / wéi | for; act; become | Has a dot at top with slanted hook
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    烬 | jìn | ashes; cinders; remnants
+    赆 | jìn | farewell gift; travel money
+    勒 | lè | strangle; rein in; tie tight
+    劫 | jié | rob; plunder; catastrophe
+    功 | gōng | achievement; merit; work
+
+semantic_boundary_contrasts:
+  core_nuance: 尽力 means doing one's utmost within the bounds of one's current physical or situational ability.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 尽力 vs. 努力 | nǔlì | 努力 is a persistent, ongoing attitude of working hard over time (努力学习), whereas 尽力 is committing 100% of available energy to a specific goal right now (我已经尽力了).
+    2 | 尽力 vs. 竭力 | jiélì | 竭力 is a more intense literary term implying exhausting oneself to the very brink of collapse (竭力嘶喊).
+    3 | 尽力 vs. 尽心 | jìnxīn | 尽力 emphasizes physical, practical, or material exertion, whereas 尽心 emphasizes emotional devotion, moral care, and mindfulness (尽心尽责).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对不可预知的命运挑战，我们或许无法决定最终的成败，但完全能够决定对待人生的态度。在每一个平凡的日子里尽心尽力，对所热爱的生活倾注全副身心，哪怕前路布满荆棘，也能收获问心无愧的从容与坦荡。 | Miànduì bùkě-yùzhī de mìngyùn tiǎozhàn, wǒmen huòxǔ wúfǎ juédìng zuìzhōng de chéngbài, dàn wánquán nénggòu juédìng duìdài rénshēng de tàidù. Zài měi yí gè píngfán de rìzi lǐ jìnxīn-jìnlì, duì suǒ rè'ài de shēnghuó qīngzhù quánfù shēnxīn, nǎpà qiánlù bùmǎn jīngjí, yě néng shōuhuò wènxīn-wúkuì de cóngróng yǔ tǎndàng. | Confronting unpredictable fate, we may not determine victory, but can decide our stance toward life. Striving conscientiously in ordinary days and pouring our soul into what we love yields tranquil composure, even on thorn-strewn paths. | Ante los caprichos del destino, quizá no podamos decidir el desenlace, pero sí nuestra actitud ante la vida. Esforzándonos al máximo cada día y volcando el alma en lo que amamos, cosecharemos una serena paz de conciencia, aun entre abrojos.
+  #2 | 在公共应急救援体系中，“生命至上”始终是最高行动准则。只要一线救援尚存一丝渺茫的希望，全体救援人员便会克服一切极限险阻尽力搜救，这种对生命尊严的坚守生动诠释了人道主义救援的崇高真谛。 | Zài gōnggòng yīngjí jiùyuán tǐxì zhōng, 'shēngmìng zhìshàng' shǐzhōng shì zuì gāo xíngdòng zhǔnzé. Zhǐyào yíxiàn jiùyuán shàng cún yì sī miǎománg de xīwàng, quántǐ jiùyuán rényuán biàn huì kèfú yíqiè jíxiàn xiǎnzǔ jìnlì sōujiù, zhè zhǒng duì shēngmìng zūnyán de jiānshǒu shēngdòng quánshì le réndàozhǔyì jiùyuán de chónggāo zhēndì. | In public emergency rescues, 'life above all' is the supreme operational principle. As long as a sliver of hope flickers, rescuers overcome every hazard to search with utmost effort, interpreting humanitarian reverence for life. | En el socorro de emergencias, 'la vida ante todo' es la pauta suprema de actuación. Mientras quede un atisbo de esperanza, los rescatistas desafían el peligro para buscar con todo su empeño, enalteciendo la sagrada dignidad de la persona humana.

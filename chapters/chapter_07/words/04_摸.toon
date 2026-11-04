@@ -1,0 +1,65 @@
+id: 4
+hanzi: 摸
+pinyin: mō
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to touch; to stroke; to feel with hands; to grope for; to fathom or probe
+  es: tocar; palpar; acariciar; tantear; buscar a tientas; sondear o averiguar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to physically place hands or fingers upon an object to perceive texture, temperature, or shape; to feel or stroke | palpar o poner la mano sobre un objeto para percibir su textura, temperatura o contorno; tocar | 摸摸额头 (feel one's forehead)
+  2 | Verb | Standard | to probe, fathom, search out, or ascertain an underlying situation or regular pattern | sondear, averiguar o descifrar a tientas una situación, pauta o ánimo | 摸清底细 (fathom the real background)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 母亲伸出手轻轻摸了摸孩子的额头，确定他烧已经退了，这才欣慰地松了一口气。 | Mǔqīn shēnchū shǒu qīngqīng mō le mō háizi de étóu, quèdìng tā shāo yǐjīng tuì le, zhè cái xīnwèi de sōng le yì kǒuqì. | The mother reached out and gently felt the child's forehead, and relieved to confirm his fever had subsided, she breathed a sigh of ease. | La madre extendió la mano y palpó con ternura la frente del niño; al comprobar que la fiebre había remitido, suspiró aliviada.
+  #2 | 经过深入细致的实地调研，团队终于摸清了当地消费市场的真实需求与潜在增长点。 | Jīngguò shēnrù xìzhì de shídì diàoyán, tuánduì zhōngyú mōqīng le dāngdì xiāofèi shìchǎng de zhēnshí xūqiú yǔ qiánzài zēngzhǎngdiǎn. | Following thorough and meticulous field research, the team finally fathomed the local market's genuine consumer demands and potential growth avenues. | Tras minuciosas pesquisas sobre el terreno, el equipo logró al fin sondear y clarificar las auténticas demandas de los consumidores locales y sus nichos de expansión.
+
+collocations[6]{hanzi,en}:
+  摸摸头 | stroke or pat someone's head
+  摸索规律 | fumble for and discover regular patterns
+  摸清底细 | ascertain the real facts; probe bottom lines
+  盲人摸象 | blind men feeling an elephant
+  捉摸不定 | unpredictable; elusive to grasp
+  摸黑前行 | grope forward in the dark
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  盲人摸象 | máng rén mō xiàng | blind men feeling an elephant; taking a part for the whole
+  难以捉摸 | nán yǐ zhuō mō | hard to fathom; unpredictable; elusive
+  摸爬滚打 | mō pá gǔn dǎ | go through arduous trials and grueling practice
+  偷偷摸摸 | tōu tōu mō mō | surreptitious; sneaky; underhanded
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  摸 | mō | touch; feel with hand; grope | tocar; palpar; tantear | 扌 | hand | 扌 (hand, tactile probing) | 莫 (mò, sunset dusk / absence of light) | 13 | 左右结构 | Phono-semantic compound: hand radical 扌 indicates tactile physical contact, while 莫 (dusk / searching when the sun sinks into grass) conveys groping in dimness. | When darkness falls across the grass (莫), one stretches out a gentle hand (扌) to feel and grope one's way along (摸). | Al caer la penumbra entre los pastos (莫), la mano (扌) se extiende prudente tanteando el sendero a ciegas (摸). | 55 | QTAK | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: In the absence of sunlight (莫), you must stretch out your hands (扌) to touch and grope your way forward (摸).
+  composite_memory_hook_es: En la penumbra cuando el sol declina (莫), la mano (扌) se alarga para tocar y tantear el camino (摸).
+  cultural_and_cognitive_roots: The character 摸 merges physical haptic exploration with mental conjecture. In Chinese cognitive metaphor, 'feeling an object with hands' (触觉) directly maps onto 'fathoming intangible human motives or systemic laws' (摸底, 摸索, 捉摸).
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'mō' (55). Pronounced with an even, sustained, clear acoustic pitch contour.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    模 | mó | model; pattern | Has wood radical 木 on the left instead of 扌
+    漠 | mò | desert; aloof | Has water radical 氵 on the left instead of 扌
+    膜 | mó | membrane; thin film | Has flesh radical 月 on the left instead of 扌
+    寞 | mò | lonely; quiet | Has roof radical 宀 at the top
+    摹 | mó | trace; copy handwriting | Has hand 手 at the bottom instead of 扌 on the left
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    模 | mó | mold; pattern; model
+    膜 | mó | membrane; film
+    漠 | mò | desert; indifferent
+    墓 | mù | tomb; grave
+    幕 | mù | curtain; theatrical act
+
+semantic_boundary_contrasts:
+  core_nuance: 摸 stresses tactile exploration through hands and fingers, or figurative probing to ascertain unknown circumstances.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 摸 vs. 碰 | pèng | 摸 involves deliberate, continuous manual rubbing or feeling to assess texture, whereas 碰 denotes a brief, abrupt collision or casual contact (碰见, 碰杯).
+    2 | 摸 vs. 抓 | zhuā | 摸 is gentle, exploratory, and sensory (palping surface texture), whereas 抓 is a forceful, grasping action using curled fingers to seize or clutch an object firmly.
+    3 | 摸 vs. 摸索 | mōsuǒ | 摸 is the direct monosyllabic physical verb (摸额头), while 摸索 is an abstract disyllabic verb emphasizing painstaking, trial-and-error exploration over time to overcome unfamiliar challenges.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 穿过幽暗曲折的长廊，他只能伸出双手在潮湿的石壁上小心摸索。指尖触碰到的冰冷岩石凹凸不平，隐约传来的微弱风声指引着前进的方向。在黑暗中慢慢摸索，每一步都充满对未知的敬畏。 | Chuānguò yōu'àn qūzhé de chángláng, tā zhǐ néng shēnchū shuāngshǒu zài cháoshī de shíbì shàng xiǎoxīn mōsuǒ. Zhǐjiān chùpèng dào de bīnglěng yánshí āotū-bùpíng, yǐnyuē chuánlái de wēiruò fēngshēng zhǐyǐn zhe qiánjìn de fāngxiàng. Zài hēi'àn zhōng mànmàn mōsuǒ, měi yí bù dōu chōngmǎn duì wèizhī de jìngwèi. | Traversing the dim, winding corridor, he could only extend both hands to carefully grope along the damp stone wall. The cold, jagged rock touched by his fingertips and faint breezes hinted at the path ahead. Fumbling patiently in the dark, every step was fraught with awe toward the unknown. | Cruzando el oscuro y tortuoso corredor, no le quedaba más remedio que alargar las manos y tantear la húmeda pared de roca. El tacto gélido y desigual de la piedra y el leve rumor de una corriente guiaron sus pasos. Avanzar a tientas en las sombras colmaba cada pisada de respeto hacia lo ignoto.
+  #2 | 任何新兴科学领域的探索，初期都宛如盲人摸象，科学家们只能凭借有限的实验数据逐步摸清其内在逻辑。唯有汇聚多学科的智慧并进行反复验证，才能拼凑出客观规律的完整图景。 | Rènhé xīnxīng kēxué lǐngyù de tànsuǒ, chūqī dōu wǎnrú mángrén mō xiàng, kēxuéjiāmen zhǐ néng píngjiè yǒuxiàn de shíyàn shùjù zhúbù mōqīng qí nèizài luóji. Wéiyǒu huìjù duō-kēxué de zhìhuì bìng jìnxíng fǎnfù yànzhèng, cáinéng pīncòu chū kèguān guīlǜ de wánzhěng tújǐng. | Explorations into emergent scientific fields initially resemble blind men feeling an elephant; researchers must deduce intrinsic mechanisms through limited experimental data. Only by pooling interdisciplinary wisdom and reiterating tests can a coherent panorama of objective laws be pieced together. | Explorar una disciplina científica incipiente se asemeja al tanteo de los ciegos ante el elefante: los científicos infieren la lógica subyacente con escasos datos empíricos. Solo combinando múltiples ramas del saber y verificando hipótesis se logra reconstruir la fisonomía íntegra de la realidad objetiva.

@@ -1,0 +1,65 @@
+id: 32
+hanzi: 馒头
+pinyin: mán tou
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: steamed bun; mantou; Chinese plain steamed bread (without filling)
+  es: panecillo al vapor; mantou; pan chino tradicional al vapor sin relleno
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a staple food of northern China made of leavened wheat flour dough shaped into rounded loaves and steamed, typically without sweet or savory filling | bollo de masa de harina de trigo fermentada cocido al vapor sin relleno, básico en el norte de China | 热气腾腾的馒头 (steaming hot mantou / piping hot steamed buns)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨的集市上，蒸笼盖刚一揭开，一股浓郁的麦香伴着滚滚白汽扑面而来，白白胖胖的馒头格外诱人。 | Qīngchén de jíshì shàng, zhēnglóng gài gāng yì jiēkāi, yì gǔ nóngyù de màixiāng bàn zhe gǔngǔn báiqì pūmiàn'érlái, báibái-pàngpàng de mántou géwài yòurén. | In the morning market, as the steamer lid lifted, rich wheat aromas poured forth with billowing white steam, revealing irresistible plump white mantou. | En el mercado matinal, al levantar la tapa de la vaporera brotó un denso vaho de trigo; los panecillos blancos y esponjosos resultaban tentadores.
+  #2 | 在我国北方传统饮食文化中，暄软劲道的老面馒头不仅是日常三餐的充饥主食，也是承载乡愁的味觉记忆。 | Zài wǒguó běifāng chuántǒng yǐnshí wénhuà zhōng, xuānruǎn jìndao de lǎomiàn mántou bùjǐn shì rìcháng sāncān de chōngjī zhǔshí, yě shì chéngzài xiāngchóu de wèijué jìyì. | In northern Chinese cuisine, soft and chewy traditional sourdough mantou is not just a staple, but a sensory embodiment of hometown nostalgia. | En la cocina tradicional del norte de China, el panecillo al vapor de masa madre no es solo alimento diario, sino la memoria afectiva del hogar.
+
+collocations[6]{hanzi,en}:
+  热馒头 | hot steamed bun; warm mantou
+  蒸馒头 | steam mantou; cook steamed buns
+  白面馒头 | white flour steamed bun
+  两个馒头 | two steamed buns
+  老面馒头 | traditional sourdough mantou
+  花卷馒头 | scallion twisted roll and mantou
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  粗茶淡饭 | cū chá dàn fàn | simple tea and plain rice; modest rustic diet
+  丰衣足食 | fēng yī zú shí | well-clothed and well-fed; live in plenty
+  饥不择食 | jī bù zé shí | when hungry, one does not choose food; hunger is best sauce
+  脍炙人口 | kuài zhì rén kǒu | appealing to everyone's taste; widely praised
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  馒 | mán | steamed bread / mantou | panecillo al vapor | 饣 | food / eat | 饣 (steamed food dough) | 曼 (màn, graceful / stretch) | 14 | 左右结构 | Simplified from 饅. Phono-semantic character where food radical 饣 signifies leavened grain dough, and 曼 supplies sound. | Kneaded wheat dough (饣) stretched and rolled out smoothly (曼) before being placed in high steam baskets makes fluffy steamed buns (馒). | La masa de harina (饣) estirada y moldeada con primor (曼) que esponja en la vaporera da lugar al tierno panecillo (馒). | 35 | NVAWE | 饅
+  头 | tóu | head; top; chief; suffix | cabeza; cima; principal; sufijo | 大 | big / head | 一 (crown of head) | 八/大 (human body) | 5 | 单一结构 | Simplified from 頭. Ancient bronze character depicted a human neck and cranial head with hair on top, now serving as head and nominal noun suffix. | A human neck supporting a round cranial head (头) with eyes and mouth, also used to round off everyday nouns like steamed buns (头). | La testa redonda y erguida sobre los hombros (头), empleada como sustantivo y como sufijo cariñoso de alimentos cotidianos (头). | 35 | YK | 頭
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Steamed leavened wheat bread (馒) rounded into plump, smooth domes like little heads (头) makes comforting steamed buns (馒头).
+  composite_memory_hook_es: La masa de harina al vapor (馒) moldeada en forma de pequeñas cabecitas redondas (头) compone el panecillo tradicional (馒头).
+  cultural_and_cognitive_roots: Legend attributes the invention of mantou (馒头) to Three Kingdoms strategist Zhuge Liang (诸葛亮) during his southern expedition across the Lu River (泸水). Rather than sacrificing human heads to river spirits, he shaped wheat flour loaves into head-like buns.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by neutral tone: 'mán tou' (35-neutral). Rise steadily on 'mán' and pronounce 'tou' lightly without stress.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    慢 | màn | slow; gradual | Has heart radical 忄 on the left instead of food 饣
+    漫 | màn | overflow; unrestrained | Has water radical 氵 on the left instead of food 饣
+    买 | mǎi | buy | Has horizontal line at top, distinct from 头
+    头 | tóu | head; chief | Has two dots on top and big 大 base
+    斗 | dòu | fight; dipper | Different dot placement and central vertical cross
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    馒 | mán | steamed bread; mantou
+    包 | bāo | wrap; filled steamed bun; bag
+    糕 | gāo | cake; pastry
+    饼 | bǐng | flatbread; round cake; pancake
+    面 | miàn | flour; noodles; face; surface
+
+semantic_boundary_contrasts:
+  core_nuance: 馒头 refers specifically to plain, solid steamed wheat buns without any internal filling.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 馒头 vs. 包子 | bāozi | 馒头 is solid steamed dough with no internal filling, whereas 包子 has an inner savory (meat, veg) or sweet (bean paste) filling wrapped inside dough.
+    2 | 馒头 vs. 面包 | miànbāo | 馒头 is cooked via moist high-temperature steaming (蒸), whereas 面包 is baked in dry ovens (烤), having an outer crust.
+    3 | 馒头 vs. 花卷 | huājuǎn | 馒头 is shaped into smooth rounded or oval buns, while 花卷 is layered, twisted, and brushed with oil, scallions, or spices.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 冬日清晨的北方农家，灶膛里柴火正旺，大铁锅上架着高高的竹蒸笼。当白生生、热腾腾的大馒头端上桌，掰开一块抹上芝麻酱，那一口朴实醇厚的面香直透心底。 | Dōngrì qīngchén de běifāng nóngjiā, zàotáng lǐ cháihuo zhèng wàng, dà tiěguō shàng jià zhe gāogāo de zhúzhēnglóng. Dāng báishēngshēng, rèténgténg de dà mántou duān shàngzhuō, bāikāi yí kuài mǒ shàng zhīmajiàng, nà yì kǒu pǔshí chúnhòu de miànxiāng zhí tòu xīndǐ. | On winter mornings in northern homes, firewood roars under iron cauldrons and bamboo steamers. Tearing into a hot, white mantou spread with sesame paste fills the heart with pure aroma. | En el alba invernal de la aldea norteña, la leña crepita bajo la vaporera. Al abrir un tierno panecillo humeante y untarlo con sésamo, su sabor franco reconforta las entrañas.
+  #2 | 从三国时期诸葛亮以面代首的传奇演化，到如今成为北方千家万户不可或缺的餐桌主角，看似普通的馒头见证了华夏面食文化的千年演进，蕴含着厚重质朴的生活智慧。 | Cóng Sānguó shíqī Zhūgě Liàng yǐ miàn dài shǒu de chuánqí yǎnhuà, dào rújīn chéngwéi běifāng qiānjiā-wànhù bùkě-huòquē de cānzhuō zhǔjiào, kànsì pǔtōng de mántou jiànzhèng le Huáxià miànshí wénhuà de qiānnián yǎnjìn, yùnhán zhe hòuzhòng zhìpǔ de shēnghuó zhìhuì. | From Zhuge Liang's legend to northern family tables today, the humble mantou bears witness to millennia of Chinese wheat culinary culture, brimming with simple wisdom of daily life. | Desde la leyenda de Zhuge Liang hasta los hogares del norte, el modesto panecillo al vapor encarna milenios de tradición culinaria harinera, albergando la sobria sabiduría del sustento popular.

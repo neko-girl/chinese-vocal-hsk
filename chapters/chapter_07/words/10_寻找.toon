@@ -1,0 +1,65 @@
+id: 10
+hanzi: 寻找
+pinyin: xún zhǎo
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to search for; to seek; to look for; to pursue an objective or answer
+  es: buscar; rastrear; indagar; procurar hallar un objeto, respuesta o ideal
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to make an active, deliberate effort to locate someone, discover something lost, or pursue an ideal or truth | esforzarse activamente por dar con algo extraviado, localizar a alguien o perseguir la verdad | 寻找答案 (seek an answer)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对突发的技术瓶颈，研发团队夜以继日地查阅文献，全力寻找切实可行的替代方案。 | Miànduì tūfā de jìshù píngjǐng, yánfā tuánduì yèyǐjìrì de cháyuè wénxiàn, quánlì xúnzhǎo qièshí-kěxíng de tìdài fāng'àn. | Facing an unexpected technical bottleneck, the R&D team consulted literature day and night, making every effort to search for feasible alternatives. | Ante un imprevisto cuello de botella técnico, el equipo de I+D consultó bibliografía día y noche para buscar afanosamente una alternativa viable.
+  #2 | 许多年轻人在快节奏的现代生活中感到迷茫，渴望通过旅行去寻找内心的宁静与生活的真谛。 | Xǔduō niánqīngrén zài kuàijièzòu de xiàndài shēnghuó zhōng gǎndào mímáng, kěwàng tōngguò lǚxíng qù xúnzhǎo nèixīn de níngjìng yǔ shēnghuó de zhēndì. | Many youths feel disoriented in fast-paced modern life, yearning to search through travel for inner serenity and life's genuine essence. | Muchos jóvenes se sienten desorientados en la vida moderna y anhelan buscar en los viajes la serenidad del alma y el sentido auténtico del vivir.
+
+collocations[6]{hanzi,en}:
+  寻找机会 | search for opportunities
+  寻找答案 | seek answers
+  寻找线索 | look for clues or leads
+  寻找灵感 | seek inspiration
+  苦苦寻找 | search painstakingly and bitterly
+  寻找失物 | search for lost property
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  求全责备 | qiú quán zé bèi | seek perfection and censure shortcomings harshly
+  寻根问底 | xún gēn wèn dǐ | trace to the root and probe the bottom of a matter
+  众里寻他 | zhòng lǐ xún tā | search for someone amidst a vast multitude
+  自寻烦恼 | zì xún fán nǎo | bring vexation and trouble upon oneself unnecessarily
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  寻 | xún | seek; look for; fathom | buscar; indagar; rastrear | 寸 | inch / thumb | 寸 (inch hand measuring) | 彐 (jì, snouts / measuring fathom) | 6 | 上下结构 | Originally depicted two outstretched hands measuring eight ancient cubits (a fathom), representing pacing off distance to search carefully. | Pacing forward and measuring every inch (寸) of the ground beneath the eaves (彐) to search for what was lost (寻). | Medir palmo a palmo cada rincón (寸) bajo la techumbre (彐) para buscar con paciencia lo extraviado (寻). | 35 | SIMI | 尋
+  找 | zhǎo | seek; look for; give change | buscar; encontrar; dar cambio | 扌 | hand | 扌 (hand, tactile activity) | 戈 (gē, halberd / weapon) | 7 | 左右结构 | Phono-semantic compound: hand 扌 grasping a martial weapon 戈, portraying searching for one's arms during an alert. | With an anxious hand (扌) one reaches out into the rack searching for one's reliable weapon (戈) to find it (找). | Con mano presurosa (扌) se tantea en la armería buscando la fiel lanza (戈) para dar con ella (找). | 214 | QQI | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Measuring every inch (寻) with an outstretched hand (找) captures the relentless human drive to seek and search (寻找).
+  composite_memory_hook_es: Medir palmo a palmo (寻) con la mano extendida (找) encarna el perseverante empeño humano por buscar (寻找).
+  cultural_and_cognitive_roots: In ancient metrology, an ancient Chinese fathom was a 'xún' (寻 = 8 chi). From pacing out and surveying distances with arms outstretched evolved the cognitive sense of deep searching and philosophical inquiry into truth (寻道, 探寻).
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by dipping 3rd tone: 'xún zhǎo' (35-214). Glide the first syllable upward before allowing the second syllable to dip down.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    灵 | líng | spirit; clever; nimble | Has 火 at the bottom instead of 寸
+    导 | dǎo | guide; lead | Has 巳 (snake) above 寸 instead of 彐
+    我 | wǒ | I; me | Has 丿 at top left and curved hook rather than 扌
+    戏 | xì | play; drama; theatricals | Has 又 on the left instead of 扌
+    钱 | qián | money; coin | Has metal radical 钅 on the left
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    寻 | xún | seek; investigate; ancient fathom
+    浔 | xún | riverbank; waterside
+    鲟 | xún | sturgeon (fish)
+    划 | huá | row boat; scratch
+    战 | zhàn | battle; fight; war
+
+semantic_boundary_contrasts:
+  core_nuance: 寻找 is the formal, literary, and contemplative term for searching for both concrete objects and abstract ideals, contrasted with colloquial 找.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 寻找 vs. 找 | zhǎo | 找 is the common daily oral verb (找钥匙, 找人), whereas 寻找 has a much higher, contemplative literary register suited for books, research, and life goals (寻找真理, 寻找灵魂).
+    2 | 寻找 vs. 搜寻 | sōuxún | 寻找 is broad and gentle, while 搜寻 emphasizes an intensive, systematic, or police sweep through a physical grid (搜寻幸存者, 搜寻坠机地点).
+    3 | 寻找 vs. 探索 | tànsuǒ | 寻找 assumes the target object or truth already exists and needs to be located, whereas 探索 means pioneering into uncharted territory to uncover new knowledge (探索宇宙).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫漫人生旅途，我们总在不断寻找。寻找理解自己的知己，寻找安放灵魂的港湾，更在迷茫中寻找生命的价值与意义。即便前路云雾缭绕，只要心中尚有明灯，那份执着的寻找就永远不会停歇。 | Mànmàn rénshēng lǚtú, wǒmen zǒng zài búduàn xúnzhǎo. Xúnzhǎo lǐjiě zìjǐ de zhījǐ, xúnzhǎo ānfàng línghún de gǎngwān, gèng zài mímáng zhōng xúnzhǎo shēngmìng de jiàzhí yǔ yìyì. Jíbiàn qiánlù yúnwù liáorào, zhǐyào xīnzhōng shàng yǒu míngdēng, nà fèn zhízhuó de xúnzhǎo jiù yǒngyuǎn bú huì tíngxiē. | On the long voyage of life, we are perpetually searching. Searching for a confidant who understands us, a haven to anchor our soul, and the meaning of existence amid confusion. Even if fog veils the path, as long as an inner lamp burns, this devoted seeking will never cease. | En la prolongada travesía de la vida, andamos en constante búsqueda. Buscamos un alma afín que nos comprenda, un puerto donde reposar el espíritu y el sentido del existir en la incertidumbre. Aunque la bruma nuble el sendero, mientras arda una luz interior, jamás cesará el empeño de buscar.
+  #2 | 科学研究的本质，正是人类在浩瀚宇宙中不断寻找真理的崇高历程。面对无数次的实验失败与假设推翻，科学家们凭借严谨的逻辑与坚韧的毅力，在微观与宏观世界中寻找支配自然运转的终极法则。 | Kēxué yánjiū de běnzhì, zhèng shì rénlèi zài hàohàn yǔzhòu zhōng búduàn xúnzhǎo zhēnlǐ de chónggāo lìchéng. Miànduì wúshù cì de shíyàn shībài yǔ jiǎshè tuīfān, kēxuéjiāmen píngjiè yánjǐn de luóji yǔ jiānrèn de yìlì, zài wēiguān yǔ hóngguān shìjiè zhōng xúnzhǎo zhīpèi zìrán yùnzhuǎn de zhōngjí fǎzé. | The essence of scientific research is humanity's noble quest to seek truth in the vast cosmos. Confronting countless failed experiments and overturned hypotheses, scientists rely on rigorous logic and perseverance to search for fundamental laws governing nature. | La esencia de la ciencia es la noble epopeya humana en pos de la verdad en el cosmos. Ante innumerables fracasos y desmentidos, los científicos se apoyan en la lógica rigurosa y la tenacidad para buscar en lo micro y lo macroscópico las leyes eternas que rigen el universo.

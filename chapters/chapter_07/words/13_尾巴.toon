@@ -1,0 +1,66 @@
+id: 13
+hanzi: 尾巴
+pinyin: wěi ba
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: tail (of animal, aircraft, comet); rear end; shadow or follower
+  es: cola; rabo; extremidad posterior; parte final o rastro
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the flexible appendage extending from the rear of an animal's body; the posterior end of an object | apéndice articulado en la parte posterior del cuerpo de los animales; extremo trasero | 摇尾巴 (wag the tail)
+  2 | Noun | Colloquial | a person tracking, tailing, or shadowing someone from behind | persona que sigue o vigila a otra de cerca; rastro o cola | 甩掉尾巴 (shake off a tail/tracker)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 小狗看见主人推门进屋，立刻兴奋地飞奔过来，欢快地不停摇晃着毛茸茸的尾巴。 | Xiǎogǒu kànjiàn zhǔrén tuīmén jìnwū, lìkè xīngfèn de fēibēn guòlái, huānkuài de bùtíng yáohuàng zhe máorōngrōng de wěiba. | Seeing its owner push open the door and enter, the puppy immediately bounded over excitedly, joyfully wagging its fluffy tail without stopping. | Al ver a su dueño abrir la puerta y entrar, el perrito corrió entusiasmado hacia él, moviendo sin cesar su peluda cola con alegría.
+  #2 | 摸象的第四个盲人抓住了大象细长的尾巴，便十分确信地大喊大象其实就像一根粗糙的绳子。 | Mō xiàng de dì sì gè mángrén zhuāzhù le dàxiàng xìcháng de wěiba, biàn shífēn quèxìn de dàhǎn dàxiàng qíshí jiù xiàng yì gēn cūcāo de shéngzi. | The fourth blind man grabbed the elephant's slender tail and shouted with absolute certainty that an elephant was actually like a coarse rope. | El cuarto ciego asió la delgada cola del elefante y gritó con total convicción que el animal se asemejaba exactamente a una soga áspera.
+
+collocations[6]{hanzi,en}:
+  摇尾巴 | wag the tail
+  翘尾巴 | get cocky; become conceited
+  夹着尾巴 | with tail between one's legs; humbled
+  大象尾巴 | elephant's tail
+  长长的尾巴 | long tail
+  彗星尾巴 | tail of a comet
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  尾大不掉 | wěi dà bù diào | the tail is too big to wag; subordinate too strong to manage
+  虎头蛇尾 | hǔ tóu shé wěi | tiger's head and snake's tail; start with a flourish but end weakly
+  藏头露尾 | cáng tóu lù wěi | hide head and expose tail; act slyly and deceitfully
+  畏首畏尾 | wèi shǒu wèi wěi | fear head and fear tail; excessively timid and hesitant
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  尾 | wěi | tail; rear; end; stern | cola; rabo; extremo | 尸 | corpse / body frame | 尸 (human bent torso) | 毛 (máo, hair / fur) | 7 | 半包围结构 | Ancient oracle bone pictogram showing a human body 尸 wearing a long hairy tail 毛 hanging from behind. | From behind the rear of the physical body (尸) hangs a long strand of animal fur (毛), forming a tail (尾). | Tras la silueta del cuerpo (尸) desciende un mechón de pelo y cerdas (毛), dibujando la cola (尾). | 214 | SHFU | 
+  巴 | bā | cling to; eager; crust; tail suffix | adherir; anhelar; sufijo nominal | 巳 | sixth earthly branch | 巳 (curled snake / serpent) | "" | 4 | 单一结构 | Ancient bronze pictogram of a giant coiled python or serpent with its tail hooked upward. | A giant creeping serpent curves its scaly body and hooks its tail upward with tenacity (巴). | Una serpiente gigante enrosca su cuerpo con el rabo curvado hacia lo alto con tenacidad (巴). | 55 | AU | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Animal hair trailing behind the body (尾) curves tenaciously like a snake (巴) to form an animal's expressive tail (尾巴).
+  composite_memory_hook_es: El pelaje tras el cuerpo (尾) que se curva como una sierpe (巴) da forma a la cola (尾巴).
+  cultural_and_cognitive_roots: The character 尾 dates back to ancient sacrificial dancers who tied animal tails to their hips. In modern Mandarin, 巴 functions as a phonetic nominalizing suffix (as in 嘴巴, 下巴, 尾巴). Figuratively, 尾巴 symbolizes concealable flaws or overconfidence (夹着尾巴做人, 尾巴翘上天).
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by neutral tone: 'wěi ba' (214-neutral). Pronounce 'wěi' fully, then deliver 'ba' with a light, unstressed release.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    屁 | pì | fart; buttocks; nonsense | Has 比 inside 尸 instead of 毛
+    尿 | niào | urine; pass water | Has 水 (water) inside 尸 instead of 毛
+    屎 | shǐ | excrement; feces | Has 米 (rice) inside 尸 instead of 毛
+    色 | sè | color; expression; form | Has 刀 above 巴 instead of standalone 巴
+    把 | bǎ | grasp; handle; classifier | Has hand radical 扌 next to 巴
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    巴 | bā | cling to; yearn; Sichuan region
+    把 | bǎ | hold; grasp; handle
+    爸 | bà | father; dad
+    疤 | bā | scar; scab
+    耙 | pá | rake; harrow
+
+semantic_boundary_contrasts:
+  core_nuance: 尾巴 is the full colloquial and anatomical noun for an animal's tail or rear trail, whereas 尾 alone is used in compound morphemes.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 尾巴 vs. 尾 | wěi | 尾巴 is the standalone spoken and written noun for a tail (狗尾巴), whereas 尾 is a bound morpheme in compounds and formal written phrases (车尾, 结尾, 年尾).
+    2 | 尾巴 vs. 后端 | hòuduān | 尾巴 is concrete and biological or figurative for a tracker, whereas 后端 is technical and spatial, used for engineering, software backends, or structural rear ends.
+    3 | 尾巴 vs. 痕迹 | hénjì | 尾巴 describes a physical extension or tracker, while 痕迹 refers to left-behind impressions, footprints, or abstract traces of past events.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在广袤的大自然中，动物的尾巴具有极其奇妙的生理功能。鸟类的尾巴在翱翔中调节平衡，袋鼠的尾巴宛如强有力的第三条腿，而松鼠蓬松的尾巴则在凛冽寒冬中化作温暖的毛毯。大自然造物的精巧令人叹为观止。 | Zài guǎngmào de dàzìrán zhōng, dòngwù de wěiba jùyǒu jíqí qímiào de shēnglǐ gōngnéng. Niǎolèi de wěiba zài áoxiáng zhōng tiáojié pínghéng, dàishǔ de wěiba wǎnrú qiángyǒulì de dì-sān tiáo tuǐ, ér sōngshǔ péngsōng de wěiba zé zài lǐnliè hándōng zhōng huàzuò wēnnuǎn de máotǎn. Dàzìrán zàowù de jīngqiǎo lìng rén tànwéiguānzhǐ. | In vast nature, animal tails possess marvelous physiological adaptations. A bird's tail regulates balance during flight, a kangaroo's tail acts as a powerful third leg, and a squirrel's fluffy tail becomes a cozy blanket in winter. The ingenuity of creation is breathtaking. | En la vasta naturaleza, las colas de los animales desempeñan admirables funciones biológicas. Las aves equilibran su vuelo con ellas, el canguro las usa como un tercer pie y la ardilla las convierte en mullida manta invernal. El prodigio de la creación animal colma de asombro.
+  #2 | 在管理心理学中，“翘尾巴”常被用来警示团队在取得阶段性成绩后滋生的盲目自满。保持谦逊谨慎的清醒头脑，杜绝麻痹大意，才能在日趋激烈的市场竞争中行稳致远，避免重蹈虎头蛇尾的覆辙。 | Zài guǎnlǐ xīnlǐxué zhōng, 'qiào wěiba' cháng bèi yònglái jǐngshì tuánduì zài qǔdé jiēduànxìng chéngjì hòu zīshēng de mángmù zìmǎn. Bǎochí qiānxùn jǐnshèn de qīngxǐng tóunǎo, dùjué mábì dàyì, cáinéng zài rìqū jīliè de shìchǎng jìngzhēng zhōng xíngwěn-zhìyuǎn, bìmǐan chóngdǎo hǔtóu-shéwěi de fùzhé. | In management psychology, 'raising one's tail' warns against complacency following initial victories. Maintaining humble lucidity and rooting out carelessness allows an organization to advance steadily in fierce competition, avoiding the pitfall of beginning well but ending poorly. | En la psicología directiva, la advertencia de no ufanarse previene la autocomplacencia tras un éxito inicial. Mantener la prudencia y la mente despierta permite navegar con paso firme en mercados voraces, evitando el descalabro de empezar con bríos y fenecer con desgana.

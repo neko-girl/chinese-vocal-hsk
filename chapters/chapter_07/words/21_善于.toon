@@ -1,0 +1,65 @@
+id: 21
+hanzi: 善于
+pinyin: shàn yú
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to be good at; to be adept in; to excel in; to be skilled at
+  es: ser bueno en; ser diestro en; destacar por su habilidad; ser hábil en
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | having high proficiency, natural talent, or developed competence in doing something | tener gran destreza, inclinación o pericia para realizar una actividad con solvencia | 善于沟通 (adept at communication)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军善于骑射，每次拉弓射箭都能全神贯注，因此在军中赢得了神射手的美誉。 | Lǐ Guǎng jiāngjūn shànyú qíshè, měi cì lāgōng-shèjiàn dōu néng quánshén-guànzhù, yīncǐ zài jūnzhōng yíngdé le shénshèshǒu de měiyù. | General Li Guang was adept at riding and archery, concentrating fully whenever drawing his bow, thus earning renown as a master archer in the army. | El general Li Guang era diestro en la equitación y el tiro con arco; al templar su arco concentraba todo su ser, ganándose fama de arquero prodigioso en el ejército.
+  #2 | 卓越的企业领导者往往善于倾听来自基层的建设性意见，并能在危机中化被动为主动。 | Zhuóyuè de qǐyè lǐngdǎozhě wǎngwǎng shànyú qīngtīng láizì jīcéng de jiànshèxìng yìjiàn, bìng néng zài wēijī zhōng huà bèidòng wéi zhǔdòng. | Outstanding business leaders are often adept at listening to constructive grassroots input, turning passivity into initiative during crises. | Los líderes empresariales preclaros suelen ser hábiles en escuchar las propuestas constructivas de sus bases, sabiendo convertir la adversidad en iniciativa fecunda.
+
+collocations[6]{hanzi,en}:
+  善于沟通 | good at communication; articulate
+  善于观察 | adept at keen observation
+  善于学习 | skilled at continuous learning
+  善于思考 | adept at deep, critical reflection
+  善于把握机会 | adept at seizing opportunities
+  善于团结他人 | good at rallying and uniting others
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  善罢甘休 | shàn bà gān xiū | leave the matter at that willingly (usually in negative)
+  善始善终 | shàn shǐ shàn zhōng | start well and finish well; see things through to the end
+  多谋善断 | duō móu shàn duàn | resourceful and decisive; quick to make sound judgments
+  择善而从 | zé shàn ér cóng | choose what is good and follow it; adopt best practices
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  善 | shàn | good; virtuous; adept; kind | bueno; virtuoso; hábil; benevolente | 口 | mouth | 羊 (yáng, auspicious sheep) | 言 (words of praise / debate) | 12 | 上下结构 | Ancient bronze pictogram of an auspicious sheep 羊 flanked by words of praise 言, signifying moral goodness and refined competence. | An auspicious sheep (羊) whose praises are proclaimed with wise words (口) embodies moral virtue and excellence (善). | Una oveja propicia (羊) ensalzada con palabras benévolas (口) encarna la virtud moral y la alta pericia (善). | 51 | TGTK | 
+  于 | yú | in; at; to; regarding | en; a; hacia; respecto a | 二 | two | 二 (two levels) | 亅 (hook) | 3 | 单一结构 | Simplified from 於. Originally depicted a soaring bird or musical breath rising effortlessly outward. | A hook (亅) curves smoothly upward through two horizontal planes (二) to direct movement toward a destination (于). | Un gancho fluido (亅) asciende cruzando dos planos (二) para orientar el movimiento hacia un fin (于). | 35 | MD | 於
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Possessing virtue and excellence (善) in relation to (于) a craft means you are thoroughly adept in it (善于).
+  composite_memory_hook_es: Reunir excelencia y pericia (善) con respecto a (于) una disciplina significa ser diestro en ella (善于).
+  cultural_and_cognitive_roots: In classical Chinese grammar, 于 is a versatile preposition indicating location, direction, or comparison. Combining it with 善 (moral excellence and technical mastery) yields the formal verbal predicate 善于, synonymous with 'excelling at'.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by rising 2nd tone: 'shàn yú' (51-35). Drop firmly on 'shàn', then glide upward melodiously on 'yú'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    喜 | xǐ | happy; joyful; fond of | Has 士 and 口 at top above 丷 and 口
+    嘉 | jiā | fine; praise; auspicious | Has 吉 above 丷 and 口
+    干 | gān | dry; shield; trunk | Has straight vertical stroke without bottom hook
+    千 | qiān | thousand | Has slanted top stroke 丿 rather than horizontal 一
+    予 | yǔ | give; bestow; myself | Has 龴 at top above 亅
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    缮 | shàn | repair; mend; transcribe
+    膳 | shàn | meals; board; provision
+    膳 | shàn | food; delicacies
+    余 | yú | surplus; remain; I
+    欤 | yú | final interrogative particle
+
+semantic_boundary_contrasts:
+  core_nuance: 善于 is a formal, dignified verb followed by a verbal action phrase, expressing high competence or disposition.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 善于 vs. 擅长 | shàncháng | 善于 is commonly followed by behavioral or cognitive actions (善于思考, 善于观察), whereas 擅长 often takes concrete skills, academic subjects, or sports disciplines (擅长书法, 擅长游泳).
+    2 | 善于 vs. 习惯于 | xíguànyú | 善于 denotes competence and aptitude (being good at), while 习惯于 denotes acquired behavioral routine without implying skill (being used to).
+    3 | 善于 vs. 精通 | jīngtōng | 善于 indicates skillful proficiency, while 精通 conveys complete, authoritative mastery of an entire academic field or technology.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正有智慧的人，往往善于在喧嚣的日常中保持内心的清明。他们善于倾听他人的心声，善于在逆境中发现转机。不被浮名虚利所累，在从容与豁达中体味生活的真谛，这才是立身处世的大智慧。 | Zhēnzhèng yǒu zhìhuì de rén, wǎngwǎng shànyú zài xuāoxiāo de rìcháng zhōng bǎochí nèixīn de qīngmíng. Tāmen shànyú qīngtīng tārén de xīnshēng, shànyú zài nìjìng zhōng fāxiàn zhuǎnjī. Bú bèi fúmíng-xūlì suǒ lèi, zài cóngróng yǔ huòdá zhōng tǐwèi shēnghuó de zhēndì, zhè cái shì lìshēn-chǔshì de dà zhìhuì. | People of genuine wisdom are adept at preserving inner clarity amid bustling daily routines. They excel at listening to others' hearts and discovering opportunities in adversity. Unburdened by vain fame, savoring truth in composure is wisdom. | Los sabios auténticos destacan por conservar la serenidad del alma entre el ruido cotidiano. Son diestros en escuchar el sentir ajeno y en hallar salidas a la adversidad. Libres de vanas ambiciones, saborean la vida con templanza y nobleza.
+  #2 | 在知识迭代日益加速的数字时代，青年科技工作者唯有善于吸收跨学科前沿成果，善于在交叉融合中激发原创灵感，才能突破传统思维定式，为攻克国家关键核心技术难题贡献青年力量。 | Zài zhīshi diédài rìyì jiāsù de shùzì shídài, qīngnián kējì gōngzuòzhě wéiyǒu shànyú xīshōu kuà-xuékē qiányán chéngguǒ, shànyú zài jiāochā rónghé zhōng jīfā yuánchuàng línggǎn, cáinéng tūpò chuántǒng sīwéi dìngshì, wèi gōngkè guójiā guānjiàn héxīn jìshù nándí gòngxiàn qīngnián lìliàng. | In a digital era of rapid knowledge iteration, young technologists must excel at absorbing interdisciplinary frontiers and sparking original inspiration through convergence, breaking dogmas to solve critical technological bottlenecks. | En la era digital, los jóvenes investigadores deben ser hábiles para asimilar saberes interdisciplinarios y desatar su creatividad en la convergencia científica, quebrando inercias para resolver con éxito los nudos tecnológicos del país.

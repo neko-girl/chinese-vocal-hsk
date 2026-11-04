@@ -1,0 +1,65 @@
+id: 30
+hanzi: 姿势
+pinyin: zī shì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: posture; pose; carriage; gesture; bodily attitude
+  es: postura; pose; porte; gesto corporal; actitud física
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the position, carriage, or bearing in which someone holds their body while standing, sitting, or performing an action | modo o forma de colocar el cuerpo o de adoptar una actitud física al estar de pie, sentado o en acción | 优美的姿势 (graceful posture)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军扎稳马步，摆出了极其标准的射箭姿势，双臂拉满强弓，宛如一尊巍峨挺立的铜像。 | Lǐ Guǎng jiāngjūn zhāwěn mǎbù, bǎichū le jíqí biāozhǔn de shèjiàn zīshì, shuāngbì lāmǎn qiánggōng, wǎnrú yì zūn wēi'é tǐnglì de tóngxiàng. | General Li Guang anchored his horse stance firmly, struck a textbook archery posture, and drew the bow full like a towering bronze statue. | El general Li Guang afianzó su postura de jinete, adoptó una pose canónica de arquero y tensó el recio arco como estatua de bronce erguida.
+  #2 | 舞蹈演员经过长达数年的严格形体训练，在舞台上的每一个旋转跳跃姿势都显得格外优美轻盈。 | Wǔdǎoyuǎnyuán jīngguò chángdá shù nián de yángé xíngtǐ xùnliàn, zài wǔtái shàng de měi yí gè xuánzhuǎn tiàoyuè zīshì dōu xiǎnde géwài yōuměi qīngyíng. | After years of rigorous physical conditioning, every spinning and leaping posture the dancers execute onstage appears exceptionally graceful and light. | Tras años de riguroso adiestramiento corporal, cada giro y salto de los bailarines en escena denota una exquisita gracilidad y soltura.
+
+collocations[6]{hanzi,en}:
+  摆出姿势 | strike or assume a posture
+  坐立姿势 | sitting and standing posture
+  优美姿势 | graceful posture or pose
+  调整姿势 | adjust one's posture
+  睡眼姿势 | sleeping position
+  射箭姿势 | archery stance or posture
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  多姿多彩 | duō zī duō cǎi | varied and graceful; rich and colorful in styles
+  大张旗鼓 | dà zhāng qí gǔ | with huge banners and rolling drums; on a grand scale
+  势不可挡 | shì bù kě dǎng | unstoppable momentum; irresistible force
+  风姿绰约 | fēng zī chuò yuē | graceful and charming carriage; elegant posture
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  姿 | zī | posture; carriage; beauty; appearance | postura; ademán; belleza; porte | 女 | woman / female | 女 (female, graceful poise) | 次 (cì, second / breathing sigh) | 9 | 上下结构 | Phono-semantic compound: woman 女 paired with 次, portraying the poised grace and delicate beauty of feminine carriage. | A woman (女) holding herself with poise second to none (次) exhibits natural grace and posture (姿). | Una mujer (女) cuyo porte refinado no cede ante nadie (次) destila gracia y bella compostura (姿). | 55 | IOD | 
+  势 | shì | power; momentum; posture; situation | fuerza; ímpetu; postura; coyuntura | 力 | strength / force | 力 (physical muscle force) | 执 (zhí, grasp / hold firm) | 8 | 上下结构 | Simplified from 勢. Ancient pictogram of a hand holding and exerting force 力 to command momentum and posture. | Grasping authority firmly (执) with muscular strength (力) projects formidable outward momentum and poise (势). | Empuñar con firmeza (执) la propia fuerza (力) infunde un ímpetu y una postura imponentes (势). | 51 | GILS | 勢
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Poised feminine grace (姿) combined with muscular bodily momentum (势) determines a person's balanced physical posture (姿势).
+  composite_memory_hook_es: La grácil compostura (姿) unida al vigor de la fuerza muscular (势) define la correcta postura física (姿势).
+  cultural_and_cognitive_roots: In ancient Chinese martial arts (武术) and calligraphy, 姿势 is the foundational alignment uniting internal breath (气), muscle mechanics (力), and visual poise (态). The correct stance (如坐如钟, 站如松) is considered the indispensable prerequisite for martial focus and health.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by falling 4th tone: 'zī shì' (55-51). Articulate 'zī' on a steady high register before dropping sharply on 'shì'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    资 | zī | money; capital; natural endowment | Has cowrie shell 贝 at bottom instead of 女
+    恣 | zì | unrestrained; indulge | Has heart 心 at bottom instead of 女
+    执 | zhí | hold; execute; adhere | Lacks the muscle radical 力 at the bottom
+    热 | rè | hot; heat | Has four dots of fire 灬 at bottom instead of 力
+    垫 | diàn | pad; cushion; mat | Has earth radical 土 at bottom instead of 力
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    姿 | zī | posture; looks; carriage
+    资 | zī | wealth; capital; resource
+    次 | cì | sequence; order; second
+    势 | shì | power; momentum; posture
+    执 | zhí | grasp; hold; adhere to
+
+semantic_boundary_contrasts:
+  core_nuance: 姿势 specifically designates physical bodily stance or gesture (sitting, archery, swimming), concrete and visible.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 姿势 vs. 姿态 | zītài | 姿势 refers to the concrete mechanical physical pose (正确的坐姿姿势), whereas 姿态 frequently extends to metaphorical moral, diplomatic, or political attitudes (展现开放姿态).
+    2 | 姿势 vs. 动作 | dòngzuò | 姿势 is static or held bodily alignment, while 动作 emphasizes kinetic movement, execution of physical steps, or athletic actions.
+    3 | 姿势 vs. 态势 | tàishì | 姿势 belongs to human body mechanics, whereas 态势 refers to the strategic or geopolitical macro situation of an environment or military conflict.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 舞台上聚光灯亮起，芭蕾舞者挺拔的身姿定格成优雅的弧线。每一个细微的眼神流转，每一个舒展的肢体姿势，都凝结着台下十年如一日的汗水与坚守。这种从容舒展的体态，生动诠释了人类对纯粹身体美学的崇高追求。 | Wǔtái shàng jùguāngdēng liàngqǐ, bālěi wǔzhě tǐngbá de shēnzī dìnggé chéng yōuyǎ de húxiàn. Měi yí gè xìwēi de yǎnshén liúzhuǎn, měi yí gè shūzhǎn de zhītǐ zīshì, dōu níngjié zhe táixià shí nián rú yírì de hànshuǐ yǔ jiānshǒu. Zhè zhǒng cóngróng shūzhǎn de tǐtài, shēngdòng quánshì le rénlèi duì chúncuì shēntǐ měixué de chónggāo zhuīqiú. | Spotlights illuminate the stage as the ballerina's upright carriage freezes into an elegant arc. Every subtle glance and expansive bodily posture crystallizes a decade of tireless sweat. This relaxed poise interprets humanity's pursuit of pure physical aesthetics. | Bajo los focos del escenario, la grácil silueta de la bailarina dibuja un arco soberbio. Cada sutil mirada y cada postura corporal condensan diez años de denodado sacrificio. Este porte sereno encarna la sublime aspiración humana a la belleza plástica.
+  #2 | 在快节奏的现代职场生活中，长期面对电脑屏幕往往容易导致颈椎疲劳与不良坐姿。健康医学专家倡导职场人士应当定期起立活动，主动调整日常工作中的坐立姿势，以科学的生活方式远离亚健康隐患，保持充沛的工作精力。 | Zài kuàijièzòu de xiàndài zhíchǎng shēnghuó zhōng, chángqī miànduì diànnǎo píngmù wǎngwǎng róngyì dǎozhì jǐngzhuī pílào yǔ bùliáng zuòzī. Jiànkāng yīxué zhuānjiā chàngdǎo zhíchǎng rénshì yīngdāng dìngqī qǐlì huódòng, zhǔdòng tiáozhěng rìcháng gōngzuò zhōng de zuòlì zīshì, yǐ kēxué de shēnghuó fāngshì yuǎnlí yàjiànkāng yǐnhuàn, bǎochí chōngpèi de gōngzuò jīnglì. | In fast-paced offices, staring at screens easily causes cervical strain and poor sitting posture. Health experts urge professionals to stand periodically and adjust daily posture, utilizing ergonomic habits to banish fatigue and sustain energy. | En la vida laboral moderna, pasar horas ante la pantalla suele provocar fatiga cervical y malas posturas al sentarse. Los médicos aconsejan levantarse a menudo y corregir la higiene postural para eludir dolencias y preservar la vitalidad en el trabajo.

@@ -1,0 +1,65 @@
+id: 18
+hanzi: 蔬菜
+pinyin: shū cài
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: vegetables; greens; edible botanical plants cultivated for food
+  es: verdura; hortalizas; vegetales comestibles cultivados en huertos
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | edible herbaceous plants or plant parts (leaves, stems, roots, pods) grown in gardens for food | plantas herbáceas cultivadas en huertos cuyas hojas, tallos o raíces se consumen como alimento | 新鲜蔬菜 (fresh vegetables)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 猴群食量极大，老人每天都要花费大量积蓄去集市采购新鲜的瓜果、蔬菜与粮食，家庭开支捉襟见肘。 | Hóuqún shíliàng jídà, lǎorén měitiān dōu yào huāfèi dàliàng jīxù qù jíshì cǎigòu xīnxiān de guāguǒ, shūcài yǔ liángshi, jiātíng kāizhī zhuōjīn-jiànzhǒu. | The monkeys had voracious appetites; every day the elder spent savings at market buying fresh fruits, vegetables, and grain, straining finances. | Los monos comían sin fin; a diario el anciano gastaba sus ahorros en comprar fruta fresca, verduras y grano en el mercado, apurando su economía.
+  #2 | 现代营养学倡导均衡清淡的膳食理念，建议大家日常饮食中多摄入富含膳食纤维与维生素的各色时令蔬菜。 | Xiàndài yíngyǎngxué chàngdǎo jūnhéng qīngdàn de shànshí lǐniàn, jiànyì dàjiā rìcháng yǐnshí zhōng duō shèrù fùhán shànshí xiānwéi yǔ wéishēngsù de gèsè shílìng shūcài. | Modern nutrition advocates balanced diets, advising people to consume seasonal vegetables rich in dietary fiber and vitamins daily. | La dietética actual aboga por una alimentación equilibrada, aconsejando consumir a diario verduras de temporada ricas en fibra y vitaminas.
+
+collocations[6]{hanzi,en}:
+  新鲜蔬菜 | fresh vegetables
+  绿色蔬菜 | green leafy vegetables; organic greens
+  种植蔬菜 | cultivate or grow vegetables
+  时令蔬菜 | seasonal vegetables
+  蔬菜大棚 | vegetable greenhouse
+  脱水蔬菜 | dehydrated vegetables
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  布衣蔬食 | bù yī shū shí | cotton clothing and simple vegetable fare; living a plain, frugal life
+  粗茶淡饭 | cū chá dàn fàn | coarse tea and plain meals; simple, unpretentious sustenance
+  青菜萝卜 | qīng cài luó bo | greens and radishes; plain everyday sustenance
+  五谷丰登 | wǔ gǔ fēng dēng | bumper harvest of all five grains; abundance
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  蔬 | shū | vegetable; greens; coarse food | verdura; hortaliza; comida frugal | 艹 | grass / plant | 艹 (herbs, garden greens) | 疏 (shū, dredge / disperse / phonetic) | 14 | 上下结构 | Phono-semantic compound: grass radical 艹 denoting edible garden crops, paired with 疏 (dredge/open channels for water flow). | Green leafy herbs (艹) nurtured in well-dredged, irrigated garden soil (疏) yield fresh vegetables (蔬). | Brotes de hierba tierna (艹) regados por acequias limpias (疏) crecen lozanos dando ricas verduras (蔬). | 55 | TNLI | 
+  菜 | cài | vegetable; dish; cuisine; food course | verdura; plato; comida; guiso | 艹 | grass / plant | 艹 (plant, herbs) | 采 (cǎi, hand plucking fruit/leaves) | 11 | 上下结构 | Ancient pictogram showing an active hand 爫 plucking edible herb leaves and berries 艹 from plants 木. | Hands pluck (采) fresh edible tender leaves and greens from the garden soil (艹) to prepare a savory dish (菜). | Una mano recolecta con primor (采) brotes comestibles de la mata (艹) para aderezar un plato sano (菜). | 51 | TBD | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Well-dredged leafy herbs (蔬) plucked fresh from the garden patch (菜) provide nourishing household vegetables (蔬菜).
+  composite_memory_hook_es: Hortalizas bien regadas (蔬) cosechadas frescas del huerto (菜) forman las verduras cotidianas (蔬菜).
+  cultural_and_cognitive_roots: In ancient Chinese culinary classification, 蔬 (wild and garden edible herbs) stood alongside 谷 (grains), 果 (fruits), and 畜 (livestock). Consuming 蔬食 (simple vegetable fare) was an esteemed Daoist and Buddhist sign of ascetic purity, detachment from slaughter, and spiritual clarity.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by falling 4th tone: 'shū cài' (55-51). Pronounce 'shū' with level high pitch before a firm descending drop on 'cài'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    疏 | shū | sparse; dredge; distant | Lacks the grass radical 艹 at the top
+    梳 | shū | comb; tease hair | Has wood radical 木 on the left instead of 艹
+    采 | cǎi | pluck; gather; color | Lacks the grass radical 艹 at the top
+    彩 | cǎi | color; applause; lottery | Has three bristle slashes 彡 on the right of 采
+    踩 | cǎi | step on; tread | Has foot radical 足 on the left of 采
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    疏 | shū | dredge; sparse; careless
+    梳 | shū | hair comb; arrange hair
+    菜 | cài | vegetable; dish; course
+    采 | cǎi | pluck; pick; gather
+    彩 | cǎi | colorful; vibrant; prize
+
+semantic_boundary_contrasts:
+  core_nuance: 蔬菜 is the standard collective botanical noun for cultivated edible garden greens, roots, and pods.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 蔬菜 vs. 菜 | cài | 蔬菜 strictly denotes raw botanical vegetables (greens, carrots, cabbages), whereas 菜 is polysemous, widely meaning cooked culinary dishes, cuisine styles, or whole courses (川菜, 点菜).
+    2 | 蔬菜 vs. 水果 | shuǐguǒ | 蔬菜 are savory crops cooked for savory meals, whereas 水果 are sweet or tart fleshy fruits eaten raw as desserts or snacks.
+    3 | 蔬菜 vs. 野菜 | yěcài | 蔬菜 are domesticated crops grown on farms and gardens, while 野菜 are wild foraged uncultivated edible herbs picked in mountains.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨的农贸市场上热闹非凡，菜农们的竹筐里码放着刚从菜园采摘的时令蔬菜。水灵灵的青菜叶片上还挂着晶莹的露珠，泥土的清香在空气中弥漫开来。这些鲜嫩翠绿的蔬菜，散发着大自然最淳朴温润的勃勃生机。 | Qīngchén de nóngmào shìchǎng shàng rènào-fēifán, càinóng men de zhúkuāng lǐ mǎfàng zhe gāng cóng càiyuán cǎizhāi de shílìng shūcài. Shuǐlínglíng de qīngcàiyè piàn shàng hái guà zhe jīngyíng de lùzhū, nítǔ de qīngxiāng zài kōngqì zhōng mímàn kāilái. Zhèxiē xiānnèn cuìlǜ de shūcài, sànfà zhe dàzìrán zuì chúnpǔ wēnrùn de bóbó shēngjī. | The morning market bustles as farmers' bamboo baskets display seasonal vegetables picked fresh from gardens. Dewdrops cling to tender greens, earth fragrances filling the air. These verdant greens radiate nature's purest vitality. | El mercado matutino bulle de vida con los canastos de mimbre rebosantes de verduras recién cortadas. Gotas de rocío brillan sobre las acelgas esparciendo aroma a tierra fértil; estas hortalizas verdes respiran la savia pura del campo.
+  #2 | 在现代都市立体农业与设施园艺示范区，基于物联网环境控制与无土栽培技术的智慧蔬菜工厂正在规模化普及。全密闭车间内精准调配光照养分，全年稳定产出高品质有机蔬菜，为特大城市群菜篮子安全提供了坚实的科技保障。 | Zài xiàndài dūshì lìtǐ nóngyè yǔ shèshī yuányì shìfànqū, jīyú wùliánwǎng huánjìng kòngzhì yǔ wútǔ zāipéi jìshù de zhìhuì shūcài gōngchǎng zhèngzài guīmóhuà pǔjí. Quánmìbì chējiān nèi jīngzhǔn tiáopèi guāngzhào yǎngfèn, quánnián wěndìng chǎnchū gāopǐnzhì yǒujī shūcài, wèi tēdà chéngshìqún càilánzi ānquán tígōng le jiānshí de kējì bǎozhàng. | In vertical farms and demonstration zones, smart hydroponic vegetable factories powered by IoT climate controls are proliferating. Sealed facilities regulate nutrients, reliably supplying organic vegetables and safeguarding megacities' food baskets. | En la agricultura hidropónica urbana, las fábricas inteligentes de hortalizas automatizadas por sensores crecen con fuerza. Sus recintos climatizados nutren verduras orgánicas todo el año, blindando el abastecimiento de las grandes metrópolis.

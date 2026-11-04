@@ -1,0 +1,66 @@
+id: 20
+hanzi: 将军
+pinyin: jiāng jūn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: general; high-ranking military commander; to check (in chess); to put someone on the spot
+  es: general; alto mando militar; dar jaque (ajedrez); poner en aprietos
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a high-ranking military officer who commands an army or major armed division | oficial superior que ostenta el mando supremo de un ejército o división militar | 汉代将军 (Han dynasty general)
+  2 | Verb | Colloquial | to deliver a check in chess (xiangqi); figuratively to challenge or put someone in an embarrassing predicament | dar jaque en el ajedrez; figuradamente poner a alguien en un aprieto dialéctico | 将了他一军 (put him on the spot)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 汉代著名将军李广不仅射箭技艺出神入化，更以爱兵如子、赏罚分明的崇高军纪深受士兵爱戴。 | Hàndài zhùmíng jiāngjūn Lǐ Guǎng bùjǐn shèjiàn jìyì chūshén-rùhuà, gèng yǐ àibīng-rúzǐ, shǎngfá-fēnmíng de chónggāo jūnjì shēnshòu shìbīng àidài. | The famous Han general Li Guang not only possessed godlike archery skills, but was deeply beloved by troops for treating soldiers like sons with clear discipline. | El ilustre general Li Guang de la dinastía Han dominaba el tiro con arco y era venerado por sus soldados gracias a su disciplina recta y su cariño paternal hacia la tropa.
+  #2 | 在复杂的棋局对弈中，老棋手凭借敏锐的战场直觉走出一记妙招，瞬间反客为主将军成功。 | Zài fùzá de qíjú duìyì zhōng, lǎo qíshǒu píngjiè mǐnruì de zhànchǎng zhíjué zǒuchū yí jì miàozhāo, shùnjiān fǎnkè-wéizhǔ jiāngjūn chénggōng. | In the complex chess match, the veteran player made a brilliant move with sharp battlefield intuition, instantly turning the tables to deliver check. | En la reñida partida de ajedrez, el veterano jugador ejecutó una jugada magistral con agudo instinto bélico, invirtiendo la iniciativa y dando jaque con éxito.
+
+collocations[6]{hanzi,en}:
+  飞将军 | the Flying General (epithet of Li Guang)
+  立功将军 | a general distinguished by merit
+  将军下令 | the general issues orders
+  高级将军 | senior general; high-ranking commander
+  象棋将军 | check in Chinese chess (xiangqi)
+  骁勇将军 | valiant, intrepid general
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  败军之将 | bài jūn zhī jiàng | a defeated general; a vanquished commander
+  残兵败将 | cán bīng bài jiàng | remnant troops and defeated commanders; shattered remnants
+  勇将手下无弱兵 | yǒng jiàng shǒu xià wú ruò bīng | under a brave general there are no cowardly soldiers
+  调兵遣将 | diào bīng qiǎn jiàng | deploy troops and dispatch generals; mobilize resources
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  将 | jiāng | general; commander; will; take | general; mandar; tomar; auxiliar futuro | 寸 | inch / hand rule | 丬 (pán, meat offering on stand) | 寸 (cùn, hand holding ruler) | 9 | 左右结构 | Simplified from 將. Ancient bronze pictogram of a commander's hand 寸 offering sacrificial meat 丬 before marching into battle. | An authoritative hand (寸) raises the ceremonial military baton beside the troop muster post (丬) to command as a general (将). | Una mano firme (寸) empuña el estandarte de mando junto al poste de reunión (丬) para liderar las tropas como general (将). | 55 | LIMI | 將
+  军 | jūn | army; military; troops; armed forces | ejército; tropas; fuerzas armadas | 冖 | cover / roof | 车 (chē, war chariot) | 冖 (mì, military tent camp) | 6 | 上下结构 | Simplified from 軍. Ancient pictogram showing a circle of war chariots 车 bivouacked beneath camp covers 冖 to form a fortification. | War chariots (车) circled securely beneath an encampment canopy (冖) assemble a mighty military army (军). | Carros de combate (车) agrupados en orden defensivo bajo la lona del campamento (冖) forjan un ejército (军). | 55 | BKJ | 軍
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An authoritative commander holding the battle baton (将) directing a mighty armored army (军) serves as a commanding general (将军).
+  composite_memory_hook_es: Un noble caudillo que empuña el bastón de mando (将) al frente de un aguerrido ejército (军) es un general (将军).
+  cultural_and_cognitive_roots: In ancient Chinese statecraft, 将军 (literally 'leader of the army') was the supreme martial post appointed by the emperor to defend the realm. Renowned generals like Li Guang (李广) symbolized consummate martial prowess, unflinching focus, and stoic loyalty.
+  tone_sandhi_and_pitch_modulation: Dual high level 1st tones: 'jiāng jūn' (55-55). Maintain a clear, steady, elevated pitch across both syllables without falling.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    奖 | jiǎng | reward; prize; praise | Has 大 at the bottom instead of 寸
+    浆 | jiāng | thick liquid; syrup | Has 水 (water) at the bottom instead of 寸
+    酱 | jiàng | sauce; paste; jam | Has 酉 (wine jar) at the bottom instead of 寸
+    车 | chē | vehicle; car | Lacks the canopy roof 冖 at the top
+    挥 | huī | wave; wield; command | Has hand radical 扌 next to 军
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    将 | jiāng | general; will; take
+    蒋 | jiǎng | surname Jiang; wild rice
+    浑 | hún | muddy; turbid; entire
+    恽 | yùn | sincere; deliberating
+    辉 | huī | brightness; splendor; glory
+
+semantic_boundary_contrasts:
+  core_nuance: 将军 is the prestigious title and rank of an army's top commanding officer, distinct from ordinary commanders or ministers.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 将军 vs. 士兵 | shìbīng | 将军 is the top commanding general devising battle strategies, whereas 士兵 are the frontline enlisted troops executing combat tactics.
+    2 | 将军 vs. 军官 | jūnguān | 军官 is a broad administrative title covering all commissioned officers (lieutenants, captains, colonels), while 将军 is specifically a flag-rank general.
+    3 | 将军 vs. 元帅 | yuánshuài | 元帅 is the supreme marshal overseeing multiple field armies and national theaters, higher than a single divisional or corps 将军.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 飞将军李广夜巡山林，见草丛深处有白虎蹲伏，便引弓发箭一击即中。次日清晨前去查验，才惊觉所中之物并非猛虎，而是一尊被利箭深深贯穿的巨石。将军纯一不杂的专注力，成就了传颂千古的传奇佳话。 | Fēijiāngjūn Lǐ Guǎng yèxún shānlín, jiàn cǎocóng shēnchù yǒu báihǔ dūnfú, biàn yǐngōng-fājiàn yījī-jízhòng. Cìrì qīngchén qiánqù cháyàn, cái jīngjué suǒzhòng zhī wù bìng fēi měnghǔ, érshì yì zūn bèi lìjiàn shēnshēn guànchuān de jùshí. Jiāngjūn chúnyī-bùzá de zhuānzhùlì, chéngjiù le chuánsòng qiāngǔ de chuánqí jiāhuà. | Patroling mountains by night, Flying General Li Guang saw a tiger crouching in the grass and drew his bow, striking true. At dawn, inspection revealed not a beast, but an arrow buried deep in solid rock. The general's absolute focus birthed an immortal legend. | En patrulla nocturna, el general Li Guang vio un tigre agazapado en la maleza y disparó su arco con certera puntería. Al alba descubrió que no era una fiera, sino una roca atravesada por la flecha. La inquebrantable concentración del general forjó una leyenda inmortal.
+  #2 | 在现代国防与联合指挥体系中，将军的战略眼光与跨域协同能力是夺取胜利的决定性因素。面对瞬息万变的多维电磁与太空态势，现代高级将领必须兼备前沿科技素养与深邃的军事哲学，方能运筹帷幄之中。 | Zài xiàndài guófáng yǔ liánhé zhǐhuī tǐxì zhōng, jiāngjūn de zhànlüè yǎnguāng yǔ kuàyù xiétóng nénglì shì duóqǔ shènglì de juédìngxìng yīnsù. Miànduì shùnxī-wànbiàn de duōwéi diàncí yǔ tàikōng tàishì, xiàndài gāojí jiànglǐng bìxū jiānbèi qiányán kējì sùyǎng yǔ shēnsù de jūnshì zhélǐ, fāng néng yùnchóu-wéiwò zhīzhōng. | In modern joint command systems, a general's strategic vision and cross-domain synergy decide victory. Facing volatile multi-dimensional electromagnetic and space scenarios, flag officers must blend cutting-edge technological literacy with deep military philosophy. | En los sistemas de mando conjunto contemporáneos, la visión estratégica del general y su capacidad de coordinación multidominio deciden la victoria. Ante la volatilidad cibernética y espacial, los altos mandos deben aunar pericia tecnológica y hondura doctrinal para triunfar.

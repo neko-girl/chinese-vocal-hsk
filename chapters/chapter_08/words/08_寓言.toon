@@ -1,0 +1,65 @@
+id: 8
+hanzi: 寓言
+pinyin: yù yán
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: fable; allegory; parable; short moral narrative using animals or symbols
+  es: fábula; alegoría; parábola; relato moral con animales o símbolos
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a short, metaphorical narrative (often featuring animals, plants, or legendary figures) designed to convey a moral principle, philosophical lesson, or satirize human follies | narración alegórica breve, protagonizada a menudo por animales, que ilustra una lección moral o filosófica | 古代寓言 (ancient fable)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 《庄子》一书中收录了大量精妙绝伦的寓言故事，善于以天马行空的想象力阐发深邃玄奥的道家哲学。 | 《Zhuāngzǐ》 yì shū zhōng shōulù le dàliàng jīngmiào-juélún de yùyán gùshì, shànyú yǐ tiānmǎ-xíngkōng de xiǎngxiànglì chǎnfā shēnsù xuán'ào de Dàojiā zhéxué. | The book of Zhuangzi collects exquisite fables, utilizing boundless imagination to elucidate profound Daoist philosophy. | La obra de Zhuangzi atesora admirables fábulas que, valiéndose de una imaginación desbordante, desentrañan la honda metafísica taoísta.
+  #2 | 优秀的寓言作品往往文字短小精悍，却能跨越历史长河与国界隔阂，在不同文化的读者心底引起长久的情感共鸣。 | Yōuxiù de yùyán zuòpǐn wǎngwǎng wénzì duǎnxiǎo-jīnghàn, què néng kuàyuè lìshǐ chánghé yǔ guójiè géhé, zài bùtóng wénhuà de dúzhě xīndǐ yǐnqǐ chángjiǔ de qínggǎn gòngmíng. | Superb fables are concise yet punchy, transcending history and borders to evoke enduring emotional resonance across cultures. | Las grandes fábulas son breves y certeras, y trascienden épocas y fronteras despertando honda resonancia en lectores de toda cultura.
+
+collocations[6]{hanzi,en}:
+  寓言故事 | fable story; allegorical tale
+  古希腊寓言 | ancient Greek fable (Aesop's fables)
+  讽刺寓言 | satirical fable
+  阅读寓言 | read fables
+  寓言体裁 | fable genre
+  哲学寓言 | philosophical allegory
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  寓意深远 | yù yì shēn yuǎn | rich and far-reaching in moral meaning; deep implication
+  寓教于乐 | yù jiào yú lè | integrate education with entertainment; teach through pleasure
+  守株待兔 | shǒu zhū dài tù | wait by a tree stump waiting for hares; rely on lucky breaks
+  画蛇添足 | huà shé tiān zú | draw a snake and add feet; ruin something by superfluous additions
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  寓 | yù | reside; lodge; imply; allegorize | residir; alojar; encerrar; alegoría | 宀 | roof / dwelling | 宀 (roof, temporary lodging) | 禺 (yù, long-tailed monkey / mask) | 12 | 上下结构 | Ancient pictogram: sheltering 宀 someone wearing a ritual monkey mask 禺, meaning temporary lodging, and metaphorically lodging moral truths inside stories. | Beneath the sheltering roof of a story (宀), profound wisdom resides masked in disguise (禺) to imply a moral (寓). | Bajo el tejado de un relato alegórico (宀), mora una honda verdad enmascarada (禺) que encierra la fábula (寓). | 51 | JWLB | 
+  言 | yán | speech; words; talk; state | palabras; habla; decir; lenguaje | 言 | speech / words | 言 (mouth with fluted tongue articulating breath) | "" | 7 | 单一结构 | Ancient bronze pictogram of a reed flute or tongue 口 issuing measured musical breaths and deliberate words. | A mouth issuing structured breaths across reed flutes speaks deliberate human words (言). | La boca emitiendo un aliento acompasado a través de cañas profiere la palabra razonada (言). | 35 | YMR | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Lodging a masked philosophical truth (寓) inside a spoken story of words (言) creates an enduring moral fable (寓言).
+  composite_memory_hook_es: Alojar una verdad enmascarada (寓) dentro de la palabra dicha (言) alumbra una fábula imperecedera (寓言).
+  cultural_and_cognitive_roots: The term 寓言 was first coined explicitly by Zhuangzi in the chapter 《寓言》: '寓言十九，藉外论之' (Nineteen of twenty are fables, borrowing external characters to speak truth). Ancient Chinese philosophers (Han Feizi, Liezi) used animal parables as powerful rhetorical weapons against authoritarian dogmas.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by rising 2nd tone: 'yù yán' (51-35). Drop firmly on 'yù', then glide upward smoothly on 'yán'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    愚 | yú | foolish; stupid | Has heart radical 心 at bottom instead of 宀 at top
+    遇 | yù | meet; encounter | Has walking radical 辶 around 禺
+    偶 | ǒu | pair; puppet; accidental | Has person radical 亻 next to 禺
+    信 | xìn | letter; trust; believe | Has person radical 亻 next to 言
+    计 | jì | calculate; plan; meter | Has 十 next to 讠 instead of standalone 言
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    寓 | yù | lodge; reside; imply
+    遇 | yù | meet unexpectedly; encounter
+    偶 | ǒu | puppet; even number; accidental
+    言 | yán | words; speech; say
+    谚 | yàn | folk proverb; saying
+
+semantic_boundary_contrasts:
+  core_nuance: 寓言 specifically designates a fictional story designed to convey a metaphorical moral or philosophical lesson.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 寓言 vs. 童话 | tónghuà | 寓言 is philosophical, moral, and targeted at adult reflection or life lessons (fables like Aesop or Zhuangzi), whereas 童话 consists of fairy tales with magic, princes, and dragons designed for children (Andersen, Grimm).
+    2 | 寓言 vs. 神话 | shénhuà | 寓言 is an invented parable used for moral illustration, whereas 神话 consists of ancient cultural myths explaining cosmic origins, gods, and folk heroes (Nuwa, Houyi).
+    3 | 寓言 vs. 故事 | gùshì | 故事 is the generic term for any narrative sequence of events, fiction or non-fiction, while 寓言 must lodge a didactic moral lesson.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 寓言是文学殿堂中最为轻盈却又最富智慧的花朵。它往往借由小动物的滑稽举止或凡夫俗子的琐碎争执，在莞尔一笑间揭开人性的弱点与社会的弊端。读懂了寓言背后的深邃微言，便读懂了人世间大半的纷扰与执念。 | Yùyán shì wénxué diàntáng zhōng zuìwéi qīngyíng què yòu zuì fù zhìhuì de huāduǒ. Tā wǎngwǎng jièyóu xiǎodòngwù de huájī jǔzhǐ huò fánfū-súzǐ de suǒsuì zhēngzhí, zài wǎn'ěr-yíxiào jiān jiēkāi rénxìng de ruòdiǎn yǔ shèhuì de bìduān. Dúdǒng le yùyán bèihòu de shēnsù wēiyán, biàn dúdǒng le rénshìjiān dàbàn de fēnrǎo yǔ zhíniàn. | Fables are the most graceful yet sagacious blossoms in literature's palace. Through animal antics or petty disputes, they unveil human flaws amid smiles. Understanding fables means grasping worldly folly and obsessions. | La fábula es la flor más grácil y lúcida de la literatura. Valiéndose de travesuras animales o disputas triviales, desnuda las flaquezas humanas arrancando una sonrisa. Quien comprende la fábula descifra las vanidades del mundo.
+  #2 | 在当代跨学科叙事学研究中，寓言作为一种古老的认知隐喻工具，正在被广泛应用于组织管理与公众科学传播领域。通过将复杂的系统性原理转译为生动通俗的现代寓言，能够有效突破专业知识壁垒，极大激发公众的求知欲与共情力。 | Zài dāngdài kuà-xuékē xùshìxué yánjiū zhōng, yùyán zuòwéi yì zhǒng gǔlǎo de rènzhī yǐnyù gōngjù, zhèngzài bèi guǎnfàn yìngyòng yú zǔzhī guǎnlǐ yǔ gōngzhòng kēxué chuánbō lǐngyù. Tōngguò jiāng fùzá de xìtǒngxìng yuánlǐ zhuǎnyì wéi shēngdòng tōngsú de xiàndài yùyán, nénggòu yǒuxiào tūpò zhuānyè zhīshì bìlěi, jídà jīfā gōngzhòng de qiúzhīyù yǔ gòngqínglì. | In narrative studies, allegory as an ancient cognitive metaphor is widely applied in management and science communication. Translating systemic principles into modern parables bridges barriers, sparking public curiosity and empathy. | En la teoría narrativa actual, la alegoría se aplica con éxito a la divulgación científica y la gestión. Verter principios complejos en fábulas amenas derriba barreras de especialidad, despertando la empatía y la sed de saber del público.

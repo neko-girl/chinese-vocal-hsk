@@ -1,0 +1,65 @@
+id: 44
+hanzi: 便
+pinyin: biàn
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: then; soon; in that case; as early as; convenient; handy; plain
+  es: entonces; de inmediato; en tal caso; ya; conveniente; cómodo; práctico
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb / Conjunction | Literary | indicates that an event follows naturally or immediately as a consequence of prior conditions (equivalent to 就 in written Chinese) | indica que un suceso se sigue con naturalidad o prontitud de una condición previa (equivalente a 就) | 便有了这句成语 (then there came this idiom)
+  2 | Adjective | Standard | convenient, handy, or favorable for people; unconstrained and plain | conveniente, cómodo, oportuno o sin complicaciones | 方便群众 (convenient for the public)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广射石没羽的传奇故事流传开来，人们深为感动，后世便有了“精诚所至，金石为开”这句千古成语。 | Lǐ Guǎng shè shí mò yǔ de chuánqí gùshì liúchuán kāilái, rénmen shēnwéi gǎndòng, hòushì biàn yǒu le 'jīngchéng-suǒzhì, jīnshí-wéikāi' zhè jù qiāngǔ chéngyǔ. | As the legend of Li Guang's arrow penetrating stone spread, people were deeply moved, and posterity then birthed this immortal idiom: 'Sincerity opens metal and stone'. | Al difundirse la leyenda de Li Guang y la saeta que penetró la roca, el pueblo se conmovió y la posteridad acuñó el modismo inmortal: 'La sincera entrega abre el metal y la piedra'.
+  #2 | 只要掌握了科学高效的学习方法，复杂的汉字书写与词汇记忆便不再是一件令人头疼的难事。 | Zhǐyào zhǎngwò le kēxué gāoxiào de xuéxí fāngfǎ, fùzá de Hànzì shūxiě yǔ cíhuì jìyì biàn búzài shì yí jiàn lìngrén tóuténg de nánshì. | As long as one masters scientific and efficient study methods, complex Hanzi handwriting and vocabulary memorization will then no longer be a headache. | Siempre que se dominen métodos de estudio científicos y eficaces, la escritura de caracteres y el aprendizaje de vocabulario dejarán de ser un quebradero de cabeza.
+
+collocations[6]{hanzi,en}:
+  便有了 | then there came to be; thereby gave rise to
+  以便于 | in order to facilitate; so as to make easy
+  简便方法 | simple and convenient method
+  随随便便 | casual; careless; offhand
+  便宜行事 | act as circumstances require; discretion
+  未便之处 | points of inconvenience (polite notice)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大腹便便 | dà fù pián pián | with a big, potbellied belly; corpulent
+  因利乘便 | yīn lì chéng biàn | take advantage of favorable situations to achieve goals
+  便宜从事 | biàn yí cóng shì | act as one sees fit according to the situation
+  手头不便 | shǒu tóu bú biàn | tight on money; momentarily in financial straits
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  便 | biàn | convenient; then; ready; cheap | cómodo; entonces; conveniente; barato | 亻 | human / person | 亻 (human standing upright) | 更 (gēng, change watch / relief) | 9 | 左右结构 | Phono-semantic compound: person 亻 resting conveniently when the night watch changes 更, signifying ease and timely consequence. | A traveler (亻) rests comfortably when the night guard changes (更), feeling at home and conveniently at ease (便). | Una persona (亻) reposa desahogada al mudarse el sereno de la noche (更), sintiéndose a sus anchas y en sazón (便). | 51 | OMLK | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A person (亻) taking advantage of a changing watch (更) acts in a timely, convenient fashion, and then (便) achieves ease.
+  composite_memory_hook_es: Una persona (亻) que aprovecha la mudanza del sereno (更) actúa en sazón conveniente y entonces (便) logra su fin.
+  cultural_and_cognitive_roots: In classical and modern Chinese syntax, 便 is the premier formal written connective particle equivalent to spoken 就 (e.g. 闻风便逃, 有问便答). In social communication, 方便 embodies the core cultural value of creating seamless mutual convenience without imposing burdens.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'biàn' (51) when meaning then, convenient, or excretion (便饭, 方便, 便有). Pronounced 2nd tone 'pián' in 便宜 (piányi, cheap).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    使 | shǐ | use; send; cause | Has 吏 on the right instead of 更
+    硬 | yìng | hard; stiff | Has stone radical 石 on the left instead of 亻
+    梗 | gěng | stalk; stem | Has wood radical 木 on the left instead of 亻
+    埂 | gěng | low ridge between fields | Has earth radical 土 on the left instead of 亻
+    埂 | gěng | dyke; ridge | Has 土 on the left
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    更 | gèng | more; change; night watch
+    梗 | gěng | stalk; rough sketch
+    鞭 | biān | whip; string of firecrackers
+    便 | biàn | convenient; then; excretion
+    便宜 | piányi | cheap; advantageous bargain
+
+semantic_boundary_contrasts:
+  core_nuance: 便 is an elegant written connective indicating that a result follows immediately and naturally from conditions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 便 vs. 就 | jiù | 就 is universal in daily spoken Mandarin, whereas 便 belongs to formal, journalistic, and literary registers (如遇紧急情况，便需立即报警).
+    2 | 便 vs. 则 | zé | 便 emphasizes temporal immediacy and causal consequence ('then immediately'), whereas 则 emphasizes logical contrast or parallel antithesis ('whereas / on the contrary').
+    3 | 便 vs. 方 | fāng | 便 indicates immediate consequence, while 方 indicates delayed or hard-won necessity ('only then / not until').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨推开窗扉，湿润清新的空气扑面而来。庭院里的海棠花在微风中含苞初绽，几只灵动的小鸟在枝头欢快鸣唱。只需驻足片刻静静聆听，内心的烦虑与焦躁便会在这如画的春光里悄然烟消云散。 | Qīngchén tuīkāi chuāngfēi, shīrùn qīngxīn de kōngqì pūmiàn-érlái. Tíngyuàn lǐ de hǎitánghuā zài wēifēng zhōng hánbāo-chūzhàn, jǐ zhī língdòng de xiǎoniǎo zài zhītóu huānkuài míngchàng. Zhǐxū zhùzú piànkè jìngjìng língtīng, nèixīn de fánlǜ yǔ jiāozào biàn huì zài zhè rúhuà de chūnguāng lǐ qiǎorán yānxiāo-yúnsàn. | Pushing open windows at dawn, moist fresh air rushes in. Begonias in the courtyard bloom in breeze while birds sing on boughs. Simply pausing to listen, inner anxieties will then quietly evaporate into this pictorial spring. | Al abrir la ventana al alba, un hálito fresco inunda la estancia. Los perales del patio abren sus capullos entre trinos de avecillas; basta detenerse a escuchar para que los desvelos se esfumen en la luminosa primavera.
+  #2 | 在推动政务服务数字化的改革进程中，各地政府打破信息孤岛、推行“一网通办”，极大方便了企业和广大群众办事。群众动动手指便能高效办妥各项手续，不仅显著降低了社会运行成本，更极大提升了民众的获得感。 | Zài tuīdòng zhèngwù fúwù shùzìhuà de gǎigé jìnchéng zhōng, gèdì zhèngfǔ dǎpò xìnxī gūdǎo, tuīxíng 'yìwǎngtōngbàn', jídà fāngbiàn le qǐyè hé guǎngdà qúnzhòng bànshì. Qúnzhòng dòngdong shǒuzhǐ biàn néng gāoxiào bàntuǒ gè xiàng shǒuxù, bùjǐn xiǎnzhù jiàngdī le shèhuì yùnxíng chéngběn, gèng jídà tíshēng le mínzhòng de huòdégǎn. | In public service digital reforms, local governments dismantle silos to implement unified portals, facilitating business and citizen tasks. Citizens tap fingers and then complete procedures efficiently, slashing costs and boosting public satisfaction. | En la digitalización de la administración pública, la ventanilla única derriba barreras burocráticas beneficiando a empresas y ciudadanos. Bastan unos clics para tramitar gestiones con presteza, abaratando costes y afianzando la confianza social.

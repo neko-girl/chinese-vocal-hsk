@@ -3,6 +3,112 @@ import re
 import json
 from .toon_parser import parse_chapter
 
+VOICE_KEYS = ['mature_woman', 'soothing_host', 'office_man', 'tender_ceo']
+
+def attach_audio_metadata(words: list, chapter_dir: str) -> None:
+    """Scans chapter_dir/audio/ for generated MP3 files and attaches audio paths to words."""
+    dirname = os.path.basename(os.path.abspath(chapter_dir))
+    audio_base = os.path.join(chapter_dir, 'audio')
+
+    if not os.path.isdir(audio_base):
+        return
+
+    for idx, w in enumerate(words, 1):
+        w_id = int(w.get('id', idx))
+        hanzi = w.get('hanzi', '')
+        word_slug = f"{w_id:02d}_{hanzi}"
+        word_audio_dir = os.path.join(audio_base, word_slug)
+
+        if not os.path.isdir(word_audio_dir):
+            continue
+
+        rel_prefix = f"chapters/{dirname}/audio/{word_slug}"
+
+        # 1. Headword
+        hw_audio = {}
+        for v in VOICE_KEYS:
+            fn = f"headword_{v}.mp3"
+            if os.path.isfile(os.path.join(word_audio_dir, fn)):
+                hw_audio[v] = f"{rel_prefix}/{fn}"
+        if hw_audio:
+            w['audio'] = hw_audio
+
+        # 2. Example sentences
+        for s_idx, sent in enumerate(w.get('example_sentences', []), 1):
+            sent_audio = {}
+            for v in VOICE_KEYS:
+                fn = f"sentence_{s_idx}_{v}.mp3"
+                if os.path.isfile(os.path.join(word_audio_dir, fn)):
+                    sent_audio[v] = f"{rel_prefix}/{fn}"
+            if sent_audio:
+                sent['audio'] = sent_audio
+
+        # 3. Collocations
+        for c_idx, c in enumerate(w.get('collocations', []), 1):
+            colloc_audio = {}
+            for v in VOICE_KEYS:
+                fn = f"collocation_{c_idx}_{v}.mp3"
+                if os.path.isfile(os.path.join(word_audio_dir, fn)):
+                    colloc_audio[v] = f"{rel_prefix}/{fn}"
+            if colloc_audio:
+                c['audio'] = colloc_audio
+
+        # 4. Idioms
+        for i_idx, im in enumerate(w.get('idioms', []), 1):
+            idiom_audio = {}
+            for v in VOICE_KEYS:
+                fn = f"idiom_{i_idx}_{v}.mp3"
+                if os.path.isfile(os.path.join(word_audio_dir, fn)):
+                    idiom_audio[v] = f"{rel_prefix}/{fn}"
+            if idiom_audio:
+                im['audio'] = idiom_audio
+
+        # 5. Extended Reading Passages
+        for p_idx, p in enumerate(w.get('extended_reading_passages', []), 1):
+            passage_audio = {}
+            for v in VOICE_KEYS:
+                fn = f"passage_{p_idx}_{v}.mp3"
+                if os.path.isfile(os.path.join(word_audio_dir, fn)):
+                    passage_audio[v] = f"{rel_prefix}/{fn}"
+            if passage_audio:
+                p['audio'] = passage_audio
+
+        # 6. Character decomposition
+        for ch in w.get('character_decomposition', []):
+            ch_char = ch.get('character', '').strip()
+            if ch_char:
+                char_audio = {}
+                for v in VOICE_KEYS:
+                    fn = f"char_{ch_char}_{v}.mp3"
+                    if os.path.isfile(os.path.join(word_audio_dir, fn)):
+                        char_audio[v] = f"{rel_prefix}/{fn}"
+                if char_audio:
+                    ch['audio'] = char_audio
+
+        # 7. Look-alikes and Cognates
+        tc = w.get('traps_and_cognates', {})
+        for la in tc.get('look_alikes', []):
+            la_char = la.get('character', '').strip()
+            if la_char:
+                la_audio = {}
+                for v in VOICE_KEYS:
+                    fn = f"lookalike_{la_char}_{v}.mp3"
+                    if os.path.isfile(os.path.join(word_audio_dir, fn)):
+                        la_audio[v] = f"{rel_prefix}/{fn}"
+                if la_audio:
+                    la['audio'] = la_audio
+
+        for cg in tc.get('etymological_cognates', []):
+            cg_char = cg.get('character', '').strip()
+            if cg_char:
+                cg_audio = {}
+                for v in VOICE_KEYS:
+                    fn = f"cognate_{cg_char}_{v}.mp3"
+                    if os.path.isfile(os.path.join(word_audio_dir, fn)):
+                        cg_audio[v] = f"{rel_prefix}/{fn}"
+                if cg_audio:
+                    cg['audio'] = cg_audio
+
 def get_chapter_meta(chapter_dir: str, word_count: int) -> dict:
     """Infers metadata for a chapter from its directory and files."""
     dirname = os.path.basename(os.path.abspath(chapter_dir))
@@ -50,8 +156,9 @@ def get_chapter_meta(chapter_dir: str, word_count: int) -> dict:
     }
 
 def compile_chapter(chapter_dir: str) -> dict:
-    """Compiles all .toon files in chapter_dir into data.json and data.js."""
+    """Compiles all .toon files in chapter_dir into data.json and data.js with audio links."""
     words = parse_chapter(chapter_dir)
+    attach_audio_metadata(words, chapter_dir)
     meta = get_chapter_meta(chapter_dir, len(words))
 
     # Output data.json

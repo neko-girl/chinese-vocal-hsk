@@ -1,0 +1,65 @@
+id: 25
+hanzi: 蹲
+pinyin: dūn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to squat; to crouch; to stay or idle around; to hunker down
+  es: ponerse en cuclillas; acuclillarse; agazaparse; permanecer o quedarse
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to lower oneself by bending knees and resting on haunches or heels; to crouch down | doblar las rodillas bajando el cuerpo hasta apoyarse sobre los talones; acuclillarse | 蹲下身子 (crouch down)
+  2 | Verb | Colloquial | to stay, hang around, or remain idly in a single place | quedarse, apostarse o permanecer en un lugar determinado | 蹲在家里 (stay cooped up at home)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 母亲微笑着蹲下身子，平视着哭泣的孩子，轻声安慰并温柔地替他擦去脸颊上的泪珠。 | Mǔqīn wēixiào zhe dūnxià shēnzi, píngshì zhe kūqì de háizi, qīngshēng ānwèi bìng wēnróu de tì tā cāqù liǎnjiá shàng de lèizhū. | The mother smiled and crouched down, meeting the crying child's gaze at eye level, gently consoling him and wiping away tears. | La madre sonrió y se puso en cuclillas a la altura de los ojos del niño que lloraba, consolándolo con cariño y enjugando sus lágrimas.
+  #2 | 李广定睛一看，只见前方幽暗的草丛中正蹲伏着一尊庞然大物，状如凶猛潜伏的老虎。 | Lǐ Guǎng dìngjīng yí kàn, zhǐ jiàn qiánfāng yōu'àn de cǎocóng zhōng zhèng dūnfú zhe yì zūn pángrán-dàwù, zhuàng rú xiōngměng qiánfú de lǎohǔ. | Looking intently, Li Guang saw a colossal shape crouching in the gloomy thicket ahead, resembling a ferocious lurking tiger. | Mirando con atención, Li Guang divisó un bulto colosal agazapado en la espesura del matorral, idéntico a un fiero tigre al acecho.
+
+collocations[6]{hanzi,en}:
+  蹲下身 | crouch or squat down
+  蹲伏 | crouch down; hunker low (beast or human)
+  蹲在地上 | squat on the ground
+  蹲点调研 | base oneself at the grassroots for field research
+  双腿深蹲 | deep knee squats (exercise)
+  蹲守目标 | stake out and watch a target
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  龙盘虎踞 | lóng pán hǔ jù | coiled dragon and crouching tiger; formidable strategic terrain
+  抱头鼠窜 | bào tóu shǔ cuàn | hug one's head and scurry like a rat; flee in panic
+  深蹲起立 | shēn dūn qǐ lì | deep squat and stand up
+  伏虎降龙 | fú hǔ xiáng lóng | subdue the fierce tiger and vanquish the dragon
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  蹲 | dūn | squat; crouch; hunker down | ponerse en cuclillas; agazaparse | 足 | foot / leg | 足 (foot, legs bending) | 尊 (zūn, wine vessel / respectful posture) | 19 | 左右结构 | Phono-semantic compound: foot radical 足 indicating bending the lower limbs, paired with 尊, portraying a respectful low posture. | Bending the knees and feet (足) low to the ground in a posture of watchful patience (尊) to squat (蹲). | Doblar los pies y las piernas (足) bajando el cuerpo con cautela y respeto (尊) para ponerse en cuclillas (蹲). | 55 | RMTWI | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Bending both legs and feet (足) into a low, seated stance like resting upon an ancient vessel (尊) means to squat and crouch (蹲).
+  composite_memory_hook_es: Doblar pies y piernas (足) con gravedad serena (尊) permite acuclillarse o agazaparse en el suelo (蹲).
+  cultural_and_cognitive_roots: In ancient martial arts and hunting lore, 蹲 (especially 蹲伏) describes the coiled potential energy of predators waiting to pounce. In traditional Chinese daily life, the 'Asian squat' (蹲着) is a natural, stable resting posture used while gardening, resting, or dining in agrarian communities.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'dūn' (55). Maintain an even, sustained, clear high vocal acoustic.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    尊 | zūn | honor; respect; wine vessel | Lacks the foot radical 足 on the left
+    遵 | zūn | obey; comply; follow | Has walking radical 辶 around 尊
+    樽 | zūn | wine goblet; chalice | Has wood radical 木 next to 尊
+    踊 | yǒng | leap; jump; enthusiastically | Has 甬 on the right instead of 尊
+    蹈 | dǎo | tread; stamp; dance | Has 舀 on the right instead of 尊
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    尊 | zūn | honor; senior; respect
+    遵 | zūn | comply; obey; observe
+    樽 | zūn | wine goblet
+    趸 | dǔn | wholesale; bulk
+    蹴 | cù | kick; stamp; tread
+
+semantic_boundary_contrasts:
+  core_nuance: 蹲 specifically designates bending both knees so that the torso sinks low onto haunches without sitting on a chair.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 蹲 vs. 坐 | zuò | 蹲 means resting on bent knees/haunches with feet on the ground without a stool, whereas 坐 means resting the buttocks securely on a chair, bed, or bench.
+    2 | 蹲 vs. 跪 | guì | 蹲 keeps the soles of the feet planted on the ground, whereas 跪 rests the knees directly upon the floor or cushion in a posture of submission or prayer.
+    3 | 蹲 vs. 趴 | pā | 蹲 is an upright crouch on haunches, whereas 趴 means lying completely prone with stomach and chest flat against the surface.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 暮色四合的山崖下，一只苍鹰正收敛羽翼，静静蹲伏在嶙峋的岩石顶端。它那双锐利如刀的眼睛一眨不眨地俯瞰着辽阔的原野。这种蓄势待发的沉稳蹲姿，不仅展示了捕食者的从容，更蕴含着随时搏击长空的惊人爆发力。 | Mùsè-sìhé de shānyá xià, yì zhī cāngyīng zhèng shōuliǎn yǔyì, jìngjìng dūnfú zài línxún de yánshí dǐngduān. Tā nà shuāng ruìlì-rúdāo de yǎnjīng yìzhǎ-bùzhǎ de fǔkàn zhe liáokuò de yuányě. Zhè zhǒng xùshì-dàifā de chénwěn dūnzī, bùjǐn zhǎnshì le bǔshízhě de cóngróng, gèng yùnhán zhe suíshí bójī-chángkōng de jīngrén bàofālì. | Beneath cliffs at twilight, a falcon folds its wings, quietly crouching atop craggy boulders. Sharp eyes overlook the vast plain without blinking. This composed crouching posture displays predator calmness while holding explosive energy to strike skyward. | Bajo el risco al anochecer, un halcón pliega las alas agazapado en lo alto de la roca viva. Sus ojos afilados otean la llanura sin pestañear. Esta serena postura en cuclillas revela la calma del cazador y su asombrosa potencia para lanzarse al vuelo.
+  #2 | 在深入基层调查研究的过程中，年轻干部唯有放下架子，真正蹲下身子走到田间地头，与普通群众坐在同一条板凳上拉家常，才能听到最原汁原味的心里话，掌握第一手真实情况，制定出真正受百姓拥护的好政策。 | Zài shēnrù jīcéng diàochá-yánjiū de guòchéng zhōng, niánqīng gànbù wéiyǒu fàngxià jiàzi, zhēnzhèng dūnxià shēnzi zǒudào tiánjiān-dìtóu, yǔ pǔtōng qúnzhòng zuò zài tóng yí tiáo bǎndèng shàng lā jiācháng, cáinéng tīngdào zuì yuánzhī-yuánwèi de xīnlǐhuà, zhǎngwò dì-yī shǒu zhēnshí qíngkuàng, zhìdìng chū zhēnzhèng shòu bǎixìng yōnghù de hǎo zhèngcè. | In conducting grassroots field research, young cadres must step down from high pedestals and crouch down in rural fields, sitting on benches chatting with villagers to hear genuine sentiments and formulate policies truly embraced by the people. | Al investigar las bases sociales, los jóvenes funcionarios deben deponer toda altivez y bajar al ras del suelo para sentarse en el mismo banco con los campesinos. Solo así escucharán sus auténticas inquietudes y diseñarán medidas que gocen de respaldo popular.

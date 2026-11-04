@@ -1,0 +1,65 @@
+id: 15
+hanzi: 表情
+pinyin: biǎo qíng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: facial expression; look; demeanor expressing emotion; emoji
+  es: expresión facial; semblante; gesto emotivo; ademán del rostro; emoticono
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the look on a person's face showing their internal thoughts, moods, or feelings; facial demeanor | aspecto o ademán del semblante que exterioriza el estado de ánimo o los afectos interiores | 丰富的表情 (rich facial expressions)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 看到老人把橡子改成早上四颗、晚上三颗，猴子们脸上立刻露出了心满意足的滑稽表情。 | Kàndào lǎorén bǎ xiàngzi gǎichéng zǎoshang sì kē, wǎnshang sān kē, hóuzi men liǎnshàng lìkè lùchū le xīnmǎn-yìzú de huájī biǎoqíng. | Seeing the elder change acorns to four in morning and three at night, monkeys instantly showed comical, satisfied expressions on their faces. | Al ver que el anciano cambiaba las bellotas a cuatro por la mañana y tres por la tarde, los monos mudaron el gesto a una mueca cómica de satisfacción.
+  #2 | 舞台剧演员不仅台词功底极其深厚，更善于通过细腻入微的面部表情将人物内心的剧烈挣扎演绎得淋漓尽致。 | Wǔtáijù yǎnyuán bùjǐn táicí gōngdǐ jíqí shēnhòu, gèng shànyú tōngguò xìnì-rùwēi de miànbù biǎoqíng jiāng rénwù nèixīn de jùliè zhèngzhá yǎnyì de línlí-jìnzhì. | Stage actors not only command dialogue delivery, but master subtle facial expressions to vividly convey characters' internal struggles. | Los actores teatrales dominan la declamación y se valen de sutiles expresiones faciales para retratar con desgarro la lucha anímica del personaje.
+
+collocations[6]{hanzi,en}:
+  面部表情 | facial expression
+  表情严肃 | solemn or stern expression
+  表情丰富 | expressive; full of expressions
+  毫无表情 | blank expression; expressionless
+  滑稽的表情 | comical, hilarious expression
+  网络表情包 | internet meme stickers; emoji sticker pack
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  喜怒哀乐 | xǐ nù āi lè | joy, anger, sorrow, and delight; the full spectrum of emotions
+  眉开眼笑 | méi kāi yǎn xiào | brows open and eyes smile; beaming with delight
+  面无表情 | miàn wú biǎo qíng | poker-faced; showing zero facial emotion
+  情不自禁 | qíng bù zì jìn | cannot help doing something; overcome by emotion
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  表 | biǎo | surface; outside; manifest; chart | superficie; exterior; manifestar; reloj | 衣 | clothes / garment | 衣 (outer clothing worn outward) | 毛 (máo, fur displayed outward) | 8 | 上下结构 | Ancient pictogram of a fur coat with the hair 毛 worn facing outward 衣 to display warmth and status, meaning 'surface/manifest'. | A fur robe worn with its fine fur facing outward (衣) displays its external surface and manifestation (表). | Un manto de pieles que luce su hermoso vello hacia afuera (衣) muestra su faz exterior y apariencia visible (表). | 214 | QMOV | 
+  情 | qíng | feeling; emotion; love; passion | sentimiento; afecto; emoción; situación | 忄 | heart / mind | 忄 (heart, seat of passions) | 青 (qīng, green spring / phonetic) | 11 | 左右结构 | Phono-semantic compound: heart radical 忄 expressing human feelings, paired with 青 (spring growth / vitality). | Inner vitality and passions budding like fresh green spring shoots (青) inside the heart (忄) blossom into feelings (情). | Los brotes verdes de la primavera (青) que germinan en el corazón (忄) florecen en sentimientos y afectos vivos (情). | 35 | PQMB | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When the inner feelings of the heart (情) manifest upon the outer surface of the face (表), they create a visible facial expression (表情).
+  composite_memory_hook_es: Cuando los afectos del corazón (情) afloran al exterior del semblante (表), dibujan la expresión facial (表情).
+  cultural_and_cognitive_roots: In classical Chinese poetics, 情 (innate feelings) must be externalized through 表 (manifestation / appearance). The face acts as an emotional mirror (相由心生), where subtle micro-movements of brows and eyes convey non-verbal meaning across species barriers.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by rising 2nd tone: 'biǎo qíng' (214-35). Dip low on 'biǎo', then glide upward smoothly on 'qíng'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    青 | qīng | green; blue; youthful | Lacks the heart radical 忄 on the left
+    清 | qīng | clear; pure; distinct | Has water radical 氵 on the left instead of 忄
+    晴 | qíng | sunny; clear sky | Has sun radical 日 on the left instead of 忄
+    睛 | jīng | eye; pupil | Has eye radical 目 on the left instead of 忄
+    精 | jīng | essence; refined; smart | Has rice radical 米 on the left instead of 忄
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    情 | qíng | emotion; feeling; condition
+    清 | qīng | clear; limpid; transparent
+    晴 | qíng | clear weather; fine day
+    青 | qīng | verdant green; youth
+    静 | jìng | still; quiet; tranquil
+
+semantic_boundary_contrasts:
+  core_nuance: 表情 focuses on the dynamic, transient facial configuration conveying immediate mood or reaction.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 表情 vs. 神情 | shénqíng | 表情 refers strictly to localized physical muscle movements of the face (眉毛, 嘴角), whereas 神情 encompasses the broader, lingering spiritual demeanor and aura of the eyes and posture (神情落寞).
+    2 | 表情 vs. 脸色 | liǎnsè | 脸色 refers either to skin complexion (脸色苍白) or to cold, disapproving social attitudes (看人脸色), while 表情 is purely emotional configuration.
+    3 | 表情 vs. 动作 | dòngzuò | 表情 is of the face, while 动作 involves limbs, torso, and bodily physical movements.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 幼童的脸庞宛如一汪澄澈的清潭，喜怒哀乐尽显于瞬息万变的生动表情之中。没有成人的伪装与遮掩，那一抹无邪的微笑犹如清晨的第一缕朝阳，不仅瞬间融化了成人世界的冷漠，更唤醒了我们心底久违的纯真与美好。 | Yòutóng de liǎnpáng wǎnrú yì wāng chéngchè de qīngtán, xǐ-nù-āi-lè jìnxiǎn yú shùnxī-wànbiàn de shēngdòng biǎoqíng zhīzhōng. Méiyǒu chéngrén de wěizhuāng yǔ zhēyǎn, nà yì mǒ wúxié de wēixiào yóurú qīngchén de dì-yī lǚ zhāoyáng, bùjǐn shùnjiān rónghuà le chéngrén shìjiè de lěngmò, gèng huànxǐng le wǒmen xīndǐ jiǔwéi de chúnzhēn yǔ měihǎo. | An infant's face is a clear pool; emotions reveal themselves in rapid, vivid expressions. Free from adult pretense, that innocent smile melts coldness like morning dawn, awakening long-lost innocence and wonder in our hearts. | El rostro de un infante es remanso limpio donde las emociones se dibujan en gestos vivos. Sin antifaces adultos, su sonrisa pura derrite el desdén mundano como sol del alba, despertando la inocencia dormida en el corazón.
+  #2 | 在现代人机交互与情感计算前沿领域，基于高精度传感器的人脸微表情识别技术正在取得重大突破。通过毫秒级捕捉面部肌肉群的细微颤动，智能系统能够精准感知用户的真实情绪状态，为智慧医疗与远程教育注入更具温度的人文关怀。 | Zài xiàndài rénjī jiāohù yǔ qínggǎn jìsuàn qiányán lǐngyù, jīyú gāojīngdù chuángǎnqì de rénliàn wēibiǎoqíng shíbié jìshù zhèngzài qǔdé zhòngdà tūpò. Tōngguò háomiǎojí bǔzhuō miànbù jīròuqún de xìwēi chàndòng, zhìnéng xìtǒng nénggòu jīngzhǔn gǎnzhī yònghù de zhēnshí qíngxù zhuàngtài, wèi zhìhuì yīliáo yǔ yuǎnchéng jiàoyù zhùrù gèng jù wēndù de rénwén guānhuái. | In affective computing, facial micro-expression recognition based on precision sensors is achieving breakthroughs. Capturing muscular twitches in milliseconds allows smart systems to perceive emotional states, infusing humanistic warmth into telemedicine. | En la interacción hombre-máquina, el reconocimiento de microexpresiones faciales abre sendas punteras. Al captar temblores musculares al milisegundo, los sistemas inteligentes auscultan el ánimo del usuario, aportando calidez humana a la telemedicina.

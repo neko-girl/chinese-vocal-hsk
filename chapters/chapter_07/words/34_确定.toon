@@ -1,0 +1,66 @@
+id: 34
+hanzi: 确定
+pinyin: què dìng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to determine; to confirm; to make sure; definite; certain; fixed
+  es: determinar; confirmar; cerciorarse; fijar; seguro; cierto; definitivo
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to ascertain, verify, or make certain of a situation or fact beyond doubt | cerciorarse, verificar o comprobar la veracidad de algo disipando toda duda | 确定具体时间 (confirm specific time)
+  2 | Adjective | Standard | fixed, definite, clear, or settled without ambiguity | firme, inequívoco, seguro o fijado de antemano | 确定的答案 (a definite answer)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随从们屏住呼吸走近草丛仔细察看，这才彻底确定被利箭射中的并非真虎，而是一块巨石。 | Suícóng men bǐngzhù hūxī zǒujìn cǎocóng zǐxì chákàn, zhè cái chèdǐ quèdìng bèi lìjiàn shèzhòng de bìng fēi zhēn hǔ, érshì yí kuài jùshí. | Holding their breath, retinue members approached the grass to inspect closely, and only then confirmed that what had been struck was no tiger, but a boulder. | Conteniendo el aliento, los guardias se acercaron a inspeccionar la maleza y solo entonces confirmaron que la presa atravesada no era un tigre, sino una mole de roca.
+  #2 | 经过专家评审委员会的多轮严谨论证，项目方案的核心技术指标与实施周期最终得以确定。 | Jīngguò zhuānjiā píngshěn wěiyuánhuì de duō lún yánjǐn lùnzhèng, xiàngmù fāng'àn de héxīn jìshù zhǐbiāo yǔ shíshī zhōuqī zuìzhōng déyǐ quèdìng. | Following multiple rounds of rigorous appraisal by the expert panel, the project's core technical benchmarks and timeline were finally confirmed. | Tras sucesivas rondas de debate por parte de la comisión de expertos, quedaron al fin fijados los parámetros técnicos y el calendario de ejecución del proyecto.
+
+collocations[6]{hanzi,en}:
+  确定目标 | determine or set an objective
+  确定时间 | confirm or fix a time
+  十分确定 | completely certain; absolutely sure
+  无法确定 | cannot determine; uncertain
+  确定方案 | finalize or establish a plan
+  确定无疑 | confirmed beyond any shadow of doubt
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  确凿无疑 | què záo wú yí | irrefutable and authentic beyond doubt
+  坚定不移 | jiān dìng bù yí | unswerving and firm; resolute and steadfast
+  盖棺论定 | gài guān lùn dìng | final verdict is rendered after death
+  确有其事 | què yǒu qí shì | there is indeed such a matter; genuinely true
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  确 | què | authentic; solid; firm; certain | auténtico; sólido; certero; seguro | 石 | stone / rock | 石 (rock, solid hardness) | 寉 (hè, white crane / phonetic) | 12 | 左右结构 | Simplified from 確. Ancient pictogram of a hard stone 石 tested for authenticity, symbolizing unyielding certainty. | Striking a firm stone (石) with a tool confirms its authentic, solid, hard reality (确). | Golpear la piedra viva (石) con un cincel confirma su dureza sólida e inquebrantable certeza (确). | 51 | MRNBG | 確
+  定 | dìng | settle; fix; calm; establish | fijar; asentar; aquietar; decidir | 宀 | roof / shelter | 宀 (roof, home security) | 疋 (zhèng, foot planted upright) | 8 | 上下结构 | Ancient pictogram showing a foot 疋 walking into a safe shelter 宀 and standing still, signifying settling firmly. | Resting one's feet securely inside the shelter of a house (宀) settles everything into fixed calm (定). | Asentar las plantas de los pies bajo el cobijo de un hogar (宀) aquieta el ánimo y fija el reposo (定). | 51 | JMHO | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Hard and solid as a rock (确) rested peacefully beneath a sheltered home (定) establishes unswerving certainty (确定).
+  composite_memory_hook_es: Firme como la roca (确) asentada en el reposo del hogar (定), lo certero queda fijado para siempre (确定).
+  cultural_and_cognitive_roots: In ancient Chinese epistemological texts (墨经), 确 represents empirical hardness that can be struck without crumbling, while 定 represents spatial repose and social stability. Combining both constructs the concept of definitive confirmation that withstands doubt.
+  tone_sandhi_and_pitch_modulation: Dual falling 4th tones: 'què dìng' (51-51). Articulate both syllables with crisp, unwavering downward pitch momentum.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    研 | yán | grind; research; study | Has 开 on the right instead of 角
+    破 | pò | broken; tear; defeat | Has 皮 on the right instead of 角
+    碇 | dìng | stone anchor | Has 石 radical on the left next to 定
+    锭 | dìng | metal ingot; spindle | Has metal radical 钅 on the left next to 定
+    足 | zú | foot; enough; sufficient | Has 口 on top of 疋
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    确 | què | authentic; solid; definite
+    角 | jiǎo | horn; angle; corner
+    定 | dìng | settle; fix; decide
+    锭 | dìng | ingot; spindle
+    碇 | dìng | stone anchor of a ship
+
+semantic_boundary_contrasts:
+  core_nuance: 确定 denotes verifying facts to remove ambiguity, or finalizing agreements and arrangements.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 确定 vs. 确认 | quèrèn | 确定 emphasizes finalizing, deciding, or settling a plan/date into a fixed state (确定行程), whereas 确认 emphasizes formally acknowledging or verifying that information already presented is accurate (确认密码).
+    2 | 确定 vs. 决定 | juédìng | 确定 focuses on clarity and certainty of truth or schedule, whereas 决定 focuses on making a volitional choice between alternatives.
+    3 | 确定 vs. 肯定 | kěndìng | 确定 can be a transitive verb taking clauses, while 肯定 often functions as an affirmative adverb meaning 'definitely / surely' (他肯定会来) or adjective for positive feedback.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 穿行在浩渺的人生旅途中，我们常常为未来的不确定性感到迷茫与焦虑。然而，真正的成熟并不在于能确定每一个阶段的答案，而在于接纳未知，并在每一次勇敢的尝试中明确内心的热爱与追求。 | Chuānxíng zài hàomiǎo de rénshēng lǚtú zhōng, wǒmen chángcháng wèi wèilái de búquèdìngxìng gǎndào mímáng yǔ jiāolǜ. Rán'ér, zhēnzhèng de chéngshú bìng bùzàiyú néng quèdìng měi yí gè jiēduàn de dá'àn, ér zàiyú jiēnà wèizhī, bìng zài měi yí cì yǒnggǎn de chángshì zhōng míngquè nèixīn de rè'ài yǔ zhuīqiú. | Traveling on the vast journey of life, we often feel bewildered by future uncertainties. Yet true maturity lies not in confirming every answer in advance, but in embracing the unknown and clarifying inner devotions through brave attempts. | En la vasta andadura de la existencia, la incertidumbre ante el porvenir engendra a menudo zozobra. No obstante, la madurez no estriba en predecir cada respuesta, sino en acoger lo ignoto y clarificar con arrojo las nobles devociones del corazón.
+  #2 | 在重大基础设施工程立项前，地质勘察团队必须进行多点位深层钻探取样，以确定地基岩土层的力学承载极限。唯有在前期勘测中拿到确凿数据，才能确保百年工程在施工与运营过程中的绝对安全。 | Zài zhòngdà jīchǔ shèshī gōngchéng lìxiàng qián, dìzhì kānchá tuánduì bìxū jìnxíng duō-diǎnwèi shēncéng zuàntàn qǔyàng, yǐ quèdìng dìjī yántǔcéng de lìxué chéngzài jíxiàn. Wéiyǒu zài qiánqī kāncè zhōng nádào quèzáo shùjù, cáinéng quèbǎo bǎinián gōngchéng zài shīgōng yǔ yùnyíng guòchéng zhōng de juéduì ānquán. | Prior to approving infrastructure projects, geological teams must drill deep core samples at multiple sites to confirm the bedrock's mechanical bearing threshold. Securing irrefutable preliminary data guarantees absolute engineering safety. | Antes de iniciar magnas obras de infraestructura, los geólogos deben perforar estratos profundos para determinar el límite de resistencia mecánica del terreno. Solo recabando datos concluyentes se garantiza la seguridad de obras llamadas a perdurar siglos.

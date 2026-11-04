@@ -1,0 +1,65 @@
+id: 20
+hanzi: 家庭
+pinyin: jiā tíng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: family; household; domestic circle
+  es: familia; hogar; ámbito doméstico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a domestic social unit consisting of parents, children, and relatives living together; family or household | unidad social y doméstica básica formada por padres, hijos y parientes; familia y hogar | 幸福家庭 (happy family / blissful household)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着两个孩子的陆续出生，他们的小家庭变得越来越热闹，处处洋溢着温馨与欢笑。 | Suízhe liǎng ge háizi de lùxù chūshēng, tāmen de xiǎo jiātíng biàn de yuèláiyuè rènao, chùchù yángyì zhe wēnxīn yǔ huánxiào. | With the arrival of their two children, their little family has grown livelier, brimming with warmth and laughter. | Con el nacimiento escalonado de sus dos hijos, su pequeño hogar se volvió cada vez más alegre, colmado de ternura y risas.
+  #2 | 家庭不仅是个人遮风避雨的温暖港湾，更是维系社会和谐稳定、传承优秀道德文化的基石。 | Jiātíng bùjǐn shì gèrén zhēfēng-bìyǔ de wēnnuǎn gǎngwān, gèng shì wéixì shèhuì héxié wěndìng, chuánchéng yōuxiù dàodé wénhuà de jīshí. | The family is not merely a warm harbor sheltering individuals from storms, but the essential bedrock sustaining social harmony and moral heritage. | La familia no es solo un puerto cálido donde resguardarse de las tempestades, sino el pilar angular de la cohesión social y la transmisión ética.
+
+collocations[6]{hanzi,en}:
+  家庭背景 | family background; domestic upbringing
+  家庭成员 | family members; household members
+  家庭矛盾 | family conflicts; domestic disputes
+  家庭教育 | home schooling; family moral education
+  家庭负担 | family financial burden; domestic responsibilities
+  组建家庭 | build a family; start a household
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  家和万事兴 | jiā hé wàn shì xīng | when the family lives in harmony, all endeavors prosper
+  阖家欢乐 | hé jiā huān lè | joy and happiness to the entire family
+  家喻户晓 | jiā yù hù xiǎo | widely known to every household; a household name
+  成家立业 | chéng jiā lì yè | marry and establish one's career; settle down
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  家 | jiā | home; house; family | hogar; casa; familia | 宀 | roof / shelter | 宀 (shelter) | 豕 (pig; livestock wealth) | 10 | 上下结构 | Ancient oracle bone pictogram showing a pig 豕 safely housed beneath a protective pitched roof 宀, signifying settled agrarian abundance. | Beneath the protective roof (宀) thrives a domestic pig (豕), defining the settled shelter of home and family (家). | Bajo el tejado protector (宀) descansa el cerdo doméstico (豕), símbolo de riqueza y cimiento del hogar (家). | 55 | JMO | 
+  庭 | tíng | courtyard; hall; front garden | patio; atrio; jardín doméstico | 广 | wide / hall shelter | 广 (broad shelter) | 廷 (court / court hall) | 9 | 半包围结构 | Ancient ideogram of a broad shelter or building 广 extending over a formal coursing courtyard or courtyard ground 廷. | A broad mansion hall (广) opens into an inner ceremonial courtyard (廷), forming the gracious domestic yard (庭). | Un amplio pabellón (广) que se abre a un espacioso patio empedrado (廷) compone el recinto solariego (庭). | 35 | IINK | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A sheltered home with domestic pigs (家) adjoining an inner welcoming courtyard (庭) forms the nurturing sanctuary of family (家庭).
+  composite_memory_hook_es: El techo donde vive el ganado (家) unido al amplio patio interior (庭) configuran el recinto protector de la familia (家庭).
+  cultural_and_cognitive_roots: In Chinese Confucian ontology, the family (家庭 / 家族) is the primary relational micro-state. The canonical text Great Learning (大学) asserts that rectifying oneself leads to regulating the family (齐家), which in turn orders the state (治国) and pacifies the realm (平天下).
+  tone_sandhi_and_pitch_modulation: High-level 1st tone followed by rising 2nd tone: 'jiā tíng' (55-35). Hold 'jiā' high and flat, then sweep upward briskly on 'tíng'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    冢 | zhǒng | mound; monumental tomb | Contains 冖 above 豕 with a dot, lacking 宀
+    稼 | jià | sow; grain crops | Contains grain radical 禾 on the left before 家
+    嫁 | jià | marry off a woman | Contains female radical 女 on the left before 家
+    廷 | tíng | royal court; imperial hall | Lacks the roof/shelter radical 广 at the top
+    蜒 | yán | millipede; wiggle | Contains insect radical 虫 before 廷
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    家 | jiā | home; family; household; specialist
+    嫁 | jià | marry off; marry a man
+    稼 | jià | sow grain; farming
+    庭 | tíng | courtyard; court; domestic hall
+    廷 | tíng | palace hall; royal court
+
+semantic_boundary_contrasts:
+  core_nuance: 家庭 emphasizes the emotional, social, and structural unit of relatives living together in domestic kinship.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 家庭 vs. 家 | jiā | 家 can refer to the physical house, household, or family informally, whereas 家庭 is the formal sociologic and legal concept of the family unit.
+    2 | 家庭 vs. 家族 | jiāzú | 家庭 refers to the nuclear or immediate domestic household, while 家族 denotes a broader lineage, clan, or multi-generational ancestral dynasty.
+    3 | 家庭 vs. 亲戚 | qīnqi | 家庭 denotes cohabiting or direct family members, whereas 亲戚 refers generally to extended relatives outside one's core domestic circle.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每当夕阳西下，厨房里飘出熟悉的饭菜香，一家人围坐在一起互诉一天的见闻。无论外面的世界多么喧嚣纷扰，家庭始终是一处能够卸下防备、安顿身心的宁静港湾。 | Měidāng xīyáng xīxià, chúfáng lǐ piāochū shúxī de fàncài xiāng, yì jiā rén wéizuò zài yìqǐ hùsù yì tiān de jiànwén. Wúlùn wàimiàn de shìjiè duōme xuānxiāo fēnrǎo, jiātíng shǐzhōng shì yí chù nénggòu xièxià fángbèi, āndùn shēnxīn de níngjìng gǎngwān. | Whenever the sun sets and familiar aromas drift from the kitchen, the family gathers to share daily stories. No matter how bustling the outside world is, family remains a tranquil haven to let down one's guard. | Al caer el sol y esparcirse el aroma de la cena, la familia se reúne en torno a la mesa para compartir el día. Ante el bullicio exterior, el hogar es el puerto donde el alma halla reposo y sosiego.
+  #2 | 在传统农耕文明中，以血缘为纽带的家庭是组织生产和维系道德秩序的基本单元。而现代社会的城市化进程，促使家庭结构向小型化发展，但关爱与相互扶持的精神内核依然历久弥新。 | Zài chuántǒng nónggēng wénmíng zhōng, yǐ xuèyuán wéi niǔdài de jiātíng shì zǔzhī shēngchǎn hé wéixì dàodé zhìxù de jīběn dānyuán. Ér xiàndài shèhuì de chéngshìhuà jìnchéng, cùshǐ jiātíng jiégòu xiàng xiǎoxínghuà fāzhǎn, dàn guān'ài yǔ xiānghù fúchí de jīngshén nèihé yīrán lìjiǔ-míxīn. | In traditional agrarian society, kinship-based families organized production and moral order. Modern urbanization has made family units smaller, yet the core spirit of love and mutual support endures undiminished. | En el agro tradicional, la familia vertebraba la producción y la ética comunitaria. La urbe moderna ha reducido el tamaño de los hogares, pero el espíritu de afecto y auxilio mutuo permanece inmutable.

@@ -1,0 +1,65 @@
+id: 11
+hanzi: 猴子
+pinyin: hóu zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: monkey; agile simian primate
+  es: mono; simio ágil; primate de cola prensil o móvil
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a small to medium-sized omnivorous primate with agile limbs and typically a long tail, known for its intelligence and dexterity | primate omnívoro de tamaño pequeño a mediano, extremidades ágiles y cola, conocido por su viveza e ingenio | 机灵的猴子 (clever monkey)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 峨眉山林间的猴子非常调皮，不仅不怕游客，还经常成群结队地拦在路边索要各种坚果零食。 | Éméishān línjiān de hóuzi fēicháng tiáopí, bùjǐn bú pà yóukè, hái chángcháng chéngqún-jiéduì de lán zài lùbiān suǒyào gèzhǒng jiānguǒ língshí. | Monkeys in the forests of Mount Emei are mischievous; not fearing tourists, they often block paths in bands demanding nuts. | Los monos del bosque del monte Emei son traviesos; sin temer al caminante, interceptan la senda en tropel pidiendo frutos secos.
+  #2 | 庄子寓言里的猴子因为主人朝四暮三的承诺而喜笑颜开，生动讽刺了世人被表象得失轻易愚弄的认知局限。 | Zhuāngzǐ yùyán lǐ de hóuzi yīnwèi zhǔrén zhāosì-mùsān de chéngnuò ér xǐxiào-yánkāi, shēngdòng fěngcì le shìrén bèi biǎoxiàng déshī qīngyì yúnòng de rènzhī júxiàn. | Monkeys in Zhuangzi's fable beamed joyously at the offer of four in morning and three at night, satirizing how easily humans are fooled by appearance. | Los monos de Zhuangzi sonrieron felices ante el reparto de cuatro bellotas al alba y tres al ocaso, satirizando la ingenuidad ante el espejismo de la ganancia.
+
+collocations[6]{hanzi,en}:
+  一只猴子 | a monkey (classifier: 只)
+  猴子捞月 | monkeys fishing for the moon (futile pursuit)
+  调皮的猴子 | mischievous, playful monkey
+  猴子攀爬 | monkey climbing trees
+  猴群领袖 | leader of the monkey troop
+  金丝猴 | golden snub-nosed monkey (endangered species)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  杀鸡儆猴 | shā jī jǐng hóu | kill the chicken to scare the monkey; punish one to warn hundreds
+  尖嘴猴腮 | jiān zuǐ hóu sāi | sharp mouth and monkey cheeks; scrawny, treacherous look
+  山中无老虎，猴子称大王 | shān zhōng wú lǎohǔ, hóuzi chēng dàiwáng | when tiger is away, monkey claims to be king
+  沐猴而冠 | mù hóu ér guàn | a monkey wearing a hat; a scoundrel dressed in dignified robes
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  猴 | hóu | monkey; simian; clever child | mono; simio; niño travieso | 犭 | dog / wild beast | 犭 (wild animal / mammal) | 侯 (hóu, marquis / target / phonetic) | 12 | 左右结构 | Phono-semantic compound: animal radical 犭 paired with 侯 (marquis / nobleman), meaning the agile crowned marquis of primates. | A cunning wild beast (犭) crowned with the quick intelligence of an ancient marquis (侯) is an agile monkey (猴). | Una fiera ágil (犭) dotada de la presteza y noble ingenio de un marqués (侯) encarna al vivaz mono (猴). | 35 | KHNO | 
+  子 | zi | child; son; noun suffix | hijo; niño; sufijo nominal | 子 | child / son | 子 (swaddled baby) | "" | 3 | 单一结构 | Universal nominalizing suffix in spoken Chinese used for animals, fruits, and everyday utensils. | An agile infant (子) waves small arms merrily, mimicking the lively leaps of a young primate. | Un infante travieso (子) agita las manos risueño imitando las cabriolas del monito. | 214 | ND | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An agile wild beast (犭) with the cunning mind of a crowned marquis (侯) leaps through trees as a monkey (猴子).
+  composite_memory_hook_es: Una criatura del bosque (犭) con el ingenio despierto de un marqués (侯) salta entre lianas como mono (猴子).
+  cultural_and_cognitive_roots: In Chinese folklore (西游记), the monkey is immortalized by Sun Wukong (美猴王/齐天大圣), embodying rebellious wit, supernatural agility, and defiance of dogmatic authority. In classical Daoism, monkeys symbolize fickle perceptual desires easily appeased by superficial swaps.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by neutral tone: 'hóu zi' (35-neutral). Rise steadily on 'hóu' and pronounce 'zi' lightly without stress.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    候 | hòu | wait; season; condition | Has person radical 亻 on the left instead of 犭
+    侯 | hóu | marquis; feudal lord | Has 亻 with 矢 structure, lacking 犭
+    喉 | hóu | throat; larynx | Has mouth radical 口 on the left instead of 犭
+    猿 | yuán | ape; anthropoid | Has 袁 on the right instead of 侯
+    猩 | xīng | gorilla; chimpanzee | Has 星 on the right instead of 侯
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    猴 | hóu | monkey; clever
+    喉 | hóu | throat; windpipe
+    侯 | hóu | marquis; target
+    候 | hòu | wait; time; inquire
+    篌 | hóu | musical ancient harp (箜篌)
+
+semantic_boundary_contrasts:
+  core_nuance: 猴子 specifically designates a monkey (having a tail), distinct from tail-less apes.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 猴子 vs. 猿 | yuán | 猴子 denotes monkeys (cercopithecines with tails), whereas 猿 denotes anthropoid apes without tails (gibbons, chimpanzees, orangutans).
+    2 | 猴子 vs. 猩猩 | xīngxing | 猴子 is generic for smaller agile monkeys, while 猩猩 refers specifically to large great apes (chimpanzees, gorillas).
+    3 | 猴子 vs. 狒狒 | fèifei | 猴子 live largely arboreal lives, while 狒狒 (baboons) are ground-dwelling primates with canine-like muzzles.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 穿行在幽深的热带雨林，密林树冠间时常传来欢快的喧闹声。几只机灵的金丝猴在繁茂的枝桠间敏捷腾跃，宛如林间的金色精灵。它们彼此梳理毛发，分享成熟的野果，在苍翠的大自然中自由自在地繁衍生息。 | Chuānxíng zài yōushēn de rèdài yǔlín, mìlín shùguān jiān shícháng chuánlái huānkuài de xuānnào shēng. Jǐ zhī jīling de jīnsīhóu zài fánmào de zhīyā jiān mǐnjié téngyuè, wǎnrú línjiān de jīnsè jīnglíng. Tāmen bǐcǐ shūlǐ máofà, fēnxiǎng chéngshú de yěguǒ, zài cāngcuì de dàzìrán zhōng zìyóu-zìzài de fányǎn-shēngxī. | Trekking deep rainforests, joyous clamor echoes among canopies. Golden snub-nosed monkeys leap between branches like sprites. Grooming fur and sharing wild fruit, they thrive freely in emerald nature. | Cruzando la selva tropical, un bullicio jovial vibra entre las copas. Varios monos dorados saltan ágiles como duendecillos de la floresta; espulgándose y compartiendo frutos, prosperan en libre comunión con la espesura.
+  #2 | 在灵长类动物认知科学实验中，猴子展现出了令人惊叹的工具使用能力与初步的抽象推理技巧。研究灵长类动物的行为模式与群体社交结构，对于深入揭示人类大脑早期进化轨迹具有重大的基础理论价值。 | Zài língzhǎnglèi dòngwù rènzhī kēxué shíyàn zhōng, hóuzi zhǎnxiàn chū le lìngrén jīngtàn de gōngjù shǐyòng nénglì yǔ chūbù de chōuxiàng tuīlǐ jìqiǎo. Yánjiū língzhǎnglèi dòngwù de xíngwéi móshì yǔ qúntǐ shèjiāo jiégòu, duìyú shēnrù jiēshì rénlèi dànǎo zǎoqī jìnhuà guǐjì jùyǒu zhòngdà de jīchǔ lǐlùn jiàzhí. | In primate cognitive trials, monkeys demonstrate startling tool use and abstract deduction. Investigating primate behavior and group social dynamics holds fundamental theoretical value for deciphering early brain evolution. | En los ensayos cognitivos, los simios asombran por su manejo de útiles y deducción abstracta. Estudiar sus hábitos y tramas gregarias arroja luz sobre las sendas evolutivas del cerebro humano.

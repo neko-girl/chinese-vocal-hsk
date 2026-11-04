@@ -1,0 +1,65 @@
+id: 29
+hanzi: 摆
+pinyin: bǎi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to put; to place; to arrange; to set; to sway; to swing; to wave
+  es: colocar; poner; disponer; balancear; oscilar; mecer; menear
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to put, arrange, set, or position objects or one's body in order or display | colocar, poner, disponer o arreglar objetos o el propio cuerpo en una postura determinada | 摆好姿势 (set one's posture)
+  2 | Verb | Standard | to sway, swing, or wave gently back and forth like a pendulum or breeze | oscilar, mecerse o balancearse rítmicamente como un péndulo o las ramas | 随风摇摆 (sway with the wind)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军翻身下马，稳稳站定，摆好射箭的姿势，眼神如苍鹰般紧紧锁住前方的目标。 | Lǐ Guǎng jiāngjūn fānshēn xiàmǎ, wěnwěn zhàndìng, bǎihǎo shèjiàn de zīshì, yǎnshén rú cāngyīng bān jǐnjǐn suǒzhù qiánfāng de mùbiāo. | General Li Guang dismounted, stood firm, set his archery posture, and locked his eyes onto the target ahead like a falcon. | El general Li Guang desmontó de su caballo, se plantó con firmeza, cuadró su postura de arquero y clavó la mirada en la presa como un halcón.
+  #2 | 会议室的长桌中央整齐地摆放着鲜花与会议材料，展示出主办方细致周到的筹备工作。 | Huìyìshì de chángzhuō zhōngyāng zhěngqí de bǎifàng zhe xiānhuā yǔ huìyì cáiliào, zhǎnshì chū zhǔbànfāng xìzhì-zhōudào de chóubèi gōngzuò. | Fresh flowers and meeting dossiers were arranged neatly in the center of the conference table, demonstrating the host's meticulous preparations. | Flores frescas y carpetas de trabajo se hallaban primorosamente dispuestas en el centro de la mesa de conferencias, dando fe de la esmerada organización.
+
+collocations[6]{hanzi,en}:
+  摆好姿势 | set or assume a posture
+  整齐摆放 | neatly arrange or place
+  摆脱困境 | shake off or break free from a predicament
+  摆在眼前 | laid out before one's eyes
+  摇摆不定 | sway indecisively; vacillate
+  大摆宴席 | stage a lavish banquet
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大摇大摆 | dà yáo dà bǎi | strut swaggering back and forth; walk with arrogant pomp
+  摇摆不定 | yáo bǎi bù dìng | vacillate back and forth; waver without settling
+  摆布他人 | bǎi bù tā rén | manipulate and order others around like pawns
+  摆脱危机 | bǎi tuō wēi jī | break out of and cast aside a crisis
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  摆 | bǎi | place; arrange; sway; pendulum | colocar; disponer; balancear | 扌 | hand | 扌 (hand, physical manual positioning) | 罢 (bà, fishnet net / stop) | 13 | 左右结构 | Simplified from 擺. Phono-semantic compound: hand 扌 arranging fishing nets 罒 or spreading goods for display. | An active hand (扌) methodically lays out items across a woven mat (罒) in orderly positions to place and arrange (摆). | Una mano ordenada (扌) dispone las piezas sobre la estera (罒) colocándolas con esmero para ordenarlas (摆). | 214 | QWLP | 擺
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Using an orderly hand (扌) to lay out goods across the market mat sets items in place (摆) or lets them gently swing (摆).
+  composite_memory_hook_es: Con mano diestra (扌) se disponen las piezas en la estera para colocarlas con orden (摆) o dejarlas mecerse (摆).
+  cultural_and_cognitive_roots: The character 摆 bridges spatial positioning (摆设, 摆放) and rhythmic oscillation (钟摆, 摇摆). In colloquial Chinese, it also describes displaying prestige or attitudes (摆架子, 摆事实讲道理), transforming physical layout into symbolic presentation.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'bǎi' (214). Drop the vocal register into a low chest contour before rebounding slightly.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    罢 | bà | stop; dismiss; strike | Lacks the hand radical 扌 on the left
+    摇 | yáo | shake; wave; rock | Has 䍃 on the right instead of 罢
+    推 | tuī | push; refuse; elect | Has 隹 (bird) on the right instead of 罢
+    措 | cuò | arrange; handle; measure | Has 昔 on the right instead of 罢
+    择 | zé | choose; select | Has 绎 structure on the right
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    罢 | bà | cease; dismiss; strike
+    摆 | bǎi | arrange; sway; pendulum
+    播 | bō | broadcast; sow seed
+    播迁 | bōqiān | migrate; wander
+    布置 | bùzhì | decorate; arrange
+
+semantic_boundary_contrasts:
+  core_nuance: 摆 emphasizes deliberate orderly arrangement for display or posture, as well as rhythmic pendulum swinging.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 摆 vs. 放 | fàng | 放 is the generic oral verb for simply setting down or placing an object anywhere (放在桌上), whereas 摆 implies intentional arrangement, aesthetic alignment, or setting a pose (摆放, 摆姿势).
+    2 | 摆 vs. 摇 | yáo | 摆 emphasizes rhythmic arc swinging like a clock pendulum (钟摆) or setting positions, while 摇 focuses on shaking back and forth (摇头).
+    3 | 摆 vs. 设 | shè | 摆 is concrete physical positioning of tangible items, while 设 is formal and abstract, used for establishing institutions, setting traps, or hypotheses (设立, 假设).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 步入古朴素雅的书斋，案几上错落有致地摆放着文房四宝与几卷线装古籍。窗外芭蕉叶在细雨中轻轻摇摆，雨滴敲打在青石阶上发出清脆的声响。在这样静谧的天地里，尘世的浮躁与功利瞬间消解无形。 | Bùrù gǔpǔ-sùyǎ de shūzhāi, ànjǐ shàng cuòluò-yǒuzhì de bǎifàng zhe wénfáng-sìbǎo yǔ jǐ juǎn xiànzhuāng gǔjí. Chuāngwài bājiāoyè zài xìyǔ zhōng qīngqīng yáobǎi, yǔdī qiāodǎ zài qīngshíjiē shàng fāchū qīngcuì de shēngxiǎng. Zài zhèyàng jìngmì de tiāndì lǐ, chénshì de fúzào yǔ gōnglì shùnjiān xiāojiě wúxíng. | Stepping into the elegant study, the four treasures of literati and bound classics were arranged in orderly poise across desks. Plantain leaves outside swayed in drizzle, drops tapping bluestone steps; worldliness evaporated into thin air. | Al entrar en el sobrio estudio, los cuatro tesoros de la caligrafía y antiguos códices descansaban ordenados sobre el pupitre. Afuera, las hojas de platanero oscilaban con la llovizna; en aquel remanso de paz, las prisas del mundo se desvanecieron.
+  #2 | 在复杂的商业战略博弈中，企业不能仅仅满足于将问题摆在桌面上讨论，更需要展现出敢于打破僵局的执行魄力。唯有迅速摆脱对传统路径的过度依赖，主动布局新兴赛道，才能在白热化的市场竞争中抢占发展先机。 | Zài fùzá de shāngyè zhànlüè bóyì zhōng, qǐyè bùnéng jǐnjǐn mǎnzú yú jiāng wèntí bǎi zài zhuōmiàn shàng tǎolùn, gèng xūyào zhǎnxiàn chū gǎnyú dǎpò jiāngjú de zhíxíng pòlì. Wéiyǒu xùnsù bǎituō duì chuántǒng lùjìng de guòdù yīlài, zhǔdòng bùjú xīnxīng sàidào, cáinéng zài báirèhuà de shìchǎng jìngzhēng zhōng qiǎngzhàn fāzhǎn xiānjī. | In corporate strategy, firms cannot merely rest content with putting issues on the table; they must execute with daring courage. Shaking off over-dependence on traditional paths and pioneering emerging tracks seizes the competitive vanguard. | En el ajedrez corporativo, las empresas no pueden contentarse con poner los problemas sobre el tapete; precisan arrojo ejecutivo. Solo sacudiéndose la inercia del pasado e invirtiendo con audacia en nuevos nichos conquistarán la delantera en el mercado.

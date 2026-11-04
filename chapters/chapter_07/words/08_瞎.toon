@@ -1,0 +1,65 @@
+id: 8
+hanzi: 瞎
+pinyin: xiā
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: blind; sightless; groundlessly; foolishly; aimlessly; to go blind
+  es: ciego; sin vista; a ciegas; sin fundamento; disparatadamente; cegar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Colloquial | sightless; blind; having lost physical eyesight | ciego; privado de la vista | 瞎了一只眼 (blind in one eye)
+  2 | Adverb | Colloquial | groundlessly; foolishly; haphazardly; without reason or direction | sin fundamento; a tontas y a locas; disparatadamente; sin tino | 瞎猜 (guess blindly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 事情还没有调查清楚之前，千万不要跟着别人瞎起哄或者瞎猜疑，以免伤害无辜。 | Shìqing hái méiyǒu diàochá qīngchǔ zhīqián, qiānwàn búyào gēnzhe biérén xiā qǐhòng huòzhě xiā cāiyí, yǐmiǎn shānghài wúgū. | Before the matter has been thoroughly investigated, never join in clamoring or suspecting foolishly, lest you harm the innocent. | Antes de que los hechos se esclarezcan por completo, no te unas a alborotar ni a sospechar sin fundamento para no dañar a inocentes.
+  #2 | 如果缺乏明确的战略规划，企业在多变的市场竞争中就容易像无头苍蝇一样瞎忙活。 | Rúguǒ quēfá míngquè de zhànlüè guīhuà, qǐyè zài duōbiàn de shìchǎng jìngzhēng zhōng jiù róngyì xiàng wútóu cāngyíng yíyàng xiā mánghuo. | Lacking clear strategic planning, an enterprise will easily fuss about aimlessly like a headless fly amid turbulent market competition. | Si carece de una planificación estratégica clara, una empresa caerá con facilidad en el error de afanarse a ciegas como mosca sin cabeza en un mercado competitivo.
+
+collocations[6]{hanzi,en}:
+  瞎说 | talk nonsense; speak groundlessly
+  瞎猜 | guess blindly; make wild speculations
+  瞎忙 | bustled aimlessly without real result
+  瞎扯 | chat aimlessly; babble nonsense
+  瞎指挥 | issue foolish, arbitrary directives
+  眼瞎心明 | blind in eye but clear in heart
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  盲人瞎马 | máng rén xiā mǎ | a blind man on a blind horse; riding headlong into disaster
+  瞎子摸象 | xiā zǐ mō xiàng | blind men feeling an elephant; biased, partial view
+  瞎子点灯 | xiā zǐ diǎn dēng | a blind man lighting a lantern; a futile, pointless effort
+  胡说八道 | hú shuō bā dào | talk complete rubbish; babble nonsense
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  瞎 | xiā | blind; groundless; foolishly | ciego; sin vista; a ciegas | 目 | eye | 目 (eye, vision) | 害 (hài, harm / injury) | 15 | 左右结构 | Phono-semantic compound: eye radical 目 combined with harm 害, literally signifying that damage or injury has afflicted the eye. | An unfortunate injury or harm (害) strikes directly into the delicate eye (目), causing one to go blind (瞎). | Un daño o herida grave (害) lesiona el órgano del ojo (目), dejándolo sin visión y sumiéndolo en la ceguera (瞎). | 55 | BUJQR | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When a severe harm (害) impairs the physical eye (目), a person becomes blind (瞎) and must navigate blindly (瞎).
+  composite_memory_hook_es: Cuando una herida o daño (害) lesiona el ojo (目), sobreviene la ceguera (瞎) y se actúa a ciegas (瞎).
+  cultural_and_cognitive_roots: The character 瞎 extends from physical ocular injury (目受害) into widespread colloquial cognitive metaphors for mental blindness, irrationality, and disorderly guesswork (瞎想, 瞎闹, 瞎折腾), portraying rash actions conducted without sight of reality.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'xiā' (55). Pronounced with an energetic, flat, unbending acoustic pitch.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    害 | hài | harm; injure | Lacks the eye radical 目 on the left
+    割 | gē | cut; slice | Has knife 刂 on the right instead of 目
+    豁 | huò | clear; open; exempt | Has 谷 (valley) on the left instead of 目
+    瞎 | xiā | blind | Has 目 on the left paired with 害
+    瞒 | mán | conceal; hide truth | Has 目 paired with  (mán)
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    害 | hài | harm; injury; damage
+    瞎 | xiā | blind; groundless
+    割 | gē | cut with blade; divide
+    瞎 | xiā | sightless; foolishly
+    阖 | hé | close door; entire; whole
+
+semantic_boundary_contrasts:
+  core_nuance: 瞎 is intensely colloquial and versatile, denoting both physical sightlessness and adverbial actions done blindly or foolishly.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 瞎 vs. 盲 | máng | 盲 is the formal, literary morpheme used in serious vocabulary (盲人, 盲目, 文盲), whereas 瞎 is colloquial, daily, and carries informal behavioral nuances (瞎折腾, 瞎操心).
+    2 | 瞎 vs. 胡 | hú | 瞎 emphasizes acting without visual direction or factual ground (瞎说=saying without seeing), whereas 胡 emphasizes acting recklessly against norms or etiquette (胡闹, 胡搞).
+    3 | 瞎 vs. 乱 | luàn | 瞎 highlights lack of vision or purpose (doing things aimlessly), while 乱 highlights chaotic disorder, messiness, and turmoil (乱七八糟, 扰乱).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对未知的人生旅途，盲目的恐惧往往源于内心的瞎猜。与其在焦虑中胡思乱想、自我内耗，不如脚踏实地去了解真相。唯有擦亮双眼认清方向，才能摆脱在黑暗中瞎转悠的困境。 | Miànduì wèizhī de rénshēng lǚtú, mángmù de kǒngjù wǎngwǎng yuányú nèixīn de xiācāi. Yǔqí zài jiāolǜ zhōng húsī-luànxiǎng, zìwǒ nèihào, bùrú jiǎotà-shídì qù liǎojiě zhēnxiàng. Wéiyǒu cāliàng shuāngyǎn rènqīng fāngxiàng, cáinéng bǎituō zài hēi'àn zhōng xiāzhuànyou de kùnjìng. | Facing the unknown journey of life, blind fears often stem from groundless guesswork within. Rather than fretting with wild thoughts and draining energy, it is better to seek the facts pragmatically. Only by clearing our vision can we escape wandering aimlessly in the dark. | Frente al rumbo ignoto de la vida, los temores ciegos brotan de conjeturas infundadas. En vez de desgastarse en cavilaciones inútiles, conviene pisar tierra y constatar la realidad. Solo aclarando la vista se sortea el tropiezo de dar vueltas a ciegas en la oscuridad.
+  #2 | 在复杂的商业决策中，脱离科学调研的瞎指挥往往会给企业带来毁灭性的灾难。现代管理者必须建立在详实数据与市场规律的基础上，杜绝主观臆断，方能在激烈的全球化市场博弈中立于不败之地。 | Zài fùzá de shāngyè juécè zhōng, tuōlí kēxué diàoyán de xiāzhǐhuī wǎngwǎng huì gěi qǐyè dàilái huǐmièxìng de zāinàn. Xiàndài guǎnlǐzhě bìxū jiànlì zài xiángshí shùjù yǔ shìchǎng guīlǜ de jīchǔ shàng, dùjué zhǔguān yìduàn, fāng néng zài jīliè de quánqiúhuà shìchǎng bóyì zhōng lìyú-búbàizhīdì. | In complex business decisions, arbitrary directives detached from scientific research often bring ruinous disaster to firms. Modern executives must base moves on solid data and market laws, eliminating wild whims to remain invincible in global competition. | En las decisiones corporativas complejas, las órdenes arbitrarias huérfanas de rigor analítico causan estragos irreparables. Los directivos han de afianzar sus planes en datos fidedignos y tendencias de mercado, desterrando caprichos para prevalecer en la liza internacional.

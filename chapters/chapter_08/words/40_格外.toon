@@ -1,0 +1,65 @@
+id: 40
+hanzi: 格外
+pinyin: gé wài
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: especially; particularly; exceptionally; extraordinarily; beyond the ordinary
+  es: especialmente; sumamente; en grado sumo; extraordinariamente; fuera de lo común
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | to an exceptional degree exceeding ordinary limits or standard expectations ("especially", "particularly") | en un grado extraordinario que sobrepasa la norma habitual o la expectativa común | 格外引人注目 (especially eye-catching)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过连夜暴风雪的洗礼，清晨推开房门，远处的苍翠松柏在白雪映衬下显得格外挺拔傲岸。 | Jīngguò liányè bàofēngxuě de xǐlǐ, qīngchén tuīkāi fángmén, yuǎnchù de cāngcuì sōngbǎi zài báixuě yìngchèn xià xiǎnde géwài tǐngbá ào'àn. | After overnight blizzards, opening the door at dawn revealed distant green pines standing exceptionally erect and proud against the snow. | Tras la ventisca nocturna, al abrir la puerta al alba los verdes pinos lejanos se erguían extraordinariamente airosos contra la blanca nieve.
+  #2 | 在异国他乡漂泊多年的游子，每逢中秋佳节仰望夜空的一轮明月，心头总会涌起格外浓烈的思乡之情。 | Zài yìguó tāxiāng piāobó duōnián de yóuzǐ, měi féng Zhōngqiū jiājié yǎngwàng yèkōng de yì lún míngyuè, xīntóu zǒng huì yǒngqǐ géwài nóngliè de sīxiāng zhī qíng. | A wanderer drifting abroad for years, gazing up at the bright Mid-Autumn moon, always feels a particularly intense surge of homesickness. | El emigrante errante que contempla la luna del Medio Otoño en tierras extrañas siente una nostalgia extraordinariamente honda y punzante por su tierra.
+
+collocations[6]{hanzi,en}:
+  格外亲切 | particularly cordial; exceptionally warm
+  格外引人注目 | especially eye-catching; remarkably striking
+  显得格外美丽 | look extraordinarily beautiful
+  格外小心 | exceptionally cautious; extraordinarily careful
+  格外重视 | attach extraordinary importance to
+  格外刺眼 | exceptionally glaring; painfully dazzling
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  别具一格 | bié jù yì gé | possess a distinctive style; uniquely fashioned
+  分外妖娆 | fèn wài yāo ráo | extraordinarily enchanting; strikingly gorgeous
+  引人注目 | yǐn rén zhù mù | draw public attention; conspicuous
+  与众不同 | yǔ zhòng bù tóng | out of the ordinary; different from the crowd
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  格 | gé | pattern; standard; grid; lattice | pauta; marco; cuadrícula; norma | 木 | tree / wood | 木 (wooden lattice / framework) | 各 (gè, each / phonetic) | 10 | 左右结构 | Phono-semantic character where wood radical 木 denotes wooden lattice bars or framing posts, and 各 supplies sound. | Wooden timber poles (木) built into rigid square compartments and lattices (各) establish strict standards and frameworks (格). | Maderos torneados (木) ensamblados en cuadrículas simétricas (各) pautan el marco reglamentario y la norma fija (格). | 35 | DHER | 
+  外 | wài | outside; exterior; foreign; beyond | fuera; exterior; extranjero; más allá | 夕 | evening / twilight | 夕 (crescent moon / twilight) | 卜 (divination crack) | 5 | 左右结构 | Ancient pictograph where evening twilight 夕 combines with divination crack 卜, denoting divining beyond ordinary daylight hours or boundaries. | Reading oracle cracks (卜) past evening twilight (夕) steps outside the daylight domain, signifying what lies beyond the boundary (外). | Interpretar presagios (卜) en el crepúsculo (夕) trasciende la jornada diurna, adentrándose más allá de las lindes ordinarias (外). | 51 | NIY | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Stepping beyond (外) the established framework and grid (格) elevates something to an extraordinary or exceptional degree (格外).
+  composite_memory_hook_es: Salir fuera (外) del marco o cuadrícula reglamentaria (格) sitúa a algo en un grado extraordinario y especial (格外).
+  cultural_and_cognitive_roots: The compound 格外 literally means 'beyond the regular pattern / exceeding the frame' (在常规格子之外). In classical literature, it designated things surpassing the normal rule, hence serving as an intensifying adverb for striking phenomena.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by falling 4th tone: 'gé wài' (35-51). Lift steadily on 'gé' before dropping forcefully and cleanly on 'wài'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    洛 | luò | Luo River (洛阳) | Has water radical 氵 on the left instead of wood 木
+    烙 | lào | brand; iron; bake | Has fire radical 火 on the left instead of wood 木
+    处 | chù | place; department | Has bottom line folding into 夂, distinct from 外
+    仆 | pū | servant; fall forward | Has person radical 亻 instead of evening 夕
+    补 | bǔ | repair; mend; patch | Has clothes radical 衤 instead of 夕
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    格 | gé | pattern; standard; lattice; case
+    外 | wài | outside; external; beyond
+    特 | tè | special; extraordinary; especially
+    尤 | yóu | especially; outstanding; fault
+    分 | fèn | portion; degree; share (分外)
+
+semantic_boundary_contrasts:
+  core_nuance: 格外 is an intensifying adverb emphasizing that an attribute noticeably exceeds ordinary standards or usual circumstances.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 格外 vs. 特别 | tèbié | 格外 is primarily an adverb modifying adjectives to mean "exceptionally / extraordinarily", whereas 特别 can also serve as an adjective meaning "special / unique" (特别的礼物).
+    2 | 格外 vs. 分外 | fènwài | 格外 is common in both written and spoken Chinese, while 分外 is elevated, poetic, and literary (分外妖娆).
+    3 | 格外 vs. 非常 | fēicháng | 格外 implies a notable contrast with usual state or surroundings (今天格外冷 - colder than usual), while 非常 simply indicates an absolute high degree without contextual contrast.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 深秋的清晨推开轩窗，庭院里的那株百年丹桂在微凉的晨风中暗香浮动。细碎的金黄色花朵点缀在浓绿枝叶间，在初升朝阳的斜照下显得格外明艳生动。 | Shēnqiū de qīngchén tuīkāi xuānchuāng, tíngyuàn lǐ de nà zhū bǎinián dānguì zài wēiliáng de chénfēng zhōng ànxiāng fúdòng. Xìsuì de jīnhuángsè huāduǒ diǎnzhuì zài nónglǜ zhīyè jiān, zài chūshēng zhāoyáng de xiézhào xià xiǎnde géwài míngyàn shēngdòng. | Pushing open the lattice window in late autumn, the centenary osmanthus breathed subtle fragrance in the cool breeze. Tiny golden blossoms among leaves looked exceptionally vivid in morning sun. | Al abrir la ventana en el alba otoñal, el viejo osmanto exhalaba un sutil aroma en la brisa. Sus menudas flores doradas entre el follaje verde lucían extraordinariamente vivaces bajo el sol naciente.
+  #2 | 在重重困境与考验面前，人类所展现出的坚韧同理心与守望相助的奉献精神，往往显得格外耀眼。这种超越狭隘私利的崇高品质，正是照亮人类文明砥砺前行的不灭明灯。 | Zài chóngchóng kùnjìng yǔ kǎoyàn miànqián, rénlèi suǒ zhǎnxiàn chū de jiānrèn tónglǐxīn yǔ shǒuwàng-xiāngzhù de fèngxiàn jīngshén, wǎngwǎng xiǎnde géwài yàoyǎn. Zhèzhǒng chāoyuè xiá'ài sīlì de chónggāo pǐnzhì, zhèngshì zhàoliàng rénlèi wénmíng dǐlì-qiánxíng de búmiè míngdēng. | In the face of trials and hardships, human empathy and mutual devotion shine with extraordinary brilliance. This noble spirit transcending narrow self-interest is an unquenchable beacon for civilization. | Ante las más duras pruebas, la recia empatía y la entrega desinteresada brillan con extraordinario fulgor. Esta nobleza que vence el egoísmo es el faro inextinguible de la marcha humana.

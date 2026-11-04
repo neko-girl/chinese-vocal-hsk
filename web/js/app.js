@@ -649,6 +649,8 @@ const App = (function() {
     const delayLabel = document.getElementById('countdown-val-label');
     const soundFxCheck = document.getElementById('toggle-sound-fx');
     const passagePinyinCheck = document.getElementById('toggle-passage-pinyin');
+    const voiceSelect = document.getElementById('voice-preference-select');
+    const voiceLabel = document.getElementById('voice-persona-label');
 
     if (autoAudioCheck) autoAudioCheck.checked = !!settings.autoAudio;
     if (toneColorsCheck) toneColorsCheck.checked = !!settings.toneColors;
@@ -658,6 +660,14 @@ const App = (function() {
     if (delayLabel) delayLabel.textContent = `${settings.autoAdvanceDelay || 5}s`;
     if (soundFxCheck) soundFxCheck.checked = settings.soundFx !== false;
     if (passagePinyinCheck) passagePinyinCheck.checked = !!settings.showPassagePinyin;
+    if (voiceSelect) {
+      voiceSelect.value = settings.preferredVoice || 'random';
+      if (voiceLabel) {
+        voiceLabel.textContent = (settings.preferredVoice === 'random' || !settings.preferredVoice)
+          ? '🎲 Random'
+          : (typeof AudioManager !== 'undefined' ? (AudioManager.VOICE_LABELS[settings.preferredVoice] || settings.preferredVoice) : settings.preferredVoice);
+      }
+    }
 
     drawer.classList.add('active');
     if (overlay) overlay.classList.add('active');
@@ -1253,6 +1263,20 @@ const App = (function() {
         });
       });
     }
+
+    const voiceSelect = document.getElementById('voice-preference-select');
+    if (voiceSelect) {
+      voiceSelect.addEventListener('change', (e) => {
+        const val = e.target.value;
+        StorageManager.saveSettings({ preferredVoice: val });
+        const voiceLabel = document.getElementById('voice-persona-label');
+        if (voiceLabel) {
+          voiceLabel.textContent = val === 'random'
+            ? '🎲 Random'
+            : (typeof AudioManager !== 'undefined' ? (AudioManager.VOICE_LABELS[val] || val) : val);
+        }
+      });
+    }
   }
 
   // Public App Interface
@@ -1312,6 +1336,7 @@ const App = (function() {
       await switchChapter(initialDir);
     },
 
+    getCurrentWord,
     showAnswer,
     rateCard,
     switchTab,

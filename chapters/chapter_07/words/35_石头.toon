@@ -1,0 +1,65 @@
+id: 35
+hanzi: 石头
+pinyin: shí tou
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: stone; rock; pebble; boulder; piece of mineral rock
+  es: piedra; roca; peñasco; canto; mineral pétreo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a piece of mineral matter of rock or pebble found naturally on earth; boulder | fragmento de materia mineral o roca natural dura; peña o canto rodado | 巨大的石头 (a huge stone)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军走上前去仔细端详，才发现那并非猛虎，而是一块巨大的石头，白羽箭深深没入了石块之中。 | Lǐ Guǎng jiāngjūn zǒushàngqián qù zǐxì duānxiáng, cái fāxiàn nà bìng fēi měnghǔ, érshì yí kuài jùdà de shítóu, báiyǔjiàn shēnshēn mòrù le shíkuài zhīzhōng. | Stepping forward to examine closely, General Li Guang realized it was no tiger, but a huge rock with his feathered arrow buried deep within. | Acercándose a examinarlo con fijeza, el general Li Guang comprobó que no era una fiera, sino una peña colosal con la saeta clavada hasta las plumas.
+  #2 | “水滴石穿”的典故启示我们，哪怕再坚硬冰冷的石头，也经受不住水滴持之以恒的岁月雕琢。 | 'Shuǐ dī shí chuān' de diǎngù qǐshì wǒmen, nǎpà zài jiānyìng bīnglěng de shítóu, yě jīngshòubúzhù shuǐdī chízhīyǐhéng de suìyuè diāozhuó. | The proverb 'dripping water penetrates stone' inspires us that no matter how hard and cold a stone, it cannot withstand water's persistent carving. | La fábula de la gota que horada la roca enseña que ni la piedra más gélida y dura resiste el perseverante cincel del agua con el paso del tiempo.
+
+collocations[6]{hanzi,en}:
+  一块石头 | a stone or rock (classifier: 块)
+  坚硬的石头 | hard, solid rock
+  绊脚石头 | stumbling block (figurative obstacle)
+  心头石头落地 | a heavy stone falls from one's heart; deeply relieved
+  搬开石头 | move aside a stone
+  石头建筑 | stone architecture or masonry
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  水滴石穿 | shuǐ dī shí chuān | dripping water penetrates stone; perseverance triumphs
+  金石为开 | jīn shí wéi kāi | even metal and stone open to absolute sincerity
+  落井下石 | luò jǐng xià shí | drop stones on someone fallen in a well; hit someone when down
+  摸着石头过河 | mō zhe shí tou guò hé | cross the river by feeling stones; proceed with empirical caution
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  石 | shí | stone; rock; mineral; monument | piedra; roca; monumento | 石 | stone / cliff | 厂 (cliff edge) | 口 (boulder fallen below) | 5 | 半包围结构 | Ancient oracle bone pictogram of a square boulder 口 lying detached beneath a rocky mountain cliff 厂. | A massive piece of mountain rock (口) breaks off and rests beneath the sheer cliff (厂) as a stone (石). | Un bloque cuadrangular de roca viva (口) se desprende bajo el filo del acantilado (厂) formando una piedra (石). | 35 | MR | 
+  头 | tou | head; hair; beginning; suffix | cabeza; inicio; sufijo nominal | 大 | big / head | 一 (crown of head) | 丷 (eyes/horns) | 5 | 单一结构 | Simplified from 頭. Universal nominalizing suffix used for objects, stones, and body parts. | An animated human head (头) with eyes alertly nodding in acknowledgment. | La cabeza humana (头) que asiente atenta ante las maravillas del mundo. | 35 | YK | 頭
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A piece of heavy natural rock broken from the mountain cliff (石) forms an everyday stone (石头).
+  composite_memory_hook_es: Un fragmento de roca desprendido del risco montañoso (石) forma la piedra cotidiana (石头).
+  cultural_and_cognitive_roots: In classical Chinese philosophy and lore (金石为开), 石头 is the archetype of hard, unfeeling mineral obstinacy. Yet the mythic arrow of Li Guang demonstrated that supreme human spirit (精诚) can penetrate even impenetrable stone (射石没羽).
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by neutral tone: 'shí tou' (35-neutral). Rise steadily on 'shí' and articulate 'tou' with a light, unstressed close.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    右 | yòu | right side | Has 又 below horizontal stroke instead of 口
+    古 | gǔ | ancient; old | Has 十 at top instead of cliff 厂
+    百 | bǎi | hundred | Has 一 and 白 structure
+    买 | mǎi | buy; purchase | Has 乛 at top above 头 structure
+    卖 | mài | sell | Has 十 at the very top above 买
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    拓 | tuò | rubbings from stone; expand
+    斫 | zhuó | chop stone/wood with axe
+    矿 | kuàng | mine; ore; mineral
+    砚 | yàn | inkstone
+    磊 | lěi | heap of stones; open-hearted
+
+semantic_boundary_contrasts:
+  core_nuance: 石头 is the common, physical spoken noun for natural rocks and stones of any size.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 石头 vs. 岩石 | yánshí | 石头 is the colloquial and literary word for loose rocks and stones (扔石头), whereas 岩石 is a formal geological term for bedrock formations and crustal strata.
+    2 | 石头 vs. 巨石 | jùshí | 石头 covers any rock size, while 巨石 specifies an enormous, towering monolithic boulder.
+    3 | 石头 vs. 砖 | zhuān | 石头 is naturally quarried or eroded mineral stone, while 砖 is an artificial fired clay masonry brick.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清澈见底的溪流中，错落着无数被岁月冲刷得圆润光滑的石头。阳光透过水面洒下斑驳的光影，小鱼在石缝间快活地游弋。这一块块默默无言的石头，静静见证着高山的巍峨与流水的温存。 | Qīngchè jiàndǐ de xīliú zhōng, cuòluò zhe wúshù bèi suìyuè chōngshuā de yuánrùn guānghuá de shítóu. Yángguāng tòuguò shuǐmiàn sǎxià bānbó de guāngyǐng, xiǎoyú zài shífèng jiān kuàihuó de yóuyì. Zhè yí kuàikuài mòmò-wúyán de shítóu, jìngjìng jiànzhèng zhe gāoshān de wēi'é yǔ liúshuǐ de wēncún. | In crystal streams lie countless stones polished smooth by passing years. Sunlight dapples water ripples as tiny fish dart among crevices. These silent stones bear witness to the majesty of towering peaks and the gentleness of brooks. | En el arroyo cristalino reposan cantos pulidos por el agua durante siglos. La luz dibuja destellos donde pececillos nadan entre las piedras; mudos testigos que dan fe de la majestuosidad de la cordillera y el tierno rumor del agua.
+  #2 | 在传统园林营造艺术中，奇形怪状的太湖石被赋予了瘦、皱、漏、透的高雅审美意趣。造园大师以石头为骨骼构建假山峰峦，将大自然的鬼斧神工融入庭院方寸之间，营造出咫尺山林的东方哲理境界。 | Zài chuántǒng yuánlín yíngzào yìshù zhōng, qíxíng-guàizhuàng de Tàihú shí bèi fùyǔ le shòu, zhòu, lòu, tòu de gāoyǎ shěnměi yìqù. Zàoyuán dàshī yǐ shítóu wéi gǔgé gòujiàn jiǎshān fēngluán, jiāng dàzìrán de guǐfǔ-shéngōng róngrù tíngyuàn fāngcùn zhījiān, yíngzào chū zhǐchǐ-shānlín de dōngfāng zhélǐ jìngjiè. | In classical garden art, bizarrely shaped Taihu rocks embody lean, crinkled, hollow, and porous aesthetics. Garden masters use stone as skeletal armatures for artificial peaks, recreating boundless nature within courtyards. | En el arte paisajístico clásico, las rocas de Taihu lucen estilizadas, rugosas y horadadas. Los maestros las disponen como osamenta de riscos artificiales, condensando la grandeza de la naturaleza en un patio para invitar a la contemplación.

@@ -1,0 +1,65 @@
+id: 37
+hanzi: 根
+pinyin: gēn
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: measure word for slender, fibrous, or cylindrical objects; root; origin; foundation
+  es: clasificador para objetos delgados y alargados; raíz; origen; cimiento
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | used to count long, slender, fibrous, or rod-like objects such as ropes, arrows, needles, pillars, or hairs | clasificador para contar cosas alargadas, finas o cilíndricas como cuerdas, flechas, agujas o cabellos | 一根绳子 (a rope)
+  2 | Noun | Standard | the underground part of a plant absorbing nutrients; the foundation, source, or origin of a matter | parte subterránea de las plantas; base, raíz u origen de un asunto | 树根 (tree root)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军再度发箭，结果几根坚韧的箭杆接连折断，箭头纷纷碎裂跌落在冰冷的乱石堆中。 | Lǐ Guǎng jiāngjūn zàidù fājiàn, jiéguǒ jǐ gēn jiānrèn de jiàngǎn jiēlián zhéduàn, jiàntóu fēnfēn suìliè diēluò zài bīnglěng de luànshíduī zhōng. | General Li Guang shot again, but several tough arrow shafts snapped in succession, arrowheads shattering into the cold scree. | El general Li Guang disparó de nuevo, pero varias varas resistentes de saeta se quebraron seguidas, cayendo las puntas rotas entre el pedregal.
+  #2 | 传统文化是中华民族生生不息的精神根基，唯有深深扎根于人民生活的沃土，文艺创作才能焕发出恒久生命力。 | Chuántǒng wénhuà shì Zhōnghuá mínzú shēngshēng-bùxī de jīngshén gēnjī, wéiyǒu shēnshēn zhāgēn yú rénmín shēnghuó de wòtǔ, wényì chuàngzuò cáinéng huànfā chū héngjiǔ shēngmìnglì. | Traditional culture is the enduring spiritual root of the Chinese nation; only by rooting in the people's fertile soil can artistic creation flourish. | La cultura tradicional es el arraigo espiritual de la nación china; solo hundiéndose en la tierra fecunda del pueblo logrará el arte una vitalidad imperecedera.
+
+collocations[6]{hanzi,en}:
+  一根绳子 | a rope (classifier: 根)
+  一根筷子 | a chopstick
+  一根针 | a needle
+  深扎树根 | deeply rooted tree roots
+  根本原因 | root cause; fundamental reason
+  寻根问底 | probe to the root and origin
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  根深蒂固 | gēn shēn dì gù | deep-rooted and firmly established; ingrained
+  寻根究底 | xún gēn jiū dǐ | probe to the very bottom and origin of an issue
+  落叶归根 | luò yè guī gēn | fallen leaves return to the roots; revert to one's origins
+  盘根错节 | pán gēn cuò jié | twisted roots and gnarled branches; intricate and complicated
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  根 | gēn | root; foundation; origin; measure word | raíz; origen; cimiento; clasificador | 木 | tree / wood | 木 (tree, botanical root) | 艮 (gèn, stop / turning eye) | 10 | 左右结构 | Phono-semantic compound: tree radical 木 denoting botanical roots anchoring in earth, paired with 艮 (firmly standing still). | The sturdy trunk of a tree (木) anchors itself firmly into the soil (艮) through branching underground roots (根). | El tronco del árbol (木) se aferra con firmeza a la tierra (艮) a través de sus profundas raíces (根). | 55 | DAHV | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The underground anchors of a tree (木) holding firm in the soil (艮) establish roots (根) and count long slender shafts (根).
+  composite_memory_hook_es: Los anclajes de un árbol (木) que se aferran firmes al suelo (艮) forjan las raíces (根) y cuentan varas y ramas (根).
+  cultural_and_cognitive_roots: In ancient agrarian thought, 根 represents the subterranean anchor of life and the metaphysical wellspring of human existence (归根结底, 根基). From plant roots, it extended to categorize slender botanical fibers and flexible linear implements.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'gēn' (55). Pronounced with an even, sustained, clear high vocal acoustic.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    艮 | gèn | tough; blunt; hexagram | Lacks the tree radical 木 on the left
+    跟 | gēn | heel; follow; with | Has foot radical 足 on the left instead of 木
+    银 | yín | silver; money | Has metal radical 钅 on the left instead of 木
+    很 | hěn | very; quite | Has step radical 彳 on the left instead of 木
+    恨 | hèn | hate; regret | Has heart radical 忄 on the left instead of 木
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    跟 | gēn | heel; follow; accompany
+    限 | xiàn | limit; bound; threshold
+    眼 | yǎn | eye; hole; aperture
+    垠 | yín | boundary; limit of land
+    银 | yín | silver; monetary currency
+
+semantic_boundary_contrasts:
+  core_nuance: 根 is a versatile measure word for flexible or natural slender cylindrical items (ropes, needles, shafts), and a noun for roots.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 根 vs. 支 | zhī | 根 is preferred for flexible or natural fibrous slender items (一根绳子, 一根头发, 一根香蕉), whereas 支 is preferred for rigid manufactured tools (一支笔, 一支箭, 一支枪).
+    2 | 根 vs. 条 | tiáo | 根 emphasizes thinness and straight cylindrical shape (一根针), while 条 emphasizes long, undulating flexibility (一条蛇, 一条河, 一条裤子).
+    3 | 根 vs. 蒂 | dì | 根 is the underground nourishing anchor, while 蒂 is the stem or pedicel attaching fruits or flowers to branches.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 参天大树之所以能历经千百年的狂风暴雨而屹立不倒，全赖其深深扎入沃土之中的粗壮盘根。每一根幼细的须根都在暗夜中奋力汲取大地的滋养。唯有把根扎得足够深，生命方能枝繁叶茂、昂然挺立于天地之间。 | Cāntiān dàshù zhīsuǒyǐ néng lìjīng qiānbǎi nián de kuángfēng-bàoyǔ ér yìlì-bùdǎo, quán lài qí shēnshēn zhārù wòtǔ zhīzhōng de cūzhuàng pángēn. Měi yì gēn yòuxì de xūgēn dōu zài ànyè zhōng fènlì jíqǔ dàdì de zīyǎng. Wéiyǒu bǎ gēn zhā de zúgòu shēn, shēngmìng fāng néng zhīfán-yèmào, ángrán tǐnglì yú tiāndì zhījiān. | Why giant trees withstand centuries of storms without falling relies entirely on massive roots plunged deep into soil. Every tiny rootlet draws nourishment in dark earth. Only by rooting deep does life flourish toward the skies. | Si los árboles colosales resisten siglos de vendavales sin caer es gracias a sus recias raíces hundidas en la tierra. Cada fina hebra absorbe savia en la oscuridad; solo enraizando hondo puede la vida erguirse lozana entre el cielo y el suelo.
+  #2 | 在传承弘扬中华优秀传统文化的宏伟工程中，我们要善于从历史文化脉络中寻找中华民族现代文明的精神之根。唯有守护好文化根脉，才能在汹涌澎湃的全球化浪潮中保持坚定的文化自信，谱写当代华章。 | Zài chuánchéng hóngyáng Zhōnghuá yōuxiù chuántǒng wénhuà de hóngwěi gōngchéng zhōng, wǒmen yào shànyú cóng lìshǐ wénhuà màiluò zhōng xúnzhǎo Zhōnghuá mínzú xiàndài wénmíng de jīngshén zhī gēn. Wéiyǒu shǒuhù hǎo wénhuà gēnmài, cáinéng zài xiōngyǒng-péngpài de quánqiúhuà làngcháo zhōng bǎochí jiāndìng de wénhuà zìxìn, pǔxiě dāngdài huázhāng. | In carrying forward traditional culture, we must discover the spiritual roots of modern civilization in historical veins. Guarding cultural rootlines preserves unwavering self-confidence amid globalizing tides, composing modern anthems. | Al preservar el legado cultural tradicional, debemos rastrear las raíces espirituales de la civilización moderna en los anales patrios. Custodiar el arraigo cultural preserva la identidad ante las mareas globales, alumbrando un porvenir fecundo.

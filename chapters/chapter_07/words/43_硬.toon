@@ -1,0 +1,65 @@
+id: 43
+hanzi: 硬
+pinyin: yìng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: hard; stiff; rigid; tough; unyielding; resolute; forcibly; obstinately
+  es: duro; rígido; resistente; firme; inquebrantable; a la fuerza; obstinadamente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | solid, firm, and resistant to pressure; not easily deformed, cut, or pierced; rigid | sólido, firme y resistente a la presión exterior; que no cede ni se deforma con facilidad | 坚硬的岩石 (solid hard rock)
+  2 | Adjective / Adverb | Standard | resolute and unyielding in character; or doing something forcibly despite reluctance | firme, severo e inflexible de carácter; o realizar algo a la fuerza u obstinadamente | 硬着头皮 (brace oneself)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随从们用手指敲了敲那块坚如生铁的石头，惊叹道：“这石头硬得像金属一样，怎么可能把利箭射进去呢？” | Suícóng men yòng shǒuzhǐ qiāo le qiāo nà kuài jiān rú shēngtiě de shítóu, jīngtàn dào: 'Zhè shítóu yìng de xiàng jīnshǔ yíyàng, zěnme kěnéng bǎ lìjiàn shè jìnqu ne?' | Retinue members tapped the cast-iron-like rock with fingers, marveling: 'This stone is as hard as metal; how could a sharp arrow pierce inside?' | Los guardias golpearon con los nudillos la roca dura como hierro colado, exclamando: '¡Esta piedra es dura como el metal! ¿Cómo pudo penetrar la saeta?'.
+  #2 | 在关乎国家主权与核心利益的重大原则问题上，我们的外交立场坚定如铁，底线原则寸步不让，极其强硬。 | Zài guānhū guójiā zhǔquán yǔ héxīn lìyì de zhòngdà yuánzé wèntí shàng, wǒmen de wàijiāo lìchǎng jiāndìng rú tiě, dǐxiàn yuánzé cùnbù-búràng, jíqí qiángyìng. | On core principles concerning national sovereignty and vital interests, our diplomatic stance is ironclad, uncompromising, and extremely resolute. | En las cuestiones de soberanía nacional e intereses vitales, nuestra postura diplomática es firme como el hierro, sin ceder un milímetro, sólida e inflexible.
+
+collocations[6]{hanzi,en}:
+  坚硬无比 | incomparably hard and unyielding
+  强硬立场 | unyielding, firm, or tough stance
+  硬着头皮 | brace oneself reluctantly to face a task
+  过硬本领 | thoroughly mastered, rock-solid skills
+  生搬硬套 | copy mechanically and apply inflexibly
+  硬性规定 | rigid, non-negotiable regulation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  生搬硬套 | shēng bān yìng tào | copy mechanically and apply dogmatically
+  欺软怕硬 | qī ruǎn pà yìng | bully the weak and fear the strong
+  硬着头皮 | yìng zhe tóu pí | brace oneself to bite the bullet
+  钢筋铁骨 | gāng jīn tiě gǔ | steel sinews and iron bones; unbreakable physique
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  硬 | yìng | hard; stiff; tough; resolute | duro; rígido; resistente; firme | 石 | stone / rock | 石 (stone, mineral hardness) | 更 (gèng, change / night watch drum) | 12 | 左右结构 | Phono-semantic compound: stone radical 石 indicating mineral rigidity, paired with 更 (gèng). | Striking a mountain stone (石) with each passing watch of night (更) shows it remains unyielding and hard (硬). | Golpear la piedra viva (石) al compás del sereno de la noche (更) atestigua su dureza inquebrantable (硬). | 51 | MRMLK | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A mountain stone (石) that endures every changing season (更) remains solid, unbending, and hard (硬).
+  composite_memory_hook_es: Una piedra viva (石) que desafía el paso de los serenos nocturnos (更) permanece sólida y dura (硬).
+  cultural_and_cognitive_roots: In Chinese philosophical dualism, 硬 (hardness) and 软 (softness) form a classic Yin-Yang polarity. Daoist texts like the Daodejing teach that while rock and metal are hard (硬), soft water overcomes them (以柔克刚).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'yìng' (51). Deliver with a crisp, emphatic, downward vocal strike.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    更 | gèng / gēng | more; even more; change | Lacks the stone radical 石 on the left
+    便 | biàn / pián | then; convenient; cheap | Has person radical 亻 on the left instead of 石
+    使 | shǐ | use; send; make; envoy | Has person radical 亻 and 吏 structure
+    砸 | zá | smash; pound; fail | Has 帀 on the right instead of 更
+    砚 | yàn | inkstone | Has 见 on the right instead of 更
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    更 | gèng | more; change; night watch
+    梗 | gěng | stalk; stem; obstinate
+    粳 | jīng | non-glutinous round-grain rice
+    绠 | gěng | well rope for drawing water
+    鲠 | gěng | fish bone stuck in throat
+
+semantic_boundary_contrasts:
+  core_nuance: 硬 describes tangible physical resistance to pressure, or metaphorical inflexibility in will and regulations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 硬 vs. 软 | ruǎn | Direct antonym: 硬 is hard and resistant to bending (石头硬), while 软 is soft, pliant, and easily deformed (棉花软).
+    2 | 硬 vs. 坚 | jiān | 坚 is a formal literary morpheme emphasizing structural solidarity and unbreakable integrity (坚韧, 坚定), whereas 硬 is common and oral for surface physical hardness (硬座, 硬币).
+    3 | 硬 vs. 强 | qiáng | 硬 denotes physical toughness or uncompromising stubbornness (态度强硬), whereas 强 denotes powerful capability, dominance, or strength in contest (实力强大).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对狂风暴雨的无情摧残，坚硬的岩石岿然不动，展现出傲然挺立的铮铮傲骨；然而柔软的水滴却在千百年的漫长岁月中穿石而过。世间的硬与软，往往在辩证的转化中生动诠释着大自然深奥玄妙的无穷哲理。 | Miànduì kuángfēng-bàoyǔ de wúqíng cuīcán, jiānyìng de yánshí kuīrán-búdòng, zhǎnshì chū àorán tǐnglì de zhēngzhēng àogǔ; rán'ér róuruǎn de shuǐdī què zài qiānbǎi nián de màncháng suìyuè zhōng chuān shí ér guò. Shìjiān de yìng yǔ ruǎn, wǎngwǎng zài biànzhèng de zhuǎnhuà zhōng shēngdòng quánshì le dàzìrán shēn'ào xuánmiào de wúqióng zhélǐ. | Facing storms, hard rocks stand unmoving in proud defiance; yet soft water droplets pierce stone across centuries. Hardness and softness in worldly dialectics vividly interpret the profound philosophical mysteries of nature. | Ante la furia del vendaval, la dura roca permanece inconmovible con altivo temple; mas la blanda gota horada la piedra a través de los siglos. La dureza y la blandura ilustran en su vaivén dialéctico la honda sabiduría de la naturaleza.
+  #2 | 在尖端科技攻关与重大装备制造领域，科研人员必须具备敢啃“硬骨头”的顽强拼搏精神。面对国外技术封锁的严峻挑战，唯有以坚如磐石的定力攻克一系列卡脖子技术难关，才能真正挺起民族工业的坚强脊梁。 | Zài jiānduān kējì gōngguān yǔ zhòngdà zhuāngbèi zhìzào lǐngyù, kēyán rényuán bìxū jùbèi gǎn kěn 'yìnggǔtou' de wánqiáng pīnbó jīngshén. Miànduì guówài jìshù fēngsuǒ de yánjùn tiǎozhàn, wéiyǒu yǐ jiānrúpánshí de dìnglì gōngkè yíxìliè qiǎbózi jìshù nánguān, cáinéng zhēnzhèng tǐngqǐ mínzú gōngyè de jiānqiáng jǐliáng. | In cutting-edge technology, researchers must possess the tenacity to gnaw through 'hard bones'. Confronting foreign technology blockades, cracking bottleneck hurdles with rock-like resolve straightens national industrial backbones. | En la investigación puntera, los científicos deben mostrar redaños para roer los huesos más duros. Ante el cerco tecnológico exterior, quebrar con perseverancia férrea los cuellos de botella erige la columna vertebral de la industria nacional.

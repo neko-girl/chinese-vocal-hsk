@@ -1,0 +1,65 @@
+id: 24
+hanzi: 忽然
+pinyin: hū rán
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: suddenly; abruptly; all of a sudden; unexpectedly
+  es: de repente; de pronto; súbitamente; de forma inesperada
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | happening quickly, unexpectedly, and without prior indication or warning | que ocurre de forma rápida, imprevista y sin previo aviso | 忽然下雨 (suddenly rains)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军正勒马缓行，忽然看到前方幽暗的草丛中有一只斑斓猛虎正弓身蹲伏。 | Lǐ Guǎng jiāngjūn zhèng lèmǎ huǎnxíng, hūrán kàndào qiánfāng yōu'àn de cǎocóng zhōng yǒu yì zhī bānlán měnghǔ zhèng gōngshēn dūnfú. | General Li Guang was riding at a slow pace when he suddenly saw a striped fierce tiger crouching in the gloomy thicket ahead. | El general Li Guang cabalgaba al paso cuando de pronto divisó entre la umbría espesura a un feroz tigre atigrado agazapado.
+  #2 | 正当大家为实验僵局一筹莫展时，实验室外忽然传来一阵欢呼，最新的化验结果终于水落石出。 | Zhèngdāng dàjiā wèi shíyàn jiāngjú yìchóu-mòzhǎn shí, shíyànshì wài hūrán chuánlái yí zhèn huānhū, zuìxīn de huàyàn jiéguǒ zhōngyú shuǐluò-shíchū. | Just as everyone was at their wits' end over the experimental deadlock, a sudden cheer rang out outside, and the latest analysis was finally resolved. | Cuando todos se hallaban desconcertados ante el estancamiento del ensayo, de repente resonó una salva de vítores fuera del laboratorio, esclareciendo los resultados.
+
+collocations[6]{hanzi,en}:
+  忽然发现 | suddenly discover or notice
+  忽然明白 | suddenly understand or realize
+  忽然下起雨 | suddenly start raining
+  心中忽然一惊 | heart suddenly jolted with shock
+  脑海忽然闪过 | suddenly flashed across one's mind
+  忽然刮起大风 | gale suddenly blew up
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  玩忽职守 | wán hū zhí shǒu | neglect one's official duties; dereliction
+  忽冷忽热 | hū lěng hū rè | alternately hot and cold; moody and erratic
+  恍然大悟 | huǎng rán dà wù | suddenly see the light; sudden enlightenment
+  泰然自若 | tài rán zì ruò | calm and collected; completely poised in crisis
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  忽 | hū | sudden; neglect; overlook; faint | repentino; descuidar; tenue | 心 | heart / mind | 心 (heart, awareness) | 勿 (wù, do not / flags waving swiftly) | 8 | 上下结构 | Phono-semantic compound: swift waving flags 勿 above the heart 心, portraying an event flitting past before the mind can register it. | Flags waving swiftly in the wind (勿) cause the mindful heart (心) to overlook things, leaving events to happen suddenly (忽). | Estandartes que se agitan veloces al viento (勿) sorprenden al corazón desprevenido (心), trayendo lo repentino (忽). | 55 | PXP | 
+  然 | rán | so; thus; suffix for adverbs | así; tal; sufijo de adjetivos/adverbios | 灬 | fire | 灬 (four flame dots, burning fire) | 肰 (rán, dog meat roasting over fire) | 12 | 上下结构 | Ancient ideogram: roasted dog meat 肰 sizzling over flames 灬, meaning 'authentically so', later grammaticalized as an adverbial suffix. | Fresh meat seasoned over licking flames of fire (灬) cooks naturally into an authentic state (然). | Carne sazonada al rescoldo de las brasas (灬) que cuece en su punto justo para adoptar un estado natural (然). | 35 | BKP | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Something passing before the mind can react (忽) unfolds in that immediate state (然) all of a sudden (忽然).
+  composite_memory_hook_es: Un suceso que cruza la mente sin previo aviso (忽) manifestándose en su estado vivo (然) irrumpe de pronto (忽然).
+  cultural_and_cognitive_roots: The character 忽 conveys the instantaneousness of a breath or fleeting vision (如忽微). Combined with the state-affirming particle 然, 忽然 functions as the quintessential temporal adverb marking an abrupt, unheralded shift in narrative reality.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by rising 2nd tone: 'hū rán' (55-35). Start with a level high pitch before ascending smoothly on 'rán'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    吻 | wěn | kiss; lips; coincide | Has mouth radical 口 on the left next to 勿
+    物 | wù | thing; matter; object | Has ox radical 牛 on the left next to 勿
+    易 | yì | change; easy; exchange | Has sun 日 at top instead of 勿
+    燃 | rán | burn; ignite | Has fire radical 火 on the left next to 然
+    葱 | cōng | scallion; green | Has grass radical 艹 at the top
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    忽 | hū | sudden; neglect; tiny fraction
+    惚 | hū | in a daze; absentminded
+    呼 | hū | breathe out; exhale; shout
+    然 | rán | correct; so; suffix
+    燃 | rán | ignite; burn; combustion
+
+semantic_boundary_contrasts:
+  core_nuance: 忽然 is purely an adverb indicating that an event happened unexpectedly and abruptly in time.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 忽然 vs. 突然 | tūrán | 忽然 is strictly an adverb placed before verbs (忽然下雨), whereas 突然 can function as both an adverb and a full predicate adjective (事情很突然, 突然的决定).
+    2 | 忽然 vs. 猛然 | měngrán | 忽然 emphasizes unexpectedness in timing, whereas 猛然 emphasizes ferocious, startling physical momentum (猛然回头, 猛然一跃).
+    3 | 忽然 vs. 骤然 | zhòurán | 忽然 is common in narrative prose, while 骤然 is a formal literary term indicating a drastic, cliff-like shift in weather, temperature, or fortunes (气温骤然下降).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 独自漫步在寂静的林间小道，头顶浓密的枝叶遮蔽了天光。忽然，一阵清凉的山风吹散了林间的薄雾，明媚温暖的阳光如瀑布般倾泻而下。那一瞬间的美好，忽然拂去了心头郁积多日的烦闷与疲惫。 | Dúzì mànbù zài jìjìng de línjiān xiǎodào, tóudǐng nóngmì de zhīyè zhēbì le tiānguāng. Hūrán, yí zhèn qīngliáng de shānfēng chuīsàn le línjiān de bówù, míngmèi wēnnuǎn de yángguāng rú pùbù bān qīngxiè-érxià. Nà yí shùnjiān de měihǎo, hūrán fúqù le xīntóu yùjī duō rì de fánmèn yǔ píbèi. | Walking alone on quiet forest paths, dense foliage overhead shaded the sky. Suddenly, a cool mountain breeze dispersed the mist, and warm sunlight cascaded like a waterfall. That instant of beauty suddenly swept away days of fatigue. | Paseando a solas por la senda del bosque, el ramaje tupido velaba la luz del cielo. De pronto, un airecillo fresco disipó la neblina y el sol cayó en cascada dorada. La belleza de aquel instante disipó de golpe las fatigas que nublaban el ánimo.
+  #2 | 在漫长的科学探索历程中，许多里程碑式的重大发现往往孕育于看似偶然的瞬间。当研究陷入看似无法逾越的迷宫时，灵感的火花忽然闪现，不仅彻底打破了原有的理论僵局，更引领整个学科开辟出崭新的天地。 | Zài màncháng de kēxué tànsuǒ lìchéng zhōng, xǔduō lǐchéngbēi shì de zhòngdà fāxiàn wǎngwǎng yùnyù yú kànsì ǒurán de shùnjiān. Dāng yánjiū xiànrù kànsì wúfǎ yúyuè de mígōng shí, línggǎn de huǒhuā hūrán shǎnxiàn, bùjǐn chèdǐ dǎpò le yuányǒu de lǐlùn jiāngjú, gèng yǐnlǐng zhěnggè xuékē kāipì chū zhǎnxīn de tiāndì. | In scientific history, landmark discoveries are often sparked in seemingly fortuitous moments. When research seems trapped in an insurmountable maze, an unexpected flash of inspiration breaks deadlocks and opens new horizons for the discipline. | En la prolongada historia de la ciencia, grandes hitos nacieron de instantes aparentemente fortuitos. Cuando la investigación parecía perdida en un laberinto, un chispazo de intuición brotó de pronto, quebrando inercias y abriendo horizontes insospechados a la ciencia.

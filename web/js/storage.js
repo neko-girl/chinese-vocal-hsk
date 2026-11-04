@@ -165,6 +165,7 @@ const StorageManager = (function() {
         activeTab: 'sentences',// default active pill tab
         filter: 'all',         // 'all', 'due', 'lapses', 'remembered', 'new'
         lang: localStorage.getItem('hsk_lang') || 'both',
+        preferredVoice: 'random', // 'random', 'mature_woman', 'soothing_host', 'office_man', 'tender_ceo'
         autoAdvanceChapter: true, // auto-start next chapter when finished
         autoAdvanceDelay: 5,      // countdown seconds before auto-advance
         soundFx: true,            // soft UI audio feedback

@@ -1,0 +1,65 @@
+id: 39
+hanzi: 显得
+pinyin: xiǎn de
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to appear; to look; to seem; to manifest as; to show oneself to be
+  es: parecer; verse; mostrarse; denotar; dar la impresión de; lucir
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to clearly display or exhibit a certain outward feature, emotional atmosphere, or quality | manifestar de forma perceptible cierta cualidad, aspecto exterior o ambiente emocional | 显得年轻 (look young / appear youthful)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 穿上这套剪裁得体的深蓝色正装后，小李整个人立刻显得精神抖擞、干练沉稳。 | Chuānshàng zhè tào jiǎncái-détǐ de shēnlánsè zhèngzhuāng hòu, Xiǎolǐ zhěng ge rén lìkè xiǎnde jīngshén-dǒusǒu, gànliàn chénwěn. | After putting on this well-tailored dark blue suit, Xiao Li immediately looked spirited, sharp, and composed. | Al enfundarse este traje azul marino impecable, Xiao Li cobró al instante un porte enérgico, resuelto y aplomado.
+  #2 | 在大雪纷飞的寒冬腊月里，窗台上一盆悄然绽放的水仙花，让素朴的客厅显得格外生机盎然。 | Zài dàxuě fēnfēi de hándōng làyuè lǐ, chuāngtái shàng yì pén qiǎorán zhànfàng de shuǐxiānhuā, ràng sùpǔ de kètīng xiǎnde géwài shēngjī-àngrán. | Amid swirling snows in midwinter, a potted narcissus blooming quietly on the windowsill made the simple living room seem extraordinarily vibrant. | En pleno rigor invernal entre nevadas, un narciso florecido en el alféizar infundió a la sobria sala una vitalidad primorosa.
+
+collocations[6]{hanzi,en}:
+  显得格外精神 | appear exceptionally spirited
+  显得非常年轻 | look very young
+  显得有些局促 | appear somewhat ill at ease
+  显得微不足道 | seem negligible; appear insignificant
+  显得格格不入 | seem utterly out of place
+  显得成熟稳重 | appear mature and steady
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大显身手 | dà xiǎn shēn shǒu | display one's skill fully; make a grand show of prowess
+  显而易见 | xiǎn ér yì jiàn | obvious and evident; plain for all to see
+  锋芒毕露 | fēng máng bì lù | show one's edge completely; display brilliance ostentatiously
+  相得益彰 | xiāng dé yì zhāng | bring out the best in each other; complement each other
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  显 | xiǎn | prominent; obvious; display; manifest | visible; evidente; manifestar; lucir | 日 | sun / day | 日 (bright sun) | 业/显 (stands out clear) | 9 | 上下结构 | Simplified from 顯. Ideogram showing dazzling sunlight 日 illuminating details clearly, making forms stand out and appear evident. | Bright rays of the blazing sun (日) illuminate everything below, revealing features prominently and visibly (显). | Los rayos del sol fulgurante (日) bañan cuanto alcanzan, haciendo resaltar y vislumbrar cualquier detalle (显). | 214 | ATMC | 顯
+  得 | de | particle / obtain; gain | partícula modal / obtener; lograr | 彳 | step / walk | 彳 (movement on street) | 㝵 (hand catching cowrie/sun) | 11 | 左右结构 | Ancient character showing footsteps 彳 reaching forward and a hand 寸 grasping valuable cowrie 旦, signifying acquisition or resultant degree. | Striding forward (彳) to grasp an insight (寸) reveals the acquired outward impression or resultant appearance (得). | Dar pasos firmes (彳) hasta asir la verdad con la mano (寸) plasma el aspecto o grado manifiesto que se adquiere (得). | 35 | HOAMI | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Illuminated brightly like the sun (显) so that observers readily perceive (得) its presence makes an object appear or look a certain way (显得).
+  composite_memory_hook_es: Iluminado con claridad solar (显) de suerte que cualquiera capte (得) su cualidad hace que algo luzca o aparente ser (显得).
+  cultural_and_cognitive_roots: In classical Chinese aesthetic discourse, 'xiǎn' (显 - the revealed / explicit) stands in fruitful dialectical balance with 'cáng' (藏 - the concealed / subtle). In poetry and garden design, striking things are made to 'appear' (显得) through thoughtful contrast and framing.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by neutral tone: 'xiǎn de' (214-neutral). Dip deep on 'xiǎn' and release into an unstressed, buoyant 'de'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    湿 | shī | wet; damp | Has water radical 氵 on the left of 显
+    业 | yè | business; industry | Lacks the sun 日 on top of 显
+    待 | dài | wait; treat | Right side is 寺 instead of 旦+寸
+    德 | dé | virtue; moral | Right side contains 十, 罒, 一, 心
+    行 | xíng | walk; alright | Right side is 亍 without inner components
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    显 | xiǎn | manifest; show; reveal; obvious
+    露 | lù | expose; reveal; show
+    彰 | zhāng | manifest; clear; make noticeable
+    见 | jiàn | see; appear; view
+    现 | xiàn | appear; manifest; present
+
+semantic_boundary_contrasts:
+  core_nuance: 显得 describes how a particular attribute, emotion, or impression is visibly brought out and showcased to observers.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 显得 vs. 看起来 | kànqǐlai | 显得 often follows an adjective or describes an overall aura brought out by circumstances (显得很有活力), whereas 看起来 is a direct visual perception ("looks like").
+    2 | 显得 vs. 表现 | biǎoxiàn | 显得 is a state or perceived impression, while 表现 refers to active behavioral conduct, performance, or demonstrative action.
+    3 | 显得 vs. 好像 | hǎoxiàng | 显得 asserts that an impression is clearly manifested, while 好像 conveys subjective guesswork or speculative resemblance ("as if / like").
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 雨后的青石板路被冲刷得一尘不染，两旁粉墙黛瓦的古民居倒映在清澈的水洼里，整座江南水乡小镇显得格外空灵幽寂，宛如一幅意境悠远的水墨画卷。 | Yǔ hòu de qīngshíbǎnlù bèi chōngshuā de yìchén-bùrǎn, liǎngpáng fěnqiáng-dàiwǎ de gǔmínjū dàoyìng zài qīngchè de shuǐwā lǐ, zhěng zuò Jiāngnán shuǐxiāng xiǎozhèn xiǎnde géwài kōnglíng-yōujì, wǎnrú yì fú yìjìng yōuyuǎn de shuǐmò huàjuàn. | Rain-washed stone paths lay spotless; whitewashed cottages reflected in clear puddles, making the Jiangnan water town look exceptionally serene and ethereal like a wash painting. | Los adoquines tras la lluvia lucían limpios; los muros blancos se reflejaban en los charcos, haciendo que el pueblo fluvial pareciera sumamente apacible cual lienzo al aguada.
+  #2 | 在喧嚣浮躁的时代，那些能够安于寂寞、潜心钻研的学者，往往显得有些特立独行。然而正是这种不随波逐流的坚守，构筑了人类精神文明最坚实高耸的灯塔。 | Zài xuānxiāo fúzào de shídài, nàxiē nénggòu ānyú jìmò, qiǎnxīn zuānyán de xuézhě, wǎngwǎng xiǎnde yǒuxiē tèlì-dúlì. Rán'ér zhèngshì zhèzhǒng bù suíbō-zhúliú de jiānshǒu, gòuzhù le rénlèi jīngshén wénmíng zuì jiānshí gāosǒng de dēngtǎ. | In a restless age, scholars who embrace solitude to study often seem somewhat eccentric. Yet it is this steadfast resistance to fads that builds the towering lighthouses of human civilization. | En tiempos de ligereza, los sabios que investigan en soledad suelen parecer singulares. Empero, esa recia constancia sin modas erige los faros más señeros de la cultura humana.

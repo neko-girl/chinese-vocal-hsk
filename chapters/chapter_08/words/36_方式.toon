@@ -1,0 +1,65 @@
+id: 36
+hanzi: 方式
+pinyin: fāng shì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: way; pattern; style; manner; mode; method
+  es: manera; modo; forma; método; estilo; modalidad
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a specific manner, method, pattern, or mode in which something is done, experienced, or expressed | forma, procedimiento, pauta o estilo particular según el cual se realiza, expresa o experimenta algo | 生活方式 (way of life / lifestyle)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着互联网技术的普及，越来越多年轻人选择以远程办公的方式平衡工作与家庭生活。 | Suízhe hùliánwǎng jìshù de pǔjí, yuèláiyuè duō niánqīngrén xuǎnzé yǐ yuǎnchéng bàngōng de fāngshì pínghéng gōngzuò yǔ jiātíng shēnghuó. | With the spread of internet technology, an increasing number of young people choose remote work to balance career and home. | Con la difusión de Internet, cada vez más jóvenes eligen el teletrabajo como modo de equilibrar sus obligaciones laborales y familiares.
+  #2 | 解决复杂争端的最佳方式绝非单方面的强权施压，而是秉持相互尊重与求同存异的原则开展建设性对话。 | Jiějué fùzá zhēngduān de zuìjiā fāngshì juéfēi dānfāngmiàn de qiángquán shīyā, érshì bǐngchí xiānghù zūnzhòng yǔ qiútóng-cúnyì de yuánzé kāizhǎn jiànshèxìng duìhuà. | The optimal way to resolve complex disputes is by no means unilateral coercion, but engaging in constructive dialogue based on mutual respect. | La vía óptima para dirimir disputas arduas jamás será la imposición unilateral, sino el diálogo constructivo fundado en el respeto recíproco.
+
+collocations[6]{hanzi,en}:
+  生活方式 | lifestyle; way of life
+  工作方式 | way of working; work pattern
+  思维方式 | mode of thinking; mindset
+  表达方式 | mode of expression; form of rhetoric
+  处理方式 | method of handling; treatment mode
+  支付方式 | payment method; mode of payment
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  独树一帜 | dú shù yí zhì | hoist a distinct banner of one's own; unique style
+  千篇一律 | qiān piān yí lǜ | a thousand pieces following the same tune; stereotyped
+  因地制宜 | yīn dì zhì yí | tailor measures to suit local conditions
+  随波逐流 | suí bō zhú liú | drift with the waves; go with the flow blindly
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  方 | fāng | square; direction; method; formula | cuadrado; dirección; método; fórmula | 方 | square / direction | 亠 (top boundary) | 勹 (enclosure/plow) | 4 | 单一结构 | Ancient pictograph of two plows lashed together or an ancient directional compass square, signifying orientation, square precision, and prescribed path. | A directional square marker (方) pointing toward cardinal routes gives the direction and precise method for navigating tasks (方). | Una brújula cuadrada (方) orientada hacia los cuatro rumbos marca el rumbo exacto y el método certero de acción (方). | 55 | YHS | 
+  式 | shì | pattern; style; formula; ceremony | fórmula; modelo; estilo; ceremonia | 弋 | arrow / stake | 工 (carpenter's square / work) | 弋 (stake marker / phonetic) | 6 | 半包围结构 | Ancient character combining carpenter's square 工 with marker stake 弋, denoting standard templates, models, and formal ceremonies. | A carpenter's square (工) pegged against a stake (弋) sets the standard model and ceremonial pattern for all crafts (式). | La escuadra del artesano (工) fijada a la estaca de replanteo (弋) establece la pauta reglamentaria y el estilo maestro (式). | 51 | IPM | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The directional method (方) measured against standard carpenter's models (式) defines a systematic way, manner, or pattern (方式).
+  composite_memory_hook_es: El método y rumbo certero (方) ajustado a la escuadra y modelo reglamentario (式) define la manera o estilo de proceder (方式).
+  cultural_and_cognitive_roots: In classical Chinese administrative and technical treatises, 'fāng' (方) denoted practical recipes and navigational routes, while 'shì' (式) signified institutional rites and cosmic models. Combined into 方式, it frames how human actions conform to patterned paths.
+  tone_sandhi_and_pitch_modulation: High-level 1st tone followed by falling 4th tone: 'fāng shì' (55-51). Hold 'fāng' sustained and level, then snap downward decisively on 'shì'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    万 | wàn | ten thousand | Lacks the top dot and horizontal overhang of 方
+    力 | lì | power; strength | Lacks the dot and horizontal line of 方
+    试 | shì | try; test | Has speech radical 讠 on the left before 式
+    拭 | shì | wipe; clean | Has hand radical 扌 on the left before 式
+    武 | wǔ | martial; military | Left side has 止, different bottom structure
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    方 | fāng | square; direction; method; side
+    法 | fǎ | law; method; rule
+    式 | shì | style; form; ceremony; pattern
+    模 | mó | pattern; model; mold
+    样 | yàng | appearance; shape; sample
+
+semantic_boundary_contrasts:
+  core_nuance: 方式 refers to the observable style, mode, pattern, or manner in which an activity is carried out.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 方式 vs. 方法 | fāngfǎ | 方式 denotes a broader style, habit, or mode (生活方式, 沟通方式), while 方法 refers to concrete procedural steps and technical tools used to solve a specific problem (教学方法, 试验方法).
+    2 | 方式 vs. 形式 | xíngshì | 方式 is the behavioral pattern or manner of action, whereas 形式 is the external visible appearance or formal structure (形式主义).
+    3 | 方式 vs. 模式 | móshì | 方式 is flexible and conversational, while 模式 implies an institutionalized, repeatable, and codified theoretical model (商业模式).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着倡导绿色环保理念的深入人心，选择公共交通或骑自行车出行的健康生活方式，逐渐成为城市年轻人的时尚新潮流。不仅强健了体魄，更让城市的空气愈发清新宜人。 | Suízhe chàngdǎo lǜsè huánbǎo lǐniàn de shēnrù-rénxīn, xuǎnzé gōnggòng jiāotōng huò qí zìxíngchē chūxíng de jiànkāng shēnghuó fāngshì, zhújiàn chéngwéi chéngshì niánqīngrén de shíshàng xīn cháoliú. Bùjǐn qiángjiàn le tǐpò, gèng ràng chéngshì de kōngqì yùfā qīngxīn yírén. | As eco-friendly concepts take root, choosing cycling or public transit as a lifestyle has become fashionable for urban youth, boosting health and clearing city air. | Con la difusión de la conciencia ecológica, el uso de la bicicleta y el transporte colectivo se consolida como estilo de vida saludable que purifica el aire de las urbes.
+  #2 | 在多元文明交流互鉴的历史长河中，不同民族在漫长的繁衍生息中所形成的文化表达方式与生活哲学，共同构成了人类文明百花齐放的绚丽图景。彼此包容方能交相辉映。 | Zài duōyuán wénmíng jiāoliú-hùjiàn de lìshǐ chánghé zhōng, bùtóng mínzú zài màncháng de fányǎn-shēngxī zhōng suǒ xíngchéng de wénhuà biǎodá fāngshì yǔ shēnghuó zhéxué, gòngtóng gòuchéng le rénlèi wénmíng bǎihuā-qífàng de xuànlì tújǐng. Bǐcǐ bāoróng fāng néng jiāoxiāng-huìyìng. | In civilizational exchanges, the modes of cultural expression and philosophies cultivated by diverse peoples form humanity's tapestry. Mutual tolerance allows cultures to shine together. | En el fluir de la historia, las variadas formas de expresión y filosofías forjadas por los pueblos componen el tapiz de la humanidad. La tolerancia recíproca enaltece ese acervo.

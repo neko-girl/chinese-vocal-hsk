@@ -1,0 +1,67 @@
+id: 9
+hanzi: 分别
+pinyin: fēn bié
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: separately; respectively; to part; to distinguish; difference
+  es: por separado; respectivamente; despedirse; separarse; diferenciar; diferencia
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | separately; respectively; individually taking actions or itemizing components | por separado; respectivamente; de manera independiente | 分别处理 (handle separately)
+  2 | Verb | Standard | to part company; to separate from someone after being together | despedirse; separarse; apartarse tras una estancia común | 依依惜别 (reluctant to part)
+  3 | Noun | Standard | difference; distinction; disparity between two or more things | diferencia; distinción; disparidad | 没有很大分别 (no big difference)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 大学毕业典礼结束后，朝夕相处四年的同窗好友们含着热泪分别，奔赴天南海北打拼前程。 | Dàxué bìyè diǎnlǐ jiéshù hòu, zhāoxī-xiāngchǔ sì nián de tóngchuāng hǎoyǒu men hánzhe rèlèi fēnbié, bēnfù tiānnán-hǎiběi dǎpīn qiánchéng. | After the college commencement ceremony, classmates who had shared four years of daily life parted with warm tears to pursue careers across the country. | Tras la graduación universitaria, los entrañables compañeros que compartieron cuatro años se despidieron con lágrimas, partiendo a todos los rincones del país en pos de su porvenir.
+  #2 | 会议闭幕后，三个专业考察小组分别前往不同省份开展实地调研，以确保数据的全面真实。 | Huìyì bìmù hòu, sān gè zhuānyè kǎochá xiǎozǔ fēnbié qiánwǎng bùtóng shěngfèn kāizhǎn shídì diàoyán, yǐ quèbǎo shùjù de quánmiàn zhēnshí. | After the conference adjourned, three expert inspection teams went separately to different provinces to conduct fieldwork, ensuring comprehensive, authentic data. | Al clausurarse el congreso, tres comisiones técnicas partieron por separado hacia distintas provincias para realizar estudios de campo y recabar datos integrales.
+
+collocations[6]{hanzi,en}:
+  分别前往 | head separately towards
+  分别处理 | handle or process separately
+  依依分别 | part reluctantly with deep affection
+  长久分别 | long separation
+  细微分别 | subtle difference; slight distinction
+  分别调查 | investigate separately
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  分别部居 | fēn bié bù jū | categorize and arrange orderly in distinct groups
+  判若两人 | pàn ruò liǎng rén | become an entirely different person; marked change
+  泾渭分明 | jīng wèi fēn míng | clearly distinct as the Jing and Wei rivers
+  各奔前程 | gè bèn qián chéng | each goes their separate way to pursue their future
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  分 | fēn | divide; separate; minute; fraction | dividir; separar; minuto | 刀 | knife / sword | 刀 (knife, divider) | 八 (bā, divide into two) | 4 | 上下结构 | Ancient pictogram showing a sharp knife 刀 cutting something in half into two parts 八, signifying partition. | A sharp blade (刀) cleanly slices an item into two separate sections (八), causing them to divide (分). | Una hoja afilada (刀) hiende un objeto en dos mitades (八), dividiéndolo con exactitud (分). | 55 | CSH | 
+  别 | bié | depart; other; do not; distinguish | despedirse; otro; no; distinguir | 刂 | knife / cut | 刂 (knife, cleaving) | 另 (lìng, another / separate bone) | 7 | 左右结构 | Ancient pictogram depicting a knife 刂 dismembering or cleaving bones 另, representing parting of connected entities. | Cleaving a bond with a knife (刂) forces friends into separate paths, leaving them to part (别). | Un filo cortante (刂) disgrega las partes unidas (另), marcando una despedida y divergencia de caminos (别). | 35 | RSHI | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Cutting into distinct parts with a blade (分) and going separate divergent ways (别) captures both parting in life and acting separately (分别).
+  composite_memory_hook_es: Dividir con filo cortante (分) y tomar caminos distintos (别) resume tanto la despedida como obrar por separado (分别).
+  cultural_and_cognitive_roots: In ancient Chinese poetic aesthetics, 分别 carries profound emotional resonance for the sorrow of parting (离别, 惜别) across vast geographical distances. In logical discourse, it serves as the essential cognitive function of differentiation and respective assignment.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by rising 2nd tone: 'fēn bié' (55-35). Start with a level high pitch before sweeping smoothly upward.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    八 | bā | eight | Lacks the knife 刀 at the bottom
+    刃 | rèn | knife blade | Has a dot marking the blade of 刀
+    拐 | guǎi | turn; limp; abduct | Has hand radical 扌 next to 另
+    别 | bié | depart; other | Has 另 on left and 刂 on right
+    制 | zhì | make; manufacture; system | Has 牛 and 巾 next to 刂 instead of 另
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    份 | fèn | portion; share; part
+    粉 | fěn | powder; noodle; pink
+    吩 | fēn | instruct; command
+    另 | lìng | another; other; separate
+    拐 | guǎi | turn; deviate; limp
+
+semantic_boundary_contrasts:
+  core_nuance: 分别 serves as an adverb for doing tasks respectively/separately, and as a verb for emotionally parting company.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 分别 vs. 各自 | gèzì | 分别 emphasizes acting separately or itemizing two or more specific targets (分别向A和B汇报), whereas 各自 emphasizes individual subjectivity or each party minding their own affairs (各自回家).
+    2 | 分别 vs. 区别 | qūbié | 分别 can function as a verb for parting or an adverb for separately, whereas 区别 is purely a noun or verb for distinguishing differences between concepts (两者的区别).
+    3 | 分别 vs. 告别 | gàobié | 分别 emphasizes the mutual separation of paths (同窗分别), while 告别 emphasizes the explicit formal ceremony or action of bidding farewell (举行告别仪式).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 人生的大部分时光，都在相聚与分别中悄然流逝。昔日的同窗挚友如今分别在各自的岗位上拼搏，虽关山阻隔、音讯渐稀，但每当夜深人静想起那段青春岁月，心底依然洋溢着温暖与感动。 | Rénshēng de dàbùfen shíguāng, dōu zài xiāngjù yǔ fēnbié zhōng qiǎorán liúshì. Xīrì de tóngchuāng zhìyǒu rújīn fēnbié zài gèzì de gǎngwèi shàng pīnbó, suī guānshān zǔgé, yīnxùn jiàn xī, dàn měidāng yèshēn-rénjìng xiǎngqǐ nà duàn qīngchūn suìyuè, xīndǐ yīrán yángyì zhe wēnnuǎn yǔ gǎndòng. | Most of life's hours flow silently between reunions and partings. Close companions of bygone school days are now striving respectively at their own posts; though separated by mountains, memories of those youthful years still stir deep warmth. | El curso de la vida discurre entre encuentros y despedidas. Los entrañables amigos de antaño batallan hoy por separado en sus propios destinos; pese a la distancia, el recuerdo de aquella dorada juventud sigue inundando el corazón de gratitud.
+  #2 | 在统筹区域经济协同发展的进程中，各城市群应当根据自身的资源禀赋分别制定差异化产业政策。避免同质化恶性竞争，在分工协作中实现优势互补，是推动经济高质量发展的必由之路。 | Zài tǒngchóu qūyù jīngjì xiétóng fāzhǎn de jìnchéng zhōng, gè chéngshìqún yīngdāng gēnjù zìshēn de zīyuán bǐngfù fēnbié zhìdìng chāyìhuà chǎnyè zhèngcè. Bìmǐan tóngzhìhuà èxìng jìngzhēng, zài fēngōng xiézuò zhōng shíxiàn yōushì hùbǔ, shì tuīdòng jīngjì gāozhìliàng fāzhǎn de bìyóuzhīlù. | In coordinating regional economic synergy, urban agglomerations must formulate differentiated industrial policies respectively based on their resources. Avoiding homogenous rivalry and achieving complementary advantages is essential for high-quality growth. | Al coordinar el desarrollo económico regional, cada conurbación urbana ha de trazar respectivamente políticas industriales acordes con sus recursos propios. Evitar pugnas homogéneas y sumar ventajas mediante la colaboración es senda inexcusable hacia el progreso cualitativo.

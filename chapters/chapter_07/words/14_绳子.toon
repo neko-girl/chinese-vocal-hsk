@@ -1,0 +1,65 @@
+id: 14
+hanzi: 绳子
+pinyin: shéng zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: rope; cord; string; twine; cordage
+  es: cuerda; soga; cordel; maroma; lazo de cáñamo o fibra
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a strong, thick cord made by twisting together strands of hemp, sisal, nylon, or other fibers | cuerda resistente fabricada retorciendo filamentos de cáñamo, nailon u otras fibras | 系紧绳子 (tie the rope tightly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 登山队员将坚固的绳子牢牢系在崖壁的岩石扣上，确保下撤过程万无一失。 | Dēngshān duìyuán jiāng jiāngù de shéngzi láoláo jì zài yábì de yánshí kòu shàng, quèbǎo xiàchè guòchéng wànwú-yìshī. | The mountaineer tied the sturdy rope securely to the rock carabiner on the cliff face, ensuring flawless safety during the descent. | El alpinista aseguró la recia cuerda al mosquetón de roca en la pared del risco, garantizando la máxima seguridad durante el descenso.
+  #2 | 摸到象尾巴的盲人断言大象不过是一根绳子，这种各执一词的武断正是狭隘认知的真实写照。 | Mōdào xiàng wěiba de mángrén duànyán dàxiàng búguò shì yì gēn shéngzi, zhè zhǒng gèzhíyìcí de wǔduàn zhèng shì xiá'ài rènzhī de zhēnshí xièzhào. | The blind man who touched the elephant's tail asserted an elephant was merely a rope; such dogmatic insistence is a true portrait of narrow cognition. | El ciego que palpó la cola del paquidermo afirmó que el elefante no era más que una soga; tal terquedad dogmática retrata fielmente las limitaciones de la mente estrecha.
+
+collocations[6]{hanzi,en}:
+  一根绳子 | a rope (classifier: 根)
+  系紧绳子 | tie a rope tightly
+  解开绳子 | untie or loosen a rope
+  拉动绳子 | pull a rope
+  粗麻绳子 | thick hemp rope
+  跳绳子 | skip rope; jump rope
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  绳锯木断 | shéng jù mù duàn | rope saws through wood with persistent friction; perseverance wins
+  规绳矩墨 | guī shéng jǔ mò | compass, rope, carpenter's square and chalk line; strict standards
+  结绳记事 | jié shéng jì shì | tie knots in cords to record events (ancient mnemonic practice)
+  绳之以法 | shéng zhī yǐ fǎ | restrain by law; bring a criminal to justice
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  绳 | shéng | rope; cord; restrain; standard | cuerda; soga; normar | 纟 | silk / thread | 纟 (silk thread, twisted cordage) | 黾 (mǐn, toad / water frog) | 11 | 左右结构 | Phono-semantic compound: twisted silk threads 纟 combined with 黾, portraying thick cordage braided like sinuous amphibians. | Strands of strong woven silk (纟) braided with the tenacity of a water toad (黾) form an unbreakable rope (绳). | Hebras de seda resistente (纟) trenzadas con la tenacidad de un anfibio (黾) forjan una recia soga (绳). | 35 | VMRXU | 繩
+  子 | zi | child; son; noun suffix | hijo; niño; sufijo nominal | 子 | child / son | 子 (swaddled baby waving arms) | "" | 3 | 单一结构 | Ancient oracle bone pictogram of an infant waving arms with swaddled legs. Used universally as a nominalizing noun suffix. | An energetic young baby (子) waves its tiny arms happily above its swaddling blanket. | Un infante despierto (子) mueve los bracitos con alegría sobre su pañal de abrigo. | 214 | ND | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Twisted strands of durable fiber (绳) form the everyday household cord and rope (绳子).
+  composite_memory_hook_es: Hebras de fibra trenzadas con firmeza (绳) forman la soga o cuerda cotidiana (绳子).
+  cultural_and_cognitive_roots: In ancient Chinese civilization prior to written characters, 结绳记事 (knotting cords to record transactions) was the primal mnemonic system. In carpentry, the ink-marker rope (墨绳) symbolized unbending moral standards and legal restraint (绳之以法).
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by neutral tone: 'shéng zi' (35-neutral). Rise smoothly on 'shéng' and pronounce 'zi' with a light, clipped release.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    蝇 | yíng | housefly | Has insect radical 虫 on the left instead of 纟
+    渑 | miǎn | name of river/lake | Has water radical 氵 on the left instead of 纟
+    绝 | jué | cut off; severed | Has 色 on the right instead of 黾
+    经 | jīng | pass through; scripture | Has 𢀖 on the right instead of 黾
+    线 | xiàn | line; thread; wire | Has 戋 on the right instead of 黾
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    蝇 | yíng | housefly (苍蝇)
+    绳 | shéng | rope; cord
+    黾 | mǐn | strive; frog/toad
+    缆 | lǎn | thick cable; hawser
+    索 | suǒ | thick cable; seek
+
+semantic_boundary_contrasts:
+  core_nuance: 绳子 is the standard everyday noun for cord or rope made of braided fibers.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 绳子 vs. 线 | xiàn | 绳子 refers to thick, load-bearing braided ropes or cords, whereas 线 denotes thin, fine sewing thread, string, or electrical wire (缝衣线, 电线).
+    2 | 绳子 vs. 缆绳 | lǎnshéng | 绳子 is generic and everyday, while 缆绳 refers specifically to heavy-duty industrial or maritime steel cables and mooring hawsers.
+    3 | 绳子 vs. 绳索 | shéngsuǒ | 绳子 is colloquial and common (跳绳子, 绑绳子), while 绳索 is formal, technical, and literary, frequently used in mountaineering and rescue reports.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 一根看似平凡的绳子，在劳动者的手中却能化作连接重物与希望的纽带。无论是在崇山峻岭间攀援，还是在田间地头捆扎丰收的麦穗，结实的绳子始终默默承受着巨大的拉力，见证着人类勤劳质朴的岁月。 | Yì gēn kànsì píngfán de shéngzi, zài láodòngzhě de shǒuzhōng què néng huàzuò liánjiē zhòngwù yǔ xīwàng de niǔdài. Wúlùn shì zài chóngshān-jùnlǐng jiān pānyuán, háishì zài tiánjiān-dìtóu kǔnzā fēngshōu de màisuì, jiēshi de shéngzi shǐzhōng mòmò chéngshòu zhe jùdà de lālì, jiànzhèng zhe rénlèi qínláo zhìpǔ de suìyuè. | A seemingly ordinary rope in the hands of laborers transforms into a bond linking heavy burdens and hope. Whether ascending rugged peaks or bundling golden wheat in autumn fields, the sturdy rope silently bears immense tension, witnessing human diligence. | Una cuerda en apariencia modesta se convierte en manos de los trabajadores en lazo de esperanza y esfuerzo. Ya sea trepando riscos escarpados o atando gavillas doradas de trigo, la recia soga resiste en silencio la tensión, dando fe del fecundo quehacer humano.
+  #2 | “绳锯木断，水滴石穿”，这句古老的格言借由柔软的绳子能锯断坚硬木料的自然现象，阐明了持之以恒的深刻哲理。只要锚定目标并日积月累地付出心血，哪怕微不足道的力量也能创造出令人惊叹的奇迹。 | 'Shéng jù mù duàn, shuǐ dī shí chuān', zhè jù gǔlǎo de gèyán jièyóu róuruǎn de shéngzi néng jùduàn jiānyìng mùliào de zìrán xiànxiàng, chǎnmíng le chízhīyǐhéng de shēnkè zhélǐ. Zhǐyào máodìng mùbiāo bìng rìjī-yuèlěi de fùchū xīnxuè, nǎpà wēibùzúdào de lìliàng yě néng chuàngzào chū lìngrén jīngtàn de qíjì. | 'A rope saws through wood and dripping water penetrates stone'—this ancient proverb utilizes the phenomenon of soft cords sawing timber to demonstrate the power of perseverance. Anchoring goals and exerting continuous effort transforms minuscule forces into miracles. | 'La cuerda corta el madero y la gota horada la piedra': esta sabia máxima se vale de la soga para ilustrar el poder de la perseverancia. Fijando un rumbo y aunando desvelos día tras día, las fuerzas en apariencia insignificantes acaban engendrando admirables portentos.

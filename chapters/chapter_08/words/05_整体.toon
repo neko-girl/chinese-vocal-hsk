@@ -1,0 +1,65 @@
+id: 5
+hanzi: 整体
+pinyin: zhěng tǐ
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: whole; entirety; totality; holistic entity; integrated macrocosm
+  es: todo; totalidad; conjunto; entidad integral; macrocosmos
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a comprehensive whole consisting of interdependent parts; totality as opposed to isolated parts | totalidad orgánica integrada por partes interdependientes; conjunto global | 整体考虑 (consider as a whole)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 成语的深层含义往往是一个有机的整体，学习者不能仅仅停留在字面含义的简单相加，而要结合历史语境去体会。 | Chéngyǔ de shēncéng hányì wǎngwǎng shì yí gè yǒujī de zhěngtǐ, xuéxízhě bùnéng jǐnjǐn tíngliú zài zìmiàn hányì de jiǎndān xiāngjiā, ér yào jiéhé lìshǐ yǔjìng qù tǐhuì. | An idiom's deep meaning is an organic whole; learners cannot simply add up literal meanings, but must intuit them through historical context. | El sentido profundo de un modismo constituye una totalidad orgánica; el estudiante no debe sumar los significados literales, sino captarlo en su contexto histórico.
+  #2 | 在制定城市更新规划时，设计师必须将生态保护与老街区的人文风貌作为一个不可分割的整体通盘考虑。 | Zài zhìdìng chéngshì gēngxīn guīhuà shí, shèjìshī bìxū jiāng shēngtài bǎohù yǔ lǎojiēqū de rénwén fēngmào zuòwéi yí gè bùkě-fēngē de zhěngtǐ tōngpán kǎolǜ. | In urban renewal planning, architects must consider ecological preservation and historic heritage as an indivisible integrated whole. | Al planificar la remodelación urbana, los arquitectos deben contemplar la ecología y el patrimonio histórico como un todo indisoluble.
+
+collocations[6]{hanzi,en}:
+  整体利益 | overall or collective interest
+  整体考虑 | consider holistically as a whole
+  有机整体 | organic whole; integrated entity
+  整体规划 | master or holistic planning
+  从整体上看 | viewed as a whole; from a macro perspective
+  提升整体素质 | improve overall quality
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  浑然一体 | hún rán yì tǐ | integrated into a harmonious whole; seamless unity
+  大局为重 | dà jú wéi zhòng | take the overarching situation as paramount
+  统筹兼顾 | tǒng chóu jiān gù | plan holistically and take all factors into consideration
+  以偏概全 | yǐ piān gài quán | generalize the whole from an isolated part
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  整 | zhěng | whole; complete; orderly; repair | entero; completo; ordenar; arreglar | 攵 | tap / action | 敕 (chì, imperial order / discipline) | 正 (zhèng, upright / correct) | 16 | 上下结构 | Ideogram combining upright 正, discipline 敕, and binding ties, meaning disciplining and arranging all components into complete order. | Disciplining and arranging all items with precision action (攵) to keep them upright (正) creates complete order (整). | Ordenar con pulso disciplinado (攵) las piezas para que queden rectas (正) forja un conjunto cabal (整). | 214 | KTOEK | 
+  体 | tǐ | body; form; system; style | cuerpo; forma; sistema; estilo | 亻 | human / person | 亻 (human figure) | 本 (běn, root / trunk / foundation) | 7 | 左右结构 | Simplified from 體 (bones 骨 arranged into ritual vessels 豊). Person 亻 rooted to their foundational trunk 本 forms the body. | A human being (亻) rooted firmly to their biological trunk and foundation (本) possesses an organic body (体). | Un ser humano (亻) enraizado firmemente en su tronco vital (本) da forma a su cuerpo orgánico (体). | 214 | ODM | 體
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When every part is arranged in perfect, complete order (整) within a single living body (体), it forms an organic whole (整体).
+  composite_memory_hook_es: Cuando cada elemento se ordena con pulcritud (整) dentro de un solo cuerpo vivo (体), cobra vida la totalidad (整体).
+  cultural_and_cognitive_roots: In traditional Chinese cosmology (天人合一), the universe is not a collection of isolated atoms but an indivisible holistic body (有机整体). In classical medicine (中医学), bodily illness is treated not by local excision alone, but through balancing the whole systemic organism (整体观念).
+  tone_sandhi_and_pitch_modulation: Dual dipping 3rd tones: 'zhěng tǐ'. Under standard Mandarin tone sandhi, the first 3rd tone changes to rising 2nd tone: 'zhéng tǐ' (35-214).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    敕 | chì | imperial decree | Lacks the bottom 正 structure of 整
+    休 | xiū | rest; stop | Has 木 on the right instead of 本
+    本 | běn | root; book; basis | Lacks person radical 亻 on the left
+    笨 | bèn | clumsy; stupid | Has bamboo radical 竹 on top of 本
+    钵 | bō | monk's alms bowl | Has metal radical 钅 on the left of 本
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    正 | zhèng | upright; correct; rectify
+    政 | zhèng | politics; administration
+    整 | zhěng | neat; tidy; entire; repair
+    体 | tǐ | body; form; system
+    本 | běn | origin; root; foundation
+
+semantic_boundary_contrasts:
+  core_nuance: 整体 denotes an integrated macrocosm where individual components are organically synthesized into a higher unit.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 整体 vs. 全部 | quánbù | 全部 refers simply to the full quantitative sum or entirety of items (全部人员), whereas 整体 emphasizes qualitative, systemic synergy among components (有机整体).
+    2 | 整体 vs. 局部 | júbù | Direct antonym: 整体 is the comprehensive macroscopic whole, while 局部 refers to an isolated, localized section or subsystem.
+    3 | 整体 vs. 全体 | quántǐ | 全体 typically modifies groups of living human members (全体员工, 全体人民), while 整体 is broader and philosophical, modifying abstract concepts, plans, and structures.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 欣赏一幅传世的宋代山水画，不能只将目光局限于某一块山石或几株苍松的笔墨，而要用心领会画面整体的气韵与留白。那虚实相生、远近相衬的布局，使整幅画作浑然一体，传递出古人对天地大美的崇高敬畏。 | Xīnshǎng yì fú chuánshì de Sòngdài shānshuǐhuà, bùnéng zhǐ jiāng mùguāng júxiàn yú mǒu yí kuài shānshí huò jǐ zhū cāngsōng de bǐmò, ér yào yòngxīn lǐnghuì huàmiàn zhěngtǐ de qìyùn yǔ liúbái. Nà xūshí-xiāngshēng, yuǎnjìn-xiāngchèn de bùjú, shǐ zhěng fú huàzuò húnrán-yìtǐ, chuándì chū gǔrén duì tiāndì dàměi de chónggāo jìngwèi. | Savoring Song landscapes, one cannot restrict vision to isolated rocks or pine strokes; one must perceive the whole rhythm and negative space. Interplay of presence and void unites the painting into a seamless whole, echoing reverence for cosmic beauty. | Al contemplar un paisaje de la dinastía Song, la mirada no debe limitarse a un risco o a un pino aislado, sino abarcar la armonía y los vacíos del conjunto. El juego de luces y sombras confiere unidad a la obra, revelando la devoción de los antiguos ante el cosmos.
+  #2 | 在统筹推进生态文明建设的伟大实践中，我们必须牢固树立山水林田湖草沙是生命共同体的整体系统观念。唯有遵循自然生态各要素之间的内在循环规律，坚持全方位、全地域、全过程的整体保护，才能筑牢国家永续发展的生态安全屏障。 | Zài tǒngchóu tuījìn shēngtài wénmíng jiànshè de wěidà shíjiàn zhōng, wǒmen bìxū láogù shùlì shān shuǐ lín tián hú cǎo shā shì shēngmìng gòngtóngtǐ de zhěngtǐ xìtǒng guānniàn. Wéiyǒu zūnxún zìrán shēngtài gè yàosù zhījiān de nèizài xúnhuán guīlǜ, jiānchí quánfāngwèi, quán-dìyù, quán-guòchéng de zhěngtǐ bǎohù, cáinéng zhùláo guójiā yǒngxù fāzhǎn de shēngtài ānquán píngzhàng. | In advancing ecological civilization, we must maintain a holistic view that mountains, waters, forests, and lakes form an integrated community of life. Adhering to systemic preservation alone erects lasting ecological barriers. | Al consolidar la civilización ecológica, es imperativo concebir montañas, aguas, bosques y praderas como un organismo vivo indisociable. Solo acatando las leyes de los ecosistemas y preservando el conjunto se levantará un escudo de desarrollo sostenible.

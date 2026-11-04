@@ -1,0 +1,65 @@
+id: 5
+hanzi: 大象
+pinyin: dà xiàng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: elephant; large herbivorous pachyderm mammal
+  es: elefante; gran mamífero paquidermo herbívoro de trompa prensil
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a huge four-legged herbivorous mammal with a long flexible trunk, prominent tusks, and thick skin, native to Africa and Asia | mamífero terrestre de gran corpulencia, piel gruesa, grandes orejas y larga trompa móvil, propio de Asia y África | 一头大象 (an elephant)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在云南热带雨林保护区，一群野生大象悠闲地漫步在河边饮水嬉戏，引来无数观光客驻足。 | Zài Yúnnán rèdài yǔlín bǎohùqū, yì qún yěshēng dàxiàng yōuxián de mànbù zài hébiān yǐnshuǐ xīxì, yǐnlái wúshù guānguāngkè zhùzú. | In the Yunnan rainforest reserve, a herd of wild elephants leisurely ambled by the river drinking and splashing, drawing countless visitors to halt and watch. | En la reserva de la selva tropical de Yunnan, una manada de elefantes salvajes paseaba plácidamente junto al río bebiendo y retozando, atrayendo las miradas de los turistas.
+  #2 | 大象具有高度发达的情感与群体记忆力，它们彼此照顾、尊重年长者的社交习性令人赞叹不已。 | Dàxiàng jùyǒu gāodù fādá de qínggǎn yǔ qúntǐ jìyìlì, tāmen bǐcǐ zhàogù, zūnzhòng niánzhǎngzhě de shèjiāo xíxìng lìng rén zàntàn bùyǐ. | Elephants possess highly developed emotional capacities and collective memories; their social habits of mutually caring and honoring matriarchs are truly marvelous. | Los elefantes poseen un extraordinario desarrollo emocional y una viva memoria colectiva; sus hábitos sociales de protegerse entre sí y acatar a los ancianos suscitan honda admiración.
+
+collocations[6]{hanzi,en}:
+  一头大象 | an elephant (classifier: 头)
+  野生大象 | wild elephant
+  大象鼻子 | elephant's trunk
+  大象牙齿 | elephant's tusks; ivory
+  大象表演 | elephant performance
+  盲人摸象 | blind men feeling an elephant
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  盲人摸象 | máng rén mō xiàng | blind men feeling an elephant; taking a partial view for the whole
+  庞然大物 | páng rán dà wù | a colossal object; a formidable giant beast
+  包罗万象 | bāo luó wàn xiàng | embrace all phenomena; all-inclusive
+  象牙之塔 | xiàng yá zhī tǎ | ivory tower; secluded sanctuary of academic life
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  大 | dà | big; great; huge; massive | grande; enorme; inmenso | 大 | big / great | 大 (human spreading arms and legs wide) | "" | 3 | 单一结构 | Pictogram of an adult human spreading arms and legs as wide as possible to signify immense scale. | A human stretches arms and legs outward across the sky to show just how big (大) the world can be. | Un ser humano extiende los brazos y piernas abiertos de par en par para abarcar la mayor grandeza (大). | 51 | K | 
+  象 | xiàng | elephant; appearance; shape; image | elefante; figura; apariencia; imagen | 豕 | pig / boar | 象 (long trunk, large ears, four legs, tail) | "" | 11 | 上下结构 | Ancient oracle bone pictogram depicting a live elephant with an elongated trunk, large head, tusks, and sturdy torso. | Look at the curling upper trunk (⺈), mouth, heavy body (豕), and tail of an enormous wild elephant (象). | La silueta arcaica muestra la trompa curvada en lo alto (⺈), el lomo robusto (豕) y la zanca del elefante (象). | 51 | NAP | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An elephant is the greatest and biggest (大) living land beast, presenting an imposing, unforgettable bodily appearance (象) as the elephant (大象).
+  composite_memory_hook_es: El elefante es la criatura terrestre más grande (大) cuya imponente silueta corporal (象) define al colosal elefante (大象).
+  cultural_and_cognitive_roots: The character 象 is one of China's most ancient pictograms. In antiquity, wild elephants roamed the Yellow River basin (Henan's ancient abbreviation is 豫, showing a human leading an elephant). Because living elephants later became rare in northern China, people reconstructed their shape from tusks, so 象 expanded semantically from 'elephant' to 'mental image, symbol, phenomenon' (气象, 形象, 想象).
+  tone_sandhi_and_pitch_modulation: Dual falling 4th tones: 'dà xiàng' (51-51). The first 4th tone starts high and drops decisively, followed immediately by a crisp, emphatic second falling contour.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    像 | xiàng | resemble; portrait; like | Has person radical 亻 on the left
+    豫 | yù | comfortable; Henan province | Has 予 on the left instead of standalone 象
+    家 | jiā | home; family | Has roof 宀 with pig 豕 below without the trunk hook
+    豪 | háo | heroic; grand | Has 亠 and 口 at top instead of elephant's trunk
+    聚 | jù | gather; assemble | Has 耳 (ear) and 又 (hand) with 豕 below
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    像 | xiàng | likeness; image; portrait
+    相 | xiàng | appearance; phase; countenance
+    橡 | xiàng | oak; rubber tree
+    豫 | yù | relaxed; Henan (leading an elephant)
+    象 | xiàng | astrological phenomenon; sign
+
+semantic_boundary_contrasts:
+  core_nuance: 大象 refers specifically to the zoological biological animal, while 象 alone often acts as an abstract root for image, form, or manifestation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 大象 vs. 象 | xiàng | 大象 is the concrete zoological noun for the living animal, whereas 象 alone is polysemous in compound words, often meaning image, symbol, phenomenon, or likeness (现象, 气象, 意象).
+    2 | 大象 vs. 巨兽 | jùshòu | 大象 identifies the specific proboscidean species, whereas 巨兽 is a literary or mythological term describing any mammoth prehistoric or predatory monster.
+    3 | 大象 vs. 野兽 | yěshòu | 大象 describes a gentle herbivore often domesticated in southern Asia, while 野兽 refers generally to untamed, ferocious beasts of prey.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 晨光穿透浓密的原始丛林，几头体型庞大的大象迈着从容稳健的步伐穿行在绿野之间。它们用修长的鼻子卷起青草，彼此发出低沉温和的鸣叫，与静谧的大自然共同谱写出动人心弦的和谐乐章。 | Chénguāng chuāntòu nóngmì de yuánshǐ cónglín, jǐ tóu tǐxíng pángdà de dàxiàng màizhe cóngróng wěnjiàn de bùfá chuānxíng zài lǜyě zhījiān. Tāmen yòng xiūcháng de bízi juǎnqǐ qīngcǎo, bǐcǐ fāchū dīchén wēnhé de míngjiào, yǔ jìngmì de dàzìrán gòngtóng pǔxiě chū dòngrén xīnxxián de héxié yuèzhāng. | Morning sunlight pierces dense primeval jungles as several colossal elephants tread through verdant clearings with composed, steady strides. Curling fresh foliage with long trunks and trading low gentle rumbles, they compose a moving symphony of harmony with serene nature. | La luz del alba cruza la selva virgen mientras varios elefantes colosales caminan con porte sereno por las praderas. Enrollando tierna hierba con sus largas trompas e intercambiando graves barritos, conciertan con la naturaleza un entrañable cántico de quietud y armonía.
+  #2 | 在亚洲传统生态文化中，大象不仅是森林生态系统的基石物种，更是吉祥与智慧的化身。保护野象的栖息环境与迁徙通道，不仅关乎生物多样性的维系，更生动体现了人与自然休戚与共的现代生态智慧。 | Zài Yàzhōu chuántǒng shēngtài wénhuà zhōng, dàxiàng bùjǐn shì sēnlín shēngtài xìtǒng de jīshí wùzhǒng, gèng shì jíxiáng yǔ zhìhuì de huàshēn. Bǎohù yěxiàng de qīxī huánjìng yǔ qiānxǐ tōngdào, bùjǐn guānhū shēngwù duōyàngxìng de wéixì, gèng shēngdòng tǐxiàn le rén yǔ zìrán xiūqī-yǔgòng de xiàndài shēngtài zhìhuì. | In traditional Asian ecological culture, elephants are not only keystone species of forest biomes, but also incarnations of auspiciousness and wisdom. Protecting their habitats and corridors preserves biodiversity and embodies the ecological wisdom of human-nature coexistence. | En la tradición ecológica asiática, los elefantes son tanto especies clave del ecosistema como emblemas de ventura y entendimiento. Preservar sus hábitats y sendas migratorias salvaguarda la biodiversidad y atestigua el noble compromiso de coexistir en armonía con el entorno natural.

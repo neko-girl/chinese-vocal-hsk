@@ -1,0 +1,65 @@
+id: 28
+hanzi: 支
+pinyin: zhī
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: measure word for long thin inflexible objects (arrows, pens, guns), songs, or military units; to support; branch
+  es: clasificador para objetos largos y rígidos (flechas, plumas, fusiles), canciones o tropas; sostener; rama
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | used to count slender, rigid, rod-like items such as arrows, pens, firearms, cigarettes, or candles | clasificador para objetos delgados y rígidos como flechas, bolígrafos, fusiles o velas | 一支箭 (an arrow)
+  2 | Measure Word | Standard | used to count musical melodies, songs, or organized military troop units | clasificador para composiciones musicales, canciones o contingentes militares | 一支军队 (an army)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广将军面不改色，沉着地从身后的箭袋中抽出一支白羽长箭，搭在弓弦上瞄准猛虎。 | Lǐ Guǎng jiāngjūn miànbùgǎisè, chénzhuó de cóng shēnhòu de jiàndài zhōng chōuchū yì zhī báiyǔ chángjiàn, dā zài gōngxián shàng miáozhǔn měnghǔ. | Without turning pale, General Li Guang calmly pulled a white-feathered long arrow from his quiver, nocked it, and aimed at the tiger. | Sereno y sin mudar el semblante, el general Li Guang extrajo del carcaj una flecha de plumas blancas, la colocó en la cuerda y apuntó a la fiera.
+  #2 | 音乐会上，小提琴演奏家深情地拉响了一支悠扬动听的古典名曲，引得台下观众如痴如醉。 | Yīnyuèhuì shàng, xiǎotíqín yǎnzòujiā shēnqíng de lāxiǎng le yì zhī yōuyáng dòngtīng de gǔdiǎn míngqǔ, yǐndé táixià guānzhòng rúchī-rúzuì. | At the concert, the violinist passionately performed a melodious classical piece, entrancing the audience below. | En el concierto, el virtuoso del violín interpretó con honda emoción una melodía clásica tan melodiosa que cautivó al auditorio.
+
+collocations[6]{hanzi,en}:
+  一支箭 | an arrow
+  一支笔 | a pen or brush
+  一支军队 | an army unit or detachment
+  一支乐曲 | a piece of music; a song
+  一支枪 | a rifle or gun
+  支吾其词 | speak evasively; hem and haw
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  独木难支 | dú mù nán zhī | a single log cannot prop up a falling roof; cannot manage alone
+  乐不可支 | lè bù kě zhī | overjoyed beyond control; overwhelmed with joy
+  支离破碎 | zhī lí pò suì | broken into pieces; fragmented and disrupted
+  强弩之末 | qiáng nǔ zhī mò | the dying momentum of an arrow shot from a strong crossbow
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  支 | zhī | branch; support; measure word | rama; sostener; clasificador | 支 | branch / hand holding | 又 (yòu, right hand holding branch) | 十 (bamboo bamboo shoot / branch) | 4 | 单一结构 | Ancient bronze pictogram of a right hand 又 holding a slender snapped bamboo branch 十, signifying support or counting items. | A firm hand (又) grasps a slender bamboo twig (十) to prop up a tent and count long rods (支). | Una mano diestra (又) sostiene una varilla delgada de bambú (十) para apuntalar y contar objetos finos (支). | 55 | JE | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A hand gripping a slender bamboo branch (支) props up structures and counts arrows and pens as a measure word (支).
+  composite_memory_hook_es: Una mano que empuña una varilla de bambú (支) apuntala estructuras y cuenta flechas y plumas como clasificador (支).
+  cultural_and_cognitive_roots: In ancient archery and tallying, bamboo arrows and divination reeds (筹策) were counted in bundles held in hand (支). Consequently, 支 evolved from 'hand grasping branch' into both a verb of support (支撑) and the specialized classifier for stiff slender implements and melodies.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'zhī' (55). Maintain a sustained, clean, ringing high pitch contour.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    只 | zhī / zhǐ | single; only; mw for animals | Has 口 at top instead of 十
+    及 | jí | reach; and; attain | Has a curving swoop across horizontal stroke
+    反 | fǎn | reverse; oppose; contrary | Has 厂 at top instead of 十
+    尺 | chǐ | foot rule; ruler | Has 尸 frame instead of 十
+    枝 | zhī | branch; bough | Has wood radical 木 next to 支
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    枝 | zhī | tree branch; twig; bough
+    肢 | zhī | limb of body (四肢)
+    技 | jì | skill; technique; craft
+    歧 | qí | divergent fork in road
+    翅 | chì | wing; fin; shark fin
+
+semantic_boundary_contrasts:
+  core_nuance: 支 is the precise measure word for rigid, slender, rod-like tools (arrows, pens, firearms) and musical pieces.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 支 vs. 根 | gēn | 支 classifies thin, rigid, manufactured instruments (一支箭, 一支笔, 一支枪), whereas 根 classifies flexible, fibrous, or natural slender items (一根绳子, 一根头发, 一根竹子).
+    2 | 支 vs. 把 | bǎ | 支 is for cylindrical slender tools, while 把 is for items featuring a grasping handle (一把刀, 一把扇子, 一把雨伞).
+    3 | 支 vs. 首 | shǒu | Both count music/poems, but 支 is often used for instrumental melodies or popular songs (一支歌), while 首 is formal for poetic stanzas and formal anthems (一首诗, 一首国歌).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 案头的一支斑竹毛笔，承载着数代文人墨客的幽微心事。蘸饱浓淡适宜的青墨，笔尖在宣纸上挥洒出崇山峻岭与流云飞瀑。这一支小小的毛笔，不仅记录着岁月的更迭，更传承着中华传统书画艺术的千古神韵。 | Àntóu de yì zhī bānzhú máobǐ, chéngzài zhe shù dài wénrén-mòkè de yōuwēi xīnshì. Zhànbǎo nóngdàn shìyí de qīngmò, bǐjiān zài xuānzhǐ shàng huīsǎ chū chóngshān-jùnlǐng yǔ liúyún-fēipù. Zhè yì zhī xiǎoxiǎo de máobǐ, bùjǐn jìlù zhe suìyuè de gēngdié, gèng chuánchéng zhe Zhōnghuá chuántǒng shūhuà yìshù de qiāngǔ shényùn. | A speckled bamboo brush on the desk cradles the nuanced musings of literati generations. Dipped in ink, its tip splashes craggy peaks and waterfalls across rice paper. This tiny brush records the passage of years and inherits calligraphy's timeless charm. | Una pluma de bambú sobre el escritorio custodia los desvelos de generaciones de letrados. Impregnada en tinta china, su punta traza riscos y cascadas sobre papel de arroz. Este modesto pincel perpetúa el alma imperecedera de la caligrafía clásica.
+  #2 | 在抗震救灾的生死关头，一支训练有素、装备精良的国家紧急救援队伍在第一时间抵达灾区核心地带。他们日夜奋战在废墟瓦砾之中，为抢救人民生命财产筑起一道坚不可摧的生命防线，谱写了英雄壮歌。 | Zài kàngzhèn-jiùzāi de shēngsǐ guāntóu, yì zhī xùnliàn-yǒusù, zhuāngbèi-jīngliáng de guójiā jǐnjí jiùyuán duìwù zài dì-yī shíjiān dǐdá zāiqū héxīn dìdài. Tāmen rìyè fènzhàn zài fèixū-wǎlì zhīzhōng, wèi qiǎngjiù rénmín shēngmìng cáichǎn zhùqǐ yí dào jiānbùkěcuī de shēngmìng fángxiàn, pǔxiě le yīngxióng zhuànggē. | At the life-or-death juncture of earthquake relief, a well-trained, well-equipped national emergency team arrived at the disaster core. Laboring day and night among ruins, they built an impregnable lifeline, composing a heroic anthem. | En la hora crítica del auxilio tras el sismo, un cuerpo de rescate nacional bien adiestrado y pertrechado arribó con presteza al epicentro. Bregando día y noche entre escombros, tendió un escudo salvador en defensa del pueblo, entonando una gesta heroica.

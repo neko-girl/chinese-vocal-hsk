@@ -1,0 +1,65 @@
+id: 26
+hanzi: 调皮
+pinyin: tiáo pí
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: mischievous; naughty; playful; tricky; insolent
+  es: travieso; pícaro; revoltoso; juguetón; desobediente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | showing a fondness for causing harmless trouble, playing tricks, or teasing playfully | que gusta de hacer travesuras, bromas o jugar con desenfado e indisciplina inocente | 调皮捣蛋 (play tricks / make mischief)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 那个调皮的小男孩悄悄把假蜘蛛藏进姐姐的书包里，想看看姐姐吓一跳的滑稽反应。 | Nàge tiáopí de xiǎo nánhái qiāoqiāo bǎ jiǎ zhīzhū cáng jìn jiějie de shūbāo lǐ, xiǎng kànkan jiějie xià yí tiào de huájī fǎnyìng. | That mischievous little boy quietly hid a fake spider in his elder sister's schoolbag to see her comical startled reaction. | Aquel chiquillo travieso escondió con sigilo una araña de plástico en la mochila de su hermana para reírse de su susto cómico.
+  #2 | 优秀的教育工作者从不简单把活泼好动的调皮孩子视作麻烦，而是善于因势利导，激发他们旺盛的好奇心与创造天赋。 | Yōuxiù de jiàoyù gōngzuòzhě cóngbù jiǎndān bǎ huópo hàodòng de tiáopí háizi shìzuò máfan, érshì shànyú yīnshì-lìdǎo, jīfā tāmen wàngshèng de hàoqíxīn yǔ chuàngzào tiānfù. | Outstanding educators never simply treat lively and mischievous children as troublemakers, but skillfully guide them to ignite curiosity and talent. | Los educadores excelentes jamás tachan de problemático al niño revoltoso, sino que encauzan su vivacidad para despertar su ingenio creador.
+
+collocations[6]{hanzi,en}:
+  调皮可爱 | mischievous and adorable; playfully cute
+  调皮捣蛋 | play pranks; make trouble playfully
+  神情调皮 | mischievous expression; playful look
+  调皮的孩子 | naughty child; playful kid
+  生性调皮 | naturally playful; mischievous by disposition
+  显得调皮 | appear playful; seem mischievous
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  刁钻古怪 | diāo zhuān gǔ guài | sly and eccentric; tricky and peculiar
+  捉弄他人 | zhuō nòng tā rén | play pranks on others; tease someone
+  耍小聪明 | shuǎ xiǎo cōng ming | play petty tricks; display shallow cleverness
+  任性妄为 | rèn xìng wàng wéi | act willfully and recklessly; indulge whim
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  调 | tiáo | harmonize; tune; tease | armonizar; afinar; entonar | 讠 | speech | 讠 (speech / words) | 周 (zhōu, complete / round) | 10 | 左右结构 | Simplified from 調. Phono-semantic character combining speech radical 讠 with phonetic 周, originally meaning to adjust harmonious speech or pitch. | Skillful words (讠) playfully tailored around (周) social expectations to tease or make fun become mischievous banter (调). | Palabras ingeniosas (讠) que dan vueltas con maña (周) para bromear o esquivar la disciplina definen la picardía (调). | 35 | IVBGR | 調
+  皮 | pí | skin; hide; leather; naughty | piel; cuero; cáscara; travieso | 皮 | skin / hide | 𠂆 (cliff / hand holding) | 又 (hand peeling) | 5 | 单一结构 | Ancient pictograph of a human hand 又 stripping the protective hide or skin 皮 from a game animal carcass. | A nimble hand (又) peeling back tough animal hide (皮) suggests tough-skinned, stubborn resistance to scolding (皮). | Una mano diestra (又) que arranca el pellejo de la res (皮) evoca el cuero curtido y la piel dura que no teme regañinas (皮). | 35 | DHE | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Playing with witty speech (调) with a thick, insolent hide indifferent to light scolding (皮) captures a mischievous child (调皮).
+  composite_memory_hook_es: Bromear con palabras de doble filo (调) teniendo la piel curtida y dura ante los regaños (皮) encarna al travieso (调皮).
+  cultural_and_cognitive_roots: In Chinese colloquial child-rearing culture, 'tiáopí' (调皮) carries an endearing, affectionate warmth (亲昵贬义褒用). A child described as 调皮 is seen as smart, spirited, and clever (机灵), contrasted with dull compliance.
+  tone_sandhi_and_pitch_modulation: Double rising 2nd tones: 'tiáo pí' (35-35). Sweep both syllables upward briskly with bright, upbeat intonation.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    稠 | chóu | thick; dense | Has cereal/grain radical 禾 instead of speech 讠
+    惆 | chóu | melancholic; sad | Has heart radical 忄 instead of speech 讠
+    波 | bō | wave; ripple | Has water radical 氵 on the left of 皮
+    破 | pò | broken; damaged | Has stone radical 石 on the left of 皮
+    披 | pī | drape over; wear | Has hand radical 扌 on the left of 皮
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    调 | tiáo | tune; harmonize; blend; tease
+    谐 | xié | harmonious; humorous
+    皮 | pí | skin; hide; leather; rubbery
+    肤 | fū | skin; superficial; shallow
+    顽 | wán | stubborn; playful; mischievous
+
+semantic_boundary_contrasts:
+  core_nuance: 调皮 describes lighthearted, lively mischief or playfulness, usually harmless and characteristic of children or pets.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 调皮 vs. 淘气 | táoqì | 调皮 emphasizes clever, tricky mischief or refusal to behave, while 淘气 emphasizes noisy, high-energy restlessness and active romping.
+    2 | 调皮 vs. 顽皮 | wánpí | 调皮 is affectionate and common in spoken Chinese, whereas 顽皮 is slightly more formal or traditional, sometimes indicating stubborn rebelliousness.
+    3 | 调皮 vs. 恶劣 | èliè | 调皮 is innocent and devoid of malice, while 恶劣 describes genuinely vile, harmful, or atrocious behavior.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 院子里的两只小花猫生性调皮，常常追着飘落的秋叶上蹿下跳。有时趁主人不注意，它们还会悄悄把桌上的毛线球扒拉下来，滚得满地都是，惹得主人哭笑不得。 | Yuànzi lǐ de liǎng zhī xiǎohuāmāo shēngxìng tiáopí, chángcháng zhuīzhe piāoluò de qiūyè shàngcuān-xiàtiào. Yǒushí chèn zhǔrén bú zhùyì, tāmen hái huì qiāoqiāo bǎ zhuōshàng de máoxiànqiú bāla xiàlái, gǔn de mǎndì dōushì, rě de zhǔrén kūxiào-bùdé. | The two playful kittens in the courtyard are naturally mischievous, constantly leaping after autumn leaves. Slipping past the owner, they paw yarn balls onto the floor, bringing helpless smiles. | Los dos gatitos del patio son pícaros por naturaleza y corretean tras las hojas secas. Al menor descuido bajan la madeja de lana de la mesa, rodándola por el suelo ante las risas del dueño.
+  #2 | 孩子在成长阶段的调皮好动，本质上是探索周围世界与释放蓬勃活力的天性表达。如果一味用严苛的戒尺压抑孩童的个性，反而可能扼杀其宝贵的想象力与独立思考的勇气。 | Háizi zài chéngzhǎng jiēduàn de tiáopí hàodòng, běnzhìshàng shì tànsuǒ zhōuwéi shìjiè yǔ shìfàng péngbó huólì de tiānxìng biǎodá. Rúguǒ yíwèi yòng yánkē de jièchǐ yāyì háitóng de gèxìng, fǎn'ér kěnéng èshā qí bǎoguì de xiǎngxiànglì yǔ dúlì sīkǎo de yǒngqì. | A child's mischief during growth is an innate expression of curiosity and vitality. Repressing this spirited nature with harsh rules risks stifling imagination and independent courage. | La inquietud traviesa en la infancia es la expresión genuina de la curiosidad y la vitalidad. Sofocar ese espíritu con rigores excesivos apaga la imaginación viva y la valentía del pensar propio.

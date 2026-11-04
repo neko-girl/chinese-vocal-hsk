@@ -1,0 +1,66 @@
+id: 38
+hanzi: 要不
+pinyin: yào bu
+level: HSK 5
+part_of_speech: Conjunction
+
+meanings_summary:
+  en: otherwise; or else; how about; what if; alternatively
+  es: si no; de lo contrario; qué tal si; qué te parece si; o bien
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Conjunction | Colloquial | introducing an alternative proposal or polite suggestion ("how about", "what if", "why don't we") | conjunción que formula una propuesta alternativa o sugerencia atenta ("¿qué tal si...?", "¿por qué no...?") | 要不咱们明天去 (how about we go tomorrow / what if we go tomorrow)
+  2 | Conjunction | Standard | indicating an adverse consequence if a condition is not met ("otherwise", "or else") | conjunción condicional adversativa que señala la consecuencia si no se cumple lo anterior ("si no", "de lo contrario") | 赶紧走，要不就晚了 (hurry up, otherwise we'll be late)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 天空阴沉沉的眼看就要下大雨了，要不我们改天再去郊外公园野餐吧。 | Tiānkōng yīnchénchén de yǎnkàn jiù yào xià dàyǔ le, yàobu wǒmen gǎitiān zài qù jiāowài gōngyuán yěcān ba. | The sky is gloomy and heavy rain looks imminent; how about we reschedule our suburban picnic for another day? | El cielo está plomizo a punto de llover a cántaros; ¿qué tal si aplazamos el pícnic en el parque para otro día?
+  #2 | 遇到重大决策必须事先充分调研并广泛听取各方意见，要不盲目行动极有可能导致不可挽回的巨大损失。 | Yùdào zhòngdà juécè bìxū shìxiān chōngfèn diàoyán bìng guǎngfàn tīngqǔ gèfāng yìjiàn, yàobu mángmù xíngdòng jí yǒukěnéng dǎozhì bùkě-wǎnhuí de jùdà sǔnshī. | When facing major decisions one must investigate thoroughly and consult widely; otherwise, reckless action may incur irreversible losses. | Al tomar decisiones cruciales hay que investigar y recabar opiniones; de lo contrario, obrar a ciegas causará perjuicios irreparables.
+
+collocations[6]{hanzi,en}:
+  要不咱们走吧 | how about we get going
+  要不改天再谈 | why not talk another day; how about another time
+  要不就来不及了 | or else it will be too late
+  要不然 | otherwise; or else (variant form)
+  要不这样吧 | how about doing it this way
+  要不你去试试 | why don't you give it a try
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  退一步想 | tuì yí bù xiǎng | take a step back and think; reconsider calmly
+  两全其美 | liǎng quán qí měi | satisfy both sides; achieve a win-win outcome
+  未雨绸缪 | wèi yǔ chóu móu | mend roofs before rains; plan ahead for emergencies
+  防患未然 | fáng huàn wèi rán | nip trouble in the bud; prevent disaster before it occurs
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  要 | yào | want; need; important; if | querer; deber; precisar; esencial | 覀 | cover / west | 覀 (hands on waist) | 女 (woman's slender waist) | 9 | 上下结构 | Ancient pictograph of a slender woman 女 with two hands 覀 resting upon her waist (腰), metaphorically extended to the pivotal core or requirement. | Two hands grasping a slender waist (女) highlight the crucial pivotal center where decisions and wishes must be made (要). | Dos manos posadas sobre la cintura de una mujer (女) señalan el eje central sobre el que pivotan los deseos y las decisiones (要). | 51 | MWV | 
+  不 | bù | not; no; negative | no; negación; no ser | 一 | one / root stroke | 一 (barrier/line) | 𠀤 (calyx of flower) | 4 | 单一结构 | Ancient pictograph of a floral calyx before blooming, borrowed phonetically in classical antiquity as the primary negative particle. | A horizontal boundary stroke (一) denying passage across the strokes below produces the absolute negative (不). | Una línea horizontal superior (一) que veta el paso a los trazos inferiores emite una rotunda negación (不). | 51 | MF | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pivoting to what one wants (要) against what one does not (不) proposes alternative choices: 'otherwise' or 'how about' (要不).
+  composite_memory_hook_es: Sopesar lo que se quiere (要) frente a lo que no (不) plantea un dilema o una sugerencia amable: 'si no' o 'qué tal si' (要不).
+  cultural_and_cognitive_roots: In colloquial spoken Mandarin, 要不 exemplifies conversational politeness and consensual negotiation (委婉商量语气). Rather than bluntly vetoing a plan, Chinese speakers propose an alternative with 要不, preserving relational harmony and face (面子).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by neutral/light tone: 'yào bu' (51-neutral). Utter 'yào' with downward inflection and keep 'bu' light and buoyant.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    耍 | shuǎ | play; juggle; display | Top is 而 instead of 覀
+    票 | piào | ticket; ballot | Bottom is 示 instead of 女
+    栗 | lì | chestnut; fearful | Bottom is 木 instead of 女
+    丕 | pī | great; grand | Has 一 at bottom under 不
+    歪 | wāi | crooked; askew | Top is 不 and bottom is 正
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    要 | yào | want; need; demand; if
+    非 | fēi | non-; wrong; not
+    否 | fǒu | deny; negate; no
+    若 | ruò | if; seem; as
+    或 | huò | maybe; or; perhaps
+
+semantic_boundary_contrasts:
+  core_nuance: 要不 serves as an everyday oral connective offering an alternative proposal or stating consequences of inaction.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 要不 vs. 要不然 | yàobùrán | 要不 is more succinct and versatile in colloquial speech, while 要不然 is slightly longer and specifically highlights conditional adverse consequences ("or else").
+    2 | 要不 vs. 否则 | fǒuzé | 要不 is informal and friendly (often used to float suggestions: 要不我们去吃火锅？), while 否则 is formal and strictly signals a logical adverse result (必须准时，否则取消资格).
+    3 | 要不 vs. 或者 | huòzhě | 要不 presents an entire alternative clause or action proposal, whereas 或者 simply coordinates alternative nouns or verb phrases within a sentence.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 两人在山道岔路口徘徊了许久，天边的晚霞渐渐退去。看着陡峭崎岖的未知小径，向导擦了把汗提议道：“天黑下山太危险，要不咱们先在护林人的木屋歇一宿吧。” | Liǎng rén zài shāndào chàlùkǒu páihuái le xǔjiǔ, tiānbiān de wǎnxiá jiànjiàn tuìqù. Kànzhe dǒuqiào qíqū de wèizhī xiǎojìng, xiàngdǎo cā le bǎ hàn tíyì dào: "Tiān hēi xiàshān tài wēixiǎn, yàobu zánmen xiān zài hùlínrén de mùwū xiē yì xiǔ ba." | Lingering at the mountain trail fork as sunset faded, looking at steep paths, the guide wiped his brow: "Going down in the dark is perilous; how about we sleep at the cabin?" | Titubeando en la bifurcación al declinar el crepúsculo sobre la abrupta vereda, el guía se enjugó el sudor: "Bajar a oscuras entraña peligro; ¿qué tal si pernoctamos en la cabaña?".
+  #2 | 团队协作过程中难免出现意见分歧，倘若各自固执己见，合作势必陷入僵局。与其无休止地争吵，要不双方各退一步寻找折中方案，这才是富有建设性的沟通之道。 | Tuánduì xiézuò guòchéng zhōng nánmiǎn chūxiàn yìjiàn fēnqí, tǎngruò gèzì gùzhí-jǐjiàn, hézuò shìbì xiànrù jiāngjú. Yǔqí wúxiūzhǐ de zhēngchǎo, yàobu shuāngfāng gè tuì yí bù xúnzhǎo zhézhōng fāng'àn, zhè cáishì fùyǒu jiànshèxìng de gōutōng zhī dào. | In team collaboration, divergent opinions are inevitable; stubbornness deadlocks cooperation. Rather than endless quarrel, why not both take a step back for a compromise? | En el trabajo de equipo surgen discrepancias; la terquedad aboca al estancamiento. En vez de reñir sin fin, ¿por qué no ceder un paso en busca de un término medio constructivo?.

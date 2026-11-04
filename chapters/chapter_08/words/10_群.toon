@@ -1,0 +1,65 @@
+id: 10
+hanzi: 群
+pinyin: qún
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: group; crowd; flock; herd; pack; swarm; measure word for groups of people or animals
+  es: grupo; multitud; rebaño; manada; bandada; enjambre; clasificador de colectivos
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | used to count gatherings, assemblages, or collections of people, animals, birds, or flying insects | clasificador para cuantificar grupos, muchedumbres, rebaños o bandadas de seres vivos | 一群猴子 (a troop of monkeys)
+  2 | Noun | Standard | a collective flock, gathering, social crowd, or community of individuals | multitud, masa, congregación o comunidad de individuos | 群众 (the masses)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 傍晚时分，一大群归巢的水鸟从波光粼粼的湖面上空掠过，引得岸边散步的游人纷纷驻足拍照。 | Bàngwǎn shífēn, yí dà qún guīcháo de shuǐniǎo cóng bōguāng-línlín de húmiàn shàngkōng lüèguò, yǐndé ànbiān sànbù de yóurén fēnfēn zhùzú pāizhào. | At dusk, a large flock of returning waterbirds skimmed over the shimmering lake, drawing strolling tourists to halt and take photos. | Al anochecer, una gran bandada de aves acuáticas surcó el lago irisado de reflejos, tentando a los paseantes a detenerse y tomar fotos.
+  #2 | 寓言中的老人喂养了一大群猴子，猴群因为橡子数量由朝三暮四改为朝四暮三而欢呼雀跃，尽显众生盲从之相。 | Yùyán zhōng de lǎorén wèiyǎng le yí dà qún hóuzi, hóuqún yīnwèi xiàngzi shùliàng yóu zhāosān-mùsì gǎiwéi zhāosì-mùsān ér huānhū-quèyuè, jìnxiǎn zhòngshēng mángcóng zhī xiàng. | The elder in the fable reared a troop of monkeys; rejoicing over acorns shifted from morning-three to morning-four, the herd revealed blind herd mentality. | El anciano de la fábula criaba una manada de monos; al trocar las bellotas de tres matutinas a cuatro, los animales saltaron gozosos, mostrando la ceguera de la masa.
+
+collocations[6]{hanzi,en}:
+  一群人 | a crowd or group of people
+  一群羊 | a flock of sheep
+  一群鸟 | a flock of birds
+  一群猴子 | a troop of monkeys
+  人民群众 | the masses of people
+  群策群力 | pool collective wisdom and strength
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  群策群力 | qún cè qún lì | pool collective wisdom and efforts; concerted action
+  鹤立鸡群 | hè lì jī qún | like a crane standing among chickens; stand head and shoulders above
+  卓尔不群 | zhuó ěr bù qún | standing out brilliantly above the crowd; preeminent
+  群龙无首 | qún lóng wú shǒu | a herd of dragons without a leader; headless group
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  群 | qún | crowd; flock; herd; group | rebaño; grupo; multitud; manada | 羊 | sheep / goat | 羊 (grazing sheep flock) | 君 (jūn, sovereign ruler / shepherd / phonetic) | 13 | 左右结构 | Phono-semantic compound: sheep 羊 being herded together under the watchful command of a sovereign leader 君. | A wise ruler (君) guides a vast grazing flock of gentle sheep (羊) together into a peaceful group (群). | Un pastor noble (君) guía a su rebaño de mansas ovejas (羊) reuniéndolas en una comunidad o manada (群). | 35 | SRST | 羣
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A caring shepherd or sovereign (君) guiding a flock of gentle sheep (羊) keeps them united in a herd and group (群).
+  composite_memory_hook_es: Un pastor prudente (君) que conduce a su dócil rebaño de ovejas (羊) las reúne en manada (群).
+  cultural_and_cognitive_roots: In ancient pastoral society, sheep (羊) were gregarious herd animals that grazed collectively. Combining 羊 with 君 (shepherd/ruler) created 群, designating both biological herds and sociopolitical collectives (群众, 群体) requiring wise moral guidance.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'qún' (35). The voice glides cleanly upward from mid pitch to the high register.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    君 | jūn | sovereign; gentleman | Lacks the sheep radical 羊 on the right
+    裙 | qún | skirt; dress | Has clothing radical 衤 on the left next to 君
+    窘 | jiǒng | embarrassed; in straits | Has cave radical 穴 at top above 君
+    郡 | jùn | ancient administrative prefecture | Has city seal radical 阝 on the right of 君
+    祥 | xiáng | auspicious; lucky | Has altar 礻 next to 羊 instead of 君
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    裙 | qún | skirt; pleated petticoat
+    窘 | jiǒng | embarrassed; impoverished
+    君 | jūn | sovereign; gentleman; monarch
+    郡 | jùn | commandery; prefecture
+    羊 | yáng | sheep; goat; ram
+
+semantic_boundary_contrasts:
+  core_nuance: 群 is the universal collective classifier for living animate beings (humans, mammals, birds, fish) gathered in numbers.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 群 vs. 批 | pī | 群 classifies animate living creatures gathered together socially (一群人, 一群羊), whereas 批 classifies inanimate shipments, batches, or contingents handled collectively (一批货, 第一批学生).
+    2 | 群 vs. 堆 | duī | 群 is for living moving beings, while 堆 is for stationary heaps or piles of physical clutter (一堆石头, 一堆衣服).
+    3 | 群 vs. 队 | duì | 群 denotes an informal, spontaneous swarm or crowd, while 队 designates an organized, disciplined marching line or registered sports team (一支球队, 排队).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 广袤无垠的呼伦贝尔大草原上，成群的牛羊宛如朵朵白云，在碧绿的草浪间悠闲游弋。牧马人扬起长鞭，发出一声清脆嘹亮的呼哨，整群骏马便昂首奋蹄，在夕阳的余晖中奔腾如潮，激荡起辽阔天地间的壮美雄风。 | Guǎngmào-wúyín de Hūlúnbèi'ěr dà cǎoyuán shàng, chéngqún de niúyáng wǎnrú duǒduǒ báiyún, zài bìlǜ de cǎolàng jiān yōuxián yóuyì. Mùmǎrén yángqǐ chángbiān, fāchū yì shēng qīngcuì liáoliàng de hūshào, zhěng qún jùnmǎ biàn ángshǒu-fèntí, zài xīyáng de yúhuī zhōng bēnténg rú cháo, jīdàng qǐ liáokuò tiāndì jiān de zhuàngměi xióngfēng. | Across the boundless Hulunbuir grassland, herds of cattle and sheep drift like white clouds on green waves. The wrangler cracks his whip and whistles; wild horses gallop like a tidal surge in sunset rays, stirring the plains with majesty. | En la pradera sin fin de Hulunbuir, los rebaños semejan nubes blancas entre olas verdes. El jinete chasquea el látigo y lanza un silbido; la manada de corceles galopa hacia el ocaso como una marea, henchiendo la estepa de brío salvaje.
+  #2 | 在现代应急治理与大型公共活动保障中，防范高密度人群发生拥挤踩踏是城市公共安全的核心课题。通过部署智能化热力图监测系统，管理部门能够实时掌握人流动态密度，确保人民群众生命财产的绝对安全。 | Zài xiàndài yīngjí zhìlǐ yǔ dàxíng gōnggòng huódòng bǎozhàng zhōng, fángfàn gāomìdù rénqún fāshēng yōngjǐ cǎità shì chéngshì gōnggòng ānquán de héxīn kètí. Tōngguò bùshǔ zhìnénghuà rèlìtú jiāncè xìtǒng, guǎnlǐ bùmén nénggòu shíshí zhǎngwò rénliú dòngtài mìdù, quèbǎo rénmín qúnzhòng shēngmìng cáichǎn de juéduì ānquán. | In emergency governance of large public events, preventing crowd crushes in high-density gatherings is paramount. Deploying heat-map monitoring systems enables administrators to assess flow dynamics in real time, safeguarding public safety. | En la protección de concentraciones masivas, prevenir estampidas en aglomeraciones es prioridad urbana. Mediante mapas térmicos de densidad humana, las autoridades monitorizan el flujo en tiempo real, garantizando la seguridad ciudadana.

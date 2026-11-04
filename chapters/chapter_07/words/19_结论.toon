@@ -1,0 +1,65 @@
+id: 19
+hanzi: 结论
+pinyin: jié lùn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: conclusion; final verdict; outcome; logical deduction drawn from premises
+  es: conclusión; veredicto final; deducción lógica; dictamen razonado
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a final judgment, verdict, or deduction reached after reasoning, investigation, or experimentation | juicio final, dictamen o deducción razonada a la que se llega tras indagar, deliberar o investigar | 得出结论 (reach a conclusion)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过数月严密细致的对照实验，科研小组终于得出了令人信服的实验结论。 | Jīngguò shù yuè yánmì xìzhì de duìzhào shíyàn, kēyán xiǎozǔ zhōngyú déchū le lìngrén xìnfú de shíyàn jiélùn. | After months of rigorous and meticulous controlled trials, the research team finally reached a compelling experimental conclusion. | Tras meses de minuciosos y rigurosos ensayos de control, el equipo científico alcanzó al fin una conclusión experimental convincente.
+  #2 | 盲人们摸到大象身体的不同部位便匆忙下结论，结果谁的答案都不准确，这启示我们调查研究切不可仓促武断。 | Mángrénmen mōdào dàxiàng shēntǐ de bùtóng bùwèi biàn cōngmáng xià jiélùn, jiéguǒ shuí de dá'àn dōu bù zhǔnquè, zhè qǐshì wǒmen diàochá-yánjiū qiè bùkě cāngcù wǔduàn. | The blind men rushed to conclusions after touching different parts of the elephant, with none being accurate; this reminds us that investigations must never be hasty or dogmatic. | Los ciegos extrajeron conclusiones apresuradas tras palpar partes distintas del animal, errando todos; ello enseña que ninguna indagación debe ser precipitada ni dogmática.
+
+collocations[6]{hanzi,en}:
+  得出结论 | reach or draw a conclusion
+  下结论 | jump to or pass a conclusion
+  最终结论 | final conclusion; definitive verdict
+  科学结论 | scientific conclusion
+  过早下结论 | draw premature conclusions
+  验证结论 | verify or validate a conclusion
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  盖棺定论 | gài guān dìng lùn | pass final verdict on a person's life only after the coffin lid is sealed
+  盖棺论定 | gài guān lùn dìng | final judgment is made after death
+  不根之论 | bù gēn zhī lùn | groundless statement; unfounded opinion
+  长篇大论 | cháng piān dà lùn | long-winded speech or writing; lengthy harangue
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  结 | jié | tie knot; bind; crystallize; fruit | atar; anudar; fructificar; cuajar | 纟 | silk / thread | 纟 (silk thread, knotting cords) | 吉 (jí, auspicious / lucky) | 9 | 左右结构 | Phono-semantic compound: silk thread 纟 tied into an auspicious knot 吉, signifying sealing, binding, or bearing firm fruit. | Weaving strong silk threads (纟) into an auspicious, unbreakable knot (吉) binds the final outcome (结). | Trenzar hebras de seda (纟) en un lazo de buena ventura (吉) anuda y sella el resultado definitivo (结). | 35 | VMGR | 結
+  论 | lùn | discuss; discourse; theory; evaluate | discutir; opinar; teoría; tratado | 讠 | speech / words | 讠 (speech, verbal deliberation) | 仑 (lún, bamboo scrolls bound in logical order) | 6 | 左右结构 | Simplified from 論. Words 讠 deliberating upon bamboo tablets bound in orderly scrolls 仑, denoting reasoned discourse. | Articulating spoken words (讠) according to an organized scroll of logic (仑) produces rational discourse (论). | Pronunciar palabras (讠) ateniéndose a un rollo ordenado de argumentos (仑) da vida al razonamiento (论). | 51 | IVOP | 論
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Tying together all the loose threads (结) of a reasoned discourse (论) yields the final logical conclusion (结论).
+  composite_memory_hook_es: Atar los cabos sueltos (结) de una argumentación meditada (论) conduce a la conclusión final (结论).
+  cultural_and_cognitive_roots: In classical epistemology, 结 represents the solid knot tying together disparate threads of evidence, while 论 represents systematic discourse and debate. Hence 结论 is not an arbitrary opinion, but the bound fruit of exhaustive inquiry.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by falling 4th tone: 'jié lùn' (35-51). Lift the vocal pitch smoothly on 'jié' before a sharp, decisive downward strike on 'lùn'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    洁 | jié | clean; pure | Has water radical 氵 on the left instead of 纟
+    诘 | jié | interrogate; question | Has speech radical 讠 on the left instead of 纟
+    轮 | lún | wheel; turn; revolve | Has vehicle radical 车 on the left instead of 讠
+    伦 | lún | human relationship; ethics | Has person radical 亻 on the left instead of 讠
+    沦 | lún | sink; submerge; fall | Has water radical 氵 on the left instead of 讠
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    论 | lùn | discuss; discourse; theory
+    轮 | lún | wheel; revolve; round
+    伦 | lún | human relations; peer
+    沦 | lún | sink into; degenerate
+    纶 | lún | silk thread; green cord
+
+semantic_boundary_contrasts:
+  core_nuance: 结论 denotes a deductive finding or verdict arrived at after systematic inquiry or logical argumentation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 结论 vs. 结果 | jiéguǒ | 结论 is a rational intellectual judgment or deduction reached through analysis, whereas 结果 is the concrete physical or situational aftermath brought about by an event.
+    2 | 结论 vs. 决定 | juédìng | 结论 is a cognitive finding about truth or reality (what is true), whereas 决定 is an executive choice or commitment to future action (what to do).
+    3 | 结论 vs. 观点 | guāndiǎn | 结论 is the reasoned end-point of an investigation, while 观点 is an individual's ongoing perspective, stance, or viewpoint.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在探求真理的道路上，得出科学的结论从来都不是轻而易举的事。真正的智者懂得在证据不足时克制断言的冲动，以谦逊严谨的态度面对复杂事物。经得起历史检验的真知灼见，往往孕育在长久的审慎与求证之中。 | Zài tànqiú zhēnlǐ de dàolù shàng, déchū kēxué de jiélùn cónglái dōu bùshì qīng'éryǐjǔ de shì. Zhēnzhèng de zhìzhě dǒngdé zài zhèngjù bùzú shí kèzhì duànyán de chōngdòng, yǐ qiānxùn yánjǐn de tàidù miànduì fùzá shìwù. Jīngdeqǐ lìshǐ jiǎnyàn de zhēnzhī-zhuójiàn, wǎngwǎng yùnyù zài chángjiǔ de shěnshèn yǔ qiúzhèng zhīzhōng. | On the path of seeking truth, arriving at scientific conclusions is never trivial. True sages restrain the impulse to assert when evidence is incomplete, facing complexity with humility. Insight that weathers time is nurtured in prolonged prudence. | En la búsqueda de la verdad, alcanzar una conclusión científica jamás es tarea baladí. El auténtico sabio contiene el impulso de juzgar cuando faltan pruebas y afronta lo complejo con mesura. Las ideas que superan la prueba del tiempo se forjan en la paciente verificación.
+  #2 | 学术界关于历史事件的定论往往需要经历多代学者的反复考辨与实证补充。随着新出土文物的重见天日，以往看似无懈可击的历史结论有时会被修正，这恰恰展现了人文科学自我革新与无限逼近真相的严谨魅力。 | Xuéshùjiè guānyú lìshǐ shìjiàn de dìnglùn wǎngwǎng xūyào jīnglì duō dài xuézhě de fǎnfù kǎobiàn yǔ shízèng bǔchōng. Suízhe xīn chūtǔ wénwù de chóngjiàn-tiānrì, yǐwǎng kànsì wúxièkějī de lìshǐ jiélùn yǒushí huì bèi xiūzhèng, zhè qiàqià zhǎnxiàn le rénwén kēxué zìwǒ géxīn yǔ wúxiàn bījìn zhēnxiàng de yánjǐn mèilì. | Final academic verdicts on history demand generations of verification. As ununearthed artifacts see light, seemingly unassailable conclusions are revised, illustrating the rigorous charm of the humanities constantly drawing nearer to truth. | Los dictámenes historiográficos definitivos exigen generaciones de cotejo empírico. Al desenterrarse nuevos vestigios, conclusiones antaño incuestionables se revisan, revelando la admirable vocación de las humanidades de renovarse y aproximarse a la verdad objetiva.

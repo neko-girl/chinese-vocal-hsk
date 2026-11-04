@@ -1,0 +1,65 @@
+id: 41
+hanzi: 情景
+pinyin: qíng jǐng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: scene; sight; spectacle; circumstance; picture
+  es: escena; cuadro; panorama; espectáculo; circunstancia
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a concrete scene, unfolding situation, or memorable sight involving people, actions, and atmosphere | escena o cuadro visual concreto y vívido que involucra personas, acciones y ambiente emotivo | 感人情景 (touching scene / moving spectacle)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 站台上母子依依惜别的感人情景，让周围不少步履匆匆的旅客都忍不住放慢脚步，为之动容。 | Zhàntái shàng mǔzǐ yīyī-xībié de gǎnrén qíngjǐng, ràng zhōuwéi bùshǎo bùlǚ-cōngcōng de lǚkè dōu bǔrěnzhu fàngmàn jiǎobù, wéizhī dòngróng. | The touching scene of mother and son parting reluctantly on the platform prompted many hurried passengers to slow down, deeply moved. | La emotiva escena de madre e hijo despidiéndose en el andén conmovió a los viajeros presurosos, haciéndoles aminorar el paso con emoción.
+  #2 | 每次故地重游漫步于曾经求学的母校林荫道上，当年与同窗好友秉烛夜读、畅谈理想的情景便历历在目。 | Měicì gùdì-chóngyóu mànbù yú céngjīng qiúxué de mǔxiào línyīndào shàng, dāngnián yǔ tóngchuāng hǎoyǒu bǐngzhú-yèdú, chàngtán lǐxiǎng de qíngjǐng biàn lìlì-zàimù. | Whenever I revisit my alma mater's shaded avenues, scenes of studying late and discussing ideals with classmates flash vividly before my eyes. | Al revisitar la arboleda de mi universidad, el recuerdo de las noches de estudio y confidencias juveniles con mis condiscípulos acude vívido a mi memoria.
+
+collocations[6]{hanzi,en}:
+  感人情景 | touching scene; moving sight
+  当时的情景 | the scene at that time; original situation
+  情景交融 | blend of scenery and emotion; harmony of scene and feeling
+  再现情景 | recreate the scene; re-enact circumstances
+  难忘的情景 | unforgettable scene; memorable spectacle
+  凄凉的情景 | desolate scene; bleak sight
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  情景交融 | qíng jǐng jiāo róng | feeling and scenery blending seamlessly; emotional harmony with nature
+  历历在目 | lì lì zài mù | vivid in one's mind; leap clearly before the eyes
+  触景生情 | chù jǐng shēng qíng | scenes stir memories; sight arouses feelings
+  目不忍睹 | mù bù rěn dǔ | too dreadful to look at; unbearable sight
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  情 | qíng | feeling; emotion; passion; situation | sentimiento; emoción; afecto; situación | 忄 | heart | 忄 (human heart / emotions) | 青 (qīng, green/blue / phonetic) | 11 | 左右结构 | Phono-semantic character where heart radical 忄 indicates inner emotional state, and 青 supplies phonetic sound. | A vibrant young heart (忄) pulsating with verdant springtime life (青) embodies the full spectrum of feelings and situations (情). | Un corazón sensible (忄) que vibra con la lozanía de la primavera verde (青) alberga el caudal de los sentimientos y estados del alma (情). | 35 | PQMB | 
+  景 | jǐng | scenery; view; condition; spectacle | paisaje; vista; escena; perspectiva | 日 | sun / day | 日 (bright sunlight) | 京 (jīng, elevated pavilion / capital) | 12 | 上下结构 | Phono-semantic compound combining blazing sun 日 illuminating high pavilions 京, depicting illuminated panoramic vistas. | Brilliant sunlight (日) cast over tall imperial towers (京) illuminates picturesque panoramas and dramatic scenes (景). | La viva luz del sol (日) iluminando las altas torres de la capital (京) descubre un imponente paisaje y un vasto panorama (景). | 214 | AYRF | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Genuine human emotion (情) cast against an illuminated panoramic scene (景) creates an evocative, memorable tableau (情景).
+  composite_memory_hook_es: La emoción sentida en el corazón (情) proyectada sobre un paisaje iluminado (景) recrea una escena viva y conmovedora (情景).
+  cultural_and_cognitive_roots: In classical Chinese poetics (诗学: 王夫之), 'qíng' (情 - internal emotion) and 'jǐng' (景 - external scenery) are inseparable twins (情景交融). Great poetry does not depict cold scenery in isolation; rather, nature mirrors the human soul.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by dipping 3rd tone: 'qíng jǐng' (35-214). Ascend steadily on 'qíng', then swoop downward into the trough of 'jǐng'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    晴 | qíng | sunny; clear sky | Has sun radical 日 on the left instead of heart 忄
+    睛 | jīng | eyeball; pupil | Has eye radical 目 on the left instead of heart 忄
+    静 | jìng | quiet; silent | Right side is 争 instead of heart or sun
+    影 | yǐng | shadow; film | Has three slant feathers 彡 on the right of 景
+    京 | jīng | capital | Lacks the sun 日 on top of 景
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    情 | qíng | emotion; feeling; situation; passion
+    感 | gǎn | feel; sense; touch; emotion
+    景 | jǐng | view; scenery; sight; situation
+    象 | xiàng | elephant; phenomenon; image
+    境 | jìng | boundary; territory; realm; situation
+
+semantic_boundary_contrasts:
+  core_nuance: 情景 designates a specific, dynamic, and emotionally evocative visual scene or situational moment.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 情景 vs. 景色 | jǐngsè | 景色 refers strictly to static natural or physical landscapes (mountain views, gardens), whereas 情景 includes human actors, actions, and narrative atmosphere.
+    2 | 情景 vs. 情况 | qíngkuàng | 情况 refers to the factual, objective state of affairs, conditions, or data (经济情况), while 情景 focuses on the experiential, sensory visual scene.
+    3 | 情景 vs. 场面 | chǎngmiàn | 情景 is intimate and emotive, while 场面 refers to macroscopic scale, spectacle, or formal commotion (宏大的战争场面, 婚礼场面).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 黄昏的落日余晖洒在老屋门前，老爷爷坐在摇椅上给围坐在地毯上的孙儿们讲故事。炉火噼啪作响，这幅三代同堂、其乐融融的情景，深深定格在游子的心坎里。 | Huánghūn de luòrì yúhuī sǎ zài lǎowū ménqián, lǎoyéye zuò zài yáoyǐ shàng gěi wéizuò zài dǐtǎn shàng de sūn'érmen jiǎng gùshì. Lúhuǒ pīpā zuòxiǎng, zhè fú sāndài-tóngtáng, qílè-róngróng de qíngjǐng, shēnshēn dìnggé zài yóuzǐ de xīnkǎn lǐ. | Sunset rays bathed the porch as grandfather told stories to grandchildren on the rug. The hearth crackling, this joyful three-generation scene etched forever into the traveler's heart. | El arrebol vespertino doraba el umbral mientras el abuelo narraba cuentos a los nietos en la alfombra. El crepitar del fuego y la dicha familiar grabaron una escena imborrable en el viajero.
+  #2 | 在庄周生动风趣的寓言笔下，“朝三暮四”的猴子们由怒转喜的情景跃然纸上。这种寓哲理于诙谐生动情景的叙事艺术，跨越数千年光阴，依然具有直击心灵的启发力量。 | Zài Zhuāng Zhōu shēngdòng fēngqù de yùyán bǐxià, "zhāosān-mùsì" de hóuzimen yóu nù zhuǎn xǐ de qíngjǐng yuèrán-zhǐshàng. Zhèzhǒng yù zhélǐ yú huīxié shēngdòng qíngjǐng de xùshì yìshù, kuàyuè shùqiān nián guāngyīn, yīrán jùyǒu zhíjī-xīnlíng de qǐfā lìliàng. | In Zhuangzi's witty fable, the scene of monkeys switching from rage to glee leaps from the page. Weaving philosophy into lively scenes retains potent revelatory power over millennia. | En la pluma amena de Zhuangzi, la escena de los monos trocando el furor en alborozo cobra vida en el papel. El arte de cifrar verdades en cuadros vivaces conserva un vigor reflexivo intacto.

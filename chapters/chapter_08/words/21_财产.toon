@@ -1,0 +1,65 @@
+id: 21
+hanzi: 财产
+pinyin: cái chǎn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: property; assets; possessions; wealth; estate
+  es: propiedad; bienes; patrimonio; posesiones; riqueza
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | material possessions, monetary funds, and tangible or intangible assets owned by an individual, family, enterprise, or state | conjunto de bienes, fondos y posesiones materiales o intangibles que pertenecen a una persona, familia o entidad; patrimonio | 个人财产 (personal property / private assets)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对突如其来的洪涝灾害，救援队员全力以赴，最大限度地保障了人民群众的生命和财产安全。 | Miànduì tūrúqílái de hónglào zāihài, jiùyuán duìyuán quánlì-yǐfù, zuìdà xiàndù de bǎozhàng le rénmín qúnzhòng de shēngmìng hé cáichǎn ānquán. | In the face of the sudden flood disaster, rescuers went all out to safeguard the lives and property of the people to the utmost extent. | Ante la repentina riada, los equipos de rescate hicieron lo imposible para salvaguardar al máximo las vidas y los bienes materiales de la población.
+  #2 | 健全的法律制度和清晰的产权界定，是保护公民合法财产、激发全社会创新活力的根本前提。 | Jiànquán de fǎlǜ zhìdù hé qīngxī de chǎnquán jièdìng, shì bǎohù gōngmín héfǎ cáichǎn, jīfā quán shèhuì chuàngxīn huólì de gēnběn qiántí. | A robust legal framework and clearly defined property rights are the fundamental prerequisites for protecting citizens' lawful assets and fostering innovation. | Un marco legal sólido y una definición nítida de los derechos de propiedad son requisitos indispensables para tutelar el patrimonio legítimo de los ciudadanos e impulsar la innovación.
+
+collocations[6]{hanzi,en}:
+  财产安全 | safety of property; asset security
+  个人财产 | personal property; private assets
+  财产分割 | division of property; distribution of assets
+  没收财产 | confiscate property; forfeiture of assets
+  转移财产 | transfer assets; divert property
+  知识产权 | intellectual property rights
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  倾家荡产 | qīng jiā dàng chǎn | squander the whole family estate; lose everything
+  万贯家财 | wàn guàn jiā cái | vast family fortune; ten thousand strings of cash
+  生财有道 | shēng cái yǒu dào | having legitimate ways to generate wealth
+  破财消灾 | pò cái xiāo zāi | spend money to avert disaster; lose fortune to avoid misfortune
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  财 | cái | wealth; money; valuables | riqueza; dinero; bienes; fortuna | 贝 | cowrie shell / money | 贝 (shell currency, commercial value) | 才 (cái, talent / phonetic) | 7 | 左右结构 | Phono-semantic compound where cowrie radical 贝 denotes money or property, and 才 indicates human talent generating riches. | A person of remarkable talent (才) applies ingenuity to earn abundant cowrie currency (贝), creating lasting wealth (财). | Una persona de gran talento (才) aplica su ingenio para acumular valiosas conchas (贝), creando riqueza (财) honrada. | 35 | BOCH | 財
+  产 | chǎn | give birth; produce; property; estate | parir; engendrar; producir; bienes | 亠 | lid / head | 生 (birth, growth) | 彦 (refined growth) | 6 | 独体结构 | Simplified from 產. Ancient character depicted fresh vegetation budding and growing from the earth 生, signifying production and tangible wealth created. | From the fertile ground, newly sprouted crops bud and grow upward, yielding abundant tangible produce and property (产). | De la tierra fértil brotan renuevos vigorosos que florecen, rindiendo cosechas y fundando el patrimonio material (产). | 214 | YHH | 產
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Valuable shell currency (财) earned through labor, combined with productive estates and yields (产), constitutes enduring property and wealth (财产).
+  composite_memory_hook_es: Las conchas de valor (财) ganadas con talento, sumadas a los bienes y frutos producidos (产), forman el patrimonio y la propiedad (财产).
+  cultural_and_cognitive_roots: In imperial Chinese legal and kinship codes, family property (家产) was held corporately under the paternal line and divided among sons through 'fēn jiā' (分家). In modern Chinese law, the Civil Code (民法典) provides comprehensive constitutional protection for private property (私人财产).
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by dipping 3rd tone: 'cái chǎn' (35-214). Ascend steadily on 'cái' before dipping deep and rising on 'chǎn'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    材 | cái | timber; raw material; talent | Has tree radical 木 on the left instead of shell 贝
+    裁 | cái | cut out; trim; judge | Has garment radical 衣 at bottom with 戈
+    严 | yán | strict; severe | Has top horizontal stroke and double dots, lacking 产's slant
+    芦 | lú | reed; rush | Has grass radical 艹 on top of 户
+    沪 | hù | Shanghai abbreviation | Has water radical 氵 before 户
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    财 | cái | wealth; riches; property
+    材 | cái | timber; material; human talent
+    产 | chǎn | produce; yield; property; give birth
+    生 | shēng | give birth; live; raw; grow
+    业 | yè | estate; occupation; karma; business
+
+semantic_boundary_contrasts:
+  core_nuance: 财产 specifically denotes legally recognized assets, property, and physical or financial wealth belonging to an entity.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 财产 vs. 财富 | cáifù | 财产 refers strictly to legal and material assets (real estate, cash, vehicles), while 财富 can encompass spiritual, cultural, and intellectual riches (精神财富).
+    2 | 财产 vs. 资产 | zīchǎn | 财产 is broader and more common in everyday legal contexts (保护财产), while 资产 is primarily an accounting and financial term denoting capital assets on balance sheets (固定资产, 净资产).
+    3 | 财产 vs. 收入 | shōurù | 财产 is accumulated stock of wealth held at a point in time, whereas 收入 is the ongoing flow of earnings received over a period.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老农夫一生克勤克俭，省吃俭用积攒下一片果园与几间青砖瓦房。对他而言，这些微薄的财产不仅是晚年生活的依托，更是他一辈子面朝黄土、辛勤耕作的血汗见证。 | Lǎo nóngfū yìshēng kèqín-kèjiǎn, shěngchī-jiǎnyòng jīzǎn xià yí piàn guǒyuán yǔ jǐ jiān qīngzhuān-wǎfáng. Duì tā éryán, zhèxiē wēibó de cáichǎn bùjǐn shì wǎnnián shēnghuó de yītuō, gèng shì tā yí bèizi miàncháo-huángtǔ, xīnqín gēngzuò de xuèhàn jiànzhèng. | The old farmer worked diligently and frugally all his life, saving up an orchard and brick rooms. To him, these modest assets were not just a support for old age, but a testament to a lifetime of sweat. | El viejo campesino vivió con frugalidad encomiable, logrando reunir un modesto huerto y unas casas de ladrillo. Más que un sustento para la vejez, aquel patrimonio era el testimonio vivo del sudor de toda su vida.
+  #2 | 伴随现代市场经济与法治文明的演进，财产的形态已从传统的土地与房屋，拓展至数字资产与知识产权。明确界定与有力保障财产权利，是维护社会公平正义、激发创造热情的根本保障。 | Bànsuí xiàndài shìchǎng jīngjì yǔ fǎzhì wénmíng de yǎnjìn, cáichǎn de xíngtài yǐ cóng chuántǒng de tǔdì yǔ fángwū, tuòzhǎn zhì shùzì zīchǎn yǔ zhīshi chǎnquán. Míngquè jièdìng yǔ yǒulì bǎozhàng cáichǎn quánlì, shì wéihù shèhuì gōngpíng-zhèngyì, jīfā chuàngzào rèqíng de gēnběn bǎozhàng. | With market economics and rule of law evolving, property forms have expanded from land to digital assets and IP. Protecting property rights is the fundamental safeguard for social equity and creativity. | Con la economía de mercado moderna, el patrimonio ha transitado desde la tierra hacia los activos digitales e intangibles. Proteger los derechos patrimoniales es la garantía suprema para la equidad y la innovación.

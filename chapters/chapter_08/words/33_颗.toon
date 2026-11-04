@@ -1,0 +1,64 @@
+id: 33
+hanzi: 颗
+pinyin: kē
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: measure word for small round or granular things (pearls, teeth, seeds, stars, hearts, pills)
+  es: clasificador para objetos menudos, esféricos o granulares (perlas, dientes, semillas, estrellas, píldoras)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | classifier used to count small, roundish, granular, or spherical objects such as pearls, beads, seeds, teeth, stars, raindrops, or hearts | clasificador nominal para contar objetos redondos, granos, perlas, dientes, estrellas o el corazón | 一颗珍珠 (a pearl / one pearl)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 仰望晴朗深邃的夏夜星空，无数颗繁星宛如碎钻般镶嵌在黑天鹅绒幕布上，闪烁着清冷神秘的光芒。 | Yǎngwàng qínglǎng shēnsuì de xiàyè xīngkōng, wúshù kē fánxīng wǎnrú suìzuàn bān xiāngqiàn zài hēi tiān'éróng mùbù shàng, shǎnshuò zhe qīnglěng shénmì de guāngmáng. | Gazing up into the clear summer night sky, countless stars like diamond chips embedded in black velvet flickered with cool, mysterious light. | Al alzar la vista al firmamento estival, miríadas de estrellas titilaban como esquirlas de diamante sobre terciopelo negro con misterioso fulgor.
+  #2 | 每一颗破土而出的幼苗，都必须经历风雨的洗礼与烈日的炙烤，方能扎深根系、茁壮成长为参天大树。 | Měi yì kē pòtǔ'érchū de yòumiáo, dōu bìxū jīnglì fēngyǔ de xǐlǐ yǔ lièrì de zhìkǎo, fāng néng zhāshēn gēnxì, zhuózhuàng chéngzhǎng wéi cāntiān dàshù. | Every tiny seedling breaking through the soil must undergo trials of wind and scorching sun before striking deep roots to grow into a towering tree. | Cada tierna plántula que brota de la tierra debe soportar el azote de las lluvias y el ardor solar antes de echar raíces hondas y erguirse imponente.
+
+collocations[6]{hanzi,en}:
+  一颗心 | a heart; one's whole heart
+  一颗星星 | a star; one twinkling star
+  一颗珍珠 | a pearl
+  两颗门牙 | two front incisors
+  一颗子弹 | a bullet
+  一颗种子 | a seed; a grain seed
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  万众一心 | wàn zhòng yì xīn | millions of people united as one heart; concerted effort
+  赤子之心 | chì zǐ zhī xīn | pure innocent heart of a newborn; utter sincerity
+  沧海一粟 | cāng hǎi yí sù | a single grain of millet in the vast ocean; drop in the bucket
+  粒粒皆辛苦 | lì lì jiē xīn kǔ | every single grain represents bitter toil
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  颗 | kē | grain; pearl; small round object | grano; perla; objeto redondo | 页 | head / page | 页 (head / round cranial head) | 果 (guǒ, fruit / phonetic) | 14 | 左右结构 | Simplified from 顆. Phono-semantic compound combining round fruit 果 with head radical 页, originally denoting small rounded lumps or pearls. | Round fruit (果) shaped like a small head (页) provides the standard measure word for individual grains, pearls, and stars (颗). | Frutos esféricos (果) con la redondez de una cabeza (页) dan origen al contador de cuentas, perlas y semillas (颗). | 55 | WDMBO | 顆
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A round orchard fruit (果) alongside the head radical (页) counts tiny rounded heads, pearls, and seeds (颗).
+  composite_memory_hook_es: El fruto redondo (果) junto al radical de cabeza (页) mide los granos esféricos, dientes y perlas (颗).
+  cultural_and_cognitive_roots: Chinese measure words reflect profound visual-spatial categorization. 颗 is reserved for spherical, granular, or deeply treasured single units (一颗明珠, 一颗爱国心), capturing both shape and metaphorical singular integrity.
+  tone_sandhi_and_pitch_modulation: High-level 1st tone: 'kē' (55). Pronounce with an elevated, level pitch sustained evenly.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    棵 | kē | classifier for trees and plants | Has tree radical 木 on the left instead of 页 on right
+    棵 vs 颗 | kē vs kē | classifier for plants vs round things | 棵 is for trees (一棵树); 颗 is for grains/stars (一颗星)
+    窠 | kē | nest; burrow; rut | Has cave radical 穴 on top of 果
+    颗 | kē | small round object | Contains 果 on left and 页 on right
+    颅 | lú | skull; cranium | Has 卢 on left of 页
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    颗 | kē | classifier for round things; grain
+    粒 | lì | grain; granule; pellet
+    果 | guǒ | fruit; berry; result
+    丸 | wán | small pill; pellet; ball
+    珠 | zhū | pearl; bead; droplet
+
+semantic_boundary_contrasts:
+  core_nuance: 颗 is the measure word specifically designating small, roundish, spherical, or granular objects.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 颗 vs. 棵 | kē | 颗 (page 页) is for small round objects (一颗红豆, 一颗牙齿), whereas 棵 (tree 木) is exclusively for trees and botanical plants (一棵大树, 一棵青菜).
+    2 | 颗 vs. 粒 | lì | 颗 is slightly larger or can count abstract things (一颗心, 一颗行星), while 粒 is strictly for tiny grains and pellets (一粒沙子, 一粒米).
+    3 | 颗 vs. 个 | gè | 颗 vividly captures the round, discrete, crystalline nature of the noun, while 个 is the generic, neutral classifier.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 掌心里静静躺着三颗饱满的橡子，光滑的褐色外壳在晨光下泛着油润的光泽。老人微微一笑，将这几颗微不足道的小坚果分给围拢上来的猴群，化解了一场剑拔弩张的争吵。 | Zhǎngxīn lǐ jìngjìng tǎng zhe sān kē bǎomǎn de xiàngzi, guānghua de hèsè wàiké zài chénguāng xià fàn zhe yóurùn de guāngzé. Lǎorén wēiwēi yíxiào, jiāng zhè jǐ kē wēibùzúdào de xiǎojiānguǒ fēngěi wéilǒng shànglái de hóuqún, huàjiě le yì chǎng jiànbá-nǔzhāng de zhēngchǎo. | In his palm lay three plump acorns, their smooth brown shells gleaming in morning light. The old man smiled, handing the tiny nuts to the monkeys to defuse their agitation. | En su palma descansaban tres relucientes bellotas de suave cáscara castaña. El anciano sonrió y repartió aquellos frutos entre los monos apaciguando su conato de rebelión.
+  #2 | 科学探索的宏大殿堂，往往正是由科学家对一颗微小细胞或一颗遥远彗星的执着追问所奠基的。正是这种穷极造化、见微知著的探究精神，指引着人类文明不断冲破未知的迷雾。 | Kēxué tànsuǒ de hóngdà diàntáng, wǎngwǎng zhèngshì yóu kēxuéjiā duì yì kē wēixiǎo xìbāo huò yì kē yáoyuǎn huìxīng de zhízhuó zhuīwèn suǒ diànjī de. Zhèngshì zhèzhǒng qióngjí-zàohuà, jiànwēi-zhīzhù de tànjiū jīngshén, zhǐyǐn zhe rénlèi wénmíng bùduàn chōngpò wèizhī de míwù. | The grand hall of scientific discovery is founded upon questioning a tiny cell or a distant comet. This pursuit of uncovering nature's subtleties guides humanity through unknown mists. | El templo de la ciencia se asienta en la indagación paciente de una diminuta célula o un lejano cometa. Ese afán por desentrañar los secretos del cosmos guía a la humanidad en la penumbra.

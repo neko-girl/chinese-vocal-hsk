@@ -3,8 +3,73 @@
  * Generates DOM structures for sidebar list, front/back flashcard cards, and 8-pill tabs.
  */
 
-// Speech Synthesis Engine
-function speak(text, speed) {
+// Speech & Native Audio Engine with Multi-Voice Randomization
+function speak(textOrAudio, speed, triggerEl) {
+  if (typeof AudioManager !== 'undefined') {
+    // If an audio object was passed directly
+    if (typeof textOrAudio === 'object' && textOrAudio !== null) {
+      AudioManager.play(textOrAudio, '', speed, triggerEl);
+      return;
+    }
+
+    const textStr = String(textOrAudio || '').trim();
+    if (!textStr) return;
+
+    // Check if the current word has audio for this text item
+    const currentWord = (typeof App !== 'undefined' && App.getCurrentWord) ? App.getCurrentWord() : null;
+    let matchingAudio = null;
+
+    if (currentWord) {
+      if (textStr === currentWord.hanzi) {
+        matchingAudio = currentWord.audio;
+      } else {
+        // Example sentences
+        const sent = (currentWord.example_sentences || []).find(s => s.hanzi === textStr);
+        if (sent?.audio) matchingAudio = sent.audio;
+
+        // Collocations
+        if (!matchingAudio) {
+          const col = (currentWord.collocations || []).find(c => c.hanzi === textStr);
+          if (col?.audio) matchingAudio = col.audio;
+        }
+
+        // Idioms
+        if (!matchingAudio) {
+          const im = (currentWord.idioms || []).find(i => i.hanzi === textStr);
+          if (im?.audio) matchingAudio = im.audio;
+        }
+
+        // Reading passages
+        if (!matchingAudio) {
+          const p = (currentWord.extended_reading_passages || []).find(p => p.hanzi === textStr);
+          if (p?.audio) matchingAudio = p.audio;
+        }
+
+        // Character decomposition
+        if (!matchingAudio) {
+          const ch = (currentWord.character_decomposition || []).find(c => c.character === textStr);
+          if (ch?.audio) matchingAudio = ch.audio;
+        }
+
+        // Look-alikes
+        if (!matchingAudio) {
+          const la = (currentWord.traps_and_cognates?.look_alikes || []).find(l => l.character === textStr);
+          if (la?.audio) matchingAudio = la.audio;
+        }
+
+        // Cognates
+        if (!matchingAudio) {
+          const cg = (currentWord.traps_and_cognates?.etymological_cognates || []).find(c => c.character === textStr);
+          if (cg?.audio) matchingAudio = cg.audio;
+        }
+      }
+    }
+
+    AudioManager.play(matchingAudio, textStr, speed, triggerEl);
+    return;
+  }
+
+  // Fallback if AudioManager is not loaded
   if (!('speechSynthesis' in window)) {
     console.warn('Speech synthesis not supported in this browser.');
     return;
@@ -12,20 +77,17 @@ function speak(text, speed) {
 
   try {
     window.speechSynthesis.cancel();
-    if (!text) return;
+    if (!textOrAudio) return;
 
-    // Extract Chinese characters if text contains translations/notes
-    const hanziOnly = (text.match(/[\u4e00-\u9fa5]+/g) || []).join('');
-    const toSpeak = hanziOnly || text;
+    const hanziOnly = (String(textOrAudio).match(/[\u4e00-\u9fa5]+/g) || []).join('');
+    const toSpeak = hanziOnly || textOrAudio;
 
     const u = new SpeechSynthesisUtterance(toSpeak);
     u.lang = 'zh-CN';
     
-    // Retrieve speed setting or explicit parameter
     const settings = (typeof StorageManager !== 'undefined') ? StorageManager.getSettings() : null;
     u.rate = (typeof speed === 'number') ? speed : (settings?.speechRate || 0.9);
 
-    // Visual feedback on audio buttons
     const activeBtns = document.querySelectorAll('.hero-audio-btn, .audio-btn, .audio-speed-btn');
     activeBtns.forEach(b => b.classList.add('speaking'));
     u.onend = () => activeBtns.forEach(b => b.classList.remove('speaking'));

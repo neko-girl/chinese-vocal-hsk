@@ -1,0 +1,65 @@
+id: 38
+hanzi: 碎
+pinyin: suì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to break into pieces; to shatter; broken; fragmented; trivial; garrulous
+  es: romperse en pedazos; hacerse añicos; fragmentado; roto; menudo; prolijo
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to shatter, smash, or break into numerous small sharp fragments | romperse, quebrarse o hacerse pedazos menudos por un golpe o caída | 摔得粉碎 (shattered to pieces)
+  2 | Adjective | Standard | fragmented, petty, trivial, or disconnected | fragmentado, menudo, disperso o trivial | 零碎的时间 (fragmented spare moments)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广再次射出的长箭撞击在坚不可摧的花岗岩上，精钢打造的箭头竟然瞬间碎裂成数片。 | Lǐ Guǎng zàicì shèchū de chángjiàn zhuàngjī zài jiānbùkěcuī de huāgǎngyán shàng, jīnggāng dǎzào de jiàntóu jìngrán shùnjiān suìliè chéng shù piàn. | The arrows General Li Guang shot again struck the impenetrable granite, and the forged steel arrowheads instantly shattered into fragments. | Las flechas que el general disparó de nuevo chocaron contra el granito inexpugnable, y las puntas de acero forjado se hicieron añicos al instante.
+  #2 | 服务员不小心失手滑落了手中的精致瓷盘，清脆的碎裂声瞬间打破了安静典雅的用餐氛围。 | Fúwùyuán bù xiǎoxīn shīshǒu huáluò le shǒuzhōng de jīngzhì cípán, qīngcuì de suìliè shēng shùnjiān dǎpò le ānjìng diǎnyǎ de yòngcān fènwéi. | The waiter accidentally dropped the exquisite porcelain plate from his hand; the crisp shattering sound broke the dining ambiance. | El camarero dejó caer sin querer un plato de porcelana fina; el chasquido al romperse en añicos quebró la tranquila elegancia del salón.
+
+collocations[6]{hanzi,en}:
+  粉碎阴谋 | shatter a conspiracy; smash into dust
+  碎成碎片 | break or shatter into pieces
+  支离破碎 | fragmented and torn to shreds
+  心碎欲绝 | heartbroken beyond consolation
+  零碎时间 | fragmented or spare moments of time
+  碎步前行 | walk forward with tiny brisk steps
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  粉身碎骨 | fěn shēn suì gǔ | have body smashed to pieces; sacrifice one's life bravely
+  心碎肠断 | xīn suì cháng duàn | heart shattered and bowels torn with grief; devastated
+  支离破碎 | zhī lí pò suì | torn to pieces; fragmented and disorganized
+  宁为玉碎 | nìng wéi yù suì | rather be shattered jade than intact tile; die with honor
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  碎 | suì | shatter; broken pieces; trivial | romper; añicos; quebrar; menudo | 石 | stone / rock | 石 (stone, mineral brittle hardness) | 卒 (zú, soldier / end / die) | 13 | 左右结构 | Phono-semantic compound: stone radical 石 denoting brittle mineral substance, paired with 卒 (reaching end, demise, final blow). | Striking a brittle mineral stone (石) until it reaches its final end (卒) shatters it into tiny pieces (碎). | Golpear la piedra quebradiza (石) hasta llegar a su fin (卒) la desintegra haciéndola añicos (碎). | 51 | MRYOJ | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Striking a brittle stone (石) until it reaches its demise (卒) causes it to crack and shatter into pieces (碎).
+  composite_memory_hook_es: Golpear la piedra (石) hasta su final (卒) la quiebra haciéndola añicos (碎).
+  cultural_and_cognitive_roots: In ancient Chinese moral lore (宁为玉碎，不为瓦全), 碎 represents heroic martyrdom—the noble willingness of jade to shatter rather than compromise integrity as common cheap tile. In daily cognitive terms, it symbolizes heartbreak (心碎) and temporal fragmentation (零碎时间).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'suì' (51). Pronounced with an abrupt, crisp, descending vocal strike.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    卒 | zú | soldier; die; finish | Lacks the stone radical 石 on the left
+    醉 | zuì | drunk; intoxicated | Has wine radical 酉 on the left instead of 石
+    粹 | cuì | pure; unadulterated; essence | Has rice radical 米 on the left instead of 石
+    碎 | suì | shatter; pieces | Has 石 on the left paired with 卒
+    碎 | suì | fragmented | Has 卒 on the right
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    卒 | zú | soldier; pawn; conclude
+    猝 | cù | abrupt; sudden; unexpected
+    粹 | cuì | pure essence; unadulterated
+    翠 | cuì | kingfisher green; emerald jade
+    瘁 | cuì | worn out; exhausted; toil
+
+semantic_boundary_contrasts:
+  core_nuance: 碎 specifically denotes shattering or disintegration into numerous tiny fragments and pieces.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 碎 vs. 破 | pò | 破 means tearing, splitting, or puncturing a hole in an object (衣服破了, 破裂), whereas 碎 means disintegrating completely into tiny granular pieces (摔碎, 碎成粉末).
+    2 | 碎 vs. 断 | duàn | 断 means snapping or severing into two or three distinct segments (折断, 绳子断了), while 碎 implies complete structural pulverization.
+    3 | 碎 vs. 裂 | liè | 裂 means developing surface cracks or fissures without necessarily coming apart, whereas 碎 denotes full fragmentation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 一面精致的铜镜失手跌落，清脆声响中化作满地冰冷的碎片。每一块碎片都折射出微弱的天光，却再也拼凑不回曾经完整的面庞。世间许多美好的事物大抵如此，一旦破碎便再难重圆，令人徒留无尽的唏嘘与痛惜。 | Yí miàn jīngzhì de tóngjìng shīshǒu diēluò, qīngcuì shēngxiǎng zhōng huàzuò mǎndì bīnglěng de suìpiàn. Měi yí kuài suìpiàn dōu zhéshè chū wēiruò de tiānguāng, què zàiyě pīncòu bù huí céngjīng wánzhěng de miànpáng. Shìjiān xǔduō měihǎo de shìwù dàdǐ rúcǐ, yídàn pòsuì biàn zàinán chóngyuán, lìng rén túliú wújìn de xīxū yǔ tòngxī. | Dropping the bronze mirror, it shattered across the floor into cold fragments with a crisp ring. Each fragment reflected faint sky, yet could never piece together the complete face. Once shattered, precious things rarely reunite, leaving sighing regret. | Un fino espejo de bronce cayó haciéndose añicos contra el suelo con un chasquido. Cada pedazo reflejaba una brizna de luz sin recomponer el rostro de antaño. Así fenecen las cosas hermosas: rotas en pedazos, apenas dejan un eco de añoranza.
+  #2 | 在移动互联时代，浩瀚的信息流将现代人的注意力撕扯得支离破碎。如何利用好零碎时间进行系统性深度阅读，在碎片化知识的泥淖中重塑严谨的逻辑思维框架，已成为当代知识工作者必须面对的重大挑战。 | Zài yídòng hùlián shídài, hàohàn de xìnxīliú jiāng xiàndài rén de zhùyìlì sīchě de zhīlí-pòsuì. Rúhé lìyòng hǎo língsuì shíjiān jìnxíng xìtǒngxìng shēndù yuèdú, zài suìpiànhuà zhīshi de nínào zhōng chóngsù yánjǐn de luóji sīwéi kuàngjià, yǐ chéngwéi dāngdài zhīshi gōngzuòzhě bìxū miànduì de zhòngdà tiǎozhàn. | In the mobile internet era, vast information flows tear attention into fragmented shreds. Harnessing fragmented time for systemic reading and rebuilding rigorous logic from fragments has become a paramount challenge for knowledge workers. | En la era digital, el torrente informativo desgarra la atención haciéndola pedazos. Aprovechar los ratos libres para una lectura reposada y reconstruir el rigor lógico frente a la dispersión es el desafío capital del intelecto contemporáneo.

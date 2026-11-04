@@ -1,0 +1,66 @@
+id: 29
+hanzi: 果实
+pinyin: guǒ shí
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: fruit (botanical); harvest; gains; fruits of labor; positive results
+  es: fruto; fruto del trabajo; cosecha; ganancias; logros conseguidos
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the seed-bearing structure in flowering plants formed from the ovary after flowering; biological fruit | estructura vegetal que contiene y protege las semillas formada tras la floración; fruta o fruto botánico | 结出果实 (bear fruit / produce fruits)
+  2 | Noun | Figurative | the positive outcome, achievement, or reward obtained through prolonged effort, labor, or struggle | resultado positivo, recompensa o logro alcanzado tras un arduo esfuerzo prolongado | 劳动果实 (fruits of labor / fruits of hard work)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 金秋十月，漫山遍野的苹果园里硕果累累，红彤彤的果实压弯了枝头，散发着诱人的果香。 | Jīnqiū shíyuè, mànshān-biànyě de píngguǒyuán lǐ shuòguǒ-léiléi, hóngtōngtōng de guǒshí yāwān le zhītóu, sànfà zhe yòurén de guǒxiāng. | In golden October, apple orchards across the hills hung heavy with fruit; crimson apples bent the branches, giving off sweet fragrance. | En octubre dorado, los manzanos que cubren las lomas rebosan de cosechas; sus frutos rojizos comban las ramas despidiendo un aroma embriagador.
+  #2 | 经过科研团队十余年的潜心攻关，这项填补国内技术空白的重大科技成果终于开花结果，结出了丰硕的产业化果实。 | Jīngguò kēyán tuánduì shí yú nián de qiǎnxīn gōngguān, zhè xiàng tiánbǔ guónèi jìshù kòngbái de zhòngdà kējì chéngguǒ zhōngyú kāihuā-jiéguǒ, jiéchū le fēngshuò de chǎnyèhuà guǒshí. | After a decade of devoted research, this breakthrough bridging domestic gaps finally bore fruit, yielding rich industrial gains. | Tras diez años de afán investigador, este hito tecnológico que colma un vacío nacional floreció al fin, rindiendo fecundos frutos industriales.
+
+collocations[6]{hanzi,en}:
+  劳动果实 | fruits of labor; reward of honest work
+  丰硕果实 | bountiful fruits; substantial achievements
+  果实累累 | laden with abundant fruit; heavy harvests
+  品尝果实 | taste the fruits; savor the outcomes
+  收获果实 | harvest fruits; reap the rewards
+  成熟的果实 | ripe fruit; mature gains
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  硕果累累 | shuò guǒ léi léi | laden with abundant fruits; huge achievements
+  开花结果 | kāi huā jié guǒ | blossom and bear fruit; yield fruitful results
+  实事求是 | shí shì qiú shì | seek truth from facts; be realistic and pragmatic
+  硕果仅存 | shuò guǒ jǐn cún | the only surviving fruit; rare survivor
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  果 | guǒ | fruit; result; resolute | fruto; fruta; desenlace; resuelto | 木 | tree / wood | 田 (round fruit on branches) | 木 (tree) | 8 | 单一结构 | Ancient pictograph depicting round, ripe fruit 田 growing atop the leafy branches of a tree 木. | High atop the branches of a tree (木), round, ripe berries (田) ripen in sunshine, defining delicious botanical fruit (果). | En lo alto de la copa de un árbol (木), frutos redondos y maduros (田) se calientan al sol, dando origen a la fruta (果). | 214 | WD | 
+  实 | shí | solid; true; real; fruit | sólido; verdadero; fruto; realidad | 宀 | roof | 宀 (shelter) | 贯/头 (stored wealth) | 8 | 上下结构 | Simplified from 實. Ancient character showing a house 宀 filled to capacity with strings of cowrie shells and grain, signifying solidity and fullness. | Beneath the home roof (宀), tangible solid wealth and stored harvests accumulate, proving genuine reality and ripe fruit (实). | Bajo el techo del hogar (宀) se colman las despensas de grano y bienes sólidos, signo de autenticidad y sazón cumplida (实). | 35 | JNK | 實
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Ripe fruit hanging from orchard branches (果) filled with solid, substantial nutrition under the roof (实) constitutes a fruitful harvest (果实).
+  composite_memory_hook_es: La fruta madurada en las ramas del árbol (果) colmada de pulpa sólida y sustanciosa (实) representa el fruto cosechado (果实).
+  cultural_and_cognitive_roots: In Chinese philosophical tradition, 'huā' (花 - flower/appearance) and 'shí' (实 - fruit/substance) form an essential dialectic. Superficial brilliance without tangible outcome is dismissed as 'huā ér bù shí' (华而不实 - flowery but barren).
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by rising 2nd tone: 'guǒ shí' (214-35). Dip low on 'guǒ' then lift smoothly and cleanly on 'shí'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    裹 | guǒ | wrap; bind | Has garment radical 衣 split around 果
+    棵 | kē | measure word for trees | Has wood radical 木 on the left of 果
+    买 | mǎi | buy | Has horizontal line across top, lacking 果 structure
+    卖 | mài | sell | Has 十 on top of 买
+    宝 | bǎo | treasure; jewel | Has jade 玉 inside 宀 instead of 头
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    果 | guǒ | fruit; result; outcome; resolute
+    实 | shí | solid; real; fruit; true
+    获 | huò | harvest; obtain; catch
+    收 | shōu | collect; gather; harvest; receive
+    成 | chéng | accomplish; succeed; become
+
+semantic_boundary_contrasts:
+  core_nuance: 果实 denotes both literal botanical fruits and metaphoric achievements born of effort.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 果实 vs. 水果 | shuǐguǒ | 水果 refers exclusively to juicy, sweet culinary fruits eaten fresh by people (apples, oranges), whereas 果实 includes all botanical fruits (acorns, pods) and abstract achievements.
+    2 | 果实 vs. 成果 | chéngguǒ | 成果 is strictly abstract and refers to positive results or achievements (科研成果), while 果实 can be both physical plant fruits and metaphorical rewards.
+    3 | 果实 vs. 后果 | hòuguǒ | 果实 typically carries a positive or natural connotation (fruits of labor), whereas 后果 almost always denotes negative or disastrous consequences (严重后果).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 深秋的晨曦穿透薄雾，照耀在山坡上的百年古柿树上。红艳饱满的柿子宛如一盏盏喜庆的小灯笼挂满枝头，这些饱经风霜的果实，正是大自然对四季耕耘最甜美的馈赠。 | Shēnqiū de chénxī chuāntòu báowù, zhàoyào zài shānpō shàng de bǎinián gǔshìshù shàng. Hóngyàn bǎomǎn de shìzi wǎnrú yìzhǎnzhǎn xǐqìng de xiǎodēnglong guàmǎn zhītóu, zhèxiē bǎojīng-fēngshuāng de guǒshí, zhèngshì dàzìrán duì sìjì gēngyún zuì tiánměi de kuìzèng. | Autumn morning light pierces the mist onto an ancient persimmon tree on the hillside. Plump red fruits hang like festive lanterns; weather-beaten fruits are nature's sweetest gift to season's toil. | La aurora otoñal descorre la bruma alumbrando un viejo caqui en la ladera. Sus frutos carmesíes cuelgan como farolillos festivos, rindiendo el tributo más dulce de la naturaleza al afán del año.
+  #2 | 任何伟大的学术创见或技术革新，都不是一蹴而就的灵感闪现，而是科研人员在寂寞中数十年如一日甘坐冷板凳结出的果实。尊重劳动、保护创新，正是社会文明不断前行的动力源泉。 | Rènhé wěidà de xuéshù chuàngjiàn huò jìshù géxīn, dōubúshì yícù'érjiù de línggǎn shǎnxiàn, érshì kēyán rényuán zài jìmò zhōng shùshí nián rùyírì gān zuò lěngbǎndèng jiéchū de guǒshí. Zūnzhòng láodòng, bǎohù chuàngxīn, zhèngshì shèhuì wénmíng bùduàn qiánxíng de dònglì yuánquán. | Great academic insights or technological innovations are never overnight flashes, but fruits of researchers braving decades of quiet toil. Honoring labor and protecting innovation drives human civilization forward. | Las grandes creaciones científicas no brotan de un destello fugaz, sino de decenios de silencioso estudio. Honrar el trabajo y tutelar las ideas constituye el motor que hace avanzar a las sociedades.

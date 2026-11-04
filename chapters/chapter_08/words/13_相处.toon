@@ -1,0 +1,65 @@
+id: 13
+hanzi: 相处
+pinyin: xiāng chǔ
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to get along with; to live together; to interact and associate with one another
+  es: convivir; llevarse con; relacionarse; tratarse mutuamente en el día a día
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to live, work, interact, or associate with another person or entity over time in mutual social contact | convivir, tratarse o mantener relación cotidiana y prolongada con alguien | 和睦相处 (live together in harmony)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老人与这群猴子在朝夕相处中培养出了深厚的默契，彼此仅仅通过眼神与叫声便能心领神会。 | Lǎorén yǔ zhè qún hóuzi zài zhāoxī-xiāngchǔ zhōng péiyǎng chū le shēnhòu de mòqì, bǐcǐ jǐnjǐn tōngguò yǎnshén yǔ jiàoshēng biàn néng xīnlǐng-shénhuì. | In living together day and night, the elder and the monkeys cultivated tacit rapport, understanding one another through glances and calls. | En su diaria convivencia, el anciano y los monos forjaron una compenetración honda, entendiéndose a la perfección solo con miradas y gemidos.
+  #2 | 人与人之间若想长久和谐相处，关键在于彼此懂得尊重差异、换位思考，并在原则问题上保持真诚与宽容。 | Rén yǔ rén zhījiān ruò xiǎng chángjiǔ héxié xiāngchǔ, guānjiàn zàiyú bǐcǐ dǒngdé zūnzhòng chāyì, huànwèi-sīkǎo, bìng zài yuánzé wèntí shàng bǎochí zhēnchéng yǔ kuānróng. | For people to get along harmoniously over time, the key lies in respecting differences, empathizing, and maintaining sincerity. | Para que las personas convivan en armonía duradera, la clave radica en respetar las discrepancias, ponerse en el lugar del otro y practicar la tolerancia.
+
+collocations[6]{hanzi,en}:
+  和谐相处 | get along harmoniously; harmonious coexistence
+  相处融洽 | get along on intimate, cordial terms
+  朝夕相处 | spend mornings and evenings together; in daily contact
+  难以相处 | difficult to get along with; prickly
+  相处之道 | the art or principles of getting along
+  和平相处 | coexist peacefully (diplomacy)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  和睦相处 | hé mù xiāng chǔ | live together in peace and harmony
+  相敬如宾 | xiāng jìng rú bīn | treat each other with mutual respect like honored guests
+  朝夕相处 | zhāo xī xiāng chǔ | be together day and night; constant companionship
+  患难相共 | huàn nàn xiāng gòng | share perils and tribulations together
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  相 | xiāng | mutual; reciprocal; each other | mutuo; recíproco; el uno al otro | 目 | eye | 木 (tree, inspecting timber) | 目 (mù, eye gazing) | 9 | 左右结构 | Ancient pictogram of an eye 目 carefully inspecting timber 木 from close range, evolving into mutual face-to-face looking. | Two eyes (目) gazing closely across the green leaves of a tree (木) at one another in mutual fellowship (相). | Ojos atentos (目) que cruzan su mirada a través de las ramas de un árbol (木) en recíproca cercanía (相). | 55 | DBU | 
+  处 | chǔ | reside; dwell; live; handle; place | residir; convivir; morar; resolver | 夂 | go / walk slowly | 夂 (walking, stepping slowly) | 卜 (bǔ, divination / settling) | 5 | 半包围结构 | Simplified from 處. Ancient pictogram of a person reclining upon a low seat 几, resting and settling down to dwell. | Stepping forward slowly (夂) and finding an auspicious spot (卜) to sit down, reside, and live peacefully (处). | Caminar sin prisa (夂) hasta dar con un rincón propicio (卜) donde reposar y convivir en paz (处). | 214 | HEY | 處
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Gazing mutually into each other's eyes (相) while residing beneath the same roof (处) means to live and get along together (相处).
+  composite_memory_hook_es: Mirarse con afecto recíproco (相) mientras se comparte morada (处) es convivir y tratarse (相处).
+  cultural_and_cognitive_roots: In ancient Chinese social ethics, 相 (mutuality) and 处 (dwelling peacefully) form the foundation of relational harmony. Daoism expands 相处 to human-nature harmony (人与自然和谐相处), while Confucianism anchors it in domestic filial harmony (家庭和睦相处).
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by dipping 3rd tone: 'xiāng chǔ' (55-214). (Note 4th tone 'chù' in nouns meaning place: 处所, 到处).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    想 | xiǎng | think; miss; want | Has heart radical 心 at bottom below 相
+    箱 | xiāng | box; chest; trunk | Has bamboo radical 竹 at top above 相
+    外 | wài | outside; foreign | Has 夕 on the left and 卜 on the right
+    处 | chù / chǔ | place; dwell | Has 夂 enclosing 卜
+    冬 | dōng | winter | Has 夂 with two dots below instead of 卜
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    相 | xiāng | mutual; each other
+    厢 | xiāng | wing of a house; side room
+    湘 | xiāng | Xiang River; Hunan province
+    处 | chǔ | dwell; handle; deal with
+    据 | jù | occupy; base on; according to
+
+semantic_boundary_contrasts:
+  core_nuance: 相处 emphasizes ongoing interpersonal interaction, mutual adjustment, and living together.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 相处 vs. 合作 | hézuò | 相处 focuses on personal emotional and social cohabitation (和睦相处), whereas 合作 focuses on functional, transactional synergy to achieve a joint project.
+    2 | 相处 vs. 交往 | jiāowǎng | 交往 is broader, describing general external social networking or dating, while 相处 requires continuous closer contact over time.
+    3 | 相处 vs. 共处 | gòngchǔ | 共处 is formal and geopolitical (和平共处五项原则), while 相处 is intimate and psychological between individuals.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 茫茫人海中相遇是缘分，而能够长久相处更是一种深沉的智慧。真正的知己不在于形影不离的喧闹，而在于即使相对无言也能心意相通。在彼此尊重的相处中，我们照见了真实的自我，也收获了岁月馈赠的深情。 | Mángmáng rénhǎi zhōng xiāngyù shì yuánfèn, ér nénggòu chángjiǔ xiāngchǔ gèng shì yì zhǒng shēnchén de zhìhuì. Zhēnzhèng de zhījǐ búzàiyú xíngyǐng-bùlí de xuānnào, ér zàiyú jíshǐ xiāngduì-wúyán yě néng xīnyì-xiāngtōng. Zài bǐcǐ zūnzhòng de xiāngchǔ zhōng, wǒmen zhàojiàn le zhēnshí de zìwǒ, yě shōuhuò le suìyuè kuìzèng de shēnqíng. | Meeting in vast seas of people is destiny, but getting along long-term is wisdom. Soulmates need not cling in noisy company; even in silence they commune. Respectful interaction mirrors true selfhood and harvests affection. | Coincidir en el mar humano es fortuna, pero convivir con armonía es alta sabiduría. Los amigos del alma no precisan cercanía bulliciosa; su silencio es diálogo. En el trato respetuoso nos descubrimos a nosotros mismos y hallamos amor verdadero.
+  #2 | 在构建人类命运共同体的宏大时代图景中，不同文明之间的包容相处至关重要。唯有彻底摒弃零和博弈与傲慢偏见，推动不同社会制度在平等互鉴中和平相处，才能汇聚起应对全人类共同挑战的磅礴合力。 | Zài gòujiàn rénlèi mìngyùn gòngtóngtǐ de hóngdà shídài tújǐng zhōng, bùtóng wénmíng zhījiān de bāoróng xiāngchǔ zhìguān-zhòngyào. Wéiyǒu chèdǐ bìngqì línghé bóyì yǔ àomàn piānjiàn, tuīdòng bùtóng shèhuì zhìdù zài píngděng hùjiàn zhōng hépíng xiāngchǔ, cáinéng huìjù qǐ yìngduì quán rénlèi gòngtóng tiǎozhàn de pángbó hélì. | In building a human destiny community, inclusive coexistence among civilizations is paramount. Rooting out zero-sum bias and fostering mutual learning allows diverse societies to coexist peacefully, uniting against global perils. | Al erigir una comunidad de destino compartido, la convivencia integradora entre civilizaciones es capital. Desterrando pugnas estériles y promoviendo el respeto entre sistemas diversos, la humanidad concitará voluntades firmes ante los retos del porvenir.

@@ -1,0 +1,65 @@
+id: 9
+hanzi: 喂养
+pinyin: wèi yǎng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to feed; to rear; to raise (animals, infants); to nurture with food
+  es: alimentar; criar; cebar; nutrir animales o infantes con esmero
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to provide food, sustenance, and daily care to nurture animals, livestock, pets, or infants | proporcionar alimento y cuidados diarios para criar animales, ganado o infantes | 喂养宠物 (feed pets)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 从前宋国有一位老人非常喜爱猴子，在自家院子里悉心喂养了一大群活泼机灵的猴子当宠物。 | Cóngqián Sòngguó yǒu yí wèi lǎorén fēicháng xǐ'ài hóuzi, zài zìjiā yuànzi lǐ xīxīn wèiyǎng le yí dà qún huópo-jīling de hóuzi dāng chǒngwù. | Once in the state of Song, an elder loved monkeys, meticulously rearing a large troupe of lively, clever monkeys as pets in his courtyard. | Antaño en el reino de Song vivía un anciano amante de los monos, que criaba con desvelo una manada de animales vivaces en su patio como mascotas.
+  #2 | 为了确保救护的野生鸟类顺利重返大自然，野生动物救助站的工作人员严格按照野化训练要求科学喂养幼鸟。 | Wèile quèbǎo jiùhù de yěshēng niǎolèi shùnlì chóngfǎn dàzìrán, yěshēng dòngwù jiùzhùzhàn de gōngzuò rényuán yángé ànzhào yěhuà xùnliàn yāoqiú kēxué wèiyǎng yòuniǎo. | To ensure rescued wild birds return to nature, wildlife sanctuary staff scientifically feed fledglings following re-wilding requirements. | Para asegurar que las aves silvestres rescatadas vuelvan a su hábitat, los operarios del refugio alimentan a los polluelos según pautas de asilvestramiento.
+
+collocations[6]{hanzi,en}:
+  悉心喂养 | carefully and tenderly feed and rear
+  喂养宠物 | feed and raise pets
+  喂养牲畜 | feed livestock or cattle
+  人工喂养 | artificial feeding; hand-rearing
+  喂养幼鸟 | feed and nurture baby birds
+  科学喂养 | scientifically balanced feeding
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  含辛茹苦 | hán xīn rú kǔ | endure bitter hardships to rear children
+  母乳喂养 | mǔ rǔ wèi yǎng | maternal breastfeeding
+  休养生息 | xiū yǎng shēng xī | rehabilitate the people and let them multiply in peace
+  娇生惯养 | jiāo shēng guàn yǎng | brought up in pampered luxury; spoiled
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  喂 | wèi | feed; hello; rear animals | alimentar; dar de comer; hola | 口 | mouth | 口 (mouth eating food) | 畏 (wèi, fear / claws / phonetic) | 12 | 左右结构 | Phono-semantic compound: mouth radical 口 offering food into the mouth, paired with 畏. | Placing wholesome food directly into the waiting hungry mouth (口) with attentive care feeds and nourishes (喂). | Poner comida nutritiva en la boca abierta y hambrienta (口) con esmero alimenta a la criatura (喂). | 51 | RWMV | 餵
+  养 | yǎng | raise; rear; cultivate; nourish | criar; cultivar; nutrir; mantener | 八 | eight / separate | 羊 (yáng, sheep / gentle nourishment) | 𠫤 (nourishing pasture / hands) | 9 | 上下结构 | Simplified from 養. Ancient pictogram showing hands feeding an auspicious sheep 羊 fresh fodder to nurture it. | Providing fresh mountain pasture to graze an auspicious sheep (羊) nurtures and rears living beings (养). | Pastorear una oveja dócil (羊) en los pastos tiernos alimenta la vida y la hace prosperar (养). | 214 | TCT | 養
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Putting fresh food into hungry mouths (喂) to gently nurture livestock like sheep (养) means to rear and feed (喂养).
+  composite_memory_hook_es: Llevar comida a la boca hambrienta (喂) para nutrir con cariño como al rebaño (养) es alimentar y criar (喂养).
+  cultural_and_cognitive_roots: In ancient agrarian life, 养 was sacred: rearing sacrificial animals (养牲) and filial care for aged parents (养亲). Combining with 喂 (the tactile manual act of placing food in a mouth) specifies tender, daily maternal or pastoral feeding.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by dipping 3rd tone: 'wèi yǎng' (51-214). Drop firmly on 'wèi', then allow 'yǎng' to dip into low vocal register.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    畏 | wèi | fear; dread | Lacks the mouth radical 口 on the left
+    煨 | wēi | simmer; roast in ashes | Has fire radical 火 on the left instead of 口
+    样 | yàng | appearance; shape; pattern | Has wood radical 木 on the left instead of 丷
+    美 | měi | beautiful; delicious | Has 大 at the bottom instead of 𠫤
+    姜 | jiāng | ginger; surname Jiang | Has 女 at the bottom instead of 𠫤
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    喂 | wèi | feed; rear; hello
+    畏 | wèi | fear; dread; reverence
+    煨 | wēi | simmer over slow charcoal fire
+    养 | yǎng | raise; nurture; support
+    痒 | yǎng | itch; tickle
+
+semantic_boundary_contrasts:
+  core_nuance: 喂养 emphasizes providing meals, nutrition, and daily survival care to animals, livestock, or infant children.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 喂养 vs. 饲养 | sìyǎng | 喂养 is warm, domestic, and applicable to pets, babies, or farm animals, whereas 饲养 is a formal agricultural and biological term for raising livestock or lab animals on an industrial scale (饲养场).
+    2 | 喂养 vs. 抚养 | fǔyǎng | 喂养 refers to physical feeding of food, while 抚养 is legal, emotional, and social guardianship in raising human children to adulthood (抚养成人).
+    3 | 喂养 vs. 培育 | péiyù | 喂养 is for animals and infants, whereas 培育 is for cultivating botanical plant seedlings, bacterial cultures, or developing abstract talent and virtues.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 祖母在农家小院里精心喂养着几只毛茸茸的雏鸡。每天清晨天刚破晓，她便准时端着碎谷粒走到鸡舍前，温柔地呼唤着。看着小鸡们争先恐后欢快啄食的情景，平淡简朴的乡村岁月仿佛在温暖的光晕中悄然定格。 | Zǔmǔ zài nóngjiā xiǎoyuàn lǐ jīngxīn wèiyǎng zhe jǐ zhī máorōngrōng de chújī. Měitiān qīngchén tiān gāng pòxiǎo, tā biàn zhǔnshí duānzhe suì gǔlì zǒudào jīshè qián, wēnróu de hūhuàn zhe. Kànzhe xiǎojī men zhēngxiān-kǒnghòu huānkuài zhuóshí de qíngjǐng, píngdàn jiǎnpǔ de xiāngcūn suìyuè fǎngfú zài wēnnuǎn de guāngyùn zhōng qiǎorán dìnggé. | Grandmother lovingly fed several fluffy chicks in the courtyard. Every dawn as skies broke, she walked to the coop with crushed grain, calling tenderly. Watching them peck eagerly, rural simplicity was framed in warm light. | La abuela cuidaba con cariño varios polluelos en el patio. Al alba, acudía con grano molido al gallinero llamándolos con ternura; verlos picotear con alegría congelaba la vida campesina en un cuadro entrañable de paz.
+  #2 | 在高原濒危藏羚羊繁育中心，志愿者们夜以继日地人工喂养失去母亲的幼崽。他们根据幼兽的生长曲线精准调配特制羊奶，用深沉的人性之爱驱散严寒，生动展现了现代生态工作者对生命尊严的崇高守护。 | Zài gāoyuán bīnwēi Zànglíngyáng fányù zhōngxīn, zhìyuànzhě men yèyǐjìrì de réngōng wèiyǎng shīqù mǔqīn de yòuzǎi. Tāmen gēnjù yòushòu de shēngzhǎng qūxiàn jīngzhǔn tiáopèi tèzhì yángnǎi, yòng shēnchén de rénxìng zhī ài qūsàn yánhán, shēngdòng zhǎnshì le xiàndài shēngtài gōngzuòzhě duì shēngmìng zūnyán de chónggāo shǒuhù. | At the plateau antelope center, volunteers fed orphaned calves day and night. Formulating milk based on growth curves, their love banished cold, demonstrating modern conservationists' reverence for life's dignity. | En el centro de cría del antílope tibetano, voluntarios alimentaban día y noche a crías huérfanas. Ajustando la leche a sus curvas biológicas, su afecto templó el frío, dando fe del respeto sagrado a la vida animal.

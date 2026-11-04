@@ -1,0 +1,66 @@
+id: 33
+hanzi: 反应
+pinyin: fǎn yìng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to react; to respond; reaction; chemical reaction; response; physiological reflex
+  es: reaccionar; responder; reacción; reflejo; respuesta a un estímulo; reacción química
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to exhibit a behavioral, physiological, or emotional response to an external stimulus or situation | mostrar una respuesta fisiológica, conductual o anímica ante un estímulo o hecho exterior | 做出灵敏反应 (make an agile reaction)
+  2 | Noun | Standard | a change or response produced in a person, organism, or chemical compound by an outside agent | cambio, respuesta o fenómeno provocado por un agente externo en un organismo o sustancia | 毫无反应 (zero response)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李广的长箭如流星般射入深草，然而草丛中却一片死寂，那只所谓的猛虎竟然连一点儿反应也没有。 | Lǐ Guǎng de chángjiàn rú liúxīng bān shèrù shēncǎo, rán'ér cǎocóng zhōng què yípiàn sǐjì, nà zhī suǒwèi de měnghǔ jìngrán lián yìdiǎnr fǎnyìng yě méiyǒu. | Li Guang's arrow shot like a meteor into the deep grass, yet deadly silence hung over the thicket; the tiger showed no reaction at all. | La flecha de Li Guang cruzó la maleza como un meteoro, pero un silencio sepulcral envolvió el matorral; el supuesto tigre no mostró la menor reacción.
+  #2 | 面对突发公共卫生安全事件，应急指挥中心敏锐研判态势，在半小时内迅速启动了一级响应机制。 | Miànduì tūfā gōnggòng wèishēng ānquán shìjiàn, yīngjí zhǐhuī zhōngxīn mǐnruì yánpàn tàishì, zài bàn xiǎoshí nèi xùnsù qǐdòng le yījí xiǎngyìng jīzhì. | Facing a sudden public health crisis, the emergency center assessed the scenario and swiftly launched a level-one response within thirty minutes. | Ante una imprevista crisis de salud pública, el centro de emergencias evaluó la coyuntura e implementó con presteza un protocolo de respuesta de máximo nivel.
+
+collocations[6]{hanzi,en}:
+  做出反应 | make or give a reaction
+  毫无反应 | show zero reaction; unresponsive
+  反应敏捷 | have quick, agile reflexes
+  不良反应 | adverse reaction (medication)
+  连锁反应 | chain reaction
+  化学反应 | chemical reaction
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  得心应手 | dé xīn yìng shǒu | hand responds smoothly to the heart's mind; proficient and effortless
+  连锁反应 | lián suǒ fǎn yìng | chain reaction; ripple effect
+  一呼百应 | yì hū bǎi yìng | one calls and a hundred respond; widespread rallying
+  应接不暇 | yìng jiē bù xiá | overwhelmed with more calls and events than one can handle
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  反 | fǎn | return; reverse; rebel; contrary | volver; invertir; oponerse; contrario | 又 | right hand | 厂 (cliff, obstacle / inversion) | 又 (yòu, right hand) | 4 | 半包围结构 | Ancient oracle bone pictogram of a hand 又 turning itself over beneath a cliff shelter 厂 to oppose or reverse direction. | A flexible hand (又) turns upside down beneath a cliff wall (厂) to reverse momentum and bounce back (反). | Una mano diestra (又) gira sobre sí misma bajo el acantilado (厂) invirtiendo el sentido para rebotar (反). | 214 | HE | 
+  应 | yīng | respond; answer; ought to; should | responder; corresponder; deber | 广 | wide shelter | 广 (wide hall / echoing chamber) | 隹 (zhuī, bird / phonetic) | 7 | 半包围结构 | Simplified from 應. Ancient pictogram of a heart 心 answering an echo inside a wide chamber 广 beneath a perched bird 隹. | In a spacious echoing hall (广), voice calls out and returns an immediate harmonious answer (应). | En un salón abovedado y espacioso (广), la voz resuena devolviendo un eco fiel que responde a la llamada (应). | 51 | IF | 應
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Turning back in reverse (反) to respond to a voice echoing in the hall (应) creates a dynamic physical or mental reaction (反应).
+  composite_memory_hook_es: Invertir el curso (反) para corresponder al eco que resuena en la estancia (应) engendra una reacción viva (反应).
+  cultural_and_cognitive_roots: In ancient Daoist and medical philosophy, 反应 captures the fundamental cosmic principle of resonance (感应): every physical action or cosmic stimulus produces a reciprocal rebound in human consciousness or bodily organs.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by falling 4th tone: 'fǎn yìng' (214-51). Dip low on 'fǎn', then drop decisively on 'yìng'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    友 | yǒu | friend; companion | Has another stroke crossing through 又
+    及 | jí | reach; attain; and | Has a curving tail stroke instead of 厂
+    床 | chuáng | bed; couch | Has wood radical 木 inside 广 instead of 丷
+    庆 | qìng | celebrate; congratulate | Has 大 inside 广 instead of 丷
+    库 | kù | warehouse; storehouse | Has 车 inside 广 instead of 丷
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    板 | bǎn | board; plank; plate
+    返 | fǎn | return; go back
+    贩 | fàn | peddle; deal in; traffic
+    膺 | yīng | chest; breast; accept
+    鹰 | yīng | falcon; eagle; hawk
+
+semantic_boundary_contrasts:
+  core_nuance: 反应 describes passive or instinctive chemical, physiological, or perceptual reactions provoked by an external stimulus.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 反应 vs. 反映 | fǎnyìng | 反应 means physiological or chemical reaction to an external stimulus (毫无反应), whereas 反映 means reflecting light/images or reporting situations upward to superiors (反映情况).
+    2 | 反应 vs. 回应 | huíyìng | 反应 can be involuntary physiological reflex (pupils dilating, chemical fizzing), while 回应 is always an intentional, conscious verbal reply or statement.
+    3 | 反应 vs. 态度 | tàidù | 反应 describes immediate behavioral feedback, while 态度 is one's persistent moral stance or emotional disposition toward people and matters.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对突如其来的变故与风浪，一个人的第一反应往往最能映射出其内心的修养与定力。慌乱与暴躁只会加剧局势的失控，而沉着冷静地审视现实，才能在瞬息万变的危机中做出最精准、最理智的应对。 | Miànduì tūrúqílái de biàngù yǔ fēnglàng, yí gè rén de dì-yī fǎnyìng wǎngwǎng zuì néng yìngshè chū qí nèixīn de xiūyǎng yǔ dìnglì. Huāngluàn yǔ bàozào zhǐ huì jiājù júshì de shīkòng, ér chénzhuó lěngjìng de shěnshì xiànshí, cáinéng zài shùnxī-wànbiàn de wēijī zhōng zuòchū zuì jīngzhǔn, zuì lǐzhì de yìngduì. | Facing unexpected upheavals, a person's first reaction best mirrors their inner poise. Panic and irritability merely escalate chaos, whereas surveying reality calmly empowers accurate, rational responses in volatile crises. | Ante los giros imprevistos del destino, la primera reacción de una persona retrata la templanza de su ánimo. El desasosiego solo precipita el descontrol, mientras que serenar el juicio permite calibrar una respuesta certera y prudente en la turbulencia.
+  #2 | 在复杂的现代宏观经济调控中，政策出台与市场实际反应之间往往存在一定的滞后效应。决策部门必须通过高频动态监测与大数据模型，精准评估市场各微观主体的敏感度，从而确保调控措施达到预期实效。 | Zài fùzá de xiàndài hóngguān jīngjì tiáokòng zhōng, zhèngcè chūtái yǔ shìchǎng shíjì fǎnyìng zhījiān wǎngwǎng cúnzài yídìng de zhìhòu xiàoyìng. Juécè bùmén bìxū tōngguò gāopín dòngtài jiāncè yǔ dàshùjù móxíng, jīngzhǔn pínggū shìchǎng gè wēiguān zhǔtǐ de mǐngǎndù, cóng'ér quèbǎo tiáokòng cuòshī dádào yùqī shíxiào. | In modern macroeconomic management, lags exist between policy rollouts and actual market reactions. Policymakers must employ high-frequency monitoring and big-data models to gauge micro-entity sensitivity, ensuring targeted efficacy. | En la política macroeconómica contemporánea, media un inevitable desfase entre la promulgación de medidas y la reacción del mercado. Las autoridades han de valerse de modelos masivos de datos para calibrar la sensibilidad de los agentes y afinar su eficacia.

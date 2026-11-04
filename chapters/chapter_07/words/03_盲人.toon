@@ -1,0 +1,65 @@
+id: 3
+hanzi: 盲人
+pinyin: máng rén
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: blind person; visually impaired individual; person without sight
+  es: persona ciega; invidente; persona con discapacidad visual
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person who has lost or lacks visual perception; visually impaired individual | persona privada de la vista o que presenta una ceguera total o severa | 盲人摸象 (blind men touching an elephant)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 城市在主干道上铺设了连续平整的盲道，为盲人日常独立出行提供了坚实的安全保障。 | Chéngshì zài zhǔgàndào shàng pūshè le liánxù píngzhěng de mángdào, wèi mángrén rìcháng dúlì chūxíng tígōng le jiānshí de ānquán bǎozhàng. | The city laid continuous, flat tactile paving along major avenues, offering solid safety protection for blind people's daily independent travel. | La ciudad pavimentó guías táctiles continuas en las avenidas principales, brindando una sólida garantía de seguridad para el tránsito autónomo de las personas ciegas.
+  #2 | 《盲人摸象》这一经典寓言以盲人认知外界的局限为喻，生动警示人们切莫以偏概全。 | 《Mángrén Mō Xiàng》 zhè yì jīngdiǎn yùyán yǐ mángrén rènzhī wàijiè de júxiàn wéi yù, shēngdòng jǐngshì rénmen qièmò yǐpiān-gàiquán. | The classic allegory 'The Blind Men and the Elephant' uses the sensory constraints of blind people as a metaphor, vividly warning against confusing partial impressions with the whole. | La fábula clásica de los ciegos y el elefante toma como metáfora la percepción parcial del invidente para alertar contra el error de juzgar el todo por una parte aislada.
+
+collocations[6]{hanzi,en}:
+  盲人摸象 | blind men feeling an elephant (taking parts for whole)
+  盲人按摩 | blind acupressure massage
+  盲人学校 | school for the blind
+  关爱盲人 | care for and support visually impaired individuals
+  盲人导盲犬 | guide dog for the blind
+  盲人阅读器 | Braille reader for the blind
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  盲人摸象 | máng rén mō xiàng | blind men groping an elephant; take a part for the whole
+  盲人瞎马 | máng rén xiā mǎ | a blind man on a blind horse; rushing headlong into grave danger
+  盲目跟从 | máng mù gēn cóng | follow blindly without discernment
+  目盲心明 | mù máng xīn míng | blind of eye but clear of heart; intuitive wisdom
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  盲 | máng | blind; sightless; lack vision | ciego; invidente; sin visión | 目 | eye | 目 (eye, organ of vision) | 亡 (wáng, perish / phonetic) | 8 | 上下结构 | Phono-semantic compound: 亡 (loss, destruction) sitting atop 目 (eye), signifying that sight in the eyes has been extinguished. | When sight perishes (亡) from above the physical eye (目), total darkness renders one blind (盲). | Cuando la luz fenece y muere (亡) sobre el órgano del ojo (目), la mirada queda a oscuras, creando la ceguera (盲). | 35 | YVBU | 
+  人 | rén | person; human being; someone | persona; ser humano; individuo | 人 | human / person | 人 (biped human figure) | "" | 2 | 单一结构 | Pictogram depicting a human standing upright on two legs, representing moral agency and social humanity. | Two stable strokes leaning together like a human walking upright on the fertile soil of the earth (人). | Dos trazos que se apoyan mutuamente evocando la silueta erguida de un ser humano en camino (人). | 35 | O | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A person (人) whose eyes have lost vision (盲) experiences the physical world through touch and sound as a blind person (盲人).
+  composite_memory_hook_es: Una persona (人) cuyos ojos han perdido la visión (盲) percibe el entorno a través del tacto y el oído como invidente (盲人).
+  cultural_and_cognitive_roots: In classical Chinese epistemology, 盲 denotes optical sightlessness, but is frequently expanded into philosophical metaphors for cognitive bias (盲目, 盲从). The famous fable of 盲人摸象 from Buddhist sutras (涅槃经) established 盲人 as the archetypal symbol of epistemological limitation.
+  tone_sandhi_and_pitch_modulation: Dual rising 2nd tones: 'máng rén' (35-35). Ensure smooth melodious elevation on both syllables without dropping tone mid-way.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    妄 | wàng | absurd; rash; presumptuous | Has 女 (woman) below 亡 instead of 目
+    忘 | wàng | forget; neglect | Has 心 (heart) below 亡 instead of 目
+    芒 | máng | awn of grain; arista | Has grass radical 艹 above 亡
+    忙 | máng | busy; hurried | Has heart radical 忄 next to 亡
+    肓 | huāng | region below heart | Has 月 (flesh) below 亡 instead of 目
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    氓 | máng | commoner; rogue; vagrant
+    茫 | máng | vast and hazy; boundless
+    芒 | máng | awn; sharp tip; radiant point
+    慌 | huāng | panicked; flustered
+    恍 | huǎng | suddenly; in a daze
+
+semantic_boundary_contrasts:
+  core_nuance: 盲人 is the standard, respectful noun for a person with visual impairment, used neutrally in both social and allegorical contexts.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 盲人 vs. 瞎子 | xiāzi | 盲人 is the formal, respectful, and standard societal term used in education, law, and literature, whereas 瞎子 is colloquial and can easily sound blunt, abrasive, or derogatory if misused.
+    2 | 盲人 vs. 视障者 | shìzhàngzhě | 盲人 primarily denotes individuals with total or near-total blindness, whereas 视障者 (visually impaired persons) is a modern clinical umbrella term including low-vision and partial visual impairments.
+    3 | 盲人 vs. 残疾人 | cánjírén | 盲人 specifies visual disability exclusively, whereas 残疾人 is the broad generic term encompassing all physical, sensory, and intellectual disabilities.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 盲人的世界虽然没有斑斓的色彩，但他们的指尖却能触摸到常人难以察觉的细腻肌理。用耳朵倾听风声，用内心体察人情，失明并没有遮蔽他们对生活的热爱，反而让灵魂沉淀得更为纯粹澄澈。 | Mángrén de shìjiè suīrán méiyǒu bānlán de sècǎi, dàn tāmen de zhǐjiān què néng chùmō dào chángrén nányǐ chájào de xìnì jīlǐ. Yòng ěrduo qīngtīng fēngshēng, yòng nèixīn tǐchá rénqíng, shīmíng bìng méiyǒu zhēbì tāmen duì shēnghuó de rè'ài, fǎn'ér ràng línghún chéndiàn de gèngwéi chúncuì chéngchè. | Although the world of blind people lacks resplendent colors, their fingertips can perceive delicate textures imperceptible to others. Listening to winds and intuiting human warmth, blindness never dims their love of life; rather, it distills their souls into pure lucidity. | Aunque el mundo de los invidentes carezca de colores vivos, la yema de sus dedos capta texturas sutiles inadvertidas para la vista. Al escuchar el viento y auscultar el sentir ajeno, la ceguera no apaga su amor por la existencia, sino que dota a su espíritu de serena transparencia.
+  #2 | 在无障碍智慧城市建设中，保障盲人群体的出行与数字权益已成为文明发展的重要指标。通过引入高精度语音导航系统与智能触觉感知设备，现代科技正在打破感官隔阂，协助视障人士更加自信从容地融入社会生活。 | Zài wúzhàng'ài zhìhuì chéngshì jiànshè zhōng, bǎozhàng mángrén qúntǐ de chūxíng yǔ shùzì quányì yǐ chéngwéi wénmíng fāzhǎn de zhòngyào zhǐbiāo. Tōngguò yǐnrù gāojīngdù yǔyīn dǎoháng xìtǒng yǔ zhìnéng chùjué gǎnzhī shèbèi, xiàndài kējì zhèngzài dǎpò gǎnguān géhé, xiézhù shìzhàng rénshì gèngjiā zìxìn cóngróng de róngrù shèhuì shēnghuó. | In building barrier-free smart cities, safeguarding the mobility and digital rights of the blind has become a vital benchmark of progress. By introducing precision voice navigation and tactile sensory devices, technology bridges sensory divides, empowering blind citizens to integrate into society. | En el desarrollo de urbes inteligentes e inclusivas, velar por la movilidad y los derechos digitales de los invidentes es signo de madurez social. La navegación por voz y los sensores hápticos derriban barreras sensoriales, permitiendo a las personas con ceguera desenvolverse con plena autonomía.

@@ -46,5 +46,21 @@ window.__HSK_CHAPTERS_MANIFEST__ = [
     "title": "除夕的传说与传统习俗 (The Legend of New Year's Eve & Folk Traditions)",
     "word_count": 35,
     "level": "HSK 5"
+  },
+  {
+    "id": 7,
+    "dir": "chapter_07",
+    "name": "Chapter 7",
+    "title": "成语故事两则 (Two Idiom Stories)",
+    "word_count": 44,
+    "level": "HSK 5"
+  },
+  {
+    "id": 8,
+    "dir": "chapter_08",
+    "name": "Chapter 8",
+    "title": "“朝三暮四”的古今义 (Ancient & Modern Meanings of Zhao San Mu Si)",
+    "word_count": 42,
+    "level": "HSK 5"
   }
 ];

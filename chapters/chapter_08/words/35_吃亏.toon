@@ -1,0 +1,66 @@
+id: 35
+hanzi: 吃亏
+pinyin: chī kuī
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to suffer losses; to get the short end of the stick; to be at a disadvantage; disadvantageous
+  es: salir perdiendo; sufrir pérdidas; salir perjudicado; llevar las de perder; estar en desventaja
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to suffer economic losses, damage, or unfair disadvantages in a transaction or rivalry | sufrir quebrantos materiales, desventajas o perjuicios en tratos o contiendas | 吃亏上当 (suffer losses and get cheated)
+  2 | Verb | Standard | to be in an unfavorable position or suffer setbacks due to a specific personal shortcoming or vulnerability | estar en clara desventaja debido a cierta limitación o flaqueza personal | 吃了没经验的亏 (suffered for lack of experience)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 购买二手汽车时一定要请专业检修师傅帮忙把关，切莫贪图便宜盲目付款，以免日后吃大亏。 | Gòumǎi èrshǒu qìchē shí yídìng yào qǐng zhuānyè jiǎnxiū shīfu bāngmáng bǎguān, qièmò tāntú piányi mángmù fùkuǎn, yǐmiǎn rìhòu chī dàkuī. | When buying a used car, always ask a professional mechanic to inspect it; never rush to pay for petty bargains, or you will suffer big losses later. | Al comprar un coche usado es indispensable que lo revise un perito; no se apresure por ahorrar cuatro cuartos si no quiere salir malparado luego.
+  #2 | 中国民间常讲“吃亏是福”，这并非消极忍让，而是提倡一种宽厚待人、不锱铢必较的豁达处世智慧。 | Zhōngguó mínjiān cháng jiǎng "chīkuī shì fú", zhè bìngfēi xiāojí rěnràng, érshì tíchàng yì zhǒng kuānhòu dàirén, bù zīzhū-bìjiào de huòdá chǔshì zhìhuì. | The Chinese saying "taking a loss is a blessing" is not passive submission, but an open-minded wisdom urging generosity rather than pettiness over trifles. | El adagio chino "ceder en pérdidas es ventura" no predica sumisión, sino la generosa sabiduría de no regatear pequeñeces y convivir con magnanimidad.
+
+collocations[6]{hanzi,en}:
+  吃亏上当 | suffer losses and get swindled
+  绝不吃亏 | never accept disadvantage; refuse to lose out
+  吃大亏 | suffer a severe setback; take a huge hit
+  吃小亏占大便宜 | suffer minor loss to gain major advantage
+  在所难免吃亏 | inevitable to suffer losses
+  吃亏是福 | taking a loss is a blessing; magnanimity brings good fortune
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  吃亏是福 | chī kuī shì fú | taking a loss brings blessings; tolerance yields good fortune
+  因小失大 | yīn xiǎo shī dà | lose big over small gains; penny wise and pound foolish
+  顾此失彼 | gù cǐ shī bǐ | attend to one while losing another; unable to balance both
+  得不偿失 | dé bù cháng shī | the gains do not offset the losses; not worth the candle
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  吃 | chī | eat; consume; suffer; endure | comer; tragar; sufrir; aguantar | 口 | mouth | 口 (mouth taking in food) | 乞 (qǐ, beg / phonetic) | 6 | 左右结构 | Phono-semantic character where mouth radical 口 depicts consuming food or absorbing impact, and 乞 supplies sound. | An open mouth (口) taking in and swallowing bitter portions, metaphorically enduring hardship or financial loss (吃). | Una boca abierta (口) que traga amarguras sin rechistar, simbolizando encajar pérdidas o quebrantos (吃). | 55 | RON | 喫
+  亏 | kuī | deficit; loss; deficiency; fail | pérdida; menoscabo; déficit; mengua | 一 | one / root stroke | 二 (two layers) | 丂 (sigh / breath blocked) | 3 | 单一结构 | Simplified from 虧. Ancient oracle pictograph of a sighing breath 丂 encountering a gap or deficit in offerings, signifying loss and deficiency. | When expected gains fail to match reality, a heavy sigh escapes over the hollow shortfall and deficit (亏). | Ante la falta de beneficios justos, se escapa un hondo suspiro por la mengua y el desfalco sufrido (亏). | 55 | MMVS | 虧
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Swallowing with one's mouth (吃) the bitter shortfall and deficit of a raw deal (亏) captures suffering losses and losing out (吃亏).
+  composite_memory_hook_es: Tragar por la boca (吃) la merma y el desfalco amargo (亏) define sufrir pérdidas y salir perjudicado (吃亏).
+  cultural_and_cognitive_roots: The cultural motto 'Chīkuī shì fú' (吃亏是福) was made famous by Qing dynasty painter Zheng Banqiao (郑板桥). In Chinese social psychology, voluntarily accepting minor disadvantages builds moral capital, prevents envious enmity, and harmonizes community relations.
+  tone_sandhi_and_pitch_modulation: Double high-level 1st tones: 'chī kuī' (55-55). Maintain a crisp, elevated pitch trajectory across both syllables evenly.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    叫 | jiào | call; yell; shout | Right side is 丩 instead of 乞
+    吸 | xī | inhale; suck | Right side is 及 instead of 乞
+    乞 | qǐ | beg; request | Lacks the mouth radical 口 on the left
+    于 | yú | in; at; to | Second horizontal stroke is longer, lacks hook bottom
+    专 | zhuān | special; dedicated | Has point dot on top right
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    吃 | chī | eat; ingest; bear; suffer
+    受 | shòu | receive; accept; suffer
+    亏 | kuī | loss; deficit; deficient
+    损 | sǔn | damage; lose; injure
+    负 | fù | bear; carry; lose; negative
+
+semantic_boundary_contrasts:
+  core_nuance: 吃亏 emphasizes ending up in an unfair, disadvantageous, or losing position in dealings with others.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 吃亏 vs. 失败 | shībài | 吃亏 denotes losing out or receiving unfair terms in an interaction, while 失败 means failing to achieve a goal or being defeated in a contest.
+    2 | 吃亏 vs. 倒霉 | dǎoméi | 吃亏 implies being taken advantage of or suffering a concrete loss (often avoidable through wisdom), while 倒霉 emphasizes blind bad luck or arbitrary misfortune.
+    3 | 吃亏 vs. 牺牲 | xīshēng | 吃亏 suggests an involuntary or unreciprocated loss, whereas 牺牲 denotes noble, conscious self-sacrifice for a greater cause.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 初入职场的年轻人总害怕多干活吃亏，殊不知那些主动承担杂事、不计较一时得失的人，反而在悄然中积累了最扎实的实战经验与良好的人缘口碑。 | Chūrù zhíchǎng de niánqīngrén zǒng hàipà duō gànhuó chīkuī, shūbùzhī nàxiē zhǔdòng chéngdān záshì, bú jìjiào yìshí déshī de rén, fǎn'ér zài qiǎorán zhōng jīlěi le zuì zhāshi de shízhàn jīngyàn yǔ liánghǎo de rényuán kǒubēi. | Novices entering the workplace often fear taking on extra work and losing out, unaware that shouldering tasks builds valuable practical experience and trust. | Quienes debutan en el trabajo temen salir perdiendo al asumir más tareas, sin reparar en que esa solícita entrega les forja una experiencia sólida y buen aprecio.
+  #2 | 庄子寓言中的猴群见“朝三暮四”便怒目圆睁，误以为自己吃了大亏；及至改为“朝四暮三”，便个个喜笑颜开。这则幽默的故事深刻警示我们，切莫被眼前的得失算计蒙蔽了审视全局的智慧眼光。 | Zhuāngzǐ yùyán zhōng de hóuqún jiàn "zhāosān-mùsì" biàn nùmù-yuánzhēng, wùyǐwéi zìjǐ chī le dàkuī; jízhì gǎi wéi "zhāosì-mùsān", biàn gègè xǐxiào-yánkāi. Zhè zé yōumò de gùshì shēnkè jǐngshì wǒmen, qièmò bèi yǎnqián de déshī suànjì méngbì le shěnshì quánjú de zhìhuì yǎnguāng. | In Zhuangzi's fable, the monkeys were enraged at "three in morning and four at night", fearing a raw deal, yet rejoiced when reversed. This warns us not to let petty accounting blind our holistic perspective. | En la fábula del Zhuangzi, los monos chillaban creyendo salir perjudicados con tres bellotas al alba; al trocarlas a cuatro, bailaron alegres. La historia nos alerta contra la cerrazón miope ante los balances globales.

@@ -1,0 +1,66 @@
+id: 15
+hanzi: 平
+pinyin: píng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: flat; level; smooth; even; peaceful; equal; tied (score)
+  es: plano; llano; liso; nivelado; pacífico; igual; empatado
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | having a flat, level, smooth horizontal surface without bumps, slopes, or irregularities | que tiene una superficie horizontal lisa, sin desniveles, asperezas ni pendientes | 平整的路面 (level road surface)
+  2 | Adjective | Standard | peaceful; tranquil; calm; free from danger, turmoil, or anxiety | pacífico; sosegado; tranquilo; libre de peligro o zozobra | 平平安安 (safe and sound)
+  3 | Adjective / Verb | Standard | equal; on the same plane; to tie in a contest or match | igual; empatado; quedar en tablas | 打成平局 (end in a draw)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过市政工人的连续连夜抢修，门前坑洼不平的道路终于被修缮得既平整又宽敞。 | Jīngguò shìzhèng gōngrén de liánxù liányè qiǎngxiū, ménqián kēngwā-bùpíng de dàolù zhōngyú bèi xiūshàn de jì píngzhěng yòu kuānchǎng. | Following workers' continuous overnight repairs, the potholed road in front of our gate was finally restored to a flat, spacious condition. | Tras la continua labor nocturna de los operarios municipales, la calzada bacheada frente a casa quedó al fin lisa, nivelada y espaciosa.
+  #2 | 摸到象身侧面的盲人摸到了平滑厚实的皮肤，便理直气壮地宣称大象明明就是一面平平整整的墙。 | Mōdào xiàng shēn cèmiàn de mángrén mōdào le pínghuá hòushí de pífū, biàn lǐzhí-qìzhuàng de xuānchēng dàxiàng míngmíng jiùshì yí miàn píngpíng-zhěngzhěng de qiáng. | The blind man who felt the flank of the elephant touched its flat, thick hide, and proclaimed with full conviction that an elephant was simply a flat wall. | El ciego que palpó el costado del paquidermo rozó su piel lisa y recia, y declaró con aplomo que el elefante era idéntico a una pared completamente plana.
+
+collocations[6]{hanzi,en}:
+  平整路面 | smooth and level road surface
+  平静心情 | calm, tranquil mood
+  平时生活 | ordinary times; daily peacetime life
+  平等待人 | treat people with equality
+  打成平手 | tie a match; end in a draw
+  水平高超 | superb level or standard
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  平易近人 | píng yì jìn rén | amiable and approachable; easy to get along with
+  风平浪静 | fēng píng làng jìng | calm winds and tranquil waves; serene and untroubled
+  心平气和 | xīn píng qì hé | calm and good-tempered; composed in mind and breath
+  平步青云 | píng bù qīng yún | ascend rapidly in one's career; skyrocket smoothly
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  平 | píng | flat; level; equal; calm | plano; llano; igual; calmo | 干 | shield / dry / stem | 干 (upright post) | 八 (bā, dividing equally to both sides) | 5 | 单一结构 | Ancient bronze pictogram of a balance beam or aquatic weed floating evenly across the water surface, dividing balance equally. | A horizontal level beam divides balance equally to both left and right (八), producing perfect flatness (平). | Una barra horizontal equilibra la balanza hacia ambos lados (八), logrando un estado perfectamente llano y calmo (平). | 35 | MFJ | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Balancing weight equally across a horizontal beam creates an even, calm, and perfectly flat surface (平).
+  composite_memory_hook_es: Equilibrar los pesos en una balanza horizontal crea una superficie llana, equilibrada y en calma (平).
+  cultural_and_cognitive_roots: In ancient Chinese cosmology, 平 symbolizes harmony and equilibrium (天平, 和平). Physically it means flat terrain, socially it stands for justice and egalitarian fairness (公平, 平等), and psychologically it reflects a tranquil, unruffled mind (平心静气).
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'píng' (35). The voice glides upward smoothly and evenly from the middle pitch to the high contour.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    干 | gān | shield; dry; trunk | Lacks the two slanted dots/strokes 八
+    半 | bàn | half; partly | Has 丷 above horizontal stroke and crosses down through line
+    苹 | píng | apple | Has grass radical 艹 above 平
+    评 | píng | criticize; evaluate | Has speech radical 讠 next to 平
+    坪 | píng | level ground; plain | Has earth radical 土 next to 平
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    评 | píng | appraise; critique; comment
+    苹 | píng | duckweed; apple
+    坪 | píng | level open field; terrace
+    瓶 | píng | bottle; vase; jar
+    砰 | pēng | thump; bang (sound of collision)
+
+semantic_boundary_contrasts:
+  core_nuance: 平 conveys the fundamental absence of unevenness, tilt, friction, or mental agitation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 平 vs. 直 | zhí | 平 means flat and horizontal in spatial relief without slopes or hills (平坦), whereas 直 means straight without curves or bending (笔直).
+    2 | 平 vs. 滑 | huá | 平 describes a surface that has no bumps or grade changes (平整), while 滑 emphasizes sleek slipperiness with low surface friction (光滑).
+    3 | 平 vs. 和 | hé | 平 highlights stillness, serenity, and emotional tranquility (心平), while 和 emphasizes social harmony, cordiality, and unity among differing factions (和谐).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在古城平整的青石板路上，雨后的空气中弥漫着泥土的清香。抛开城市的喧嚣与浮躁，静静注视着水面上泛起的微波，内心慢慢归于平淡与宁静。平平淡淡的寻常岁月，往往蕴藏着最动人的诗意。 | Mànbù zài gǔchéng píngzhěng de qīngshíbǎn lù shàng, yǔ hòu de kōngqì zhōng mímàn zhe nítǔ de qīngxiāng. Pāokāi chéngshì de xuāoxiāo yǔ fúzào, jìngjìng zhùshì zhe shuǐmiàn shàng fànqǐ de wēibō, nèixīn mànmàn guīyú píngdàn yǔ níngjìng. Píngpíng-dàndàn de xúncháng suìyuè, wǎngwǎng yùncáng zhe zuì dòngrén de shīyì. | Strolling on the flat bluestone paths of the ancient town, post-rain breezes carry the fragrance of earth. Cast aside urban tumult and gaze at ripples upon the water; inner calm settles into serene simplicity. The most ordinary life cradles poetry. | Paseando sobre las losas llanas de la villa antigua, el aire tras la lluvia huele a tierra pura. Desechado el bullicio mundano, contemplar el suave oleaje devuelve al alma la calma y la sobriedad. La vida sencilla y apacible custodia la más honda poesía.
+  #2 | 在构建现代法治社会的过程中，维护社会公平与司法正义是凝聚公众共识的坚固基石。唯有保证各项制度在阳光下运行，让每一位公民都能享有平等的发展机遇，才能推动国家治理体系迈向更高水平。 | Zài gòujiàn xiàndài fǎzhì shèhuì de guòchéng zhōng, wéihù shèhuì gōngpíng yǔ sīfǎ zhèngyì shì níngjù gōngzhòng gòngshí de jiāngù jīshí. Wéiyǒu bǎozhèng gè xiàng zhìdù zài yángguāng xià yùnxíng, ràng měi yí wèi gōngmín dōu néng xiǎngyǒu píngděng de fāzhǎn jīyù, cáinéng tuīdòng guójiā zhìlǐ tǐxì màixiàng gèng gāo shuǐpíng. | In constructing a rule-of-law society, safeguarding fairness and justice is the foundation for public consensus. Ensuring transparent institutions and equal development opportunities for all citizens elevates national governance to higher standards. | En la consolidación del Estado de derecho, salvaguardar la equidad social y la justicia procesal constituye un pilar innegociable. Solo garantizando la transparencia institucional y la igualdad de oportunidades para cada ciudadano podrá elevarse la gobernanza a nuevas cotas.

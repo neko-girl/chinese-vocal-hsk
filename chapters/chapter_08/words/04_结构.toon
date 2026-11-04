@@ -1,0 +1,65 @@
+id: 4
+hanzi: 结构
+pinyin: jié gòu
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: structure; composition; construction; framework; architecture of a system
+  es: estructura; composición; entramado; conformación interna; arquitectura de un sistema
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the arrangement of and relations between the parts or elements of something complex; internal framework | disposición y trabazón de las partes que integran un todo complejo; entramado | 语法结构 (grammatical structure)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四字成语大多具有高度对称的语法结构，如主谓、并列或动宾搭配，体现出汉语对仗工整的独特审美。 | Sì zì chéngyǔ dàduō jùyǒu gāodù duìchèn de yǔfǎ jiégòu, rú zhǔwèi, bìngliè huò dòngbīn dāpèi, tǐxiàn chū Hànyǔ duìzhàng-gōngzhěng de dútè shěnměi. | Four-character idioms mostly possess symmetrical grammatical structures like subject-predicate or coordinate pairs, manifesting Chinese aesthetics. | Los modismos de cuatro caracteres suelen presentar estructuras gramaticales simétricas que revelan la admirable estética armónica del chino.
+  #2 | 这座历经千年风雨的古代木结构塔楼，凭借精巧的榫卯连接，在多次大地震中依然巍然挺立、完好无损。 | Zhè zuò lìjīng qiānnián fēngyǔ de gǔdài mùjiégòu tǎlóu, píngjiè jīngqiǎo de sǔnmǎo liánjiē, zài duō cì dà dìzhèn zhōng yīrán wēirán tǐnglì, wánhǎo-wúsǔn. | This thousand-year-old timber pagoda, through ingenious mortise-and-tenon joints, still stands intact through earthquakes. | Esta pagoda milenaria de madera, gracias a su ensamblaje de caja y espiga, ha resistido fuertes seísmos manteniéndose erguida e incólume.
+
+collocations[6]{hanzi,en}:
+  语法结构 | grammatical or syntactic structure
+  组织结构 | organizational structure
+  木质结构 | wooden structure or timber framework
+  调整结构 | adjust the structure (e.g. economic structure)
+  社会结构 | social structure or fabric
+  倒金字塔结构 | inverted pyramid structure
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  解构重组 | jiě gòu chóng zǔ | deconstruct and reorganize
+  错综复杂 | cuò zōng fù zá | intricate and complex; tangled web
+  千锤百炼 | qiān chuí bǎi liàn | hammered a thousand times; thoroughly tempered
+  独具匠心 | dú jù jiàng xīn | possess unique ingenuity; original craftsmanship
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  结 | jié | tie knot; bind; crystallize; fruit | anudar; atar; cuajar; trabar | 纟 | silk / thread | 纟 (silk thread, knotting) | 吉 (jí, auspicious / firm) | 9 | 左右结构 | Phono-semantic compound: silk thread 纟 tied into an auspicious knot 吉, symbolizing binding structural elements firmly. | Weaving strong silk cords (纟) into an auspicious, unbreakable knot (吉) firmly binds components together (结). | Hebras de seda firme (纟) anudadas con ventura (吉) traban los elementos de un conjunto (结). | 35 | VMGR | 結
+  构 | gòu | construct; build; compose; frame | construir; armar; urdir; tramar | 木 | tree / wood | 木 (timber beams) | 勾 (gōu, hook / interlocking joinery) | 8 | 左右结构 | Simplified from 構. Ancient pictogram of timber logs 木 interlocked using hooked joinery 勾 to build eaves. | Hooking timber beams (木) together with precision joints (勾) frames the skeleton of a building (构). | Ensamblar vigas de madera (木) con ganchos y espigas (勾) levanta el armazón de un edificio (构). | 51 | DPA | 構
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Tying cords together (结) to interlock sturdy wooden roof beams (构) assembles the overarching architecture and structure (结构).
+  composite_memory_hook_es: Trabar ligaduras (结) que ensamblan las vigas maestras (构) levanta el armazón y la estructura (结构).
+  cultural_and_cognitive_roots: In ancient Chinese architectural theory (营造法式), 结构 specifically designated the dougong bracket sets (斗栱) and interlocking mortise-and-tenon timbers that distributed roof weight safely without nails. Metaphorically, it expanded into literary composition, sentence syntax, and macro-economics.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by falling 4th tone: 'jié gòu' (35-51). Rise smoothly on 'jié', then strike down firmly on 'gòu'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    洁 | jié | clean; pure | Has water radical 氵 on the left instead of 纟
+    秸 | jiē | stalks of grain | Has grain radical 禾 on the left instead of 纟
+    钩 | gōu | hook; barb | Has metal radical 钅 on the left instead of 木
+    沟 | gōu | ditch; trench; groove | Has water radical 氵 on the left instead of 木
+    购 | gòu | buy; purchase | Has cowrie shell 贝 on the left instead of 木
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    构 | gòu | construct; compose; build
+    钩 | gōu | metallic hook; barb
+    沟 | gōu | ditch; furrow; canal
+    勾 | gōu | hook; induce; cross off
+    购 | gòu | purchase; buy; acquire
+
+semantic_boundary_contrasts:
+  core_nuance: 结构 emphasizes the internal relationship and organizational pattern among components of an organic whole.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 结构 vs. 构造 | gòuzào | 结构 emphasizes the relational framework and balance between parts (句子结构, 产业结构), whereas 构造 emphasizes the mechanical manufacture, geological formation, or structural anatomy (地质构造, 机械构造).
+    2 | 结构 vs. 组织 | zǔzhī | 结构 is the static arrangement of pieces, whereas 组织 refers either to dynamic living biological tissue or human sociopolitical institutions.
+    3 | 结构 vs. 骨架 | gǔjià | 结构 includes all internal connections and balance, while 骨架 refers strictly to the bare structural skeleton or load-bearing ribs.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走进古典园林，回廊与漏窗之间巧妙的层次结构总能引人入胜。移步换景的精妙设计，打破了原本狭小的物理空间局限，使假山、清池与修竹在错落有致的布局中融为一体，展现出东方营建哲学的高超智慧。 | Zǒujìn gǔdiǎn yuánlín, huíláng yǔ lòuchuāng zhījiān qiǎomiào de céngcì jiégòu zǒng néng yǐnrén-rùshèng. Yíbù-huànjǐng de jīngmiào shèjì, dǎpò le yuánběn xiáxiǎo de wùlǐ kōngjiān júxiàn, shǐ jiǎshān, qīngchí yǔ xiūzhú zài cuòluò-yǒuzhì de bùjú zhōng róngwéiyìtǐ, zhǎnshì chū dōngfāng yíngjiàn zhéxué de gāochāo zhìhuì. | Entering classical gardens, the subtle layered structures between verandas and openwork windows enchant. Changing scenes at every step transcend physical confines, blending artificial peaks, ponds, and bamboo into architectural harmony. | En los jardines clásicos, el juego estructural entre corredores y celosías cautiva la mirada. Su diseño altera la percepción espacial integrando riscos artificiales, estanques y bambúes en una primorosa lección de arquitectura oriental.
+  #2 | 在经济全球化面临深刻调整的背景下，优化升级国内产业链与供给侧结构已成为保障经济韧性的关键举措。通过推动传统产业数字化转型，培育战略性新兴产业集群，中国经济正向更高质量的发展轨道坚实迈进。 | Zài jīngjì quánqiúhuà miànlín shēnkè tiáozhěng de bèijǐng xià, yōuhuà shēngjí guónèi chǎnyèliàn yǔ gōngjǐcè jiégòu yǐ chéngwéi bǎozhàng jīngjì rènxìng de guānjiàn jǔcuò. Tōngguò tuīdòng chuántǒng chǎnyè shùzìhuà zhuǎnxíng, péiyù zhànlüèxìng xīnxīng chǎnyè jíqún, Zhōngguó jīngjì zhèng xiàng gèng gāozhìliàng de fāzhǎn guǐdào jiānshí màijìn. | Amid shifts in economic globalization, upgrading domestic industrial and supply-side structures is critical for resilience. Fostering digital transformation and emerging clusters propels the economy toward high-quality development. | Frente a la reorganización económica global, optimizar las cadenas productivas y la estructura de la oferta es vital para la resiliencia. La digitalización fabril y los sectores estratégicos afianzan un crecimiento de alta calidad.

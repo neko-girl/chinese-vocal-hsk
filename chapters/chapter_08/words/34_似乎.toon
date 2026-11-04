@@ -1,0 +1,65 @@
+id: 34
+hanzi: 似乎
+pinyin: sì hū
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: as if; it seems; seemingly; apparently; looking like
+  es: al parecer; parece que; como si; aparentemente; semejante a
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | expressing uncertain conjecture, tentative inference, or cautious impression ("seemingly", "as though", "it appears") | adverbio que expresa conjetura prudente, impresión dubitativa o apariencia ("parece que", "al parecer") | 似乎明白 (seemingly understand / appear to grasp)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 窗外飘起了淅淅沥沥的细雨，路上的行人都加快了脚步，天色似乎比往常暗得更早了一些。 | Chuāngwài piāoqǐ le xīxī-lìlì de xìyǔ, lùshang de xíngrén dōu jiākuài le jiǎobù, tiānsè sìhū bǐ wǎngcháng àn de gèng zǎo le yìxiē. | Outside the window, a drizzle began to fall; pedestrians quickened their pace, and dusk seemed to descend earlier than usual. | Por la ventana caía una mansa llovizna; los transeúntes apuraban el paso y el anochecer parecía adelantarse más de lo habitual.
+  #2 | 面对浩瀚复杂的未知宇宙，人类已有的科学认知似乎仅仅触及了冰山一角，更多的自然奥秘依然深藏在黑暗之中。 | Miànduì hàohàn fùzá de wèizhī yǔzhòu, rénlèi yǐyǒu de kēxué rènzhī sìhū jǐnjǐn chùjí le bīngshān-yìjiǎo, gèngduō de zìrán àomì yīrán shēncáng zài hēi'àn zhīzhōng. | Confronting the vast cosmos, existing human scientific knowledge seems merely to touch the tip of an iceberg, with vast mysteries still hidden in darkness. | Ante la inmensidad del cosmos, el saber científico humano parece apenas rozar la punta del iceberg, permaneciendo ocultos infinitos arcanos.
+
+collocations[6]{hanzi,en}:
+  似乎听懂了 | seemingly understood; appeared to comprehend
+  似乎很忙 | seemingly very busy; apparently occupied
+  似乎并不在意 | apparently unconcerned; seemingly not minding
+  似乎有道理 | seems to make sense; apparently plausible
+  似乎要下雨 | it looks like rain; seemingly about to rain
+  似乎有些遗憾 | seemingly tinged with regret; apparently somewhat regretful
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  似懂非懂 | sì dǒng fēi dǒng | seem to understand yet not understand; half-comprehending
+  似是而非 | sì shì ér fēi | seemingly right but actually wrong; specious
+  恍如隔世 | huǎng rú gé shì | as if separated by an entire epoch; dreamlike passing of time
+  视若无睹 | shì ruò wú dǔ | look at without seeing; turn a blind eye to
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  似 | sì | resemble; appear; like; as if | parecer; semejante; como si | 亻 | person | 亻 (person) | 以 (yǐ, by means of / phonetic) | 6 | 左右结构 | Phono-semantic character combining person radical 亻 with phonetic 以, signifying taking after someone or resembling closely. | One person (亻) standing alongside another (以) looks strikingly alike, evoking resemblance and tentative likeness (似). | Una persona (亻) junto a otra (以) muestra un parecido asombroso, transmitiendo semejanza y apariencia probable (似). | 51 | OVIO | 
+  乎 | hū | modal particle / at / in | partícula interrogativa o modal | 丿 | slash / stroke | 兮 (exclamatory sigh) | 丂 (breath rising) | 5 | 单一结构 | Ancient pictograph of a person's breath and voice 丂 dispersing into the air with an exclamatory sigh, denoting wonder or doubt. | An exhale of breath lingering in air with questioning doubt, lending an air of conjecture and wonder to statements (乎). | Un suspiro que se exhala en el aire con suave duda, aportando un matiz de conjetura y reflexión (乎). | 55 | HFD | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Resembling someone's image (似) coupled with a questioning sigh of wonder (乎) creates the tentative impression that it seems or appears so (似乎).
+  composite_memory_hook_es: Parecerse a la imagen de algo (似) sumado a un suspiro interrogativo (乎) sugiere que así parece ser (似乎).
+  cultural_and_cognitive_roots: Chinese literary and epistemological rhetoric emphasizes epistemic humility (慎言 / 存疑). Adverbs like 似乎 soften assertions into prudent approximations, avoiding dogmatic certainty in matters of subtle perception.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by high-level 1st tone: 'sì hū' (51-55). Plunge crisply on 'sì' before springing up to sustained high pitch on 'hū'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    以 | yǐ | by means of; according to | Lacks the person radical 亻 on the left
+    拟 | nǐ | draft; plan; emulate | Has hand radical 扌 on the left instead of person 亻
+    平 | píng | flat; level; equal | Top stroke is horizontal, lacking 乎's curved hook
+    半 | bàn | half | Top strokes differ and has vertical cutting straight down
+    呼 | hū | exhale; shout; call | Has mouth radical 口 on the left of 乎
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    似 | sì | resemble; seem; like
+    像 | xiàng | look like; resemble; portrait
+    彷 | fǎng | seemingly; hesitate; roam
+    佛 | fú | as if; seemingly (仿佛)
+    乎 | hū | classical modal particle; exclamation
+
+semantic_boundary_contrasts:
+  core_nuance: 似乎 is an adverb indicating subjective, intuitive conjecture or a cautious impression of probability.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 似乎 vs. 好象 | hǎoxiàng | 似乎 is more formal and literary, whereas 好像 is universal in casual spoken dialogue.
+    2 | 似乎 vs. 仿佛 | fǎngfú | 似乎 expresses logical probability or tentative judgment, while 仿佛 carries poetic or illusory overtones of dreamlike resemblance.
+    3 | 似乎 vs. 也许 | yěxǔ | 似乎 describes how a situation currently looks or strikes the senses, whereas 也许 expresses a factual, statistical possibility ("maybe / perhaps").
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走在暮色笼罩的古镇石板路上，远处隐隐约约传来江南评弹的琵琶声。那幽婉低回的旋律，似乎正从百年前的幽深弄堂穿越时空而来，让人恍惚置身于如烟往昔。 | Zǒu zài mùsè lǒngzhào de gǔzhèn shíbǎnlù shàng, yuǎnchù yǐnyǐn-yuēyuē chuánlái Jiāngnán píngtán de pípa shēng. Nà yōuwǎn dīhuí de xuánlǜ, sìhū zhèng cóng bǎinián qián de yōushēn lòngtáng chuānyuè shíkōng ér lái, ràng rén huǎnghū zhìshēn yú rúyān wǎngxī. | Walking ancient flagstones at dusk, faint pipa notes of Jiangnan pingtan drifted from afar. The melodious strains seemed to travel across a century of deep alleys, evoking bygone eras. | Al caminar por los adoquines del pueblo al atardecer, llegaban notas de laúd pingtan desde la lejanía. Aquella melodía parecía viajar a través de los siglos sumiéndonos en un ensueño.
+  #2 | 现代人身处快节奏的数字洪流之中，整日忙于刷取信息，内心的专注与沉静似乎正在不知不觉中被悄然蚕食。偶尔合上屏幕回归书卷，才能重新找回灵魂深处的安宁与从容。 | Xiàndàirén shēnchǔ kuàijièzòu de shùzì hóngliú zhīzhōng, zhěngrì mángyú shuāqǔ xìnxī, nèixīn de zhuānzhù yǔ chénjìng sìhū zhèngzài bùzhī-bùjué zhōng bèi qiǎorán cánshí. Ǒu'ěr héshàng píngmù huíguī shūjuàn, cáinéng chóngxīn zhǎohuí línghún shēnchù de ānníng yǔ cóngróng. | Caught in the rapid digital torrent, modern minds are busy browsing; inner focus and calm seem quietly eroded. Closing screens to return to books restores peace and composure to the soul. | Inmersos en la vorágine digital, los hombres de hoy devoran pantallas mientras su calma interior parece erosionarse sin tregua. Cerrar los monitores rescata el sosiego del alma.

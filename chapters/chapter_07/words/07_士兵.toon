@@ -1,0 +1,65 @@
+id: 7
+hanzi: 士兵
+pinyin: shì bīng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: soldier; private; rank-and-file serviceman; combatant
+  es: soldado; militar raso; combatiente; miembro de las fuerzas armadas
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an enlisted member of an army or armed forces below the rank of officer | miembro de las tropas de un ejército de rango inferior a la oficialidad; combatiente | 英勇的士兵 (valiant soldier)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对突如其来的洪涝灾害，数千名年轻士兵奋不顾身地跳入冰冷刺骨的洪水中抢修堤坝。 | Miànduì tūrúqílái de hónglào zāihài, shù qiān míng niánqīng shìbīng fènbùgùshēn de tiàorù bīnglěng cìgǔ de hóngshuǐ zhōng qiǎngxiū dībà. | In the face of sudden torrential floods, thousands of young soldiers jumped fearlessly into bone-chilling floodwaters to repair the dykes. | Ante las repentinas inundaciones, miles de jóvenes soldados se arrojaron valerosamente a las gélidas aguas torrenciales para reforzar los diques.
+  #2 | 将军深知，一支纪律严明、士气高昂的军队，其力量源泉正是每一位恪尽职守的普通士兵。 | Jiāngjūn shēnzhī, yì zhī jìlǜ yánmíng, shìqì gāo'áng de jūnduì, qí lìliàng yuánquán zhèng shì měi yí wèi kèjìn-zhíshǒu de pǔtōng shìbīng. | The general knew well that the fountainhead of an army's iron discipline and high morale is each ordinary soldier fulfilling duty conscientiously. | El general sabía que el manantial de fuerza de un ejército disciplinado y resuelto reside en cada soldado raso que cumple su deber con abnegación.
+
+collocations[6]{hanzi,en}:
+  年轻士兵 | young soldier
+  英勇的士兵 | courageous soldier
+  普通士兵 | rank-and-file soldier; ordinary private
+  士兵训练 | soldier training; military drills
+  招募士兵 | recruit soldiers
+  士兵士气 | troop morale
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  兵贵神速 | bīng guì shén sù | speed is precious in warfare; act with rapid dispatch
+  厉兵秣马 | lì bīng mò mǎ | hone weapons and feed horses; prepare intensively for battle
+  短兵相接 | duǎn bīng xiāng jiē | engage in hand-to-hand combat; fight at close quarters
+  按兵不动 | àn bīng bù dòng | hold troops back; bide one's time without taking action
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  士 | shì | scholar; soldier; gentleman | letrado; caballero; militar | 士 | scholar / warrior | 士 (upright male warrior/official) | "" | 3 | 单一结构 | Ancient bronze pictogram of an axe or ceremonial battle weapon standing upright, symbolizing martial status and noble duty. | An upright, resolute warrior stands tall with broad shoulders (top long stroke) anchored on the firm ground (bottom short stroke) (士). | Un guerrero noble y resuelto se alza firme con anchos hombros y pisada sólida sobre la tierra (士). | 51 | J | 
+  兵 | bīng | soldier; weapons; warfare | soldado; arma; tropa | 八 | eight / separate | 八 (two hands) | 斤 (jīn, axe / halberd) | 7 | 上下结构 | Ancient pictogram depicting two hands 八 holding a battle-axe 斤, directly representing armed martial combat. | Two hands (八) gripping a sharp battle-axe (斤) ready to defend the frontier like a brave soldier (兵). | Dos manos resueltas (八) empuñando un hacha de combate (斤) listas para defender la frontera como un soldado (兵). | 55 | OMC | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An honorable warrior (士) who grips his battle weapon (兵) with courage serves as a valiant soldier (士兵).
+  composite_memory_hook_es: Un noble combatiente (士) que empuña su arma de combate (兵) sirve con honor como leal soldado (士兵).
+  cultural_and_cognitive_roots: In ancient Zhou society, 士 represented the class of noble scholar-warriors proficient in the Six Arts (六艺). Over centuries, 兵 (hands holding an axe) combined with 士 to denote the modern armed serviceman who unites moral discipline with battlefield prowess.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by high level 1st tone: 'shì bīng' (51-55). Strike 'shì' downward firmly, then leap into a level, sustained 'bīng'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    土 | tǔ | earth; soil | Has a short top horizontal stroke and long bottom stroke
+    岳 | yuè | high mountain peak | Has 丘 on top of 山 instead of 兵
+    丘 | qiū | mound; hill | Has a single top stroke and curved base without 八
+    乒 | pīng | ping (onomatopoeia) | Missing the right leg stroke of 兵
+    乓 | pāng | pong (onomatopoeia) | Missing the left leg stroke of 兵
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    仕 | shì | serve as an official
+    志 | zhì | ambition; will; aspiration
+    斤 | jīn | axe; catty (weight unit)
+    斩 | zhǎn | decapitate; chop with an axe
+    斧 | fǔ | battle-axe; hatchet
+
+semantic_boundary_contrasts:
+  core_nuance: 士兵 specifically designates an enlisted fighter or rank-and-file private, contrasted with commanders and officers.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 士兵 vs. 将军 | jiāngjūn | 士兵 are the rank-and-file enlisted troops carrying out battlefield orders, whereas 将军 is a high-ranking general responsible for overarching strategic command.
+    2 | 士兵 vs. 军人 | jūnrén | 士兵 refers specifically to lower-rank enlisted personnel, whereas 军人 is a comprehensive umbrella term for any service member regardless of rank or role.
+    3 | 士兵 vs. 战士 | zhànshì | 士兵 is an objective military rank/role descriptor, while 战士 carries an emotional, heroic, or ideological connotation of a brave fighter.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 边境线上的哨所高耸入云，呼啸的风雪吞没了漫漫长夜。年轻的士兵手握钢枪，宛如一尊巍然屹立的界碑。为了身后万家灯火的安宁，他们将最美好的青春岁月默默奉献给祖国苍茫的边关。 | Biānjìngxiàn shàng de shàosuǒ gāosǒng-rùyún, hūxiào de fēngxuě tūnmò le mànmàn chángyè. Niánqīng de shìbīng shǒuwò gāngqiāng, wǎnrú yì zūn wēirán yìlì de jièbēi. Wèile shēnhòu wànjiā-dēnghuǒ de ānníng, tāmen jiāng zuì měihǎo de qīngchūn suìyuè mòmò fèngxiàn gěi zǔguó cāngmáng de biānguān. | The outpost atop the border ridge pierces the clouds as howling blizzards swallow the long night. Clasping his steel rifle, the young soldier stands like a towering milestone. To protect the peaceful hearths behind him, he silently dedicates his youth to the nation's rugged frontier. | El puesto fronterizo se eleva entre las nubes mientras la ventisca azota la noche. El joven soldado empuña su fusil erguido como un hito inamovible. Para salvaguardar la paz de miles de hogares, entrega en silencio sus mejores años a la austera linde de la patria.
+  #2 | 在现代信息化战场上，士兵的角色正在经历深刻变革。除了过硬的身体素质与意志力，现代士兵更需要熟练掌握先进的数字化武器系统，具备在复杂电磁环境下独立判断与协同作战的综合素养。 | Zài xiàndài xìnxīhuà zhànchǎng shàng, shìbīng de juésè zhèngzài jīnglì shēnkè biàngé. Chúle guòyìng de shēntǐ sùzhì yǔ yìzhìlì, xiàndài shìbīng gèng xūyào shúliàn zhǎangwò xiānjìn de shùzìhuà wǔqì xìtǒng, jùbèi zài fùzá diàncí huánjìng xià dúlì pànduàn yǔ xiétóng zuòzhàn de zōnghé sùyǎng. | On modern digitalized battlefields, the soldier's role is undergoing profound transformation. Beyond formidable physical fitness and willpower, modern soldiers must master advanced digital weaponry, possessing capabilities for independent judgment and synchronized combat in complex scenarios. | En los escenarios bélicos digitalizados de hoy, el cometido del soldado experimenta una honda transformación. Además de temple y resistencia física, requiere dominio de sistemas cibernéticos y armamento avanzado, aunando criterio autónomo y作战 coordinada en entornos complejos.

@@ -1,0 +1,65 @@
+id: 23
+hanzi: 节省
+pinyin: jié shěng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to economize; to save; to cut down on; thrifty; frugal
+  es: ahorrar; economizar; recortar gastos; escatimar; ser austero
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to use money, time, materials, or energy prudently and sparingly without wasting | emplear el dinero, tiempo, recursos o energía de forma prudente y moderada sin desperdiciar | 节省开支 (cut down expenses / economize expenditures)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了尽早还清购房贷款，他们夫妻俩精打细算，平时外出就餐和娱乐都尽量节省开销。 | Wèile jìnzǎo huánqīng gòufáng dàikuǎn, tāmen fūqī liǎ jīngdǎ-xìsuàn, píngshí wàichū jiùcān hé yúlè dōu jǐnliàng jiéshěng kāixiāo. | In order to pay off their home mortgage early, the couple budgeted scrupulously, striving to cut down expenses on dining out and entertainment. | Para liquidar pronto la hipoteca del piso, la pareja calculó al detalle sus cuentas y procuró ahorrar al máximo en cenas fuera y diversiones.
+  #2 | 采用这套全新的自动化加工流水线，企业不仅大幅度节省了人工成本，还显著提升了整体装配效率。 | Cǎiyòng zhè tào quánxīn de zìdònghuà jiāgōng liúshuǐxiàn, qǐyè bùjǐn dàfúdù jiéshěng le réngōng chéngběn, hái xiǎnzhù tíshēng le zhěngtǐ zhuāngpèi xiàolǜ. | By adopting this automated processing assembly line, the enterprise not only greatly economized on labor costs, but also significantly raised assembly efficiency. | Al adoptar esta línea de producción robotizada, la empresa no solo ahorró sustancialmente en costes laborales, sino que elevó notablemente la eficiencia del montaje.
+
+collocations[6]{hanzi,en}:
+  节省时间 | save time; economize time
+  节省开支 | cut down on expenses; economize expenditures
+  节省能源 | save energy; conserve energy resources
+  节省空间 | save space; optimize room
+  尽量节省 | save as much as possible; economize to the utmost
+  节省成本 | save costs; reduce operating overhead
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  省吃俭用 | shěng chī jiǎn yòng | pinch and scrape; live frugally on food and necessities
+  开源节流 | kāi yuán jié liú | open new revenue sources and cut back on expenditures
+  克勤克俭 | kè qín kè jiǎn | hardworking and thrifty; industrious and frugal
+  精打细算 | jīng dǎ xì suàn | meticulous calculation; strict budgeting
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  节 | jié | node; joint; festival; economize | nudo; articulación; festividad; moderar | 艹 | grass / vegetation | 艹 (bamboo joint surrogate) | 卩 (kneeling person / constraint) | 5 | 上下结构 | Simplified from 節. Ancient character depicted jointed bamboo shoots ⺮ dividing hollow stalks into measured segments, signifying measured restraint and rhythm. | Bamboo nodes (节) naturally segment continuous growth into measured, restrained intervals, teaching humans to save and restrict use (节). | Los nudos del bambú (节) dividen los tallos en tramos medidos, simbolizando la justa moderación y el comedimiento (节). | 35 | TSL | 節
+  省 | shěng | inspect; economize; province | examinar; ahorrar; provincia | 目 | eye | 少 (few; diminish) | 目 (eye; observe) | 9 | 上下结构 | Ideogram combining 少 (small / few) above 目 (eye), signifying using a discerning eye to diminish excess and examine flaws. | An observant eye (目) looking closely to reduce excess (少) cuts down unnecessary waste to economize (省). | Un ojo vigilante (目) que examina con rigor para reducir lo superfluo (少) permite ahorrar recursos valiosos (省). | 214 | FBU | 
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Segmenting resources into disciplined bamboolike joints (节) under a watchful eye reducing excess (省) achieves prudent economizing (节省).
+  composite_memory_hook_es: Poner límites medidos como los nudos de caña (节) y reducir lo superfluo con ojo atento (省) permite ahorrar con sabiduría (节省).
+  cultural_and_cognitive_roots: The ancient text Book of Changes (易经) contains the hexagram 'Jié' (节卦 - Moderation/Limitation), stating 'Joy in restraint, firm and upright brings auspiciousness' (节以制度，不伤财，不害民). Frugality has been revered as a foundational virtue throughout Chinese civilization.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by dipping 3rd tone: 'jié shěng' (35-214). Glide smoothly up on 'jié' then plunge deep into low pitch on 'shěng'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    阶 | jiē | rank; steps; stairs | Has ear/mound radical 阝 on the left instead of grass 艹 above
+    节 | jié | joint; festival | Simplified form of 節, distinct from bamboo version
+    雀 | qiào | sparrow; small bird | Has small 少 on top of bird 隹 instead of 目
+    相 | xiāng | mutual; appearance | Has wood 木 on the left of 目 instead of 少 above
+    看 | kàn | look; see | Has hand 手 on top of eye 目, not 少
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    节 | jié | joint; knot; section; economize
+    俭 | jiǎn | frugal; thrifty; modest
+    省 | shěng | economize; province; inspect
+    损 | sǔn | decrease; damage; lose
+    减 | jiǎn | reduce; subtract; lessen
+
+semantic_boundary_contrasts:
+  core_nuance: 节省 emphasizes actively pruning unnecessary expenditures or reducing usage of limited resources (time, money, materials).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 节省 vs. 节约 | jiéyuē | 节省 emphasizes the concrete act of cutting down or not wasting (节省时间, 节省开支), while 节约 carries a stronger moral, institutional, or policy undertone (节约用水, 勤俭节约).
+    2 | 节省 vs. 吝啬 | lìnsè | 节省 is a praised virtue of wise resource management, whereas 吝啬 is a derogatory term meaning stingy, miserly, or unwilling to spend even when necessary.
+    3 | 节省 vs. 积攒 | jīzǎn | 节省 focuses on reducing current outflow and avoiding waste, while 积攒 focuses on accumulating and hoarding savings little by little for future use.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 祖母那一辈人经历过物资匮乏的岁月，一生都保持着节省的生活习惯。洗菜淘米的水总是留着浇花冲地，即使日子富裕了，她也绝不肯多浪费一滴水、一粒粮。 | Zǔmǔ nà yíbèi rén jīnglì guò wùzī kuìfá de suìyuè, yìshēng dōu bǎochí zhe jiéshěng de shēnghuó xíguàn. Xǐcài-táomǐ de shuǐ zǒngshì liúzhe jiāohuā-chōngdì, jíshǐ rìzi fùyù le, tā yě juébù kěn duō làngfèi yì dī shuǐ, yí lì liáng. | Grandmother's generation lived through times of material scarcity and kept frugal habits all their lives. She always saved wash water for plants, never wasting a drop of water or grain. | La generación de la abuela conoció tiempos de penuria y conservó siempre el hábito del ahorro. Reutilizaba el agua del arroz para regar, negándose en redondo a desperdiciar una sola gota o grano.
+  #2 | 在现代工业制造中，推行绿色低碳理念要求企业从原料采购到产品包装全程节省资源。通过优化工艺流程减少废料产出，不仅能有效降低环保负荷，更能切实为企业提高利润空间。 | Zài xiàndài gōngyè zhìzào zhōng, tuīxíng lǜsè dītàn lǐniàn yāoqiú qǐyè cóng yuánliào cǎigòu dào chǎnpǐn bāozhuāng quánchéng jiéshěng zīyuán. Tōngguò yōuhuà gōngyì liúchéng jiǎnshǎo fèiliào chǎnchū, bùjǐn néng yǒuxiào jiàngdī huánbǎo fùhè, gèng néng qièshí wèi qǐyè tígāo lìrùn kōngjiān. | In modern manufacturing, green principles demand economizing resources from procurement to packaging. Streamlining processes to reduce waste lowers environmental impact and raises margins. | En la industria actual, la producción limpia exige ahorrar recursos en todo el ciclo. Al optimizar los procesos para aminorar los desechos, las firmas reducen su huella ambiental e incrementan sus márgenes.
