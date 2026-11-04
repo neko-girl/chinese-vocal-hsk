@@ -1,0 +1,62 @@
+id: 3
+hanzi: 泉
+pinyin: quán
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: spring; fountain; subterranean water source
+  es: manantial; fuente natural; surgencia de agua subterránea
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a natural spring; fountain of water issuing from the earth | manantial; fuente de agua subterránea que brota naturalmente | 泉水清澈见底 (the spring water is crystal-clear to the bottom)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉的三股泉水日夜喷涌，水花飞溅，在阳光下宛如串串晶莹剔透的珍珠。 | Bàotūquán de sān gǔ quánshuǐ rìyè pēnyǒng, shuǐhuā fēijiàn, zài yángguāng xià wǎnrú chuànchuàn jīngyíng tìtòu de zhēnzhū. | The three spouts of Baotu Spring gush day and night, scattering splashing droplets that sparkle under the sun like strings of translucent pearls. | Las tres surgencias del manantial Baotu brotan día y noche; las salpicaduras centellean bajo el sol como sartas de perlas translúcidas.
+  #2 | 保护城市地下水系与地质断层，是确保泉水常年喷涌、维护城市生态景观的重中之重。 | Bǎohù chéngshì dìxià shuǐxì yǔ dìzhì duàncéng, shì quèbǎo quánshuǐ chángnián pēnyǒng, wéihù chéngshì shēngtài jǐngguān de zhòngzhōngzhīzhòng. | Protecting the urban groundwater system and geological fault lines is paramount to ensuring year-round spring flow and maintaining urban ecological landscapes. | Proteger el sistema hidrogeológico subterráneo y las fallas geológicas resulta primordial para garantizar el flujo perenne de los manantiales y el paisaje urbano.
+
+collocations[6]{hanzi,en}:
+  清澈泉水 | crystal-clear spring water
+  天然温泉 | natural hot spring
+  泉水喷涌 | spring water gushing forth
+  源泉 | source; fountainhead
+  名泉汇聚 | convergence of renowned springs
+  饮水思源 | drink water and remember its source
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  饮水思源 | yǐn shuǐ sī yuán | when drinking water, think of its source; never forget one's origins
+  思如涌泉 | sī rú yǒng quán | thoughts flow like a bubbling fountain; prolific creativity
+  甘泉玉露 | gān quán yù lù | sweet spring water and jade dew; exquisite nectar
+  泉石膏肓 | quán shí gāo huāng | chronic addiction to secluded streams and rocks; deep love of nature
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  泉 | quán | spring; fountain; subterranean waters | manantial; fuente | 水 | water | 水 (water bubbling upward) | 白 (white, pure clarity) | 9 | 上下结构 | Ideogram combining 白 (white/pure) on top and 水 (water) below, depicting clean water welling out from a rocky cleft. | Pure white (白) pristine water (水) wells straight out of the cavernous limestone, creating a refreshing spring. | Agua (水) pura y blanca (白) brota directamente de la caliza subterránea formando un fresco manantial. | 35 | HAE | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Look where clean white (白) water (水) wells out of the bedrock to find a pure natural spring (泉).
+  composite_memory_hook_es: Observa cómo el agua (水) blanca (白) y pura brota de la roca para hallar un manantial (泉) cristalino.
+  cultural_and_cognitive_roots: In ancient Chinese cosmology, springs represent the earth's living pulses (地脉之血), revered as emblems of purity, continuous life-force, and philosophical inspiration.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 2nd rising tone (35). Maintain a clear, smooth upward glide without glottal interruption.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    原 | yuán | origin; raw; meadow | Has 厂 (cliff) over 泉's variant (with 小 instead of 水)
+    线 | xiàn | line; thread | Has silk radical 纟 next to 戋, completely different structure
+    源 | yuán | source; fountainhead | Adds the water radical 氵 to 原
+    腺 | xiàn | gland | Has radical 月 (flesh) beside 泉; biological organ
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    原 | yuán | origin; plateau; pristine source
+    源 | yuán | waterhead; fountainhead
+    湧 | yǒng | bubble up; surge out
+    溪 | xī | mountain brook; clear stream
+
+semantic_boundary_contrasts:
+  core_nuance: 泉 strictly denotes water rising naturally from subterranean aquifers out onto the earth's surface.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 泉 vs. 井 | jǐng | 泉 is an organic natural spring emerging naturally, whereas 井 is an artificial man-made well excavated down to reach water.
+    2 | 泉 vs. 河 | hé | 泉 is the discrete source point where groundwater wells out, while 河 is an extensive surface river flowing across landscapes.
+    3 | 泉 vs. 溪 | xī | 泉 denotes the subterranean point of upwelling, whereas 溪 refers to the shallow, trickling mountain rivulet that flows away from it.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的灵魂在于泉。无论是深宅大院的一角，还是繁华街市的石阶旁，随处可见汩汩涌动的清泉。泉水甘洌明净，滋养了世代济南人的性情，也赋予这座古城如诗如画的水乡神韵。 | Jǐnán de línghún zàiyú quán. Wúlùn shì shēnzhái dàyuàn de yìjiǎo, háishì fánhuá jiēshì de shíjiē páng, suíchù kějiàn gǔgǔ yǒngdòng de qīngquán. Quánshuǐ gānliè míngjìng, zīyǎng le shìdài Jǐnán rén de xìngqíng, yě fùyǔ zhè zuò gǔchéng rús hī rú huà de shuǐxiāng shényùn. | The soul of Jinan resides in its springs. Whether tucked in courtyard corners or beside busy stone streets, bubbling springs gush everywhere. Sweet and clear, the spring waters have nurtured Jinan's gentle spirit and endowed the ancient city with poetic water-town grace. | El alma de Jinan reside en sus manantiales. Tanto en los rincones de antiguas mansiones como junto a calzadas comerciales, brotan veneros cristalinos. Sus aguas dulces y puras han templado el carácter local, dotando a la urbe de una gracia poética inigualable.
+  #2 | 地质科学表明，济南泉群的形成得益于独特的南北地势差与石灰岩溶洞结构。来自南部山区的丰沛降水渗入地下，受北部致密岩浆岩阻挡后顺断裂带涌出地表，形成了世界上罕见的天然泉水地质奇观。 | Dìzhì kēxué biǎomíng, Jǐnán quánqún de xíngchéng déyì yú dútè de nánběi dìshì chā yǔ shíhuīyán róngdòng jiégòu. Láizì nánbù shānqū de fēngpèi jiàngshuǐ shènrù dìxià, shòu běibù zhìmì yánjiāngyán zǔdǎng hòu shùn duànlièdài yǒngchū dìbiǎo, xíngchéng le shìjiè shàng hǎnjiàn de tiānrán quánshuǐ dìzhì qíguān. | Geological studies demonstrate that Jinan's springs owe their existence to topography and limestone karst formations. Rains from southern mountains permeate underground, hit impermeable northern igneous rocks, and surge up along faults, forming a rare global geological wonder. | Los estudios geológicos indican que los manantiales de Jinan se deben al relieve cárstico. La lluvia sureña se infiltra, choca contra rocas ígneas septentrionales y brota por fracturas, configurando un singular prodigio hidrogeológico de escala mundial.

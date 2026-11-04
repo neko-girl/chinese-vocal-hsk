@@ -1,0 +1,63 @@
+id: 25
+hanzi: 路过
+pinyin: lù guò
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to pass by; to pass through; to go past on one's way
+  es: pasar por; pasar de paso; transitar de camino
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to pass by or travel through a place en route to another destination | pasar por; transitar de paso por un lugar | 路过小镇 (pass through a small town)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在背米返乡的漫长旅途中，子路路过了一座热闹的小集镇，稍作歇息并喝了碗热开水暖身。 | Zài bēimǐ fǎnxiāng de màncháng lǚtú zhōng, Zǐlù lùguò le yí zuò rènao de xiǎo jīzhèn, shāo zuò xiēxi bìng hē le wǎn rè kāishuǐ nuǎnshēn. | On his long journey home carrying rice, Zilu passed through a bustling small town, resting briefly and drinking hot water to warm his body. | En el largo trayecto de regreso con el arroz, Zilu pasó por un concurrido pueblo, descansando un instante y tomando agua caliente para templar el cuerpo.
+  #2 | 我这次去上海出差正好路过苏州，便顺道去探望了多年未曾谋面的大学同窗好友。 | Wǒ zhè cì qù Shànghǎi chūchāi zhènghǎo lùguò Sūzhōu, biàn shùndào qù tànwàng le duō nián wèicéng móumiàn de dàxué tóngchuāng hǎoyǒu. | On my business trip to Shanghai I happened to pass through Suzhou, so I stopped by to visit a college friend I hadn't seen in years. | En mi viaje de negocios a Shanghái pasé por Suzhou, así que aproveché para visitar a un buen compañero de universidad al que no veía hacía años.
+
+collocations[6]{hanzi,en}:
+  路过小镇 | pass through a small town
+  正好路过 | happen to pass by
+  路过此地 | pass by this place
+  乘车路过 | pass by by bus / car
+  路过家门 | pass by one's doorstep
+  无意路过 | accidentally pass by
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  三过家门而不入 | sān guò jiā mén ér bù rù | pass by one's own door three times without entering
+  擦肩而过 | cā jiān ér guò | brush past someone; narrowly miss
+  过客匆匆 | guò kè cōng cōng | hurried travelers passing by
+  浮光掠影 | fú guāng lüè yǐng | skimming over the surface; fleeting impressions
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  路 | lù | road; path; street | camino; ruta | 足 | foot | 足 (stepping foot) | 各 (gè / each / arrival phonetic) | 13 | 左右结构 | Phono-semantic compound: 足 (foot) + 各 (stepping to each place), representing the road traveled on foot. | Footsteps (足) treading roads leading across diverse lands (各). | Huellas (足) trazando senderos hacia múltiples horizontes (各). | 51 | RMHER | ""
+  过 | guò | pass; cross; exceed; fault | pasar; cruzar; sobrepasar | 辶 | walk / motion | 辶 (motion along a road) | 寸/咼 (guō / curved jawbone phonetic / step across) | 6 | 半包围结构 | Phono-semantic compound: 辶 (walking movement) + 寸/咼 (hand measure/step), conveying passing by or crossing over a boundary. | Walking briskly along a road (辶) measuring past milestones (寸). | Caminar ágilmente por una calzada (辶) superando hitos del camino (寸). | 51 | YDI | 過
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Traveling along the road (路) and stepping past (过) intermediate stops means passing by (路过).
+  composite_memory_hook_es: Transitar por el camino (路) y cruzar de largo (过) por una parada intermedia significa pasar de paso (路过).
+  cultural_and_cognitive_roots: In Chinese cultural geography, traveling between countryside hamlets meant passing by market hubs, serving as temporary shelters for travelers.
+  tone_sandhi_and_pitch_modulation: Two consecutive falling 4th tones: lù guò (51-51) or lù guo (51-0) when unstressed as a complement.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    露 | lù | dew; expose | Has 雨 (rain) atop 路
+    鹭 | lù | egret; heron | Has 鸟 (bird) below 路
+    这 | zhè | this | Has 文 inside 辶 instead of 寸
+    达 | dá | reach; attain | Has 大 inside 辶 instead of 寸
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    经过 | jīng guò | pass through; process
+    过去 | guò qù | past; pass over
+    路线 | lù xiàn | route; itinerary
+    过分 | guò fèn | excessive; undue
+
+semantic_boundary_contrasts:
+  core_nuance: 路过 emphasizes passing through or near an intermediate location along a route toward a distinct ultimate destination.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 路过 vs. 经过 | jīngguò | 路过 specifically denotes passing by a physical geographical site on one's route, whereas 经过 encompasses both passing locations and undergoing temporal processes.
+    2 | 路过 vs. 穿过 | chuānguò | 路过 implies passing near or skirting by a place en route, whereas 穿过 denotes piercing directly through the center of a physical space or barrier.
+    3 | 路过 vs. 途经 | tújīng | 路过 is everyday spoken language, while 途经 is formal, written transportation terminology used in schedules and itineraries.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 子路背着重负路过喧闹的集市，路旁热气腾腾的饭菜香气扑鼻而来。但他摸了摸怀里的银两，想到家中挨饿的双亲，没有停下享用一口，而是匆匆迈步赶路。 | Zǐlù bēizhe zhòngfù lùguò xuānnào de jíshì, lùpáng rèqì-téngténg de fàncài xiāngqì pūbí ér lái. Dàn tā mō le mō huáilǐ de yínliǎng, xiǎngdào jiāzhōng ái'è de shuāngqīn, méiyǒu tíngxià xiǎngyòng yì kǒu, ér shì cōngcōng màibù gǎnlù. | Carrying his heavy load, Zilu passed by the bustling bazaar where appetizing aromas drifted from stalls. But touching the silver in his coat and thinking of his parents, he hurried past without stopping. | Con el pesado saco a cuestas, Zilu pasó junto al bullicioso mercado con humeantes aromas de comida. Mas tocando la plata que guardaba y pensando en sus padres hambrientos, aceleró el paso sin detenerse.
+  #2 | 人生旅途中，我们往往会路过无数美丽的风景与繁华的驿站。许多人容易在暂时的安逸中迷失初衷，而唯有那些时刻牢记心中灯塔、不为沿途诱惑所驻足的行者，才能最终抵达魂牵梦绕的温暖彼岸。(89 Hanzi) | Rénshēng lǚtú zhōng, wǒmen wǎngwǎng huì lùguò wúshù měilì de fēngjǐng yǔ fánhuá de yìzhàn. Xǔduō rén róngyì zài zànshí de ānyì zhōng míshī chūzhōng, ér wéiyǒu nàxiē shíkè láojì xīnzhōng dēngtǎ, bù wèi yántú yòuhuò suǒ zhùzú de xíngzhě, cáinéng zuìzhōng dǐdá húnqiān-mèngrào de wēnnuǎn bǐ'àn. | On life's journey, we pass by countless picturesque landscapes and bustling stations. Many lose their initial resolve in comfort, yet only those who keep their inner lighthouse in mind and resist distractions can arrive at the warm shores of their dreams. | A lo largo de la vida pasamos por innumerables parajes seductores. Muchos extravían su propósito original en la comodidad pasajera; solo aquellos que recuerdan su faro interior avanzan sin vacilar hasta alcanzar el cálido destino anhelado.

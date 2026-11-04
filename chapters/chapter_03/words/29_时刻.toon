@@ -1,0 +1,64 @@
+id: 29
+hanzi: 时刻
+pinyin: shí kè
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: moment; juncture of time; constantly; always; at every moment
+  es: momento; instante decisivo; constantemente; en todo momento; a todas horas
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a specific point in time, crucial moment, or juncture | momento específico, coyuntura crucial o instante decisivo | 关键时刻 (critical moment / crucial juncture)
+  2 | Adverb | Formal | constantly, always, or at all times without ceasing | constantemente; en todo momento; sin cesar | 时刻准备着 (always prepared)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在狂风巨浪将帆船掀起数米高的危急时刻，全家人紧握双手，凭借坚强的信念战胜了恐惧。 | Zài kuángfēng jùlàng jiāng fānchuán xiānqǐ shù mǐ gāo de wēijí shíkè, quán jiārén jǐnwò shuāngshǒu, píngjiè jiānqiáng de xìnniàn zhànshèng le kǒngjù. | At the perilous moment when monstrous swells tossed the yacht meters into the air, the family clutched hands and conquered terror through faith. | En el instante crítico en que las olas gigantescas levantaban el velero varios metros, la familia se estrechó las manos y venció el miedo con fe.
+  #2 | 作为一名医护工作者，他时刻将患者的生命健康放在第一位，始终坚守在临床急救最前线。 | Zuòwéi yì míng yīhù gōngzuòzhě, tā shíkè jiāng huànzhě de shēngmìng jiànkāng fàng zài dì-yī wèi, shǐzhōng jiānshǒu zài línchuáng jíjiù zuì qiánxiàn. | As a healthcare professional, he constantly puts patients' lives first, remaining steadfast on the clinical emergency front lines. | Como sanitario, antepone en todo momento la salud del paciente y permanece firme en la primera línea de las urgencias hospitalarias.
+
+collocations[6]{hanzi,en}:
+  关键时刻 | crucial moment; turning point
+  历史时刻 | historical moment
+  危急时刻 | critical juncture; perilous moment
+  时刻准备着 | always be prepared
+  难忘的时刻 | unforgettable moment
+  美好时刻 | wonderful moment
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  分分秒秒 | fēn fēn miǎo miǎo | every minute and every second; every single moment
+  争分夺秒 | zhēng fēn duó miǎo | race against time; seize every second
+  刻舟求剑 | kè zhōu qiú jiàn | notch a boat to find a dropped sword; rigid and foolishly obstinate
+  时不再来 | shí bù zài lái | time does not return; opportunity knocks but once
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  时 | shí | time; season; hour | tiempo; hora; estación | 日 | sun / day | 日 (sun tracking daylight hours) | 寸 (cùn phonetic / hand rule or unit of measure) | 7 | 左右结构 | Ideogrammic compound: tracking the sun's trajectory (日) in precise measured units (寸) to determine time. | Measuring the golden sun's shadow (日) with an inch-ruler (寸) to mark the precise passing hour. | Medir la sombra del sol (日) con una regla de pulgadas (寸) para computar el paso de las horas. | 35 | ADI | 時
+  刻 | kè | carve; engrave; quarter-hour | tallar; grabar; cuarto de hora | 刂 | knife / cut | 刂 (sharp blade incising marks) | 亥 (hài phonetic / cyclical branch or pig) | 8 | 左右结构 | Phono-semantic compound: a sharp carving knife (刂) notching graduations on ancient sundials to record quarter-hours. | A sharp metal knife (刂) carving deep notches onto a sun clock dial to record fleeting moments. | Un cuchillo afilado (刂) que graba muescas en el cuadrante solar para fijar el paso de los instantes. | 51 | YOSH | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When the sun's progress (时) is carved into sundial graduations (刻), every passing second defines a precious moment (时刻).
+  composite_memory_hook_es: Cuando la marcha del sol (时) queda grabada en el reloj (刻), cada instante que pasa conforma un precioso momento (时刻).
+  cultural_and_cognitive_roots: Ancient sundials marked '刻' (roughly 14.4 minutes, modern 15 minutes) by knife cuts on bronze dials. '时刻' spans both precise historical turning points and constant psychological mindfulness.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by a falling 4th tone: shí kè (35-51). Articulate 'shí' with smooth upward pitch before cutting 'kè' downward crisply.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    时 | shí | time; hour | Has 日 (sun) on the left and 寸 on the right
+    村 | cūn | village | Has 木 (wood) on the left with 寸
+    刻 | kè | carve; moment | Has 亥 on the left and 刂 (knife) on the right
+    赅 | gāi | all-inclusive; broad | Has 贝 (shell) on the left with 亥
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    时间 | shí jiān | time; period
+    时代 | shí dài | era; epoch; age
+    刻度 | kè dù | scale graduation; calibration mark
+    刻画 | kè huà | portray; depict; carve
+
+semantic_boundary_contrasts:
+  core_nuance: 时刻 refers to a critical pinpoint of time, or functions adverbially to denote perpetual alertness.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 时刻 vs. 时间 | shíjiān | 时刻 emphasizes a specific critical point, instant, or psychological juncture (关键时刻), whereas 时间 refers to the broad, measurable duration or continuous passage of time (需要时间).
+    2 | 时刻 vs. 时候 | shíhou | 时刻 is formal and literary, often designating momentous occasions, while 时候 is versatile everyday oral Chinese for general timing (吃饭的时候).
+    3 | 时刻 vs. 瞬间 | shùnjiān | 时刻 highlights the historical or emotional significance of a moment, whereas 瞬间 emphasizes the fleeting optical brevity of an eye blink.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每一个人的生命中，都存在着几个决定人生走向的关键时刻。面对转折点时的每一次犹豫与抉择，都在悄悄重构未来的风景。唯有保持清醒与定力，在重要时刻勇敢迈出脚步，才能在人生的画卷上留下无悔的笔墨。 | Měi yí gè rén de shēngmìng zhōng, dōu cúnzài zhe jǐ gè juédìng rénshēng zǒuxiàng de guānjiàn shíkè. Miànduì zhuǎnzhédiǎn shí de měi yí cì yóuyù yǔ juézé, dōu zài qiāoqiāo chónggòu wèilái de fēngjǐng. Wéiyǒu bǎochí qīngxǐng yǔ dìnglì, zài zhòngyào shíkè yǒnggǎn màichū jiǎobù, cáinéng zài rénshēng de huàjuàn shàng liúxià wúhuǐ de bǐmò. | In every life there exist critical moments that pivot one's trajectory. Every hesitation and resolution at crossways reshapes future horizons. Staying lucid and taking brave strides at deciding junctures leaves indelible strokes on life's canvas. | En la vida de cualquiera surgen momentos decisivos que reorientan el rumbo. Cada duda y cada resolución ante las encrucijadas reconfiguran el mañana. Solo con lucidez y paso firme en el instante crucial se pinta un destino sin arrepentimientos.
+  #2 | 载人航天工程进入飞船返回对接的关键时刻，地面测控中心数十个监控大屏实时刷新遥测参数。科研团队时刻保持高度警觉，精准捕捉姿态控制回路中的微秒级数据突变，确保返回舱以最佳角度切入大气层，圆满完成任务。 | Zàirén hángtiān gōngchéng jìnrù fēichuán fǎnhuí duìjiē de guānjiàn shíkè, dìmiàn cèkòng zhōngxīn shùshí gè jiānkòng dàpíng shíshí shuāxīn yáocè cānshù. Kēyán tuánduì shíkè bǎochí gāodù jǐngjué, jīngzhǔn bǔzhuō zītài kòngzhì huílù zhōng de wēimiǎojí shùjù tūbiàn, quèbǎo fǎnhuícāng yǐ zuìjiā jiǎodù qiērù dàqìcéng, yuánmǎn wánchéng rènwu. | As the manned space capsule approached reentry, mission control screens flashed telemetry in real time. Engineers remained perpetually vigilant, monitoring microsecond attitude control loops to guarantee the module pierced the atmosphere at the ideal vector. | Al enfilar la nave tripulada el reingreso crítico, las pantallas de control refrescaron la telemetría en tiempo real. Los ingenieros permanecieron en alerta máxima para registrar cualquier microvariación y guiar la cápsula hacia la atmósfera.

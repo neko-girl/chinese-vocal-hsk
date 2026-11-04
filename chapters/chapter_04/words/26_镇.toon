@@ -1,0 +1,63 @@
+id: 26
+hanzi: 镇
+pinyin: zhèn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: small town; township; to suppress; to calm
+  es: pueblo; localidad; municipio; calmar; contener
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a market town or administrative township situated between villages and cities | pueblo; villa; municipio intermedio | 偏远小镇 (remote small town)
+  2 | Verb | Formal | to suppress, calm down, pacify, or weigh down | calmar; aplacar; sujetar; sosegar | 镇守边疆 (guard and pacify borders)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 穿过这片连绵起伏的崇山峻岭，前面便是方圆数十里内最为繁华热闹的商贸小镇。 | Chuānguò zhè piàn liánmián-qǐfú de chóngshān-jùnlǐng, qiánmiàn biàn shì fāngyuán shùshí lǐ nèi zuìwéi fánhuá rènao de shāngmào xiǎozhèn. | Crossing this undulating range of lofty peaks, ahead lies the most bustling commercial town within dozens of miles. | Al cruzar esta cordillera de cumbres escarpadas, se divisa el pueblo comercial más concurrido en decenas de leguas a la redonda.
+  #2 | 该古镇依山傍水、风景如画，近年来依托深厚的人文底蕴大力发展了特色文旅产业。 | Gāi gǔzhèn yīshān-bàngshuǐ, fēngjǐng-rúhuà, jìnniánlái yītuō shēnhòu de rénwén dǐyùn dàlì fāzhǎn le tèsè wénlǚ chǎnyè. | Nestled against mountains and flanked by rivers, this picturesque ancient town has vigorously developed cultural tourism rooted in deep heritage. | Asentado entre montañas y ríos con paisajes de ensueño, este pueblo histórico ha potenciado el turismo cultural gracias a su rica herencia.
+
+collocations[6]{hanzi,en}:
+  偏远小镇 | remote small town
+  商业重镇 | commercial hub / vital town
+  千年古镇 | thousand-year-old ancient town
+  小镇居民 | town residents
+  镇守边关 | guard border fortresses
+  坐镇指挥 | sit in command on-site
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  处之泰然 | chǔ zhī tài rán | handle things with calm equilibrium
+  临危不乱 | lín wēi bú luàn | calm and unperturbed in the face of crisis
+  安邦定国 | ān bāng dìng guó | bring peace and stability to the state
+  闭月羞花 | bì yuè xiū huā | outshining the moon and shaming the flowers
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  镇 | zhèn | town; suppress; weigh down | pueblo; municipio; sujetar | 钅 | metal / gold | 钅 (heavy bronze weight) | 真 (zhēn / true / firm phonetic) | 15 | 左右结构 | Phono-semantic compound: 钅 (heavy metal paperweight or bronze anchor) + 真 (firm truth), originally meaning a heavy metallic weight to hold down objects, extending to military garrison towns and market settlements. | A heavy bronze metal weight (钅) set firmly to stabilize a bustling community (真). | Un pesado pisapapeles de bronce (钅) colocado con firmeza para pacificar y ordenar la villa (真). | 51 | CJBC | 鎮
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A heavy bronze anchor of metal (钅) set down with unwavering solidity (真) anchors a peaceful market town (镇).
+  composite_memory_hook_es: Un sólido ancla de bronce (钅) asentado con firmeza y verdad (真) da estabilidad al pueblo (镇).
+  cultural_and_cognitive_roots: In ancient Chinese administrative geography, 镇 evolved from military garrisons into thriving market towns bridging rural villages and county cities.
+  tone_sandhi_and_pitch_modulation: High-falling 4th tone: zhèn (51). Deliver with decisive, full dropping pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    真 | zhēn | true; real | Component without the metal radical 钅
+    慎 | shèn | cautious; prudent | Has 忄 (heart) on the left of 真 instead of 钅
+    填 | tián | fill; fill out | Has 土 (earth) on the left of 真 instead of 钅
+    滇 | diān | Yunnan province | Has 氵 (water) on the left of 真 instead of 钅
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    城镇 | chéng zhèn | cities and towns
+    镇静 | zhèn jìng | calm; composed
+    镇定 | zhèn dìng | composed; poised
+    村镇 | cūn zhèn | villages and towns
+
+semantic_boundary_contrasts:
+  core_nuance: 镇 specifies a township or urban-rural intermediate settlement larger than a village but smaller than a city, or the verb to pacify.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 镇 vs. 村 | cūn | 镇 is an administrative town or commercial center with shops and municipal services, whereas 村 is a smaller agricultural hamlet or village.
+    2 | 镇 vs. 市 | shì | 镇 is subordinate to counties/districts, whereas 市 is a major city or municipality with large populations and industrial scale.
+    3 | 镇 vs. 坊 | fāng | 镇 refers to an entire township community, whereas 坊 refers to a neighborhood block or craft workshop.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 严冬的傍晚，子路终于在漫天飞雪中赶到了百里之外的小镇。小镇街市上炊烟袅袅，他用积攒的工钱在米行买下一大袋白米，随即片刻不停地踏上了归途。 | Yándōng de bàngwǎn, Zǐlù zhōngyú zài màntiān fēixuě zhōng gǎndào le bǎilǐ zhī wài de xiǎozhèn. Xiǎozhèn jiēshì shàng chuīyān-niǎoniǎo, tā yòng jīzǎn de gōngqián zài mǐháng mǎixià yí dà dài báimǐ, suíjī piànkè bù tíng de tàshang le guītú. | On a harsh winter dusk, Zilu finally reached the small town hundreds of miles away through whirling snow. With his hard-earned wages, he bought a large sack of rice and set off on his return without a moment's pause. | En un gélido atardecer, Zilu llegó al pueblo a más de cien leguas bajo la ventisca. Compró un gran saco de arroz con sus ahorros y, sin descansar ni un instante, emprendió el camino de vuelta.
+  #2 | 新型城镇化建设赋予了传统乡镇全新的发展活力。许多依山傍水的特色小镇通过深挖本土非遗文化与生态资源，不仅吸引了大量青年人才返乡创业，更在城乡融合发展中探索出一条可持续的共同富裕之路。 | Xīnxíng chéngzhènhuà jiànshè fùyǔ le chuántǒng xiāngzhèn quánxīn de fāzhǎn huólì. Xǔduō yīshān-bàngshuǐ de tèsè xiǎozhèn tōngguò shēnwā běntǔ fēiyí wénhuà yǔ shēngtài zīyuán, bùjǐn xīyǐn le dàliàng qīngnián réncái fǎnxiāng chuàngyè, gèng zài chéng-xiāng rónghé fāzhǎn zhōng tànsuǒ chū yì tiáo kěchíxù de gòngtóng fùyù zhī lù. | New urbanization breathes vibrant life into traditional townships. Nestled among mountains and waterways, distinctive small towns tap into intangible heritage and green resources, attracting young entrepreneurs and pioneering sustainable prosperity. | La modernización rural revitalize los municipios tradicionales. Numerosos pueblos pintorescos aprovechan su patrimonio cultural y ecológico para atraer emprendedores jóvenes, abriendo sendas sostenibles de prosperidad compartida.

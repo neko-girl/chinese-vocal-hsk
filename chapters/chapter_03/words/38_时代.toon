@@ -1,0 +1,64 @@
+id: 38
+hanzi: 时代
+pinyin: shí dài
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: era; age; epoch; times; historical period
+  es: época; era; período histórico; tiempos; edad
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a broad historical period distinguished by prominent social, technological, or political features | gran período histórico caracterizado por rasgos sociales o técnicos propios | 互联网时代 (the internet age / digital era)
+  2 | Noun | Standard | a specific stage or phase in an individual's life (youth, student days) | etapa o período concreto de la vida de una persona | 学生时代 (student days)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在这个提倡个性与多元价值的新时代，越来越多的人敢于打破传统框架，勇敢追逐属于自己的航海梦想。 | Zài zhè gè tíchàng gèxìng yǔ duōyuán jiàzhí de xīn shídài, yuèláiyuè duō de rén gǎnyú dǎpò chuántǒng kuàngjià, yǒnggǎn zhuīzhú shǔyú zìjǐ de hánghǎi mèngxiǎng. | In this new era championing individuality and pluralism, more people dare break traditional molds to chase ocean dreams. | En esta nueva era que celebra la diversidad y la iniciativa individual, cada vez más personas rompen moldes para perseguir sus sueños marineros.
+  #2 | 人工智能算法的跨越式突破正在推动整个人类文明由信息化社会全面迈向数智化时代。 | Réngōng zhìnéng suànfǎ de kuàyuèshì tūpò zhèngzài tuīdòng zhěnggè rénlèi wénmíng yóu xìnxīhuà shèhuì quánmiàn màixiàng shùzhìhuà shídài. | Leapfrog breakthroughs in artificial intelligence algorithms are driving human civilization from information society into the intelligent era. | Los avances decisivos en inteligencia artificial impulsan a la civilización desde la sociedad de la información hacia la era de la inteligencia digital.
+
+collocations[6]{hanzi,en}:
+  新时代 | new era
+  学生时代 | student days
+  信息时代 | information age
+  时代发展 | development of the era
+  走在时代前列 | march at the forefront of the times
+  时代的产物 | product of the times
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  与时俱进 | yǔ shí jù jìn | keep pace with the times; advance with history
+  应运而生 | yìng yùn ér shēng | emerge as the times require; arise at the opportune moment
+  风起云涌 | fēng qǐ yún yǒng | like rising winds and scudding clouds; gathering momentum
+  继往开来 | jì wǎng kāi lái | carry forward the heritage and open up the future
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  时 | shí | time; season; era | tiempo; hora; época | 日 | sun / day | 日 (sun tracking the passage of daylight) | 寸 (cùn phonetic / measuring ruler) | 7 | 左右结构 | Ideogrammic compound: measuring the sun's trajectory (日) with a ruler (寸) to track the passing hours and seasons. | The golden sun (日) casting its measured inch of shadow (寸) as epochs and seasons unfold. | El sol dorado (日) proyectando una pulgada de sombra (寸) conforme maduran los siglos y las estaciones. | 35 | ADI | 時
+  代 | dài | generation; era; replace | generación; época; sustituir | 亻 | person / human | 亻 (generations of humans passing the torch) | 弋 (yì phonetic / stake or shooting arrow) | 5 | 左右结构 | Ideogrammic/phono-semantic compound: one generation of humans (亻) replacing another like marked stakes (弋) on a trail. | A new generation of human pioneers (亻) taking the relay stake (弋) to lead humanity forward into a fresh era. | Una nueva generación (亻) que toma el relevo (弋) para guiar a la comunidad hacia una nueva era. | 51 | OIP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The unfolding sun of history (时) carried forward by successive generations (代) forms a grand historical era (时代).
+  composite_memory_hook_es: El curso solar del tiempo (时) trasvasado entre generaciones sucesivas (代) forja una gran época histórica (时代).
+  cultural_and_cognitive_roots: Traditional Chinese historiography structured cosmic time through dynasty shifts and generation successions ('代代相传'). '时代' captures the zeitgeist—the unique spiritual pulse and material characteristics of an age.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by a falling 4th tone: shí dài (35-51). Elevate pitch on 'shí' before dropping firmly on 'dài'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    时 | shí | time; era | Has 日 (sun) on the left and 寸 on the right
+    村 | cūn | village | Has 木 (wood) on the left with 寸
+    代 | dài | era; replace | Has 亻 on the left and 弋 on the right
+    伐 | fá | chop; cut down | Has 亻 on the left and 戈 (halberd) on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    时间 | shí jiān | time; duration
+    时期 | shí qī | period; stage
+    代表 | dài biǎo | represent; representative
+    年代 | nián dài | decade; time period; age
+
+semantic_boundary_contrasts:
+  core_nuance: 时代 specifically designates an expansive macro-historical epoch defined by dominant cultural, economic, or technological hallmarks.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 时代 vs. 时期 | shíqī | 时代 refers to grand, transformative historical epochs (如工业时代, 封建时代), while 时期 refers to specific, shorter political, military, or life intervals (如抗战时期, 实习时期).
+    2 | 时代 vs. 年代 | niándài | 时代 defines qualitative cultural/technological milestones, whereas 年代 specifies numerical decades or archaeological centuries (如八十年代, 年代久远).
+    3 | 时代 vs. 岁月 | suìyuè | 时代 carries objective socio-historical weight, whereas 岁月 carries subjective, emotional, and poetic nostalgia for passing years (难忘的岁月).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每一个时代都会留下属于自己的独特印记。身处滚滚向前的历史洪流中，我们既是时代的见证者，也是时代的塑造者。唯有勇敢回应时代提出的命题，在风云变幻中坚定心中的理想，才能活出生命的辽阔与尊严。 | Měi yí gè shídài dōu huì liúxià shǔyú zìjǐ de dútè yìnjì. Shēnchǔ gǔngǔn xiàngqián de lìshǐ hóngliú zhōng, wǒmen jì shì shídài de jiànzhèngzhě, yě shì shídài de shùzàozhě. Wéiyǒu yǒnggǎn huìyìng shídài tíchū de mìngtí, zài fēngyún biànhuàn zhōng jiāndìng xīnzhōng de lǐxiǎng, cáinéng huó chū shēngmìng de liáokuò yǔ zūnyán. | Every era imprints its unique signature. In the rushing current of history, we are both witnesses and shapers of our time. Responding boldly to epochal questions and holding ideals firm realizes life's grandeur and dignity. | Cada época deja su propia impronta. En el caudal imparable de la historia somos tanto testigos como artífices de nuestro tiempo. Responder con audacia a sus desafíos y afianzar los ideales dignifica la existencia humana.
+  #2 | 全球数字经济的高速发展标志着人类社会正式步入算力时代。数据作为新型核心生产要素，正在深度重塑传统工业生产与社会治理逻辑。牢牢把握时代科技创新主动权，推动数字技术与实体经济深度融合，是抢占未来国际竞争制高点的核心引擎。 | Quánqiú shùzì jīngjì de gāosù fāzhǎn biāozhì zhe rénlèi shèhuì zhèngshì bùrù suànlì shídài. Shùjù zuòwéi xīnxíng héxīn shēngchǎn yàosù, zhèngzài shēndù chóngshù chuántǒng gōngyè shēngchǎn yǔ shèhuì zhìlǐ luójí. Láoláo bǎwò shídài kējì chuàngxīn zhǔdòngquán, tuīdòng shùzì jìshù yǔ shítǐ jīngjì shēndù rónghé, shì qiǎngzhàn wèilái guójì jìngzhēng zhìgāodiǎn de héxīn yǐnqíng. | The rise of the global digital economy marks humanity's formal entry into the computing era. As a core factor of production, data reshapes manufacturing and governance. Mastering technological sovereignty and fusing digital tools with industry powers competitiveness. | El despegue de la economía digital sitúa a la humanidad en la era del procesamiento masivo de datos. Como factor productivo clave, el dato revoluciona la industria y la gobernanza. Liderar la innovación tecnológica blinda la soberanía en la escena internacional.

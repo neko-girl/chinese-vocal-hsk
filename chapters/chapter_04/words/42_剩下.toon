@@ -1,0 +1,63 @@
+id: 42
+hanzi: 剩下
+pinyin: shèng xià
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to remain; to be left over; remainder; surplus
+  es: sobrar; quedar; restar; remanente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to remain behind or be left over after part has been used, taken, or consumed | sobrar; quedar; restar de una cantidad o grupo | 剩下的时间 (the remaining time)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 扣除购买这一大袋白米所花费的铜钱，子路将剩下的一点碎银子小心翼翼地缝进了棉袄内衬。 | Kòuchú gòumǎi zhè yí dà dài báimǐ suǒ huāfèi de tóngqián, Zǐlù jiāng shèngxià de yìdiǎn suìyínzi xiǎoxīn-yìyì de féng jìn le mián'ǎo nèichèn. | Deducting the copper coins spent on purchasing this large sack of rice, Zilu carefully sewed the remaining broken silver into the lining of his cotton coat. | Descontadas las monedas de cobre gastadas en la compra del gran saco de arroz, Zilu cosió con esmero los pocos trozos de plata sobrantes en el forro de su abrigo.
+  #2 | 经过前期艰苦卓绝的技术攻关，摆在整个项目团队面前的只剩下系统兼容性联调这一道最终关卡。 | Jīngguò qiánqī jiānkǔ-zhuójué de jìshù gōngguān, bǎi zài zhěnggè xiàngmù tuánduì miànqián de zhǐ shèngxià xìtǒng jiānróngxìng liántiáo zhè yí dào zuìzhōng guānkǎ. | After overcoming grueling technical hurdles in early phases, only the final hurdle of joint system compatibility debugging remains before the project team. | Tras superar extenuantes desafíos técnicos en las fases iniciales, ante el equipo del proyecto solo queda el último obstáculo: la depuración conjunta de compatibilidad del sistema.
+
+collocations[6]{hanzi,en}:
+  剩下的时间 | the remaining time
+  所剩无几 | very little remains; hardly anything left
+  剩下的一部分 | the remaining part
+  只剩下 | only ... remains
+  剩下的问题 | remaining questions / issues
+  剩下的一点钱 | the little remaining money
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  所剩无几 | suǒ shèng wú jǐ | there is very little left; hardly anything remains
+  残羹剩饭 | cán gēng shèng fàn | leftover food; scraps from a meal
+  残余势力 | cán yú shì lì | remnant forces
+  硕果仅存 | shuò guǒ jǐn cún | the only surviving fruit; solitary survivor of a past era
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  剩 | shèng | remain; surplus; leftover | sobrar; restar; excedente | 刂 | knife / cut | 乘 (chéng / ride chariot / multiply / tally) | 刂 (cleaving knife / severance) | 12 | 左右结构 | Phono-semantic compound: 乘 (chariot/tally phonetic) + 刂 (cutting knife), originally cutting off surplus material or what remains after division. | A cutting blade (刂) carving away parts while leaving a surplus amount (乘) intact. | Una cuchilla (刂) que recorta porciones dejando intacto el remanente (乘). | 51 | HDLN | ""
+  下 | xià | down; lower; directional complement | abajo; descender; complemento | 一 | one | 一 (ground line) | 卜 (indicator pointing below line) | 3 | 单一结构 | Indicative character pointing downwards, functioning as a resultative verbal complement denoting remaining settled behind. | An indicator line marking what settles downward and stays behind. | Una señal indicativa que marca lo que queda asentado y permanece atrás. | 51 | MY | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: What a cutting knife (刂) leaves behind on the table to settle downward (下) is the remainder (剩下).
+  composite_memory_hook_es: Lo que el corte (刂) deja apartado posándose hacia abajo (下) es lo que sobra o queda (剩下).
+  cultural_and_cognitive_roots: In traditional Chinese frugality, not leaving a single grain of rice behind is drilled into children as moral respect for farmers' backbreaking sweat.
+  tone_sandhi_and_pitch_modulation: Two consecutive falling 4th tones: shèng xià (51-51) or shèng xia (51-0) when unstressed as a complement.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    乘 | chéng | ride; multiply | Left component of 剩 without the knife radical 刂
+    乖 | guāi | well-behaved; perverse | Has vertical strokes parting in the middle, lacking 禾 top
+    刹 | shā / chà | brake; Buddhist temple | Has 木+爻 on the left of 刂 instead of 乘
+    荆 | jīng | bramble; thorn | Has 艹 (grass) atop 开 on the left of 刂
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    剩余 | shèng yú | surplus; remainder
+    剩菜 | shèng cài | leftovers; surplus dishes
+    下来 | xià lái | come down; descend
+    下方 | xià fāng | below; underneath
+
+semantic_boundary_contrasts:
+  core_nuance: 剩下 emphasizes the residual surplus or remainder lingering after consumption, departure, or expenditure.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 剩下 vs. 剩余 | shèngyú | 剩下 is conversational, oral, and verbal, whereas 剩余 is formal, written, and economic/statistical.
+    2 | 剩下 vs. 留下 | liúxià | 剩下 focuses on the quantity that is leftover or not consumed, whereas 留下 emphasizes intentional retention, preservation, or staying behind.
+    3 | 剩下 vs. 多余 | duōyú | 剩下 simply reports the objective remainder, whereas 多余 carries a negative evaluation meaning redundant or superfluous.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 子路在富人家中舂米多日，除了换来那袋白米，还剩下了几块散碎银子。他把剩下的一切都视作家中父母度过严冬的命根子，在漫天飞雪中片刻不敢耽误。 | Zǐlù zài fùjiā zhòng chōngmǐ duō rì, chúle huànlái nà dài báimǐ, hái shèngxià le jǐ kuài sǎnsuì yínzi. Tā bǎ shèngxià de yíqiè dōu shìzuò jiāzhōng fùmǔ dùguò yándōng de mìnggēnzi, zài màntiān fēixuě zhōng piànkè bù gǎn dānwù. | Pounding rice for days in the rich manor, Zilu earned a sack of white rice and had several pieces of broken silver remaining. Viewing all that remained as his parents' lifeline for winter, he dared not tarry a moment. | Tras moler grano en la mansión, a Zilu le sobraron unos trozos de plata tras adquirir el arroz. Viendo en ese remanente el sustento vital de sus padres para el crudo invierno, no se demoró un instante en la nieve.
+  #2 | 在宏观资源配置与循环经济理论中，如何将工业生产中剩下的废弃副产品转化为高附加值的新型环保建材，是实现绿色转型的重要突破口。变废为宝不仅能最大化地榨取资源潜能，更是从源头上根治环境污染的治本之策。 | Zài hóngguān zīyuán pèizhì yǔ xúnhuán jīngjì lǐlùn zhōng, rúhé jiāng gōngyè shēngchǎn zhōng shèngxià de fèiqì fùchǎnpǐn zhuǎnhuà wéi gāofùjiāzhí de xīnxíng huánbǎo jiàncái, shì shíxiàn lǜsè zhuǎnxíng de zhòngyào tūpòkǒu. Biàn fèi wéi bǎo bùjǐn néng zuìdàhuà de zhàqǔ zīyuán qiánnéng, gèng shì cóng yuántóu shàng gēnzhì huánjìng wūrǎn de zhìběn zhī cè. | In resource allocation and circular economics, converting residual byproducts from industrial manufacturing into high-value green building materials is key to green transition. Turning waste into treasure cures pollution at its root. | En la economía circular, aprovechar los subproductos que sobran de la manufactura industrial para crear materiales ecológicos de alto valor es crucial. Transformar residuos en recursos optimiza el potencial material y ataja la contaminación desde el origen.

@@ -1,0 +1,63 @@
+id: 22
+hanzi: 轮流
+pinyin: lún liú
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to take turns; to rotate; in turn; alternately
+  es: turnarse; alternar; por turnos; sucesivamente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to take turns in succession; to do something alternately in cyclical rotation | turnarse; alternar en una tarea o función de forma rotativa | 轮流值班 (take turns on duty)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在漫长而危险的夜间航行中，夫妻俩轮流掌舵守夜，确保帆船始终保持在正确的航道上。 | Zài màncháng ér wēixiǎn de yèjiān hángxíng zhōng, fūqī liǎ lúnliú zhǎngduò shǒuyè, quèbǎo fānchuán shǐzhōng bǎochí zài zhèngquè de hángdào shàng. | During treacherous night sailing, the couple took turns at the helm to keep watch, ensuring the yacht stayed on its course. | En la peligrosa navegación nocturna, los esposos se turnaban al timón para hacer guardia y mantener el velero en el rumbo exacto.
+  #2 | 为了保障二十四小时不间断技术支持，数据运维团队成员轮流在节假日留守值班。 | Wèile bǎozhàng èrshísì xiǎoshí bú jiànduàn jìshù zhīchí, shùjù yùnwéi tuánduì chéngyuán lúnliú zài jiérìjià qī liúshǒu zhíbān. | To ensure uninterrupted 24-hour technical support, data operations members take turns staffing shifts over holidays. | Para garantizar asistencia técnica continua las veinticuatro horas, el equipo de soporte se turna en guardias durante los días festivos.
+
+collocations[6]{hanzi,en}:
+  轮流值日 | take turns on daily duty
+  轮流发言 | speak in turn
+  轮流照顾 | take turns caring for
+  轮流掌舵 | take turns at the helm
+  轮流休息 | take turns resting
+  轮流坐庄 | take turns being banker / hosting
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  风水轮流转 | fēng shuǐ lún liú zhuàn | fortune turns like a wheel; times change and fortunes rotate
+  川流不息 | chuān liú bù xī | flowing like an endless river; non-stop stream
+  源远流长 | yuán yuǎn liú cháng | having a long history; flowing from a distant source
+  随波逐流 | suí bō zhú liú | drift with the waves; blindly follow the crowd
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  轮 | lún | wheel; rotate; turn | rueda; rotar; turno | 车 | cart / vehicle | 车 (wheeled cart rolling) | 仑 (lún phonetic / order or sequence) | 8 | 左右结构 | Phono-semantic compound: cart wheels (车) revolving in sequential succession (仑). | A rolling cart wheel (车) completing orderly revolutions (仑) turn after turn. | Una rueda de carro (车) que gira sin cesar en rotación sucesiva y ordenada (仑). | 35 | KQOP | 輪
+  流 | liú | flow; stream; drift | fluir; corriente; circular | 氵 | water / liquid | 氵 (flowing water currents) | 㐬 (liú phonetic / child newborn head down or hair flowing) | 10 | 左右结构 | Ancient pictograph of water ripples (氵) streaming along without obstruction like flowing hair (㐬). | Clear mountain water (氵) streaming effortlessly down a rocky brook (流). | Agua cristalina (氵) que fluye dócil e ininterrumpida por el lecho de un arroyo (流). | 35 | EYIU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Like a revolving carriage wheel (轮) flowing smoothly down a river (流), people step up to take turns (轮流).
+  composite_memory_hook_es: Como una rueda que gira (轮) y el agua que fluye continua (流), las personas se suceden al turnarse (轮流).
+  cultural_and_cognitive_roots: Traditional Chinese cosmology viewed cycles as rotating wheels ('风水轮流转'). In communal living, cooperative task-sharing through turns ensured collective survival and fairness.
+  tone_sandhi_and_pitch_modulation: Two consecutive rising 2nd tones: lún liú (35-35). Modulate both syllables with a balanced, upward vocal rise.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    轮 | lún | wheel; turn | Has 车 (cart) on the left and 仑 on the right
+    论 | lùn | discuss; discourse | Has 讠 (speech) on the left with 仑
+    流 | liú | flow; drift | Has 氵 (water) on the left
+    梳 | shū | comb | Has 木 (wood) on the left with 㐬
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    轮子 | lún zi | wheel; caster
+    轮换 | lún huàn | rotate; take turns substituting
+    流动 | liú dòng | flow; circulate; mobile
+    流程 | liú chéng | workflow; technological process
+
+semantic_boundary_contrasts:
+  core_nuance: 轮流 stresses cyclic, orderly alternation among multiple individuals to execute a shared duty.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 轮流 vs. 交替 | jiāotì | 轮流 specifically emphasizes people taking turns for shifts or tasks in orderly sequence (轮流守夜), whereas 交替 is more abstract and formal, describing natural alternating cycles (新旧交替, 昼夜交替).
+    2 | 轮流 vs. 轮番 | lúnfān | 轮流 denotes regular, cooperative task sharing, whereas 轮番 often describes aggressive, intense, repeated onslaughts or rounds (轮番轰炸, 轮番上阵).
+    3 | 轮流 vs. 依次 | yīcì | 轮流 emphasizes rotation over time, whereas 依次 denotes static spatial or ordinal succession (依次入场).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在茫茫大海上漂泊的日子里，全家三口人轮流坚守在狭窄的驾驶舱中。当夜幕降临，风浪渐起，一人掌舵，一人观察雷达，一人抓紧时间在后舱休息。这种风雨同舟的默契与协作，让孤独的航程充满了无尽的温情。 | Zài mángmáng dàhǎi shàng piāobó de rìzi lǐ, quán jiā sān kǒu rén lúnliú jiānshǒu zài xiázǎi de jiàshǐcāng zhōng. Dāng yèmù jiànglín, fēnglàng jiàn qǐ, yì rén zhǎngduò, yì rén guānchá léidá, yì rén zhuājǐn shíjiān zài hòucāng xiūxi. Zhè zhǒng fēngyǔtóngzhōu de mòqì yǔ xiézuò, ràng gūdú de hángchéng chōngmǎn le wújìn de wēnqíng. | Drifting upon the boundless main, the family of three took turns manning the cockpit. As night fell and swells arose, one held the helm, one watched radar, and one rested. Such unspoken solidarity warmed an otherwise lonely voyage. | A merced del océano inmenso, la familia de tres se turnaba en la cabina de mando. Al caer la noche y crecer las olas, uno gobernaba, otro vigilaba el radar y el tercero descansaba. Esa complicidad hermanada colmó de ternura la solitaria travesía.
+  #2 | 现代应急管理机制强调跨部门协同作战。在应对台风等极端气象灾害时，气象、水利与交通部门建立了轮流值守与实时会商制度。通过不间断的数据共享与应急响应联动，各部门能够精准研判汛情演化，全面提升灾害防御处置效能。 | Xiàndài yìngjí guǎnlǐ jīzhì qiángdiào kuàbùmén xiétóng zuòzhàn. Zài yìngduì táifēng děng jíduān qìxiàng zāihài shí, qìxiàng, shuǐlì yǔ jiāotōng bùmén jiànlì le lúnliú zhíshǒu yǔ shíshí huìshāng zhìdù. Tōngguò bújiànduàn de shùjù gòngxiǎng yǔ yìngjí xiǎngyìng liándòng, gè bùmén nénggòu jīngzhǔn yánpàn xùnqíng yǎnhuà, quánmiàn tíshēng zāihài fángyù chǔzhì xiàonéng. | Emergency management highlights inter-departmental synergy. In battling typhoons, meteorological, water, and transit bureaus establish rotating watches and joint sessions. Seamless data-sharing and linked responses enable precise flood assessment and robust disaster mitigation. | La gestión de emergencias exige sinergia entre departamentos. Frente a tifones y desastres, los servicios meteorológicos, hidráulicos y de tráfico establecen guardias rotatorias y consultas conjuntas, blindando la capacidad de respuesta y mitigación de catástrofes.

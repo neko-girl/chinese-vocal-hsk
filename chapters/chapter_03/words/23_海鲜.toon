@@ -1,0 +1,63 @@
+id: 23
+hanzi: 海鲜
+pinyin: hǎi xiān
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: seafood; ocean delicacies; edible marine animals
+  es: marisco; mariscos; frutos del mar; viandas marinas
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | edible fish, shellfish, crabs, and aquatic organisms caught from the sea | animales marinos comestibles (peces, mariscos, crustáceos) | 吃海鲜 (eat seafood)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过数星期的远洋航行，帆船停靠在热带小岛港湾，一家人品尝到了刚捕捞上来的鲜美海鲜。 | Jīngguò shù xīngqī de yuǎnyáng hángxíng, fānchuán tíngkào zài rèdài xiǎodǎo gǎngwān, yì jiā rén pǐncháng dào le gāng bǔlāo shànglái de xiānměi hǎixiān. | Following weeks of ocean cruising, the sailboat docked in a tropical lagoon, where the family relished succulent freshly caught seafood. | Tras semanas de singladura oceánica, el velero atracó en la bahía de una isla tropical, donde la familia degustó marisco fresco recién capturado.
+  #2 | 沿海城市依托冷链物流与深海养殖基地，将优质活体海鲜在二十四小时内高效配送至内陆核心商圈。 | Yánhǎi chéngshì yītuō lěngliàn wùliú yǔ shēnhǎi yǎngzhí jīdì, jiāng yōuzhì huótǐ hǎixiān zài èrshísì xiǎoshí nèi gāoxiào pèisòng zhì nèilù héxīn shāngquān. | Coastal hubs leverage cold-chain logistics and mariculture farms to dispatch live seafood to inland commercial districts within 24 hours. | Las ciudades costeras aprovechan la cadena de frío y la acuicultura marina para suministrar marisco vivo a las urbes del interior en 24 horas.
+
+collocations[6]{hanzi,en}:
+  吃海鲜 | eat seafood
+  海鲜大餐 | seafood feast
+  新鲜海鲜 | fresh seafood
+  海鲜市场 | seafood market
+  海鲜火锅 | seafood hotpot
+  海鲜过敏 | seafood allergy
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  屡见不鲜 | lǚ jiàn bù xiān | seen so often as to be no longer novel; common occurrence
+  数见不鲜 | shuò jiàn bù xiān | common sight; nothing new
+  鲜为人知 | xiǎn wéi rén zhī | rarely known to people; little known
+  海晏河清 | hǎi yàn hé qīng | the sea is calm and the river clear; profound national peace
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  海 | hǎi | ocean; sea | mar; océano | 氵 | water / liquid | 氵 (vast bodies of water) | 每 (měi phonetic / mother wearing hairpins or fertile abundance) | 10 | 左右结构 | Phono-semantic compound: water (氵) of motherly maternal immensity (每) that accepts every stream and river. | Boundless rolling blue water (氵) nurturing countless living creatures like an all-giving mother (每). | La inmensidad azul del agua (氵) que engendra y nutre la vida como una madre prolífica (每). | 214 | EOWY | ""
+  鲜 | xiān | fresh; delicious; seafood | fresco; delicioso; vianda marina | 鱼 | fish | 鱼 (fresh swimming fish) | 羊 (yáng phonetic / tender mutton or umami flavor) | 14 | 左右结构 | Ideogrammic compound: pairing delicate fish (鱼) with savory lamb (羊), creating the quintessential Chinese definition of delicious umami. | Combining fresh marine fish (鱼) with tender prairie lamb (羊) yields peak gastronomic freshness and flavor (鲜). | La unión del pescado fresco (鱼) y el cordero tierno (羊) simboliza el culmen del sabor umami y la frescura (鲜). | 55 | NMTQ | 鮮
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Savoring marine delicacies harvested from the deep ocean (海) that combine fish and meat flavors (鲜) defines delicious seafood (海鲜).
+  composite_memory_hook_es: Saborear viandas cosechadas en el mar profundo (海) que conjugan pescado y exquisitez (鲜) define el rico marisco (海鲜).
+  cultural_and_cognitive_roots: In Chinese gastronomy, '鲜' (xiān) is the fifth fundamental taste alongside sweet, sour, bitter, and salty. Coastal dwellers regarded ocean bounty as heaven-sent sustenance celebrated through seasonal banquets.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by a high level 1st tone: hǎi xiān (214-55). Dip 'hǎi' down smoothly before sustaining 'xiān' steadily at high pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    海 | hǎi | sea; ocean | Has 氵 (water) on the left and 每 on the right
+    梅 | méi | plum tree | Has 木 (wood) on the left with 每
+    鲜 | xiān / xiǎn | fresh; rare | Has 鱼 on the left and 羊 on the right
+    群 | qún | crowd; group | Has 君 on top/left with 羊
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    海洋 | hǎi yáng | ocean; maritime waters
+    海港 | hǎi gǎng | seaport; harbor
+    新鲜 | xīn xiān | fresh; novel; new
+    鲜美 | xiān měi | delicious; savory; luscious
+
+semantic_boundary_contrasts:
+  core_nuance: 海鲜 specifically denotes edible marine fauna (fish, shrimp, crabs, clams) harvested from saltwater environments.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 海鲜 vs. 水产 | shuǐchǎn | 海鲜 refers specifically to saltwater food delicacies for human dining, whereas 水产 is an industrial/agricultural umbrella term encompassing freshwater and marine aquaculture (水产业).
+    2 | 海鲜 vs. 鱼类 | yúlèi | 海鲜 includes mollusks, crustaceans, squid, and shellfish in culinary dining, while 鱼类 is a biological classification restricted exclusively to finned fish.
+    3 | 海鲜 vs. 野味 | yěwèi | 海鲜 denotes marine aquatic foods, whereas 野味 refers specifically to wild game animals hunted from forests and land habitats.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 黄昏的渔港总是弥漫着咸涩的海风与刚靠岸海鲜的鲜甜气息。渔民们满载而归，甲板上银鳞闪烁的鱼虾活蹦乱跳。支起一口铁锅，用最简单的清蒸烹制刚出海的美味，那是大海对辛劳耕海者最纯粹的慷慨馈赠。 | Huánghūn de yúgǎng zǒngshì mímàn zhe xiánsè de hǎifēng yǔ gāng kào'àn hǎixiān de xiāntián qìxī. Yúmínmen mǎnzài ér guī, jiǎbǎn shàng yínlín shǎnshuò de yúxiā huóbèngluàntiào. Zhī qǐ yì kǒu tiěguō, yòng zuì jiǎndān de qīngzhēng pēngzhì gāng chūhǎi de měiwèi, nà shì dàhǎi duì xīnláo gēnghǎizhě zuì chúncuì de kāngkǎi kuìzèng. | Twilight fishing ports brim with salty sea breezes and the sweet aroma of freshly landed seafood. Fishermen return laden, silvery scales leaping on decks. Steaming catch in an iron pot delivers the sea's purest, generous reward for maritime toil. | El puerto al atardecer huele a brisa salina y al aroma del marisco recién desembarcado. Los pescadores regresan con la bodega llena de peces que platean la cubierta. Cocer la pesca al vapor en una olla de hierro es el premio más generoso que el mar reserva a sus faenadores.
+  #2 | 随着冷链物流技术的迭代升级与远洋捕捞产业的规范化发展，高品质生鲜海鲜实现了从深海捕捞船到内陆百姓餐桌的端到端保鲜直达。这一现代生鲜供应链体系不仅显著降低了物流损耗率，也极大丰富了大众的膳食营养结构。 | Suízhe lěngliàn wùliú jìshù de jiédài shēngjí yǔ yuǎnyáng bǔlāo chǎnyè de guīfànhuà fāzhǎn, gāopǐnzhì shēngxiān hǎixiān shíxiàn le cóng shēnhǎi bǔlāochuán dào nèilù bǎixìng cānzhuō de duāndàoduān bǎoxiān zhídá. Zhè yí xiàndài shēngxiān gōngyìngliàn tǐxì bùjǐn xiǎnzhù jiàngdī le wùliú sǔnhàolǜ, yě jídà fēngfù le dàzhòng de shànshí yíngyǎng jiégòu. | Upgrades in cold-chain logistics and distant-water fishing enable fresh seafood to transit swiftly from ocean vessels to inland tables. This cold-chain supply pipeline minimizes cargo spoilage while diversifying dietary nutrition for the general public. | La modernización logística de la cadena de frío y la pesca de altura permiten trasladar marisco fresco del barco a la mesa del interior en tiempo récord. Esta red de distribución reduce mermas y enriquece la nutrición y variedad de la dieta popular.

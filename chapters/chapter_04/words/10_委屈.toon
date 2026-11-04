@@ -1,0 +1,64 @@
+id: 10
+hanzi: 委屈
+pinyin: wěi qu
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: to feel wronged; aggrieved; to cause somebody to feel wronged; unfair treatment
+  es: agraviado; ofendido; sentirse tratado injustamente; hacer sufrir agravio
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | feeling aggrieved, hurt, or suffering an unjust slight | agraviado; dolido por un trato injusto | 受了委屈 (suffered an injustice / felt wronged)
+  2 | Verb | Standard | to put someone to inconvenience or treat without due regard | hacer pasar agravio o incomodidad a alguien | 委屈你了 (sorry to put you out / trouble you)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对他人的误解与冷嘲热讽，他强忍着内心的委屈，没有做过多的辩解，而是用实际行动证明了自己。 | Miànduì tārén de wùjiě yǔ lěngcháo-rèfěng, tā qiáng rěn zhe nèixīn de wěiqu, méiyǒu zuò guòduō de biànjiě, ér shì yòng shíjì xíngdòng zhèngmíng le zìjǐ. | Facing misunderstandings and cynical mockery from others, he held back his inner grievance without making excuses, proving himself through concrete actions instead. | Frente a las incomprensiones y burlas ajenas, contuvo el dolor de sentirse agraviado sin dar explicaciones superfluas, demostrando su valía con hechos concretos.
+  #2 | 家里条件实在有限，这次只能委屈你在简陋的客房里将就挤几个晚上了。 | Jiālǐ tiáojiàn shízài yǒuxiàn, zhè cì zhǐ néng wěiqu nǐ zài jiǎnlòu de kèfáng lǐ jiāngjiù jǐ jǐ gè wǎnshang le. | Our home conditions are truly modest; this time we must trouble you to squeeze into the humble guest room for a few nights. | Las condiciones de la casa son muy modestas; esta vez tendremos que molestarte haciéndote pasar la noche en una habitación muy sencilla.
+
+collocations[6]{hanzi,en}:
+  受委屈 | suffer unfair treatment; feel wronged
+  觉得委屈 | feel aggrieved
+  满腹委屈 | full of grievances
+  忍受委屈 | endure being wronged
+  委屈求全 | compromise out of accommodation (variant of 委曲求全)
+  诉说委屈 | pour out one's grievances
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  委曲求全 | wěi qū qiú quán | make concessions to achieve one's purpose; compromise to accommodate
+  含冤受屈 | hán yuān shòu qū | suffer unjust treatment with grievances unredressed
+  鸣冤叫屈 | míng yuān jiào qū | cry out against injustice
+  饮泣吞声 | yǐn qì tūn shēng | swallow one's sobs and choke down tears
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  委 | wěi | entrust; indirect; committee | delegar; ceder; comisión | 女 | woman | 禾 (ripe cereal stalk bending) | 女 (kneeling woman yieldingly accepting duty) | 8 | 上下结构 | Ideogrammic compound: ripe bending grain (禾) over a woman (女), indicating bowing, yielding, or entrusting responsibilities. | Yielding graciously like bending grain (禾) carried by a patient daughter (女). | Inclinarse dócilmente como espiga madura de trigo (禾) en manos de una hija paciente (女). | 214 | HVD | ""
+  屈 | qū | bend; yield; injustice | doblar; someter; agravio | 尸 | corpse / reclining body | 尸 (bending body posture) | 出 (chū / emerge phonetic/sprouting out) | 8 | 半包围结构 | Ideogrammic and phono-semantic: a human body (尸) bent under external pressure struggling to emerge (出), hence feeling wronged or subjugated. | A person stooping under heavy pressure, unable to stand upright. | Una persona que se encorva bajo una presión asfixiante sin poder erguirse plenamente. | 55 | SUB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When you yield patiently (委) yet find yourself bent down under unfair pressure (屈), you feel wronged and aggrieved (委屈).
+  composite_memory_hook_es: Ceder con paciencia (委) solo para verse doblegado bajo una carga injusta (屈) hace sentir un profundo agravio (委屈).
+  cultural_and_cognitive_roots: In traditional Chinese relationships, 委屈 represents the bitter swallow of self-subordination or false blame for the greater good of family harmony, bearing humiliation without complaint.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by neutral tone: wěi qu (214-0). 'qu' loses its original high-level tone and is read light, brief, and soft.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    季 | jì | season | Has 禾 over 子 instead of 女
+    秀 | xiù | elegant; show | Has 禾 over 乃 instead of 女
+    居 | jū | reside; live | Has 尸 with 古 inside instead of 出
+    尾 | wěi | tail | Has 尸 with 毛 (fur) inside instead of 出
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    委托 | wěi tuō | entrust; delegate
+    委派 | wěi pài | appoint; assign
+    屈服 | qū fú | yield; surrender
+    屈辱 | qū rù | humiliation; dishonor
+
+semantic_boundary_contrasts:
+  core_nuance: 委屈 focuses on internal sorrow and emotional pain caused by unfair treatment, unjust blame, or living beneath standard dignity.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 委屈 vs. 难过 | nánguò | 委屈 specifically requires feeling that an unfair injustice or misunderstanding caused one's suffering, whereas 难过 is general sorrow or sadness.
+    2 | 委屈 vs. 冤枉 | yuānwang | 委屈 describes the emotional hurt and grievance experienced inside, whereas 冤枉 focuses on the factual error of false accusation itself.
+    3 | 委屈 vs. 遗憾 | yíhàn | 委屈 arises from interpersonal unfairness, whereas 遗憾 is regret or sorrow over missed opportunities or unavoidable circumstances.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 子路在富人家中干苦力时，偶尔也会遭遇严苛的挑剔与苛待。但他将满腹委屈默默咽回肚子里，因为他明白，只要能换得白米带回家给双亲充饥，个人的些许委屈根本算不了什么。 | Zǐlù zài fùrén jiāzhōng gàn kǔlì shí, ǒu'ěr yě huì zāoyù yánkē de tiāoti yǔ kēdài. Dàn tā jiāng mǎnfù wěiqu mòmò yān huí dùzi lǐ, yīnwèi tā míngbai, zhǐyào néng huàndé báimǐ dài huí jiā gěi shuāngqīn chōngjī, gèrén de xiěxǔ wěiqu gēnběn suàn bù liǎo shénme. | Laboring in wealthy households, Zilu occasionally faced harsh fault-finding. Yet he swallowed his grievances in silence, knowing that as long as he earned rice to feed his parents, personal slights mattered little. | Al servir como peón en casas acomodadas, Zilu sufría a veces desdenes y exigencias desmedidas. No obstante, tragaba sus agravios en silencio, sabiendo que llevar comida a sus padres estaba muy por encima del orgullo personal.
+  #2 | 人际交往中，因信息不对称导致的误会往往容易让人心生委屈。健康的心理调节机制在于学会客观理性地区分他人言论与自我价值，在感到受委屈时不盲目内耗，而是通过及时坦诚的沟通化解分歧，重塑彼此信任。 | Rénjì jiāowǎng zhōng, yīn xìnxī bùduìchèn dǎozhì de wùhuì wǎngwǎng róngyì ràng rén xīn shēng wěiqu. Jiànkāng de xīnlǐ tiáojié jīzhì zàiyú xuéhuì kèguān lǐxìng de qūfēn tārén yánlùn yǔ zìwǒ jiàzhí, zài gǎndào shòu wěiqu shí bù mángmù nèihào, ér shì tōngguò jíshí tǎnchéng de gōutōng huàjiě fēnqí, chóngsù bǐcǐ xìnrèn. | In interpersonal interactions, misunderstandings from information gaps easily foster grievances. Healthy emotional regulation involves distinguishing external words from self-worth, avoiding internal friction when feeling wronged, and rebuilding trust through candid communication. | En las relaciones humanas, los malentendidos suelen despertar sentimientos de agravio. La madurez emocional radica en separar las opiniones ajenas de la propia valía personal, evitando el desgaste interno y reconstruyendo la confianza mutua mediante el diálogo sincero.

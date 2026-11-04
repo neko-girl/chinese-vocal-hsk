@@ -1,0 +1,63 @@
+id: 30
+hanzi: 寒冷
+pinyin: hán lěng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: very cold; frigid; chilly; freezing
+  es: muy frío; gélido; frígido; glacial
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | possessing or characterized by very low ambient temperature | gélido; muy frío; frígido | 寒冷的严冬 (frigid harsh winter)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对滴水成冰的寒冷天气，子路身着单衣跋涉在深雪之中，呼出的热气瞬间凝结成了白霜。 | Miànduì dīshuǐ-chéngbīng de hánlěng tiānqì, Zǐlù shēnzhuó dānyī báshè zài shēnxuě zhīzhōng, hūchū de rèqì shùnjiān níngjié chéng le báishuāng. | Facing frigid weather where dripping water froze to ice, Zilu trudged through deep snow in thin clothing, his breath instantly condensing into white frost. | Frente a un frío glacial donde las gotas de agua se congelaban al caer, Zilu caminaba entre la nieve con ropas finas, condensándose su aliento en escarcha.
+  #2 | 为了应对极端寒冷天气对城市基础设施的冲击，市政供暖部门提前启动了全天候应急保障预案。 | Wèile yìngduì jíduān hánlěng tiānqì duì chéngshì jīchǔ shèshī de chōngjī, shìzhèng gōngnuǎn bùmén tíqián qǐdòng le quántiānhòu yìngjí bǎozhàng yù'àn. | To cope with the impact of extreme frigid weather on municipal infrastructure, the heating authority preemptively activated a round-the-clock emergency plan. | Para contrarrestar el impacto del frío extremo en las infraestructuras urbanas, la dirección municipal de calefacción activó un plan de contingencia continuo.
+
+collocations[6]{hanzi,en}:
+  极为寒冷 | exceptionally cold
+  寒冷的天气 | frigid weather
+  抵御寒冷 | ward off the cold; resist chill
+  严酷寒冷 | severe, harsh cold
+  寒冷刺骨 | piercing, bone-chilling cold
+  忍受寒冷 | endure the freezing cold
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  滴水成冰 | dī shuǐ chéng bīng | water freezes into ice drop by drop; bitter cold
+  寒风刺骨 | hán fēng cì gǔ | bone-chilling wind; piercing cold
+  冰天雪地 | bīng tiān xuě dì | a world of ice and snow; freezing landscape
+  饥寒交迫 | jī hán jiāo pò | suffer from hunger and cold; acute distress
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  寒 | hán | cold; frigid; humble | frío; helado; humilde | 宀 | roof / dwelling | 宀 (shelter/dwelling) + 艹 (straw mats) + 人 (person huddled) | 冫 (two drops of freezing ice at bottom) | 12 | 上下结构 | Ideogrammic compound: a person (人) inside a shelter (宀) buried under straw (艹) with ice crystals (冫) freezing beneath, depicting bitter cold. | A person shivering under straw inside a leaky roof (宀) standing on sheets of ice (冫). | Una persona que tirita bajo un techo con paja (宀) mientras el hielo (冫) se forma a sus pies. | 35 | JTOI | ""
+  冷 | lěng | cold; chilly; unfrequented | frío; helado; solitario | 冫 | ice / two drops water | 冫 (ice/freezing) | 令 (lìng / command phonetic/official seal) | 7 | 左右结构 | Phono-semantic compound: 冫 (ice) + 令 (phonetic/commanding coolness), denoting cold temperatures, coolness of mood, or aloofness. | Two droplets of freezing ice (冫) commanding temperatures to plunge. | Dos gotas de hielo congelado (冫) imponiendo un descenso helador de la temperatura. | 214 | IMOI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Shivering with ice crystals forming on the floor (寒) beneath the freezing command of winter (冷) immerses you in frigid cold (寒冷).
+  composite_memory_hook_es: Tiritar con escarcha bajo el techo (寒) ante el gélido mandato del invierno (冷) sumerge en un frío glacial (寒冷).
+  cultural_and_cognitive_roots: In Chinese poetry, 寒冷 is not merely sensory meteorology, but evokes moral fortitude and filial hardship under freezing trials.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by dipping 3rd tone: hán lěng (35-214). 'hán' rises smoothly from mid-pitch before diving into deep dip on 'lěng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    赛 | sài | compete; match | Has 贝 (wealth/shell) at bottom instead of 冫
+    塞 | sāi / sài | plug; border pass | Has 土 (earth) at bottom instead of 冫
+    怜 | lián | pity; sympathize | Has 忄 (heart) on the left of 令 instead of 冫
+    领 | lǐng | neck; collar; lead | Has 页 on the right of 令
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    寒冬 | hán dōng | freezing winter
+    寒心 | hán xīn | bitterly disappointed; chilled at heart
+    冷静 | lěng jìng | calm; composed; cool-headed
+    冷淡 | lěng dàn | cold; indifferent; aloof
+
+semantic_boundary_contrasts:
+  core_nuance: 寒冷 specifically describes extremely low ambient temperature or harsh weather conditions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 寒冷 vs. 冷 | lěng | 冷 is the everyday monosyllabic word for any cold sensation, whereas 寒冷 is a formal disyllabic adjective specifically denoting severe, climate-scale freezing conditions.
+    2 | 寒冷 vs. 凉快 | liángkuai | 寒冷 is bitterly cold and uncomfortable, whereas 凉快 is delightfully cool and pleasant, offering relief from heat.
+    3 | 寒冷 vs. 严寒 | yánhán | 寒冷 describes generic freezing coldness, while 严寒 is a noun/adjective describing the extreme zenith of bitter winter.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 天地之间一片苍茫，刺骨的寒冷几乎冻僵了子路的双手与面颊。但他心中跳动着一团滚烫的孝心之火，即便面对千里冰雪，也丝毫无法阻挡他归家的如箭归心。 | Tiāndì zhījiān yí piàn cāngmáng, cìgǔ de hánlěng jīhū dòngjiāng le Zǐlù de shuāngshǒu yǔ miànjiá. Dàn tā xīnzhōng tiàodòng zhe yì tuán gǔntàng de xiàoxīn zhī huǒ, jíbiàn miànduì qiānlǐ bīngxuě, yě sīháo wúfǎ zǔdǎng tā guījiā de rújiàn-guīxīn. | In the vast grey expanse between sky and earth, biting cold froze Zilu's hands and cheeks. But inside his chest burned the fire of filial love; even leagues of ice could not check his eager strides toward home. | En la inmensidad desolada, un frío lacerante congelaba las manos y mejillas de Zilu. Mas en su pecho ardía el fuego del amor filial; ni mil leguas de hielo pudieron frenar su impaciente regreso al hogar.
+  #2 | 气候学研究表明，高纬度与高海拔地区的极端寒冷气候对人类聚落形态与能源消耗构成了严峻考验。通过研发新型建筑保温材料与清洁供暖技术，现代社会正有效降低极寒天气带来的负面影响。 | Qìhòuxué yánjiū biǎomíng, gāowěidù yǔ gāohǎibá dìqū de jíduān hánlěng qìhòu duì rénlèi jùluò xíngtài yǔ néngyuán xiāohào gòuchéng le yánjùn kǎoyàn. Tōngguò yánfā xīnxíng jiànzhù bǎowēn cáiliào yǔ qīngjié gōngnuǎn jìshù, xiàndài shèhuì zhèng yǒuxiào jiàngdī jíhán tiānqì dàilái de fùmiàn yǐngxiǎng. | Climatological studies indicate that extreme cold in high-latitude regions severely tests human settlements and energy consumption. Developing insulation materials and clean heating reduces frigid impacts. | La climatología demuestra que el frío extremo en altas latitudes desafía los asentamientos humanos. El desarrollo de aislantes avanzados y calefacción limpia mitiga con éxito el rigor invernal.

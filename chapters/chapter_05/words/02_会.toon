@@ -1,0 +1,64 @@
+id: 2
+hanzi: 会
+pinyin: huì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: capital (of a province); meeting; conference; association; can; be able to
+  es: capital (de una provincia); reunión; conferencia; asociación; poder; saber hacer
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Formal | provincial capital (abbreviated form in 省会) | capital provincial (forma abreviada en 省会) | 济南是山东的省会 (Jinan is the provincial capital of Shandong)
+  2 | Noun | Standard | meeting; conference; gathering; association | reunión; asamblea; congreso; asociación | 开会讨论 (hold a meeting to discuss)
+  3 | Verb | Standard | can; to know how to; to be likely to | saber hacer; poder; ser probable que | 他会说流利的汉语 (he can speak fluent Chinese)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南作为山东省的省会，不仅是政治文化中心，更是名扬天下的“泉城”。 | Jǐnán zuòwéi Shāndōng shěng de shěnghuì, bùjǐn shì zhèngzhì wénhuà zhōngxīn, gèng shì míngyáng tiānxià de "Quánchéng". | As the provincial capital of Shandong, Jinan is not only a political and cultural center, but also the world-renowned "City of Springs." | Como capital de la provincia de Shandong, Jinan no solo es centro político y cultural, sino la mundialmente famosa "Ciudad de los Manantiales".
+  #2 | 国际经贸研讨会在省会会议中心如期开幕，吸引了来自三十多个国家的专家学者。 | Guójì jīngmào yántǎohuì zài shěnghuì huìyì zhōngxīn rúqī kāimù, xīyǐn le láizì sānshí duō gè guójiā de zhuānjiā xuézhě. | The international trade symposium opened on schedule at the provincial capital conference center, attracting scholars from over thirty nations. | El simposio de comercio internacional se inauguró según lo previsto en el centro de convenciones de la capital provincial, congregando a expertos de más de treinta países.
+
+collocations[6]{hanzi,en}:
+  省会城市 | provincial capital city
+  召开会议 | convene a conference
+  会议中心 | convention center
+  国际盛会 | grand international gathering
+  交流会 | networking session; exchange symposium
+  座谈会 | discussion forum; symposium
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  心领神会 | xīn lǐng shén huì | understand tacitly; grasp readily without words
+  融会贯通 | róng huì guàn tōng | achieve comprehensive mastery; synthesize thoroughly
+  风云际会 | fēng yún jì huì | meeting of stormy clouds; gathering of heroic figures at an opportune time
+  适逢其会 | shì féng qí huì | happen to be present at that opportune moment
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  会 | huì | meet; assemble; union; capital | reunión; asamblea; unión; capital | 人 | person | 人 (people gathering) | 云 (cloud / phonetic simplified from 曾) | 6 | 上下结构 | Ideogram depicting people gathering together under a single shelter or collective symbol. | Many people (人) gather together under the open sky to form a grand assembly (会). | Muchas personas (人) se congregan juntas bajo el cielo para formar una gran asamblea (会). | 51 | OMI | 會
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Many people (人) convene under one roof to govern a provincial capital (会).
+  composite_memory_hook_es: Muchas personas (人) se reúnen bajo un mismo techo para gobernar la capital provincial (会).
+  cultural_and_cognitive_roots: In ancient administrative geography, 'huì' signifies the central locus where tributaries, routes, and tribute goods converge (省会, 都督会府).
+  tone_sandhi_and_pitch_modulation: Pronounced in the 4th tone with sharp falling pitch (51). When used as accounting/balance (会计), it shifts tone and sound to 'kuàijì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    云 | yún | cloud | Lacks the top 人 (person) roof roofline
+    今 | jīn | today; present | Has a single hooked bottom stroke instead of 二 with 厶
+    令 | lìng | command; order | Has a downward dot stroke at the lower bottom
+    合 | hé | combine; join | Has 口 (mouth) at the bottom instead of 云
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    合 | hé | join; unite
+    集 | jí | gather; collect
+    汇 | huì | converge; remit
+    聚 | jù | assemble; cluster
+
+semantic_boundary_contrasts:
+  core_nuance: 会 in this chapter functions nominalized as the administrative capital where provincial institutions congregate (省会).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 省会 vs. 首都 | shǒudū | 省会 is strictly a provincial capital, whereas 首都 is the supreme national capital of a sovereign country.
+    2 | 会 vs. 聚会 | jùhuì | 会 can be an institutional meeting or formal summit, while 聚会 specifically refers to social parties or informal gatherings among friends.
+    3 | 会 vs. 懂得 | dǒngde | 会 signifies acquired procedural skill (learned capability), whereas 懂得 denotes cognitive understanding and conceptual grasp.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在省会的老街巷中，青砖黛瓦间流动着时光沉淀的从容。每逢周末，市民们相聚在泉水池畔，品茗谈天，清澈的泉流与古朴的茶香在这座城市里交融成最惬意的日常温情。 | Mànbù zài shěnghuì de lǎojiē xiàng zhōng, qīngzhuān dàiwǎ jiān liúdòng zhe shíguāng chéndiàn de cóngróng. Měiféng zhōumò, shìmínmen xiāngjù zài quánshuǐ chípàn, pǐnmíng tántiān, qīngchè de quánliú yǔ gǔpǔ de cháxiāng zài zhè zuò chéngshì lǐ jiāoróng chéng zuì qièyì de rìcháng wēnqíng. | Strolling through the provincial capital's ancient alleys, calm grace settles between grey bricks and dark tiles. Every weekend, residents gather by spring pools to sip tea and converse, blending clear springs and antique tea aroma into pleasant everyday warmth. | Al pasear por los viejos callejones de la capital provincial, la calma fluye entre ladrillos grises. Cada fin de semana, los vecinos se reúnen junto a los manantiales a tomar té y charlar, fundiendo el agua cristalina y el aroma del té en una entrañable rutina.
+  #2 | 作为全省的经济与科技中心，省会城市在辐射带动周边城镇协同发展方面发挥着枢纽作用。近年来，省会持续优化营商环境，聚集高端人才与创新资源，成为驱动全省产业结构升级与高质量发展的核心引擎。 | Zuòwéi quán shěng de jīngjì yǔ kējì zhōngxīn, shěnghuì chéngshì zài fúshè dàidòng zhōubiān chéngzhèn xiétóng fāzhǎn fāngmiàn fāhuī zhe shūniǔ zuòyòng. Jìnniánlái, shěnghuì chíxù yōuhuà yíngshāng huánjìng, jùjí gāoduān réncái yǔ chuàngxīn zīyuán, chéngwéi qūdòng quán shěng chǎnyè jiégòu shēngjí yǔ gāozhìliàng fāzhǎn de héxīn yǐnqíng. | As the province's economic and technological heart, the provincial capital acts as a vital hub propelling regional coordination. Recently, it has streamlined its business environment, gathering elite talents and innovation resources to drive province-wide industrial modernization. | Siendo el centro económico y tecnológico de la provincia, la capital actúa como núcleo tractor del desarrollo metropolitano coordinado. En años recientes, ha optimizado el entorno empresarial, atrayendo talento e innovación para impulsar la modernización industrial regional.

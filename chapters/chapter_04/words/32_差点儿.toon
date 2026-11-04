@@ -1,0 +1,64 @@
+id: 32
+hanzi: 差点儿
+pinyin: chà diǎnr
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: almost; nearly; barely missed
+  es: casi; por poco; a punto de
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | very nearly; almost (often describing a narrow escape from an undesirable event, or barely failing an objective) | casi; por poco; a punto de | 差点儿摔倒 (almost fell down)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 山路陡峭湿滑且狂风大作，子路背着百斤米袋身子剧烈一晃，差点儿跌入路旁的悬崖山谷。 | Shānlù dǒuqiào shīhuá qiě kuángfēng dàzuò, Zǐlù bēizhe bǎi jīn mǐdài shēnzi jùliè yì huàng, chàdiǎnr diērù lùpáng de xuányá shāngǔ. | The mountain trail was steep and slippery with howling gales; carrying the hundred-catty rice sack, Zilu swayed violently and almost plunged into the roadside ravine. | El sendero de montaña era empinado y resbaloso con vientos huracanados; con el saco de cien libras a cuestas, Zilu se tambaleó con violencia y casi cae por el precipicio.
+  #2 | 由于早高峰地铁线路临时发生信号故障，他差点儿错过了这场关乎公司未来融资的重要商业谈判。 | Yóuyú zǎogāofēng dìtiě xiànlù línshí fāshēng xìnhào gùzhàng, tā chàdiǎnr cuòguò le zhè chǎng guānhū gōngsī wèilái róngzī de zhòngyào shāngyè tánpàn. | Due to a signal glitch during the morning rush hour, he almost missed the crucial commercial negotiation regarding future company financing. | Por una avería de señal en el metro durante la hora punta matutina, estuvo a punto de perderse la negociación decisiva para la financiación de su empresa.
+
+collocations[6]{hanzi,en}:
+  差点儿摔倒 | almost fell down
+  差点儿迟到 | almost late
+  差点儿忘了 | almost forgot
+  差点儿错过 | nearly missed
+  差点儿成功 | almost succeeded
+  差点儿丧命 | almost lost one's life
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  差强人意 | chā qiáng rén yì | barely satisfactory; passable
+  千钧一发 | qiān jūn yì fà | hung by a thread; crisis of utmost urgency
+  死里逃生 | sǐ lǐ táo shēng | narrow escape from the jaws of death
+  九死一生 | jiǔ sǐ yì shēng | nine deaths to one life; perilous survival
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  差 | chà | differ; lack; fall short | faltar; diferir; escaso | 羊 | sheep / goat | 羊 (sheep / horns of quality) | 工 (work / small discrepancy / craft) | 9 | 半包围结构 | Ideogrammic and phono-semantic: counting sheep (羊) with an irregular disparity in manual sorting (工), meaning falling short or lacking. | Counting sheep (羊) and discovering an uneven disparity falling slightly short. | Contar ovejas (羊) y descubrir una ligera discrepancia que no llega a la cuenta plena. | 51 | TQ | ""
+  点 | diǎn | dot; speck; a little | punto; mota; un poco | 灬 | fire / four dots | 黑 (hēi / black soot / dark mark) | 占 (zhān / spot mark phonetic) | 9 | 上下结构 | Phono-semantic compound: 黑/灬 (black spot mark) + 占 (phonetic), representing a small dot, speck, or diminutive quantity. | A small black ink dot (灬) marking a tiny difference. | Una pequeña mota de tinta negra (灬) que señala una diferencia minúscula. | 214 | YRF | 點
+  儿 | er | diminutive rhotic suffix | sufijo diminutivo rótico | 儿 | human legs / child | 儿 (walking legs / child) | "" | 2 | 单一结构 | Pictograph of a walking human legs, serving as colloquial rhotic diminutive suffix '-r'. | A small child walking lightly, softening the adverb into spoken speech. | Un niño que camina con ligereza, aportando fluidez oral al adverbio. | 0 | HU | 兒
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Falling short (差) by just a tiny speck of a dot (点) in spoken colloquial flow (儿) means you almost or nearly (差点儿) had an accident.
+  composite_memory_hook_es: Quedarse corto (差) por apenas una diminuta mota o punto (点) con matiz oral (儿) significa casi o por poco (差点儿).
+  cultural_and_cognitive_roots: In Chinese pragmatics, 差点儿 expresses relief when a negative catastrophe was barely avoided, but regret when an auspicious outcome was narrowly missed.
+  tone_sandhi_and_pitch_modulation: Falling-dipping-erhua: chà diǎnr (51-214r). 'diǎn' dips deeply before curling smoothly into retroflex 'r'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    羞 | xiū | shy; shame | Has 丑 (clown/hand) below 羊 instead of 工
+    着 | zhe / zháo | particle; touch | Has 目 (eye) below 羊
+    占 | zhān | occupy; divine | Upper phonetic component of 点 without the four dots 灬
+    店 | diàn | shop; store | Has 广 (shelter) enclosing 占 instead of 灬 below
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    差不多 | chà bu duō | almost; nearly; about the same
+    差别 | chā bié | difference; disparity
+    点心 | diǎn xin | dim sum; snack
+    一点儿 | yì diǎnr | a little bit
+
+semantic_boundary_contrasts:
+  core_nuance: 差点儿 is a spoken adverb indicating that an event was within a hair's breadth of happening.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 差点儿 vs. 几乎 | jīhū | 差点儿 is colloquial and conversational, whereas 几乎 is formal and written, functioning across both quantitative approximations and near-event contexts.
+    2 | 差点儿 vs. 险些 | xiǎnxiē | 差点儿 is versatile across both fortunate and unfortunate outcomes, whereas 险些 strictly describes narrowly escaping a dangerous accident.
+    3 | 差点儿 vs. 差点儿没 | chàdiǎnr méi | In colloquial Mandarin, for undesirable negative events, 差点儿摔倒 and 差点儿没摔倒 both mean almost fell down (but thankfully did not).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 突如其来的暴风雪刮得人睁不开眼，子路单薄的身躯在风雪中摇晃，脚下一滑差点儿跌落山涧。但他凭借顽强的毅力死死稳住身形，咬紧牙关继续在绝壁边缘向前跋涉。 | Tūrúqílái de bàofēngxuě guā de rén zhèng bù kāi yǎn, Zǐlù dānbó de shēnqū zài fēngxuě zhōng yáohuàng, jiǎoxià yì huá chàdiǎnr diēluò shānjiàn. Dàn tā píngjiè wánqiáng de yìlì sǐsǐ wěnzhù shēnxíng, yǎojǐn yáguān jìxù zài juébì biānyuán xiàngqián báshè. | A sudden blizzard blinded the way; Zilu's thin frame swayed in the gale, and he slipped and almost plunged into the ravine. Yet with iron will he steadied his body, gritted his teeth, and forged ahead along the cliff. | La repentina ventisca cegaba la vista; el frágil cuerpo de Zilu se tambaleó con la tormenta y por poco cae al barranco. Mas con tenaz entereza recuperó el equilibrio y continuó su marcha al borde del abismo.
+  #2 | 在汉语口语语法中，“差点儿”作为表示极限临界状态的副词，其语义指向深受说话人主观意愿与语境情感色彩的影响。这种独特的语言心理机制，不仅生动展现了汉民族趋吉避凶的文化心理，也是留学生掌握汉语情态副词的关键难点。 | Zài Hànyǔ kǒuyǔ yǔfǎ zhōng, "chàdiǎnr" zuòwéi biǎoshì jíxiàn línjiè zhuàngtài de fùcí, qí yǔyì zhǐxiàng shēnshòu shuōhuàrén zhǔguān yìyuàn yǔ yǔjìng qínggǎn sècǎi de yǐngxiǎng. Zhè zhǒng dútè de yǔyán xīnlǐ jīzhì, bùjǐn shēngdòng zhǎnxiàn le Hàn mínzú qūjí-bìxiōng de wénhuà xīnlǐ, yě shì liúxuéshēng zhǎngwò Hànyǔ qíngtài fùcí de guānjiàn nándiǎn. | In spoken Mandarin, 差点儿 marks threshold near-occurrences whose pragmatic meaning reflects speaker intent and emotive framing. This semantic nuance embodies cultural inclinations toward averting misfortune and is a key concept for learners. | En la gramática oral china, "chadianr" denota un umbral crítico cuyo sentido depende del deseo del hablante ante el suceso. Este mecanismo lingüístico refleja la búsqueda psicológica de evitar desgracias y constituye un punto clave en el aprendizaje.

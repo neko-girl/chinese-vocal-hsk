@@ -1,0 +1,63 @@
+id: 39
+hanzi: 闪电
+pinyin: shǎn diàn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: lightning; lightning flash; electric flash in storm
+  es: relámpago; rayo; destello eléctrico; fulgor
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a visible electrical discharge occurring within a cloud or between cloud and ground | descarga eléctrica natural visible entre nubes o entre nube y tierra; relámpago | 一道闪电 (a flash of lightning)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漆黑的夜海中突然划过一道耀眼的闪电，将汹涌翻滚的巨浪照得雪亮，随即传来了沉闷的雷声。 | Qīhēi de yèhǎi zhōng tūrán huàguò yí dào yàoyǎn de shǎndiàn, jiāng xiōngyǒng fāngǔn de jùlàng zhào de xuěliàng, suíjí chuánlái le chénmèn de léishēng. | A blinding flash of lightning ripped through the inky sea, illuminating churning swells snow-white before thunder crashed. | Un relámpago cegador rasgó la noche marina, iluminando las olas encrespadas con blancura de nieve antes de resonar el trueno.
+  #2 | 气象科研团队部署了地面三维闪电定位网，实现了对强对流天气中雷击灾害的毫秒级高精度实时追踪。 | Qìxiàng kēyán tuánduì bùshǔ le dìmiàn sānwéi shǎndiàn dìngwèiwǎng, shíxiàn le duì qiáng duìliú tiānqì zhōng léijī zāihài de háomiǎojí gāojīngdù shíshí zhuīzōng. | The meteorological team deployed a ground 3D lightning location network, enabling millisecond tracking of strikes during convective storms. | El equipo meteorológico desplegó una red tridimensional de detección de rayos, rastreando en milisegundos las descargas en tormentas severas.
+
+collocations[6]{hanzi,en}:
+  一道闪电 | a flash of lightning
+  闪电般的速度 | lightning speed; lightning fast
+  闪电战 | blitzkrieg; lightning war
+  闪电交加 | lightning flashes interlaced with thunder
+  划破夜空的闪电 | lightning tearing through the night sky
+  闪电光芒 | flash / glow of lightning
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  电闪雷鸣 | diàn shǎn léi míng | lightning flashes and thunder rumbles; severe thunderstorm
+  雷厉风行 | léi lì fēng xíng | swift as thunder and speedy as wind; enforce strictly and vigorously
+  吉光片羽 | jí guāng piàn yǔ | precious fragment of a mythological beast; rare artistic relics
+  风驰电掣 | fēng chí diàn chè | swift as the wind and quick as lightning; traveling at immense speed
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  闪 | shǎn | flash; dodge; lightning | destello; esquivar; relampaguear | 门 | gate / door | 门 (double door leaf) | 人 (human slipping through door instantly) | 5 | 半包围结构 | Ideogrammic compound: a person (人) darting swiftly through an open doorway (门) like a flash of light. | A person (人) slipping swiftly through a doorway (门) like a momentary flicker of bright light. | Una persona (人) que cruza como un suspiro por el quicio de la puerta (门), veloz como un destello. | 214 | ANOR | 閃
+  电 | diàn | electricity; lightning; telegram | electricidad; rayo; telégrafo | 田 / 申 | field / lightning flash | 雨 (ancient rain cloud) | 申 (zigzag lightning bolt streaking from sky) | 5 | 独体结构 | Ancient pictograph of an atmospheric lightning bolt zig-zagging downward from rainclouds to the earth. | A jagged lightning strike (电) zig-zagging across storm clouds to deliver electric energy. | Un rayo zigzagueante (电) que cruza el cielo nublado descargando una tremenda corriente eléctrica. | 51 | LWU | 電
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A person darting through a doorway in a flash (闪) combined with atmospheric electricity (电) creates brilliant lightning (闪电).
+  composite_memory_hook_es: Un destello fugaz (闪) junto a la descarga eléctrica del cielo (电) alumbra el potente relámpago (闪电).
+  cultural_and_cognitive_roots: In ancient Chinese mythology, the Lightning Mother ('电母') wielded twin bronze mirrors that flashed across the skies to illuminate guilt and illuminate righteous retribution alongside the Thunder God ('雷公').
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by a falling 4th tone: shǎn diàn (214-51). Dip 'shǎn' smoothly into lower vocal pitch before delivering 'diàn' firmly downward.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    闪 | shǎn | flash; dodge | Has 门 (door) enclosing 人 (person)
+    问 | wèn | ask; inquire | Has 门 enclosing 口 (mouth)
+    电 | diàn | electricity; lightning | Five strokes with a curved right tail
+    申 | shēn | express; extend | Has vertical stroke piercing through both top and bottom
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    闪烁 | shǎn shuò | flicker; twinkle; shimmer
+    闪开 | shǎn kāi | dodge; get out of the way
+    电脑 | diàn nǎo | computer
+    电话 | diàn huà | telephone; phone call
+
+semantic_boundary_contrasts:
+  core_nuance: 闪电 specifically denotes the visual optical streak of atmospheric electrical discharge during a storm.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 闪电 vs. 雷 | léi | 闪电 is the visible optical flash of light, whereas 雷 is the audible acoustic rumble and sonic boom caused by atmospheric expansion.
+    2 | 闪电 vs. 光芒 | guāngmáng | 闪电 is an episodic natural meteorological electrical discharge, whereas 光芒 refers broadly to steady or radiant rays of illumination from the sun, stars, or gold.
+    3 | 闪电 vs. 火花 | huǒhuā | 闪电 is a massive atmospheric storm phenomenon, whereas 火花 refers to small physical sparks flying from friction, welding, or hearths.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 狂暴的风雨夜，闪电如利剑般一次次劈开苍穹，照亮了怒涛汹涌的海面。短暂的光芒虽只有一瞬，却让迷茫的水手看清了暗礁与航向。生命中的灵感往往如同闪电，唯有时刻做好准备的人，才能捕捉到那穿透迷雾的顿悟。 | Kuángbào de fēngyǔ yè, shǎndiàn rú lìjiàn bān yícìcì pīkāi cāngqióng, zhàoliàng le nùtāo xiōngyǒng de hǎimiàn. Duǎnzàn de guāngmáng suī zhǐyǒu yí shùn, què ràng mímáng de shuǐshǒu kàn qīng le ànjiāo yǔ hángxiàng. Shēngmìng zhōng de línggǎn wǎngwǎng rútóng shǎndiàn, wéiyǒu shíkè zuò hǎo zhǔnbèi de rén, cáinéng bǔzhuō dào nà chuāntòu míwù de dùnwù. | On tempestuous nights, lightning slashes heaven like blades, illuminating raging crests. Fleeting light lasts an instant, yet reveals reefs and course. Inspiration resembles lightning; only minds prepared seize insight piercing gloom. | En la noche tempestuosa, los rayos rasgan el cielo como espadas iluminando el mar furioso. Su fulgor dura un instante, mas basta para revelar arrecifes y rumbo. La inspiración asemeja al relámpago: solo quien está alerta atrapa la claridad que rasga la niebla.
+  #2 | 物理观测表明，强对流云团中粒子碰撞引发电荷分离，当电场击穿空气时便产生耀眼的闪电。现代气象雷达能精准捕捉闪电频次，为极端暴雨预警与航空防雷提供了关键的数据支撑。 | Wùlǐ guāncè biǎomíng, qiáng duìliú yúntuán zhōng lìzǐ pèngzhuàng yǐnfā diànhè fēnlí, dāng diànchǎng jīchuān kōngqì shí biàn chǎnshēng yàoyǎn de shǎndiàn. Xiàndài qìxiàng léidá néng jīngzhǔn bǔzhuō shǎndiàn píncì, wèi jíduān bàoyǔ yùjǐng yǔ hángkōng fángléi tígōng le guānjiàn de shùjù zhīchēng. | Observations confirm particle collisions in clouds prompt charge separation, sparking brilliant lightning. Modern radar tracks strike frequencies, providing key data for severe storm warnings and aviation safety. | La observación física confirma que el choque de partículas en las nubes separa cargas y desata el rayo. Los radares rastrean las descargas, aportando datos clave para alertas de tormentas severas y seguridad aérea.

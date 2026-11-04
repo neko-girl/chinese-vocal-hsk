@@ -1,0 +1,62 @@
+id: 18
+hanzi: 勿
+pinyin: wù
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: do not; never; don't (formal/imperative negative particle)
+  es: no; no haga; absténgase de (partícula prohibitiva formal)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Formal | used in public signs, notices, and formal imperatives expressing prohibition or polite warning | partícula prohibitiva formal usada en avisos, normas y advertencias | 请勿吸烟 (please do not smoke / no smoking)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 船长在航行日志中郑重警告：恶劣天气下全员务必系好安全绳，切勿擅自踏上湿滑的前甲板。 | Chuánzhǎng zài hángxíng rìzhì zhōng zhèngzhòng jǐnggào: èliè tiānqì xià quányuán wùbì jì hǎo ānquánshéng, qiè wù shànzì tà shàng shīhuá de qián jiǎbǎn. | The captain recorded a stern warning in the ship's log: during bad weather, all must fasten lifelines and must not step onto the slippery foredeck alone. | El capitán advirtió con firmeza en el diario de navegación: con mal tiempo es obligatorio fijar los arneses y no adentrarse jamás sin permiso en la cubierta mojada.
+  #2 | 博物馆在珍贵文物展厅前设立了清晰的提示标牌，明确提醒参观人员“请勿拍照”与“请勿喧哗”。 | Bówùguǎn zài zhēnguì wénwù zhǎntīng qián shèlì le qīngxī de tíshì biāopái, míngquè tíxǐng cānguān rényuán "qǐng wù pāizhào" yǔ "qǐng wù xuānhuá". | The museum posted clear signs before precious relic galleries, explicitly reminding visitors "do not photograph" and "do not make noise." | El museo instaló carteles informativos ante las vitrinas de valiosas reliquias, recordando a los visitantes la prohibición de fotografiar y hacer ruido.
+
+collocations[6]{hanzi,en}:
+  请勿 | please do not (used on polite public signs)
+  切勿 | by no means; be sure not to
+  勿忘 | do not forget; never forget
+  非请勿入 | no admittance except on business; staff only
+  勿轻视 | do not take lightly
+  请勿吸烟 | no smoking
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  己所不欲，勿施于人 | jǐ suǒ bú yù, wù shī yú rén | what you do not wish for yourself, do not do unto others
+  宁缺勿滥 | nìng quē wù làn | rather go without than accept inferior substitutes
+  勿谓言之不预 | wù wèi yán zhī bú yù | do not say you were not forewarned
+  贪多务得，细大不捐 | tān duō wù dé, xì dà bù juān | avidly seek knowledge without neglecting any detail
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  勿 | wù | do not; prohibitive marker | no; prohibido | 勹 | wrap / embrace | 勹 (enclosure or boundary) | 丿 / 彡 (crossed lines of negation or waving banner) | 4 | 独体结构 | Ancient pictograph of a multicolored signaling banner waved back and forth to prohibit or halt troops. | A signaling flag (勿) waving vigorously back and forth to command soldiers: "Stop! Do not advance!" | Una bandera de señales (勿) ondeando con energía para ordenar a las tropas: "¡Alto! ¡No avancéis!". | 51 | PSH | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A signaling banner waved briskly (勿) marks an urgent command: "Do not proceed!" (勿).
+  composite_memory_hook_es: Una bandera de señales ondeada con vigor (勿) marca una orden tajante: "¡No haga eso!" (勿).
+  cultural_and_cognitive_roots: The Confucian Golden Rule '己所不欲，勿施于人' from the Analects cemented '勿' as the classical moral marker of negative restraint, emphasizing ethical self-discipline over coercive punishment.
+  tone_sandhi_and_pitch_modulation: Sharp falling 4th tone: wù (51). Deliver the syllable with a short, authoritative downward snap.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    勿 | wù | do not | Four strokes with two slanted internal strokes
+    匆 | cōng | hurried; rushed | Has an extra dot inside: 匆
+    匀 | yún | even; uniform | Has 冫/二 inside: 匀
+    刃 | rèn | blade; knife edge | Single dot on the left of 刀
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    切勿 | qiè wù | by no means; make sure not to
+    勿用 | wù yòng | do not use; abstain from
+    莫 | mò | do not; none (classical negative)
+    别 | bié | do not (colloquial imperative)
+
+semantic_boundary_contrasts:
+  core_nuance: 勿 is a formal, written negative imperative marker used for polite public rules, notices, and classical admonitions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 勿 vs. 别 | bié | 勿 is formal, written, and solemn, standard on signs and rules (请勿吸烟, 切勿盲从), whereas 别 is the colloquial spoken form for daily speech (别去, 别客气).
+    2 | 勿 vs. 不 | bù | 勿 is exclusively imperative/prohibitive ("do not!"), whereas 不 is the universal grammatical negation ("not / does not / will not").
+    3 | 勿 vs. 莫 | mò | 勿 is standard in modern formal public signs, while 莫 is a literary classical negative particle seen in idioms and poetry (莫生气, 莫过于).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对浩瀚无垠的星空与变幻莫测的海洋，人类切勿心怀傲慢。大自然的规律威严而神圣，只有常怀敬畏之心，在顺应自然节律中谨慎前行，才能在风云变幻的世界里走得更加长远与安稳。 | Miànduì hàohàn wúyín de xīngkōng yǔ biànhuànmòcè de hǎiyáng, rénlèi qiè wù xīnhuái àomàn. Dàzìrán de guīlǜ wēiyán ér shénshèng, zhǐyào cháng huái jìngwèi zhī xīn, zài shùnyìng zìrán jiélǜ zhōng jǐnshèn qiánxíng, cáinéng zài fēngyún biànhuàn de shìjiè lǐ zǒu de gèngjiā chángyuǎn yǔ ānwěn. | Facing the starry canopy and volatile seas, humanity must never harbor arrogance. Nature's laws are majestic and sacred; only by nurturing reverence and moving with its rhythms can one navigate life's shifting tempests with enduring grace. | Ante la inmensidad del cielo estrellado y el mar indómito, el hombre jamás debe pecar de soberbia. Las leyes naturales son sagradas; solo obrando con humilde respeto y siguiendo sus ciclos se navega seguro por los azares del mundo.
+  #2 | 公共空间治理规范明确要求，公民在享有公共文化设施便利的同时，切勿损害公共利益。相关法规通过设定清晰的行为红线，强化对破坏公共设施和扰乱秩序行为的惩戒力度，旨在通过柔性引导与刚性约束相结合，营造文明有序的社会风尚。 | Gōnggòng kōngjiān zhìlǐ guīfàn míngquè yāoqiú, gōngmín zài xiǎngyǒu gōnggòng wénhuà shèshī biànlì de tóngshí, qiè wù sǔnhài gōnggòng lìyì. Xiāngguān fǎguī tōngguò shèdìng qīngxī de xíngwéi hóngxiàn, qiánghuà duì pòhuài gōnggòng shèshī hé rǎoluàn zhìxù xíngwéi de chéngjiè lìdù, zhǐzài tōngguò róuxìng yǐndǎo yǔ gāngxìng yuēshù xiāng jiéhé, yíngzào wénmíng yǒuxù de shèhuì fēngshàng. | Public governance codes mandate that citizens enjoying cultural facilities must never compromise the public good. Statutes draw clear boundaries and enforce penalties against vandalism or disruption, combining courteous guidance with binding rules to nurture civic decorum. | Las normas cívicas exigen que la ciudadanía, al disfrutar de equipamientos culturales, evite menoscabar el bien común. Las leyes fijan líneas rojas claras y sancionan desperfectos, aunando la persuasión pedagógica con la firmeza legal para afianzar la convivencia civilizada.

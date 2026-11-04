@@ -1,0 +1,63 @@
+id: 20
+hanzi: 实地
+pinyin: shí dì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: on-site; the actual place; in the field; practical
+  es: sobre el terreno; en el lugar de los hechos; in situ; práctico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the actual physical site or field where events or conditions occur | sobre el terreno; in situ; lugar real de los hechos | 实地考察 (on-site inspection)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 专家组不辞劳苦深入偏远山区进行实地考察，全面掌握了当地水土流失的第一手详实资料。 | Zhuānjiāzǔ bùcí-láokǔ shēnrù piānyuǎn shānqū jìnxíng shídì kǎochá, quánmiàn zhǎngwò le dāngdì shuǐtǔ liúshī de dì-yī shǒu xiángshí zīliào. | The expert team spared no effort delving deep into remote mountains for on-site inspections, mastering first-hand detailed data on local soil erosion. | El grupo de expertos no escatimó esfuerzos para adentrarse en las montañas a fin de realizar una inspección sobre el terreno, obteniendo datos de primera mano sobre la erosión del suelo.
+  #2 | 该地质工程项目要求技术团队必须前往实地测量岩层数据，严禁仅凭历史图纸闭门造车。 | Gāi dìzhì gōngchéng xiàngmù yāoqiú jìshù tuánduì bìxū qiánwǎng shídì cèliáng yáncéng shùjù, yánjìn jǐn píng lìshǐ túzhǐ bìmén-zàochē. | The geological project required technical staff to measure rock strata on-site, strictly forbidding armchair designs based solely on obsolete maps. | El proyecto de ingeniería geológica exigió al equipo medir los estratos rocosos in situ, prohibiendo estrictamente diseñar a ciegas basándose solo en planos viejos.
+
+collocations[6]{hanzi,en}:
+  实地考察 | on-site inspection; field trip
+  实地调查 | field investigation
+  深入实地 | go deep into the field
+  实地勘测 | on-site survey
+  实地走访 | on-site visits / interviews
+  实地演练 | field drill / practical exercise
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  脚踏实地 | jiǎo tà shí dì | stand on solid ground; pragmatic and realistic
+  耳闻目睹 | ěr wén mù dǔ | witness with one's own ears and eyes
+  身临其境 | shēn lín qí jìng | be personally on the scene; immerse oneself
+  知行合一 | zhī xíng hé yī | unity of knowledge and action
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  实 | shí | real; true; solid; reality | real; sólido; verdadero; fruto | 宀 | roof | 宀 (roof sheltering wealth) | 贯/头 (wealth packed solid) | 8 | 上下结构 | Ideogrammic compound: solid substance and grain stored securely under a roof (宀). | A granary under a roof (宀) packed solid with real grain. | Un granero bajo techo (宀) colmado de grano sólido y tangible. | 35 | JNK | 實
+  地 | dì | earth; ground; place; field | tierra; suelo; lugar; terreno | 土 | earth / soil | 土 (mound of earth) | 也 (yě / basin or water snake phonetic/fertile land) | 6 | 左右结构 | Phono-semantic compound: 土 (soil/earth) + 也 (phonetic/winding terrain), representing the broad terrestrial surface of fields and terrain. | Stepping upon fertile soil (土) stretching across the earth (也). | Pisar la tierra fértil (土) que se extiende sobre el suelo del mundo (也). | 51 | GPD | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Walking with solid purpose (实) directly upon the real ground (地) places you firmly on-site (实地).
+  composite_memory_hook_es: Pisar con certeza sólida (实) directamente sobre el suelo físico (地) significa investigar sobre el terreno (实地).
+  cultural_and_cognitive_roots: In Chinese epistemology, truth must be tested through feet planted firmly on the ground (脚踏实地) and field research (实地调研), rejecting baseless dogmatism.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by falling 4th tone: shí dì (35-51). 'shí' rises steadily from mid-pitch before snapping into low-falling 'dì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    买 | mǎi | buy | Lacks the roof radical 宀 of 实
+    卖 | mài | sell | Has 十 on top instead of 宀
+    他 | tā | he; him | Has 亻 (person) on the left instead of 土
+    池 | chí | pool; pond | Has 氵 (water) on the left of 也 instead of 土
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    实际 | shí jì | actual; reality; practical
+    实验 | shí yàn | experiment; test
+    地方 | dì fang | place; locality
+    地球 | dì qiú | the Earth; globe
+
+semantic_boundary_contrasts:
+  core_nuance: 实地 specifies physical presence at the actual location where events occur, contrasting against laboratory or theoretical analysis.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 实地 vs. 现场 | xiànchǎng | 实地 focuses on the geographic or physical field context, whereas 现场 highlights the immediate time-space occurrence of an event or performance.
+    2 | 实地 vs. 本地 | běndì | 实地 emphasizes the method of on-site inquiry, whereas 本地 designates local geographic jurisdiction and residents.
+    3 | 实地 vs. 实践 | shíjiàn | 实地 is a spatial noun meaning on-site or in the field, whereas 实践 is a philosophical and action-oriented noun/verb denoting putting theory into human practice.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 子路深知，单靠空想无法解决双亲的饥寒。唯有亲自走向实地，用双脚丈量百里山川，用双手承担繁重劳作，才能换来实实在在的白米与铜钱，兑现对父母最赤诚的承诺。 | Zǐlù shēnzhī, dān kào kōngxiǎng wúfǎ jiějué shuāngqīn de jīhán. Wéiyǒu qīnzì zǒuxiàng shídì, yòng shuāngjiǎo zhàngliáng bǎilǐ shānchuān, yòng shuāngshǒu chéngdān fánzhòng láozuò, cáinéng huànlái shíshízàizài de báimǐ yǔ tóngqián, duìxiàn duì fùmǔ zuì chìchéng de chéngnuò. | Zilu knew that wishing alone could not solve his parents' hunger. Only by stepping into the field, measuring miles on foot and laboring with his hands, could he bring home real rice and coins to fulfill his filial vow. | Zilu sabía que lamentarse no calmaría el hambre de sus padres. Solo acudiendo sobre el terreno a pie y realizando faenas con sus manos podría conseguir arroz y dinero contante para honrar su promesa filial.
+  #2 | 在社会科学与人文学科研究中，扎根实地的田野调查是克服理论空洞化的关键法宝。研究者唯有深入实地倾听民众心声、细致观察社会运行的微观肌理，方能产出经得起历史检验的真知灼见。 | Zài shèhuì kēxué yǔ rénwén xuékē yánjiū zhōng, zhāgēn shídì de tiányě diàochá shì kèfú lǐlùn kōngdònghuà de guānjiàn fǎbǎo. Yánjiūzhě wéiyǒu shēnrù shídì qīngtīng mínzhòng xīnshēng, xìzhì guānchá shèhuì yùnxíng de wēiguān jīlǐ, fāng néng chǎnchū jīngdeqǐ lìshǐ jiǎnyàn de zhēnzhī-zhuójiàn. | In social sciences and humanities, grounded fieldwork on-site is the antidote to hollow abstraction. Only by venturing into the field to listen to people and observe society can scholars produce profound insights that stand the test of time. | En las ciencias sociales y humanidades, la investigación sobre el terreno es esencial para no caer en abstracciones vacías. Solo adentrándose in situ para escuchar al pueblo y observar la realidad pueden alcanzarse conclusiones certeras y perdurables.

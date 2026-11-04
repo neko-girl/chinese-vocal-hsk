@@ -1,0 +1,62 @@
+id: 36
+hanzi: 扶
+pinyin: fú
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to support with the hand; to help someone up; to steady; to assist
+  es: sostener con la mano; apoyar; ayudar a levantarse; sujetar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to support or steady with hand(s); to help someone up or assist someone walking | sostener o apoyar con la mano; ayudar a levantarse a alguien | 扶着栏杆 (holding the railing)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在陡峭结冰的山道上，子路一手死死护住背后的米袋，一手紧紧扶着冰冷的岩壁艰难攀登。 | Zài dǒuqiào jiébīng de shāndào shàng, Zǐlù yìshǒu sǐsǐ hùzhù bèihòu de mǐdài, yìshǒu jǐnjǐn fúzhe bīnglěng de yánbì jiānnán pāndēng. | On the steep icy mountain path, Zilu shielded the rice sack on his back with one hand while clutching the freezing rock wall with the other to climb. | En el empinado sendero helado, Zilu protegía el saco a su espalda con una mano mientras con la otra se agarraba con fuerza a la fría pared de roca para ascender.
+  #2 | 看见一位腿脚不便的老奶奶颤巍巍地过马路，热心的小学生连忙主动跑上前去轻轻搀扶。 | Kànjiàn yí wèi tuǐjiǎo búbiàn de lǎonǎinai chànwēiwēi de guò mǎlù, rèxīn de xiǎoxuéshēng liánmáng zhǔdòng pǎo shàngqián qù qīngqīng chānfú. | Seeing an elderly grandmother with mobility difficulties tremulously crossing the street, the kind-hearted pupil ran forward to gently support her. | Al ver a una anciana con dificultades para caminar cruzando la calle con pasos vacilantes, un atento escolar corrió presuroso a sostenerla del brazo.
+
+collocations[6]{hanzi,en}:
+  扶着墙 | steadying oneself against the wall
+  扶老携幼 | support the aged and lead the young
+  搀扶老人 | help and support the elderly walking
+  扶起跌倒者 | help up someone who fell down
+  扶贫开发 | poverty alleviation and development
+  扶着栏杆 | holding onto the railing
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  扶老携幼 | fú lǎo xié yòu | supporting the aged and leading the young by hand
+  救死扶伤 | jiù sǐ fú shāng | heal the wounded and rescue the dying
+  扶摇直上 | fú yáo zhí shàng | soar straight up into the sky; rapid career rise
+  抑强扶弱 | yì qiáng fú ruò | restrain the strong and support the weak
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  扶 | fú | support with hand; help; steady | sostener con la mano; ayudar; apoyar | 扌 | hand | 扌/手 (hand extending support) | 夫 (fū / adult man phonetic/steady upright figure) | 7 | 左右结构 | Phono-semantic compound: 扌 (hand) + 夫 (mature man/strength), originally using hands to help an adult or infirm person stand upright and steady. | An outstretched hand (扌) lending strength to an upright man (夫) walking through difficulties. | Una mano extendida (扌) que brinda sostén a una persona recta (夫) para no caer en el camino. | 35 | QO | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Extending a caring hand (扌) to support a walking person (夫) enables them to steady themselves and stand firm (扶).
+  composite_memory_hook_es: Extender una mano protectora (扌) para apoyar a una persona (夫) le ayuda a sostenerse y no tropezar (扶).
+  cultural_and_cognitive_roots: In Confucian morality, 扶老携幼 and 救死扶伤 represent quintessential ethical duties of filial devotion and universal benevolence.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone: fú (35). Glides smoothly upward from mid to high pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    抚 | fǔ | comfort; stroke; caress | Has 无 on the right of 扌 instead of 夫
+    打 | dǎ | hit; strike | Has 丁 on the right of 扌
+    夫 | fū | husband; man | Phonetic base without the hand radical 扌
+    天 | tiān | sky; day | Has longer top line than lower line, unlike 夫
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    搀扶 | chān fú | support gently by the arm
+    扶助 | fú zhù | assist; help
+    扶持 | fú chí | support; foster
+    大夫 | dài fu / dà fū | doctor; senior official in antiquity
+
+semantic_boundary_contrasts:
+  core_nuance: 扶 denotes using hands to support, steady, or prevent a person or heavy object from tumbling down.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 扶 vs. 搀 | chān | 扶 is standard for holding an object, railing, or supporting a person's body, whereas 搀 specifically denotes supporting someone gently by grasping their arm.
+    2 | 扶 vs. 握 | wò | 扶 provides external balance or steadying support from beside or underneath, while 握 denotes enclosing fingers firmly around a tool or hand.
+    3 | 扶 vs. 抓 | zhuā | 扶 is gentle, steadying, and supportive, whereas 抓 is abrupt, grabbing, or grasping with clawing fingers.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 山路冻成了坚硬的冰道，子路背上的米袋重重下坠。他不得不弓着身躯，冻得红肿的手指紧紧抠扶着冰凉的石缝，一步一步顽强地向山巅挪动。 | Shānlù dòng chéng le jiānyìng de bīngdào, Zǐlù bèishàng de mǐdài zhòngzhòng xiàzhuì. Tā bùdébù gōng zhe shēnqū, dòng de hóngzhǒng de shǒuzhǐ jǐnjǐn kōu fúzhe bīngliáng de shífèng, yíbù yíbù wánqiáng de xiàng shāndiān nuódòng. | The mountain path froze into solid ice as the rice sack sagged heavily on his back. Stooping low, Zilu gripped icy crevices with red, swollen fingers, clawing his way upward step by step toward the summit. | El sendero se congeló en puro hielo y el saco tiraba hacia abajo con fuerza. Encorvado, Zilu aferró sus dedos enrojecidos a las grietas de la roca, trepando paso a paso con tenacidad hacia la cumbre.
+  #2 | 尊老爱幼与扶危济困是中华文明延续数千年的核心道德基因。在现代社会保障体系建设中，“精准扶贫”与“老龄关怀”将传统的道德义理转化为具有法律效力的制度安排，让每一位处于困境中的社会成员都能得到社会的温暖扶助。 | Zūnlǎo-àiyòu yǔ fúwēi-jìkùn shì Zhōnghuá wénmíng yánxù shùqiānnián de héxīn dàodé jīyīn. Zài xiàndài shèhuì bǎozhàng tǐxì jiànshè zhōng, "jīngzhǔn fúpín" yǔ "lǎolíng guānhuái" jiāng chuántǒng de dàodé yìlǐ zhuǎnhuà wéi jùyǒu fǎlǜ xiàolì de zhìdù ānpái, ràng měi yí wèi chǔyú kùnjìng zhōng de shèhuì chéngyuán dōu néng dédào shèhuì de wēnnuǎn fúzhù. | Reverence for elders and helping those in distress are core cultural genes of Chinese civilization. Modern social safety nets translate these virtues into institutional guarantees, ensuring every vulnerable citizen receives warm communal support. | Respetar a los mayores y socorrer al desvalido son pilares milenarios de la civilización china. La seguridad social moderna transforma estos valores éticos en derechos institucionales, garantizando que todo ciudadano vulnerable reciba amparo y dignidad.

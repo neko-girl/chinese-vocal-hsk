@@ -1,0 +1,63 @@
+id: 33
+hanzi: 甩
+pinyin: shuǎi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to fling; to swing; to throw off; to cast off; to leave behind
+  es: sacudir; lanzar; balancear; quitarse de encima; dejar atrás
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to swing, fling, or flick back and forth with arm or tail | sacudir; balancear; agitar con fuerza | 甩动双臂 (swing both arms)
+  2 | Verb | Standard | to cast off, discard, or leave someone behind | quitarse de encima; deshacerse de; dejar atrás | 甩在身后 (leave far behind)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对山路上狂暴肆虐的暴风雪，子路用力甩了甩冻僵麻木的双手，哈了一口热气继续迈步前行。 | Miànduì shānlù shàng kuángbào sìnüè de bàofēngxuě, Zǐlù yònglì shuǎi le shuǎi dòngjiāng mámù de shuāngshǒu, hā le yì kǒu rèqì jìxù màibù qiánxíng. | Facing the raging blizzard on the mountain path, Zilu vigorously shook his numb, frozen hands, breathed warmth into his palms, and pressed on. | Frente a la tormenta que arreciaba en el sendero, Zilu sacudió con fuerza sus manos entumecidas por el hielo, sopló vaho caliente y prosiguió la marcha.
+  #2 | 该领军科技企业依靠核心自主知识产权打破了技术垄断，在关键性能指标上将主要竞争对手远远甩在身后。 | Gāi lǐngjūn kējì qǐyè yīkào héxīn zìzhǔ zhīshi chǎnquán dǎpò le jìshù lǒngduàn, zài guānjiàn xìngnéng zhǐbiāo shàng jiāng zhǔyào jìngzhēng duìshǒu yuǎnyuǎn shuǎi zài shēnhòu. | Relying on proprietary intellectual property, this tech enterprise broke monopolies, leaving major competitors far behind in key metrics. | Basándose en patentes propias, la tecnológica puntera quebró el monopolio técnico, dejando muy atrás a sus competidores en rendimiento clave.
+
+collocations[6]{hanzi,en}:
+  甩在身后 | leave far behind
+  甩开脚步 | stride forward vigorously
+  甩掉包袱 | cast off burdens
+  用力甩手 | fling hands vigorously; storm off
+  甩动长发 | swing one's long hair
+  甩掉对手 | shake off a competitor
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大步流星 | dà bù liú xīng | stride forward like a meteor; walk with rapid strides
+  昂首阔步 | áng shǒu kuò bù | stride proud with head held high
+  破釜沉舟 | pò fǔ chén zhōu | break cauldrons and sink boats; burn bridges
+  扬长而去 | yáng cháng ér qù | stalk off without a backward glance
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  甩 | shuǎi | fling; swing; cast off | sacudir; lanzar; balancear | 用 | use | 用 (tool / use) | 乚 (whipping flicking tail stroke) | 5 | 单一结构 | Indicative ideogram derived from 用 (use), where the central vertical stroke is extended outward into a swinging, whipping tail (乚) flicking away. | An arm extending out with a dynamic whipping hook (乚) to fling away a heavy burden. | Un brazo que se proyecta con un gancho flexible (乚) para sacudir o lanzar una carga pesada. | 214 | BQU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Whipping a tool (用) outward with a flicking tail stroke (乚) flings and casts off (甩) unwanted weight.
+  composite_memory_hook_es: Manejar una herramienta (用) con un latigazo curvo (乚) lanza y sacude (甩) lo que estorba.
+  cultural_and_cognitive_roots: The character 甩 is an expressive iconic graph; its extended tail stroke visually mimics the sudden acceleration of flicking a whip or flinging off water droplets.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone: shuǎi (214). Dips low to pitch 21 before sweeping upward decisively.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    用 | yòng | use | Has straight vertical stroke within frame instead of swinging curved hook
+    角 | jiǎo | horn; angle | Has upper knife/horns instead of 用 frame
+    电 | diàn | electricity | Has upper 日 instead of 用
+    申 | shēn | state; express | Vertical stroke passes through top and bottom
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    甩手 | shuǎi shǒu | swing arms; wash hands of
+    甩卖 | shuǎi mài | clearance sale; throw out at discount
+    运用 | yùn yòng | utilize; apply
+    有用 | yǒu yòng | useful; helpful
+
+semantic_boundary_contrasts:
+  core_nuance: 甩 emphasizes a vigorous swinging, flicking, or whipping motion of limbs, or resolutely discarding/leaving behind burdens.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 甩 vs. 扔 | rēng | 扔 is the standard verb for tossing an object into a bin or distance, whereas 甩 involves a whipping, centrifugal motion of the arm or casting off something clinging.
+    2 | 甩 vs. 抛 | pāo | 抛 is formal and parabolic, whereas 甩 is vivid, physical, and forceful in vernacular description.
+    3 | 甩 vs. 摆 | bǎi | 摆 denotes gentle, rhythmic swaying or placing, while 甩 denotes sudden, aggressive flicking.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 严寒中，子路的睫毛上结满了厚厚的冰霜，冻得麻木的手指几乎无法握拢。他停下脚步用力甩了甩双手以加速血液循环，随后咬牙重新背紧米袋，大步流星向前奔去。 | Yánhán zhōng, Zǐlù de jiémáo shàng jiémǎn le hòuhòu de bīngshuāng, dòng de mámù de shǒuzhǐ jīhū wúfǎ wòlǒng. Tā tíngxià jiǎobù yònglì shuǎi le shuǎi shuāngshǒu yǐ jiāsù xuèyè xúnhuán, suíhòu yǎoyá chóngxīn bēijǐn mǐdài, dàbù-liúxīng xiàngqián bēn qù. | In the bitter cold, Zilu's eyelashes were coated in frost and his numb fingers could barely form a fist. He paused and shook his hands to spur circulation, then shouldered the sack tight and hurried onward. | En medio del frío glacial, la escarcha cubría las pestañas de Zilu y sus dedos entumecidos apenas podían cerrarse. Se detuvo a sacudir las manos para activar la sangre, aseguró el saco y reanudó la marcha a grandes zancadas.
+  #2 | 在全球产业变革的激烈角逐中，任何缺乏危机感的企业都极易被时代浪潮所淘汰。唯有彻底甩掉历史包袱、勇于进行前沿核心技术研发的企业，才能在白热化的市场竞争中将对手远远甩开，牢牢占据产业链高端。 | Zài quánqiú chǎnyè biàngé de jīliè juézhú zhōng, rènhé quēfá wēijīgǎn de qǐyè dōu jíyì bèi shídài làngcháo suǒ táotài. Wéiyǒu chèdǐ shuǎidiào lìshǐ bāofu, yǒngyú jìnxíng qiányán héxīn jìshù yánfā de qǐyè, cáinéng zài báirèhuà de shìchǎng jìngzhēng zhōng jiāng duìshǒu yuǎnyuǎn shuǎikāi, láoláo zhànjù chǎnyèliàn gāoduān. | In the intense race of global industrial shifts, complacent firms risk obsolescence. Only enterprises that shake off historical baggage and pursue cutting-edge research can outpace rivals and dominate the value chain. | En la reñida competencia industrial global, las empresas complacientes quedan obsoletas con rapidez. Solo aquellas que se desprenden de cargas del pasado e innovan en tecnologías de vanguardia logran aventajar a sus rivales y liderar el mercado.

@@ -1,0 +1,63 @@
+id: 1
+hanzi: 农民
+pinyin: nóng mín
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: farmer; peasant; agricultural worker
+  es: agricultor; campesino; trabajador agrícola
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person who works in agriculture or lives in rural agricultural communities | campesino; persona que trabaja en el campo o la agricultura | 当地农民 (local farmers)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对连年歉收的土地，勤劳的农民依然日出而作、日落而息，盼望着来年能有好收成。 | Miànduì liánnián qiànshōu de tǔdì, qínláo de nóngmín yīrán rì chū ér zuò, rì luò ér xī, pànwàng zhe láinián néng yǒu hǎo shōucheng. | Facing land with consecutive poor harvests, hardworking farmers still labor from sunrise to sunset, hoping for a good yield next year. | Frente a tierras con cosechas escasas año tras año, los diligentes campesinos siguen trabajando de sol a sol, con la esperanza de tener una buena cosecha el año venidero.
+  #2 | 近年来，国家出台了一系列惠农政策，切实提高了农民的收入水平和农村的生活品质。 | Jìnniánlái, guójiā chūtái le yí xìliè huìnóng zhèngcè, qièshí tígāo le nóngmín de shōurù shuǐpíng hé nóngcūn de shēnghuó pǐnzhì. | In recent years, the state has enacted a series of pro-agriculture policies, effectively raising farmers' income levels and rural living quality. | En los últimos años, el Estado ha promulgado una serie de políticas de apoyo al agro, mejorando de manera tangible los ingresos de los agricultores y la calidad de vida rural.
+
+collocations[6]{hanzi,en}:
+  广大农民 | the broad masses of farmers
+  农民工 | migrant worker
+  失地农民 | land-lost farmer
+  富裕农民 | affluent farmers
+  职业农民 | professional farmer
+  培育农民 | nurture agriculturalists
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  劳苦大众 | láo kǔ dà zhòng | the working masses; the toiling people
+  日出而作 | rì chū ér zuò | work when the sun rises; peasant rhythm of life
+  精耕细作 | jīng gēng xì zuò | intensive farming; meticulous cultivation
+  春耕秋收 | chūn gēng qiū shōu | spring ploughing and autumn harvesting
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  农 | nóng | agriculture; farming | agricultura; campesino | 冖 | cover | 冖 (early depiction of forest/underbrush) | 曲/辰 (ancient shell sickle/plough) | 6 | 单一结构 | Pictographic origin: a hand holding an agricultural shell implement to clear vegetation. | A farmer working under the broad sky clearing fields with simple tools. | Un campesino trabajando bajo el cielo despejando los campos con herramientas manuales. | 35 | MV | 農
+  民 | mín | people; populace | pueblo; ciudadanos | 氏 | clan / family | 氏 (clan/people) | 目 (ancient pictograph of eye pierced/marked) | 5 | 单一结构 | Ancient ideogram depicting a common subject or people of the state. | The collective eyes and hands of people laboring together across the land. | Los ojos y manos colectivos de la gente que labora unida en la tierra. | 35 | RVP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The people (民) who dedicate their lives to cultivating the agricultural soil (农) are farmers (农民).
+  composite_memory_hook_es: La gente (民) que entrega su vida al trabajo de la agricultura (农) constituye el campesinado (农民).
+  cultural_and_cognitive_roots: Traditional Chinese society was founded on agriculture ('以农为本'). Farmers formed the essential moral, physical, and economic bedrock of civilization.
+  tone_sandhi_and_pitch_modulation: Two consecutive rising second tones: nóng mín (35-35). Ensure both syllables rise smoothly from mid to high without truncation.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    浓 | nóng | dense; thick | Has 氵 (water) radical on the left denoting dense concentration of liquid
+    民 | mín | people | Compare with 氏 (shì, clan) which lacks the internal cross-stroke
+    氓 | máng | rogue; commoner | Combines 亡 (perish) and 民 (people)
+    眠 | mián | sleep; slumber | Has 目 (eye) radical on the left of 民
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    农业 | nóng yè | agriculture; farming industry
+    国民 | guó mín | citizen; national
+    民众 | mín zhòng | populace; the masses
+    农村 | nóng cūn | countryside; rural area
+
+semantic_boundary_contrasts:
+  core_nuance: 农民 specifically identifies people whose livelihood and identity are tied to agricultural cultivation and rural life.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 农民 vs. 工人 | gōngrén | 农民 refers specifically to agricultural laborers working in fields, whereas 工人 refers to industrial, factory, or manual construction laborers.
+    2 | 农民 vs. 农夫 | nóngfū | 农民 is the standard modern socioeconomic and statistical term for the peasantry, whereas 农夫 carries a classical, poetic, or ancient literary overtone.
+    3 | 农民 vs. 乡民 | xiāngmín | 农民 designates an occupational and social class centered on farming, whereas 乡民 emphasizes geographic residence (villagers/country folk) regardless of occupation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 春秋时期，许多出身底层的平民与农民在连年战乱中艰难度日。但正是那些懂得体恤双亲、辛勤耕作的纯朴子弟，以真挚的孝行留名青史，成为后世铭记的道德典范。 | Chūnqiū shíqī, xǔduō chūshēn dǐcéng de píngmín yǔ nóngmín zài liánnián zhànluàn zhōng jiānnán dùrì. Dàn zhèng shì nàxiē dǒngdé tǐxù shuāngqīn, xínqín gēngzuò de chúnpǔ zǐdì, yǐ zhēnzhì de xiàoxíng liúmíng qīngshǐ, chéngwéi hòushì míngjì de dàodé diǎnfàn. | During the Spring and Autumn period, many commoners and farmers struggled through consecutive years of warfare. Yet those who cared for their parents and labored with genuine filial devotion became revered moral exemplars throughout history. | Durante las épocas de guerras continuas, muchos campesinos humildes luchaban por subsistir; sin embargo, aquellos jóvenes leales que cuidaban con esmero de sus padres dejaron una huella imborrable de piedad filial.
+  #2 | 在古代传统社会中，农民不仅是粮食的主要生产者，更是维系国家赋税与国防稳定的根基。每逢动荡与饥荒之年，农民承受的苦难尤为深重，因而休养生息与轻徭薄赋往往成为历代盛世的核心举措。 | Zài gǔdài chuántǒng shèhuì zhōng, nóngmín bùjǐn shì liángshi de zhǔyào shēngchǎnzhe, gèng shì wéixì guójiā fùshuì yǔ guófáng wěndìng de gēnjī. Měi féng dòngdàng yǔ jīhuāng zhī nián, nóngmín chéngshòu de kǔnàn yóuwéi shēnzhòng, yīn'ér xiūyǎng shēngxī yǔ qīngyáo bófù wǎngwǎng chéngwéi lìdài shèngshì de héxīn jǔcuò. | In ancient society, farmers were not only the primary producers of grain but the economic and defensive foundation of the realm. In times of war and famine, the peasantry bore the heaviest burdens, making tax relief and peace the hallmarks of flourishing dynasties. | En la sociedad tradicional, los campesinos eran el cimiento del sustento nacional y fiscal. En periodos de conflicto o hambruna, padecían las mayores penurias, por lo que el alivio de cargas y la paz constituían la clave de las épocas doradas.

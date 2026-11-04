@@ -1,0 +1,64 @@
+id: 12
+hanzi: 干活儿
+pinyin: gàn huór
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to work; to do manual labor; to perform physical jobs
+  es: trabajar; hacer faenas; realizar labores físicas
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Colloquial | to engage in manual, agricultural, or physical labor | trabajar; hacer faenas físicas o manuales | 出去干活儿 (go out to work)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他不怕脏也不怕累，每天天不亮就跟着大伙儿一起到工地上卖力干活儿。 | Tā bú pà zāng yě bú pà lèi, měitiān tiān bú liàng jiù gēnzhe dàhuǒr yìqǐ dào gōngdì shàng màilì gànhuór. | He was not afraid of dirt or exhaustion; every morning before dawn he went to the construction site with everyone to work vigorously. | Sin temerle al polvo ni al cansancio, cada madrugada acudía con los demás peones a la obra para trabajar con ahínco.
+  #2 | 车间主任要求所有操作人员在进入生产线干活儿时，必须严格佩戴安全防护装备。 | Chējiān zhǔrèn yāoqiú suǒyǒu cāozuò rényuán zài jìnrù shēngchǎnxiàn gànhuór shí, bìxū yángé pèidài ānquán fánghù zhuāngbèi. | The workshop supervisor required all operators to strictly wear safety gear when working on the production line. | El jefe de taller exigió a todos los operarios llevar rigurosamente equipos de protección individual al entrar a la línea de montaje para trabajar.
+
+collocations[6]{hanzi,en}:
+  卖力干活儿 | work with all one's might
+  起早贪黑干活儿 | work from dawn to dusk
+  外出干活儿 | go away from home to work
+  停下干活儿 | stop working
+  拼命干活儿 | work desperately hard
+  手脚麻利干活儿 | work deftly and swiftly
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  手脚麻利 | shǒu jiǎo má li | deft and quick with hands and feet
+  起早贪黑 | qǐ zǎo tān hēi | start early and finish late; work round the clock
+  勤劳致富 | qín láo zhì fù | work hard to build prosperity
+  劳而无功 | láo ér wú gōng | labor in vain with no return
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  干 | gàn | do; work; trunk | hacer; trabajar; tronco | 干 | shield / dry / stem | 一 (top canopy/tool) | 十 (cross/weapon) | 3 | 单一结构 | Pictographic depiction of a wooden pitchfork, pestle, or weapon, extending to manual work, action, and doing. | A pestle or agricultural implement held firmly to perform work. | Un mazo o apero agrícola empuñado con firmeza para realizar tareas. | 51 | MJ | 幹
+  活 | huó | live; alive; work/task | vivir; vivo; faena | 氵 | water | 氵 (flowing water of life) | 舌 (shé / tongue phonetic/vital vitality) | 9 | 左右结构 | Phono-semantic compound: 氵 (water) + 舌 (tongue/saliva), symbolizing vitality, living, and active tasks. | Flowing water (氵) bringing life to thirsty tongues and vibrant energy to work. | Agua viva (氵) humedeciendo la lengua, símbolo de dinamismo, vida y actividad. | 35 | EHOR | ""
+  儿 | ér | child; diminutive rhotic suffix | niño; sufijo rótico | 儿 | human legs / child | 儿 (human legs in motion / child) | "" | 2 | 单一结构 | Pictograph of a young human walking, used in Northern Chinese as the rhotic nominal/colloquial suffix '-r'. | A lively child walking, softening nouns into spoken expressions. | Un niño que camina, aportando el matiz oral y cariñoso del sufijo rótico del norte. | 35 | HU | 兒
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Using your hands to do (干) lively physical tasks (活) in daily spoken rhythm (儿) means doing manual work (干活儿).
+  composite_memory_hook_es: Empuñar herramientas para ejecutar (干) faenas llenas de actividad vital (活) con desparpajo oral (儿) es trabajar físicamente (干活儿).
+  cultural_and_cognitive_roots: In Northern spoken Chinese, 干活儿 captures the hearty spirit of everyday manual laborers and peasants, emphasizing muscle, sweat, and endurance.
+  tone_sandhi_and_pitch_modulation: Falling tone followed by rising tone with erhua: gàn huór (51-35r). The 'huó' syllable smoothly rolls into retroflex 'r' while ascending.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    于 | yú | at; in | Similar to 干 but has a hook on the vertical stroke
+    千 | qiān | thousand | Has a diagonal slash at the top instead of a horizontal stroke
+    话 | huà | word; speech | Has 讠 (speech) with 舌 instead of 氵
+    几 | jǐ | how many; several | Top stroke differs from 儿 (open top)
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    干劲 | gàn jìn | enthusiasm for work
+    生活 | shēng huó | life; livelihood
+    活动 | huó dòng | activity; movement
+    儿童 | ér tóng | children; child
+
+semantic_boundary_contrasts:
+  core_nuance: 干活儿 specifically emphasizes physical, bodily, or manual labor in oral and informal daily registers.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 干活儿 vs. 工作 | gōngzuò | 干活儿 is colloquial and focuses predominantly on physical chores or manual jobs, whereas 工作 is the universal formal term for any professional job.
+    2 | 干活儿 vs. 劳动 | láodòng | 干活儿 is spoken and casual, whereas 劳动 is a formal socio-political and economic term.
+    3 | 干活儿 vs. 劳作 | láozuò | 干活儿 is modern vernacular conversation, whereas 劳作 is literary, written, and poetic.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 来到富家之后，子路干起活儿来手脚格外麻利。无论是劈柴、挑水还是舂米，他从不偷懒耍滑，只希望能多攒下一点粮食和银子，早日背回家孝敬父母。 | Láidào fùjiā zhīhòu, Zǐlù gàn qǐ huór lái shǒujiǎo géwài máli. Wúlùn shì pǐchái, tiāoshuǐ háishì chōngmǐ, tā cóngbù tōulǎn-shuǎhuá, zhǐ xīwàng néng duō zǎnxià yìdiǎn liángshi hé yínzi, zǎorì bēi huí jiā xiàojìng fùmǔ. | After arriving at the wealthy manor, Zilu worked with exceptional agility. Chopping wood, carrying water, or threshing rice, he never slacked, longing only to save grain and silver for his parents. | En la hacienda acaudalada, Zilu realizaba las faenas con asombrosa rapidez. Ya fuera cortando leña, cargando agua o moliendo grano, no escatimaba esfuerzos con tal de juntar alimento para sus progenitores.
+  #2 | 在北方方言口语中，“干活儿”三个字饱含着对质朴勤劳美德的高度赞扬。从田间农人到建筑工人，每一双沾满泥土的老茧双手，正是依靠脚踏实地干活儿的坚韧毅力，筑就了坚实的物质文明基石。 | Zài běifāng fāngyán kǒuyǔ zhōng, "gànhuór" sān gè zì bǎohán zhe duì zhìpǔ qínláo měidé de gāodù zànyáng. Cóng tiánjiān nóngrén dào jiànzhù gōngrén, měi yì shuāng zhānmǎn nítǔ de lǎojiǎn shuāngshǒu, zhèng shì yīkào jiǎotà-shídì gànhuór de jiānrèn yìlì, zhùjiù le jiānshí de wùzhì wénmíng jīshí. | In Northern vernacular, '干活儿' conveys deep respect for honest toil. From farmhands to construction workers, calloused hands laboring steadfastly lay the bedrock of civilization. | En el habla cotidiana, "ganhuor" ensalza la laboriosidad honesta. Desde campesinos hasta peones, las manos curtidas que trabajan de sol a sol sustentan las bases materiales del bienestar social.

@@ -1,0 +1,63 @@
+id: 33
+hanzi: 随时
+pinyin: suí shí
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: at any time; at all times; whenever necessary; constantly
+  es: en cualquier momento; en todo momento; a cualquier hora; cuando sea necesario
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | at any point in time; whenever the occasion arises | en cualquier momento; siempre que sea oportuno o preciso | 随时联系 (contact at any time)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 海上天气变幻莫测，乌云随时可能遮蔽太阳带来狂风暴雨，全船人员必须时刻保持高度警惕。 | Hǎishàng tiānqì biànhuànmòcè, wūyún suíshí kěnéng zhēbì tàiyáng dài lái kuángfēngbàoyǔ, quán chuán rényuán bìxū shíkè bǎochí gāodù jǐngtì. | Ocean weather is unpredictable; dark clouds may shroud the sun at any moment to trigger squalls, demanding vigilance. | El tiempo en el mar es impredecible; negros nubarrones pueden tapar el sol en cualquier instante y desatar tormentas, exigiendo alerta máxima.
+  #2 | 为了应对突发公共卫生事件，三甲医院急诊重症监护团队随时待命，确保绿色救治通道畅通无阻。 | Wèile yìngduì tūfā gōnggòng wèishēng shìjiàn, sānjiǎ yīyuàn jízhěn zhòngzhèng jiānhù tuánduì suíshí dàimìng, quèbǎo lǜsè jiùzhì tōngdào chàngtōng wúzǔ. | In response to emergency public health incidents, top-tier ICU teams stand by at all times, keeping rapid-response corridors open. | Para afrontar emergencias sanitarias, los equipos de cuidados intensivos hospitalarios permanecen en guardia permanente, despejando la vía verde de auxilio.
+
+collocations[6]{hanzi,en}:
+  随时联系 | contact at any time
+  随时随地 | anytime and anywhere
+  随时待命 | on call at all times; stand by
+  随时发生 | happen at any moment
+  随时更新 | update constantly / at any time
+  随时调整 | adjust at any time
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  随遇而安 | suí yù ér ān | accommodate oneself to circumstances; at ease wherever one is
+  随时随地 | suí shí suí dì | anytime and anywhere; at all times and places
+  随行就市 | suí háng jiù shì | adjust prices according to market conditions
+  与时俱进 | yǔ shí jù jìn | advance with the times; keep pace with history
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  随 | suí | follow; comply with; adapt | seguir; obedecer; adaptarse | 阝 | mound / step | 阝 (lofty embankment or step) | 辶 / 隋 (suí phonetic / flesh or following path) | 11 | 左右结构 | Phono-semantic compound: following closely behind someone along steps or winding road embankments (阝). | Walking footsteps following closely behind an elder (阝) along the mountain path wherever he leads (随). | Pasos que siguen de cerca a un guía experto (阝) por senderos escarpados allá donde vaya (随). | 35 | NLKNB | 隨
+  时 | shí | time; hour; opportunity | tiempo; hora; sazón | 日 | sun / day | 日 (sun marking daylight hours) | 寸 (cùn phonetic / inch rule of measurement) | 7 | 左右结构 | Ideogrammic compound: tracking the sun (日) with an inch rule (寸) to observe passing time. | The golden sun (日) casting its measured inch of shadow (寸) as each moment ticks by. | El sol dorado (日) proyectando una pulgada de sombra (寸) que marca el fluir del tiempo. | 35 | ADI | 時
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Following along (随) the continuous footsteps of time (时) means being ready at any given moment (随时).
+  composite_memory_hook_es: Seguir de cerca (随) el paso incesante de las horas (时) implica estar dispuesto en cualquier momento (随时).
+  cultural_and_cognitive_roots: Daoist philosophy emphasizes '随顺自然' (flowing in harmony with nature's seasons). '随时' encapsulates responsiveness, flexibility, and adaptable readiness to life's unfolding shifts.
+  tone_sandhi_and_pitch_modulation: Two consecutive rising 2nd tones: suí shí (35-35). Rise gently on 'suí' before continuing the melodic elevation on 'shí'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    随 | suí | follow; adapt | Has 阝 on the left with 辶 inside
+    队 | duì | team; line | Has 阝 on the left and 人 on the right
+    时 | shí | time; season | Has 日 on the left and 寸 on the right
+    村 | cūn | village | Has 木 (wood) on the left with 寸
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    随便 | suí biàn | as you please; casual
+    跟随 | gēn suí | follow; accompany
+    时候 | shí hou | time; moment
+    及时 | jí shí | in time; timely
+
+semantic_boundary_contrasts:
+  core_nuance: 随时 stresses temporal flexibility, readiness, or constant availability whenever needed.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 随时 vs. 及时 | jíshí | 随时 indicates anytime without time constraints (随时打电话), whereas 及时 means promptly or without delay right when a problem occurs (及时发现问题).
+    2 | 随时 vs. 准时 | zhǔnshí | 随时 denotes open-ended flexible timing, while 准时 means punctually at a predetermined appointed minute (准时开会).
+    3 | 随时 vs. 往往 | wǎngwǎng | 随时 denotes potential occurrence at any time, while 往往 indicates recurrent frequency based on past patterns.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正的内心自由，是一种随时能够放下包袱启程的勇气。当我们不再执着于外界强加的条条框框，便能在生活的任何一个拐角轻装上阵。生活从来没有固定的剧本，随时敞开怀抱，才能拥抱沿途未曾预料的美丽。 | Zhēnzhèng de nèixīn zìyóu, shì yì zhǒng suíshí nénggòu fàngxià bāofu qǐchéng de yǒngqì. Dāng wǒmen búzài zhízháo yú wàijiè qiángjiā de tiáotiáokuāngkuāng, biàn néng zài shēnghuó de rènhé yí gè guǎijiǎo qīngzhuāng shàngzhèn. Shēnghuó cónglái méiyǒu gùdìng de jùběn, suíshí chǎngkāi huáibào, cáinéng yōngbào yántú wèicéng yùliào de měilì. | True inner freedom is the courage to drop burdens and set out at any moment. When freed from imposed constraints, one travels light through any crossroad. Life lacks a rigid script; opening one's arms anytime welcomes unforeseen wonder. | La auténtica libertad interior es la valentía de aligerar equipaje y partir en cualquier momento. Sin el yugo de moldes ajenos, se camina liviano por cualquier encrucijada. La vida no tiene guión fijo: abrir el pecho en todo momento abraza bellezas inesperadas.
+  #2 | 移动互联网与边缘计算的协同演进，使得海量物联网设备能够随时随地实现低时延互联互通。无论是在偏远荒野还是在繁忙都市，智能感知终端均能随时将水文监测数据回传云端中枢，为气象预警与自然资源保护提供了强有力的实时算力支撑。 | Yídòng hùliánwǎng yǔ biānyuán jìsuàn de xiétóng yǎnjìn, shǐdé hǎiliàng wùliánwǎng shèbèi nénggòu suíshí suídì shíxiàn dīshíyán hùliánhùtōng. Wúlùn shì zài piānyuǎn huāngyě háishì zài fánmáng dūshì, zhìnéng gǎnzhī zhōngduān jūn néng suíshí jiāng shuǐwén jiāncè shùjù huíchuán yúnduān zhōngshū, wèi qìxiàng yùjǐng yǔ zìrán zīyuán bǎohù tígōng le qiángyǒulì de shíshí suànlì zhīchēng. | The evolution of mobile networks and edge computing allows IoT devices to interconnect anytime, anywhere with low latency. In remote wilderness or cities, smart sensors transmit environmental metrics to cloud hubs, powering real-time climate warnings. | La computación perimetral y el internet móvil permiten conectar millones de sensores en cualquier momento y lugar. Tanto en páramos como en urbes, los terminales envían datos hidrológicos a la nube, respaldando las alertas climáticas en tiempo real.

@@ -1,0 +1,63 @@
+id: 35
+hanzi: 往前
+pinyin: wǎng qián
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: forward; ahead; onward; toward the front
+  es: hacia adelante; adelante; al frente; en adelante
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | moving or directing attention toward the front or future | hacia adelante; al frente; con dirección al porvenir | 一直往前走 (keep walking straight ahead)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 哪怕双腿酸痛如灌铅、漫天风雪扑面而来，子路依然咬紧牙关，一步一个脚印坚定地往前走。 | Nǎpà shuāngtuǐ suāntòng rú guànqiān, màntiān fēngxuě pūmiàn ér lái, Zǐlù yīrán yǎojǐn yáguān, yíbù yí gè jiǎoyìn jiāndìng de wǎng qián zǒu. | Even though his legs ached like heavy lead and snow lashed his face, Zilu gritted his teeth, firmly marching forward one step at a time. | Aunque las piernas le dolían como plomo y la nieve azotaba su rostro, Zilu apretó los dientes y avanzó hacia adelante con pisadas firmes.
+  #2 | 历史车轮滚滚向前不可阻挡，唯有顺应时代潮流、勇毅往前开拓，才能赢得未来的战略主动权。 | Lìshǐ chēlún gǔngǔn xiàngqián bùkě zǔdǎng, wéiyǒu shùnyìng shídài cháoliú, yǒngyì wǎng qián kāituò, cáinéng yíngdé wèilái de zhànlüè zhǔdòngquán. | The wheels of history roll forward irresistibly; only by aligning with the trends and boldly pioneering ahead can we secure strategic initiative. | La rueda de la historia avanza incontenible; solo adaptándose a los tiempos y avanzando hacia adelante con valentía se conquista la iniciativa del futuro.
+
+collocations[6]{hanzi,en}:
+  一直往前走 | keep walking straight ahead
+  勇敢往前冲 | bravely charge forward
+  往前迈进 | stride forward
+  继续往前赶 | keep hurrying forward
+  眼神往前看 | look forward with eyes
+  大步往前跨 | stride broadly ahead
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  勇往直前 | yǒng wǎng zhí qián | march courageously forward; advance bravely
+  一往无前 | yì wǎng wú qián | press forward dauntlessly
+  前仆后继 | qián pū hòu jì | one falls and the next steps in; continuous heroic struggle
+  继往开来 | jì wǎng kāi lái | carry forward the cause and forge ahead into the future
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  往 | wǎng | toward; go to; past | hacia; dirigirse a; pasado | 彳 | step / walk | 彳 (footsteps stepping forward) | 主 (lamp flame / destination point phonetic) | 8 | 左右结构 | Phono-semantic compound: 彳 (stepping along a road) + 主 (lamp light/destination beacon), originally setting out toward a goal. | Stepping along a trail (彳) keeping eyes fixed on a guiding flame (主). | Caminar por un sendero (彳) guiando los pasos hacia una llama orientadora (主). | 214 | HOY | ""
+  前 | qián | front; forward; before | delante; adelante; anterior | 刂 | knife / cut | 止/舟 (foot stepping into boat / crossing river) | 刂 (cleaving progress) | 9 | 上下结构 | Ideogrammic compound: a boat (舟/月) and foot (止) advancing across water with a cutting stroke (刂), signifying forward progress. | Stepping into a boat to cross water, cutting forward through waves. | Embarcar en una barca para cruzar el cauce cortando las olas hacia adelante. | 35 | TBLN | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Stepping toward the beacon (往) and cutting across the path ahead (前) propels you resolutely forward (往前).
+  composite_memory_hook_es: Dirigir el paso hacia la meta (往) cortando camino por delante (前) impulsa resueltamente hacia adelante (往前).
+  cultural_and_cognitive_roots: In Chinese spatial orientation, moving forward (往前走) metaphorically maps onto temporal progress and moral resolve, enduring immediate pain for a greater dawn.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by rising 2nd tone: wǎng qián (214-35). 'wǎng' dips softly before gliding smoothly into high-rising 'qián'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    住 | zhù | reside; stay | Has 亻 (single person) on the left of 主 instead of 彳
+    注 | zhù | pour; register | Has 氵 (water) on the left of 主 instead of 彳
+    剪 | jiǎn | scissors; cut | Has 刀 (knife) at bottom of 前 instead of 刂 on right
+    煎 | jiān | pan-fry | Has 灬 (fire) below 前
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    往常 | wǎng cháng | as usual; normally
+    往返 | wǎng fǎn | round trip; back and forth
+    前方 | qián fāng | ahead; front
+    前途 | qián tú | future; prospect
+
+semantic_boundary_contrasts:
+  core_nuance: 往前 specifically indicates directional progression forward along a physical track or chronological trajectory.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 往前 vs. 向前 | xiàngqián | 往前 and 向前 are largely interchangeable in directional motion; however, 向前 is slightly more formal and frequently appears in slogans, whereas 往前 is natural in colloquial speech.
+    2 | 往前 vs. 以后 | yǐhòu | 往前 can dialectally refer to past times, whereas 以后 strictly refers to future chronological time from a reference point.
+    3 | 往前 vs. 前方 | qiánfāng | 往前 is an adverbial direction meaning toward the front, whereas 前方 is a spatial noun denoting the physical front area or military front line.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫天飞雪中，早已辨不清道路的痕迹。子路凭借着对家乡方向的记忆，迎着呼啸的北风一步步往前挪动。只要每往前走一步，就离温暖的家更近了一分。 | Màntiān fēixuě zhōng, zǎoyǐ biàn bù qīng dàolù de hénjì. Zǐlù píngjiè zhe duì jiāxiāng fāngxiàng de jìyì, yíngzhe hūxiào de běifēng yíbùbù wǎng qián nuódòng. Zhǐyào měi wǎng qián zǒu yí bù, jiù lí wēnnuǎn de jiā gèng jìn le yì fēn. | In swirling snow, all traces of the path were lost. Guided only by memories of home, Zilu inched forward step by step against the biting north wind. Each step brought him a fraction closer to his warm hearth. | Bajo la ventisca que borraba los senderos, Zilu avanzaba paso a paso guiado por el recuerdo del hogar contra el viento del norte. Con cada paso que daba hacia adelante, se hallaba un poco más cerca de su familia.
+  #2 | 在充满不确定性的时代洪流中，畏缩不前只会加剧焦虑与被动。人类历史上所有的文明跨越与科学飞跃，无不是在迷雾重重的未知困境中，依靠坚韧不拔的意志坚定地往前探索，在绝境中开辟出崭新的发展坦途。 | Zài chōngmǎn bùquèdìngxìng de shídài hóngliú zhōng, wèisuō-bùqián zhǐ huì jiājù jiāolǜ yǔ bèidòng. Rénlèi lìshǐ shàng suǒyǒu de wénmíng kuàyuè yǔ kēxué fēiyuè, wúbúshì zài míwù-chóngchóng de wèizhī kùnjìng zhōng, yīkào jiānrèn-bùbá de yìzhì jiāndìng de wǎng qián tànsuǒ, zài juéjìng zhōng kāipì chū zhǎnxīn de fāzhǎn tǎntú. | Amid currents of uncertainty, shrinking back only compounds anxiety and passivity. All leaps of human civilization were forged in dense mists of the unknown by resolutely exploring forward with indomitable will, clearing fresh paths toward progress. | Ante la incertidumbre de los tiempos, vacilar solo alimenta la ansiedad. Los grandes hitos de la civilización y la ciencia se lograron avanzando con determinación en la penumbra de lo desconocido, abriendo nuevos horizontes de progreso en medio de la adversidad.

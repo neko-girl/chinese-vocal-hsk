@@ -1,0 +1,64 @@
+id: 34
+hanzi: 拥抱
+pinyin: yōng bào
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to hug; to embrace; to hold in arms; to welcome open-heartedly
+  es: abrazar; abrazarse; acoger con entusiasmo; abrazo
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to encircle another person with arms in affectionate physical embrace | estrechar entre los brazos en señal de afecto o cariño; abrazar | 紧紧拥抱 (hug tightly)
+  2 | Verb | Formal | to welcome, accept, or adopt eagerly (change, future, opportunity) | acoger con entusiasmo o abrirse a nuevas realidades | 拥抱未来 (embrace the future)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 历经重重风浪终于平安靠岸的那一刻，夫妻俩紧紧拥抱在一起，激动的泪水夺眶而出。 | Lìjīng chóngchóng fēnglàng zhōngyú píng'ān kào'àn de nà yí kè, fūqī liǎ jǐnjǐn yōngbào zài yìqǐ, jīdòng de lèishuǐ duókuàng'érchū. | The moment they docked safely after weathering countless storms, the couple held each other in a tight embrace, tears of relief welling up. | Al atracar a salvo tras superar incontables temporales, los esposos se fundieron en un apretado abrazo con lágrimas de emoción.
+  #2 | 在技术浪潮席卷全球的当下，企业必须主动打破传统思维定式，积极拥抱数字化变革与人工智能新纪元。 | Zài jìshù làngcháo xíjuǎn quánqiú de dāngxià, qǐyè bìxū zhǔdòng dǎpò chuántǒng sīwéi dìngshì, jījí yōngbào shùzìhuà biàngé yǔ réngōng zhìnéng xīn jìyuán. | Amid sweeping global technological tides, enterprises must break conventional mindsets to proactively embrace digital transformation. | Con las olas tecnológicas barriendo el planeta, las empresas deben romper moldes caducos y abrazar resueltamente la transformación digital.
+
+collocations[6]{hanzi,en}:
+  热烈拥抱 | warm / passionate embrace
+  紧紧拥抱 | hug tightly
+  拥抱未来 | embrace the future
+  互相拥抱 | embrace each other
+  深情拥抱 | affectionate embrace
+  拥抱生活 | embrace life
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  投怀送抱 | tóu huái sòng bào | throw oneself into someone's arms; ingratiate oneself eagerly
+  前呼后拥 | qián hū hòu yōng | escorted by callers in front and crowds behind; with a large entourage
+  抱头痛哭 | bào tóu tòng kū | hold each other's heads and weep bitterly
+  左拥右抱 | zuǒ yōng yòu bào | embrace right and left; surrounded by concubines or wealth
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  拥 | yōng | embrace; crowd; support | abrazar; apiñarse; apoyar | 扌 | hand / arm | 扌 (arms holding someone close) | 邕 (yōng phonetic / city surrounded by moat or harmonious gathering) | 8 | 左右结构 | Phono-semantic compound: outstretched arms (扌) gathering someone gently into an intimate protective circle (邕). | Strong loving arms (扌) wrapping affectionately around someone to shelter and support them (拥). | Brazos tiernos y fuertes (扌) que rodean a un ser querido para abrigarlo y protegerlo con afecto (拥). | 55 | QYVB | 擁
+  抱 | bào | hold in arms; hug; cherish | abrazar; sostener en brazos; albergar | 扌 | hand / arm | 扌 (hands wrapping and holding) | 包 (bāo phonetic / wrap or package) | 8 | 左右结构 | Phono-semantic compound: hands (扌) wrapping completely around someone like a precious package (包). | Two arms (扌) tenderly wrapping around a child (包) to press them close against the chest. | Dos brazos (扌) que envuelven con ternura a un niño (包) para acunarlo contra el pecho. | 51 | QPU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Wrapping protective hands around someone (拥) and holding them tenderly in your arms (抱) forms a heartfelt embrace (拥抱).
+  composite_memory_hook_es: Rodear con brazos protectores (拥) y estrechar contra el pecho con ternura (抱) sella un cálido abrazo (拥抱).
+  cultural_and_cognitive_roots: Traditional Chinese etiquette favored polite bowing over public tactile displays. The modern popularity of '拥抱' reflects emotional openness in family and metaphorical acceptance of world trends.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by a falling 4th tone: yōng bào (55-51). Sustain 'yōng' high and open before dropping 'bào' with warm downward resonance.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    拥 | yōng | hug; crowd | Has 扌 on the left and 邕 on the right
+    佣 | yōng | commission; servant | Has 亻 (person) on the left with 邕
+    抱 | bào | hold; hug | Has 扌 on the left and 包 on the right
+    拘 | jū | arrest; detain | Has 扌 on the left and 句 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    拥挤 | yōng jǐ | crowded; congested
+    拥护 | yōng hù | support; endorse
+    抱怨 | bào yuàn | complain; grumble
+    抱负 | bào fù | ambition; aspiration
+
+semantic_boundary_contrasts:
+  core_nuance: 拥抱 conveys warmth, deep emotional resonance, and wholehearted acceptance (physically or metaphorically).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 拥抱 vs. 搂 | lǒu | 拥抱 is formal, elegant, and affectionate with two people encircling each other, whereas 搂 is colloquial, often indicating one-sided grasping around someone's waist or shoulders.
+    2 | 拥抱 vs. 接受 | jiēshòu | 拥抱 implies proactive, enthusiastic, open-armed adoption of changes (拥抱变革), while 接受 is neutral, denoting passive or compliant receipt (接受批评).
+    3 | 拥抱 vs. 迎接 | yíngjiē | 拥抱 focuses on the intimate holding or internalizing, whereas 迎接 describes going out to meet and welcome arriving guests.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在漫长而孤独的航海岁月中，最抚慰人心的莫过于家人的一个拥抱。那不需要任何言语的解释，只要两颗心在风暴过后紧紧贴在一起，所有的恐惧与疲惫便会瞬间消融，化作继续前行的勇气与力量。 | Zài màncháng ér gūdú de hánghǎi suìyuè zhōng, zuì fǔwèi rénxīn de mòguòyú jiārén de yí gè yōngbào. Nà bù xūyào rènhé yányǔ de jiěshì, zhǐyào liǎng kē xīn zài fēngbào guòhòu jǐnjǐn tiē zài yìqǐ, suǒyǒu de kǒngjù yǔ píbèi biàn huì shùnjiān xiāoróng, huàzuò jìxù qiánxíng de yǒngqì yǔ lìliang. | In long, lonely voyaging months, nothing consoles like a family embrace. Needing no words, two hearts pressing together after storms dissolves fear and exhaustion into renewed courage to sail on. | En la soledad de la singladura marina, nada reconforta tanto como el abrazo de los tuyos. Sin necesidad de palabras, sentir latir dos corazones tras el temporal disuelve el miedo en renovado aliento para seguir navegando.
+  #2 | 伴随新一轮科技革命的演进，实体经济面临着深刻的组织形态重塑。主动拥抱技术创新、推进智能化改造的企业，不仅能在激烈的全球产业链竞争中抢占先机，更为推动产业升级与可持续高质量发展开拓了广阔空间。 | Bànsuí xīn yì lún kējì gémìng de yǎnjìn, shítǐ jīngjì miànlín zhe shēnkè de zǔzhī xíngtài chóngshù. Zhǔdòng yōngbào jìshù chuàngxīn, tuījìn zhìnénghuà gǎizào de qǐyè, bùjǐn néng zài jīliè de quánqiú chǎnyèliàn jìngzhēng zhōng qiǎngzhàn xiānjī, gèng wèi tuīdòng chǎnyè shēngjí yǔ kěchíxù gāozhìliàng fāzhǎn kāituò le guǎngkuò kōngjiān. | Amid evolving scientific revolutions, industrial economies undergo deep organizational remodeling. Firms actively embracing technological innovation capture strategic footholds in global competition, opening vistas for quality development. | La nueva revolución tecnológica redefine las estructuras productivas. Aquellas empresas que abrazan la innovación técnica y la automatización inteligente lideran las cadenas globales de valor, abriendo amplias perspectivas de progreso sostenible.

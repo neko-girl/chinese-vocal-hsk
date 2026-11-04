@@ -1,0 +1,63 @@
+id: 31
+hanzi: 滑
+pinyin: huá
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: slippery; smooth; to slip; to slide; cunning; crafty
+  es: resbaladizo; resbaloso; suave; resbalar; deslizarse; astuto
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | smooth and slippery, causing lack of traction | resbaladizo; resbaloso; suave | 路面很滑 (road is very slippery)
+  2 | Verb | Standard | to slip, slide, or glide over a surface | resbalar; deslizarse | 滑倒在地 (slip and fall to the ground)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 山间积雪融化后再次结冻成冰，陡峭的盘山石阶变得异常湿滑难行，子路差点儿滑倒。 | Shānjiān jīxuě rónghuà hòu zàicì jiédòng chéng bīng, dǒuqiào de pánshān shíjiē biànde yìcháng shīhuá nánxíng, Zǐlù chàdiǎnr huádǎo. | Snow on the mountain melted then froze into ice again; the steep winding stone stairs turned treacherous and slippery, and Zilu almost slipped and fell. | La nieve derretida en la montaña volvió a congelarse; los escarpados peldaños de piedra se volvieron traicioneramente resbaladizos y Zilu estuvo a punto de resbalar.
+  #2 | 冬季滑雪运动不仅考验运动员的平衡技巧与身体敏捷度，更是一项极具挑战性的极限户外运动。 | Dōngjì huáxuě yùndòng bùjǐn kǎoyàn yùndòngyuán de pínghéng jìqiǎo yǔ shēntǐ mǐnjiédù, gèng shì yí xiàng jí jù tiǎozhànxìng de jíxiàn hùwài yùndòng. | Winter skiing tests not only an athlete's balance and agility, but represents a highly challenging outdoor extreme sport. | El esquí invernal no solo pone a prueba el equilibrio y la agilidad corporal, sino que constituye un deporte extremo colmado de adrenalina y desafío.
+
+collocations[6]{hanzi,en}:
+  路面很滑 | road is very slippery
+  脚底打滑 | feet slipping; lose traction
+  滑倒在地 | slip and fall down
+  湿滑泥泞 | slippery and muddy
+  圆滑世故 | worldly and slick
+  滑冰滑雪 | ice skating and skiing
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  油腔滑调 | yóu qiāng huá diào | glib-tongued; flippant and slick
+  老奸巨猾 | lǎo jiān jù huá | crafty old scoundrel; deeply cunning
+  顺水推舟 | shùn shuǐ tuī zhōu | push the boat along with the current; take advantage of an opportunity
+  脚底抹油 | jiǎo dǐ mò yóu | grease the soles of one's shoes; slip away quickly
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  滑 | huá | slippery; slip; smooth | resbaladizo; resbalar; suave | 氵 | water | 氵 (water / moisture causing slipperiness) | 骨 (gǔ / bone phonetic/polished ivory) | 12 | 左右结构 | Phono-semantic compound: 氵 (water) + 骨 (bone/polished clean ivory), indicating the slick, friction-free surface of polished wet bone. | Water (氵) pouring over a smooth, polished bone (骨), making it slick and slippery. | Agua (氵) deslizándose sobre un hueso pulido (骨), volviendo la superficie resbaladiza al tacto. | 35 | EBBB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Water (氵) flowing over polished bone (骨) creates a slippery surface where feet slide and slip (滑).
+  composite_memory_hook_es: El agua (氵) corriendo sobre hueso liso (骨) genera una superficie resbalosa donde uno puede patinar (滑).
+  cultural_and_cognitive_roots: In cognitive metaphors, physical slipperiness transfers into descriptions of cunning deceit and glib worldly speech.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone: huá (35). The pitch climbs smoothly and cleanly from mid to high plateau.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    骨 | gǔ | bone | Phonetic base without the water radical 氵
+    猾 | huá | crafty; cunning | Has 犭 (dog/animal) radical on the left with 骨 on the right
+    润 | rùn | moist; smooth | Has 氵 (water) with 闰 instead of 骨
+    滔 | tāo | overflowing; surging | Has 氵 with 舀 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    下滑 | xià huá | slide down; decline
+    滑雪 | huá xuě | ski; skiing
+    光滑 | guāng huá | smooth; glossy
+    狡猾 | jiǎo huá | crafty; cunning
+
+semantic_boundary_contrasts:
+  core_nuance: 滑 describes friction-reduced surfaces causing slipping, or the motion of sliding smoothly across planes.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 滑 vs. 光滑 | guānghuá | 滑 emphasizes slipperiness and lack of grip, whereas 光滑 describes smooth, polished, unblemished tactile texture.
+    2 | 滑 vs. 溜 | liū | 滑 is the general verb for sliding or slipping across ice, while 溜 carries connotations of stealthily sneaking away.
+    3 | 滑 vs. 跌 | diē | 滑 denotes the loss of traction or sliding motion, whereas 跌 denotes the resulting downward collapse or fall.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 山崖边的冰雪路面极滑，子路脚底一滑，身子猛地向前倾斜。千钧一发之际，他死死扣住身旁突出的岩石，拼命稳住重心，才没让背后的米袋滚落万丈深渊。 | Shānyá biān de bīngxuě lùmiàn jí huá, Zǐlù jiǎodǐ yì huá, shēnzi měngde xiàngqián qīngxié. Qiānjūn-yìfà zhī jì, tā sǐsǐ kòuzhù shēnpáng tūchū de yánshí, pīnmìng wěnzhù zhòngxīn, cái méi ràng bèihòu de mǐdài gǔnluò wànzhàng shēnyuān. | The icy trail on the cliff edge was treacherous; Zilu slipped, his body pitching forward violently. In the nick of time, he gripped a jutting rock, desperately steadying himself to prevent the rice from plummeting. | El sendero helado al borde del abismo era sumamente resbaladizo; Zilu resbaló, tambaleándose hacia adelante. En un instante crítico, se aferró a una roca saliente y equilibró su peso para no perder el saco.
+  #2 | 材料科学在现代防滑技术的应用上取得了重大突破。通过仿生学研究荷叶表面纳米结构以及壁虎足部微观吸盘，工程师研发出新型高摩擦耐磨防滑涂层，显著降低了雨雪天气中路面打滑引发的交通事故发生率。 | Cáiliào kēxué zài xiàndài fánghuá jìshù de yìngyòng shàng qǔdé le zhòngdà tūpò. Tōngguò fǎngshēngxué yánjiū héyè biǎomiàn nàmǐ jiégòu yǐjí bìhǔ zúbù wēiguān xīpán, gōngchéngshī yánfā chū xīnxíng gāomócā nàimó fánghuá túcéng, xiǎnzhù jiàngdī le yǔxuě tiānqì zhōng lùmiàn dǎhuá yǐnfā de jiāotōng shìgù fāshēnglǜ. | Materials science has achieved major breakthroughs in anti-slip technology. Biomimetic research on lotus leaf nanostructures and gecko footpads enabled engineers to develop high-friction anti-skid coatings, drastically cutting accidents on icy roads. | La ciencia de materiales ha logrado avances notables en tecnologías antideslizantes. La biónica inspirada en hojas de loto y gecos permitió crear revestimientos de alta fricción que reducen drásticamente los accidentes en calzadas resbaladizas.

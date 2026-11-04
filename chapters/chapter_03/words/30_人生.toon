@@ -1,0 +1,63 @@
+id: 30
+hanzi: 人生
+pinyin: rén shēng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: human life; life journey; existence; one's lifetime
+  es: vida humana; vida; periplo vital; existencia
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the course, experience, and philosophical meaning of human living | existencia humana; curso o trayectoria de la vida de una persona | 人生道路 (the path of life)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 翟峰常说，人生有选择，一切皆来得及；只要心怀梦想并付诸行动，任何时候都不算太迟。 | Zhái Fēng cháng shuō, rénshēng yǒu xuǎnzé, yíqiè jiē láidejí; zhǐyào xīnhuái mèngxiǎng bìng fùzhū xíngdòng, rènhé shíhou dōu bú suàn tài chí. | Zhai Feng often said there are choices in life and it is never too late; as long as you hold dreams and act, no time is too late. | Zhai Feng solía decir que en la vida hay opciones y siempre se está a tiempo; basta abrigar un sueño y pasar a la acción para que nunca sea tarde.
+  #2 | 许多哲学家通过对人生的深刻反思，探寻个体在漫长历史长河中确立自身价值与伦理责任的路径。 | Xǔduō zhéxuéjiā tōngguò duì rénshēng de shēnkè fǎnsī, tànxún gètǐ zài màncháng lìshǐ chánghé zhōng quèlì zìshēn jiàzhí yǔ lúnlǐ zérèn de lùjìng. | Through deep reflections on human life, philosophers explore paths for individuals to anchor personal worth and ethical duty within history. | Mediante hondas reflexiones sobre la vida humana, los filósofos indagan el modo en que el individuo forja su valor y su deber ético en la historia.
+
+collocations[6]{hanzi,en}:
+  人生道路 | path of life; life's journey
+  人生感悟 | life reflections; insights into life
+  精彩人生 | wonderful life; splendid life
+  人生哲学 | philosophy of life
+  人生目标 | life goal; life objective
+  人生旅程 | life's journey; voyage of life
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  人生如梦 | rén shēng rú mèng | human life is like a dream; transient nature of existence
+  人生苦短 | rén shēng kǔ duǎn | life is fleeting and short; life is ephemeral
+  百年人生 | bǎi nián rén shēng | a hundred years of human life; a human lifetime
+  人生何处不相逢 | rén shēng hé chù bù xiāng féng | where in life do friends not meet again; the world is small
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  人 | rén | person; human; people | persona; ser humano | 人 | human / person | 人 (pictograph of a walking human being) | "" | 2 | 独体结构 | Ancient pictograph of a human being standing erect on two walking legs and leaning forward. | Two steady legs striding forward (人) as an erect human steps bravely into the world. | Dos piernas firmes que avanzan erguidas (人) representando al ser humano que camina por el mundo. | 35 | O | ""
+  生 | shēng | give birth; live; grow | nacer; vivir; crecer | 生 | sprout / growth | 生 (young sprout bursting out of soil) | 一 (ground level) | 5 | 独体结构 | Ancient pictograph of a verdant young plant shoot (生) bursting up through soil (一) into life. | A tender green seedling (生) pushing up through the fertile soil toward sunlight and vitality. | Un tierno brote verde (生) que rompe la tierra hacia el sol, rebosante de vitalidad. | 55 | HMHM | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A human being (人) bursting forth with vital growth and experience (生) embodies the magnificent journey of life (人生).
+  composite_memory_hook_es: Un ser humano (人) que brota y florece con vitalidad (生) encarna el maravilloso viaje de la vida (人生).
+  cultural_and_cognitive_roots: Traditional Chinese philosophy views '人生' as an ethical journey of continuous self-cultivation ('修身齐家治国平天下'). Life is conceived not merely as biological duration, but as the active realization of human dignity and purpose.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by a high level 1st tone: rén shēng (35-55). Ascend smoothly on 'rén' before articulating 'shēng' with high, clear resonance.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    人 | rén | human; person | Two strokes slanting outward
+    入 | rù | enter | Left stroke shorter with right stroke dominating over top
+    生 | shēng | birth; life | Five strokes with three horizontal lines
+    牛 | niú | ox; cattle | Has vertical stroke cutting through the top horizontal
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    生活 | shēng huó | daily life; live
+    生命 | shēng mìng | biological life; vitality
+    人们 | rén men | people; the public
+    人类 | rén lèi | humanity; human race
+
+semantic_boundary_contrasts:
+  core_nuance: 人生 highlights the experiential, philosophical, and moral journey of human beings throughout a lifetime.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 人生 vs. 生命 | shēngmìng | 人生 focuses on the psychological, spiritual, and social journey across a lifetime (人生观, 人生经历), whereas 生命 refers to biological vitality, physical lifespan, or survival (拯救生命).
+    2 | 人生 vs. 生活 | shēnghuó | 人生 is abstract, lofty, and philosophical, contemplating destiny and meaning, while 生活 concerns daily concrete activities (eating, cooking, chores, working).
+    3 | 人生 vs. 一生 | yìshēng | 人生 contemplates the qualitative nature and wisdom of living, whereas 一生 focuses on the chronological timespan from birth to death (奉献了一生).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 很多人以为，人生是一场必须按部就班抵达终点的赛跑，其实人生更像是一片任由探索的广阔原野。沿途的迷茫、试错与驻足，都是生命不可或缺的注脚。敢于遵从内心做出选择，才能领略到属于自己的独特风景。 | Hěnduō rén yǐwéi, rénshēng shì yì chǎng bìxū ànbùjiùbān dǐdá zhōngdiǎn de sàipǎo, qíshí rénshēng gèng xiàng shì yí piàn rènyóu tànsuǒ de guǎngkuò yuányě. Yántú de mímáng, shìcuò yǔ zhùzú, dōu shì shēngmìng bùkěhuòquē de zhùjiǎo. Gǎnyú zūncóng nèixīn zuòchū xuǎnzé, cáinéng lǐnglüè dào shǔyú zìjǐ de dútè fēngjǐng. | Many imagine life as a rigid race to a fixed finish line; in truth, life resembles an open wilderness inviting exploration. Confusion, detours, and pauses along the path enrich the journey. Daring to choose from the heart unlocks one's unique vistas. | Muchos creen que la vida es una carrera encorsetada hacia la meta, cuando en verdad es un páramo fértil abierto a la exploración. Desvíos y dudas son notas vivas del camino. Quien se atreve a elegir con el alma contempla sus propios paisajes irrepetibles.
+  #2 | 社会学与伦理学研究指出，现代人在追求物质丰裕的同时，愈发关注人生的精神归宿与价值实现。构建多维度的社会支持网络与终身成长平台，有助于引导年轻一代摆脱单一的成功学评价束缚，以更加开放包容的心态探索属于自己的多元人生路径。 | Shèhuìxué yǔ lúnlǐxué yánjiū zhǐchū, xiàndài rén zài zhuīqiú wùzhì fēngyù de tóngshí, yùfā guānzhù rénshēng de jīngshén guīsù yǔ jiàzhí shíxiàn. Gòujiàn duōwéidù de shèhuì zhīchí wǎngluò yǔ zhōngshēn chéngzhǎng píngtái, yǒuzhùyú yǐndǎo niánqīng yídài bǎituō dānyī de chénggōngxué píngjià shùfù, yǐ gèngjiā kāifàng bāoróng de xīntài tànsuǒ shǔyú zìjǐ de duōyuán rénshēng lùjìng. | Sociological and ethical studies note modern people prioritize spiritual fulfillment and personal values alongside material wealth. Multi-tiered social platforms help younger generations transcend narrow metrics of success, exploring multifaceted life journeys with an open mindset. | La sociología y la ética demuestran que el ser humano contemporáneo prioriza la plenitud interior junto al bienestar material. Forjar redes de crecimiento personal ayuda a los jóvenes a eludir el éxito plano y explorar caminos vitales diversos.

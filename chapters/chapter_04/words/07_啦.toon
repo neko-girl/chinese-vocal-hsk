@@ -1,0 +1,62 @@
+id: 7
+hanzi: 啦
+pinyin: la
+level: HSK 5
+part_of_speech: Particle
+
+meanings_summary:
+  en: sentence-final particle expressing exclamation, excitement, change of state (fusion of 了 and 啊)
+  es: partícula final que denota exclamación, entusiasmo o cambio de estado (fusión de 了 y 啊)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Particle | Colloquial | modal particle indicating exclamation, delight, completion, or softened mood | partícula modal que denota sorpresa, júbilo o cambio de estado | 太好啦 (that's wonderful!)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过漫长而艰辛的跋涉，年轻的子路终于背着沉甸甸的米袋回到家啦！ | Jīngguò màncháng ér jiānxīn de báshè, niánqīng de Zǐlù zhōngyú bēizhe chéndiāndiān de mǐdài huí dào jiā la! | After a long and arduous journey on foot, young Zilu finally returned home carrying the heavy sack of rice! | ¡Tras una larga y ardua caminata, el joven Zilu por fin regresó a casa cargando el pesado saco de arroz!
+  #2 | 大家快看，历经数年研发的新型环保能源系统终于正式投入使用啦！ | Dàjiā kuài kàn, lìjīng shù nián yánfā de xīnxíng huánbǎo néngyuán xìtǒng zhōngyú zhèngshì tóurù shǐyòng la! | Everyone look, the new green energy system developed over several years is finally officially in operation! | ¡Miren todos, el nuevo sistema de energía ecológica desarrollado durante años por fin ha entrado en funcionamiento!
+
+collocations[6]{hanzi,en}:
+  好啦 | alright; all good
+  走啦 | leaving now; let's go
+  来啦 | coming; arrived
+  明白啦 | understood!
+  成功啦 | succeeded!
+  回家啦 | going home!
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  呼啦一声 | hū lā yì shēng | with a sudden rushing sound; rustling noise
+  七里八啦 | qī lǐ bā lā | rattling incessantly; disorderly chatter
+  叽里呱啦 | jī li guā lā | jabbering loudly; chattering noisily
+  噼里啪啦 | pī li pā la | crackling and popping sounds (like firecrackers)
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  啦 | la | modal particle (fusion of 了 + 啊) | partícula modal | 口 | mouth | 口 (mouth producing sound) | 拉 (lā / draw/pull phonetic) | 11 | 左右结构 | Phono-semantic compound: 口 (mouth indicating sound/speech) + 拉 (phonetic), representing the spoken modal particle. | An open mouth (口) cheerfully vocalizing or singing with pulled breath (拉). | Una boca abierta (口) entonando una exclamación alegre con voz prolongada (拉). | 0 | RYT | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An exclamation from the mouth (口) pulling (拉) emotions together forms the joyful particle 'la' (啦).
+  composite_memory_hook_es: Una exclamación que brota de la boca (口) proyectando (拉) emociones alegres da vida a la partícula 'la' (啦).
+  cultural_and_cognitive_roots: Linguistically, 啦 is the fused colloquial contraction of the perfective aspect marker 了 (le) and the exclamatory particle 啊 (a), conveying vivid immediacy and warmth in spoken dialogue.
+  tone_sandhi_and_pitch_modulation: Neutral tone: la (0). It is pronounced light, short, and toneless at the end of clauses, taking its pitch onset naturally from the preceding tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    拉 | lā | pull; drag | Lacks the 口 (mouth) radical; has 扌 (hand)
+    粒 | lì | grain; particle | Has 米 (rice) radical on the left with 立 on the right
+    位 | wèi | seat; position | Has 亻 (person) radical on the left with 立 on the right
+    呼 | hū | exhale; shout | Has 口 (mouth) radical with 乎 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    啦啦队 | lā lā duì | cheerleading squad
+    声浪 | shēng làng | roar; wave of sound
+    呼喊 | hū hǎn | shout; call out
+    叹息 | tàn xī | sigh; lament
+
+semantic_boundary_contrasts:
+  core_nuance: 啦 serves as a lively clause-final modal particle expressing emotional immediacy, relief, enthusiasm, or completion.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 啦 vs. 了 | le | 啦 embodies the emotional phonological fusion of 了 (completion) + 啊 (exclamation), sounding distinctly warmer, more enthusiastic, and animated than the objective grammatical marker 了.
+    2 | 啦 vs. 吗 | ma | 啦 is exclusively declarative and exclamatory, whereas 吗 is an interrogative particle creating yes/no questions.
+    3 | 啦 vs. 吧 | ba | 啦 conveys emotional certainty or celebration of fact, whereas 吧 conveys suggestion, consultation, or gentle probability.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 当子路顶着刺骨的严寒与漫天风雪推开家门时，他激动地喊道：“爹，娘，我换到米回来啦！”这一声呼喊，道尽了数千里跋涉的辛劳与一家人团聚的无限欣慰。 | Dāng Zǐlù dǐngzhe cìgǔ de yánhán yǔ màntiān fēngxuě tuīkāi jiāmén shí, tā jīdòng de hǎndào: "Diē, niáng, wǒ huàn dào mǐ huílái la!" Zhè yì shēng hūhǎn, dàojìn le shù qiānlǐ báshè de xīnláo yǔ yì jiā rén tuánjù de wúxiàn xīnwèi. | When Zilu pushed open the door amidst piercing cold and snow, he cried excitedly: "Father, Mother, I've brought the rice back!" That cry released the exhaustion of miles traveled and melted into reunion. | Cuando Zilu empujó la puerta desafiando el frío y la ventisca, gritó con emoción: "¡Padre, madre, ya regresé con el arroz!". Esa exclamación resumió el esfuerzo de la caminata y trajo un gozo inmenso al hogar.
+  #2 | 在汉语口语与现代叙事文学中，语气词“啦”往往能为平实的语句注入浓郁的生活情趣与生动情感。无论是欢呼丰收的喜悦，还是宣告难题迎刃而解的如释重负，一个“啦”字便能瞬间拉近说话者与听众之间的心理距离。 | Zài Hànyǔ kǒuyǔ yǔ xiàndài xùshì wénxué zhōng, yǔqìcí "la" wǎngwǎng néng wèi píngshí de yǔjù zhùrù nóngyù de shēnghuó qíngqù yǔ shēngdòng qínggǎn. Wúlùn shì huānhū fēngshōu de xǐyuè, háishì xuāngào nántí yíngrèn'érjiě de rúshìzhòngfù, yí gè "la" zì biàn néng shùnjiān lājìn shuōhuàzhě yǔ tīngzhòng zhījiān de xīnlǐ jùlí. | In spoken Chinese and literature, the modal particle 'la' infuses ordinary sentences with vivid warmth. Whether exclaiming joy over a harvest or sighing relief at solving a hardship, a single 'la' instantly bridges emotional distance between speaker and listener. | En la lengua hablada y la narrativa china, la partícula 'la' infunde calidez cotidiana a las frases. Ya sea celebrando una buena cosecha o anunciando con alivio la solución a un problema, un simple 'la' aproxima al interlocutor con naturalidad afectiva.

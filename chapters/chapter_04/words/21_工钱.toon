@@ -1,0 +1,63 @@
+id: 21
+hanzi: 工钱
+pinyin: gōng qián
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: salary; wages; remuneration for manual labor
+  es: salario; jornal; sueldo por trabajo manual; paga
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Colloquial | payment or wages given for physical or manual labor | sueldo o paga por trabajo manual o jornalero | 结清工钱 (settle wages)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 到了年底，工程包工头按时将一整年的辛苦工钱如数结清并发放到了每一位工友手中。 | Dào le niándǐ, gōngchéng bāogōngtóu ànshí jiāng yì zhěng nián de xīnkǔ gōngqián rúshù jiéqīng bìng fāfàng dào le měi yí wèi gōngyǒu shǒuzhōng. | At year's end, the contractor settled and distributed the full year's hard-earned wages on time into each worker's hands. | A finales de año, el contratista liquidó puntualmente el salario de todo el año, entregándolo íntegro a cada uno de los peones.
+  #2 | 为了保障广大灵活就业者的合法权益，劳动仲裁部门开通了针对拖欠工钱行为的绿色维权通道。 | Wèile bǎozhàng guǎngdà línghuó jiùyèzhě de héfǎ quányì, láodòng zhòngcái bùmén kāitōng le zhēnduì tuōqiàn gōngqián xíngwéi de lǜsè wéiquán tōngdào. | To protect flexible workers' lawful rights, the labor arbitration department opened an expedited channel specifically for wage arrears. | Para salvaguardar los derechos legítimos de los trabajadores, el departamento laboral habilitó una vía rápida contra el impago o retraso de jornales.
+
+collocations[6]{hanzi,en}:
+  结算工钱 | settle wages
+  拖欠工钱 | delay or default on wages
+  拿到工钱 | receive wages
+  辛苦工钱 | hard-earned wages
+  发放工钱 | distribute wages
+  日结工钱 | daily-paid wages
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  按劳取酬 | àn láo qǔ chóu | remuneration according to work performed
+  多劳多得 | duō láo duō dé | more work yields greater rewards
+  汗马功劳 | hàn mǎ gōng láo | distinguished service; contributions forged through sweat
+  不劳而获 | bù láo ér huò | reap without sowing; gain without labor
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  工 | gōng | work; labor; craftsman | trabajo; artesano; labor | 工 | work / carpenter square | 一 (horizontal guide) | 丨 (vertical plumb line) | 3 | 单一结构 | Pictographic depiction of a carpenter's square or building tool, symbolizing craft, construction, and manual labor. | A carpenter's square and plumb line held to build structures. | La escuadra y plomada de un artesano empleadas para edificar obras sólidas. | 55 | M | ""
+  钱 | qián | money; coin; wealth | dinero; moneda; riqueza | 钅 | metal / gold | 钅 (metal/coins) | 戋 (jiān / two halberds/cleaving phonetic) | 10 | 左右结构 | Phono-semantic compound: 钅 (metal) + 戋 (small/cleaved bronze spade implement), originally a small agricultural spade tool used as early currency, later money. | Bronze coins cast from metal (钅) clinking in a leather pouch. | Monedas de bronce fundidas en metal (钅) tintineando en una faltriquera. | 35 | CIJ | 錢
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The monetary compensation (钱) earned through skillful manual labor (工) constitutes an honest wage (工钱).
+  composite_memory_hook_es: La compensación en dinero (钱) obtenida mediante el esfuerzo y la labor artesanal (工) conforma el jornal (工钱).
+  cultural_and_cognitive_roots: In traditional Chinese societies, 工钱 refers specifically to wages for tangible physical labor, held with high moral respect as the fruits of honest sweat.
+  tone_sandhi_and_pitch_modulation: High-level 1st tone followed by rising 2nd tone: gōng qián (55-35). 'gōng' sustains high pitch before transitioning to upward 'qián'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    土 | tǔ | earth; soil | Has longer bottom line than top, while 工 has vertical stem centered between two lines
+    干 | gàn | do; dry | Top line crosses vertical stem in different proportions
+    线 | xiàn | thread; line | Has 纟 (silk) radical on the left with 戋 on the right
+    浅 | qiǎn | shallow; simple | Has 氵 (water) radical on the left with 戋 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    工人 | gōng rén | worker; laborer
+    工业 | gōng yè | industry
+    金钱 | jīn qián | money; wealth
+    价钱 | jià qian | price; cost
+
+semantic_boundary_contrasts:
+  core_nuance: 工钱 is colloquial vocabulary referring specifically to wages paid for physical, manual, or craft work.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 工钱 vs. 工资 | gōngzī | 工钱 is colloquial and spoken, typically referring to task wages for manual laborers, whereas 工资 is formal and standard across all employment contracts.
+    2 | 工钱 vs. 薪水 | xīnshuǐ | 工钱 emphasizes physical toil and sweat, whereas 薪水 often refers to white-collar corporate salaries or monthly allowances.
+    3 | 工钱 vs. 报酬 | bàochou | 工钱 is strictly monetary cash for labor, whereas 报酬 is a broad formal term encompassing monetary payments, royalties, or consulting fees.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 子路在富人家中舂米多日，领到了沉甸甸的银子作为工钱。他小心翼翼地把工钱包在粗布帕子里，舍不得给自己买一件御寒的棉衣，只想着用这些钱给父母买米充饥。 | Zǐlù zài fùjiā zhòng chōngmǐ duō rì, lǐngdào le chéndiāndiān de yínzi zuòwéi gōngqián. Tā xiǎoxīn-yìyì de bǎ gōngqián bāo zài cūbù pàzi lǐ, shěbude gěi zìjǐ mǎi yí jiàn yùhán de miányī, zhǐ xiǎngzhe yòng zhèxiē qián gěi fùmǔ mǎi mǐ chōngjī. | Pounding rice for days in the rich house, Zilu received heavy silver as wages. Carefully wrapping the coins in a cloth, he refrained from buying warm clothes for himself, eager only to buy rice for his parents. | Tras moler grano durante días, Zilu recibió unas pesadas monedas de plata como salario. Envolviéndolas con cuidado en un pañuelo basto, no gastó en ropa de abrigo para sí, anhelando solo comprar arroz para sus padres.
+  #2 | 劳动报酬是现代劳动法与社会正义的核心议题。“工钱”二字凝结着千百年来基层劳动者的生存尊严与血汗付出。建立完善的工资支付保障制度，杜绝任何形式的薪资拖欠，是维护社会公平与劳动者合法权益的基本底线。 | Láodòng bàochou shì xiàndài láodòngfǎ yǔ shèhuì zhèngyì de héxīn yìtí. "Gōngqián" èr zì níngjié zhe qiānbǎinián lái jīcéng láodòngzhě de shēngcún zūnyán yǔ xuèhàn fùchū. Jiànlì wánshàn de gōngzī zhīfù bǎozhàng zhìdù, dùjué rènhé xíngshì de xīnzī tuōqiàn, shì wéihù shèhuì gōngpíng yǔ láodòngzhě héfǎ quányì de jīběn dǐxiàn. | Remuneration is the core topic of modern labor law. The word '工钱' encapsulates centuries of working-class dignity and honest sweat. Establishing sound wage guarantees and preventing wage arrears are vital baselines for social justice. | La remuneración del trabajo es el núcleo de la justicia social. La palabra "gongqian" encierra la dignidad y el sudor de generaciones de trabajadores. Erradicar los impagos y asegurar salarios dignos constituye un deber elemental de equidad.

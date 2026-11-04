@@ -1,0 +1,63 @@
+id: 2
+hanzi: 连年
+pinyin: lián nián
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: for successive years; year after year; continuously over years
+  es: durante años sucesivos; año tras año; año con año
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | happening continuously or consecutively over multiple years | durante años consecutivos; año tras año | 连年丰收 (successive bumper harvests)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 由于连年干旱少雨，当地水库的水位急剧下降，给居民的日常生活带来了诸多不便。 | Yóuyú liánnián gānhàn shǎoyǔ, dāngdì shuǐkù de shuǐwèi jíjù xiàjiàng, gěi jūmín de rìcháng shēnghuó dàilái le zhūduō bùbiàn. | Due to consecutive years of drought and scarce rain, local reservoir water levels dropped sharply, causing many inconveniences for residents' daily lives. | Debido a la sequía prolongada durante años sucesivos, el nivel de los embalses locales bajó drásticamente, ocasionando inconvenientes en la vida cotidiana de los vecinos.
+  #2 | 得益于技术升级与海外市场开拓，该制造企业实现了连年增长，营业收入屡创新高。 | Déyì yú jìshù shēngjí yǔ hǎiwài shìchǎng kāituò, gāi zhìzào qǐyè shíxiàn le liánnián zēngzhǎng, yíngyè shōurù lǚ chuàng xīngāo. | Benefiting from technological upgrades and overseas market expansion, the manufacturing enterprise achieved growth for successive years, repeatedly hitting record revenues. | Gracias a la modernización tecnológica y a la apertura de mercados en el exterior, la empresa manufacturera logró un crecimiento interanual continuo, alcanzando récords de ingresos.
+
+collocations[6]{hanzi,en}:
+  连年丰收 | successive years of bumper harvests
+  连年内战 | civil war lasting consecutive years
+  连年征战 | continuous warfare year after year
+  连年亏损 | consecutive years of financial losses
+  连年灾荒 | successive years of natural disasters
+  连年上涨 | continuous rise over successive years
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  连年不断 | lián nián bú duàn | continuous and uninterrupted year after year
+  兵连祸结 | bīng lián huò jié | incessant warfare and unending disasters
+  祸不单行 | huò bù dān xíng | misfortunes never come singly
+  丰衣足食 | fēng yī zú shí | amply fed and clothed
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  连 | lián | link; connect; successively | unir; enlazar; continuo | 辶 | walk / motion | 辶 (motion along a path) | 车 (chē / carts lined up in succession) | 7 | 半包围结构 | Ideogrammic and phono-semantic: carts (车) following one another in a line along the road (辶), conveying continuity. | Carts (车) following consecutively along a road (辶) form an unbroken line. | Carros (车) en marcha continua por el camino (辶) simbolizan una hilera ininterrumpida. | 35 | YKQ | 連
+  年 | nián | year; harvest | año; cosecha | 干 | shield / dry | 禾 (grain harvest cycle in ancient seal script) | 千 (ancient phonetic indicator) | 6 | 上下结构 | Ancient pictograph of a person carrying ripe stalk of grain (禾), representing the annual agricultural harvest cycle. | Carrying ripe bundles of grain marks the passage of a fruitful year. | Cargar espigas de grano maduro marca el cumplimiento de un ciclo anual de cosecha. | 35 | OQ | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When calendar cycles link (连) continuously like marching carts across each passing year (年), events happen for successive years (连年).
+  composite_memory_hook_es: Cuando los ciclos se eslabonan (连) de manera ininterrumpida año tras año (年), transcurren años sucesivos (连年).
+  cultural_and_cognitive_roots: In agrarian history, consecutive years of good or bad weather ('连年灾荒' or '连年丰收') directly determined survival. The term emphasizes cumulative duration.
+  tone_sandhi_and_pitch_modulation: Two consecutive second tones: lián nián (35-35). Both rise with sustained melodious pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    进 | jìn | enter; advance | Has 井 inside 辶 instead of 车
+    远 | yuǎn | far; distant | Has 元 inside 辶 instead of 车
+    午 | wǔ | noon | Similar to 年 but lacks the horizontal base stroke and side hook
+    牛 | niú | ox; cow | Vertical stroke pierces top, whereas 年 has an upper horizontal stroke
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    接连 | jiē lián | one after another; in succession
+    连续 | lián xù | continuous; successive
+    年度 | nián dù | annual; year
+    年岁 | nián suì | years of age; era
+
+semantic_boundary_contrasts:
+  core_nuance: 连年 emphasizes events or conditions repeating or persisting across multiple calendar years without interruption.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 连年 vs. 常年 | chángnián | 连年 stresses uninterrupted continuation across consecutive years (连年丰收, 连年战争), while 常年 stresses customary all-year-round permanence (常年在外打工, 常年积雪).
+    2 | 连年 vs. 每年 | měinián | 连年 functions adverbially to convey an unbroken multi-year sequence, whereas 每年 simply specifies an annual frequency or rate per individual year.
+    3 | 连年 vs. 接连 | jiēlián | 连年 is strictly confined to year-scale intervals, whereas 接连 describes actions or occurrences happening in immediate rapid succession within minutes, days, or months.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 春秋战国之际，列国争雄，天下连年征战不休。在动荡岁月里，田地荒芜，粮食短缺，百姓生活困顿不堪，许多仁人志士为守护年迈双亲而奔波劳碌，留下了令人动容的感人故事。 | Chūnqiū zhànguó zhī jì, lièguó zhēngxióng, tiānxià liánnián zhēngzhàn bùxiū. Zài dòngdàng suìyuè lǐ, tiándì huāngwú, liángshi duǎnquē, bǎixìng shēnghuó kùndùn bùkān, xǔduō rénrén zhìshì wèi shǒuhù niánmài shuāngqīn ér bēnbō láolù, liúxià le lìngrén dòngróng de gǎnrén gùshì. | During the Spring and Autumn and Warring States eras, rival states fought unceasingly for successive years. In these turbulent times of barren fields and scarce food, common folk struggled deeply, yet devoted individuals braved great hardships to care for elderly parents. | Durante épocas de rivalidad entre reinos, la guerra se prolongó año tras año. En medio del desorden, con campos yermos y escasez de comida, muchas personas abnegadas se desvivieron por proteger a sus ancianos progenitores.
+  #2 | 历史研究显示，古代社会的政权兴衰往往与自然灾害及连年战乱密切关联。长期的农业欠收与连年饥荒不仅会动摇国库储备，还会引发剧烈的流民迁移，促使执政者不得不反思民生保障与统治策略。 | Lìshǐ yánjiū xiǎnshì, gǔdài shèhuì de zhèngquán xīngshuāi wǎngwǎng yǔ zìrán zāihài jí liánnián zhànluàn mìqiè guānlián. Chángqī de nóngyè qiànshōu yǔ liánnián jīhuāng bùjǐn huì dòngyáo guókù chǔbèi, hái huì yǐnfā jùliè de liúmín qiānyí, cùshǐ zhízhèngzhě bùdébù fǎnsī mínshēng bǎozhàng yǔ tǒngzhì cèlüè. | Historical research indicates that dynastic fortunes were closely tied to natural catastrophes and consecutive years of warfare. Chronic crop failures and unending famines depleted state reserves and displaced populations, compelling rulers to reform policies. | El estudio histórico muestra que la estabilidad dinástica dependía de resistir catástrofes y guerras sucesivas. Las cosechas fallidas año tras año vaciaban las reservas estatales y provocaban desplazamientos masivos, forzando reformas en la gobernanza.

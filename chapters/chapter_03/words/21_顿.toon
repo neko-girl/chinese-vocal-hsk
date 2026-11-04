@@ -1,0 +1,64 @@
+id: 21
+hanzi: 顿
+pinyin: dùn
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: classifier for meals, reproaches, or beatings; to pause; sudden; immediately
+  es: clasificador para comidas, reprimendas o palizas; pausar; de pronto; de repente
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | classifier for meals, dining occasions, or culinary feasts | clasificador para comidas, platos o banquetes | 吃一顿大餐 (eat a sumptuous meal)
+  2 | Measure Word | Standard | classifier for bouts of scolding, beating, or reprimand | clasificador para reprimendas, riñas o golpes | 挨了一顿训斥 (received a severe reprimand)
+  3 | Verb | Formal | to pause, halt briefly, or stamp one's foot | hacer una pausa breve; detenerse; dar una patada en el suelo | 停顿了一下 (paused for a moment)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过数日的艰苦航行，全家人终于靠岸休整，在海港小镇上痛快地吃了一顿丰盛的海鲜大餐。 | Jīngguò shù rì de jiānkǔ hángxíng, quán jiārén zhōngyú kào'àn xiūzhěng, zài hǎigǎng xiǎozhèn shàng tòngkuai de chī le yí dùn fēngshèng de hǎixiān dàcān. | After days of arduous sailing, the family finally docked to rest, heartily enjoying a lavish seafood meal in the coastal town. | Tras días de dura travesía la familia atracó para descansar y disfrutó de una copiosa comida marinera en el pueblo costero.
+  #2 | 演讲者在谈及核心数据时稍作停顿，吸引了全场观众的专注目光，随后条分缕析地展开阐述。 | Yǎnjiǎngzhě zài tánjí héxīn shùjù shí shāo zuò tíngdùn, xīyǐn le quánchǎng guānzhòng de zhuānzhù mùguāng, suíhòu tiáofēnlǚxī de zhǎnkāi chǎnshù. | The speaker paused briefly when touching upon core metrics, drawing the audience's focused gaze before expounding in detail. | El ponente hizo una breve pausa al citar las cifras clave, captando la atención de la sala antes de desgranar su exposición con rigor.
+
+collocations[6]{hanzi,en}:
+  一顿饭 | a meal
+  一顿美餐 | a delicious meal
+  停顿 | pause; halt
+  整顿 | rectify; reorganize; consolidate
+  安顿 | settle down; arrange accommodation
+  挨一顿打 | suffer a beating
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  茅塞顿开 | máo sè dùn kāi | suddenly enlightened; murky thoughts cleared away in an instant
+  顿开茅塞 | dùn kāi máo sè | suddenly have one's mind opened; sudden flash of insight
+  抑扬顿挫 | yì yáng dùn cuò | modulated cadence and rhythm; rising and falling cadences of voice
+  顿足捶胸 | dùn zú chuí xiōng | stamp feet and beat breast in deep grief or fury
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  顿 | dùn | pause; meal classifier; bow head | pausar; clasificador de comidas; inclinar cabeza | 页 | head / face | 页 (head bowing down to the ground) | 屯 (tún phonetic / camp or gather) | 10 | 左右结构 | Phono-semantic compound: bowing one's head (页) repeatedly to the ground in ceremonial pause or greeting. | A weary traveler resting his head (页) at a military camp (屯) to enjoy a hearty meal and brief pause. | Un viajero fatigado que inclina la cabeza (页) en el campamento (屯) para saborear una reconfortante comida. | 51 | PUMBO | 頓
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Halting one's journey to bow the head (页) and rest at a tavern (屯) offers a welcome pause and a satisfying meal (顿).
+  composite_memory_hook_es: Detener el camino para inclinar la cabeza (页) en la posada (屯) regala una merecida pausa y una rica comida (顿).
+  cultural_and_cognitive_roots: In ancient ritual etiquette, '顿首' represented kowtowing with head touching ground. It extended sequentially to pauses in movement, rhythmic caesuras in speech, and daily meal intervals.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone: dùn (51). When paired with '一' (yī), '一' changes to 2nd tone: 'yí dùn' (35-51). Pronounce with crisp, distinct falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    顿 | dùn | meal; pause | Has 屯 on the left and 页 on the right
+    领 | lǐng | lead; collar | Has 令 on the left and 页 on the right
+    预 | yù | in advance; anticipate | Has 予 on the left and 页 on the right
+    顶 | dǐng | crown; top | Has 丁 on the left and 页 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    顿时 | dùn shí | immediately; at once
+    顿悟 | dùn wù | sudden enlightenment; epiphany
+    整顿 | zhěng dùn | reorganize; consolidate; overhaul
+    停顿 | tíng dùn | pause; standstill
+
+semantic_boundary_contrasts:
+  core_nuance: 顿 serves as a discrete event classifier for complete dining sessions, episodic scoldings, or momentary pauses.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 顿 vs. 餐 | cān | 顿 is the versatile everyday oral classifier for meals (吃了一顿饭), while 餐 is formal and combines into nouns for meal types (一日三餐, 早餐, 西餐).
+    2 | 顿 vs. 番 | fān | 顿 modifies episodic meals or confrontations (训了一顿), whereas 番 classifies prolonged cognitive processes, investigations, or soul-searching (一番思考, 一番苦心).
+    3 | 顿 vs. 阵 | zhèn | 顿 implies a complete single episode from start to finish, while 阵 designates intermittent, gusting bursts of wind, rain, or laughter.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漂泊海外的游子，最魂牵梦绕的永远是母亲亲手做的一顿家常便饭。那缕从厨房飘出的热气，不仅仅是食物的滋味，更是一整座故乡的温存。无论身在何方，那一顿饭的温暖总能抚慰心头所有的漂泊与风尘。 | Piāobó hǎiwài de yóuzǐ, zuì húnqiānmèngrào de yǒngyuǎn shì mǔqīn qīnshǒu zuò de yí dùn jiāchángbiànfàn. Nà lǚ cóng chúfáng piāochū de rèqì, bù zhǐzhǐ shì shíwù de zīwèi, gèng shì yì zhěng zuò gùxiāng de wēncún. Wúlùn shēn zài héfāng, nà yí dùn fàn de wēnnuǎn zǒng néng fǔwèi xīntóu suǒyǒu de piāobó yǔ fēngchén. | For wanderers overseas, nothing haunts dreams like a home-cooked meal prepared by mother. Kitchen aromas bring not just flavor, but the warmth of an entire homeland. Wherever one roams, that meal's comfort consoles all weary drifting. | Para el viajero en ultramar, nada puebla los sueños como una comida casera preparada por su madre. El vapor del fogón no es mero sustento, sino el calor de la tierra natal que consuela fatigas y nostalgias en cualquier rincón del mundo.
+  #2 | 宏观监管部门针对平台经济领域的不正当竞争行为展开了专项整顿。通过设立清晰合规指引与反垄断执法，依法依规促使相关企业全面自查整改。这一轮市场整顿不仅有效遏制了资本无序扩张，也为中小微创新企业营造了公平竞争的营商环境。 | Hóngguān jiānguǎn bùmén zhēnduì píngtái jīngjì lǐngyù de búzhengdàng jìngzhēng xíngwéi zhǎnkāi le zhuānxiàng zhěngdùn. Tōngguò shèlì qīngxī héguī zhǐyǐn yǔ fǎnlǒngduàn zhífǎ, yīfǎ yīguī cùshǐ xiāngguān qǐyè quánmiàn zìchá zhěnggǎi. Zhè yì lún shìchǎng zhěngdùn bùjǐn yǒuxiào èzhì le zīběn wúxù kuòzhāng, yě wèi zhōngxiǎowēi chuàngxīn qǐyè yíngzào le gōngpíng jìngzhēng de yíngshāng huánjìng. | Regulatory bodies launched targeted rectifications targeting unfair platform competition. Anti-monopoly compliance frameworks guided corporate self-corrections, checking disorderly capital expansion while fostering equitable market terrain for innovative small and medium enterprises. | Los reguladores iniciaron inspecciones sectoriales contra la competencia desleal en plataformas digitales. La supervisión antimonopolio frenó la especulación del capital y procuró un entorno de libre concurrencia equitativo para las pequeñas empresas innovadoras.

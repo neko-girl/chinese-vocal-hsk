@@ -1,0 +1,63 @@
+id: 26
+hanzi: 陆地
+pinyin: lù dì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: land; dry land (as opposed to sea or water)
+  es: tierra firme; tierra (en oposición al mar o agua)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the solid part of the surface of the earth not covered by water | parte sólida de la superficie terrestre no cubierta por agua | 登上陆地 (step onto land)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在浩瀚的大洋上航行了整整一个月后，当第一座海岛的陆地轮廓出现在眼前时，全船欢呼雀跃。 | Zài hàohàn de dàyáng shàng hángxíng le zhěngzhěng yí gè yuè hòu, dāng dì-yī zuò hǎidǎo de lùdì lúnkuò chūxiàn zài yǎnqián shí, quán chuán huānhū quèyuè. | After navigating boundless oceans for an entire month, when the shoreline outline of the first island surfaced, the crew cheered ecstatically. | Tras navegar por el inmenso océano durante un mes entero, cuando la silueta de tierra firme emergió ante sus ojos, la tripulación estalló en vítores.
+  #2 | 地质学家运用深部地壳钻探技术，系统研究了远古地质时期大陆板块运动与陆地形成的演化历程。 | Dìzhìxuéjiā yùnyòng shēnbù dìqiào zuāntàn jìshù, xìtǒng yánjiū le yuǎngǔ dìzhì shíqī dàlù bǎnkuài yùndòng yǔ lùdì xíngchéng de yǎnhuà lìchéng. | Utilizing deep crustal drilling, geologists systematically studied the evolution of tectonic plate motions and landmass formation across deep time. | Mediante perforaciones de la corteza profunda, los geólogos estudiaron la tectónica de placas prehistórica y la formación de tierra firme.
+
+collocations[6]{hanzi,en}:
+  登上陆地 | step onto land; disembark
+  陆地生物 | terrestrial organisms / land creatures
+  返回陆地 | return to dry land
+  辽阔的陆地 | vast landmass
+  离开陆地 | depart from land
+  陆地交通 | land transportation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  脚踏实地 | jiǎo tà shí dì | stand on solid ground; down-to-earth and earnest
+  陆海潘江 | lù hǎi pān jiāng | talents as deep as Lu's sea and Pan's river; overflowing literary brilliance
+  推舟于陆 | tuī zhōu yú lù | push a boat on dry land; futile effort going against nature
+  地大物博 | dì dà wù bó | vast territory with abundant natural resources
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  陆 | lù | land; continent; plateau | tierra firme; continente | 阝 | mound / hill | 阝 (lofty earthen terraces or embankments) | 击 / 坴 (lù phonetic / clay soil piled high) | 7 | 左右结构 | Phono-semantic compound: earthen terraces (阝) towering high above waters, denoting solid dry land. | Elevated terraced earthen mounds (阝) rising high and dry above crashing coastal waters (陆). | Terrazas y montículos de tierra firme (阝) que se elevan secos por encima del mar embravecido (陆). | 51 | NLJTC | 陸
+  地 | dì | earth; ground; soil | tierra; suelo; suelo firme | 土 | earth / soil | 土 (fertile soil supporting vegetation) | 也 (yě phonetic / vessel or winding terrain) | 6 | 左右结构 | Phono-semantic compound: nourishing soil (土) stretching across undulating terrain (也) to support all life. | Rich dark soil (土) spreading wide across the winding valleys (也) to support trees and homes. | Suelo fértil (土) que se extiende por los valles ondulados (也) sosteniendo campos y hogares. | 51 | GPD | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Rising plateaus (陆) anchored in rich continental soil (地) form the stable dry land where humans dwell (陆地).
+  composite_memory_hook_es: Montículos elevados (陆) sobre tierra firme (地) forman el suelo continental donde la vida echa raíces (陆地).
+  cultural_and_cognitive_roots: Traditional cosmology divided the world into heaven, earth, and waters ('普天之下，莫非王土'). Seafarers viewed stepping onto land as an emotional rebirth and return to the ancestral element.
+  tone_sandhi_and_pitch_modulation: Two consecutive falling 4th tones: lù dì (51-51). Articulate both syllables with a firm, anchored downward cadence.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    陆 | lù | land; continent | Has 阝 (mound) on the left and 击 on the right
+    阵 | zhèn | battle array; burst | Has 阝 on the left and 车 on the right
+    地 | dì | earth; land | Has 土 (soil) on the left and 也 on the right
+    池 | chí | pool; pond | Has 氵 (water) on the left with 也
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    大陆 | dà lù | continent; mainland
+    着陆 | zhuó lù | land; touch down
+    地面 | dì miàn | ground surface; terrain
+    地球 | dì qiú | planet Earth; the globe
+
+semantic_boundary_contrasts:
+  core_nuance: 陆地 specifically contrasts the solid geological ground surface against the liquid ocean, sea, or airspace.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 陆地 vs. 大陆 | dàlù | 陆地 contrasts with oceans or waterways (e.g. 告别陆地出海), whereas 大陆 denotes a vast geographical continent (如亚欧大陆) or mainland regions.
+    2 | 陆地 vs. 地面 | dìmiàn | 陆地 is the planetary-scale solid ground surface opposed to water, whereas 地面 refers locally to the immediate floor or outdoor ground beneath one's feet.
+    3 | 陆地 vs. 土地 | tǔdì | 陆地 focuses on terrestrial geography, whereas 土地 refers to arable farm fields, territorial sovereignty, or real estate soil.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 只有在无边的大洋中航行过数月的人，才能深切体会到陆地的可贵。当双脚重新踏上坚实芬芳的泥土，听着林间小鸟清脆的欢歌，那种重新与大地相连的踏实感，是任何浮华辞藻都无法描摹的幸福。 | Zhǐyǒu zài wúbiān de dàyáng zhōng hángxíng guò shù yuè de rén, cáinéng shēnqiè tǐhuì dào lùdì de kěguì. Dāng shuāngjiǎo chóngxīn tà shàng jiānshí fēnfāng de nítǔ, tīng zhe línjiān xiǎoniǎo qīngcuì de huāngē, nà zhǒng chóngxīn yǔ dàdì xiānglián de tàshígǎn, shì rènhé fúhuá cízǎo dōu wúfǎ miáomó de xìngfú. | Only those who have sailed boundless seas for months grasp land's precious worth. Stepping again upon firm soil, listening to birdsong, that rooted grounding delivers happiness beyond words. | Solo quien navega meses en altamar comprende el valor inmenso de la tierra firme. Volver a pisar suelo sólido y aromático entre trinos bosquiseños regala un sosiego que ninguna palabra alcanza a retratar.
+  #2 | 全球气候变暖引发的海平面上升，对低洼岛国及沿海平原的陆地生态系统构成了日益紧迫的生存威胁。通过构筑生态海堤防线、推进红树林湿地修复，不仅能有效抵御潮汐风暴侵蚀，更为维护沿海陆地国土安全与生物多样性筑牢了绿色生态屏障。 | Quánqiú qìhòu biànnuǎn yǐnfā de hǎipíngmiàn shàngshēng, duì dīwā dǎoguó jí yánhǎi píngyuán de lùdì shēngtài xìtǒng gòuchéng le rìyì jǐnpò de shēngcún wēixié. Tōngguò gòuzhù shēngtài hǎidī fángxiàn, tuījìn hóngshùlín shīdì xiūfù, bùjǐn néng yǒuxiào dǐyù cháoxī fēngbào qīnshí, gèng wèi wéihù yánhǎi lùdì guótǔ ānquán yǔ shēngwù duōyàngxìng zhùláo le lǜsè shēngtài píngzhàng. | Rising sea levels from climate change pose pressing threats to low-lying islands and terrestrial coastal ecosystems. Constructing living seawalls and restoring mangrove wetlands repels tidal storm surges while shielding territorial land and coastal biodiversity. | La subida del nivel del mar por el cambio climático amenaza los ecosistemas de tierra firme en islas y llanuras costeras. Construir diques vivos y reforestar manglares frena marejadas y blinda la seguridad territorial de la costa.

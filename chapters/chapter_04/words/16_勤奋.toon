@@ -1,0 +1,63 @@
+id: 16
+hanzi: 勤奋
+pinyin: qín fèn
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: hardworking; diligent; industrious; assiduous
+  es: trabajador; diligente; industrioso; asiduo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | showing steady, earnest, and energetic effort in work or study | trabajador; diligente; que se esfuerza con constancia | 勤奋工作 (work diligently)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 凭借着勤奋踏实的工作态度，他在短短几年内便从一名普通学徒成长为行业骨干。 | Píngjiè zhe qínfèn tàshí de gōngzuò tàidù, tā zài duǎnduǎn jǐ nián nèi biàn cóng yì míng pǔtōng xuétú chéngzhǎng wéi hángyè gǔgàn. | Relying on a diligent and grounded work attitude, within just a few years he grew from an ordinary apprentice into an industry backbone. | Gracias a su actitud diligente y perseverante, en pocos años pasó de ser un simple aprendiz a convertirse en un pilar fundamental del sector.
+  #2 | 科学研究是一条充满艰辛的探索之路，唯有勤奋钻研且耐得住寂寞的人才能最终摘取科学的桂冠。 | Kēxué yánjiū shì yì tiáo chōngmǎn jiānxīn de tànsuǒ zhī lù, wéiyǒu qínfèn zuānyán qiě nài de zhù jìmò de rén cáinéng zuìzhōng zhāiqǔ kēxué de guìguān. | Scientific research is an arduous exploratory journey; only those who study diligently and endure solitude can ultimately claim the laurels of science. | La investigación científica es un camino colmado de rigores; únicamente quienes indagan con asiduidad y toleran la soledad logran alcanzar la cima del saber.
+
+collocations[6]{hanzi,en}:
+  勤奋好学 | diligent and eager to learn
+  勤奋工作 | work diligently
+  勤奋努力 | diligent effort
+  勤奋自律 | diligent and self-disciplined
+  极为勤奋 | exceptionally industrious
+  靠勤奋成功 | succeed through diligence
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  天道酬勤 | tiān dào chóu qín | Heaven rewards the diligent
+  勤俭节约 | qín jiǎn jié yuē | hardworking and thrifty
+  勤能补拙 | qín néng bǔ zhuō | diligence can make up for lack of natural talent
+  发愤图强 | fā fèn tú qiáng | work hard with determination for strength
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  勤 | qín | diligent; industrious; frequent | diligente; trabajador; asiduo | 力 | power / strength | 力 (physical muscle exertion) | 堇 (jǐn / clay/loam / pottery labor phonetic) | 13 | 左右结构 | Phono-semantic compound: 力 (muscle power) + 堇 (kneading heavy clay/loam), depicting strenuous physical toil. | Exerting muscle strength (力) untiringly like an artisan molding clay (堇). | Aplicar fuerza muscular (力) sin desmayo como un alfarero que amasa arcilla (堇). | 35 | TMLS | ""
+  奋 | fèn | strive; arouse; exert | esforzarse; alzar el vuelo; desplegar | 大 | big / great | 大 (person striding forward) | 田 (broad field) | 8 | 上下结构 | Ancient ideogram of a bird spreading wings to take flight from a field, extending to exerting effort, striving, and soaring. | A majestic bird bursting forth from the fields (田) spreading its wings (大) to soar. | Un ave que levanta el vuelo desde el campo (田) desplegando sus alas (大) con brío. | 51 | KPW | 奮
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Applying tireless muscle power (勤) to spread your wings and soar above obstacles (奋) embodies true diligence (勤奋).
+  composite_memory_hook_es: Aplicar fuerza constante (勤) para desplegar las alas y superarse (奋) constituye la verdadera diligencia (勤奋).
+  cultural_and_cognitive_roots: Traditional Chinese culture considers 勤 (diligence) as the supreme virtue in farming and scholarship, forming the foundation of filial responsibility.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by falling 4th tone: qín fèn (35-51). 'qín' ascends crisply before dropping powerfully on 'fèn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    勒 | lēi / lè | strap; strangle; engrave | Has 革 (leather) on the left instead of 堇
+    勘 | kān | investigate; survey | Has 甚 on the left instead of 堇
+    备 | bèi | prepare; ready | Has 夂 (walk slowly) at top instead of 大
+    夺 | duó | snatch; seize | Has 寸 (thumb/hand) below 大 instead of 田
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    辛勤 | xīn qín | hardworking; industrious
+    勤劳 | qín láo | industrious; hardworking
+    奋斗 | fèn dòu | strive; struggle
+    兴奋 | xīng fèn | excited; stimulated
+
+semantic_boundary_contrasts:
+  core_nuance: 勤奋 describes sustained, conscious effort, discipline, and industrious dedication in work or study.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 勤奋 vs. 勤劳 | qínláo | 勤奋 applies to study, mental work, research, or career aspirations, whereas 勤劳 primarily characterizes physical, manual, and agricultural toil.
+    2 | 勤奋 vs. 刻苦 | kèkǔ | 勤奋 stresses steady consistency and active engagement, whereas 刻苦 stresses enduring physical hardship, deprivation, and self-denial.
+    3 | 勤奋 vs. 努力 | nǔlì | 勤奋 is an enduring character trait and moral disposition, while 努力 can refer to either a temporary burst of energy or general striving.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在百里之外打工的日子里，年轻的子路凭借勤奋踏实的作风赢得了众人的敬重。不论是烈日当空还是风雨交加，他始终尽心竭力做好每一项杂务，毫无怨言。 | Zài bǎilǐ zhī wài dǎgōng de rìzi lǐ, niánqīng de Zǐlù píngjiè qínfèn tàshí de zuòfēng yíngdé le zhòngrén de jìngzhòng. Búlùn shì lièrì dāngkōng háishì fēngyǔ-jiāojiā, tā shǐzhōng jìnxīn-jiélì zuòhǎo měi yí xiàng záwù, háowú yuànyán. | During days of labor hundreds of miles away, young Zilu won everyone's respect through diligence. Whether under scorching sun or biting storms, he performed every chore wholeheartedly without complaint. | En sus jornadas de trabajo lejos de casa, el joven Zilu se ganó el respeto de todos por su laboriosidad. Ya bajo el sol abrasador o la lluvia gélida, cumplía cada tarea con esmero y sin lamentarse.
+  #2 | 古往今来，凡在科学、艺术或思想领域取得卓越建树者，无一不具备极其崇高的勤奋品格。天赋固然能够为学者打开灵感之门，但唯有持之以恒的勤奋探索与反复打磨，才能跨越重重险阻，铸就传世经典的学术丰碑。 | Gǔwǎng-jīnlái, fán zài kēxué, yìshù huò sīxiǎng lǐngyù qǔdé zhuóyuè jiànshù zhě, wú yī bú jùbèi jíqí chónggāo de qínfèn pǐngé. Tiānfù gùrán nénggòu wèi xuézhě dǎkāi línggǎn zhī mén, dàn wéiyǒu chízhīyǐhéng de qínfèn tànsuǒ yǔ fǎnfù dǎmó, cáinéng kuàyuè zhòngzhòng xiǎnzǔ, zhùjiù chuánshì jīngdiǎn de xuéshù fēngbēi. | Throughout history, all who achieved greatness in science, art, or thought possessed unwavering diligence. While talent may open doors of inspiration, only persevering labor and refinement can overcome hurdles to create monumental masterpieces. | A lo largo de la historia, quienes alcanzaron la grandeza en las ciencias o las artes sobresalieron por su constante diligencia. El talento puede abrir la puerta a la inspiración, pero solo la búsqueda infatigable permite forjar legados imperecederos.

@@ -1,0 +1,64 @@
+id: 40
+hanzi: 不行
+pinyin: bù xíng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: not capable; won't do; out of the question; terribly (as complement)
+  es: no servir; incapaz; no poder ser; estar mal; terriblemente (como complemento)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | incapable, incompetent, or failing to meet standards | incapaz; incompetente; no servir | 业务能力不行 (weak business capability)
+  2 | Adverb | Standard | completely unacceptable or out of the question; dying/extremely | de ninguna manera; inaceptable; sumamente (complemento de grado) | 饿得不行 (starving terribly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对山路上狂风暴雪的凶猛阻击，同行的脚夫劝子路歇脚，子路却连连摇头说：“天黑前赶不回家绝对不行！” | Miànduì shānlù shàng kuángfēng-bàoxuě de xiōngměng zǔjī, tóngxíng de jiǎofū quàn Zǐlù xiējiǎo, Zǐlù què liánlián yáotóu shuō: "Tiānhēi qián gǎn bù huí jiā juéduì bùxíng!" | Facing the fierce onslaught of the blizzard, a fellow porter urged Zilu to rest, but Zilu shook his head: "Failing to reach home before dark is out of the question!" | Frente al azote de la ventisca en el sendero, un arriero le sugirió hacer un alto, pero Zilu negó con la cabeza: "¡No llegar a casa antes del anochecer es inaceptable!".
+  #2 | 该方案在抗震设防与消防疏散指标上存在多处重大隐患，安全评估专家一致判定绝对不行，必须推倒重来。 | Gāi fāng'àn zài kàngzhèn shèfáng yǔ xiāofáng shūsàn zhǐbiāo shàng cúnzài duō chù zhòngdà yǐnhuàn, ānquán pínggū zhuānjiā yízhì pàndìng juéduì bùxíng, bìxū tuīdǎo-chónglái. | The proposal contained major hazards in seismic and fire evacuation metrics; safety experts unanimously declared it unacceptable, requiring a complete redesign. | La propuesta presentaba graves riesgos en resistencia sísmica y evacuación; los inspectores dictaminaron que no servía en absoluto y debía rediseñarse desde cero.
+
+collocations[6]{hanzi,en}:
+  绝对不行 | absolutely out of the question
+  累得不行 | terribly exhausted
+  能力不行 | lack capability; incompetent
+  冻得不行 | freezing terribly
+  非去不可不行 | won't do unless going
+  身体不行了 | failing health; dying
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  行尸走肉 | xíng shī zǒu ròu | walking corpse; person with no drive or spirit
+  各行其是 | gè xíng qí shì | each goes their own way
+  言行一致 | yán xíng yí zhì | words match deeds; walk the talk
+  势在必行 | shì zài bì xíng | circumstances demand immediate action
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  不 | bù | not; negative prefix | no; negación | 一 | one | 一 (sky / boundary) | 𠀉 (sprout striving to emerge but blocked) | 4 | 单一结构 | Ancient pictograph of a seed calyx or bird flying up to the sky unable to pierce through, indicating negation. | A seed trying to sprout blocked below the soil boundary line (一). | Una semilla que intenta brotar pero queda frenada bajo la línea del suelo (一). | 51 | MF | ""
+  行 | xíng | walk; go; competent; okay | caminar; ir; competente; viable | 行 | step / crossroads | 彳 (left side of road/intersection) | 亍 (right side of road/intersection) | 6 | 左右结构 | Pictographic depiction of a four-way crossroads or bustling road intersection, extending to walking, moving forward, viability, and capability. | Stepping confidently through a four-way crossroads (行) to achieve a destination. | Avanzar con paso firme por un cruce de cuatro caminos (行) culminando el viaje con éxito. | 35 | HONH | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When a negative barrier (不) blocks your ability to walk or succeed across the crossroads (行), the plan is no good and won't do (不行).
+  composite_memory_hook_es: Cuando una barrera negativa (不) frena tu paso en la encrucijada del camino (行), el intento no sirve y no puede ser (不行).
+  cultural_and_cognitive_roots: In colloquial Chinese syntax, 不行 possesses great pragmatic versatility, functioning as an emphatic prohibition, an evaluation of incompetence, or an extreme degree complement.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by rising 2nd tone: bù xíng -> bú xíng (35-35). 'bù' undergoes tone sandhi before 2nd tone 'xíng' to become 2nd tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    木 | mù | wood; tree | Has two lower diagonal branches instead of 𠀉
+    本 | běn | root; book | Has base horizontal line
+    街 | jiē | street | Has 圭 inside the two halves of 行
+    衍 | yǎn | develop; spread | Has 氵 (water) inside the two halves of 行
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    不过 | bú guò | only; but; however
+    不然 | bù rán | otherwise; or else
+    行动 | xíng dòng | action; take action
+    行人 | xíng rén | pedestrian
+
+semantic_boundary_contrasts:
+  core_nuance: 不行 indicates that something is unacceptable, unviable, inadequate, or describes extreme degrees of intensity.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 不行 vs. 不能 | bùnéng | 不行 evaluates viability, competence, or quality, whereas 不能 specifically expresses inability due to external restrictions or objective physical rules.
+    2 | 不行 vs. 不可以 | bù kěyǐ | 不行 is blunt, oral, and categorical, whereas 不可以 is polite and standard for denying permission or instructing rules.
+    3 | 不行 vs. 不成 | bùchéng | 不行 can function as a predicate adjective, adverbial complement, or exclamation, whereas 不成 is primarily used at the end of rhetorical questions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 虽然寒气逼人，两腿冻得发抖，但子路心里清楚：如果自己半途停下，老迈的双亲今晚就无米下锅。他不断告诫自己：“绝不行停下来，哪怕再冷再累也要赶回去！” | Suīrán hánqì-bīrén, liǎng tuǐ dòng de fādǒu, dàn Zǐlù xīnlǐ qīngchu: rúguǒ zìjǐ bàntú tíngxià, lǎomài de shuāngqīn jīnwǎn jiù wú mǐ xià guō. Tā búduàn gàojiè zìjǐ: "Jué bùxíng tíng xiàlái, nǎpà zài lěng zài lèi yě yào gǎn huíqù!" | Though the cold pierced deep and his legs shook, Zilu knew that if he halted, his parents would have no rice for dinner. He told himself repeatedly: "Stopping is out of the question; no matter how cold or tired, I must reach home!" | Aunque el frío calaba hasta los huesos y sus piernas temblaban, Zilu sabía que si se detenía sus padres no tendrían qué cenar. Se repetía sin cesar: "¡De ninguna manera puedo parar; por más frío y cansancio que sienta, he de llegar!".
+  #2 | 现代项目质量管理遵循严苛的标准红线，任何细微的数据偏差与工序缺陷在验收环节都被判定为“不行”。唯有建立全流程零缺陷的质量监控体系，杜绝马虎敷衍的侥幸心理，才能打造出经得起严苛市场检验的卓越产品。 | Xiàndài xiàngmù zhìliàng guǎnlǐ zūnxún yánkē de biāozhǔn hóngxiàn, rènhé xìwēi de shùjù piānchā yǔ gōngxù quēxiàn zài yànshōu huánjié dōu bèi pàndìng wéi "bùxíng". Wéiyǒu jiànlì quánliúchéng líng-quēxiàn de zhìliàng jiānkòng tǐxì, dùjué mǎhu fūyǎn de jiǎoxìng xīnlǐ, cáinéng dǎzào chū jīngdeqǐ yánkē shìchǎng jiǎnyàn de zhuóyuè chǎnpǐn. | Modern quality control enforces strict red lines; any minute discrepancy or defect is ruled unacceptable. Only by establishing zero-defect oversight and eliminating complacency can organizations deliver products that survive scrutiny. | La gestión moderna de calidad impone estrictos controles; cualquier fallo o desviación es calificado como inaceptable. Solo mediante una vigilancia rigurosa y sin tolerar la desidia se obtienen productos de excelencia que triunfan en el mercado.

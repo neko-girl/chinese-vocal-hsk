@@ -1,0 +1,63 @@
+id: 1
+hanzi: 省
+pinyin: shěng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: province; administrative division; economize; save; omit
+  es: provincia; división administrativa; ahorrar; economizar; omitir
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a primary administrative division of a country; province | provincia; división administrativa de primer orden | 山东省 (Shandong Province)
+  2 | Verb | Standard | to economize; to save money, energy, or time; to omit | ahorrar; economizar; prescindir; omitir | 省吃俭用 (live frugally)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他大学毕业后选择回到自己的家乡省份工作，为当地的基础教育贡献一份力量。 | Tā dàxué bìyè hòu xuǎnzé huídào zìjǐ de jiāxiāng shěngfèn gōngzuò, wèi dāngdì de jīchǔ jiàoyù gòngxiàn yí fèn lìliang. | After graduating from university, he chose to return to his home province to work, contributing to local basic education. | Tras graduarse de la universidad, optó por regresar a su provincia natal a trabajar, contribuyendo a la educación básica local.
+  #2 | 该省近年来积极推动绿色低碳转型，高新技术产业在区域经济中的比重大幅提升。 | Gāi shěng jìnniánlái jījí tuīdòng lǜsè dītàn zhuǎnxíng, gāoxīnjìshù chǎnyè zài qūyù jīngjì zhōng de bǐzhòng dàfú tíshēng. | In recent years, the province has actively promoted green low-carbon transformation, substantially increasing the share of high-tech industries in the regional economy. | En los últimos años, la provincia ha impulsado activamente la transición ecológica baja en carbono, elevando notablemente el peso de la alta tecnología en la economía regional.
+
+collocations[6]{hanzi,en}:
+  全省 | the whole province
+  省会 | provincial capital
+  省政府 | provincial government
+  省吃俭用 | live frugally; save on food and expenses
+  节省开支 | cut down on expenses; save costs
+  省心省力 | save worry and effort
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  省吃俭用 | shěng chī jiǎn yòng | pinch and scrape; economize on food and clothing
+  多事之秋 | duō shì zhī qiū | eventful autumn; turbulent period with many crises
+  克勤克俭 | kè qín kè jiǎn | industrious and frugal
+  节衣缩食 | jié yī suō shí | tighten one's belt; live economically
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  省 | shěng | province; economize; inspect | provincia; ahorrar; inspeccionar | 目 | eye | 目 (eye, observing closely) | 少 (shǎo, small/few) | 9 | 上下结构 | Ideogram combining 少 (diminish/few) and 目 (eye): to inspect closely so as to reduce flaws or trim expenditures. | Narrow your eyes (目) slightly (少) to closely inspect accounts and trim unnecessary expenses. | Entrecierra los ojos (目) un poco (少) para inspeccionar cuentas y recortar gastos innecesarios. | 214 | FBU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Narrow your eyes (目) to keep waste small (少), governing a province (省) with careful thrift.
+  composite_memory_hook_es: Entrecierra los ojos (目) para mantener el gasto escaso (少), gobernando la provincia (省) con estricto ahorro.
+  cultural_and_cognitive_roots: Originally referring to imperial palace chambers and inspection bureaus (三省六部), 'shěng' evolved into China's primary provincial administrative units during the Yuan dynasty.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 3rd tone (214 dip). As a polyphone, it is read as 'xǐng' (35) in 反省 (self-reflect) or 探省 (visit parents), but 'shěng' (214) for province and economizing.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    雀 | què | sparrow | Has 隹 (short-tailed bird) below instead of 目 (eye)
+    相 | xiāng | mutual; appearance | Has 木 (tree) on the left of 目, not 少 on top
+    看 | kàn | look; see | Has 手 (hand) over 目 instead of 少 (few)
+    秒 | miǎo | second (time) | Has 禾 (grain) next to 少 instead of 目 underneath
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    少 | shǎo | few; little
+    沙 | shā | sand; tiny particles
+    妙 | miào | wonderful; subtle
+    眇 | miǎo | blind in one eye; minute
+
+semantic_boundary_contrasts:
+  core_nuance: 省 designates the first-level administrative province in China, or the verbal action of saving resources.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 省 vs. 县 | xiàn | 省 is a province (top-level territorial jurisdiction), whereas 县 is a county subordinate to municipal and provincial governments.
+    2 | 省 vs. 节约 | jiéyuē | 省 as a verb is informal and monosyllabic meaning to omit or save, while 节约 is a formal disyllabic verb/noun emphasizing systemic thrift.
+    3 | 省 vs. 减 | jiǎn | 省 focuses on sparing effort, time, or cost entirely, whereas 减 denotes arithmetic subtraction or gradual quantitative reduction.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走遍大半个中国，每个省都有其独具韵味的风土人情。江南水乡的温婉清丽，西北高原的辽阔苍茫，都在这片辽阔土地上交织出斑斓的画卷。离开故省越久，心中那份乡土依恋反而愈发醇厚。 | Zǒu biàn dà bàn gè Zhōngguó, měi gè shěng dōu yǒu qí dújù yùnwèi de fēngtǔ rénqíng. Jiāngnán shuǐxiāng de wēnwǎn qīnglì, xīběi gāoyuán de liáokuò cāngmáng, dōu zài zhè piàn liáokuò tǔdì shàng jiāozhī chū bānlán de huàjuàn. Líkāi gùshěng yuè jiǔ, xīnzhōng nà fèn xiāngtǔ yīliàn fǎnéryùfā chúnhòu. | Traveling across most of China, every province reveals its unique local customs. The gentle elegance of southern water towns and the vast desolation of northwestern plateaus weave a splendid tapestry. The longer one is away from one's home province, the deeper the nostalgic yearning grows. | Al recorrer gran parte de China, cada provincia revela costumbres y encantos únicos. La suavidad sureña y la inmensidad de las mesetas noroccidentales entretejen un tapiz espléndido. Cuanto más lejos se está de la provincia natal, más profundo se vuelve el arraigo nostálgico.
+  #2 | 随着区域协调发展战略的深入推进，各省之间的经济协作与基础设施互联互通迈入新阶段。跨省产业转移不仅优化了要素资源配置，更缩小了中西部省份与沿海发达地区的差距，为国内大循环注入了持久动力。 | Suízhe qūyù xiétiáo fāzhǎn zhànlüè de shēnrù tuījìn, gè shěng zhījiān de jīngjì xiézuò yǔ jīchǔ shèshī hùlián hùtōng màirù xīn jiēduàn. Kuà shěng chǎnyè zhuǎnyí bùjǐn yōuhuà le yàosù zīyuán pèizhì, gèng suōxiǎo le zhōngxīběi shěngfèn yǔ yánhǎi fādá dìqū de chājù, wèi guónèi dà xúnhuán zhùrù le chíjiǔ dònglì. | With coordinated regional development strategies deepening, economic cooperation and infrastructure connectivity among provinces have entered a new era. Interprovincial industrial transfers optimize resource allocation and narrow the gap between central-western provinces and coastal regions. | Con el avance del desarrollo regional coordinado, la cooperación económica y la conectividad infraestructural entre provincias alcanzan una nueva fase. La reubicación interprovincial optimiza recursos y reduce la brecha entre el interior y la costa.

@@ -1,0 +1,65 @@
+id: 4
+hanzi: 名胜古迹
+pinyin: míng shèng gǔ jì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: famous scenic spots and historic sites; historical landmarks; cultural heritage attractions
+  es: lugares de interés histórico y turístico; monumentos históricos; sitios pintorescos y reliquias
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | renowned tourist attractions distinguished by both outstanding scenery and preserved historical significance | lugares célebres reconocidos por sus paisajes notables y patrimonio histórico milenario | 游览名胜古迹 (tour scenic spots and historic sites)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 假期里，我们全家来到这座历史文化名城，游览了许多保存完好的名胜古迹与皇家园林。 | Jiàqī lǐ, wǒmen quánjiā láidào zhè zuò lìshǐ wénhuà míngchéng, yóulǎn le xǔduō bǎocún wánhǎo de míngshèng gǔjì yǔ huángjiā yuánlín. | During the vacation, our whole family visited this cultural city, exploring many well-preserved historic sites and imperial gardens. | Durante las vacaciones, nuestra familia visitó esta urbe histórica, recorriendo numerosos monumentos y jardines imperiales bien conservados.
+  #2 | 当地文旅局通过数字化手段对名胜古迹展开系统性保护，让游客身临其境地感受千年文明的魅力。 | Dāngdì wénlǚjú tōngguò shùzìhuà shǒuduàn duì míngshèng gǔjì zhǎnkāi xìtǒngxìng bǎohù, ràng yóukè shēnlínqíjìng de gǎnshòu qiānnián wénmíng de mèilì. | The local tourism bureau employs digital technology to protect historic sites systematically, enabling visitors to immerse themselves in millennia of heritage. | El departamento de turismo aplica tecnología digital para proteger monumentos históricos sistemáticamente, permitiendo a los turistas vivir el esplendor milenario.
+
+collocations[6]{hanzi,en}:
+  游览名胜古迹 | visit scenic spots and historic sites
+  保护名胜古迹 | protect historical landmarks
+  著名的名胜古迹 | world-renowned historic sites
+  探访名胜古迹 | explore heritage monuments
+  名胜古迹众多 | packed with historical attractions
+  宣传名胜古迹 | promote cultural heritage attractions
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  名胜古迹 | míng shèng gǔ jì | scenic spots and historic monuments
+  古色古香 | gǔ sè gǔ xiāng | antique flavor; possessing ancient charm and classical style
+  不可磨灭 | bù kě mó miè | indelible; everlasting mark on history
+  胜友如云 | shèng yǒu rú yún | gathering of distinguished and noble friends
+
+character_decomposition[4]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  名 | míng | name; fame; reputation | nombre; fama; renombre | 口 | mouth | 口 (mouth, calling out) | 夕 (evening, dusk) | 6 | 上下结构 | In the darkness of night (夕), people had to call out their identities with their mouths (口) so they could be identified. | When evening (夕) darkness arrives, shout your name with your mouth (口) to make yourself famous. | Al caer la noche (夕), gritas con la boca (口) para que todos reconozcan tu prestigioso nombre. | 35 | NIR | ""
+  胜 | shèng | victory; surpass; wonderful scenery | victoria; superar; paraje hermoso | 月 | meat / flesh | 月 (meat / body, simplified from 舟/肉) | 券/朕 (simplified element) | 9 | 左右结构 | Phono-semantic compound denoting capacity to triumph, endure, or possess extraordinary scenic perfection. | With muscular vitality (月), one climbs the high peak to behold a scenery that surpasses (胜) all others. | Con vigor físico (月), asciendes a la cumbre para contemplar un paisaje que supera (胜) toda expectativa. | 51 | BFQ | 勝
+  古 | gǔ | ancient; old; classic | antiguo; ancestral; clásico | 口 | mouth | 口 (mouth, passing oral tradition) | 十 (ten, ten generations) | 5 | 上下结构 | Ideogram combining 十 (ten generations) passed down through the mouth (口) across centuries. | Words told by mouth (口) across ten (十) consecutive generations preserve ancient (古) legends. | Relatos transmitidos de boca (口) durante diez (十) generaciones conservan las leyendas antiguas (古). | 214 | JR | ""
+  迹 | jì | trace; mark; vestige; monument | rastro; huella; vestigio; monumento | 辶 | walking / movement | 辶 (movement on a path) | 亦 (phonetic marker) | 9 | 半包围结构 | Phono-semantic compound with walking radical 辶 signifying the physical footstep impressions left behind by travelers. | Walking (辶) along the road leaves indelible traces (迹) and echoes of footsteps from the past. | Caminar (辶) por el sendero deja huellas indelebles (迹) y ecos de pisadas del pasado milenario. | 51 | YCYC | 跡
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Historic names (名) and superior landscapes (胜) left by ancient (古) dynasties remain as enduring vestiges (迹) to visit today.
+  composite_memory_hook_es: Nombres célebres (名) y paisajes insuperables (胜) dejados por ancestros antiguos (古) forman las huellas (迹) de la historia.
+  cultural_and_cognitive_roots: Chinese cultural geography pairs 'míngshèng' (landscapes celebrated in literature and poetry) with 'gǔjì' (palaces, temples, and steles), forming an inseparable pair of scenic beauty and classical memory.
+  tone_sandhi_and_pitch_modulation: Pronounced with pitch contours 35-51-214-51. Note that 'gǔ' dips to 214 before rising sharply to the falling 4th tone 'jì' (51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    各 | gè | each; every | Has 夂 (walk slowly) on top of 口 instead of 夕 (evening) in 名
+    生 | shēng | give birth; live | Has a horizontal base stroke without radical 月 in 胜
+    舌 | shé | tongue | Has a slanted slash 千 intersecting 口, differing from 古 (十 + 口)
+    峦 | luán | mountain peaks | Has 山 (mountain) at base with 亦 variant on top, unrelated to 迹
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    称 | chēng | weigh; call; title
+    利 | lì | sharp; benefit; victory
+    故 | gù | past; ancient; reason
+    遗 | yí | lose; leave behind; relic
+
+semantic_boundary_contrasts:
+  core_nuance: 名胜古迹 is a fixed four-character idiom/noun explicitly blending scenic natural landscapes with authentic historic monuments.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 名胜古迹 vs. 旅游景点 | lǚyóu jǐngdiǎn | 旅游景点 refers broadly to any tourist attraction including modern theme parks, while 名胜古迹 strictly requires historical and cultural heritage.
+    2 | 名胜古迹 vs. 文物 | wénwù | 文物 designates portable or immobile historical relics/antiquities, whereas 名胜古迹 refers to whole geographic sites, shrines, and landscapes.
+    3 | 名胜古迹 vs. 风景名胜 | fēngjǐng míngshèng | 风景名胜 emphasizes pristine natural landscapes with scenic acclaim, whereas 名胜古迹 highlights historic architectural relics and antique ruins.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 穿行于青砖古道之间，抚摸斑驳的石刻与苍劲的古柏，名胜古迹宛若无声的史诗。风吹雨打洗去了昔日的繁华浮华，却沉淀出文明的厚重。立于城墙远眺，仿佛能听见千年前金戈铁马的壮烈回响。 | Chuānxíng yú qīngzhuān gǔdào zhījiān, fǔmō bānbó de shíkè yǔ cāngjìn de gǔbǎi, míngshèng gǔjì wǎnrù wúshēng de shǐshī. Fēng chuī yǔ dǎ xǐqù le xīrì de fánhuá fúhuá, què chéndiàn chū wénmíng de hòuzhòng. Lì yú chéngqiáng yuǎntiào, fǎngfú néng tīngjiàn qiānnián qián jīngē tiěmǎ de zhuàngliè huíxiǎng. | Strolling between grey-brick lanes, touching mottled steles and ancient cypresses, historic monuments stand as silent epics. Centuries of weathering washed away past vanity, leaving behind civilizational depth. Gazing from ramparts, echoes of valiant history still resonate. | Caminando por antiguos senderos de piedra, acariciando estelas y cipreses milenarios, los monumentos históricos se yerguen como epopeyas mudas. El paso del tiempo disipó la pompa superflua, decantando la hondura de la civilización. Desde la muralla, resuenan ecos memorables.
+  #2 | 保护历史文化遗产与名胜古迹，是维系民族文化认同的基石。在新型城镇化建设中，许多历史名城坚持“修旧如旧”的原则，让古老建筑与现代生活和谐相融，使传统文化基因在新时代焕发持久生机。 | Bǎohù lìshǐ wénhuà yíchǎn yǔ míngshèng gǔjì, shì wéixì mínzú wénhuà rèntóng de jīshí. Zài xīnxíng chéngzhènhuà jiànshè zhōng, xǔduō lìshǐ míngchéng jiānchí "xiū jiù rú jiù" de yuánzé, ràng gǔlǎo jiànzhù yǔ xiàndài shēnghuó héxié xiāngróng, shǐ chuántǒng wénhuà jīyīn zài xīn shídài huànfā chíjiǔ shēngjī. | Preserving cultural heritage and historic landmarks is foundational to maintaining cultural identity. In modern urban renewal, historic cities adhere to authentic restoration principles, allowing historic architecture to harmonize with modern life and thrive. | Proteger el patrimonio y los monumentos históricos es la base de la identidad cultural. En la urbanización contemporánea, urbes históricas restauran respetando la autenticidad, logrando que vestigios ancestrales convivan con el pulso moderno con renovado vigor.

@@ -514,45 +514,95 @@ function renderActionBar(cardSide, studyMode) {
   }
 }
 
-// Render Session Complete Screen
-function renderCompletionScreen(stats) {
+// Render Session Complete & Chapter Milestone Screen with Auto-Advance Countdown
+function renderCompletionScreen(stats, currentChapter, nextChapter, countdownRemaining = 5, isAutoAdvanceEnabled = true, isPaused = false, maxCountdown = 5) {
   const container = document.getElementById('detail-container');
   if (!container) return;
 
   const barEl = document.getElementById('anki-action-bar');
   if (barEl) barEl.style.display = 'none';
 
+  const chName = currentChapter?.name || 'Chapter';
+  const chTitle = currentChapter?.title || 'Review Completed';
+  const hasNext = Boolean(nextChapter);
+  const percentFill = isPaused ? 0 : Math.max(0, Math.min(100, (countdownRemaining / (maxCountdown || 5)) * 100));
+
   container.innerHTML = `
-    <div class="round-summary-card">
-      <div class="round-summary-icon">🎉</div>
-      <h2 class="round-summary-title">Chapter Review Round Complete!</h2>
-      <p class="round-summary-desc">You've reached the end of this study session queue.</p>
-      
-      <div class="round-summary-stats">
-        <div class="summary-stat-box">
-          <div class="summary-stat-val" style="color: #10b981;">${stats.remembered}</div>
-          <div class="summary-stat-lbl">Remembered</div>
+    <div class="chapter-milestone-card">
+      <div class="milestone-icon">${hasNext ? '🎉' : '🏆'}</div>
+      <div class="milestone-badge">${hasNext ? 'Chapter Milestone Complete' : 'HSK 5 Curriculum Mastered'}</div>
+      <h2 class="milestone-title">${chName}: ${chTitle}</h2>
+      <p class="milestone-desc">
+        ${hasNext 
+          ? "You've successfully cleared this study round! Every card in this chapter has been actively recalled."
+          : "Magnificent achievement! You have mastered all available vocabulary chapters in this curriculum."}
+      </p>
+
+      <div class="milestone-stats-grid">
+        <div class="milestone-stat-box">
+          <div class="milestone-stat-val" style="color: #10b981;">${stats.remembered}</div>
+          <div class="milestone-stat-lbl">Remembered (🟢)</div>
         </div>
-        <div class="summary-stat-box">
-          <div class="summary-stat-val" style="color: #ef4444;">${stats.dontRemember}</div>
-          <div class="summary-stat-lbl">Lapses (Need Review)</div>
+        <div class="milestone-stat-box">
+          <div class="milestone-stat-val" style="color: ${stats.dontRemember > 0 ? '#ef4444' : 'var(--text-dim)'};">${stats.dontRemember}</div>
+          <div class="milestone-stat-lbl">Lapses Re-tested</div>
         </div>
-        <div class="summary-stat-box">
-          <div class="summary-stat-val" style="color: var(--primary);">${stats.percent}%</div>
-          <div class="summary-stat-lbl">Mastery Rate</div>
+        <div class="milestone-stat-box">
+          <div class="milestone-stat-val" style="color: var(--primary);">${stats.percent}%</div>
+          <div class="milestone-stat-lbl">Mastery Rate</div>
         </div>
       </div>
 
-      <div class="round-summary-actions">
+      ${hasNext && isAutoAdvanceEnabled ? `
+        <div class="auto-advance-box">
+          <div class="auto-advance-header">
+            <span class="auto-advance-title">🚀 Next Up: Automatic Chapter Progression</span>
+            <div class="countdown-pill" id="countdown-pill-el">
+              ${isPaused 
+                ? '<span style="color: #f59e0b;">⏸️ Paused</span>' 
+                : `Next chapter in <span class="seconds-val" id="countdown-seconds-num">${countdownRemaining}</span>s`}
+            </div>
+          </div>
+          <div class="auto-advance-target">${nextChapter.name}: ${nextChapter.title || nextChapter.dir}</div>
+          <div class="auto-advance-meta">${nextChapter.word_count || 38} words · HSK 5 Level</div>
+
+          <div class="countdown-bar-track">
+            <div class="countdown-bar-fill" id="countdown-bar-fill" style="width: ${percentFill}%;"></div>
+          </div>
+        </div>
+      ` : ''}
+
+      <div class="milestone-actions">
+        ${hasNext ? `
+          <button type="button" class="btn-primary-action" onclick="App.skipToNextChapter()" title="Start immediately (Space / Enter)">
+            <span>⏩ Start ${nextChapter.name} Now</span>
+            <kbd class="action-kbd" style="background: rgba(0,0,0,0.25); border-color: rgba(0,0,0,0.3); color: #0b0f19;">Space</kbd>
+          </button>
+          ${isAutoAdvanceEnabled ? (isPaused ? `
+            <button type="button" class="btn-secondary-action" onclick="App.resumeAutoAdvance()">
+              ▶️ Resume Auto-Advance
+            </button>
+          ` : `
+            <button type="button" class="btn-secondary-action" onclick="App.pauseAutoAdvance()">
+              ⏸️ Pause Auto-Advance
+            </button>
+          `) : ''}
+        ` : `
+          <button type="button" class="btn-primary-action" onclick="App.restartFromChapter1()">
+            ↺ Restart From Chapter 1
+          </button>
+        `}
+
         ${stats.dontRemember > 0 ? `
-          <button type="button" class="btn btn-primary" onclick="App.filterByReviewStatus('lapses')">
+          <button type="button" class="btn-secondary-action" style="color: #ef4444; border-color: rgba(239,68,68,0.4);" onclick="App.filterByReviewStatus('lapses')">
             🔴 Review Lapses (${stats.dontRemember})
           </button>` : ''}
-        <button type="button" class="btn" onclick="App.restartQueue()">
-          ↺ Restart Chapter
+
+        <button type="button" class="btn-secondary-action" onclick="App.restartQueue()">
+          ↺ Repeat This Chapter
         </button>
-        <button type="button" class="btn" onclick="App.setStudyMode('browse')">
-          📖 Browse All
+        <button type="button" class="btn-secondary-action" onclick="App.openWordListDrawer()">
+          📑 Open Word List
         </button>
       </div>
     </div>
@@ -592,6 +642,9 @@ function renderBrowseView(w, currentLang) {
           <span class="badge badge-hsk">${w.level || 'HSK 5'}</span>
           <span class="badge badge-pos">${w.part_of_speech}</span>
           ${contour ? `<span class="badge tone-contour-badge">${contour}</span>` : ''}
+          <button type="button" class="btn" style="padding: 2px 10px; font-size: 0.76rem; border-color: var(--primary); color: var(--primary);" onclick="App.studyCurrentWord(${w.id})">
+            🗂️ Study This Card
+          </button>
         </div>
       </div>
       <div class="hero-summary">

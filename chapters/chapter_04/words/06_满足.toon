@@ -1,0 +1,64 @@
+id: 6
+hanzi: 满足
+pinyin: mǎn zú
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to satisfy; to meet (needs/demands); satisfied; content
+  es: satisfacer; cumplir; satisfecho; contento
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to fulfill or meet requirements, desires, or conditions | satisfacer; cumplir con exigencias o necesidades | 满足基本需求 (meet basic needs)
+  2 | Adjective | Standard | feeling contentment and sufficiency with what one has | satisfecho; contento con la situación actual | 感到十分满足 (feel very satisfied)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 只要能看到年迈的父母吃上一碗热米饭，他的心里就会感到无比的幸福与满足。 | Zhǐyào néng kàndào niánmài de fùmǔ chī shang yì wǎn rè mǐfàn, tā de xīnlǐ jiù huì gǎndào wúbǐ de xìngfú yǔ mǎnzú. | As long as he could see his aging parents eat a bowl of hot rice, his heart would feel immense happiness and contentment. | Con solo ver a sus ancianos padres comer un tazón de arroz caliente, su corazón se llenaba de una felicidad y satisfacción inmensas.
+  #2 | 为了满足国际市场对高品质低碳产品的旺盛需求，公司加快了生产线智能化改造的步伐。 | Wèile mǎnzú guójì shìchǎng duì gāopǐnzhì dītàn chǎnpǐn de wàngshèng xūqiú, gōngsī jiākuài le shēngchǎnxiàn zhìnénghuà gǎizào de bùfá. | To meet the robust international demand for high-quality low-carbon products, the company accelerated intelligent upgrades across its production lines. | Para satisfacer la sólida demanda internacional de productos sostenibles de alta calidad, la empresa aceleró la modernización inteligente de sus líneas fabriles.
+
+collocations[6]{hanzi,en}:
+  满足需求 | satisfy demands; meet needs
+  自我满足 | self-satisfied; complacent
+  感到满足 | feel content / satisfied
+  满足条件 | satisfy conditions
+  满足愿望 | fulfill a wish
+  不满足现状 | not satisfied with the status quo
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  知足常乐 | zhī zú cháng lè | contentment brings constant happiness
+  自我陶醉 | zì wǒ táo zuì | indulge in self-admiration
+  心满意足 | xīn mǎn yì zú | perfectly satisfied and contented
+  贪得无厌 | tān dé wú yàn | insatiably greedy; never satisfied
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  满 | mǎn | full; fill; satisfy | lleno; repleto; satisfacer | 氵 | water | 氵 (surging water level) | 㒼 (mǎn / overflowing balance measure) | 13 | 左右结构 | Phono-semantic compound: 氵 (water) rising to the brim of a vessel, symbolizing fullness and completion. | Water (氵) pouring until it overflows the measuring brim. | El agua (氵) llenando una vasija hasta el borde exacto de su capacidad. | 214 | ETMB | 滿
+  足 | zú | foot; sufficient; satisfy | pie; suficiente; satisfacer | 足 | foot | 口 (kneecap or dwelling) | 止 (foot resting firmly on earth) | 7 | 单一结构 | Pictograph of a human leg and foot (止) planted firmly, extending semantically to standing firm, adequacy, and sufficiency. | A foot firmly planted on the ground, representing grounded abundance and enough. | Un pie firmemente apoyado en el suelo, transmitiendo solidez y suficiencia plena. | 35 | RYO | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When water fills a vessel to the brim (满) and the feet stand grounded in sufficiency (足), one feels completely satisfied (满足).
+  composite_memory_hook_es: Cuando el agua colma la vasija (满) y los pies descansan firmes en la abundancia (足), uno se siente plenamente satisfecho (满足).
+  cultural_and_cognitive_roots: Traditional Chinese philosophy teaches that knowing what is enough brings peace and avoids disgrace (知足不辱). 满足 emphasizes inner contentment.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by rising 2nd tone: mǎn zú (214-35). 'mǎn' dips smoothly before transitioning cleanly up to the high crest of 'zú'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    瞒 | mán | conceal; hide truth | Has 目 (eye) radical on the left with 㒼 on the right
+    螨 | mǎn | mite; acarid | Has 虫 (insect) radical on the left with 㒼 on the right
+    定 | dìng | decide; settled | Has 宀 (roof) over 疋/正, resembling 足 in shape
+    捉 | zhuō | catch; grasp | Has 扌 (hand) radical on the left with 足 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    满意 | mǎn yì | satisfied; pleased
+    足够 | zú gòu | enough; sufficient
+    圆满 | yuán mǎn | satisfactory; complete
+    富足 | fù zú | plentiful; affluent
+
+semantic_boundary_contrasts:
+  core_nuance: 满足 conveys both the objective fulfillment of conditions/demands and the subjective psychological feeling of sufficiency.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 满足 vs. 满意 | mǎnyì | 满足 emphasizes fulfilling requirements, appetites, or basic desires, whereas 满意 specifically conveys approval and pleasure toward an outcome or someone's performance.
+    2 | 满足 vs. 充足 | chōngzú | 满足 can function as a transitive verb or emotive adjective, whereas 充足 is purely an objective adjective describing abundant material or temporal supply.
+    3 | 满足 vs. 称心 | chènxīn | 满足 focuses on reaching an internal state of contentment, whereas 称心 means perfectly matching one's ideal taste or expectation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 子路幼年家境贫寒，常常只能吃野菜充饥。然而只要能让父母吃上一顿饱饭，他的心中就感到由衷的满足。真正的孝心不在于财富多寡，而在于倾尽全力的真挚关爱。 | Zǐlù yòunián jiājìng pínhán, chángcháng zhǐ néng chī yècài chōngjī. Rán'ér zhǐyào néng ràng fùmǔ chī shang yí dùn bǎofàn, tā de xīnzhōng jiù gǎndào yóuzhōng de mǎnzú. Zhēnzhèng de xiàoxīn bú zàiyú cáifù duōguǎ, ér zàiyú qīngjìn quánlì de zhēnzhì guān'ài. | In youth, Zilu was very poor and often ate wild greens. Yet as long as he could serve his parents a full meal of rice, his heart felt deep satisfaction. Filial piety lies not in wealth, but in earnest devotion. | En su juventud, Zilu era pobre y comía hierbas silvestres; sin embargo, con conseguir un plato de arroz para sus padres sentía una inmensa satisfacción. La piedad filial no radica en las riquezas, sino en la entrega sincera.
+  #2 | 在现代消费主义社会中，人们往往容易陷入无休止的欲望追逐，而忽视了精神层面的富足。心理学研究表明，学会珍惜已有并满足于简单生活的人，其主观幸福感和心理抗逆力远高于不断追求物质攀比的群体。 | Zài xiàndài xiāofèizhǔyì shèhuì zhōng, rénmen wǎngwǎng róngyì xiànrù wúxiūzhǐ de yùwàng zhuīzhú, ér hūshì le jīngshén céngmiàn de fùzú. Xīnlǐxué yánjiū biǎomíng, xuéhuì zhēnxī yǐyǒu bìng mǎnzú yú jiǎndān shēnghuó de rén, qí zhǔguān xìngfúgǎn hé xīnlǐ kàngnìlì yuǎn gāoyú bùduàn zhuīqiú wùzhì pānbǐ de qúntǐ. | In modern consumer society, people easily fall into relentless material pursuits, neglecting spiritual enrichment. Psychological studies demonstrate that individuals who appreciate what they possess and find contentment in simple living enjoy higher well-being and resilience. | En las sociedades de consumo, es fácil caer en la búsqueda insaciable de bienes descuidando el bienestar interior. La psicología demuestra que quienes valoran lo que tienen y se sienten satisfechos con una vida sencilla alcanzan una mayor felicidad y fortaleza mental.

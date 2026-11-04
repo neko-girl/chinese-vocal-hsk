@@ -1,0 +1,63 @@
+id: 36
+hanzi: 海里
+pinyin: hǎi lǐ
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: nautical mile; sea mile (unit of maritime distance, approx. 1,852 meters)
+  es: milla náutica; milla marina (unidad de distancia marina, aprox. 1.852 metros)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | unit of distance used in maritime and aerial navigation, equal to 1,852 meters | unidad de distancia usada en navegación marítima y aérea (1.852 m) | 航行五十海里 (sail fifty nautical miles)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 帆船以平均六节的航速日夜前行，全家人在两个月内顺利完成了上千海里的远洋航程。 | Fānchuán yǐ píngjūn liù jié de hángsù rìyè qiánxíng, quán jiārén zài liǎng gè yuè nèi shùnlì wánchéng le shàng qiān hǎilǐ de yuǎnyáng hángchéng. | The sailboat advanced day and night at an average speed of six knots, completing over a thousand nautical miles within two months. | El velero navegó día y noche a una media de seis nudos, completando con éxito más de mil millas náuticas en dos meses.
+  #2 | 海事搜救直升机飞赴距海岸线两百海里的外海区域，成功营救出遇险货轮上的受困船员。 | Hǎishì sōujiù zhíshēngjī fēifù jù hǎi'ànxiàn liǎng bǎi hǎilǐ de wàihǎi qūyù, chénggōng yíngjiù chū yùxiǎn huòlún shàng de shòukùn chuányuán. | The maritime rescue helicopter flew 200 nautical miles offshore, successfully rescuing stranded crew members from the distressed freighter. | El helicóptero de salvamento marítimo voló a doscientas millas náuticas mar adentro para rescatar a los marineros de un mercante en apuros.
+
+collocations[6]{hanzi,en}:
+  航行海里 | nautical miles sailed
+  十海里 | ten nautical miles
+  两百海里专属经济区 | 200-nautical-mile Exclusive Economic Zone
+  每小时海里数 | knots / nautical miles per hour
+  数千海里 | thousands of nautical miles
+  一海里 | one nautical mile
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  鹏程万里 | péng chéng wàn lǐ | the roc flies ten thousand li; have a bright, boundless future
+  沧海一粟 | cāng hǎi yí sù | a single grain in the vast blue sea; a tiny drop in the ocean
+  万里之行，始于足下 | wàn lǐ zhī xíng, shǐ yú zú xià | a journey of a thousand li begins with a single step
+  四海为家 | sì hǎi wéi jiā | make one's home anywhere within the four seas; feel at home anywhere
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  海 | hǎi | ocean; sea | mar; océano | 氵 | water / liquid | 氵 (vast rolling ocean waves) | 每 (měi phonetic / maternal fertility and abundance) | 10 | 左右结构 | Phono-semantic compound: boundless waters (氵) embracing every stream like a mother (每). | Vast blue water (氵) stretching infinitely like an all-embracing mother (每). | Inmensas aguas azules (氵) que se extienden como una madre infinita (每). | 214 | EOWY | ""
+  里 | lǐ | li (unit of distance); village; inside | li (unidad de distancia); legua china | 里 | field / village | 田 (cultivated crop fields) | 土 (earth / land boundaries) | 7 | 上下结构 | Ideogrammic compound: marked fields (田) divided by earthen boundary balks (土), ancient unit of distance. | Paced boundaries marked with earth (土) dividing farmers' fields (田) into measurable leagues. | Límites de tierra (土) que demarcan los bancales cultivados (田) en leguas mensurables. | 214 | WG | 裡
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Measuring navigational distance across the vast blue ocean (海) using standardized sea leagues (里) gives the nautical mile (海里).
+  composite_memory_hook_es: Medir las leguas (里) navegadas a través del inmenso mar (海) define la milla náutica (海里).
+  cultural_and_cognitive_roots: The international nautical mile (1,852 meters) corresponds to one minute of latitude on the earth's surface. In modern Chinese maritime law, it designates boundary baselines and exclusive economic zones.
+  tone_sandhi_and_pitch_modulation: Two consecutive dipping 3rd tones: hǎi lǐ (214-214). Under 3rd tone sandhi, 'hǎi' changes into a rising 2nd tone: hái lǐ (35-214).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    海 | hǎi | sea; ocean | Has 氵 on the left and 每 on the right
+    梅 | méi | plum | Has 木 on the left with 每
+    里 | lǐ | mile; inside | Composed of 田 top and 土 bottom
+    重 | zhòng | heavy; repeat | Has vertical stroke cutting through center
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    海洋 | hǎi yáng | ocean; sea
+    里程 | lǐ chéng | mileage; milestone
+    公里 | gōng lǐ | kilometer
+    华里 | huá lǐ | traditional Chinese li (500 meters)
+
+semantic_boundary_contrasts:
+  core_nuance: 海里 is strictly the maritime and aviation unit of distance (1 nautical mile = 1.852 km).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 海里 vs. 公里 | gōnglǐ | 海里 is used exclusively in marine navigation and aviation (1海里 = 1.852公里), while 公里 (kilometer) is the universal metric land distance unit.
+    2 | 海里 vs. 里 | lǐ | 海里 is a nautical mile, whereas 里 refers to the traditional Chinese land unit of 500 meters (半公里).
+    3 | 海里 vs. 节 | jié | 海里 is a unit of absolute spatial distance, whereas 节 (knot) is a unit of navigational speed (1节 = 1海里/小时).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 航海日志上的每一个数字，都凝聚着全家人的汗水与梦想。每一海里的推进，都伴随着与洋流和季风的搏击。当帆船终于跨越数千海里抵达彼岸，那些在风浪中丈量的距离，已化作生命中最坚实、最辉煌的勋章。 | Hánghǎi rìzhì shàng de měi yí gè shùzì, dōu níngjù zhe quán jiārén de hànshuǐ yǔ mèngxiǎng. Měi yì hǎilǐ de tuījìn, dōu bànsuí zhe yǔ yángliú hé jìfēng de bójī. Dāng fānchuán zhōngyú kuàyuè shù qiān hǎilǐ dǐdá bǐ'àn, nàxiē zài fēnglàng zhōng zhàngliáng de jùlí, yǐ huàzuò shēngmìng zhōng zuì jiānshí, zuì huīhuáng de xūnzhāng. | Every figure in the logbook distills family sweat and aspirations. Every nautical mile gained fought ocean currents and monsoons. Surmounting thousands of miles, distances measured in tempests become life's proudest medals. | Cada número del cuaderno de bitácora destila sudor y sueños. Cada milla náutica ganada fue un pulso con las corrientes y el viento. Al salvar miles de millas hasta la otra orilla, la distancia se tornó en la más brillante medalla vital.
+  #2 | 国际海洋法公约明确规定了两百海里专属经济区的法律制度，赋予沿海国勘探、开发和养护自然资源的主权权利。海事执法编队定期对专属经济区海域展开例行巡航，有效维护了国家海洋权益与海洋生物资源的可持续开发秩序。 | Guójì hǎiyángfǎ gōngyuē míngquè guīdìng le liǎng bǎi hǎilǐ zhuānshǔ jīngjìqū de fǎlǜ zhìdù, fùyǔ yánhǎiguó kāntàn, kāifā hé yǎnghù zìrán zīyuán de zhǔquán quánlì. Hǎishì zhífǎ biānduì dìngqī duì zhuānshǔ jīngjìqū hǎiyù zhǎnkāi lìxíng xúnháng, yǒuxiào wéihù le guójiā hǎiyáng quányì yǔ hǎiyáng shēngwù zīyuán de kěchíxù kāifā zhìxù. | The UN Convention on the Law of the Sea establishes 200-nautical-mile Exclusive Economic Zones, granting sovereign rights to coastal states. Maritime patrols in EEZ waters safeguard territorial marine interests and sustainable aquaculture exploitation. | La Convención sobre el Derecho del Mar reconoce la Zona Económica Exclusiva de doscientas millas náuticas, otorgando derechos soberanos a los Estados ribereños. Las patrullas regulares protegen los recursos marinos y el orden sostenible.

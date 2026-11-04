@@ -1,0 +1,63 @@
+id: 28
+hanzi: 着火
+pinyin: zháo huǒ
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to catch fire; to ignite; to be on fire; to burn
+  es: incendiarse; prender fuego; arder; coger fuego
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to catch fire or begin burning (of buildings, ships, forests, materials) | comenzar a arder; prender fuego; incendiarse | 仓库着火了 (the warehouse caught fire)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 航海过程中最可怕的隐患之一是电气线路短路导致船舱着火，全船必须随时备好灭火器。 | Hánghǎi guòchéng zhōng zuì kěpà de yǐnhuàn zhīyī shì diànqì xiànlù duǎnlù dǎozhì chuáncāng zháohuǒ, quán chuán bìxū suíshí bèi hǎo mièhuǒqì. | One of the most terrifying hazards at sea is an electrical short causing cabins to catch fire; extinguishers must stand ready at all times. | Uno de los mayores peligros en la navegación es que un cortocircuito incendie la cabina; a bordo es obligatorio tener extintores a punto.
+  #2 | 老旧居民楼因电动车违规充电不幸着火，消防官兵在浓烟滚滚中迅速架设云梯疏散受困群众。 | Lǎojiù jūmínlóu yīn diàndòngchē wéiguī chōngdiàn bùxìng zháohuǒ, xiāofáng guānbīng zài nóngyān gǔngǔn zhōng xùnsù jiàshè yúntī shūsàn shòukùn qúnzhòng. | An old apartment block caught fire due to illicit e-bike charging, prompting firefighters to raise ladders through dense smoke to evacuate residents. | Un viejo bloque de viviendas se incendió por la recarga indebida de una moto; los bomberos desplegaron escalas entre el humo para evacuar a los vecinos.
+
+collocations[6]{hanzi,en}:
+  着火点 | ignition point; fire spot
+  不慎着火 | accidentally catch fire
+  防止着火 | prevent catching fire
+  着火报警 | fire alarm report
+  船舱着火 | cabin catches fire
+  森林着火 | forest catches fire
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  后院着火 | hòu yuàn zháo huǒ | fire in one's backyard; trouble or rebellion arising from one's own camp
+  引火烧身 | yǐn huǒ shāo shēn | draw fire against oneself; court disaster
+  救火扬沸 | jiù huǒ yáng fèi | stir boiling water to stop it; adopt counterproductive methods to solve problems
+  火上浇油 | huǒ shàng jiāo yóu | pour oil onto the fire; aggravate an already inflammatory situation
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  着 | zháo | touch; catch; ignite | tocar; encender; arder | 目 | eye | 羊 (yáng phonetic / horns or wool) | 目 (eye watching closely or coming in contact) | 11 | 上下结构 | Phono-semantic compound: woolly horns (羊) coming in direct physical contact (目) with heat to ignite. | Dry sheep fleece (羊) brushing against an open flame right before your eyes (目), catching fire instantly. | Lana seca (羊) que roza una llama ante tus propios ojos (目), prendiendo fuego en un instante. | 35 | TQBU | 著
+  火 | huǒ | fire; flame; anger | fuego; llama; ira | 火 | fire / flame | 火 (pictograph of rising leaping flames) | "" | 4 | 独体结构 | Ancient pictograph of flickering, crackling flames leaping upwards from burning firewood. | Twin sparks flying outward from a central tongue of blazing fire (火). | Dos chispas que saltan a ambos lados de una lengua de fuego ardiente (火). | 214 | F | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When combustible materials come into direct contact (着) with a spark, they immediately catch fire (着火).
+  composite_memory_hook_es: Cuando una chispa entra en contacto (着) con material combustible, prende fuego al instante (着火).
+  cultural_and_cognitive_roots: In maritime culture, fire on a wooden vessel at sea was historically more feared than drowning, giving rise to strict taboos and fire-watch disciplines aboard traditional junks.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by a dipping 3rd tone: zháo huǒ (35-214). Notice that '着' here is read as 'zháo' (2nd tone), NOT 'zhe' or 'zhuó'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    着 | zháo / zhe | touch; aspect marker | Composed of 羊 top and 目 bottom
+    看 | kàn | look; see | Composed of 手 (hand) shading 目 (eye)
+    火 | huǒ | fire | Four strokes with two outer dots
+    灭 | miè | extinguish; destroy | Has a horizontal stroke 一 smothering 火
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    急着 | jí zháo | anxious; in a hurry
+    着凉 | zháo liáng | catch a cold
+    火焰 | huǒ yàn | flame; blaze
+    火灾 | huǒ zāi | fire disaster; conflagration
+
+semantic_boundary_contrasts:
+  core_nuance: 着火 emphasizes the beginning or ongoing state of catching fire and burning uncontrollably.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 着火 vs. 点火 | diǎnhuǒ | 着火 is typically accidental or natural catching fire (森林着火), whereas 点火 is the deliberate intentional act of igniting or lighting a flame (点火起飞, 点火做饭).
+    2 | 着火 vs. 燃烧 | ránshāo | 着火 emphasizes the accident of catching fire, while 燃烧 is the formal scientific or descriptive term for combustion and burning (燃料燃烧).
+    3 | 着火 vs. 起火 | qǐhuǒ | 着火 is the common spoken verb, whereas 起火 is more formal, commonly used in police and accident investigation reports (起火原因).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 茫茫夜海中，水手们最警惕的便是船舱着火。木质与玻璃钢结构的船体一旦遭遇明火，海风将迅速助长火势。每一次出海前对电路线路的仔细排查，都是对全船航行安全最庄严的誓言。 | Mángmáng yèhǎi zhōng, shuǐshǒumen zuì jǐngtì de biàn shì chuáncāng zháohuǒ. Mùzhì yǔ bōligāng jiégòu de chuántǐ yídàn zāoyù mínghuǒ, hǎifēng jiāng xùnsù zhùzhǎng huǒshì. Měi yí cì chūhǎi qián duì diànlù xiànlù de zǐxì páichá, dōu shì duì quán chuán hángxíng ānquán zuì zhuāngyán de shìyán. | In the nocturnal sea, sailors dread cabin fires above all. Should fiberglass or wood contact an open flame, ocean winds fan blazes furiously. Inspecting electrical circuits before casting off forms an inviolable oath of safe passage. | En la noche marina, los tripulantes temen el fuego en la cabina más que nada. Si el casco de madera o fibra roza una llama, el viento aviva el incendio con furia. Revisar los circuitos antes de zarpar es un juramento de seguridad sagrado.
+  #2 | 城市高层建筑消防安全专项整治行动重点聚焦外墙保温材料阻燃性能与消防通道畅通情况。数据分析显示，私搭乱接电线是诱发建筑着火的主要诱因。通过推广智能烟感联网报警装置，城市应急管理部门能够实现火情秒级预警与初期扑救联动。 | Chéngshì gāocéng jiànzhù xiāofáng ānquán zhuānxiàng zhěngzhì xíngdòng zhòngdiǎn jùjiāo wàiqiáng bǎowēn cáiliào zǔrán xìngnéng yǔ xiāofáng tōngdào chàngtōng qíngkuàng. Shùjù fēnxī xiǎnshì, sīdāluànjiē diànxiàn shì yòufā jiànzhù zháohuǒ de zhǔyào yòuyīn. Tōngguò tuīguǎng zhìnéng yāngǎn liánwǎng bàojǐng zhuāngzhì, chéngshì yìngjí guǎnlǐ bùmén nénggòu shíxiàn huǒqíng miǎojí yùjǐng yǔ chūqī pūjiù liándòng. | Urban high-rise fire safety campaigns prioritize exterior insulation flame retardancy and unobstructed emergency lanes. Illegal wiring sparks most structural fires. Implementing networked smoke alarms allows municipal teams to detect blazes and mount rapid suppression. | La prevención contra incendios en rascacielos se centra en aislamientos ignífugos y vías de evacuación despejadas. El cableado clandestino es la principal causa de fuegos. Los detectores inteligentes permiten alertar en segundos y sofocar conatos de inmediato.

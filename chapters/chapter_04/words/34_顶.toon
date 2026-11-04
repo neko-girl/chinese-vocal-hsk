@@ -1,0 +1,64 @@
+id: 34
+hanzi: 顶
+pinyin: dǐng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to push against; to withstand; to carry on the head; crown of head; classifier for hats
+  es: empujar contra; resistir; sostener; coronilla; clasificador de sombreros
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to push against, withstand, or brave adverse forces (wind, pressure, cold) | resistir; desafiar; hacer frente a fuerzas adversas | 顶风冒雪 (brave wind and snow)
+  2 | Noun | Standard | top or summit of an object; crown of the head | cumbre; cima; coronilla | 山顶 (mountain top)
+  3 | Measure Word | Standard | classifier for hats, caps, tents | clasificador para sombreros, gorras, tiendas | 一顶帽子 (a hat)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对呼啸肆虐的刺骨寒风与漫天冰雪，子路咬紧牙关顶风冒雪，在崇山峻岭间步步前行。 | Miànduì hūxiào-sìnüè de cìgǔ hánfēng yǔ màntiān bīngxuě, Zǐlù yǎojǐn yáguān dǐngfēng-màoxuě, zài chóngshān-jùnlǐng jiān bùbù qiánxíng. | Facing howling, bone-chilling gales and whirling ice and snow, Zilu gritted his teeth and braved the headwinds, advancing step by step across lofty mountain ranges. | Frente a vendavales helados y ventiscas que aullaban con furia, Zilu apretó los dientes para desafiar el viento y la nieve, avanzando paso a paso por las cumbres escarpadas.
+  #2 | 经过全体抢险队员通宵达旦的顽强拼搏，救援团队终于顶住了百年一遇特大洪峰的猛烈冲击。 | Jīngguò quántǐ qiǎngxiǎn duìyuán tōngxiāo-dádàn de wánqiáng pīnbó, jiùyuán tuánduì zhōngyú dǐngzhù le bǎinián-yíyù tēdà hóngfēng de měngliè chōngjī. | After fighting through the night with tenacious struggle, the emergency rescue team finally withstood the fierce onslaught of the century-class flood crest. | Tras una noche entera de combate heroico, el equipo de rescate logró por fin resistir la embestida implacable de la mayor crecida en un siglo.
+
+collocations[6]{hanzi,en}:
+  顶风冒雪 | brave wind and snow
+  顶住压力 | withstand pressure
+  达到顶峰 | reach the summit / peak
+  一顶帽子 | a hat
+  顶天立地 | stand towering between heaven and earth; heroic
+  头顶 | top of the head
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  顶天立地 | dǐng tiān lì dì | towering between heaven and earth; indomitable spirit
+  顶礼膜拜 | dǐng lǐ mó bài | kneel and worship with forehead touching ground; venerate
+  登峰造极 | dēng fēng zào jí | reach the pinnacle of excellence
+  出人头地 | chū rén tóu dì | stand out among peers; rise to distinction
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  顶 | dǐng | head top; push against; withstand | coronilla; cumbre; resistir | 页 | head / leaf / page | 丁 (dīng / nail/firm upright phonetic) | 页 (head / crown of head) | 8 | 左右结构 | Phono-semantic compound: 丁 (firm pillar/nail) + 页 (head), originally the crown or apex of the human head, extending to propping up, pushing against, or withstanding pressure. | A firm nail or pillar (丁) supporting the crown of the head (页) to push against heavy weights. | Un clavo o pilar firme (丁) que sostiene la coronilla de la cabeza (页) para soportar grandes presiones. | 214 | MNMBC | 頂
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Holding the crown of your head (页) firm like an upright iron spike (丁) allows you to push against and withstand (顶) all blizzards.
+  composite_memory_hook_es: Mantener la coronilla (页) firme como un clavo de hierro (丁) permite resistir y empujar contra (顶) cualquier tempestad.
+  cultural_and_cognitive_roots: In classical ethics, 顶天立地 embodies the Confucian ideal of human dignity, propping up heaven above and rooted on earth below, unyielding against storm.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone: dǐng (214). Dips firmly before rising with resonance.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    项 | xiàng | nape of neck; item | Has 工 (work) on the left of 页 instead of 丁
+    顺 | shùn | obey; smooth | Has 川 (river) on the left of 页 instead of 丁
+    预 | yù | in advance; prepare | Has 予 on the left of 页 instead of 丁
+    须 | xū | must; beard | Has 彡 on the left of 页
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    屋顶 | wū dǐng | rooftop; roof
+    山顶 | shān dǐng | mountain peak
+    顶点 | dǐng diǎn | vertex; summit
+    顶峰 | dǐng fēng | peak; pinnacle
+
+semantic_boundary_contrasts:
+  core_nuance: 顶 emphasizes active, frontal resistance opposing oncoming force, physical apex, or supporting weights atop the head.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 顶 vs. 扛 | káng | 顶 emphasizes pushing directly forward against oncoming opposing forces, whereas 扛 emphasizes carrying a heavy physical object rested across the shoulders.
+    2 | 顶 vs. 挡 | dǎng | 顶 proactively pushes forward into resistance, whereas 挡 creates a defensive shield or barrier to ward off attacks.
+    3 | 顶 vs. 托 | tuō | 顶 applies force upwards or forwards against resistance, whereas 托 gently supports an object from underneath with open palms.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 呼啸的暴风雪像刀子一般刮在脸上，子路深一脚浅一脚地顶着狂风往前挪动。背上的米袋重逾百斤，但他硬是用血肉之躯顶住了严寒的压迫，没有后退半步。 | Hūxiào de bàofēngxuě xiàng dāozi yībān guā zài liǎn shàng, Zǐlù shēn yì jiǎo qiǎn yì jiǎo de dǐngzhe kuángfēng wǎng qián nuódòng. Bèishàng de mǐdài zhòng yú bǎi jīn, dàn tā yìng shì yòng xuèròu zhī qū dǐngzhù le yánhán de yāpò, méiyǒu hòutuì bàn bù. | The howling blizzard sliced his face like knives as Zilu trudged forward unevenly through the gale. His sack weighed over a hundred catties, but with flesh and blood he withstood the frigid trial without yielding a single step. | La ventisca aullante cortaba su rostro como cuchillos mientras Zilu avanzaba a trancas y barrancas contra el vendaval. Aunque cargaba cien libras, su voluntad de hierro resistió el rigor sin retroceder un paso.
+  #2 | 无论是自然灾害的无情考验，还是科技攻坚中的重重险阻，人类文明的发展史就是一部不断顶住压力、向未知领域拓荒的壮丽史诗。唯有具备顶风破浪的非凡气魄，民族与国家才能在风云激荡的世界舞台上立于不败之地。 | Wúlùn shì zìrán zāihài de wúqíng kǎoyàn, háishì kējì gōngjiān zhōng de zhòngzhòng xiǎnzǔ, rénlèi wénmíng de fāzhǎnshǐ jiù shì yí bù búduàn dǐngzhù yālì, xiàng wèizhī lǐngyù tuòhuāng de zhuànglì shǐshī. Wéiyǒu jùbèi dǐngfēng-pòlàng de fēifán qìpò, mínzú yǔ guójiā cáinéng zài fēngyún-jīdàng de shìjiè wǔtái shàng lìyú búbàizhīdì. | Whether facing ruthless natural disasters or scientific frontiers, human history is an epic of withstanding immense pressure to pioneer the unknown. Only with the courage to brave storms can nations stand invincible on the world stage. | Ya frente a catástrofes naturales o retos científicos, la historia humana es una epopeya de resistencia y conquista de lo desconocido. Solo con el coraje de desafiar tempestades pueden las naciones mantenerse invictas en el escenario global.

@@ -1,0 +1,64 @@
+id: 37
+hanzi: 台阶
+pinyin: tái jiē
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: flight of steps; staircase; steps; way out of awkward situation; level
+  es: escalones; peldaños; grada; salida de apuro; nivel
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a series of flat outdoor or indoor steps constructed for walking up and down | serie de escalones para subir o bajar; gradas | 登上台阶 (climb up the steps)
+  2 | Noun | Colloquial | an opportunity or face-saving way out of an embarrassing deadlock | salida airosa de un apuro; forma de salvar las apariencias | 给他一个台阶下 (give him a face-saving way out)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 帆船终于停靠在码头，全家人踩着石砌的台阶缓缓走上海岸，心中涌起无限的感慨与欣喜。 | Fānchuán zhōngyú tíngkào zài mǎtou, quán jiārén cǎi zhe shíqì de táijiē huǎnhuǎn zǒu shàng hǎi'àn, xīnzhōng yǒngqǐ wúxiàn de gǎnkǎi yǔ xīnxǐ. | The sailboat finally docked at the pier, and the family climbed the stone steps onto shore with boundless emotion and joy. | El velero atracó al fin en el muelle y la familia subió despacio los peldaños de piedra hacia la costa, embargada de emoción y júbilo.
+  #2 | 在激烈的商务谈判陷入僵局时，主持人适时提出折中方案，为双方各自找了个体面的台阶下。 | Zài jīliè de shāngwù tánpàn xiànrù jiāngjú shí, zhǔchírén shìshí tíchū zhézhōng fāng'àn, wèi shuāngfāng gèzì zhǎo le gè tǐmiàn de táijiē xià. | When intense negotiations hit an impasse, the moderator proposed a compromise, offering both sides a dignified way out. | Ante el bloqueo de la negociación, el mediador planteó un acuerdo de compromiso, brindando a ambas partes una salida airosa y digna.
+
+collocations[6]{hanzi,en}:
+  下台阶 | go down the steps; find a face-saving way out
+  石台阶 | stone steps
+  走下台阶 | walk down the steps
+  上台阶 | go up steps; reach a new level
+  迈上新台阶 | step up to a new level / higher stage
+  找台阶下 | look for a face-saving exit
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  步步高升 | bù bù gāo shēng | rise step by step; climb higher and higher promotion
+  登高望远 | dēng gāo wàng yuǎn | climb high to gaze far; take a broad long-term view
+  拾级而上 | shè jí ér shàng | climb steps step by step; ascend a flight of stairs
+  顺理成章 | shùn lǐ chéng zhāng | follow as a logical consequence; fall into place naturally
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  台 | tái | platform; stage; terrace | plataforma; estrado; terraza | 口 | mouth / base | 厶 (sī phonetic / private boundary) | 口 (platform foundation or opening) | 5 | 上下结构 | Ancient pictograph of a raised observation platform built of stone or earth to overlook surroundings. | A sturdy elevated observation terrace (台) with level stone slabs allowing people to climb high. | Una sólida terraza o estrado de piedra (台) que permite elevarse para otear el horizonte. | 35 | IR | 臺
+  阶 | jiē | steps; stairs; rank | escalón; peldaño; rango | 阝 | mound / step | 阝 (lofty earthen slopes with steps) | 价 / 介 (jiè phonetic / divider or border marker) | 6 | 左右结构 | Phono-semantic compound: stone steps carved into an earthen slope (阝) marked with clear increments (介). | Stone stairs carved step by step into a rocky earthen hillside (阝) to climb upward (阶). | Peldaños de piedra labrados en una ladera escarpada (阝) para ascender paso a paso (阶). | 55 | NLOLL | 階
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Carving elevated stone terraces (台) into terraced flights of stairs (阶) creates the steps we climb to reach high ground (台阶).
+  composite_memory_hook_es: Labrar gradas de piedra (台) en peldaños escalonados (阶) conforma la escalera que permite subir a lo alto (台阶).
+  cultural_and_cognitive_roots: In traditional Chinese social psychology, '面子' (face) is paramount. '给台阶下' provides a metaphorical staircase for an embarrassed party to step down gracefully without losing dignity.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by a high level 1st tone: tái jiē (35-55). Ascend cleanly on 'tái' and pronounce 'jiē' with sustained high clarity.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    台 | tái | platform; desk | Five strokes with 厶 top and 口 bottom
+    各 | gè | each; every | Six strokes with 夂 top and 口 bottom
+    阶 | jiē | steps; stairs | Has 阝 on the left and 介 on the right
+    队 | duì | team; ranks | Has 阝 on the left and 人 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    平台 | píng tái | platform; terrace; forum
+    看台 | kàn tái | bleachers; grandstand
+    阶段 | jiē duàn | stage; phase; period
+    阶级 | jiē jí | social class; rank
+
+semantic_boundary_contrasts:
+  core_nuance: 台阶 designates physical outdoor/indoor masonry steps, or metaphorically a dignified exit from an embarrassing predicament.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 台阶 vs. 楼梯 | lóutī | 台阶 refers to stone/concrete flights of steps outside buildings, temples, or quays, while 楼梯 refers to complete indoor staircases connecting building floors.
+    2 | 台阶 vs. 梯子 | tīzi | 台阶 is a fixed structural masonry stairway, whereas 梯子 is a portable movable wooden or aluminum ladder.
+    3 | 台阶 vs. 阶段 | jiēduàn | 台阶 is a concrete physical step or face-saving opportunity, while 阶段 is an abstract temporal phase or chronological epoch.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走过岁月漫长的风雨，才明白人生的每一步攀登都需要脚踏实地。生活不会铺就平坦的捷径，那些看似陡峭的台阶，正是磨砺意志的试金石。只要不轻言放弃，每一个台阶都将把你引向更开阔的人生视界。 | Zǒuguò suìyuè màncháng de fēngyǔ, cái míngbai rénshēng de měi yí bù pāndēng dōu xūyào jiǎotàshídì. Shēnghuó bú huì pūjiù píngtǎn de jiéjìng, nàxiē kànsì dǒuqiào de táijiē, zhèng shì mólì yìzhì de shìjīnshí. Zhǐyào bù qīngyán fàngqì, měi yí gè táijiē dōu jiāng bǎ nǐ yǐnxiàng gèng kāikuò de rénshēng shìjiè. | Traversing long years of storm teaches that every ascent requires steady footwork. Life lays down no effortless shortcuts; steep steps test the spirit's mettle. Persisting unyieldingly, each step elevates you to wider life vistas. | Superados los temporales del camino se comprende que cada ascensión exige pisar firme. La vida no regala atajos llanos: los peldaños empinados forjan el carácter. Quien no se rinde descubre que cada grada abre horizontes más diáfanos.
+  #2 | 产业经济学最新评估报告显示，高端装备制造核心技术的自主攻关推动了国家工业基础迈上新台阶。在数控机床、工业软件及关键基础零部件领域取得的系统性突破，有力夯实了现代化产业体系的抗风险底座与自主创新活力。 | Chǎnyè jīngjìxué zuìxīn pínggū bàogào xiǎnshì, gāoduān zhuāngbèi zhìzào héxīn jìshù de zìzhǔ gōngguān tuīdòng le guójiā gōngyè jīchǔ mài shàng xīn táijiē. Zài shùkòng jīchuáng, gōngyè ruǎnjiàn jí guānjiàn jīchǔ língbùjiàn lǐngyù qǔdé de xìtǒngxìng tūpò, yǒulì hāngshí le xiàndàihuà chǎnyè tǐxì de kàngfēngxiǎn dǐzuò yǔ zìzhǔ chuàngxīn huólì. | Industrial reports indicate domestic breakthroughs in high-end equipment have propelled the nation's industrial foundation onto a new tier. Milestones across CNC tooling and software solidify modernized supply chain resilience and sovereign vitality. | Los informes industriales confirman que la innovación en maquinaria avanzada ha llevado la base productiva nacional a un nuevo nivel. Los logros en robótica y software industrial apuntalan la resiliencia y soberanía del tejido productivo.

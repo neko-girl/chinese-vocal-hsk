@@ -1,0 +1,63 @@
+id: 3
+hanzi: 战争
+pinyin: zhàn zhēng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: war; warfare; military conflict
+  es: guerra; conflicto bélico; contienda armada
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | organized armed conflict between states, nations, or factions | lucha armada organizada entre naciones o facciones; guerra | 发动战争 (launch a war)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 那场旷日持久的战争给沿途村落带来了深重的灾难，许多家庭因此骨肉分离、流离失所。 | Nà chǎng kuàngrì-chíjiǔ de zhànzhēng gěi yántú cūnluò dàilái le shēnzhòng de zāinàn, xǔduō jiātíng yīncǐ gǔròufēnlí, liúlí-shīsuǒ. | That protracted war brought profound disasters to villages along its path, tearing families apart and leaving countless people displaced. | Aquella guerra prolongada trajo profundas calamidades a las aldeas circundantes, separando a familias enteras y dejándolas sin hogar.
+  #2 | 国际社会应当积极倡导通过和平对话与外交谈判解决分歧，竭力避免战争的爆发。 | Guójì shèhuì yīngdāng jījí chàngdǎo tōngguò hépíng duìhuà yǔ wàijiāo tánpàn jiějué fēnqí, jiélì bìmiǎn zhànzhēng de bàofā. | The international community should actively advocate resolving disputes through peaceful dialogue and diplomatic negotiations, doing everything possible to avert the outbreak of war. | La comunidad internacional debe fomentar el diálogo pacífico y las negociaciones diplomáticas para resolver disputas, evitando a toda costa el estallido de la guerra.
+
+collocations[6]{hanzi,en}:
+  爆发战争 | outbreak of war
+  发动战争 | launch a war
+  经历战争 | experience warfare
+  战争创伤 | trauma of war; war scars
+  正义战争 | just war
+  反抗战争 | resist warfare
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  兵连祸结 | bīng lián huò jié | warfare continues incessantly bringing disasters
+  百战百胜 | bǎi zhàn bǎi shèng | fight a hundred battles and win a hundred victories
+  纸上谈兵 | zhǐ shàng tán bīng | fight a battle on paper; armchair strategizing
+  和平共处 | hé píng gòng chǔ | peaceful coexistence
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  战 | zhàn | battle; war; fight | luchar; combatir; guerra | 戈 | dagger-axe / halberd | 戈 (ancient bronze dagger-axe weapon) | 占 (zhān / divination/fortune-telling phonetic) | 9 | 左右结构 | Phono-semantic compound: 戈 (bronze weapon of war) alongside 占 (phonetic), representing armed combat and military campaigns. | A warrior gripping a bronze halberd (戈) upon hearing the battle divination (占). | Un guerrero empuñando una alabarda de bronce (戈) tras consultar el oráculo de batalla (占). | 51 | YRII | 戰
+  争 | zhēng | contend; struggle; dispute | disputar; luchar; pugnar | ⺈ | claw / hand | 爪/⺈ (hand reaching down from above) | 彐/手 (hand reaching up from below contesting an object) | 6 | 上下结构 | Ideogrammic compound: two hands reaching in opposite directions grasping and competing for the same item. | Two pairs of hands grasping and wrestling for the same coveted treasure. | Dos manos que forcejean y disputan en sentidos opuestos por un mismo objeto preciado. | 55 | NSD | 爭
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When soldiers raise their halberds in battle (战) to fiercely contend (争) over territory, the destructive result is war (战争).
+  composite_memory_hook_es: Cuando los combatientes alzan las armas (战) para disputar (争) territorio, se desata la calamidad de la guerra (战争).
+  cultural_and_cognitive_roots: Chinese military philosophy (孙子兵法) views war as the most consequential affairs of state, emphasizing defensive caution and avoidance of armed conflict whenever possible.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by high-level 1st tone: zhàn zhēng (51-55). Deliver 'zhàn' firmly, then maintain a crisp, stable high plateau on 'zhēng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    站 | zhàn | stand; station | Has 立 (stand) on the left instead of 占 + 戈
+    占 | zhān | divine; occupy | Constituent phonetic without the weapon radical 戈
+    净 | jìng | clean; pure | Has 冫 (water/ice) on the left with 争 on the right
+    挣 | zhèng | struggle to earn; strive | Has 扌 (hand) radical on the left with 争 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    战斗 | zhàn dòu | fight; battle; combat
+    战略 | zhàn lüè | strategy; grand design
+    竞争 | jìng zhēng | competition; compete
+    争议 | zhēng yì | controversy; dispute
+
+semantic_boundary_contrasts:
+  core_nuance: 战争 denotes large-scale, organized political and armed violence between states, nations, or organized military blocs.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 战争 vs. 战役 | zhànyì | 战争 refers to an entire war or conflict spanning years and nations, while 战役 refers to a specific localized military campaign or operational battle within a larger war.
+    2 | 战争 vs. 战斗 | zhàndòu | 战争 is the macro-level geopolitical military clash, whereas 战斗 refers to micro-level combat or tactical fire-fights fought by soldiers on the front line.
+    3 | 战争 vs. 冲突 | chōngtū | 战争 requires organized military operations, whereas 冲突 encompasses broader non-military clashes, diplomatic friction, or border skirmishes that may not escalate to full-scale war.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在频繁的动荡年代，战争让无数原本宁静的乡村化为废墟。孝子在烽火连天的乱世中，冒着生命危险奔走数千里，只为给年老的父母换取一口维持生命的温饱之粮。 | Zài pínfán de dòngdàng niándài, zhànzhēng ràng wúshù yuánběn níngjìng de xiāngcūn huàwéi fèixū. Xiàozǐ zài fēnghuǒliántiān de luànshì zhōng, màozhe shēngmìng wēixiǎn bēnzǒu shù qiānlǐ, zhǐ wèi gěi niánlǎo de fùmǔ huànqǔ yì kǒu wéichí shēngmìng de wēnbǎo zhī liáng. | In an era of turmoil, war reduced countless peaceful villages to rubble. Amidst unrelenting flames of conflict, filial sons risked their lives traveling vast distances just to secure bowls of grain for aging parents. | En una época de constante caos bélico, la guerra redujo pacíficas aldeas a escombros. Hijos abnegados desafiaron graves peligros atravesando enormes distancias con el solo fin de obtener comida para sus ancianos padres.
+  #2 | 现代历史学家通过对古代文献的考证发现，长期的战争往往导致农田荒废、劳动力匮乏以及人口结构的急剧失衡。唯有建立起稳固的和平秩序，工农业生产才能重新复苏，社会文明方能持续向前发展。 | Xiàndài lìshǐxuéjiā tōngguò duì gǔdài wénxiàn de kǎozhèng fāxiàn, chángqī de zhànzhēng wǎngwǎng dǎozhì nóngtián huāngfèi, láodònglì kuìfá yǐjí rénkǒu jiégòu de jíjù shīhéng. Wéiyǒu jiànlì qǐ wěngù de hépíng zhìxù, gōngnóngyè shēngchǎn cáinéng chóngxīn fùsū, shèhuì wénmíng fāng néng chíxù xiàngqián fāzhǎn. | Modern historians' analyses of ancient records reveal that protracted warfare inevitably triggered abandoned farmlands, acute labor shortages, and severe demographic imbalances. Only by fostering stable peace could production recover and civilization advance. | El examen de documentos antiguos demuestra que la guerra continua provocaba el abandono del campo, escasez de mano de obra y desequilibrios demográficos. Únicamente instaurando una paz duradera podía reactivarse la producción y florecer la civilización.

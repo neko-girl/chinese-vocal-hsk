@@ -1,0 +1,63 @@
+id: 19
+hanzi: 漏
+pinyin: lòu
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to leak; to seep; to leave out; to omit; water clock; loophole
+  es: gotear; filtrarse; fugarse; omitir; descuidar; fuga; gotera
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to escape or penetrate through a hole, fissure, or flaw (of liquid, gas, or light) | gotear o filtrarse por una hendidura o grieta (líquido, gas, luz) | 船舱漏水 (the ship's cabin leaks water)
+  2 | Verb | Standard | to omit, leave out accidentally, or reveal confidential information | omitir o pasar por alto por descuido; filtrar información confidencial | 漏掉一个字 (omit a word)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 帆船在触礁后船底开始严重漏水，翟峰临危不乱，迅速组织全家合力进行紧急堵漏排水。 | Fānchuán zài chùjiāo hòu chuándǐ kāishǐ yánzhòng lòushuǐ, Zhái Fēng lín wēi bú luàn, xùnsù zǔzhī quán jiā hélì jìnxíng jǐnjí dǔlòu páishuǐ. | After scraping a reef, the sailboat hull began leaking severely; keeping his head, Zhai Feng quickly organized emergency plugging and bailing. | Tras rozar un arrecife, el casco del velero comenzó a hacer agua gravemente; Zhai Feng mantuvo la calma y organizó el taponamiento y achique urgente.
+  #2 | 在提交重要申报材料之前，项目负责人反复逐项核对，以防漏掉任何关键的财务审计数据。 | Zài tíjiāo zhòngyào shēnbào cáiliào zhīqián, xiàngmù fùzérén fǎnfù zhúxiàng héduì, yǐ fáng lòudiào rènhé guānjiàn de cáiwù shěnjì shùjù. | Before submitting key application dossiers, the project director verified items repeatedly to avoid omitting crucial financial auditing figures. | Antes de entregar el expediente de solicitud, el director del proyecto revisó cada apartado para evitar la omisión de datos de auditoría financiera esenciales.
+
+collocations[6]{hanzi,en}:
+  漏水 | leak water; water leakage
+  漏洞 | loophole; leak; security flaw
+  走漏消息 | leak news / secret
+  漏掉 | leave out; omit accidentally
+  捡漏 | pick up a bargain by chance
+  补漏 | repair a leak; plug a leak
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  天网恢恢，疏而不漏 | tiān wǎng huī huī, shū ér bú lòu | the net of heaven has large meshes, but lets nothing slip through
+  滴水不漏 | dī shuǐ bú lòu | not a drop of water leaks; watertight; airtight
+  点滴不漏 | diǎn dī bú lòu | completely watertight; meticulous without omission
+  挂一漏万 | guà yī lòu wàn | list one and omit ten thousand; far from comprehensive
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  漏 | lòu | leak; seep; water clock | gotear; filtrarse; clepsidra | 氵 | water / liquid | 氵 (water drops seeping through) | 屚 (lòu / 尸 roof/shelter dripping rain 雨) | 14 | 左右结构 | Phono-semantic compound: water drops (氵) penetrating through the leaky roof of a shelter (屚 = 尸 + 雨). | Raindrops (氵) dripping through a cracked roof tile (尸) into the living room below (雨). | Gotas de lluvia (氵) que se cuelan por el tejado agrietado (尸) y caen sin cesar en la habitación (雨). | 51 | EMOB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Rainwater (氵) seeping through a cracked rooftop (屚) creates an annoying household leak (漏).
+  composite_memory_hook_es: El agua de lluvia (氵) que se cuela por el tejado agrietado (屚) provoca una molesta gotera o fuga (漏).
+  cultural_and_cognitive_roots: Ancient China used water clocks ('铜壶滴漏') where water dripping at a steady rate measured nighttime hours. The character metaphorically evolved to denote time passing, secrets escaping, or systemic oversights.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone: lòu (51). Deliver a sharp, clean descending pitch from high to low.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    漏 | lòu | leak; omit | Has 氵 (water) on the left and 屚 on the right
+    涸 | hé | dry up; exhausted | Has 氵 on the left and 固 on the right
+    溯 | sù | trace back; go upstream | Has 氵 on the left and 朔 on the right
+    澜 | lán | billows; surging waves | Has 氵 on the left and 阑 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    泄露 | xiè lòu | leak out; divulge
+    渗漏 | shèn lòu | seepage; seep through
+    脱漏 | tuō lòu | omission; slip through
+    遗漏 | yí lòu | omit; overlook accidentally
+
+semantic_boundary_contrasts:
+  core_nuance: 漏 emphasizes unwanted escape or seepage through a crack or flaw, or unintended omission in records.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 漏 vs. 渗 | shèn | 漏 implies visible water dripping or streaming rapidly through a hole or crack (水管漏水), whereas 渗 describes slow, microscopic moisture absorbing or permeating through porous surfaces (渗透, 渗血).
+    2 | 漏 vs. 泄 | xiè | 漏 is physical leakage or clerical omission, whereas 泄 emphasizes venting gas/fluids under pressure or deliberately divulging secrets (发泄, 泄密).
+    3 | 漏 vs. 掉 | diào | 漏 suggests passive omission through oversight, while 掉 denotes falling, dropping, or discarding.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 房屋漏雨的夜晚，听着雨滴落在搪瓷盆里的清脆声响，总能勾起童年清贫而温馨的记忆。母亲在昏暗的煤油灯下忙着挪动盆钵，父亲则披着雨衣爬上屋顶修补破瓦。那些简陋生活里的细致守护，成了抵御岁月风寒的最暖屏障。 | Fángwū lòuyǔ de yèwǎn, tīng zhe yǔdī luò zài tángcípén lǐ de qīngcuì shēngxiǎng, zǒng néng gōuqǐ tóngnián qīngpín ér wēnxīn de jìyì. Mǔqīn zài hūn'àn de méiyóudēng xià máng zhe nuódòng pénbō, fùqīn zé pī zhe yǔyī pá shàng wūdǐng xiūbǔ pòwǎ. Nàxiē jiǎnlòu shēnghuó lǐ de xìzhì shǒuhù, chéng le dǐyù suìyuè fēnghán de zuì nuǎn píngzhàng. | Nights when rain leaked indoors, the crisp ping of drops in enamel basins stirred warm childhood recollections. Mother moved buckets under the dim lamp while father scaled the roof in his raincoat. Tender vigilance amid humble poverty became an enduring shield against cold. | En las noches de goteras, el tintineo de la lluvia en los barreños evocaba memorias entrañables de la niñez. Mi madre movía recipientes a la luz del candil y mi padre subía al tejado a reparar tejas. Aquel desvelo en la escasez fue un cálido escudo frente al rigor de los años.
+  #2 | 随着数字化转型的推进，网络安全边界日益拓展。细微的代码漏洞一旦被恶意利用，就可能危及核心数据资产。因此，定期开展动态漏洞排查与系统加固，是维护数字信息安全的必要举措。 | Suízhe shùzìhuà zhuǎnxíng de tuījìn, wǎngluò ānquán biānjiè rìyì tuòzhǎn. Xìwēi de dàimǎ lòudòng yídàn bèi èyì lìyòng, jiù kěnéng wēijí héxīn shùjù zīchǎn. Yīncǐ, dìngqī zhǎnkāi dòngtài lòudòng páichá yǔ xìtǒng jiāgù, shì wéihù shùzì xìnxī ānquán de bìyào jǔcuò. | As digital transformation advances, cybersecurity perimeters expand continuously. Once minor code vulnerabilities are exploited, core data assets are endangered. Conducting regular vulnerability scans and hardening remains essential. | Con el avance de la digitalización, la frontera de la ciberseguridad se expande. Una mínima brecha de código maliciosa puede comprometer datos clave. Por ello, auditar vulnerabilidades periódicamente y blindar los sistemas resulta una medida imperativa.

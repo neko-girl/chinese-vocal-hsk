@@ -1,0 +1,64 @@
+id: 35
+hanzi: 未来
+pinyin: wèi lái
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: future; tomorrow; coming; approaching; prospective
+  es: futuro; porvenir; venidero; por venir
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | time that is yet to come; future days or prospects | tiempo que está por venir; porvenir; futuro | 走向未来 (walk into the future)
+  2 | Adjective | Formal | approaching, prospective, or yet to arrive | futuro; venidero; que llegará en breve | 未来三年 (in the coming three years)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对未知而充满挑战的环球航行，翟峰一家对未来充满信心，坚信人生有无限种可能。 | Miànduì wèizhī ér chōngmǎn tiǎozhàn de huánqiú hángxíng, Zhái Fēng yì jiā duì wèilái chōngmǎn xìnxīn, jiānxìn rénshēng yǒu wúxiàn zhǒng kěnéng. | Confronting a circumnavigation full of challenges, Zhai Feng's family embraced the future with confidence, convinced life holds limitless possibilities. | Ante la desafiante vuelta al mundo, la familia de Zhai Feng miró al porvenir con fe, convencida de que la vida alberga infinitas posibilidades.
+  #2 | 国际前沿学术论坛围绕绿色能源与量子计算展开深度研讨，共同勾勒未来数字社会的创新蓝图。 | Guójì qiányán xuéshù lùntán wéirào lǜsè néngyuán yǔ liàngzǐ jìsuàn zhǎnkāi shēndù yántǎo, gòngtóng gōulè wèilái shùzì shèhuì de chuàngxīn lántú. | The international academic forum deliberated green energy and quantum computing, sketching innovation blueprints for future digital societies. | El foro científico internacional debatió sobre energías verdes y computación cuántica, trazando la hoja de ruta de la futura sociedad digital.
+
+collocations[6]{hanzi,en}:
+  美好的未来 | bright / beautiful future
+  展望未来 | look forward to the future
+  充满未来感 | futuristic; full of future vibes
+  未见未来 | unseen future
+  规划未来 | plan for the future
+  走向未来 | head into the future
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  前途无量 | qián tú wú liàng | have boundless prospects; have an infinitely bright future
+  继往开来 | jì wǎng kāi lái | carry forward the past and forge into the future
+  方兴未艾 | fāng xīng wèi ài | just unfolding and in the ascendant; far from coming to an end
+  承前启后 | chéng qián qǐ hòu | inherit the past and usher in the future
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  未 | wèi | not yet; 8th earthly branch | aún no; todavía no | 木 | tree / wood | 木 (tree foliage) | 一 (shorter top stroke indicating leaves not yet fully grown) | 5 | 独体结构 | Ideogrammic compound: a tree (木) with its upper branches (一) still young and not yet fully flourished. | A young sapling (木) whose uppermost branch (一) has not yet burst into full summer blossom. | Un arbolito (木) cuyas ramas superiores (一) aún no han florecido plenamente bajo el sol. | 51 | JD | ""
+  来 | lái | come; arrive; return | venir; llegar; regresar | 木 | tree / grain plant | 木 (cereal plant) | 从 / 麦 (wheat ears arriving from heaven as a gift) | 7 | 独体结构 | Ancient pictograph of an ear of ripe wheat descending from the heavens to nourish humanity. | Ripe golden wheat stalks (来) arriving across the fields like a bountiful harvest blessing. | Espigas de trigo maduro (来) que llegan meciéndose por los campos como una bendición de la tierra. | 35 | DT | 來
+
+mnemonics_and_roots:
+  composite_memory_hook_en: What has not yet (未) arrived (来) lies open ahead of us as the promising future (未来).
+  composite_memory_hook_es: Lo que todavía no (未) ha llegado (来) se abre ante nosotros como el prometedor porvenir (未来).
+  cultural_and_cognitive_roots: In Chinese philosophical time perception, the future is envisioned as unmanifest potential ('未') arriving continuously from the horizon ('来'). Optimism and proactive preparation govern one's posture toward tomorrow.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by a rising 2nd tone: wèi lái (51-35). Drop 'wèi' firmly before elevating pitch smoothly on 'lái'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    未 | wèi | not yet | Top horizontal stroke is shorter than the second
+    末 | mò | end; tip | Top horizontal stroke is longer than the second
+    来 | lái | come; arrive | Seven strokes with two inner dots
+    米 | mǐ | rice | Six strokes with four angled dots around cross
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    未必 | wèi bì | not necessarily; maybe not
+    未知 | wéi zhī | unknown; unfamiliar
+    后来 | hòu lái | afterwards; later on
+    来临 | lái lín | arrive; approach; come
+
+semantic_boundary_contrasts:
+  core_nuance: 未来 specifically refers to the temporal domain or prospective era that has not yet occurred.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 未来 vs. 将来 | jiānglái | 未来 is broader, philosophical, and visionary, modifying technologies and societies (未来科技, 走向未来), while 将来 refers practically to one's later years or forthcoming time (将来打算做什么).
+    2 | 未来 vs. 前途 | qiántú | 未来 denotes objective chronological time ahead, whereas 前途 focuses specifically on personal career prospects, fortunes, or professional destiny (前途一片光明).
+    3 | 未来 vs. 明天 | míngtiān | 未来 encompasses long-term epochs and philosophical tomorrow, while 明天 denotes the literal next calendar day.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 未来从来不是一个遥不可及的彼岸，它就孕育在我们当下的每一个选择与行动之中。与其为不可知的明天患得患失，不如全身心地投入眼前的每一次起航。勇敢面对风浪的人，终将在时间的洗礼下迎来属于自己的灿烂曙光。 | Wèilái cónglái bú shì yí gè yáobùkějí de bǐ'àn, tā jiù yùnyù zài wǒmen dāngxià de měi yí gè xuǎnzé yǔ xíngdòng zhīzhōng. Yǔqí wèi bùkězhī de míngtiān huàndéhuànshī, bùrú quánxīnxīnyì de tóurù yǎnqián de měi yí cì qǐháng. Yǒnggǎn miànduì fēnglàng de rén, zhōng jiāng zài shíjiān de xǐlǐ xià yínglái shǔyú zìjǐ de cànlàn shǔguāng. | The future is no unreachable shore; it incubates in every choice and deed of the present. Rather than fretting over tomorrow's uncertainties, throw your whole soul into each casting off. The brave greet their radiant dawn. | El porvenir no es una ribera inalcanzable: germina en cada decisión y acto del presente. En vez de vacilar ante el mañana incierto, conviene entregarse a cada travesía con el alma. Quien desafía las olas cosecha su propia alborada.
+  #2 | 全球可持续发展战略正在深刻定义人类社会的未来格局。通过大力发展清洁低碳能源与循环经济模式，世界各国正携手应对极端气候变化挑战。这一历史进程不仅关乎当代人的生存福祉，更承载着为子孙后代构筑绿色宜居家园的庄严历史承诺。 | Quánqiú kěchíxù fāzhǎn zhànlüè zhèngzài shēnkè dìngyì rénlèi shèhuì de wèilái gégjú. Tōngguò dàlì fāzhǎn qīngjié dītàn néngyuán yǔ xúnhuán jīngjì móshì, shìjiè gèguó zhèng xiéshǒu yìngduì jíduān qìhòu biànhuà tiǎozhàn. Zhè yí lìshǐ jìnchéng bùjǐn guānhū dāngdàirén de shēngcún fúzhǐ, gèng chéngzài zhe wèi zǐsūnhòudài gòuzhù lǜsè yíjū jiāyuán de zhuāngyán lìshǐ chéngnuò. | Global sustainability frameworks are defining humanity's future configuration. Accelerating clean energy and circular economic models tackles climate shocks, ensuring present well-being while fulfilling a solemn compact to bequeath a green homeland to progeny. | El desarrollo sostenible define el porvenir de la humanidad. Impulsar energías limpias y economía circular combate el cambio climático, garantizando el bienestar presente y blindando el compromiso histórico de legar un planeta verde a las futuras generaciones.

@@ -1,0 +1,65 @@
+id: 15
+hanzi: 干起活来
+pinyin: gàn qǐ huó lái
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to get to work; to start working; to plunge into labor
+  es: ponerse a trabajar; empezar la faena; abocarse al trabajo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Colloquial | to start working energetically with momentum | ponerse a trabajar activamente; emprender la faena con brío | 一干起活来就忘我 (completely absorbed once getting to work)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 只要一干起活来，他就全身心投入其中，不知不觉几个小时就过去了。 | Zhǐyào yì gàn qǐ huó lái, tā jiù quánshēnxīn tóurù qízhōng, bùzhī-bùjué jǐ gè xiǎoshí jiù guòqù le. | As soon as he got to work, he threw himself into it wholeheartedly, and hours slipped by without him noticing. | En cuanto se ponía a trabajar, se volcaba en cuerpo y alma en la faena, pasando las horas sin apenas darse cuenta.
+  #2 | 为了赶在雨季前完成水库大坝加固工程，工人们挽起袖子干起活来，工地上呈现出一派热火朝天的景象。 | Wèile gǎn zài yǔjì qián wánchéng shuǐkù dàbà jiāgù gōngchéng, gōngrénmen wǎn qǐ xiùzi gàn qǐ huó lái, gōngdì shàng chéngxiàn chū yí pài rèhuǒ-cháotiān de jǐngxiàng. | To finish reinforcing the reservoir dam before the rainy season, workers rolled up their sleeves and got to work, creating a bustling, spirited scene. | Para terminar el refuerzo de la presa antes de las lluvias, los obreros se arremangaron y se pusieron a trabajar con entusiasmo, llenando la obra de dinamismo.
+
+collocations[6]{hanzi,en}:
+  一干起活来 | as soon as getting to work
+  挽起袖子干起活来 | roll up sleeves and start working
+  卖力干起活来 | vigorously get to work
+  主动干起活来 | take the initiative to start working
+  不知疲倦地干起活来 | untiringly plunge into work
+  组织大家干起活来 | organize everyone to get to work
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  热火朝天 | rè huǒ cháo tiān | bustling with enthusiasm; raging like wildfire
+  埋头苦干 | mái tóu kǔ gàn | bury oneself in hard work
+  争先恐后 | zhēng xiān kǒng hòu | strive to be first and fear being left behind
+  通宵达旦 | tōng xiāo dá dàn | work through the night until daybreak
+
+character_decomposition[4]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  干 | gàn | do; work; act | hacer; trabajar | 干 | shield / dry / stem | 一 (top bar) | 十 (cross/weapon) | 3 | 单一结构 | Pictographic depiction of an agricultural pestle or tool used for manual exertion. | An agricultural pestle or weapon gripped to do tasks. | Un mazo o vara empuñada con fuerza para trabajar. | 51 | MJ | 幹
+  起 | qǐ | rise; start; directional verb | levantarse; iniciar; elevarse | 走 | run / walk | 走 (walking rapidly) | 己 (jǐ / self phonetic/serpent coil rising) | 10 | 半包围结构 | Ideogrammic and phono-semantic: 走 (motion/feet) + 己 (rising upward), indicating initiating an action or rising up. | Rising to one's feet (走) to initiate an action from within (己). | Ponerse de pie (走) para emprender con brío una acción (己). | 214 | GOSE | ""
+  活 | huó | alive; task; labor | vivo; faena; labor | 氵 | water | 氵 (surging water) | 舌 (shé / tongue phonetic) | 9 | 左右结构 | Phono-semantic compound: 氵 (water) + 舌 (vital tongue), denoting lively activity and physical jobs. | Water (氵) giving life and energetic vigor to physical work. | Agua viva (氵) infundiendo dinamismo a las faenas manuales. | 35 | EHOR | ""
+  来 | lái | come; directional complement | venir; llegar; complemento direccional | 木 | tree | 木 (tree/sprouting ear of grain) | 𠂡/大 (human welcoming grain harvest) | 7 | 单一结构 | Ancient pictograph of a ripe cereal plant (wheat) brought to earth from heaven, extending to arriving, coming, and initiating states. | Ripe wheat arriving from afar, welcoming productive harvest labor. | Trigo espigado que arriba maduro, invitando a la labor de la cosecha. | 35 | DO | 來
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Rising up (起) to do (干) lively labor (活) as energy comes forth (来) means you enthusiastically get to work (干起活来).
+  composite_memory_hook_es: Levantarse (起) para emprender (干) la faena (活) con ímpetu que fluye (来) es ponerse a trabajar de lleno (干起活来).
+  cultural_and_cognitive_roots: The grammatical construction V + 起来 (with inserted object 活) marks the inceptive aspect, signaling the burst of forward momentum and sustained continuation of manual toil.
+  tone_sandhi_and_pitch_modulation: Falling-dipping-rising-rising/neutral: gàn qǐ huó lái (51-214-35-35) or gàn qi huó lai with unstressed 'qi' and 'lai'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    超 | chāo | surpass; exceed | Has 刀+口 (召) on the right of 走 instead of 己
+    越 | yuè | cross over; exceed | Has 戉 (halberd) on the right of 走 instead of 己
+    赶 | gǎn | catch up; hurry | Has 旱 (dry) on the right of 走 instead of 己
+    未 | wèi | not yet | Has shorter top horizontal stroke than 来
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    起来 | qǐ lái | stand up; start up
+    发起 | fā qǐ | launch; originate
+    干事 | gàn shi | do tasks; administrative officer
+    活跃 | huó yuè | active; dynamic
+
+semantic_boundary_contrasts:
+  core_nuance: 干起活来 captures the inception, dynamic energy, and immersive flow of plunging into physical labor.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 干起活来 vs. 开始工作 | kāishǐ gōngzuò | 干起活来 is an inceptive colloquial phrase emphasizing manual vigor and physical flow, whereas 开始工作 is formal and objective for beginning any job or project.
+    2 | 干起活来 vs. 着手处理 | zhuóshǒu chǔlǐ | 干起活来 focuses on manual labor and bodily action, whereas 着手处理 focuses on taking bureaucratic or intellectual steps to handle problems.
+    3 | 干起活来 vs. 动工 | dònggōng | 干起活来 applies to individuals or small groups beginning tasks, while 动工 formally denotes breaking ground on major civil engineering projects.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 年轻的子路骨子里透着庄稼人的朴实与倔强，只要一干起活来，浑身就仿佛有使不完的力气。他手脚不停地推磨挑水，粗糙的双手磨出了厚厚的老茧，也赢得了主人发自内心的赏识。 | Niánqīng de Zǐlù gǔzilǐ tòuzhe zhuāngjiarén de pǔshí yǔ juèjiàng, zhǐyào yì gàn qǐ huó lái, húnshēn jiù fǎngfú yǒu shǐ bù wán de lìqi. Tā shǒujiǎo bù tíng de tuīmò tiāoshuǐ, cūcāo de shuāngshǒu mó chū le hòuhòu de lǎojiǎn, yě yíngdé le zhǔrén fā zì nèixīn de shǎngshí. | In his bones, young Zilu possessed a peasant's stubborn diligence; once he got to work, he seemed blessed with boundless strength. Pushing millstones and hauling water untiringly, his calloused hands earned the master's genuine admiration. | En el fondo de su ser, el joven Zilu albergaba la laboriosidad recia del campesino: en cuanto empezaba a trabajar, desplegaba una energía inagotable. Moliendo grano y acarreando agua sin cesar, sus manos encallecidas se ganaron la estima del patrón.
+  #2 | 心理学中的“心流”状态，生动地体现在劳动者全神贯注干起活来的精神风貌中。当一个人彻底屏除杂念、将专注力全部凝聚于眼前的具体劳作时，劳动便不再是一种机械的负担，而升华为锻造坚韧心智与实现自我价值的修行过程。 | Xīnlǐxué zhōng de "xīnliú" zhuàngtài, shēngdòng de tǐxiàn zài láodòngzhě quánshén-guānzhù gàn qǐ huó lái de jīngshén fēngmào zhōng. Dāng yí gè rén chèdǐ bǐngchú zániàn, jiāng zhuānzhùlì quánbù níngjù yú yǎnqián de jùtǐ láozuò shí, láodòng biàn búzài shì yì zhǒng jīxiè de fùdān, ér shēnghuá wéi duànzào jiānrèn xīnji yǔ shíxiàn zìwǒ jiàzhí de xiūxíng guòchéng. | The psychological concept of 'flow' is vividly seen when laborers get to work with total absorption. Shedding distractions and focusing completely on the task transforms toil from a chore into a path of self-cultivation. | El estado de flujo se aprecia con claridad cuando un trabajador se entrega a la faena con total concentración. Al despojarse de distracciones y abocarse al quehacer presente, el trabajo se sublima en una forja de entereza interior y autorrealización.

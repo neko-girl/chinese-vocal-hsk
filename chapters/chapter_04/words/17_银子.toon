@@ -1,0 +1,63 @@
+id: 17
+hanzi: 银子
+pinyin: yín zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: silver; money; silver currency
+  es: plata; dinero de plata; moneda
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | silver metal used historically as currency, ingots, or money | plata; dinero o moneda de plata en la antigüedad | 几两银子 (a few taels of silver)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 拿到主人发放的几两沉甸甸的银子作为工钱，他舍不得多花一分，小心翼翼地缝进内衣口袋里。 | Nádào zhǔrén fāfàng de jǐ liǎng chéndiāndiān de yínzi zuòwéi gōngqián, tā shěbude duō huā yì fēn, xiǎoxīn-yìyì de féng jìn nèiyī kǒudài lǐ. | Receiving several heavy taels of silver from the master as wages, he was loath to spend even a penny, carefully sewing them into his inner garment pocket. | Al recibir del patrón unos pesados taeles de plata como salario, no se atrevió a gastar ni un céntimo y los cosió con cuidado en el bolsillo de su ropa interior.
+  #2 | 在中国古代货币史中，白银与铜钱长期并行流通，银子通常用于大宗商品贸易与官府赋税结算。 | Zài Zhōngguó gǔdài huòbì shǐ zhōng, báiyín yǔ tóngqián chángqī bìngxíng liútōng, yínzi tōngcháng yòngyú dàzōng shāngpǐn màoyì yǔ guānfǔ fùshuì jiésuàn. | In ancient Chinese monetary history, silver and copper coins circulated in tandem, with silver ingots commonly used for bulk commerce and official tax settlement. | En la historia monetaria de la antigua China, la plata y las monedas de cobre coexistieron, empleándose la plata para el gran comercio y el pago de tributos estatales.
+
+collocations[6]{hanzi,en}:
+  几两银子 | several taels of silver
+  白花花的银子 | gleaming white silver
+  积攒银子 | save up silver / money
+  碎银子 | broken bits of silver
+  赏赐银子 | bestow silver as a reward
+  兑换银子 | exchange into silver
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  金银财宝 | jīn yín cái bǎo | gold, silver, and treasures
+  银装素裹 | yín zhuāng sù guǒ | clad in silvery white (snow-covered landscape)
+  火树银花 | huǒ shù yín huā | fiery trees and silver flowers (festive fireworks/lanterns)
+  真金不怕火炼 | zhēn jīn bú pà huǒ liàn | true gold fears no fire; sterling character stands any test
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  银 | yín | silver; money; lustrous white | plata; dinero plateado | 钅 | metal / gold | 钅/金 (precious metal / ore) | 艮 (gèn / boundary/firm phonetic) | 11 | 左右结构 | Phono-semantic compound: 钅 (metal) + 艮 (firm/luster), denoting the lustrous, gleaming white precious metal. | A gleaming metal (钅) forged into firm, enduring ingots (艮). | Un metal brillante (钅) fundido en sólidos lingotes de gran pureza (艮). | 35 | CAVE | 銀
+  子 | zi | noun suffix; diminutive suffix | sufijo de sustantivo | 子 | child / seed | 子 (wrapped baby) | "" | 3 | 单一结构 | Ancient pictograph of a child, grammaticalized as a ubiquitous colloquial noun suffix. | A child marker attached to concrete nouns to make them accessible and spoken. | Un elemento derivativo que confiere a los nombres cotidianos una textura cercana y familiar. | 0 | ND | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Precious gleaming metal (银) formed into everyday spending currency (子) is silver money (银子).
+  composite_memory_hook_es: El metal brillante (银) moldeado como divisa de cambio en la vida diaria (子) es la plata amonedada (银子).
+  cultural_and_cognitive_roots: In imperial Chinese society, silver ingots symbolized purchasing power and security. Ordinary laborers worked tirelessly for months just to earn a few taels of silver to support families.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by neutral tone: yín zi (35-0). 'zi' is pronounced lightly with reduced vowel length.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    很 | hěn | very | Has 彳 (step) on the left instead of 钅
+    狠 | hěn | ruthless; ferocious | Has 犭 (dog) on the left instead of 钅
+    恨 | hèn | hate; regret | Has 忄 (heart) on the left instead of 钅
+    根 | gēn | root; base | Has 木 (tree) on the left instead of 钅
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    银行 | yín háng | bank
+    银牌 | yín pái | silver medal
+    白银 | bái yín | silver
+    金银 | jīn yín | gold and silver
+
+semantic_boundary_contrasts:
+  core_nuance: 银子 historical currency designation specifically highlighting silver ingots or colloquial hard money.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 银子 vs. 钱 | qián | 银子 refers specifically to silver currency or ancient monetary ingots, whereas 钱 is the universal contemporary term for money.
+    2 | 银子 vs. 白银 | báiyín | 银子 is historical, narrative, and spoken, whereas 白银 is the formal chemical and macroeconomic commodity term.
+    3 | 银子 vs. 钞票 | chāopiào | 银子 refers to metallic silver specie, whereas 钞票 strictly designates paper banknotes and printed currency.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 子路用打工换来的银子在集镇上买了一大袋上等白米。他紧紧攥着剩下的一点碎银子，心中满是欣喜，因为这些粮食足够让年迈的父母吃上几个月的饱饭了。 | Zǐlù yòng dǎgōng huànlái de yínzi zài jīzhèn shàng mǎi le yí dà dài shàngděng báimǐ. Tā jǐnjǐn zuànzhe shèngxià de yìdiǎn suìyínzi, xīnzhōng mǎn shì xīnxǐ, yīnwèi zhèxiē liángshi zúgòu ràng niánmài de fùmǔ chī shang jǐ gè yuè de bǎofàn le. | With the silver earned from his labor, Zilu bought a large sack of premium white rice at the town market. Gripping the remaining broken silver tightly, he rejoiced knowing this food would nourish his parents for months. | Con la plata ganada en su faena, Zilu compró un gran saco de arroz de primera en el pueblo. Apretando contra su pecho los pocos trozos de plata sobrantes, sintió una alegría inmensa sabiendo que sus padres no pasarían hambre en meses.
+  #2 | 明清以来的经济史研究证实，白银货币化对中国古代商品经济的发展产生了深远影响。“银子”不仅是市场交易的主要流通媒介，更深刻塑造了城乡劳动力流动、雇佣报酬支付以及传统赋税征收的基本模式。 | Míng-Qīng yǐlái de jīngjìshǐ yánjiū zhèngshí, báiyín huòbìhuà duì Zhōngguó gǔdài shāngpǐn jīngjì de fāzhǎn chǎnshēng le shēnyuǎn yǐngxiǎng. "Yínzi" bùjǐn shì shìchǎng jiāoyì de zhǔyào liútōng méijiè, gèng shēnkè sùzào le chéng-xiāng láodònglì liúdòng, gùyòng bàochou zhīfù yǐjí chuántǒng fùshuì zhēngshōu de jīběn móshì. | Historical economic studies since the Ming and Qing dynasties confirm that silver monetization profoundly impacted ancient trade. Silver served not only as the primary medium of exchange, but shaped labor mobility, wages, and tax regimes. | Los estudios económicos confirman que la monetización de la plata desde las épocas Ming y Qing dinamizó el comercio. La plata sirvió de divisa principal y modeló la migración de mano de obra, los salarios y la recaudación fiscal.

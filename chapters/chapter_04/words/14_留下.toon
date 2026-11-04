@@ -1,0 +1,64 @@
+id: 14
+hanzi: 留下
+pinyin: liú xià
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to leave behind; to stay behind; to keep; to retain
+  es: dejar; quedarse; permanecer; conservar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to remain behind or cause someone/something to stay | quedarse; retener; hacer que alguien permanezca | 留下来吃饭 (stay to eat)
+  2 | Verb | Standard | to leave behind as a record, memory, or bequest | dejar atrás; legar; dejar una huella | 留下深刻印象 (leave a deep impression)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 考虑到山路风雪难行且家中父母急盼米粮，子路婉言谢绝了主人挽留他留下过冬的好意。 | Kǎolǜ dào shānlù fēngxuě nánxíng qiě jiāzhōng fùmǔ jípàn mǐliáng, Zǐlù wǎnyán xièjué le zhǔrén wǎnliú tā liúxià guòdōng de hǎoyì. | Considering the mountain paths snow-bound and his parents eagerly awaiting rice, Zilu politely declined the master's kind invitation to stay through the winter. | Al ver los senderos cubiertos de nieve y sabiendo que sus padres esperaban con ansias el arroz, Zilu declinó amablemente la invitación del patrón de quedarse a pasar el invierno.
+  #2 | 这位杰出教育家毕生奉献于偏远乡村，为后人留下了极其宝贵的教学手稿和崇高的精神财富。 | Zhè wèi jiéchū jiàoyùjiā bìshēng fèngxiàn yú piānyuǎn xiāngcūn, wèi hòurén liúxià le jíqí bǎoguì de jiàoxué shǒugǎo hé chónggāo de jīngshén cáifù. | This outstanding educator dedicated his life to remote villages, leaving behind invaluable teaching manuscripts and noble spiritual wealth for posterity. | Aquel ilustre maestro consagró su vida a las aldeas remotas, legando a las generaciones venideras valiosos manuscritos y un elevado patrimonio espiritual.
+
+collocations[6]{hanzi,en}:
+  留下来 | stay behind; remain
+  留下印象 | leave an impression
+  留下印记 | leave an imprint / mark
+  留下遗憾 | leave behind regrets
+  留下地址 | leave an address
+  留下财产 | leave behind an inheritance
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  青史留名 | qīng shǐ liú míng | leave a name in the annals of history; immortalized
+  手下留情 | shǒu xià liú qíng | show mercy; hold back one's hand
+  留下后患 | liú xià hòu huàn | leave future troubles in one's wake
+  留连忘返 | liú lián wàng fǎn | linger on, forgetting to return
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  留 | liú | stay; remain; keep | quedar; permanecer; retener | 田 | field | 卯 (open doors/gates) | 田 (field of crops) | 10 | 上下结构 | Ideogrammic compound: halting at the gates (卯) beside the home fields (田) to cultivate and stay rather than wander. | Halting before the farm gates (卯) to stay rooted in fertile fields (田). | Detenerse ante los portales (卯) para echar raíces en campos fértiles (田). | 35 | MHW | ""
+  下 | xià | down; lower; directional complement | abajo; descender; complemento direccional | 一 | one | 一 (ground line) | 卜 (indicator pointing below line) | 3 | 单一结构 | Indicative character pointing downwards, acting as a directional verb complement denoting downward settling or retention. | An arrow marking downward planting or settling of an action. | Una señal descendente que indica la fijación o permanencia de una acción. | 51 | MY | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Stopping to stay in the home fields (留) and settling downward (下) firmly means to leave behind or stay (留下).
+  composite_memory_hook_es: Detenerse a permanecer en el campo familiar (留) y fijarse hacia abajo (下) equivale a quedarse o dejar una huella (留下).
+  cultural_and_cognitive_roots: In Chinese spatial cognition, 下 as a directional resultative complement signifies solid deposition, settling, or permanence.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by falling 4th tone or neutral tone: liú xià (35-51) or liú xia (35-0). In compounds like 留下来, xia is typically unstressed.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    溜 | liū | slip away; glide | Has 氵 (water) radical on the left with 留 on the right
+    榴 | liú | pomegranate | Has 木 (tree) radical on the left with 留 on the right
+    瘤 | liú | tumor; swelling | Has 疒 (sickness) radical on the outside of 留
+    卞 | biàn | surname; law | Similar upper dot and slash to 下
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    留学 | liú xué | study abroad
+    保留 | bǎo liú | retain; preserve
+    下降 | xià jiàng | descend; drop
+    下午 | xià wǔ | afternoon
+
+semantic_boundary_contrasts:
+  core_nuance: 留下 emphasizes the state or result of remaining behind, being retained, or leaving a physical/emotional legacy.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 留下 vs. 停留 | tíngliú | 留下 indicates staying behind permanently or leaving something behind, whereas 停留 emphasizes a temporary pause or transit layover.
+    2 | 留下 vs. 抛下 | pāoxià | 留下 can be positive or neutral, whereas 抛下 carries a strong negative connotation of abandoning or casting aside responsibilities.
+    3 | 留下 vs. 遗留 | yíliú | 留下 is standard spoken and written vocabulary for any physical or abstract result, while 遗留 is a formal, historical term denoting lingering problems.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 尽管主人再三诚意劝阻，希望他留下来继续做工避开风雪，但子路心中唯有家中断炊的老母。他不愿多留一日，只愿将辛劳换来的粮食尽快送到父母手中。 | Jǐnguǎn zhǔrén zàisān chéngyì quànzǔ, xīwàng tā liú xiàlái jìxù zuògōng bìkāi fēngxuě, dàn Zǐlù xīnzhōng wéiyǒu jiāzhōng duànchuī de lǎomǔ. Tā bú yuàn duō liú yí rì, zhǐ yuàn jiāng xīnláo huànlái de liángshi jǐnkuài sòng dào fùmǔ shǒuzhōng. | Although the master sincerely urged him to stay to work through the blizzard, Zilu thought only of his starving mother. Unwilling to stay an extra day, he longed to carry the hard-won grain home. | Pese a la sincera insistencia del patrón para que se quedara a pasar el temporal, Zilu solo pensaba en su madre sin sustento. No quiso demorarse ni un día más para llevarles el arroz cuanto antes.
+  #2 | 岁月如奔流不息的江水，然而那些为理想与仁爱默默付出的人，总能在历史的长河中留下不可磨灭的印记。物质财富终将随风消散，唯有高尚的道德操守与无私品格，才能为后世留下跨越千年的精神灯塔。 | Suìyuè rú bēnliú-bùxī de jiāngshuǐ, rán'ér nàxiē wèi lǐxiǎng yǔ rén'ài mòmò fùchū de rén, zǒng néng zài lìshǐ de chánghé zhōng liúxià bùkě-mómè de yìnjì. Wùzhì cáifù zhōng jiāng suí fēng xiāosàn, wéiyǒu gāoshàng de dàodé cāoshǒu yǔ wúsī pǐngé, cáinéng wèi hòushì liúxià kuàyuè qiānnián de jīngshén dēngtǎ. | Years flow like an unstoppable river, yet those who sacrifice for love and ideals always leave indelible marks in history. Material wealth scatters, but noble virtue leaves an enduring spiritual lighthouse for posterity. | Los años discurren como un río veloz, pero quienes se entregan con nobleza dejan huellas imborrables en la historia. Las riquezas materiales se desvanecen; solo la virtud y la integridad desinteresada legan un faro moral perdurable.

@@ -1,0 +1,63 @@
+id: 24
+hanzi: 傍晚
+pinyin: bàng wǎn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: towards evening; dusk; nightfall; twilight; sunset
+  es: al atardecer; al anochecer; crepúsculo; atardecer; caída de la tarde
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the period of the day when the sun is setting and darkness begins to fall; twilight | momento del día en que el sol se pone y cae la noche; crepúsculo | 傍晚时分 (at dusk / around twilight)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每当傍晚来临，夕阳将整片洋面染成金红，全家人便站在帆船甲板上静静欣赏这壮丽的日落。 | Měi dāng bàngwǎn láilín, xīyáng jiāng zhěng piàn yángmiàn rǎn chéng jīnhóng, quán jiārén biàn zhàn zài fānchuán jiǎbǎn shàng jìngjìng xīnshǎng zhè zhuànglì de rìluò. | Whenever dusk arrived and the setting sun dyed the ocean gold and crimson, the family stood on deck quietly admiring the majestic sunset. | Al caer el atardecer y teñir el sol poniente el mar de dorado y grana, la familia contemplaba en silencio la grandiosa puesta de sol desde la cubierta.
+  #2 | 气象监测站通常在每天傍晚汇总全天的卫星云图数据，为港口作业船只提供精准的夜间通航预报。 | Qìxiàng jiānkèzhàn tōngcháng zài měitiān bàngwǎn huìzǒng quántiān de wèixīng yúntú shùjù, wèi gǎngkǒu zuòyè chuánzhī tígōng jīngzhǔn de yèjiān tōngháng yùbào. | The meteorological station aggregates satellite cloud imagery every evening at dusk, delivering accurate nocturnal transit forecasts for harbor vessels. | La estación meteorológica consolida al anochecer las imágenes satelitales de la jornada para emitir partes precisos de navegación nocturna para los buques del puerto.
+
+collocations[6]{hanzi,en}:
+  傍晚时分 | at twilight; toward evening
+  接近傍晚 | approaching dusk
+  临近傍晚 | nearing nightfall
+  傍晚的微风 | evening breeze
+  在傍晚散步 | take a walk at dusk
+  傍晚的天空 | twilight sky
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  日薄西山 | rì bó xī shān | the sun is setting over the western hills; nearing the end of one's days
+  朝云暮雨 | zhāo yún mù yǔ | morning clouds and evening rain; fleeting amorous encounters
+  暮色苍茫 | mù sè cāng máng | dusk gathers hazy and deep; twilight shades envelop the landscape
+  夕阳西下 | xī yáng xī xià | the sun sets in the west; end of day
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  傍 | bàng | near; close to; draw near | arrimarse; acercarse; bordear | 亻 | person / human | 亻 (person drawing near or leaning against) | 旁 (páng phonetic / side or lateral flank) | 12 | 左右结构 | Phono-semantic compound: a person (亻) standing beside or leaning near another's side (旁), extended to time approaching. | A traveler (亻) leaning patiently by the side of the road (旁) as daylight begins to approach its end. | Un caminante (亻) arrimado a la orilla del camino (旁) viendo cómo las horas del día se agotan. | 51 | OYBS | ""
+  晚 | wǎn | evening; late; night | tarde; anochecer; noche | 日 | sun / day | 日 (sun setting and light fading) | 免 (miǎn phonetic / take off or escape) | 11 | 左右结构 | Phono-semantic compound: the bright sun (日) taking leave and departing (免) from the sky, ushering in the evening. | The blazing sun (日) taking off its fiery cloak (免) to rest quietly beneath the horizon. | El sol radiante (日) despojándose de su manto de fuego (免) para reposar tras la línea del horizonte. | 214 | ANAU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: As the sun begins to depart and draw near (傍) the evening hours (晚), twilight paints the sky at dusk (傍晚).
+  composite_memory_hook_es: Cuando la luz se arrima (傍) a las horas tardías de la noche (晚), el crepúsculo despide el día (傍晚).
+  cultural_and_cognitive_roots: In classical poetry, twilight ('暮' or '傍晚') is the quintessential reflective hour when farm plows rest, birds return to woods (倦鸟归林), and wandering poets contemplate home and the transient passage of time.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by a dipping 3rd tone: bàng wǎn (51-214). Drop 'bàng' briskly from 5 to 1 before allowing 'wǎn' to dip down into 214.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    傍 | bàng | near; draw near | Has 亻 (person) on the left and 旁 on the right
+    旁 | páng | beside; side | Standalone character without 亻
+    晚 | wǎn | evening; late | Has 日 (sun) on the left and 免 on the right
+    挽 | wǎn | pull; draw back;挽救 | Has 扌 (hand) on the left with 免
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    依傍 | yī bàng | depend on; rely upon
+    傍近 | bàng jìn | draw near to; approach
+    晚上 | wǎn shang | evening; night
+    夜晚 | yè wǎn | night; nighttime
+
+semantic_boundary_contrasts:
+  core_nuance: 傍晚 specifically pinpoints the transitional twilight window when daylight fades before darkness falls completely.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 傍晚 vs. 晚上 | wǎnshang | 傍晚 denotes specifically dusk/sunset transition (roughly 5 PM to 7 PM), whereas 晚上 covers the entire nocturnal span from sunset until midnight or sleep.
+    2 | 傍晚 vs. 黄昏 | huánghūn | 傍晚 is an objective everyday time term, while 黄昏 carries rich, evocative literary, melancholic, and romantic poetic atmosphere (黄昏时分).
+    3 | 傍晚 vs. 午后 | wǔhòu | 傍晚 refers to the sun dipping below the horizon at dusk, whereas 午后 refers broadly to the bright early hours following midday.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 乡村的傍晚最富诗意。当最后一抹夕阳滑落山脊，缕缕炊烟在晚霞中袅袅升起。牧童骑着水牛踏着暮色归家，劳作一天的农人扛着锄头走在田埂上。这幅平凡而安详的图景，洗去了世间所有的疲惫与浮华。 | Xiāngcūn de bàngwǎn zuì fù shīyì. Dāng zuìhòu yì mǒ xīyáng huáluò shānjǐ, lǚlǚ chuīyān zài wǎnxiá zhōng niǎoniǎo shēngqǐ. Mùtóng qí zhe shuǐniú tà zhe mùsè guījiā, láozuò yì tiān de nóngrén káng zhe chútou zǒu zài tiángěng shàng. Zhè fú píngfán ér ānxiáng de tújǐng, xǐqù le shìjiān suǒyǒu de píbèi yǔ fúhuá. | Rural dusk holds purest poetry. As final daylight glides behind ridges, hearth smoke spirals into sunset clouds. Cowherds ride buffaloes home while weary farmers tread ridges with hoes. This serene tableau gently cleanses worldly vanity and toil. | El atardecer rural encierra la máxima poesía. Al ocultarse el último rayo tras la loma, el humo del hogar sube hacia el arrebol. Pastores regresan con sus búfalos y labradores fatigosos cargan la azada. Esta estampa apacible lava las fatigas y vanidades del mundo.
+  #2 | 城市生态环境微气候研究表明，傍晚时段往往是城市地表热岛效应与大气湍流交换最为活跃的交汇节点。合理规划城市通风廊道与水体绿地布局，能有效促进傍晚空气对流散热，缓解夏季高温积聚，全面提升居民夜间户外生活的宜居品质。 | Chéngshì shēngtài huánjìng wēiqìhòu yánjiū biǎomíng, bàngwǎn shíduàn wǎngwǎng shì chéngshì dìbiǎo rèdǎoxiàoyìng yǔ dàqì tuānliú jiāohuàn zuìwéi huóyuè de jiāohuì jiédiǎn. Hélǐ guīhuà chéngshì tōngfēng lángdào yǔ shuǐtǐ lǜdì bùjú, néng yǒuxiào cùjìn bàngwǎn kōngqì duìliú sànrè, huǎnjiě xiàjì gāowēn jījù, quánmiàn tíshēng jūmín yèjiān hùwài shēnghuó de yíjū pǐnzhì. | Microclimate studies show dusk marks peak heat-island mitigation and turbulence exchange in urban environments. Designing municipal ventilation corridors and greenbelts promotes twilight convective cooling, mitigating thermal buildup to enhance nighttime outdoor livability for city residents. | Estudios de microclima urbano revelan que el atardecer concentra el intercambio térmico de la isla de calor. Trazar corredores de viento y zonas verdes favorece la convección al caer la tarde, aliviando las temperaturas para asegurar una mejor calidad de vida nocturna.

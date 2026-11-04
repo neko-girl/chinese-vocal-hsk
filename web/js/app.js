@@ -19,6 +19,21 @@ const App = (function() {
   let currentPosFilter = 'ALL';
   let currentLang = 'both';
 
+  // Intra-session stats & Auto-advance state
+  let sessionGoodCount = 0;
+  let sessionAgainCount = 0;
+  let autoAdvanceTimer = null;
+  let autoAdvanceSecondsLeft = 5;
+  let isAutoAdvancePaused = false;
+
+  // Clear running auto-advance timer
+  function clearAutoAdvanceTimer() {
+    if (autoAdvanceTimer) {
+      clearInterval(autoAdvanceTimer);
+      autoAdvanceTimer = null;
+    }
+  }
+
   // Current active word object
   function getCurrentWord() {
     if (studyMode === 'flashcard') {
@@ -69,32 +84,107 @@ const App = (function() {
     currentCardSide = 'front';
   }
 
-  // Update Topbar Mastery Progress Bar & Stats
+  // Update Topbar Mastery Progress Bar & Stats HUD
   function updateMasteryStats() {
     if (!currentChapter) return;
     const stats = StorageManager.getChapterStats(currentChapter.dir, WORDS);
 
-    const countEl = document.getElementById('mastery-text');
-    const barEl = document.getElementById('mastery-bar-fill');
-    if (countEl) {
-      countEl.textContent = `${stats.remembered}/${stats.total} (${stats.percent}%)`;
-    }
-    if (barEl) {
-      barEl.style.width = `${stats.percent}%`;
-    }
-
-    // Update Counter
+    // Update Counter & HUD Progress Bar
     const counterEl = document.getElementById('word-counter');
+    const hudFillEl = document.getElementById('hud-bar-fill');
     if (counterEl) {
       if (studyMode === 'flashcard') {
         const totalInQueue = reviewQueue.length;
         const currentPos = totalInQueue > 0 ? queueIndex + 1 : 0;
         counterEl.textContent = `${String(currentPos).padStart(2, '0')} / ${String(totalInQueue).padStart(2, '0')}`;
+        if (hudFillEl) {
+          const pct = totalInQueue > 0 ? Math.round((currentPos / totalInQueue) * 100) : 0;
+          hudFillEl.style.width = `${pct}%`;
+        }
       } else {
         const total = WORDS.length;
         const currentPos = queueIndex + 1;
         counterEl.textContent = `${String(currentPos).padStart(2, '0')} / ${String(total).padStart(2, '0')}`;
+        if (hudFillEl) {
+          const pct = total > 0 ? Math.round((currentPos / total) * 100) : 0;
+          hudFillEl.style.width = `${pct}%`;
+        }
       }
+    }
+
+    // Update Session Counters in Topbar HUD
+    const goodEl = document.getElementById('session-good-count');
+    const againEl = document.getElementById('session-again-count');
+    if (goodEl) goodEl.textContent = sessionGoodCount;
+    if (againEl) againEl.textContent = sessionAgainCount;
+
+    // Update Chapter Badge & Title in Topbar
+    const badgeEl = document.getElementById('topbar-ch-badge');
+    const titleEl = document.getElementById('topbar-ch-title');
+    if (badgeEl) badgeEl.textContent = `CHP ${currentChapter.id}`;
+    if (titleEl) titleEl.textContent = currentChapter.title || currentChapter.name;
+  }
+
+  // Auto-Advance Countdown Controller
+  function startAutoAdvanceCountdown(stats, nextChapter, totalDelay) {
+    clearAutoAdvanceTimer();
+    autoAdvanceSecondsLeft = totalDelay;
+    isAutoAdvancePaused = false;
+
+    autoAdvanceTimer = setInterval(() => {
+      if (isAutoAdvancePaused) return;
+      autoAdvanceSecondsLeft--;
+
+      if (autoAdvanceSecondsLeft <= 0) {
+        clearAutoAdvanceTimer();
+        skipToNextChapter();
+      } else {
+        const numEl = document.getElementById('countdown-seconds-num');
+        const fillEl = document.getElementById('countdown-bar-fill');
+        if (numEl) numEl.textContent = autoAdvanceSecondsLeft;
+        if (fillEl) {
+          const pct = Math.max(0, (autoAdvanceSecondsLeft / totalDelay) * 100);
+          fillEl.style.width = `${pct}%`;
+        }
+      }
+    }, 1000);
+  }
+
+  async function skipToNextChapter() {
+    clearAutoAdvanceTimer();
+    const currentIdx = chapters.findIndex(c => c.dir === currentChapter.dir);
+    if (currentIdx !== -1 && currentIdx + 1 < chapters.length) {
+      const nextChapter = chapters[currentIdx + 1];
+      sessionGoodCount = 0;
+      sessionAgainCount = 0;
+      await switchChapter(nextChapter.dir);
+    }
+  }
+
+  function pauseAutoAdvance() {
+    isAutoAdvancePaused = true;
+    const stats = StorageManager.getChapterStats(currentChapter.dir, WORDS);
+    const currentIdx = chapters.findIndex(c => c.dir === currentChapter.dir);
+    const nextChapter = (currentIdx !== -1 && currentIdx + 1 < chapters.length) ? chapters[currentIdx + 1] : null;
+    const settings = StorageManager.getSettings();
+    renderCompletionScreen(stats, currentChapter, nextChapter, autoAdvanceSecondsLeft, true, true, settings.autoAdvanceDelay || 5);
+  }
+
+  function resumeAutoAdvance() {
+    isAutoAdvancePaused = false;
+    const stats = StorageManager.getChapterStats(currentChapter.dir, WORDS);
+    const currentIdx = chapters.findIndex(c => c.dir === currentChapter.dir);
+    const nextChapter = (currentIdx !== -1 && currentIdx + 1 < chapters.length) ? chapters[currentIdx + 1] : null;
+    const settings = StorageManager.getSettings();
+    renderCompletionScreen(stats, currentChapter, nextChapter, autoAdvanceSecondsLeft, true, false, settings.autoAdvanceDelay || 5);
+  }
+
+  async function restartFromChapter1() {
+    clearAutoAdvanceTimer();
+    sessionGoodCount = 0;
+    sessionAgainCount = 0;
+    if (chapters.length > 0) {
+      await switchChapter(chapters[0].dir);
     }
   }
 
@@ -106,10 +196,27 @@ const App = (function() {
     if (studyMode === 'flashcard') {
       if (reviewQueue.length === 0 || queueIndex >= reviewQueue.length) {
         const stats = StorageManager.getChapterStats(currentChapter.dir, WORDS);
-        renderCompletionScreen(stats);
+        const currentIdx = chapters.findIndex(c => c.dir === currentChapter.dir);
+        const nextChapter = (currentIdx !== -1 && currentIdx + 1 < chapters.length) ? chapters[currentIdx + 1] : null;
+        const settings = StorageManager.getSettings();
+        const totalDelay = settings.autoAdvanceDelay || 5;
+
+        if (nextChapter && settings.autoAdvanceChapter) {
+          if (!autoAdvanceTimer && !isAutoAdvancePaused) {
+            startAutoAdvanceCountdown(stats, nextChapter, totalDelay);
+          }
+          renderCompletionScreen(stats, currentChapter, nextChapter, autoAdvanceSecondsLeft, true, isAutoAdvancePaused, totalDelay);
+        } else {
+          clearAutoAdvanceTimer();
+          renderCompletionScreen(stats, currentChapter, nextChapter, 0, false, false, totalDelay);
+        }
+
+        updateMasteryStats();
         return;
       }
 
+      // We are in an active card review
+      clearAutoAdvanceTimer();
       const w = getCurrentWord();
       if (!w) return;
 
@@ -124,6 +231,7 @@ const App = (function() {
       renderActionBar(currentCardSide, studyMode);
     } else {
       // Browse Mode
+      clearAutoAdvanceTimer();
       const w = getCurrentWord();
       renderBrowseView(w, currentLang);
       renderActionBar('front', 'browse');
@@ -151,6 +259,7 @@ const App = (function() {
         reviewQueue.splice(queueIndex, 0, id);
       }
       currentCardSide = 'front';
+      closeWordListDrawer();
     } else {
       const idx = WORDS.findIndex(w => String(w.id) === String(id));
       if (idx !== -1) queueIndex = idx;
@@ -179,6 +288,12 @@ const App = (function() {
 
     // Record review in storage
     StorageManager.recordReview(currentChapter.dir, w.id, status);
+
+    if (status === 'remembered') {
+      sessionGoodCount++;
+    } else {
+      sessionAgainCount++;
+    }
 
     // Intra-session active recall lapse loop:
     // If the user forgot ("dont_remember"), re-insert this card into the session queue
@@ -263,6 +378,11 @@ const App = (function() {
 
   // Switch Chapter
   async function switchChapter(chapterDir) {
+    clearAutoAdvanceTimer();
+    sessionGoodCount = 0;
+    sessionAgainCount = 0;
+    closeWordListDrawer();
+
     const found = chapters.find(c => c.dir === chapterDir) || chapters[0];
     if (!found) return;
 
@@ -285,6 +405,7 @@ const App = (function() {
     }
 
     filteredWords = [...WORDS];
+    currentCardSide = 'front';
     buildReviewQueue();
     renderCurrentWord();
   }
@@ -363,16 +484,50 @@ const App = (function() {
     const autoAudioCheck = document.getElementById('toggle-auto-audio');
     const toneColorsCheck = document.getElementById('toggle-tone-colors');
     const speechRateRange = document.getElementById('speech-rate-range');
+    const autoAdvanceCheck = document.getElementById('toggle-auto-advance');
+    const delayRange = document.getElementById('auto-advance-delay-range');
+    const delayLabel = document.getElementById('countdown-val-label');
 
     if (autoAudioCheck) autoAudioCheck.checked = !!settings.autoAudio;
     if (toneColorsCheck) toneColorsCheck.checked = !!settings.toneColors;
     if (speechRateRange) speechRateRange.value = settings.speechRate || 0.9;
+    if (autoAdvanceCheck) autoAdvanceCheck.checked = settings.autoAdvanceChapter !== false;
+    if (delayRange) delayRange.value = settings.autoAdvanceDelay || 5;
+    if (delayLabel) delayLabel.textContent = `${settings.autoAdvanceDelay || 5}s`;
 
     drawer.classList.add('active');
     if (overlay) overlay.classList.add('active');
   }
 
+  // Word List Off-Canvas Drawer Management
+  function openWordListDrawer() {
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('drawer-overlay');
+    if (sidebar) sidebar.classList.add('active');
+    if (overlay) overlay.classList.add('active');
+  }
+
+  function closeWordListDrawer() {
+    const sidebar = document.getElementById('sidebar');
+    if (sidebar) sidebar.classList.remove('active');
+    const hasOtherActive = document.querySelector('.ankineitor-drawer.active');
+    if (!hasOtherActive) {
+      const overlay = document.getElementById('drawer-overlay');
+      if (overlay) overlay.classList.remove('active');
+    }
+  }
+
+  function toggleWordListDrawer() {
+    const sidebar = document.getElementById('sidebar');
+    if (sidebar && sidebar.classList.contains('active')) {
+      closeWordListDrawer();
+    } else {
+      openWordListDrawer();
+    }
+  }
+
   function closeDrawers() {
+    closeWordListDrawer();
     document.querySelectorAll('.ankineitor-drawer').forEach(d => d.classList.remove('active'));
     const overlay = document.getElementById('drawer-overlay');
     if (overlay) overlay.classList.remove('active');
@@ -423,6 +578,11 @@ const App = (function() {
       }
 
       // Drawer shortcuts
+      if (e.key === 'w' || e.key === 'W') {
+        e.preventDefault();
+        toggleWordListDrawer();
+        return;
+      }
       if (e.key === 'l' || e.key === 'L') {
         e.preventDefault();
         openLookupDrawer();
@@ -450,7 +610,28 @@ const App = (function() {
       }
 
       if (studyMode === 'flashcard') {
-        // Space / Enter handling
+        // If on chapter milestone completion screen
+        if (reviewQueue.length === 0 || queueIndex >= reviewQueue.length) {
+          if (e.key === ' ' || e.key === 'Enter') {
+            e.preventDefault();
+            const currentIdx = chapters.findIndex(c => c.dir === currentChapter?.dir);
+            if (currentIdx !== -1 && currentIdx + 1 < chapters.length) {
+              skipToNextChapter();
+            } else {
+              restartFromChapter1();
+            }
+            return;
+          }
+          if (e.key === 'p' || e.key === 'P') {
+            e.preventDefault();
+            if (isAutoAdvancePaused) resumeAutoAdvance();
+            else pauseAutoAdvance();
+            return;
+          }
+          return;
+        }
+
+        // Space / Enter handling during active flashcard review
         if (e.key === ' ' || e.key === 'Enter') {
           e.preventDefault();
           if (currentCardSide === 'front') {
@@ -604,15 +785,14 @@ const App = (function() {
     }
 
     // Theme toggle
-    const themeBtn = document.getElementById('theme-btn');
-    if (themeBtn) {
-      themeBtn.addEventListener('click', () => {
-        const isLight = document.body.getAttribute('data-theme') === 'light';
-        const newTheme = isLight ? 'dark' : 'light';
-        document.body.setAttribute('data-theme', newTheme);
-        localStorage.setItem('hsk_theme', newTheme);
-      });
-    }
+    const handleThemeToggle = () => {
+      const isLight = document.body.getAttribute('data-theme') === 'light';
+      const newTheme = isLight ? 'dark' : 'light';
+      document.body.setAttribute('data-theme', newTheme);
+      localStorage.setItem('hsk_theme', newTheme);
+    };
+    document.getElementById('theme-btn')?.addEventListener('click', handleThemeToggle);
+    document.getElementById('main-theme-btn')?.addEventListener('click', handleThemeToggle);
 
     // Chapter Select
     const chapterSelect = document.getElementById('chapter-select');
@@ -623,6 +803,23 @@ const App = (function() {
     }
 
     // Settings Drawer Controls
+    const autoAdvanceCheck = document.getElementById('toggle-auto-advance');
+    if (autoAdvanceCheck) {
+      autoAdvanceCheck.addEventListener('change', (e) => {
+        StorageManager.saveSettings({ autoAdvanceChapter: e.target.checked });
+      });
+    }
+
+    const delayRange = document.getElementById('auto-advance-delay-range');
+    const delayLabel = document.getElementById('countdown-val-label');
+    if (delayRange) {
+      delayRange.addEventListener('input', (e) => {
+        const val = parseInt(e.target.value, 10);
+        if (delayLabel) delayLabel.textContent = `${val}s`;
+        StorageManager.saveSettings({ autoAdvanceDelay: val });
+      });
+    }
+
     const autoAudioCheck = document.getElementById('toggle-auto-audio');
     if (autoAudioCheck) {
       autoAudioCheck.addEventListener('change', (e) => {
@@ -711,14 +908,31 @@ const App = (function() {
     setStudyMode,
     filterByReviewStatus,
     restartQueue() {
+      clearAutoAdvanceTimer();
+      sessionGoodCount = 0;
+      sessionAgainCount = 0;
       buildReviewQueue();
       renderCurrentWord();
     },
+    studyCurrentWord(id) {
+      setStudyMode('flashcard');
+      selectWordById(id);
+    },
+    openWordListDrawer,
+    closeWordListDrawer,
+    toggleWordListDrawer,
     openLookupDrawer,
     openSettingsDrawer,
     closeDrawers,
     toggleShortcutsModal,
-    resetCurrentChapterProgress
+    resetCurrentChapterProgress,
+    skipToNextChapter,
+    pauseAutoAdvance,
+    resumeAutoAdvance,
+    restartFromChapter1,
+    getAutoAdvanceDelay() {
+      return StorageManager.getSettings().autoAdvanceDelay || 5;
+    }
   };
 })();
 

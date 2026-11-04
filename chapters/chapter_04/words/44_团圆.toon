@@ -1,0 +1,63 @@
+id: 44
+hanzi: 团圆
+pinyin: tuán yuán
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to have a reunion; to reunite; family reunion
+  es: reunirse (la familia); reencontrarse; unión familiar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to reunite and gather together happily after a period of separation (especially family members) | reunirse alegremente los miembros de una familia tras una separación | 全家团圆 (the whole family reunites)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 炊烟在简陋的茅屋顶上袅袅升起，一家三口围坐在热气腾腾的白米饭前，享受着风雪夜中最珍贵的全家团圆。 | Chuīyān zài jiǎnlòu de máowū dǐng shàng niǎoniǎo shēngqǐ, yì jiā sān kǒu wéizuò zài rèqì-téngténg de báimǐfàn qián, xiǎngshòuzhe fēngxuě yè zhōng zuì zhēnguì de quánjiā tuányuán. | Cooking smoke curled up gently from the thatched roof as the family of three gathered around steaming white rice, cherishing the most precious family reunion on this snowy night. | El humo de la cocina se elevaba sobre la humilde choza mientras la familia de tres se sentaba ante el arroz humeante, gozando de la más preciada reunión familiar en esa noche de nieve.
+  #2 | 每逢中秋佳节，无论身在何方，无数游子都会竭尽全力赶回家乡，只为与期盼已久的父母共度一个温馨祥和的团圆之夜。 | Měi féng Zhōngqiū jiājié, wúlùn shēn zài héfāng, wúshù yóuzǐ dōuhuì jiéjìn quánlì gǎnhuí jiāxiāng, zhǐ wèi yǔ qīpàn-yǐjiǔ de fùmǔ gòngdù yí gè wēnxīn xiánghé de tuányuán zhī yè. | Every Mid-Autumn Festival, no matter where they are, countless wanderers strive their utmost to return home to share a warm, peaceful reunion evening with their waiting parents. | En cada Fiesta del Medio Otoño, sin importar la lejanía, innumerables viajeros hacen lo imposible por regresar a casa y compartir una cálida noche de reencuentro con sus ancianos padres.
+
+collocations[6]{hanzi,en}:
+  全家团圆 | the entire family reunites
+  团圆饭 | family reunion dinner
+  盼望团圆 | yearn for family reunion
+  欢聚团圆 | gather joyously in reunion
+  阖家团圆 | joyous reunion of the whole family
+  中秋团圆 | Mid-Autumn Festival reunion
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  骨肉团圆 | gǔ ròu tuán yuán | reunion of flesh-and-blood family members
+  天伦之乐 | tiān lún zhī lè | domestic bliss; joy of family reunion
+  破镜重圆 | pò jìng chóng yuán | a broken mirror made round again (reunion after separation)
+  欢聚一堂 | huān jù yì táng | happily gather together under one roof
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  团 | tuán | group; round; cluster; unite | grupo; esfera; unir; reunión | 囗 | enclosure | 囗 (enclosing boundary) | 才 (talent / phonetic in simplified) | 6 | 全包围结构 | Enclosure 囗 encircling members tightly into a cohesive sphere or cluster, representing intimate solidarity. | An enclosure (囗) drawing talented loved ones (才) together into a warm circular group. | Un recinto (囗) que abraza a los seres queridos (才) en un círculo de afecto y unión. | 35 | WDI | 團
+  圆 | yuán | round; circular; complete; fulfill | redondo; circular; completo | 囗 | enclosure | 囗 (round boundary) | 员 (yuán / member / round phonetic) | 10 | 全包围结构 | Enclosure 囗 wrapping around 员, depicting the round, complete shape of an ancient jade disc or the full moon, symbolizing completeness. | An enclosing circle (囗) embracing all family members (员) into harmonious wholeness like the full moon. | Un círculo exterior (囗) que envuelve a cada miembro (员) en una esfera perfecta como la luna llena. | 35 | WRBO | 圓
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Enclosing everyone in a group (团) within a complete round circle like the full moon (圆) creates a heartwarming family reunion (团圆).
+  composite_memory_hook_es: Encerrar a todos en un abrazo grupal (团) dentro de un círculo pleno como la luna llena (圆) representa el reencuentro familiar (团圆).
+  cultural_and_cognitive_roots: The circular motif in 团圆 echoes the Chinese philosophical concept of 圆满 (perfection and completeness), embodied in the full moon on Mid-Autumn night and eating round dumplings or mooncakes.
+  tone_sandhi_and_pitch_modulation: Two rising 2nd tones: tuán yuán (35-35). Both syllables rise gracefully with sustained melodic cadence.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    困 | kùn | trapped; sleepy | Has 木 inside 囗 instead of 才
+    国 | guó | country; state | Has 玉 (jade) inside 囗 instead of 才
+    园 | yuán | garden; park | Has 元 inside 囗 instead of 员
+    圈 | quān | circle; ring | Has 卷 inside 囗 instead of 员
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    团结 | tuán jié | unite; rally together
+    团体 | tuán tǐ | organization; team
+    圆满 | yuán mǎn | satisfactory; complete
+    原则 | yuán zé | principle; standard
+
+semantic_boundary_contrasts:
+  core_nuance: 团圆 specifically conveys the emotional, intimate joy of family members or loved ones reuniting in harmonious completeness after separation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 团圆 vs. 聚会 | jùhuì | 团圆 carries profound emotional and cultural weight regarding family reunion and completeness, whereas 聚会 is an everyday social gathering of friends, colleagues, or clubs.
+    2 | 团圆 vs. 重逢 | chóngféng | 团圆 emphasizes the warm, unified state of the whole family together, whereas 重逢 highlights the specific moment of crossing paths again after parting.
+    3 | 团圆 vs. 见面 | jiànmiàn | 团圆 is a culturally solemn reunion of kin, whereas 见面 is an ordinary meeting or casual encounter between people.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 外面北风呼啸、天寒地冻，草屋内却炭火微明、饭香扑鼻。子路为父母盛上洁白的米饭。看到儿子平安归来，父母笑逐颜开，这风雪夜中的全家团圆胜过了一切荣华富贵。 | Wàimiàn běifēng hūxiào, tiānhán-dìdòng, cǎowū nèi què tànhuǒ wēimíng, fànxiāng pūbí. Zǐlù wèi fùmǔ chéng shàng jiébái de mǐfàn. Kàndào érzi píng'ān guīlái, fùmǔ xiàozhúyánkāi, zhè fēngxuě yè zhōng de quánjiā tuányuán shèngguò le yíqiè rónghuá-fùguì. | Outside, freezing winds howled, but inside the hut embers glowed and rice aroma filled the air. Zilu served bowls of pure white rice to his parents. Seeing their son return safe brought joyful smiles; this blizzard family reunion surpassed all worldly riches. | Afuera aullaba el viento gélido, pero en la choza brillaban las brasas y flotaba el dulce aroma del arroz. Zilu sirvió el blanco manjar a sus padres. Ver a su hijo regresar sano colmó sus rostros de gozo; este reencuentro familiar en la nieve superó toda la riqueza terrenal.
+  #2 | 在当代跨国劳动力流动与快速城市化背景下，如何保障数以千万计在异乡打拼的建设者拥有阖家团圆的权利，成为了社会政策考量的重要议题。便捷的高铁网络和逐渐延长的带薪年假制度，正让曾经奢侈漫长的归乡团圆之旅变得更加触手可及。 | Zài dāngdài kuàguó láodònglì liúdòng yǔ kuàisù chéngshìhuà bèijǐng xià, rúhé bǎozhàng shù yǐ qiānwàn jì zài yìxiāng dǎpīn de jiànshèzhě yǒngyǒu héjiā tuányuán de quánlì, chéngwéile shèhuì zhèngcè kǎoliáng de zhòngyào yìtí. Biànjié de gāotiě wǎngluò yǔ zhújiàn yáncháng de dàixīn niánjià zhìdù, zhèng ràng céngjīng shēchǐ màncháng de guīxiāng tuányuán zhī lǚ biànde gèngjiā chùshǒu-kějí. | In the era of labor mobility and rapid urbanization, securing the right to family reunion for millions of migrant workers has become an important social policy issue. High-speed rail networks and extended paid leave are making the once-luxurious reunion journey increasingly accessible. | En el contexto de la migración laboral y la urbanización acelerada, garantizar el derecho a la reunión familiar a millones de trabajadores es un reto clave de política social. Las redes de trenes de alta velocidad y las vacaciones remuneradas hacen que el ansiado regreso al hogar sea hoy más accesible.

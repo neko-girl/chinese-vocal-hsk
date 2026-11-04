@@ -1,0 +1,63 @@
+id: 27
+hanzi: 袋
+pinyin: dài
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: bag; sack; pouch; pocket; classifier for bags/sacks
+  es: bolsa; saco; talega; bolsillo; clasificador para bolsas
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a bag, sack, pouch, or pocket used to hold objects | bolsa; saco; talega; costal | 环保塑料袋 (eco-friendly plastic bag)
+  2 | Measure Word | Standard | classifier for things contained in bags, sacks, or packets | clasificador para bolsas, sacos o paquetes | 一袋大米 (a sack of rice)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 瘦弱的子路咬紧牙关，将那沉甸甸的一整袋大米扛在肩头，步履维艰却步履坚定地向家的方向走去。 | Shòuruò de Zǐlù yǎojǐn yáguān, jiāng nà chéndiāndiān de yì zhěng dài dàmǐ káng zài jiāntóu, bùlǚ-wéijiān què bùlǚ jiāndìng de xiàng jiā de fāngxiàng zǒu qù. | Slender Zilu gritted his teeth, shouldered that heavy full sack of rice, and walked toward home with strenuous yet unwavering strides. | El enjuto Zilu apretó los dientes, se cargó al hombro aquel pesado saco de arroz y avanzó hacia su hogar con paso dificultoso pero inquebrantable.
+  #2 | 为了减少白色污染与塑料垃圾，各大连锁超市全面推广使用可降解环保布袋。 | Wèile jiǎnshǎo báisè wūrǎn yǔ sùliào lājī, gè dà liánsuǒ chāoshì quánmiàn tuīguǎng shǐyòng kě-jiàngjiě huánbǎo bùdài. | To reduce white pollution and plastic waste, major supermarket chains have fully promoted biodegradable eco-friendly cloth bags. | Con el fin de reducir la contaminación plástica, las principales cadenas de supermercados han promovido el uso de bolsas de tela biodegradables.
+
+collocations[6]{hanzi,en}:
+  一袋大米 | a sack of rice
+  塑料袋 | plastic bag
+  环保布袋 | eco-friendly cloth bag
+  口袋 | pocket; pouch
+  垃圾袋 | trash bag
+  扎紧袋口 | tie the mouth of the sack tightly
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  倾囊相助 | qīng náng xiāng zhù | empty one's purse to help; give wholehearted assistance
+  探囊取物 | tàn náng qǔ wù | take something out of a bag; as easy as taking candy from a baby
+  布袋和尚 | bù dài hé shàng | the Cloth Bag Monk (Budai / laughing Buddha)
+  囊空如洗 | náng kōng rú xǐ | one's pockets are as clean as if washed; penniless
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  袋 | dài | bag; sack; pouch | bolsa; saco; fardo | 衣 | clothes / clothing | 衣 (fabric / sewn cloth garment) | 代 (dài / change/substitute phonetic) | 11 | 上下结构 | Phono-semantic compound: 代 (phonetic) + 衣 (garment cloth), originally a cloth pouch or sack sewn from woven fabric to store grain or possessions. | Fabric of woven clothing (衣) stitched into a durable sack to carry grain across generations (代). | Tela de prendas cosidas (衣) transformada en un resistente saco para transportar grano (代). | 51 | IOPV | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Cloth stitched like garments (衣) to substitute (代) hands in carrying heavy loads forms a sturdy sack (袋).
+  composite_memory_hook_es: Tejido cosido como una prenda (衣) para suplir (代) las manos y transportar cargas pesadas es un saco (袋).
+  cultural_and_cognitive_roots: In ancient agrarian life, coarse hemp sacks were the primary containers for transporting grain harvests and barter goods across long mountain trails.
+  tone_sandhi_and_pitch_modulation: High-falling 4th tone: dài (51). When following 一 (yī), 一 undergoes 2nd tone sandhi: yí dài (35-51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    代 | dài | generation; replace | Upper phonetic component without the bottom 衣
+    装 | zhuāng | attire; pack; dress | Has 壮 on the top left of 衣 instead of 代
+    袈 | jiā | cassock | Has 加 above 衣 instead of 代
+    裘 | qiú | fur coat | Has 求 above 衣 instead of 代
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    口袋 | kǒu dài | pocket; sack
+    麻袋 | má dài | gunny sack; burlap bag
+    表白 | biǎo bái | express; confess
+    代表 | dài biǎo | represent; representative
+
+semantic_boundary_contrasts:
+  core_nuance: 袋 denotes a flexible container made of cloth, plastic, paper, or leather used for holding, carrying, or measuring bulk goods.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 袋 vs. 包 | bāo | 包 is a versatile general term for backpacks, handbags, or wrapped parcels, whereas 袋 specifically emphasizes flexible sacks, pouches, or packaging bags.
+    2 | 袋 vs. 囊 | náng | 袋 is modern, practical everyday vocabulary, whereas 囊 is an archaic, literary morpheme reserved for classical idioms.
+    3 | 袋 vs. 兜 | dōu | 袋 refers to manufactured bags and sacks, while 兜 is colloquial for clothing pockets or a curved cloth sling.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 粗糙的麻袋磨破了子路单薄的衣衫，沉重的米袋将他的肩膀压得红肿淤青。但他用双手紧紧揽住袋口，每前进一步，心中就多一份让父母尽早吃上白米的欣慰。 | Cūcāo de mádài mó pò le Zǐlù dānbó de yīshān, chénzhòng de mǐdài jiāng tā de jiānbiǎng yā de hóngzhǒng yūqīng. Dàn tā yòng shuāngshǒu jǐnjǐn lǎn zhù dàikǒu, měi qiánjìn yí bù, xīnzhōng jiù duō yí fèn ràng fùmǔ jìnzǎo chī shang báimǐ de xīnwèi. | The rough burlap sack rubbed through Zilu's thin shirt, bruising his shoulders under its heavy weight. Yet he clutched the mouth of the sack tightly, rejoicing with every step that his parents would soon eat white rice. | El áspero saco de arpillera rasgó las finas ropas de Zilu, amoratando sus hombros bajo el tremendo peso. Mas sujetaba con firmeza la boca del saco, reconfortado a cada paso con la idea de que sus padres comerían arroz blanco.
+  #2 | 从远古先民用兽皮缝制的储物囊，到工业革命普及的麻袋与现代高分子包装袋，“袋”的发明与演变深刻体现了人类利用工具拓展搬运能力的技术智慧。它不仅改变了物资储运模式，更构成了人类商贸物流史的重要见证。 | Cóng yuǎngǔ xiānmín yòng shòupí féngzhì de chǔwùnáng, dào gōngyè gémìng pǔjí de mádài yǔ xiàndài gāofēnzǐ bāozhuāngdài, "dài" de fāmíng yǔ yǎnbiàn shēnkè tǐxiàn le rénlèi lìyòng gōngjù tuòzhǎn bānyùn nénglì de jìshù zhìhuì. Tā bùjǐn gǎibiàn le wùzī chǔyùn móshì, gèng gòuchéng le rénlèi shāngmào wùliú shǐ de zhòngyào jiànzhèng. | From prehistoric hide pouches to industrial burlap bags and modern polymers, the sack's evolution showcases human technological ingenuity in cargo transport. It transformed storage and logistics throughout commercial history. | Desde las bolsas prehistóricas de piel hasta la arpillera industrial y los polímeros modernos, el saco refleja el ingenio humano para transportar cargas. Esta herramienta revolucionó el almacenamiento y la logística del comercio universal.

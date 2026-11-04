@@ -1,0 +1,63 @@
+id: 31
+hanzi: 工人
+pinyin: gōng rén
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: worker; manual laborer; blue-collar worker; workman
+  es: obrero; trabajador; operario; peón
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person engaged in physical, technical, or industrial manual labor | persona que realiza un trabajo manual, técnico o industrial por un salario | 建筑工人 (construction worker)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 辞职买船前，翟峰曾是一名普通的铁路工人，每天在铁轨与机车旁过着平淡而规律的生活。 | Cízhí mǎi chuán qián, Zhái Fēng céng shì yì míng pǔtōng de tiělù gōngrén, měitiān zài tiěguǐ yǔ jīchē páng guò zhe píngdàn ér guīlǜ de shēnghuó. | Before resigning to buy the yacht, Zhai Feng was an ordinary railway worker living a routine life beside rails and locomotives. | Antes de dejar su empleo para comprar el velero, Zhai Feng era un ferroviario común que llevaba una vida rutinaria junto a las vías.
+  #2 | 造船厂的技术工人们凭借精湛的焊接工艺，顺利攻克了深海科考船高强度钢材拼接的技术难题。 | Zàochuánchǎng de jìshù gōngrénmen píngjiè jīngzhàn de hànjiē gōngyì, shùnlì gōngkè le shēnhǎi kěkǎochuán gāoqiángdù gāngcái pīnjiē de jìshù nándí. | Shipyard technicians relied on consummate welding skills to overcome the challenge of bonding high-strength steel for the research vessel. | Los operarios técnicos del astillero aplicaron soldaduras de precisión para unir el acero de alta resistencia del buque de investigación.
+
+collocations[6]{hanzi,en}:
+  铁路工人 | railway worker
+  建筑工人 | construction worker
+  技术工人 | skilled technician / technical worker
+  工人阶级 | working class
+  产业工人 | industrial worker
+  普通工人 | ordinary worker
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  巧夺天工 | qiǎo duó tiān gōng | superb craftsmanship excelling nature; wonderful workmanship
+  人尽其才 | rén jìn qí cái | everyone brings their talents into full play
+  任劳任怨 | rèn láo rèn yuàn | bear hardship and blame without complaint; work uncomplainingly
+  同心同德 | tóng xīn tóng dé | of one mind and one heart; united in purpose
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  工 | gōng | labor; work; craft | trabajo; obra; artesano | 工 | work / carpenter's square | 工 (pictograph of a carpenter's square or mallet) | "" | 3 | 独体结构 | Ancient pictograph of a carpenter's framing square or stone-chisel tool, denoting craftsmanship and physical work. | An ancient carpenter's square (工) used by craftsmen to measure stone and wood with precision. | Una escuadra de carpintero (工) empleada por los artesanos para labrar madera y piedra con exactitud. | 55 | M | ""
+  人 | rén | human; person; worker | persona; ser humano | 人 | person / human | 人 (pictograph of a person standing) | "" | 2 | 独体结构 | Ancient pictograph of a human being standing erect on two walking legs. | An upright person (人) dedicating hands and body to purposeful productive labor. | Un ser humano erguido (人) que entrega su fuerza y destreza a la labor productiva diaria. | 35 | O | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A person (人) applying craft tools (工) to productive labor is an honorable worker (工人).
+  composite_memory_hook_es: Una persona (人) que maneja las herramientas del oficio (工) con esfuerzo es un digno trabajador u obrero (工人).
+  cultural_and_cognitive_roots: In modern Chinese history, the working class ('工人阶级') became the vanguard of industrialization and national modernization, celebrated for dignity, stamina, and craftsmanship spirit.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by a rising 2nd tone: gōng rén (55-35). Hold 'gōng' sustained before elevating pitch clearly into 'rén'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    工 | gōng | labor; work | Three strokes without vertical protrusion
+    土 | tǔ | earth; soil | Has vertical stroke cutting through center
+    士 | shì | scholar; soldier | Top horizontal stroke is longer than bottom
+    人 | rén | human; person | Two simple slanting strokes
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    工业 | gōng yè | industry; manufacturing
+    工程 | gōng chéng | engineering; project
+    人工 | rén gōng | artificial; manual labor
+    人民 | rén mín | the people; citizens
+
+semantic_boundary_contrasts:
+  core_nuance: 工人 specifically refers to blue-collar wage laborers employed in manufacturing, construction, transport, or physical trades.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 工人 vs. 员工 | yuángōng | 工人 designates blue-collar manual or technical industrial workers, whereas 员工 is an umbrella corporate term for all staff (including white-collar managers, clerks, and technicians).
+    2 | 工人 vs. 农民 | nóngmín | 工人 works in factories, mines, railways, or urban construction for a wage, while 农民 works in agriculture, tilling arable soil.
+    3 | 工人 vs. 匠人 | jiàngrén | 工人 emphasizes wage labor within an industrial collective, whereas 匠人 highlights traditional master craftsmanship, artistry, and individual mastery.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 轰鸣的机车与纵横的铁轨，曾是一个铁路工人生活的全部世界。然而，制服与作息时间表可以规范日常的步伐，却锁不住一颗渴望星辰大海的灵魂。当平凡工人决定启航，他的世界便从钢轨延伸至无垠的大洋。 | Hōngmíng de jīchē yǔ zònghéng de tiěguǐ, céng shì yí gè tiělù gōngrén shēnghuó de quánbù shìjiè. Rán'ér, zhìfú yǔ zuòxī shíjiānbiǎo kěyǐ guīfàn rìcháng de bùfá, què suǒbúzhù yì kē kěwàng xīngchéndàhǎi de línghún. Dāng píngfán gōngrén juédìng qǐháng, tā de shìjiè biàn cóng gāngguǐ yánshēn zhì wúyín de dàyáng. | Roaring engines and crisscrossing tracks once formed a railway worker's whole horizon. Yet uniforms and schedules, while ordering steps, could never cage a soul yearning for deep seas. Casting off, his world expanded from rails to boundless waters. | El estruendo de los convoyes y las vías férreas llenaban el mundo del ferroviario. Mas el uniforme y el reloj no pudieron atar un alma sedienta de horizontes marinos. Al zarpar, su mundo saltó del frío raíl a la libertad del mar.
+  #2 | 现代化智能制造转型对产业工人的技能素养提出了崭新要求。依托终身职业技能培训平台，越来越多的传统产线工人成长为精通工业机器人操控的高技能人才，不仅显著提升了制造业智能化水平，也为新型工业化建设注入了源源不断的内生动能。 | Xiàndàihuà zhìnéng zhìzào zhuǎnxíng duì chǎnyè gōngrén de jìnéng sùyǎng tíchū le zhǎnxīn yāoqiú. Yītuō zhōngshēn zhíyè jìnéng péixùn píngtái, yuèláiyuè duō de chuántǒng chǎnxiàn gōngrén chéngzhǎng wéi jīngtōng gōngyè jīqìrén cāokòng de gāojìnéng réncái, bùjǐn xiǎnzhù tíshēng le zhìzàoyè zhìnénghuà shuǐpíng, yě wèi xīnxíng gōngyèhuà jiànshè zhùrù le yuányuán bùduàn de nèishēng dòngnéng. | Smart manufacturing demands upgraded technical competencies from industrial workers. Vocational training empowers factory workers to become skilled robotics operators, elevating factory automation and injecting vitality into new industrialization. | La fabricación inteligente impone nuevas competencias a los operarios industriales. Los cursos de reciclaje técnico convierten a los trabajadores de línea en expertos en robótica, elevando la automatización y dinamizando el tejido industrial.

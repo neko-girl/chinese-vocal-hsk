@@ -1,0 +1,64 @@
+id: 24
+hanzi: 上路
+pinyin: shàng lù
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to start on a journey; to set off; to hit the road; to get on track
+  es: ponerse en camino; emprender el viaje; ponerse en marcha; encarrilarse
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to set out on a journey or trip; to take to the road | ponerse en camino; emprender la marcha | 清晨上路 (set off at early dawn)
+  2 | Verb | Colloquial | to become proficient or grasp the ropes of a task/vehicle | agarrar el hilo; encarrilarse; dominar la conducción | 刚学开车就上路 (drive on the road as a novice)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 天刚蒙蒙亮，年轻的子路便背起沉甸甸的百斤大米，冒着漫天飞舞的风雪毅然踏步上路。 | Tiān gāng méngméngliàng, niánqīng de Zǐlù biàn bēiqǐ chéndiāndiān de bǎi jīn dàmǐ, màozhe màntiān-fēiwǔ de fēngxuě yìrán tàbù shànglù. | Just as dawn faintly broke, young Zilu shouldered the hundred-catty sack of rice and resolutely hit the road amidst whirling snow. | Cuando apenas despuntaba el alba, el joven Zilu se echó a la espalda el pesado saco de cien libras de arroz y se puso resueltamente en camino bajo la ventisca.
+  #2 | 新手司机在取得驾照后必须经过系统的跟车陪练，熟悉复杂路况之后方可独立驾车上路。 | Xīnshǒu sījī zài qǔdé jiàzhào hòu bìxū jīngguò xìtǒng de gēnchē péiliàn, shúxī fùzá lùkuàng zhīhòu fāng kě dúlì jiàchē shànglù. | Novice drivers must undergo accompanied practice after obtaining a license, driving on the road independently only after mastering complex traffic. | Los conductores noveles deben realizar prácticas acompañadas tras obtener la licencia, conduciendo por carretera de forma autónoma solo tras familiarizarse con el tráfico.
+
+collocations[6]{hanzi,en}:
+  清晨上路 | set out at dawn
+  踏步上路 | step onto the road; set off
+  启程上路 | embark on a journey
+  结伴上路 | set off together in company
+  开车上路 | drive on the road
+  准备上路 | get ready to hit the road
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  风雨兼程 | fēng yǔ jiān chéng | travel despite wind and rain; press on day and night
+  日夜兼程 | rì yè jiān chéng | travel night and day at double speed
+  披星戴月 | pī xīng dài yuè | travel by starlight and moon; journey from dawn till dark
+  一路顺风 | yí lù shùn fēng | have a smooth journey; bon voyage
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  上 | shàng | up; ascend; embark; above | arriba; subir; emprender | 一 | one | 一 (ground line) | 卜 (indicator pointing above line) | 3 | 单一结构 | Indicative character: an indicator mark above a horizontal ground baseline line, signifying ascending, upward motion, or setting forth. | A sign pointing upward above the horizon line to step onto a path. | Una marca por encima de la línea base que invita a ascender o ponerse en marcha. | 51 | YM | ""
+  路 | lù | road; path; journey | camino; vía; trayecto | 足 | foot | 足 (foot stepping forward) | 各 (gè / each / arrival phonetic) | 13 | 左右结构 | Phono-semantic compound: 足 (foot) + 各 (arrival/stepping), representing the trodden terrestrial road upon which people walk. | Feet (足) walking across terrain to reach various destinations (各). | Los pies (足) avanzando con paso firme hacia destinos lejanos (各). | 51 | RMHER | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Stepping upward (上) to place your feet on the open road (路) means setting off on a journey (上路).
+  composite_memory_hook_es: Dar un paso al frente (上) para pisar el camino abierto (路) significa ponerse en marcha (上路).
+  cultural_and_cognitive_roots: In ancient Chinese journey literature, 上路 marks the emotional farewell parting home and loved ones to face unknown mountain perils.
+  tone_sandhi_and_pitch_modulation: Two consecutive falling 4th tones: shàng lù (51-51). Pronounce both with firm, crisp downward inflection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    下 | xià | down; lower | Indicator points below the line instead of above
+    止 | zhǐ | stop | Has vertical stroke with right fork instead of 上
+    客 | kè | guest; customer | Has 宀 (roof) above 各 instead of 足
+    洛 | luò | river Luo; surname | Has 氵 (water) on the left of 各 instead of 足
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    上班 | shàng bān | go to work
+    上升 | shàng shēng | rise; ascend
+    道路 | dào lù | road; pathway
+    路上 | lù shang | on the road / way
+
+semantic_boundary_contrasts:
+  core_nuance: 上路 focuses on the concrete initial moment of starting to travel along a highway or road.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 上路 vs. 出发 | chūfā | 上路 specifically evokes physical motion onto a road or path, whereas 出发 is the standard general verb for departure from any origin point.
+    2 | 上路 vs. 启程 | qǐchéng | 上路 is informal, narrative, and spoken, whereas 启程 is formal, literary, or ceremonial.
+    3 | 上路 vs. 赶路 | gǎnlù | 上路 marks the beginning of the trip, whereas 赶路 focuses on hurrying rapidly while already mid-journey to reach a destination in time.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 虽然寒风呼啸、积雪没膝，但为了让久病的双亲尽快吃上热腾腾的白米饭，子路咬紧牙关，在天未破晓之时便义无反顾地上路了。 | Suīrán hánfēng hūxiào, jīxuě mòxī, dàn wèile ràng jiǔbìng de shuāngqīn jǐnkuài chī shang rèténgténg de báimǐfàn, Zǐlù yǎojǐn yáguān, zài tiān wèi pòxiǎo zhī shí biàn yìwúfǎngù de shànglù le. | Though icy winds howled and snow was knee-deep, Zilu gritted his teeth and resolutely set off before dawn so his ailing parents could eat hot rice as soon as possible. | Aunque el viento aullaba y la nieve cubría los caminos, Zilu apretó los dientes y partió resueltamente antes del alba para llevarles arroz caliente a sus padres enfermos.
+  #2 | 人生就像一场漫长的远行，每一次背起行囊上路，都是对自我意志的淬炼与升华。无论前方的道路如何崎岖险峻，唯有怀揣坚定的信念与爱意，才能在风霜雨雪的洗礼中走出属于自己的坚实步伐。 | Rénshēng jiù xiàng yì chǎng màncháng de yuǎnxíng, měi yí cì bēiqǐ xíngnáng shànglù, dōu shì duì zìwǒ yìzhì de cuìliàn yǔ shēnghuá. Wúlùn qiánfāng de dàolù rúhé qíqū xiǎnjùn, wéiyǒu huáichuāi jiāndìng de xìnniàn yǔ àiyì, cáinéng zài fēngshuāng-yǔxuě de xǐlǐ zhōng zǒuchū shǔyú zìjǐ de jiānshí bùfá. | Life is a long journey; every time one shoulders a pack and hits the road, the will is tempered and refined. No matter how rugged the path ahead, holding firm conviction and love allows one to stride solidly through storms. | La vida es un largo viaje: cada partida con el morral a cuestas templa el carácter. Por escabroso que sea el camino, abrigar convicción y amor permite avanzar con paso firme a través de cualquier tempestad.

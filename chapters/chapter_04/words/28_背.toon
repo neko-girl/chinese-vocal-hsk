@@ -1,0 +1,62 @@
+id: 28
+hanzi: 背
+pinyin: bēi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to carry on the back; to bear on one's shoulders; to shoulder (burdens)
+  es: cargar a la espalda; llevar a cuestas; cargar sobre los hombros
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to carry an object or person upon one's back | cargar a la espalda; llevar a cuestas | 背着米袋 (carrying a sack of rice on the back)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对连绵起伏的风雪险峰，身材瘦削的年轻子路毅然背起百斤沉重的白米向家乡走去。 | Miànduì liánmián-qǐfú de fēngxuě xiǎnfēng, shēncái shòuxuē de niánqīng Zǐlù yìrán bēiqǐ bǎi jīn chénzhòng de báimǐ xiàng jiāxiāng zǒu qù. | Facing undulating, snow-swept perilous peaks, thin young Zilu resolutely carried a hundred catties of rice on his back toward home. | Frente a las cumbres escarpadas cubiertas de nieve, el joven y delgado Zilu se echó a la espalda cien libras de arroz y avanzó resueltamente hacia su aldea.
+  #2 | 作为偏远山区的乡村医生，他三十年如一日背着药箱穿梭于崇山峻岭之间，守护着乡亲们的生命健康。 | Zuòwéi piānyuǎn shānqū de xiāngcūn yīshēng, tā sānshí nián rú yí rì bēizhe yàoxiāng chuānsuō yú chóngshān-jùnlǐng zhījiān, shǒuhù zhe xiāngqīnmen de shēngmìng jiànkāng. | As a rural doctor in remote mountains, for thirty years he has carried his medicine kit on his back, trekking through lofty ranges to safeguard villagers' health. | Como médico rural en montañas remotas, durante treinta años ha llevado su botiquín a cuestas entre desfiladeros para cuidar la salud de los aldeanos.
+
+collocations[6]{hanzi,en}:
+  背着行囊 | carrying luggage on the back
+  背着重物 | carrying heavy objects on the back
+  背负重任 | shouldering heavy responsibilities
+  背米孝亲 | carrying rice on the back to care for parents
+  背着孩子 | carrying a child on the back
+  背起行装 | shoulder one's pack
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  负重致远 | fù zhòng zhì yuǎn | shoulder heavy loads and travel far; endure long burdens to achieve success
+  背井离乡 | bèi jǐng lí xiāng | leave one's home village; tear oneself away from home
+  艰苦卓绝 | jiān kǔ zhuó jué | with utmost fortitude and tenacity
+  力不从心 | lì bù cóng xīn | the spirit is willing but the flesh is weak
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  背 | bēi | carry on back; shoulder | cargar a la espalda; llevar a cuestas | 肉 | meat / flesh | 月/肉 (flesh / back muscles of torso) | 北 (běi / two people sitting back-to-back phonetic) | 9 | 上下结构 | Phono-semantic and ideogrammic: 北 (two people back-to-back) + 肉/月 (human flesh/body), originally the anatomical back, verbalized with tone 1 (bēi) into carrying on the back. | Two figures standing back-to-back (北) resting flesh and muscle (月) beneath a heavy sack. | Dos personas espalda contra espalda (北) templando el músculo y la carne (月) bajo una pesada carga. | 55 | LPB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Using the flesh and muscles (月) of your physical back (北) to haul heavy loads means to carry on the back (背, bēi).
+  composite_memory_hook_es: Emplear la carne y los músculos (月) de la espalda (北) para acarrear bultos es cargar a cuestas (背, bēi).
+  cultural_and_cognitive_roots: In Chinese cultural memory, carrying rice over a hundred li (百里负米) stands as one of the 24 classic exemplars of filial piety, enshrining bodily sacrifice for parents.
+  tone_sandhi_and_pitch_modulation: High-level 1st tone as a verb: bēi (55). Contrast strictly with noun 'bèi' (51, anatomical back) and verb 'bèi' (51, recite by heart, betray).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    北 | běi | north | Upper component of 背 without the 月/肉 radical
+    肯 | kěn | willing; agree | Has 止 (stop) at top instead of 北
+    脊 | jǐ | spine; ridge | Has 𡿨𡿨 atop 人 over 月 instead of 北
+    胃 | wèi | stomach | Has 田 (field) above 月 instead of 北
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    背负 | bēi fù | shoulder; bear
+    背包 | bēi bāo | backpack; rucksack
+    背景 | bèi jǐng | background; context
+    后背 | hòu bèi | the human back
+
+semantic_boundary_contrasts:
+  core_nuance: 背 (bēi) specifically characterizes carrying a burden directly supported on the human back or shoulders.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 背 (bēi) vs. 扛 (káng) | káng | 背 (bēi) means placing the weight across both shoulders or resting against the back, whereas 扛 (káng) involves propping a load across a single shoulder.
+    2 | 背 (bēi) vs. 挑 (tiāo) | tiāo | 背 (bēi) secures the load against the body's back, whereas 挑 (tiāo) utilizes a carrying pole balanced across shoulders.
+    3 | 背 (bēi) vs. 抱 (bào) | bào | 背 (bēi) supports weight from behind on the back, whereas 抱 (bào) holds an infant or object forward against the chest.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 寒风如刀割面，冰雪冻裂了鞋袜，但年轻的子路始终没有放下背上的百斤重担。他每一步都在雪地上印下深深的足迹，用脊梁背起了全家人生存的希望。 | Hánfēng rú dāo gē miàn, bīngxuě dòngliè le xiéwà, dàn niánqīng de Zǐlù shǐzhōng méiyǒu fàngxià bēishàng de bǎi jīn zhòngdàn. Tā měi yí bù dōu zài xuědì shàng yìnxià shēnshēn de zújì, yòng jǐliáng bēiqǐ le quán jiārén shēngcún de xīwàng. | Biting winds slashed like blades and ice froze his shoes, yet young Zilu never laid down the hundred-catty load on his back. Leaving deep footprints in snow, he shouldered his family's hope of survival. | El viento gélido cortaba como navaja y el hielo congelaba sus pies, pero el joven Zilu jamás soltó el pesado saco de su espalda. Dejando profundas huellas en la nieve, cargó a cuestas la esperanza de su familia.
+  #2 | “子路负米”不仅是一段感人至深的孝道佳话，更深刻具象化了中国传统士人“先天下之忧而忧”的担当精神。那一袋沉甸甸的白米，背在身躯上是家庭维系的生计重托，投射于精神世界则是无怨无悔的道德使命。 | "Zǐlù fùmǐ" bùjǐn shì yí duàn gǎnrén-zhìshēn de xiàodào jiāhuà, gèng shēnkè jùxiànghuà le Zhōngguó chuántǒng shìrén "xiān tiānxià zhī yōu ér yōu" de dāndāng jīngshén. Nà yí dài chéndiāndiān de báimǐ, bēi zài shēnqū shàng shì jiātíng wéixì de shēngjì zhòngtuō, tóushè yú jīngshén shìjiè zé shì wúyuàn-wúhuǐ de dàodé shǐmìng. | "Zilu carrying rice" is not only a moving tale of filial piety, but embodies traditional scholars' spirit of shouldering duty before seeking personal ease. Borne on his back, that heavy rice represented family survival and an unswerving moral calling. | La historia de Zilu cargando arroz no solo conmueve por su piedad filial, sino que encarna el temple del sabio que antepone el deber al bienestar. Aquel pesado saco sobre sus espaldas era el sustento familiar y una noble misión moral asumida sin quejas.

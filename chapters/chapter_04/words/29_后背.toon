@@ -1,0 +1,63 @@
+id: 29
+hanzi: 后背
+pinyin: hòu bèi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: the back (of the human body); dorsal surface
+  es: la espalda (del cuerpo humano); parte posterior
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the posterior dorsal region of the human torso from neck to waist | la espalda del cuerpo humano; región dorsal | 后背湿透 (back drenched in sweat/rain)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 沉重粗糙的米袋在风雪中剧烈晃动，将年轻子路的后背磨得鲜血淋漓、生疼难忍。 | Chénzhòng cūcāo de mǐdài zài fēngxuě zhōng jùliè huàngdòng, jiāng niánqīng Zǐlù de hòubèi mó de xiānxuè-línlí, shēngténg-nánrěn. | The heavy rough sack of rice rocked violently in the blizzard, scraping young Zilu's back until it bled and ached agonizingly. | El pesado y áspero saco de arroz se bamboleaba con la ventisca, raspando la espalda del joven Zilu hasta dejarla en carne viva con un dolor insoportable.
+  #2 | 长期保持伏案低头的不良坐姿，极易引起颈椎疲劳以及后背肌肉的慢性劳损与酸痛。 | Chángqī bǎochí fú'àn dītóu de bùliáng zuòzī, jíyì yǐnqǐ jǐngzhuī píláo yǐjí hòubèi jīròu de mànxìng láosǔn yǔ suāntòng. | Maintaining a poor posture hunched over a desk for long periods easily leads to cervical fatigue and chronic strain in back muscles. | Mantener una mala postura encorvada sobre el escritorio causa fácilmente fatiga cervical y contracturas musculares crónicas en la espalda.
+
+collocations[6]{hanzi,en}:
+  后背发凉 | feel a chill down one's back
+  后背酸痛 | aching back
+  挺直后背 | straighten one's back
+  拍了拍后背 | patted on the back
+  后背湿透 | back soaked through
+  后背发紧 | tightness in the back
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  芒刺在背 | máng cì zài bèi | feel thorns in one's back; feeling intensely on edge
+  项背相望 | xiàng bèi xiāng wàng | see each other's necks and backs; endless stream of people
+  望其项背 | wàng qí xiàng bèi | see someone's neck and back; catch up with or match someone
+  力透纸背 | lì tòu zhǐ bèi | vigor of brushwork penetrating through paper; powerful writing
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  后 | hòu | rear; back; behind; after | detrás; posterior; después | 口 | mouth | 𠂉/厂 (rock shelter/hand) | 口 (mouth issuing commands) | 6 | 半包围结构 | Ideogrammic compound: an ancient sovereign issuing orders from behind court screens, extending to rear, behind, and after. | Standing behind screen curtains (厂) quietly observing before speaking (口). | Situarse detrás de las cortinas protectoras (厂) observando la retaguardia (口). | 51 | HMR | 後
+  背 | bèi | anatomical back; reverse | espalda; reverso | 肉 | meat / flesh | 月/肉 (flesh / dorsal torso) | 北 (běi / back-to-back phonetic) | 9 | 上下结构 | Ideogrammic and phono-semantic: 北 (two people back-to-back) + 肉/月 (flesh), the anatomical back of the human body. | Flesh and vertebrae (月) situated behind you in reverse direction (北). | Carne y vértebras (月) dispuestas en sentido inverso al pecho (北). | 51 | LPB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The posterior region (后) of human flesh and vertebrae (背) constitutes the anatomical back (后背).
+  composite_memory_hook_es: La región posterior (后) formada por la musculatura y vértebras (背) es la espalda humana (后背).
+  cultural_and_cognitive_roots: In somatic Chinese metaphors, 后背 is associated with unshielded vulnerability and steadfast uprightness of character.
+  tone_sandhi_and_pitch_modulation: Two consecutive falling 4th tones: hòu bèi (51-51). 'bèi' is strictly 4th tone as a noun.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    司 | sī | manage; department | Left hook has open top right, whereas 后 has upper slash 𠂉
+    斥 | chì | scold; repel | Has upper dot over 斤
+    肯 | kěn | willing; consent | Has 止 at top over 月 instead of 北
+    脊 | jǐ | spine; ridge | Has top spine strokes over 人 and 月
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    后面 | hòu miàn | behind; rear
+    后果 | hòu guǒ | consequence; aftermath
+    背部 | bèi bù | the back (anatomy)
+    脊背 | jǐ bèi | dorsal spine; back
+
+semantic_boundary_contrasts:
+  core_nuance: 后背 specifically designates the anatomical back of a human body, contrasting with general positional or abstract spatial terms.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 后背 vs. 背部 | bèibù | 后背 is standard conversational and colloquial vocabulary, whereas 背部 is medical, anatomical, and formal.
+    2 | 后背 vs. 背后 | bèihòu | 后背 refers to the physical anatomical surface of the body, whereas 背后 is a spatial and metaphorical preposition meaning behind someone's back.
+    3 | 后背 vs. 脊梁 | jǐliang | 后背 refers to the exterior surface of the back, whereas 脊梁 specifically denotes the spinal column or metaphorical moral backbone.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 虽然风雪如刀削般撕扯着他的后背，米袋的棱角更是勒得皮肤生疼，但子路挺直了脊梁，脚步没有丝毫停滞。只要想到能让父母吃饱穿暖，背上的剧痛便化作了前行的动力。 | Suīrán fēngxuě rú dāoxiāo bān sīchě zhe tā de hòubèi, mǐdài de léngjiǎo gèng shì lēi de pífū shēngténg, dàn Zǐlù tǐngzhí le jǐliáng, jiǎobù méiyǒu sīháo tíngzhì. Zhǐyào xiǎngdào néng ràng fùmǔ chībǎo chuānnuǎn, bèishàng de jùtòng biàn huàzuò le qiánxíng de dònglì. | Though blizzard winds tore at his back and the angular sack bruised his skin, Zilu straightened his spine and marched on without delay. Knowing his parents would be fed and warmed turned the pain into strength. | Aunque el temporal azotaba su espalda y las aristas del saco magullaban su piel, Zilu enderezó la columna y no aminoró el paso. Pensar en sus padres abrigados convirtió el dolor en aliento para avanzar.
+  #2 | 在人体解剖学与生物力学中，后背的肌群与脊椎共同构成了维持直立行走的核心动力链。现代人因长期久坐缺乏运动，后背肌群易发生劳损，因而在日常工作中定期进行伸展运动与端正坐姿显得尤为重要。 | Zài réntǐ jiěpōuxué yǔ shēngwù-lìxué zhōng, hòubèi de jīqún yǔ jǐzhuī gòngtóng gòuchéng le wéichí zhílì xíngzǒu de héxīn dònglìliàn. Xiàndàirén yīn chángqī jiǔzuò quēfá yùndòng, hòubèi jīqún yì fāshēng láosǔn, yīn'ér zài rìcháng gōngzuò zhōng dìngqī jìnxíng shēnzhǎn yùndòng yǔ duānzhèng zuòzī xiǎnde yóuwéi zhòngyào. | In human anatomy and biomechanics, the musculature of the back and spinal column form the core kinetic chain for upright locomotion. Prolonged sedentary habits cause strain, making stretching and posture vital. | En anatomía humana, los músculos de la espalda y la columna vertebral forman la cadena cinética de la marcha bípeda. El sedentarismo actual desgasta la zona dorsal, por lo que estirar y cuidar la postura resulta prioritario.

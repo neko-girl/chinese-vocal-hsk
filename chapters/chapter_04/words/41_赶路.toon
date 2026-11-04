@@ -1,0 +1,63 @@
+id: 41
+hanzi: 赶路
+pinyin: gǎn lù
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to hurry on with one's journey; to hasten on one's way
+  es: apresurarse en el camino; apurar el paso; viajar de prisa
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to travel in haste to reach a destination before a deadline or dusk | apresurarse en el camino; apurar el paso en un viaje | 连夜赶路 (hurry on journey through the night)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 担心年迈体弱的双亲在家中挨饿受冻，年轻的子路哪怕疲惫不堪，也依然顶着风雪星夜赶路。 | Dānxīn niánmài tǐruò de shuāngqīn zài jiāzhōng ái'è shòudòng, niánqīng de Zǐlù nǎpà píbèi-bùkān, yě yīrán dǐngzhe fēngxuě xīngyè gǎnlù. | Anxious that his frail aging parents were starving in the cold at home, young Zilu, exhausted though he was, hurried on through wind and snow by night. | Temiendo que sus ancianos y débiles padres pasaran frío y hambre en casa, el joven Zilu, aun rendido de cansancio, apuró el paso noche y día bajo el temporal.
+  #2 | 为了赶在强台风登陆前抵达安全避风港，巡逻船队加足马力，争分夺秒地劈波斩浪加紧赶路。 | Wèile gǎn zài qiáng táifēng dēnglù qián dǐdá ānquán bìfēnggǎng, xúnluó chuánduì jiāzú mǎlì, zhēngfēn-duómiǎo de pībō-zhǎnlàng jiājǐn gǎnlù. | To reach a safe haven before the super typhoon made landfall, the patrol fleet steamed at full speed, cleaving waves to hurry on their journey. | Para llegar a un puerto seguro antes de que tocara tierra el tifón, la flotilla de patrulla aceleró a toda máquina, cortando las olas contra reloj en su travesía.
+
+collocations[6]{hanzi,en}:
+  星夜赶路 | hurry on one's way by night under starlight
+  连夜赶路 | rush on the road throughout the night
+  加紧赶路 | step up pace and hasten on one's way
+  冒雪赶路 | hasten along the road amidst snow
+  匆匆赶路 | hurry along the road in haste
+  白天赶路 | travel in haste during daytime
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  披星戴月 | pī xīng dài yuè | travel by starlight and moon; journey from dawn till dark
+  风雨兼程 | fēng yǔ jiān chéng | press on day and night despite wind and rain
+  日夜兼程 | rì yè jiān chéng | travel day and night at double pace
+  马不停蹄 | mǎ bù tíng tí | unhalting hooves; press on without stopping
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  赶 | gǎn | catch up; hasten; rush; drive | apurarse; alcanzar; arrear | 走 | run / walk | 走 (running feet in rapid motion) | 旱 (hàn / drought / sun over shield phonetic) | 10 | 半包围结构 | Phono-semantic compound: 走 (running motion) + 旱 (phonetic/urgent sun scorch), originally running swiftly to pursue prey or arrive before time expires. | Running feet (走) racing beneath scorching dry skies (旱) to catch up before dusk. | Pies que corren (走) bajo el sol ardiente (旱) para alcanzar el destino antes del anochecer. | 214 | GOMJ | 趕
+  路 | lù | road; path; journey | camino; ruta | 足 | foot | 足 (feet walking) | 各 (gè / each / arrival phonetic) | 13 | 左右结构 | Phono-semantic compound: 足 (foot) + 各 (arrival), representing the highway or mountain trail trodden by travelers. | Feet (足) treading continuous steps across the winding path (各). | Pies firmes (足) avanzando acompasados por senderos sinuosos (各). | 51 | RMHER | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Racing your feet (赶) with urgent speed across the highway (路) means you hurry on with your journey (赶路).
+  composite_memory_hook_es: Apurar el paso (赶) con apremio a lo largo del sendero (路) significa viajar de prisa (赶路).
+  cultural_and_cognitive_roots: In pre-modern travel, 赶路 carried existential urgency, as failing to reach an inn or shelter before sundown left travelers exposed to bandits, cold, and predators.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by falling 4th tone: gǎn lù (214-51). 'gǎn' dips softly before snapping cleanly into high-falling 'lù'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    起 | qǐ | rise; start | Has 己 on the right of 走 instead of 旱
+    超 | chāo | surpass; exceed | Has 召 on the right of 走 instead of 旱
+    越 | yuè | cross; surpass | Has 戉 on the right of 走
+    趟 | tàng | trip; times | Has 尚 on the right of 走
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    赶快 | gǎn kuài | quickly; at once
+    赶紧 | gǎn jǐn | hurriedly; without delay
+    赶工 | gǎn gōng | work overtime to beat a deadline
+    上路 | shàng lù | set off on a journey
+
+semantic_boundary_contrasts:
+  core_nuance: 赶路 emphasizes accelerating one's pace or traveling through difficult hours to arrive before an urgent deadline.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 赶路 vs. 上路 | shànglù | 上路 denotes the initial commencement of a journey, whereas 赶路 denotes the rushed speed of travel while already mid-course.
+    2 | 赶路 vs. 赶往 | gǎnwǎng | 赶路 focuses on the grueling process of rapid traveling itself, whereas 赶往 takes a specific destination as its direct object.
+    3 | 赶路 vs. 行路 | xínglù | 赶路 stresses urgency, hurry, and fatigue, whereas 行路 is classical and objective, describing simply walking or traveling on a road.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 山道上的积雪越来越深，风雪如怒涛般咆哮。年轻的子路顾不得擦拭脸上的冰碴，双手紧紧扣住沉重的米袋，一刻也不敢耽搁地在大雪中摸黑赶路。 | Shāndào shàng de jīxuě yuèláiyuè shēn, fēngxuě rú nùtāo bān páoxiào. Niánqīng de Zǐlù gùbude cāshì liǎn shàng de bīngchá, shuāngshǒu jǐnjǐn kòuzhù chénzhòng de mǐdài, yíkè yě bù gǎn dāngē de zài dàxuě zhōng mōhēi gǎnlù. | Deep snow piled along the pass and gales roared like tidal waves. Unable even to brush off ice crusting his face, Zilu clutched his rice sack and hurried on through darkness without a moment's pause. | La nieve se acumulaba en el desfiladero y la ventisca rugía como una tempestad marina. Sin detenerse a quitarse la escarcha del rostro, Zilu aferró el pesado saco y apuró el paso en la penumbra.
+  #2 | 在古代交通闭塞的漫长岁月中，“赶路”是行旅者生命状态的最真实写照。那些为了家庭生计、科举功名或探望至亲而星夜兼程的匆匆行者，在漫长的跋涉中将深沉的情感转化为丈量大地的坚实脚步。 | Zài gǔdài jiāotōng bìsè de màncháng suìyuè zhōng, "gǎnlù" shì xínglǚzhě shēngmìng zhuàngtài de zuì zhēnshí xiězjiào. Nàxiē wèile jiātíng shēngjì, kējǔ gōngmíng huò tànwàng zhìqīn ér xīngyè-jiānchéng de cōngcōng xíngzhě, zài màncháng de báshè zhōng jiāng shēnchén de qínggǎn zhuǎnhuà wéi zhàngliáng dàdì de jiānshí jiǎobù. | In ancient times of isolated transport, hurrying along roads reflected the authentic plight of travelers. Those hastening day and night for livelihood, exams, or kin turned profound devotion into footsteps measuring the earth. | En los siglos de precarios caminos, apurar el paso reflejaba la viva condición del viajero. Aquellos que marchaban sin tregua por el sustento familiar, exámenes o amor filial convertían sus afectos en huellas que medían la tierra.

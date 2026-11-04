@@ -1,0 +1,64 @@
+id: 19
+hanzi: 老实
+pinyin: lǎo shi
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: honest; sincere; frank; well-behaved; naive
+  es: honesto; sincero; formal; dócil; obediente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | honest, truthful, and free from deceit or cunning | honesto; honrado; sincero; sin doblez | 老实人 (an honest person)
+  2 | Adjective | Standard | well-behaved, docile, or obedient (often of children or subordinates) | dócil; formal; bien educado | 老老实实呆着 (stay put quietly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 庄园管家发现年轻的子路为人老实厚道、从不偷奸耍滑，便对他十分信赖，交给他更多重要事务。 | Zhuāngyuán guǎnjiā fāxiàn niánqīng de Zǐlù wéirén lǎoshi hòudào, cóngbù tōujiān-shuǎhuá, biàn duì tā shífēn xìnlài, jiāogěi tā gèng duō zhòngyào shìwù. | The estate steward noticed that young Zilu was honest, steadfast, and never deceitful, trusting him greatly and entrusting him with more important tasks. | El mayordomo descubrió que el joven Zilu era una persona honrada y cabal que jamás hacía trampas, por lo que confió en él plenamente encomendándole labores de peso.
+  #2 | 在面对组织问询时，他老老实实地说明了事情的原委，毫无隐瞒地承担了自己应当承担的管理责任。 | Zài miànduì zǔzhī wènxún shí, tā lǎolao-shíshí de shuōmíng le shìqíng de yuánwěi, háowú yǐnmán de chéngdān le zìjǐ yīngdāng chéngdān de guǎnlǐ zérèn. | When questioned by the organization, he honestly explained the whole affair, candidly accepting his due managerial responsibility without concealment. | Al ser interrogado por la comisión, explicó los hechos con total sinceridad y transparencia, asumiendo su cuota de responsabilidad sin ocultar nada.
+
+collocations[6]{hanzi,en}:
+  老老实实 | honestly and dutifully
+  为人老实 | honest and sincere in personality
+  老实巴交 | honest and simple-minded
+  说老实话 | to tell the honest truth
+  老实本分 | honest and well-behaved
+  老实交代 | make an honest confession
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  本本分分 | běn běn fèn fèn | dutiful and keeping to one's bounds
+  心口如一 | xīn kǒu rú yī | what one thinks matches what one says; candid
+  光明磊落 | guāng míng lěi luò | open and aboveboard; upright
+  忠厚老实 | zhōng hòu lǎo shi | honest, loyal, and sincere
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  老 | lǎo | old; experienced; prefix | anciano; viejo; prefijo | 老 | old | 耂 (elderly person with walking cane) | 匕 (person walking stooped) | 6 | 上下结构 | Pictographic depiction of an elder with long hair, stooping posture, and leaning on a staff. | An experienced elder with long white hair holding a walking staff. | Un anciano de luengas canas apoyado en un bastón venerado. | 214 | JKP | ""
+  实 | shí | solid; true; honest; reality | sólido; verdadero; fruto; realidad | 宀 | roof | 宀 (roof of house) | 贯/头 (wealth stored within / solid weight) | 8 | 上下结构 | Ideogrammic compound: treasures (贯/贝) stored securely under a roof (宀), signifying solidity, truth, and substance. | A storehouse under a roof (宀) packed solid with real grain and treasure. | Un almacén techado (宀) colmado de grano y bienes reales sin huecos. | 35 | JNK | 實
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An elder (老) whose character is packed solid with truth and integrity without deceit (实) is truly honest (老实).
+  composite_memory_hook_es: Un anciano (老) cuyo carácter está colmado de solidez y verdad sin engaños (实) es un hombre cabal y honesto (老实).
+  cultural_and_cognitive_roots: In traditional agrarian communities, 老实 is praised as the bedrock of moral decency, contrasting sharply with slick, deceitful opportunism.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by neutral tone: lǎo shi (214-0). In spoken Mandarin, 'shi' is unstressed and short.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    考 | kǎo | test; examine | Has 丂 at bottom instead of 匕
+    孝 | xiào | filial piety | Has 子 (child) at bottom of 耂
+    买 | mǎi | buy | Has 头-like upper part but lacks the roof 宀
+    卖 | mài | sell | Has 十 at top over 头-like shape
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    老师 | lǎo shī | teacher
+    诚实 | chéng shí | honest; sincere
+    如实 | rú shí | as it actually is; truthfully
+    现实 | xiàn shí | reality; realistic
+
+semantic_boundary_contrasts:
+  core_nuance: 老实 characterizes unpretentious honesty, lack of cunning deceit, and dutiful, well-behaved conduct.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 老实 vs. 诚实 | chéngshí | 诚实 focuses specifically on telling the truth and not lying, whereas 老实 encompasses broader behavior, including docility, simplicity, and lack of trickery.
+    2 | 老实 vs. 踏实 | tàshi | 老实 emphasizes moral innocence and lack of deceit, whereas 踏实 focuses on practical diligence, emotional peace of mind, and reliable work methods.
+    3 | 老实 vs. 忠厚 | zhōnghòu | 老实 is common colloquial speech, whereas 忠厚 carries a classical moral tone denoting deep loyalty and benevolent magnanimity.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在那个礼崩乐坏、尔虞我诈的乱世之中，像子路这样老实淳朴、言出必行的仁厚君子尤为罕见。他的一言一行皆发自纯粹赤诚，对父母的孝顺更是没有丝毫矫饰与伪善。 | Zài nàge lǐbēng-yuèhuài, ěryú-wǒzhà de luànshì zhīzhōng, xiàng Zǐlù zhèyàng lǎoshi chúnpǔ, yánchū-bìxíng de rénhòu jūnzǐ yóuwéi hǎnjiàn. Tā de yìyán-yìxíng jiē fā zì chúncuì chìchéng, duì fùmǔ de xiàoshùn gèng shì méiyǒu sīháo jiǎoshì yǔ wěishàn. | Amid turmoil and deceit, honest and upright gentlemen like Zilu were rare. Every word and deed flowed from genuine sincerity, and his devotion to his parents contained no hint of pretense. | En una época de intrigas y desmoronamiento moral, caballeros tan honestos y cabales como Zilu eran una joya. Cada uno de sus actos emanaba de una pureza genuina, sin asomo de hipocresía en su amor filial.
+  #2 | 民间常说“老实人吃亏”，但在长期的社会博弈与信用演化中，老实守信的个体往往能够建立起最稳固的信誉资本。现代行为经济学实验证实，真诚老实的合作态度不仅能降低沟通协作成本，更是维系健康社会信任网络的基石。 | Mínjiān cháng shuō "lǎoshirén chīkuī", dàn zài chángqī de shèhuì bóyì yǔ xìnyòng yǎnhuà zhōng, lǎoshi shǒuxìn de gètǐ wǎngwǎng nénggòu jiànlì qǐ zuì wěngù de xìnyù zīběn. Xiàndài xíngwéi jīngjìxué shíyàn zhèngshí, zhēnchéng lǎoshi de hézuò tàidù bùjǐn néng jiàngdī gōutōng xiézuò chéngběn, gèng shì wéixì jiànkāng shèhuì xìnrèn wǎngluò de jīshí. | Folks say "honest people lose out," yet in long-term social cooperation, honesty builds sterling credit capital. Behavioral economics proves that sincere, honest collaboration lowers friction and anchors societal trust. | Aunque el refrán afirme que la bondad peca de ingenua, la honestidad forja a largo plazo el crédito moral más sólido. La economía conductual demuestra que la cooperación sincera abarata la desconfianza y cimienta redes sociales sanas.

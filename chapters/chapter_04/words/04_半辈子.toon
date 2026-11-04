@@ -1,0 +1,64 @@
+id: 4
+hanzi: 半辈子
+pinyin: bàn bèi zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: half of a lifetime; half one's life
+  es: media vida; la mitad de la vida
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | half of a person's lifespan, often reflecting hardship or prolonged experience | la mitad de la vida de una persona; media vida | 辛苦了半辈子 (worked hard for half one's life)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 父亲在田间地头辛勤劳作了大半辈子，如今终于能安享晚年、颐养天年了。 | Fùqīn zài tiánjiān dìtóu xīnqín láozuò le dà bànbèizi, rújīn zhōngyú néng ānxiǎng wǎnnián, yíyǎng tiānnián le. | Father labored tirelessly in the fields for over half a lifetime; now he can finally enjoy his twilight years in peace. | Mi padre trabajó incansablemente en los campos agrícolas durante más de media vida; hoy por fin puede disfrutar con tranquilidad de su vejez.
+  #2 | 他在乡村教育一线坚守了半辈子，用知识的火种点亮了无数大山深处孩子的求学梦想。 | Tā zài xiāngcūn jiàoyù yíxiàn jiānshǒu le bànbèizi, yòng zhīshi de huǒzhǒng diǎnliàng le wúshù dàshān shēnchù háizi de qiúxué mèngxiǎng. | He persevered on the frontlines of rural education for half a lifetime, using knowledge to kindle the learning dreams of countless mountain children. | Dedicó media vida a la docencia en zonas rurales desfavorecidas, encendiendo con su saber los anhelos de superación de numerosos niños campesinos.
+
+collocations[6]{hanzi,en}:
+  苦了大半辈子 | suffered for the better part of a lifetime
+  过了半辈子 | lived half a lifetime
+  操劳半辈子 | toiled and worried for half a lifetime
+  忙碌半辈子 | stayed busy for half a lifetime
+  积攒半辈子 | saved up for half a lifetime
+  奉献半辈子 | dedicated half a lifetime
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  百年树人 | bǎi nián shù rén | it takes a hundred years to cultivate people; education is a lifetime endeavor
+  饱经风霜 | bǎo jīng fēng shuāng | weather-beaten; having experienced many hardships over a lifetime
+  度日如年 | dù rì rú nián | days pass like years
+  白头偕老 | bái tóu xié lǎo | grow old together in conjugal bliss
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  半 | bàn | half; semi- | mitad; semi- | 十 | ten | 八 (divide/split) | 牛 (ox divided in two halves) | 5 | 上下结构 | Ideogrammic compound: an ox (牛) divided into two parts (八), signifying splitting in half. | An ox split down the center into two equal halves. | Un buey dividido limpiamente en dos mitades simétricas. | 51 | FQ | ""
+  辈 | bèi | generation; lifetime; ranks | generación; vida; rango | 车 | cart / chariot | 车 (line of carts marching) | 非 (two rows facing apart) | 12 | 上下结构 | Ideogrammic and phono-semantic: carts aligned in military formation or generation sequence. | A succession of carts carrying generations of travelers down the road of history. | Una hilera de carros que transporta a sucesivas generaciones por el camino del tiempo. | 51 | LYYJ | 輩
+  子 | zi | child; diminutive noun suffix | hijo; sufijo de sustantivo | 子 | child / seed | 子 (infant wrapped in swaddling clothes) | "" | 3 | 单一结构 | Pictograph of a baby with head and wrapped arms, serving as nominal suffix in modern Chinese. | A wrapped child representing beginnings or forming common noun suffixes. | Un infante envuelto que simboliza comienzos o forma sufijos nominales comunes. | 0 | ND | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When you divide in half (半) the long generations and journey of human life (辈) marked by time (子), you get half a lifetime (半辈子).
+  composite_memory_hook_es: Dividir a la mitad (半) la trayectoria de las generaciones y la existencia (辈) personificada (子) equivale a media vida (半辈子).
+  cultural_and_cognitive_roots: In Chinese cultural narratives, 半辈子 carries deep emotional resonance of enduring hardship for one's family, raising children, or toiling selflessly.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by falling 4th tone and neutral tone: bàn bèi zi (51-51-0). 'zi' is pronounced unstressed and light.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    羊 | yáng | sheep; goat | Similar upper horns to 半 but has three full horizontal strokes
+    平 | píng | flat; level | Has horizontal top stroke and bottom level line instead of divided ox
+    悲 | bēi | sadness; sorrow | Has 心 at bottom instead of 车
+    非 | fēi | non-; wrong | The upper component of 辈 without the 车 base
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    半天 | bàn tiān | half a day; a long time
+    长辈 | zhǎng bèi | elder generation
+    平辈 | píng bèi | person of the same generation
+    辈子 | bèi zi | all one's life; lifetime
+
+semantic_boundary_contrasts:
+  core_nuance: 半辈子 denotes the duration of half one's chronological life, frequently weighted with recollections of sacrifice, struggle, or dedication.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 半辈子 vs. 一辈子 | yíbèizi | 半辈子 covers approximately half of one's lifetime, whereas 一辈子 encompasses an entire lifetime from birth to death.
+    2 | 半辈子 vs. 半生 | bànshēng | 半辈子 is a colloquial and warm oral expression, whereas 半生 is elegant, written, and literary.
+    3 | 半辈子 vs. 中年 | zhōngnián | 半辈子 highlights accumulated duration and personal emotional struggle over decades, whereas 中年 objectively classifies an age demographic.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 许多父母为了儿女的生活无忧，默默操劳了半辈子。他们从黑发熬到白头，将最美好的青春岁月毫无保留地倾注在家庭之中，这份深沉无私的爱意值得后辈用一生去感恩与铭记。 | Xǔduō fùmǔ wèile érnǚ de shēnghuó wúyōu, mòmò cāoláo le bànbèizi. Tāmen cóng hēifà áo dào báitóu, jiāng zuì měihǎo de qīngchūn suìyuè háowú bǎoliú de qīngzhù zài jiātíng zhīzhōng, zhè fèn shēnchén wúsī de àiyì zhídé hòubèi yòng yìshēng qù gǎn'ēn yǔ míngjì. | Many parents toil selflessly for half a lifetime so their children may live free of hardship. Working from youth until their hair turns white, their devotion deserves lifelong gratitude. | Muchos padres se desviven durante media vida para asegurar el bienestar de sus hijos. Entregando sus mejores años sin reservas, esa abnegación merece ser recordada y agradecida por siempre.
+  #2 | 在传统传记文学中，主人公往往经历了大半辈子的颠沛流离与困厄磨难，才淬炼出坚毅沉稳的品格。正是这种历经半辈子的生活积淀，使其在风云变幻的历史关头能够展现出超越常人的担当与气魄。 | Zài chuántǒng zhuànjì wénxué zhōng, zhǔréngōng wǎngwǎng jīnglì le dà bànbèizi de diānpèi-liúlí yǔ kùn'è mònán, cái cuìliàn chū jiānyì chénwěn de pǐngé. Zhèng shì zhè zhǒng lìjīng bànbèizi de shēnghuó jīdiàn, shǐ qí zài fēngyún-biànhuàn de lìshǐ guāntóu nénggòu zhǎnxiàn chū chāoyuè chángrén de dāndāng yǔ qìpò. | In traditional biographies, protagonists often endure wanderings and tribulations for half a lifetime before forging resilience. This deep accumulation of life lessons enables them to shoulder monumental duties at pivotal historic junctures. | En las biografías tradicionales, los protagonistas suelen sobrellevar penurias y desarraigo durante media vida para forjar su temple. Esta vasta experiencia les permite asumir responsabilidades extraordinarias en momentos decisivos.

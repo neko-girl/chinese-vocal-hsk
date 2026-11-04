@@ -1,0 +1,63 @@
+id: 40
+hanzi: 雷
+pinyin: léi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: thunder; mine (weapon); shocking; astonishing
+  es: trueno; mina (artefacto explosivo); atronador; desconcertante
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the loud acoustic rumble or crash caused by lightning heating the air | estruendo acústico producido en las nubes por una descarga eléctrica; trueno | 打雷 (thunder rumbling)
+  2 | Noun | Standard | explosive military mine (landmine, naval mine) | artefacto explosivo bélico (mina terrestre o submarina) | 水雷 (naval mine)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 滚滚春雷在天边轰鸣炸响，惊醒了沉睡的大地，宣告着漫长冬季的终结与生机盎然的春天来临。 | Gǔngǔn chūnléi zài tiānbiān hōngmíng zhàxiǎng, jīngxǐng le chénsùi de dàdì, xuāngào zhe màncháng dōngjì de zhōngjié yǔ shēngjī'àngrán de chūntiān láilín. | Rolling spring thunder boomed along the horizon, awakening the sleeping earth and heralding the end of winter and the dawn of vibrant spring. | El retumbar del trueno primaveral estalló en el confín despertando a la tierra dormida, proclamando el fin del invierno y la llegada de la primavera.
+  #2 | 海军扫雷艇编队在复杂海况下展开实战化演练，利用水下声呐设备成功排除多枚潜伏的水雷。 | Hǎijūn sǎoléitǐng biānduì zài fùzá hǎikuàng xià zhǎnkāi shízhànhuà yǎnliàn, lìyòng shuǐxià shēngnà shèbèi chénggōng páichú duō méi qiánfú de shuǐléi. | The naval minesweeper flotilla staged combat drills, using sonar gear to detect and neutralize several submerged naval mines. | La flotilla de dragaminas realizó maniobras tácticas en alta mar, empleando sonares para localizar y neutralizar minas submarinas.
+
+collocations[6]{hanzi,en}:
+  打雷 | thunder rumbles / strikes
+  雷声 | sound of thunder; thunderclap
+  雷雨 | thunderstorm
+  水雷 | naval mine
+  地雷 | landmine
+  雷达 | radar
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  雷厉风行 | léi lì fēng xíng | swift as thunder and speedy as wind; enforce rules vigorously
+  雷霆万钧 | léi tíng wàn jūn | with thunderous force and crushing momentum
+  平地惊雷 | píng dì jīng léi | sudden thunderclap from a clear sky; shocking sudden news
+  电闪雷鸣 | diàn shǎn léi míng | lightning flashes and thunder rolls; furious thunderstorm
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  雷 | léi | thunder; mine | trueno; mina | 雨 | rain | 雨 (rain clouds) | 田 (tián / spinning rolling wheels or drum rumbles) | 13 | 上下结构 | Ancient pictograph: rain clouds (雨) discharging sonic booms echoing across cultivated valley fields (田) like spinning chariot wheels. | Rain clouds (雨) bursting open over agricultural fields (田) with an earth-shaking acoustic thunderclap. | Nubes de lluvia torrencial (雨) que descargan sobre los campos de labor (田) con un estruendoso trueno. | 35 | MBW | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When heavy rain clouds (雨) shake open fields (田) with sonic rumbles, mighty thunder echoes (雷).
+  composite_memory_hook_es: Cuando las nubes de lluvia (雨) hacen temblar los campos de cultivo (田) con estruendo, retumba el potente trueno (雷).
+  cultural_and_cognitive_roots: In ancient Chinese mythology, the Thunder Duke ('雷公') punished the wicked and awakened the dormant soil during the Awakening of Insects ('惊蛰'), making thunder an emblem of cosmic justice and vernal rebirth.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone: léi (35). Elevate the vocal contour smoothly from pitch 3 to 5 with full resonating breath.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    雷 | léi | thunder; mine | Has 雨 on top and 田 at the bottom
+    雪 | xuě | snow | Has 雨 on top and 彐 at the bottom
+    震 | zhèn | quake; shock | Has 雨 on top and 辰 at the bottom
+    霜 | shuāng | frost | Has 雨 on top and 相 at the bottom
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    雷电 | léi diàn | thunder and lightning
+    雷鸣 | léi míng | thunder roll; rumble of thunder
+    雷暴 | léi bào | thunderstorm
+    扫雷 | sǎo léi | minesweeping; clear mines
+
+semantic_boundary_contrasts:
+  core_nuance: 雷 denotes the acoustic shockwave and rumble of atmospheric discharge, or explosive mine ordnance.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 雷 vs. 电 | diàn | 雷 is the audible sound wave of thunder (打雷, 听见雷声), whereas 电 is the visible optical streak of lightning or electrical energy.
+    2 | 雷 vs. 轰鸣 | hōngmíng | 雷 refers specifically to meteorological thunder or weapon mines, while 轰鸣 is an onomatopoeic noun describing continuous roaring engines, machines, or waterfalls.
+    3 | 雷 vs. 爆 | bào | 雷 produces acoustic booms from atmospheric plasma or buried ordnance, whereas 爆 indicates physical detonation, exploding, or bursting outward.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 滚滚的春雷总是在初春的深夜悄然炸响。那一阵阵低沉而有力的轰鸣，仿佛是大自然伸出的巨手，叩开了沉睡一冬的草木冻土。万物在雷声的召唤下破土发芽，生命在此刻完成了从蛰伏到蓬勃的庄严更迭。 | Gǔngǔn de chūnléi zǒngshì zài chūchūn de shēnyè qiǎorán zhàxiǎng. Nà yízhènzhèn dīchén ér yǒulì de hōngmíng, fǎngfú shì dàzìrán shēnchū de jùshǒu, kòukāi le chénsùi yì dōng de cǎomù dòngtǔ. Wànwù zài léishēng de zhàohuàn xià pòtǔ fāyá, shēngmìng zài cǐkè wánchéng le cóng zhéfú dào péngbó de zhuāngyán gēngdié. | Rolling spring thunder detonates in the depths of early spring nights. Deep, pulsing rumbles seem like nature's giant palm knocking open frozen loam. Under thunder's summons, all green bursts forth, turning dormancy into vigorous life. | El trueno primaveral estalla en el silencio de la noche temprana. Su rumor hondo es como la mano de la naturaleza abriendo la tierra helada. Al eco del trueno brotan las semillas, cumpliendo el tránsito sagrado del letargo a la vida plena.
+  #2 | 气象研究表明，强雷暴云团的形成与近地面垂直风切变密切相关。剧烈对流激发的雷电活动往往伴随短时强降水与大风。提升多普勒雷达监测精度，是防范雷击灾害与保障航线安全的重要举措。 | Qìxiàng yánjiū biǎomíng, qiáng léibào yúntuán de xíngchéng yǔ jìndìmiàn chuízhí fēngqiēbiàn mìqiè xiāngguān. Jùliè duìliú jīfā de léidiàn huódòng wǎngwǎng bànsuí duǎnshí qiáng jiàngshuǐ yǔ dàfēng. Tíshēng Duōpǔlēi léidá jiānkòng jīngdù, shì fángfàn léijī zāihài yǔ bǎozhàng hángxiàn ānquán de zhòngyào jǔcuò. | Meteorology reveals storm clouds link closely with wind shear. Violent convective lightning triggers flash downpours and gales. Upgrading Doppler radar accuracy remains crucial for lightning prevention and flight safety. | La meteorología vincula las tormentas con la cizalladura del viento. Los truenos acarrean aguaceros torrenciales y vendavales. Mejorar la precisión del radar Doppler es decisivo para prevenir rayos y blindar las aerovías.

@@ -1,0 +1,63 @@
+id: 38
+hanzi: 冻
+pinyin: dòng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to freeze; to feel very cold; jelly; frostbite
+  es: congelar; congelarse; helar; pasar mucho frío; gelatina
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to freeze liquids into solid ice or suffer injury from low temperature | congelar; helar; sufrir congelación | 河水冻结 (river freezes over)
+  2 | Verb | Standard | to feel intensely cold or shiver | pasar frío; tiritar de frío | 冻得发抖 (shivering with cold)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 呼啸刺骨的北风刮了一整夜，子路的双耳与脚趾被严寒冻得失去了知觉，但他丝毫没有放慢脚步。 | Hūxiào cìgǔ de běifēng guā le yì zhěng yè, Zǐlù de shuāng'ěr yǔ jiǎozhǐ bèi yánhán dòng de shīqù le zhījué, dàn tā sīháo méiyǒu fàngmàn jiǎobù. | The bone-chilling north wind howled all night; Zilu's ears and toes were frozen numb from the cold, yet he did not slacken his pace at all. | El gélido viento del norte aulló durante toda la noche; las orejas y los dedos de los pies de Zilu perdieron la sensibilidad por el frío, pero no aminoró el paso.
+  #2 | 冬季降温前必须对室外供水管网实施全面包裹保温，防止水管冻裂导致供水中断。 | Dōngjì jiàngwēn qián bìxū duì shìwài gōngshuǐ guǎnwǎng shíshī quánmiàn bāoguǒ bǎowēn, fángzhǐ shuǐguǎn dòngliè dǎozhì gōngshuǐ zhōngduàn. | Before winter temperatures drop, outdoor water supply pipes must be insulated to prevent pipes from freezing and bursting. | Antes de que bajen las temperaturas invernales, las tuberías exteriores deben aislarse para evitar que se revienten por congelación cortando el suministro.
+
+collocations[6]{hanzi,en}:
+  冻结资产 | freeze assets
+  冻得发抖 | shivering with cold
+  冻僵了 | frozen stiff; numb with cold
+  冰冻三尺 | ice three feet thick
+  防冻措施 | anti-freeze measures
+  果冻 | fruit jelly; gelatin
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  冰冻三尺，非一日之寒 | bīng dòng sān chǐ, fēi yí rì zhī hán | ice three feet thick is not frozen in a single day
+  滴水成冰 | dī shuǐ chéng bīng | water freezes into ice drop by drop; bitterly cold
+  饥寒交迫 | jī hán jiāo pò | suffer hunger and cold simultaneously
+  天寒地冻 | tiān hán dì dòng | sky is cold and earth is frozen; bitter winter
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  冻 | dòng | freeze; frozen; cold | congelar; helar; frío | 冫 | ice / two drops water | 冫 (freezing ice crystals) | 东 (dōng / bundle tied up phonetic) | 7 | 左右结构 | Phono-semantic compound: 冫 (ice) + 东 (dōng phonetic / tied solid bundle), indicating liquids freezing into rigid solid blocks of ice. | Two drops of ice (冫) locking a bundled package (东) into solid frost. | Dos gotas de hielo cristalino (冫) atando en sólido bloque helado todo lo que tocan (东). | 51 | IMKD | 凍
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Ice droplets (冫) freezing liquids solid across the eastern lands (东) will freeze (冻) everything solid.
+  composite_memory_hook_es: Gotas de hielo (冫) helando el campo oriental (东) terminan por congelar (冻) la tierra entera.
+  cultural_and_cognitive_roots: The ancient proverb 冰冻三尺，非一日之寒 uses the slow freezing of thick ice as an allegory for historical habit, deep conflicts, or steady moral cultivation.
+  tone_sandhi_and_pitch_modulation: High-falling 4th tone: dòng (51). Deliver with decisive, crisp downward drop.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    栋 | dòng | ridgepole; classifier for houses | Has 木 (wood) on the left of 东 instead of 冫
+    陈 | chén | display; old; surname | Has 阝 (mound) on the left of 东
+    练 | liàn | practice; drill | Has 纟 (silk) on the left with 东 on right
+    冰 | bīng | ice | Has 冫 on the left of 水
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    冷冻 | lěng dòng | freeze; refrigeration
+    解冻 | jiě dòng | thaw; unfreeze
+    果冻 | guǒ dòng | jelly; jello
+    冻伤 | dòng shāng | frostbite
+
+semantic_boundary_contrasts:
+  core_nuance: 冻 specifically describes the physical phase change of freezing into ice or bodily numbness and pain from cold.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 冻 vs. 冷 | lěng | 冷 is an adjective describing temperature sensation, whereas 冻 functions as a verb or resultative complement denoting solid freezing or physical distress.
+    2 | 冻 vs. 凝 | níng | 冻 requires low temperature to solidify, whereas 凝 denotes general liquid congealing or condensing regardless of temperature.
+    3 | 冻 vs. 凉 | liáng | 冻 involves freezing sub-zero ice levels, while 凉 describes mildly cool or refreshing temperatures.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 天地苍茫，寒风凛冽。虽然单薄的布鞋早已湿透并冻成了硬块，脚趾痛如针扎，但子路心中只有一个念头：快些回家，让父母不再受冻挨饿。 | Tiāndì cāngmáng, hánfēng lǐnliè. Suīrán dānbó de bùxié zǎoyǐ shītòu bìng dòng chéng le yìngkuài, jiǎozhǐ tòng rú zhēnzhā, dàn Zǐlù xīnzhōng zhǐyǒu yí gè niàntou: kuài xiē huíjiā, ràng fùmǔ búzài shòudòng ái'è. | The sky was bleak and gales pierced deep. Though his thin cloth shoes were soaked and frozen solid, and his toes stung like needles, Zilu held but one thought: hurry home so his parents would no longer suffer cold and hunger. | En la desolada inmensidad, el viento gélido azotaba sin piedad. Aunque sus finos zapatos estaban empapados y congelados en bloques duros, Zilu solo pensaba en volver rápido a casa para que sus padres no sufrieran más hambre ni frío.
+  #2 | 在食品保鲜与冷链物流领域，超低温快速冷冻技术发挥着至关重要的作用。该技术能在极短时间内使食品细胞水分快速冻结成微细冰晶，最大限度地锁住食材的原汁原味与营养成分，有效延长了优质农产品的货架期。 | Zài shípǐn bǎoxiān yǔ lěngliàn wùliú lǐngyù, chāodīwēn kuàisù lěngdòng jìshù fāhuī zhe zhìguān-zhòngyào de zuòyòng. Gāi jìshù néng zài jí duǎn shíjiān nèi shǐ shípǐn xìbāo shuǐfèn kuàisù dòngjié chéng wēixì bīngjīng, zuìdà xiàndù de suǒzhù shícái de yuánzhī-yuánwèi yǔ yíngyǎng chéngfèn, yǒuxiào yáncháng le yōuzhì nóngchǎnpǐn de huòjiàqī. | In food preservation and cold-chain logistics, ultra-low-temperature flash freezing plays a vital role. Freezing cellular moisture into microscopic crystals locks in nutrients and flavors, extending shelf life. | En la logística de frío alimentario, la ultracongelación rápida desempeña un papel clave. Al transformar el agua celular en microcristales helados al instante, preserva el sabor y los nutrientes alargando la vida comercial de los alimentos.

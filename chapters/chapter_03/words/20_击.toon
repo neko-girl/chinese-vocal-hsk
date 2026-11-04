@@ -1,0 +1,63 @@
+id: 20
+hanzi: 击
+pinyin: jī
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to strike; to hit; to beat; to attack; to beat back
+  es: golpear; pegar; asestar; atacar; abatir
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to hit or strike an object or target with sharp physical force | golpear o asestar un impacto con fuerza sobre un blanco | 猛烈击打 (strike violently)
+  2 | Verb | Formal | to attack, defeat, or strike down militarily or competitively | atacar, batir o asestar un golpe decisivo | 击败对手 (defeat an opponent)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 巨浪以千钧之力重重击打在帆船前甲板上，激起数米高的白色水花，发出震耳欲聋的轰鸣。 | Jùlàng yǐ qiānjūn zhī lì zhòngzhòng jīdǎ zài fānchuán qián jiǎbǎn shàng, jīqǐ shù mǐ gāo de báisè shuǐhuā, fāchū zhèn'ěryùlóng de hōngmíng. | Massive breakers slammed onto the foredeck with crushing momentum, kicking up tall white spray with a deafening roar. | Una ola gigantesca golpeó la proa con demoledora potencia, levantando metros de espuma blanca con un rugido ensordecedor.
+  #2 | 在国际网球公开赛决赛中，年轻选手凭借出色的发球与沉着的心态，最终连胜两盘击败强劲对手。 | Zài guójì wǎngqiú gōngkāisài juésài zhōng, niánqīng xuǎnshǒu píngjiè chūsè de fāqiú yǔ chénzhuó de xīntài, zuìzhōng liánshèng liǎng pán jībài qiángjìn duìshǒu. | In the international tennis open finals, the young contender relied on brilliant serves and poise to defeat a formidable rival in straight sets. | En la final del abierto internacional de tenis, el joven jugador desplegó un saque magistral y gran aplomo para batir a su formidable rival en dos sets consecutivos.
+
+collocations[6]{hanzi,en}:
+  击败 | defeat; beat; overcome
+  打击 | hit; strike; crack down on
+  击中 | hit the target; strike home
+  目击 | witness with one's own eyes
+  重击 | heavy strike; heavy blow
+  反击 | counterattack; strike back
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  不堪一击 | bù kān yì jī | cannot withstand a single blow; collapse at first touch
+  声东击西 | shēng dōng jī xī | make a feint to the east and attack in the west
+  乘胜追击 | chéng shèng zhuī jī | follow up a victory and pursue retreating foes
+  迎头痛击 | yíng tóu tòng jī | deliver a head-on devastating blow; strike back squarely
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  击 | jī | strike; beat; attack | golpear; atacar; batir | 十 | ten / cross | 十 (interlocking lines of impact) | 缶 / 手 (hand wielding a stick striking a target) | 5 | 独体结构 | Ancient ideograph of an arm wielding a wooden stick to strike down upon an earthen jar (缶). | A clenched hand driving a mallet downward (击) to strike squarely against a wooden drum. | Una mano empuñando un mazo (击) que golpea con fuerza certera sobre un tambor de madera. | 55 | QU | 擊
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A heavy mallet striking downward with precision force (击) delivers a crushing blow that can defeat any foe.
+  composite_memory_hook_es: Un mazo que desciende con fuerza e impacto certero (击) asesta un golpe decisivo capaz de batir al rival.
+  cultural_and_cognitive_roots: In ancient martial arts and percussion music, '击' carried both the cultural resonance of rhythmically striking ritual bronze drums and bells (击钟叩磐) and martial combat prowess.
+  tone_sandhi_and_pitch_modulation: High level 1st tone: jī (55). Pronounce with high, ringing, sustained vocal pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    击 | jī | strike; hit | Five strokes with a vertical line extending through
+    出 | chū | exit; go out | Composed of two stacked mountain shapes (山)
+    陆 | lù | land; shore | Has 阝 (mound) on the left and 击 on the right
+    缶 | fǒu | earthen jar; pottery | The traditional phonetic component of 擊
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    攻击 | gōng jī | attack; assault; accuse
+    点击 | diǎn jī | click (mouse / link)
+    游击 | yóu jī | guerrilla warfare; hit-and-run
+    抗击 | kàng jī | resist; fight back against
+
+semantic_boundary_contrasts:
+  core_nuance: 击 highlights focused, sharp, targeted kinetic impact or military and competitive victory.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 击 vs. 打 | dǎ | 击 is formal, literary, and precise, standard in written compounds (攻击, 击败, 目击), while 打 is the versatile everyday spoken verb for hitting, beating, or playing.
+    2 | 击 vs. 撞 | zhuàng | 击 implies an intentional or ballistic strike against a target, whereas 撞 focuses on physical collisions, bumps, or running into things.
+    3 | 击 vs. 拍 | pāi | 击 delivers heavy concussive force, while 拍 describes a flat, broad, or gentle slapping/patting motion (拍手, 拍球).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生命的成长往往伴随着严酷风雨的击打。只有经历过疾风暴雨的洗礼，幼苗才能将根须深深扎进泥土深处。那些曾经看似无法承受的重击，终将成为岁月馈赠的铠甲，赋予我们直面人生波涛的从容与底气。 | Shēngmìng de chéngzhǎng wǎngwǎng bànsuí zhe yánkù fēngyǔ de jīdǎ. Zhǐyǒu jīnglì guò jífēngbàoyǔ de xǐlǐ, yòumiáo cáinéng jiāng gēnxū shēnshēn zhā jìn nítǔ shēnchù. Nàxiē céngjīng kànsì wúfǎ chéngshòu de zhòngjī, zhōng jiāng chéngwéi suìyuè kuìzèng de kǎijiǎ, fùyǔ wǒmen zhímiàn rénshēng bōtāo de cóngròng yǔ dǐqì. | Growth is ever forged by the battering of fierce tempests. Only weathered by harsh storms can saplings sink deep roots into bedrock soil. Those once unbearable impacts ultimately harden into armor, bestowing poise to face life's waves. | Crecer implica encajar el azote del temporal. Solo curtido por las lluvias torrenciales el brote hunde sus raíces en la tierra profunda. Los golpes otrora insoportables se tornan armadura que forja el aplomo para surcar las aguas bravas de la vida.
+  #2 | 宏观经济运行难免遭遇外部冲击。面对全球产业链供应链断裂风险，相关监管部门实施精准有力的财政与货币逆周期调控，严厉打击各类市场投机炒作行为，有效化解系统性金融风险，保障了国民经济平稳健康运行与宏观大局稳定。 | Hóngguān jīngjì yùnxíng nánmiǎn zāoyù wàibù chōngjī. Miànduì quánqiú chǎnyèliàn gōngyìngliàn duànliè fēngxiǎn, xiāngguān jiānguǎn bùmén shíshī jīngzhǔn yǒulì de cáizhèng yǔ huòbì nìzhōuqī tiáokòng, yánlì dǎjī gèlèi shìchǎng tóujī chǎozuò xíngwéi, yǒuxiào huàjiě xìtǒngxìng jīnróng fēngxiǎn, bǎozhàng le guómín jīngjì píngwěn jiànkāng yùnxíng yǔ hóngguān dàjú wěndìng. | Macroeconomic cycles inevitably absorb external shocks. Confronting global supply chain disruptions, regulators deploy countercyclical fiscal and monetary levers, cracking down on speculative volatility to dissolve systemic risks and secure stable economic progress. | La economía sufre periódicos impactos externos. Ante el riesgo de ruptura en las cadenas de suministro mundiales, los reguladores aplican políticas anticíclicas y combaten la especulación financiera, conjurando riesgos sistémicos para asegurar un crecimiento sano y estable.

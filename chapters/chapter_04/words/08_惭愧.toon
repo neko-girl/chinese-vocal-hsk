@@ -1,0 +1,63 @@
+id: 8
+hanzi: 惭愧
+pinyin: cán kuì
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: ashamed; guilty; mortified; conscience-stricken
+  es: avergonzado; apenado; mortificado; con remordimiento
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | feeling shame or distress due to one's shortcomings, errors, or unworthiness | avergonzado; mortificado por las propias faltas o insuficiencias | 感到惭愧 (feel ashamed)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 看到父母为了供自己读书而日夜操劳、省吃俭用，小明内心深感惭愧，发誓一定要加倍努力。 | Kàndào fùmǔ wèile gōng zìjǐ dúshū ér rìyè cāoláo, shěngchī-jiǎnyòng, Xiǎomíng nèixīn shēn gǎn cánkuì, fāshì yídìng yào jiābèi nǔlì. | Seeing his parents toil day and night and pinch pennies to pay for his schooling, Xiaoming felt deeply ashamed and vowed to redouble his efforts. | Al ver a sus padres desvivirse día y noche privándose de todo para costearle los estudios, Xiaoming se sintió profundamente avergonzado y juró esforzarse el doble.
+  #2 | 作为项目负责人未能按期交付高质量方案，他当面向全体团队成员表达了真诚的惭愧与歉意。 | Zuòwéi xiàngmù fùzérén wèinéng ànqī jiāofù gāozhìliàng fāng'àn, tā dāngmiàn xiàng quántǐ tuánduì chéngyuán biǎodá le zhēnchéng de cánkuì yǔ qiànyì. | As project lead failing to deliver a high-quality proposal on schedule, he expressed sincere shame and apologies directly to all team members. | Como líder del proyecto que no entregó la propuesta de alta calidad a tiempo, expresó una sincera vergüenza y disculpas ante todo el equipo.
+
+collocations[6]{hanzi,en}:
+  深感惭愧 | feel deeply ashamed
+  感到惭愧 | feel ashamed / mortified
+  自知惭愧 | be aware of one's own unworthiness
+  满面惭愧 | face covered with shame
+  惭愧不已 | endlessly ashamed
+  毫无惭愧之色 | showing not the slightest hint of shame
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  自惭形秽 | zì cán xíng huì | feel unworthy and ashamed by comparison
+  自愧不如 | zì kuì bù rú | feel inferior and humbled by another's superiority
+  无地自容 | wú dì zì róng | so ashamed that one wishes the ground would swallow them up
+  心安理得 | xīn ān lǐ dé | feel at ease and justified with a clear conscience
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  惭 | cán | ashamed; humiliated | avergonzado; humillado | 忄 | heart | 忄/心 (heart/inner conscience) | 斩 (zhǎn / behead phonetic/harsh feeling) | 11 | 左右结构 | Phono-semantic compound: 忄 (heart/emotion) + 斩 (phonetic / knife cut), depicting the sharp, cutting internal sting of guilt in one's heart. | A heart (忄) stung sharply as if severed (斩) by moral remorse. | Un corazón (忄) lacerado por el agudo remordimiento moral (斩). | 35 | PJJL | 慚
+  愧 | kuì | ashamed; guilty conscience | avergonzado; apenado | 忄 | heart | 忄/心 (heart/moral conscience) | 鬼 (guǐ / ghost/shadowy figure phonetic) | 12 | 左右结构 | Phono-semantic compound: 忄 (heart/mind) + 鬼 (ghostly guilt haunting the mind). | A heart (忄) haunted by shadowy spirits (鬼) of guilt and unworthiness. | Un corazón (忄) perseguido por los fantasmas interiores (鬼) de la culpa moral. | 51 | PHUI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When moral shortcomings cut the heart (惭) and guilt haunts the conscience like a ghost (愧), one feels deeply ashamed (惭愧).
+  composite_memory_hook_es: Cuando la falta hiere el corazón (惭) y la culpa ronda la conciencia como una sombra (愧), surge la profunda vergüenza (惭愧).
+  cultural_and_cognitive_roots: In Confucian ethics, the sense of shame is regarded as the origin of righteousness. Recognizing one's unworthiness through 惭愧 is the prerequisite for moral self-cultivation.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by falling 4th tone: cán kuì (35-51). 'cán' rises steadily before dropping firmly into 'kuì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    渐 | jiàn | gradually | Has 氵 (water) on the left of 斩 instead of 忄
+    暂 | zàn | temporarily | Has 日 (sun/time) at bottom of 斩
+    槐 | huái | locust tree; sophora | Has 木 (wood) on the left of 鬼 instead of 忄
+    魄 | pò | soul; spirit; vigor | Has 白 on the left with 鬼 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    愧疚 | kuì jiù | guilty; compunction
+    问心有愧 | wèn xīn yǒu kuì | have a guilty conscience
+    羞愧 | xiū kuì | ashamed; abashed
+    惭色 | cán sè | look of shame
+
+semantic_boundary_contrasts:
+  core_nuance: 惭愧 focuses on inner moral unworthiness, guilt, or regret when measuring oneself against expectations, benefactors, or ethical ideals.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 惭愧 vs. 害羞 | hàixiū | 惭愧 arises from moral guilt, regret, or feeling unworthy of praise, whereas 害羞 refers to social shyness, timidity, or embarrassment.
+    2 | 惭愧 vs. 内疚 | nèijiù | 惭愧 stems from falling short of moral duty or reciprocal expectations, while 内疚 focuses specifically on remorse for having harmed or let down another person.
+    3 | 惭愧 vs. 难堪 | nánkān | 惭愧 is an internal ethical emotion of remorse, whereas 难堪 describes the external awkwardness and social loss of face in an embarrassing situation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 子路成年后官至大夫，出行车马相随，席上山珍海味。然而面对丰厚的俸禄，他却常常黯然神伤，心中满是惭愧与遗憾，只恨双亲早已不在，自己再也无法背米尽孝了。 | Zǐlù chéngnián hòu guān zhì dàfū, chūxíng chēmǎ xiāngsuí, xí shàng shānzhēn-hǎiwèi. Rán'ér miànduì fēnghòu de fènglù, tā què chángcháng ànrán shénshāng, xīnzhōng mǎn shì cánkuì yǔ yíhàn, zhǐ hèn shuāngqīn zǎoyǐ búzài, zìjǐ zài yě wúfǎ bēimǐ jìnxiào le. | Later in life, Zilu became a prominent official with chariots and delicacies. Yet amidst wealth, he felt deep shame and grief, lamenting that his parents had passed and he could no longer carry rice to care for them. | Años después, Zilu alcanzó un alto cargo rodeado de carruajes y banquetes. Sin embargo, sentía una honda vergüenza y pesar, pues sus padres ya habían fallecido y jamás podría volver a cargar arroz para cuidarlos.
+  #2 | 孟子曾言：“人不可以无耻，无耻之耻，无耻矣。”在儒家修齐治平的德性伦理中，知耻与惭愧绝非消极软弱的表现，而是个体省察自我缺失、明辨是非善恶的觉醒起点，更是推动人格自我升华与道德完善的精神动力。 | Mèngzǐ céng yán: "Rén bù kěyǐ wú chǐ, wú chǐ zhī chǐ, wú chǐ yǐ." Zài Rújiā xiū-qí-zhì-píng de déxìng lúnlǐ zhōng, zhī chǐ yǔ cánkuì juéfēi xiāojí ruǎnruò de biǎoxiàn, ér shì gètǐ xǐngchá zìwǒ quēshī, míngbiàn shìfēi shàn'è de juéxǐng qǐdiǎn, gèng shì tuīdòng réngé zìwǒ shēnghuá yǔ dàodé wánshàn de jīngshén dònglì. | Mencius declared: "A person must not be without shame." In Confucian virtue ethics, possessing a sense of shame (惭愧) is not weakness, but the awakening of moral conscience that drives personal elevation and ethical integrity. | Mencio afirmaba que nadie debe carecer de pudor moral. En la ética confuciana, sentir vergüenza no es debilidad, sino el despertar reflexivo para discernir el bien del mal e impulsar la superación personal.

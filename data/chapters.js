@@ -14,5 +14,21 @@ window.__HSK_CHAPTERS_MANIFEST__ = [
     "title": "亲情与家庭温暖 (Family Ties & Home Warmth)",
     "word_count": 39,
     "level": "HSK 5"
+  },
+  {
+    "id": 3,
+    "dir": "chapter_03",
+    "name": "Chapter 3",
+    "title": "人生选择与航海梦想 (Life Choices & Ocean Dreams)",
+    "word_count": 40,
+    "level": "HSK 5"
+  },
+  {
+    "id": 4,
+    "dir": "chapter_04",
+    "name": "Chapter 4",
+    "title": "孝敬父母与百里负米 (Filial Piety & Dedication to Parents)",
+    "word_count": 44,
+    "level": "HSK 5"
   }
 ];

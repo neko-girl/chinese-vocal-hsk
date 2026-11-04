@@ -1,0 +1,63 @@
+id: 23
+hanzi: 奖金
+pinyin: jiǎng jīn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: bonus; financial award; prize money; monetary incentive
+  es: prima; bono; gratificación; premio en metálico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | supplementary money awarded as incentive, reward for merit, or prize | prima; bono económico; dinero concedido como premio | 发放年终奖金 (distribute year-end bonus)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 庄园主人格外赞赏子路的诚实与勤劳，在结清常规工钱之外，还特意额外赠予了他一笔丰厚的奖金。 | Zhuāngyuán zhǔrén géwài zànshǎng Zǐlù de chéngshí yǔ qínláo, zài jiéqīng chángguī gōngqián zhīwài, hái tèyì éwài zèngyǔ le tā yì bǐ fēnghòu de jiǎngjīn. | The estate master admired Zilu's honesty and diligence so much that besides settling regular wages, he specially gifted him a generous bonus. | El dueño de la hacienda apreció tanto la honradez y diligencia de Zilu que, además de liquidar su jornal habitual, le concedió una generosa gratificación adicional.
+  #2 | 为了激发科研人员攻坚克难的创新活力，该高新技术园区设立了总额超千万的科技成果专项奖金。 | Wèile jīfā kēyán rényuán gōngjiān-kènán de chuàngxīn huólì, gāi gāoxīnjìshù yuánqū shèlì le zǒng'é chāo qiānwàn de kējì chéngguǒ zhuānxiàng jiǎngjīn. | To ignite researchers' innovative drive to tackle core challenges, the high-tech park established a specialized tech achievement bonus pool exceeding 10 million yuan. | Para alentar a los investigadores a superar retos tecnológicos, el parque científico creó un fondo especial de primas que supera los diez millones de yuanes.
+
+collocations[6]{hanzi,en}:
+  发放奖金 | distribute bonuses
+  年终奖金 | year-end bonus
+  获得奖金 | receive a monetary bonus
+  全勤奖金 | perfect attendance bonus
+  丰厚奖金 | handsome / generous bonus
+  设立奖金 | establish a prize fund / bonus
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  奖罚分明 | jiǎng fá fēn míng | strict and fair in meting out rewards and punishments
+  重赏勇夫 | zhòng shǎng yǒng fū | heavy rewards attract brave men
+  论功行赏 | lùn gōng xíng shǎng | award prizes according to merit
+  点石成金 | diǎn shí chéng jīn | turn iron into gold; magical transformative power
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  奖 | jiǎng | award; reward; praise | premiar; galardón; elogio | 大 | big / great | 犬/大 (faithful hunting dog / merit) | 将 (jiāng / military commander phonetic/leader) | 9 | 上下结构 | Phono-semantic compound: 将 (commander) commanding a valiant hound (犬/大) to encourage valor with prizes and honors. | A valiant commander (将) presenting honors and gifts to a loyal hound (大/犬). | Un general (将) que condecora y premia la lealtad de un fiel sabueso (大/犬). | 214 | LNK | 獎
+  金 | jīn | gold; metal; money | oro; metal; dinero | 金 | metal / gold | 亼 (accumulating / melting pot) | 𤣥/土 (two nuggets of gold buried in earth) | 8 | 上下结构 | Ancient pictograph of mineral nuggets buried within smelting earth, symbolizing gold, precious metals, and cash. | Precious nuggets of golden metal mined from deep veins of earth. | Valiosas pepitas de oro extraídas de las vetas profundas de la tierra. | 55 | C | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When merited honors and praise (奖) are bestowed in the form of precious money (金), you receive a financial bonus (奖金).
+  composite_memory_hook_es: Cuando el mérito y el elogio (奖) se retribuyen con dinero contante (金), se recibe una gratificación económica (奖金).
+  cultural_and_cognitive_roots: In Chinese administrative and business philosophy, rewards and punishments are the two levers of governance. 奖金 embodies the material incentive driving diligence.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by high-level 1st tone: jiǎng jīn (214-55). 'jiǎng' dips fully before vaulting into clear high tone on 'jīn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    桨 | jiǎng | oar; paddle | Has 木 (wood) below 将 instead of 大
+    浆 | jiāng | thick liquid; starch | Has 水 (water) below 将 instead of 大
+    酱 | jiàng | thick sauce; paste | Has 酉 (ferment vessel) below 将
+    全 | quán | whole; complete | Has 人 (person) atop 王 instead of 金
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    奖励 | jiǎng lì | reward; incentivize
+    奖学金 | jiǎng xué jīn | scholarship
+    黄金 | huáng jīn | gold
+    金钱 | jīn qián | money
+
+semantic_boundary_contrasts:
+  core_nuance: 奖金 specifically denotes supplementary incentive cash awarded above base wages for superior performance or contest prizes.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 奖金 vs. 工资 | gōngzī | 工资 is base, contractual guaranteed compensation for regular employment, whereas 奖金 is variable, performance-linked bonus cash.
+    2 | 奖金 vs. 奖品 | jiǎngpǐn | 奖金 is strictly monetary cash rewards, whereas 奖品 denotes physical non-monetary prizes such as trophies, medals, or electronics.
+    3 | 奖金 vs. 报酬 | bàochou | 奖金 is an incentive premium above normal earnings, while 报酬 covers the entire compensation package for labor or intellectual service.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 不仅按时领到了工钱，主人还因其忠厚多赠予了子路一笔意外的奖金。子路手握沉甸甸的银两，对主人的仁厚深怀感恩，立刻奔向集镇采购最饱满的稻谷与干粮。 | Bùjǐn ànshí lǐngdào le gōngqián, zhǔrén hái yīn qí zhōnghòu duō zèngyǔ le Zǐlù yì bǐ yìwài de jiǎngjīn. Zǐlù shǒu wò chéndiāndiān de yínliǎng, duì zhǔrén de rénhòu shēn huái gǎn'ēn, lìkè bēn xiàng jīzhèn cǎigòu zuì bǎomǎn de dàogǔ yǔ gānliáng. | Not only did he receive his wages on time, but the master gifted Zilu an unexpected bonus for honesty. Gripping the heavy silver with gratitude, Zilu hurried to the town market to buy grains. | Además de cobrar su sueldo a tiempo, el patrón premió la lealtad de Zilu con una gratificación imprevista. Sosteniendo la plata con gratitud, marchó de prisa al pueblo a comprar grano.
+  #2 | 现代薪酬激励机制普遍将浮动奖金作为提升团队效能与留存核心人才的关键工具。合理的奖金分配机制不仅能够打破干多干少一个样的平均主义弊端，更能将组织的长远战略目标与劳动者的个体切身利益紧密绑定。 | Xiàndài xīnchóu jīlì jīzhì pǔbiàn jiāng fúdòng jiǎngjīn zuòwéi tíshēng tuánduì xiàonéng yǔ liúcún héxīn réncái de guānjiàn gōngjù. Hélǐ de jiǎngjīn fēnpèi jīzhì bùjǐn nénggòu dǎpò gàn duō gàn shǎo yíyàng de píngjūnzhǔyì bìduān, gèng néng jiāng zǔzhī de chángyuǎn zhànlüè mùbiāo yǔ láodòngzhě de gètǐ qiēshēn lìyì jǐnmì bǎngdìng. | Modern compensation systems widely adopt performance bonuses to enhance productivity and retain talent. A sound bonus mechanism eliminates egalitarian complacency, aligning strategic goals with employee welfare. | La retribución variable mediante primas constituye un pilar de la gestión moderna. Una asignación equitativa supera la desmotivación igualitarista y alinea el éxito de la empresa con el beneficio del trabajador.

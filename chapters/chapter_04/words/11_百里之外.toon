@@ -1,0 +1,65 @@
+id: 11
+hanzi: 百里之外
+pinyin: bǎi lǐ zhī wài
+level: HSK 5
+part_of_speech: Idiom
+
+meanings_summary:
+  en: hundreds of miles away; far away beyond a hundred li
+  es: a cientos de leguas de distancia; a más de cien li de distancia; muy lejos
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Idiom | Standard | situated or occurring at a great distance of a hundred li or more | a más de cien li de distancia; en un lugar remoto o lejano | 远在百里之外 (far away hundreds of miles away)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 听说百里之外的富庶城镇有做工挣粮的机会，孝子子路便告别双亲，踏上了艰苦的远行之路。 | Tīngshuō bǎilǐ zhī wài de fùshù chéngzhèn yǒu zuògōng zhèngliáng de jīhuì, xiàozǐ Zǐlù biàn gàobié shuāngqīn, tàshang le jiānkǔ de yuǎnxíng zhī lù. | Hearing that there were opportunities to work for grain in an affluent town hundreds of miles away, the filial son Zilu bid farewell to his parents and embarked on the arduous journey. | Al enterarse de que a más de cien leguas de distancia había oportunidades de trabajar para conseguir grano, el devoto hijo Zilu se despidió de sus padres y emprendió el arduo camino.
+  #2 | 该观测站位于距市区百里之外的高山之巅，拥有极为理想的无光害天文观测环境。 | Gāi guāncèzhàn wèiyú jù shìqū bǎilǐ zhī wài de gāoshān zhī diān, yōngyǒu jíwéi lǐxiǎng de wúguānghài tiānwén guāncè huánjìng. | Situated atop a high mountain hundreds of miles away from urban centers, the observatory enjoys ideal conditions free from light pollution. | La estación astronómica se encuentra en la cumbre de una montaña a más de cien leguas de la ciudad, ofreciendo condiciones ideales sin contaminación lumínica.
+
+collocations[6]{hanzi,en}:
+  远在百里之外 | far away hundreds of miles away
+  奔赴百里之外 | rush to a place hundreds of miles away
+  来自百里之外 | come from hundreds of miles away
+  相隔百里之外 | separated by hundreds of miles
+  百里之外的家乡 | home hundreds of miles away
+  百里之外的城镇 | town hundreds of miles away
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  百里挑一 | bǎi lǐ tiāo yī | one in a hundred; cream of the crop
+  百折不挠 | bǎi zhé bù náo | unyielding; undaunted by repeated setbacks
+  置之度外 | zhì zhī dù wài | leave out of consideration; disregard
+  九霄云外 | jiǔ xiāo yún wài | beyond the highest heavens; vanish into thin air
+
+character_decomposition[4]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  百 | bǎi | hundred; numerous | cien; centenar | 白 | white | 一 (one) | 白 (bái / white phonetic / ancient count) | 6 | 上下结构 | Ideogrammic and phono-semantic: 一 (unity) atop 白 (count), symbolizing the numerical unit hundred. | One horizon line (一) uniting hundredfold abundance (白). | Una línea horizontal (一) coronando la centena en cuenta plena (白). | 214 | MA | ""
+  里 | lǐ | li (Chinese mile ~500m); village | li (milla china); aldea | 里 | village / field / earth | 田 (cultivated field) | 土 (fertile earth/soil) | 7 | 上下结构 | Ideogrammic compound: 田 (field) over 土 (earth), originally a rural hamlet or unit of agricultural land measurement. | Cultivated fields (田) divided upon fertile soil (土) measuring rural distance. | Campos de labranza (田) trazados sobre tierra fértil (土) que definen la distancia campesina. | 214 | WG | ""
+  之 | zhī | possessive/attributive marker; of | partícula de enlace; de | 丶 | dot | 止 (foot marching forward) | 一 (baseline) | 3 | 单一结构 | Ancient pictograph of a foot stepping forward from a baseline, grammaticalized into a genitive or relational particle. | A foot stepping forward linking one location to another. | Una huella que avanza vinculando una posición con otra. | 55 | INO | ""
+  外 | wài | outside; outer; beyond | fuera; exterior | 夕 | evening | 夕 (crescent moon/evening) | 卜 (divination crack) | 5 | 左右结构 | Ideogrammic compound: performing divination (卜) at evening (夕), outside normal auspicious daytime rituals, hence beyond or outer. | Looking out at the evening moon (夕) seeking answers outside familiar walls. | Contemplar la luna vespertina (夕) buscando respuestas más allá de los muros familiares. | 51 | NY | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Measuring a hundred (百) rural leagues (里) of (之) distance leading out into the beyond (外) places you hundreds of miles away (百里之外).
+  composite_memory_hook_es: Recorrer cien (百) leguas (里) de (之) distancia que se internan en el exterior lejano (外) conduce a cientos de leguas de distancia (百里之外).
+  cultural_and_cognitive_roots: In ancient China, one 里 was about 500 meters. 百里 (~50 km) was an immense distance on foot over treacherous mountain roads, highlighting extraordinary filial devotion.
+  tone_sandhi_and_pitch_modulation: Dipping-dipping-high-falling: bǎi lǐ zhī wài. In rapid speech, bǎi undergoes 3rd tone sandhi before lǐ: bái lǐ zhī wài (35-214-55-51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    白 | bái | white | Lacks the upper horizontal stroke 一 of 百
+    理 | lǐ | reason; logic | Has 王 (jade) radical on the left of 里
+    处 | chù | place | Has 夂 instead of 卜 next to 夕
+    处 | chǔ | deal with | Similar left side 夕 to 外
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    百般 | bǎi bān | in every possible way
+    千里 | qiān lǐ | a thousand li; vast distance
+    之外 | zhī wài | outside of; beyond
+    外界 | wài jiè | outside world
+
+semantic_boundary_contrasts:
+  core_nuance: 百里之外 evokes spatial vastness and geographic separation across arduous terrain, often emphasizing the devotion required to bridge it.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 百里之外 vs. 千里迢迢 | qiānlǐ tiáotiáo | 百里之外 locates a specific distance boundary, while 千里迢迢 describes the exhausting process of traveling over thousands of miles.
+    2 | 百里之外 vs. 远隔重洋 | yuǎngé chóngyáng | 百里之外 refers to overland distance in rural or domestic geography, whereas 远隔重洋 describes separation by immense oceans across continents.
+    3 | 百里之外 vs. 遥远 | yáoyuǎn | 百里之外 is a vivid spatial idiom with historical and concrete measurement imagery, whereas 遥远 is a general neutral adjective meaning far or remote.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了让父母在乱世中免于饥馑，子路徒步奔波于百里之外，替富豪大户舂米做工。每当夜深人静，眺望百里之外故乡的微弱灯火，他心头的思念与笃定便更加深沉。 | Wèile ràng fùmǔ zài luànshì zhōng miǎnyú jījǐn, Zǐlù túbù bēnbō yú bǎilǐ zhī wài, tì fùháo dàhù chōngmǐ zuògōng. Měi dāng yèshēn rénjìng, tiàowàng bǎilǐ zhī wài gùxiāng de wēiruò dēnghuǒ, tā xīntóu de sīniàn yǔ dǔdìng biàn gèngjiā shēnchén. | To save his parents from starvation during war, Zilu traveled hundreds of miles on foot to pound rice for rich masters. In the quiet of night, gazing toward his distant village, his devotion grew ever deeper. | Con el fin de librar a sus padres del hambre en tiempos convulsos, Zilu caminó hasta un pueblo a más de cien leguas para trabajar. En el silencio de la noche, contemplar las luces lejanas de su hogar redoblaba su compromiso filial.
+  #2 | 古代交通条件极其落后，百里之外的地理阻隔往往意味着数日艰苦卓绝的徒步攀涉。然而，“百里负米”的典故却将这一漫长艰辛的空间距离转化为衡量孝道深浅的精神尺度，成为中华孝文化中历久弥新的动人篇章。 | Gǔdài jiāotōng tiáojiàn jíqí luòhòu, bǎilǐ zhī wài de dìlǐ zǔgé wǎngwǎng yìwèizhe shù rì jiānkǔ-zhuójué de túbù pānshè. Rán'ér, "bǎilǐ fùmǐ" de diǎngù què jiāng zhè yì màncháng jiānxīn de kōngjiān jùlí zhuǎnhuà wéi héngliáng xiàodào shēnqiǎn de jīngshén chǐdù, chéngwéi Zhōnghuá xiàowénhuà zhōng lìjiǔ-míxīn de dòngrén piānzhāng. | Ancient travel was arduous; crossing a hundred li meant days of walking across rugged terrain. Yet the story of carrying rice transformed this physical distance into a spiritual measure of filial devotion, remaining a timeless cultural touchstone. | El transporte antiguo era sumamente precario, y recorrer más de cien leguas requería días enteros de extenuante caminata. Sin embargo, la leyenda de Zilu convirtió esa distancia en un símbolo perdurable del amor filial desinteresado.

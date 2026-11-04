@@ -164,7 +164,9 @@ const StorageManager = (function() {
         studyOrder: 'order',   // 'order' or 'shuffle'
         activeTab: 'sentences',// default active pill tab
         filter: 'all',         // 'all', 'due', 'lapses', 'remembered', 'new'
-        lang: localStorage.getItem('hsk_lang') || 'both'
+        lang: localStorage.getItem('hsk_lang') || 'both',
+        autoAdvanceChapter: true, // auto-start next chapter when finished
+        autoAdvanceDelay: 5       // countdown seconds before auto-advance
       };
 
       try {

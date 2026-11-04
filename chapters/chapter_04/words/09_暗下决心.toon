@@ -1,0 +1,65 @@
+id: 9
+hanzi: 暗下决心
+pinyin: àn xià jué xīn
+level: HSK 5
+part_of_speech: Idiom
+
+meanings_summary:
+  en: to make up one's mind secretly; to resolve firmly in private
+  es: tomar una determinación en secreto; resolver firmemente en privado
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Idiom | Standard | to form a resolute, silent inward commitment without declaring it outwardly | tomar una decisión firme y callada en el interior de uno mismo | 暗下决心改变现状 (secretly resolve to change the situation)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 看到父母日渐苍老的面容和简陋的土屋，他在心底暗下决心，一定要通过自己的勤劳改变家庭的命运。 | Kàndào fùmǔ rìjiàn cānglǎo de miànróng hé jiǎnlòu de tǔwū, tā zài xīndǐ ànxià juéxīn, yídìng yào tōngguò zìjǐ de qínláo gǎibiàn jiātíng de mìngyùn. | Seeing his parents' aging faces and their humble earthen hut, he secretly resolved in his heart to change their family's destiny through diligent labor. | Al contemplar los rostros envejecidos de sus padres y la humilde choza, decidió en su interior con firmeza que cambiaría el destino familiar mediante el trabajo arduo.
+  #2 | 经历了初创时期的重重阻碍与挫折，团队负责人暗下决心，无论面对多大压力都要坚持完成核心技术攻关。 | Jīnglì le chūchuàng shíqī de zhòngzhòng zǔ'ài yǔ cuòzhé, tuánduì fùzérén ànxià juéxīn, wúlùn miànduì duō dà yālì dōuyào jiānchí wánchéng héxīn jìshù gōngguān. | Having endured setbacks in the startup phase, the project director secretly resolved to conquer core technical hurdles no matter how great the pressure. | Tras superar tropiezos durante los inicios del proyecto, el director tomó la firme resolución interna de persistir hasta dominar las tecnologías clave frente a cualquier obstáculo.
+
+collocations[6]{hanzi,en}:
+  暗下决心发愤图强 | secretly resolve to work hard with determination
+  在心底暗下决心 | make up one's mind secretly in one's heart
+  暗下决心努力学习 | secretly resolve to study hard
+  暗下决心改变现状 | secretly resolve to change the status quo
+  暗下决心不负期望 | privately resolve not to disappoint expectations
+  暗下决心追赶差距 | secretly resolve to close the gap
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  下定决心 | xià dìng jué xīn | make a firm resolution
+  立志图强 | lì zhì tú qiáng | resolve to strive for strength and success
+  咬紧牙关 | yǎo jǐn yá guān | grit one's teeth and bear through hardship
+  矢志不渝 | shǐ zhì bù yú | firmly committed and unwavering in one's resolve
+
+character_decomposition[4]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  暗 | àn | dark; secret; concealed | oscuro; secreto; oculto | 日 | sun | 日 (sun hidden / eclipsed) | 音 (yīn / sound phonetic) | 13 | 左右结构 | Phono-semantic compound: 日 (sun obscure/absent) + 音 (sound), depicting darkness, concealment, or unspoken private thoughts. | The sun (日) eclipsed, cloaking thoughts in secret soundless quietude (音). | El sol (日) oculto bajo la sombra, guardando reflexiones en discreto silencio (音). | 51 | AYA | ""
+  下 | xià | down; lower; execute | abajo; descender; fijar | 一 | one | 一 (ground line) | 卜 (indicator pointing below the line) | 3 | 单一结构 | Indicative character: an indicator mark beneath a base horizontal boundary line, signifying downward motion or fixing. | A mark positioned firmly downward under a baseline line. | Una marca que señala hacia abajo bajo una línea base, indicando firmeza. | 51 | MY | ""
+  决 | jué | decide; resolve; breach | decidir; resolver | 冫 | ice / two drops water | 冫 (water bursting/ice) | 夬 (guài / notch/bursting breach) | 6 | 左右结构 | Phono-semantic compound: 冫/氵 (surging flow) + 夬 (cleaving through an obstacle), representing decisive breakthrough. | Cutting decisively through frozen obstacles like water breaching a dam. | Romper con firmeza diques u obstáculos como el agua que fluye incontenible. | 35 | EDK | 決
+  心 | xīn | heart; mind; intention | corazón; mente; voluntad | 心 | heart | 心 (pictograph of human heart with valves) | "" | 4 | 单一结构 | Pictographic depiction of the anatomical human heart, the metaphorical seat of consciousness and resolve. | The beating heart chamber holding one's deepest vows and spirit. | La cámara del corazón que custodia los votos y anhelos más profundos. | 55 | P | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: In the private darkness of the mind (暗), planting downward (下) a decisive breach (决) of will across the heart (心) means making up one's mind secretly (暗下决心).
+  composite_memory_hook_es: En la íntima penumbra del alma (暗), sembrar hacia adentro (下) una firme decisión (决) en el corazón (心) significa jurarse algo en secreto (暗下决心).
+  cultural_and_cognitive_roots: Chinese narrative tradition valorizes quiet, resolute inner oaths over empty verbal boasting. An oath sworn silently to oneself indicates deep maturity and indomitable endurance.
+  tone_sandhi_and_pitch_modulation: Falling-falling-rising-high: àn xià jué xīn (51-51-35-55). Note that '决' rises cleanly on tone 2, followed by steady tone 1 on 'xīn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    明 | míng | bright; clear | Has 月 (moon) beside 日 instead of 音 (sound)
+    快 | kuài | fast; quick | Has 忄 (heart) with 夬 instead of 冫
+    块 | kuài | piece; lump | Has 土 (earth) with 夬 instead of 冫
+    必 | bì | must; necessarily | Has a diagonal slash cutting through 心
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    暗中 | àn zhōng | in secret; covertly
+    下定 | xià dìng | make up (mind); establish
+    决定 | jué dìng | decide; decision
+    心里 | xīn lǐ | in one's heart / mind
+
+semantic_boundary_contrasts:
+  core_nuance: 暗下决心 highlights an internal, private psychological commitment forged without external declaration.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 暗下决心 vs. 下定决心 | xiàdìng juéxīn | 暗下决心 emphasizes that the resolution is formed silently in private without letting others know, whereas 下定决心 simply denotes forming a firm resolution, which can be announced publicly.
+    2 | 暗下决心 vs. 拿定主意 | nádìng zhǔyi | 暗下决心 carries intense emotional resolve, long-term moral weight, and determination, whereas 拿定主意 usually refers to making a practical choice or settling on a specific plan of action.
+    3 | 暗下决心 vs. 立下誓言 | lìxià shìyán | 暗下决心 is an unspoken mental vow, whereas 立下誓言 involves swearing an explicit verbal oath, often before witnesses.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 目睹年迈双亲在饥寒交迫中艰难支撑，年轻的子路在心底暗下决心：哪怕翻山越岭、历尽千难万险，也一定要去百里之外打工背米，让父母不再挨饿受冻。 | Mùdǔ niánmài shuāngqīn zài jīhán-jiāopò zhōng jiānnán zhīchēng, niánqīng de Zǐlù zài xīndǐ ànxià juéxīn: nǎpà fānshān-yuèlǐng, lìjìn qiānnán-wànxiǎn, yě yídìng yào qù bǎilǐ zhī wài dǎgōng bēimǐ, ràng fùmǔ búzài ái'è shòudòng. | Seeing his elderly parents struggle amid hunger and freezing cold, young Zilu secretly resolved in his heart: even if crossing steep mountains and enduring countless trials, he would journey far away to earn and carry rice for them. | Al ver a sus ancianos progenitores pasar hambre y frío, el joven Zilu decidió en secreto que, aunque debiera escalar montañas y sortear mil peligros, viajaría lejos a trabajar para llevarles arroz y aliviar sus penas.
+  #2 | 在许多励志人物的成长历程中，改变人生命运的关键契机往往不是轰轰烈烈的宣言，而是一个人在困境中暗下决心的沉静时刻。那种发自内心深处的自我期许与坚毅信念，能够在漫长的岁月里转化为源源不断的前进动力。 | Zài xǔduō lìzhì rénwù de chéngzhǎng lìchéng zhōng, gǎibiàn rénshēng mìngyùn de guānjiàn qìjī wǎngwǎng bú shì hōnghōnglièliè de xuānyán, ér shì yí gè rén zài kùnjìng zhōng ànxià juéxīn de chénjìng shíkè. Nà zhǒng fā zì nèixīn shēnchù de zìwǒ qīxǔ yǔ jiānyì xìnniàn, nénggòu zài màncháng de suìyuè lǐ zhuǎnhuà wéi yuányuán-bùduàn de qiánjìn dònglì. | In the journeys of inspiring figures, life-altering turning points are rarely loud declarations, but quiet moments when one secretly makes up one's mind in adversity. That deep internal conviction transforms into enduring motivation. | En la vida de quienes triunfan frente a la adversidad, el punto de inflexión no suele ser una proclama ruidosa, sino el instante íntimo en que se proponen superarse. Esa determinación callada se convierte con el tiempo en una fuerza imparable.

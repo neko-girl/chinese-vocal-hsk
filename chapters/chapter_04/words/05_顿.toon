@@ -1,0 +1,63 @@
+id: 5
+hanzi: 顿
+pinyin: dùn
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: classifier for meals, scoldings, beatings; pause; suddenly; to pause
+  es: clasificador para comidas, reprimendas; pausa; pausar; de repente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | classifier for meals, beatings, scoldings, or discrete occurrences | clasificador para comidas, palizas, regaños o sucesos puntuales | 一顿饭 (a meal)
+  2 | Verb | Standard | to pause; to stop briefly; to stamp one's foot | pausar; detenerse un instante; dar una patada en el suelo | 停顿了一下 (paused for a moment)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过了一整天繁重的高强度劳动，一家人围坐在一起吃上一顿热气腾腾的晚餐，便是最大的安慰。 | Jīngguò le yì zhěng tiān fánzhòng de gāoxiàngdù láodòng, yì jiā rén wéizuò zài yìqǐ chī shang yí dùn rèqì-téngténg de wǎncān, biàn shì zuì dà de ānwèi. | After a whole day of strenuous labor, the whole family sitting together eating a steaming hot dinner was the greatest comfort. | Tras una agotadora jornada de intenso trabajo, sentarse en familia a compartir una comida caliente suponía el mayor de los consuelos.
+  #2 | 发言人在宣布关键政策前略微顿了顿，环视全场后才郑重宣布了这项关乎民生保障的重要决议。 | Fāyánrén zài xuānbù guānjiàn zhèngcè qián lüèwēi dùn le dùn, huánshì quánchǎng hòu cái zhèngzhòng xuānbù le zhè xiàng guānhū mínshēng bǎozhàng de zhòngyào juéyì. | The spokesperson paused briefly before announcing the key policy, looking around the room before solemnly proclaiming this decision concerning people's livelihood. | El portavoz hizo una breve pausa antes de anunciar la política clave, observando la sala antes de proclamar solemnemente la resolución de bienestar social.
+
+collocations[6]{hanzi,en}:
+  一顿丰盛的晚餐 | a sumptuous dinner
+  吃一顿饱饭 | eat a full meal
+  挨了一顿批评 | received a scolding
+  停顿片刻 | pause for a brief moment
+  整顿秩序 | rectify and reorganize order
+  顿悟道理 | suddenly comprehend the truth
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  茅塞顿开 | máo sè dùn kāi | suddenly enlightened; suddenly see the light
+  停顿不前 | tíng dùn bù qián | come to a standstill; make no progress
+  抑扬顿挫 | yì yáng dùn cuò | rhythmic modulation of voice or tone; cadenced
+  整顿旗鼓 | zhěng dùn qí gǔ | reorganize forces; regroup and prepare for action
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  顿 | dùn | meal classifier; pause; sudden | clasificador de comidas; pausa; súbito | 页 | head / leaf / page | 屯 (tún / difficult sprouting / phonetic anchor) | 页 (head / bowing head) | 4 | 左右结构 | Phono-semantic compound: 屯 (sprout struggling to burst forth) + 页 (head/person), originally indicating bowing one's head to the ground or a brief halt. | A person bowing their head (页) briefly to rest after hard labor (屯). | Una persona que inclina la cabeza (页) un instante para descansar tras un arduo esfuerzo (屯). | 51 | PUMBO | 頓
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A tired worker pauses, bows their head (页), and sits down to enjoy a well-deserved meal (顿).
+  composite_memory_hook_es: Un trabajador exhausto inclina la cabeza (页), hace una pausa y se sienta a degustar una merecida comida (顿).
+  cultural_and_cognitive_roots: Originally meaning to touch the head to the ground in kowtow or pause, 顿 shifted through discrete units of action to become the indispensable measure word for daily meals.
+  tone_sandhi_and_pitch_modulation: High-falling 4th tone: dùn (51). When paired with 一 (yī), 一 undergoes tone sandhi to become 2nd tone: yí dùn (35-51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    屯 | tún | village; station troops | Phonetic component without the 页 radical
+    颂 | sòng | eulogize; praise | Has 公 on the left with 页 on the right
+    顺 | shùn | smooth; obedient | Has 川 on the left with 页 on the right
+    领 | lǐng | neck; lead | Has 令 on the left with 页 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    停顿 | tíng dùn | pause; halt
+    整顿 | zhěng dùn | reorganize; consolidate
+    顿挫 | dùn cuò | cadence; rhythm
+    顿时 | dùn shí | immediately; suddenly
+
+semantic_boundary_contrasts:
+  core_nuance: 顿 serves as a classifier for bounded eating occasions, verbal scoldings, or actions of physical/temporal stopping.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 顿 vs. 餐 | cān | 顿 is the common colloquial classifier for any meal, whereas 餐 is more formal, lexical, and nominal.
+    2 | 顿 vs. 番 | fān | 顿 measures repetitive human interactions like scoldings or meals, whereas 番 measures prolonged mental effort or repeated processes.
+    3 | 顿 vs. 停 | tíng | 顿 indicates a brief, momentary pause in rhythm, speech, or thought before continuing, whereas 停 denotes coming to a complete stop or cessation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在那个物资极度匮乏的年代，能让父母吃上一顿安稳可口的白米饭，是许多游子心头最大的牵挂。为了这一顿热饭，他们不惜背负沉重的粮食，在风雪交加的山道上徒步前行。 | Zài nàge wùzī jídù kuìfá de niándài, néng ràng fùmǔ chī shang yí dùn ānwěn kěkǒu de báimǐfàn, shì xǔduō yóuzǐ xīntóu zuì dà de qiānguà. Wèile zhè yí dùn rèfàn, tāmen bùxī bēifù chénzhòng de liángshi, zài fēngxuě-jiāojiā de shāndào shàng túbù qiánxíng. | In an era of acute scarcity, providing elderly parents with a hearty meal of white rice was a traveler's deepest concern. For that warm meal, filial sons shouldered heavy sacks and trudged along snow-swept mountain paths. | En épocas de extrema escasez, procurar que los padres disfrutaran de una comida reconfortante de arroz blanco era el mayor anhelo de un hijo. Por esa cena caliente, cargaban pesados sacos a pie por gélidos senderos montañosos.
+  #2 | 传统礼仪中的“顿首”体现了古代士人对尊长最诚挚的敬意。而在日常生活中，“顿”作为量词记录了普通百姓的生活节律：从清晨到日暮，一家人围坐共享一顿简朴的餐食，凝聚着生生不息的家庭温情。 | Chuántǒng lǐyí zhōng de "dùnshǒu" tǐxiàn le gǔdài shìrén duì zūnzhǎng zuì zhēnzhì de jìngyì. Ér zài rìcháng shēnghuó zhōng, "dùn" zuòwéi liàngcí jìlù le pǔtōng bǎixìng de shēnghuó jiélǜ: cóng qīngchén dào rìmù, yì jiā rén wéizuò gòngxiǎng yí dùn jiǎnpǔ de cānshí, níngjù zhe shēngshēng-bùxī de jiātíng wēnqíng. | In traditional etiquette, bowing low (顿首) showed utmost respect. In daily life, 顿 serves as a measure word charting domestic rhythms: from dawn to dusk, a family gathering around a simple meal embodies enduring affection. | En la etiqueta tradicional, inclinar la cabeza reflejaba profundo respeto. Asimismo, 顿 marca los ritmos cotidianos: de la mañana al anochecer, compartir una comida modesta en familia encarna la calidez y el afecto inquebrantable del hogar.

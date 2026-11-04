@@ -1,0 +1,63 @@
+id: 22
+hanzi: 算
+pinyin: suàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to calculate; to compute; to count; to consider as; to plan
+  es: calcular; contar; computar; considerar como; planear
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to calculate, reckon, or tally numbers/finances | calcular; computar; hacer cuentas | 算一算总账 (calculate the total account)
+  2 | Verb | Standard | to consider, regard, or count as; at long last | considerar; contar como; por fin | 这就算完成了 (this counts as finished)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 掌柜仔细拨弄着手里的算盘，反复核算了三遍，确保每一笔收支账目都分毫不差。 | Zhǎngguì zǐxì bōnòng zhe shǒulǐ de suànpán, fǎnfù hésuàn le sān biàn, quèbǎo měi yì bǐ shōuzhī zhàngmù dōu fēnháo-bùchà. | The shopkeeper meticulously flicked the beads of his abacus, calculating three times to ensure every income and expense entry was accurate to the penny. | El tendero movió con esmero las cuentas del ábaco, recalculando tres veces para cerciorarse de que cada asiento contable cuadrara al céntimo.
+  #2 | 历经长达三年的刻苦钻研与反复试验，新技术测试终于取得了圆满成功，这下总算大功告成了！ | Lìjīng chángdá sān nián de kèkǔ zuānyán yǔ fǎnfù shìyàn, xīn jìshù cèshì zhōngyú qǔdé le yuánmǎn chénggōng, zhèxià zǒngsuàn dàgōng-gàochéng le! | After three years of painstaking research and experiments, the technology test finally succeeded completely; at long last the grand mission was accomplished! | Tras tres años de paciente investigación y ensayos constantes, la nueva tecnología superó con éxito las pruebas; ¡por fin se coronó la gran obra!
+
+collocations[6]{hanzi,en}:
+  核算成本 | calculate costs
+  说了算 | have the final say
+  算一算 | calculate; do the math
+  总算完成了 | at long last finished
+  算不上 | cannot be considered as
+  精打细算 | calculate meticulously; budget strictly
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  精打细算 | jīng dǎ xì suàn | meticulous planning and strict budgeting
+  神机妙算 | shén jī miào suàn | miraculous foresight and ingenious calculation
+  人算不如天算 | rén suàn bù rú tiān suàn | man proposes, God disposes; human calculation falls short of Heaven's
+  从长计议 | cóng cháng jì yì | discuss leisurely from a long-term perspective
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  算 | suàn | calculate; tally; count | calcular; contar; computar | 竹 | bamboo | 竹 (bamboo counting rods / abacus) | 具/廾 (hands holding counting tools) | 14 | 上下结构 | Ideogrammic compound: hands (廾) manipulating bamboo counting rods (竹) on a counting board (目/具). | Two hands manipulating bamboo rods (竹) on an abacus to tally wealth. | Dos manos ágiles manipulando varillas de bambú (竹) sobre un ábaco para llevar las cuentas. | 51 | HBU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Using two hands to manipulate bamboo counting rods (竹) lets you tally and calculate (算) with precision.
+  composite_memory_hook_es: Mover con ambas manos las varillas de cálculo de bambú (竹) permite computar y calcular (算) con exactitud.
+  cultural_and_cognitive_roots: Ancient Chinese mathematics relied on bamboo counting rods (筹算) and the abacus (算盘). Calculation was both a science and an everyday mercantile skill.
+  tone_sandhi_and_pitch_modulation: High-falling 4th tone: suàn (51). Deliver with decisive, crisp downward inflection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    鼻 | bí | nose | Has 自 (nose) above 畀 instead of 竹
+    策 | cè | plan; strategy | Has 朿 below 竹 instead of 目+廾
+    管 | guǎn | tube; manage | Has 官 below 竹 instead of 目+廾
+    箱 | xiāng | box; chest | Has 相 below 竹 instead of 目+廾
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    打算 | dǎ suan | plan; intend
+    计算 | jì suàn | calculate; compute
+    推算 | tuī suàn | estimate; extrapolate
+    预算 | yù suàn | budget
+
+semantic_boundary_contrasts:
+  core_nuance: 算 encompasses arithmetic calculation, cognitive planning, and deeming/considering something to qualify under a category.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 算 vs. 计算 | jìsuàn | 算 is versatile, everyday, and idiomatic (算了吧, 说了算, 总算), whereas 计算 is technical and mathematical for quantitative operations.
+    2 | 算 vs. 以为 | yǐwéi | 算 means to officially deem or count as, whereas 以为 indicates subjective, often erroneous presumption.
+    3 | 算 vs. 打算 | dǎsuan | 算 can function as calculating or evaluating, while 打算 is strictly a mental intention or plan for future actions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 子路在归途中一边顶着寒风赶路，一边在心里暗暗盘算：剩下的一小袋米不仅够父母度过严冬，剩余的银子还能添置几件厚实的冬衣。想到这里，刺骨的寒意便被胸中的温暖驱散了。 | Zǐlù zài guītú zhōng yìbiān dǐngzhe hánfēng gǎnlù, yìbiān zài xīnlǐ àn'àn pánsuan: shèngxià de yì xiǎo dài mǐ bùjǐn gòu fùmǔ dùguò yándōng, shèngyú de yínzi hái néng tiānzhì jǐ jiàn hòushi de dōngyī. Xiǎngdào zhèlǐ, cìgǔ de hányì biàn bèi xiōngzhōng de wēnnuǎn qūsàn le. | Hurrying through icy gales on his return, Zilu calculated in his heart: the sack of rice would feed his parents through winter, and leftover silver could buy warm clothes. The cold melted in his warm devotion. | Caminando contra el gélido viento, Zilu calculaba en silencio: el arroz mantendría a sus padres todo el invierno y la plata restante serviría para ropa de abrigo. La dicha interior disipó el frío.
+  #2 | 中国古代筹算与珠算体系展现了独特的算法智慧。从《九章算术》到明代普及的珠算，“算”不仅是商业贸易中厘清盈亏的实用工具，更承载着先民通过理性数理格物致知、探求天地运行法则的哲学追求。 | Zhōngguó gǔdài chóusuàn yǔ zhūsuàn tǐxì zhǎnxiàn le dútè de suànfǎ zhìhuì. Cóng "Jiǔzhāng Suànshù" dào Míngdài pǔjí de zhūsuàn, "suàn" bùjǐn shì shāngyè màoyì zhōng líqīng yíngkuī de shíyòng gōngjù, gèng chéngzài zhe xiānmín tōngguò lǐxìng shùlǐ géwù-zhìzhī, tànqiú tiāndì yùnxíng fǎzé de zhéxué zhuīqiú. | Ancient Chinese counting-rod and abacus arithmetic embodied mathematical genius. From "The Nine Chapters" to the abacus, calculation served not only commerce but philosophers seeking heavenly principles. | Los sistemas antiguos de varillas y ábaco reflejaron un ingenio matemático único. El cómputo no solo resolvía transacciones comerciales, sino que guiaba la búsqueda filosófica de las leyes cósmicas.

@@ -1,0 +1,64 @@
+id: 39
+hanzi: 停下来
+pinyin: tíng xià lái
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to stop; to pause; to halt; to come to a standstill
+  es: detenerse; parar; hacer un alto; cesar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to cease motion or activity and come to a rest | detenerse; parar la marcha o actividad | 停下来休息 (stop to rest)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 尽管四肢酸痛、疲惫到了极点，但子路不敢停下来歇息，生怕耽搁了时间会让家中父母挨饿受冻。 | Jǐnguǎn sìzhī suāntòng, píbèi dào le jídiǎn, dàn Zǐlù bù gǎn tíng xiàlái xiēxi, shēngpà dānge le shíjiān huì ràng jiāzhōng fùmǔ ái'è shòudòng. | Even though his limbs ached and he was exhausted to the limit, Zilu did not dare stop to rest, fearing delay would leave his parents starving in the cold. | A pesar de que sus extremidades dolían y el agotamiento era extremo, Zilu no se atrevía a detenerse a descansar, temiendo que la demora dejara a sus padres pasando hambre y frío.
+  #2 | 在快节奏的现代都市生活中，我们需要适时停下来静心思考，倾听自己内心真实的渴望与声音。 | Zài kuàijièzòu de xiàndài dūshì shēnghuó zhōng, wǒmen xūyào shìshí tíng xiàlái jìngxīn sīkǎo, qīngtīng zìjǐ nèixīn zhēnshí de kěwàng yǔ shēngyīn. | In fast-paced modern urban life, we need to pause at appropriate times to reflect quietly and listen to our inner true desires and voice. | En la vertiginosa vida urbana actual, conviene detenerse a reflexionar con calma de vez en cuando, escuchando la voz y los anhelos más íntimos del alma.
+
+collocations[6]{hanzi,en}:
+  停下来休息 | stop to rest
+  脚步停下来 | footsteps coming to a halt
+  停下来思考 | pause to reflect
+  机器停下来 | machinery coming to a halt
+  完全停下来 | come to a complete standstill
+  不得不停下来 | have no choice but to stop
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  马不停蹄 | mǎ bù tíng tí | horses unhalting their hooves; without stopping to rest
+  缓兵之计 | huǎn bīng zhī jì | strategy of delaying the enemy; stall for time
+  稍作停留 | shāo zuò tíng liú | stay or pause for a short while
+  息息相关 | xī xī xiāng guān | closely linked like breathing; bound up with
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  停 | tíng | stop; halt; pause | parar; detener; pausar | 亻 | person | 亻 (traveler / human standing) | 亭 (tíng / roadside pavilion phonetic/shelter to rest) | 11 | 左右结构 | Phono-semantic compound: 亻 (human) + 亭 (roadside pavilion), originally a weary traveler halting under a roadside gazebo to rest. | A traveler (亻) halting at a pavilion (亭) along the highway to rest weary feet. | Un caminante (亻) que se detiene bajo un quiosco del camino (亭) para tomar un respiro. | 35 | OYRN | ""
+  下 | xià | down; lower; directional complement | abajo; descender; complemento | 一 | one | 一 (ground line) | 卜 (indicator pointing below line) | 3 | 单一结构 | Indicative character pointing downwards, functioning as a resultative/directional verbal complement denoting settling into stillness. | An arrow marking downward cessation and anchoring of motion. | Una señal descendente que indica el cese y asentamiento de un movimiento. | 51 | MY | ""
+  来 | lái | come; directional complement | venir; llegar; complemento | 木 | tree | 木 (sprouting grain) | 𠂡/大 (human reaping arrival) | 7 | 单一结构 | Ancient pictograph of descending wheat grain, serving as directional complement indicating movement toward the speaker's state. | Ripe grain descending, drawing the motion toward a state of stillness. | Trigo que desciende, atrayendo la acción hacia un estado de reposo presente. | 35 | DO | 來
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A traveler halting at a pavilion (停) and settling downward (下) into stillness as rest arrives (来) means you stop completely (停下来).
+  composite_memory_hook_es: Un caminante que reposa en el quiosco (停) asentándose (下) hasta alcanzar la quietud (来) se detiene por completo (停下来).
+  cultural_and_cognitive_roots: The compound verb phrase combines 停 with the compound directional complement 下来, which metaphorically denotes the transition from fast dynamic motion into stillness and rest.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by neutral tones: tíng xià lái (35-51-35) or in casual rapid speech tíng xia lai (35-0-0).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    亭 | tíng | pavilion; kiosk | Lacks the person radical 亻 of 停
+    卡 | kǎ / qiǎ | card; pinch; checkpoint | Similar to 下 with 上 combined
+    不 | bù | not | Has slash across vertical stroke unlike 下
+    未 | wèi | not yet | Has shorter top horizontal stroke than 来
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    停止 | tíng zhǐ | stop; cease
+    停留 | tíng liú | stay; linger
+    下来 | xià lái | come down; descend
+    停顿 | tíng dùn | pause; halt
+
+semantic_boundary_contrasts:
+  core_nuance: 停下来 highlights the physical or metaphorical act of halting an ongoing dynamic action to enter rest or reflection.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 停下来 vs. 停止 | tíngzhǐ | 停下来 is descriptive and colloquial, emphasizing a living agent halting motion, whereas 停止 is formal, administrative, and absolute.
+    2 | 停下来 vs. 暂停 | zàntíng | 停下来 can mean stopping without explicit resumption plans, whereas 暂停 strictly denotes a temporary programmatic interruption to resume shortly.
+    3 | 停下来 vs. 中断 | zhōngduàn | 停下来 is voluntary or gradual deceleration, whereas 中断 denotes sudden disruptive severing or breakdown by external factors.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 寒风呼啸如雷，子路两腿酸软得几乎失去了知觉。他多想靠在路旁的树干上停下来喘一口气，但想到空腹等待自己的年迈父母，他又强打精神，咬牙迈出了沉重的脚步。 | Hánfēng hūxiào rú léi, Zǐlù liǎng tuǐ suānruǎn de jīhū shīqù le zhījué. Tā duō xiǎng kào zài lùpáng de shùgàn shàng tíng xiàlái chuǎn yì kǒu qì, dàn xiǎngdào kōngfù děngdài zìjǐ de niánmài fùmǔ, tā yòu qiáng dǎ jīngshén, yǎoyá màichū le chénzhòng de jiǎobù. | Gales roared like thunder as Zilu's limbs grew numb with exhaustion. He longed to lean against a roadside tree to catch his breath, but thinking of his starving parents, he rallied his spirit and pressed on. | El viento aullaba como un trueno y las piernas de Zilu apenas respondían. Deseaba apoyarse en un árbol a tomar aliento, mas al recordar a sus padres hambrientos, cobró ánimo y apretó el paso con entereza.
+  #2 | 在工业化与信息化全面加速的时代背景下，“停下来”成为一种难能可贵的生存智慧。这不仅关乎生理机能的休养生息，更意味着个体在纷繁复杂的信息洪流中重新找回专注与清醒，避免在盲目的内卷中迷失自我。 | Zài gōngyèhuà yǔ xìnxīhuà quánmiàn jiāsù de shídài bèijǐng xià, "tíng xiàlái" chéngwéi yì zhǒng nánnéng-kěguì de shēngcún zhìhuì. Zhè bùjǐn guānhū shēnglǐ jīnéng de xiūyǎng-shēngxī, gèng yìwèizhe gètǐ zài fēnfán-fùzá de xìnxī hóngliú zhōng chóngxīn zhǎohuí zhuānzhù yǔ qīngxǐng, bìmiǎn zài mángmù de nèijuǎn zhōng míshī zìwǒ. | In an era of accelerating industrialization and data, pausing has become a precious art of living. It concerns not only physiological recuperation, but regaining clarity and focus amidst information overload to avoid burnout. | En una era de aceleración constante, saber detenerse es una valiosa sabiduría vital. No solo permite reponer energías físicas, sino recobrar la lucidez y el sosiego en medio del ruido informativo para no perder el rumbo.

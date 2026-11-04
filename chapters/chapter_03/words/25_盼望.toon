@@ -1,0 +1,64 @@
+id: 25
+hanzi: 盼望
+pinyin: pàn wàng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to look forward to; to long for; to yearn; eager expectation
+  es: anhelar; esperar con ilusión; ansiar; añorar; esperanza ilusionada
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to wait with eager anticipation or keen longing for someone or something | anhelar o aguardar con ilusión y vehemencia | 盼望早日团聚 (look forward to an early reunion)
+  2 | Noun | Standard | earnest hope, expectation, or longing | anhelo; esperanza ferviente; ilusión | 充满盼望 (filled with eager hope)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在茫茫大海上漂泊了数周后，全家人日夜盼望看到陆地的影子，那是重归人间的渴望。 | Zài mángmáng dàhǎi shàng piāobó le shù zhōu hòu, quán jiārén rìyè pànwàng kàndào lùdì de yǐngzi, nà shì chóngguī rénjiān de kěwàng. | Having drifted weeks on boundless waters, the family longed day and night for land, thirsting to step back onto earth. | Tras semanas a la deriva en el mar inmenso, la familia anhelaba día y noche avistar tierra firme, ansiosa por volver al mundo habitado.
+  #2 | 广大科研人员多年如一日潜心攻关，终于迎来了盼望已久的核心技术重大突破。 | Guǎngdà kēyán rényuán duōnián rú yírì qiánxīn gōngguān, zhōngyú yínglái le pànwàng yǐ jiǔ de héxīn jìshù zhòngdà tūpò. | Toiling day after day over years, research scientists finally ushered in the long-anticipated breakthrough in core technologies. | Investigando con tenacidad durante años, los científicos alcanzaron al fin el ansiado avance decisivo en tecnologías clave.
+
+collocations[6]{hanzi,en}:
+  盼望已久 | long-awaited; long anticipated
+  热切盼望 | eagerly look forward to
+  盼望归来 | yearn for return
+  心中的盼望 | longing / hope in one's heart
+  殷切盼望 | earnestly look forward to
+  默默盼望 | quietly yearn for
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  望眼欲穿 | wàng yǎn yù chuān | gaze till one's eyes are strained; yearn with longing
+  翘首以盼 | qiáo shǒu yǐ pàn | raise one's head and look forward with eager longing
+  望穿秋水 | wàng chuān qiū shuǐ | gaze through autumn waters; gaze with longing for one's beloved
+  枯苗望雨 | kū miáo wàng yǔ | parched seedlings yearning for rain; long desperately for relief
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  盼 | pàn | look at; gaze; hope | mirar; otear; anhelar | 目 | eye | 目 (gazing eyes looking into distance) | 分 (fēn phonetic / divide or clear pupil) | 9 | 左右结构 | Phono-semantic compound: clear eyes (目) with distinct iris and white (分) gazing intently into the horizon. | Alert eyes (目) focusing across dividing terrain (分) to spot an approaching dear friend. | Ojos atentos y limpios (目) que otean el horizonte divisorio (分) esperando ver aparecer a un ser querido. | 51 | BUCS | ""
+  望 | wàng | look into distance; hope; full moon | mirar a lo lejos; esperar; luna llena | 月 | moon | 亡 (wáng phonetic / perish) + 臣 (servant eye looking wide) | 王 (tǐng / raised earth mound) | 11 | 上下结构 | Ancient ideograph of a person standing on an elevated mound gazing up with wide eyes at the full moon. | Standing upon a high mountain ridge gazing toward the glowing full moon (月) with deep longing. | Subir a un cerro elevado para contemplar la luna llena (月) en el cielo con profunda nostalgia. | 51 | YTB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Turning hopeful eyes (盼) to gaze into the distance (望) captures the feeling of longing and looking forward to reunion (盼望).
+  composite_memory_hook_es: Dirigir la mirada (盼) hacia el horizonte lejano (望) evoca el ardiente anhelo de ver cumplida una ilusión (盼望).
+  cultural_and_cognitive_roots: In classical poetry, climbing heights to gaze afar ('登高远望') connects the physical eye with spiritual yearning. '盼望' expresses the emotional tension between physical absence and mental anticipation.
+  tone_sandhi_and_pitch_modulation: Two consecutive falling 4th tones: pàn wàng (51-51). Articulate both syllables with decisive downward intensity.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    盼 | pàn | gaze; yearn | Has 目 (eye) on the left and 分 on the right
+    份 | fèn | portion; share | Has 亻 (person) on the left with 分
+    望 | wàng | gaze; hope | Has 亡 and 月 on top and 王 at the bottom
+    忘 | wàng | forget | Has 亡 on top and 心 (heart) at the bottom
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    企盼 | qǐ pàn | eagerly await; look forward
+    期盼 | qī pàn | expect; look forward with hope
+    希望 | xī wàng | hope; wish
+    渴望 | kě wàng | thirst for; long for
+
+semantic_boundary_contrasts:
+  core_nuance: 盼望 denotes enthusiastic, focused, emotionally warm anticipation for an expected positive outcome.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 盼望 vs. 希望 | xīwàng | 盼望 emphasizes the eager emotional waiting for an impending event (盼望假期, 盼望团聚), whereas 希望 is a general cognitive desire or aspiration for a future possibility (希望明天不下雨).
+    2 | 盼望 vs. 期望 | qīwàng | 盼望 conveys personal emotional longing, while 期望 carries formal social, institutional, or parental expectations placed on someone's performance (父母的期望).
+    3 | 盼望 vs. 渴望 | kěwàng | 盼望 focuses on waiting with hopeful anticipation, whereas 渴望 denotes a burning, desperate, visceral thirst or craving for something lacking.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 故乡的老母亲总是在每一个节日临近时，倚在门框边长久地盼望。山路上扬起的每一阵尘土，都曾点燃她心头的欢喜。那种对儿女归来的殷切盼望，是一根穿透千里风霜的丝线，永远系在远方游子的心头。 | Gùxiāng de lǎo mǔqīn zǒngshì zài měi yí gè jiérì línjìn shí, yǐ zài ménkuàng biān chángjiǔ de pànwàng. Shānlù shàng yángqǐ de měi yí zhèn chéntǔ, dōu céng diǎnrán tā xīntóu de huānxǐ. Nà zhǒng duì énnǚ guīlái de yīnqiè pànwàng, shì yì gēn chuāntòu qiānlǐ fēngshuāng de sīxiàn, yǒngyuǎn jì zài yuǎnfāng yóuzǐ de xīntóu. | An aging mother in the hometown leans against the doorframe whenever holidays near. Dust puffs on mountain trails kindle spark after spark of joy in her heart. That yearning for her children's return forms a tether spanning thousands of miles. | La anciana madre se asoma al quicio de la puerta al acercarse cada fiesta. El polvo que levantan los caminos aviva la ilusión en su pecho. El tierno anhelo de abrazar a los hijos es un hilo invisible que desafía mil leguas de distancia.
+  #2 | 国际气候治理峰会承载了全球各国的殷切盼望。面对频发的极端天气与环境恶化挑战，各代表团本着对人类未来高度负责的科学态度，聚焦减排路线图展开磋商，力求在资金支持与技术转让领域达成具有实质约束力的多边合作成果。 | Guójì qìhòu zhìlǐ fēnghuì chéngzài le quánqiú gèguó de yīnqiè pànwàng. Miànduì pínfā de jíduān tiānqì yǔ huánjìng èhuà tiǎozhàn, gè dàibiǎotuán běnzhe duì rénlèi wèilái gāodù fùzé de kēxué tàidù, jùjiāo jiǎnpái lùxiàntú zhǎnkāi cuōshāng, lìqiú zài zījīn zhīchēng yǔ jìshù zhuǎnràng lǐngyù dáchéng jùyǒu shízhì yuēshùlì de duōbiān hézuò chéngguǒ. | The international climate summit shoulders the earnest hopes of nations worldwide. Addressing extreme weather shocks, delegations confer responsibly over emission-reduction roadmaps, striving to forge binding multilateral compacts on finance and green technology transfers. | La cumbre climática internacional concita la ferviente esperanza de los pueblos. Ante los desastres ecológicos, las delegaciones negocian con rigor planes de descarbonización para lograr pactos vinculantes en financiación verde y transferencia tecnológica.

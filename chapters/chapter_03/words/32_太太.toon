@@ -1,0 +1,63 @@
+id: 32
+hanzi: 太太
+pinyin: tài tai
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: wife; Mrs.; madam; married woman
+  es: esposa; mujer; señora; doña
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a married woman; one's own or another's wife | esposa; cónyuge femenina | 他太太很贤惠 (his wife is very virtuous)
+  2 | Noun | Formal | polite title of address for a married woman; Mrs.; Madam | tratamiento de cortesía para una mujer casada; señora | 王太太 (Mrs. Wang)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对辞职航海的疯狂提议，翟峰的太太没有丝毫埋怨，而是选择坚定地与丈夫并肩踏上未知旅途。 | Miànduì cízhí hánghǎi de fēngkuáng tíyì, Zhái Fēng de tàitai méiyǒu sīháo mányuàn, ér shì xuǎnzé jiāndìng de yǔ zhàngfu bìngjiān tà shàng wèizhī lǚtú. | Faced with the wild proposal to quit work and sail, Zhai Feng's wife harbored no complaint, choosing steadfastly to set out with her husband. | Ante la descabellada idea de renunciar al trabajo y lanzarse al mar, la esposa de Zhai Feng no dudó, optando por acompañar a su marido a lo desconocido.
+  #2 | 大使携太太出席了国庆招待晚宴，与来自各国的政要及友好人士进行了亲切友好的文化交流。 | Dàshǐ xié tàitai chūxí le guóqìng zhāodài wǎnyàn, yǔ láizì gèguó de zhèngyào jí yǒuhǎo rénshì jìnxíng le qīnqiè yǒuhǎo de wénhuà jiāoliú. | Accompanied by his wife, the ambassador attended the reception banquet, engaging in cordial cultural dialogues with dignitaries. | Acompañado por su distinguida esposa, el embajador asistió a la recepción oficial y conversó cordialmente con dignatarios extranjeros.
+
+collocations[6]{hanzi,en}:
+  老太太 | elderly lady; grandmother
+  陪太太 | accompany one's wife
+  全职太太 | full-time housewife
+  王太太 | Mrs. Wang
+  富太太 | wealthy madam / rich lady
+  年轻太太 | young married woman
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  相敬如宾 | xiāng jìng rú bīn | treat each other with the respect due to an honored guest (of spouses)
+  夫唱妇随 | fū chàng fù suí | husband sings and wife follows; marital harmony and cooperation
+  白头偕老 | bái tóu xié lǎo | remain together until white-haired old age; grow old together
+  结发夫妻 | jié fà fū qī | husband and wife tied in youth; original married couple
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  太 | tài | highest; greatest; excessive | supremo; grandísimo; excesivo | 大 | big / great | 大 (person standing wide) | 丶 (drop or dot denoting supreme degree) | 4 | 独体结构 | Ancient ideograph: adding a diacritical dot (丶) beneath a towering person (大) to signify the utmost, grandest rank. | A distinguished person (大) honored with a precious jade pendant (丶), denoting supreme status. | Una persona insigne (大) que porta una valiosa joya (丶) simbolizando la máxima distinción honorífica. | 51 | KI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Addressing the lady of the household with the highest honor (太) repeated twice creates the respectful title for a wife (太太).
+  composite_memory_hook_es: Dirigirse a la dueña de la casa con el máximo respeto (太) por duplicado conforma el trato digno hacia la esposa (太太).
+  cultural_and_cognitive_roots: Originally in ancient China, '太太' was reserved as a high title for the mothers and grandmothers of feudal lords (e.g. the Three Tais of the Zhou dynasty). In modern times, it evolved into the polite term for a married woman.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by neutral tone: tài tai (51-0). Deliver the first syllable firmly down from pitch 5 to 1, followed by a light, unaccented neutral syllable.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    太 | tài | greatest; supreme | Has a dot 丶 at the bottom center of 大
+    大 | dà | big; great | Lacks the bottom dot: 大
+    犬 | quǎn | dog; hound | Has a dot 丶 in the upper right quadrant
+    天 | tiān | sky; heaven | Has a horizontal stroke 一 on top of 大
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    太阳 | tài yáng | sun; sunshine
+    太极 | tài jí | Tai Chi; supreme ultimate
+    老太 | lǎo tài | old woman; elderly lady
+    太空 | tài kōng | outer space; cosmos
+
+semantic_boundary_contrasts:
+  core_nuance: 太太 is a polite, respectful term for a married woman or someone's spouse, often used in social settings.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 太太 vs. 老婆 | lǎopo | 太太 is formal, courteous, and respectful in social polite discourse (张太太, 他太太), whereas 老婆 is affectionate, informal, colloquial oral speech used at home.
+    2 | 太太 vs. 妻子 | qīzi | 太太 is an address form or social term, while 妻子 is the formal legal and standard written term for 'spouse/wife' in law and essays.
+    3 | 太太 vs. 女士 | nǚshì | 太太 specifically implies marriage and spousal status, whereas 女士 is a modern professional title for any woman regardless of marital status.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 航海日志里记录着许多琐碎而温存的细节。每当深夜狂风骤起，妻子总是默默递上一杯热茶，用温柔的目光抚平丈夫的紧绷。生活中的相濡以沫，不在于海誓山盟的豪迈，而在于危难时刻并肩承受风雨的无言担当。 | Hánghǎi rìzhì lǐ jìlù zhe xǔduō suǒsuì ér wēncún de xìjié. Měi dāng shēnyè kuángfēng zhòuqǐ, qīzi zǒngshì mòmò dì shàng yì bēi rèchá, yòng wēnróu de mùguāng fǔpíng zhàngfu de jǐnbēng. Shēnghuó zhōng de xiāngrúyǐmò, bú zàiyú hǎishìmòméng de háomài, ér zàiyú wēinàn shíkè bìngjiān chéngshòu fēngyǔ de wúyán dāndāng. | The logbook preserves tender domestic details. When nocturnal gales struck, his wife quietly passed warm tea, soothing tension with a calm gaze. True spousal devotion lies not in grand vows, but in weathering storms shoulder to shoulder. | El diario de a bordo guarda tiernos detalles cotidianos. En mitad del temporal nocturno, la esposa servía té caliente, apaciguando la tensión con una mirada dulce. La complicidad conyugal no vive de vanas promesas, sino de afrontar juntos la tormenta en silencio.
+  #2 | 跨文化社会学调查发现，汉语中对配偶称谓的变迁深刻映射了家庭结构的现代转型。从旧时代的尊卑礼制称谓，到现代社会中“太太”与“爱人”的通用，折射出男女平等理念在婚姻生活中的确立，以及夫妻双方对等协作伙伴关系的重构。 | Kuàwénhuà shèhuìxué diàochá fāxiàn, Hànyǔ zhōng duì pèi'ǒu chēngwèi de biànqiān shēnkè yìngshè le jiātíng jiégòu de xiàndài zhuǎnxíng. Cóng jiù shídài de zūnbēi lǐzhì chēngwèi, dào xiàndài shèhuì zhōng "tàitai" yǔ "àiren" de tōngyòng, zhéshè chū nánnǚ píngděng lǐniàn zài hūnyīn shēnghuó zhōng de quèlì, yǐjí fūqī shuāngfāng duìděng xiézuò huǒbàn guānxì de chónggòu. | Sociological research shows shifts in marital address terms reflect modern family evolutions. Transitioning from feudal hierarchical honorifics to terms like '太太' illuminates gender equality gains and marital partnerships based on equal mutual respect. | Los estudios sociológicos muestran que la evolución de los apelativos conyugales refleja la modernización familiar. El paso de tratamientos feudales a términos de cortesía visibiliza la igualdad de género y la consolidación de matrimonios basados en la complicidad mutua.
