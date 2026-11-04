@@ -30,5 +30,21 @@ window.__HSK_CHAPTERS_MANIFEST__ = [
     "title": "孝敬父母与百里负米 (Filial Piety & Dedication to Parents)",
     "word_count": 44,
     "level": "HSK 5"
+  },
+  {
+    "id": 5,
+    "dir": "chapter_05",
+    "name": "Chapter 5",
+    "title": "济南的泉水与自然景观 (Springs of Jinan & Natural Wonders)",
+    "word_count": 40,
+    "level": "HSK 5"
+  },
+  {
+    "id": 6,
+    "dir": "chapter_06",
+    "name": "Chapter 6",
+    "title": "除夕的传说与传统习俗 (The Legend of New Year's Eve & Folk Traditions)",
+    "word_count": 35,
+    "level": "HSK 5"
   }
 ];

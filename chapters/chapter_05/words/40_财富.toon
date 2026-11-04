@@ -1,0 +1,64 @@
+id: 40
+hanzi: 财富
+pinyin: cái fù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: wealth; riches; fortune; valuable assets
+  es: riqueza; patrimonio; fortuna; bienes valiosos
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | material possessions, capital, and financial assets of substantial value; wealth | bienes materiales, capital o activos financieros de gran valor; riqueza | 创造物质财富 (create material wealth)
+  2 | Noun | Figurative | intellectual, spiritual, or cultural assets of profound worth | patrimonio o tesoro intelectual, espiritual o cultural de hondo valor | 宝贵的精神财富 (precious spiritual wealth)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的七十二名泉不仅赋予城市灵动的诗意，更是大自然留给这座历史文化名城最宝贵的财富。 | Jǐnán de qīshí'èr míngquán bùjǐn fùyǔ chéngshì língdòng de shīyì, gèng shì dàzìrán liúgěi zhè zuò lìshǐ wénhuà míngchéng zuì bǎoguì de cáifù. | The 72 famous springs of Jinan not only endow the city with poetic grace, but are nature's most precious wealth bestowed upon it. | Los setenta y dos manantiales célebres de Jinan no solo dotan a la urbe de gracia poética, sino que son la mayor riqueza legada por la naturaleza.
+  #2 | 该省通过优化科技金融生态，引导社会资本向先进制造业集聚，助力专精特新企业实现财富积累与创新跃升。 | Gāi shěng tōngguò yōuhuà kējì jīnróng shēngtài, yǐndǎo shèhuì zīběn xiàng xiānjìn zhìzàoyè jíjù, zhùlì zhuānjīngtèxīn qǐyè shíxiàn cáifù jīlěi yǔ chuàngxīn yuèshēng. | By optimizing tech-finance ecosystems, the province channels private capital into advanced manufacturing, aiding tech enterprises to build wealth. | Al optimizar el ecosistema tecnofinanciero, la provincia canaliza capital hacia la manufactura avanzada, ayudando a las empresas a crear riqueza e innovación.
+
+collocations[6]{hanzi,en}:
+  精神财富 | spiritual wealth; intangible cultural assets
+  物质财富 | material wealth
+  积累财富 | accumulate wealth / fortune
+  创造财富 | create wealth
+  宝贵的财富 | precious wealth / valuable treasure
+  巨大的财富 | immense wealth / vast riches
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  富贵吉祥 | fù guì jí xiáng | wealth, honor, and auspicious happiness
+  招财进宝 | zhāo cái jìn bǎo | usher in wealth and welcome treasures; bring prosperity
+  发家致富 | fā jiā zhì fù | build up family fortunes and achieve wealth
+  财源广进 | cái yuán guǎng jìn | may sources of wealth flow in abundance
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  财 | cái | wealth; money; valuables | riqueza; dinero; bienes; fortuna | 贝 | cowrie shell / money | 贝 (shell currency, commercial value) | 才 (cái, talent / phonetic) | 7 | 左右结构 | Phono-semantic compound where cowrie radical 贝 denotes money or property, and 才 indicates human talent generating riches. | A person of remarkable talent (才) applies ingenuity to earn abundant cowrie currency (贝), creating lasting wealth (财). | Una persona de gran talento (才) aplica su ingenio para acumular valiosas conchas (贝), creando riqueza (财) honrada. | 35 | BOCH | 財
+  富 | fù | rich; abundant; wealth; bountiful | rico; acaudalado; abundante; bienestar | 宀 | roof | 宀 (roof / home) | 畐 (fú, brimming wine jar / wealth) | 12 | 上下结构 | Ideogram combining shelter 宀 covering a round jar 畐 overflowing with stored grains and goods, signifying material abundance. | Under the safe shelter of the roof (宀), large storage jars (畐) overflow with abundant wine and grain (富). | Bajo el amparo del tejado (宀), las orzas de barro (畐) rebosan de víveres y grano en alegre abundancia (富). | 51 | JMRW | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Human talent earning shell money (财) combined with grain jars stored under the roof (富) represents complete material and spiritual wealth.
+  composite_memory_hook_es: El talento que genera riquezas (财) y las vasijas colmadas bajo el techo (富) representan el patrimonio y la riqueza integral.
+  cultural_and_cognitive_roots: Chinese cultural philosophy balances material wealth ('cái') with ethical virtue ('dé'), upholding the Confucian principle that true nobility resides in ethical stewardship rather than mere gold.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'cái' (35) followed by falling 4th tone 'fù' (51). Glide cleanly up on 'cái' before dropping firmly on 'fù'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    材 | cái | timber; material | Has tree radical 木 on the left instead of shell 贝
+    村 | cūn | village | Has 木 on the left next to 寸 instead of 贝 next to 才
+    福 | fú | blessing; good fortune | Has spirit altar radical 礻 instead of roof 宀
+    副 | fù | vice; secondary | Has knife radical 刂 on the right instead of roof 宀
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    宝 | bǎo | treasure; jewel; precious
+    资 | zī | resources; capital; expense
+    产 | chǎn | property; estate; produce
+    金 | jīn | gold; metal; money
+
+semantic_boundary_contrasts:
+  core_nuance: 财富 is a comprehensive collective noun denoting accumulated financial assets, resources, or valuable spiritual and cultural heritage.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 财富 vs. 金钱 | jīnqián | 金钱 specifically denotes cash, coins, or liquid monetary currency, whereas 财富 encompasses overall net worth, natural resources, and intangible spiritual heritage.
+    2 | 财富 vs. 财产 | cáichǎn | 财产 refers legally to discrete tangible or intangible property and assets owned by an individual or corporation, while 财富 carries an elevated socioeconomic and philosophical weight.
+    3 | 财富 vs. 资产 | zīchǎn | 资产 is a strict accounting and financial balance-sheet metric (assets vs. liabilities), whereas 财富 is a broad cultural, humanistic, or macroeconomic concept.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的七十二处天然名泉，是漫长岁月沉淀下的大自然杰作，也是这座历史古城最引以为傲的独特财富。清澈的泉水滋养了历代先民，孕育出丰富的人文民俗。守护好这一泓清泉，就是守护城市的文化根脉与生态未来。 | Jǐnán de qīshí'èr chù tiānrán míngquán, shì màncháng suìyuè chéndiàn xià de dàzìrán jiézuò, yěshì zhè zuò lìshǐ gǔchéng zuì yǐn wéi ào de dútè cáifù. Qīngchè de quánshuǐ zīyǎng le lìdài xiānmín, yùnyù chū fēngfù de rénwén mínsú. Shǒuhù hǎo zhè yì hóng qīngquán, jiùshì shǒuhù chéngshì de wénhuà gēnmài yǔ shēngtài wèilái. | The 72 springs of Jinan are nature's masterpieces and the city's proudest unique wealth. Clear waters have nurtured citizens and customs for generations. Protecting them safeguards the city's roots and ecological future. | Los setenta y dos manantiales de Jinan son obras maestras y la mayor riqueza que enorgullece a la urbe. Sus aguas puras nutrieron generaciones y tradiciones vivas; custodiarlas es proteger el alma cultural y el porvenir ecológico.
+  #2 | 在新时代高质量发展战略中，绿水青山就是金山银山的理念深入人心。生态文明建设不仅改善了城乡宜居环境，更将生态资源优势转化为绿色发展动能，让良好的生态环境成为普惠的民生福祉与持续创造财富的源泉。 | Zài xīn shídài gāozhìliàng fāzhǎn zhànlüè zhōng, lǜshuǐ qīnshān jiùshì jīnshān yínshān de lǐniàn shēnrù rénxīn. Shēngtài wénmíng jiànshè bùjǐn gǎishàn le chéngxiāng yíjū huánjìng, gèng jiāng shēngtài zīyuán yōushì zhuǎnhuà wéi lǜsè fāzhǎn dòngnéng, ràng liánghǎo de shēngtài huánjìng chéngwéi pǔhuì de mínshēng fúzhǐ yǔ chíxù chuàngzào cáifù de yuánquán. | In high-quality development strategies, clean waters and lush mountains represent invaluable wealth. Ecological progress elevates habitability and unlocks green growth, making ecosystems an enduring fountainhead generating prosperity. | En la estrategia de desarrollo integral, las aguas limpias y montañas verdes son tesoros de incalculable valor. La ecología mejora el hábitat y desata un impulso sostenible, convirtiendo el medio ambiente en fuente continua de riqueza y bienestar.

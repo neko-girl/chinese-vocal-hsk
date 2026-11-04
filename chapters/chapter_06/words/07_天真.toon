@@ -1,0 +1,66 @@
+id: 7
+hanzi: 天真
+pinyin: tiān zhēn
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: naive; innocent; simple and unaffected; artless
+  es: ingenuo; inocente; cándido; espontáneo; sin malicia
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | pure, innocent, and unaffected, characteristic of children or nature | inocente; cándido; puro y sin artificios propio de la infancia | 天真的笑容 (innocent smile)
+  2 | Adjective | Standard | naive; simplistic; gullible in judging complex worldly affairs | ingenuo; crédulo; falto de malicia o madurez para juzgar la realidad | 想法太天真 (the idea is too naive)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 孩子们天真烂漫的笑声在除夕的爆竹声中回荡，驱散了冬日的严寒与大人心头的疲惫。 | Háizimen tiānzhēn-lànmàn de xiàoshēng zài Chúxī de bàozhú shēng zhōng huídàng, qūsàn le dōngrì de yánhán yǔ dàrén xīntóu de píbèi. | Children's innocent and carefree laughter echoed amidst New Year's Eve firecrackers, dispelling the winter chill and adults' weary hearts. | Las risas inocentes y espontáneas de los niños resonaron entre los petardos de fin de año, disipando la gélida noche y el cansancio de los adultos.
+  #2 | 如果以为仅凭一纸纸面协定就能彻底消除市场恶性竞争，未免显得有些过于天真了。 | Rúguǒ yǐwéi jǐn píng yì zhǐ zhǐmiàn xiédìng jiù néng chèdǐ xiāochú shìchǎng èxìng jìngzhēng, wèimiǎn xiǎnde yǒuxiē guòyú tiānzhēn le. | Believing that market cutthroat competition could be eradicated merely by a paper agreement would seem rather too naive. | Creer que un mero pacto en papel eliminaría la competencia desleal en el mercado resultaría a todas luces excesivamente ingenuo.
+
+collocations[6]{hanzi,en}:
+  天真烂漫 | innocent and carefree; artless and lively
+  过于天真 | excessively naive; overly simplistic
+  天真的想法 | naive thought / idea
+  天真无邪 | pure and innocent; without guile
+  孩童的天真 | childhood innocence
+  显得天真 | appear naive; look innocent
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  天真烂漫 | tiān zhēn làn màn | innocent and unaffected; radiant with childlike simplicity
+  返璞归真 | fǎn pú guī zhēn | return to simplicity and authenticity; regain natural purity
+  天衣无缝 | tiān yī wú fèng | seamless heavenly robe; flawless and without blemish
+  弄假成真 | nòng jiǎ chéng zhēn | pretend until it becomes real; make-believe turns into reality
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  天 | tiān | sky; heaven; nature; day | cielo; naturaleza; día; paraíso | 大 | big / great | 大 (human figure) + 一 (celestial firmament arched overhead) | "" | 4 | 单一结构 | Ancient pictograph depicting a person (大) beneath the vast, overarching firmament line (一) representing heaven. | A human standing tall with outstretched arms (大) beneath the infinite sky line (一). | Una persona de pie con brazos abiertos (大) bajo la inmensa bóveda celeste (一). | 55 | MK | ""
+  真 | zhēn | true; real; genuine; authentic | verdadero; auténtico; real; sincero | 目 | eye | 目 (eye, perceiving reality) + 匕 (transformation) + 八 (sacred vessel) | 𠤎 (transforming spirit) | 10 | 上下结构 | Ancient Daoist character representing a realized master (真人) who perceives uncorrupted truth with clear eyes (目). | Looking through the clear inner eye (目) atop a sacred altar stand (八) to perceive genuine, unadorned truth. | Contemplar con el ojo interior (目) sobre un altar sagrado (八) para discernir la verdad pura y sin adornos. | 55 | JBCO | 眞
+
+mnemonics_and_roots:
+  composite_memory_hook_en: What is born of pure nature (天) and retains genuine truth (真) is sweet, unaffected innocence (天真).
+  composite_memory_hook_es: Lo que brota del cielo natural (天) y conserva la verdad genuina (真) es la inocencia (天真) pura.
+  cultural_and_cognitive_roots: In Daoist philosophy, 'tiān' stands for uncorrupted nature and 'zhēn' represents primordial authenticity (返璞归真). Thus 天真 originally symbolized the highest spiritual attainment of uncontrived innocence before colloquially describing childlike simplicity.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'tiān' (55) followed by high level 1st tone 'zhēn' (55). Sustain an even, clear pitch contour across both syllables without dipping.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    夭 | yāo | tender; die young | The top stroke tilts left as a slant (丿) instead of a level horizontal stroke (一)
+    夫 | fū | husband; man | The top stroke pierces through the upper horizontal stroke
+    慎 | shèn | prudent; cautious | Has heart radical 忄 on the left of 真
+    填 | tián | fill; stuff | Has earth radical 土 on the left of 真
+    镇 | zhèn | town; suppress | Has metal radical 钅 on the left of 真
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    纯 | chún | pure; unmixed
+    朴 | pǔ | simple; unadorned
+    稚 | zhì | young; childish
+    淳 | chún | honest; pure; simple
+    诚 | chéng | sincere; honest
+
+semantic_boundary_contrasts:
+  core_nuance: 天真 describes unadorned childlike purity of heart, or in adult contexts, an unrealistic lack of worldly sophistication.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 天真 vs. 单纯 | dānchún | 天真 emphasizes childlike spontaneity, innocence, or naive optimism, whereas 单纯 denotes lack of complexity, ulterior motives, or single-faceted structure (e.g. 动机单纯、单纯的数学问题).
+    2 | 天真 vs. 幼稚 | yòuzhì | 天真 carries an endearing praise of pure intentions (though sometimes naive), while 幼稚 is distinctly derogatory, rebuking someone for acting childish, immature, or foolish.
+    3 | 天真 vs. 朴素 | pǔsù | 天真 relates to psychological disposition and uncalculated openness, whereas 朴素 refers to outward lifestyle, plain dress, or unpretentious artistic style.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕的爆竹声里，孩童们穿着红袄嬉戏打闹，眼眸里映着火光，满是未被世俗沾染的天真。那种对新衣与糖果的纯粹欢欣，让在名利场中奔波一整年的大人们，也在刹那间忆起了最初的清澈。 | Chúxī de bàozhú shēng lǐ, háitóngmen chuān zhe hóng'ǎo xīxì dǎnào, yǎnmóu lǐ yìng zhe huǒguāng, mǎn shì wèibèi shìsú zhānrǎn de tiānzhēn. Nà zhǒng duì xīnyī yǔ tángguǒ de chúncuì huānxīn, ràng zài mínglìchǎng zhōng bēnbō yì zhěng nián de dàrénmen, yě zài chànà jiān yìqǐ le zuìchū de qīngchè. | Amidst New Year's Eve firecrackers, children in red jackets romped cheerfully, their eyes reflecting flames and filled with innocence untouched by worldly ways. That pure delight over new clothes and sweets reminded adults hustling through life of their own long-lost inner clarity. | Entre los petardos de fin de año, los niños correteaban alegres con trajes rojos, con ojos llenos de una inocencia ajena a los afanes del mundo. Aquel gozo espontáneo por estrenar ropa y dulces devolvió por un instante a los adultos la pureza de sus primeros recuerdos.
+  #2 | 在复杂的国际地缘政治与宏观经济博弈中，将竞争简化为非黑即白二元对立的视角，往往脱离实际且过于天真。唯有基于务实利益与严谨研判，才能在风云变局中掌握主动。 | Zài fùzá de guójì dìyuán zhèngzhì yǔ hóngguān jīngjì bóyì zhōng, jiāng jìngzhēng jiǎnhuà wéi fēihēi-jíbái èryuán duìlì de shìjiǎo, wǎngwǎng tuōlí shíjì qiě guòyú tiānzhēn. Wéiyǒu jīyú wùshí lìyì yǔ yánjǐn yánpàn, cái néng zài fēngyún biànjú zhōng zhǎngwò zhǔdòng. | In complex geopolitical and macroeconomic struggles, reducing international rivalry to black-and-white binaries is unrealistic and overly naive. Only by rooting policies in pragmatic interests and rigorous assessment can a nation seize the strategic initiative amidst turbulent global shifts. | En el complejo tablero geopolítico y macroeconómico, reducir las tensiones internacionales a esquemas binarios resulta ilusorio y excesivamente ingenuo. Solo mediante el análisis pragmático de los intereses estratégicos se puede conservar la iniciativa en tiempos de incertidumbre.

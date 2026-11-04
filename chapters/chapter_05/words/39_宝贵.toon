@@ -1,0 +1,63 @@
+id: 39
+hanzi: 宝贵
+pinyin: bǎo guì
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: valuable; precious; treasured; invaluable
+  es: valioso; precioso; inestimable; preciado; de gran valor
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | possessing immense intrinsic value, irreplaceable rarity, or high importance; precious | de valor inestimable, raro o de suma importancia; precioso; valioso | 宝贵的自然资源 (precious natural resources)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的七十二处天然名泉是大自然恩赐的宝贵资源，更是整座古城世代传承的生命源泉。 | Jǐnán de qīshí'èr chù tiānrán míngquán shì dàzìrán ēncì de bǎoguì zīyuán, gèng shì zhěng zuò gǔchéng shìdài chuánchéng de shēngmìng yuánquán. | The 72 natural springs of Jinan are precious resources endowed by nature and the life-giving fountainhead passed down for generations. | Los setenta y dos manantiales naturales de Jinan son un recurso valioso legado por la naturaleza y la fuente vital que sustenta a la ciudad.
+  #2 | 青年科技骨干在老一辈科学家的悉心指导下，积累了宝贵的一线工程经验，迅速成长为科研攻关主力。 | Qīngnián kējì gǔgàn zài lǎoyíbèi kēxuéjiā de xīxīn zhǐdǎo xià, jīlěi le bǎoguì de yīxiàn gōngchéng jīngyàn, xùnsù chéngzhǎng wéi kēyán gōngguān zhǔlì. | Under veteran scientists' mentorship, young researchers accumulated invaluable engineering experience, growing into core innovators. | Guiados por veteranos científicos, los jóvenes investigadores adquirieron una valiosa experiencia práctica, convirtiéndose en puntales de la innovación.
+
+collocations[6]{hanzi,en}:
+  宝贵的时间 | precious time
+  宝贵的经验 | invaluable experience
+  宝贵的财富 | precious wealth / treasure
+  宝贵的建议 | valuable advice / suggestion
+  极其宝贵 | extraordinarily precious / invaluable
+  珍惜宝贵的时光 | cherish precious time
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  无价之宝 | wú jià zhī bǎo | priceless treasure; invaluable jewel
+  洛阳纸贵 | luò yáng zhǐ guì | paper is expensive in Luoyang; great popularity of a literary work
+  难能可贵 | nán néng kě guì | commendable for doing what is hard; truly praiseworthy
+  寸金难买寸光阴 | cùn jīn nán mǎi cùn guāng yīn | an inch of gold cannot buy an inch of time; time is invaluable
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  宝 | bǎo | treasure; jewel; precious; baby | tesoro; joya; precioso; bebé | 宀 | roof | 宀 (roof / home) | 玉 (jade / gem) | 8 | 上下结构 | Ideogram combining roof 宀 shelter covering precious imperial jade 玉, signifying safeguarded treasures. | Kept safely under the household roof (宀) is an imperial jade gemstone (玉), an irreplaceable family treasure (宝). | Custodiada bajo el tejado del hogar (宀) descansa una joya de jade (玉), formando un tesoro familiar entrañable (宝). | 214 | JMGI | 寶
+  贵 | guì | expensive; noble; precious; valuable | caro; noble; valioso; estimable | 贝 | cowrie shell / money | 贝 (shell currency, wealth) | 中/一 (weighed values) | 9 | 上下结构 | Ideogram combining cowrie currency 贝 with a bundle of value on top, denoting monetary worth and noble status. | Ancient cowrie shells (贝) used as sacred currency represent lofty honor, noble esteem, and valuable worth (贵). | Valiosas conchas de cauri (贝) empleadas como moneda ancestral representan nobleza y alta estima (贵). | 51 | LMOBC | 貴
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Precious imperial jade held under the roof (宝) coupled with rare shell currency (贵) represents invaluable treasure.
+  composite_memory_hook_es: El jade guardado bajo el tejado (宝) y las raras conchas de cauri (贵) encarnan un tesoro de valor inestimable.
+  cultural_and_cognitive_roots: In ancient Chinese value philosophy, 'bǎo' relates to tangible heirlooms and natural gemstones, while 'guì' pertains to moral nobility and irreplaceable time (寸阴是惜).
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'bǎo' (214) followed by sharp falling 4th tone 'guì' (51). Clear contrast from low dip to sharp descent.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    室 | shì | room | Has 至 under 宀 instead of 玉 in 宝
+    实 | shí | real; fruit | Has 头 under 宀 in simplified Chinese
+    遗 | yí | lose; leave behind | Has 辶 (walk) wrapping around 贵
+    溃 | kuì | collapse; burst | Has water radical 氵 next to 贵
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    珍 | zhēn | precious; rare; treasure
+    稀 | xī | rare; scarce; sparse
+    尊 | zūn | respect; venerate; noble
+    重 | zhòng | heavy; important; serious
+
+semantic_boundary_contrasts:
+  core_nuance: 宝贵 emphasizes intrinsic value, irreplaceable significance, or moral and temporal worth (time, experience, heritage).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 宝贵 vs. 昂贵 | ángguì | 昂贵 refers strictly to high monetary cost and expensive price tags in transactions, whereas 宝贵 emphasizes non-material, spiritual, or irreplaceable existential value.
+    2 | 宝贵 vs. 珍贵 | zhēnguì | 宝贵 is broader and frequently modifies abstract assets (宝贵的时间, 宝贵的经验), whereas 珍贵 tends to modify tangible relics, manuscripts, or endangered species (珍贵文物, 珍贵树种).
+    3 | 宝贵 vs. 可贵 | kěguì | 宝贵 evaluates the immense objective value of something, while 可贵 evaluates subjective human effort or virtue in the face of difficulties (难能可贵).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的泉水不仅滋养了这里的草木山川，更沉淀为这座历史名城最宝贵的精神财富。千百年来，历代先民在泉边筑池引流、倚水而居，在人与泉的朝夕相处中孕育出淳朴包容的民风，这份宝贵的文化根脉历久弥新。 | Jǐnán de quánshuǐ bùjǐn zīyǎng le zhèlǐ de cǎomù shānchuān, gèng chéndiàn wéi zhè zuò lìshǐ míngchéng zuì bǎoguì de jīngshén cáifù. Qiānbǎi nián lái, lìdài xiānmín zài quánbiān zhùchí yǐnliú, yǐshuǐ'érjū, zài rén yǔ quán de zhāoxī xiāngchǔ zhōng yùnyù chū chúnpǔ bāoróng de mínfēng, zhè fèn bǎoguì de wénhuà gēnmài lìjiǔmíxīn. | Jinan's springs nourish vegetation and form the city's most precious spiritual wealth. For centuries, ancestors built stone pools to channel water, fostering inclusive folk customs that keep this precious heritage vibrant. | Los veneros de Jinan nutren valles y forjan el patrimonio espiritual más valioso de la urbe. Durante siglos, sus pobladores canalizaron aguas y convivieron con los manantiales, legando una preciada cultura que pervive lozana.
+  #2 | 在应对全球气候变化的大背景下，生物多样性与原始自然生态系统是全人类不可替代的宝贵遗产。国际环保组织呼吁各国强化政策协同，建立跨国生态廊道，遏制自然栖息地碎片化趋势，共同守护地球宝贵的生态基底。 | Zài yīngduì quánqiú qìhòu biànhuà de dà bèijǐng xià, shēngwù duōyàngxìng yǔ yuánshǐ zìrán shēngtài xìtǒng shì quán rénlèi bùkě tìdài de bǎoguì yíchǎn. Guójì huánbǎo zǔzhī hūyù gèguó qiánghuà zhèngcè xiétóng, jiànlì kuàguó shēngtài lángdào, èzhì zìrán qīxīdì suìpiànhuà qūshì, gòngtóng shǒuhù dìqiú bǎoguì de shēngtài jīdǐ. | Amid climate change, biodiversity and pristine ecosystems are humanity's irreplaceable precious heritage. Conservation groups urge cross-border ecological corridors to halt habitat fragmentation and protect Earth's precious foundations. | Frente al cambio climático, la biodiversidad y los ecosistemas prístinos constituyen un patrimonio irremplazable y valioso de la humanidad. Se precisa coordinación transfronteriza para evitar la fragmentación de hábitats y blindar el planeta.

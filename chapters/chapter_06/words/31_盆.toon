@@ -1,0 +1,63 @@
+id: 31
+hanzi: 盆
+pinyin: pén
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: basin; tub; pot; bowl; classifier for pots / basins of things
+  es: palangana; lebrillo; maceta; barreño; jofaina; clasificador para tiestos
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an open, shallow, circular container or vessel; basin; tub; flowerpot | vasija ancha, redonda y abierta; palangana; barreño; maceta | 铜盆 (bronze basin)
+  2 | Measure Word | Standard | classifier for things contained in basins, pots, or planters | clasificador para el contenido de macetas, tiestos o palanganas | 一盆鲜花 (a pot of fresh flowers)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 传说除夕夜百姓们手持铜盆与铁锅用力敲打，清脆响亮的撞击声把年兽吓得落荒而逃。 | Chuánshuō Chúxī yè bǎixìngmen shǒuchí tóngpén yǔ tiěguō yònglì qiāodǎ, qīngcuì xiǎngliàng de zhuàngjī shēng bǎ Nián shòu xià de luòhuāng'értáo. | Legend tells that on New Year's Eve, villagers struck bronze basins and iron pots, their clatter scaring Nian away. | Cuenta la leyenda que en Nochevieja los campesinos golpeaban palanganas de bronce y sartenes, ahuyentando a la bestia con el fragor.
+  #2 | 春节前夕，家家户户都在门前摆上几盆金桔与水仙花，寓意新的一年吉祥如意、大吉大利。 | Chūnjié qiánxī, jiājiāhùhù dōu zài ménqián bǎishàng jǐ pén jīnjú yǔ shuǐxiānhuā, yùyì xīn de yì nián jíxiángrúyì, dàjídàlì. | On the eve of the Spring Festival, families display pots of kumquats and narcissus by doors, symbolizing good fortune. | En vísperas del Año Nuevo Chino, los hogares colocan macetas de mandarinos enanos y narcisos ante el portal como augurio de prosperidad.
+
+collocations[6]{hanzi,en}:
+  脸盆 | washbasin
+  花盆 | flowerpot; planter
+  一盆花 | a pot of flowers
+  聚宝盆 | treasure basin; source of wealth
+  倾盆大雨 | downpour; torrential downpour
+  铜盆 | bronze basin
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大雨倾盆 | dà yǔ qīng pén | torrential rain pouring like upturned basins; torrential downpour
+  聚宝盆 | jù bǎo pén | treasure bowl; place of boundless wealth and opportunity
+  洗手不干 | xǐ shǒu bù gàn | wash hands in a basin and stop; quit a bad practice for good
+  倾盆而下 | qīng pén ér xià | cascade down like a basin upturned; torrential rain
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  盆 | pén | basin; tub; pot; bowl | palangana; barreño; maceta | 皿 | dish / vessel | 分 (fēn, divide / distribute / phonetic) | 皿 (mǐn, shallow dish / container) | 9 | 上下结构 | Phono-semantic compound where dish radical 皿 indicates a shallow container, and 分 denotes distributing water or portions. | A shallow earthenware dish (皿) used to divide and hold water (分) forms a household washbasin (盆). | Una vasija ancha (皿) empleada para repartir agua (分) sirve como barreño o palangana (盆). | 35 | CSHBT | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pour water to divide it into a shallow earthenware dish (皿) to fill a clean household washbasin (盆).
+  composite_memory_hook_es: Vierte agua para repartirla (分) en un cuenco ancho (皿) formando una limpia palangana (盆).
+  cultural_and_cognitive_roots: In ancient ritual folk culture, bronze basins ('pén') were banged during lunar festivals and eclipses to make loud metal noise (鸣金), dispersing noxious demons and pestilence.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'pén' (35). Smooth upward glide from pitch 35; keep vowel resonant.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    盒 | hé | small box; case | Has 合 (combine) over 皿 instead of 分 in 盆
+    盘 | pán | plate; dish; tray | Has 舟 (boat) over 皿 instead of 分
+    益 | yì | benefit; profit | Has 八 and 一 over 皿 instead of 分
+    盟 | méng | alliance; pledge | Has 明 (bright) over 皿 instead of 分
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    碗 | wǎn | bowl; cup
+    盘 | pán | plate; dish; tray
+    罐 | guàn | jar; pot; tin
+    盅 | zhōng | small cup; covered bowl
+
+semantic_boundary_contrasts:
+  core_nuance: 盆 denotes a relatively large, deep, wide-mouthed circular container used for washing, gardening pots, or holding liquids.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 盆 vs. 碗 | wǎn | 盆 is an expansive, deep tub or basin for washing or planting, whereas 碗 is a small dining bowl held in the hand to eat rice or soup.
+    2 | 盆 vs. 盘 | pán | 盆 has high curved walls for holding water or soil, whereas 盘 is a flat plate or shallow tray for serving food.
+    3 | 盆 vs. 桶 | tǒng | 盆 is wide and shallow with an open top, while 桶 is a deep cylindrical bucket with vertical walls and a carrying handle.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 腊月深冬的集市上，最引人注目的莫过于那一盆盆绽放的水仙与缀满金果的金桔树。摊主热情地向过往行人招呼推荐，买一盆鲜花摆在厅堂，既添了盎然春意，又寄托着阖家幸福、富贵吉祥的质朴祈愿。 | Làyuè shēndōng de jíshì shàng, zuì yǐnrénzhùmù de mòguòyú nà yì pénpén zhànfàng de shuǐxiān yǔ zhuìmǎn jīnguǒ de jīnjúshù. Tānzhǔ rèqíng de xiàng guòwǎng xíngrén zhāohu tuījiàn, mǎi yì pén xiānhuā bǎi zài tīngtáng, jì tiān le àngrán chūnyì, yòu jìtuō zhe héjiā xìngfú, fùguì jíxiáng de zhìpǔ qíyuàn. | At late-winter fairs, blooming narcissus and fruited kumquats in pots catch all eyes. Vendors greet passersby; buying a flowerpot for the parlor brings spring warmth and conveys wishes for familial joy. | En el mercado invernal, destacan macetas de narcisos en flor y mandarinos colmados de frutos dorados. Los puesteros ofrecen tiestos para el salón que avivan la primavera y auguran dicha familiar.
+  #2 | 在现代都市立体绿化与阳台微农业推广项目中，新型轻质陶粒与透气环保花盆的应用显著提升了植物成活率。科研机构开发出具备自动吸水与养分缓释功能的智能花盆，使都市居民在有限空间内轻松享受园艺乐趣。 | Zài xiàndài dūshì lìtǐ lǜhuà yǔ yángtái wēinóngyè tuīguǎng xiàngmù zhōng, xīnxíng qīngzhì táolì yǔ tòuqì huánbǎo huāpén de yìngyòng xiǎnzhù tíshēng le zhíwù chénghuólǜ. Kēyán jīgòu kāifā chū jùbèi zìdòng xīshuǐ yǔ yǎngfèn huǎnshì gōngnéng de zhìnéng huāpén, shǐ dūshì jūmín zài yǒuxiàn kōngjiān nèi qīngsōng xiǎngshòu yuányì lèqù. | In urban vertical greening and balcony agriculture, lightweight aggregates and breathable pots boost plant survival. Researchers design self-watering smart planters, enabling city dwellers to enjoy horticulture in limited spaces. | En la jardinería urbana de balcones, las macetas ecológicas transpirables elevan el arraigo vegetal. Investigadores diseñaron tiestos inteligentes autorregables con liberación de nutrientes, facilitando el cultivo en espacios reducidos.

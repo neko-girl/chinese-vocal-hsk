@@ -1,0 +1,63 @@
+id: 33
+hanzi: 水流
+pinyin: shuǐ liú
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: stream; flow of water; water current; running water
+  es: corriente de agua; caudal; flujo de agua; curso de agua
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the continuous movement, current, or volume of running water in rivers, springs, or aquifers | movimiento continuo, corriente o caudal de agua en manantiales o ríos | 清澈的水流 (crystal-clear water current)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉喷涌出的清澈水流顺着石渠蜿蜒流淌，穿过白墙黛瓦的古街小巷，汇入宽阔的大明湖。 | Bàotūquán pēnyǒng chū de qīngchè shuǐliú shùn zhe shíqú wānyán liútǎng, chuānguò báiqiáng dàiwǎ de gǔjiē xiǎoxiàng, huìrù kuānkuò de Dàmíng Hú. | The crystal-clear water flow gushing from Baotu Spring meanders along stone canals past whitewashed historic alleys into wide Daming Lake. | La corriente cristalina que brota del manantial Baotu serpentea por canales de piedra cruzando callejuelas tradicionales hasta el lago Daming.
+  #2 | 水利工程师对该峡谷河段的水流流速与水压进行了长期水文监测，为大型水力发电站的大坝选址提供了可靠依据。 | Shuǐlì gōngchéngshī duì gāi xiágǔ héduàn de shuǐliú liúsù yǔ shuǐyā jìnxíng le chángqī shuǐwén jiāncè, wèi dàxíng shuǐlì fādiànzhàn de dàbà xuǎnzhǐ tígōng le kěkào yījù. | Hydraulic engineers conducted long-term hydrological monitoring of water current velocities and pressure in the gorge to site the hydroelectric dam. | Los ingenieros hidráulicos monitorizaron el caudal y la velocidad de la corriente fluvial en la garganta para fundamentar la ubicación de la presa hidroeléctrica.
+
+collocations[6]{hanzi,en}:
+  水流湍急 | rapid and turbulent current
+  水流平缓 | gentle and calm water current
+  清澈的水流 | crystal-clear water flow
+  地下水流 | subterranean water current
+  控制水流 | control water flow
+  顺着水流 | follow the flow of water; downstream
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  川流不息 | chuān liú bù xī | flow continuously without ceasing; endless flow
+  源远流长 | yuán yuǎn liú cháng | source is distant and stream flows long; time-honored heritage
+  水落石出 | shuǐ luò shí chū | when water recedes stones emerge; the truth comes to light
+  顺水推舟 | shùn shuǐ tuī zhōu | push the boat with the current; take advantage of an opportunity
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  水 | shuǐ | water; river; liquid | agua; río; líquido | 水 | water | 亅 (central stream) | ㇇/㇏ (splashing ripples) | 4 | 独体结构 | Ancient pictograph of a meandering central river current with water droplets splashing on both banks. | A central winding river channel flanked by rippling water droplets flows naturally as life-giving water (水). | Un cauce fluvial serpenteante flanqueado por gotas que salpican fluye de forma natural como agua (水) viva. | 214 | E | ""
+  流 | liú | flow; drift; stream; class | fluir; corriente; clase; deriva | 氵 | water | 氵 (water, streaming motion) | 充/㐬 (infant floating downstream) | 10 | 左右结构 | Phono-semantic compound where water radical 氵 indicates continuous liquid motion, paired with ancient ideogram of water drifting. | Water droplets (氵) flow continuously onward through stone conduits, joining into an unstoppable water stream (流). | Gotas de agua (氵) fluyen de continuo por canales de piedra para unirse en una imparable corriente de agua (流). | 35 | EYIU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pure spring water (水) flowing forward in unbroken currents (流) forms a lifegiving stream.
+  composite_memory_hook_es: Agua pura (水) que fluye en continua corriente (流) forma un cauce cristalino y vital.
+  cultural_and_cognitive_roots: In Taoist cosmology (上善若水), running water ('shuǐliú') embodies effortless non-contention (无为), yielding yet capable of wearing away the hardest mountain rocks over time.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'shuǐ' (214) followed by rising 2nd tone 'liú' (35). Smooth glide from low pitch upward to high pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    永 | yǒng | forever; eternal | Has a dot on top and a horizontal turn, distinct from 水
+    木 | mù | tree; wood | Has straight horizontal cross-stroke instead of flowing ripples
+    梳 | shū | comb | Has tree radical 木 on the left instead of water 氵
+    荒 | huāng | desolate; barren | Has grass radical 艹 on top and 亡 in middle, distinct from 流
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    涌 | yǒng | well up; surge; gush
+    淌 | tǎng | trickle; drip; run
+    润 | rùn | moisten; lubricate; enrich
+    潮 | cháo | tide; tidal flow; moist
+
+semantic_boundary_contrasts:
+  core_nuance: 水流 specifically refers to the physical current, velocity, or continuous volume of running water.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 水流 vs. 水源 | shuǐyuán | 水流 describes the dynamic current or flowing volume of water, whereas 水源 denotes the static origin, aquifer head, or catchment source of water.
+    2 | 水流 vs. 水量 | shuǐliàng | 水流 focuses on kinetic flow, direction, and current movement, while 水量 is a static quantitative metric measuring the cubic volume of water.
+    3 | 水流 vs. 水位 | shuǐwèi | 水流 emphasizes dynamic speed and movement, whereas 水位 designates vertical water-level height relative to a datum line.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的古城因水流而灵动。千万股清泉从石缝间汇集成溪，穿街过巷，在民居门前潺潺流淌。清澈见底的水流中水草舒展，游鱼嬉戏，老城居民在水边浣洗品茗，构成了一幅北方独有的泉水江南风情画卷。 | Jǐnán de gǔchéng yīn shuǐliú ér língdòng. Qiānwàn gǔ qīngquán cóng shífèng jiān huìjí chéng xī, chuān jiē guò xiàng, zài mínjū ménqián chánchán liútǎng. Qīngchè jiàndǐ de shuǐliú zhōng shuǐcǎo shūzhǎn, yóuyú xīxì, lǎochéng jūmín zài shuǐbiān huànxǐ pǐnmíng, gòuchéng le yì fú běifāng dúyǒu de quánshuǐ Jiāngnán fēngqíng huàjuàn. | Jinan's old town is animated by running water. Countless springs converge from rock crevices into streams flowing past front doors. In clear water, weeds sway and fish play, as residents wash and brew tea by the water's edge. | El casco histórico de Jinan cobra vida gracias a sus corrientes de agua. Multitud de manantiales forman arroyos que cruzan zaguanes. En el agua cristalina las algas ondulan y los peces juegan, mientras los vecinos lavan y toman té junto al cauce.
+  #2 | 在水生态修复工程中，恢复自然河道适度的水流流速是重建水生生态系统食物网的关键。生态工程专家通过拆除不合理水坝、设置生态鱼道与深潭浅滩结构，使水流恢复自然脉动，促进底栖生物与水生植被的自然繁育。 | Zài shuǐshēngtài xiūfù gōngchéng zhōng, huìfù zìrán hédào shìdù de shuǐliú liúsù shì chóngjiàn shuǐshēng shēngtài xìtǒng shíwùwǎng de guānjiàn. Shēngtài gōngchéng zhuānjiā tōngguò chāichú bù hélǐ shuǐbà, shèzhì shēngtài yúdào yǔ shēntán qiǎntān jiégòu, shǐ shuǐliú huìfù zìrán màidòng, cùjìn dǐqī shēngwù yǔ shuǐshēng zhíbèi de zìrán fányù. | In aquatic ecological restoration, restoring natural current velocities is vital to rebuilding the trophic web. Experts remove unneeded weirs and create gravel shallows, restoring natural pulses to foster benthic organism reproduction. | En la restauración fluvial, recuperar la velocidad natural de la corriente de agua es clave para la red trófica. Los ecólogos retiran presas obsoletas y crean remansos y rápidos, devolviendo la pulsación viva que regenera la vegetación acuática.

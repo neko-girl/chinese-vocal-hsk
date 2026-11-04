@@ -1,0 +1,63 @@
+id: 25
+hanzi: 广阔
+pinyin: guǎng kuò
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: wide; vast; broad; expansive; spacious
+  es: amplio; vasto; extenso; anchuroso; espacioso
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | vast in spatial extent, breadth of vision, or scope of prospects | amplio; vasto; de gran extensión territorial, visión o perspectiva | 广阔的天地 (a vast world / broad horizon)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 汇聚了无数清泉的大明湖水面十分广阔，波光粼粼，岸边万千垂柳随风轻拂。 | Huìjù le wúshù qīngquán de Dàmíng Hú shuǐmiàn shífēn guǎngkuò, bōguāng línlín, ànbiān wànqiān chuíliǔ suífēng qīngfú. | The surface of Daming Lake, where countless pure springs converge, is exceptionally vast, with sparkling waves and willows swaying. | La superficie del lago Daming, donde confluyen incontables manantiales, es muy vasta y centelleante, rodeada de sauces que se mecen.
+  #2 | 新一轮科技革命和产业变革正在加速演进，为人工智能与绿色能源产业开辟了极其广阔的市场空间。 | Xīn yì lún kējì gémìng hé chǎnyè biàngé zhèngzài jiāsù yǎnjìn, wèi réngōng zhìnéng yǔ lǜsè néngyuán chǎnyè kāipì le jíqí guǎngkuò de shìchǎng kōngjiān. | A new wave of technological revolution and industrial transformation is accelerating, opening vast market space for AI and green energy. | Una nueva ola de revolución tecnológica e industrial se acelera, abriendo un amplísimo horizonte de mercado a la IA y a la energía verde.
+
+collocations[6]{hanzi,en}:
+  广阔的天地 | a vast and open world
+  广阔的视野 | broad / expansive horizon or vision
+  广阔的草原 | expansive grasslands; vast prairie
+  广阔的前景 | broad prospects; promising future
+  广阔的水面 | vast water surface
+  广阔的胸怀 | broad-mindedness; generous spirit
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  宽宏大量 | kuān hóng dà liàng | magnanimous; generous and broad-minded
+  天高地阔 | tiān gāo dì kuò | the sky is high and the earth is vast; boundless freedom
+  心胸开阔 | xīn xiōng kāi kuò | broad-minded; optimistic and magnanimous
+  开阔眼界 | kāi kuò yǎn jiè | broaden one's horizons; widen one's outlook
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  广 | guǎng | wide; broad; vast; numerous | amplio; vasto; extenso; ancho | 广 | shelter / cliff | 广 (broad shelter / hall) | 丶 (marker / origin) | 3 | 半包围结构 | Ancient pictograph of a large communal building or hall with a high roof, representing spaciousness and vast expanses. | Under a vast hall's open roof (广), boundless space stretches outward in every direction to embrace the world. | Bajo la amplia nave techada (广), se abre un espacio inmenso que abarca horizontes sin fin. | 214 | IH | 廣
+  阔 | kuò | wide; broad; vast; rich | ancho; amplio; vasto; holgado | 门 | gate / door | 门 (gateway / portal) | 活 (huó, alive / flow) | 12 | 半包围结构 | Phono-semantic compound where gate radical 门 frames living running water 活, signifying an expansive gateway permitting unrestricted flow. | When the courtyard gates (门) swing wide open to living running waters (活), the landscape appears profoundly vast (阔). | Al abrir de par en par los portales (门) al agua viva (活), el paisaje se ensancha en un panorama vasto (阔). | 51 | LNEHR | 闊
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Step out from under the roof (广) into open gates where fresh water flows (阔) to behold a vast expansive horizon.
+  composite_memory_hook_es: Sal del alero (广) hacia los portales abiertos al agua viva (阔) para contemplar un horizonte amplio y vasto.
+  cultural_and_cognitive_roots: In classical spatial perception, 'guǎng' denotes east-to-west horizontal breadth, while 'kuò' denotes open distance, together conceptualizing infinite physical space and open-minded philosophical perspective.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'guǎng' (214) followed by sharp falling 4th tone 'kuò' (51). Clear contrast from low dip to sharp drop.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    厂 | chǎng | factory; yard | Lacks the top dot stroke of 广
+    矿 | kuàng | ore; mine | Has stone radical 石 next to 广
+    闹 | nào | noisy | Has 市 (market) inside 门 instead of 活
+    闭 | bì | close; shut | Has 才 inside 门 instead of 活
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    宽 | kuān | wide; broad; lenient
+    大 | dà | big; great; large
+    辽 | liáo | distant; vast; far
+    宏 | hóng | grand; magnificent; vast
+
+semantic_boundary_contrasts:
+  core_nuance: 广阔 emphasizes expansive horizontal land/water surfaces, boundless panoramas, or broad figurative prospects.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 广阔 vs. 宽阔 | kuānkuò | 广阔 refers to vast two-dimensional expanses (广阔的草原, 广阔的湖面, 广阔的市场), whereas 宽阔 describes linear breadth, such as wide roads or broad shoulders (宽阔的马路).
+    2 | 广阔 vs. 辽阔 | liáokuò | 广阔 can describe both physical spaces and abstract prospects/markets, while 辽阔 is strictly reserved for boundless natural terrains like immense oceans, steppes, or skies.
+    3 | 广阔 vs. 广博 | guǎngbó | 广阔 describes physical space or market scope, while 广博 specifically describes depth and breadth of human knowledge and academic erudition.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 登上超然楼极目远眺，大明湖广阔的水面尽收眼底。浩渺的水波倒映着远处的千佛山与蓝天白云，湖畔垂柳依依，画舫穿梭其间。这片广阔的水域如同大自然赐予泉城的一面明镜，涵养着整座城市的诗性与灵气。 | Dēng shàng Chāorán Lóu jímù yuǎntiào, Dàmíng Hú guǎngkuò de shuǐmiàn jìn shōu yǎndǐ. Hàomiǎo de shuǐbō dàoyìng zhe yuǎnchù de Qiānfó Shān yǔ lántiān báiyún, húpàn chuíliǔ yīyī, huàfǎng chuānsuō qíjiān. Zhè piàn guǎngkuò de shuǐyù rútóng dàzìrán cìyǔ Quánchéng de yí miàn míngjìng, hányǎng zhe zhěng zuò chéngshì de shīxìng yǔ língqì. | Climbing Chaoran Tower to gaze far, Daming Lake's vast waters unfold before the eye. Vast waves mirror distant Thousand Buddha Mountain; pleasure boats cruise by weeping willows. This expanse acts as a mirror nurturing the city's spirit. | Desde la torre Chaoran, la vasta lámina de agua del lago Daming cautiva la mirada. Las aguas reflejan montes y cielos; los barcos navegan entre sauces. Esta vasta superficie es un espejo natural que nutre el alma poética de la urbe.
+  #2 | 全球数字经济的高速发展，为传统制造业数字化转型拓展了极其广阔的应用场景。领军企业通过建设工业互联网平台，实现全要素设备互联与全产业链数据协同，在广阔的国际竞争舞台上抢占价值链制高点。 | Quánqiú shùzì jīngjì de gāosù fāzhǎn, wèi chuántǒng zhìzàoyè shùzìhuà zhuǎnxíng tuòzhǎn le jíqí guǎngkuò de yìngyòng chǎngjǐng. Lǐngjūn qǐyè tōngguò jiànshè gōngyè hùliánwǎng píngtái, shíxiàn quán yàosù shèbèi hùlián yǔ quán chǎnyèliàn shùjù xiétóng, zài guǎngkuò de guójì jìngzhēng wǔtái shàng qiǎngzhàn jiàzhíliàn zhìgāodiǎn. | Rapid digital economy expansion broadens expansive applications for traditional manufacturing. Leading firms deploy industrial IoT platforms to interconnect machinery and data, securing competitive advantages across vast global markets. | El auge de la economía digital abre vastos horizontes a la manufactura tradicional. Las corporaciones punteras implantan plataformas de internet industrial para interconectar procesos y datos, liderando la cadena de valor global.

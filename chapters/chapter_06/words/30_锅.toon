@@ -1,0 +1,65 @@
+id: 30
+hanzi: 锅
+pinyin: guō
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: pot; pan; wok; boiler; bowl (of a pipe)
+  es: olla; cazuela; sartén; wok; caldera
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a metal cooking utensil used for boiling, frying, or steaming food; pot; pan; wok | olla; sartén; cazuela; caldero de metal para cocinar | 铁锅 (iron wok)
+  2 | Measure Word | Colloquial | measure word for potfuls of food | olla (como unidad de medida culinaria) | 一锅汤 (a pot of soup)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕夜的厨房里热气腾腾，铁锅中炖煮着香气扑鼻的鸡汤，一家人围坐在一起等待开饭。 | Chúxī yè de chúfáng lǐ rèqì téngténg, tiěguō zhōng dùnzhǔ zhe xiāngqì pūbí de jītāng, yì jiā rén wéizuò zài yìqǐ děngdài kāifàn. | On New Year's Eve, the kitchen was steaming with warmth, and an iron pot simmered fragrant chicken soup as the whole family gathered to await the feast. | En nochevieja, la cocina desprendía un vapor acogedor; en la olla de hierro hervía una fragante sopa de pollo mientras la familia aguardaba la cena.
+  #2 | 工业锅炉节能改造与清洁燃烧技术的推广，有效降低了工业生产中的废气排放与能源消耗。 | Gōngyè guōlú jiénéng gǎizào yǔ qīngjié ránshāo jìshù de tuīguǎng, yǒuxiào jiàngdī le gōngyè shēngchǎn zhōng de fèiqì páifàng yǔ néngyuán xiāohào. | The energy-saving upgrading of industrial boilers and the promotion of clean combustion technologies have effectively reduced exhaust emissions and energy consumption in industrial production. | La modernización energética de las calderas industriales y la combustión limpia han reducido notablemente las emisiones contaminantes y el gasto energético fabril.
+
+collocations[6]{hanzi,en}:
+  一口锅 | a pot / a wok
+  铁锅 | iron pot / wok
+  热锅 | hot pot / heated wok
+  揭不开锅 | unable to open the pot; too poor to afford food
+  背黑锅 | take the blame for others; be made a scapegoat
+  吃大锅饭 | eat from the common pot; egalitarianism
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  砸锅卖铁 | zá guō mài tiě | smash pots and sell iron; pool all resources at all costs
+  破釜沉舟 | pò fǔ chén zhōu | smash the cauldrons and sink the boats; burn bridges
+  釜底抽薪 | fǔ dǐ chōu xīn | pull firewood from under the cauldron; strike at the root of a problem
+  饥不择食 | jī bù zé shí | a hungry person does not choose food; hunger makes raw beans sweet
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  锅 | guō | pot; pan; boiler; wok | olla; cazuela; caldera; sartén | 钅 | metal / gold | 钅 (metal material) | 呙 (guō, twisted mouth / phonetic) | 12 | 左右结构 | Simplified from traditional 鍋. Phono-semantic compound where metal radical 钅 denotes metallic cookware, and 呙 provides phonetic pronunciation. | An iron metal vessel (钅) forged with rounded rims (呙) to boil feast broths over blazing firewood. | Un recipiente metálico (钅) forjado con bordes curvados (呙) para cocer ricos caldos sobre la leña. | 55 | CPOB | 鍋
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A metal vessel (钅) curved with rounded edges (呙) forms an indispensable cooking pot (锅).
+  composite_memory_hook_es: Un recipiente metálico (钅) forjado con forma redondeada (呙) crea la indispensable olla (锅).
+  cultural_and_cognitive_roots: In Chinese domestic culture, the cooking pot (锅, or ancient 釜/鼎) is the primary symbol of household sustenance and culinary continuity. Phrases like 'jiē bu kāi guō' (揭不开锅, unable to open the pot) signify dire poverty, whereas a steaming hot pot on New Year's Eve represents familial plenitude and warmth.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'guō' (55). Pronounce with an even, sustained high pitch without terminal dip.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    铜 | tóng | copper; brass | Has 同 next to 钅 instead of 呙
+    铝 | lǚ | aluminum | Has 吕 next to 钅
+    祸 | huò | disaster; misfortune | Has 礻 next to 呙 instead of 钅
+    涡 | wō | vortex; whirlpool | Has water radical 氵 next to 呙
+    蜗 | wō | snail | Has insect radical 虫 next to 呙
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    釜 | fǔ | cauldron; iron pot
+    鼎 | dǐng | sacrificial bronze vessel; tripod
+    碗 | wǎn | bowl
+    盘 | pán | plate; dish
+    盆 | pén | basin; tub
+
+semantic_boundary_contrasts:
+  core_nuance: 锅 designates a metal vessel designed for cooking food or boiling water with heat applied directly underneath.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 锅 vs. 盆 | pén | 锅 is made of metal specifically designed for cooking over a flame, whereas 盆 is a broader basin or tub used for washing, containing liquids, or holding potted plants.
+    2 | 锅 vs. 碗 | wǎn | 锅 is a cooking vessel used for culinary preparation over the stove, whereas 碗 is a tableware bowl held in the hand for eating rice or soup.
+    3 | 锅 vs. 炉 | lú | 锅 is the cooking container that holds the food, whereas 炉 is the stove or furnace providing the heating fire beneath the pot.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕夜最诱人的年味，莫过于揭开铁锅那一瞬间升腾而起的白汽。大锅里翻滚着红烧肉与热气腾腾的饺子，浓郁的肉香弥漫了整间屋子，将外面的寒风风雪尽数隔绝在暖融融的烟火人间之外。 | Chúxī yè zuì yòurén de niánwèi, mòguò yú jiēkāi tiěguō nà yì shùnjiān shēngténg ér qǐ de báiqì. Dàguō lǐ fāngǔn zhe hóngshāoròu yǔ rèqì-téngténg de jiǎozi, nóngyù de ròuxiāng mímàn le zhěng jiān wūzi, jiāng wàimiàn de hánfēng-fēngxuě jìnshù géjué zài nuǎnróngróng de yānhuǒ rénjiān zhīwài. | The most enticing flavor of New Year's Eve is nothing other than the white steam billowing up the instant the iron pot lid is lifted. In the large pot tumbled braised pork and piping hot dumplings, rich meat fragrances filling the room and shutting cold winter winds completely outside domestic warmth. | El aroma más cautivador de la nochevieja surge al destapar la olla de hierro entre densas nubes de vapor. En el caldero borbotean cerdo guisado y empanadillas calientes cuyo perfume inunda el hogar, aislando la gélida ventisca fuera del entrañable calor familiar.
+  #2 | 从粗放式的大锅饭分配机制，到以质量效益为导向的现代企业激励体制，中国经济管理理念在改革开放中完成了深刻跃迁。破除平均主义的坚冰，极大地激发了全社会的创新创造潜能与微观市场活力。 | Cóng cūfàngshì de dàguōfàn fēnpèi jīzhì, dào yǐ zhìliàng xiàoyì wéi dǎoxiàng de xiàndài qǐyè jīlì tǐzhì, Zhōngguó jīngjì guǎnlǐ lǐniàn zài gǎigé-kāifàng zhōng wánchéng le shēnkè yuèqiān. Pòchú píngjūn-zhǔyì de jiānbīng, jídà de jīfā le quán shèhuì de chuàngxīn chuàngzào qiánnéng yǔ wēiguān shìchǎng huólì. | From crude common-pot allocation mechanisms to modern enterprise incentive structures oriented toward quality and efficiency, Chinese economic management philosophies underwent profound leaps during reform and opening-up. Breaking the ice of egalitarianism unleashed creative potential and market dynamism. | De los esquemas igualitaristas de "olla común" a los incentivos modernos orientados a la productividad y la calidad, la gestión económica china experimentó una profunda metamorfosis. Romper la inercia del reparto uniforme dinamizó el mercado e impulsó la innovación social.

@@ -1,0 +1,63 @@
+id: 24
+hanzi: 命名
+pinyin: mìng míng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to name; to christen; to designate; to give a name to
+  es: nombrar; bautizar; denominar; dar nombre a; titular
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to formally bestow a name, designation, or title upon a person, place, entity, or scientific discovery | otorgar formalmente un nombre, denominación o título a una persona, paraje, entidad o hallazgo científico | 以传说命名泉水 (name springs after legends)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的七十二处名泉大多根据其喷涌的水势、形状或动人的历史传说而命名。 | Jǐnán de qīshí'èr chù míngquán dàduō gēnjù qí pēnyǒng de shuǐshì, xíngzhuàng huò dòngrén de lìshǐ chuánshuō ér mìngmíng. | Most of Jinan's seventy-two famous springs were named after their gushing water momentum, shapes, or touching historical legends. | La mayoría de los setenta y dos manantiales célebres de Jinan fueron bautizados según la fuerza de su caudal, su forma o leyendas históricas.
+  #2 | 国际天文学联合会正式将该颗由中国天文学家新发现的小行星命名为“屠呦呦星”，以表彰其卓越的医学贡献。 | Guójì tiānwénxué liánhéhuì zhèngshì jiāng gāi kē yóu Zhōngguó tiānwénxuéjiā xīn fāxiàn de xiǎoxíngxīng mìngmíng wéi "Tú Yōuyōu Xīng", yǐ biǎozhāng qí zhuóyuè de yīxué gòngxiàn. | The International Astronomical Union formally named the newly discovered asteroid "Tu Youyou" to honor her outstanding medical contributions. | La Unión Astronómica Internacional bautizó oficialmente un asteroide recién descubierto como "Tu Youyou", premiando sus aportaciones médicas.
+
+collocations[6]{hanzi,en}:
+  以此命名 | named after this
+  重新命名 | rename; christen anew
+  正式命名 | officially designate / name
+  命名仪式 | naming ceremony; christening
+  以此人命名 | named after this person
+  根据特点命名 | named according to distinctive characteristics
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  名正言顺 | míng zhèng yán shùn | with the right title, words carry weight; perfectly legitimate
+  名存实亡 | míng cún shí wáng | exist in name only; titular but defunct in reality
+  实至名归 | shí zhì míng guī | real achievement brings fame naturally; well-deserved reputation
+  名落孙山 | míng luò sūn shān | fall behind Sun Shan; fail in an examination
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  命 | mìng | life; decree; command; order | vida; mandato; destino; ordenar | 口 | mouth | 口 (mouth, issuing command) | 令 (lìng, official decree / order) | 8 | 上下结构 | Ideogram combining 口 (mouth) issuing an official decree 令, signifying a supreme mandate or designation. | An official authority speaks with his mouth (口) to issue an authoritative command (令) conferring a title or destiny (命). | Una autoridad proclama con la boca (口) un solemne mandato (令) para conferir un nombre o destino (命). | 51 | OMR | ""
+  名 | míng | name; fame; reputation | nombre; fama; renombre | 口 | mouth | 口 (mouth, pronouncing identity) | 夕 (evening / night) | 6 | 上下结构 | In nighttime darkness (夕), people had to proclaim their identity with their mouths (口) so others could recognize them. | As darkness falls in the evening (夕), call out your identifier with your mouth (口) to proclaim your name (名). | Al caer la noche (夕), proclamas con la boca (口) tu identidad para dar a conocer tu nombre (名). | 35 | NIR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An official decree (命) uttered to proclaim someone's title (名) formally names and designates them.
+  composite_memory_hook_es: Un decreto formal (命) proclamado para otorgar un título (名) bautiza y designa con solemnidad.
+  cultural_and_cognitive_roots: In ancient Chinese epistemology (正名思想 - rectification of names), 'mìngmíng' is an ontological act where language confers order upon natural chaos, aligning names with cosmic principles.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'mìng' (51) followed by rising 2nd tone 'míng' (35). Clean drop from 51 followed by a smooth upward glide to 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    令 | lìng | order; command | Lacks the mouth radical 口 on top of 命
+    伞 | sǎn | umbrella | Has open ribs on top, unrelated to 命
+    各 | gè | each; every | Has 夂 (walk) over 口, whereas 名 has 夕 over 口
+    各 | gè | each | Has 夂 over 口 instead of 夕
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    称 | chēng | name; call; title
+    呼 | hū | call out; address
+    封 | fēng | bestow title; confer
+    号 | hào | name; moniker; call
+
+semantic_boundary_contrasts:
+  core_nuance: 命名 is a formal transitive verb signifying the deliberate, official conferring of a name, title, or scientific designation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 命名 vs. 起名 | qǐmíng | 命名 is formal, institutional, or scientific (naming astronomical bodies, landmarks, treaties), whereas 起名 is colloquial (naming a baby, pet, or informal nickname).
+    2 | 命名 vs. 称为 | chēngwéi | 命名 denotes the single, formal act of bestowing a title, whereas 称为 is the descriptive state of being called or referred to by that title over time.
+    3 | 命名 vs. 叫作 | jiàozuò | 命名 is elevated and refers to formal christening, whereas 叫作 simply states what an object or person is called in daily conversation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南名泉的命名极具文化底蕴。黑虎泉因水声轰鸣如虎啸而得名，珍珠泉因串串水泡晶莹如珠而命名。每一处泉水名称的背后，都凝结着古代百姓对大自然鬼斧神工的赞美，以及流传千载的美丽传说。 | Jǐnán míngquán de mìngmíng jí jù wénhuà dǐyùn. Hēihǔquán yīn shuǐshēng hōngmíng rú hǔxiào ér dé míng, Zhēnzhūquán yīn chuànchuàn shuǐpào jīngyíng rú zhū ér mìngmíng. Měi yí chù quánshuǐ míngchēng de bèihòu, dōu níngjié zhe gǔdài bǎixìng duì dàzìrán guǐfǔshéngōng de zànměi, yǐjí liúchuán qiānzǎi de měilì chuánshuō. | The naming of Jinan's famous springs is steeped in culture. Black Tiger Spring was named for its roaring water like a tiger; Pearl Spring was christened for bead-like bubbles. Each name crystallizes admiration for nature and legends. | El bautismo de los manantiales de Jinan destila hondo arraigo cultural. El Tigre Negro debe su nombre al rugido del agua; el de las Perlas fue bautizado por sus burbujas perladas. Cada nombre condensa el asombro popular y leyendas milenarias.
+  #2 | 在地理信息系统建设中，地名标准化命名是规范城乡治理与历史文脉保护的基础工作。民政地名管理部门在为新建道路和公共建筑命名时，广泛征求历史学家意见，积极融入本土历史元素，守护城市文化根脉。 | Zài dìlǐ xìnxī xìtǒng jiànshè zhōng, dìmíng biāozhǔnhuà mìngmíng shì guīfàn chéngxiāng zhìlǐ yǔ lìshǐ wénmài bǎohù de jīchǔ gōngzuò. Mínzhèng dìmíng guǎnlǐ bùmén zài wèi xīnjiàn dàolù hé gōnggòng jiànzhù mìngmíng shí, guǎnfàn zhēngqiú lìshǐxuéjiā yìjiàn, jījí róngrù běntǔ lìshǐ yuánsù, shǒuhù chéngshì wénhuà gēnmài. | In GIS development, standardized naming is foundational to urban governance and cultural conservation. When naming new streets and public facilities, civil affairs bureaus consult historians to weave local heritage into civic identity. | En los sistemas de información geográfica, la toponimia estandarizada es básica para la gobernanza urbana. Al denominar vías y edificios públicos, las autoridades consultan a historiadores para preservar las raíces culturales de la urbe.

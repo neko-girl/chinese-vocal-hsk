@@ -1,0 +1,63 @@
+id: 5
+hanzi: 处
+pinyin: chù
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: classifier for places, locations, spots, or items; place; location; office
+  es: clasificador para lugares, sitios, puntos o marcas; lugar; paraje; departamento; oficina
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | classifier for places, locations, spots, scenic sites, or damage points | clasificador para lugares, parajes, puntos o fallos | 济南市内有七十二处名泉 (there are 72 famous springs within Jinan city)
+  2 | Noun | Standard | place; location; department; bureau office | lugar; sitio; oficina; departamento | 到处都是欢声笑语 (there is cheerful laughter everywhere)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这座古老园林中藏着十几处清幽的亭台水榭，每一处都透着巧妙构思与雅致情趣。 | Zhè zuò gǔlǎo yuánlín zhōng cáng zhe shí jǐ chù qīngyōu de tíngtái shuǐxiè, měi yí chù dōu tòu zhe qiǎomiào gòusī yǔ yǎzhì qíngqù. | Tucked within this classical garden are over a dozen serene pavilions and water kiosks, each revealing ingenious design and refined charm. | En este jardín clásico se ocultan más de diez pabellones apacibles sobre el agua; cada rincón derrocha ingenio compositivo y refinamiento.
+  #2 | 质检部门对施工现场的三处关键安全隐患责令限期整改，确保工程质量万无一失。 | Zhìjiǎn bùmén duì shīgōng xiànchǎng de sān chù guānjiàn ānquán yǐnhuàn zélìng xiànqī zhěnggǎi, quèbǎo gōngchéng zhìliàng wànwúyìshī. | The quality inspection department ordered rectification within a deadline for three critical safety risks at the construction site to ensure flawless engineering. | El departamento de inspección ordenó subsanar a término tres fallos críticos de seguridad en la obra para asegurar una calidad impecable.
+
+collocations[6]{hanzi,en}:
+  几处风景 | several scenic spots
+  多处泉水 | multiple springs / water sources
+  细微之处 | subtle points; minute details
+  独到之处 | unique feature; distinctive merit
+  办事处 | local agency; representative office
+  各处名胜 | scenic attractions everywhere
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  恰到好处 | qià dào hǎo chù | just right; precisely balanced to perfection
+  绝处逢生 | jué chù féng shēng | find a way out of an impasse; unexpected rescue at dead end
+  设身处地 | shè shēn chǔ dì | put oneself in another's shoes; empathize thoughtfully
+  大处着眼 | dà chù zhuó yǎn | keep the big picture in mind; look at the overarching perspective
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  处 | chù | place; spot; location; settle | lugar; sitio; punto; morada | 夂 | walk slowly | 夂 (walking slowly and stopping) | 卜 (divination / fixed mark) | 5 | 半包围结构 | Originally written 處 with tiger 虍 and 豕; simplified to walking legs 夂 arriving at a marked spot 卜 to settle down. | A traveler walking slowly (夂) marks a divination peg (卜) into the earth to establish a resting place (处). | Un caminante que avanza despacio (夂) clava una estaca (卜) para fundar su nuevo hogar y lugar (处). | 51 | HEY | 處
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Walk slowly (夂) until you find a favorable divination spot (卜) to establish your special place (处).
+  composite_memory_hook_es: Camina despacio (夂) hasta hallar el punto auspicioso (卜) donde fijar un lugar (处) seguro.
+  cultural_and_cognitive_roots: In classical thought, 'chù' spans physical dwelling spots (处所) and ethical positioning (出处/处世 - how one navigates societal obligations and retains integrity).
+  tone_sandhi_and_pitch_modulation: Polyphonic: read in 4th tone 'chù' (51) as a noun or measure word (处所, 一处泉水). Read in 3rd tone 'chǔ' (214) as a verb meaning to dwell, punish, or handle (处理, 相处).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    外 | wài | outside; foreign | Has 夕 (evening) on the left instead of 夂 (walk slowly)
+    各 | gè | each; every | Has 口 (mouth) below 夂 instead of 卜 inside
+    条 | tiáo | strip; item; measure word | Has 木 (tree) at the bottom instead of 卜
+    冬 | dōng | winter | Has two downward dots below 夂 instead of 卜 inside
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    所 | suǒ | place; institute; particle
+    居 | jū | reside; dwell; house
+    位 | wèi | seat; position; location
+    宅 | zhái | residence; homestead
+
+semantic_boundary_contrasts:
+  core_nuance: 处 acts as a measure word for discrete spatial spots, landscapes, or structural points, or as a noun for locations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 处 vs. 个 | gè | 个 is the universal generic measure word, whereas 处 is specifically reserved for geographical locations, scenic spots, or defect points (一处名胜, 两处伤痕).
+    2 | 处 vs. 点 | diǎn | 处 designates physical spatial locations or comprehensive aspects, while 点 emphasizes abstract items, conceptual units, or punctiform marks.
+    3 | 处 vs. 份 | fèn | 处 counts places and stationary spots, whereas 份 classifies documents, newspaper copies, portions of food, or emotional shares (一份爱心).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 行走在古老小镇的石板路上，转角处的青藤与水井总能触动心弦。这里的每一处风景都保留着岁月冲刷后的温润，没有喧闹的商业气息，只有微风拂过水面带来的泥土与草木芬芳。 | Xíngzǒu zài gǔlǎo xiǎozhèn de shíbǎnlù shàng, zhuǎnjiǎo chù de qīngténg yǔ shuǐjǐng zǒng néng chùdòng xīnxián. Zhèlǐ de měi yí chù fēngjǐng dōu bǎoliú zhe suìyuè chōngshuā hòu de wēnrùn, méiyǒu xuānnào de shāngyè qìxī, zhǐyǒu wēifēng fúguò shuǐmiàn dài lái de nítǔ yǔ cǎomù fēnfāng. | Walking along the stone lanes of the old town, green vines and wellsprings at street corners always touch the soul. Every scenic spot preserves gentle warmth from passing years, free from commercial din, filled with earthy fragrance. | Caminando por los adoquines del pueblo viejo, la hiedra y los pozos en cada esquina conmueven el espíritu. Cada rincón conserva la apacible pátina del tiempo, lejos del bullicio urbano, envuelto en fragancias de tierra y vegetación.
+  #2 | 城市历史风貌区改造必须注重细节把控。规划团队对三十余处历史遗存进行了详尽排查，保留原汁原味的历史肌理，让老市民在此处重拾记忆，也让年轻一代在漫步中触摸真实的城市文脉。 | Chéngshì lìshǐ fēngmàoqū gǎizào bìxū zhùzhòng xìjié bǎkòng. Guīhuà tuánduì duì sānshí yú chù lìshǐ yícún jìnxíng le xiángjìn páichá, bǎoliú yuánzhīyuánwèi de lìshǐ jīlǐ, ràng lǎo shìmín zài cǐ chù chóngshí jìyì, yě ràng niánqīng yídài zài mànbù zhōng chùmō zhēnshí de chéngshì wénmài. | Historic urban area revitalizations require meticulous control. The planning team scrutinized over thirty heritage spots, safeguarding authentic textures so older residents recover memories and youths touch authentic civic history. | La remodelación de cascos históricos exige máximo rigor en el detalle. El equipo evaluó más de treinta enclaves patrimoniales, preservando la textura auténtica para que veteranos evoquen recuerdos y jóvenes sientan el latido cívico.

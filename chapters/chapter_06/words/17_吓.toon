@@ -1,0 +1,63 @@
+id: 17
+hanzi: 吓
+pinyin: xià
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to frighten; to scare; to intimidate; to terrify
+  es: asustar; espantar; amedrentar; atemorizar; intimidar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to frighten or scare someone suddenly with noise, threats, or fearsome appearances | asustar o sobresaltar repentinamente mediante ruidos o visiones temibles | 把怪物吓跑 (scare the monster away)
+  2 | Verb | Standard | to threaten or intimidate into submission | intimidar; amenazar para coaccionar | 吓唬人 (intimidate people)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 伴随着噼啪炸响的爆竹声和漫天飞舞的火光，凶猛残暴的年兽被吓得浑身发抖，仓皇窜逃。 | Bànsuí zhe pīpā zhàxiǎng de bàozhú shēng hé màntiān fēiwǔ de huǒguāng, xiōngměng cánbào de Nián shòu bèi xià de húnshēn fādǒu, cānghuáng cuàntáo. | Accompanied by crackling firecrackers and dancing flames across the sky, the ferocious Nian was terrified, trembling and fleeing. | Entre el estallido estrepitoso de los petardos y las llamas danzantes, la fiera bestia Nian quedó tan asustada que tembló y huyó despavorida.
+  #2 | 面临竞争对手恶意的专利侵权诉讼施压，该初创研发团队没有被高额索赔吓倒，而是积极应诉。 | Miànlín jìngzhēng duìshǒu èyì de zhuānlì qīnquán sùsòng shīyā, gāi chūchuàng yánfā tuánduì méiyǒu bèi gāo'é suǒpéi xiàdǎo, érshì jījí yìngsù. | Confronted with predatory patent litigation from competitors, the startup was not intimidated by claims, actively responding in court. | Ante las demandas abusivas de patentes promovidas por rivales, el equipo de I+D no se dejó amedrentar por indemnizaciones millonarias y litigó con firmeza.
+
+collocations[6]{hanzi,en}:
+  吓跑 | scare away; frighten off
+  吓了一跳 | startled; got a fright
+  被吓坏了 | scared out of one's wits
+  吓唬别人 | intimidate / scare others
+  吓退敌人 | frighten back the enemy
+  毫不畏吓 | not at all intimidated / frightened
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  杀鸡儆猴 | shā jī jǐng hóu | kill the chicken to scare the monkey; punish one to warn others
+  魂飞魄散 | hún fēi pò sàn | frightened out of one's wits; terrified to distraction
+  胆战心惊 | dǎn zhàn xīn jīng | tremble with fear; terrified in heart and gall
+  受宠若惊 | shòu chǒng ruò jīng | flattered and pleasantly surprised by unexpected favor
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  吓 | xià | frighten; scare; intimidate | asustar; espantar; intimidar | 口 | mouth | 口 (mouth, shouting/screaming) | 下 (below / lower / descend) | 6 | 左右结构 | Phono-semantic compound where mouth radical 口 indicates shouting loudly or shrieking in sudden fright. | Open your mouth (口) to let out a sudden scream that strikes terror down (下) into the monster's bones to scare (吓) it off. | Abre la boca (口) para proferir un grito estentóreo que hace bajar (下) los humos a la fiera y la asusta (吓) al instante. | 51 | RMY | 嚇
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A loud cry from the mouth (口) making courage drop down (下) into the boots will frighten (吓) any beast away.
+  composite_memory_hook_es: Un grito emitido por la boca (口) que hace caer (下) el valor asusta (吓) a cualquier fiera.
+  cultural_and_cognitive_roots: In Chinese folkloric demonology, menacing spirits fear fire, light, the color red, and sudden acoustic shock, inspiring firecrackers to scare away malevolent forces (驱鬼祛疫).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'xià' (51). In the literary polyphone 恐吓 (threaten) or 恫吓, it is pronounced as 'hè' (51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    叫 | jiào | call; cry | Has 丩 on the right instead of 下 in 吓
+    叮 | dīng | sting; bite | Has 丁 on the right instead of 下
+    叶 | yè | leaf | Has 十 on the right of 口
+    吐 | tǔ | spit | Has 土 (earth) on the right of 口
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    惊 | jīng | startle; surprise; frighten
+    怕 | pà | fear; dread; be afraid
+    惧 | jù | fear; dread; terror
+    恐 | kǒng | fear; terrify; dread
+
+semantic_boundary_contrasts:
+  core_nuance: 吓 is an active transitive verb meaning to induce sudden fright or use intimidation to cause panic or flight.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 吓 vs. 怕 | pà | 吓 is transitive and causative (A 吓 B - A scares B), whereas 怕 is an experiential stative verb (B 怕 A - B is afraid of A).
+    2 | 吓 vs. 惊 | jīng | 吓 highlights fright caused by external threats or frightening apparitions, while 惊 emphasizes sudden shock, startle, or unexpected surprise.
+    3 | 吓 vs. 威胁 | wēixié | 吓 describes immediate sensory scaring or informal intimidation, whereas 威胁 denotes strategic, calculated coercive threats of military, legal, or political consequences.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在民间年俗记忆中，除夕夜的喧天锣鼓与噼啪爆竹声，承载着人们战胜恐惧的质朴信念。红色的火光与震耳欲聋的巨响将残暴的年兽吓退，更驱散了漫长严冬的阴冷，换来春回大地的万象更新与安宁祥和。 | Zài mínjiān niánsú jìyì zhōng, Chúxī yè de xuāntiān luógǔ yǔ pīpā bàozhú shēng, chéngzài zhe rénmen zhànshèng kǒngjù de zhìpǔ xìnniàn. Hóngsè de huǒguāng yǔ zhèn'ěryùlóng de jùxiǎng jiāng cánbào de Nián shòu xiàtuì, gèng qūsàn le màncháng yándōng de yīnlěng, huànlái chūnhuídàdì de wànxiàng gēngxīn yǔ ānníng xiánghé. | In folk memory, New Year's gongs and crackling firecrackers carried faith over fear. Red flames and loud bangs scared away the brutal Nian and dispelled winter chill, welcoming spring's renewal and peace. | En la memoria popular, los gongs y petardos de Nochevieja encarnan el triunfo sobre el miedo. El fuego bermejo y el fragor ahuyentaron a la fiera Nian y el frío invernal, saludando el renacer de la primavera en paz.
+  #2 | 在现代法治社会中，任何企图通过恐吓证人或伪造证据干扰司法公正的行为，都将受到刑法的严厉惩处。司法机关依法健全证人保护制度与反恐吓长效机制，坚决维护公民人身安全与司法裁判公信力。 | Zài xiàndài fǎzhì shèhuì zhōng, rènhé qǐtú tōngguò kǒnghè zhèngrén huò wěizào zhèngjù gānrǎo sīfǎ gōngzhèng de xíngwéi, dōu jiāng shòudào xíngfǎ de yánlì chéngchǔ. Sīfǎ jīgòu yīfǎ jiànquán zhèngrén bǎohù zhìdù yǔ fǎnkǒnghè chángxiào jīzhì, jiānjué wéihù gōngmín rénshēn ānquán yǔ sīfǎ cáipàn gōngxìnlì. | In a lawful society, any attempt to interfere with justice by intimidating witnesses or fabricating evidence faces severe penalties. Judicial bodies improve witness protection mechanisms to safeguard safety and legal integrity. | En un Estado de derecho, amedrentar a testigos o falsear pruebas para obstruir la justicia se castiga con rigor penal. La judicatura afianza la protección a testigos e inmunidad frente a coacciones, blindando la integridad judicial.

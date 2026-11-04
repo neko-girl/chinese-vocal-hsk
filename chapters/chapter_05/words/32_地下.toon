@@ -1,0 +1,64 @@
+id: 32
+hanzi: 地下
+pinyin: dì xià
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: underground; subterranean; secret; clandestine
+  es: subterráneo; bajo tierra; secreto; clandestino
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the space beneath the earth's surface; subterranean region | espacio situado bajo la superficie terrestre; subterráneo | 地下水 (groundwater)
+  2 | Adjective | Formal | clandestine; secret; conducted underground or illegally | clandestino; secreto; encubierto | 地下工作 (underground work / secret resistance)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南拥有极其丰富且清澈的地下水资源，这些隐匿在地表之下的水流孕育了城内成百上千处甘泉。 | Jǐnán yōngyǒu jíqí fēngfù qiě qīngchè de dìxiàshuǐ zīyuán, zhèxiē yǐnnì zài dìbiǎo zhīxià de shuǐliú yùnyù le chéngnèi chéngbǎishàngqiān chù gānquán. | Jinan possesses abundant and crystal-clear groundwater resources, and these subterranean currents nurture hundreds of sweet springs. | Jinan posee abundantes y cristalinos recursos hídricos subterráneos; estas corrientes bajo el suelo nutren cientos de manantiales en la ciudad.
+  #2 | 为了缓解特大城市的地面交通拥堵，市政部门全面推进了大型地下综合立体交通枢纽与管廊建设。 | Wèile huǎnjiě tèdà chéngshì de dìmiàn jiāotōng yōngdǔ, shìzhèng bùmén quánmián tuījìn le dàxíng dìxià zōnghé lìtǐ jiāotōng shūniǔ yǔ guǎnláng jiànshè. | To relieve surface traffic congestion in megacities, municipal authorities advanced comprehensive underground transit hubs and utility tunnels. | Para descongestionar el tráfico de superficie en megaciudades, las autoridades municipales impulsaron nodos subterráneos de transporte y galerías de servicios.
+
+collocations[6]{hanzi,en}:
+  地下水 | groundwater; subterranean water
+  地下铁道 | subway; underground railway
+  地下停车场 | underground parking garage
+  地下商场 | subterranean shopping mall
+  地下通道 | pedestrian underpass; underground passage
+  深入地下 | penetrate deep underground
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  地动山摇 | dì dòng shān yáo | the earth shakes and mountains tremble; earth-shattering tremor
+  天翻地覆 | tiān fān dì fù | heaven and earth turned upside down; monumental transformation
+  遁入地下 | dùn rù dì xià | vanish underground; go into hiding
+  地大物博 | dì dà wù bó | vast territory and abundant resources
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  地 | dì | earth; ground; soil; land | tierra; suelo; territorio | 土 | earth / soil | 土 (earth, soil) | 也 (basin / feminine receptivity) | 6 | 左右结构 | Phono-semantic compound where soil radical 土 indicates the physical terrestrial ground, and 也 denotes vast receptive basin. | Rich dark soil (土) stretching across a vast receptive basin (也) forms the supportive earth (地). | Tierra fértil (土) que se extiende sobre una vasta cuenca (也) forma el suelo sustentador (地). | 51 | GPD | ""
+  下 | xià | below; under; descend; lower | abajo; debajo; descender; bajar | 一 | one / horizontal line | 一 (ground baseline) | 卜 (indicative mark beneath) | 3 | 独体结构 | Ancient ideogram consisting of a horizontal datum baseline (一) with an indicative stroke descending beneath it. | A horizontal surface line (一) with a marker placed clearly beneath it indicates the realm below (下). | Una línea horizontal de suelo (一) con un trazo indicador situado debajo señala el espacio inferior (下). | 51 | MY | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Beneath the earth's surface soil (地), deep down below (下), subterranean waters flow in silence.
+  composite_memory_hook_es: Bajo la tierra y el suelo (地), bien abajo (下), las aguas subterráneas fluyen en silencio.
+  cultural_and_cognitive_roots: In ancient Chinese geomancy (堪舆/风水), 'dìxià' houses the earth's veins (地脉), hidden water dragons that recharge life and determine the fortune of settlements above.
+  tone_sandhi_and_pitch_modulation: Dual 4th tones: 'dì xià' (51-51). Crisp falling pitch on both syllables; keep the cadence firm and distinct.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    池 | chí | pool; pond | Has water radical 氵 on the left instead of earth 土
+    他 | tā | he; him | Has person radical 亻 on the left instead of earth 土
+    上 | shàng | above; up | The indicative stroke points upwards above the baseline 一
+    卡 | kǎ | card; block | Combines 上 and 下 together
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    底 | dǐ | bottom; base; underground
+    深 | shēn | deep; profound
+    土 | tǔ | soil; earth; dust
+    阴 | yīn | dark; shaded; hidden; subterranean
+
+semantic_boundary_contrasts:
+  core_nuance: 地下 denotes the spatial realm beneath the soil's surface, or activities conducted clandestinely.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 地下 vs. 地面 | dìmiàn | 地下 is the space beneath the crust (underground), whereas 地面 is the exposed surface of the earth.
+    2 | 地下 vs. 隐蔽 | yǐnbì | 地下 refers to literal subterranean location or clandestine institutional activities, while 隐蔽 is an adjective meaning concealed, camouflaged, or hidden from sight.
+    3 | 地下 vs. 水下 | shuǐxià | 地下 designates the zone beneath the earth/soil, whereas 水下 strictly refers to the underwater aquatic realm beneath the surface of lakes or seas.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南泉水的秘密全深藏在地下。来自南部山区的丰沛雨水渗入石灰岩溶洞，在黑暗幽深的地下暗河中汇聚奔流数十里。当这股庞大的地下潜流遇到岩浆岩的阻挡时，便在强大的水压下喷薄而出，形成了奇丽的泉群。 | Jǐnán quánshuǐ de mìmì quán shēncáng zài dìxià. Láizì nánbù shānqū de fēngpèi yǔshuǐ shènrù shíhuīyán róngdòng, zài hēi'àn yōushēn de dìxià ànhé zhōng huìjù bēnliú shùshí lǐ. Dāng zhè gǔ pángdà de dìxià qiánliú yùdào yánjiāngyán de zǔdǎng shí, biàn zài qiángdà de shuǐyā xià pēnbó ér chū, xíngchéng le qílì de quánqún. | The secret of Jinan's springs is buried deep underground. Mountain rain filters into karst caves, flowing for miles in subterranean rivers. Blocked by igneous rock, immense subterranean currents burst out under pressure, forming gorgeous springs. | El secreto de Jinan yace en las entrañas de la tierra. La lluvia de los montes se infiltra en cavernas cársticas recorriendo ríos subterráneos. Al topar con barreras ígneas, el caudal brota a presión alumbrando manantiales prodigiosos.
+  #2 | 在特大城市地下空间综合开发利用过程中，建立高精度地下三维地质信息模型是规避施工风险的前提。通过雷达探测与重力勘探技术，工程师能够查明地下管线分布与地质断层隐患，保障深基坑工程的安全推进。 | Zài tèdà chéngshì dìxià kōngjiān zōnghé kāifā lìyòng guòchéng zhōng, jiànlì gāojīngdù dìxià sānwéi dìzhì xìnxī móxíng shì guībì shīgōng fēngxiǎn de qiántí. Tōngguò léidá tàncè yǔ zhònglì kāntàn jìshù, gōngchéngshī nénggòu chámíng dìxià guǎnxiàn fēnbù yǔ dìzhì duàncéng yǐnhuàn, bǎozhàng shēnjīkēng gōngchéng de ānquán tuījìn. | In megacity underground development, building high-precision 3D subterranean geological models is vital to mitigating construction risks. Radar and gravity exploration map subterranean utilities and faults, securing deep excavation works. | En el aprovechamiento del subsuelo metropolitano, los modelos geológicos tridimensionales son básicos para mitigar riesgos. El georradar detecta canalizaciones subterráneas y fallas, afianzando la seguridad de las cimentaciones profundas.

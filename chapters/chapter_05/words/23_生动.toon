@@ -1,0 +1,63 @@
+id: 23
+hanzi: 生动
+pinyin: shēng dòng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: lively; vivid; graphic; full of life and vitality
+  es: vivo; vívido; animado; gráfico; lleno de vitalidad
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | possessing vibrant vitality, rich visual expression, or engaging narrative energy | vivo; animado; lleno de dinamismo y expresividad gráfica | 生动的画面 (a vivid scene)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉池底翻滚冒泡的泉花此起彼伏，如群鱼戏水，呈现出一幅极其生动自然的动态画卷。 | Bàotūquán chídǐ fāngǔn màopào de quánhuā cǐqǐbǐfú, rú qúnyú xìshuǐ, chéngxiàn chū yì fú jíqí shēngdòng zìrán de dòngtài huàjuàn. | Bubbling plumes at Baotu Spring rise one after another like playful fish, presenting an extraordinarily vivid and natural moving tapestry. | Las burbujas que borbotan en el manantial Baotu emergen sin cesar como peces jugando, ofreciendo una estampa dinámica, viva y natural.
+  #2 | 教授用生动幽默的事例深入浅出地讲解枯燥的经济学原理，赢得了全场学生的热烈掌声。 | Jiàoshòu yòng shēngdòng yōumò de shìlì shēnrùqiǎnchū de jiǎngjiě kūzào de jīngjìxué yuánlǐ, yíngdé le quánchǎng xuéshēng de rèliè zhǎngshēng. | The professor used vivid, humorous real-life anecdotes to explain dry economic principles simply, winning enthusiastic applause. | El profesor recurrió a ejemplos vívidos y amenos para explicar con llaneza arduos principios económicos, cosechando calurosos aplausos.
+
+collocations[6]{hanzi,en}:
+  生动的描写 | vivid description / portrayal
+  生动的例子 | lively example / engaging case
+  生动的画面 | vivid scene / graphic picture
+  表现得十分生动 | express very vividly
+  生动形象 | vivid and graphic
+  语言生动 | lively and expressive language
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  栩栩如生 | xǔ xǔ rú shēng | vivid and lifelike; as if alive
+  生龙活虎 | shēng lóng huó hǔ | doughty as a dragon and lively as a tiger; bursting with energy
+  绘声绘色 | huì shēng huì sè | describe with sound and color; vivid narration
+  活灵活现 | huó líng huó xiàn | lifelike; rendered with vivid realism
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  生 | shēng | live; give birth; grow; raw | nacer; vivir; crecer; crudo | 生 | grow / life | 土 (earth) | 屮 (sprout emerging) | 5 | 独体结构 | Ancient pictograph of a fresh plant sprout (屮) emerging vigorously from the fertile soil (土), signifying organic life. | A tender green plant shoot sprouts up vigorously through the dark soil, manifesting vital life (生). | Un tierno brote vegetal despunta con ímpetu sobre la tierra húmeda, encarnando la vida (生) y la frescura. | 55 | HLM | ""
+  动 | dòng | move; act; dynamic; stir | mover; actuar; movimiento; conmover | 力 | power / strength | 力 (physical strength) | 云 (cloud / phonetic simplified from 重) | 6 | 左右结构 | Phono-semantic compound where 力 indicates energetic exertion of muscular power to set objects into dynamic motion. | Powerful strength (力) stirs underneath, moving clouds across the sky with dynamic motion (动). | Una fuerza arrolladora (力) despierta desde el interior, agitando las nubes con dinámico movimiento (动). | 51 | MIMS | 動
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Fresh life sprouting from soil (生) set into kinetic motion by strength (动) produces a vivid and lively reality.
+  composite_memory_hook_es: La vida que brota de la tierra (生) impulsada por la fuerza (动) engendra una realidad vívida y animada.
+  cultural_and_cognitive_roots: In Chinese art criticism (六法), 'qìyùn shēngdòng' (气韵生动 - spiritual vitality and lively resonance) is the supreme canon of aesthetic excellence, requiring artworks to pulsate with living rhythm.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'shēng' (55) followed by sharp falling 4th tone 'dòng' (51). Clean transition from level to dropping pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    产 | chǎn | produce; yield | Has 文 variant on top, whereas 生 is a pure pictographic shoot
+    幼 | yòu | young; infant | Has 幺 (tiny) next to 力 instead of 云 in 动
+    劫 | jié | rob; disaster | Has 去 (go) next to 力 instead of 云
+    劝 | quàn | advise; urge | Has 又 (again) next to 力 instead of 云
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    活 | huó | alive; live; flexible
+    跃 | yuè | leap; jump; vibrant
+    活泼 | huópo | lively; vivacious
+    灵 | líng | nimble; spirit; quick
+
+semantic_boundary_contrasts:
+  core_nuance: 生动 describes narratives, depictions, artistic expressions, or visual scenes that are lively, vivid, and full of natural vitality.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 生动 vs. 活泼 | huópo | 生动 describes speeches, writings, artistic depictions, or visual spectacles, whereas 活泼 describes bubbly personality, children, or casual lively atmospheres.
+    2 | 生动 vs. 逼真 | bīzhēn | 生动 highlights emotional vitality, expressive resonance, and lively spirit, while 逼真 emphasizes strict visual verisimilitude and photographic fidelity.
+    3 | 生动 vs. 形象 | xíngxiàng | 生动 stresses kinetic vitality and engaging expressiveness, whereas 形象 means graphic, concrete, or functioning as a tangible metaphor.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的泉水不仅形态万千，更因其永不停歇的喷涌而显得格外生动。泉水翻滚时激起的浪花与水雾，在青石与古柳间流淌成灵动的画卷。漫步其间，你能真切感受到大自然赋予这座古老城市的勃勃生机。 | Jǐnán de quánshuǐ bùjǐn xíngtài wànqiān, gèng yīn qí yǒng bù tíngxiē de pēnyǒng ér xiǎnde géwài shēngdòng. Quánshuǐ fāngǔn shí jīqǐ de lànghuā yǔ shuǐwù, zài qīngshí yǔ gǔliǔ jiān liútǎng chéng língdòng de huàjuàn. Mànbù qíjiān, nǐ néng zhēnqiè gǎnshòu dào dàzìrán fùyǔ zhè zuò gǔlǎo chéngshì de bóbó shēngjī. | Jinan's springs are not only manifold in form, but appear exceptionally vivid through endless surging. Splashing plumes and mist flow between rocks and willows like a living tapestry, showcasing nature's vibrant vitality. | Los manantiales de Jinan no solo asombran por sus mil formas, sino que lucen vivaces por su borbotar perenne. Espumas y brumas fluyen entre sauces y piedras como un tapiz vivo que irradia la pujante energía de la naturaleza.
+  #2 | 在数字媒体艺术创作中，三维实时渲染引擎为文化遗产的数字化重现提供了生动逼真的视觉表现力。通过精确模拟真实光影与水流粒子动力学，古代名泉的喷涌奇观得以在虚拟展馆中重获新生，吸引了年轻受众。 | Zài shùzì méitǐ yìshù chuàngzuò zhōng, sānwéi shíshí xuànrǎn yǐnqíng wèi wénhuà yíchǎn de shùzìhuà chóngxiàn tígōng le shēngdòng bīzhēn de shìjué biǎoxiànlì. Tōngguò jīngquè mónǐ zhēnshí guāngyǐng yǔ shuǐliú lìzǐ dònglìxué, gǔdài míngquán de pēnyǒng qíguān déyǐ zài xūnǐ zhǎnguǎn zhōng chónghuò xīnshēng, xīyǐn le niánqīng shòuzhòng. | In digital media arts, 3D real-time rendering engines render cultural heritage with vivid, lifelike fidelity. Accurately simulating fluid dynamics, ancient springs revive in virtual galleries, engaging younger audiences. | En la creación digital interactiva, los motores 3D aportan un dinamismo visual vivo y realista al patrimonio. Al simular la hidrodinámica y luces con precisión, los antiguos manantiales renacen virtualmente seduciendo al público joven.

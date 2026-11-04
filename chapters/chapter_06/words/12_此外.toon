@@ -1,0 +1,65 @@
+id: 12
+hanzi: 此外
+pinyin: cǐ wài
+level: HSK 5
+part_of_speech: Conjunction
+
+meanings_summary:
+  en: besides; in addition; furthermore; moreover
+  es: además; aparte de esto; asimismo; por otra parte
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Conjunction | Formal | introducing additional facts, considerations, or items complementing what has already been stated | además; por añadidura; aparte de lo anterior | 除夕吃年夜饭，此外还要守岁 (eating reunion dinner on New Year's Eve, in addition to staying up late)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了准备除夕晚宴，外公买了一条象征年年有余的大鲤鱼；此外，他还特意蒸了一笼香甜的热年糕。 | Wèile zhǔnbèi Chúxī wǎnyàn, wàigōng mǎi le yì tiáo xiàngzhēng niánnián-yǒuyú de dà lǐyú; cǐwài, tā hái tèyì zhēng le yì lóng xiāngtián de rè niángāo. | In preparation for the New Year's Eve banquet, maternal grandfather bought a large carp symbolizing surplus year after year; furthermore, he specifically steamed a basket of sweet, hot rice cakes. | Para preparar el banquete de nochevieja, el abuelo materno compró una gran carpa que simboliza la abundancia continua; además, preparó al vapor una cesta de pastel de arroz dulce y caliente.
+  #2 | 本季度新产品在线上渠道销量增长显著；此外，公司海外供应链的优化也大幅降低了跨国物流运营成本。 | Běn jǐdù xīn chǎnpǐn zài xiànshàng qúdào xiàoliàng zēngzhǎng xiǎnzhù; cǐwài, gōngsī hǎiwài gōngyìngliàn de yōuhuà yě dàfú jiàngdī le kuàguó wùliú yùnyíng chéngběn. | In this quarter, sales of the new product across online channels grew significantly; moreover, optimizing the company's overseas supply chain substantially cut multinational logistics operating costs. | En este trimestre, las ventas del nuevo producto en canales digitales crecieron notablemente; por otra parte, la optimización de la cadena de suministro internacional redujo sustancialmente los costes logísticos transfronterizos.
+
+collocations[6]{hanzi,en}:
+  此外还有 | in addition there are; moreover there is
+  此外值得一提 | furthermore it is worth mentioning
+  此外应当注意 | moreover one should pay attention to
+  此外别无他法 | besides this there is no other way
+  此外更重要的是 | furthermore what is more important is
+  除去此外 | besides this; apart from this
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  由此及彼 | yóu cǐ jí bǐ | proceed from this to that; deduce one thing from another
+  喜出望外 | xǐ chū wàng wài | overjoyed beyond expectations; pleased beyond measure
+  逍遥法外 | xiāo yáo fǎ wài | remain at large; flout the law and escape justice
+  此起彼伏 | cǐ qǐ bǐ fú | rise and fall in succession; as one falls another rises
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  此 | cǐ | this; these; here | este; esta; esto; aquí | 止 | stop / footstep | 止 (foot planted on the ground, indicating 'this spot') | 匕 (bǐ / person standing right here) | 6 | 左右结构 | Ancient ideogram combining 止 (foot stepping to a halt) and 匕 (a person standing nearby). Marks the exact place or matter right before oneself: 'this'. | Halting one's feet (止) right beside a person (匕) to point firmly at this exact place and matter (此). | Detener los pies (止) al lado de una persona (匕) para señalar con firmeza este preciso lugar o asunto (此). | 214 | YMP | 此
+  外 | wài | outer; outside; beyond; foreign | exterior; fuera; más allá; ajeno | 夕 | evening / crescent moon | 夕 (evening / nightfall) | 卜 (bǔ, divination crack / phonetic affinity) | 5 | 左右结构 | Combines 夕 (evening) and 卜 (divination). Divination took place by day; conducting divination at nightfall (夕) was outside the normal ritual boundary, giving the sense of beyond or exterior. | Gazing at the crescent moon at dusk (夕) while casting divination sticks (卜) outside the city walls. | Contemplar la luna creciente al atardecer (夕) mientras se consulta el oráculo (卜) fuera de las murallas de la ciudad. | 51 | NY | 外
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Standing right at this point (此) and looking beyond the outer boundary (外), you discover what lies in addition (此外).
+  composite_memory_hook_es: Situado en este punto (此) y mirando más allá del límite exterior (外), descubres lo que se añade además (此外).
+  cultural_and_cognitive_roots: Formed from the classical demonstrative pronoun 此 ('this') and the locative 外 ('outside/beyond'). In formal discourse, 此外 operates as a transition conjunctive marking additive rhetorical progression, bridging existing arguments with supplemental supporting points.
+  tone_sandhi_and_pitch_modulation: Low dipping 3rd tone 'cǐ' (214) followed by falling 4th tone 'wài' (51). When 3rd tone precedes 4th tone, 'cǐ' changes to half-third tone (21), dropping low without rising, before launching straight into the sharp falling 4th tone (51).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    些 | xiē | some; a few | Has 此 on top of 二
+    柴 | chái | firewood | Has 此 on top of 木
+    处 | chù | place; department | Has 夂 (stride) with 卜 inside instead of 夕 with 卜
+    处 | chǔ | to get along with; reside | Same character with different tone, easily confused visually with 外
+    扑 | pū | rush upon; flutter | Has hand radical 扌 on the left of 卜 instead of 夕
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    另外 | lìngwài | in addition; besides; other
+    而且 | érqiě | moreover; and also; furthermore
+    况且 | kuàngqiě | moreover; besides; furthermore
+    乃至 | nǎizhì | even to the extent of; and even
+    甚而 | shèn'ér | so much that; even
+
+semantic_boundary_contrasts:
+  core_nuance: 此外 is a formal additive conjunction that introduces supplemental information or another category beyond what has already been covered.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 此外 vs. 另外 | lìngwài | 此外 is more formal and primarily functions as an additive sentence-initial conjunction (in addition / furthermore), whereas 另外 is used in both speech and writing and can function as a determiner modifying nouns directly (e.g. 另外三个人).
+    2 | 此外 vs. 而且 | érqiě | 此外 introduces a separate, parallel category or supplementary detail outside the current scope, whereas 而且 indicates step-by-step rhetorical escalation and closer cohesion within the same premise (not only... but also).
+    3 | 此外 vs. 况且 | kuàngqiě | 此外 neutrally appends extra facts, whereas 况且 introduces a supplementary rhetorical justification or clinching reason that further validates an argument or decision.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕的风俗不仅承载着驱邪祈福的心愿，更凝聚着中国人对团圆的执着追寻。全家人围坐一起包饺子、守岁迎新；此外，门前张贴的春联与窗花，也将新春的祥和与温暖渲染得淋漓尽致。 | Chúxī de fēngsú bùjǐn chéngzài zhe qūxié-qífú de xīnyuàn, gèng níngjù zhe Zhōngguórén duì tuányuán de zhízhuó zhuīxún. Quánjiā rén wéizuò yìqǐ bāo jiǎozi, shǒusuì yíngxīn; cǐwài, ménqián zhāngtiē de chūnlián yǔ chuānghuā, yě jiāng xīnchūn de xiánghé yǔ wēnnuǎn xuànrǎn de línlí-jìnzhì. | The customs of New Year's Eve not only carry wishes to dispel evil and pray for blessings, but also embody the Chinese people's devoted pursuit of reunion. The entire family sits together making dumplings and seeing the old year out; furthermore, Spring Festival couplets and paper-cuts pasted on doors render the peace and warmth of spring most vividly. | Las costumbres de nochevieja no solo encarnan el deseo de alejar males y pedir bendiciones, sino también el profundo anhelo de unión familiar. Todos se sientan a preparar ravioles y recibir el nuevo año; además, las coplas y recortes de papel en las puertas realzan con vivacidad la armonía primaveral.
+  #2 | 在现代企业管理体系中，精细化的成本管控与敏锐的市场洞察是保持竞争力的支柱；此外，构建健康开放的团队文化与持续的技术创新能力，更是决定企业能否在激烈的全球化浪潮中行稳致远的根本动力。 | Zài xiàndài qǐyè guǎnlǐ tǐxì zhōng, jīngxìhuà de chéngběn guǎnkòng yǔ mǐnruì de shìchǎng dòngchá shì bǎochí jìngzhēnglì de zhīzhù; cǐwài, gòujiàn jiànkāng kāifàng de tuánduì wénhuà yǔ chíxù de jìshù chuàngxīn nénglì, gèng shì juédìng qǐyè néngfǒu zài jīliè de quánqiúhuà làngcháo zhōng xíngwěn-zhìyuǎn de gēnběn dònglì. | In modern enterprise management systems, meticulous cost control and keen market insight are the pillars of competitiveness; furthermore, building a healthy, open team culture and sustainable technical innovation capability are the fundamental forces determining whether an enterprise can achieve steady long-term growth amidst fierce globalization. | En la gestión empresarial moderna, el riguroso control de costes y la agudeza ante el mercado sustentan la competitividad; además, cultivar una cultura de equipo abierta y una constante innovación técnica son las fuerzas decisivas para que la empresa prospere con firmeza en la marea de la globalización.

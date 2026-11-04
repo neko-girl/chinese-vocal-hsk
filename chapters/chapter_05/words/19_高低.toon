@@ -1,0 +1,64 @@
+id: 19
+hanzi: 高低
+pinyin: gāo dī
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: height; altitude; relative level; degree; pitch; after all; in any case
+  es: altura; nivel relativo; altitud; grado; tono; al fin y al cabo; de todos modos
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | relative vertical height; level of skill, quality, or price; acoustic pitch | altura relativa; altitud; nivel de calidad o precio; tono acústico | 泉水喷涌的高低 (the height of the spouting spring water)
+  2 | Adverb | Colloquial | no matter what; after all; in any event | de cualquier modo; a fin de cuentas; por fuerza | 高低得去一趟 (must go there no matter what)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着地下水位的季节性起伏，各处泉池喷涌的高低与水量大小也会发生细微的变化。 | Suízhe dìxià shuǐwèi de jìjiéxìng qǐfú, gè chù quánchí pēnyǒng de gāodī yǔ shuǐliàng dàxiǎo yě huì fāshēng xìwēi de biànhuà. | With seasonal fluctuations in the water table, the height of spouting water and volume in each spring pool shift subtly. | Al fluctuar el nivel freático según la estación, la altura de los surtidores y el caudal de cada manantial experimentan sutiles variaciones.
+  #2 | 在激烈的行业技术比拼中，参评企业高低立判，拥有自主核心芯片架构的厂商展现出压倒性优势。 | Zài jīliè de hángyè jìshù bǐpīn zhōng, cānpíng qǐyè gāodī lì pàn, yōngyǒu zìzhǔ héxīn xīnpiàn jiàgòu de chǎngshāng zhǎnxiàn chū yādǎoxìng yōushì. | In fierce industry benchmarking, the competence level among competitors became immediately apparent, with indigenous chipmakers demonstrating dominance. | En la contienda técnica sectorial, el nivel de cada empresa quedó patente de inmediato; los fabricantes de chips propios mostraron una ventaja aplastante.
+
+collocations[6]{hanzi,en}:
+  高低不平 | uneven; bumpy; undulating
+  分出高低 | determine who is superior; contest relative skill
+  声音高低 | pitch and volume of voice
+  地势高低 | elevation and topographic relief
+  高低起伏 | undulating; rising and falling
+  高低贵贱 | high and low, noble and base
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  高低起伏 | gāo dī qǐ fú | rise and fall; undulating; waving up and down
+  高瞻远瞩 | gāo zhān yuǎn zhǔ | stand high and see far; farsighted visionary outlook
+  低三下四 | dī sān xià sì | servile and obsequious; humble and lowly
+  居高临下 | jū gāo lín xià | occupy high ground and look down; commanding vantage point
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  高 | gāo | high; tall; elevated; lofty | alto; elevado; eminente | 高 | tall / high | 亠 (roof) | 口 / 冂 (elevated tower) | 10 | 上下结构 | Pictographic depiction of a multi-storied lookout tower or fortified gateway rising tall into the air. | A multi-tiered observation tower with an arched gate rises high (高) above the city battlements. | Una atalaya fortificada de varios pisos con portal arqueado se alza imponente y alta (高) sobre la muralla. | 55 | YRBR | ""
+  低 | dī | low; beneath; lower; hang down | bajo; descender; agachar | 亻 | person | 亻 (person, bowing) | 氐 (dǐ, base / low) | 7 | 左右结构 | Phono-semantic compound where person radical 亻 indicates a human bowing or lowering oneself toward the base 氐. | A humble person (亻) bows their head down toward the ground base (氐) to enter a low (低) door. | Una persona (亻) inclina con humildad la cabeza hacia el suelo (氐) para pasar por una puerta baja (低). | 55 | OHPM | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Look from the high tower (高) down to the low ground (低) to gauge the relative difference in level.
+  composite_memory_hook_es: Contempla desde la alta torre (高) hasta el suelo bajo (低) para medir el desnivel relativo.
+  cultural_and_cognitive_roots: Chinese philosophy pairs opposites (高 vs. 低) into antonymous compounds representing an entire continuum of height, social status, aesthetic quality, or relative mastery.
+  tone_sandhi_and_pitch_modulation: Dual 1st tones 'gāo dī' (55-55). Both syllables are sustained at high level pitch; avoid dropping the second syllable.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    亮 | liàng | bright; shine | Has 冖 and 几 at bottom instead of 冂 and 口 in 高
+    底 | dǐ | bottom; base | Has shelter radical 广 instead of person radical 亻
+    抵 | dǐ | resist; support | Has hand radical 扌 instead of person radical 亻
+    亭 | tíng | pavilion | Has 冖 and 丁 at bottom instead of 口 and 冂
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    深 | shēn | deep; profound
+    浅 | qiǎn | shallow; simple
+    厚 | hòu | thick; profound
+    薄 | báo | thin; flimsy
+
+semantic_boundary_contrasts:
+  core_nuance: 高低 forms an antonymous nominal compound denoting the physical height continuum, relative skill/quality rank, or acoustic pitch.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 高低 vs. 高度 | gāodù | 高低 emphasizes relative comparison or uneven variance (高低不平, 分高低), while 高度 is a precise quantitative measurement of elevation or degree of achievement.
+    2 | 高低 vs. 优劣 | yōuliè | 高低 can describe physical height, pitch, or skill, whereas 优劣 is strictly evaluative of qualitative superiority versus inferiority.
+    3 | 高低 vs. 起伏 | qǐfú | 高低 denotes static or dynamic height differences, while 起伏 emphasizes the undulating wave-like motion or fluctuating fortunes over time.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南地势南高北低，南部群山起伏，为泉水蓄积了丰沛的地下水源。漫步在古城中，随处可见高低错落的青石台阶与依势而建的泉池。泉水从高处的岩隙汩汩流下，顺着水道汇入低处的池塘，宛如一曲自然的乐章。 | Jǐnán dìshì nán gāo běi dī, nánbù qúnshān qǐfú, wèi quánshuǐ xùjī le fēngpèi de dìxià shuǐyuán. Mànbù zài gǔchéng zhōng, suíchù kějiàn gāodī cuòluò de qīngshí táijiē yǔ yī shì ér jiàn de quánchí. Quánshuǐ cóng gāochù de yánxì gǔgǔ liúxià, shùn zhe shuǐdào huìrù dīchù de chítáng, wǎnrú yì qǔ zìrán de yuèzhāng. | Jinan's topography slopes from high south to low north, with southern hills storing groundwater. Walking through the city, uneven stone steps and stepped pools appear everywhere. Springs murmur down from rock clefts into lower ponds like natural music. | La orografía de Jinan desciende de sur a norte; los montes sureños recargan los acuíferos. Escalones de piedra y estanques escalonados salpican el casco histórico; el agua cae desde las hendiduras hacia los remansos bajos con cadencia musical.
+  #2 | 在工业自动化产线中，激光测距传感器对工件表面高低平整度的检测精度达到了微米级。控制系统能实时识别微小的表面高低起伏与凹凸瑕疵，确保精密机械零部件在严苛工况下的装配精度与耐久性能。 | Zài gōngyè zìdònghuà chǎnxiàn zhōng, jīguāng cèjù chuángǎnqì duì gōngjiàn biǎomiàn gāodī píngzhěngdù de jiǎncè jīngdù dádào le wēimǐ jí. Kòngzhì xìtǒng néng shíshí shíbié wēixiǎo de biǎomiàn gāodī qǐfú yǔ āotū xiácī, quèbǎo jīngmì jīxiè língbùjiàn zài yánkē gōngkuàng xià de zhuāngpèi jīngdù yǔ nàijiǔ xìngnéng. | On automated production lines, laser sensors measure workpiece flatness and elevation down to microns. The system detects tiny surface undulations and convex/concave defects in real time, securing precision assembly under tough conditions. | En las líneas automatizadas, sensores láser miden desniveles y planitudes con precisión micrométrica. El sistema detecta diminutas ondulaciones y relieves para garantizar el ensamblaje exacto de piezas mecánicas críticas.

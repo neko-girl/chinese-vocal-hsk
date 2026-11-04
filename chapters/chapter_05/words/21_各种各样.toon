@@ -1,0 +1,64 @@
+id: 21
+hanzi: 各种各样
+pinyin: gè zhǒng gè yàng
+level: HSK 5
+part_of_speech: Idiom
+
+meanings_summary:
+  en: all kinds of; various; diverse; of every description
+  es: de todo tipo; toda clase de; variado; diverso; de toda índole
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Idiom | Standard | of every kind and description; displaying great variety in form, quality, or type | de toda índole, forma o categoría; variado y múltiple | 各种各样的泉水 (all kinds of springs)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南城内的七十二处名泉呈现出各种各样的奇妙姿态，有的如珍珠翻滚，有的如飞瀑倾泻。 | Jǐnán chéngnèi de qīshí'èr chù míngquán chéngxxiàn chū gèzhǒnggèyàng de qímiào zītài, yǒude rú zhēnzhū fāngǔn, yǒude rú fēipù qīngxiè. | The seventy-two famous springs of Jinan display all kinds of miraculous shapes, some churning like pearls, others tumbling like cascades. | Los setenta y dos manantiales célebres de Jinan muestran toda clase de posturas prodigiosas: unos hierven como perlas y otros caen en cascadas.
+  #2 | 为了满足全球消费者的个性化需求，展会上展出了各种各样融合了现代设计与传统非遗的手工艺品。 | Wèile mǎnzú quánqiú xiāofèizhě de gèxìnghuà xūqiú, zhǎnhuì shàng zhǎnchū le gèzhǒnggèyàng rónghé le xiàndài shèjì yǔ chuántǒng fēiyí de shǒugōngyìpǐn. | To satisfy global consumers' personalized demands, the expo showcased diverse handicrafts fusing modern design with traditional heritage. | Para satisfacer las demandas personalizadas, la feria expuso toda índole de artesanías que fusionan el diseño contemporáneo con el patrimonio vivo.
+
+collocations[6]{hanzi,en}:
+  各种各样的商品 | all kinds of merchandise / goods
+  各种各样的问题 | all sorts of problems / questions
+  各种各样的形状 | varied shapes and forms
+  各种各样的观点 | diverse perspectives / opinions
+  呈现各种各样 | present great variety
+  汇聚各种各样 | gather together all kinds of
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  形形色色 | xíng xíng sè sè | all kinds and shapes; of every hue and variety
+  五花八门 | wǔ huā bā mén | of wide variety; multifarious and diverse
+  千姿百态 | qiān zī bǎi tài | in thousands of postures; manifold graceful poses
+  包罗万象 | bāo luó wàn xiàng | all-inclusive; embracing everything under the sun
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  各 | gè | each; every; individual | cada; cada uno; diverso | 口 | mouth | 口 (mouth, separate voices) | 夂 (foot arriving / walking) | 6 | 上下结构 | Ideogram combining arriving feet 夂 and mouths 口, denoting different individuals arriving and speaking separately. | Different people walking (夂) arrive each voicing separate opinions with their mouths (口), showing variety (各). | Diversas personas que caminan (夂) expresan con su boca (口) pareceres distintos, reflejando diversidad (各). | 51 | HER | ""
+  种 | zhǒng | kind; type; seed; plant | clase; tipo; especie; semilla | 禾 | grain | 禾 (grain crop, botanical varieties) | 中 (zhōng, center / hit) | 9 | 左右结构 | Phono-semantic compound where grain radical 禾 indicates botanical cultivated varieties and seeds. | Harvested sheaves of grain (禾) centered (中) in the field represent distinct agricultural species and types (种). | Gavillas de cereal (禾) seleccionadas en el centro (中) representan diversas especies y variedades (种). | 214 | HDL | 種
+  样 | yàng | appearance; shape; pattern; sample | forma; modelo; apariencia; muestra | 木 | tree / wood | 木 (wood, carved patterns) | 羊 (yáng, sheep / auspicious) | 10 | 左右结构 | Phono-semantic compound where tree radical 木 indicates carved wooden molds and templates. | A wooden mold (木) carved into the likeness of a graceful sheep (羊) serves as a sample pattern (样). | Un molde de madera (木) tallado con la figura de un carnero (羊) sirve de patrón o modelo (样). | 51 | DTQ | 樣
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Each individual (各) grain variety (种) assumes each (各) distinct wooden pattern (样) to form all kinds of diverse creations.
+  composite_memory_hook_es: Cada (各) especie (种) adopta cada (各) modelo (样) distinto para crear toda clase de formas variadas.
+  cultural_and_cognitive_roots: The reduplicated ABAC four-character pattern (各...各...) reflects Chinese categorization aesthetics, emphasizing pluralistic harmony across diverse species.
+  tone_sandhi_and_pitch_modulation: Pitch contours 51-214-51-51. 'gè' drops from 51, 'zhǒng' dips in 3rd tone 214, followed by crisp falling 'gè' and 'yàng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    名 | míng | name | Has 夕 (evening) on top instead of 夂 (walk slowly) in 各
+    钟 | zhōng | bell; clock | Has metal radical 钅 next to 中 instead of grain 禾
+    伴 | bàn | companion; partner | Has person radical 亻 next to 半 instead of 木 next to 羊
+    详 | xiáng | detailed | Has speech radical 讠 next to 羊 instead of wood 木
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    类 | lèi | category; class; kind
+    式 | shì | formula; style; mode
+    品 | pǐn | article; commodity; grade
+    型 | xíng | mold; type; model
+
+semantic_boundary_contrasts:
+  core_nuance: 各种各样 emphasizes the rich multiplicity, diversity, and distinct varieties of physical objects, ideas, or methods.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 各种各样 vs. 形形色色 | xíngxíngsèsè | 各种各样 is neutral and applies universally to objects, concepts, or phenomena, whereas 形形色色 often carries a skeptical or cautionary overtone when describing people or societal strata.
+    2 | 各种各样 vs. 琳琅满目 | línlángmǎnmù | 各种各样 modifies any noun (problems, styles, goods), while 琳琅满目 specifically describes a dazzling visual array of beautiful treasures or premium merchandise.
+    3 | 各种各样 vs. 五花八门 | wǔhuābāmén | 各种各样 describes positive or neutral multiplicity, while 五花八门 emphasizes dizzying heterogeneity, sometimes implying lack of cohesion or bewildering variety.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在古城济南的泉池之间，你会惊叹于大自然的神奇造化。这里汇聚了各种各样的名泉，有的如沸水般喷涌而出，有的如珍珠般串串升腾，还有的在青石绿柳间宛转低回，交织成一幅动静相宜的水乡长卷。 | Mànbù zài gǔchéng Jǐnán de quánchí zhījiān, nǐ huì jīngtàn yú dàzìrán de shénqí zàohuà. Zhèlǐ huìjù le gèzhǒnggèyàng de míngquán, yǒude rú fèishuǐ bān pēnyǒng ér chū, yǒude rú zhēnzhū bān chuànchuàn shēngténg, háiyǒu de zài qīngshí lǜliǔ jiān wǎnzhuǎn dīhuí, jiāozhī chéng yì fú dòngjìng xiāngyí de shuǐxiāng chángjuàn. | Strolling among ancient Jinan's spring pools, one marvels at nature's artistry. Here gather all kinds of springs: some gush like boiling water, some ascend like pearls, and others murmur gently between rocks and willows. | Paseando entre los manantiales de la histórica Jinan, admira el prodigio de la naturaleza. Aquí concurre toda clase de veneros: unos hierven impetuosos, otros ascienden como perlas y otros susurran entre sauces y piedras.
+  #2 | 为了应对全球市场多元化的消费需求，跨境电商平台汇集了来自世界各地的各种各样特色商品。通过大数据智能算法与柔性供应链支持，平台能够快速响应不同区域市场的偏好变化，大幅提升了国际贸易流通效率。 | Wèile yīngduì quánqiú shìchǎng duōyuánhuà de xiāofèi xūqiú, kuàjìng diànshāng píngtái huìjí le láizì shìjiè gèdì de gèzhǒnggèyàng tèsè shāngpǐn. Tōngguò dàshùjù zhìnéng suànfǎ yǔ róuxìng gōngyìngliàn zhīchí, píngtái nénggòu kuàisù xiǎngyìng bùtóng qūyù shìchǎng de piānhào biànhuà, dàfú tíshēng le guójì màoyì liútōng xiàolǜ. | To address diversified global demand, cross-border e-commerce platforms gather diverse specialty goods from across the world. Big-data algorithms and agile supply chains enable rapid responses to preferences, boosting trade circulation. | Para responder a la demanda global diversa, el comercio electrónico transfronterizo congrega toda suerte de artículos típicos del orbe. Algoritmos inteligentes y cadenas ágiles optimizan la respuesta a tendencias, agilizando el flujo comercial internacional.

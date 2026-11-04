@@ -1,0 +1,65 @@
+id: 37
+hanzi: 自然
+pinyin: zì rán
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: nature; natural world; natural; spontaneous; of course
+  es: naturaleza; mundo natural; natural; espontáneo; por supuesto
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the physical world collectively, including plants, animals, landscapes, and phenomena; nature | la naturaleza; el mundo físico y biológico que nos rodea | 大自然的神奇造化 (the miraculous creation of Mother Nature)
+  2 | Adjective | Standard | existing in or caused by nature; not artificial, forced, or affected; natural | natural; espontáneo; no forzado ni artificial | 表情十分自然 (facial expression is very natural)
+  3 | Adverb | Standard | naturally; as a matter of course; of course | naturalmente; por supuesto; como es lógico | 只要努力，成绩自然会提高 (as long as you work hard, grades will naturally improve)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的天然名泉是大自然恩赐的瑰宝，吸引着无数热爱自然山水的游人前来探访。 | Jǐnán de tiānrán míngquán shì dàzìrán ēncì de guībǎo, xīyǐn zhe wúshù rè'ài zìrán shānshuǐ de yóurén qiánlái tànfǎng. | Jinan's natural springs are treasures bestowed by Mother Nature, attracting countless travelers who revere natural landscapes. | Los manantiales naturales de Jinan son joyas brindadas por la naturaleza que atraen a incontables amantes del paisaje montaraz.
+  #2 | 在新型生态建筑设计中，设计师巧妙引入自然采光与自然通风系统，大幅降低了建筑全周期的能耗水平。 | Zài xīnxíng shēngtài jiànzhù shèjì zhōng, shèjìshī qiǎomiào yǐnrù zìrán cǎiguāng yǔ zìrán tōngfēng xìtǒng, dàfú jiàngdī le jiànzhù quán zhōuqī de nénghào shuǐpíng. | In contemporary ecological architecture, designers ingeniously integrate natural daylighting and ventilation, slashing lifecycle energy consumption. | En la arquitectura bioclimática contemporánea, los diseñadores integran iluminación y ventilación naturales, rebajando drásticamente el consumo energético.
+
+collocations[6]{hanzi,en}:
+  大自然 | Mother Nature; the natural world
+  自然景观 | natural landscape / scenic wonder
+  自然资源 | natural resources
+  自然界 | the natural world; realm of nature
+  神情自然 | natural and relaxed expression
+  顺其自然 | let nature take its course
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大自然 | dà zì rán | Mother Nature; the natural world
+  顺其自然 | shùn qí zì rán | let nature take its course; follow the natural order
+  听其自然 | tīng qí zì rán | let things slide naturally; allow events to take their course
+  浑然天成 | hún rán tiān chéng | completely natural; flawless as if sculpted by nature
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  自 | zì | self; oneself; from; natural | uno mismo; sí mismo; desde; espontáneo | 自 | nose / self | 自 (nose, pointing to oneself) | 一 (air / breath) | 6 | 独体结构 | Ancient pictograph of a human nose (自); in Chinese gestures, one points to one's own nose to indicate 'oneself'. | Pointing with one finger to your own nose (自) instinctively indicates oneself, proceeding from one's own natural nature. | Señalarse con el dedo la propia nariz (自) indica de forma instintiva a uno mismo y lo propio y natural. | 51 | HBD | ""
+  然 | rán | so; like this; burn; suffix | así; de este modo; arder; sufijo | 灬 | fire | 犬 (dog / meat) | 灬 (fire / flames roasting) | 12 | 上下结构 | Ancient pictograph of roasting dog meat over flames 灬 (original form of 燃); extended to mean 'thus, as it is, naturally so'. | A sacrificial meat offering roasted over a crackling fire (灬) cooks just right, turning out naturally (然) perfect. | Una ofrenda de carne asada sobre el fuego ardiente (灬) se dora a punto, quedando de forma natural y perfecta (然). | 35 | BKF | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: What originates of its own self (自) and unfolds so naturally as fire cooks (然) belongs to the pure realm of nature.
+  composite_memory_hook_es: Lo que brota de sí mismo (自) y transcurre libre como arde el fuego (然) pertenece al orden de la naturaleza.
+  cultural_and_cognitive_roots: The core metaphysical concept in Laozi's Daodejing: '道法自然' (The Dao models itself on what is of itself so - spontaneous, unforced, self-actualizing reality).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'zì' (51) followed by rising 2nd tone 'rán' (35). Sharp drop transitioning into a smooth rising glide.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    白 | bái | white | Has only one horizontal line inside, whereas 自 has two
+    目 | mù | eye | Has a flat top horizontal bar without the top diagonal tick of 自
+    燃 | rán | burn; ignite | Adds fire radical 火 on the left of 然
+    熟 | shú | ripe; cooked; familiar | Has 丸 on upper right over 灬 instead of 犬 in 然
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    天 | tiān | sky; heaven; nature
+    生 | shēng | born; grow; life; natural
+    性 | xìng | nature; character; innate
+    朴 | pǔ | simple; uncarved; natural
+
+semantic_boundary_contrasts:
+  core_nuance: 自然 denotes the spontaneous physical cosmos unmanipulated by human artifice, or behavior that is genuine, relaxed, and unforced.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 自然 vs. 天然 | tiānrán | 天然 strictly describes physical objects generated entirely by nature without artificial additives or human fabrication (天然温泉), whereas 自然 covers the whole philosophical cosmos, mood, or functions as an adverb ('of course').
+    2 | 自然 vs. 当然 | dāngrán | 当然 expresses affirmative logical certainty ('of course / undeniably'), whereas 自然 as an adverb means 'naturally / as a matter of inevitable course'.
+    3 | 自然 vs. 人工 | réngōng | 自然 is spontaneous and nature-born, whereas 人工 is its direct antonym meaning artificial, synthetic, or man-made.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走在济南的老街深巷中，最打动人心的正是人与自然和谐相处的恬淡意境。古朴的四合院内泉水清流，绿藤垂柳倒映在池中，老街居民借泉水生活却不破坏泉水的纯净，生动诠释了道法自然的天人合一智慧。 | Zǒu zài Jǐnán de lǎojiē shēnxiàng zhōng, zuì dǎdòng rénxīn de zhèng shì rén yǔ zìrán héxié xiāngchǔ de tiándàn yìjìng. Gǔpǔ de sìhéyuàn nèi quánshuǐ qīngliú, lǜténg chuíliǔ dàoyìng zài chí zhōng, lǎojiē jūmín jiè quánshuǐ shēnghuó què bù pòhuài quánshuǐ de chúnjìng, shēngdòng quánshì le dàofǎzìrán de tiānrén héyī zhìhuì. | In Jinan's old alleys, what touches the heart is the serene harmony between humans and nature. Springs flow in courtyards; willows mirror in pools. Residents live with springs without spoiling purity, interpreting the wisdom of nature. | En los callejones de Jinan, conmueve la serena armonía entre ser humano y naturaleza. Manantiales riegan patios; sauces se reflejan en estanques. Los vecinos conviven con el agua sin quebrar su pureza, honrando la sabiduría ancestral.
+  #2 | 在推进国家公园体系建设与生物多样性保护过程中，遵循自然生态系统的内在演替规律是根本准则。生态保护部门坚持“自然恢复为主、人工修复为辅”的治理方针，为珍稀野生动植物营造了自由繁衍生息的原始家园。 | Zài tuījìn guójiā gōngyuán tǐxì jiànshè yǔ shēngwù duōyàngxìng bǎohù guòchéng zhōng, zūnxún zìrán shēngtài xìtǒng de nèizài yǎntì guīlǜ shì gēnběn zhǔnzé. Shēngtài bǎohù bùmén jiānchí "zìrán huìfù wéizhǔ, réngōng xiūfù wéifǔ" de zhìlǐ fāngzhēn, wèi zhēnxī yěshēng dòngzhíwù yíngzào le zìyóu fányǎn shēngxī de yuánshǐ jiāyuán. | In building national parks, adhering to ecosystems' inherent succession laws is fundamental. Conservation authorities prioritize natural regeneration over artificial intervention, safeguarding pristine habitats for rare wildlife. | En los parques nacionales, respetar las leyes de sucesión ecológica es primordial. Los conservacionistas priorizan la regeneración natural frente a la acción humana, brindando hábitats prístinos donde prospera la fauna amenazada.

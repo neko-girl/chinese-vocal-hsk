@@ -1,0 +1,63 @@
+id: 10
+hanzi: 游客
+pinyin: yóu kè
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: tourist; traveler; visitor; sightseer
+  es: turista; viajero; visitante; excursionista
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person who travels for pleasure or sightseeing; tourist | persona que viaja por placer, recreo o turismo; turista | 游客如织 (tourists flowing like woven fabric)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 金秋十月正是出游的好时节，大明湖景区游人如织，许多游客在湖边驻足拍照留念。 | Jīnqiū shíyuè zhèng shì chūyóu de hǎo shíjié, Dàmíng Hú jǐngqū yóurén rú zhī, xǔduō yóukè zài húbiān zhùzú pāizhào liúniàn. | Golden October is prime time for travel; Daming Lake scenic area is packed with crowds, and many tourists linger by the lakeside taking photos. | El dorado octubre es idóneo para viajar; el parque del lago Daming hierve de gente y muchos turistas se detienen en la orilla a tomar fotos.
+  #2 | 为应对黄金周期间暴增的游客客流，景区管理处提前启动应急预案，实施分时段预约入园制度。 | Wèi yīngduì huángjīnzhōu qījiān bàozēng de yóukè kèliú, jǐngqū guǎnlǐchù tíqián qǐdòng yìngjí yù'àn, shíshī fēnshíduàn yùyuē rùyuán zhìdù. | To cope with the surging tourist influx during Golden Week, the scenic area management launched contingency plans and timed reservation bookings. | Para atender la avalancha de turistas durante la Semana Dorada, la administración activó protocolos de contingencia e implantó reservas por turnos horarios.
+
+collocations[6]{hanzi,en}:
+  接待游客 | receive tourists / visitors
+  中外游客 | domestic and foreign tourists
+  游客如织 | crowded with tourists; tourists streaming like cloth
+  背包游客 | backpacker; budget tourist
+  游客服务中心 | tourist service center
+  限制游客数量 | cap visitor numbers; limit tourist capacity
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  游山玩水 | yóu shān wán shuǐ | tour scenic mountains and waters; travel for recreation
+  宾客如云 | bīn kè rú yún | guests gathering like clouds; packed with visitors
+  反客为主 | fǎn kè wéi zhǔ | reverse guest and host; turn the tables to take the initiative
+  客随主便 | kè suí zhǔ biàn | a guest conforms to the host's arrangements
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  游 | yóu | swim; roam; travel; tour | nadar; vagar; viajar; recorrer | 氵 | water | 氵 (water, swimming) | 斿 (floating banner / child) | 12 | 左右结构 | Phono-semantic compound where water radical 氵 indicates floating/swimming freely, extending to leisurely travel. | Water droplets (氵) sparkle as a traveler with a fluttering banner (斿) wanders freely on a scenic tour (游). | Gotas de agua (氵) brillan mientras un viajero con estandarte (斿) deambula libremente de excursión (游). | 35 | EYSD | 遊
+  客 | kè | guest; visitor; passenger; customer | huésped; invitado; viajero; cliente | 宀 | roof | 宀 (shelter / home) | 各 (each / arrival) | 9 | 上下结构 | Ideogram combining roof 宀 (home) and 各 (each person arriving): someone arriving from afar to stay under another's roof. | A traveler arrives from elsewhere (各) and steps under your roof (宀) as a welcoming guest (客). | Un viajero llega de lejos (各) y se cobija bajo tu tejado (宀) recibido como apreciado huésped (客). | 51 | JHER | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A traveler roaming freely across waters (游) enters under your roof as an honored guest (客) and tourist.
+  composite_memory_hook_es: Quien recorre libremente las aguas (游) se cobija bajo tu tejado como huésped y turista (客).
+  cultural_and_cognitive_roots: In ancient Chinese hospitality ethics, 'kè' (guest) embodies mutual respect between home and traveler. Coupled with 'yóu' (leisurely wandering), it represents the modern recreational traveler.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'yóu' (35) followed by sharp falling 4th tone 'kè' (51). Clear pitch transition from 35 up to 51 down.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    放 | fàng | release; put | Has 方 (square) on left and 攵 (tap) on right, lacking water radical 氵
+    族 | zú | clan; ethnic group | Has 方 (direction) and 矢 (arrow), unrelated to 游
+    容 | róng | hold; tolerate; face | Has 谷 (valley) under 宀 instead of 各 (each)
+    洛 | luò | river name; Luoyang | Has water radical 氵 before 各 instead of roof 宀
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    旅 | lǚ | travel; journey; brigade
+    宾 | bīn | guest; visitor; entertain
+    行 | xíng | walk; journey; act
+    观 | guān | look; watch; sight
+
+semantic_boundary_contrasts:
+  core_nuance: 游客 refers specifically to leisure travelers or sightseers visiting scenic spots or cultural monuments.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 游客 vs. 旅客 | lǚkè | 游客 specifically travels for recreation and sightseeing, whereas 旅客 denotes any passenger on transit, trains, or staying in hotels for any reason.
+    2 | 游客 vs. 顾客 | gùkè | 游客 visits tourist spots for enjoyment, whereas 顾客 refers to commercial shoppers and paying patrons in retail stores.
+    3 | 游客 vs. 观光客 | guānguāngkè | 观光客 is a slightly more formal, bookish synonym often used in statistical tourism reports and cross-border travel briefs.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走在济南古城的老街巷中，随处可见驻足流连的游客。他们有的在黑虎泉畔捧起一碗泉水细细品味，有的在垂柳依依的河边静静写生。在这座慢节奏的城市里，每一位远道而来的游人都能找到心灵的寄托。 | Zǒu zài Jǐnán gǔchéng de lǎojiē xiàng zhōng, suíchù kějiàn zhùzú liúlián de yóukè. Tāmen yǒude zài Hēihǔquán pàn pěngqǐ yì wǎn quánshuǐ xìxì pǐnwèi, yǒude zài chuíliǔ yīyī de hébiān jìngjìng xiěshēng. Zài zhè zuò màn jiézòu de chéngshì lǐ, měi yí wèi yuǎndào'érlái de yóurén dōu néng zhǎodào xīnlíng de jìtuō. | Walking through Jinan's old alleys, lingered tourists appear everywhere. Some cup bowls of fresh spring water by Black Tiger Spring to savor slowly; others quietly sketch beside weeping willows. In this leisurely city, every traveler finds solace. | En los callejones antiguos de Jinan, turistas extasiados pueblan cada rincón. Unos beben agua pura junto al manantial del Tigre Negro; otros dibujan sauces junto al cauce. En esta urbe sosegada, cada visitante forastero halla un remanso de paz.
+  #2 | 随着全域旅游理念的普及，传统以观光打卡为主的走马观花模式，正加速向深度文化体验转变。现在的游客更看重目的地的历史文脉、特色餐饮与非遗互动，倒逼文旅行业推动产品迭代，提供精细化服务。 | Suízhe quányù lǚyóu lǐniàn de pǔjí, chuántǒng yǐ guānguāng dǎkǎ wéizhǔ de zǒumǎguānhuā móshì, zhèng jiāsù xiàng shēndù wénhuà tǐyàn zhuǎnbiàn. Xiànzài de yóukè gèng kànzhòng mùdìdì de lìshǐ wénmài, tèsè cānyǐn yǔ fēiyí hùdòng, dàobī wénlǚ hángyè tuīdòng chǎnpǐn diédài, tígōng jīngxìhuà fúwù. | As holistic tourism spreads, superficial sightseeing gives way to deep cultural immersion. Modern tourists prioritize heritage, local gastronomy, and craft workshops, prompting tourism operators to iterate products and refine services. | Con el turismo integral, las visitas superficiales dan paso a la inmersión cultural. El turista actual valora el arraigo histórico, la gastronomía y las tradiciones vivas, forzando al sector a sofisticar sus propuestas y su atención.

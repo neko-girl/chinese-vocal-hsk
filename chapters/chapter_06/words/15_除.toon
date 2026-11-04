@@ -1,0 +1,67 @@
+id: 15
+hanzi: 除
+pinyin: chú
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to get rid of; to eliminate; to remove; except; to divide (math)
+  es: eliminar; quitar; suprimir; excepto; dividir (matemáticas)
+
+senses[4]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to get rid of, remove, or eradicate pests, obstacles, or evil | eliminar; quitar; suprimir plagas, peligros o males | 扫除垃圾 (sweep away garbage)
+  2 | Preposition | Standard | except; besides (usually paired with 以外 or 了) | excepto; aparte de; además de | 除了他大家都来了 (everyone came except him)
+  3 | Verb | Standard | to divide in arithmetic (mathematical division) | dividir en aritmética | 八除以二等于四 (eight divided by two equals four)
+  4 | Verb | Literary | to cast off old things and welcome the new; to step down from a term | desterrar lo viejo y dar paso a lo nuevo; renovar | 除夕 (New Year's Eve - getting rid of the old year)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕这天，全家人一起彻底清扫房屋以除旧迎新，寄托了扫除霉运、迎来崭新希望的美好愿景。 | Chúxī zhè tiān, quánjiā rén yìqǐ chèdǐ qīngsǎo fángwū yǐ chújiù-yíngxīn, jìtuō le sǎochú méiyùn, yínglái zhǎnxīn xīwàng de měihǎo yuànjǐng. | On New Year's Eve, the entire family thoroughly cleans the house to discard the old and welcome the new, embodying wishes to sweep away bad luck and usher in fresh hope. | El día de nochevieja, toda la familia limpia la casa a fondo para despedir lo viejo y recibir lo nuevo, expresando el deseo de barrer la mala fortuna y dar la bienvenida a renovadas esperanzas.
+  #2 | 企业重组方案除了精简行政冗员之外，更着力于破除内部部门壁垒，全面提升跨部门协同与决策效率。 | Qǐyè chóngzǔ fāng'àn chúle jīngjiǎn xíngzhèng rǒngyuán zhīwài, gèng zhuólì yú pòchú nèibù bùmén bìlěi, quánmiàn tíshēng kuà-bùmén xiétóng yǔ juécè xiàolǜ. | In addition to trimming redundant administrative staff, the corporate restructuring plan focused on breaking down internal departmental silos and comprehensively elevating cross-departmental synergy and decision efficiency. | Además de reducir el exceso de personal administrativo, el plan de reestructuración empresarial se centró en derribar las barreras departamentales internas y elevar de manera integral la sinergia y la eficiencia en la toma de decisiones.
+
+collocations[6]{hanzi,en}:
+  除去 | remove; eliminate; except
+  根除 | eradicate; uproot
+  除旧迎新 | ring out the old and bring in the new
+  除夕之夜 | the night of New Year's Eve
+  破除障碍 | overcome barriers; smash obstacles
+  除了...以外 | except for; besides
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  除暴安良 | chú bào ān liáng | suppress the violent and pacify the good citizens
+  斩草除根 | zhǎn cǎo chú gēn | cut weeds and dig up roots; eradicate evil completely
+  除旧迎新 | chú jiù yíng xīn | bid farewell to the old and usher in the new
+  兴利除弊 | xīng lì chú bì | promote what is beneficial and abolish what is harmful
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  除 | chú | eliminate; remove; except; divide; New Year's Eve | eliminar; quitar; excepto; dividir; víspera de año nuevo | 阝 | mound / hill / earthen step | 阝 (阜 fù, earthen mound or ascending steps) | 余 (yú, surplus / cottage / phonetic) | 9 | 左右结构 | Phono-semantic compound. Originally depicted palace stone steps (阝/阜) leading up to a hall. As one ascended step by step, the previous steps were left behind and passed, extending semantically to passing away of old time (除夕), removing/clearing away obstacles, and mathematical dividing. | Ascending palace earthen stairs (阝) past a cottage (余), leaving the old steps behind to eliminate (除) past troubles. | Subir por unas escalinatas de tierra (阝) junto a una cabaña (余), dejando atrás los peldaños viejos para eliminar (除) las penas pasadas. | 35 | NLOMD | 除
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Stepping up the palace terrace (阝) leaves behind all surplus troubles (余) to eliminate (除) the past and welcome a clean new year.
+  composite_memory_hook_es: Al subir las escalinatas (阝), uno deja atrás las cargas sobrantes (余) para eliminar (除) lo viejo y recibir el nuevo año.
+  cultural_and_cognitive_roots: In the festival name 除夕 (New Year's Eve), 除 signifies 'clearing away the old year' (除旧布新). Ancient Chinese cultural cognition views time cyclically: only by thoroughly cleaning the home, paying debts, and driving out the monster Nian can space be cleared for positive cosmic fortune in the spring.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'chú' (35). The pitch starts in the middle range (3) and glides smoothly up to the top (5). When paired with 4th tone (除旧 chújiù) or 1st tone (除夕 chúxī), maintain a resonant rising melody.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    徐 | xú | slowly; gentle; surname Xu | Has step radical 彳 on the left of 余 instead of 阝
+    涂 | tú | apply; smear; mud | Has water radical 氵 on the left of 余
+    途 | tú | way; route; road | Has walking radical 辶 around 余
+    斜 | xié | slanting; oblique | Has 余 on the left and peck radical 斗 on the right
+    叙 | xù | narrate; chat | Has 余 on the left and task radical 又 on the right
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    扫 | sǎo | sweep; clear away
+    祛 | qū | dispel; drive away
+    剔 | tī | pick out; scrape away
+    去 | qù | leave; discard; remove
+    逐 | zhú | chase away; expel
+
+semantic_boundary_contrasts:
+  core_nuance: 除 focuses on eliminating or clearing away undesirable elements, leaving aside exceptions, or the passing of cyclical time.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 除 vs. 去 | qù | 除 is a transitive verb meaning to eradicate, clear away, or remove an obstacle or disease (often combined as 消除、除去), whereas 去 is a general motion verb (to go) or directional particle (away), requiring compounding (如 去除、去掉) to specifically denote elimination.
+    2 | 除 vs. 减 | jiǎn | 除 in arithmetic denotes division (partitioning into equal parts) and in general usage means eradicating or setting aside, whereas 减 specifically denotes arithmetic subtraction or decreasing quantity and intensity.
+    3 | 除 vs. 免 | miǎn | 除 implies active sweeping away, clearing, or exterminating impurities or obstacles (e.g. 除草、除害), whereas 免 refers to granting exemption, waiving obligations, or averting an impending negative outcome (e.g. 免费、免除处分).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 爆竹声中一岁除，春风送暖入屠苏。在传统文化中，“除”不仅是扫除庭院积尘的劳作，更是告别过往坎坷、重塑内心的仪式。辞旧迎新的时刻，我们扫除心头的浮躁，满怀希冀地奔向崭新的岁月。 | Bàozhú shēng zhōng yí suì chú, chūnfēng sòng nuǎn rù túsū. Zài chuántǒng wénhuà zhōng, "chú" bùjǐn shì sǎochú tíngyuàn jīchén de láozuò, gèng shì gàobié guòwǎng kǎnkě, chóngsù nèixīn de yíshì. Cíjiù-yíngxīn de shíkè, wǒmen sǎochú xīntóu de fúzào, mǎnhuái xījì de bēnxiàng zhǎnxīn de suìyuè. | Amidst the sound of firecrackers, the old year departs; spring breezes convey warmth into the spiced Tusu wine. In traditional culture, 'chú' is not merely the labor of sweeping away courtyard dust, but a spiritual ritual of bidding farewell to past hardships and reshaping the soul. As we see out the old and embrace the new, we sweep away inner restlessness, heading eagerly toward fresh years. | Entre el estruendo de petardos se despide el año viejo, y la brisa primaveral entibia el vino tusu. En la cultura tradicional, 'chú' no es solo barrer el polvo del patio, sino un rito espiritual para despedir sinsabores pasados y renovar el interior. Al dejar atrás lo viejo y abrazar lo nuevo, disipamos inquietudes, avanzando con ilusión hacia nuevos tiempos.
+  #2 | 深化行政体制改革的核心在于破除体制机制障碍，除了下放审批权限外，更需健全权责清单制度。唯有坚决清除阻碍市场要素自由流动的隐性壁垒，才能充分激发全社会创新创造活力，推动经济实现高质量发展。 | Shēnhuà xíngzhèng tǐzhì gǎigé de héxīn zàiyú pòchú tǐzhì jīzhì zhàng'ài, chúle xiàfàng shěnpī quánxiàn wài, gèng xū jiànquán quánzé qīngdān zhìdù. Wéiyǒu jiānjué qīngchú zǔ'ài shìchǎng yàosù zìyóu liúdòng de yǐnxìng bìlěi, cáinéng chōngfèn jīfā quán-shèhuì chuàngxīn chuàngzào huólì, tuīdòng jīngjì shíxiàn gāozhìliàng fāzhǎn. | The core of deepening administrative reform lies in breaking institutional barriers; beyond decentralizing approval authorities, it is necessary to refine power and responsibility list systems. Only by firmly eliminating invisible barriers that hinder the free flow of market factors can the innovative vitality of society be fully unleashed, driving high-quality economic development. | El núcleo de la reforma administrativa radica en derribar trabas institucionales; además de delegar trámites de aprobación, se requiere perfeccionar el inventario de competencias. Solo derribando barreras invisibles a la libre circulación de factores de mercado se dinamizará la creatividad colectiva impulsando un desarrollo económico de calidad.

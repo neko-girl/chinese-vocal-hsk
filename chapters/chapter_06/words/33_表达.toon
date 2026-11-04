@@ -1,0 +1,63 @@
+id: 33
+hanzi: 表达
+pinyin: biǎo dá
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to express; to voice; to convey; to communicate
+  es: expresar; manifestar; transmitir; exteriorizar; comunicar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to convey ideas, feelings, gratitude, or intentions through spoken language, written signs, or symbolic rituals | manifestar pensamientos, afectos o gratitud mediante palabras, gestos o ritos | 表达美好的祝愿 (express wonderful wishes)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕夜给长辈拜年时，晚辈们恭敬地行礼并送上吉祥话，以此表达对长辈养育之恩的诚挚感激。 | Chúxī yè gěi zhǎngbèi bàinián shí, wǎnbèimen gōngjìng de xínglǐ bìng sòngshàng jíxiáng huà, yǐ cǐ biǎodá duì zhǎngbèi yǎngyù zhī ēn de chéngzhì gǎnjī. | When greeting elders on New Year's Eve, younger generations bow respectfully and offer auspicious words to express sincere gratitude for parental care. | Al felicitar a los mayores en Nochevieja, los jóvenes se inclinan con respeto y dedican frases propicias expresando su sincera gratitud.
+  #2 | 在多边外交谈判中，代表团通过严谨精准的声明文本，清晰表达了捍卫国家主权与核心利益的坚定立场。 | Zài duōbiān wàijiāo tánpàn zhōng, dàibiǎotuán tōngguò yánjǐn jīngzhǔn de shēngmíng wénběn, qīngxī biǎodá le hànwèi guójiā zhǔquán yǔ héxīn lìyì de jiāndìng lìchǎng. | In multilateral negotiations, the delegation articulated its firm stance on defending sovereignty and core interests through precise statements. | En las negociaciones multilaterales, la delegación expresó con firmeza su postura de defensa de la soberanía nacional mediante declaraciones precisas.
+
+collocations[6]{hanzi,en}:
+  表达感谢 | express gratitude / thanks
+  表达观点 | voice / express opinions
+  表达情感 | convey feelings / emotions
+  难以表达 | hard to express; beyond words
+  清晰表达 | express clearly
+  表达愿望 | express wishes / desires
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  言不由衷 | yán bù yóu zhōng | speak insincerely; words do not come from the heart
+  意在言外 | yì zài yán wài | meaning lies beyond words; implied subtlety
+  溢于言表 | yì yú yán biǎo | overflow beyond words; show plainly on one's face
+  畅所欲言 | chàng suǒ yù yán | speak out freely and unreservedly
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  表 | biǎo | surface; outside; express; watch | superficie; exterior; expresar; reloj | 衣 | clothing | 衣 (clothing, outer mantle) | 毛 (fur / exterior) | 8 | 上下结构 | Ancient ideogram depicting fur garments worn with the wool facing outward on the exterior, signifying manifestation. | Wearing an elegant fur coat with the lining facing outward shows what lies on the exterior to express (表) oneself. | Llevar un abrigo con el forro hacia afuera muestra al exterior la belleza para manifestar y expresar (表) la estima. | 214 | QMV | ""
+  达 | dá | reach; attain; arrive; express | alcanzar; llegar; lograr; transmitir | 辶 | walking / movement | 辶 (path / movement) | 大 (dà, big / phonetic) | 6 | 半包围结构 | Phono-semantic compound where walking radical 辶 indicates reaching a destination or conveying thoughts across a path. | Walking along the open road (辶) with confident, big strides (大) allows your ideas to reach and convey (达) effectively. | Caminar por el sendero (辶) a grandes pasos (大) permite que tus palabras lleguen y transmitan (达) el mensaje. | 35 | YK | 達
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Bring inner feelings to the exterior surface (表) and convey them across the path (达) to express your true heart.
+  composite_memory_hook_es: Lleva tus sentimientos al exterior (表) y transmítelos por el sendero (达) para expresar tu corazón.
+  cultural_and_cognitive_roots: In classical Chinese poetics, 'biǎo' brings hidden sentiment to light, while 'dá' ensures successful cognitive reception (辞达而已矣 - words need only convey the meaning).
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'biǎo' (214) followed by rising 2nd tone 'dá' (35). Smooth upward transition out of the dip.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    青 | qīng | blue/green | Has 月 below instead of 衣 contours in 表
+    袁 | yuán | surname | Has 口 inside the middle instead of 表's horizontal cross strokes
+    边 | biān | side; edge | Has 力 inside 辶 instead of 大 in 达
+    过 | guò | pass; spend | Has 寸 inside 辶 instead of 大 in 达
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    示 | shì | show; manifest; reveal
+    述 | shù | narrate; state; recount
+    陈 | chén | display; narrate; state
+    传 | chuán | pass on; transmit; convey
+
+semantic_boundary_contrasts:
+  core_nuance: 表达 specifically denotes the deliberate externalization of inner emotions, views, or intentions through language, symbols, or gestures.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 表达 vs. 表示 | biàoshì | 表达 focuses on verbal or artistic phrasing of complex thoughts, feelings, or themes (表达心意), while 表示 often means to indicate, signal, or symbolize (点头表示同意).
+    2 | 表达 vs. 表现 | biǎoxiàn | 表达 is linguistic or intentional communication of thoughts, whereas 表现 refers to behavior, performance, or natural symptoms displayed externally.
+    3 | 表达 vs. 传达 | chuándá | 表达 originates from the self externalizing feelings, whereas 传达 means relaying or transmitting messages/directives from an external third party.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 春联上的每一个金色大字，都是中华儿女对生活最深情的表达。那一副副红纸黑字的楹联，写满了对岁序更迭的由衷赞美与对家庭安康的殷切期盼。千百年来，人们正是通过这些古老形式，将血脉相连的温情代代传递。 | Chūnlián shàng de měi yí gè jīnsè dàzì, dōu shì Zhōnghuá érnǚ duì shēnghuó zuì shēnqíng de biǎodá. Nà yí fùfù hóngzhǐ hēizì de yínglián, xiěmǎn le duì suìxù gèngdié de yóuzhōng zànměi yǔ duì jiātíng ānkāng de yīnqiè qīpàn. Qiānbǎi nián lái, rénmen zhèng shì tōngguò zhèxiē gǔlǎo xíngshì, jiāng xuèmài xiānglián de wēnqíng dàidài chuándì. | Every golden character on couplets is a heartfelt expression of affection for life. Black ink on red paper overflows with praise for season shifts and hopes for family welfare, transmitting ancestral warmth across generations. | Cada trazo dorado en las coplas es una expresión entrañable de amor por la vida. La tinta sobre papel rojo celebra el fluir del tiempo y anhela la paz del hogar, transmitiendo el cariño familiar a través de las generaciones.
+  #2 | 在人机交互与情感计算领域，精准识别与数字化表达人类复杂微表情是核心攻关难点。研究团队融合多模态传感器数据与深度神经网络算法，使拟真虚拟数字人能够根据语境自然表达细微情感，显著提升了交互真实感。 | Zài rénjī jiāohù yǔ qínggǎn jìsuàn lǐngyù, jīngzhǔn shíbié yǔ shùzìhuà biǎodá rénlèi fùzá wēibiǎoqíng shì héxīn gōngguān nándiǎn. Yánjiū tuánduì rónghé duōmótài chuángǎnqì shùjù yǔ shēndù shénjīng wǎngluò suànfǎ, shǐ nǐzhēn xūnǐ shùzìrén nénggòu gēnjù yǔjìng zìrán biǎodá xìwēi qínggǎn, xiǎnzhù tíshēng le jiāohù zhēnshígǎn. | In human-computer interaction and affective computing, identifying and digitally expressing subtle micro-expressions is vital. Teams combine multimodal sensors with neural networks, enabling virtual avatars to convey nuanced emotions naturally. | En la computación afectiva, descifrar y expresar digitalmente las microexpresiones humanas es un hito de I+D. Los científicos fusionan sensores y redes neuronales para que avatares virtuales manifiesten emociones sutiles con realismo.

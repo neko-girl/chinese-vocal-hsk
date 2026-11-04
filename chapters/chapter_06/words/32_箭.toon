@@ -1,0 +1,62 @@
+id: 32
+hanzi: 箭
+pinyin: jiàn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: arrow; projectile; shaft
+  es: flecha; saeta; dardo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a pointed projectile shot from a bow; arrow | proyectil puntiagudo que se dispara con arco; flecha; saeta | 射箭 (shoot arrows / archery)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 传说中英勇的猎户手持强弓，将一支支燃烧着烈火的神箭射向年兽，彻底粉碎了怪兽的侵袭。 | Chuánshuō zhōng yīngyǒng de lièhù shǒuchí qiánggōng, jiāng yì zhīzhī ránshāo zhe lièhuǒ de shénjiàn shè xiàng Nián shòu, chèdǐ fěnsuì le guàishòu de qīnxí. | In legend, valiant hunters held strong bows, shooting flaming arrows at the Nian beast to shatter its invasion. | Según la leyenda, los valientes cazadores empuñaron recios arcos, disparando saetas flamígeras contra la bestia Nian para repeler su ataque.
+  #2 | 该校射箭俱乐部在全国大学生传统弓锦标赛中表现优异，队员们凭借精准的射术和稳定的心理素质屡创佳绩。 | Gāi xiào shèjiàn jùlèbù zài quánguó dàxuéshēng chuántǒng gōng jǐnbiāosài zhōng biǎoxiàn yōuyì, duìyuánmen píngjiè jīngzhǔn de shèshù yǔ wěndìng de xīnlǐ sùzhì lǚ chuàng jiājì. | The archery club performed outstandingly in traditional archery championships, clinching awards through precision and poise. | El club de tiro con arco brilló en el torneo universitario nacional de arco tradicional, cosechando triunfos gracias a su puntería y templanza.
+
+collocations[6]{hanzi,en}:
+  射箭 | archery; shoot an arrow
+  弓箭 | bow and arrow
+  箭在弦上 | arrow on the bowstring; ready for action
+  火箭 | rocket; spacecraft
+  一箭双雕 | shoot two hawks with one arrow; achieve two goals at once
+  箭步如飞 | stride swiftly like an arrow in flight
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  光阴似箭 | guāng yīn sì jiàn | time flies like an arrow; swift passage of time
+  箭在弦上 | jiàn zài xián shàng | the arrow is notched on the string; state of no turning back
+  一箭双雕 | yí jiàn shuāng diāo | kill two birds with one stone; shoot two vultures with one arrow
+  归心似箭 | guī xīn sì jiàn | heart eager to return like a flying arrow; homesick urgency
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  箭 | jiàn | arrow; projectile | flecha; saeta | 竹 | bamboo | 竹 (bamboo, straight shafts) | 前 (qián, forward / front / phonetic) | 15 | 上下结构 | Phono-semantic compound where bamboo radical 竹 indicates straight bamboo shafts used to craft arrows flying forward 前. | A slender bamboo shaft (竹) notched on a bow shoots straight forward (前) into the sky as a flying arrow (箭). | Una recta caña de bambú (竹) disparada con fuerza vuela hacia adelante (前) como veloz saeta (箭). | 51 | HTHN | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A straight bamboo shaft (竹) flying forward (前) with lethal speed is a sharp flying arrow (箭).
+  composite_memory_hook_es: Una caña de bambú (竹) que vuela hacia adelante (前) con certera velocidad es una veloz flecha (箭).
+  cultural_and_cognitive_roots: In ancient Chinese lore, arrows signify righteous force piercing falsehood, and the swift irreversibility of time ('guāngyīn sì jiàn' - time flies like an arrow).
+  tone_sandhi_and_pitch_modulation: Sharp falling 4th tone 'jiàn' (51). Crisp, decisive downward release imitating the flight of an arrow.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    前 | qián | front; forward | Lacks the bamboo radical 竹 on top
+    煎 | jiān | pan-fry | Has fire radical 灬 below 前 instead of bamboo 竹 on top
+    剪 | jiǎn | scissors; cut | Has knife radical 刀 below 前 instead of bamboo 竹
+    笛 | dí | bamboo flute | Has 由 under 竹 instead of 前
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    矢 | shǐ | arrow; dart; oath
+    弓 | gōng | bow; curve
+    弩 | nǔ | crossbow
+    镞 | zú | arrowhead; arrow tip
+
+semantic_boundary_contrasts:
+  core_nuance: 箭 refers specifically to a notched, fletched arrow projectile shot from a bow, or components modeled on arrow flight.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 箭 vs. 弓 | gōng | 箭 is the flying arrow projectile, whereas 弓 is the bent wooden tension bow used to launch it.
+    2 | 箭 vs. 枪 | qiāng | 箭 is an archery projectile, while 枪 refers to spears in martial arts or modern firearms and rifles.
+    3 | 箭 vs. 弹 | dàn | 箭 is a slender aerodynamic bamboo/metal shaft with fletchings, whereas 弹 is a round bullet, pellet, or explosive shell.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 岁末腊月，古老村落里响起了喧天的爆竹。人们常用“光阴似箭”来感叹岁月的匆匆流逝。那一去不复返的四季风华，正如离弦之箭般决绝而迅疾，催促着每一个游子背起行囊，踏上归心似箭的团圆旅途。 | Suìmò làyuè, gǔlǎo cūnluò lǐ xiǎngqǐ le xuāntiān de bàozhú. Rénmen cháng yòng "guāngyīnsìjiàn" lái gǎntàn suìyuè de cōngcōng liúshì. Nà yí qù bù fùfǎn de sìjì fēnghuá, zhèng rú líxiánzhījiàn bān juéjué ér xùnjí, cuīcù zhe měi yí gè yóuzǐ bēiqǐ xíngnáng, tàshàng guīxīnsìjiàn de tuányuán lǚtú. | In late winter, firecrackers sound in ancient villages. People sigh that "time flies like an arrow." Fleeting seasons rush past like arrows from bowstrings, urging every traveler to pack and hasten home for reunion. | En invierno, los petardos resuenan en las aldeas. La gente suspira al ver que el tiempo vuela como una flecha. El paso veloz de las estaciones apremia a los viajeros a emprender el anhelado regreso al hogar familiar.
+  #2 | 在现代航空航天运载火箭研制中，箭体结构轻量化与气动布局优化是决定入轨有效载荷能力的核心指标。工程师采用高强度碳纤维复合材料打造新一代火箭箭体，大幅减轻结构自重并提升了发射可靠性。 | Zài xiàndài hángkōng hángtiān yùnzài huǒjiàn yánzhì zhōng, jiàntǐ jiégòu qīngliànghuà yǔ qìdòng bùjú yōuhuà shì juédìng rùguǐ yǒuxiào zàihè nénglì de héxīn zhǐbiāo. Gōngchéngshī cǎiyòng gāoqiángdù tànxiānwéi fùhé cáiliào dǎzào xīn yídài huǒjiàn jiàntǐ, dàfú jiǎnqīng jiégòu zìzhòng bìng tíshēng le fāshè kěkàoxìng. | In aerospace launch vehicle engineering, rocket hull structural lightweighting and aerodynamic design are pivotal to payload capacity. Engineers craft fuselages from carbon composites, reducing weight and enhancing launch reliability. | En los cohetes espaciales de carga, aligerar el fuselaje y optimizar la aerodinámica son claves para la carga útil. Los ingenieros aplican compuestos de fibra de carbono, reduciendo el peso y reforzando la fiabilidad del despegue.

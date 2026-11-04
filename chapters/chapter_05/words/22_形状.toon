@@ -1,0 +1,63 @@
+id: 22
+hanzi: 形状
+pinyin: xíng zhuàng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: shape; form; appearance; configuration
+  es: forma; figura; contorno; configuración; aspecto exterior
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the external spatial contour, form, or physical appearance of an object | figura, forma exterior, perfil o configuración de un objeto | 泉池的形状各不相同 (the shapes of the spring pools are each different)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的泉池形状各异，有的大如明镜湖泊，有的小若茶盏石盂，在青翠垂柳映衬下各具韵味。 | Jǐnán de quánchí xíngzhuàng gè yì, yǒude dà rú míngjìng húpō, yǒude xiǎo ruò cházhǎn shíyú, zài qīngcuì chuíliǔ yìngchèn xià gè jù yùnwèi. | The spring pools of Jinan vary in shape; some are as vast as glassy lakes, others small as stone teacups, each possessing distinct charm. | Las pozas de los manantiales de Jinan varían de forma: unas son amplias como espejos de agua y otras diminutas como cuencos, todas llenas de encanto.
+  #2 | 该实验室通过高精度三维扫描技术，对古生物化石的几何形状与微观结构进行了数字化复原。 | Gāi shíyànshì tōngguò gāojīngdù sānwéi sǎomiáo jìshù, duì gǔshēngwù huàshí de jǐhé xíngzhuàng yǔ wēiguān jiégòu jìnxíng le shùzìhuà fùyuán. | The laboratory digitally reconstructed the geometric shapes and microstructures of prehistoric fossils using high-precision 3D scanning. | El laboratorio reconstruyó digitalmente la forma geométrica y microestructura de fósiles prehistóricos mediante escaneo tridimensional de alta precisión.
+
+collocations[6]{hanzi,en}:
+  形状各异 | varying in shape; of diverse shapes
+  规则形状 | regular geometric shape
+  不规则形状 | irregular shape
+  改变形状 | alter the shape; deform
+  几何形状 | geometric shape
+  奇特的形状 | peculiar / unique shape
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  奇形怪状 | qí xíng guài zhuàng | grotesque and bizarre shapes; fantastic contours
+  不可名状 | bù kě míng zhuàng | indescribable; beyond words to depict
+  绘声绘色 | huì shēng huì sè | vividly portrayed with sound and color
+  相映成趣 | xiāng yìng chéng qù | complement each other delightfully
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  形 | xíng | shape; form; appear; body | forma; figura; aparecer; cuerpo | 彡 | hair / bristles | 彡 (decorative strokes, contours) | 开 (kāi, frame / open) | 7 | 左右结构 | Phono-semantic compound where bristle radical 彡 depicts decorative contours etched onto a physical frame 开. | Fine aesthetic brushstrokes (彡) painted upon an open wooden frame (开) give it a defined visual shape (形). | Trazos finos de pincel (彡) dibujados sobre una estructura abierta (开) le confieren una hermosa forma (形). | 35 | MTHH | ""
+  状 | zhuàng | shape; condition; state; certificate | estado; figura; aspecto; diploma | 犬 | dog | 犬 (dog, posture / appearance) | 丬 (jiāng, bed / stand) | 7 | 左右结构 | Phono-semantic compound depicting a canine 犬 perched beside a stand 丬, displaying a distinctive physical posture or form. | A loyal hunting dog (犬) sitting alert beside a wooden stand (丬) presents a proud physical posture and shape (状). | Un leal can (犬) sentado junto a un pedestal (丬) muestra una estampa imponente y noble figura (状). | 51 | LMIK | 狀
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A framed contour (形) and the alert posture of a dog (状) together define the visible physical shape of an object.
+  composite_memory_hook_es: Un contorno perfilado (形) y la noble estampa de un can (状) definen la forma externa de un objeto.
+  cultural_and_cognitive_roots: In classical Chinese ontology, 'xíng' is the material boundary and physical envelope, while 'zhuàng' describes the dynamic outward posture or manifested condition.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'xíng' (35) followed by falling 4th tone 'zhuàng' (51). Clear contrast from rising to falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    刑 | xíng | punishment; penalty | Has knife radical 刂 on the right instead of bristles 彡
+    壮 | zhuàng | strong; robust | Has 士 (scholar) on the right instead of dog 犬 in 状
+    妆 | zhuāng | makeup | Has woman radical 女 on the right instead of 犬
+    开 | kāi | open | Lacks the right-hand radical 彡 of 形
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    态 | tài | posture; state; attitude
+    貌 | mào | appearance; facial looks
+    象 | xiàng | elephant; phenomenon; image
+    模 | mó | model; pattern; mold
+
+semantic_boundary_contrasts:
+  core_nuance: 形状 refers specifically to the external spatial outline, geometric silhouette, or bodily contour of a physical entity.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 形状 vs. 状态 | zhuàngtài | 形状 refers to external physical or geometric contour, whereas 状态 describes an ongoing internal condition, mood, or operational state (工作状态).
+    2 | 形状 vs. 样子 | yàngzi | 形状 is formal and strictly denotes spatial geometry, while 样子 is colloquial and can encompass facial expressions, manners, or general style.
+    3 | 形状 vs. 形式 | xíngshì | 形状 applies to tangible, concrete spatial outlines, whereas 形式 refers to abstract organizational formats, modalities, or artistic genres.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南泉水的奇妙，很大程度上在于泉池形状的变幻万千。有的泉池方方正正如汉玉石印，有的则蜿蜒曲折如天然溪谷。微风吹过水面，泉水随池池形状荡漾出层层清波，与岸边的石阶小桥融为一体。 | Jǐnán quánshuǐ de qímiào, hěn dà chéngdù shàng zàiyú quánchí xíngzhuàng de biànhuàn wànqiān. Yǒude quánchí fāngfāngzhèngzhèng rú hànyù shíyìn, yǒude zé wānyán qūzhé rú tiānrán xīgǔ. Wēifēng chuīguò shuǐmiàn, quánshuǐ suí chí xíngzhuàng dàngyàng chū céngcéng qīngbō, yǔ ànbiān de shíjiē xiǎoqiáo róng wéi yītǐ. | The wonder of Jinan's springs largely stems from the infinite variety of pool shapes. Some are square like jade seals, others meander like natural gorges. Wind ripples waves conforming to pool contours, blending with stone bridges. | El encanto de Jinan proviene de la variada forma de sus pozas. Unas son cuadradas como sellos de jade; otras serpentean como cañones naturales. El viento riza las aguas adaptadas a cada contorno, en armonía con los puentes de piedra.
+  #2 | 在航空航天空气动力学设计中，飞行器外形形状的微小改动都会对升阻比产生决定性影响。工程师运用超算平台进行流体动力学仿真，反复优化机翼曲面形状，力求在超音速飞行时最大程度减小阻力并提升燃油效率。 | Zài hángkōng hángtiān kōngqì dònglìxué shèjì zhōng, fēixíngqì wàixíng xíngzhuàng de wēixiǎo gǎidòng dōu huì duì shēngzǔbǐ chǎnshēng juédìngxìng yǐngxiǎng. Gōngchéngshī yùnyòng chāosuàn píngtái jìnxíng liútǐ dònglìxué fǎngzhēn, fǎnfù yōuhuà jīyì qūmiàn xíngzhuàng, lìqiú zài chāoyīnsù fēixíng shí zuìdà chéngdù jiǎnxiǎo zǔlì bìng tíshēng rányóu xiàolǜ. | In aerodynamic aerospace design, minor alterations to an aircraft's external shape decisively affect lift-to-drag ratios. Engineers run fluid simulations on supercomputers, optimizing wing contours to minimize supersonic drag and boost fuel efficiency. | En el diseño aeroespacial aerodinámico, el menor cambio en la forma exterior altera decisivamente la sustentación. Ingenieros simulan fluidos por supercomputación, afinando curvaturas alares para minimizar la resistencia supersónica y ahorrar combustible.

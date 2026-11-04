@@ -1,0 +1,63 @@
+id: 35
+hanzi: 形成
+pinyin: xíng chéng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to form; to take shape; to develop into; to evolve
+  es: formarse; tomar forma; configurarse; originarse; constituirse
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to take shape, evolve, or develop gradually through natural, historical, or social processes | tomar forma, originarse o desarrollarse gradualmente mediante procesos naturales o sociales | 形成独特的景观 (form a unique landscape)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过亿万年复杂的地质构造演变与雨水冲刷，济南最终形成了这处世所罕见的天然泉水网络。 | Jīngguò yìwàn nián fùzá de dìzhì gòuzào yǎnbiàn yǔ yǔshuǐ chōngshuā, Jǐnán zuìzhōng xíngchéng le zhè chù shì suǒ hǎnjiàn de tiānrán quánshuǐ wǎngluò. | Through hundreds of millions of years of complex geological evolution and rainfall erosion, Jinan formed this globally rare natural spring network. | Tras cientos de millones de años de evolución geológica y erosión pluvial, Jinan configuró esta excepcional red de manantiales naturales.
+  #2 | 随着区域产业集群的协同集聚与数字基础设施的完善，该高新技术开发区已经形成了涵盖全产业链的完整创新生态。 | Suízhe qūyù chǎnyè jíqún de xiétóng jíjù yǔ shùzì jīchǔ shèshī de wánshàn, gāi gāoxīnjìshù kāifāqū yǐjīng xíngchéng le hángài quán chǎnyèliàn de wánzhěng chuàngxīn shēngtài. | With coordinated clustering and digital infrastructure, the high-tech zone has formed a complete innovation ecosystem covering the whole value chain. | Con la concentración de clústeres y redes digitales, el parque de alta tecnología ha consolidado un ecosistema innovador integral en toda la cadena de valor.
+
+collocations[6]{hanzi,en}:
+  形成共识 | reach / form a consensus
+  形成风格 | develop / form a distinctive style
+  形成对比 | form a sharp contrast
+  形成规律 | form a discernible pattern / rule
+  逐步形成 | gradually take shape; evolve step by step
+  形成规模 | reach scale; achieve operational scale
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  积少成多 | jī shǎo chéng duō | many a little makes a mickle; accumulate small bits into a large sum
+  水到渠成 | shuǐ dào qú chéng | when water flows, a channel is formed; success comes naturally when conditions ripen
+  顺理成章 | shùn lǐ chéng zhāng | logical and natural; follow as a matter of course
+  浑然天成 | hún rán tiān chéng | completely natural; flawless as if crafted by nature
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  形 | xíng | shape; form; appear; structure | forma; figura; aparecer; silueta | 彡 | hair / bristles | 彡 (fine contour strokes) | 开 (kāi, frame / open) | 7 | 左右结构 | Phono-semantic compound where bristle radical 彡 depicts etched contours giving physical shape to an open frame 开. | Fine aesthetic strokes (彡) sketched on an open wooden frame (开) give physical contour and shape (形) to a concept. | Trazos finos (彡) perfilados sobre un marco abierto (开) dotan de contorno y forma (形) visible a una idea. | 35 | MTHH | ""
+  成 | chéng | succeed; accomplish; become; complete | lograr; éxito; convertirse en; completar | 戈 | dagger-axe / halberd | 戈 (weapon, military victory) | 丁/丨 (accomplishment marker) | 6 | 独体结构 | Ancient ideogram depicting wielding a ceremonial weapon 戈 to celebrate successful completion and pacification of a state. | A warrior raises his halberd (戈) in victory to celebrate completing a grand wall, marking glorious accomplishment (成). | Un guerrero alza su alabarda (戈) victorioso para celebrar la culminación de la muralla con pleno éxito (成). | 35 | IHIS | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An outlined shape (形) brought to full accomplishment (成) takes lasting form through time.
+  composite_memory_hook_es: Un contorno perfilado (形) llevado a feliz culminación (成) toma forma duradera con el tiempo.
+  cultural_and_cognitive_roots: In Chinese philosophical change theory (易经 - '成象成形'), 'xíng' is physical embodiment and 'chéng' is teleological completion; together they denote the gradual crystallization of form out of flux.
+  tone_sandhi_and_pitch_modulation: Dual rising 2nd tones: 'xíng chéng' (35-35). Glide both syllables upward smoothly without pitch dipping.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    刑 | xíng | punishment | Has knife radical 刂 instead of bristles 彡 in 形
+    戒 | jiè | guard against; warn | Has 廾 below 戈, distinct from 成
+    城 | chéng | city; wall | Adds earth radical 土 to 成
+    诚 | chéng | sincere; honest | Adds speech radical 讠 to 成
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    造 | zào | create; make; build
+    构 | gòu | construct; structure; compose
+    立 | lì | establish; stand; set up
+    化 | huà | transform; change; melt
+
+semantic_boundary_contrasts:
+  core_nuance: 形成 focuses on the natural, organic, or historical developmental process whereby elements coalesce into a defined entity or state.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 形成 vs. 构成 | gòuchéng | 形成 describes the dynamic temporal process of taking shape over time, whereas 构成 describes the static structural composition or constituent parts of an existing whole.
+    2 | 形成 vs. 造成 | zàochéng | 形成 is neutral and describes organic emergence (形成景观, 形成共识), while 造成 is transitive and usually denotes causing negative harm, damage, or accidents (造成损失).
+    3 | 形成 vs. 产成 / 生产 | shēngchǎn | 形成 is a natural or systemic evolution, whereas 生产 is active, intentional industrial or biological manufacturing.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南泉水地貌的形成是大自然历经千万年雕琢的地质奇迹。南部山区饱经风雨的石灰岩层如同巨大的天然海绵，将雨水层层过滤并积蓄于地下。在漫长的地质运动中，断层裂隙逐步形成，最终成就了泉水喷涌的灵动盛景。 | Jǐnán quánshuǐ dìmào de xíngchéng shì dàzìrán lìjīng qiānwàn nián diāozhuó de dìzhì qíjì. Nánbù shānqū bǎojīng fēngyǔ de shíhuīyáncéng rútóng jùdà de tiānrán hǎimián, jiāng yǔshuǐ céngcéng guòlǜ bìng jīxù yú dìxià. Zài màncháng de dìzhì yùndòng zhōng, duàncéng lièxì zhúbù xíngchéng, zuìzhōng chéngjiù le quánshuǐ pēnyǒng de língdòng shèngjǐng. | The formation of Jinan's spring terrain is a geological miracle carved over millions of years. Limestone in southern hills acts like a natural sponge filtering rain into aquifers. Over eras, fault fissures formed, creating surging springs. | La configuración geológica de los manantiales de Jinan es un prodigio milenario. La caliza de los montes sureños actúa como una esponja filtrando la lluvia. Con las eras, se formaron fallas que alumbraron el impetuoso y límpido borbotar de las aguas.
+  #2 | 在全球经济一体化背景下，高能级产业集群的形成往往依赖于创新链与产业链的深度融合。通过引导核心企业、高等科研院所与金融机构在特定区域高度集聚，产学研协同机制逐步形成，持续提升区域产业核心竞争力。 | Zài quánqiú jīngjì yītǐhuà bèijǐng xià, gāonéngjí chǎnyè jíqún de xíngchéng wǎngwǎng yīlài yú chuàngxīnliàn yǔ chǎnyèliàn de shēndù rónghé. Tōngguò yǐndǎo héxīn qǐyè, gāoděng kěyán yuànsuǒ yǔ jīnróng jīgòu zài tèdìng qūyù gāodù jíjù, chǎnxuéyán xiétóng jīzhì zhúbù xíngchéng, chíxù tíshēng qūyù chǎnyè héxīn jìngzhēnglì. | In the globalized economy, forming high-capacity industrial clusters depends on fusing innovation with production chains. Clustering core firms, institutes, and capital develops collaborative mechanisms that elevate regional competitiveness. | En la economía global, la formación de clústeres industriales avanzados depende de la simbiosis entre innovación y producción. Concentrar empresas, centros de I+D y capital cristaliza sinergias que elevan la competitividad regional.

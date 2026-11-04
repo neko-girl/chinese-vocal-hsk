@@ -1,0 +1,65 @@
+id: 10
+hanzi: 灾害
+pinyin: zāi hài
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: disaster; calamity; catastrophe; devastation
+  es: desastre; calamidad; catástrofe; siniestro
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an event causing extensive damage, suffering, or loss of life, resulting from natural forces or human action | desastre; calamidad; catástrofe natural o humana que provoca grandes estragos y pérdidas | 自然灾害 (natural disaster)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古代民间将年兽视为象征严冬与饥荒的凶残灾害，唯有全村老幼齐心协力方能化险为夷。 | Gǔdài mínjiān jiāng Niánshòu shìwéi xiàngzhēng yándōng yǔ jīhuāng de xiōngcán zāihài, wéiyǒu quáncūn lǎoyòu qíxīn-xiélì fāng néng huàxiǎn-wéiyí. | Ancient folk regarded the beast Nian as a vicious disaster symbolizing harsh winter and famine, which could only be overcome if all villagers united as one. | En el folclore antiguo se consideraba a la fiera Nian una calamidad feroz que personificaba el crudo invierno y el hambre, superable solo con la unión comunitaria.
+  #2 | 健全的防灾减灾救灾体制能够在气象灾害来临前迅速启动预警，从而最大程度减少人员伤亡和财产损失。 | Jiànquán de fángzāi jiǎnzāi jiùzāi tǐzhì nénggòu zài qìxiàng zāihài láilín qián xùnsù qǐdòng yùjǐng, cóng'ér zuìdà chéngdù jiǎnshǎo rényuán shāngwáng hé cáichǎn sǔnshī. | A well-developed disaster prevention, mitigation, and relief mechanism can promptly trigger early warnings before meteorological disasters strike, thereby minimizing casualties and property loss. | Un sistema integral de prevención y socorro permite activar alertas inmediatas ante desastres meteorológicos, reduciendo al máximo víctimas humanas y pérdidas materiales.
+
+collocations[6]{hanzi,en}:
+  自然灾害 | natural disaster
+  地质灾害 | geological hazard / disaster
+  气象灾害 | meteorological disaster
+  遭受灾害 | suffer a disaster
+  防灾减灾 | disaster prevention and mitigation
+  抵御灾害 | resist / withstand disasters
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  救灾恤患 | jiù zāi xù huàn | relieve victims of disaster and pity the distressed
+  祸起萧墙 | huò qǐ xiāo qiáng | trouble arises within the home walls; internal strife
+  降灾降福 | jiàng zāi jiàng fú | bestow blessings or send down calamities
+  多灾多难 | duō zāi duō nàn | plagued with frequent disasters and misfortunes
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  灾 | zāi | disaster; calamity; catastrophe | desastre; calamidad; siniestro; fuego destructor | 宀 | roof / house | 宀 (house roof) + 火 (fire burning inside) | "" | 7 | 上下结构 | Ideogrammic compound of fire (火) blazing uncontrollably beneath a domestic roof (宀), graphically portraying an internal house fire disaster. | Fire flames (火) erupting through the roof of a house (宀), illustrating a destructive household calamity. | Llamas devoradoras (火) que brotan del techo de una casa (宀), simbolizando un desastre destructivo. | 55 | JCF | 災
+  害 | hài | harm; injure; damage; evil | dañar; mal; perjuicio; plaga | 宀 | roof with chimney | 宀 (protective residential roof) | 丯 (harmful words / obstruction) + 口 (mouth) | 10 | 上下结构 | Ideogrammic compound where harmful words (丯) uttered from the mouth (口) beneath the roof (宀) inflict internal destruction. | Bitter words from a mouth (口) under the house roof (宀) causing discord and grave harm. | Palabras enconadas de una boca (口) bajo el techo hogareño (宀) que desatan discordia y perjuicio familiar. | 51 | JTMK | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A destructive fire under the roof (灾) that brings severe harm to the household (害) constitutes a devastating disaster (灾害).
+  composite_memory_hook_es: Un fuego devorador bajo el tejado (灾) que inflige grave perjuicio al hogar (害) desata un temible desastre (灾害).
+  cultural_and_cognitive_roots: Ancient agricultural civilization in China constantly battled nature's unpredictability (flood, drought, locusts, and harsh winter freezes). Mythological creatures like Nian were personified embodiments of environmental calamities (灾害). Rituals of red banners, noise, and sleepless watch (守岁) unified the community against seasonal catastrophes.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'zāi' (55) plunging directly into falling 4th tone 'hài' (51). Clear contrast from sustained high pitch to abrupt descent.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    灭 | miè | extinguish; destroy | Has 一 (bar) quenching fire 火 instead of a roof 宀
+    灵 | líng | spirit; nimble | Has 彐 on top of fire 火
+    宪 | xiàn | constitution; law | Has 宀 on top with 先 inside instead of 火
+    割 | gē | cut; slice | Has 害 on the left with knife radical 刂 on the right
+    豁 | huò | exempt; clear; open | Has 害 on the left with valley 谷 on the right
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    难 | nàn | disaster; catastrophe
+    祸 | huò | misfortune; disaster
+    劫 | jié | catastrophe; robbery
+    殃 | yāng | disaster; calamity
+    患 | huàn | disaster; trouble; worry
+
+semantic_boundary_contrasts:
+  core_nuance: 灾害 specifically denotes wide-scale physical, meteorological, or social catastrophes causing broad devastation to populations or environments.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 灾害 vs. 灾难 | zāinàn | 灾害 highlights the objective physical destruction and material devastation caused by events (e.g. 地质灾害, 农业灾害), whereas 灾难 emphasizes the tragic human suffering, emotional grief, and personal misery experienced by victims.
+    2 | 灾害 vs. 事故 | shìgù | 灾害 encompasses broad natural or large-scale calamities (floods, blizzards, plagues), whereas 事故 denotes localized, often man-made operational failures, mishaps, or accidents in transport and industry (e.g. 交通事故, 生产事故).
+    3 | 灾害 vs. 危害 | wēihài | 灾害 is a concrete event or phenomenon of devastation (a noun), whereas 危害 is an ongoing harmful action or detrimental potential that undermines health, safety, or society (often functioning as a transitive verb).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在远古先民的记忆中，严冬与匮乏本身就是莫大的灾害。年兽下山的传说，本质上是对自然破坏力的恐惧投射。除夕夜的灯火与锣鼓，是人类在灾害面前用团结筑起的心灵防线。 | Zài yuǎngǔ xiānmín de jìyì zhōng, yándōng yǔ kuìfá běnshēn jiùshì mòdà de zāihài. Niánshòu xiàshān de chuánshuō, běnzhì shàng shì duì zìrán pòhuàilì de kǒngjù tóushè. Chúxī yè de dēnghuǒ yǔ luógǔ, shì rénlèi zài zāihài miànqián yòng tuánjié zhùqǐ de xīnlíng fángxiàn. | In the collective memories of ancient ancestors, harsh winter and scarcity were immense disasters in themselves. The legend of the beast Nian descending was fundamentally a projection of fear toward nature's destructive power. The lanterns and gongs on New Year's Eve represented a spiritual defense line built through solidarity against disasters. | En la memoria de los antepasados, el crudo invierno y la carestía eran grandes calamidades. La leyenda de la fiera Nian reflejaba el terror ante las fuerzas ciegas de la naturaleza. Las luces y tambores de fin de año levantaron una barrera espiritual forjada en la unión humana frente al desastre.
+  #2 | 面对日益频发的极端气候与地质灾害，构建智慧韧性城市已成为可持续发展的战略重心。通过遥感监测与大数据预警，现代应急体系能够在灾害初起时精准研判，全面守护人民生命财产安全。 | Miànduì rìyì pínfā de jíduān qìhòu yǔ dìzhì zāihài, gòujiàn zhìhuì rènxìng chéngshì yǐ chéngwéi kěchíxù fāzhǎn de zhànlüè zhòngxīn. Tōngguò yáogǎn jiāncè yǔ dàshùjù yùjǐng, xiàndài yìngjí tǐxì nénggòu zài zāihài chūqǐ shí jīngzhǔn yánpàn, quánmiàn shǒuhù rénmín shēngmìng cáichǎn ānquán. | In the face of increasingly frequent extreme climate and geological disasters, constructing smart, resilient cities has become a strategic priority for sustainable development. Through remote sensing and big data warnings, modern emergency systems can analyze threats precisely at the onset of disasters, comprehensively safeguarding citizens' lives and assets. | Ante desastres meteorológicos y geológicos cada vez más frecuentes, crear urbes inteligentes y resilientes es una prioridad estratégica. Con sensores remotos y modelos de datos, los sistemas modernos de emergencia predicen catástrofes con precisión, salvaguardando vidas y bienes.

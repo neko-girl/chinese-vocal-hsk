@@ -1,0 +1,64 @@
+id: 14
+hanzi: 感觉
+pinyin: gǎn jué
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to feel; to perceive; to sense; feeling; sensation; impression
+  es: sentir; percibir; tener la sensación de; sensación; impresión; percepción
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to become aware of through bodily senses or intuition; to feel; to think that | sentir; percibir mediante los sentidos o la intuición; creer | 感觉泉水很凉 (feel that the spring water is cold)
+  2 | Noun | Standard | physical sensation; intuitive impression or feeling | sensación física; impresión o sentimiento intuitivo | 给人一种清新的感觉 (give people a fresh feeling)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走在绿树成荫的泉池小径上，微风伴着湿润水汽拂面而来，让人感觉格外清爽舒畅。 | Zǒu zài lǜshù chéngyīn de quánchí xiǎojìng shàng, wēifēng bàn zhe shīrùn shuǐqì fúmiàn ér lái, ràng rén gǎnjué géwài qīngshuǎng shūchàng. | Walking along the shaded path by the spring pool, a light breeze bringing moist vapor brushes past, making one feel exceptionally refreshed. | Al caminar por el sendero arbolado junto al manantial, la suave brisa húmeda acaricia el rostro, transmitiendo un frescor sumamente gratificante.
+  #2 | 市场调查表明，消费者对该品牌新一代智能产品的交互体验感觉良好，回购意愿显著高于竞品。 | Shìchǎng diàochá biǎomíng, xiāofèizhě duì gāi pǐnpái xīn yídài zhìnéng chǎnpǐn de jiāohù tǐyàn gǎnjué liánghǎo, huígòu yìyuàn xiǎnzhù gāoyú jìngpǐn. | Market surveys show consumers feel very positive toward the interactive experience of the smart product, showing higher repurchase intent than competitors. | Los estudios de mercado reflejan que los consumidores sienten una excelente impresión con la interfaz inteligente, mostrando una intención de recompra muy superior.
+
+collocations[6]{hanzi,en}:
+  感觉良好 | feel good; favorable impression
+  第一感觉 | first impression / gut feeling
+  寻找感觉 | search for inspiration / sensation
+  感觉器官 | sensory organs
+  毫无感觉 | feel nothing; numb; indifferent
+  亲切的感觉 | a warm and close feeling
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  自觉自愿 | zì jué zì yuàn | of one's own free will; voluntary
+  心神不定 | xīn shén bù dìng | restless; feeling agitated and unsettled
+  感同身受 | gǎn tóng shēn shòu | feel as if experiencing it personally; deep empathy
+  知觉麻木 | zhī jué má mù | sensory numbness; devoid of acute awareness
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  感 | gǎn | feel; emotion; touch | sentir; emoción; conmover | 心 | heart / mind | 心 (heart, emotional seat) | 咸 (xián, unite / all) | 13 | 上下结构 | Ideogram combining 咸 (all people united in reaction) over 心 (heart): universal inner stirring of feelings. | When an outside stimulus touches everyone (咸), deep emotional ripples stir in the heart (心) as a genuine feeling (感). | Cuando un estímulo conmueve a todos (咸), brota en el corazón (心) un sentimiento y emoción (感) auténtico. | 214 | IHRMP | ""
+  觉 | jué | awaken; perceive; sense; feel | despertar; percibir; sentir | 见 | see | 见 (see, perception) | 𦥯 (clashing branches / roof) | 9 | 上下结构 | Ideogram combining learning/enlightenment over 见 (seeing): cognitive illumination where one becomes aware. | After long contemplation, opening your eyes to see (见) clearly brings sudden awareness (觉) and understanding. | Tras la reflexión, abres los ojos y ves (见) con claridad, alcanzando la plena percepción y despertar (觉). | 35 | FBBUU | 覺
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When your heart stirs with emotion (感) and your eyes awaken to see (觉), you achieve true feeling and perception.
+  composite_memory_hook_es: Cuando el corazón se emociona (感) y los ojos despiertan (觉), alcanzas la percepción sensorial plena.
+  cultural_and_cognitive_roots: Chinese epistemology considers 'gǎn' (visceral emotional responsiveness) and 'jué' (rational cognitive waking) as two halves of human consciousness.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'gǎn' (214) followed by rising 2nd tone 'jué' (35). In the polyphone 睡觉 (sleep), 觉 shifts to 'jiào' (51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    惑 | huò | confused; deluded | Has 或 (or) over 心 instead of 咸 in 感
+    党 | dǎng | political party | Has 儿 (legs) at the bottom instead of 见 in 觉
+    常 | cháng | frequent; common | Has 巾 (cloth) at base instead of 见
+    堂 | táng | hall; room | Has 土 (earth) at base instead of 见
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    知 | zhī | know; perceive; realize
+    悟 | wù | realize; awaken; comprehend
+    应 | yīng | respond; react
+    觉 | jué | conscious awareness
+
+semantic_boundary_contrasts:
+  core_nuance: 感觉 denotes general sensory perception, bodily sensations, or subjective intuitive impressions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 感觉 vs. 觉得 | juéde | 感觉 can serve as both a noun (a physical sensation/feeling) and a verb, whereas 觉得 is strictly a verb expressing subjective opinion or mental assessment.
+    2 | 感觉 vs. 感受 | gǎnshòu | 感觉 highlights immediate sensory inputs or intuitive impressions, while 感受 denotes deeper, lasting psychological experiences or reflections.
+    3 | 感觉 vs. 感知 | gǎnzhī | 感觉 is everyday language for feelings, whereas 感知 is a formal cognitive, psychological, or robotic terminology for perceptual processing.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 坐在清澈的泉水池旁，把手指轻轻浸入清凉甘洌的泉流中，那一瞬间的冰爽感觉直抵心脾。城市喧嚣的浮躁仿佛被这股灵动的清流彻底洗净，只留下一份返璞归真的舒畅与宁谧。 | Zuò zài qīngchè de quánshuǐ chí páng, bǎ shǒuzhǐ qīngqīng jìnrù qīngliáng gānliè de quánliú zhōng, nà yì súnjiān de bīngshuǎng gǎnjué zhídǐ xīnpí. Chéngshì xuānxiāo de fúzào fǎngfú bèi zhè gǔ língdòng de qīngliú chèdǐ xǐjìng, zhǐ liúxià yí fèn fǎnpúguīzhēn de shūchàng yǔ níngmì. | Sitting beside the clear spring pool and gently dipping fingers into cool, sweet currents, the instant refreshing chill penetrates the soul. City vanity feels thoroughly cleansed by this fluid stream, leaving tranquil simplicity. | Sentado junto al manantial, sumergir los dedos en el agua fresca produce una sensación reconfortante que sosiega el alma. El bullicio urbano queda purificado por la corriente, devolviendo una paz diáfana y serena.
+  #2 | 在智能座舱人机交互设计中，如何提升驾驶者的舒适感觉与沉浸式体验是各大汽车厂商竞争的焦点。研发团队通过优化座椅人体工学曲线与环绕降噪系统，为用户营造出全方位的品质感与安全感。 | Zài zhìnéng zuòcāng rénjī jiāohù shèjì zhōng, rúhé tíshēng jiàshǐzhě de shūshì gǎnjué yǔ chénjìnxìng tǐyàn shì gè dà qìchē chǎngshāng jìngzhēng de jiāodiǎn. Yánfā tuánduì tōngguò yōuhuà zuòyǐ réntǐ gōngxué qūxiàn yǔ huánrào jiàngzào xìtǒng, wèi yònghù yíngzào chū quánfāngwèi de pǐnzhìgǎn yǔ ānquángǎn. | In intelligent cabin HMI design, elevating drivers' comfort sensations and immersive experience is a competitive focus. Teams refine ergonomic curves and acoustic damping to deliver a comprehensive sense of quality and security. | En el diseño de cabinas inteligentes, optimizar la sensación de confort y la inmersión del conductor es clave competitiva. Los equipos perfeccionan la ergonomía y la insonorización para brindar máxima calidad y seguridad.

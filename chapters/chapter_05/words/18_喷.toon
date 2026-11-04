@@ -1,0 +1,63 @@
+id: 18
+hanzi: 喷
+pinyin: pēn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to spout; to spray; to gush; to puff out; to jet
+  es: brotar con fuerza; pulverizar; rociar; echar chorros; arrojar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to spurt or spout liquid, gas, or steam under pressure | brotar, arrojar o pulverizar líquidos o vapores a presión | 泉水向上喷 (the spring spouts upwards)
+  2 | Verb | Colloquial | to spray perfume, water, or paint; to talk nonsense or complain loudly | rociar; pulverizar pintura; despotricar en redes | 喷香水 (spray perfume)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉池中央的泉水昼夜不停地向上喷涌，翻滚的白色水花如滚沸的银浪。 | Bàotūquán chí zhōngyāng de quánshuǐ zhòuyè bùtíng de xiàngshàng pēnyǒng, fāngǔn de báisè shuǐhuā rú gǔnfèi de yínlàng. | The spring water in the center of Baotu Spring spouts upward tirelessly day and night, its churning white spray like boiling silver waves. | El agua en el centro del manantial Baotu brota con fuerza día y noche, y sus espumas blancas hierven como olas de plata.
+  #2 | 消防演练现场，消防队员熟练操作高压水枪，水柱犹如银龙一般喷射向数十米高空。 | Xiāofáng yǎnliàn xiànchǎng, xiāofáng duìyuán shúliàn cāozuò gāoyā shuǐqiāng, shuǐzhù yóurú yínlóng yìbān pēnshè xiàng shùshí mǐ gāokōng. | During the firefighting drill, firefighters skillfully operated high-pressure water cannons, jetting water columns dozens of meters into the sky like silver dragons. | En el simulacro de incendios, los bomberos accionaron mangueras de alta presión, proyectando chorros potentes a decenas de metros de altura.
+
+collocations[6]{hanzi,en}:
+  喷涌而出 | gush forth; surge out
+  喷泉 | water fountain; geyser
+  喷射 | jet; spurt out at high velocity
+  喷洒农药 | spray agricultural pesticides
+  喷香水 | spray perfume
+  香气喷人 | fragrant aroma wafts delightfully
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  血口喷人 | xuè kǒu pēn rén | spit blood on someone; make malicious, baseless slander
+  含沙射影 | hán shā shè yǐng | shoot shadows with sand; attack someone by covert insinuation
+  喷云吐雾 | pēn yún tǔ wù | puff clouds and blow fog; smoke heavily
+  热情喷薄 | rèqíng pēnbó | enthusiasm bursting forth like a surge
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  喷 | pēn | spout; spray; spurt | brotar; rociar; arrojar | 口 | mouth | 口 (mouth, expelling) | 贲 (bēn, energetic / decorated) | 12 | 左右结构 | Phono-semantic compound where mouth radical 口 indicates energetic expulsion, and 贲 denotes vigor and surging energy. | An open mouth (口) with immense internal force expels a rushing jet of water to spray (喷) across the rocks. | Una boca (口) que expulsa agua a presión con enorme fuerza desata un torrente impetuoso o chorro (喷). | 55 | RJT | 噴
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Open your mouth (口) with surging vigor to spout (喷) cool fountain spray into the morning air.
+  composite_memory_hook_es: Abre la boca (口) con fuerza incontenible para arrojar un chorro (喷) fresco al aire matinal.
+  cultural_and_cognitive_roots: The character 'pēn' captures the acoustic and kinetic energy of liquids or gases overcoming confinement, embodying the untamed geological vitality of Jinan's natural springs.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'pēn' (55). When used as a noun meaning a harvest period or peak season (香喷喷), maintain proper tone register.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    愤 | fèn | indignant; angry | Has heart radical 忄 instead of mouth radical 口
+    愤 | fèn | resentful | Has 忄 radical next to 贲
+    填 | tián | fill; stuff | Has earth radical 土 next to 真
+    镇 | zhèn | town; suppress | Has metal radical 钅 next to 真
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    吐 | tǔ | spit; vomit; utter
+    涌 | yǒng | well up; surge; gush
+    射 | shè | shoot; emit; jet
+    溢 | yì | overflow; spill over
+
+semantic_boundary_contrasts:
+  core_nuance: 喷 stresses the forceful, directional ejection of liquid, vapor, or particles from a narrow outlet under internal pressure.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 喷 vs. 涌 | yǒng | 喷 denotes forceful vertical or horizontal jetting under pressure, while 涌 emphasizes upward welling, bubbling, or continuous surging from below.
+    2 | 喷 vs. 洒 | sǎ | 喷 shoots liquid out forcefully in a pressurized stream, whereas 洒 means to scatter or sprinkle droplets loosely over an area.
+    3 | 喷 vs. 滴 | dī | 喷 involves continuous high-pressure ejection, while 滴 denotes falling drop by drop in discrete, tiny amounts.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走近名泉池畔，便能听见那清脆悦耳的泉声。三股主泉喷涌如沸，激荡起团团雪白晶莹的水花。阳光照耀之下，喷射出的细微水珠化作一道七彩水雾，宛若仙境般绚烂多姿，令人心旷神怡。 | Zǒujìn míngquán chí pàn, biàn néng tīngjiàn nà qīngcuì yuè'ěr de quánshēng. Sān gǔ zhǔquán pēnyǒng rú fèi, jīdàng qǐ tuántuán xuěbái jīngyíng de shuǐhuā. Yángguāng zhàoyào zhīxià, pēnshè chū de xìwēi shuǐzhū huàzuò yí dào qīcǎi shuǐwù, wǎnrù xiānjìng bān xuànlàn duōzī, lìngrén xīnkuàngshényí. | Nearing the spring pool, one hears crisp, melodious splashes. The three main springs spout as if boiling, churning snow-white droplets. Under sunlight, fine spray transforms into a rainbow mist, creating an enchanting wonderland. | Al acercarse al manantial, se escucha el chapoteo cantarín del agua. Tres veneros brotan como agua en ebullición, levantando espumas blancas. Bajo el sol, las gotas pulverizadas forman una niebla irisada de ensueño.
+  #2 | 在现代高端农业示范园中，智能化水肥一体化喷灌设备得到了广泛普及。中央控制系统根据土壤墒情传感器数据，自动调节喷头水压与喷洒范围，实现了精准水肥补给，显著提升了农田灌溉效率。 | Zài xiàndài gāoduān nóngyè shìfànyuán zhōng, zhìnénghuà shuǐféi yītǐhuà pēnguàn shèbèi dédào le guǎnfàn pǔjí. Zhōngyāng kòngzhì xìtǒng gēnjù tǔrǎng shāngqíng chuángǎnqì shùjù, zìdòng tiáojié pēntóu shuǐyā yǔ pēnsǎ fànwéi, shíxiàn le jīngzhǔn shuǐféi bǔjǐ, xiǎnzhù tíshēng le nóngtián guàngài xiàolǜ. | In modern demonstration agro-parks, automated fertigation sprinkler systems are widely used. The central system adjusts nozzle pressure and spray coverage based on soil sensors, delivering precision hydration. | En parques agrícolas de vanguardia, los aspersores inteligentes de fertirriego se aplican ampliamente. El sistema central regula la presión y el alcance según la humedad del suelo, optimizando el agua de regadío.

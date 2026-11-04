@@ -1,0 +1,64 @@
+id: 11
+hanzi: 纪念
+pinyin: jì niàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to commemorate; to remember; memorial; souvenir
+  es: conmemorar; recordar; monumento conmemorativo; recuerdo; suvenir
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to commemorate; to honor the memory of a person or significant historic event | conmemorar; honrar la memoria de una persona o acontecimiento histórico | 纪念先烈 (commemorate martyrs)
+  2 | Noun | Standard | souvenir; memento; token of remembrance; memorial | recuerdo; suvenir; objeto o monumento conmemorativo | 留作纪念 (keep as a souvenir)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了纪念宋代著名女词人李清照，济南人在趵突泉畔修建了古朴雅致的纪念堂。 | Wèile jìniàn Sòngdài zhùmíng nǚ círén Lǐ Qīngzhào, Jǐnán rén zài Bàotūquán pàn xiūjiàn le gǔpǔ yǎzhì de jìniàntáng. | To commemorate the renowned Song Dynasty poetess Li Qingzhao, Jinan citizens built an elegant memorial hall beside Baotu Spring. | Para conmemorar a la célebre poetisa Li Qingzhao de la dinastía Song, los habitantes erigieron una elegante sala conmemorativa junto al manantial.
+  #2 | 在反法西斯战争胜利周年纪念活动中，各国代表向无名英雄纪念碑敬献了花圈。 | Zài fǎnfǎxīsī zhànzhēng shènglì zhōunián jìniàn huódòng zhōng, gèguó dàibiǎo xiàng wúmíng yīngxióng jìniànbēi jìngxiàn le huāquān. | In commemorative events marking the victory over fascism, national delegates laid floral wreaths before the Monument to the Unknown Heroes. | En los actos conmemorativos de la victoria sobre el fascismo, delegados de diversas naciones ofrendaron coronas florales ante el monumento al héroe anónimo.
+
+collocations[6]{hanzi,en}:
+  纪念碑 | monument; cenotaph
+  纪念品 | souvenir; keepsake
+  纪念馆 | memorial hall; commemorative museum
+  周年纪念 | anniversary commemoration
+  拍照纪念 | take photos as a memento
+  留作纪念 | keep as a souvenir / keepsake
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  缅怀先烈 | miǎn huái xiān liè | cherish the memory of revolutionary martyrs
+  永垂不朽 | yǒng chuí bù xiǔ | immortal; eternal glory through the ages
+  念念不忘 | niàn niàn bù wàng | bear constantly in mind; never forget for a moment
+  铭记于心 | míng jì yú xīn | engrave deeply in one's heart; remember forever
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  纪 | jì | record; discipline; era; chronicle | registrar; era; período; disciplina | 纟 | silk | 纟 (silk thread, continuous chronicle) | 己 (jǐ, self / phonetic) | 6 | 左右结构 | Phono-semantic compound where silk radical 纟 indicates threading threads into an unbroken chronological record. | Weaving fine silk threads (纟) by your own hand (己) to record an enduring historical chronicle (纪). | Hilar seda fina (纟) por uno mismo (己) para tejer una crónica histórica imborrable (纪). | 51 | VMU | 紀
+  念 | niàn | think of; miss; study; recite | pensar; recordar; extrañar; recitar | 心 | heart / mind | 心 (heart, affection) | 今 (jīn, now / present) | 8 | 上下结构 | Ideogram combining 今 (present moment) and 心 (heart): holding someone or something in one's heart right now. | In the present moment (今), keep a cherished loved one held closely inside your heart (心) with love. | En este mismo instante (今), mantienes a un ser querido presente en tu corazón (心) con devoción. | 51 | OINP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Thread your memories into a chronicle (纪) and hold them forever in your heart (念) to commemorate the past.
+  composite_memory_hook_es: Teje tus recuerdos en una crónica (纪) y guárdalos en el corazón (念) para conmemorar el pasado.
+  cultural_and_cognitive_roots: In Chinese ancestral and literary culture, 'jìniàn' links historical recording (纪, the annals of historians) with emotional mindfulness (念, the filial remembrance of ancestors).
+  tone_sandhi_and_pitch_modulation: Dual 4th tones: 'jì niàn' (51-51). Pronounce each syllable with sharp, crisp downward pitch without swallowing the second tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    记 | jì | remember; record | Has speech radical 讠 instead of silk radical 纟
+    红 | hóng | red | Has 工 (work) next to 纟 instead of 己
+    忿 | fèn | anger; indignation | Has 分 (divide) over 心 instead of 今
+    急 | jí | anxious; urgent | Has 刍 (hay) over 心 instead of 今
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    忆 | yì | remember; recollect
+    想 | xiǎng | think; miss; yearn
+    思 | sī | ponder; yearn; thought
+    志 | zhì | will; aspiration; record
+
+semantic_boundary_contrasts:
+  core_nuance: 纪念 focuses on formal commemoration of significant figures, historical events, or retaining souvenirs for emotional preservation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 纪念 vs. 怀念 | huáiniàn | 纪念 involves external commemorative acts, monuments, or items (修建纪念馆), whereas 怀念 is an internal, emotional feeling of affectionate nostalgia.
+    2 | 纪念 vs. 庆祝 | qìngzhù | 纪念 honors past history, sacrifices, or solemn anniversaries, while 庆祝 rejoices in joyful successes, holidays, or victories with festive cheer.
+    3 | 纪念 vs. 悼念 | dàoniàn | 纪念 applies to broad historical milestones and cultural heroes, whereas 悼念 specifically mourns someone's recent death with solemn grief.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 细雨中的李清照纪念堂清幽典雅，院落中松柏苍翠，泉水清流。站立在词人雕像前，读着那些婉约深沉的词句，往昔的悲欢离合仿佛随着泉水流淌而来。这一座小小的纪念馆，守护着一座城市永恒的人文记忆。 | Xìyǔ zhōng de Lǐ Qīngzhào jìniàntáng qīngyōu diǎnyǎ, yuànluò zhōng sōngbǎi cāngcuì, quánshuǐ qīngliú. Zhànlì zài círén diāoxiàng qián, dú zhe nàxiē wǎnyuē shēnchén de cíjù, wǎngxī de bēihuānlíhé fǎngfú suízhe quánshuǐ liútǎng ér lái. Zhè yí zuò xiǎoxiǎo de jìniànguǎn, shǒuhù zhe yí zuò chéngshì yǒnghéng de rénwén jìyì. | Amid drizzling rain, Li Qingzhao's memorial hall stands peaceful and elegant, with cypresses and flowing springs. Before the poet's statue, reading her poignant verses, past joys and sorrows drift forward on water. This modest hall guards the city's eternal memory. | Bajo la llovizna, el pabellón conmemorativo de Li Qingzhao luce apacible, flanqueado por cipreses y manantiales. Ante la estatua de la poetisa, sus versos conmovedores reviven nostalgias pasadas, custodiando la memoria humana eterna de la urbe.
+  #2 | 历史文化遗产是活态的国家记忆。在城市更新过程中，建立专题纪念馆并妥善保护历史遗迹，不仅是对先辈奋斗历程的崇高纪念，更是向年轻一代传承历史文脉、激发文化自豪感的重要载体。 | Lìshǐ wénhuà yíchǎn shì huótài de guójiā jìyì. Zài chéngshì gēngxīn guòchéng zhōng, jiànlì zhuāntí jìniànguǎn bìng tuǒshàn bǎohù lìshǐ yíjì, bùjǐn shì duì xiānbèi fèndòu lìchéng de chónggāo jìniàn, gèng shì xiàng niánqīng yídài chuánchéng lìshǐ wénmài, jīfā wénhuà zìháogǎn de zhòngyào zàitǐ. | Cultural heritage constitutes living national memory. In urban regeneration, creating memorial halls and safeguarding historic remains not only honors ancestral perseverance, but transmits cultural legacy and pride to younger generations. | El patrimonio cultural encarna la memoria viva de un pueblo. Erigir museos conmemorativos y proteger vestigios rinde tributo a las generaciones pasadas y transmite el orgullo cultural a los jóvenes como un legado imperecedero.

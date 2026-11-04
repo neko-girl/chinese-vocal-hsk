@@ -1,0 +1,66 @@
+id: 29
+hanzi: 姑娘
+pinyin: gū niang
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: girl; young woman; daughter; maiden
+  es: muchacha; chica; joven; hija; doncella
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a girl; young unmarried woman | muchacha; chica joven; doncella | 年轻的姑娘 (a young woman)
+  2 | Noun | Colloquial | daughter (in family contexts, e.g. 大姑娘) | hija | 他家的大姑娘 (the eldest daughter in his family)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕之夜，村里的小姑娘穿上了鲜艳的红棉袄，帮着母亲在大门上贴红纸春联。 | Chúxī zhī yè, cūnlǐ de xiǎo gūniang chuānshàng le xiānyàn de hóngmián'ǎo, bāng zhe mǔqīn zài dàmén shàng tiē hóngzhǐ chūnlián. | On New Year's Eve, the little girl in the village put on a bright red padded jacket, helping her mother paste red paper Spring Festival couplets on the front gate. | En nochevieja, la jovencita de la aldea se vistió con una chaqueta roja acolchada y ayudó a su madre a pegar las coplas de papel rojo en el portón.
+  #2 | 毕业典礼上，那位坚强扎根基层乡村任教的年轻姑娘，荣获了本年度全省杰出青年教师称号。 | Bìyè diǎnlǐ shàng, nà wèi jiānqiáng zhāgēn jīcéng xiāngcūn rènjiào de niánqīng gūniang, rónghuò le běn niándù quán shěng jiéchū qīngnián jiàoshī chēnghào. | At the graduation ceremony, that courageous young woman dedicated to teaching in rural grassroots schools was awarded the title of the province's outstanding young educator of the year. | En la graduación, aquella valiente joven consagrada a la enseñanza en escuelas rurales fue distinguida como docente joven ejemplar de la provincia.
+
+collocations[6]{hanzi,en}:
+  年轻姑娘 | young girl / young woman
+  美丽的姑娘 | beautiful girl
+  农村姑娘 | rural girl
+  小姑娘 | little girl
+  姑娘家 | young woman (modest colloquial reference)
+  大姑娘 | eldest daughter; grown-up unmarried girl
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  姑娘出嫁 | gū niang chū jià | a young woman gets married
+  姑妄听之 | gū wàng tīng zhī | listen to it for what it's worth; take with a grain of salt
+  半老徐娘 | bàn lǎo xú niáng | a middle-aged woman still retaining her charm
+  掌上明珠 | zhǎng shàng míng zhū | the pearl in one's palm; beloved daughter
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  姑 | gū | father's sister; aunt; girl; temporarily | tía paterna; muchacha; de momento | 女 | woman / female | 女 (female) | 古 (gǔ, ancient / phonetic) | 8 | 左右结构 | Phono-semantic compound where female radical 女 indicates kinship role, and 古 provides phonetic rhyme. | A respected woman (女) holding ancient family values (古), caring for household youths. | Una mujer (女) que custodia la memoria familiar antigua (古) cuidando de la juventud de la casa. | 55 | VJR | ""
+  娘 | niang | mother; woman; young lady | madre; mujer; muchacha | 女 | woman / female | 女 (female) | 艮 (gèn, firm / upright / phonetic) | 10 | 左右结构 | Simplified from traditional 孃/娘. Phono-semantic compound where female radical 女 combines with 艮 (steadfast). Evolved from mother to addressing young women. | A steadfast woman (女) standing upright (艮) with dignity and gentle grace. | Una mujer (女) íntegra y firme (艮) que destaca por su porte sereno y gracia natural. | 35 | VAV | 孃
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A maidenly kinship woman (姑) with dignified grace (娘) blossoms into a lovely young girl (姑娘).
+  composite_memory_hook_es: La joven del linaje (姑) con porte digno (娘) florece como una virtuosa muchacha (姑娘).
+  cultural_and_cognitive_roots: Originally in ancient Chinese, 姑 meant paternal aunt, and 娘 meant mother (as in 娘亲). During the Song and Yuan dynasties in vernacular drama, the compound 姑娘 shifted to affectionately designating young unmarried women or daughters, reflecting dynamic linguistic shifts in domestic kinship.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'gū' (55) followed by neutral tone 'niang' (pronounced lightly with lower pitch in standard speech). As an independent character, '娘' is 2nd tone (35), but in '姑娘' it is commonly read in the neutral tone (轻声).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    枯 | kū | withered; dry | Has tree radical 木 next to 古 instead of 女
+    咕 | gū | mumble; mutter | Has mouth radical 口 next to 古
+    浪 | làng | wave; unrestrained | Has water radical 氵 next to 良 instead of 女 next to 艮
+    狠 | hěn | ruthless; fierce | Has dog radical 犭 next to 艮
+    根 | gēn | root; base | Has tree radical 木 next to 艮
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    妹 | mèi | younger sister
+    姐 | jiě | older sister
+    妇 | fù | married woman; female
+    妪 | yù | old woman
+    媛 | yuàn | beauty; talented woman
+
+semantic_boundary_contrasts:
+  core_nuance: 姑娘 is an affectionate, warmly colloquial designation for an unmarried young woman or daughter.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 姑娘 vs. 女孩 | nǚhái | 姑娘 is often used for young women in their late teens or twenties (and affectionately for daughters), whereas 女孩 typically refers to younger female children or schoolgirls.
+    2 | 姑娘 vs. 女士 | nǚshì | 姑娘 is informal and carries an affectionate, gentle tone, whereas 女士 is a formal, polite social title for adult women regardless of marital status.
+    3 | 姑娘 vs. 女性 | nǚxìng | 姑娘 is an individual colloquial term for young women, whereas 女性 is a sociological or demographic term for the female gender as a whole.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕的清晨，雪花染白了小村的屋檐。邻家那位手巧的姑娘早早系上围裙，在窗棂上贴满栩栩如生的窗花。她眉眼弯弯，脸上漾着纯真的欢喜，为宁静的寒冬小院平添了几分春意盎然的生机。 | Chúxī de qīngchén, xuěhuā rǎnbái le xiǎocūn de wūyán. Línjiā nà wèi shǒuqiǎo de gūniang zǎozǎo jìshàng wéiqún, zài chuānglíng shàng tiēmǎn xǔxǔ-rúshēng de chuānghuā. Tā méiyǎn-wānwān, liǎnshàng yàng zhe chúnzhēn de huānxǐ, wèi níngjìng de hándōng xiǎoyuàn píngtiān le jǐfèn chūnyì-àngrán de shēngjī. | On New Year's Eve morning, snow whitened village eaves. The skillful girl next door tied on her apron early, pasting lifelike paper-cuts onto lattice windows. With smiling eyes and innocent joy on her face, she breathed vibrant spring vitality into the quiet winter courtyard. | En la mañana de nochevieja, la nieve tiñó los aleros de la aldea. La hacendosa muchacha vecina se puso el delantal temprano para pegar recortes de papel en las celosías, llenando el gélido patio invernal con la alegre frescura de la primavera.
+  #2 | 在当代乡村振兴与数字经济浪潮中，越来越多的年轻姑娘选择返乡创业。她们依托电商直播推广家乡非遗手艺与特色农产，以开阔的眼界和坚韧的实干精神，在广袤田野间绽放出属于新时代的巾帼光彩。 | Zài dāngdài xiāngcūn zhènxīng yǔ shùzì jīngjì làngcháo zhōng, yuèláiyuè duō de niánqīng gūniang xuǎnzé fǎnxiāng chuàngyè. Tāmen yītuō diànshāng zhībō tuīguǎng jiāxiāng fēiyí shǒuyì yǔ tèsè nóngchǎn, yǐ kāikuò de yǎnjiè hé jiānrèn de shígàn jīngshén, zài guǎngmào tiányě jiān zhànfàng chū shǔyú xīndàidài de jīnguó guāngcǎi. | Amidst rural revitalization and digital economic waves, more and more young women choose to return to their hometowns to launch enterprises. Leveraging e-commerce live-streaming to promote intangible cultural heritage and local produce, they showcase the brilliance of modern women across vast countryside fields. | En el marco de la revitalización rural y la economía digital, cada vez más jóvenes deciden emprender en sus pueblos natales. Mediante transmisiones en línea, divulgan la artesanía y productos agrícolas locales, aportando la energía y entereza de la mujer contemporánea al desarrollo del campo.

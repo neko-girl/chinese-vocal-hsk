@@ -1,0 +1,64 @@
+id: 28
+hanzi: 镜子
+pinyin: jìng zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: mirror; looking glass; model; exemplar
+  es: espejo; reflector; modelo; ejemplo aleccionador
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a reflecting surface that forms images by reflection; mirror; looking glass | superficie que refleja imágenes por refracción; espejo | 泉水如镜子 (the spring water is like a mirror)
+  2 | Noun | Figurative | an exemplar, warning, or model from which lessons are drawn | ejemplo; lección aleccionadora de la que extraer enseñanzas | 以史为镜 (take history as a mirror)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 无风的清晨，平静的大明湖宛如一面巨大的玻璃镜子，将远处的千佛山倒影清晰地收录其中。 | Wúfēng de qīngchén, píngjìng de Dàmíng Hú wǎnrú yí miàn jùdà de bōli jìngzi, jiāng yuǎnchù de Qiānfó Shān dàoyǐng qīngxī de shōulù qízhōng. | On a windless dawn, calm Daming Lake resembles a vast glass mirror, clearly capturing the reflection of distant Thousand Buddha Mountain. | En un amanecer sereno, el lago Daming parece un inmenso espejo de cristal que retrata nítidamente las siluetas de las montañas lejanas.
+  #2 | 历史是一面最好的镜子，能够映照出国家兴衰荣辱的内在逻辑，为当代改革治理提供深刻启迪。 | Lìshǐ shì yí miàn zuì hǎo de jìngzi, nénggòu yìngzhào chū guójiā xīngshuāi róngrǔ de nèizài luóji, wèi dāngdài gǎigé zhìlǐ tígōng shēnkè qǐdí. | History is the finest mirror, reflecting the intrinsic logic of nations' rise and fall to provide profound wisdom for modern governance. | La historia es el mejor espejo; proyecta la lógica íntima del auge y caída de las naciones, iluminando el rumbo de la gobernanza actual.
+
+collocations[6]{hanzi,en}:
+  一面镜子 | a mirror
+  照镜子 | look in the mirror
+  历史的镜子 | mirror of history
+  镜子般的湖面 | mirror-like lake surface
+  擦亮镜子 | polish / wipe clean the mirror
+  打破镜子 | break a mirror
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  破镜重圆 | pò jìng chóng yuán | broken mirror rejoined; reunion of husband and wife after separation
+  明镜高悬 | míng jìng gāo xuán | bright mirror hung high; perceptive, just, and upright magistrate
+  前车之鉴 | qián chē zhī jiàn | warning of the overturned chariot ahead; lesson drawn from past failures
+  引以为戒 | yǐn yǐ wéi jiè | take as a warning; learn a cautionary lesson
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  镜 | jìng | mirror; lens; glass | espejo; lente; cristal | 钅 | metal / gold | 钅 (bronze / metal, polished surface) | 竟 (jìng, border / unexpected) | 16 | 左右结构 | Phono-semantic compound where metal radical 钅 indicates polished bronze mirrors used in ancient China. | A circular piece of bronze metal (钅) polished until you can see right through (竟) makes a gleaming mirror (镜). | Una lámina de bronce (钅) pulida con tanto esmero (竟) que refleja el rostro se convierte en espejo (镜). | 51 | CYTU | 鏡
+  子 | zi | child; son; noun suffix | hijo; niño; sufijo nominal | 子 | child | ㇇ (head) | 了 / 十 (arms / swaddled legs) | 3 | 独体结构 | Ancient pictograph of an infant with open arms and swaddled legs; commonly serves as a neutral-tone nominal suffix. | A child (子) stands before the reflective metal surface, smiling at its own reflection. | Un niño (子) pequeño se asoma a la superficie brillante, sonriendo fascinado a su reflejo. | 51 | ND | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A child (子) peers into a polished bronze plate (镜) to see their cheerful reflection in the mirror.
+  composite_memory_hook_es: Un niño (子) mira un bronce pulido (镜) para contemplar su alegre reflejo en el espejo.
+  cultural_and_cognitive_roots: Bronze mirrors ('jìng') in Chinese heritage are philosophical tools of self-cultivation (三鉴: 铜镜正衣冠, 史镜知兴替, 人镜明得失 - mirrors of bronze, history, and human conduct).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'jìng' (51) followed by neutral tone 'zi' (light, short, low pitch). Do not pronounce 'zi' with an exaggerated 3rd tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    境 | jìng | boundary; realm; condition | Has earth radical 土 on the left instead of metal 钅
+    竟 | jìng | unexpectedly; finish | Lacks the left metal radical 钅 of 镜
+    了 | le | aspect particle | Lacks the horizontal cross-stroke of 子
+    寸 | cùn | inch | Has a dot on the right instead of curved head stroke
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    鉴 | jiàn | inspect; mirror; warning
+    照 | zhào | shine; reflect; photograph
+    映 | yìng | reflect; shine upon
+    光 | guāng | light; ray; polished
+
+semantic_boundary_contrasts:
+  core_nuance: 镜子 is a physical noun for a reflective looking glass, or a figurative metaphor for an evaluative reflection of truth.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 镜子 vs. 眼镜 | yǎnjìng | 镜子 is a looking glass for seeing reflections, whereas 眼镜 specifically refers to corrective eyeglasses or spectacles worn to aid vision.
+    2 | 镜子 vs. 镜头 | jìngtóu | 镜子 is a reflective flat surface, while 镜头 is an optical lens on a camera/microscope or a cinematographic shot in filming.
+    3 | 镜子 vs. 借鉴 | jièjiàn | 镜子 is the nominal entity/metaphor (a mirror), whereas 借鉴 is an active transitive verb meaning to draw reference or learn lessons from an external experience.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的湖水静极了，平滑得真像一面未施雕琢的菱花镜子。阳光穿透垂柳的细叶洒在水面上，倒映出飞鸟掠过的弧线与两岸错落的古建。站立岸边，望着这泓澄明如镜的水面，心底的杂念也悄然沉淀。 | Jǐnán de húshuǐ jìng jí le, pínghuá de zhēn xiàng yí miàn wèishī diāozhuó de línghuā jìngzi. Yángguāng chuāntòu chuíliǔ de xìyè sǎ zài shuǐmiàn shàng, dàoyìng chū fēiniǎo lüèguò de húxiàn yǔ liǎng'àn cuòluò de gǔjiàn. Zhànlì ànbiān, wàng zhe zhè hóng chéngmíng rújìng de shuǐmiàn, xīndǐ de zániàn yě qiǎorán chéndiàn. | Jinan's lake is quiet, as smooth as an uncarved bronze mirror. Sunlight filters through willow leaves onto the surface, reflecting skimming birds and antique buildings. Gazing upon this mirror-clear water, worldly distractions settle into calm. | El lago de Jinan es tan apacible que asemeja un terso espejo sin labrar. El sol se filtra entre los sauces reflejando aves y templetes ribereños. Mirar esta agua límpida aquieta todo pensamiento mundano en serena paz.
+  #2 | 现代化工业生产中的超精密光学镜片制造，对反射镜子表面的纳米级粗糙度有着近乎苛刻的技术标准。科研人员采用离子束抛光工艺，成功消除了反射镜微观缺陷，为空间天文望远镜的研制奠定了坚实基础。 | Xiàndàihuà gōngyè shēngchǎn zhōng de chāojīngmì guāngxué jìngpiàn zhìzào, duì fǎnshè jìngzi biǎomiàn de nàmǐ jí cūcāodù yǒu zhe jìnhū kēkè de jìshù biāozhǔn. Kēyán rényuán cǎiyòng lízǐshù pāoguāng gōngyì, chénggōng xiāochú le fǎnshèjìng wēiguān quēxiàn, wèi kōngjiān tiānwén wàngyuǎnjìng de yánzhì diàndìng le jiānshí jīchǔ. | Manufacturing ultra-precision optical mirrors in modern industry demands stringent nanometer surface roughness limits. Researchers employ ion-beam polishing to eradicate microscopic defects, supporting space telescopes. | La óptica ultraprecisa impone límites nanométricos de rugosidad en la fabricación de espejos reflectores. Los científicos emplean pulido por haz iónico para erradicar defectos, posibilitando telescopios espaciales de vanguardia.

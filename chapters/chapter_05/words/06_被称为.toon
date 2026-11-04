@@ -1,0 +1,64 @@
+id: 6
+hanzi: 被称为
+pinyin: bèi chēng wéi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to be called; to be known as; to be reputed as
+  es: ser llamado; ser conocido como; ser considerado como
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to be referred to, designated, or acclaimed as | ser llamado, designado o conocido como | 济南被称为泉城 (Jinan is known as the City of Springs)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南因城内拥有七十二处名泉，自古以来就被人们亲切地称为“泉城”。 | Jǐnán yīn chéngnèi yōngyǒu qīshí'èr chù míngquán, zìgǔ yǐlái jiù bèi rénmen qīnqiè de chēng wéi "Quánchéng". | Because it possesses 72 famous springs within its city limits, Jinan has since antiquity been affectionately known as the "City of Springs." | Debido a sus setenta y dos manantiales célebres, Jinan ha sido conocida entrañablemente desde la antigüedad como la "Ciudad de los Manantiales".
+  #2 | 这项由青年科研团队自主研发的清洁能源技术，被业内专家称为具有里程碑意义的突破。 | Zhè xiàng yóu qīngnián kěyán tuánduì zìzhǔ yánfā de qīngjié néngyuán jìshù, bèi yènèi zhuānjiā chēng wéi jùyǒu lǐchéngbēi yìyì de tūpò. | This clean energy technology independently developed by the youth research team is hailed by industry experts as a milestone breakthrough. | Esta tecnología de energía limpia desarrollada por el equipo joven de investigación es calificada por los expertos como un avance histórico.
+
+collocations[6]{hanzi,en}:
+  被称为典范 | be called a model / paragon
+  被亲切地称为 | be affectionately known as
+  被公认为 | be universally acknowledged as
+  被称为奇迹 | be hailed as a miracle
+  被誉为 | be lauded as; be praised as
+  被称为桥梁 | be described as a bridge
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  众望所归 | zhòng wàng suǒ guī | meet the hopes of the masses; win universal confidence
+  名副其实 | míng fù qí shí | worthy of the name; matching reality with reputation
+  赞不绝口 | zàn bù jué kǒu | praise without ceasing; lavish compliments
+  赫赫有名 | hè hè yǒu míng | illustrious; possessing resounding fame
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  被 | bèi | passive marker; quilt; cover | marcador pasivo; colcha; cubrir | 衤 | clothing | 衤 (clothing wrapping over) | 皮 (pí, skin/covering) | 10 | 左右结构 | Phono-semantic compound where clothing radical 衤 indicates wrapping or covering over, extending to receiving an action. | A quilt of warm cloth (衤) draped over your skin (皮) covers you so you are acted upon (被) by warmth. | Una manta de tela (衤) sobre tu piel (皮) te abriga por completo al ser cubierto (被) por su calor. | 51 | LDE | ""
+  称 | chēng | name; call; weigh; praise | llamar; nombrar; pesar; alabar | 禾 | grain | 禾 (grain to weigh) | 尔 (ěr, balance/pronoun) | 10 | 左右结构 | Phono-semantic compound depicting weighing harvested sheaves of grain 禾 on a scale, hence to assess or name. | Weighing grain (禾) on a balance scale to determine its value and assign it a reputable title (称). | Pesar espigas de grano (禾) en una balanza para valorar su calidad y otorgarle un justo nombre (称). | 55 | HDNF | 稱
+  为 | wéi | act as; serve as; become | actuar como; servir de; ser | 丶 | dot / stroke | 丶 (indicative mark) | 勹 (enclosure form) | 4 | 独体结构 | Ancient pictograph of a hand leading an elephant to work; simplified to strokes depicting action and transformation. | A focused stroke of the hand brings thought into reality, causing a concept to serve as (为) an official name. | Un trazo decisivo de la mano convierte la idea en realidad, logrando que algo pase a ser (为) conocido. | 35 | IK | 為
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When a city is draped (被) with a title weighed (称) by history, it comes to serve as (为) an immortal legend.
+  composite_memory_hook_es: Cuando una urbe queda envuelta (被) por un nombre bien pesado (称), pasa a ser (为) una leyenda inmortal.
+  cultural_and_cognitive_roots: The syntactic combination 'bèi... chēng wéi' reflects the passive honorific tradition in Chinese historiography, where popular consensus bestows a lasting honorary sobriquet upon cities or heroes.
+  tone_sandhi_and_pitch_modulation: Pitch contours 51-55-35. Maintain clear differentiation between the falling 4th tone 'bèi', high-level 1st tone 'chēng', and rising 2nd tone 'wéi'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    破 | pò | broken; tear | Has 石 (stone) on the left instead of clothing radical 衤
+    秤 | chèng | steelyard; balance scale | Has 平 (flat/even) on the right instead of 尔
+    办 | bàn | manage; handle | Has 力 (power) in the center with two dots, whereas 为 has 勹 contour
+    波 | bō | wave; ripple | Has water radical 氵 next to 皮 instead of 衤
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    誉 | yù | praise; reputation
+    号 | hào | moniker; horn; call
+    呼 | hū | call out; breathe
+    名 | míng | name; title
+
+semantic_boundary_contrasts:
+  core_nuance: 被称为 is a passive verbal construction designating public or historical attribution of a title, nickname, or reputational label.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 被称为 vs. 被誉为 | bèi yù wéi | 被称为 neutrally denotes being named or labeled as something, whereas 被誉为 specifically implies celebratory praise, high accolade, and honor.
+    2 | 被称为 vs. 叫作 | jiào zuò | 被称为 carries a formal, journalistic, or literary register, whereas 叫作 is colloquial and used for plain naming of everyday objects.
+    3 | 被称为 vs. 认为是 | rènwéi shì | 被称为 refers to public nomenclature or titling, while 认为是 expresses cognitive judgement, subjective belief, or analytical opinion.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南自古就被文人墨客称为“诗城”与“泉都”。城内泉池澄澈，家家垂柳，户户泉流的如诗胜景，激发了无数词人的千古吟诵。行走其间，时光仿佛慢了下来，让人在浮躁世俗中觅得心灵的宁静。 | Jǐnán zìgǔ jiù bèi wénrén mòkè chēng wéi "Shīchéng" yǔ "Quándū". Chéngnèi quánchí chéngchè, jiājiā chuíliǔ, hùhù quánliú de rú shī shèngjǐng, jīfā le wúshù círén de qiāngǔ yínsòng. Xíngzǒu qíjiān, shíguāng fǎngfú màn le xiàlái, ràng rén zài fúzào shìsú zhōng mìdé xīnlíng de níngjìng. | Since ancient times, Jinan has been called the "City of Poetry" and "Capital of Springs" by literati. Crystal-clear pools, weeping willows at every doorstep, and flowing springs inspired poets for centuries, offering tranquility away from secular haste. | Desde antiguo, los literatos han llamado a Jinan la "Ciudad de la Poesía" y "Capital de los Manantiales". Sauces y manantiales en cada portal inspiraron poemas eternos, regalando al paseante una serenidad que aquieta las prisas del mundo.
+  #2 | 在现代城市生态学研究中，这片拥有数百年保护历史的城市湿地系统被称为“城市之肾”。它不仅在雨季有效调蓄暴雨洪水，更通过天然湿地植物净化水质，为改善区域小气候与维护城市生物多样性提供了不可替代的生态保障。 | Zài xiàndài chéngshì shēngtàixué yánjiū zhōng, zhè piàn yōngyǒu shù bǎi nián bǎohù lìshǐ de chéngshì shīdì xìtǒng bèi chēng wéi "chéngshì zhī shèn". Tā bùjǐn zài yǔjì yǒuxiào tiáoxù bàoyǔ hóngshuǐ, gèng tōngguò tiānrán shīdì zhíwù jìnghuà shuǐzhì, wèi gǎishàn qūyù xiǎoqìhòu yǔ wéihù chéngshì shēngwù duōyàngxìng tígōng le bùkě tìdài de shēngtài bǎozhàng. | In contemporary urban ecology, this wetland system protected for centuries is called the "kidney of the city." It regulates storm runoff during monsoons, purifies water through flora, and stabilizes local microclimates and biodiversity. | En la ecología urbana moderna, este sistema de humedales protegido durante centurias es llamado el "riñón de la urbe". Regula crecidas en época de lluvias, depura el agua con vegetación nativa y salvaguarda la biodiversidad local.

@@ -1,0 +1,64 @@
+id: 34
+hanzi: 丰富
+pinyin: fēng fù
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: abundant; rich; plentiful; to enrich; to augment
+  es: abundante; rico; copioso; enriquecer; diversificar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | possessing great quantities, diverse varieties, or profound depth; abundant; rich | abundante; copioso; fértil; rico en variedad o cantidad | 地下水源十分丰富 (groundwater sources are very abundant)
+  2 | Verb | Standard | to enrich; to augment; to broaden the scope or content of | enriquecer; ampliar; hacer más variado y completo | 丰富业余生活 (enrich spare-time life)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南南部山区拥有丰富多样的植被与降水补给，为市区各大名泉的长年喷涌提供了源源不断的地下水源。 | Jǐnán nánbù shānqū yōngyǒu fēngfù duōyàng de zhíbèi yǔ jiàngshuǐ bǔjǐ, wèi shìqū gè dà míngquán de chángnián pēnyǒng tígōng le yuányuánbùduàn de dìxià shuǐyuán. | The southern mountains of Jinan possess abundant and diverse vegetation and rainfall recharge, providing endless groundwater for urban springs. | Los montes del sur de Jinan gozan de abundante vegetación y recarga pluvial, aportando aguas subterráneas continuas a los célebres manantiales.
+  #2 | 博物馆通过引入虚拟现实互动展项和专题学术讲座，极大地丰富了公众的历史文化体验与精神生活。 | Bówùguǎn tōngguò yǐnrù xūnǐ xiànshí hùdòng zhǎnxiàng hé zhuāntí xuéshù jiǎngzuò, jídà de fēngfù le gōngzhòng de lìshǐ wénhuà tǐyàn yǔ jīngshén shēnghuó. | By introducing interactive VR exhibitions and academic lectures, the museum greatly enriched the public's cultural experience and spiritual life. | Al incorporar muestras interactivas de realidad virtual y conferencias académicas, el museo enriqueció notablemente la experiencia cultural ciudadana.
+
+collocations[6]{hanzi,en}:
+  经验丰富 | rich in experience; experienced
+  资源丰富 | abundant in natural resources
+  内容丰富 | rich in content / substance
+  物产丰富 | rich in natural produce / agricultural wealth
+  丰富生活 | enrich daily life
+  极具丰富性 | possessing immense richness / diversity
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  丰富多彩 | fēng fù duō cǎi | rich and colorful; varied and splendid
+  地大物博 | dì dà wù bó | vast territory and abundant resources
+  琳琅满目 | lín láng mǎn mù | dazzling array of beautiful treasures; feast for the eyes
+  博大精深 | bó dà jīng shēn | broad, deep, and profound; immense erudition
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  丰 | fēng | abundant; bountiful; plump; harvest | abundante; copioso; fértil; cosecha | 丨 | vertical stroke / line | 丨 (central axis) | 三 (stacked grain ears) | 4 | 独体结构 | Ancient pictograph of a ceremonial vessel laden with ripe grain sheaves (豐), simplified to stacked horizontal strokes pierced by a stem. | Ripe ears of golden grain stacked abundantly upon a central vertical stem (丨) represent a bountiful harvest (丰). | Espigas doradas de cereal amontonadas con profusión sobre un tallo vertical (丨) simbolizan una cosecha fértil y abundante (丰). | 55 | QJ | 豐
+  富 | fù | rich; wealthy; abundant; plentiful | rico; acaudalado; abundante; colmado | 宀 | roof | 宀 (roof / home) | 畐 (fú, filled wine jar / prosperity) | 12 | 上下结构 | Ideogram combining roof 宀 and 畐 (a round earthen jar brimming with grain or wine), signifying household wealth and abundance. | Under the safe shelter of a home (宀), an earthen storage jar (畐) is brimming with provisions, making the family rich (富). | Bajo el techo del hogar (宀), una orza colmada (畐) de grano y vino asegura riqueza y bienestar abundante (富). | 51 | JMRW | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When bountiful grain sheaves (丰) fill household jars under every roof (富), life is truly rich and abundant.
+  composite_memory_hook_es: Cuando abundantes gavillas de cereal (丰) colman las orzas bajo el techo (富), la vida es próspera y abundante.
+  cultural_and_cognitive_roots: In Chinese agrarian civilization, 'fēng' (agricultural crop abundance) and 'fù' (household material security) together constitute the foundational ideal of prosperity (丰衣足食).
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'fēng' (55) followed by sharp falling 4th tone 'fù' (51). Clean transition from level pitch down to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    井 | jǐng | well | Has two vertical strokes, whereas 丰 has three horizontal strokes and one vertical
+    手 | shǒu | hand | Has curved hook at bottom, distinct from straight vertical stroke of 丰
+    福 | fú | blessing; good fortune | Has spirit altar radical 礻 on the left instead of roof 宀
+    副 | fù | vice; assistant; measure word | Has knife radical 刂 on the right next to 畐
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    盛 | shèng | flourishing; prosperous; grand
+    裕 | yù | plentiful; affluent; abundant
+    茂 | mào | luxuriant; lush; thriving
+    繁 | fán | numerous; complex; propagate
+
+semantic_boundary_contrasts:
+  core_nuance: 丰富 describes great abundance and diversity in resources, experiences, knowledge, or artistic content, and can function as a transitive verb.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 丰富 vs. 充裕 | chōngyù | 丰富 emphasizes diversity, qualitative depth, and variety (经验丰富, 内容丰富), whereas 充裕 denotes sheer quantitative surplus of time, budget, or materials (时间充裕, 资金充裕).
+    2 | 丰富 vs. 富裕 | fùyù | 丰富 modifies abstract assets like knowledge, experience, or nature's variety, while 富裕 specifically describes economic wealth, affluence, and high income.
+    3 | 丰富 vs. 繁多 | fánduō | 丰富 carries an unmistakably positive praise of qualitative richness, whereas 繁多 simply emphasizes that items or tasks are numerous and varied in a neutral or cumbersome sense.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南之所以能享有“天下泉城”的美誉，正是依托于其丰富而独特的地下泉水资源。七十二处名泉喷涌激荡，水质甘洌，不仅孕育了丰富多彩的泉水民俗与茶艺文化，更让这座历史名城在时光洗礼中愈发温润醇厚。 | Jǐnán zhī suǒyǐ néng xiǎngyǒu "Tiānxià Quánchéng" de měiyù, zhèng shì yītuō yú qí fēngfù ér dútè de dìxià quánshuǐ zīyuán. Qīshí'èr chù míngquán pēnyǒng jīdàng, shuǐzhì gānliè, bùjǐn yùnyù le fēngfùduōcǎi de quánshuǐ mínsú yǔ cháyì wénhuà, gèng ràng zhè zuò lìshǐ míngchéng zài shíguāng xǐlǐ zhōng yùfā wēnrùn chúnhòu. | Why Jinan is acclaimed as the "Spring City Under Heaven" rests upon abundant, unique groundwater. The 72 springs, bubbling with sweet water, nurture vibrant folklore and tea arts, infusing the city with warmth. | Si Jinan es aclamada "Ciudad de Manantiales Bajo el Cielo" se debe a sus ricos manantiales subterráneos. Setenta y dos veneros dulces nutren un folclore vivo y la cultura del té, dotando a la urbe de una apacible solera histórica.
+  #2 | 在知识经济时代，人力资本与专利知识库的丰富程度直接决定了企业的核心竞争力。领军科技企业通过构建跨学科研发平台与提供丰富多样的职业培训课程，有效激发员工的创新思维，为技术持续突破构筑坚实人才蓄水池。 | Zài zhīshi jīngjì shídài, rénlì zīběn yǔ zhuānlì zhīshikù de fēngfù chéngdù zhíjiē juédìng le qǐyè de héxīn jìngzhēnglì. Lǐngjūn kējì qǐyè tōngguò gòujiàn kuàxékē yánfā píngtái yǔ tígōng fēngfùduōyàng de zhíyè péixùn kèchéng, yǒuxiào jīfā yuángōng de chuàngxīn sīwéi, wèi jìshù chíxù tūpò gòuzhù jiānshí réncái xùshuǐchí. | In the knowledge economy, the richness of human capital and patent portfolios determines competitiveness. Tech leaders build interdisciplinary platforms and training courses to spark innovation, establishing deep talent pools. | En la economía del conocimiento, la riqueza del capital humano y patentes fija la competitividad. Las firmas punteras crean plataformas interdisciplinarias y formación diversa para estimular la innovación y afianzar reservas de talento.

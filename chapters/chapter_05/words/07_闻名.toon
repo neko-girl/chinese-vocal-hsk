@@ -1,0 +1,64 @@
+id: 7
+hanzi: 闻名
+pinyin: wén míng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: famous; well-known; renowned; celebrated
+  es: famoso; célebre; renombrado; ilustre
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | well-known; renowned; famous far and wide | famoso; renombrado; de fama extendida | 闻名中外 (famous in China and abroad)
+  2 | Verb | Formal | to hear someone's prestigious name | oír hablar de la fama de alguien | 闻名不如见面 (hearing of someone is not as good as meeting in person)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉因其泉水清洌甘美、喷涌壮观而闻名天下，吸引了无数中外游人。 | Bàotūquán yīn qí quánshuǐ qīngliè gānměi, pēnyǒng zhuàngguān ér wénmíng tiānxià, xīyǐn le wúshù zhōngwài yóurén. | Baotu Spring is world-famous for its sweet, crystal-clear water and spectacular gushing plumes, drawing countless domestic and foreign tourists. | El manantial Baotu es mundialmente famoso por sus aguas dulces y cristalinas y sus espectaculares surtidores, atrayendo a innumerables viajeros.
+  #2 | 该科技公司以卓越的自主研发能力和严谨的质量管控闻名业内，产品远销海外八十多个国家。 | Gāi kējì gōngsī yǐ zhuóyuè de zìzhǔ yánfā nénglì yǔ yánjǐn de zhìliàng guǎnkòng wénmíng yènèi, chǎnpǐn yuǎnxiāo hǎiwài bāshí duō gè guójiā. | The tech enterprise is renowned in the industry for outstanding autonomous R&D and rigorous quality control, exporting products to over 80 nations. | Esta firma tecnológica es célebre en el sector por su vanguardista I+D autónoma y riguroso control de calidad, exportando a más de ochenta países.
+
+collocations[6]{hanzi,en}:
+  闻名天下 | famous across the entire world
+  闻名中外 | renowned both in China and abroad
+  举世闻名 | world-famous; celebrated globally
+  远近闻名 | famous far and wide; well-known near and far
+  闻名遐迩 | known near and far; widely celebrated
+  享有闻名 | enjoy renowned reputation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  闻名遐迩 | wén míng xiá ěr | famous near and far; renowned throughout the land
+  举世闻名 | jǔ shì wén míng | world-famous; renowned across the globe
+  默默无闻 | mò mò wú wén | unknown to the public; quiet and uncelebrated
+  百闻不如一见 | bǎi wén bù rú yí jiàn | seeing once is better than hearing a hundred times
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  闻 | wén | hear; news; smell; reputation | oír; escuchar; noticia; fama | 门 | gate / door | 门 (doorway, boundary) | 耳 (ear, listening) | 9 | 半包围结构 | Ideogram combining an ear 耳 inside an open doorway 门: to hear rumors and reports arriving from the threshold. | Place your ear (耳) close to the courtyard gate (门) to hear prestigious news of fame spreading abroad. | Acerca tu oreja (耳) al portal (门) para escuchar cómo se difunden las noticias de un nombre ilustre. | 35 | ANSR | 聞
+  名 | míng | name; fame; reputation | nombre; fama; renombre | 口 | mouth | 口 (mouth, voicing identity) | 夕 (evening / night) | 6 | 上下结构 | In the darkness of night (夕), people had to pronounce their names with their mouths (口) so they could be identified. | When evening (夕) darkness arrives, speak your name with your mouth (口) to make yourself famous. | Al caer la noche (夕), proclamas tu nombre con la boca (口) para que todos reconozcan tu prestigio. | 35 | NIR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When people standing by their gates hear (闻) your prestigious name (名), you are truly world-renowned.
+  composite_memory_hook_es: Cuando todos escuchan (闻) tu ilustre nombre (名) junto al umbral, eres verdaderamente célebre.
+  cultural_and_cognitive_roots: In classical Chinese culture, 'wén' bridges acoustic perception (hearing) with civic renown. Fame ('míng') is that which echoes through the ears of the populace.
+  tone_sandhi_and_pitch_modulation: Pronounced with dual rising tones (35-35). Smoothly glide both syllables upward without swallowing either tone contour.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    问 | wèn | ask; inquire | Has 口 (mouth) inside 门 instead of 耳 (ear)
+    闷 | mèn | stifling; bored | Has 心 (heart) inside 门 instead of 耳
+    闪 | shǎn | flash; dodge | Has 人 (person) inside 门 instead of 耳
+    各 | gè | each | Has 夂 over 口, differing from 名 (夕 + 口)
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    听 | tīng | listen; obey
+    声 | shēng | sound; voice; acoustic tone
+    誉 | yù | praise; reputation
+    扬 | yáng | raise; spread; broadcast
+
+semantic_boundary_contrasts:
+  core_nuance: 闻名 is an adjective describing wide recognition or high renown established by word of mouth and public repute.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 闻名 vs. 著名 | zhùmíng | 闻名 emphasizes being widely heard of through public reputation (often in 闻名中外), whereas 著名 denotes formal, distinguished prominence in a professional or cultural field.
+    2 | 闻名 vs. 出名 | chūmíng | 闻名 is an elevated, formal adjective, whereas 出名 is colloquial and can occasionally carry neutral or even negative overtones (making a name for oneself).
+    3 | 闻名 vs. 知名 | zhīmíng | 闻名 stresses broad geographic or historical fame, while 知名 indicates that a brand or figure is recognizable within a targeted circle or market.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 一座城市之所以能闻名于世，不仅在于其拥有雄奇的自然山水，更在于其深厚的人文底蕴。历代诗人在泉边题写的楹联与石碑，将泉水的灵动化作不朽的篇章，让这座城市的清雅芳名传遍千家万户。 | Yí zuò chéngshì zhī suǒyǐ néng wénmíng yú shì, bùjǐn zài yú qí yōngyǒu xióngqí de zìrán shānshuǐ, gèng zài yú qí shēnhòu de rénwén dǐyùn. Lìdài shīrén zài quánbiān tíxiě de yínglián yǔ shíbēi, jiāng quánshuǐ de língdòng huàzuò bùxiǔ de piānzhāng, ràng zhè zuò chéngshì de qīngyǎ fāngmíng chuánbiàn qiānjiāwànhù. | A city becomes celebrated worldwide not merely for magnificent natural scenery, but for profound cultural heritage. Inscriptions left by poets beside bubbling springs turn fluid water into immortal verse, spreading the city's refined name across countless households. | Una urbe no se hace célebre solo por sus paisajes majestuosos, sino por su hondo legado humano. Las estelas grabadas por poetas junto al agua inmortalizaron su fluir en verso, difundiendo el nombre ilustre de la ciudad por incontables hogares.
+  #2 | 凭借悠久精湛的传统陶瓷烧造技艺，这座古镇在国际手工业界享有盛誉、闻名遐迩。近年来，当地通过建立非遗工坊和举办国际设计交流季，推动传统手工技艺与现代工业设计跨界融合，让古镇品牌重现生机。 | Píngjiè yōujiǔ jīngzhàn de chuántǒng táocí shāozào jìyì, zhè zuò gǔzhèn zài guójì shǒugōngyè jiè xiǎngyǒu shèngyù, wénmíng xiá'ěr. Jìnniánlái, dāngdì tōngguò jiànlì fēiyí gōngfāng hé jǔbàn guójì shèjì jiāoliújì, tuīdòng chuántǒng shǒugōng jìyì yǔ xiàndài gōngyè shèjì kuàjiè rónghé, ràng gǔzhèn pǐnpái chóngxiàn shēngjī. | Relying on centuries-old ceramic craftsmanship, this historic town is celebrated far and wide across the craft world. By establishing heritage studios and hosting international design fairs, it harmonizes traditional pottery with modern aesthetics. | Gracias a su secular maestría alfarera, este pueblo histórico goza de un renombre universal. Mediante talleres artesanales y foros internacionales, entrelaza la cerámica tradicional con el diseño contemporáneo, relanzando su prestigiosa marca.

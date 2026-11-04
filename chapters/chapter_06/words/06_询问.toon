@@ -1,0 +1,66 @@
+id: 6
+hanzi: 询问
+pinyin: xún wèn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to ask; to inquire; to consult; to question
+  es: preguntar; consultar; averiguar; inquirir; indagar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Formal | to ask or inquire about facts, situations, or opinions in a polite or formal manner | preguntar o averiguar formalmente sobre hechos, situaciones u opiniones | 询问情况 (inquire about the situation)
+  2 | Noun | Formal | formal inquiry, interrogation, or consultation | consulta; indagación; interrogatorio formal | 接受询问 (undergo inquiry / questioning)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老人走进村子时，关切地向慌忙收拾行李的村民询问究竟发生了什么事。 | Lǎorén zǒujìn cūnzi shí, guānqiè de xiàng huāngmáng shōushi xíngli de cūnmín xúnwèn jiūjìng fāshēng le shénme shì. | When the old man entered the village, he concernedly inquired of the villagers frantically packing their luggage what on earth had happened. | Al entrar a la aldea, el anciano preguntó con preocupación a los lugareños que empacaban a toda prisa qué ocurría exactamente.
+  #2 | 调查委员会就安全事故的处置细节向相关责任人进行了长达数小时的正式询问。 | Diàochá wěiyuánhuì jiù ānquán shìgù de chǔzhì xìjié xiàng xiāngguān zérènrén jìnxíng le chángdá shù xiǎoshí de zhèngshì xúnwèn. | The investigative commission conducted a formal inquiry lasting several hours with responsible persons regarding procedural details of the safety incident. | La comisión investigadora llevó a cabo un interrogatorio formal de varias horas con los responsables acerca de los detalles del incidente de seguridad.
+
+collocations[6]{hanzi,en}:
+  询问情况 | inquire about the situation / condition
+  详细询问 | inquire in detail
+  关切询问 | ask with deep concern / inquire solicitously
+  接受询问 | undergo questioning / inquiry
+  前来询问 | come to inquire / ask
+  询问意见 | consult opinions / inquire about views
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  问心无愧 | wèn xīn wú kuì | have a clear conscience; examine one's heart without shame
+  刨根问底 | páo gēn wèn dǐ | dig to the root and ask to the bottom; probe thoroughly
+  不耻下问 | bù chǐ xià wèn | not feel ashamed to ask and learn from one's subordinates
+  嘘寒问暖 | xū hán wèn nuǎn | inquire solicitously about someone's well-being; show caring concern
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  询 | xún | inquire; consult; ask | inquirir; consultar; preguntar | 讠 | speech / words | 讠 (words, spoken inquiry) | 旬 (xún, cycle of ten days / phonetic) | 8 | 左右结构 | Phono-semantic compound where speech radical 讠 signifies seeking information verbally, and 旬 provides phonetic rhyme. | A traveling scholar uttering polite words (讠) across the ten days of a week (旬) to consult knowledgeable elders. | Un letrado errante que pronuncia palabras corteses (讠) a lo largo de diez días (旬) consultando a los sabios locales. | 35 | IVPA | 詢
+  问 | wèn | ask; inquire; interrogate; question | preguntar; inquirir; interrogar; cuestionar | 门 | door / gate | 口 (mouth, asking questions) | 门 (mén, door / phonetic) | 6 | 半包围结构 | Simplified from traditional 問. Depicts a mouth (口) opening at a household entrance gate (门) to call out and make inquiries. | A traveler opening their mouth (口) at the village gate (门) to politely ask for directions into the valley. | Un viajero que abre la boca (口) en la puerta de la aldea (门) para pedir amablemente indicaciones del camino. | 51 | LSR | 問
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Consult through respectful spoken words (询) at the front gate (问) to make a thorough inquiry (询问).
+  composite_memory_hook_es: Consulta con palabras respetuosas (询) en la puerta (问) para formular una atenta indagación (询问).
+  cultural_and_cognitive_roots: Combining 'xún' (careful, institutional consultation as in 咨询) with 'wèn' (open verbal questioning), 询问 denotes an earnest, methodical search for facts or counsel rather than a casual question.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'xún' (35) followed by sharp falling 4th tone 'wèn' (51). Glide smoothly upward before dropping decisively on the closing syllable.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    殉 | xùn | die for a cause; be buried with | Has death radical 歹 on the left of 旬 instead of speech radical 讠
+    绚 | xuàn | gorgeous; brilliant | Has silk radical 纟 on the left of 旬
+    间 | jiān | between; interval; room | Has sun radical 日 inside 门 instead of mouth radical 口
+    闪 | shǎn | flash; dodge; sparkle | Has person radical 人 inside 门 instead of 口
+    闭 | bì | close; shut | Has talent/cross stroke 才 inside 门 instead of 口
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    访 | fǎng | visit; inquire; interview
+    探 | tàn | explore; probe; investigate
+    查 | chá | check; investigate; inspect
+    咨 | zī | consult; confer
+    讯 | xùn | interrogate; message; news
+
+semantic_boundary_contrasts:
+  core_nuance: 询问 emphasizes formal, polite, or institutional inquiry into facts, conditions, or expert opinions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 询问 vs. 问 | wèn | 问 is monosyllabic and colloquial, used for everyday casual asking (问路、问好), whereas 询问 is formal and disyllabic, used in official, medical, or investigative situations.
+    2 | 询问 vs. 打听 | dǎtǐng | 询问 carries an objective, transparent, and respectful tone for official or business clarification, while 打听 implies informal gossiping, personal probing, or scouting out private news.
+    3 | 询问 vs. 质问 | zhìwèn | 询问 is neutral and courteous seeking genuine information, whereas 质问 is an aggressive, confrontational interrogation demanding an immediate explanation or confession.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 当陌生的白发老人踏入村庄时，见众人扶老携幼惊慌逃离，便温和地上前询问究竟。村民起初畏惧不敢言，但在老人沉静坚定的目光注视下，终于道出了年兽除夕夜下山伤人的古老秘密。 | Dāng mòshēng de báifà lǎorén tàrù cūnzhuāng shí, jiàn zhòngrén fúlǎo-xiéyòu jīnghuāng táolí, biàn wēnhé de shàngqián xúnwèn jiūjìng. Cūnmín qǐchū wèijù bù gǎn yán, dàn zài lǎorén chénjìng jiāndìng de mùguāng zhùshì xià, zhōngyú dàochū le Niánshòu Chúxī yè xiàshān shāngrén de gǔlǎo mìmì. | When the unfamiliar white-haired elder entered the village and saw crowds fleeing in panic with elders and children, he stepped forward gently to inquire about the matter. At first villagers shrank from speaking, but under his calm and resolute gaze, they ultimately revealed the ancient secret of the beast Nian descending on New Year's Eve to harm mortals. | Cuando el forastero de cabellos blancos llegó a la aldea y vio a la gente huir presa del pánico, se acercó a preguntar con serenidad lo que sucedía. Aunque al principio temían hablar, la mirada firme y apacible del anciano los animó a revelar el antiguo secreto de la fiera Nian que bajaba a herir personas en fin de año.
+  #2 | 在现代公共治理中，行政机关做出重大民生决策前，必须依法开展深入的民意询问与专家论证。通过规范化制度倾听基层诉求，不仅能够有效规避执行偏差，更能显著提升公共政策的科学性与公信力。 | Zài xiàndài gōnggòng zhìlǐ zhōng, xíngzhèng jīguān zuòchū zhòngdà mínshēng juécè qián, bìxū yīfǎ kāizhǎn shēnrù de mínyì xúnwèn yǔ zhuānjiā lùnzhèng. Tōngguò guīfànhuà zhìdù qīngtīng jīcéng sùqiú, bùjǐn nénggòu yǒuxiào guībì zhíxíng piānchā, gèng néng xiǎnzhù tíshēng gōnggòng zhèngcè de kēxuéxìng yǔ gōngxìnlì. | In contemporary public governance, before administrative organs finalize major welfare decisions, they must conduct thorough public inquiries and expert deliberations according to law. Attending to grassroots appeals through standardized procedures avoids operational missteps and enhances the scientific rigor and credibility of public policies. | En la gestión pública actual, los órganos administrativos deben realizar consultas ciudadanas e informes periciales antes de tomar decisiones sobre el bienestar común. Escuchar las demandas de la sociedad mediante mecanismos normados evita desviaciones y consolida la credibilidad de las políticas públicas.

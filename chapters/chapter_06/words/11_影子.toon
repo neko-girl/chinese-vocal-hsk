@@ -1,0 +1,67 @@
+id: 11
+hanzi: 影子
+pinyin: yǐng zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: shadow; reflection; trace; glimpse
+  es: sombra; reflejo; rastro; silueta
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | shadow cast by an opaque object blocking light rays | sombra proyectada por un cuerpo al interceptar la luz | 树的影子 (shadow of the tree)
+  2 | Noun | Standard | reflection or image cast in water, glass, or mirrors | reflejo o imagen proyectada en agua, espejos o superficies | 水中的影子 (reflection in the water)
+  3 | Noun | Colloquial | faint trace, vague impression, or indication of something | indicio; rastro; señal remota o vaga | 连个影子都没有 (not a trace to be seen)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕夜的月光洒在庭院里，地上映照出积雪和老树交错的影子，孩子们在院中欢快地嬉戏。 | Chúxī yè de yuèguāng sǎ zài tíngyuàn lǐ, dìshang yìngzhào chū jīxuě hé lǎoshù jiāocuò de yǐngzi, háizimen zài yuàn zhōng huānkuài de xīxì. | On New Year's Eve, moonlight spilled over the courtyard, casting intertwined shadows of old trees and snow on the ground as children played happily. | En la nochevieja, la luz de la luna bañaba el patio, proyectando sombras entrelazadas de nieve y viejos árboles mientras los niños jugaban alegremente.
+  #2 | 在这份宏观经济调查报告中，我们不仅要分析表面的统计数据，更要看清潜藏在数字背后的结构性危机影子。 | Zài zhè fèn hóngguān jīngjì diàochá bàogào zhōng, wǒmen bùjǐn yào fēnxī biǎomiàn de tǒngjì shùjù, gèng yào kànqīng qiáncáng zài shùzì bèihòu de jiégòuxìng wēijī yǐngzi. | In this macroeconomic investigation report, we must not only analyze superficial statistical figures, but also clearly discern the looming shadow of structural crisis lurking behind the numbers. | En este informe de investigación macroeconómica, no solo debemos analizar los datos estadísticos superficiales, sino también distinguir con claridad la sombra de la crisis estructural que se oculta tras las cifras.
+
+collocations[6]{hanzi,en}:
+  留下影子 | leave a shadow; cast an impression
+  阳光下的影子 | shadow under the sunlight
+  毫无影子 | without a trace; not a sign of
+  身影 | silhouette; figure
+  捕捉影子 | capture a reflection or shadow
+  影子的轮廓 | outline of a shadow
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  捕风捉影 | bǔ fēng zhuō yǐng | chase the wind and clutch at shadows; make groundless accusations
+  形影不离 | xíng yǐng bù lí | inseparable as body and shadow; closely attached
+  顾影自怜 | gù yǐng zì lián | look at one's own shadow and lament; wallow in self-pity
+  立竿见影 | lì gān jiàn yǐng | set up a pole and see its shadow immediately; produce instant results
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  影 | yǐng | shadow; reflection; movie; image | sombra; reflejo; imagen; película | 彡 | bristle / light rays / shading | 日 (sun/light) + 彡 (rays/shading) | 京 (jīng, tall pavilion / phonetic) | 15 | 左右结构 | Phono-semantic compound. Combines 景 (bright scenery under the sun 日 + 京) with 彡 (shading hair-lines/rays), portraying light creating silhouettes and shadows. | Bright sunlight (日) beams upon a magnificent city tower (京), casting long feathered brushstroke rays (彡) across the plaza floor to create a shadow. | La luz del sol (日) brilla sobre una gran torre (京), proyectando finas líneas de sombra (彡) en el suelo como pinceladas de plumaje. | 214 | AMHHH | 影
+  子 | zi | noun suffix; offspring; seed | sufijo nominal; hijo; semilla | 子 | child / offspring | 子 (infant with head and swaddled limbs) | "" | 3 | 独体字 | Ancient pictograph of a newborn baby with head, arms open, and swaddled body, serving widely in modern vernacular Mandarin as a neutral-tone nominalizing suffix. | A tiny child (子) with outstretched arms, serving as a light suffix attached to concrete nouns to denote everyday tangible objects. | Un pequeño niño (子) con los brazos abiertos, que sirve como sufijo ligero para otorgar carácter tangible a sustantivos cotidianos. | 214 | ND | 子
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When bright sunbeams create a silhouette (影), a tiny suffix (子) turns it into the tangible shadow (影子) cast beside you.
+  composite_memory_hook_es: Cuando los rayos del sol dibujan una silueta (影), el sufijo nominal (子) forma la sombra (影子) perceptible que te acompaña.
+  cultural_and_cognitive_roots: In classical Chinese philosophy and literature, 影 (shadow) symbolizes the ephemeral nature of worldly appearances and the constant companion of solitary existence (as in Li Bai's famous poem 对影成三人, 'facing my shadow makes three of us'). The nominal suffix 子 softens the monosyllable into the common spoken noun 影子.
+  tone_sandhi_and_pitch_modulation: Low dipping 3rd tone 'yǐng' (214) followed by neutral tone 'zi' (2). The first syllable exhibits full dipping contour when isolated, but in fluent speech before the neutral tone, it maintains a low dip (21) while 'zi' is pronounced lightly and briefly at a low pitch.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    景 | jǐng | scenery; view | Lacks the three light-ray strokes 彡 on the right
+    彩 | cǎi | color; applause | Has 采 on the left instead of 景
+    彭 | péng | surname Peng; drumming sound | Has 壴 on the left of 彡 instead of 景
+    彰 | zhāng | manifest; clear | Has 章 on the left of 彡 instead of 景
+    须 | xū | beard; must; necessary | Has 彡 on the left of 页 instead of right of 景
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    景 | jǐng | scenery; landscape; brightness
+    映 | yìng | reflect; shine; mirror
+    亮 | liàng | bright; clear; shine
+    晃 | huàng | sway; flash; dazzle
+    照 | zhào | illuminate; reflect; photograph
+
+semantic_boundary_contrasts:
+  core_nuance: 影子 designates the actual physical dark area or optical reflection cast by an object blocking light, or figuratively a faint trace or looming threat.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 影子 vs. 身影 | shēnyǐng | 影子 denotes the optical silhouette cast by an obstruction of light or an inanimate object's shadow, whereas 身影 specifically refers to the visible posture, silhouette, or figure of a human body in motion or standing.
+    2 | 影子 vs. 倒影 | dàoyǐng | 影子 refers to any cast shadow or optical profile on ground or walls, whereas 倒影 specifically designates an inverted optical reflection mirrored upside-down on a body of water or reflective polished surface.
+    3 | 影子 vs. 迹象 | jìxiàng | 影子 figuratively denotes the lingering aura, ghost, or faint trace of an issue (e.g. 摆脱过去的影子), whereas 迹象 refers to objective empirical signs, clues, or indicators pointing to a future trend or past event (e.g. 经济复苏的迹象).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 月光下的长街寂静无声，路灯将行人的影子拉得很长。我们总在夜色里追寻前方的微光，却常常忽略了身后默默跟随的影子。它如同一面无言的镜子，映照着生命旅途中的孤独与坚定。 | Yuèguāng xià de chángjiē jìjìng wúshēng, lùdēng jiāng xíngrén de yǐngzi lā de hěn cháng. Wǒmen zǒng zài yèsè lǐ zhuīxún qiánfāng de wēiguāng, què chángcháng hūlüè le shēnhòu mòmò gēnsuí de yǐngzi. Tā rútóng yí miàn wúyán de jìngzi, yìngzhào zhe shēngmìng lǚtú zhōng de gūdú yǔ jiāndìng. | Under the moonlight, the long street is tranquil and silent, while street lamps stretch the shadows of pedestrians very long. We always seek the faint light ahead in the night, yet often overlook the shadow silently following behind us. Like a mute mirror, it reflects the loneliness and steadfast resolve throughout life's journey. | Bajo la luna, la larga calle está en silencio sepulcral, mientras las farolas estiran las sombras de los transeúntes. Solemos perseguir la tenue luz del camino en la noche, descuidando a menudo la sombra que nos sigue en silencio. Como un espejo mudo, refleja la soledad y la firmeza a lo largo del viaje de la vida.
+  #2 | 在现代城市规划与高层建筑设计中，建筑影子对公共空间的遮挡已成为环境评估的关键指标。合理的楼间距不仅能消除深沉影子的压迫感，还能确保冬季充足的自然采光，让绿色低碳理念融入日常。 | Zài xiàndài chéngshì guīhuà yǔ gāocéng jiànzhù shèjì zhōng, jiànzhù yǐngzi duì gōnggòng kōngjiān de zhēdǎng yǐ chéngwéi huánjìng pínggū de guānjiàn zhǐbiāo. Hélǐ de lóujiānjù bùjǐn néng xiāochú shēnchén yǐngzi de yāpògǎn, hái néng quèbǎo dōngjì chōngzú de zìrán cǎiguāng, ràng lǜsè dītàn lǐniàn róngrù rìcháng. | In modern urban planning and high-rise architecture design, the obstruction of public spaces by building shadows has become a crucial environmental assessment index. Reasonable building spacing not only eliminates oppressive deep shadows, but also guarantees ample natural sunlight in winter, integrating green low-carbon concepts into daily life. | En el urbanismo moderno y el diseño de rascacielos, la obstrucción del espacio público por la sombra de los edificios es un índice clave de evaluación ambiental. Una distancia adecuada entre edificios mitiga la opresión de sombras densas y asegura iluminación natural en invierno, integrando el concepto ecológico en lo cotidiano.

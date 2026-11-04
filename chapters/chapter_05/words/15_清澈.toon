@@ -1,0 +1,63 @@
+id: 15
+hanzi: 清澈
+pinyin: qīng chè
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: limpid; crystal-clear; pure and transparent (of water or eyes)
+  es: límpido; cristalino; transparente; diáfano (referido al agua o la mirada)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | limpid; crystal-clear; completely transparent and free from impurities | límpido; cristalino; transparente y exento de impurezas | 清澈见底的泉水 (crystal-clear spring water through which the bottom is visible)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的泉水清澈见底，池底游动的水草与彩色游鱼在日光折射下历历在目。 | Jǐnán de quánshuǐ qīngchè jiàndǐ, chídǐ yóudòng de shuǐcǎo yǔ cǎisè yóuyú zài rìguāng zhéshè xià lìlì zài mù. | Jinan's springs are crystal-clear to the bottom; floating weeds and colorful swimming fish are clearly visible under sunlight. | Las aguas de los manantiales de Jinan son límpidas como el cristal; la vegetación y los peces de colores se distinguen con nitidez bajo el sol.
+  #2 | 经过多年流域综合治理，原本受到工业污染的护城河重现清澈，两岸生态环境显著改善。 | Jīngguò duō nián liùyù zōnghé zhìlǐ, yuánběn shòudào gōngyè wūrǎn de hùchénghé chóngxiàn qīngchè, liǎng'àn shēngtài huánjìng xiǎnzhù gǎishàn. | After years of integrated basin management, the moat once plagued by industrial pollution has regained crystal clarity. | Tras años de saneamiento integral, el foso perimetral antes afectado por vertidos industriales luce de nuevo cristalino y restaurado.
+
+collocations[6]{hanzi,en}:
+  清澈见底 | crystal-clear down to the bottom
+  清澈的泉水 | limpid spring water
+  清澈的河流 | transparent, clean river
+  清澈的目光 | clear, innocent gaze / eyes
+  湖水清澈 | the lake water is limpid
+  碧绿清澈 | emerald green and crystal-clear
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  水清石见 | shuǐ qīng shí xiàn | when water is clear, stones appear; the truth comes to light
+  清澈见底 | qīng chè jiàn dǐ | crystal-clear down to the bottom; completely transparent
+  海晏河清 | hǎi yàn hé qīng | the seas are calm and the Yellow River is clear; peace under heaven
+  泾渭分明 | jīng wèi fēn míng | as distinct as the waters of Jing and Wei rivers; clear distinction
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  清 | qīng | clear; pure; clean; quiet | claro; puro; limpio; límpido | 氵 | water | 氵 (water, liquid clarity) | 青 (qīng, green/blue / clear) | 11 | 左右结构 | Phono-semantic compound where water radical 氵 indicates liquid, and 青 denotes vibrant purity of verdant spring growth. | Pure water droplets (氵) sparkling like green jade (青) in spring sunlight show supreme clarity (清). | Gotas de agua pura (氵) que brillan como jade verde (青) al sol revelan una transparencia pura (清). | 55 | EQMB | ""
+  澈 | chè | limpid; penetrate; clear | límpido; penetrar; diáfano | 氵 | water | 氵 (water, transparent flow) | 育/攴 (sprout / penetrate) | 15 | 左右结构 | Phono-semantic compound where water radical 氵 combines with 徹 (penetrate through) to express seeing straight through water. | Flowing water (氵) so sheer and luminous that sunlight penetrates completely through to the rocks beneath (澈). | Agua cristalina (氵) tan diáfana que los rayos del sol penetran hasta el lecho rocoso (澈). | 51 | EYBK | 徹
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pure spring water (清) so transparent that sunlight penetrates through (澈) to the stony bottom.
+  composite_memory_hook_es: Agua pura de manantial (清) tan transparente que la luz penetra (澈) hasta el fondo rocoso.
+  cultural_and_cognitive_roots: In Chinese aesthetic and moral traditions, water clarity ('qīngchè') is the supreme metaphor for incorruptible moral integrity and enlightened mental purity (心境清澈).
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'qīng' (55) followed by sharp falling 4th tone 'chè' (51). Clear pitch separation.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    晴 | qíng | clear sky; sunny | Has sun radical 日 on the left instead of water 氵
+    情 | qíng | feeling; emotion | Has heart radical 忄 on the left instead of water 氵
+    撤 | chè | withdraw; remove | Has hand radical 扌 instead of water radical 氵
+    辙 | zhé | wheel rut; track | Has vehicle radical 车 instead of water radical 氵
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    澄 | chéng | settle; clarify; limpid
+    明 | míng | bright; luminous; clear
+    洁 | jié | clean; spotless; pure
+    透 | tòu | penetrate; transparent
+
+semantic_boundary_contrasts:
+  core_nuance: 清澈 specifically describes liquids (especially springs, rivers, lakes) or eyes that are transparent, luminous, and free of sediment.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 清澈 vs. 清洁 | qīngjié | 清澈 describes optical transparency in water or eyes, whereas 清洁 means clean, sanitary, or washed free of dirt/bacteria.
+    2 | 清澈 vs. 清新 | qīngxīn | 清澈 refers to transparent optical clarity, while 清新 refers to fresh, invigorating air, breeze, or artistic styles.
+    3 | 清澈 vs. 澄清 | chéngqīng | 清澈 is an adjective depicting existing visual transparency, whereas 澄清 can function as an active verb meaning to clarify misunderstandings or let sediment settle.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉的泉水清澈明亮，宛如一块巨大的无瑕碧玉。微风拂过水面，泛起细碎的涟漪，池底的水藻如青丝般轻柔摇曳。静静注视着这泓清澈泉流，尘世间的纷扰喧嚣瞬间消散，心境亦随之变得澄明安宁。 | Bàotūquán de quánshuǐ qīngchè míngliàng, wǎnrú yí kuài jùdà de wúxiá bìyù. Wēifēng fúguò shuǐmiàn, fànqǐ xìsuì de liányī, chídǐ de shuǐzǎo rú qīngsī bān qīngróu yáoyè. Jìngjìng zhùshì zhe zhè hóng qīngchè quánliú, chénshì jiān de fēnrǎo xuānnào shùnjiān xiāosàn, xīnjìng yì suízhī biànde chéngmíng ānníng. | Baotu Spring's water is crystal-clear and bright, like a giant flawless emerald. A gentle breeze creates delicate ripples as underwater grasses sway softly. Gazing quietly into this limpid spring, worldly distractions vanish, leaving serene clarity. | El agua del manantial Baotu es cristalina y brillante cual esmeralda perfecta. La brisa riza el agua mientras las algas ondean con gracilidad. Contemplar este remanso diáfano disuelve toda inquietud, dejando una serenidad límpida en el alma.
+  #2 | 生态环境治理的核心目标之一是重现江河湖泊的清澈底色。近年来，环保部门全面推行河长制，强化源头截污与水体自净功能修复。水体透明度显著提高，不仅改善了人居环境，更重塑了城市的水系生态安全屏障。 | Shēngtài huánjìng zhìlǐ de héxīn mùbiāo zhīyī shì chóngxiàn jiānghé húpō de qīngchè dǐsè. Jìnniánlái, huánbǎo bùmén quánmiàn tuīxíng hézhǎngzhì, qiánghuà yuántóu jiéwū yǔ shuǐtǐ zìjìng gōngnéng xiūfù. Shuǐtǐ tòumíngdù xiǎnzhù tígāo, bùjǐn gǎishàn le rénjū huánjìng, gèng zhòngshù le chéngshì de shuǐxì shēngtài ānquán píngzhàng. | A central goal of environmental management is restoring rivers and lakes to pristine clarity. Implementing the "River Chief" mechanism strengthens pollution interception and ecological self-purification, safeguarding urban water ecology. | Un objetivo primordial de la política ambiental es recuperar la transparencia límpida de los cursos de agua. Con la tutela de cuencas y el saneamiento fluvial, la transparencia acuática mejora el hábitat y blinda el ecosistema urbano.

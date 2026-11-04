@@ -1,0 +1,66 @@
+id: 9
+hanzi: 制造
+pinyin: zhì zào
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to make; to manufacture; to fabricate; to create; to engineer (trouble/atmosphere)
+  es: fabricar; manufacturar; producir; crear; generar (problemas/atmósfera)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to make or manufacture physical products, machinery, or raw materials | fabricar; manufacturar; producir bienes materiales mediante procesos industriales | 制造机器 (manufacture machinery)
+  2 | Verb | Standard | to create or deliberately engineer an artificial situation, atmosphere, rumor, or problem | crear; provocar; maquinar deliberadamente una situación, tensión o conflicto | 制造矛盾 (create friction / cause conflict)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了驱逐年兽，村民们按照老人的指点在门前燃起竹子，制造出震耳欲聋的噼啪爆响声。 | Wèile qūzhú Niánshòu, cūnmínmen ànzhào lǎorén de zhǐdiǎn zài ménqián ránqǐ zhúzi, zhìzào chū zhèn'ěr-yùlóng de pīpā bàoxiǎng shēng. | To drive off the beast Nian, the villagers followed the elder's instructions to burn bamboo in front of their doors, producing deafening crackling bangs. | Para ahuyentar a la fiera Nian, los lugareños siguieron los consejos del anciano quemando cañas de bambú ante sus puertas, produciendo ensordecedores estallidos.
+  #2 | 凭借高端装备制造领域的重大技术突破，该省的高新技术企业在全球供应链竞争中赢得了核心话语权。 | Píngjiè gāoduān zhuāngbèi zhìzào lǐngyù de zhòngdà jìshù tūpò, gāi shěng de gāoxīnjìshù qǐyè zài quánqiú gōngyìngliàn jìngzhēng zhōng yíngdé le héxīn huàyǔquán. | Relying on major technological breakthroughs in high-end equipment manufacturing, the province's high-tech enterprises won core bargaining power in global supply chain competition. | Gracias a decisivos avances técnicos en la fabricación de maquinaria de alta gama, las empresas provinciales conquistaron una posición rectora en las cadenas mundiales de valor.
+
+collocations[6]{hanzi,en}:
+  装备制造 | equipment manufacturing
+  制造业 | manufacturing industry
+  制造麻烦 | create trouble / make problems
+  制造谣言 | fabricate rumors / spread gossip
+  制造气氛 | create an atmosphere
+  制造声响 | produce loud noise / make sounds
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  粗制滥造 | cū zhì làn zào | manufactured in a slipshod way; churn out shoddy goods
+  因地制宜 | yīn dì zhì yí | adapt measures to local conditions
+  造福人类 | zào fú rén lèi | bring benefits to humanity; benefit mankind
+  闭门造车 | bì mén zào chē | build a cart behind closed doors; act divorce from reality
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  制 | zhì | make; system; control; regulate | regular; controlar; sistema; fabricar | 刂 | knife / blade | 刂 (knife trimming / cutting to standard shape) | 未 (cut branches / measure) | 8 | 左右结构 | Combines pruning tree branches with a sharp knife (刂), abstracting into regulating, cutting to measure, and establishing standard forms. In manufacturing, it merges with 製 (tailoring cloth). | Using a sharp pruning knife (刂) to carefully cut raw wood into precise mechanical parts. | Emplear un afilado cuchillo (刂) para tallar madera con precisión hasta convertirla en piezas exactas. | 51 | HMLN | 製
+  造 | zào | create; build; construct; fabricate | construir; crear; edificar; confeccionar | 辶 | walk / move along | 辶 (movement / progression of craft) | 告 (gào, announce / phonetic) | 10 | 半包围结构 | Phono-semantic compound where walking radical 辶 indicates advancing forward in work, and 告 provides phonetic sound. Signifies completing construction step by step. | Announcing (告) the master blueprint while workers march forward (辶) to build and craft a grand pavilion. | Anunciar (告) el plano maestro mientras los constructores avanzan (辶) para levantar un sólido pabellón. | 51 | YHGR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Regulate with a cutting tool (制) while building step by step (造) to manufacture (制造) grand creations.
+  composite_memory_hook_es: Cortar con precisión reglada (制) mientras se avanza construyendo (造) para fabricar (制造) bienes duraderos.
+  cultural_and_cognitive_roots: Ancient Chinese craftsmanship distinguished 'zhì' (imposing standard geometric discipline or law) from 'zào' (physical assembly from raw materials into being). In modern usage, 制造 bridges heavy industrial production with figurative social engineering (e.g. 制造恐慌).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'zhì' (51) followed by falling 4th tone 'zào' (51). When two 4th tones are juxtaposed, articulate each with a sharp downward drop, softening slightly the first tone's bottom pitch to transition smoothly into the second.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    刺 | cì | prick; thorn; assassinate | Has 朿 on the left of 刂 instead of the form in 制
+    剂 | jì | agent; dose; chemical | Has 齐 on the left of 刂
+    选 | xuǎn | choose; select | Has 先 inside walking radical 辶 instead of 告
+    适 | shì | suitable; fit | Has 舌 inside walking radical 辶
+    迫 | pò | compel; urgent | Has 白 inside walking radical 辶
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    产 | chǎn | produce; yield; birth
+    创 | chuàng | create; originate
+    做 | zuò | make; do; produce
+    作 | zuò | do; compose; write
+    塑 | sù | model; sculpt; plastic
+
+semantic_boundary_contrasts:
+  core_nuance: 制造 emphasizes industrial fabrication of physical goods using machinery, or deliberately contriving an abstract situation/conflict.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 制造 vs. 创造 | chuàngzào | 制造 refers to the standardized physical assembly or production of items from existing designs, whereas 创造 highlights pioneering originality, invention, or artistic inspiration from scratch.
+    2 | 制造 vs. 制作 | zhìzuò | 制造 usually refers to large-scale industrial factory manufacturing of machinery or hardware, whereas 制作 focuses on handicraft, film/video production, or culinary craft on an artisanal scale.
+    3 | 制造 vs. 生产 | shēngchǎn | 生产 is a macro-economic concept describing the whole social labor process of generating goods or agricultural harvests, whereas 制造 is the mechanical engineering and physical processing aspect of that process.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕的古老智慧，体现在先民如何借由巧思制造生机。面对身躯庞大的年兽，人们并未硬拼，而是点燃爆竹制造震耳巨响，悬挂红缎制造火光，将猛兽的弱点化为守护家园的盾牌。 | Chúxī de gǔlǎo zhìhuì, tǐxiàn zài xiānmín rúhé jièyóu qiǎosī zhìzào shēngjī. Miànduì shēnqū pángdà de Niánshòu, rénmen bìngwèi yìngpīn, érshì diǎnrán bàozhú zhìzào zhèn'ěr jùxiǎng, xuánguà hóngduàn zhìzào huǒguāng, jiāng měngshòu de ruòdiǎn huàwéi shǒuhù jiāyuán de dùnpái. | The ancient wisdom of New Year's Eve shines in how ancestors cleverly manufactured vitality. Confronting the gigantic beast Nian, rather than reckless combat, people burned bamboo to produce booming sounds and hung red fabrics to create glowing lights, turning the beast's weaknesses into a protective shield. | La sabiduría de la nochevieja se manifiesta en cómo los ancestros supieron generar soluciones ingeniosas. Ante la fiera Nian, en vez de luchar a ciegas, quemaron bambú para producir ruidos atronadores y colgaron telas rojas, convirtiendo el pavor del monstruo en escudo del hogar.
+  #2 | 现代制造业正经历从要素驱动向创新驱动的历史性跨越。随着数字化车间与工业互联网的深度融合，高端智能制造不仅大幅提升了全要素生产率，更为全球绿色低碳转型与工业升级提供了强有力的技术支撑。 | Xiàndài zhìzàoyè zhèng jīnglì cóng yàosù qūdòng xiàng chuàngxīn qūdòng de lìshǐxìng kuàyuè. Suízhe shùzìhuà chējiān yǔ gōngyè hùliánwǎng de shēndù rónghé, gāoduān zhìnéng zhìzào bùjǐn dàfú tíshēng le quányàosù shēngchǎnlǜ, gèng wèi quánqiú lǜsè dītàn zhuǎnxíng yǔ gōngyè shēngjí tígōng le qiángyǒulì de jìshù zhīchēng. | Modern manufacturing is undergoing a historic leap from factor-driven to innovation-driven growth. With deep integration between digital workshops and the industrial internet, intelligent manufacturing enhances total factor productivity and provides technical support for global green industrial upgrades. | La industria manufacturera moderna protagoniza un salto histórico hacia la innovación. Con la integración de fábricas digitales e internet industrial, la manufactura avanzada optimiza la productividad global y ofrece un sólido respaldo técnico para una transición industrial ecológica.

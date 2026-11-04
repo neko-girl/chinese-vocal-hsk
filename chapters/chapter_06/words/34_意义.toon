@@ -1,0 +1,64 @@
+id: 34
+hanzi: 意义
+pinyin: yì yì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: meaning; sense; significance; value; importance
+  es: significado; sentido; significación; valor; importancia
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the semantic import or message conveyed by words, actions, or symbols; meaning | significado semántico o mensaje que transmiten palabras o ritos | 词语的真正意义 (the true meaning of the term)
+  2 | Noun | Standard | value, worth, or monumental historical/social significance | valor; trascendencia o importancia histórica o social | 具有深远的现实意义 (possess far-reaching practical significance)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕守岁不仅是一项充满温情的传统习俗，更具有祈求全家平安、尊老敬贤的深刻文化意义。 | Chúxī shǒusuì bùjǐn shì yí xiàng chōngmǎn wēnqíng de chuántǒng xísú, gèng jùyǒu qíqiú quánjiā píng'ān, zūnlǎojìngxián de shēnkè wénhuà yìyì. | New Year's Eve vigil is not only a warm folk tradition, but carries profound cultural meaning in praying for family safety and honoring elders. | Trasnochar en Nochevieja es una entrañable costumbre tradicional cargada de hondo sentido cultural: orar por la paz del hogar y honrar a los mayores.
+  #2 | 该项清洁能源重大技术突破的成功应用，对于推动国家能源安全战略转型具有里程碑意义。 | Gāi xiàng qīngjié néngyuán zhòngdà jìshù tūpò de chénggōng yìngyòng, duìyú tuīdòng guójiā néngyuán ānquán zhànlüè zhuǎnxíng jùyǒu lǐchéngbēi yìyì. | The successful application of this clean energy breakthrough bears milestone significance for the transition of national energy security. | La aplicación de este hito técnico en energías limpias reviste un valor histórico trascendental para la seguridad energética nacional.
+
+collocations[6]{hanzi,en}:
+  现实意义 | practical / contemporary significance
+  具有深远意义 | possess far-reaching significance
+  真正意义 | true meaning; authentic sense
+  里程碑意义 | milestone significance
+  重大意义 | monumental / profound significance
+  富有教育意义 | highly educational; rich in moral value
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  深谋远虑 | shēn móu yuǎn lǜ | think deeply and plan far ahead; foresighted wisdom
+  言简意赅 | yán jiǎn yì gāi | concise words with profound meaning; pithy and comprehensive
+  大义凛然 | dà yì lǐn rán | inspiring awe with upholding justice and righteousness
+  见义勇为 | jiàn yì yǒng wéi | act bravely for a just cause; step forward boldly for righteousness
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  意 | yì | idea; intention; meaning; feeling | idea; intención; sentido; sentimiento | 心 | heart / mind | 音 (sound, articulated voice) | 心 (heart, intention) | 13 | 上下结构 | Ideogram combining voice/sound 音 resonating from deep inside the heart 心, signifying genuine inner intention and meaning. | The inner voice and sound (音) stirring within your sincere heart (心) forms your true intent and meaning (意). | La voz y el son (音) que brotan de lo hondo del corazón (心) expresan la verdadera intención y sentido (意). | 51 | YTAIP | ""
+  义 | yì | justice; righteousness; meaning | justicia; rectitud; significado; deber | 丶 | dot / stroke | 羊 (sacrificial lamb / auspicious) | 我 (self / lance) | 3 | 独体结构 | Ancient ideogram depicting offering a sacrificial lamb (羊) with dignity (我), signifying moral rectitude and solemn purpose. | A single resolute stroke of moral integrity upholds truth, embodying justice and noble meaning (义). | Un trazo resuelto de integridad moral sostiene la verdad, encarnando la justicia y el hondo significado (义). | 51 | IK | 義
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The resonant sound of your heart (意) aligned with moral justice (义) defines the true meaning and significance of life.
+  composite_memory_hook_es: La voz del corazón (意) unida a la noble rectitud (义) define el sentido y significado profundo de la vida.
+  cultural_and_cognitive_roots: In Confucian hermeneutics, 'yì' (inner mental intention) and 'yì' (normative moral justice) unite into the highest ontological standard of significance.
+  tone_sandhi_and_pitch_modulation: Dual 4th tones: 'yì yì' (51-51). Both syllables descend sharply with crisp, authoritative articulation.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    忆 | yì | remember; recall | Has heart radical 忄 on the left next to 乙 instead of 音 over 心
+    总 | zǒng | total; general | Has 丷 over 口 and 心 instead of 音
+    叉 | chā | fork; cross | Has an intersecting cross stroke with a dot inside, distinct from 义
+    文 | wén | culture; script | Has a horizontal cross-stroke instead of angled slash in 义
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    旨 | zhǐ | purpose; aim; decree; delicious
+    蕴 | yùn | contain; profound connotation
+    理 | lǐ | reason; logic; principle
+    志 | zhì | will; aspiration; purpose
+
+semantic_boundary_contrasts:
+  core_nuance: 意义 encompasses both linguistic/symbolic semantics (what words mean) and axiological/existential value (worth, importance).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 意义 vs. 意思 | yìsi | 意义 is formal and refers to profound significance, semantic value, or philosophical purpose, whereas 意思 is colloquial and can mean casual meaning, interest, fun, or a token gift.
+    2 | 意义 vs. 价值 | jiàzhí | 意义 emphasizes moral, historical, or intellectual significance, while 价值 denotes measurable economic worth, utility, or exchange price.
+    3 | 意义 vs. 作用 | zuòyòng | 意义 evaluates ideological or historical importance, while 作用 describes concrete functional mechanics, efficacy, or impact in practice.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 传统节日的真正意义，从来不仅在于丰盛的酒席与华丽的礼节，更在于唤醒人们对岁月流转的敬畏与对家庭亲情的眷恋。除夕夜那盏长明的红灯笼，照亮了游子归家的路途，也守护着一个民族生生不息的精神家园。 | Chuántǒng jiérì de zhēnzhèng yìyì, cónglái bùjǐn zài yú fēngshèng de jiǔxí yǔ huálì de lǐjié, gèng zài yú huànxǐng rénmen duì suìyuè liúzhuǎn de jìngwèi yǔ duì jiātíng qīnqíng de juànliàn. Chúxī yè nà zhǎn chángmíng de hóng dēnglong, zhàoliàng le yóuzǐ guījiā de lùtú, yě shǒuhù zhe yí gè mínzú shēngshēngbùxī de jīngshén jiāyuán. | The true meaning of holidays lies not in lavish feasts, but in reverence for time and family warmth. The red lantern of New Year's Eve lights travelers' journeys home and guards an enduring spiritual homeland. | El verdadero sentido de las fiestas ancestrales trasciende el banquete; despierta veneración por el tiempo y apego al hogar. El farolillo bermejo ilumina el regreso de los ausentes, custodiando el alma imperecedera de un pueblo.
+  #2 | 在构建人类命运共同体的宏大框架下，加强跨文明对话与文明互鉴具有不可估量的时代意义。不同文明在平等包容中深化相互理解、消除隔阂偏见，将为破解全球和平赤字与实现全人类可持续繁荣提供深层智慧启示。 | Zài gòujiàn rénlèi mìngyùn gòngtóngtǐ de hóngdà kuàngjià xià, jiāqiáng kuà wénmíng duìhuà yǔ wénmíng hùjiàn jùyǒu bùkě gūliàng de shídài yìyì. Bùtóng wénmíng zài píngděng bāoróng zhōng shēnhuà xiānghù lǐjiě, xiāochú géhé piānjiàn, jiāng wèi pòjiě quánqiú hépíng chìzì yǔ shíxiàn quán rénlèi kěchíxù fánróng tígōng shēncéng zhìhuì qǐshì. | In building a human community with a shared future, cross-civilizational dialogue holds immeasurable significance. Deepening mutual understanding dissolves prejudices, inspiring wisdom to resolve peace deficits and foster global prosperity. | Fomentar el diálogo intercultural encierra un significado histórico de trascendencia incalculable. El entendimiento entre civilizaciones disuelve recelos, inspirando sabiduría para superar brechas y afianzar la concordia mundial.

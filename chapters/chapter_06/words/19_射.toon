@@ -1,0 +1,63 @@
+id: 19
+hanzi: 射
+pinyin: shè
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to shoot (arrow, bullet); to emit; to project; to radiate
+  es: disparar (arco, arma); tirar; emitir; proyectar; irradiar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to discharge a projectile (arrow, bullet) from a weapon; to shoot | disparar una flecha, proyectil o bala con un arma; tirar | 弯弓射箭 (draw bow and shoot arrows)
+  2 | Verb | Formal | to emit rays of light, radiation, or liquid jets; to project | emitir rayos de luz, radiación o proyectar chorros de líquido | 光线直射 (rays of light shine directly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 传说中后羿弯弓搭箭，一口气射落了天空中的九个太阳，解救了饱受烈日灼烤的黎民百姓。 | Chuánshuō zhōng Hòu Yì wān gōng dā jiàn, yì kǒu qì shè luò le tiānkōng zhōng de jiǔ gè tàiyáng, jiějiù le bǎoshòu lièrì zhuókǎo de límín bǎixìng. | In legend, Hou Yi drew his bow and fitted arrows, shooting down nine scorching suns in one breath to save suffering people. | Según el mito, Hou Yi tensó su arco y cargó flechas derribando de un solo intento nueve soles abrazadores para salvar al pueblo.
+  #2 | 空间环境探测卫星成功监测到太阳耀斑剧烈爆发时发射出的高能带电粒子流与强X射线辐射。 | Kōngjiān huánjìng tàncè wèixīng chénggōng jiāncè dào tàiyáng yàobān jùliè bàofā shí fāshè chū de gāonéng dàidiàn lìzǐ liú yǔ qiáng X shèxiàn fúshè. | The space monitoring satellite detected high-energy charged particles and intense X-ray radiation emitted during solar flares. | El satélite de observación espacial detectó flujos de partículas cargadas de alta energía y radiación X intensa emitidos por erupciones solares.
+
+collocations[6]{hanzi,en}:
+  射箭 | archery; shoot arrows
+  发射卫星 | launch a satellite
+  反射光芒 | reflect light rays
+  直射阳光 | direct sunlight radiation
+  射击训练 | shooting practice / target practice
+  照射 | illuminate; shine on; irradiate
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  百发百中 | bǎi fā bǎi zhòng | hit the target a hundred times out of a hundred; unfailing accuracy
+  有的放矢 | yǒu dì fàng shǐ | shoot arrows with a definite target; purposeful action
+  含沙射影 | hán shā shè yǐng | shoot shadows with sand; attack maliciously by insidious insinuations
+  光芒四射 | guāng máng sì shè | radiate dazzling brilliance in all directions
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  射 | shè | shoot; emit; project; discharge | disparar; tirar; proyectar; emitir | 寸 | inch / hand rule | 身 (body / drawing bow) | 寸 (cùn, hand measuring / thumb release) | 10 | 左右结构 | Ancient ideogram depicting a hand (寸) drawing an arrow on a bow against the archer's torso (身) to shoot. | Steady your body (身) and use your hand rules (寸) to release the bowstring and shoot (射) an arrow straight. | Afirma el cuerpo (身) y utiliza la mano (寸) para soltar la cuerda del arco y disparar (射) una certera flecha. | 51 | HEDI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Anchor your body (身) and use measured hand precision (寸) to shoot (射) an arrow true to the bullseye.
+  composite_memory_hook_es: Afirma el cuerpo (身) y templa la mano (寸) para disparar (射) la flecha al centro de la diana.
+  cultural_and_cognitive_roots: Archery (射) was one of the noble Six Classical Arts (六艺 - 礼乐射御书数) practiced by gentlemen for physical rigor, moral rectitude, and philosophical poise.
+  tone_sandhi_and_pitch_modulation: Sharp falling 4th tone 'shè' (51). Emphasize crisp downward release matching the decisive trajectory of an arrow.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    躬 | gōng | bow; personal | Has 弓 (bow) next to 身 instead of 寸 in 射
+    躯 | qū | human body; torso | Has 区 next to 身 instead of 寸
+    封 | fēng | seal; confer | Has 圭 next to 寸 instead of 身
+    谢 | xiè | thank; decline | Has 讠 next to 射
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    弹 | dàn | bullet; shoot; pluck
+    投 | tóu | throw; pitch; cast
+    掷 | zhì | toss; fling; throw
+    放 | fàng | release; discharge; put
+
+semantic_boundary_contrasts:
+  core_nuance: 射 focuses on propelled, high-velocity discharge of projectiles from devices, or radiation/light rays streaming outward.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 射 vs. 投 | tóu | 射 requires a launcher, bow, firearm, or pressurized nozzle to project, whereas 投 is manual throwing or tossing using bodily arm strength.
+    2 | 射 vs. 发 | fā | 发 is a broad verb for sending out, initiating, or issuing, while 射 specifically implies trajectory velocity or directional radiation.
+    3 | 射 vs. 照 | zhào | 射 emphasizes emission and radiant travel of rays through space (直射), while 照 emphasizes illuminating the receiving surface of an object (照亮).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在中华古老的神话中，神弓与飞箭始终是降妖除魔的象征。当英雄弯弓搭箭瞄准凶残的年兽，箭矢呼啸而出，带着正义的光芒射向苍茫雪原，瞬间击溃了怪兽的凶焰，为千家万户带来了期盼已久的太平祥和。 | Zài Zhōnghuá gǔlǎo de shénhuà zhōng, shéngōng yǔ fēijiàn shǐzhōng shì xiángyāochúmó de xiàngzhēng. Dāng yīngxióng wān gōng dā jiàn miáozhǔn xiōngcán de Nián shòu, jiànshǐ hūxiào ér chū, dài zhe zhèngyì de guāngmáng shè xiàng cāngmáng xuěyuán, shùnjiān jīkuì le guàishòu de xiōngyàn, wèi qiānjiāwànhù dài lái le qīpàn yǐjiǔ de tàipíng xiánghé. | In ancient myth, magic bows and flying arrows symbolize subduing demons. When the hero drew his bow at the ferocious Nian, whistling arrows shot across snowy plains with righteous light, crushing the beast and bringing peace. | En la mitología china, el arco sagrado y la flecha veloz simbolizan el triunfo sobre el mal. Cuando el héroe tensó su arco apuntando a la fiera Nian, la flecha cruzó la nieve con luz justiciera, aplastando al monstruo y trayendo la paz.
+  #2 | 在激光先进制造技术领域，高功率光纤激光器能够将数万瓦能量高度汇聚并精确射向金属材料表面。超短脉冲激光瞬间完成熔化与切割，具有热影响区极小与切口平整光滑的显著优势，广泛应用于航空精密零件加工。 | Zài jīguāng xiānjìn zhìzào jìshù lǐngyù, gāogōnglǜ guāngxiān jīguāngqì nénggòu jiāng shù wàn wǎ néngliàng gāodù huìjù bìng jīngquè shè xiàng jīnshǔ cáiliào biǎomiàn. Chāoduǎnmàichōng jīguāng shùnjiān wánchéng rónghuà yǔ qiēgē, jùyǒu rèyǐngxiǎngqū jím xiǎo yǔ qiēkǒu píngzhěng guānghuá de xiǎnzhù yōushì, guǎnfàn yìngyòng yú hángkōng jīngmì língjiàn jiāgōng. | In advanced laser manufacturing, high-power fiber lasers converge tens of thousands of watts, shooting precisely onto metal. Ultrashort pulses melt and cut metals cleanly with minimal thermal distortion, serving aerospace tooling. | En la manufactura láser avanzada, los láseres de fibra de alta potencia concentran miles de vatios disparando con precisión sobre metal. Los pulsos ultracortos cortan limpiamente con mínimo impacto térmico, siendo vitales en piezas aeroespaciales.

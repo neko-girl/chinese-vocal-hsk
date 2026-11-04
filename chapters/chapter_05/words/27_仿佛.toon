@@ -1,0 +1,63 @@
+id: 27
+hanzi: 仿佛
+pinyin: fǎng fú
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: as if; seemingly; appear to be; like
+  es: como si; parecer; semejante a; aparentemente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | seeming as though; resembling closely; as if | como si; dar la impresión de; semejante a | 泉池仿佛一面镜子 (the spring pool is like a mirror)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 平静清澈的泉水仿佛一面巨大的镜子，将蓝天、白云与四周葱茏的垂柳完整倒映其中。 | Píngjìng qīngchè de quánshuǐ fǎngfú yí miàn jùdà de jìngzi, jiāng lántiān, báiyún yǔ sìzhōu cōnglóng de chuíliǔ wánzhěng dàoyìng qízhōng. | The calm, clear spring water is as if a giant mirror, reflecting blue skies, white clouds, and verdant willows perfectly. | El agua serena y cristalina parece un espejo gigantesco que refleja a la perfección el cielo azul, las nubes y los sauces.
+  #2 | 伴随着古筝悠扬纯净的旋律，听众仿佛置身于高山流水之间，心灵得到了极大的舒展与慰藉。 | Bànsuí zhe gǔzhēng yōuyáng chúnjìng de xuánlǜ, tīngzhòng fǎngfú zhìshēn yú gāoshānliúshuǐ zhījiān, xīnlíng dédào le jídà de shūzhǎn yǔ wèijiè. | Accompanied by the zither's melodious strains, listeners felt as if transported amid towering mountains and streams, finding solace. | Con los sones puros del guzheng, el público se sintió como si reposara entre altas montañas y arroyos, hallando paz espiritual.
+
+collocations[6]{hanzi,en}:
+  仿佛看到 | seem to see; as if seeing
+  仿佛身临其境 | as if experiencing it firsthand
+  仿佛是一场梦 | as if a dream
+  仿佛回到了过去 | as if returning to the past
+  相差仿佛 | roughly comparable; about the same
+  依稀仿佛 | vaguely resembles; dimly discernible
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  身临其境 | shēn lín qí jìng | feel as if personally present on the scene
+  恍如隔世 | huǎng rú gé shì | as if a lifetime has passed; dreamlike changes
+  如梦初醒 | rú mèng chū xǐng | as if waking from a dream; sudden realization
+  似曾相识 | sì céng xiāng shí | seem to have met before; familiar sensation of déjà vu
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  仿 | fǎng | resemble; imitate; like | imitar; asemejarse; como | 亻 | person | 亻 (person, modeling) | 方 (fāng, direction / square) | 6 | 左右结构 | Phono-semantic compound where person radical 亻 indicates human behavior emulating or resembling a given pattern 方. | A student (亻) meticulously models their handwriting after the square template (方) to imitate and resemble (仿) the master. | Un aprendiz (亻) imita los trazos rectos (方) del maestro para asemejarse (仿) a su arte con fidelidad. | 214 | OYHS | 倣
+  佛 | fú | resemble; as if; Buddha | semejante; como; Buda | 亻 | person | 亻 (person, resemblance) | 弗 (fú, not / wind) | 7 | 左右结构 | Phono-semantic compound denoting elusive similarity or resemblance; also used phonetically for Buddha (fó). | A figure (亻) seen dimly through misty winding reeds (弗) appears as if (佛) an immortal apparition. | Una silueta (亻) entrevista entre juncos brumosos (弗) parece semejante a (佛) una aparición mágica. | 35 | OLLN | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A person (亻) imitating a square model (仿) seems as if (佛) walking right out of a lifelike painting.
+  composite_memory_hook_es: Una persona (亻) que imita una figura (仿) parece semejante a (佛) un personaje salido de un lienzo.
+  cultural_and_cognitive_roots: The binome 'fǎngfú' is an ancient alliterative compound (双声联绵词) tracing back to the Chuci and Shijing, expressing poetic approximation and metaphorical resemblance.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'fǎng' (214) followed by rising 2nd tone 'fú' (35). In Buddhist terms (佛教, 佛祖), 佛 is pronounced 'fó' (35).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    妨 | fáng | hinder; obstruct | Has woman radical 女 on left instead of person 亻
+    防 | fáng | protect; defend | Has ear radical 阝 on left instead of person 亻
+    拂 | fú | brush; whisk; stroke | Has hand radical 扌 instead of person 亻 in 佛
+    沸 | fèi | boil; churn | Has water radical 氵 instead of person 亻 in 佛
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    似 | sì | resemble; seem; like
+    若 | ruò | as if; like; seem
+    像 | xiàng | look like; resemble; portrait
+    犹 | yóu | still; as if; like
+
+semantic_boundary_contrasts:
+  core_nuance: 仿佛 is a literary adverb indicating poetic comparison, psychological resemblance, or sensory illusion ('as if').
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 仿佛 vs. 好像 | hǎoxiàng | 仿佛 is elevated, literary, and poetic, whereas 好像 is the common, everyday colloquial adverb for 'seems like'.
+    2 | 仿佛 vs. 犹如 | yóurú | 仿佛 functions mainly as an adverb introducing a mental impression, while 犹如 is a formal literary simile verb meaning 'is just like' (A 犹如 B).
+    3 | 仿佛 vs. 似乎 | sìhū | 仿佛 emphasizes visual, auditory, or psychological imagery/illusion, while 似乎 expresses logical probability or tentative factual doubt.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 晨雾未散时漫步泉边，整座古城笼罩在如烟如织的轻纱之中。眼前那泓平静的池水仿佛一面温润的玉镜，无声地吸纳着天空的微光。偶有落叶飘落水面，激起一圈圈细小的波纹，让人仿佛置身于虚实相生的幽美画境。 | Chénwù wèisàn shí mànbù quánbiān, zhěng zuò gǔchéng lǒngzhào zài rú yān rú zhī de qīngshā zhīzhōng. Yǎnqián nà hóng píngjìng de chíshuǐ fǎngfú yí miàn wēnrùn de yùjìng, wúshēng de xīnà zhe tiānkōng de wēiguāng. Ǒuyǒu luòyè piāoluò shuǐmiàn, jīqǐ yì quānquān xìxiǎo de bōwén, ràng rén fǎngfú zhìshēn yú xūshíxiāngshēng de yōuměi huàjìng. | Walking by the spring before morning mist lifts, the old town is draped in a translucent veil. The calm water resembles a jade mirror absorbing skylight. A fallen leaf stirs ripples, making one feel as if inside an ethereal painting. | Al pasear entre brumas matinales, la ciudad histórica parece velada por tul. La poza serena asemeja un espejo de jade que recoge la luz diurna. Una hoja caída riza el agua, transportando el ánimo como si flotara en un cuadro mágico.
+  #2 | 在声学虚拟现实技术的支持下，高保真立体声场重构技术让体验者仿佛身临其境。实验数据显示，精准的声音空间定位算法能够唤醒大脑深层的空间感知记忆，使虚拟交互体验的真实感与代入感大幅跃升。 | Zài shēngxué xūnǐ xiànshí jìshù de zhīchí xià, gāobǎozhēn lìtǐ shēngchǎng chónggòu jìshù ràng tǐyànzhě fǎngfú shēnlínqíjìng. Shíyàn shùjù biǎomíng, jīngzhǔn de shēngyīn kōngjiān dìngwèi suànfǎ nénggòu huànxǐng dànǎo shēncéng de kōngjiān gǎnzhī jìyì, shǐ xūnǐ jiāohù tǐyàn de zhēnshígǎn yǔ dàirùgǎn dàfú yuèshēng. | Powered by acoustic VR, high-fidelity spatial audio reconstruction makes users feel as if present on the scene. Spatial positioning algorithms awaken spatial perception memories, greatly elevating immersion in interactions. | Respaldada por la acústica virtual, la reconstrucción de audio inmersivo hace que el usuario se sienta como si estuviera allí. La espacialización sonora despierta la percepción profunda, elevando el realismo de la experiencia.

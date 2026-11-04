@@ -1,0 +1,64 @@
+id: 20
+hanzi: 甚至
+pinyin: shèn zhì
+level: HSK 5
+part_of_speech: Conjunction
+
+meanings_summary:
+  en: even; so much so that; to the extent that; go so far as to
+  es: incluso; hasta; tanto es así que; hasta el punto de
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Conjunction | Standard | introducing an extreme, surprising case that emphasizes an escalating degree; even | conjunción que introduce un caso extremo o sorprendente para enfatizar el grado; incluso | 甚至连老人也知道 (even elderly people know)
+  2 | Adverb | Formal | so much so that; to the point of | hasta el extremo de que; a tal grado | 甚至到了无法挽回的地步 (even reached an irreversible stage)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的泉水不仅在各大名胜景区喷涌，甚至在寻常百姓的四合院与街边石缝间也随处可见。 | Jǐnán de quánshuǐ bùjǐn zài gè dà míngshèng jǐngqū pēnyǒng, shènzhì zài xúncháng bǎixìng de sìhéyuàn yǔ jiēbiān shífèng jiān yě suíchù kějiàn. | Jinan's springs not only gush in major scenic parks, but can even be seen everywhere in ordinary courtyards and roadside stone crevices. | Los manantiales de Jinan no solo brotan en parques monumentales, sino que pueden verse incluso en patios vecinales corrientes y grietas de las calles.
+  #2 | 该新能源电池在极端极寒测试中表现优异，在零下四十摄氏度的极冷环境下甚至仍能保持百分之八十五以上的容量输出。 | Gāi xīnnéngyuán diànchí zài jíduān jíhán cèshì zhōng biǎoxiàn yōuyì, zài língxià sìshí shèshìdù de jílěng huánjìng xià shènzhì réng néng bǎochí bǎifēnzhī bāshíwǔ yǐshàng de róngliàng shūchū. | This battery performed admirably in extreme freeze tests, even maintaining over 85% capacity output at minus forty degrees Celsius. | La batería rindió admirablemente en ensayos de frío extremo; a cuarenta grados bajo cero fue capaz incluso de conservar más del 85% de carga.
+
+collocations[6]{hanzi,en}:
+  甚至于 | even; so much so that
+  甚至可以说 | one might even say
+  不仅...甚至... | not only... but even...
+  甚至连...都... | even... also...
+  甚至包括 | even including
+  严重到甚至... | so severe that it even...
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  乃至 | nǎi zhì | and even; down to
+  无所不至 | wú suǒ bù zhì | reach everywhere; stop at nothing; go to any length
+  过犹不及 | guò yóu bù jí | going too far is as bad as falling short; excess equals deficiency
+  关怀备至 | guān huái bèi zhì | show utmost solicitude; care for with supreme devotion
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  甚 | shèn | extreme; very; excessive | extremo; muy; excesivo | 甘 | sweet | 甘 (sweet / taste) | 匹/匚 (container) | 9 | 上下结构 | Ancient compound depicting savoring food with extreme sweetness and relish, extending to superlative intensity or degree. | Savoring a sweet dish (甘) in a container with supreme delight carries enjoyment to an extreme (甚) degree. | Saborear un bocado dulce (甘) con deleite colma el placer hasta un grado extremo e insuperable (甚). | 51 | TMM | ""
+  至 | zhì | arrive; reach; utmost; to | llegar; alcanzar; sumo; extremo | 至 | arrive | 一 (ground line) | 矢 (arrow landing) | 6 | 独体结构 | Ancient pictograph of an arrow (矢) shot from afar landing head-first into the soil (一), signifying arriving at the destination. | An arrow shot across the plains arrives and plants its tip into the earth to reach (至) the ultimate boundary. | Una flecha disparada a lo lejos clava su punta en la tierra, alcanzando su destino final (至). | 51 | MGI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An arrow of extreme intensity (甚) lands straight into the target (至) to show an outcome that is even more remarkable.
+  composite_memory_hook_es: Una flecha de extremo vigor (甚) clava su punta en la meta (至) demostrando algo aún más sorprendente.
+  cultural_and_cognitive_roots: In classical rhetoric, 'shèn' denotes supreme degree, and 'zhì' denotes reaching the outer spatial/conceptual boundary; combined, they mark an unexpected escalation of reality.
+  tone_sandhi_and_pitch_modulation: Dual 4th tones: 'shèn zhì' (51-51). Both syllables drop sharply and decisively; keep the transition tight and forceful.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    基 | jī | base; foundation | Has 土 (earth) below 其, whereas 甚 has 甘 with 匹 base
+    其 | qí | his; her; its | Has 丌 at bottom, whereas 甚 has horizontal base stroke
+    到 | dào | arrive | Has knife radical 刂 next to 至
+    致 | zhì | cause; deliver | Has 攵 (tap/action) next to 至
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    更 | gèng | even more; further
+    且 | qiě | moreover; and
+    极 | jí | extreme; utmost
+    顶 | dǐng | top; apex; summit
+
+semantic_boundary_contrasts:
+  core_nuance: 甚至 acts as an escalating connective conjunction or adverb introducing a surprising, extreme instance or boundary condition.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 甚至 vs. 而且 | érqiě | 而且 merely adds complementary information on a parallel tier, whereas 甚至 introduces an unexpected, extreme escalation in degree.
+    2 | 甚至 vs. 乃至 | nǎizhì | 甚至 is standard in spoken and written modern discourse, while 乃至 is formal, literary, and typically links nouns in an ascending series.
+    3 | 甚至 vs. 反而 | fǎn'ér | 甚至 highlights escalating degree in the same logical direction, while 反而 expresses a twist contrary to expectation (contrary transition).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南泉水的魅力不仅在于其数量繁多，甚至在于它与城市百姓日常生活的无缝交融。漫步在古城区，家家户户门前泉水潺潺，居民用甘冽的泉水沏茶煮饭，甚至将西瓜浸在池中降温，构成了北方独特的市井画卷。 | Jǐnán quánshuǐ de mèilì bùjǐn zài yú qí shùliàng fánduō, shènzhì zài yú tā yǔ chéngshì bǎixìng rìcháng shēnghuó de wúfèng jiāoróng. Mànbù zài gǔchéngqū, jiājiāhùhù ménqián quánshuǐ chánchán, jūmín yòng gānliè de quánshuǐ qīchá zhǔfàn, shènzhì jiāng xīguā jìn zài chí zhōng jiàngwēn, gòuchéng le běifāng dútè de shìjǐng huàjuàn. | The charm of Jinan's springs lies not merely in numbers, but even more in their seamless blend into daily life. Streams flow past every door, residents brew tea and cook with spring water, and even chill watermelons in pools. | El encanto de Jinan no radica solo en sus manantiales, sino incluso en su íntima integración vecinal. El agua corre ante cada zaguán; los vecinos preparan té, guisan e incluso enfrían sandías en los estanques, pintando un cuadro costumbrista único.
+  #2 | 全球气候变暖引发的极端天气事件频发，甚至对传统地下水循环系统的稳定性构成了潜在威胁。水文科研部门通过构建全流域数值模型，对极端干旱情景下的泉水喷涌状态进行模拟预测，提前制定水资源战略储备方案。 | Quánqiú qìhòu biànnuǎn yǐnfā de jíduān tiānqì shìjiàn pínfā, shènzhì duì chuántǒng dìxiàshuǐ xúnhuán xìtǒng de wěndìngxìng gòuchéng le qiánzài wēixié. Shuǐwén kěyán bùmén tōngguò gòujiàn quán liùyù shùzhí móxíng, duì jíduān gānhàn qíngjǐng xià de quánshuǐ pēnyǒng zhuàngtài jìnxíng mónǐ yùcè, tíqián zhìdìng shuǐ zīyuán zhànlüè chǔbèi fāng'àn. | Extreme weather driven by global warming occurs frequently, even posing threats to groundwater circulation stability. Hydrologists build basin numerical models to simulate spring flows under drought, devising strategic reserve plans in advance. | La crisis climática multiplica los fenómenos extremos, amenazando incluso la recarga de los acuíferos subterráneos. Los hidrólogos modelan cuencas para prever caudales en sequías graves, trazando reservas hídricas estratégicas.

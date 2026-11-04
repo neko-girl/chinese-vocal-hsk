@@ -1,0 +1,67 @@
+id: 14
+hanzi: 杀
+pinyin: shā
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to kill; to slaughter; to terminate; to fight; to reduce
+  es: matar; asesinar; sacrificar; exterminar; reducir
+
+senses[4]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to deprive of life; to slaughter an animal or kill a person | matar; quitar la vida a una persona o sacrificar un animal | 杀鸡宰鹅 (slaughter chickens and geese)
+  2 | Verb | Standard | to combat, defeat, or eliminate microorganisms, germs, or pests | exterminar gérmenes, parásitos o plagas | 杀菌消毒 (sterilize and kill bacteria)
+  3 | Verb | Colloquial | to cut, reduce, or slash prices sharply | reducir o rebajar drásticamente precios | 杀价 (bargain down prices)
+  4 | Verb | Colloquial | to dash, charge, or plunge into an action or place | irrumpir; lanzarse rápidamente hacia un lugar | 杀出重围 (fight one's way out of encirclement)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 依照民间传统，除夕清晨各家各户都会杀鸡宰鱼，准备丰盛的贡品祭祀祖先、祈求来年平安。 | Yīzhào mínjiān chuántǒng, Chúxī qīngchén gèjiā-gèhù dōu huì shā jī zǎi yú, zhǔnbèi fēngshèng de gòngpǐn jìsì zǔxiān, qíqiú láinián píng'ān. | According to folk traditions, on the morning of New Year's Eve, every household slaughters chickens and fish to prepare lavish offerings to venerate ancestors and pray for peace in the coming year. | Conforme a la tradición popular, en la mañana de nochevieja cada hogar sacrifica pollos y limpia pescado para preparar abundantes ofrendas dedicadas a los antepasados y pedir paz para el año venidero.
+  #2 | 生物医药实验室在新型抗生素研发中，成功筛选出一种能高效杀灭多重耐药性病菌的活性化合物。 | Shēngwù yīyào shíyànshì zài xīnxíng kàngshēngsù yánfā zhōng, chénggōng shāixuǎn chū yì zhǒng néng gāoxiào shāmiè duōzhòng nàiyàoxìng bìngjūn de huóxìng huàhéwù. | In the development of new antibiotics, the biomedical laboratory successfully screened an active compound capable of efficiently eradicating multiple drug-resistant bacteria. | En la investigación de nuevos antibióticos, el laboratorio biomédico logró seleccionar un compuesto activo capaz de exterminar con alta eficacia bacterias con resistencia a múltiples fármacos.
+
+collocations[6]{hanzi,en}:
+  杀灭病菌 | eradicate pathogenic bacteria; kill germs
+  杀价 | bargain down prices; slash price
+  杀鸡取卵 | kill the hen to get the eggs (ruin source of gain)
+  杀出重围 | break through an encirclement; carve a way out
+  宰杀牲畜 | slaughter livestock
+  杀伤力 | lethality; damaging power
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  杀鸡儆猴 | shā jī jǐng hóu | kill the chicken to warn the monkey; punish one to warn others
+  杀身成仁 | shā shēn chéng rén | sacrifice one's life for benevolence; die for a noble cause
+  借刀杀人 | jiè dāo shā rén | murder with a borrowed knife; harm someone through a third party
+  杀一儆百 | shā yī jǐng bǎi | execute one to warn a hundred; make an example of one
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  杀 | shā | kill; slaughter; eliminate; destroy | matar; asesinar; sacrificar; extinguir | 木 | wood / spear shaft | 木 (wooden lance or post) | 乂 (scythe slashing stroke / phonetic guide) | 6 | 上下结构 | Simplified from traditional 殺. The ancient oracle script showed a weapon striking an animal. Modern simplification unites crossing blade strokes (乂) falling down upon a wooden stake (木). | Crossing blades slashing in an X (乂) strike down forcefully against a wooden post (木) to slaughter a dangerous beast. | Hojas afiladas cruzadas en aspa (乂) descienden con fuerza letal sobre un poste de madera (木) para abatir a la fiera. | 55 | KCD | 殺
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Crossing blade strokes (乂) plunge into a wooden stake (木) to decisively slay and kill (杀) the threatening beast.
+  composite_memory_hook_es: Filos cortantes cruzados en aspa (乂) se clavan sobre una estaca de madera (木) para matar (杀) y abatir a la bestia.
+  cultural_and_cognitive_roots: In ancient mythology, the end of the year was associated with driving away or slaying (杀/驱) ferocious monsters like Nian (年兽) that threatened village survival. In classical thought, 杀 embodies both the stern, harvesting autumn energy (秋气主杀) and the legal sovereign power over life and death.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'shā' (55). Maintain a sustained, steady pitch at the top of the vocal register without dipping before subsequent syllables.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    杂 | zá | mixed; miscellaneous | Has 九 on top of 木 instead of 乂
+    条 | tiáo | strip; item; branch | Has 夂 on top of 木 instead of 乂
+    刹 | chà | temple; brake (shā) | Has 杀 on the left and knife radical 刂 on the right
+    亲 | qīn | parent; intimate | Has 立 on top of 木 instead of 乂
+    希 | xī | hope; rare | Has 爻 / 乂 with cloth radical 巾 below instead of 木
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    宰 | zǎi | slaughter; butcher; govern
+    屠 | tú | slaughter; massacre
+    灭 | miè | extinguish; wipe out
+    诛 | zhū | execute; punish severely
+    戮 | lù | slaughter; massacre
+
+semantic_boundary_contrasts:
+  core_nuance: 杀 is the primary general verb meaning to deliberately terminate life or violently eliminate organisms or threats.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 杀 vs. 宰 | zǎi | 杀 is the broad, generic term for taking any life (human, beast, germ), whereas 宰 specifically denotes the methodical butchering and slaughtering of domestic livestock and poultry for food or sacrifice.
+    2 | 杀 vs. 害 | hài | 杀 denotes the definitive act of causing physical death, whereas 害 means to harm, injure, impair, or bring misfortune without necessarily resulting in death (as in 伤害).
+    3 | 杀 vs. 灭 | miè | 杀 focuses on the physical termination of individual living beings or entities, whereas 灭 emphasizes total annihilation, wiping out of an entire category, lineage, or extinguishing fires and lights (e.g. 消灭、灭亡).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 民间传说中，远古怪兽年常在岁末残害生灵。乡民们燃起爆竹、点亮红烛，合力击退并诛杀恶兽，迎来了新春的黎明。除夕除害的传统，寄托了先民战胜严酷自然、渴望和平安宁的朴素信念。 | Mínjiān chuánshuō zhōng, yuǎngǔ guàishòu Nián cháng zài suìmò cánhài shēnglíng. Xiāngmínmen ránqǐ bàozhú, diǎnliàng hóngzhú, hélì jītuì bìng zhūshā èshòu, yínglái le xīnchūn de límíng. Chúxī chúhài de chuántǒng, jìtuō le xiānmín zhànshèng yánkù zìrán, kěwàng hépíng-ānníng de pùsù xìnniàn. | In folk legends, the ancient monster Nian frequently harmed living beings at year's end. Villagers lit firecrackers and red candles, joining forces to repel and slay the evil beast, ushering in the dawn of the new year. The tradition of eliminating perils on New Year's Eve reflects ancient people's simple faith in overcoming harsh nature and longing for peace. | En las leyendas populares, la fiera Nian solía dañar a las gentes a finales de año. Los aldeanos encendían petardos y velas rojas, uniendo fuerzas para repeler y matar a la bestia, dando la bienvenida al amanecer del nuevo año. La tradición de eliminar males en nochevieja refleja la fe ancestral en vencer la hostil naturaleza y hallar paz.
+  #2 | 在现代农业病虫害综合防治体系中，过度依赖广谱化学农药虽能迅速杀灭有害昆虫，但也容易破坏农田生态链。推广生物防治与靶向杀菌技术，既能有效控制病害传播，又能守护土壤生态与食品安全底线。 | Zài xiàndài nóngyè bìngchónghài zōnghé fángzhì tǐxì zhōng, guòdù yīlài guǎngpǔ huàxué nóngyào suī néng xùnsù shāmiè yǒuhài kūnchóng, yě róngyì pòhuài nóngtián shēngtàiliàn. Tuīguǎng shēngwù fángzhì yǔ bǎxiàng shājūn jìshù, jìnìng yǒuxiào kòngzhì bìnghài chuánbō, yòu néng shǒuhù tǔrǎng shēngtài yǔ shípǐn ānquán dǐxiàn. | In modern integrated agricultural pest management systems, excessive reliance on broad-spectrum chemical pesticides can quickly kill harmful insects, but easily damages farmland ecological chains. Promoting biological control and targeted sterilization technology effectively curtails disease transmission while safeguarding soil ecology and food safety baselines. | En el manejo fitosanitario agrícola moderno, el abuso de pesticidas químicos de amplio espectro extermina rápidamente insectos dañinos, pero altera la cadena ecológica. Fomentar el control biológico y la esterilización dirigida frena eficazmente la propagación de plagas y protege el suelo y la seguridad alimentaria.

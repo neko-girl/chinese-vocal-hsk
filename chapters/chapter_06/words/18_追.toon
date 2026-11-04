@@ -1,0 +1,63 @@
+id: 18
+hanzi: 追
+pinyin: zhuī
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to chase; to pursue; to seek after; to catch up with; to trace back
+  es: perseguir; seguir; dar alcance a; buscar; rastrear; remontarse a
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to run after someone or something to catch up or capture; to chase | correr tras alguien o algo para alcanzarlo o capturarlo; perseguir | 英雄紧追怪物不放 (the hero chased the monster relentlessly)
+  2 | Verb | Standard | to seek after, pursue dreams, court romantically, or trace origins | buscar afanosamente ideales, cortejar o remontarse a los orígenes | 追求梦想 (pursue dreams)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 传说中，英勇的青年手持弓箭，迎着呼啸的风雪紧紧追赶受惊逃窜的年兽。 | Chuánshuō zhōng, yīngyǒng de qīngnián shǒuchí gōngjiàn, yíng zhe hūxiào de fēngxuě jǐnjǐn zhuīgǎn shòujīng táocuàn de Nián shòu. | In the legend, the valiant youth held bow and arrow, chasing the panicked fleeing Nian closely through whistling blizzard winds. | Según la leyenda, el valiente joven empuñó su arco y flechas, persiguiendo de cerca a la fiera Nian en su huida a través de la ventisca.
+  #2 | 为了在新能源汽车关键核心技术上实现自主可控，中国科技人员迎头赶上，奋力追赶国际领军企业的研发步伐。 | Wèile zài xīnnéngyuán qìchē guānjiàn héxīn jìshù shàng shíxiàn zìzhǔ kěkòng, Zhōngguó kējì rényuán yíngtóugǎnshàng, fènlì zhuīgǎn guójì lǐngjūn qǐyè de yánfā bùfá. | To achieve autonomy in new-energy vehicle core technologies, Chinese engineers forged ahead, striving to catch up with global leaders. | Para asegurar la soberanía tecnológica en vehículos de nueva energía, los ingenieros chinos redoblan esfuerzos para alcanzar el ritmo de los líderes globales.
+
+collocations[6]{hanzi,en}:
+  追赶 | chase after; pursue to catch up
+  追求梦想 | pursue dreams; seek aspirations
+  追问原因 | press for reasons; question closely
+  追求完美 | pursue perfection
+  追随者 | follower; disciple
+  追溯历史 | trace back history; trace origins
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  穷追不舍 | qióng zhuī bù shě | pursue relentlessly without letting go
+  急起直追 | jí qǐ zhí zhuī | rouse oneself to catch up rapidly
+  追本溯源 | zhuī běn sù yuán | trace back to origins and root sources
+  夸父追日 | kuā fù zhuī rì | Kuafu chasing the sun; heroic determination defying limits
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  追 | zhuī | chase; pursue; trace | perseguir; seguir; alcanzar | 辶 | walking / movement | 辶 (swift feet on trail) | 𠂤 (duī, mound / military troop) | 9 | 半包围结构 | Phono-semantic compound where walking radical 辶 indicates rapid pursuit, and 𠂤 depicts an organized military troop marching forward. | An army troop marching forward with swift steps on the trail (辶) races to pursue and catch (追) the enemy. | Tropas armadas avanzando con paso veloz por el camino (辶) corren decididas para perseguir y dar alcance (追) al rival. | 55 | YHR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An organized patrol marching with swift feet along the trail (辶) races forward to chase and pursue (追) fleeing danger.
+  composite_memory_hook_es: Una patrulla que avanza a paso firme por el sendero (辶) corre veloz para perseguir y dar alcance (追) a la fiera.
+  cultural_and_cognitive_roots: In ancient warfare and hunt culture, 'zhuī' meant armed pursuit across open ground; in philosophical usage, it shifted to active lifelong pursuit of moral excellence and truth.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'zhuī' (55). Keep the vowel sustained at a clear, high pitch contour.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    迫 | pò | compel; urgent; press | Has 白 inside 辶 instead of 𠂤 in 追
+    退 | tuì | retreat; withdraw | Has 艮 inside 辶 instead of 𠂤
+    逃 | táo | escape; flee | Has 兆 inside 辶 instead of 𠂤
+    迎 | yíng | welcome; meet | Has 卬 inside 辶 instead of 𠂤
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    逐 | zhú | expel; chase; pursue one by one
+    赶 | gǎn | rush; catch up; drive
+    寻 | xún | seek; search; look for
+    随 | suí | follow; comply with
+
+semantic_boundary_contrasts:
+  core_nuance: 追 emphasizes rapid directional motion to catch up with a moving target, or continuous striving toward goals.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 追 vs. 赶 | gǎn | 追 emphasizes directional pursuit to capture or overtake someone fleeing ahead, whereas 赶 can also mean hurrying against time (赶火车, 赶时间) or driving livestock.
+    2 | 追 vs. 跟 | gēn | 追 implies dynamic speed to close an existing distance gap, while 跟 means to follow closely behind someone in step.
+    3 | 追 vs. 寻 | xún | 追 chases an identified moving target, whereas 寻 searches for an unknown, lost, or concealed entity whose whereabouts are uncertain.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 传说在遥远的上古时代，面对年兽的肆虐，英勇的猎人并未退缩。他们点起火把，敲响铜锣，在茫茫风雪中紧紧追赶落荒而逃的怪兽。这种面对未知凶险敢于奋起追击的豪气，成为中华民族不屈不挠精神的生动写照。 | Chuánshuō zài yáoyuǎn de shànggǔ shídài, miànduì Nián shòu de sìnüè, yīngyǒng de lièrén bìng wèi tuìsuō. Tāmen diǎnqǐ huǒbǎ, qiāoxiǎng tóngluó, zài mángmáng fēngxuě zhōng jǐnjǐn zhuīgǎn luòhuāng'értáo de guàishòu. Zhè zhǒng miànduì wèizhī xiōngxiǎn gǎnyú fènqǐ zhuījī de háoqì, chéngwéi Zhōnghuá mínzú bùqūbùnáo jīngshén de shēngdòng xiězhào. | In ancient antiquity, facing the rampaging Nian beast, valiant hunters did not shrink. Lighting torches and beating gongs, they chased the panicked monster through blizzards, embodying the unyielding spirit of the Chinese nation. | En la remota antigüedad, ante los estragos de la bestia Nian, los valientes cazadores no retrocedieron. Blandiendo antorchas y gongs, persiguieron a la fiera en la ventisca, reflejando el indomable coraje del pueblo chino.
+  #2 | 在全球半导体产业链重构进程中，核心技术追赶需要持续的战略定力与长期的基础科研积累。科技企业坚决摒弃短期功利思维，瞄准国际前沿技术方向急起直追，力争在先进制程芯片与新型架构领域实现并跑甚至领跑。 | Zài quánqiú bàndǎotǐ chǎnyèliàn chónggòu jìnchéng zhōng, héxīn jìshù zhuīgǎn xūyào chíxù de zhànlüè dìnglì yǔ chángqī de jīchǔ kěyán jīlěi. Kējì qǐyè jiānjué bǐngqì duǎnqī gōnglì sīwéi, miáozhǔn guójì qiányán jìshù fāngxiàng jíqǐzhízhuī, lìzhēng zài xiānjìn zhìchéng xīnpiàn yǔ xīnxíng jiàgòu lǐngyù shíxiàn bìngpǎo shènzhì lǐngpǎo. | In global semiconductor restructuring, technology catch-up demands strategic resolve and basic research. Tech firms cast aside short-term gains, striving to catch up and achieve parity or leadership in advanced chip architectures. | En la reconfiguración de semiconductores, alcanzar el nivel técnico exige determinación y ciencia básica. Las tecnológicas descartan beneficios inmediatos y pugnan por dar alcance al pelotón puntero en microchips y arquitecturas avanzadas.

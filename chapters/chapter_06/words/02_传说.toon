@@ -1,0 +1,66 @@
+id: 2
+hanzi: 传说
+pinyin: chuán shuō
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: legend; folklore; mythical story; it is said that; tradition
+  es: leyenda; relato mítico; tradición popular; se dice que; según dicen
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a traditional story or folklore passed down through generations, often explaining cultural customs or historical origins | leyenda; relato tradicional transmitido oralmente a lo largo de generaciones | 古老传说 (ancient legend)
+  2 | Verb | Standard | it is said; rumor has it; they say that | se dice; según cuentan; corre el rumor de que | 传说除夕有怪兽出没 (legend has it that a beast roamed on New Year's Eve)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 传说中国古代有一种凶猛的怪兽叫“年”，每到除夕夜便会从深海爬上岸伤害人畜。 | Chuánshuō Zhōngguó gǔdài yǒu yì zhǒng xiōngměng de guàishòu jiào "Nián", měi dào Chúxī yè biàn huì cóng shēnhǎi pá shàng'àn shānghài rén chù. | Legend has it that in ancient China there was a ferocious beast called "Nian", which would crawl ashore from the deep sea every New Year's Eve to harm people and livestock. | Según cuenta la leyenda, en la antigua China existía una fiera temible llamada "Nian" que cada víspera de Año Nuevo emergía de las profundidades marinas para dañar a personas y ganado.
+  #2 | 民间文学研究表明，许多关于除夕习俗的传说不仅承载着神话色彩，更折射出早期人类战胜自然灾害的集体心理。 | Mínjiān wénxué yánjiū biǎomíng, xǔduō guānyú Chúxī xísú de chuánshuō bùjǐn chéngzài zhe shénhuà sècǎi, gèng zhéshè chū zǎoqī rénlèi zhànshèng zìrán zāihài de jítǐ xīnlǐ. | Research in folklore indicates that many legends surrounding New Year's Eve customs not only possess mythical qualities, but also reflect humanity's early collective psychology in conquering natural calamities. | Los estudios de literatura folclórica revelan que las leyendas sobre las costumbres de fin de año albergan elementos míticos y reflejan la psicología colectiva ancestral para superar los desastres naturales.
+
+collocations[6]{hanzi,en}:
+  民间传说 | folk legend; folklore
+  古老传说 | ancient legend
+  神话传说 | myths and legends
+  美丽传说 | beautiful legend
+  据传说 | according to legend; as the story goes
+  流传传说 | hand down a legend; circulate a tale
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  流传千古 | liú chuán qiān gǔ | spread and endure through thousands of years
+  传为美谈 | chuán wéi měi tán | pass on as an inspiring story or anecdote
+  道听途说 | dào tīng tú shuō | hearsay; gossip picked up on the road
+  自圆其说 | zì yuán qí shuō | justify one's own statement; make one's story coherent
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  传 | chuán | transmit; pass on; spread | transmitir; propagar; pasar | 亻 | person / human | 亻 (person passing messages) | 专 (zhuān, focused / phonetic in simplified) | 6 | 左右结构 | Simplified from traditional 傳. Shows a person (亻) holding rotating post-horses or records (專) to convey dispatches across territories. | A messenger (亻) designated exclusively (专) to carry urgent news across kingdoms, passing down ancient tales. | Un mensajero (亻) con la tarea exclusiva (专) de transportar despachos urgentes y relatos orales por todo el reino. | 35 | OQNI | 傳
+  说 | shuō | speak; say; explain; talk | hablar; decir; relatar | 讠 | speech / words | 讠 (words, spoken articulation) | 兑 (duì, joyful exchange / phonetic) | 9 | 左右结构 | Simplified from 說. Speech radical 讠 combined with 兑 (exchange of joyful speech), articulating thoughts into spoken words. | Spoken words (讠) shared with delightful joy (兑) by village elders recounting wonders around the hearth fire. | Palabras orales (讠) narradas con deleite (兑) por los ancianos alrededor del fuego para fascinar a la aldea. | 55 | IVCR | 說
+
+mnemonics_and_roots:
+  composite_memory_hook_en: What one person passes down (传) through spoken words (说) becomes an enduring legend (传说).
+  composite_memory_hook_es: Lo que una persona transmite (传) mediante palabras habladas (说) se convierte en una leyenda (传说) eterna.
+  cultural_and_cognitive_roots: Oral traditions in ancient China relied on storytelling (说) transmitted across generations (传). Legends like Nian (年兽) and the white-bearded immortal explained seasonal rituals, moral codes, and protective customs.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'chuán' (35) followed by high level 1st tone 'shuō' (55). When '传' is used in 'biography' (zhuàn), it is 4th tone (51), but in 'chuánshuō' it must remain 2nd tone (35).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    转 | zhuǎn | turn; shift; rotate | Has vehicle radical 车 on the left instead of person radical 亻
+    砖 | zhuān | brick; tile | Has stone radical 石 on the left instead of person radical 亻
+    悦 | yuè | pleased; delighted | Has heart radical 忄 on the left of 兑 instead of speech radical 讠
+    税 | shuì | tax; duty | Has grain radical 禾 on the left of 兑 instead of speech radical 讠
+    脱 | tuō | shed; take off | Has flesh/moon radical 月 on the left of 兑
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    转 | zhuàn | revolve; transmit
+    专 | zhuān | specialized; dedicated
+    话 | huà | words; talk; dialect
+    诉 | sù | tell; complain; accuse
+    语 | yǔ | language; speech
+
+semantic_boundary_contrasts:
+  core_nuance: 传说 refers to folklore or traditional myth passed down orally across generations, or verbal hearsay ('it is said').
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 传说 vs. 神话 | shénhuà | 传说 (legend) is often anchored to specific historical times, folk figures, or real cultural rituals (such as the origin of New Year's Eve), whereas 神话 (myth) deals with primordial deities, cosmic genesis, and supernatural creation.
+    2 | 传说 vs. 寓言 | yùyán | 传说 focuses on narrative folklore explaining origins of customs, whereas 寓言 is an instructive fable designed explicitly to impart a moral or philosophical lesson.
+    3 | 传说 vs. 谣言 | yáoyán | 传说 is culturally valued oral heritage or benign hearsay, whereas 谣言 refers to harmful, unfounded, and misleading rumors deliberately or negligently spread.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在围炉夜话的冬日里，关于年兽的传说总能轻易拨动游子的心弦。口耳相传的故事不仅承载着先民对凶险的敬畏，更寄托了以智慧驱散厄运的勇气。古老传说早已化作文化基因，世代相传。 | Zài wéilú yèhuà de dōngrì lǐ, guānyú Niánshòu de chuánshuō zǒng néng qīngyì bōdòng yóuzǐ de xīnxxián. Kǒu'ěr-xiāngchuán de gùshì bùjǐn chéngzài zhe xiānmín duì xiōngxiǎn de jìngwèi, gèng jìtuō le yǐ zhìhuì qūsàn èyùn de yǒngqì. Gǔlǎo chuánshuō zǎoyǐ huàzuò wénhuà jīyīn, shìdài xiāngchuán. | During winter evenings around the hearth, legends of the beast Nian easily strike a chord in wandering hearts. Stories passed down by word of mouth carry ancestors' awe of peril and reflect the courage to disperse misfortune through wisdom. Ancient legends have long crystallized into cultural heritage passed through generations. | Alrededor del fuego en noches de invierno, las leyendas de la fiera Nian conmueven a quienes están lejos del hogar. Relatos orales que transmiten el respeto de los antepasados ante el peligro y la valentía de ahuyentar el infortunio con ingenio. Estas viejas leyendas integran el patrimonio cultural transmitido entre generaciones.
+  #2 | 民俗学视角下的除夕传说，是农耕社会应对时间过渡危机的一套仪式化表达。通过对红布与爆竹声响的象征运用，传说将古人对凶险自然的恐惧转化为重构秩序的庆典，展现出强大的文化凝聚力。 | Mínsúxué shìjiǎo xià de Chúxī chuánshuō, shì nónggēng shèhuì yìngduì shíjiān guòdù wēijī de yí tào yíshìhuà biǎodá. Tōngguò duì hóngbù yǔ bàozhú shēngxiǎng de xiàngzhēng yùnyòng, chuánshuō jiāng gǔrén duì xiōngxiǎn zìrán de kǒngjù zhuǎnhuà wéi chónggòu zhìxù de qìngdiǎn, zhǎnxiàn chū qiángdà de wénhuà níngjùlì. | From a folkloric perspective, the New Year's Eve legend is a ritualized response of agrarian society to the crisis of temporal transition. Through the symbolic use of red cloth and firecrackers, the legend transmutes fear of nature's perils into celebrations that restore social order, demonstrating cultural cohesion. | Desde la perspectiva folclórica, las leyendas de fin de año constituyen una respuesta ritualizada de la sociedad agraria a la transición temporal. Mediante el uso simbólico de telas rojas y petardos, transforman el temor a los peligros naturales en festejos que restablecen el orden, mostrando gran cohesión cultural.

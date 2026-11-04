@@ -1,0 +1,65 @@
+id: 27
+hanzi: 守岁
+pinyin: shǒu suì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to stay up late on New Year's Eve; to see the old year out and the new year in
+  es: pasar la nochevieja en vela; velar el año nuevo; trasnochar en vísperas de año nuevo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to stay awake through the night on Lunar New Year's Eve with family to usher in the new year | pasar la nochevieja en vela junto a la familia para despedir el año viejo y recibir el nuevo | 全家守岁 (the whole family stays up for New Year's Eve)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕之夜，全家人围坐在明亮的客厅里一边包饺子看春晚，一边欢笑着守岁到天明。 | Chúxī zhī yè, quánjiā rén wéizuò zài míngliàng de kètīng lǐ yìbiān bāo jiǎozi kàn chūnwǎn, yìbiān huānxiào zhe shǒusuì dào tiānmíng. | On New Year's Eve, the entire family gathered in the brightly lit living room, making dumplings and watching the gala while laughing and staying up late to welcome the dawn. | En nochevieja, la familia al completo se reunió en la sala iluminada preparando empanadillas y viendo la gala, charlando alegremente hasta el alba para recibir el nuevo año.
+  #2 | 民俗学者指出，除夕守岁的古老仪式不仅象征着对流逝光阴的深切眷恋，更寄托了为长辈祈求健康长寿的美好愿望。 | Mínsú xuézhě zhǐchū, Chúxī shǒusuì de gǔlǎo yíshì bùjǐn xiàngzhēng zhe duì liúshì guāngyīn de shēnqiè juànliàn, gèng jìtuō le wèi zhǎngbèi qíqiú jiànkāng chángshòu de měihǎo yuànwàng. | Folklorists point out that the ancient ritual of staying up late on New Year's Eve not only symbolizes deep attachment to passing time, but also embodies hopes of praying for elders' health and longevity. | Los antropólogos destacan que la costumbre de velar en fin de año simboliza el apego al tiempo ido y encarna el devoto deseo de salud y longevidad para los mayores.
+
+collocations[6]{hanzi,en}:
+  全家守岁 | the whole family stays up late on New Year's Eve
+  守岁习俗 | the custom of staying up late on New Year's Eve
+  一起守岁 | stay up late together on New Year's Eve
+  除夕守岁 | stay up late on New Year's Eve
+  围炉守岁 | sit around the hearth staying up for the new year
+  守岁到天明 | stay up late until dawn
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  岁岁平安 | suì suì píng ān | peace and safety year after year
+  岁寒知松柏 | suì hán zhī sōng bǎi | only in the cold of winter does one know the resilience of pine and cypress
+  恪尽职守 | kè jìn zhí shǒu | conscientiously fulfill one's duties
+  守望相助 | shǒu wàng xiāng zhù | keep watch and help one another; mutual surveillance and assistance
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  守 | shǒu | guard; protect; watch; observe | guardar; custodiar; vigilar; proteger | 宀 | roof / house | 宀 (roof / home) | 寸 (cùn, inch / hand / rule) | 6 | 上下结构 | Ideogrammic compound of roof (宀) guarded by a watchful hand or law (寸), signifying defending one's household and rules. | A vigilant hand (寸) held ready under the household roof (宀) to protect the sanctuary of home. | Una mano protectora (寸) atenta bajo el techo del hogar (宀) custodiando la paz de la casa. | 214 | JDI | ""
+  岁 | suì | year; age; harvest | año; edad; cosecha; tiempo | 山 | mountain | 山 (mountain / passage of years) | 夕 (evening / moon phases) | 6 | 上下结构 | Simplified from traditional 歲 (which combined 步 step with 戌 battle axe / planetary orbit). Modern form joins 山 and 夕, evoking seasons passing over mountains. | Evening moons (夕) setting over jagged mountain peaks (山) marking the turning of another full year. | La luna vespertina (夕) que cae tras las cumbres montañosas (山) señalando el giro de un nuevo año. | 51 | UMNI | 歲
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Guarding the house (守) as the old year turns (岁) keeps the family vigil of 'shǒusuì' alive.
+  composite_memory_hook_es: Custodiar el hogar (守) mientras gira el año (岁) da vida a la vigilia tradicional de nochevieja (守岁).
+  cultural_and_cognitive_roots: The tradition of 守岁 dates back to the Northern and Southern Dynasties (recorded in Jingchu Suishiji). For elders, it means 'cherishing passing time' (惜光阴); for youths, it means praying for their parents' longevity (延年益寿). In folklore, it commemorates staying awake to avoid being ambushed by the monster Nian.
+  tone_sandhi_and_pitch_modulation: Dipped 3rd tone 'shǒu' (214) followed by falling 4th tone 'suì' (51). Ensure 'shǒu' dips to low pitch 1 before cleanly launching into 'suì'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    宇 | yǔ | space; universe; roof | Has 于 under 宀 instead of 寸
+    寺 | sì | temple | Has 土 on top of 寸 instead of roof 宀
+    导 | dǎo | guide; lead | Has 巳 on top of 寸
+    罗 | luó | net; sift | Has 罒 (net) on top of 夕 instead of 山
+    岛 | dǎo | island | Has 鸟 wrapped with 山 instead of 夕 under 山
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    保 | bǎo | protect; keep; preserve
+    护 | hù | shield; defend; guard
+    年 | nián | year; harvest
+    节 | jié | festival; joint; segment
+    期 | qī | period; phase; expect
+
+semantic_boundary_contrasts:
+  core_nuance: 守岁 specifically denotes the cultural custom of staying awake all night on Lunar New Year's Eve to bid farewell to the old year and welcome the new.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 守岁 vs. 熬夜 | áoyè | 守岁 is a joyful, festive ritual steeped in filial devotion and cultural celebration on New Year's Eve, whereas 熬夜 is a mundane, exhausting act of working or staying up late on any ordinary night.
+    2 | 守岁 vs. 过年 | guònián | 守岁 refers strictly to the vigil during the single night of New Year's Eve, whereas 过年 encompasses the broad weeks-long celebration of the entire Spring Festival season.
+    3 | 守岁 vs. 拜年 | bàinián | 守岁 takes place overnight indoors on New Year's Eve among immediate family, whereas 拜年 involves visiting relatives and friends to extend New Year greetings starting on New Year's Day morning.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕夜的灯火彻夜通明，全家老小围坐桌旁守岁。长辈眷恋岁月的沉淀，晚辈祈盼父母健康长寿。守岁不仅守住了一份浓郁年味，更凝聚着生生不息的家族深情。 | Chúxī yè de dēnghuǒ chèyè tōngmíng, quánjiā lǎoxiǎo wéizuò zhuō páng shǒusuì. Zhǎngbèi juànliàn suìyuè de chéndiàn, wǎnbèi qípàn fùmǔ jiànkāng chángshòu. Shǒusuì bùjǐn shǒuzhù le yí fèn nóngyù niánwèi, gèng níngjù zhe shēngshēng-bùxī de jiāzú shēnqíng. | The lights on New Year's Eve shone bright all through the night as young and old sat together staying up late. Elders cherished the accumulation of years while the young prayed for their parents' health and longevity. Staying up late not only guards festive sentiment, but knits enduring family bonds. | Las luces de fin de año resplandecieron toda la noche mientras la familia velaba unida. Los mayores evocaron el paso del tiempo y los jóvenes oraron por su salud y larga vida. Velar en nochevieja salvaguarda el espíritu festivo y consolida el afecto familiar intergeneracional.
+  #2 | 随着现代都市生活节奏加快，传统守岁的仪式形态虽在悄然改变，但其团聚内核依然坚固。无论是线上互道祝福还是全家通宵促膝长谈，守岁习俗始终是维系中华民族精神凝聚力与家国情怀的重要文化纽带。 | Suízhe xiàndài dūshì shēnghuó jiézòu jiākuài, chuántǒng shǒusuì de yíshì xíngtài suī zài qiǎorán gǎibiàn, dàn qí tuánjù nèihé yīrán jiāngù. Wúlùn shì xiànshàng hùdào zhùfú háishì quánjiā tōngxiāo cùxī-chángtán, shǒusuì xísú shǐzhōng shì wéixì Zhōnghuá mínzú jīngshén níngjùlì yǔ jiāguó qínghuái de zhòngyào wénhuà niǔdài. | As the tempo of contemporary urban life quickens, although outer forms of the New Year's vigil are evolving, its reunion core remains steadfast. Whether exchanging greetings online or chatting face-to-face all night, the custom of staying up late serves as an essential cultural bond sustaining Chinese cohesion and familial devotion. | Aunque la vida urbana moderna transforma las formas externas de velar el año nuevo, su esencia de reunión comunitaria perdura intacta. Ya sea felicitándose en red o conversando hasta el amanecer, esta vigilia sigue siendo un lazo cultural indispensable que afianza la cohesión del pueblo chino.

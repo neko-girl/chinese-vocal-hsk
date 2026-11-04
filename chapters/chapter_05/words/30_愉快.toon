@@ -1,0 +1,63 @@
+id: 30
+hanzi: 愉快
+pinyin: yú kuài
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: happy; joyful; cheerful; delightful; pleasant
+  es: alegre; feliz; grato; placentero; deleitoso
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | experiencing or expressing pleasure, satisfaction, and gladness; cheerful and joyful | alegre; feliz; que causa o siente deleite, dicha o satisfacción | 度过愉快的周末 (spend a pleasant weekend)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 伴着清冽的泉水声漫步在济南古街，品一壶清香的泉水茶，让人心情格外愉快舒畅。 | Bàn zhe qīngliè de quánshuǐ shēng mànbù zài Jǐnán gǔjiē, pǐn yì hú qīngxiāng de quánshuǐ chá, ràng rén xīnqíng géwài yúkuài shūchàng. | Strolling along Jinan's historic streets accompanied by bubbling springs and sipping spring-brewed tea, one feels delightfully cheerful and serene. | Pasear por las viejas calles de Jinan al son cantarín del agua y saborear té preparado con agua de manantial procura una dicha sumamente grata.
+  #2 | 双方代表团在坦诚务实的气氛中举行了会谈，并就多项跨国经贸合作协议达成了令人愉快的共识。 | Shuāngfāng dàibiǎotuán zài tǎnchéng wùshí de qìfēn zhōng jǔxíng le huìtán, bìng jiù duō xiàng kuàguó jīngmào hézuò xiéyì dáchéng le lìngrén yúkuài de gòngshí. | The delegations held talks in a candid, pragmatic atmosphere, reaching a pleasant consensus on multiple transnational trade pacts. | Ambas delegaciones dialogaron en un clima franco y pragmático, alcanzando un acuerdo muy satisfactorio sobre convenios comerciales bilaterales.
+
+collocations[6]{hanzi,en}:
+  心情愉快 | cheerful state of mind; happy mood
+  愉快的气氛 | pleasant / cheerful atmosphere
+  度过愉快的时光 | spend pleasant time
+  合作愉快 | pleasant collaboration; happy to work together
+  十分愉快 | exceptionally delightful; very joyful
+  身心愉快 | refreshed and joyful in body and mind
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  心旷神怡 | xīn kuàng shén yí | relaxed and joyful in mind and spirit; carefree delight
+  怡然自得 | yí rán zì dé | pleased with oneself; serene and contented
+  欢歌笑语 | huān gē xiào yǔ | cheerful singing and joyful chatter
+  乐不思蜀 | lè bù sī shǔ | indulge in pleasure and forget home; blissfully captivated
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  愉 | yú | happy; joyful; cheerful; please | alegre; gozoso; complacido | 忄 | heart / mind | 忄 (heart, internal feeling) | 俞 (yú, boat / permit / assent) | 12 | 左右结构 | Phono-semantic compound where heart radical 忄 indicates internal joy, and 俞 denotes smooth passage or cheerful agreement. | When your heart (忄) feels smooth and agreeable as a sailing boat (俞), profound joy and pleasure (愉) awaken within. | Cuando tu corazón (忄) navega suave como barca que se desliza (俞), brota en tu interior una dicha apacible (愉). | 35 | POMG | ""
+  快 | kuài | fast; quick; joyful; sharp | rápido; veloz; alegre; afilado | 忄 | heart / mind | 忄 (heart, exhilaration) | 夬 (guài, decisive parting) | 7 | 左右结构 | Phono-semantic compound where heart radical 忄 indicates emotional state, and 夬 signifies swift decisiveness, yielding energetic happiness. | An exhilarating surge in the heart (忄) moves swift as an arrow (夬), bringing quick, bright happiness (快). | Un júbilo repentino en el corazón (忄) vuela rápido y certero (夬), llenando el pecho de vivaz alegría (快). | 51 | PDK | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When peaceful joy fills your heart (愉) and sets your spirit racing with swift delight (快), you feel truly happy.
+  composite_memory_hook_es: Cuando la dulce paz inunda el corazón (愉) y el ánimo vuela con ágil júbilo (快), disfrutas de una dicha plena.
+  cultural_and_cognitive_roots: Chinese psychology distinguishes contemplative joy (愉, reflective interior serenity) from dynamic, expansive joy (快, swift outward exuberance), creating holistic happiness ('yúkuài').
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'yú' (35) followed by sharp falling 4th tone 'kuài' (51). Clean upward glide transitioning into a decisive drop.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    输 | shū | transport; lose | Has vehicle radical 车 instead of heart 忄 in 俞 compound
+    偷 | tōu | steal; thief | Has person radical 亻 next to 俞 instead of heart 忄
+    块 | kuài | piece; lump | Has earth radical 土 next to 夬 instead of heart 忄
+    决 | jué | decide; determine | Has water radical 冫 next to 夬
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    乐 | lè | happy; joyful; music
+    欢 | huān | joyful; merry; cheerful
+    悦 | yuè | pleased; delighted
+    欣 | xīn | joyful; glad; flourishing
+
+semantic_boundary_contrasts:
+  core_nuance: 愉快 describes a mild, balanced, and sustainable emotional state of contentment, cheerfulness, and pleasure.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 愉快 vs. 高兴 | gāoxìng | 愉快 is formal and describes continuous, serene contentment (心情愉快), whereas 高兴 is everyday colloquial language for immediate, bubbly happiness over a specific event.
+    2 | 愉快 vs. 快乐 | kuàilè | 愉快 focuses on internal state of comfort or smooth cooperation (合作愉快), while 快乐 is broader and commonly used in greetings (生日快乐).
+    3 | 愉快 vs. 兴奋 | xīngfèn | 愉快 represents calm, pleasant equilibrium, while 兴奋 denotes physiological agitation, heightened adrenaline, and restless excitement.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 假日的午后漫步在大明湖畔，微风轻拂，水波荡漾。游船在清澈的湖面上留下一道道白色的涟漪，岸边的茶馆里飘出醇厚的茉莉花茶香。远离了尘世的匆忙与喧嚣，心中涌动着一种难以言喻的愉快与宁静。 | Jiàrì de wǔhòu mànbù zài Dàmíng Hú pàn, wēifēng qīngfú, shuǐbō dàngyàng. Yóuchuán zài qīngchè de húmiàn shàng liúxià yídàodào báisè de liányī, ànbiān de cháguǎn lǐ piāochū chúnhòu de mòlìhuā cháxiāng. Yuǎnlí le chénshì de cōngmáng yǔ xuānxiào, xīnzhōng yǒngdòng zhe yì zhǒng nǎnyǐyányù de yúkuài yǔ níngjìng. | Strolling by Daming Lake on a holiday afternoon, breeze ripples the water as boats leave white wakes. Jasmine tea fragrance drifts from shoreside teahouses. Away from secular haste, inexpressible joy and tranquility fill the heart. | Pasear una tarde festiva junto al lago Daming brinda una brisa suave sobre aguas rizadas, surcadas por barcas. Las teterías exhalan aromas a jazmín; lejos del ajetreo mundano, el pecho se colma de una paz y alegría inefables.
+  #2 | 良好的团队协作氛围是提高员工工作满意度与创新活力的关键所在。企业管理层通过搭建扁平化沟通平台、举办多样化团队建设活动，营造出互信融洽、心情愉快的职场生态，显著增强了组织的凝聚力与创造力。 | Liánghǎo de tuánduì xiézuò fēnwéi shì tígāo yuángōng gōngzuò mǎnyìdù yǔ chuàngxīn huólì de guānjiàn suǒzài. Qǐyè guǎnlǐcéng tōngguò dājiàn biǎnpínghuà gōutōng píngtái, jǔbàn duōyànghuà tuánduì jiànshè huódòng, yíngzào chū hùxìn róngqià, xīnqíng yúkuài de zhíchǎng shēngtài, xiǎnzhù zēngqiáng le zǔzhī de níngjùlì yǔ chuàngzàolì. | A wholesome collaborative atmosphere is vital to job satisfaction and innovation. Corporate leadership deploys flat communication channels and team building, forging trust and a cheerful environment that strengthens cohesion and creativity. | Un clima armónico de equipo estimula la satisfacción y el ingenio de los empleados. La dirección implanta canales horizontales y dinámicas grupales, propiciando un ambiente de confianza y grata convivencia laboral que potencia la creatividad.

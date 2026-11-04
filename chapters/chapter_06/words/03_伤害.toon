@@ -1,0 +1,66 @@
+id: 3
+hanzi: 伤害
+pinyin: shāng hài
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to hurt; to harm; to injure; to inflict damage; bodily injury; harm
+  es: herir; lastimar; dañar; perjudicar; lesión; perjuicio
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to cause physical injury, psychological pain, or emotional trauma to a person | causar daño físico, herir o infligir sufrimiento emocional | 伤害他人 (hurt others)
+  2 | Noun | Formal | physical injury, emotional wound, or systemic damage | daño; lesión corporal o agravio moral | 造成严重伤害 (cause severe injury or damage)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在人际沟通中，不经意的冷淡言辞往往会对亲近之人的感情造成深深的伤害。 | Zài rénjì gōutōng zhōng, bùjīngyì de lěngdàn yáncí wǎngwǎng huì duì qīnjìn zhī rén de gǎnqíng zàochéng shēnshēn de shānghài. | In interpersonal communication, thoughtless and cold words often inflict deep harm on the feelings of those close to us. | En la comunicación interpersonal, las palabras frías e involuntarias a menudo causan un profundo daño a los sentimientos de los seres queridos.
+  #2 | 传说凶兽年常在除夕下山伤害百姓与家畜，村民不得不四处躲避以防遭受致命摧残。 | Chuánshuō xiōngshòu Nián cháng zài Chúxī xiàshān shānghài bǎixìng yǔ jiāchù, cūnmín bùdébù sìchù duǒbì yǐfáng zāoshòu zhìmìng cuīcán. | Legend says the vicious beast Nian would descend from the mountains on New Year's Eve to harm villagers and livestock, forcing villagers to flee in hiding from lethal havoc. | Cuenta la leyenda que la fiera Nian bajaba de las montañas en fin de año para lastimar a los aldeanos y al ganado, obligándolos a refugiarse para evitar una fatal calamidad.
+
+collocations[6]{hanzi,en}:
+  造成伤害 | cause harm; inflict injury
+  伤害感情 | hurt someone's feelings
+  免受伤害 | protect from harm; avoid injury
+  身体伤害 | bodily injury; physical harm
+  无意伤害 | unintentional hurt / accidental harm
+  严重伤害 | severe injury; grave damage
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  遍体鳞伤 | biàn tǐ lín shāng | covered all over with cuts and bruises; battered
+  祸国殃民 | huò guó yāng mín | bring calamity to the nation and harm to the people
+  伤天害理 | shāng tiān hài lǐ | outrage justice and violate heavenly principles; act atrociously
+  残害生灵 | cán hài shēng líng | slaughter and harm living innocent creatures
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  伤 | shāng | wound; injury; hurt; grieve | herir; herida; lesionar; aflicción | 亻 | person / human | 亻 (person suffering physical wound) | 𠂉 + 勹 + 㐅 (simplified from traditional 傷) | 6 | 左右结构 | Simplified from traditional 傷. Depicts a person (亻) wounded by an arrow or blade, weeping or bleeding from trauma. | A person (亻) bent over clutching a painful sword slash (㐅) across the chest, suffering a bleeding wound. | Una persona (亻) encorvada que se sujeta el pecho cruzado por una herida de espada (㐅) sangrante y dolorosa. | 55 | OOSH | 傷
+  害 | hài | harm; injure; damage; evil | dañar; mal; perjuicio; plaga | 宀 | roof with chimney | 宀 (protective residential roof) | 丯 (harmful words / obstruction) + 口 (mouth) | 10 | 上下结构 | Ideogrammic compound of roof (宀) sheltering harsh, piercing words (丯) uttered from the mouth (口), bringing internal destruction to the household. | Cruel, stabbing words spoken by a mouth (口) under the house roof (宀) bring disaster and lasting harm (害) to the family. | Palabras hirientes pronunciadas por una boca (口) bajo el techo doméstico (宀) acarrean desgracia y daño (害) familiar. | 51 | JTMK | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A physical wound on a person (伤) paired with malicious harm under the roof (害) causes catastrophic damage (伤害).
+  composite_memory_hook_es: Una herida corporal en la persona (伤) unida al perjuicio bajo techo (害) causa un daño (伤害) irreparable.
+  cultural_and_cognitive_roots: Chinese moral philosophy links 'shāng' (physical, visible cut) with 'hài' (insidious domestic or ethical malice, as in 伤天害理). In the folklore of Nian, villagers united defensive symbols (red, fire, sound) to prevent the monster from harming (伤害) vulnerable kin.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'shāng' (55) plunging directly into falling 4th tone 'hài' (51). Distinct drop in pitch reinforces decisive impact.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    份 | fèn | portion; share | Has 八 and 刀 on the right of 亻 instead of the component in 伤
+    仿 | fǎng | imitate; copy | Has 方 on the right of 亻
+    割 | gē | cut; slice | Has 害 with knife radical 刂 on the right
+    豁 | huò | exempt; clear; open | Has 害 on the left with 谷 (valley) on the right
+    辖 | xiá | govern; jurisdiction | Has vehicle radical 车 on the left and 害 on the right
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    妨 | fáng | hinder; harm
+    损 | sǔn | damage; lose
+    残 | cán | brutal; injure
+    毁 | huǐ | destroy; ruin
+    痛 | tòng | pain; ache
+
+semantic_boundary_contrasts:
+  core_nuance: 伤害 emphasizes inflicting tangible bodily injury, emotional grief, or direct damage onto people or relationships.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 伤害 vs. 损害 | sǔnhài | 伤害 applies primarily to animate beings, bodily health, or emotional feelings (伤害感情、身体伤害), whereas 损害 typically targets abstract rights, corporate interests, or material assets (损害利益、损害名誉).
+    2 | 伤害 vs. 危害 | wēihài | 伤害 describes actual damage or injury already inflicted on a specific victim, whereas 危害 denotes a pervasive, ongoing threat or danger to broader entities (e.g. 危害社会安全, 危害生态环境).
+    3 | 伤害 vs. 破坏 | pòhuài | 伤害 focuses on living beings or vulnerable relationships suffering harm, whereas 破坏 denotes the physical smashing, structural dismantling, or disruptive destruction of physical structures, systems, or rules.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 言语的伤害往往比刀刃更为锋利，它悄无声息地穿透防线，在心灵深处留下隐秘的创伤。我们在人际交往中，不仅要保护自己免受伤害，更应常怀善意与同理心，避免刺痛身边的亲友。 | Yányǔ de shānghài wǎngwǎng bǐ dāorèn gèngwéi fēnglì, tā qiāowúshēngxī de chuāntòu fángxiàn, zài xīnlíng shēncù liúxià yǐnmì de chuāngshāng. Wǒmen zài rénjì jiāowǎng zhōng, bùjǐn yào bǎohù zìjǐ miǎn shòu shānghài, gèng yīng chánghuái shànyì yǔ tónglǐxīn, bìmiǎn cìtòng shēnbiān de qīnyǒu. | Verbal hurt is often sharper than a blade, quietly penetrating defenses to leave hidden wounds deep within the soul. In interpersonal relationships, we must not only protect ourselves from harm, but also maintain kindness and empathy to avoid wounding loved ones. | El agravio de las palabras suele ser más afilado que una espada, traspasando barreras en silencio para dejar hondas cicatrices en el alma. Al relacionarnos, debemos protegernos de sufrir daños y cultivar la empatía para no lastimar a los seres queridos.
+  #2 | 现代法治体系对侵权责任的界定，始终围绕是否造成人身或财产的实质伤害展开。随着网络普及，精神创伤与名誉损害等新型非物质伤害，正促使司法机关不断完善赔偿标准与法律保护机制。 | Xiàndài fǎzhì tǐxì duì qīnquán zérèn de jièdìng, shǐzhōng wéirào shìfǒu zàochéng rénshēn huò cáichǎn de shízhì shānghài zhǎnkāi. Suízhe wǎngluò pǔjí, jīngshén chuāngshāng yǔ míngyù sǔnhài děng xīnxíng fēiwùzhì shānghài, zhèng cùshǐ sīfǎ jīguān bùduàn wánshàn péicháng biāozhǔn yǔ fǎlǜ bǎohù jīzhì. | In modern legal systems, determining tort liability centers on whether tangible harm has been inflicted on persons or property. With widespread internet usage, non-material injuries such as emotional distress and defamation are prompting judiciaries to continuously refine compensation standards and legal protections. | En el marco jurídico actual, la responsabilidad civil gira en torno a si se causó un daño sustancial a las personas o al patrimonio. La era digital plantea perjuicios morales e infracciones a la intimidad, exigiendo a los tribunales perfeccionar los baremos indemnizatorios.

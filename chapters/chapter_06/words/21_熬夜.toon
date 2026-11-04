@@ -1,0 +1,63 @@
+id: 21
+hanzi: 熬夜
+pinyin: áo yè
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to stay up late or all night; burn the midnight oil
+  es: trasnochar; pasar la noche en vela; quemarse las cejas estudiando o trabajando
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to remain awake late into the night or through the entire night; stay up late | trasnochar; pasar la noche despierto o en vela | 除夕夜熬夜守岁 (stay up all night on New Year's Eve)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕之夜，全家人围坐在明亮的客厅里吃年夜饭、看春晚，熬夜守岁迎接新春的到来。 | Chúxī zhī yè, quánjiā rén wéizuò zài míngliàng de kètīng lǐ chī niányèfàn, kàn chūnwǎn, áoyè shǒusuì yíngjiē xīnchūn de dàolái. | On New Year's Eve, the whole family sits in the bright living room eating dinner, watching the gala, and staying up late to welcome spring. | En Nochevieja, toda la familia se reúne en el salón iluminado a cenar, ver la gala y trasnochar en vela para recibir el nuevo año.
+  #2 | 为了确保科研项目能够在截止日期前顺利交付，攻坚团队连续多日加班熬夜，反复优化算法模型。 | Wèile quèbǎo kěyán xiàngmù nénggòu zài jiézhǐ rìqī qián shùnlì jiāofù, gōngjiān tuánduì liánxù duō rì jiābān áoyè, fǎnfù yōuhuà suànfǎ móxíng. | To ensure the research project delivered before the deadline, the team worked overtime and burned the midnight oil for days. | Para entregar el proyecto de investigación antes del plazo límite, el equipo hizo horas extras y pasó noches en vela optimizando algoritmos.
+
+collocations[6]{hanzi,en}:
+  加班熬夜 | work overtime and stay up late
+  通宵熬夜 | stay awake the whole night through
+  经常熬夜 | frequently stay up late
+  熬夜加班 | burn midnight oil working overtime
+  偶尔熬夜 | occasionally stay up late
+  熬夜对身体不好 | staying up late harms health
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  通宵达旦 | tōng xiāo dá dàn | all through the night until daybreak; around the clock
+  夜以继日 | yè yǐ jì rì | night and day without ceasing; day in, day out
+  废寝忘食 | fèi qǐn wàng shí | forget sleep and food; utterly absorbed in work
+  更深夜静 | gēng shēn yè jìng | deep in the night when all is quiet
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  熬 | áo | simmer; stew; endure; stay up | cocer a fuego lento; soportar; trasnochar | 灬 | fire | 敖 (áo, stroll / haughty / phonetic) | 灬 (fire / flames simmering) | 14 | 上下结构 | Phono-semantic compound where fire radical 灬 indicates simmering over slow flames, extending to enduring prolonged sleepless hours. | Simmering broth over slow flames (灬) through the long hours represents enduring (熬) deep sleepless nights. | Cocinar a fuego lento (灬) durante horas representa la perseverancia de aguantar despierto y trasnochar (熬). | 35 | QSF | ""
+  夜 | yè | night; evening; darkness | noche; nocturno; oscuridad | 夕 | evening / dusk | 亠 (cover / sky) | 夕 (evening / crescent moon) | 8 | 上下结构 | Ideogram depicting darkness covering 亠 over the crescent moon and human armpit 夕, designating the nighttime hours. | When evening twilight (夕) covers the wide sky, darkness descends, welcoming the arrival of deep night (夜). | Cuando el crepúsculo (夕) cubre el cielo nocturno, desciende la penumbra dando paso a la noche (夜). | 51 | YNOK | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Simmering your energy over fire (熬) through the darkness of night (夜) means staying up late to keep vigil.
+  composite_memory_hook_es: Cocinar tu energía a fuego lento (熬) a través de la noche (夜) significa trasnochar en vela.
+  cultural_and_cognitive_roots: Staying awake all night on New Year's Eve ('shǒusuì/áoyè') symbolizes bidding farewell to the old year, guarding parents' longevity, and ensuring the household safely crosses the threshold of time.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'áo' (35) followed by sharp falling 4th tone 'yè' (51). Glide smoothly up from 35 before falling sharply to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    傲 | ào | proud; arrogant | Has person radical 亻 next to 敖 instead of fire 灬 in 熬
+    嗷 | áo | howl; wail | Has mouth radical 口 next to 敖
+    液 | yè | liquid; fluid | Has water radical 氵 on the left of 夜
+    腋 | yè | armpit | Has flesh radical 月 on the left of 夜
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    度 | dù | spend time; pass; degree
+    守 | shǒu | guard; keep vigil; defend
+    晚 | wǎn | evening; late; night
+    夕 | xī | dusk; evening; sunset
+
+semantic_boundary_contrasts:
+  core_nuance: 熬夜 emphasizes remaining awake and enduring fatigue late into the night for study, work, or ritual celebrations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 熬夜 vs. 失眠 | shīmián | 熬夜 is an intentional or voluntary decision to stay awake, whereas 失眠 is involuntary pathological insomnia where one desires sleep but cannot rest.
+    2 | 熬夜 vs. 通宵 | tōngxiāo | 熬夜 can mean staying up merely past midnight, while 通宵 strictly denotes staying awake through the whole night until sunrise (all-nighter).
+    3 | 熬夜 vs. 守夜 | shǒuyè | 熬夜 refers to staying awake for any activity, whereas 守夜 specifically denotes night-watch sentry duty or funeral wake vigils.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕之夜的熬夜守岁，是千百年来流传至今的温暖年俗。窗外爆竹声声，屋内灯火通明，一家老小围坐案前包饺子、拉家常。年轻人以此为父母祈求延年益寿，长辈则祝福晚辈岁岁平安，熬夜守岁守出的是人间最浓郁的亲情。 | Chúxī zhī yè de áoyè shǒusuì, shì qiānbǎi nián lái liúchuán zhìjīn de wēnnuǎn niánsú. Chuāngwài bàozhú shēngshēng, wūnèi dēnghuǒ tōngmíng, yì jiā lǎoxiǎo wéizuò ànqián bāo jiǎozi, lā jiācháng. Niánqīngrén yǐ cǐ wèi fùmǔ qíqiú yánniányìshòu, zhǎngbèi zé zhùfú wǎnbèi suìsuì píng'ān, áoyè shǒusuì shǒu chū de shì rénjiān zuì nóngyù de qīnqíng. | New Year's Eve vigil is a heartwarming custom across centuries. Outside firecrackers crackle; inside lights blaze as families make dumplings. Youths pray for parents' longevity, elders bless youths, and staying up late guards familial love. | Trasnochar en Nochevieja es una tradición entrañable. Afuera truenan petardos; adentro brillan faroles y la familia amasa empanadillas. Los jóvenes piden longevidad para sus padres y los mayores paz para los hijos, custodiando el amor familiar.
+  #2 | 现代医学研究表明，长期熬夜会导致人体昼夜生物钟紊乱，显著损害中枢神经系统免疫力与心血管代谢功能。健康专家建议，高强度脑力工作者应建立规律作息，尽量避免连续熬夜加班，通过高质量睡眠维护身心健康。 | Xiàndài yīxué yánjiū biǎomíng, chángqī áoyè huì dǎozhì réntǐ zhòuyè shēngwùzhōng wènluàn, xiǎnzhù sǔnhài zhōngshū shénjīng xìtǒng miǎnyìlì yǔ xīnxuèguǎn dàixiè gōngnéng. Jiànkāng zhuānjiā jiànyì, gāoqiángdù nǎolì gōngzuòzhě yīng jiànlì guīlǜ zuòxī, jǐnliàng bìmiǎn liánxù áoyè jiābān, tōngguò gāozhìliàng shuìmián wéihù shēnxīn jiànkāng. | Medical research reveals chronic late nights disrupt circadian rhythms, impairing immunity and cardiovascular health. Experts urge high-intensity mental workers to avoid chronic all-nighters and maintain healthy sleep. | La medicina demuestra que trasnochar de forma crónica altera el ritmo circadiano y perjudica el sistema inmune y cardiovascular. Los expertos aconsejan hábitos regulares y evitar jornadas nocturnas prolongadas para velar por la salud.

@@ -1055,6 +1055,19 @@
   max-height: 70vh;
   overflow-y: auto;
 }
+.shortcut-category-title {
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--primary);
+  margin: 16px 0 6px 0;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--border);
+}
+.shortcut-category-title:first-child {
+  margin-top: 0;
+}
 .shortcut-row {
   display: flex;
   justify-content: space-between;
@@ -1134,6 +1147,33 @@
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
   font-size: 0.82rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+.current-chapter-indicator:hover {
+  border-color: var(--primary);
+  background: var(--bg-card);
+}
+.ch-dropdown-arrow {
+  font-size: 0.72rem;
+  color: var(--text-dim);
+  transition: transform 0.2s ease;
+}
+.current-chapter-indicator:hover .ch-dropdown-arrow {
+  color: var(--primary);
+  transform: translateY(1px);
+}
+.card-step-nav {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.btn-nav-step {
+  font-size: 1.1rem;
+  font-weight: 700;
+  padding: 4px 8px;
+  line-height: 1;
 }
 .ch-badge {
   font-weight: 800;
@@ -1484,5 +1524,199 @@
   align-items: center;
   gap: 6px;
 }
+
+/* ==========================================================================
+   Search Box Clear Button & Match Info
+   ========================================================================== */
+.search-clear-btn {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  color: var(--text-dim);
+  font-size: 1.1rem;
+  cursor: pointer;
+  display: none;
+  line-height: 1;
+  padding: 2px 4px;
+}
+.search-clear-btn:hover {
+  color: var(--text);
+}
+.search-clear-btn.visible {
+  display: block;
+}
+
+/* Review Filter Chip Count Badges */
+.review-chip-count {
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 1px 5px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.12);
+  margin-left: 3px;
+}
+[data-theme="dark"] .review-chip-count {
+  background: rgba(255, 255, 255, 0.12);
+}
+.review-chip.active .review-chip-count {
+  background: rgba(0, 0, 0, 0.25);
+  color: #ffffff;
+}
+
+/* ==========================================================================
+   Chapter Picker Modal Popover
+   ========================================================================== */
+.chapter-picker-modal-wrap {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(15, 23, 42, 0.65);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1050;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+  padding: 20px;
+}
+.chapter-picker-modal-wrap.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+.chapter-picker-card {
+  width: 100%;
+  max-width: 580px;
+  max-height: 85vh;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  animation: tabSlideIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+.chapter-picker-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  background: var(--bg-card-sub);
+  border-bottom: 1px solid var(--border);
+}
+.chapter-picker-title {
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.chapter-picker-list {
+  padding: 16px 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.chapter-picker-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--bg-card-sub);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.chapter-picker-item:hover {
+  border-color: var(--primary);
+  background: var(--bg-card);
+  transform: translateX(2px);
+}
+.chapter-picker-item.active {
+  border-color: var(--primary);
+  background: var(--primary-glow);
+}
+.chapter-picker-item-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.chapter-picker-num {
+  font-weight: 800;
+  font-size: 0.85rem;
+  padding: 3px 8px;
+  border-radius: 6px;
+  background: var(--primary);
+  color: #0b0f19;
+}
+.chapter-picker-info {
+  display: flex;
+  flex-direction: column;
+}
+.chapter-picker-name {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--text);
+}
+.chapter-picker-sub {
+  font-size: 0.76rem;
+  color: var(--text-muted);
+}
+.chapter-picker-item-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.chapter-picker-progress {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--accent-green);
+}
+
+/* ==========================================================================
+   Responsive Topbar Breakpoints
+   ========================================================================== */
+@media (max-width: 900px) {
+  header.topbar {
+    padding: 10px 16px;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .topbar-center-hud {
+    order: 3;
+    width: 100%;
+    min-width: 0;
+    margin-top: 4px;
+  }
+  .lang-toggle {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  .nav-controls {
+    gap: 6px;
+  }
+  .nav-drawer-btn span {
+    display: none;
+  }
+  .nav-drawer-btn kbd {
+    display: none;
+  }
+  .mode-switch-group .mode-btn {
+    padding: 4px 8px;
+    font-size: 0.75rem;
+  }
+  .topbar-kbd {
+    display: none;
+  }
+}
+
 
 

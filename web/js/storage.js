@@ -166,7 +166,9 @@ const StorageManager = (function() {
         filter: 'all',         // 'all', 'due', 'lapses', 'remembered', 'new'
         lang: localStorage.getItem('hsk_lang') || 'both',
         autoAdvanceChapter: true, // auto-start next chapter when finished
-        autoAdvanceDelay: 5       // countdown seconds before auto-advance
+        autoAdvanceDelay: 5,      // countdown seconds before auto-advance
+        soundFx: true,            // soft UI audio feedback
+        showPassagePinyin: false  // reading passage pinyin visibility toggle
       };
 
       try {

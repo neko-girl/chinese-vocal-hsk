@@ -40,7 +40,8 @@
 
       <div class="search-box">
         <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
-        <input type="text" id="search-input" placeholder="Search Hanzi, Pinyin, EN, ES...">
+        <input type="text" id="search-input" placeholder="Search Hanzi, Pinyin... (Press /)">
+        <button type="button" id="search-clear-btn" class="search-clear-btn" onclick="App.clearSearch()" title="Clear Search">&times;</button>
       </div>
 
       <!-- Spaced Repetition & Memorization Status Filters -->
@@ -80,9 +81,16 @@
           <kbd class="topbar-kbd">W</kbd>
         </button>
 
-        <div class="current-chapter-indicator" id="current-chapter-indicator">
+        <div class="current-chapter-indicator" id="current-chapter-indicator" onclick="App.openChapterPicker()" title="Click to Switch Chapter (Shortcut: C)">
           <span class="ch-badge" id="topbar-ch-badge">CHP 1</span>
           <span class="ch-title" id="topbar-ch-title">细节与人际关系</span>
+          <span class="ch-dropdown-arrow">▾</span>
+          <kbd class="topbar-kbd" style="margin-left: 2px;">C</kbd>
+        </div>
+
+        <div class="card-step-nav">
+          <button type="button" class="btn btn-icon btn-nav-step" onclick="App.prevCard()" title="Previous Card (←)">‹</button>
+          <button type="button" class="btn btn-icon btn-nav-step" onclick="App.nextCard()" title="Next Card (→)">›</button>
         </div>
       </div>
 
@@ -103,8 +111,8 @@
       <div class="nav-controls">
         <!-- Mode Switcher: Flashcard vs Browse -->
         <div class="mode-switch-group">
-          <button class="mode-btn active" data-mode="flashcard" title="Distraction-Free Flashcard Memorization">🗂️ Study</button>
-          <button class="mode-btn" data-mode="browse" title="Full Dictionary Browse Mode">📖 Browse</button>
+          <button class="mode-btn active" data-mode="flashcard" title="Distraction-Free Flashcard Memorization (M)">🗂️ Study <kbd class="topbar-kbd" style="font-size: 0.65rem; padding: 1px 4px; margin-left: 2px;">M</kbd></button>
+          <button class="mode-btn" data-mode="browse" title="Full Dictionary Browse Mode (M)">📖 Browse</button>
         </div>
 
         <!-- Shortcuts Help Modal Trigger -->
@@ -203,6 +211,28 @@
         </label>
       </div>
 
+      <div class="setting-row">
+        <div>
+          <span class="setting-title">Subtle Sound Effects</span>
+          <span class="setting-desc">Tactile clicks & soft audio feedback on actions</span>
+        </div>
+        <label class="ankineitor-switch">
+          <input type="checkbox" id="toggle-sound-fx" checked>
+          <span class="slider"></span>
+        </label>
+      </div>
+
+      <div class="setting-row">
+        <div>
+          <span class="setting-title">Show Reading Passages Pinyin</span>
+          <span class="setting-desc">Display Pinyin above long text passages by default</span>
+        </div>
+        <label class="ankineitor-switch">
+          <input type="checkbox" id="toggle-passage-pinyin">
+          <span class="slider"></span>
+        </label>
+      </div>
+
       <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 6px;">
         <span class="setting-title">TTS Speech Speed</span>
         <input type="range" id="speech-rate-range" min="0.7" max="1.2" step="0.05" value="0.9" style="width: 100%;">
@@ -225,29 +255,72 @@
         <button type="button" class="drawer-close-btn" onclick="App.closeDrawers()">&times;</button>
       </div>
       <div class="shortcuts-modal-body">
+        <div class="shortcut-category-title">🗂️ Flashcard Study & Grading</div>
         <div class="shortcut-row">
-          <span class="shortcut-desc">Show Answer / Flip Card</span>
+          <span class="shortcut-desc">Show Answer / Flip to Back</span>
           <div class="shortcut-keys"><span class="kbd-key">Space</span><span class="kbd-key">Enter</span></div>
         </div>
         <div class="shortcut-row">
           <span class="shortcut-desc">Mark as <strong>Don't Remember (Again)</strong></span>
-          <div class="shortcut-keys"><span class="kbd-key">1</span><span class="kbd-key">A</span><span class="kbd-key">←</span></div>
+          <div class="shortcut-keys"><span class="kbd-key">1</span><span class="kbd-key">A</span><span class="kbd-key">Bksp</span></div>
         </div>
         <div class="shortcut-row">
           <span class="shortcut-desc">Mark as <strong>Remember (Good)</strong></span>
-          <div class="shortcut-keys"><span class="kbd-key">2</span><span class="kbd-key">Space</span><span class="kbd-key">D</span><span class="kbd-key">→</span></div>
+          <div class="shortcut-keys"><span class="kbd-key">2</span><span class="kbd-key">D</span><span class="kbd-key">Space</span></div>
         </div>
         <div class="shortcut-row">
-          <span class="shortcut-desc">Switch 8-Pill Tabs (On Back Card)</span>
-          <div class="shortcut-keys"><span class="kbd-key">1</span> - <span class="kbd-key">8</span></div>
+          <span class="shortcut-desc">Peek Radical & Pinyin Hint (Front Card)</span>
+          <div class="shortcut-keys"><span class="kbd-key">H</span></div>
         </div>
         <div class="shortcut-row">
-          <span class="shortcut-desc">Replay Headword Audio (TTS)</span>
+          <span class="shortcut-desc">Flip Card Toggle (Front ↔ Back)</span>
+          <div class="shortcut-keys"><span class="kbd-key">F</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Previous / Next Word Navigation</span>
+          <div class="shortcut-keys"><span class="kbd-key">←</span><span class="kbd-key">→</span></div>
+        </div>
+
+        <div class="shortcut-category-title">📑 8-Pill Tabs & Content</div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Cycle Previous / Next Pill Tab</span>
+          <div class="shortcut-keys"><span class="kbd-key">[</span><span class="kbd-key">]</span><span class="kbd-key">Tab</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Jump Directly to Tab (1..8)</span>
+          <div class="shortcut-keys"><span class="kbd-key">Alt</span>+<span class="kbd-key">1..8</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Speak Active Tab Content (Sentence/Passage)</span>
+          <div class="shortcut-keys"><span class="kbd-key">P</span></div>
+        </div>
+
+        <div class="shortcut-category-title">🔊 Audio & Pronunciation</div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Replay Headword Audio (Normal 1.0x)</span>
           <div class="shortcut-keys"><span class="kbd-key">R</span></div>
         </div>
         <div class="shortcut-row">
-          <span class="shortcut-desc">Flip Card Toggle</span>
-          <div class="shortcut-keys"><span class="kbd-key">F</span></div>
+          <span class="shortcut-desc">Replay Headword Audio (Slow 0.75x)</span>
+          <div class="shortcut-keys"><span class="kbd-key">T</span><span class="kbd-key">Shift+R</span></div>
+        </div>
+
+        <div class="shortcut-category-title">🚀 Navigation, Search & Drawers</div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Focus Search in Word List</span>
+          <div class="shortcut-keys"><span class="kbd-key">/</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Open Chapter Picker Popover</span>
+          <div class="shortcut-keys"><span class="kbd-key">C</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Toggle Study ↔ Browse Mode</span>
+          <div class="shortcut-keys"><span class="kbd-key">M</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Cycle Language (Both ↔ EN ↔ ES)</span>
+          <div class="shortcut-keys"><span class="kbd-key">B</span></div>
         </div>
         <div class="shortcut-row">
           <span class="shortcut-desc">Open / Close Vocabulary List Drawer</span>
@@ -268,6 +341,22 @@
       </div>
     </div>
   </div>
+
+  <!-- Chapter Picker Modal -->
+  <div id="chapter-picker-modal" class="chapter-picker-modal-wrap" onclick="if(event.target === this) App.closeDrawers();">
+    <div class="chapter-picker-card">
+      <div class="chapter-picker-header">
+        <div class="chapter-picker-title">📚 Select Curriculum Chapter</div>
+        <button type="button" class="drawer-close-btn" onclick="App.closeDrawers()">&times;</button>
+      </div>
+      <div class="chapter-picker-list" id="chapter-picker-list">
+        <!-- Populated dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="app-toast" class="app-toast"></div>
 
   <!-- Application Modules -->
   <script src="web/js/storage.js"></script>

@@ -1,0 +1,63 @@
+id: 25
+hanzi: 整个
+pinyin: zhěng gè
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: whole; entire; complete; all
+  es: todo; entero; completo; íntegro; la totalidad de
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | encompassing all parts, scope, or duration without exception; whole; entire | que abarca todas las partes, tiempo o extensión sin omitir nada; entero; completo | 整个村庄 (the entire village)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕夜，爆竹的轰鸣与璀璨的烟火映红了夜空，欢声笑语充溢着整个村庄的街头巷尾。 | Chúxī yè, bàozhú de hōngmíng yǔ cuǐcàn de yānhuǒ yìnghóng le yèkōng, huānshēngxiàoyǔ chōngyì zhe zhěng gè cūnzhuāng de jiētóu xiàngwěi. | On New Year's Eve, roaring firecrackers and radiant fireworks turned night red, and laughter filled the entire village's streets. | En Nochevieja, el trueno de los petardos y las luces pirotécnicas tiñeron la noche de carmesí, llenando de risas todo el pueblo.
+  #2 | 该科技园区构建了涵盖研发、孵化、测试与产业化落地的全周期创新服务体系，辐射带动了整个区域经济的高质量发展。 | Gāi kējì yuánqū gòujiàn le hángài yánfā, fūhuà, cèshì yǔ chǎnyèhuà luòdì de quán zhōuqī chuàngxīn fúwù tǐxì, fúshè dàidòng le zhěng gè qūyù jīngjì de gāozhìliàng fāzhǎn. | The technology park built a lifecycle innovation service system covering R&D, incubation, and commercialization, driving the entire region's economy. | El parque tecnológico articuló un ecosistema integral de I+D, incubación y manufactura, dinamizando con éxito la economía de toda la región.
+
+collocations[6]{hanzi,en}:
+  整个世界 | the entire world; whole globe
+  整个过程 | the whole process / entire course
+  整个社会 | whole society; society at large
+  整个人生 | one's entire life; whole lifespan
+  整个下午 | the entire afternoon
+  充溢整个空间 | fill the whole space
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  完美无瑕 | wán měi wú xiá | flawless and perfect; without a blemish
+  浑然一体 | hún rán yì tǐ | integrated into a single seamless whole
+  统筹兼顾 | tǒng chóu jiān gù | unified planning with all aspects taken into account
+  一网打尽 | yì wǎng dǎ jìn | catch the whole lot in one net; round up everyone
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  整 | zhěng | whole; complete; orderly; repair | entero; completo; ordenar; arreglar | 攵 | tap / action | 束 (bundle) / 正 (upright / correct) | 攵 (action / discipline) | 16 | 上下结构 | Ideogram combining an orderly tied bundle 束 maintained in upright order 正 by disciplined action 攵, signifying wholeness. | Fasten a bundle of bamboo rods upright (束 正) and bind them neatly with disciplined care (攵) into a complete, orderly whole (整). | Atar un haz de cañas erguido (束 正) con esmero y disciplina (攵) conforma un todo íntegro y ordenado (整). | 214 | KTOEK | ""
+  个 | gè | individual; classifier; piece | individuo; clasificador general; unidad | 人 | person | 人 (human individual) | 丨 (standing upright) | 3 | 左右结构 | Ancient pictograph of a single human individual standing upright with a walking staff, acting as a singular unit or classifier. | A person (人) standing tall beside an upright staff (丨) represents an individual unit or classifier (个). | Una persona (人) erguida junto a un báculo (丨) representa una unidad o clasificador individual (个). | 51 | OL | 個
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An orderly bound bundle (整) counted as a unified unit (个) encompasses the entire whole.
+  composite_memory_hook_es: Un haz bien ordenado (整) considerado como unidad (个) abarca la totalidad del conjunto entero.
+  cultural_and_cognitive_roots: Chinese holism (整体观) views the individual ('gè') not as an isolated atom, but as an organic cell participating in the harmonic integrity of the whole universe ('zhěng').
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'zhěng' (214) followed by falling 4th tone 'gè' (51). Clear contrast from low dipping to falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    敕 | chì | imperial decree | Has 来 on left instead of 束 inside 整
+    赖 | lài | rely; disclaim | Has 束 next to 负, distinct from 整
+    介 | jiè | between; introduce | Has 八 below 人 instead of vertical stroke 丨 in 个
+    人 | rén | person | Lacks the vertical stroke 丨 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    全 | quán | complete; whole; entire
+    齐 | qí | neat; even; complete
+    统 | tǒng | unify; gather; manage
+    遍 | biàn | everywhere; all over; turn
+
+semantic_boundary_contrasts:
+  core_nuance: 整个 emphasizes totality and unbroken continuity across space, time, or organizational scope.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 整个 vs. 全部 | quánbù | 整个 typically acts as an attributive modifier directly before singular nouns (整个国家, 整个过程), while 全部 is a noun/adjective describing all constituent items, funds, or parts collectively (全部资金, 全部人员).
+    2 | 整个 vs. 整体 | zhěngtǐ | 整个 is an adjective modifying nouns, whereas 整体 is a formal philosophical noun meaning 'the macro totality / whole system' contrasted against parts (局部).
+    3 | 整个 vs. 完整 | wánzhěng | 整个 focuses on spatial or temporal comprehensiveness, whereas 完整 means intact, unbroken, and undamaged.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 当新年的零点钟声敲响，整座古城瞬间沸腾起来。噼啪作响的爆竹与漫天升腾的烟花将夜幕点缀得如白昼般灿烂，欢呼声此起彼伏。整个世界仿佛都在这一刻卸下了过往的疲惫，在融融春意中满怀希望地拥抱崭新的明天。 | Dāng xīnnián de língdiǎn zhōngshēng qiāoxiǎng, zhěng zuò gǔchéng shùnjiān fèiténg qǐlái. Pīpā zuòxiǎng de bàozhú yǔ màntiān shēngténg de yānhuā jiāng yèmù diǎnzhuì de rú báizhòu bān cànlàn, huānhūshēng cǐqǐbǐfú. Zhěng gè shìjiè fǎngfú dōu zài zhè yí kè xièxià le guòwǎng de píbèi, zài róngróng chūnyì zhōng mǎnhuái xīwàng de yōngbào zhǎnxīn de míngtiān. | When the midnight bell struck, the whole city erupted in joy. Crackling firecrackers and fireworks lit the night like day as cheers rose. The entire world seemed to cast off weariness, embracing tomorrow with hope. | Al dar la medianoche, la ciudad entera estalló en júbilo. Petardos y fuegos artificiales iluminaron la noche como pleno día entre vítores. El mundo entero pareció sacudirse los afanes, abrazando el mañana con renovada esperanza.
+  #2 | 在现代高端复杂装备研制工程中，数字化协同平台实现了覆盖整个产品生命周期的闭环管理。从最初的概念设计、虚拟仿真到总装测试，海量工程数据在整个跨地域协同网络中无缝流转，大幅压缩了大型客机的研发周期。 | Zài xiàndài gāoduān fùzá zhuāngbèi yánzhì gōngchéng zhōng, shùzìhuà xiétóng píngtái shíxiàn le fùgài zhěng gè chǎnpǐn shēngmìng zhōuqī de bìhuán guǎnlǐ. Cóng zuìchū de gàiniàn shèjì, xūnǐ fǎngzhēn dào zǒngzhuāng cèshì, hǎiliàng gōngchéng shùjù zài zhěng gè kuàdìyù xiétóng wǎngluò zhōng wúfèng liúzhuǎn, dàfú yāsuō le dàxíng kèjī de yánfā zhōuqī. | In complex aerospace manufacturing, digital collaboration platforms ensure lifecycle closed-loop control. From design to assembly, data flows smoothly across the entire inter-regional network, shortening airliner development. | En la ingeniería aeroespacial avanzada, las plataformas digitales aseguran una gestión integral de todo el ciclo de vida. Del diseño al ensamblaje, los datos fluyen por toda la red de trabajo reduciendo los plazos de fabricación.

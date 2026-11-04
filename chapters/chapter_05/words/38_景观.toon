@@ -1,0 +1,63 @@
+id: 38
+hanzi: 景观
+pinyin: jǐng guān
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: landscape; scenery; sight; spectacle; view
+  es: paisaje; vista panorámica; espectáculo visual; entorno paisajístico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a notable natural or designed scenic panorama, landscape, or physical sight | paisaje; vista o panorama natural o urbano de valor estético; entorno | 独特的自然景观 (a unique natural landscape)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉三股水流喷涌如沸，与池畔的宋代古建、苍翠垂柳构成了一幅秀丽绝伦的自然景观。 | Bàotūquán sān gǔ shuǐliú pēnyǒng rú fèi, yǔ chípàn de Sòngdài gǔjiàn, cāngcuì chuíliǔ gòuchéng le yì fú xiùlì juélún de zìrán jǐngguān. | Baotu Spring's three boiling plumes, paired with Song-era pavilions and weeping willows, compose an exquisitely picturesque natural landscape. | Los tres surtidores del manantial Baotu, junto a pabellones de la dinastía Song y sauces verdes, configuran un paisaje natural primoroso.
+  #2 | 城市规划设计院在滨江新区建设中，注重保留原始水网湿地景观，打造出城水相依的生态绿廊。 | Chéngshì guīhuà shèjìyuàn zài bīnjiāng xīnqū jiànshè zhōng, zhùzhòng bǎoliú yuánshǐ shuǐwǎng shīdì jǐngguān, dǎzào chū chéng shuǐ xiāngyī de shēngtài lǜláng. | In riverfront new district development, the urban planning institute preserved pristine wetlands, creating an eco-corridor harmonizing city with water. | En la ribera del nuevo distrito, el instituto de urbanismo preservó el paisaje de humedales nativos, creando un corredor ecológico de gran belleza.
+
+collocations[6]{hanzi,en}:
+  自然景观 | natural landscape / scenery
+  人文景观 | cultural / human landscape
+  景观设计 | landscape architecture / design
+  城市景观 | urban landscape / cityscape
+  保护景观 | protect landscapes / scenic heritage
+  壮丽景观 | magnificent / spectacular landscape
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  蔚为大观 | wèi wéi dà guān | present a magnificent spectacle; impressive display
+  叹为观止 | tàn wéi guān zhǐ | praise as the peak of perfection; acme of admiration
+  大饱眼福 | dà bǎo yǎn fú | feast one's eyes; revel in a visual feast
+  赏心悦目 | shǎng xīn yuè mù | pleasing to both the eye and the mind; aesthetically delightful
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  景 | jǐng | scenery; view; light; condition | paisaje; vista; luz; circunstancia | 日 | sun | 日 (sun, radiant illumination) | 京 (jīng, capital / high tower) | 12 | 上下结构 | Ideogram combining sun 日 illuminating a high observation pavilion 京, signifying brilliant panoramic scenery. | Golden sunlight (日) bathing an elevated capital watchtower (京) illuminates a breathtaking scenic view (景). | La luz del sol (日) iluminando una alta atalaya de la capital (京) despliega un soberbio paisaje (景). | 214 | AYRF | ""
+  观 | guān | watch; look; view; sight; concept | ver; mirar; contemplar; vista; concepto | 见 | see | 又 (hand / again) | 见 (see, looking outward) | 6 | 左右结构 | Phono-semantic compound where 见 indicates visual contemplation, and 又 denotes repeated active observation. | Directing your eyes (见) again and again (又) toward distant mountain peaks lets you contemplate a grand vista (观). | Dirigir la mirada (见) una y otra vez (又) hacia las cumbres lejanas permite contemplar la inmensidad (观). | 55 | EEBU | 觀
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Look from an elevated sunlit tower (景) and open your eyes to contemplate (观) a breathtaking landscape.
+  composite_memory_hook_es: Contempla desde la alta torre iluminada (景) abriendo los ojos para admirar (观) un grandioso paisaje.
+  cultural_and_cognitive_roots: In Chinese cultural geography, 'jǐng' relates to optical radiance and seasonal illumination, while 'guān' relates to philosophical contemplation (体道观物).
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'jǐng' (214) followed by high level 1st tone 'guān' (55). Dip firmly before transitioning smoothly to sustained high pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    影 | yǐng | shadow; film | Adds bristle radical 彡 on the right of 景
+    亮 | liàng | bright | Has 冖 and 几 at base instead of 日 over 京 in 景
+    劝 | quàn | advise; urge | Has 力 (power) next to 又 instead of 见 in 观
+    欢 | huān | joyful; happy | Has 欠 (yawn) next to 又 instead of 见
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    色 | sè | color; scene; expression
+    貌 | mào | appearance; countenance
+    览 | lǎn | look; view; read
+    望 | wàng | look into distance; hope
+
+semantic_boundary_contrasts:
+  core_nuance: 景观 refers specifically to the holistic visual panorama, designed landscape, or natural scenic vista of a territory.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 景观 vs. 风景 | fēngjǐng | 风景 is the everyday natural scenery and pleasant views, whereas 景观 is a formal, architectural, or ecological term emphasizing comprehensive panoramic systems (景观生态学).
+    2 | 景观 vs. 景色 | jǐngsè | 景观 denotes broad spatial scale and terrain structures, while 景色 focuses on specific seasonal color palettes or momentary atmospheric beauty.
+    3 | 景观 vs. 景象 | jǐngxiàng | 景观 refers to physical geographic or architectural panoramas, whereas 景象 describes an ongoing dynamic social scene, atmosphere, or state of affairs (繁荣景象).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的泉水景观堪称天下一绝。城中百泉喷涌，泉水穿巷过桥，在绿柳掩映下与青石板路相得益彰。每当晨曦初露，泉池水气蒸腾如云雾飘渺，亭台楼阁若隐若现，构成了人与自然和谐交融的醉人画卷。 | Jǐnán de quánshuǐ jǐngguān kānchēng tiānxiàyìjué. Chéngzhōng bǎi quán pēnyǒng, quánshuǐ chuān xiàng guò qiáo, zài lǜliǔ yǎnyìng xià yǔ qīngshíbǎnlù xiāngdéyìzhāng. Měidāng chénxī chūlù, quánchí shuǐqì zhēngténg rú yúnwù piāomiǎo, tíngtái lóugé ruòyǐnruòxiàn, gòuchéng le rén yǔ zìrán héxié jiāoróng de zuìrén huàjuàn. | Jinan's spring landscape is peerless under heaven. A hundred springs gush past alleys and bridges, harmonizing with flagstones. At dawn, rising vapor shrouds pavilions in mist, composing an intoxicating harmony of nature. | El paisaje de los manantiales de Jinan es una maravilla inigualable. Cien veneros surcan callejas y puentes entre sauces y losas. Al alba, el vapor envuelve los templetes en un tapiz embriagador que aúna naturaleza e historia.
+  #2 | 在国家生态地质公园建设中，保护珍稀的喀斯特溶洞与泉水地貌景观是规划的核心任务。科研团队运用无人机航测与激光雷达技术，构建了全景高精度数字地貌模型，为自然遗产的科学保护提供了数字化保障。 | Zài guójiā shēngtài dìzhì gōngyuán jiànshè zhōng, bǎohù zhēnxī de kāsītè róngdòng yǔ quánshuǐ dìmào jǐngguān shì guīhuà de héxīn rènwù. Kēyán tuánduì yùnyòng wúrénjī hángcè yǔ jīguāng léidá jìshù, gòujiàn le quánjǐng gāojīngdù shùzì dìmào móxíng, wèi zìrán yíchǎn de kēxué bǎohù tígōng le shùzìhuà bǎozhàng. | In geo-park preservation, safeguarding rare karst caverns and spring landscapes is central. Researchers apply drone surveys and LiDAR to build high-precision digital terrain models, ensuring scientific protection. | En la protección de geoparques, salvaguardar cavernas cársticas y paisajes hidrogeológicos es primordial. Equipos científicos aplican drones y LiDAR para modelar el relieve digitalmente, blindando el patrimonio natural.

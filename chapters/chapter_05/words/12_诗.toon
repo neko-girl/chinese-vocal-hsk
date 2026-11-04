@@ -1,0 +1,62 @@
+id: 12
+hanzi: 诗
+pinyin: shī
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: poem; poetry; verse; poetic sentiment
+  es: poema; poesía; verso; sentimiento poético
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | poetry; a poem; literary composition characterized by rhythm and vivid imagery | poema; poesía; composición literaria caracterizada por el ritmo y la emoción lírica | 写一首诗 (write a poem)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对趵突泉奔腾喷涌的壮丽奇观，古往今来的文人留下了无数脍炙人口的赞美诗篇。 | Miànduì Bàotūquán bēnténg pēnyǒng de zhuànglì qíguān, gǔwǎngjīnlái de wénrén liúxià le wúshù kuàizhìrénkǒu de zànměi shīpiān. | Confronted with the magnificent spectacle of Baotu Spring surging forth, literati through the ages left behind countless celebrated poems of praise. | Ante el prodigioso e impetuoso borbotar del manantial Baotu, literatos de todas las épocas compusieron innumerables poemas célebres de alabanza.
+  #2 | 在现代文学创作研讨会上，青年学者深入探讨了古代山水诗在当代生态文明理念中的美学价值。 | Zài xiàndài wénxué chuàngzuò yántǎohuì shàng, qīngnián xuézhě shēnrù tàntǎo le gǔdài shānshuǐ shī zài dāngdài shēngtài wénmíng lǐniàn zhōng de měixué jiàzhí. | At the contemporary literature symposium, young scholars explored the aesthetic value of classical landscape poetry within modern ecological values. | En el simposio literario contemporáneo, jóvenes investigadores debatieron el valor estético de la poesía paisajística clásica en la conciencia ecológica actual.
+
+collocations[6]{hanzi,en}:
+  一首诗 | a poem
+  写诗 | compose poetry; write a poem
+  诗人 | poet
+  古诗 | ancient poem; classical poetry
+  诗情画意 | picturesque and poetic sentiment
+  诗歌朗诵 | poetry recitation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  诗情画意 | shī qíng huà yì | idyllic and picturesque; poetic feelings and artistic mood
+  横槊赋诗 | héng shuò fù shī | compose poems with spear poised; romantic heroism in war
+  杜诗韩笔 | dù shī hán bǐ | Du Fu's poetry and Han Yu's prose; superlative literary style
+  搜肠刮肚 | sōu cháng guā dù | rack one's brains to write verse
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  诗 | shī | poem; poetry; verse | poema; poesía | 讠 | speech | 讠 (words, spoken voice) | 寺 (sì, temple / order) | 8 | 左右结构 | Phono-semantic compound where speech radical 讠 signifies expressed words, and 寺 implies disciplined measure and rhythm. | Elevated spoken words (讠) uttered in a quiet mountain temple (寺) transform into timeless poetry (诗). | Palabras recitadas (讠) con veneración en el templo (寺) se transforman en poesía inmortal (诗). | 55 | IVG | 詩
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Disciplined spoken words (讠) composed in a serene temple (寺) become eternal poetry (诗).
+  composite_memory_hook_es: Palabras reflexivas (讠) entonadas en un templo (寺) dan origen a una poesía (诗) sublime.
+  cultural_and_cognitive_roots: In Chinese literary tradition, 'shī yán zhì' (诗言志 - poetry articulates earnest aspirations). The Shijing (Classic of Poetry) established verse as the highest moral and aesthetic pursuit.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'shī' (55). Keep the vowel elongated and sustained smoothly without dipping or rising.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    待 | dài | wait; treat | Has double-person radical 彳 instead of speech radical 讠
+    持 | chí | hold; grasp | Has hand radical 扌 next to 寺
+    特 | tè | special; unique | Has cow radical 牛 next to 寺
+    侍 | shì | serve; attend upon | Has single person radical 亻 next to 寺
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    歌 | gē | song; sing
+    词 | cí | lyric; word; expression
+    赋 | fù | rhapsody; endow; bestow
+    韵 | yùn | rhyme; charm; cadence
+
+semantic_boundary_contrasts:
+  core_nuance: 诗 denotes rhymed, rhythmic poetic verse and literary imagery expressing intense emotion or thought.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 诗 vs. 文 | wén | 诗 is rhythmic verse with meter and figurative imagination, whereas 文 refers to general prose, essays, or academic texts.
+    2 | 诗 vs. 词 | cí | 诗 follows classical poetic meters (like 5-character or 7-character lüshi), while 词 refers specifically to song lyrics set to fixed rhythmic tunes (ci poetry).
+    3 | 诗 vs. 歌 | gē | 诗 is meant for reading, chanting, or reciting, while 歌 is explicitly scored to be sung to musical melody.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的泉水是流淌在青石街巷间的无声诗篇。每一朵跃起的水花，每一片漂浮的绿藻，都仿佛带着千年前文人的墨香与情怀。若在清晨漫步泉边，心中自会涌现出超然脱俗的诗意。 | Jǐnán de quánshuǐ shì liútǎng zài qīngshí jiēxiàng jiān de wúshēng shīpiān. Měi yì duǒ yuèqǐ de shuǐhuā, měi yí piàn piāofú de lǜzǎo, dōu fǎngfú dài zhe qiānnián qián wénrén de mòxiāng yǔ qínghuái. Ruò zài qīngchén mànbù quánbiān, xīnzhōng zì huì yǒngxiàn chū chāorán tuōsú de shīyì. | Jinan's springs are silent poems flowing between green cobblestones. Every leaping water droplet and floating waterweed carries the fragrance of ink from poets centuries ago. Strolling by the spring at dawn, pure poetic sentiment wells up within. | Los manantiales de Jinan son poesías mudas que surcan adoquines históricos. Cada gota que salta y cada alga que flota conservan el eco literario de poetas remotos. Caminar a orillas del venero al amanecer despierta una inspiración lírica pura.
+  #2 | 中国古典山水诗不仅是文学艺术的瑰宝，更是人与自然和谐共生哲学思想的生动体现。现代生态文明建设从古代山水诗中汲取审美智慧，倡导尊重自然、保护水系，实现人与环境的诗意栖居。 | Zhōngguó gǔdiǎn shānshuǐ shī bùjǐn shì wénxué yìshù de guībǎo, gèng shì rén yǔ zìrán héxié gòngshēng zhéxué sīxiǎng de shēngdòng tǐxiàn. Xiàndài shēngtài wénmíng jiànshè cóng gǔdài shānshuǐ shī zhōng xīqǔ shěnměi zhìhuì, chàngdǎo zūnzhòng zìrán, bǎohù shuǐxì, shíxiàn rén yǔ huánjìng de shīyì qījū. | Classical landscape poetry is not only an artistic treasure, but a vivid testament to harmony between humanity and nature. Modern ecological planning draws aesthetic wisdom from ancient poems to foster poetic dwelling. | La poesía paisajística clásica es una joya artística y reflejo vivo de la comunión entre el ser humano y la naturaleza. El ecologismo moderno bebe de su sabiduría estética para promover la armonía ambiental y el hábitat poético.

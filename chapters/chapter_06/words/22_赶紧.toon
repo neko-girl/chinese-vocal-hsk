@@ -1,0 +1,63 @@
+id: 22
+hanzi: 赶紧
+pinyin: gǎn jǐn
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: hurriedly; at once; quickly; lose no time; promptly
+  es: deprisa; inmediatamente; a toda prisa; sin demora; apresuradamente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | acting immediately without delay or wasted time; hurriedly; promptly | actuar de inmediato sin perder tiempo; deprisa; apresuradamente | 赶紧收拾东西 (hurry and pack things)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 听说凶猛的年兽即将来袭，村民们赶紧把红纸春联贴在门上，并在院中点起火把。 | Tīngshuō xiōngměng de Nián shòu jíjiāng láixí, cūnmínmen gǎnjǐn bǎ hóngzhǐ chūnlián tiē zài mén shàng, bìng zài yuàn zhōng diǎnqǐ huǒbǎ. | Hearing that the fierce Nian was about to attack, villagers hurriedly pasted red paper couplets on doors and lit torches. | Al enterarse del inminente ataque de la fiera Nian, los aldeanos se apresuraron a pegar coplas rojas en los portales y encender antorchas.
+  #2 | 气象台发布台风蓝色预警后，港口海事部门赶紧通知沿海作业渔船回港避风，确保人员安全。 | Qìxiàngtái fābù táifēng lánsè yùjǐng hòu, gǎngkǒu hǎishì bùmén gǎnjǐn tōngzhī yánhǎi zuòyè yúchuán huígǎng bìfēng, quèbǎo rényuán ānquán. | After the typhoon warning was issued, maritime authorities promptly alerted fishing vessels to return to harbor for safety. | Tras la alerta azul por tifón, las autoridades marítimas se apresuraron a ordenar el regreso a puerto de las embarcaciones pesqueras.
+
+collocations[6]{hanzi,en}:
+  赶紧走 | hurry up and leave; go at once
+  赶紧回家 | hurry home immediately
+  赶紧处理 | handle immediately without delay
+  赶紧准备 | promptly prepare
+  赶紧离开 | leave in a hurry
+  赶紧想想办法 | quickly think of a solution
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  刻不容缓 | kè bù róng huǎn | brook not a moment's delay; extremely urgent
+  争分夺秒 | zhēng fēn duó miǎo | race against the clock; seize every second
+  兵贵神速 | bīng guì shén sù | speed is precious in warfare; act with swiftness
+  迫不及待 | pò bù jí dài | impatient and unable to wait a moment longer
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  赶 | gǎn | catch up; drive; rush; hurry | apurarse; alcanzar; arrear; correr | 走 | run / walk | 走 (walking / running feet) | 旱 (hàn, dry / drought / sun) | 10 | 半包围结构 | Ideogram combining running feet 走 rushing under a scorching sun 旱 to beat a drought, signifying rushing to catch up. | Running swift steps (走) under the burning sun (旱) to beat the deadline, rushing forward with haste (赶). | Correr a paso ligero (走) bajo el sol ardiente (旱) para no llegar tarde, dándose prisa (赶). | 214 | GOMJ | ""
+  紧 | jǐn | tight; urgent; strict; close | apretado; urgente; tenso; ceñido | 糸 | fine silk / thread | 臤 (qiān, firm grasp / hand) | 糸 (silk thread twisted taut) | 10 | 上下结构 | Ideogram combining a strong hand 臤 winding silk threads 糸 tightly together under tension, signifying urgency and tightness. | A hand firmly winding silk cords (糸) pulls them taut and urgent, keeping time pressed tight (紧). | Una mano que enrolla cuerdas de seda (糸) las tensa con firmeza, marcando la urgencia del momento (紧). | 214 | SEVI | 緊
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Running with fast steps (赶) when time presses tight (紧) compels you to act hurriedly at once.
+  composite_memory_hook_es: Correr a paso veloz (赶) cuando el tiempo apremia tenso (紧) te obliga a actuar deprisa y sin demora.
+  cultural_and_cognitive_roots: In everyday Chinese life and folk narrative pacing, 'gǎnjǐn' expresses decisive urgency, springing into action before auspicious opportunities slip away.
+  tone_sandhi_and_pitch_modulation: Dual 3rd tones: 'gǎn jǐn' (214-214). Due to third tone sandhi, 'gǎn' shifts to a rising 2nd tone: 'gán jǐn' (35-214).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    起 | qǐ | rise; get up | Has 己 inside 走 instead of 旱 in 赶
+    越 | yuè | pass over; surpass | Has 戉 inside 走 instead of 旱
+    紫 | zǐ | purple | Has 此 over 糸 instead of 臤 in 紧
+    系 | xì | tie; connect | Has 丿 over 糸 instead of 臤
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    急 | jí | urgent; hurry; anxious
+    快 | kuài | fast; quick; joyful
+    催 | cuī | urge; press; hasten
+    促 | cù | promote; press; close
+
+semantic_boundary_contrasts:
+  core_nuance: 赶紧 is an adverb urging prompt, immediate action without a moment's hesitation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 赶紧 vs. 赶快 | gǎnkuài | 赶紧 emphasizes grabbing fleeting time and not procrastinating, whereas 赶快 highlights increasing speed and velocity of motion.
+    2 | 赶紧 vs. 连忙 | liánmáng | 赶紧 expresses proactive promptness to initiate an action, while 连忙 indicates a reactive, hurried response to a sudden external stimulus.
+    3 | 赶紧 vs. 马上 | mǎshàng | 赶紧 carries an imperative urge to hurry up, whereas 马上 neutrally states that an event will happen in a very short temporal interval.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 腊月二十九的午后，整个村庄都沉浸在繁忙而喜悦的节前准备中。家家户户赶紧清扫庭院、张贴春联、准备年夜饭食材。街巷里弥漫着油炸年糕与炖肉的诱人香味，人们脚步匆匆却面带笑容，迎接新春的到来。 | Làyuè èrshíjiǔ de wǔhòu, zhěng gè cūnzhuāng dōu chénjìn zài fánmáng ér xǐyuè de jiéqián zhǔnbèi zhōng. Jiājiāhùhù gǎnjǐn qīngsǎo tíngyuàn, zhāngtiē chūnlián, zhǔnbèi niányèfàn shícái. Jiēxiàng lǐ mímàn zhe yóuzhá niángāo yǔ dùnròu de yòurén xiāngwèi, rénmen jiǎobù cōngcōng què miàndài xiàoróng, yíngjiē xīnchūn de dàolái. | On the 29th of the 12th month, the village bustled with preparations. Households hurriedly swept yards, pasted couplets, and prepped feast dishes. Alleys smelled of fried cakes and stewed meat as smiling people welcomed spring. | La víspera de Nochevieja, la aldea bulle en preparativos festivos. Las familias se apresuran a barrer patios, colgar coplas y cocinar manjares. Entre aromas a frituras y guisos, la gente camina risueña al encuentro del nuevo año.
+  #2 | 在应对特大暴雨洪涝灾害的紧急救援中，应急管理指挥中心赶紧调派冲锋舟与排涝设备奔赴受灾核心区域。各级救援力量争分夺秒转移受困群众，迅速搭建临时安置点，全力以赴确保人民群众生命财产安全。 | Zài yīngduì tèdà bàoyǔ hónglào zāihài de jǐnjí jiùyuán zhōng, yìngjí guǎnlǐ zhǐhuī zhōngxīn gǎnjǐn diàopài chōngfēngzhōu yǔ páilào shèbèi bēnfù shòuzāi héxīn qūyù. Gè jí jiùyuán lìliang zhēngfēnduómiǎo zhuǎnyí shòukùn qúnzhòng, xùnsù dājiàn línshí ānzhìdiǎn, quánlìyǐfù quèbǎo rénmín qúnzhòng shēngmìng cáichǎn ānquán. | In flood rescue operations, emergency command centers promptly dispatched boats and pumps to stricken zones. Rescue teams raced against time to evacuate stranded residents, ensuring citizen safety. | En rescates de emergencia por riadas, el centro de mando despachó lanchas y bombas de desagüe a las zonas anegadas. Los equipos evacuaron a los damnificados a contrarreloj, blindando la seguridad vecinal.

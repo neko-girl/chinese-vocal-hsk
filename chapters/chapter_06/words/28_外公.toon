@@ -1,0 +1,65 @@
+id: 28
+hanzi: 外公
+pinyin: wài gōng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: maternal grandfather; mother's father
+  es: abuelo materno; padre de la madre
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | maternal grandfather; the father of one's mother | abuelo materno; el padre de la madre | 去外公家 (go to maternal grandfather's house)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每逢除夕，孩子们最开心的就是去外公家拜年，围在慈祥的老人膝下听年兽的古老传奇。 | Měi féng Chúxī, háizimen zuì kāixīn de jiùshì qù wàigōng jiā bàinián, wéizài cíxiáng de lǎorén xīxià tīng Niánshòu de gǔlǎo chuánqí. | Every New Year's Eve, what children look forward to most is visiting maternal grandfather's house to pay respects, gathering around the kindly elder to listen to legends of the beast Nian. | Cada nochevieja, la mayor ilusión de los niños es visitar la casa del abuelo materno para felicitar el año y escuchar a su alrededor la vieja leyenda de la fiera Nian.
+  #2 | 外公年轻时曾是一名乡村木匠，他亲手为家里打造的厚实八仙桌，承载了几代人除夕团圆的温馨记忆。 | Wàigōng niánqīng shí céng shì yì míng xiāngcūn mùjiang, tā qīnshǒu wèi jiālǐ dǎzào de hòushi bāxiānzhuō, chéngzài le jǐ dài rén Chúxī tuányuán de wēnxīn jìyì. | When maternal grandfather was young, he was a rural carpenter; the sturdy square dining table he crafted with his own hands carries warm memories of New Year reunions across generations. | De joven, el abuelo materno fue carpintero de aldea; la sólida mesa de comedor que labró con sus manos guarda los entrañables recuerdos de varias generaciones reunidas en fin de año.
+
+collocations[6]{hanzi,en}:
+  外公外婆 | maternal grandfather and maternal grandmother
+  去外公家 | go to maternal grandfather's house
+  慈祥的外公 | kindly maternal grandfather
+  外公的嘱托 | maternal grandfather's exhortation / wishes
+  探望外公 | visit maternal grandfather
+  叫外公 | call someone maternal grandfather / address as grandpa
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大公无私 | dà gōng wú sī | selfless and impartial; perfectly just
+  外圆内方 | wài yuán nèi fāng | round on the outside and square on the inside; gentle in appearance but firm in principle
+  公私分明 | gōng sī fēn míng | make a clear distinction between public and private interests
+  逍遥法外 | xiāo yáo fǎ wài | remain at large outside the law; unfettered by legal justice
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  外 | wài | outer; outside; external; maternal | exterior; fuera; externo; materno | 夕 | evening / night | 夕 (evening) + 卜 (divination crack) | 卜 (bǔ, phonetic / divining rod) | 5 | 左右结构 | Depicts nighttime divination (夕 + 卜) performed outside the ancestral temple or home borders, abstracting into 'exterior' or maternal kin outside the patrilineage. | Performing night divination (夕) with a carved bone (卜) outside the boundary walls of the house. | Realizar una adivinación nocturna (夕) con una vara (卜) más allá de los muros del hogar. | 51 | NIY | ""
+  公 | gōng | public; male elder; fair; grandfather | público; anciano; abuelo; justo | 八 | eight / divide | 八 (divide open / distribute fairly) + 厶 (private interest) | 八 (bā, opening up) | 4 | 上下结构 | Ideogrammic compound of 八 (dividing open) over 厶 (private interest), signifying breaking open selfish interests for the common welfare; hence an honorable elder or patriarch. | Opening up (八) selfish private wealth (厶) to serve the common good, embodying the fair authority of an honorable grandfather. | Abrir y repartir (八) los bienes privados (厶) en beneficio de todos, mostrando la generosidad de un digno abuelo. | 55 | CI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The honorable male elder (公) from the maternal outside line (外) is the beloved maternal grandfather (外公).
+  composite_memory_hook_es: El venerable patriarca (公) del linaje externo materno (外) es el querido abuelo materno (外公).
+  cultural_and_cognitive_roots: In traditional Chinese kinship terminology, relatives on the mother's side carry the prefix 'wài' (外, external lineage), reflecting ancient patrilineal clan structures. However, in emotional daily life, 外公 often shares an exceptionally warm, indulgent bond with grandchildren without patriarchal disciplinary friction.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'wài' (51) followed by high level 1st tone 'gōng' (55). Make a decisive drop on 'wài' before lifting into a steady high pitch on 'gōng'.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    处 | chù | place; department | Has walking bottom 夂 instead of 卜 next to 夕
+    卧 | wò | lie down; recline | Has 臣 on the left of 卜 instead of 夕
+    瓮 | wèng | earthen jar | Has 公 on top of 瓦 (tile/pottery)
+    讼 | sòng | litigation; sue | Has speech radical 讠 next to 公
+    翁 | wēng | elderly man; father | Has 公 on top of 羽 (feathers)
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    爷 | yé | grandfather; lord
+    奶 | nǎi | grandmother; milk
+    姥 | lǎo | maternal grandmother (colloquial northern)
+    婆 | pó | grandmother; old woman
+    叔 | shū | uncle; father's younger brother
+
+semantic_boundary_contrasts:
+  core_nuance: 外公 specifically designates one's mother's father in kinship terminology.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 外公 vs. 爷爷 | yéye | 外公 is maternal grandfather (mother's father), whereas 爷爷 is paternal grandfather (father's father).
+    2 | 外公 vs. 姥爷 | lǎoye | 外公 is the standard, formal, and pan-Chinese written term for maternal grandfather, whereas 姥爷 is a colloquial dialectal term prevalent in northern China.
+    3 | 外公 vs. 祖父 | zǔfù | 祖父 is the formal, literary designation strictly for the paternal grandfather, corresponding to 爷爷 in spoken register.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕的午后，外公总会戴起老花镜，在暖阳下铺开红纸挥毫泼墨。他写下的春联墨香浓郁，苍劲有力的笔锋里凝聚着对儿孙平安顺遂的殷切期许，那抹喜庆的中国红，是童年里最温馨的年景。 | Chúxī de wǔhòu, wàigōng zǒng huì dài qǐ lǎohuājìng, zài nuǎnyáng xià pūkāi hóngzhǐ huīháo-pōmò. Tā xiěxià de chūnlián mòxiāng nóngyù, cāngjìn yǒulì de bǐfēng lǐ níngjù zhe duì érsūn píng'ān shùnsuì de yīnqiè qīxǔ, nà mǒ xǐqìng de Zhōngguó hóng, shì tóngnián lǐ zuì wēnxīn de niánjǐng. | On New Year's Eve afternoon, maternal grandfather would always put on reading glasses, spreading red paper in the warm sun to write calligraphy. His Spring Festival couplets carried rich ink fragrance, their vigorous strokes condensing earnest hopes for descendants' safety, the festive red remaining childhood's warmest memory. | En la tarde de nochevieja, el abuelo materno se ponía las gafas para escribir caligrafía sobre papel rojo al sol. Sus coplas festivas, impregnadas de aroma a tinta y trazos vigorosos, condensaban devotos augurios de dicha familiar, convirtiéndose en el recuerdo infantil más entrañable del año nuevo.
+  #2 | 随着中国家庭代际结构的演变，外公外婆参与抚育第三代的比例在当代都市家庭中持续攀升。这种双系并重的代际照料模式，不仅有效缓解了青年双职工家庭的育儿压力，更促进了现代家庭关系的平等与和谐。 | Suízhe Zhōngguó jiātíng dàijì jiégòu de yǎnbiàn, wàigōng wàipó cānyù fǔyù dìsāndài de bǐlì zài dāngdài dūshì jiātíng zhōng chíxù pānshēng. Zhè zhǒng shuāngxì-bìngzhòng de dàijì zhàoliào móshì, bùjǐn yǒuxiào huǎnjiě le qīngnián shuāngzhígōng jiātíng de yù'ér yālì, gèng cùjìn le xiàndài jiātíng guānxì de píngděng yǔ héxié. | With the evolution of Chinese family intergenerational structures, the proportion of maternal grandparents participating in raising grandchildren has steadily climbed in urban households. This dual-lineage caregiving pattern eases childrearing pressures on working couples and fosters equality and harmony in contemporary family relationships. | La evolución demográfica china muestra un aumento constante de los abuelos maternos en la crianza de los nietos urbanos. Este cuidado compartido mitiga la carga de las parejas trabajadoras y favorece relaciones familiares más equitativas y armoniosas en la sociedad contemporánea.

@@ -1,0 +1,65 @@
+id: 8
+hanzi: 替
+pinyin: tì
+level: HSK 5
+part_of_speech: Preposition
+
+meanings_summary:
+  en: for; on behalf of; to replace; to take the place of; substitute
+  es: por; en lugar de; en nombre de; sustituir; reemplazar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Preposition | Standard | on behalf of; for the benefit of; instead of someone | por; de parte de; en nombre de alguien; en lugar de | 替他高兴 (happy for him)
+  2 | Verb | Standard | to take someone's place; to substitute for; to replace | sustituir; suplir; reemplazar | 找人替班 (find someone to cover a shift)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老奶奶见外乡老人衣衫单薄，便热心地替他端来一碗热粥并劝他赶快进山避难。 | Lǎonǎinai jiàn wàixiāng lǎorén yīshān dānbó, biàn rèxīn de tì tā duānlái yì wǎn rèzhōu bìng quàn tā gǎnkuài jìnshān bìnàn. | Seeing the foreign elder dressed in flimsy clothes, the kind granny warm-heartedly brought over a bowl of hot porridge for him and urged him to quickly take refuge in the mountains. | Al ver que el anciano forastero vestía ropas ligeras, la abuela le sirvió con cariño un tazón de gachas calientes y le rogó que huyera a las montañas.
+  #2 | 在团队核心骨干突发疾病住院期间，青年技术骨干主动承担起职责，替他完成了重大项目的验收答辩。 | Zài tuánduì héxīn gǔgàn tūfā jíbìng zhùyuàn qījiān, qīngnián jìshù gǔgàn zhǔdòng chéngdān qǐ zhízé, tì tā wánchéng le zhòngdà xiàngmù de yànshōu dābiàn. | While the team's key lead was hospitalized due to sudden illness, the young technical staff proactively stepped up to substitute for him in completing the major project defense. | Mientras el líder del equipo estuvo hospitalizado por una enfermedad imprevista, los jóvenes técnicos asumieron la tarea y lo suplieron en la defensa del proyecto.
+
+collocations[6]{hanzi,en}:
+  替他高兴 | happy for him
+  替代方案 | alternative solution / plan
+  替罪羊 | scapegoat
+  替人着想 | consider things from others' perspectives; be considerate
+  替班 | cover a shift; substitute for someone at work
+  替他担心 | worry on his behalf / worry about him
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  冒名顶替 | mào míng dǐng tì | assume another's name and take their place; impersonate
+  新陈代谢 | xīn chén dài xiè | metabolism; the new replaces the old
+  移花接木 | yí huā jiē mù | graft flowers onto a tree; surreptitiously substitute one thing for another
+  取而代之 | qǔ ér dài zhī | replace somebody; take someone's place
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  替 | tì | substitute; replace; take place of; for | sustituir; reemplazar; por; en lugar de | 曰 | say / speak / sun | 夫 + 夫 (two men standing side by side) | 曰 (words / speech in seal script) | 12 | 上下结构 | Ancient seal script shows two men (夫 夫) standing together, one taking the other's place, with 曰 below communicating the official handover or substitution. | Two capable men (夫 夫) standing shoulder to shoulder, speaking (曰) to agree on one stepping in to take the other's place. | Dos hombres decididos (夫 夫) hombro con hombro conversando (曰) para que uno tome el relevo del otro. | 51 | QOA | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Two strong men (夫 夫) coordinate with words (曰) so one can step in and replace (替) the other.
+  composite_memory_hook_es: Dos hombres capaces (夫 夫) se coordinan mediante palabras (曰) para sustituir (替) al compañero.
+  cultural_and_cognitive_roots: The ancient character 替 depicted alternation of duties (代也，更也). In Chinese cultural ethics, 替 embodies altruistic solidarity: stepping forward to relieve kin, protect the weak, or take hardship upon oneself for the family.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'tì' (51). Clean, crisp downward drop without lingering vocal vibration.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    潜 | qián | dive; submerge; hidden | Has water radical 氵 on the left and 朁 (two 夫 over 日)
+    赞 | zàn | praise; patronize | Has 先 先 over 贝 instead of 夫 夫 over 曰
+    辇 | niǎn | imperial carriage | Has 夫 夫 over 车 instead of 曰
+    暮 | mù | dusk; evening | Has 艹 on top, 日 in the middle, and 大 at the bottom
+    普 | pǔ | general; universal | Has 并 on top over 日 instead of 夫 夫
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    代 | dài | replace; substitute; generation
+    换 | huàn | change; exchange; swap
+    帮 | bāng | help; assist; gang
+    给 | gěi | give; for; by
+    为 | wèi | for; for the sake of
+
+semantic_boundary_contrasts:
+  core_nuance: 替 functions as a preposition marking beneficiary/surrogate ('on behalf of') or a verb meaning active bodily/positional substitution.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 替 vs. 给 | gěi | 替 denotes doing an action on someone else's behalf or instead of them (替他买票 - buy a ticket in his place), whereas 给 marks the transfer direction or recipient of an action (给他买票 - buy a ticket as a gift to him).
+    2 | 替 vs. 为 | wèi | 为 carries a formal, noble register denoting purpose or dedication (为人民服务), whereas 替 is vernacular, pragmatic, and directly substitutes for someone's immediate physical duty (替他值班).
+    3 | 替 vs. 代替 | dàitì | 替 is a versatile monosyllabic word used both as a preposition and verb, while 代替 is exclusively a disyllabic transitive verb expressing structural or functional replacement of objects or positions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕风雪漫天，村中青年早已逃往深山，唯有一位白发老者泰然自若地留下来。他不仅替收留自己的阿婆看守家宅，更以红绸与烛火直面猛兽，用非凡的胆魄替全村百姓换来了岁岁平安。 | Chúxī fēngxuě màntiān, cūnzhōng qīngnián zǎoyǐ táowǎng shēnshān, wéiyǒu yí wèi báifà lǎozhě tàirán-zìruò de liúxiàlái. Tā bùjǐn tì shōuliú zìjǐ de āpó kānshǒu jiāzhái, gèng yǐ hóngchóu yǔ zhúhuǒ zhímiàn měngshòu, yòng fēifán de dǎnpò tì quáncūn bǎixìng huànlái le suìsuì píng'ān. | On New Year's Eve amid swirling snow, village youths had fled to the mountains, leaving only a white-haired elder who remained unperturbed. He not only guarded the house for the granny who sheltered him, but also confronted the beast with red silk and candlelight, securing peace for the villagers. | En una nochevieja de ventisca, los jóvenes habían huido al monte, quedando solo un anciano sereno. No solo custodió el hogar de la abuela que lo acogió, sino que encaró a la fiera con telas rojas y velas, conquistando con temple la paz de la aldea.
+  #2 | 随着新一代人工智能与自动化装备的普及，工业机器人正在危险作业环境中替人类承担繁重劳动。这种产业更替不仅有效降低了职业伤亡概率，更促使传统制造业向智能化与高附加值阶段迈进。 | Suízhe xīnyídài réngōng zhìnéng yǔ zìdònghuà zhuāngbèi de pǔjí, gōngyè jīqìrén zhèngzài wēixiǎn zuòyè huánjìng zhōng tì rénlèi chéngdān fánzhòng láodòng. Zhè zhǒng chǎnyè gēngtì bùjǐn yǒuxiào jiàngdī le zhíyè shāngwáng gàilǜ, gèng cùshǐ chuántǒng zhìzàoyè xiàng zhìnénghuà yǔ gāofùjiāzhí jiēduàn màijìn. | With the proliferation of next-generation artificial intelligence and automation, industrial robots are undertaking heavy labor in hazardous environments on behalf of humans. This industrial substitution reduces workplace casualty risks and propels manufacturing toward high-value intelligence. | Gracias al avance de la robótica y la inteligencia artificial, los autómatas asumen labores peligrosas en lugar de los obreros. Esta sustitución técnica reduce drásticamente los accidentes laborales e impulsa la industria tradicional hacia procesos inteligentes de alto valor añadido.

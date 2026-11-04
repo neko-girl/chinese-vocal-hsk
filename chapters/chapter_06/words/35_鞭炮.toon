@@ -1,0 +1,63 @@
+id: 35
+hanzi: 鞭炮
+pinyin: biān pào
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: firecrackers; strings of small explosive bangers
+  es: petardos; traca; fuegos artificiales sonoros
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | strings of small explosive cylinders rolled in paper and ignited to create loud popping sounds during festive celebrations; firecrackers | tiras o sartas de pequeños cilindros explosivos de papel que estallan festivamente; petardos; tracas | 放鞭炮庆贺新年 (set off firecrackers to celebrate the New Year)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 新年零点钟声敲响时，街头巷尾响起了震耳欲聋的鞭炮声，绚烂的火花把夜空装点得分外喜庆。 | Xīnnián língdiǎn zhōngshēng qiāoxiǎng shí, jiētóuxiàngwěi xiǎngqǐ le zhèn'ěryùlóng de biānpào shēng, xuànlàn de huǒhuā bǎ yèkōng zhuāngdiǎn de fènwài xǐqìng. | When the midnight bell struck, deafening firecrackers crackled through alleys, and splendid sparks adorned the festive night sky. | Al dar la medianoche, las calles estallaron en un fragor ensordecedor de petardos; las chispas vistieron la noche con un fulgor festivo deslumbrante.
+  #2 | 为改善城市空气质量并预防火灾隐患，许多特大城市对主城区燃放烟花鞭炮实行了严格的禁放与限放规定。 | Wèi gǎishàn chéngshì kōngqì zhìliàng bìng yùfáng huǒzāi yǐnhuàn, xǔduō tèdà chéngshì duì zhǔchéngqū ránfàng yānhuā biānpào shíxíng le yángé de jìnfàng yǔ xiànfàng guīdìng. | To improve urban air quality and prevent fire hazards, megacities enacted strict bans and restrictions on setting off firecrackers in urban centers. | Para purificar el aire urbano y evitar incendios, muchas metrópolis decretaron la prohibición estricta o restricción del uso de petardos en el casco urbano.
+
+collocations[6]{hanzi,en}:
+  放鞭炮 | set off firecrackers
+  一串鞭炮 | a string of firecrackers
+  燃放鞭炮 | ignite / detonate firecrackers
+  鞭炮齐鸣 | firecrackers bursting in unison
+  噼里啪啦的鞭炮声 | crackling sound of firecrackers
+  严禁燃放鞭炮 | strictly prohibit setting off firecrackers
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  爆竹辞旧 | bàozhú cí jiù | firecrackers bid farewell to the old year
+  火树银花 | huǒ shù yín huā | fire trees and silver flowers; dazzling display of lanterns and fireworks
+  欢欣鼓舞 | huān xīn gǔ wǔ | jubilant and exultant; inspired with boundless enthusiasm
+  欣欣向荣 | xīn xīn xiàng róng | flourishing and prosperous; thriving with vital energy
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  鞭 | biān | whip; string of firecrackers; strike | látigo; fusta; traca; azotar | 革 | raw leather / hide | 革 (leather / hide, flexible cord) | 便 (biàn, convenient / side) | 18 | 左右结构 | Phono-semantic compound where leather radical 革 indicates a braided leather lash, extending to long strings of linked explosives. | A flexible braided leather cord (革) hanging convenient to hand (便) whips the air with sharp cracks (鞭). | Una correa de cuero trenzado (革) manejada con agilidad (便) restalla en el aire con un chasquido agudo (鞭). | 55 | TJOMK | ""
+  炮 | pào | cannon; gun; firecracker; roast | cañón; petardo; artillería; tostar | 火 | fire | 火 (fire, explosive combustion) | 包 (bāo, bundle / wrap) | 9 | 左右结构 | Phono-semantic compound where fire radical 火 indicates pyrotechnic combustion, and 包 denotes gunpowder wrapped tightly in paper. | Gunpowder wrapped snugly in paper (包) ignited by a flame (火) explodes in a festive bursting firecracker (炮). | Pólvora envuelta en papel (包) que estalla al contacto con el fuego (火) produciendo un alegre petardo (炮). | 51 | FPU | 砲
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A long leather cord (鞭) strung with gunpowder packages that explode in fire (炮) creates festive crackling firecrackers.
+  composite_memory_hook_es: Una tira flexible (鞭) cuajada de envoltorios de pólvora que estallan al fuego (炮) conforma la alegre traca de petardos.
+  cultural_and_cognitive_roots: Originally heated green bamboo cylinders that popped loudly in fire (爆竹), 'biānpào' evolved into rolled paper strings of black powder, central to warding off pestilence (辟邪) and greeting the dawn of a fresh year.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'biān' (55) followed by sharp falling 4th tone 'pào' (51). Clean descent from 55 to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    鞋 | xié | shoe | Has 圭 on the right of 革 instead of 便 in 鞭
+    靶 | bǎ | target | Has 巴 on the right of 革 instead of 便
+    跑 | pǎo | run | Has foot radical 足 on left instead of fire 火 in 炮
+    饱 | bǎo | full; satiated | Has food radical 饣 on left instead of 火
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    竹 | zhú | bamboo; root of ancient 爆竹
+    焰 | yàn | flame; flare; blaze
+    火 | huǒ | fire; combustion
+    炸 | zhà | explode; burst; fry
+
+semantic_boundary_contrasts:
+  core_nuance: 鞭炮 specifically designates paper-wrapped strings of small acoustic-burst explosives that pop in rapid auditory succession.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 鞭炮 vs. 烟花 | yānhuā | 鞭炮 emphasizes loud crackling acoustic noise designed to ward off misfortune, whereas 烟花 focuses on elevated visual fireworks displaying luminous colors in the sky.
+    2 | 鞭炮 vs. 爆竹 | bàozhú | 爆竹 is the classical, literary term originating from popping bamboo joints, whereas 鞭炮 is the modern, colloquial noun for woven strings of firecrackers.
+    3 | 鞭炮 vs. 大炮 | dàpào | 鞭炮 refers to harmless festive paper firecrackers, whereas 大炮 denotes heavy military artillery cannons.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 噼噼啪啪的鞭炮声是记忆中最深沉的年味。每当除夕午夜的钟声敲响，庭院内外便升腾起浓烈的硝烟与硫磺清香，满地落红如同铺开了一层厚实的红地毯。那震天的回响不仅驱走了传说的年兽，更迎来了崭新岁月的万象更新。 | Pīpīpāpā de biānpào shēng shì jìyì zhōng zuì shēnchén de niánwèi. Měidāng Chúxī wǔyè de zhōngshēng qiāoxiǎng, tíngyuàn nèiwài biàn shēngténg qǐ nóngliè de xiāoyān yǔ liúhuáng qīngxiāng, mǎndì luòhóng rútóng pūkāi le yì céng hòushí de hóng dìtǎn. Nà zhèntiān de huíxiǎng bùjǐn qūzǒu le chuánshuō de Nián shòu, gèng yínglái le zhǎnxīn suìyuè de wànxiàng gēngxīn. | Crackling firecrackers are the deepest memory of festive cheer. At midnight, fragrant sulfur smoke rises as scarlet paper carpets the ground. The reverberations not only drove off Nian, but ushered in nature's renewal. | El chasquido de los petardos evoca el sabor más hondo del Año Nuevo. A medianoche, el humo aromático se eleva y los papeles rojos alfombran el suelo; su eco no solo ahuyentó a la fiera Nian, sino que saludó un porvenir venturoso.
+  #2 | 随着现代公众绿色生态意识的普及，电子模拟鞭炮与数字灯光秀正在成为传统节庆消费的新潮流。新型环保电子鞭炮采用声光电微控技术，完美重现爆竹炸响的欢腾气氛且无烟尘排放，兼顾了传统民俗传承与现代空气质量要求。 | Suízhe xiàndài gōngzhòng lǜsè shēngtài yìshí de pǔjí, diànzǐ mónǐ biānpào yǔ shùzì dēngguāngxiù zhèngzài chéngwéi chuántǒng jiéqìng xiāofèi de xīn cháoliú. Xīnxíng huánbǎo diànzǐ biānpào cǎiyòng shēngguāngdiàn wēikòng jìshù, wánměi chóngxiàn bàozhú zhàxiǎng de huānténg qìfēn qiě wú yānchén páifàng, jiāngù le chuántǒng mínsú chuánchéng yǔ xiàndài kōngqì zhìliàng yāoqiú. | As eco-consciousness spreads, electronic firecrackers and digital light shows lead holiday trends. Eco-friendly electronic crackers reproduce festive sounds without emissions, reconciling folk heritage with air quality standards. | Con la conciencia ecológica, los petardos electrónicos y espectáculos de luces marcan tendencia festiva. Recrean con fidelidad el ambiente jovial sin emisiones de humo, aunando el folclore tradicional con la pureza del aire urbano.

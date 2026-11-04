@@ -1,0 +1,66 @@
+id: 4
+hanzi: 英雄
+pinyin: yīng xióng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: hero; heroic person; valiant and outstanding figure
+  es: héroe; paladín; persona heroica y destacada
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person of distinguished courage, nobility, or exceptional achievements, admired for brave exploits | héroe; persona valiente y admirable que destaca por hazañas o sacrificios nobles | 民族英雄 (national hero)
+  2 | Adjective | Formal | heroic; grand; valiant | heroico; valeroso; épico | 英雄壮举 (heroic feat)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在除夕夜拯救全村的老者虽然没有留下真实姓名，但在村民心中他就是驱除年兽的真正英雄。 | Zài Chúxī yè zhěngjiù quáncūn de lǎozhě suīrán méiyǒu liúxià zhēnshí xìngmíng, dàn zài cūnmín xīnzhōng tā jiùshì qūchú Niánshòu de zhēnzhèng yīngxióng. | Although the elder who saved the whole village on New Year's Eve left no real name, in the villagers' hearts he was the true hero who vanquished the beast Nian. | Aunque el anciano que salvó a la aldea en fin de año no dejó su nombre real, en el corazón de los campesinos fue el auténtico héroe que expulsó a la fiera Nian.
+  #2 | 面对突发的自然灾害与公共危机，广大一线救援人员恪尽职守，用血肉之躯谱写了当代平民英雄的壮丽篇章。 | Miànduì tūfā de zìrán zāihài yǔ gōnggòng wēijī, guǎngdà yīxiàn jiùyuán rényuán kèjìnzhíshǒu, yòng xuèròuzhīqū pǔxiě le dāngdài píngmín yīngxióng de zhuànglì piānzhāng. | Confronting sudden natural disasters and public crises, frontline rescue personnel fulfilled their duties devotedly, writing a magnificent chapter of contemporary grassroots heroes with their own flesh and blood. | Ante desastres naturales repentinos y crisis públicas, los rescatistas de primera línea cumplieron su deber con entrega, forjando con su esfuerzo un capítulo heroico de héroes anónimos.
+
+collocations[6]{hanzi,en}:
+  民族英雄 | national hero
+  英雄人物 | heroic figure; hero
+  无名英雄 | unsung hero; unknown hero
+  英雄事迹 | heroic deeds / exploits
+  当英雄 | be a hero; become a hero
+  英雄气概 | heroic mettle; heroic spirit
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  英雄辈出 | yīng xióng bèi chū | heroes emerge in large numbers generation after generation
+  英雄所见略同 | yīng xióng suǒ jiàn lüè tóng | great minds think alike
+  英雄气短 | yīng xióng qì duǎn | a hero down on his luck; warrior disheartened by adversity
+  英雄无用武之地 | yīng xióng wú yòng wǔ zhī dì | a hero with no place to display his prowess
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  英 | yīng | flower; petal; outstanding talent; hero | flor; brote; talento sobresaliente; valiente | 艹 | grass / vegetation | 艹 (vegetation / blossoming flowers) | 央 (yāng, central / phonetic) | 8 | 上下结构 | Phono-semantic compound where grass radical 艹 denotes the flowering crest of plants, symbolizing the most radiant, talented blossom among humans. | The central (央) bud bursting into splendid flower (艹) atop the meadow, standing above all others as an elite talent. | El capullo central (央) que florece radiante en el prado (艹), destacando por encima de todos como un talento insigne. | 55 | TLBK | ""
+  雄 | xióng | male; grand; powerful; formidable | macho; vigoroso; imponente; poderoso | 隹 | short-tailed bird | 隹 (short-tailed bird / avian strength) | 厷 (gōng, arm muscle / phonetic) | 12 | 左右结构 | Phono-semantic compound where 厷 evokes flexing masculine arm muscles and 隹 represents a majestic soaring raptor, denoting male vitality and commanding grandeur. | A magnificent bird of prey (隹) flexing powerful muscular wings (厷) to dominate the sky with unmatched vigor. | Un ave rapaz majestuosa (隹) que despliega alas musculosas (厷) dominando el firmamento con vigor indomable. | 35 | KCOG | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Radiant blooming talent (英) fused with indomitable masculine strength (雄) creates an immortal hero (英雄).
+  composite_memory_hook_es: El talento floreciente (英) aunado a una fuerza masculina indómita (雄) forja al héroe (英雄) inmortal.
+  cultural_and_cognitive_roots: Classical Chinese philosophy distinguishes 'yīng' (extraordinary insight and spiritual brilliance) and 'xióng' (physical audacity, military leadership, and sheer willpower). Only those possessing both qualities were hailed as true 英雄, from mythical culture heroes (Yu the Great, Houyi) to folk saviors in festivals.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'yīng' (55) followed by rising 2nd tone 'xióng' (35). The voice glides cleanly upward on 'xióng' without hesitation.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    央 | yāng | center; beg | Lacks grass radical 艹 on top
+    映 | yìng | reflect; mirror | Has sun radical 日 on the left of 央 instead of 艹 on top
+    秧 | yāng | seedling; sprout | Has grain radical 禾 on the left of 央
+    难 | nán | difficult; disaster | Has 又 on the left of 隹 instead of 厷
+    雅 | yǎ | elegant; refined | Has 牙 on the left of 隹 instead of 厷
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    豪 | háo | heroic; grand; bold
+    杰 | jié | outstanding; hero
+    勇 | yǒng | brave; courageous
+    俊 | jùn | handsome; talented
+    魁 | kuí | chief; eminent; giant
+
+semantic_boundary_contrasts:
+  core_nuance: 英雄 emphasizes rare moral courage, extraordinary feats, or selfless sacrifice that earns admiration from a community or civilization.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 英雄 vs. 勇士 | yǒngshì | 英雄 highlights monumental historical deeds, spiritual nobility, and lasting renown, whereas 勇士 focuses primarily on physical battlefield bravery or daring martial skill.
+    2 | 英雄 vs. 领袖 | lǐngxiù | 英雄 centers on admired heroism, gallantry, and virtue, whereas 领袖 emphasizes organizational authority, strategic political governance, and leadership over a group or nation.
+    3 | 英雄 vs. 偶像 | ǒuxiàng | 英雄 is celebrated for selfless sacrifice, heroic deeds, and collective contributions, while 偶像 denotes an idol or celebrity admired for charm, talent, or popular aesthetic appeal.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在民间传说中，真正的英雄并非无所不能的神仙，而是在众人畏惧时敢于挺身而出的凡人。正如除夕夜那位持烛而立的老者，以智慧与勇气点燃火光，英雄的意义在于给身处困境的人们带来希望。 | Zài mínjiān chuánshuō zhōng, zhēnzhèng de yīngxióng bìngfēi wúsuǒbùnéng de shénxiān, érshì zài zhòngrén wèijù shí gǎnyú tǐngshēn'érchū de fánrén. Zhèngrú Chúxī yè nà wèi chízhú ér lì de lǎozhě, yǐ zhìhuì yǔ yǒngqì diǎnrán huǒguāng, yīngxióng de yìyì zàiyú gěi shēnchǔ kùnjìng de rénmen dàilái xīwàng. | In folk legends, true heroes are not omnipotent deities, but mortal humans who dare to step forward when others shrink in fear. Just as the elder who stood holding a candle on New Year's Eve igniting flames with wisdom and courage, the essence of a hero lies in bringing hope to people trapped in adversity. | En las leyendas populares, los verdaderos héroes no son deidades omnipotentes, sino personas comunes que dan un paso al frente cuando los demás temen. Al igual que el anciano que encendió la lumbre en fin de año con serenidad y valentía, el sentido del héroe radica en infundir esperanza ante la adversidad.
+  #2 | 英雄叙事是连接传统文脉与当代价值的精神纽带。从古代抗击凶险的开拓先驱，到现代危难救援中的奉献者，英雄的内涵虽随时代变迁而演进，但其舍己为人、勇挑重担的精神内核始终历久弥新。 | Yīngxióng xùshì shì liánjiē chuántǒng wénmài yǔ dāngdài jiàzhí de jīngshén niǔdài. Cóng gǔdài kàngjī xiōngxiǎn de kāituò xiānqū, dào xiàndài wēinàn jiùyuán zhōng de fèngxiànzhě, yīngxióng de nèihán suī suí shídài biànqiān ér yǎnjìn, dàn qí shějǐ-wèirén, yǒngtiāo zhòngdān de jīngshén nèihé shǐzhōng jiǔmǐxīn. | Heroic narratives serve as a spiritual bridge linking traditional heritage with contemporary values. From trailblazing pioneers fighting perils in antiquity to selfless rescuers in modern disasters, although the connotations of heroes evolve across eras, their altruism and readiness to bear heavy burdens remain ever vibrant. | La narrativa heroica es el lazo espiritual que une la herencia tradicional con los valores contemporáneos. Desde los pioneros antiguos que combatieron peligros hasta los abnegados rescatistas de hoy, la noción de héroe evoluciona, pero su vocación altruista de cargar con el bienestar ajeno perdura inalterable.

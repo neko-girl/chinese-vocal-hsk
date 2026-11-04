@@ -1,0 +1,64 @@
+id: 31
+hanzi: 由于
+pinyin: yóu yú
+level: HSK 5
+part_of_speech: Preposition
+
+meanings_summary:
+  en: due to; because of; as a result of; owing to
+  es: debido a; a causa de; como resultado de; puesto que
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Preposition | Standard | introducing reasons or causal conditions; due to; owing to; because of | preposición que introduce la causa o condición motriz; debido a; por causa de | 由于水质清澈 (owing to crystal-clear water)
+  2 | Conjunction | Standard | causal conjunction connecting subordinate clause with main consequence clause; because | conjunción causal que une causa y efecto; puesto que; dado que; porque | 由于天气晴朗，游客络绎不绝 (because the weather was fine, tourists came continuously)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 由于地下断层构造独特且补给水源充足，济南的七十二名泉历经数百年依然常年喷涌。 | Yóuyú dìxià duàncéng gòuzào dútè qiě bǔjǐ shuǐyuán chōngzú, Jǐnán de qīshí'èr míngquán lìjīng shù bǎi nián yīrán chángnián pēnyǒng. | Due to unique subterranean fault geology and ample recharge sources, Jinan's 72 springs have gushed year-round for centuries. | Debido a la singular falla geológica subterránea y a la recarga constante, los setenta y dos manantiales de Jinan brotan perennemente desde hace siglos.
+  #2 | 由于国际供应链受地缘政治冲击出现波动，许多高科技制造企业加快了关键核心零部件的本土化替代进程。 | Yóuyú guójì gōngyìngliàn shòu dìyuán zhèngzhì chōngjī chūxiàn bōdòng, xǔduō gāokējì zhìzào qǐyè jiākuài le guānjiàn héxīn língbùjiàn de běntǔhuà tìdài jìnchéng. | Because global supply chains fluctuated under geopolitical shocks, many high-tech manufacturers accelerated local component substitution. | Puesto que las cadenas globales sufrieron vaivenes geopolíticos, empresas de alta tecnología aceleraron la sustitución local de componentes clave.
+
+collocations[6]{hanzi,en}:
+  由于各种原因 | due to various reasons
+  由于天气原因 | due to weather conditions
+  由于疏忽 | owing to negligence / oversight
+  由于缺乏经验 | due to lack of experience
+  由于受到影响 | because of being influenced
+  由于时间关系 | owing to limited time
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  事出有因 | shì chū yǒu yīn | there is good reason for it; everything has a cause
+  由浅入深 | yóu qiǎn rù shēn | from shallow to deep; proceed step by step
+  由表及里 | yóu biǎo jí lǐ | from outside to inside; penetrate from surface to essence
+  始料未及 | shǐ liào wèi jí | unexpected from the beginning; unforeseen eventuality
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  由 | yóu | from; by; reason; cause | desde; por; causa; razón | 田 | field | 丨 (sprout piercing through) | 田 (sprouting origin) | 5 | 独体结构 | Ancient pictograph of an emerging seed sprout pushing upward out of an enclosed seed pod, signifying origin or cause. | A seed sprout pushes straight up from the dark earth, showing the causal root source from which (由) life arises. | El brote que despunta verticalmente desde la semilla representa el origen o razón por la cual (由) surge la vida. | 35 | LW | ""
+  于 | yú | at; in; to; by; than | en; a; por; hacia; que | 二 | two | 一 (heaven / ground) | 亅 (hook / airflow) | 3 | 独体结构 | Ancient pictograph of breath expanding outward and meeting obstacles; grammatical preposition marking location, agent, or cause. | An energetic stream of breath rises from the ground up to the sky, serving as a connecting bridge at (于) every step. | Un hálito de energía asciende desde el suelo hasta el cielo, actuando como conector causal hacia (于) el destino. | 35 | MD | 於
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Tracing the root cause from its sprouting origin (由) to the resulting effect at (于) large explains why it occurred.
+  composite_memory_hook_es: Rastrear la causa desde su origen primero (由) hasta su desenlace en (于) el presente revela el porqué de los hechos.
+  cultural_and_cognitive_roots: In classical logic, 'yóu' marks the physical or philosophical origin (原由), while 'yú' is a locative/dative particle, combining into an indispensable modern causal operator.
+  tone_sandhi_and_pitch_modulation: Dual rising 2nd tones 'yóu yú' (35-35). Smoothly glide both syllables upward without swallowing either tone contour.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    甲 | jiǎ | armor; first; shell | Has the vertical stroke extending downwards, whereas 由 extends upwards
+    申 | shēn | state; express | Vertical stroke extends both upwards and downwards
+    干 | gān | shield; dry; do | Top horizontal stroke is shorter than the second, distinct from 于
+    千 | qiān | thousand | Has a downward slant on top instead of horizontal stroke
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    因 | yīn | cause; because; reason
+    故 | gù | past; reason; deliberate
+    缘 | yuán | edge; cause; affinity
+    由 | yóu | origin; reason; from
+
+semantic_boundary_contrasts:
+  core_nuance: 由于 is a formal causal preposition or conjunction introducing objective causes, background circumstances, or external catalysts.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 由于 vs. 因为 | yīnwèi | 因为 is universal in daily conversation and can occur in both forward and backward causal constructions, whereas 由于 is elevated, written, and typically heads the initial clause (由于...因此/所以...).
+    2 | 由于 vs. 鉴于 | jiànyú | 鉴于 carries a stronger executive tone meaning 'in view of / taking into consideration' (used before policy decrees), while 由于 is purely objective causation.
+    3 | 由于 vs. 出于 | chūyú | 出于 specifically introduces internal subjective motives, emotional empathy, or personal intent (出于好心), whereas 由于 describes objective external factors.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 由于济南独特的南北地质构造，南部山区的雨水渗入石灰岩溶洞，在地下悄然积蓄奔涌。当水流遇上致密的岩层阻挡时，便顺着地表裂隙喷薄而出。正是由于大自然数万年的巧夺天工，才孕育出这座举世闻名的泉水之都。 | Yóuyú Jǐnán dútè de nánběi dìzhì gòuzào, nánbù shānqū de yǔshuǐ shènrù shíhuīyán róngdòng, zài dìxià qiǎorán jīxù bēnyǒng. Dāng shuǐliú yùshàng zhìmì de yáncéng zǔdǎng shí, biàn shùn zhe dìbiǎo lièxì pēnbó ér chū. Zhèng shì yóuyú dàzìrán shù wàn nián de qiǎoduótiāngōng, cái yùnyù chū zhè zuò jǔshì wénmíng de quánshuǐ zhī dū. | Due to Jinan's unique north-south geology, southern rain permeates karst caverns, gathering underground. Obstructed by dense rock, waters surge through fissures. Thanks to millennia of nature's artistry, this world-renowned city of springs was born. | Debido al singular relieve cárstico de Jinan, la lluvia sureña recarga los acuíferos subterráneos. Al topar con roca impermeable, el agua brota por fisuras. Gracias a milenios de prodigio natural, floreció esta capital de manantiales mundialmente célebre.
+  #2 | 由于数字化转型在各工业门类的全面铺开，传统制造流程对工业软件与工业控制系统的依赖度显著上升。许多龙头企业敏锐洞察这一技术演进趋势，提前布局研发具有自主知识产权的工业母机与底层核心算法。 | Yóuyú shùzìhuà zhuǎnxíng zài gè gōngyè ménlèi de quánmián pūkāi, chuántǒng zhìzào liúchéng duì gōngyè ruǎnjiàn yǔ gōngyè kòngzhì xìtǒng de yīlàidù xiǎnzhù shàngshēng. Xǔduō lóngtóu qǐyè mǐnruì dòngchá zhè yí jìshù yǎnjìn qūshì, tíqián bùjú yánfā jùyǒu zìzhǔ zhīshi chǎnquán de gōngyè mǔjī yǔ dǐcéng héxīn suànfǎ. | Due to pervasive digital transformation across industries, traditional manufacturing's reliance on industrial software has surged. Leading enterprises foresee this trend, proactively developing proprietary machine tools and algorithms. | Debido a la digitalización transversal de la industria, la manufactura depende cada vez más del software de control. Firmas líderes prevén esta evolución, apostando con antelación por maquinaria matriz y algoritmos de diseño propio.

@@ -1,0 +1,66 @@
+id: 5
+hanzi: 够
+pinyin: gòu
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to be enough; to suffice; to reach; quite; sufficiently
+  es: bastar; ser suficiente; alcanzar; bastante; suficientemente
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to be enough; to suffice in quantity, degree, or capacity | bastar; ser suficiente; satisfacer una necesidad cuantitativa | 钱够用 (the money is enough)
+  2 | Verb | Colloquial | to reach by stretching out one's hand or body | alcanzar algo estirando la mano o el cuerpo | 够不着 (cannot reach it)
+  3 | Adverb | Standard | quite; rather; sufficiently (preceding adjectives or psychological verbs) | bastante; suficientemente | 够热情的 (quite enthusiastic)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕前夕，母亲早早备齐了够全家人吃上大半个月的年货与各色面点。 | Chúxī qiánxī, mǔqīn zǎozǎo bèi qí le gòu quánjiā rén chī shàng dà bàn gè yuè de niánhuò yǔ gèsè miàndiǎn. | On the eve of New Year's Eve, mother prepared in advance enough New Year provisions and pastries to feed the whole family for over half a month. | En las vísperas de fin de año, la madre preparó con anticipación provisiones y bocadillos suficientes para alimentar a toda la familia durante más de medio mes.
+  #2 | 面对突发的公共卫生事件，只有储备够充足的医疗物资与应急生活用品，城市系统才能保持高效运转。 | Miànduì tūfā de gōnggòng wèishēng shìjiàn, zhǐyǒu chǔbèi gòu chōngzú de yīliào wùzī yǔ yìngjí shēnghuó yòngpǐn, chéngshì xìtǒng cái néng bǎochí gāoxiào yùnzhuǎn. | Confronting sudden public health events, only by stockpiling sufficiently adequate medical supplies and emergency necessities can municipal systems sustain efficient operation. | Ante emergencias sanitarias repentinas, solo almacenando suministros médicos y bienes de primera necesidad bastante suficientes puede el sistema urbano mantener un funcionamiento eficiente.
+
+collocations[6]{hanzi,en}:
+  足够 | enough; sufficient; ample
+  够不着 | cannot reach (with one's hand)
+  能够 | be able to; capable of
+  够意思 | generous; decent; kind-hearted
+  吃够了 | had enough to eat; fed up with
+  不够好 | not good enough
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  知足常乐 | zhī zú cháng lè | contentment brings happiness; he who is content is always happy
+  绰绰有余 | chuò chuò yǒu yú | more than enough; plenty and to spare
+  丰衣足食 | fēng yī zú shí | well-clothed and well-fed; have ample food and clothing
+  量入为出 | liàng rù wéi chū | live within one's means; plan expenditure according to income
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  够 | gòu | enough; sufficient; quite; reach | bastar; suficiente; bastante; alcanzar | 夕 | evening / night | 句 (jù / gōu, bent / enclosing) | 句 (jù) | 11 | 左右结构 | Variant of 夠. Combines 句 (enclosing container / measure) with 多 (doubled 夕, abundance), signifying having gathered enough to fill a need. | With phrases spoken (句) continuing into late evening (夕) until supplies are full, everything is plentiful and enough (够). | Cuando las palabras (句) se extienden al caer la noche (夕) y completan lo necesario, las provisiones bastan (够). | 51 | PRNIN | 夠
+
+mnemonics_and_roots:
+  composite_memory_hook_en: With words wrapped neatly (句) and many provisions (多) stored, everything is plentiful and enough (够).
+  composite_memory_hook_es: Con palabras medidas (句) y muchas provisiones (多) acumuladas, todo es abundante y basta (够).
+  cultural_and_cognitive_roots: The character 够 (traditionally 夠) combines 多 (many/abundant) with 句 (enclosing container/measure). Cognitive conceptualization links sufficiency to fullness within boundaries—neither lacking nor overflowing, reflecting the Confucian ideal of moderation (中庸) and contentment (知足).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'gòu' (51). Starts at top pitch 5 and drops sharply to pitch 1. When preceding another 4th tone word (e.g. 够用), maintain the full sharp descent without softening.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    苟 | gǒu | careless; illicit; negligent | Has grass radical 艹 on top of 句 instead of 多
+    拘 | jū | arrest; restrain; detain | Has hand radical 扌 next to 句
+    殉 | xùn | die for a cause; be buried with | Has death radical 歹 next to 旬 (often confused with 句)
+    移 | yí | move; shift | Has grain radical 禾 next to 多 instead of 句
+    炙 | zhì | roast; broil | Has fire radical 火 underneath 月/夕
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    足 | zú | sufficient; foot
+    满 | mǎn | full; satisfied
+    充 | chōng | fill; ample
+    余 | yú | surplus; remainder
+    裕 | yù | abundant; wealthy
+
+semantic_boundary_contrasts:
+  core_nuance: 够 denotes reaching a quantitative, qualitative, or physical threshold of sufficiency or satiety.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 够 vs. 足够 | zúgòu | 够 is informal and monosyllabic, functioning flexibly as verb or adverb (够好、够吃), whereas 足够 is a formal disyllabic adjective/adverb emphasizing an ample, fully satisfactory margin of sufficiency in objective assessments.
+    2 | 够 vs. 充分 | chōngfèn | 够 denotes quantitative adequacy or meeting a baseline need, whereas 充分 emphasizes qualitative thoroughness, completeness, and exhaustive preparation (e.g. 理由充分, 准备充分).
+    3 | 够 vs. 满足 | mǎnzú | 够 describes reaching a required quantitative quota or standard, whereas 满足 focuses on internal psychological contentment or satisfying desires and specifications.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕夜的温情，不在于餐桌上的山珍海味是否奢华，而在于一家人围坐在一起，能够彼此倾听与守望。只要心与心贴得够近，屋外的风雪再大，屋内的欢声笑语也足以驱散一整年的疲惫与寒意。 | Chúxī yè de wēnqíng, bù zàiyú cānzhuō shàng de shānzhēn-hǎiwèi shìfǒu shēhuá, ér zàiyú yì jiā rén wéizuò zài yìqǐ, nénggòu bǐcǐ qīngtīng yǔ shǒuwàng. Zhǐyào xīn yǔ xīn tiē de gòu jìn, wūwài de fēngxuě zài dà, wūnèi de huānshēng-xiàoyǔ yě zúyǐ qūsàn yì zhěng nián de píbèi yǔ hányì. | The warmth of New Year's Eve lies not in whether delicacies on the table are lavish, but in a family gathering together, able to listen to and care for one another. As long as hearts stay close enough, no matter how harsh winter winds blow outside, laughter indoors suffices to dispel the entire year's fatigue and chill. | La calidez de la nochevieja no depende del lujo de los manjares, sino de reunir a la familia para escucharse y acompañarse mutuamente. Con tal de que los corazones permanezcan bastante unidos, por fuerte que sople el viento afuera, las risas interiores bastan para disipar el frío y el cansancio de todo un año.
+  #2 | 现代城市应急管理体系的韧性，取决于其在突发危机面前是否拥有够完善的物资调度网络与信息预警机制。只有基层保障能力足够扎实，公共治理体系才能在风浪中经受考验，守护千家万户的平安与稳定。 | Xiàndài chéngshì yìngjí guǎnlǐ tǐxì de rènxìng, qūjué yú qí zài tūfā wēijī miànqián shìfǒu yōngyǒu gòu wánshàn de wùzī diàodù wǎngluò yǔ xìnxī yùjǐng jīzhì. Zhǐyǒu jīcéng bǎozhàng nénglì zúgòu zhāshí, gōnggòng zhìlǐ tǐxì cái néng zài fēnglàng zhōng jīngshòu kǎoyàn, shǒuhù qiānjiā-wànhù de píng'ān yǔ wěndìng. | The resilience of modern urban emergency management systems hinges on possessing a sufficiently robust supply dispatch network and early warning mechanism during sudden crises. Only when grassroots safeguarding capabilities are adequately solid can governance systems withstand challenges and protect public safety. | La resiliencia de la gestión de emergencias urbanas depende de contar con redes de distribución y sistemas de alerta bastante desarrollados frente a las crisis. Solo con bases de apoyo suficientemente sólidas puede la administración superar las pruebas y proteger la tranquilidad de la comunidad.

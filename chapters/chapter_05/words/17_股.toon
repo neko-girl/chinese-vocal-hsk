@@ -1,0 +1,63 @@
+id: 17
+hanzi: 股
+pinyin: gǔ
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: classifier for streams, gushes, smells, forces, or passions; share; stock; thigh
+  es: clasificador para chorros, corrientes, tufos, fuerzas o impulsos; acción (bursátil); muslo
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | classifier for streams, water gushes, gusts of wind, smells, or surges of strength and emotion | clasificador para chorros, corrientes de agua, ráfagas, olores o impulsos | 三股泉水 (three streams of spring water)
+  2 | Noun | Standard | financial share; stock; thigh / portion | acción (financiera); cuota; muslo; porción | 股票 (stocks / shares)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉池中央有三股大泉日夜喷涌，水花高达数尺，气势磅礴，蔚为壮观。 | Bàotūquán chí zhōngyāng yǒu sān gǔ dà quán rìyè pēnyǒng, shuǐhuā gāo dá shù chǐ, qìshì pángbó, wèiwéi zhuàngguān. | In the center of Baotu Spring's pool, three massive streams gush day and night, sending plumes feet into the air in a magnificent display. | En el centro del manantial Baotu, tres vigorosos chorros brotan día y noche con ímpetu majestuoso, alcanzando varios palmos de altura.
+  #2 | 面对突如其来的市场动荡，这支创业团队凭着一股不服输的顽强拼劲，最终成功实现了技术攻关。 | Miànduì tūrúqílái de shìchǎng dòngdàng, zhè zhī chuàngyè tuánduì píng zhe yì gǔ bù fúshū de wánqiáng pīnjìn, zuìzhōng chénggōng shíxiàn le jìshù gōngguān. | Facing sudden market turbulence, this entrepreneurial team, propelled by a surge of unyielding tenacity, successfully conquered the technical hurdles. | Ante la súbita sacudida del mercado, el equipo de emprendedores, impulsado por una racha de indomable coraje, coronó con éxito el reto técnico.
+
+collocations[6]{hanzi,en}:
+  三股泉水 | three streams of spring water
+  一股暖流 | a stream of warmth / warm feeling
+  一股清泉 | a fresh stream / spring
+  一股力量 | a surge of strength / power
+  一股香味 | a whiff of fragrance
+  股份公司 | joint-stock corporation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  引吭高歌 | yǐn háng gāo gē | sing aloud with outstretched neck
+  八股文章 | bā gǔ wén zhāng | eight-legged essay; rigid and stereotyped writing
+  悬梁刺股 | xuán liáng cì gǔ | tie hair to beam and prick thigh with awl; study with extreme diligence
+  心往一处想，劲往一处使 | xīn wǎng yí chù xiǎng, jìn wǎng yí chù shǐ | think with one mind and exert efforts in the same direction
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  股 | gǔ | thigh; stream; share; portion | muslo; chorro; acción; rama | 月 | meat / flesh | 月 (flesh / body) | 殳 (shū, weapon / action) | 8 | 左右结构 | Phono-semantic compound where flesh radical 月 indicates the muscular thigh, extending to a primary strand or constituent force. | Muscular limbs (月) wielding an energetic staff (殳) propel a surge of water forward as a powerful stream (股). | La fuerza muscular (月) que blande una vara (殳) impulsa hacia adelante un torrente impetuoso o chorro (股). | 214 | BHNE | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Muscular strength (月) driving an energetic thrust (殳) creates a powerful gushing stream or surge of power (股).
+  composite_memory_hook_es: La fuerza muscular (月) que propulsa una vara (殳) genera un potente chorro de agua o impulso (股).
+  cultural_and_cognitive_roots: Originally the anatomic thigh ('thigh bone/muscle'), 'gǔ' metonymically extended to woven strands of rope (股线), and hence to classifiers for braided streams, smells, and financial portions (股份).
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'gǔ' (214). In 'yì gǔ' (一股), 'yī' shifts to 4th tone: 'yì gǔ' (51-214).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    服 | fú | clothes; obey | Has 月 on left, but 服 has a different right radical than 殳
+    没 | méi | have not; drown | Has water radical 氵 instead of flesh radical 月
+    设 | shè | establish; set up | Has speech radical 讠 instead of 月
+    投 | tóu | throw; invest | Has hand radical 扌 instead of 月
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    脉 | mài | vein; pulse; mountain ridge
+    支 | zhī | branch; support; classifier
+    分 | fēn | divide; part; share
+    条 | tiáo | strip; strand; line
+
+semantic_boundary_contrasts:
+  core_nuance: 股 acts as a measure word for dynamic streams, gushes of liquid, gusts of air/odor, surges of emotion, or financial shares.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 股 vs. 条 | tiáo | 股 classifies dynamic streams, surges, odors, or forces (一股泉水, 一股力量), whereas 条 classifies long, static, linear physical items (一条河, 一条绳子).
+    2 | 股 vs. 道 | dào | 股 emphasizes burst, flow, or intangible sensation (一股清香), while 道 classifies flashes of light, cracks, mountain ridges, or orders (一道闪电, 一道道伤疤).
+    3 | 股 vs. 束 | shù | 股 denotes fluid streams or olfactory puffs, whereas 束 classifies bundled solid items or bundled light beams (一束光, 一束花).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉池中央那三股奔涌不息的大泉，是济南城跳动不休的心脉。雪白的水花自泉底翻滚而出，如同三堆堆积不散的碎玉。水气弥漫在青石栏杆旁，带来一股沁人心脾的清凉，令人流连忘返。 | Bàotūquán chí zhōngyāng nà sān gǔ bēnyǒng bùxī de dà quán, shì Jǐnán chéng tiàodòng bùxiū de xīnmài. Xuěbái de shuǐhuā zì quándǐ fāngǔn ér chū, rútóng sān duī duījī búsàn de suìyù. Shuǐqì mímàn zài qīngshí lángān páng, dàilái yì gǔ qìnrénxīnpí de qīngliáng, lìngrén liúliánwǎnfǎn. | The three tirelessly surging streams in the center of Baotu Spring are Jinan's pulsing heartbeat. Snow-white plumes churn from the deep like mounds of jade. Vapor drifts past balustrades, bringing a refreshing chill that captivates. | Los tres vigorosos chorros perennes del manantial Baotu son el latido vital de Jinan. Espumas blancas borbotan desde el fondo como pilas de jade. El vapor flota junto a la balaustrada trayendo un frescor reconfortante que fascina.
+  #2 | 资本市场中股票发行机制的改革深化，为高精尖制造企业提供了源源不断的资金支持。通过设立科创板，一大批拥有核心专利的技术创新团队成功上市发行股份，为实体经济高质量转型注入了强劲动力。 | Zīběn shìchǎng zhōng gǔpiào fāxíng jīzhì de gǎigé shēnhuà, wèi gāojīngjiān zhìzào qǐyè tígōng le yuányuánbùduàn de zījīn zhīchí. Tōngguò shèlì kēchuàngbǎn, yí dà pī yōngyǒu héxīn zhuānlì de jìshù chuàngxīn tuánduì chénggōng shàngshì fāxíng gǔfèn, wèi shítǐ jīngjì gāozhìliàng zhuǎnxíng zhùrù le qiángjìn dònglì. | Deepening equity issuance reforms provide continuous capital for cutting-edge manufacturers. Through the STAR Market, innovation teams possessing patents successfully float shares, infusing physical manufacturing with robust momentum. | Las reformas bursátiles inyectan capital continuo a la manufactura de vanguardia. Gracias al mercado de innovación, empresas con patentes exclusivas emiten acciones con éxito, impulsando con vigor la economía real y productiva.

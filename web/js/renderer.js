@@ -4,7 +4,7 @@
  */
 
 // Speech Synthesis Engine
-function speak(text) {
+function speak(text, speed) {
   if (!('speechSynthesis' in window)) {
     console.warn('Speech synthesis not supported in this browser.');
     return;
@@ -21,12 +21,12 @@ function speak(text) {
     const u = new SpeechSynthesisUtterance(toSpeak);
     u.lang = 'zh-CN';
     
-    // Retrieve speed setting if available
+    // Retrieve speed setting or explicit parameter
     const settings = (typeof StorageManager !== 'undefined') ? StorageManager.getSettings() : null;
-    u.rate = settings?.speechRate || 0.9;
+    u.rate = (typeof speed === 'number') ? speed : (settings?.speechRate || 0.9);
 
     // Visual feedback on audio buttons
-    const activeBtns = document.querySelectorAll('.hero-audio-btn, .audio-btn');
+    const activeBtns = document.querySelectorAll('.hero-audio-btn, .audio-btn, .audio-speed-btn');
     activeBtns.forEach(b => b.classList.add('speaking'));
     u.onend = () => activeBtns.forEach(b => b.classList.remove('speaking'));
     u.onerror = () => activeBtns.forEach(b => b.classList.remove('speaking'));
@@ -35,6 +35,14 @@ function speak(text) {
   } catch (err) {
     console.warn('SpeechSynthesis error:', err);
   }
+}
+
+// Highlight Target Headword in Sentences and Passages
+function highlightHeadword(text, headword) {
+  if (!text || !headword) return text || '';
+  const escaped = headword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const regex = new RegExp(`(${escaped})`, 'g');
+  return text.replace(regex, '<mark class="target-headword">$1</mark>');
 }
 
 // Tone Coloring Table
@@ -137,6 +145,9 @@ function renderFlashcardFront(w, chapterDir, reviewItem) {
     statusBadge = `<span class="badge" style="background: rgba(239, 68, 68, 0.15); color: #ef4444;">🔴 Lapsed (${reviewItem.lapses || 1}x)</span>`;
   }
 
+  const decomp = w.character_decomposition || [];
+  const radicalHint = decomp.map(d => `${d.character}: ${d.radical} (${d.radical_meaning_en || ''})`).join(' · ');
+
   return `
     <div class="card-container front-card">
       <div class="card-top-bar">
@@ -146,9 +157,14 @@ function renderFlashcardFront(w, chapterDir, reviewItem) {
           ${statusBadge}
         </div>
         <div class="card-action-bar">
-          <button type="button" class="drawer-trigger-btn" onclick="speak('${w.hanzi}')" title="Pronounce Headword (TTS)">
-            🔊
-          </button>
+          <div class="audio-control-cluster">
+            <button type="button" class="audio-speed-btn" onclick="speak('${w.hanzi}', 0.75)" title="Slow Pronunciation (Shortcut: T or Shift+R)">
+              🐢 0.75x <kbd class="hint-kbd" style="font-size: 0.65rem; padding: 1px 4px; margin-left: 2px;">T</kbd>
+            </button>
+            <button type="button" class="audio-speed-btn" onclick="speak('${w.hanzi}', 1.0)" title="Normal Pronunciation (Shortcut: R)">
+              🔊 1.0x <kbd class="hint-kbd" style="font-size: 0.65rem; padding: 1px 4px; margin-left: 2px;">R</kbd>
+            </button>
+          </div>
           <button type="button" class="drawer-trigger-btn" onclick="App.openLookupDrawer()" title="External Lookups (L)">
             🔍
           </button>
@@ -159,16 +175,34 @@ function renderFlashcardFront(w, chapterDir, reviewItem) {
       </div>
 
       <main class="front-body">
-        <div class="hero-word-front" onclick="App.showAnswer()" title="Click or press Space to show answer">${w.hanzi}</div>
+        <div class="tianzige-container" onclick="App.showAnswer()" title="Click or press Space to reveal answer">
+          <div class="tianzige-box ${w.hanzi.length > 2 ? 'tianzige-box-multi' : ''}">
+            <div class="tianzige-char">${w.hanzi}</div>
+          </div>
+        </div>
+
         <div class="front-meta-pills">
           <span class="badge badge-num">NO. ${String(w.id).padStart(2, '0')}</span>
           <span class="badge" style="background: var(--bg-card-sub); color: var(--text-muted);">${w.part_of_speech}</span>
+          ${w.level ? `<span class="badge badge-hsk">${w.level}</span>` : ''}
+        </div>
+
+        <!-- Progressive Hints -->
+        <div class="front-hint-section">
+          <button type="button" class="btn-peek-hint" onclick="App.toggleFrontHint()">
+            <span>💡 Peek Hint</span>
+            <kbd class="hint-kbd">H</kbd>
+          </button>
+          <div id="front-hint-content" class="hint-content-box">
+            <div style="font-size: 0.82rem; margin-bottom: 4px;"><strong>Pinyin:</strong> ${colorizePinyinHTML(w.pinyin)}</div>
+            ${radicalHint ? `<div style="font-size: 0.76rem; color: var(--text-dim);"><strong>Radicals:</strong> ${radicalHint}</div>` : ''}
+          </div>
         </div>
       </main>
 
       <div class="card-hint">
         <button type="button" class="hint-pill" onclick="App.showAnswer()">
-          <span>💡 Show Answer</span>
+          <span>👁️ Show Answer</span>
           <kbd class="hint-kbd">Space</kbd>
         </button>
       </div>
@@ -190,17 +224,23 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
     statusBadge = `<span class="badge" style="background: rgba(239, 68, 68, 0.15); color: #ef4444;">🔴 Lapsed (${reviewItem.lapses || 1}x)</span>`;
   }
 
-  // 1. Sentences Panel
+  // 1. Sentences Panel (with target word highlighting and dual-speed audio)
   const sentences = w.example_sentences || [];
   const sentencesHtml = sentences.map(sent => `
     <div class="sentence-card">
-      <span class="tag-ctx">${sent.id === '#1' ? 'Context: Daily / Life' : 'Context: Formal / Professional'}</span>
-      <div class="sentence-hanzi">${sent.hanzi}</div>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span class="tag-ctx">${sent.id === '#1' ? 'Context: Daily / Life' : 'Context: Formal / Professional'}</span>
+        <button type="button" class="btn-copy-sent" onclick="App.copyText('${sent.hanzi.replace(/'/g, "\\'")}', 'Sentence copied!')" title="Copy Sentence">
+          📋 Copy
+        </button>
+      </div>
+      <div class="sentence-hanzi">${highlightHeadword(sent.hanzi, w.hanzi)}</div>
       <div class="sentence-pinyin">${colorizePinyinHTML(sent.pinyin)}</div>
       ${showEn ? `<div class="sentence-trans"><strong>EN:</strong> ${sent.en}</div>` : ''}
       ${showEs ? `<div class="sentence-trans"><strong>ES:</strong> ${sent.es}</div>` : ''}
-      <div style="margin-top: 10px;">
-        <button class="btn btn-icon" style="padding: 3px 8px; font-size: 0.75rem;" onclick="speak('${sent.hanzi}')">🔊 Listen</button>
+      <div style="margin-top: 10px; display: flex; gap: 8px;">
+        <button class="audio-speed-btn" onclick="speak('${sent.hanzi.replace(/'/g, "\\'")}', 1.0)">🔊 Listen</button>
+        <button class="audio-speed-btn" onclick="speak('${sent.hanzi.replace(/'/g, "\\'")}', 0.75)">🐢 0.75x</button>
       </div>
     </div>
   `).join('');
@@ -208,9 +248,9 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
   // 2. Collocations Panel
   const collocations = w.collocations || [];
   const collocHtml = collocations.map(c => `
-    <div class="colloc-item" onclick="speak('${c.hanzi}')">
+    <div class="colloc-item" onclick="speak('${c.hanzi.replace(/'/g, "\\'")}', 1.0)">
       <div class="colloc-hanzi">
-        <span>${c.hanzi}</span>
+        <span>${highlightHeadword(c.hanzi, w.hanzi)}</span>
         <span style="font-size: 0.8rem; color: var(--primary);">🔊</span>
       </div>
       <div class="colloc-en">${c.en}</div>
@@ -220,9 +260,9 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
   // 3. Idioms Panel
   const idioms = w.idioms || [];
   const idiomsHtml = idioms.map(im => `
-    <div class="colloc-item" onclick="speak('${im.hanzi}')">
+    <div class="colloc-item" onclick="speak('${im.hanzi.replace(/'/g, "\\'")}', 1.0)">
       <div class="colloc-hanzi">
-        <span>${im.hanzi}</span>
+        <span>${highlightHeadword(im.hanzi, w.hanzi)}</span>
         <span style="font-size: 0.8rem; color: var(--primary);">🔊</span>
       </div>
       <div style="font-family: 'JetBrains Mono', monospace; font-size: 0.75rem;">${colorizePinyinHTML(im.pinyin)}</div>
@@ -230,17 +270,19 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
     </div>
   `).join('');
 
-  // 4. Character Decomposition Panel
+  // 4. Character Decomposition Panel (with Tianzige Box)
   const decomp = w.character_decomposition || [];
   const decompHtml = decomp.map(ch => `
     <div class="decomp-card">
       <div class="decomp-header">
-        <div class="char-big">${ch.character}</div>
-        <div class="char-meta-top">
+        <div class="tianzige-box" style="width: 64px; height: 64px; min-width: 64px; border-radius: 12px; cursor: pointer;" onclick="speak('${ch.character}', 1.0)" title="Pronounce character">
+          <div class="tianzige-char" style="font-size: 2.2rem;">${ch.character}</div>
+        </div>
+        <div class="char-meta-top" style="flex: 1;">
           <div style="display: flex; align-items: baseline; gap: 8px;">
             <span class="char-pinyin">${colorizePinyinHTML(ch.pinyin)}</span>
             <span class="badge badge-pos">Tone ${ch.tone_mnemonic_anchor}</span>
-            <button class="btn btn-icon" style="padding: 2px 6px; font-size: 0.7rem;" onclick="speak('${ch.character}')">🔊</button>
+            <button class="btn btn-icon" style="padding: 2px 6px; font-size: 0.7rem;" onclick="speak('${ch.character}', 1.0)">🔊</button>
           </div>
           <div class="char-pills">
             <span class="pill-sm">Rad: ${ch.radical} (${ch.radical_meaning_en})</span>
@@ -252,7 +294,7 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
         </div>
       </div>
       <div class="decomp-detail-row">
-        <strong>Components:</strong> Meaning ${ch.meaning_component} · Sound ${ch.sound_component}
+        <strong>Components:</strong> Meaning <span class="badge badge-pos" style="font-size: 0.7rem;">${ch.meaning_component}</span> · Sound <span class="badge badge-hsk" style="font-size: 0.7rem;">${ch.sound_component}</span>
       </div>
       <div class="decomp-detail-row">
         <strong>Etymology:</strong> ${ch.etymology_and_mnemonic}
@@ -268,42 +310,46 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
     <div style="display: flex; flex-direction: column; gap: 12px;">
       ${showEn && mr.composite_memory_hook_en ? `
         <div class="alert-box">
-          <div class="alert-title">Composite Memory Hook (EN)</div>
-          <div style="font-size: 0.9rem;">${mr.composite_memory_hook_en}</div>
+          <div class="alert-title">🧠 Composite Memory Hook (EN)</div>
+          <div style="font-size: 0.92rem; line-height: 1.5; font-style: italic;">"${mr.composite_memory_hook_en}"</div>
         </div>` : ''}
       ${showEs && mr.composite_memory_hook_es ? `
         <div class="alert-box" style="background: rgba(16, 185, 129, 0.08); border-color: rgba(16, 185, 129, 0.3);">
-          <div class="alert-title" style="color: var(--accent-green);">Gancho Mnemotécnico Compuesto (ES)</div>
-          <div style="font-size: 0.9rem;">${mr.composite_memory_hook_es}</div>
+          <div class="alert-title" style="color: var(--accent-green);">🧠 Gancho Mnemotécnico Compuesto (ES)</div>
+          <div style="font-size: 0.92rem; line-height: 1.5; font-style: italic;">"${mr.composite_memory_hook_es}"</div>
         </div>` : ''}
       ${mr.cultural_and_cognitive_roots ? `
         <div class="alert-box blue">
-          <div class="alert-title">Cultural & Cognitive Metaphor</div>
+          <div class="alert-title">💡 Cultural & Cognitive Metaphor</div>
           <div style="font-size: 0.88rem; line-height: 1.6;">${mr.cultural_and_cognitive_roots}</div>
         </div>` : ''}
       ${mr.tone_sandhi_and_pitch_modulation ? `
         <div class="alert-box" style="background: rgba(168, 85, 247, 0.08); border-color: rgba(168, 85, 247, 0.3);">
-          <div class="alert-title" style="color: var(--accent-purple);">Tone Sandhi & Pitch Contours</div>
+          <div class="alert-title" style="color: var(--accent-purple);">🎵 Tone Sandhi & Pitch Contours</div>
           <div style="font-size: 0.88rem; line-height: 1.6;">${mr.tone_sandhi_and_pitch_modulation}</div>
         </div>` : ''}
     </div>
   `;
 
-  // 6. Traps & Cognates Panel
+  // 6. Traps & Cognates Panel (Modern Side-by-Side Comparison Cards)
   const traps = w.traps_and_cognates || {};
   const lookAlikes = traps.look_alikes || [];
   const lookAlikesHtml = lookAlikes.map(la => `
-    <tr>
-      <td class="char-cell" onclick="speak('${la.character}')">${la.character} <span style="font-size: 0.75rem; cursor: pointer;">🔊</span></td>
-      <td style="font-family: 'JetBrains Mono', monospace;">${colorizePinyinHTML(la.pinyin)}</td>
-      <td>${la.meaning_en}</td>
-      <td style="color: var(--text-muted); font-size: 0.8rem;">${la.distinction_note}</td>
-    </tr>
+    <div class="lookalike-card">
+      <div class="lookalike-char-box" onclick="speak('${la.character}', 1.0)" title="Click to pronounce">
+        ${la.character}
+      </div>
+      <div class="lookalike-meta">
+        <div class="lookalike-pinyin">${colorizePinyinHTML(la.pinyin)}</div>
+        <div class="lookalike-meaning">${la.meaning_en}</div>
+        <div class="lookalike-distinction">⚠️ ${la.distinction_note}</div>
+      </div>
+    </div>
   `).join('');
 
   const cognates = traps.etymological_cognates || [];
   const cognatesHtml = cognates.map(cg => `
-    <div class="cognate-chip" onclick="speak('${cg.character}')">
+    <div class="cognate-chip" onclick="speak('${cg.character}', 1.0)">
       <span class="ch">${cg.character}</span>
       <span style="font-family: 'JetBrains Mono'; font-size: 0.72rem;">${colorizePinyinHTML(cg.pinyin)}</span>
       <span style="color: var(--text-dim); font-size: 0.72rem;">${cg.gloss_en}</span>
@@ -311,54 +357,59 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
   `).join('');
 
   const trapsHtml = `
-    <div style="margin-bottom: 16px;">
-      <div style="font-weight: 700; font-size: 0.88rem; margin-bottom: 8px;">Look-Alike Characters (字形陷阱)</div>
-      <table class="data-table">
-        <thead>
-          <tr><th>Char</th><th>Pinyin</th><th>Meaning</th><th>Distinction</th></tr>
-        </thead>
-        <tbody>${lookAlikesHtml}</tbody>
-      </table>
+    <div style="margin-bottom: 20px;">
+      <div style="font-weight: 700; font-size: 0.9rem; margin-bottom: 8px;">Look-Alike Characters (字形陷阱 · ${lookAlikes.length})</div>
+      <div class="comparison-grid">${lookAlikesHtml}</div>
     </div>
     <div>
-      <div style="font-weight: 700; font-size: 0.88rem; margin-bottom: 8px;">Etymological Cognates Family (同族字)</div>
+      <div style="font-weight: 700; font-size: 0.9rem; margin-bottom: 8px;">Etymological Cognates Family (同族字 · ${cognates.length})</div>
       <div class="cognate-chips">${cognatesHtml}</div>
     </div>
   `;
 
-  // 7. Contrasts Panel
+  // 7. Contrasts Panel (Modern Contrast Cards)
   const sbc = w.semantic_boundary_contrasts || {};
   const contrasts = sbc.contrasts || [];
   const contrastsHtml = contrasts.map(ct => `
-    <div class="contrast-item">
-      <div class="contrast-header">
-        <span class="contrast-pair">${ct.compared_word}</span>
-        <span class="contrast-pinyin">${colorizePinyinHTML(ct.pinyin)}</span>
+    <div class="contrast-card">
+      <div class="contrast-head">
+        <span class="contrast-title">${ct.compared_word}</span>
+        <span class="contrast-pinyin-tag">${colorizePinyinHTML(ct.pinyin)}</span>
       </div>
-      <div class="contrast-desc">${ct.analysis}</div>
+      <div class="contrast-desc" style="font-size: 0.88rem; line-height: 1.6; color: var(--text);">${ct.analysis}</div>
     </div>
   `).join('');
 
   const synonymsHtml = `
     ${sbc.core_nuance ? `
-      <div style="margin-bottom: 14px; font-size: 0.92rem; color: var(--text); padding: 10px 14px; background: var(--bg-card-sub); border-radius: 8px; border: 1px solid var(--border);">
-        <strong>Core Semantic Nuance:</strong> ${sbc.core_nuance}
+      <div style="margin-bottom: 16px; font-size: 0.94rem; color: var(--text); padding: 12px 16px; background: var(--bg-card-sub); border-radius: 10px; border: 1px solid var(--border); border-left: 4px solid var(--accent);">
+        <strong>🎯 Core Semantic Nuance:</strong> ${sbc.core_nuance}
       </div>` : ''}
     <div>${contrastsHtml}</div>
   `;
 
-  // 8. Passages Panel
+  // 8. Passages Panel (with Pinyin toggle and dual-speed audio)
   const passages = w.extended_reading_passages || [];
+  const isPinyinVisible = (typeof StorageManager !== 'undefined') ? StorageManager.getSettings().showPassagePinyin : false;
   const passagesHtml = passages.map((p, idx) => `
     <div class="passage-block">
-      <div class="passage-header">
+      <div class="passage-ctrl-row">
         <span class="passage-badge">${idx === 0 ? 'Passage #1: Reflective / Philosophical' : 'Passage #2: Socio-economic / Formal'}</span>
-        <button class="btn btn-icon" onclick="speak('${p.hanzi}')">🔊 Read Passage</button>
+        <div style="display: flex; gap: 6px; align-items: center;">
+          <button type="button" class="btn-toggle-pinyin ${isPinyinVisible ? 'active' : ''}" onclick="App.togglePassagePinyin(this)" title="Toggle Pinyin visibility">
+            🔤 Pinyin
+          </button>
+          <button type="button" class="btn-copy-sent" onclick="App.copyText('${p.hanzi.replace(/'/g, "\\'")}', 'Passage copied!')" title="Copy Passage">
+            📋 Copy
+          </button>
+          <button class="audio-speed-btn" onclick="speak('${p.hanzi.replace(/'/g, "\\'")}', 1.0)">🔊 1.0x</button>
+          <button class="audio-speed-btn" onclick="speak('${p.hanzi.replace(/'/g, "\\'")}', 0.75)">🐢 0.75x</button>
+        </div>
       </div>
-      <div class="passage-hanzi">${p.hanzi}</div>
-      <div class="passage-pinyin">${colorizePinyinHTML(p.pinyin)}</div>
-      ${showEn ? `<div class="passage-trans" style="margin-bottom: 8px;"><strong>EN:</strong> ${p.en}</div>` : ''}
-      ${showEs ? `<div class="passage-trans"><strong>ES:</strong> ${p.es}</div>` : ''}
+      <div class="passage-hanzi" style="font-size: 1.15rem; line-height: 1.7; letter-spacing: 0.02em;">${highlightHeadword(p.hanzi, w.hanzi)}</div>
+      <div class="passage-pinyin ${isPinyinVisible ? '' : 'pinyin-hidden'}" style="margin: 8px 0;">${colorizePinyinHTML(p.pinyin)}</div>
+      ${showEn ? `<div class="passage-trans" style="margin-bottom: 8px; font-size: 0.9rem; line-height: 1.5;"><strong>EN:</strong> ${p.en}</div>` : ''}
+      ${showEs ? `<div class="passage-trans" style="font-size: 0.9rem; line-height: 1.5;"><strong>ES:</strong> ${p.es}</div>` : ''}
     </div>
   `).join('');
 
@@ -375,9 +426,14 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
             ${statusBadge}
           </div>
           <div class="card-action-bar">
-            <button type="button" class="drawer-trigger-btn" onclick="speak('${w.hanzi}')" title="Pronounce Headword (R)">
-              🔊
-            </button>
+            <div class="audio-control-cluster">
+              <button type="button" class="audio-speed-btn" onclick="speak('${w.hanzi}', 0.75)" title="Slow Pronunciation (Shortcut: T or Shift+R)">
+                🐢 0.75x <kbd class="hint-kbd" style="font-size: 0.65rem; padding: 1px 4px; margin-left: 2px;">T</kbd>
+              </button>
+              <button type="button" class="audio-speed-btn" onclick="speak('${w.hanzi}', 1.0)" title="Normal Pronunciation (Shortcut: R)">
+                🔊 1.0x <kbd class="hint-kbd" style="font-size: 0.65rem; padding: 1px 4px; margin-left: 2px;">R</kbd>
+              </button>
+            </div>
             <button type="button" class="drawer-trigger-btn" onclick="App.openLookupDrawer()" title="External Lookups (L)">
               🔍
             </button>
@@ -387,9 +443,9 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
           </div>
         </div>
 
-        <div style="display: flex; align-items: baseline; gap: 12px;">
-          <div class="hero-word" onclick="speak('${w.hanzi}')" title="Click to pronounce">${w.hanzi}</div>
-          <div class="hero-pinyin">${colorizePinyinHTML(w.pinyin)}</div>
+        <div style="display: flex; align-items: baseline; gap: 14px; margin-top: 6px;">
+          <div class="hero-word" onclick="speak('${w.hanzi}', 1.0)" title="Click to pronounce">${w.hanzi}</div>
+          <div class="hero-pinyin" style="font-size: 1.3rem;">${colorizePinyinHTML(w.pinyin)}</div>
         </div>
 
         <!-- Bilingual Meanings Summary -->
@@ -401,27 +457,31 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
         </div>
       </header>
 
-      <!-- 8-Pill Segmented Navigation Bar -->
+      <!-- 8-Pill Segmented Navigation Bar with Count Badges -->
       <nav class="pill-nav-container" aria-label="Vocabulary Sections">
         <div class="pill-nav-track" role="tablist">
           <button type="button" class="pill-btn ${activeTab === 'sentences' ? 'active' : ''}" onclick="App.switchTab('sentences')">
             <span class="pill-icon">💬</span>
             <span class="pill-text">例句</span>
+            <span class="pill-count">${sentences.length}</span>
             <span class="pill-key">1</span>
           </button>
           <button type="button" class="pill-btn ${activeTab === 'collocations' ? 'active' : ''}" onclick="App.switchTab('collocations')">
             <span class="pill-icon">⚡</span>
             <span class="pill-text">搭配</span>
+            <span class="pill-count">${collocations.length}</span>
             <span class="pill-key">2</span>
           </button>
           <button type="button" class="pill-btn ${activeTab === 'idioms' ? 'active' : ''}" onclick="App.switchTab('idioms')">
             <span class="pill-icon">📜</span>
             <span class="pill-text">成语</span>
+            <span class="pill-count">${idioms.length}</span>
             <span class="pill-key">3</span>
           </button>
           <button type="button" class="pill-btn ${activeTab === 'decomp' ? 'active' : ''}" onclick="App.switchTab('decomp')">
             <span class="pill-icon">🧩</span>
             <span class="pill-text">字形</span>
+            <span class="pill-count">${decomp.length}</span>
             <span class="pill-key">4</span>
           </button>
           <button type="button" class="pill-btn ${activeTab === 'mnemonics' ? 'active' : ''}" onclick="App.switchTab('mnemonics')">
@@ -432,16 +492,19 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
           <button type="button" class="pill-btn ${activeTab === 'traps' ? 'active' : ''}" onclick="App.switchTab('traps')">
             <span class="pill-icon">⚠️</span>
             <span class="pill-text">形近</span>
+            <span class="pill-count">${lookAlikes.length}</span>
             <span class="pill-key">6</span>
           </button>
           <button type="button" class="pill-btn ${activeTab === 'synonyms' ? 'active' : ''}" onclick="App.switchTab('synonyms')">
             <span class="pill-icon">🎯</span>
             <span class="pill-text">辨析</span>
+            <span class="pill-count">${contrasts.length}</span>
             <span class="pill-key">7</span>
           </button>
           <button type="button" class="pill-btn ${activeTab === 'passages' ? 'active' : ''}" onclick="App.switchTab('passages')">
             <span class="pill-icon">📖</span>
             <span class="pill-text">篇章</span>
+            <span class="pill-count">${passages.length}</span>
             <span class="pill-key">8</span>
           </button>
         </div>
@@ -848,6 +911,7 @@ if (typeof window !== 'undefined') {
   window.speak = speak;
   window.colorizePinyinHTML = colorizePinyinHTML;
   window.computeToneContour = computeToneContour;
+  window.highlightHeadword = highlightHeadword;
   window.renderSidebar = renderSidebar;
   window.renderFlashcardFront = renderFlashcardFront;
   window.renderFlashcardBack = renderFlashcardBack;

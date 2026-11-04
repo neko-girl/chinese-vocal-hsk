@@ -1,0 +1,62 @@
+id: 26
+hanzi: 池
+pinyin: chí
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: pool; pond; cistern; reservoir; moat
+  es: estanque; alberca; piscina; poza; foso
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an enclosed body of still or bubbling water; pond; pool; basin | masa de agua delimitada natural o artificialmente; estanque; alberca; balsa | 泉水汇入池中 (the spring water flows into the pool)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉清澈见底的泉池四周砌着整齐的青石栏杆，游人常倚栏俯瞰池中悠闲游动的锦鲤。 | Bàotūquán qīngchè jiàndǐ de quánchí sìzhōu qì zhe zhěngqí de qīngshí lángān, yóurén cháng yǐlán fǔkàn chí zhōng yōuxián yóudòng de jǐnlǐ. | Orderly bluestone balustrades enclose the crystal-clear pool of Baotu Spring, where visitors lean to watch swimming koi. | Barandillas de piedra azul rodean el límpido estanque del manantial Baotu, donde los visitantes se asoman a contemplar carpas que nadan.
+  #2 | 该生态农业示范园区配套建设了多座生态储水池，用于收集雨水与净化农业回用水。 | Gāi shēngtài nóngyè shìfànyuán qū pèitào jiànshè le duō zuò shēngtài chǔshuǐchí, yòngyú shōují yǔshuǐ yǔ jìnghuà nóngyè huíyòngshuǐ. | The ecological agriculture demonstration park constructed multiple retention ponds to harvest rainwater and purify recycled agricultural runoff. | El parque agroecológico construyó varias balsas de almacenamiento para recolectar agua de lluvia y depurar caudales agrícolas reciclados.
+
+collocations[6]{hanzi,en}:
+  水池 | pool; basin; cistern
+  游泳池 | swimming pool
+  池塘 | pond; pool
+  蓄水池 | reservoir; water storage cistern
+  泉池 | spring pool; spring basin
+  电池 | battery; cell
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  池鱼之殃 | chí yú zhī yāng | disaster befalling fish in the pond; collateral innocent victims
+  临池学书 | lín chí xué shū | practice calligraphy by the pond with supreme dedication
+  城门失火，殃及池鱼 | chéng mén shī huǒ, yāng jí chí yú | fire on the city gate brings disaster to fish in the moat; innocents harmed
+  金城汤池 | jīn chéng tāng chí | metal ramparts and boiling moat; impregnable fortress
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  池 | chí | pool; pond; moat; basin | estanque; alberca; balsa; foso | 氵 | water | 氵 (water, liquid containment) | 也 (yě, phonetic / basin vessel) | 6 | 左右结构 | Phono-semantic compound where water radical 氵 indicates a liquid body, and 也 anciently depicts a curved water jug or vessel. | Flowing water droplets (氵) poured into a wide curved hollow vessel (也) form a serene garden pond (池). | Gotas de agua (氵) recogidas en una pila curva (也) forman un apacible estanque (池) de jardín. | 35 | EPD | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pure spring water (氵) gathered within a curved stone basin (也) creates an emerald spring pool (池).
+  composite_memory_hook_es: Agua pura de manantial (氵) recogida en una pila de piedra (也) forma una alberca (池) esmeralda.
+  cultural_and_cognitive_roots: In classical architecture, garden pools ('chí') are not merely hydraulic reservoirs, but cosmological focal points capturing the sky's reflection and circulating yin qi.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'chí' (35). Smooth upward pitch contour without truncation.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    地 | dì | earth; ground | Has earth radical 土 on the left instead of water 氵
+    他 | tā | he; him | Has person radical 亻 on the left instead of water 氵
+    驰 | chí | gallop; speed | Has horse radical 马 on the left instead of water 氵
+    她 | tā | she; her | Has woman radical 女 on the left instead of water 氵
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    塘 | táng | pond; pool; embankment
+    泽 | zé | marsh; swamp; pool
+    潭 | tán | deep pool; abyss; pond
+    湖 | hú | lake; reservoir
+
+semantic_boundary_contrasts:
+  core_nuance: 池 specifically denotes an enclosed, excavated, or walled body of still or bubbling water (natural or man-made pool).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 池 vs. 湖 | hú | 池 is a relatively small, often stone-banked pool or garden pond, whereas 湖 is a vast, natural or grand artificial lake (e.g. 大明湖).
+    2 | 池 vs. 潭 | tán | 池 emphasizes horizontal enclosure and clear banks, while 潭 emphasizes profound vertical depth and dark abyss (e.g. 黑龙潭).
+    3 | 池 vs. 井 | jǐng | 池 is an open, shallow pool exposed to open air, while 井 is a deep, narrow vertical bore drilled downward into bedrock.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 倚在青石砌成的池边静静凝望，那一汪碧绿的泉池仿佛一块温润的翡翠。泉水从池底石缝间汩汩涌出，水波轻漾，水草摇曳。微风拂过水面，泛起层层涟漪，与四周亭台水榭的倒影交织成一幅如梦似幻的水彩画卷。 | Yǐ zài qīngshí qìchéng de chíbiān jìngjìng níngwàng, nà yì wāng bìlǜ de quánchí fǎngfú yí kuài wēnrùn de fěicuì. Quánshuǐ cóng chídǐ shífèng jiān gǔgǔ yǒngchū, shuǐbō qīngyàng, shuǐcǎo yáoyè. Wēifēng fúguò shuǐmiàn, fànqǐ céngcéng liányī, yǔ sìzhōu tíngtái shuǐxiè de dàoyǐng jiāozhī chéng yì fú rúmèngsìhuàn de shuǐcǎi huàjuàn. | Leaning against the stone pool to gaze quietly, the emerald spring pool resembles warm jade. Springs bubble from cracks beneath; waves ripple as waterweeds sway. Breeze creates soft rings reflecting pavilions in a dreamlike watercolor. | Apoyado en el brocal de piedra del estanque, el agua verde parece un cálido jade. El venero brota del lecho rocoso meciendo las algas. La brisa riza el agua y refleja pabellones en una estampa acuarelada de ensueño.
+  #2 | 在现代海绵城市建设理念指导下，城市雨水调蓄池扮演着防洪排涝与生态补水的双重角色。新型地下蓄水池利用透水铺装与植草沟收集雨水，经自然下渗与沉淀过滤后用于城市绿化浇灌，有效改善了局部水环境。 | Zài xiàndài hǎimián chéngshì jiànshè lǐniàn zhǐdǎo xià, chéngshì yǔshuǐ tiáoxùchí bànyǎn zhe fánghóng páilào yǔ shēngtài bǔshuǐ de shuāngzhòng juésè. Xīnxíng dìxià xùshuǐchí lìyòng tòushuǐ pūzhuāng yǔ zhícǎogōu shōují yǔshuǐ, jīng zìrán xiàshèn yǔ chéndiàn guòlǜ hòu yòngyú chéngshì lǜhuà jiāoguàn, yǒuxiào gǎishàn le júbù shuǐhuánjìng. | Guided by sponge city concepts, urban detention ponds serve dual roles in flood prevention and ecological recharge. Underground reservoirs collect storm runoff via swales, filtering it for civic irrigation and purifying groundwater. | Bajo el enfoque de ciudad esponja, las balsas de retención pluvial mitigan avenidas y regeneran caudales. Los aljibes subterráneos recolectan escorrentía, filtrándola para regar zonas verdes y enriquecer el ciclo hídrico urbano.

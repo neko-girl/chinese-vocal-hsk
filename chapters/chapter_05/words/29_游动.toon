@@ -1,0 +1,63 @@
+id: 29
+hanzi: 游动
+pinyin: yóu dòng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to swim about; to move about; to drift / wander freely
+  es: nadar de un lado a otro; desplazarse nadando; moverse libremente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to move or swim about freely in water or air; to roam about dynamically | desplazarse o nadar libremente por el agua o el aire; serpentear | 鱼儿在水草中游动 (fish swim about among waterweeds)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉清澈见底的泉池中，成群的红色锦鲤在嫩绿的水草间欢快地游动，惹人喜爱。 | Bàotūquán qīngchè jiàndǐ de quánchí zhōng, chéngqún de hóngsè jǐnlǐ zài nènlǜ de shuǐcǎo jiān huānkuài de yóudòng, rěrén xǐ'ài. | In the crystal-clear pool of Baotu Spring, schools of crimson koi swim cheerfully among tender waterweeds, enchanting onlookers. | En el límpido estanque del manantial Baotu, bancos de carpas rojas nadan alegremente entre tiernas algas, atrayendo todas las miradas.
+  #2 | 海洋科考潜航器配备了仿生推进系统，能够模仿深海鱼类的游动姿态，在复杂的珊瑚礁暗流中自如穿梭。 | Hǎiyáng kěkǎo qiǎnhángqì pèibèi le fǎngshēng tuījìn xìtǒng, nénggòu mófǎng shēnhǎi yúlèi de yóudòng zītài, zài fùzá de shānhújiāo ànliú zhōng zìrú chuānsuō. | The oceanographic submersible, equipped with biomimetic propulsion mimicking deep-sea fish locomotion, navigates coral undercurrents freely. | El sumergible oceanográfico incorpora propulsión biomimética que emula el nado de peces abisales, maniobrando con agilidad entre corrientes de coral.
+
+collocations[6]{hanzi,en}:
+  欢快游动 | swim cheerfully about
+  自由游动 | swim freely; move about without restriction
+  四处游动 | swim around in all directions
+  游动姿态 | swimming posture / locomotion style
+  游动物体 | swimming organism / floating entity
+  缓慢游动 | swim slowly; drift gently
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  如鱼得水 | rú yú dé shuǐ | like a fish in water; feeling completely in one's element
+  活灵活现 | huó líng huó xiàn | lifelike and vivid; realistically portrayed
+  随波逐流 | suí bō zhú liú | drift with the waves; go with the flow without independent principle
+  悠然自得 | yōu rán zì dé | carefree and leisurely; contented with oneself
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  游 | yóu | swim; roam; travel; float | nadar; vagar; viajar; flotar | 氵 | water | 氵 (water, swimming movement) | 斿 (floating banner / wander) | 12 | 左右结构 | Phono-semantic compound where water radical 氵 indicates fluid aquatic motion, and 斿 depicts a child under a waving flag roaming freely. | Water ripples (氵) as a diver following a floating stream flag (斿) swims freely through the clear pool (游). | Gotas de agua (氵) salpican mientras un nadador guiado por una bandera flotante (斿) nada libre por la poza (游). | 35 | EYSD | 遊
+  动 | dòng | move; dynamic; stir; action | mover; movimiento; dinamismo; actuar | 力 | power / strength | 力 (muscular power) | 云 (cloud / phonetic simplified from 重) | 6 | 左右结构 | Phono-semantic compound where 力 represents energetic muscular propulsion causing outward kinetic movement. | Muscular force (力) drives motion forward, sending clouds drifting and fish swimming dynamically (动). | La fuerza muscular (力) impulsa el avance continuo, logrando que los peces se muevan y naden (动) sin cesar. | 51 | MIMS | 動
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Floating through clear waters (游) with energetic muscular motion (动) allows creatures to swim about freely.
+  composite_memory_hook_es: Flotar en aguas claras (游) impulsado por energía muscular (动) permite a los peces nadar libres.
+  cultural_and_cognitive_roots: The Taoist imagery of fish swimming in deep springs (濠梁之辩 - Zhuangzi's joy of fish) exemplifies spontaneous natural joy (天乐) free from earthly constraints.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'yóu' (35) followed by sharp falling 4th tone 'dòng' (51). Clean glide upward followed by a crisp drop.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    泳 | yǒng | swim | Has 永 (forever) next to 氵, usually paired in 游泳
+    油 | yóu | oil; petroleum | Has 由 next to 氵 instead of 斿
+    劫 | jié | rob; plunder | Has 去 next to 力 instead of 云 in 动
+    功 | gōng | merit; work | Has 工 (work) next to 力 instead of 云
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    游 | yóu | roam; tour; swim
+    行 | xíng | walk; move; travel
+    移 | yí | shift; move; relocate
+    泛 | fàn | float; drift; flood
+
+semantic_boundary_contrasts:
+  core_nuance: 游动 specifically emphasizes the aquatic, floating, or serpentine dynamic movement of living fish, organisms, or small entities.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 游动 vs. 游泳 | yóuyǒng | 游泳 is a human sport, physical exercise, or learned survival skill, whereas 游动 describes the spontaneous, natural locomotive swimming of fish, animals, or microorganisms.
+    2 | 游动 vs. 游荡 | yóudàng | 游动 is a neutral kinetic description of movement in water/space, while 游荡 carries a negative connotation of loitering, vagrancy, or aimless wandering.
+    3 | 游动 vs. 游览 | yóulǎn | 游动 is physical swimming or fluid movement, whereas 游览 specifically means to tour, sightsee, and appreciate scenic attractions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 俯身靠近清澈的泉水，泉底的细沙与青青的水草纤毫毕现。一群群金红色的锦鲤在其间悠闲游动，时而聚拢争食，时而受惊散开，轻摆尾鳍便划出一道道优雅的水痕，给沉静的泉池注入了无限生机。 | Fǔshēn kàojìn qīngchè de quánshuǐ, quándǐ de xìshā yǔ qīngqīng de shuǐcǎo xiānháo bìxiàn. Yì qúnqún jīnhóngsè de jǐnlǐ zài qíjiān yōuxián yóudòng, shí'ér jùlǒng zhēngshí, shí'ér shòujīng sànkāi, qīng bǎi wěiqí biàn huàchū yídàodào yōuyǎ de shuǐhén, gěi chénjìng de quánchí zhùrù le wúxiàn shēngjī. | Leaning close to clear waters, fine sand and green weeds appear distinctly. Schools of golden koi swim leisurely about, gathering to feed then scattering, flicking fins to carve graceful wakes that breathe boundless life into the calm pool. | Asomándose al agua transparente, la arena y las algas se aprecian al detalle. Bancos de carpas doradas nadan con holgura agrupándose y dispersándose; el leve batir de sus aletas traza estelas elegantes que llenan de vida la poza.
+  #2 | 在水生生物行为学研究中，科研团队利用高速水下摄影系统记录濒危鱼类的游动姿态与流体动力学特征。通过建立三维运动学数学模型，学者们揭示了水流速度对鱼类游动能耗的影响机制，为鱼道生态设计提供了理论支撑。 | Zài shuǐshēng shēngwù xíngwèixué yánjiū zhōng, kēyán tuánduì lìyòng gāosù shuǐxià shèyǐng xìtǒng jìlù bīnwēi yúlèi de yóudòng zītài yǔ liútǐ dònglìxué tèzhēng. Tōngguò jiànlì sānwéi yùndòngxué shùxué móxíng, xuézhěmen jiēshì le shuǐliú sùdù duì yúlèi yóudòng nénghào de yǐngxiǎng jīzhì, wèi yúdào shēngtài shèjì tígōng le lǐlùn zhīchēng. | In aquatic ethology, researchers deploy high-speed underwater video to record endangered fish locomotion and fluid mechanics. Mathematical 3D models reveal flow velocity impacts on energy expenditure, aiding eco-friendly fishway engineering. | En etología acuática, los biólogos emplean cámaras subacuáticas rápidas para estudiar el nado de especies amenazadas. Modelos cinemáticos 3D descifran el consumo energético según la corriente, fundamentando el diseño de pasos fluviales ecológicos.

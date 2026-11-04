@@ -1,0 +1,63 @@
+id: 13
+hanzi: 作者
+pinyin: zuò zhě
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: author; writer; creator (of a work)
+  es: autor; escritor; creador (de una obra)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the creator, writer, or originator of a literary, scholarly, or artistic work | persona que crea, escribe o compone una obra literaria, artística o científica; autor | 本书作者 (author of this book)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 文章作者用细腻生动的笔触，描绘了济南清泉在四季变换中呈现的绝妙景致。 | Wénzhāng zuòzhě yòng xìnì shēngdòng de bǐchù, miáohuì le Jǐnán qīngquán zài sìjì biànhuàn zhōng chéngxiàn de juémiào jǐngzhì. | The author of the essay employed delicate, vivid brushwork to depict the exquisite scenes of Jinan's clear springs through the seasons. | El autor del ensayo empleó pinceladas vívidas y delicadas para retratar las maravillosas estampas de los manantiales de Jinan en cada estación.
+  #2 | 在新书发布会上，作者与现场读者围绕传统文化在数字时代的创新传承展开了深入交流。 | Zài xīnshū fābùhuì shàng, zuòzhě yǔ xiànchǎng dúzhě wéirào chuántǒng wénhuà zài shùzì shídài de chuàngxīn chuánchéng zhǎnkāi le shēnrù jiāoliú. | At the book launch, the author engaged in a deep dialogue with readers on the innovative transmission of heritage in the digital era. | En la presentación del libro, el autor dialogó profundamente con los lectores sobre la preservación innovadora de la cultura tradicional en la era digital.
+
+collocations[6]{hanzi,en}:
+  原作者 | original author
+  作者简介 | author's biographical profile
+  知名作者 | renowned author / writer
+  与作者交流 | communicate with the author
+  作者署名 | author's byline / signature
+  文章作者 | author of the article
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  自作自受 | zì zuò zì shòu | suffer the consequences of one's own actions
+  始作俑者 | shǐ zuò yǒng zhě | the creator of an evil precedent; the initiator of a bad trend
+  述而不作 | shù ér bù zuò | transmit tradition without inventing new theories
+  当仁不让 | dāng rén bù ràng | not shrink from doing what is right; take responsibility proactively
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  作 | zuò | do; make; write; create; work | hacer; crear; componer; trabajar | 亻 | person | 亻 (person, active creator) | 乍 (zhà, sudden / start) | 7 | 左右结构 | Phono-semantic compound where person radical 亻 signifies human labor and craftsmanship starting (乍) something into being. | A creative person (亻) suddenly (乍) begins to craft, producing an original masterpiece of literature (作). | Una persona (亻) inspirada comienza de repente (乍) a crear una obra literaria original (作). | 51 | OHS | ""
+  者 | zhě | person who; one who | persona que; el que | 耂 | old / elder | 耂 (elder, scholar passing wisdom) | 日 (sun / words) | 8 | 上下结构 | Ancient compound depicting an elder 耂 passing down discourse and teachings 日; functions as a nominal agent suffix. | A dedicated scholar with wisdom (耂) sits from sunrise to sunset (日) composing books as a master writer (者). | Un sabio estudioso (耂) pasa de sol a sol (日) escribiendo crónicas como respetado autor (者). | 214 | JKA | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A person (亻) who begins to write (作) and works under the sun (者) is an author who creates lasting works.
+  composite_memory_hook_es: Una persona (亻) que compone (作) de sol a sol (者) es el autor de obras perdurables.
+  cultural_and_cognitive_roots: The morpheme 'zuò' (creating, inventing ex nihilo) coupled with 'zhě' (agent suffix) forms the classical concept of literary authorship distinct from mere copyists (述者).
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'zuò' (51) followed by dipping 3rd tone 'zhě' (214). Maintain crisp, distinct contours.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    昨 | zuó | yesterday | Has sun radical 日 on the left instead of person radical 亻
+    诈 | zhà | cheat; swindle | Has speech radical 讠 instead of person radical 亻
+    老 | lǎo | old; aged | Has 匕 at base instead of 日 in 者
+    考 | kǎo | test; examine | Has 丂 at base instead of 日 in 者
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    写 | xiě | write; compose
+    创 | chuàng | create; innovate
+    编 | biān | edit; weave; compile
+    著 | zhù | write; author; manifest
+
+semantic_boundary_contrasts:
+  core_nuance: 作者 is a general noun denoting the creator, writer, or intellectual originator of books, articles, or artistic creations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 作者 vs. 作家 | zuòjiā | 作者 refers specifically to the creator of a particular text or book, whereas 作家 denotes a professional novelist, essayist, or literary writer by career.
+    2 | 作者 vs. 记者 | jìzhě | 作者 creates original literary or scholarly works, while 记者 is a journalist who reports and interviews for news media.
+    3 | 作者 vs. 读者 | dúzhě | 作者 is the creator of the written work, whereas 读者 is the audience/consumer who reads it (the complementary antonym).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 优秀的散文作者往往具有敏锐的观察力。老舍先生笔下的济南泉水，既有北方汉子的豪爽奔放，又有江南女子的温婉柔媚。透过作者饱含深情的文字，那喷涌的泉水仿佛直接跃入读者的心底。 | Yōuxiù de sǎnwén zuòzhě wǎngwǎng jùyǒu mǐnruì de guānchálì. Lǎo Shě xiānsheng bǐxià de Jǐnán quánshuǐ, jì yǒu běifāng hànzi de háoshuǎng bēnfàng, yòu yǒu jiāngnán nǚzǐ de wēnwǎn róumèi. Tòuguò zuòzhě bǎohán shēnqíng de wénzì, nà pēnyǒng de quánshuǐ fǎngfú zhíjiē yuè rù dúzhě de xīndǐ. | Outstanding essayists possess keen perception. In Lao She's prose, Jinan's springs embody both northern vigor and southern gentleness. Through the author's affectionate words, bubbling waters leap into the reader's heart. | Los ensayistas notables poseen una mirada perspicaz. Bajo la pluma de Lao She, los manantiales de Jinan aúnan el brío norteño y la dulzura sureña. Con su afectuosa prosa, el borbotar del agua conmueve directamente al lector.
+  #2 | 在知识产权保护日益受到重视的今天，维护学术论文与文艺作品作者的合法权益，是繁荣文化创新的制度保障。只有建立健全版权保护体系，尊重原创作者的智力劳动，才能持续激发全社会的创造活力。 | Zài zhīshi chǎnquán bǎohù rìyì shòudào zhòngshì de jīntiān, wéihù xuéshù lùnwén yǔ wényì zuòpǐn zuòzhě de héfǎ quányì, shì fánróng wénhuà chuàngxīn de zhìdù bǎozhàng. Zhǐyǒu jiànlì jiànquán bǎnquán bǎohù tǐxì, zūnzhòng yuánchuàng zuòzhě de zhìlì láodòng, cáinéng chíxù jīfā quán shèhuì de chuàngzào huólì. | Today, protecting the rights of authors of academic papers and artistic creations is essential to cultural flourishing. Only sound copyright regimes and respect for intellectual labor can sustain societal creative vitality. | Proteger los legítimos derechos de los autores de obras artísticas y académicas resulta crucial para el florecimiento cultural. Solo una sólida tutela del derecho de autor estimulará permanentemente el ingenio creador colectivo.

@@ -1,0 +1,63 @@
+id: 24
+hanzi: 纷纷
+pinyin: fēn fēn
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: one after another; in succession; profusely; one following another
+  es: uno tras otro; en tropel; profusamente; sucesivamente; en gran número
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | in rapid and continuous succession one after another; one following another in droves | uno tras otro; en tropel; sucesivamente; en desfile continuo | 人们纷纷走出家门 (people walked out of their homes one after another)
+  2 | Adverb | Standard | falling profusely and densely through the air (of snow, blossoms, or leaves) | cayendo profusa y copiosamente (nieve, flores, hojas) | 大雪纷纷扬扬 (snowflakes falling thick and fast)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 初一清晨得知年兽已被彻底赶跑，村民们纷纷走出家门，互相拱手作揖拜年道贺。 | Chūyī qīngchén dézhī Nián shòu yǐ bèi chèdǐ gǎnpǎo, cūnmínmen fēnfēn zǒuchū jiāmén, hùxiāng gǒngshǒu zuòyī bàinián dàohè. | Learning that Nian was driven away on New Year's morning, villagers came out one after another, greeting each other with bows. | Al saber el día de Año Nuevo que la bestia Nian había huido, los vecinos salieron en tropel saludándose y felicitándose el nuevo año.
+  #2 | 在新能源产业投资热潮中，传统车企纷纷加快向纯电动与混合动力智能汽车战略转型。 | Zài xīnnéngyuán chǎnyè tóuzī rècháo zhōng, chuántǒng chēqǐ fēnfēn jiākuài xiàng chúndiàndòng yǔ hùnhé dònglì zhìnéng qìchē zhànlüè zhuǎnxíng. | Amid the new-energy boom, traditional automakers one after another accelerated transition toward electric and hybrid smart vehicles. | En plena ola de inversiones limpias, los fabricantes tradicionales aceleraron uno tras otro su giro hacia el automóvil eléctrico inteligente.
+
+collocations[6]{hanzi,en}:
+  纷纷表示 | express one after another
+  议论纷纷 | widespread talk; buzzing with comments
+  纷纷走出 | walk out in succession / in droves
+  雪花纷纷 | snowflakes falling profusely
+  纷纷响应 | respond enthusiastically in succession
+  纷纷落叶 | leaves falling profusely
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  议论纷纷 | yì lùn fēn fēn | widespread discussion; buzzing with comments from all sides
+  纷纷扬扬 | fēn fēn yáng yáng | flutter down profusely; swirling thick and fast (snow, petals)
+  大雪纷纷 | dà xuě fēn fēn | heavy snow falling thick and fast
+  落英缤纷 | luò yīng bīn fēn | fallen petals scattered in profusion; floral wonderland
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  纷 | fēn | confused; numerous; mixed; flutter | confuso; numeroso; disperso; desordenado | 纟 | silk | 纟 (silk threads, tangled strands) | 分 (fēn, divide / split) | 7 | 左右结构 | Phono-semantic compound where silk radical 纟 indicates countless fine tangled fibers falling or dispersing 分 in all directions. | Countless fine silk strands (纟) split and scatter (分) across the wind, drifting down profusely one after another (纷). | Incontables hebras de seda (纟) se dividen y dispersan (分) flotando copiosamente unas tras otras al viento (纷). | 55 | VMCSH | 紛
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Countless silk threads dividing and scattering (纷) drift down like snow or people arriving one after another (纷纷).
+  composite_memory_hook_es: Hebras de seda que se dispersan (纷) caen como copos o personas que acuden en tropel unas tras otras (纷纷).
+  cultural_and_cognitive_roots: The total reduplication (AABB/AA) creates an iconic kinetic image of continuous plural movement, whether human crowds streaming forth or natural precipitation falling densely.
+  tone_sandhi_and_pitch_modulation: Dual 1st tones 'fēn fēn' (55-55). Maintain smooth, high-level pitch across both syllables without dropping.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    份 | fèn | portion; share | Has person radical 亻 next to 分 instead of silk 纟
+    盼 | pàn | yearn; hope | Has eye radical 目 next to 分
+    粉 | fěn | powder; pink | Has rice radical 米 next to 分
+    扮 | bàn | dress up; play role | Has hand radical 扌 next to 分
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    丛 | cóng | clump; crowd; cluster
+    众 | zhòng | crowd; multitude; many
+    簇 | cù | cluster; bunch together
+    迭 | dié | repeatedly; alternated; in turn
+
+semantic_boundary_contrasts:
+  core_nuance: 纷纷 is an adverb indicating that a multitude of individuals perform the same action one after another, or that particles flutter down densely.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 纷纷 vs. 接连 | jiēlián | 纷纷 highlights multiple distinct actors acting in succession or droves (大家纷纷发言), whereas 接连 emphasizes unbroken temporal succession of repeated events by the same or different subjects (接连发生三起事故).
+    2 | 纷纷 vs. 一齐 | yìqí | 纷纷 denotes asynchronous sequential action (one after another), while 一齐 denotes simultaneous action occurring at the exact same instant in unison.
+    3 | 纷纷 vs. 陆续 | lùxù | 纷纷 conveys emotional intensity, enthusiasm, or density (crowds, snowfall), while 陆续 neutrally denotes staggered arrivals or departures over an extended time interval.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 大年初一的清晨，雪花依然纷纷扬扬地飘落着。得知年兽已被智勇的老人驱赶出境，四邻八乡的村民们纷纷换上崭新的喜庆红衣，走出院门互相拱手道贺。互道平安的欢笑声回荡在积雪的街巷间，年味愈发醇厚。 | Dànián chūyī de qīngchén, xuěhuā yīrán fēnfēnyángyáng de piāoluò zhe. Dézhī Nián shòu yǐ bèi zhìyǒng de lǎorén qūgǎn chūjìng, sìlínbāxiāng de cūnmínmen fēnfēn huànshàng zhǎnxīn de xǐqìng hóngyī, zǒuchū yuànmén hùxiāng gǒngshǒu dàohè. Hù dào píng'ān de huánxiàoshēng huídàng zài jīxuě de jiēxiàng jiān, niánwèi yùfā chúnhòu. | On New Year's morning, snowflakes fluttered down profusely. Learning Nian was expelled, villagers put on new red robes and came out in droves, bowing and wishing peace. Laughter resonated in snowy lanes, deepening festive joy. | Al alba de Año Nuevo, copos de nieve caían copiosamente. Al saber que la bestia Nian había sido expulsada, los aldeanos vistieron de rojo y salieron en tropel felicitándose. Las risas resonaron en las calles nevadas con viva emoción.
+  #2 | 在全球低碳发展浪潮推动下，跨国工业制造巨头纷纷发布碳中和行动时间表。企业通过加大可再生能源采购比例、实施生产线电气化改造，加快构建绿色供应链生态，在激烈的绿色低碳国际竞争中抢占战略制高点。 | Zài quánqiú dītàn fāzhǎn làngcháo tuīdòng xià, kuàguó gōngyè zhìzào jùtóu fēnfēn fābù tànzhōnghé xíngdòng shíjiānbiǎo. Qǐyè tōngguò jiàdà kězàishēng néngyuán cǎigòu bǐlì, shíshī shēngchǎnxiàn diànqìhuà gǎizào, jiākuài gòujiàn lǜsè gōngyìngliàn shēngtài, zài jīliè de lǜsè dītàn guójì jìngzhēng zhōng qiǎngzhàn zhànlüè zhìgāodiǎn. | Driven by global low-carbon waves, multinational industrial giants one after another unveiled carbon-neutral timelines. By sourcing renewables and electrifying lines, they forge green supply chains to gain competitive edges. | Impulsadas por la transición ecológica global, multinacionales industriales publicaron sucesivamente sus metas de neutralidad de carbono. Con renovables y electrificación, tejen cadenas verdes liderando la competencia mundial.

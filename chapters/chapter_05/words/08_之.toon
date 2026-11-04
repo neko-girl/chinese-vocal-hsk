@@ -1,0 +1,64 @@
+id: 8
+hanzi: 之
+pinyin: zhī
+level: HSK 5
+part_of_speech: Conjunction
+
+meanings_summary:
+  en: possessive / associative particle ('of', literary equivalent of 的); pronoun (it/him/her); go to
+  es: partícula asociativa / posesiva ('de', equivalente clásico de 的); pronombre (lo/le/ello); ir a
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Conjunction | Literary | associative / possessive particle linking modifier and noun; equivalent to modern '的' | partícula asociativa y posesiva que une modificador y sustantivo; equivalente formal a '的' | 泉城之美 (the beauty of the Spring City)
+  2 | Pronoun | Literary | third-person object pronoun referring to a previously mentioned person, thing, or matter; him/her/it | pronombre de tercera persona de objeto directo; lo, la, le, ello | 取之不尽 (inexhaustible; take from it endlessly)
+  3 | Verb | Literary | to go to; to leave for a destination | dirigirse a; partir hacia | 杳之若何 (where has it gone)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉位列济南七十二名泉之首，其泉水甘冽清澈，自古便备受文人学者的由衷赞美。 | Bàotūquán wèiliè Jǐnán qīshí'èr míngquán zhī shǒu, qí quánshuǐ gānliè qīngchè, zìgǔ biàn bèishòu wénrén xuézhě de yóuzhōng zànměi. | Baotu Spring ranks first among Jinan's seventy-two renowned springs; its sweet and clear water has won heartfelt praise from literati since ancient times. | El manantial Baotu figura a la cabeza de los setenta y dos manantiales de Jinan; sus aguas dulces y cristalinas han recibido elogios desde tiempos remotos.
+  #2 | 科技创新乃当今国际竞争制胜之关键，唯有加大基础科研投入，方能在核心技术领域占据优势地位。 | Kējì chuàngxīn nǎi dāngjīn guójì jìngzhēng zhìshèng zhī guānjiàn, wéiyǒu jiàdà jīchǔ kěyán tóurù, fāng néng zài héxīn jìshù lǐngyù zhànjù yōushì dìwèi. | Technological innovation is the critical key to victory in contemporary global competition; only boosting basic research can secure tech leadership. | La innovación tecnológica constituye la clave decisiva de la competencia global; solo invirtiendo en ciencia básica se logrará el liderazgo técnico.
+
+collocations[6]{hanzi,en}:
+  ...之首 | the head / top of ...
+  ...之一 | one of ...
+  总而言之 | in summary; all in all
+  重中之重 | top priority; paramount among essentials
+  取之不尽 | inexhaustible; take endlessly from it
+  求之不得 | exactly what one wishes for; coveted
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  取之不尽 | qǔ zhī bù jìn | inexhaustible; supply that never runs dry
+  持之以恒 | chí zhī yǐ héng | persevere persistently; keep at it with endurance
+  言之有理 | yán zhī yǒu lǐ | speak with good reason; sound logical and convincing
+  好自为之 | hǎo zì wéi zhī | look after oneself; behave prudently and conduct oneself well
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  之 | zhī | possessive particle; pronoun; go | partícula posesiva; pronombre; marchar | 丶 | dot / stroke | 止 (foot taking a step) | 一 (ground line) | 3 | 独体结构 | Ancient pictograph of a human foot (止) departing from a baseline ground line (一), signifying movement towards or possession. | A foot takes a definitive step forward on the soil, marking the passage of (之) time and movement. | Un pie da un paso decidido sobre la tierra, marcando el avance y la posesión de (之) algo valioso. | 55 | IO | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A foot stepping forward creates a connecting bridge of (之) possession between two worlds.
+  composite_memory_hook_es: Un pie que avanza traza el puente conector de (之) pertenencia entre dos mundos.
+  cultural_and_cognitive_roots: One of the most quintessential grammatical particles in Classical Chinese (文言文), 'zhī' binds nominal relationships, acts as an anaphoric object pronoun, and preserves the highest literary cadence.
+  tone_sandhi_and_pitch_modulation: High level 1st tone (55). Pronounce with sustained, even pitch without dropping at the end of classical phrases.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    乏 | fá | tired; lack | Has a left-falling stroke 撇 through the body instead of a top dot
+    芝 | zhī | sesame; glossy ganoderma | Adds grass radical 艹 above 之
+    正 | zhèng | correct; straight | Ancestor root sharing 止, but with enclosed square base
+    歹 | dǎi | bad; evil | Has open horizontal and angled hook, distinct from graceful curved stroke of 之
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    的 | de | possessive / modifying particle
+    往 | wǎng | go toward; head for
+    步 | bù | step; pace
+    止 | zhǐ | stop; foot root
+
+semantic_boundary_contrasts:
+  core_nuance: 之 is a literary grammatical particle marking attributive relationship (like 的) or standing as an anaphoric 3rd-person pronoun.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 之 vs. 的 | de | 之 belongs to formal, written, or classical register and fixed idioms (之一, 之首), whereas 的 is the universal modern spoken possessive particle.
+    2 | 之 vs. 其 | qí | 之 serves as the direct object pronoun (取之不尽 - take it), whereas 其 functions primarily as a genitive/possessive pronoun (其父 - his father) or modal adverb.
+    3 | 之 vs. 于 | yú | 之 marks structural modification or pronominal objects, whereas 于 is a preposition introducing spatial location, temporal origin, or comparative target.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南之胜，独在泉水。城中百泉汇流，绕郭穿巷，倒映着岸边的古柳与落日晚霞。漫步于大明湖畔，细品泉水之甘美与天地之静谧，顿生超然物外之感，让人久久难以忘怀。 | Jǐnán zhī shèng, dú zài quánshuǐ. Chéngzhōng bǎi quán huìliú, rào guō chuān xiàng, dàoyìng zhe ànbiān de gǔliǔ yǔ luòrì wǎnxiá. Mànbù yú Dàmíng Hú pàn, xì pǐn quánshuǐ zhī gānměi yǔ tiāndì zhī jìngmì, dùn shēng chāorán wùwài zhī gǎn, ràng rén jiǔjiǔ nányǐ wànghuái. | The superlative charm of Jinan resides uniquely in its springs. Flowing past ancient alleys, springs reflect old willows and crimson sunsets. Strolling by Daming Lake to savor sweet water and tranquility evokes serenity that lingers long in the memory. | El encanto supremo de Jinan reside en sus manantiales. Fluyendo por callejas históricas, reflejan sauces añosos y atardeceres dorados. Pasear junto al lago Daming saboreando su dulzura y sosiego despierta una sublime paz interior imposible de olvidar.
+  #2 | 水资源乃维系生态平衡与区域可持续发展之生命线。在气候变化背景下，加强跨流域水资源科学调配与综合治理，实为关乎子孙后代福祉之百年大计，容不得半点疏忽与懈怠。 | Shuǐ zīyuán nǎi wéixì shēngtài pínghéng yǔ qūyù kěchíxù fāzhǎn zhī shēngmìngxiàn. Zài qìhòu biànhuà bèijǐng xià, jiāqiáng kuà liùyù shuǐ zīyuán kēxué diàopèi yǔ zōnghé zhìlǐ, shí wéi guānhū zǐsūn hòudài fúzhǐ zhī bǎinián dàjì, róngbùdé bàndiǎn shūhu yǔ xièdài. | Water resources constitute the vital lifeline sustaining ecological balance and sustainable regional growth. Amid climate change, scientifically coordinating cross-basin water management represents a monumental undertaking safeguarding future generations. | Los recursos hídricos representan la línea vital del equilibrio ecológico y el progreso sostenible. Ante el cambio climático, la gestión rigurosa de cuencas conforma un plan centenario trascendental que no admite la menor dejadez.

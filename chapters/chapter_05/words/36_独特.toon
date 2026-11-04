@@ -1,0 +1,63 @@
+id: 36
+hanzi: 独特
+pinyin: dú tè
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: unique; distinctive; peculiar; singular; one of a kind
+  es: único; singular; distintivo; peculiar; incomparable
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | possessing exceptional, unmatched qualities or distinct characteristics not found elsewhere; unique | que posee cualidades singulares o rasgos distintivos inimitables; único | 独特的自然景观 (a unique natural landscape)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南以其独特的泉水文化与“四面荷花三面柳”的秀美风光，在中国北方城市中独树一帜。 | Jǐnán yǐ qí dútè de quánshuǐ wénhuà yǔ "sìmiàn héhuā sānmiàn liǔ" de xiùměi fēngguāng, zài Zhōngguó běifāng chéngshì zhōng dúshùyízhì. | Jinan, with its unique spring culture and scenic grace of lotuses and willows, stands peerless among northern Chinese cities. | Jinan, con su singular cultura de manantiales y hermosos paisajes de lotos y sauces, destaca con estilo propio en el norte de China.
+  #2 | 该设计团队充分挖掘地域民俗元素，打造出具有独特文化辨识度与现代审美格调的文创产品。 | Gāi shèjì tuánduì chōngfèn wājué dìyù mínsú yuánsù, dǎzào chū jùyǒu dútè wénhuà biànshídù yǔ xiàndài shěnměi gédiào de wénchuàng chǎnpǐn. | The design team tapped local folklore elements, creating cultural products with unique cultural recognition and modern aesthetic style. | El equipo creativo ahondó en el folclore local para forjar artículos de diseño con una identidad cultural única y moderna elegancia.
+
+collocations[6]{hanzi,en}:
+  独特的魅力 | unique charm / appeal
+  独特的风格 | distinctive style
+  独特性 | uniqueness; distinctiveness
+  独特的视角 | unique perspective / angle
+  具有独特的优势 | possess unique advantages
+  独特的体验 | singular / unique experience
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  独树一帜 | dú shù yì zhì | fly one's own colors; develop a unique style of one's own
+  独具匠心 | dú jù jiàng xīn | show singular ingenuity; display original craftsmanship
+  独一无二 | dú yī wú èr | one and only; unique and unparalleled
+  卓尔不群 | zhuó ěr bù qún | outstanding and peerless; rising far above the crowd
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  独 | dú | single; solitary; only; alone | solo; único; solitario; exclusivo | 犭 | dog / beast | 犭 (beast / wolf, solitary creature) | 虫 (chóng, insect / worm) | 9 | 左右结构 | Phono-semantic compound where dog radical 犭 indicates a solitary mountain beast roaming independently without a pack. | A lone wild wolf (犭) standing proud on a mountain ridge hunts alone with unique (独) independence. | Un lobo solitario (犭) sobre la cresta del monte vigila orgulloso con independencia única (独) sin manada. | 35 | KHLI | 獨
+  特 | tè | special; unique; bull; extraordinary | especial; único; toro; extraordinario | 牛 | cow / bull | 牛 (sacrificial bull, exceptional beast) | 寺 (sì, temple / court) | 10 | 左右结构 | Phono-semantic compound where cow radical 牛 denotes an exceptional prize bull selected for solemn temple 寺 rites. | An extraordinary, mighty bull (牛) presented at the sacred imperial temple (寺) stands out as special and unique (特). | Un toro excepcional (牛) ofrendado ante el sagrado templo (寺) destaca por su singularidad única (特). | 51 | HQGI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A solitary beast roaming alone (独) and an exceptional sacred bull (特) together define something truly unique.
+  composite_memory_hook_es: Una fiera que vaga sola (独) y un toro sagrado sobresaliente (特) definen lo verdaderamente único.
+  cultural_and_cognitive_roots: In ancient ritual taxonomy, 'tè' designated an unblemished sacrificial ox, while 'dú' meant solitary self-sovereignty; united, they praise irreplaceable, non-reproducible singularity.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'dú' (35) followed by sharp falling 4th tone 'tè' (51). Glide smoothly up before cutting down sharply.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    浊 | zhuó | muddy; turbid | Has water radical 氵 on the left instead of animal 犭
+    触 | chù | touch; contact | Has horn radical 角 on the left next to 虫
+    持 | chí | hold; grasp | Has hand radical 扌 next to 寺 instead of ox 牛
+    待 | dài | wait; treat | Has double-person radical 彳 next to 寺
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    殊 | shū | special; different; unique
+    异 | yì | different; unusual; extraordinary
+    绝 | jué | cut off; superb; peerless
+    奇 | qí | strange; marvelous; rare
+
+semantic_boundary_contrasts:
+  core_nuance: 独特 emphasizes that an entity possesses singular characteristics, qualities, or charm that cannot be replicated.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 独特 vs. 特别 | tèbié | 独特 highlights absolute qualitative singularity and uniqueness (独特性), whereas 特别 can simply mean unusual, out of the ordinary, or function as an adverb meaning 'especially'.
+    2 | 独特 vs. 特殊 | tèshū | 独特 focuses on positive creative originality or distinct beauty, while 特殊 denotes non-standard, exceptional operational rules, policies, or emergencies.
+    3 | 独特 vs. 奇怪 | qíguài | 独特 carries an admiring, positive evaluation of distinct individuality, whereas 奇怪 conveys bewilderment, bizarre abnormality, or suspicion.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南之所以千百年来令人神往，就在于其独特的泉水风貌。漫步古城，清澈的泉流在户户青石板下低回作响，翠柳倒映在泉池之中，宛若江南水乡却又兼具齐鲁大地的质朴。这种独特的交融，赋予了城市永恒的生命力。 | Jǐnán zhī suǒyǐ qiānbǎi nián lái lìngrén shénwǎng, jiù zài yú qí dútè de quánshuǐ fēngmào. Mànbù gǔchéng, qīngchè de quánliú zài hùhù qīngshíbǎn xià dīhuí zuòxiǎng, cuìliǔ dàoyìng zài quánchí zhīzhōng, wǎnrù Jiāngnán shuǐxiāng què yòu jiānjù Qílǔ dàdì de zhìpǔ. Zhè zhǒng dútè de jiāoróng, fùyǔ le chéngshì yǒnghéng de shēngmìnglì. | Why Jinan has enchanted visitors for centuries lies in its unique spring atmosphere. Clear streams murmur beneath flags; willows mirror in pools, combining water-town grace with northern earthiness in a unique vitality. | Lo que ha cautivado de Jinan durante siglos es su singular paisaje acuático. Los arroyos susurran bajo losas; sauces se reflejan aunando la gracia sureña y la solidez norteña en una vitalidad única e imperecedera.
+  #2 | 在全球同质化竞争日益严峻的背景下，培育独特的品牌核心价值与自主设计语言，是本土制造业实现高端突围的必然选择。领军企业立足中华优秀传统美学，以独特的产品形态与极致工艺树立了全新的行业标杆。 | Zài quánqiú tóngzhìhuà jìngzhēng rìyì yánjùn de bèijǐng xià, péiyù dútè de pǐnpái héxīn jiàzhí yǔ zìzhǔ shèjì yǔyán, shì běntǔ zhìzàoyè shíxiàn gāoduān tūwéi de bìrán xuǎnzé. Lǐngjūn qǐyè lìzú Zhōnghuá yōuxiù chuántǒng měixué, yǐ dútè de chǎnpǐn xíngtài yǔ jízhì gōngyì shùlì le quánxīn de hángyè biāogān. | Amid homogenization in global markets, fostering unique brand value and design language is vital for domestic manufacturing. Rooted in traditional aesthetics, leaders set benchmarks with unique product forms and mastery. | Frente a la uniformidad del mercado global, forjar un valor de marca único y un lenguaje propio es clave para la manufactura. Bebiendo de la estética milenaria, firmas líderes fijan pautas con diseños singulares y pericia técnica.

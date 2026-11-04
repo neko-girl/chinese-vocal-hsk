@@ -1,0 +1,65 @@
+id: 1
+hanzi: 农历
+pinyin: nóng lì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: traditional Chinese lunisolar calendar; lunar calendar; agricultural calendar
+  es: calendario tradicional chino; calendario agrícola; calendario lunisolar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the traditional Chinese lunisolar calendar based on astronomical cycles, dividing the year into 24 solar terms to guide farming and traditional festivities | calendario tradicional chino lunisolar basado en ciclos astronómicos y 24 periodos solares para guiar la agricultura y las fiestas | 农历新年 (Lunar New Year)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每逢农历除夕，全家人无论走得多远，都会赶回家吃一顿热气腾腾的年夜饭。 | Měi féng Nónglì Chúxī, quánjiā rén wúlùn zǒu de duō yuǎn, dōu huì gǎnhuí jiā chī yí dùn rèqì téngténg de niányèfàn. | Every Lunar New Year's Eve, no matter how far family members have traveled, they rush home to share a steaming reunion dinner. | Cada víspera del Año Nuevo lunar, por lejos que hayan viajado, los miembros de la familia se apresuran a regresar al hogar para compartir una humeante cena de fin de año.
+  #2 | 农历不仅是一套历法体系，更深刻融入了中国古代农耕文明的物候节律与礼俗制度。 | Nónglì bùjǐn shì yí tào lìfǎ tǐxì, gèng shēnkè róngrù le Zhōngguó gǔdài nónggēng wénmíng de wùhòu jiélǜ yǔ lǐsú zhìdù. | The lunisolar calendar is not merely a chronological system, but is profoundly integrated into the phenological rhythms and ritual institutions of ancient Chinese agrarian civilization. | El calendario tradicional no es solo un sistema cronológico, sino que está profundamente arraigado en los ritmos fenológicos y las instituciones rituales de la civilización agraria china.
+
+collocations[6]{hanzi,en}:
+  农历新年 | Lunar New Year; Spring Festival
+  农历除夕 | Lunar New Year's Eve
+  农历八月十五 | the fifteenth of the eighth lunar month (Mid-Autumn Festival)
+  农历初一 | the first day of the lunar month
+  农历节气 | solar terms of the traditional agricultural calendar
+  查农历 | consult the lunar calendar
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  不误农时 | bù wù nóng shí | do not miss the farming season
+  历历在目 | lì lì zài mù | remain fresh in one's memory; leap clearly before the eyes
+  辛勤耕耘 | xīn qín gēng yún | cultivate diligently; work with industrious effort
+  风调雨顺 | fēng tiáo yǔ shùn | favorable weather for agriculture; propitious climate
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  农 | nóng | agriculture; farming; peasant | agricultura; campesino; cultivar | 冖 | cover / crown | 辰 (celestial sign / agrarian timing) | 辰 (chén) | 6 | 单一结构 | Simplified from traditional 農 (辰 celestial time + 曲 field harvest). Depicts agricultural labor attuned to heavenly seasonal cycles. | A peasant sheltered beneath a wide woven hat (冖) tending fertile shoots in the field with patient devotion. | Un campesino protegido por un sombrero ancho (冖) labrando con devoción los brotes fértiles de la tierra. | 35 | BNV | 農
+  历 | lì | calendar; pass through; undergo | calendario; transcurrir; experimentar | 厂 | cliff / shelter | 厂 (cliff shelter / passage of time) | 力 (lì, power / phonetic) | 4 | 半包围结构 | Simplified from traditional 曆 (calendar) and 歷 (experience). Phono-semantic compound where 力 provides sound beneath sheltering cliff 厂. | Recording cycles of seasons beneath a rocky cliff (厂) with steady, enduring human effort (力). | Grabar los ciclos estacionales bajo un acantilado (厂) con la fuerza y empeño (力) de las manos humanas. | 51 | MKS | 曆
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Peasant farming (农) follows the passage of cosmic time beneath heaven (历) recorded in the lunar calendar (农历).
+  composite_memory_hook_es: El cultivo campesino (农) sigue el transcurso de los ciclos del cielo (历) registrado en el calendario lunar (农历).
+  cultural_and_cognitive_roots: Combining agrarian rhythm (农) with historical and astronomical passage (历), 农历 is deeply anchored to the twenty-four solar terms (二十四节气) which guided ancestral Chinese agricultural sowing, harvesting, and festive reunions for millennia.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'nóng' (35) followed by sharp falling 4th tone 'lì' (51). Move cleanly from the rising melodic glide into the decisive downward drop.
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    厉 | lì | severe; stern | Has 厂 with 万 inside instead of 力
+    励 | lì | encourage; urge | Has 厉 on the left and 力 on the right
+    压 | yā | press; suppress | Has 厂 with 土 and a dot inside instead of 力
+    充 | chōng | fill; charge | Has 亠 and 厶 and 儿 instead of 农's curved strokes
+    迈 | mài | step; stride | Has walking radical 辶 around 万
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    浓 | nóng | thick; concentrated; dense
+    脓 | nóng | pus
+    哝 | nóng | mutter; murmur softly
+    曆 | lì | calendar; almanac
+    歷 | lì | experience; pass through
+
+semantic_boundary_contrasts:
+  core_nuance: 农历 specifically designates China's traditional lunisolar calendar that synchronizes lunar phases with agricultural solar terms.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 农历 vs. 公历 | gōnglì | 农历 is the traditional Chinese lunisolar calendar used for agrarian cycles and ancestral festivals, whereas 公历 is the internationally standard Gregorian solar calendar used for civil administration and modern commerce.
+    2 | 农历 vs. 阴历 | yīnlì | 农历 is strictly a lunisolar calendar incorporating 24 solar terms to reflect solar cycles, while 阴历 colloquially refers to lunar reckoning, though in strict astronomy 阴历 relies solely on lunar moon phases without solar adjustments.
+    3 | 农历 vs. 日历 | rìlì | 农历 refers to the cultural calendar system itself, whereas 日历 denotes the physical calendar booklet, wall chart, or digital schedule application displaying day-to-day dates.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每当翻开传统的农历，四季更迭的节律总会唤醒深层的乡愁。春耕夏耘，秋收冬藏，我们在月圆月缺间体悟生命的丰盈。农历不仅记录着岁月，更寄托着千家万户对团聚的永恒期盼。 | Měi dāng fānkāi chuántǒng de nónglì, sìjì gēngdié de jiélǜ zǒng huì huànxǐng shēncéng de xiāngchóu. Chūngēng xiàyún, qiūshōu dōngcáng, wǒmen zài yuèyuán yuèquē jiān tǐwù shēngmìng de fēngyíng. Nónglì bùjǐn jìlù zhe suìyuè, gèng jìtuō zhe qiānjiā-wànhù duì tuánjù de yǒnghéng qīpàn. | Whenever opening the traditional lunar calendar, the rhythms of shifting seasons awaken deep nostalgic longings. Sowing in spring and storing in winter, we perceive the richness of life between waxing and waning moons. The agricultural calendar not only marks passing years, but cradles eternal hopes of reunion. | Cada vez que se abre el calendario lunar tradicional, el compás de las cuatro estaciones despierta una honda nostalgia. Entre siembras primaverales y cosechas otoñales, contemplamos la plenitud de la vida. Este calendario no solo registra el tiempo, sino el anhelo perenne de reencuentro familiar.
+  #2 | 农历是中国古代天文学与农业实践高度融合的智慧结晶，精准协调了太阳与月亮的运行周期。二十四节气被列入人类非物质文化遗产名录，标志着以农历为载体的东方自然生态观获得了国际社会的广泛认同。 | Nónglì shì Zhōngguó gǔdài tiānwénxué yǔ nóngyè shíjiàn gāodù rónghé de zhìhuì jiéjīng, jīngzhǔn xiétiáo le tàiyáng yǔ yuèliang de yùnxíng zhōuqī. Èrshísì jiéqì bèi lièrù rénlèi fēiwùzhì wénhuà yíchǎn mínglù, biāozhì zhe yǐ nónglì wéi zàitǐ de dōngfāng zìrán shēngtàiguān huòdé le guójì shèhuì de guǎnfàn rèntóng. | The lunar calendar is the crystalline culmination of ancient Chinese astronomy and farming, harmonizing the cycles of the sun and moon. The inclusion of the 24 Solar Terms on UNESCO's Intangible Cultural Heritage list marks global recognition of the ecological worldview embodied by this calendar. | El calendario tradicional es la cristalización del saber astronómico y agrícola chino, armonizando los ciclos solares y lunares. La inscripción de los 24 Periodos Solares en la lista del Patrimonio Inmaterial de la UNESCO ratifica el reconocimiento mundial de su cosmovisión ecológica.

@@ -1,0 +1,66 @@
+id: 13
+hanzi: 咬
+pinyin: yǎo
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to bite; to snap at; to grip firmly; to gnaw
+  es: morder; clavar los dientes; aferrarse con fuerza; picar
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to use the teeth to cut into, clamp down, or tear food or objects | morder; clavar los dientes o presionar con la mandíbula sobre algo | 咬了一口苹果 (took a bite of an apple)
+  2 | Verb | Colloquial | of insects, snakes, or dogs: to sting, bite, or snap at | picar o morder (insectos, serpientes, perros) | 被蚊子咬了一个包 (bitten by a mosquito leaving a bump)
+  3 | Verb | Standard | to grip firmly; to hold fast to a point or position stubbornly | aferrarse con tenacidad; agarrar con fuerza | 咬紧牙关 (clench one's teeth firmly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕夜刚出锅的肉馅饺子热气腾腾，小孙子迫不及待地咬了一大口，鲜美的汤汁顿时溢满了口腔。 | Chúxī yè gāng chūguō de ròuxiàn jiǎozi rèqì téngténg, xiǎo sūnzi pòbùjídài de yǎo le yí dà kǒu, xiānměi de tāngzhī dànshí yìmǎn le kǒuqiāng. | The freshly cooked meat dumplings on New Year's Eve were piping hot; the little grandson eagerly took a big bite, and delicious juice immediately filled his mouth. | En la nochevieja, los ravioles de carne recién salidos de la olla humeaban; el pequeño nieto no pudo esperar para dar un gran mordisco, y el delicioso caldo inundó su boca al instante.
+  #2 | 面对核心技术研发的瓶颈期，科研团队咬紧牙关攻坚克难，历时三年终于突破了国外长期的专利垄断。 | Miànduì héxīn jìshù yánfā de píngjǐngqī, kēyán tuánduì yǎojǐn yáguān gōngjiān-kènán, lìshí sān nián zhōngyú tūpò le guówài chángqī de zhuānlì lǒngduàn. | Facing a bottleneck in core technology R&D, the scientific team clenched their teeth and overcame difficulties, finally breaking through long-standing foreign patent monopolies after three years. | Ante el cuello de botella en la investigación de tecnología clave, el equipo científico apretó los dientes para superar las adversidades y, tras tres años de esfuerzo, rompió el prolongado monopolio de patentes extranjeras.
+
+collocations[6]{hanzi,en}:
+  咬一口 | take a bite
+  咬紧牙关 | clench one's teeth; endure with grit
+  咬字清楚 | articulate words clearly; pronounce distinctly
+  反咬一口 | make a false counter-charge; bite back
+  咬定不放 | stick stubbornly to; refuse to let go
+  被狗咬伤 | bitten and injured by a dog
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  咬文嚼字 | yǎo wén jiáo zì | bite words and chew characters; be pedantic about diction
+  咬紧牙关 | yǎo jǐn yá guān | bite the bullet; clench teeth and persevere through hardship
+  反咬一口 | fǎn yǎo yì kǒu | make a false counter-charge; turn and bite someone
+  咬牙切齿 | yǎo yá qiè chǐ | gnash one's teeth in anger or hatred
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  咬 | yǎo | to bite; to snap at; articulate | morder; clavar los dientes; pronunciar | 口 | mouth | 口 (mouth and teeth) | 交 (jiāo, intersecting / phonetic) | 9 | 左右结构 | Phono-semantic compound. Combines 口 (mouth) as the semantic classifier with 交 (jiāo, crossing/intersecting) providing the sound and evoking upper and lower teeth intersecting to bite down. | An open mouth (口) with upper and lower teeth intersecting (交) forcefully to clamp onto and bite a piece of food. | Una boca (口) abierta cuyos dientes superiores e inferiores se cruzan (交) con fuerza para morder un alimento. | 214 | RYCK | 咬
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The mouth (口) with intersecting teeth (交) clamps down to bite (咬) into something delicious or grit teeth through adversity.
+  composite_memory_hook_es: La boca (口) cuyos dientes se cruzan (交) aprieta con firmeza para morder (咬) un sabroso bocado o aguantar con tesón.
+  cultural_and_cognitive_roots: In ancient Chinese legends, fierce mythical beasts like the Nian monster (年兽) would emerge on the eve of the new year to devour and bite (咬) livestock and humans. Furthermore, in Chinese idioms like 咬紧牙关, the physical act of biting teeth together symbolizes unwavering spiritual resilience in the face of suffering.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'yǎo' (214). When followed by another 3rd tone (such as in 咬紧 yǎojǐn), 'yǎo' undergoes 3rd-tone sandhi and changes into a rising 2nd tone [yáo]. When preceding 1st, 2nd, or 4th tones, it drops to a half-third tone (21).
+
+traps_and_cognates:
+  look_alikes[5]{character,pinyin,meaning_en,distinction_note}:
+    铰 | jiǎo | cut with scissors; hinge | Has metal radical 钅 next to 交 instead of mouth radical 口
+    胶 | jiāo | glue; rubber; gum | Has flesh radical 月 next to 交 instead of mouth radical 口
+    校 | xiào | school; proofread | Has wood radical 木 next to 交
+    效 | xiào | effect; imitate | Has 交 next to task radical 攵
+    郊 | jiāo | suburbs; outskirts | Has 交 next to right city radical 阝
+  etymological_cognates[5]{character,pinyin,gloss_en}:
+    嚼 | jiáo | chew; masticate
+    啃 | kěn | gnaw; nibble
+    吞 | tūn | swallow; gulp
+    含 | hán | hold in mouth; contain
+    啄 | zhuó | peck (with beak)
+
+semantic_boundary_contrasts:
+  core_nuance: 咬 denotes clamping upper and lower jaws and teeth down on something to pierce, grasp, or tear it.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 咬 vs. 啃 | kěn | 咬 refers to a single decisive bite or clamping down with teeth, whereas 啃 implies repeatedly gnawing, nibbling, or scraping away at hard food like bones or corn.
+    2 | 咬 vs. 嚼 | jiáo | 咬 is the initial penetration or clamping action using incisors and canines, whereas 嚼 is the ongoing grinding and mastication of food using molars inside the mouth.
+    3 | 咬 vs. 叮 | dīng | 咬 applies broadly to humans, animals, and insects biting, whereas 叮 specifically denotes the stinging or piercing bite of small flying insects (like mosquitoes) with a proboscis.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 童年除夕最难忘的滋味，莫过于刚出锅的热饺子。轻轻咬开薄软的面皮，鲜美的汤汁瞬间在舌尖绽放。那一口温热不仅填满了饥肠，更将年节的喜庆与家人的关爱深深咬进了记忆深处。 | Tóngnián Chúxī zuì nánwàng de zīwèi, mòguò yú gāng chūguō de rè jiǎozi. Qīngqīng yǎokāi báoruǎn de miànpí, xiānměi de tāngzhī shùnjiān zài shéjiān zhànfàng. Nà yì kǒu wēnrè bùjǐn tiánmǎn le jīcháng, gèng jiāng niánjié de xǐqìng yǔ jiārén de guān'ài shēnshēn yǎojìn le jìyì shēncù. | The most unforgettable flavor of childhood New Year's Eve was dumplings straight out of the boiling pot. Gently biting open the thin, soft wrapper, savory juices instantly bloomed upon the tongue. That warm bite not only satisfied hungry bellies, but also etched the festive joy and familial warmth deeply into memory. | El sabor más inolvidable de la nochevieja en la infancia eran los ravioles recién hervidos. Al morder suavemente la fina masa, el sabroso caldo estallaba en el paladar. Aquel bocado cálido no solo saciaba el apetito, sino que grababa profundamente el júbilo festivo y el afecto familiar en el recuerdo.
+  #2 | 在极限耐力运动中，真正的考验往往不是体能的耗尽，而是精神意志的博弈。当刺骨寒风吹透衣衫、伤痛侵袭四肢时，运动员唯有咬紧牙关顶住极限压力，一步步踏向终点，方能完成对自我的终极蜕变。 | Zài jíxiàn nàilì yùndòng zhōng, zhēnzhèng de kǎoyàn wǎngwǎng bú shì tǐnéng de hàojìn, ér shì jīngshén yìzhì de bóyì. Dāng cìgǔ hánfēng chuītòu yīshān, shāngtòng qīnxí sìzhī shí, yùndòngyuán wéiyǒu yǎojǐn yáguān dǐngzhù jíxiàn yālì, yíbù-bù tàxiàng zhōngdiǎn, fāng néng wánchéng duì zìwǒ de zhōngjí tuìbiàn. | In extreme endurance sports, the true test is rarely mere physical exhaustion, but rather a contest of mental willpower. When biting winds pierce clothing and pain assails limbs, athletes can only grit their teeth against extreme pressure, stepping toward the finish line to complete their ultimate transformation. | En los deportes de resistencia extrema, la verdadera prueba no reside en el mero agotamiento físico, sino en la contienda de la voluntad. Cuando el viento gélido cala la ropa y el dolor azota las extremidades, el atleta solo puede apretar los dientes y resistir, avanzando paso a paso hacia su superación.

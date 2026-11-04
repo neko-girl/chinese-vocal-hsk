@@ -1,0 +1,63 @@
+id: 16
+hanzi: 逃
+pinyin: táo
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to escape; to flee; to run away; to evade
+  es: escapar; huir; fugarse; rehuir; esquivar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to run away from danger, imprisonment, or disaster; to flee | huir o escapar del peligro, cautiverio o catástrofe | 怪物吓得落荒而逃 (the monster fled in panic)
+  2 | Verb | Standard | to evade or shirk duties, responsibilities, or reality | rehuir o evadir responsabilidades, deberes o la realidad | 逃避责任 (evade responsibility)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在除夕的古老传说中，“年”兽被通红的春联和震耳欲聋的竹子爆裂声吓得落荒而逃。 | Zài Chúxī de gǔlǎo chuánshuō zhōng, "Nián" shòu bèi tōnghóng de chūnlián hé zhèn'ěryùlóng de zhúzi bàoliè shēng xià de luòhuāng'értáo. | In the ancient legend of New Year's Eve, the "Nian" beast was terrified by crimson couplets and deafening bamboo pops, fleeing in panic. | En la milenaria leyenda de Nochevieja, la bestia "Nian" huyó despavorida ante las coplas rojas y el estruendo de los petardos de caña de bambú.
+  #2 | 企业经营者绝不能在突发安全事故面前心存侥幸或逃避法定责任，必须依法启动应急处置与事故调查。 | Qǐyè jīngyíngzhě jué bùnéng zài tūfā ānquán shìgù miànqián xīncún jiǎoxìng huò táobì fǎdìng zérèn, bìxū yīfǎ qǐdòng yìngjí chǔzhì yǔ shìgù diàochá. | Corporate operators must never rely on luck or evade statutory liability during industrial accidents; they must initiate emergency handling lawfully. | Los directivos empresariales no deben eludir responsabilidades legales ante percances laborales fortuitos, debiendo activar protocolos de emergencia.
+
+collocations[6]{hanzi,en}:
+  逃跑 | run away; flee; take flight
+  逃避现实 | escape from reality
+  落荒而逃 | flee in utter disorder / panic
+  逃生通道 | emergency escape route / exit
+  无处可逃 | nowhere to escape; trapped
+  逃脱惩罚 | escape punishment
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  落荒而逃 | luò huāng ér táo | flee in panic and confusion; take to one's heels
+  在所难逃 | zài suǒ nán táo | hard to escape; unavoidable; inevitable
+  逃之夭夭 | táo zhī yāo yāo | slip away secretly; decamp; make a getaway
+  临阵脱逃 | lín zhèn tuō táo | desert on the battlefield; run away before the fight
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  逃 | táo | flee; run away; escape; evade | huir; escapar; fugarse | 辶 | walking / movement | 辶 (swift feet on the road) | 兆 (zhào, omen / portend / split) | 9 | 半包围结构 | Phono-semantic compound where walking radical 辶 indicates fleeing movement, and 兆 denotes omen of imminent danger or cracking away. | Sensing an omen of danger (兆), swift feet take to the road (辶) to flee and escape (逃) disaster. | Al intuir el presagio de un gran peligro (兆), pies ligeros echan a correr por el sendero (辶) para escapar (逃). | 35 | YLMO | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When a bad omen appears (兆), take to the road with swift feet (辶) to escape the danger.
+  composite_memory_hook_es: Ante un mal augurio (兆), echa a correr por el camino (辶) para huir del peligro.
+  cultural_and_cognitive_roots: In ancient folk mythology, seasonal pests and demonic beasts (like 'Nián') were expelled through fire and noise, leading to the collective ritual of expelling evil (驱邪避凶) and causing monsters to flee.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone 'táo' (35). Smooth upward pitch contour; do not swallow the end of the tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    桃 | táo | peach | Has tree radical 木 on the left instead of walking radical 辶
+    跳 | tiào | jump; leap | Has foot radical 足 on the left instead of 辶
+    挑 | tiāo | carry; choose | Has hand radical 扌 on the left instead of 辶
+    眺 | tiào | gaze into distance | Has eye radical 目 on the left instead of 辶
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    奔 | bēn | run fast; flee
+    走 | zǒu | walk; leave; escape
+    避 | bì | avoid; evade; dodge
+    窜 | cuàn | scurry; flee like a rat
+
+semantic_boundary_contrasts:
+  core_nuance: 逃 emphasizes active flight or fleeing away from physical peril, captivity, or moral obligations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 逃 vs. 跑 | pǎo | 跑 is a neutral locomotive verb meaning to run, whereas 逃 strictly implies fleeing from danger, guilt, pursuit, or punishment.
+    2 | 逃 vs. 躲 | duǒ | 逃 denotes active locomotion and spatial flight across distance, while 躲 emphasizes concealing oneself in a stationary hiding place.
+    3 | 逃 vs. 避 | bì | 逃 denotes active physical escape from an immediate crisis, whereas 避 means to circumvent, avoid, or take shelter ahead of time (避雨, 避难).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 传说每到腊月三十的深夜，凶猛的年兽便会从深海中窜出残害百姓。直到那位白发老人点燃竹子，噼啪作响的烈火与通红的布条才将年兽彻底吓退。年兽仓皇落荒而逃，再也不敢在除夕之夜祸害人间。 | Chuánshuō měi dào làyuè sānshí de shēnyè, xiōngměng de Nián shòu biàn huì cóng shēnhǎi zhōng cuànchū cánhài bǎixìng. Zhídào nà wèi bái fā lǎorén diǎnrán zhúzi, pīpā zuòxiǎng de lièhuǒ yǔ tōnghóng de bùtiáo cái jiāng Nián shòu chèdǐ xiàtuì. Nián shòu cānghuáng luòhuāng'értáo, zài yě bù gǎn zài Chúxī zhī yè huòhài rénjiān. | Legend tells that every New Year's Eve, the ferocious Nian beast surged from the sea to harm villagers. An elder lit bamboo, whose pops and red cloths frightened Nian away. The beast fled in panic, never daring return. | Cuenta la leyenda que en Nochevieja la fiera Nian salía del mar para asolar aldeas. Un anciano quemó cañas de bambú; las chispas rojas y el estruendo ahuyentaron a la bestia, que huyó despavorida para no regresar jamás.
+  #2 | 在现代城市高层建筑与大型商业综合体消防安全规划中，确保应急疏散逃生通道的畅通无阻是底线要求。消防监督部门定期开展专项突击检查，依法严查锁闭安全出口与占用疏散通道等违法违规行为。 | Zài xiàndài chéngshì gāocéng jiànzhù yǔ dàxíng shāngyè zōnghétǐ xiāofáng ānquán guīhuà zhōng, quèbǎo yìngjí shūsàn táoshēng tōngdào de chàngtōng wúzǔ shì dǐxiàn yāoqiú. Xiāofáng jiāndū bùmén dìngqī zhǎnkāi zhuāntí tūjī jiǎnchá, yīfǎ yánchá suǒbì ānquán chūkǒu yǔ zhànyòng shūsàn tōngdào děng wéifǎ wéiguī xíngwéi. | In fire safety planning for high-rises and commercial malls, unobstructed emergency escape routes are fundamental. Fire departments conduct surprise inspections, strictly penalizing blocked exits or corridors. | En la prevención de incendios para rascacielos y centros comerciales, mantener expeditas las vías de escape es crucial. Los inspectores realizan controles sorpresa, sancionando con rigor el bloqueo de salidas de emergencia.

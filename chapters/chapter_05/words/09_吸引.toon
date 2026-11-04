@@ -1,0 +1,64 @@
+id: 9
+hanzi: 吸引
+pinyin: xī yǐn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to attract; to draw; to fascinate; to pull in
+  es: atraer; captar; fascinar; llamar la atención
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to draw someone's interest, attention, or gaze; to attract tourists or capital | atraer la atención, el interés o las miradas; captar turistas o inversiones | 吸引游客 (attract tourists)
+  2 | Verb | Formal | to exert physical or magnetic pull | ejercer atracción física o gravitatoria | 磁铁互相吸引 (magnets attract each other)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趵突泉清澈见底的泉水和神奇的喷涌奇观，每年都吸引着数以百万计的国内外游客前来观赏。 | Bàotūquán qīngchè jiàndǐ de quánshuǐ hé shénqí de pēnyǒng qíguān, měinián dōu xīyǐn zhe shù yǐ bǎiwàn jì de guónèiwài yóukè qiánlái guānshǎng. | Baotu Spring's crystal-clear waters and miraculous gushing spectacle attract millions of domestic and overseas tourists each year. | Las aguas cristalinas y los prodigiosos surtidores del manantial Baotu atraen anualmente a millones de turistas nacionales y extranjeros.
+  #2 | 为了吸引全球高层次科研人才，该省出台了一系列包含科研经费、住房保障在内的丰厚扶持政策。 | Wèile xīyǐn quánqiú gāocéngcì kěyán réncái, gāi shěng chūtái le yí xìliè bāohán kěyán jīngfèi, zhùfáng bǎozhàng zàinèi de fēnghòu fúchí zhèngcè. | To attract top-tier global scientific talent, the province enacted a series of generous incentive policies covering research funding and housing security. | Con el fin de captar talento científico global de primer nivel, la provincia aprobó generosos incentivos que incluyen fondos de I+D y vivienda.
+
+collocations[6]{hanzi,en}:
+  吸引目光 | attract gaze / eyes
+  吸引注意力 | attract attention
+  吸引游客 | attract tourists
+  吸引外资 | attract foreign investment
+  极具吸引力 | possess immense attraction / appeal
+  深深吸引 | deeply fascinate; profoundly attract
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  引人注目 | yǐn rén zhù mù | attract everyone's gaze; conspicuous; eye-catching
+  抛砖引玉 | pāo zhuān yǐn yù | cast a brick to attract jade; modest initiative inviting valuable input
+  引人入胜 | yǐn rén rù shèng | lead one into fascinating realms; wonderfully engaging
+  招商引资 | zhāo shāng yǐn zī | invite merchants and attract investments
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  吸 | xī | inhale; suck in; absorb | inhalar; sorber; absorber | 口 | mouth | 口 (mouth, drawing breath) | 及 (reach / seize) | 6 | 左右结构 | Phono-semantic compound where mouth radical 口 indicates inhaling breath or drawing liquid in deeply. | Open your mouth (口) to draw in (吸) fresh, cool air as you reach (及) the tranquil lakeside. | Abre la boca (口) para inhalar (吸) el aire fresco al alcanzar (及) la ribera serena del lago. | 55 | RNE | ""
+  引 | yǐn | pull; draw; lead; quote | tensar; tirar; atraer; citar | 弓 | bow | 弓 (bow, pulling string) | 丨 (drawn bowstring) | 4 | 左右结构 | Pictographic depiction of pulling a bowstring (弓) taut with an arrow drawn back, signifying drawing force inward. | Drawing the bow (弓) taut with a straight arrow line (丨) generates pulling force to attract (引) everything inward. | Tensar la cuerda del arco (弓) con una línea recta (丨) genera una fuerza que atrae (引) la mirada. | 214 | NL | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Breathe in with your mouth (吸) while drawing a taut bow (引) to attract the world's admiration.
+  composite_memory_hook_es: Inhala con la boca (吸) mientras tensas el arco (引) para atraer la admiración del mundo.
+  cultural_and_cognitive_roots: Combining the physical act of inhalation (吸, sucking inward) with archery tension (引, drawing a bowstring), 'xīyǐn' captures irresistible inward pulling force in sensory and cognitive realms.
+  tone_sandhi_and_pitch_modulation: High level 1st tone 'xī' (55) followed by dipped 3rd tone 'yǐn' (214). Smooth transition without glottal hesitation.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    级 | jí | grade; level | Has silk radical 纟 instead of mouth radical 口
+    极 | jí | extreme; pole | Has tree radical 木 next to 及
+    弘 | hóng | grand; propagate | Has 厶 (private) next to 弓 instead of a straight vertical stroke 丨
+    弦 | xián | string; chord | Has 玄 (dark/mysterious) next to 弓
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    呼 | hū | exhale; breathe out
+    扯 | chě | pull; tear
+    拉 | lā | pull; drag
+    摄 | shè | absorb; assimilate; photograph
+
+semantic_boundary_contrasts:
+  core_nuance: 吸引 emphasizes exerting an inward pull on attention, interest, economic resources, or people.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 吸引 vs. 诱惑 | yòuhuò | 吸引 is positive or neutral (attracting interest through intrinsic merit), while 诱惑 implies seductive temptation, often with negative or deceptive connotations.
+    2 | 吸引 vs. 招揽 | zhāolǎn | 吸引 emphasizes natural organic appeal that pulls people in, whereas 招揽 denotes deliberate, active solicitation (e.g. soliciting customers).
+    3 | 吸引 vs. 聚集 | jùjí | 吸引 refers to the force that pulls entities toward a focal center, whereas 聚集 describes the resultant state of coming together into a cluster.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南泉水之所以千百年来深深吸引着四方游客，不仅在于其清泉喷涌的动态之美，更在于泉水与市井烟火交相辉映的诗意生活。坐在清澈泉池边品一壶清茗，凡尘琐事仿佛都在水声中烟消云散。 | Jǐnán quánshuǐ zhī suǒyǐ qiānbǎi nián lái shēnshēn xīyǐn zhe sìfāng yóukè, bùjǐn zài yú qí qīngquán pēnyǒng de dòngtài zhī měi, gèng zài yú quánshuǐ yǔ shìjǐng yānhuǒ jiāoxiāng huìyìng de shīyì shēnghuó. Zuò zài qīngchè quánchí biān pǐn yì hú qīngmíng, fánchén suǒshì fǎngfú dōu zài shuǐshēng zhōng yānxiāoyúnsàn. | Why Jinan's springs have fascinated visitors for centuries lies not only in dynamic beauty, but in the poetic life where springs blend with everyday warmth. Sipping tea beside clear pools, worldly cares evaporate into the murmuring water. | Lo que fascina a los viajeros desde hace siglos en Jinan no es solo la belleza dinámica de sus surtidores, sino su fusión poética con la vida cotidiana. Saborear té junto al agua cristalina disipa las vanidades del mundo.
+  #2 | 为了打造更具国际吸引力的高能级产业生态，该高新技术开发区不断优化营商硬条件与法治软环境。通过设立一站式政务服务中心与技术转化平台，园区成功吸引了一批全球行业领军企业入驻落地。 | Wèile dǎzào gèng jù guójì xīyǐnlì de gāonéngjí chǎnyè shēngtài, gāi gāoxīnjìshù kāifāqū bùduàn yōuhuà yíngshāng yìng tiáojiàn yǔ fǎzhì ruǎnhuánjìng. Tōngguò shèlì yízhànshì zhèngwù fúwù zhōngxīn yǔ jìshù zhuǎnhuà píngtái, yuánqū chénggōng xīyǐn le yí pī quánqiú hángyè lǐngjūn qǐyè rùzhù luòdì. | To forge an internationally attractive high-tech industrial ecosystem, the park continuously optimizes infrastructure and legal safeguards. By creating one-stop services and tech platforms, it successfully attracts leading global enterprises. | Para forjar un ecosistema productivo de alcance global, el parque tecnológico optimiza infraestructuras y seguridad jurídica. Con ventanillas únicas y plataformas de transferencia tecnológica, capta con éxito a empresas líderes mundiales.

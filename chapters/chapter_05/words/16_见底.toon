@@ -1,0 +1,64 @@
+id: 16
+hanzi: 见底
+pinyin: jiàn dǐ
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to see the bottom (water is clear); to bottom out; to be exhausted / depleted
+  es: verse el fondo (agua transparente); tocar fondo; agotarse; vaciarse
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to be so transparent that the bottom is clearly visible | ser tan transparente que se ve el fondo | 清澈见底 (limpid and clear down to the bottom)
+  2 | Verb | Colloquial | to touch bottom; to be nearly exhausted or empty (of funds, stock, or supplies) | tocar fondo; agotarse; estar a punto de acabarse | 存粮见底 (grain reserves hit the bottom)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 济南的许多泉池清澈见底，游鱼在青翠的水草间穿梭游弋，令人赏心悦目。 | Jǐnán de xǔduō quánchí qīngchè jiàndǐ, yóuyú zài qīngcuì de shuǐcǎo jiān chuānsuō yóuyì, lìngrén shǎngxīnyùmù. | Many spring pools in Jinan are crystal-clear to the bottom, with swimming fish weaving between verdant waterweeds, delighting the senses. | Muchos estanques de manantiales en Jinan son tan límpidos que se ve el fondo; los peces nadan entre algas verdes, deleitando la vista.
+  #2 | 由于持续干旱和夏季灌溉用水骤增，该地区多座小型水库的蓄水池已然接近见底。 | Yóuyú chíxù gānhàn hé xiàjì guàngài yòngshuǐ zhòuzēng, gāi dìqū duō zuò xiǎoxíng shuǐkù de xùshuǐchí yǐrán jiējìn jiàndǐ. | Due to prolonged drought and soaring summer irrigation demand, several small reservoirs in the region are nearing depletion. | Por la sequía prolongada y el súbito aumento de riego veraniego, varios embalses de la comarca están casi vacíos y tocan fondo.
+
+collocations[6]{hanzi,en}:
+  清澈见底 | crystal-clear down to the bottom
+  一眼见底 | see through to the bottom at a glance
+  库存见底 | inventory nearly exhausted; stock bottoming out
+  资金见底 | funds running completely dry
+  水清见底 | water so clear the bottom shows
+  濒临见底 | on the verge of hitting empty
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  水清石见 | shuǐ qīng shí xiàn | clear water reveals stones; the truth emerges
+  寻根问底 | xún gēn wèn dǐ | inquire deeply into the root; get to the bottom of things
+  归根到底 | guī gēn dào dǐ | in the final analysis; fundamentally speaking
+  海底捞月 | hǎi dǐ lāo yuè | fish for the moon in the sea; strive for impossible illusions
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  见 | jiàn | see; perceive; meet | ver; percibir; encontrarse | 见 | see | 目 (eye) | 儿 (human legs) | 4 | 独体结构 | Ancient ideogram depicting an oversized human eye (目) atop walking legs (儿), emphasizing active optical perception. | A person walking on legs (儿) opens wide eyes to clearly see (见) the submerged pebbles. | Una persona que camina sobre sus piernas (儿) abre los ojos para ver (见) las piedras del fondo. | 51 | BU | 見
+  底 | dǐ | bottom; base; background | fondo; base; cimiento | 广 | shelter / cliff | 广 (building / shelter) | 氐 (dǐ, low / base) | 8 | 半包围结构 | Ideogram combining shelter 广 and low base 氐, denoting the foundational bedrock or lowest interior surface. | Under the broad shelter (广), reach down to touch the lowest bedrock foundation or bottom (底). | Bajo el amplio alero (广), extiendes la mano hasta palpar la base más profunda o fondo (底). | 214 | IHPM | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Look with clear eyes (见) straight through transparent waters to glimpse the rocky bottom (底).
+  composite_memory_hook_es: Abre bien los ojos (见) a través del agua diáfana para divisar con nitidez el fondo (底).
+  cultural_and_cognitive_roots: The visual clarity of water reaching the bottom ('jiàndǐ') serves as a metaphor in Chinese thought for transparency in governance, honest character, and financial reserves.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone 'jiàn' (51) followed by dipping 3rd tone 'dǐ' (214). Pronounce each syllable distinctly.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    贝 | bèi | cowrie shell; treasure | Has a horizontal stroke inside instead of open legs in 见
+    低 | dī | low; lower | Has person radical 亻 next to 氐 instead of shelter 广
+    纸 | zhǐ | paper | Has silk radical 纟 next to 氏
+    店 | diàn | shop; store | Has 占 under 广 instead of 氐 in 底
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    基 | jī | foundation; base
+    源 | yuán | source; fountainhead
+    根 | gēn | root; origin
+    尽 | jìn | exhaust; end
+
+semantic_boundary_contrasts:
+  core_nuance: 见底 literally describes transparent water where the substrate is visible, or figuratively denotes reaching empty reserves.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 见底 vs. 见方 | jiànfāng | 见底 describes seeing the bottom of water or depleting stocks, whereas 见方 is a mathematical/spatial measure of square dimensions (一米见方).
+    2 | 见底 vs. 见效 | jiànxiào | 见底 refers to visual depth or reaching the end of supplies, while 见效 means to produce a noticeable positive medical or policy effect.
+    3 | 见底 vs. 见识 | jiànshi | 见底 relates to physical depth and exhaustion, while 见识 refers to worldly experience, broad knowledge, and erudition.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在趵突泉池畔，最引人赞叹的莫过于那一池见底的碧波。泉水澄清透明，池底细腻的沙石与摇曳的水草清晰可见，游鱼仿佛悬浮在空中自由游动，为古城平添了几分出尘的灵气。 | Mànbù zài Bàotūquán chí pàn, zuì yǐnrén zàntàn de mòguòyú nà yì chí jiàndǐ de bìbō. Quánshuǐ chéngqīng tòumíng, chídǐ xìnì de shāshí yǔ yáoyè de shuǐcǎo qīngxī kějiàn, yóuyú fǎngfú xuánfú zài kōngzhōng zìyóu yóudòng, wèi gǔchéng píngtiān le jǐ fèn chūchén de língqì. | Strolling by Baotu Spring, what amazes most is the green pool visible to the bottom. Water is so transparent that fine pebbles and swaying weeds appear clearly; swimming fish seem suspended in midair, gracing the city with ethereal charm. | Al pasear junto al manantial Baotu, admira un remanso tan diáfano que se ve el fondo. La arena fina y las algas se distinguen nítidas; los peces parecen flotar en el aire, dotando a la urbe de una mágica espiritualidad.
+  #2 | 水资源预警机制在极端干旱应对中起着关键作用。水务调度中心通过实时传感器监测各大地下水库的水位变化，一旦监测指标接近见底红线，便立即启动跨区域应急调水方案，确保居民饮水安全。 | Shuǐ zīyuán yùjǐng jīzhì zài jíduān gānhàn yīngduì zhōng qǐ zhe guānjiàn zuòyòng. Shuǐwù diàodù zhōngxīn tōngguò shíshí chuángǎnqì jiāncè gè dà dìxià shuǐkù de shuǐwèi biànhuà, yídàn jiāncè zhǐbiāo jiējìn jiàndǐ hóngxiàn, biàn lìjí qǐdòng kuà qūyù yìngjí diàoshuǐ fāng'àn, quèbǎo jūmín yǐnshuǐ ānquán. | Early-warning mechanisms are crucial when confronting severe droughts. The dispatch center monitors water tables via sensors; should indicators approach the depletion threshold, emergency diversions activate to safeguard municipal supplies. | Las alertas tempranas son vitales frente a sequías extremas. Los sensores miden los acuíferos subterráneos; si los niveles se aproximan al umbral crítico de agotamiento, se trasvasa agua de emergencia para asegurar el consumo humano.

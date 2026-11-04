@@ -1,0 +1,64 @@
+id: 23
+hanzi: 果然
+pinyin: guǒ rán
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: as expected; sure enough; really; if indeed
+  es: tal como se esperaba; efectivamente; ciertamente; como era de prever
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | turning out exactly as predicted, anticipated, or rumored; sure enough; as expected | resultar exactamente como se preveía o esperaba; efectivamente; tal como se esperaba | 怪物果然被吓跑了 (the monster was indeed scared away)
+  2 | Conjunction | Literary | if indeed; if really | si realmente; si en verdad | 果然如此 (if it is really so)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 按照白发老人的指点点燃竹子并贴上红春联后，除夕半夜年兽果然被吓得浑身发抖、狂奔逃窜。 | Ànzhào bái fā lǎorén de zhǐdiǎn diǎnrán zhúzi bìng tiē shàng hóng chūnlián hòu, Chúxī bànyè Nián shòu guǒrán bèi xià de húnshēn fādǒu, kuángbēn táocuàn. | After lighting bamboo and pasting red couplets as the elder instructed, the Nian beast was sure enough terrified, trembling and fleeing. | Siguiendo las pautas del anciano, quemaron bambú y pusieron coplas rojas; a medianoche, la fiera Nian huyó despavorida tal como se esperaba.
+  #2 | 气象监测中心此前预测的冷空气前锋如期抵境，华北地区果然迎来了入冬以来的首场大范围降雪。 | Qìxiàng jiāncè zhōngxīn cǐqián yùcè de lěngkōngqì qiánfēng rúqī dǐjìng, Huáběi dìqū guǒrán yínglái le rùdōng yǐlái de shǒu chǎng dà fànwéi jiàngxuě. | The cold front forecasted by meteorologists arrived on schedule, and North China sure enough saw its first winter snowfall. | El frente frío previsto por los meteorólogos llegó a término, y el norte de China amaneció cubierto por la primera gran nevada invernal.
+
+collocations[6]{hanzi,en}:
+  果然如此 | sure enough, it is so; as expected
+  果然不出所料 | sure enough, just as anticipated
+  果然成功了 | succeeded as expected
+  果然名不虚传 | truly worthy of the name; lives up to fame
+  果然有效 | effective as expected
+  如果果然... | if indeed...
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  果然不出所料 | guǒ rán bù chū suǒ liào | sure enough, exactly as expected; turning out just as predicted
+  言出必行 | yán chū bì xíng | act on one's words; promise must be kept
+  名不虚传 | míng bù xū chuán | not have an unmerited reputation; live up to its renown
+  不出所料 | bù chū suǒ liào | as anticipated; within expectation
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  果 | guǒ | fruit; result; resolute; indeed | fruta; fruto; resultado; decidido | 木 | tree / wood | 田 (ripe fruit cluster) | 木 (tree branches) | 8 | 上下结构 | Pictographic depiction of plump, ripe fruit (田) hanging heavy on tree branches (木), signifying fruition and realized outcome. | Plump round fruit (田) hanging ripe upon a fruit tree (木) shows the fruitful outcome and realized truth (果). | Frutas maduras (田) colgando del árbol (木) encarnan el fruto logrado y la certeza tangible de los hechos (果). | 214 | WD | ""
+  然 | rán | so; like this; burn; suffix | así; de este modo; como tal | 灬 | fire | 犬 (dog / meat) | 灬 (fire / flames) | 12 | 上下结构 | Ancient pictograph of roasting meat over fire 灬 (origin of 燃); extended to denote 'thus, confirming what is so'. | Roast meat over crackling flames (灬) cooks just as expected, turning out naturally so (然). | Asar carne sobre el fuego ardiente (灬) la deja cocinada en su punto, confirmando lo esperado (然). | 35 | BKF | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When seeds produce ripe fruit on the branch (果) cooking over fire just as predicted (然), events turn out sure enough as expected.
+  composite_memory_hook_es: Cuando la flor da su fruto en la rama (果) asándose en su punto (然), los hechos ocurren tal como se esperaba.
+  cultural_and_cognitive_roots: In Chinese causal philosophy, 'guǒ' represents realized consequence and fruition, while 'rán' affirms validity; together they validate predictions against empirical reality.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone 'guǒ' (214) followed by rising 2nd tone 'rán' (35). Smooth upward glide out of the low dip.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    里 | lǐ | inside; mile | Has vertical stroke piercing down through 田 without tree 木
+    呆 | dāi | dull; foolish | Has 口 on top of 木 instead of 田 in 果
+    燃 | rán | burn; ignite | Adds fire radical 火 on the left of 然
+    熟 | shú | ripe; cooked | Has 丸 on upper right over 灬 instead of 犬 in 然
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    实 | shí | real; true; solid; fruit
+    信 | xìn | trust; believe; message
+    确 | què | authentic; solid; definite
+    真 | zhēn | true; real; genuine
+
+semantic_boundary_contrasts:
+  core_nuance: 果然 is an epistemic adverb confirming that an empirical reality matches prior prediction, rumor, or plan.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 果然 vs. 居然 | jūrán | 果然 confirms expected predictions ('as expected'), whereas 居然 marks unexpected, shocking occurrences contrary to common sense ('unexpectedly / to one's surprise').
+    2 | 果然 vs. 竟然 | jìngrán | 果然 validates an anticipated hypothesis, while 竟然 expresses disbelief or astonishment at an unlikely outcome.
+    3 | 果然 vs. 诚然 | chéngrán | 果然 describes factual occurrence of expected events, whereas 诚然 is a concessive discourse marker meaning 'admittedly / it is true that... (but)'.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 祖辈流传下来的年俗智慧，果然在漫长岁月中经受住了时间的检验。无论是通红的对联、璀璨的爆竹，还是除夕夜阖家团聚的守岁欢歌，都化作了驱赶严冬阴霾的暖阳，让希望与吉祥在新春如约而至。 | Zǔbèi liúchuán xiàlái de niánsú zhìhuì, guǒrán zài màncháng suìyuè zhōng jīngshòuzhù le shíjiān de jiǎnyàn. Wúlùn shì tōnghóng de duìlián, cuǐcàn de bàozhú, háishì Chúxī yè héjiā tuánjù de shǒusuì huāngē, dōu huàzuò le qūgǎn yándōng yīnmái de nuǎnyáng, ràng xīwàng yǔ jíxiáng zài xīnchūn rúyuē'érzhì. | Ancestral wisdom behind New Year customs sure enough stood the test of time. Red couplets, bright firecrackers, and reunion songs turned into warm sunshine dispelling winter, welcoming auspicious hope. | La sabiduría popular de las fiestas superó, tal como se esperaba, la prueba del tiempo. Coplas rojas, petardos y cantos familiares disiparon el invierno, trayendo esperanza y ventura en el nuevo año.
+  #2 | 宏观经济运行数据显示，前期实施的一揽子稳增长政策果然显现出积极效应。第三季度制造业采购经理指数全面重返扩张区间，高技术制造业投资增速显著加快，印证了实体经济企稳回升的向好势头。 | Hóngguān jīngjì yùnxíng shùjù biǎomíng, qiánqī shíshī de yìlǎnzǐ wěnzhēngzhǎng zhèngcè guǒrán xiǎnxiàn chū jījí xiàoyìng. Dì-sān jìdù zhìzàoyè cǎigòujīnglǐ zhǐshù quánmián zhòngfǎn kuòzhāng qūjiān, gāojìshù zhìzàoyè tóuzī zēngsù xiǎnzhù jiākuài, yìngzhèng le shítǐ jīngjì qǐwěn huíshēng de xiànghǎo shìtóu. | Macroeconomic data show stimulus policies sure enough yielded positive effects. Third-quarter manufacturing PMI returned to expansion territory, and high-tech investment accelerated, confirming recovery momentum. | Los datos macroeconómicos confirman que los estímulos surtieron efecto como se esperaba. El PMI industrial volvió al terreno expansivo y la inversión tecnológica creció, afianzando la reactivación productiva.
