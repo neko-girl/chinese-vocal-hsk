@@ -1,0 +1,63 @@
+id: 22
+hanzi: 悄悄
+pinyin: qiāo qiāo
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: quietly; secretly; stealthily; softly without making noise
+  es: silenciosamente; a escondidas; furtivamente; en voz baja; sigilosamente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | softly without producing noise or attracting attention | silenciosamente; sin hacer ruido | 悄悄走出去 (walk out quietly)
+  2 | Adverb | Standard | secretly; surreptitiously behind someone's back | a escondidas; en secreto | 悄悄塞给他 (secretly slipped it to him)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨全家人还在熟睡，母亲便悄悄起床来到厨房，轻手轻脚地为我们煮好了一锅香甜的红枣粥。 | Qīngchén quán jiā rén hái zài shúshuì, mǔqīn biàn qiāoqiāo qǐchuáng lái dào chúfáng, qīngshǒu-qīngjiǎo de wèi wǒmen zhǔ hǎo le yì guō xiāngtián de hóngzǎozhōu. | At dawn while the family was sound asleep, mother quietly got out of bed and came to the kitchen, softly cooking a pot of sweet red date porridge. | De madrugada, con la familia dormida aún, mi madre se levantó en silencio y marchó de puntillas a la cocina a preparar gachas de dátiles.
+  #2 | 为了给身处重症病房的同事减轻经济负担，全体部门同事悄悄组织了一次爱心匿名善款捐赠活动。 | Wèile gěi shēnchǔ zhòngzhèng bìngfáng de tóngshì jiǎnqīng jīngjì fùdān, quántǐ bùmén tóngshì qiāoqiāo zǔzhī le yí cì àixīn nìmíng shànkuǎn juānzèng huódòng. | To relieve financial burdens on a colleague in the ICU, department colleagues secretly organized an anonymous charitable donation campaign. | Para aliviar a un compañero ingresado en cuidados intensivos, los colegas de su sección organizaron en secreto una colecta solidaria anónima.
+
+collocations[6]{hanzi,en}:
+  悄悄话 | whispered secret; intimate whisper
+  悄悄离开 | leave quietly; slip away unnoticed
+  悄悄走近 | approach stealthily / softly
+  悄悄塞给 | secretly slip to someone
+  静悄悄 | quiet and silent (reduplicated adj)
+  悄悄发生 | happen silently / subtly
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  悄然无声 | qiǎo rán wú shēng | completely quiet without a single sound
+  不动声色 | bú dòng shēng sè | not a word or motion; maintain calm composure
+  潜移默化 | qián yí mò huà | exert subtle, imperceptible influence over time
+  鸦雀无声 | yā què wú shēng | not even a crow or sparrow cawing; dead silence
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  悄 | qiāo | quiet; silent; sorrowful | silencioso; sigiloso; apenado | 忄 | heart (standing heart) | 忄 (discreet interior emotion) | 肖 (xiāo, small / resemble) | 10 | 左右结构 | Phono-semantic compound where standing heart 忄 expresses gentle discretion and silence, guided by phonetic 肖. | A heart (忄) made so tiny and careful (肖) that its footsteps make no audible sound. | Un corazón (忄) que late con suma delicadeza (肖) para no turbar el silencio de la noche. | 55 | PFB | 悄
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Keeping one's heart (忄) gentle and discreet like a tiny shadow (肖) allows one to move quietly (悄悄).
+  composite_memory_hook_es: Mantener el corazón (忄) en calma y discreción como una sombra sutil (肖) permite actuar sigilosamente (悄悄).
+  cultural_and_cognitive_roots: In Chinese domestic culture, '悄悄' is synonymous with maternal tender care: sneaking in to pull up fallen quilts, slipping money into coat pockets, or keeping rooms quiet for studying children.
+  tone_sandhi_and_pitch_modulation: Reduplicated colloquial adverb pronounced with twin high level tones: 'qiāo qiāo' (55-55). When used in literary idiom '悄然', pronounced in 3rd tone: 'qiǎorán' (214-35).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    消 | xiāo | vanish; eliminate | Has 氵 (water) on the left instead of 忄 (heart)
+    梢 | shāo | tip of branch | Has 木 (wood) on the left instead of 忄
+    稍 | shāo | slightly; a little | Has 禾 (grain) on the left instead of 忄
+    硝 | xiāo | niter; saltpeter | Has 石 (stone) on the left instead of 忄
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    悄然 | qiǎo rán | quietly; sorrowfully (literary)
+    悄声 | qiāo shēng | in a hushed voice; whisper
+    静悄悄 | jìng qiāoqiāo | quiet and peaceful
+    肖像 | xiào xiàng | portrait (sharing phonetic root 肖)
+
+semantic_boundary_contrasts:
+  core_nuance: 悄悄 focuses on deliberate suppression of sound or movement to avoid drawing attention.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 悄悄 vs. 偷偷 | tōutōu | 悄悄 emphasizes softness and absence of sound with loving or discreet intention, whereas 偷偷 implies illicit concealment, fear of discovery, or sneaky wrongdoing.
+    2 | 悄悄 vs. 暗暗 | àn'àn | 悄悄 describes physical behavior carried out without making sound, while 暗暗 describes private psychological thoughts or hidden inner emotions (e.g. 暗暗下定决心).
+    3 | 悄悄 vs. 轻轻 | qīngqīng | 悄悄 means without noise or awareness of others, whereas 轻轻 emphasizes low physical pressure or gentle muscular touch (e.g. 轻轻拍了拍他的肩膀).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 夜深了，月光像轻纱一样铺在床前。母亲悄悄走进卧室，轻轻替熟睡的孩子掖好被角，又悄无声息地掩门离去。母爱就是这样，从不喧哗招摇，却在每一个无声的细节里倾注着生命全部的温柔。 | Yè shēn le, yuèguāng xiàng qīngshā yíyàng pū zài chuángqián. Mǔqīn qiāoqiāo zǒujìn wòshì, qīngqīng tì shúshuì de háizi yē hǎo bèijiǎo, yòu qiāowúshēngxī de yǎnmén líqù. Mǔ'ài jiùshì zhèyàng, cóngbù xuānhuá zhāoyáo, què zài měi yí gè wúshēng de xìjié lǐ qīngzhù zhe shēngmìng quánbù de wēnróu. | Night deepened; moonlight draped like gauze before the bed. Mother stepped quietly into the bedroom, gently tucked in the quilt for her sleeping child, and slipped out. Maternal love never boasts, yet pours all tenderness into silent details. | Avanza la noche; la luna viste el suelo de seda tenue. Madre entra en silencio a la habitación, arropa al niño dormido y marcha de puntillas. El amor materno nunca alardea: late con dulzura en cada gesto callado.
+  #2 | 在数字化浪潮推动下，现代社会的阅读习惯正悄悄发生深刻演变。传统纸质图书的专注沉浸，逐渐与移动终端的碎片化阅读深度共存。这种阅读介质的变迁，正悄然重塑着当代公众的认知与思维模式。 | Zài shùzìhuà làngcháo tuīdòng xià, xiàndài shèhuì de yuèdú xíguàn zhèng qiāoqiāo fāshēng shēnkè yǎnbiàn. Chuántǒng zhǐzhì túshū de zhuānzhù chénjìn, zhújiàn yǔ yídòng zhōngduān de suìpiànhuà yuèdú shēndù gòngcún. Zhè zhǒng yuèdú jièzhì de biànqiān, zhèng qiǎorán zhòngshù zhe dāngdài gōngzhòng de rènzhī yǔ sīwéi móshì. | Propelled by digital tides, modern reading habits are quietly undergoing profound evolution. Traditional deep reading coexists with fragmented mobile screen engagement, subtly reshaping cognitive habits of the public. | Con el auge digital, los hábitos lectores evolucionan en silencio. La lectura reposada en papel convive con la consulta fragmentada en dispositivos móviles, modelando los esquemas cognitivos de las nuevas generaciones.

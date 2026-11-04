@@ -1,0 +1,62 @@
+id: 9
+hanzi: 姑姑
+pinyin: gū gu
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: paternal aunt; father's sister
+  es: tía paterna; hermana del padre
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | sister of one's father (paternal aunt) | tía paterna; hermana del padre | 小姑姑 (youngest paternal aunt)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 姑姑手巧得很，每年入冬前都会给几个晚辈织一件厚实暖和的羊毛衫。 | Gūgu shǒuqiǎo de hěn, měinián rùdōng qián dōu huì gěi jǐ gè wǎnbèi zhī yí jiàn hòushi nuǎnhuo de yángmáoshān. | Aunt is very skillful with her hands; before each winter she knits a thick, warm woolen sweater for each of the youngsters. | Mi tía tiene manos primorosas; antes de cada invierno teje un jersey de lana grueso y abrigado para cada uno de los sobrinos.
+  #2 | 每次回老家看望父亲，姑姑总要详细询问家里的各项琐事，处处流露出对大家庭的深情关怀。 | Měicì huí lǎojiā kànwàng fùqīn, gūgu zǒng yào xiángxì xùnwèn jiālǐ de gè xiàng suǒshì, chùchù liúlù chū duì dàjiātíng de shēnqíng guānhuái. | Whenever visiting father back home, aunt inquires in detail about household affairs, revealing deep devotion to the extended family. | Cada vez que regresa al pueblo a visitar a mi padre, mi tía se interesa por los pormenores del hogar, derrochando afecto hacia toda la familia.
+
+collocations[6]{hanzi,en}:
+  大姑姑 | eldest paternal aunt
+  小姑姑 | youngest paternal aunt
+  姑姑家 | paternal aunt's home
+  看望姑姑 | visit paternal aunt
+  姑姑的礼物 | aunt's gift
+  堂姑 | father's female cousin
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  姑息养奸 | gū xī yǎng jiān | tolerate evil and abet crimes; overly indulge wrongdoing
+  和睦相处 | hé mù xiāng chǔ | live in harmony and mutual affection with one another
+  情深似海 | qíng shēn sì hǎi | affection as deep as the boundless ocean
+  同心协力 | tóng xīn xié lì | work together with one heart and joint effort
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  姑 | gū | paternal aunt; maiden; tentatively | tía paterna; doncella; provisionalmente | 女 | woman / female | 女 (female kinship) | 古 (gǔ, ancient / phonetic) | 8 | 左右结构 | Phono-semantic compound combining female radical 女 with phonetic 古, designating a woman of the ancestral paternal clan. | An ancient (古) lineage woman (女) who preserves the family bonds and traditions with tender care. | Una mujer (女) vinculada al linaje antiguo (古) del padre que cuida con esmero a los hijos de sus hermanos. | 55 | VJR | 姑
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The loving woman (女) linked to your father's ancient (古) household lineage is your paternal aunt (姑姑).
+  composite_memory_hook_es: La mujer (女) del linaje antiguo (古) de tu padre que te colma de mimos es tu tía paterna (姑姑).
+  cultural_and_cognitive_roots: In Chinese kinship geography, '姑' represents the out-marrying daughter of the paternal family who maintains intimate sentimental ties, serving as an affectionate link between extended families.
+  tone_sandhi_and_pitch_modulation: Reduplicated noun where the first syllable carries 1st tone (high level 55) and the second syllable is softened into neutral tone: 'gū gu' (55-0).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    姨 | yí | maternal aunt | Has 夷 on the right instead of 古
+    娘 | niáng | mother; woman | Has 良 on the right instead of 古
+    妹 | mèi | younger sister | Has 未 on the right instead of 古
+    估 | gū | estimate; assess | Has 亻 (person) radical on the left instead of 女
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    姑娘 | gū niang | girl; young woman
+    姑妈 | gū mā | paternal aunt (married elder sister/sister of father)
+    姑父 | gū fu | paternal aunt's husband; uncle-in-law
+    姑且 | gū qiě | tentatively; for the time being
+
+semantic_boundary_contrasts:
+  core_nuance: 姑姑 is exclusively the father's sister (paternal blood relative).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 姑姑 vs. 阿姨 | āyí | 姑姑 strictly designates the father's sister, whereas 阿姨 can be the mother's sister (maternal) or a polite title for any woman of one's mother's generation.
+    2 | 姑姑 vs. 舅妈 | jiùmā | 姑姑 is related by paternal blood, while 舅妈 is related by marriage (wife of mother's brother).
+    3 | 姑姑 vs. 婶婶 | shěnshen | 姑姑 is father's sister, whereas 婶婶 is father's younger brother's wife (aunt by marriage).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 姑姑是个极爱干净且性情温和的人。在我的童年记忆里，每次去姑姑家，桌上总会摆着满满一盘洗得干干净净的水果。她一边听我讲学校里的趣事，一边笑着抚摸我的额头，目光里尽是慈爱。 | Gūgu shì gè jí ài gānjìng qiě xìngqíng wēnhé de rén. Zài wǒ de tóngnián jìyì lǐ, měicì qù gūgu jiā, zhuō shàng zǒng huì bǎizhe mǎnmǎn yì pán xǐ de gāngānjìngjìng de shuǐguǒ. Tā yìbiān tīng wǒ jiǎng xuéxiào lǐ de qùshì, yìbiān xiào zhe fǔmō wǒ de étóu, mùguāng lǐ jìn shì cí'ài. | Aunt is an impeccably tidy and gentle person. In my childhood memories, whenever visiting her home, the table held a freshly washed platter of fruits. Listening to school tales, she smiled and stroked my forehead, eyes radiant with affection. | Mi tía es una persona pulcra y dulce. En mis recuerdos de infancia, al visitarla siempre había una bandeja de fruta fresca sobre la mesa. Escuchaba mis anécdotas escolares mientras acariciaba mi frente con mirada henchida de ternura.
+  #2 | 汉字文化圈中精细的亲属称谓体现了宗法制度的核心逻辑。姑、舅、叔、伯不仅明确了父系与母系的血缘远近，更界定了宗族礼仪中的权利与义务。这种细密的亲属网络至今仍在维系家庭情感中发挥独特作用。 | Hànzì wénhuàquān zhōng jīngxì de qīnshǔ chēngwèi tǐxiàn le zōngfǎ zhìdù de héxīn luójí. Gū, jiù, shū, bó bùjǐn míngquè le fùxì yǔ mǔxì de xiěyuán yuǎnjìn, gèng jièdìng le zōngzú lǐyí zhōng de quánlì yǔ yìwù. Zhè zhǒng xìmì de qīnshǔ wǎngluò zhìjīn réng zài wéixì jiātíng qínggǎn zhōng fāhuī dútè zuòyòng. | Precise kinship terms in Sinophone culture reflect the logic of patriarchal lineage. Distinctions like aunt, uncle, and elder uncle clarify blood proximity and formal obligations. This fine kinship matrix continues to play an irreplaceable role sustaining family solidarity today. | La minuciosa nomenclatura de parentesco tradicional refleja la lógica del sistema patriarcal. Términos específicos como tía paterna definen grados de consanguinidad y deberes ceremoniales, manteniendo la cohesión y el apoyo solidario intrafamiliar.

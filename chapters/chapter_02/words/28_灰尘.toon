@@ -1,0 +1,63 @@
+id: 28
+hanzi: 灰尘
+pinyin: huī chén
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: dust; dirt; airborne particulate matter
+  es: polvo; ceniza; partículas de suciedad en suspensión
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | fine dry powder consisting of tiny particles of earth, ash, or waste floating in the air or settling on surfaces | polvo; partículas finas de tierra o suciedad suspendidas en el aire o posadas en superficies | 擦去灰尘 (wipe off the dust)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老屋久无人住，桌椅上落了厚厚的一层灰尘，母亲一进门便挽起袖子忙碌地打扫起来。 | Lǎowū jiǔ wú rén zhù, zhuōyǐ shàng luò le hòuhòu de yì céng huīchén, mǔqīn yí jìn mén biàn wǎn qǐ xiùzi mánglù de dǎsǎo qǐlái. | The old house had been vacant for long, leaving a thick layer of dust on tables and chairs; stepping inside, mother rolled up her sleeves and busily began cleaning. | La casa vieja llevaba tiempo deshabitada y el polvo cubría mesas y sillas; al cruzar el umbral, mi madre se arremangó y comenzó a faenar de inmediato.
+  #2 | 为了确保超大规模集成电路晶圆的制造良率，无尘洁净车间利用高效空气过滤器将微米级灰尘严格隔离在核心产线之外。 | Wèile quèbǎo chāodà guīmó jíchéng diànlù jīngyuán de zhìzào liánglǜ, wúchén jiéjìng chējiān lìyòng gāoxiào kōngqì guòlǜqì jiāng wēimǐ jí huīchén yángé gélí zài héxīn chǎnxiàn zhīwài. | To ensure fabrication yield for very-large-scale integrated circuit wafers, cleanrooms deploy HEPA filters to strictly isolate micron dust from lines. | Para garantizar el rendimiento en la fabricación de microchips integrados, las salas blancas emplean filtros de aire HEPA que aíslan el polvo microscópico de la línea productiva.
+
+collocations[6]{hanzi,en}:
+  一层灰尘 | a layer of dust
+  擦掉灰尘 | wipe away the dust
+  积满灰尘 | covered with accumulated dust
+  灰尘弥漫 | dust floating everywhere in the air
+  吸入灰尘 | inhale airborne dust
+  空气中的灰尘 | dust in the ambient air
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  尘埃落定 | chén āi luò dìng | the dust settles; things reach a definitive conclusion
+  出类拔萃 | chū lèi bá cuì | stand out far above one's fellows; peerless excellence
+  看破红尘 | kàn pò hóng chén | see through the dusty world; renounce worldly vanities
+  一尘不染 | yì chén bù rǎn | not stained by a single speck of dust; spotless and morally pure
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  灰 | huī | ash; dust; gray; lime | ceniza; polvo; gris; cal | 火 | fire | 火 (fire combusting organic matter) | 𠂇 (hand handling ashes) | 6 | 半包围结构 | Ancient ideogram depicting a hand (𠂇) gathering cold embers and powdery remnants left by a fire (火). | A careful hand reaches into the firepit (火) to scoop up cold powdery gray ash (灰). | Una mano retira las ascuas apagadas del fuego (火) recogiendo el fino polvo ceniciento (灰). | 55 | KF | 灰
+  尘 | chén | dust; earth; secular world | polvo; tierra; mundo terrenal | 小 | small / tiny | 小 (minute particles) | 土 (soil / earth) | 6 | 上下结构 | Simplified from traditional 塵; ideogrammic compound of small (小) atop soil (土), representing minuscule earth particles. | Soil (土) ground down into tiny microscopic specks (小) that float gently through the sunlight. | Tierra (土) desmenuzada en diminutas motas (小) que flotan en el aire formando polvo. | 35 | FG | 塵
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Burnt powdery ashes (灰) ground down like tiny specks of soil (尘) settle everywhere as dust (灰尘).
+  composite_memory_hook_es: Cenizas apagadas (灰) reducidas a diminutas partículas de tierra (尘) flotan como polvo (灰尘).
+  cultural_and_cognitive_roots: In Buddhist and Daoist literature, '尘' represents the mundane sensory realm ('红尘' = red dust / secular world); sweeping away physical dust metaphorically mirrors purifying the human heart of greed.
+  tone_sandhi_and_pitch_modulation: Pronounced with a 55-35 pitch contour (1st tone high and level, followed by 2nd tone rising cleanly). Ensure smooth vocal glide.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    炭 | tàn | charcoal; coal | Has 山 (mountain) on top of 火 instead of 𠂇
+    尖 | jiān | sharp; pointed | Has 小 over 大 instead of 小 over 土
+    堂 | táng | hall; room | Has 尚 remnant over 土 instead of 小
+    炎 | yán | flame; inflammation | Two fires stacked vertically 火+火
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    粉尘 | fěn chén | fine dust / industrial airborne particles
+    风尘 | fēng chén | travel fatigue / worldly tribulations
+    石灰 | shí huī | limestone; lime
+    灰心 | huī xīn | discouraged; disheartened
+
+semantic_boundary_contrasts:
+  core_nuance: 灰尘 denotes tiny physical dirt particles floating in the air or settling as a dry layer on surfaces.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 灰尘 vs. 泥土 | nítǔ | 灰尘 consists of dry, airborne, or settled powdery particles indoors or out, whereas 泥土 refers to wet or moist natural soil, mud, and earth on the ground.
+    2 | 灰尘 vs. 垃圾 | lājī | 灰尘 is natural fine airborne particulate matter, while 垃圾 refers to solid human household or industrial garbage, rubbish, and debris.
+    3 | 灰尘 vs. 尘埃 | chén'āi | 灰尘 is the common everyday spoken term for household dust, while 尘埃 is formal and literary, frequently used in figurative idioms (e.g. 尘埃落定).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 午后一缕金黄的阳光斜斜穿透木窗，能清晰看见无数细小的灰尘在光柱中上下起伏、静静起舞。时光仿佛在此刻放慢了脚步，让人在万籁俱寂中感受到一种难以言喻的安详与生命细微的美好。 | Wǔhòu yì lǚ jīnhuáng de yángguāng xiéxié chuāntòu mùchuāng, néng qīngxī kànjiàn wúshù xìxiǎo de huīchén zài guāngzhù zhōng shàngxià qǐfú, jìngjìng qǐwǔ. Shíguāng fǎngrú zài cǐkè fàngmàn le jiǎobù, ràng rén zài wànlài-jùjì zhōng gǎnshòu dào yì zhǒng nányǐ yányù de ānxiáng yǔ shēngmìng xìwēi de měihǎo. | Afternoon golden sunlight slanted through the wooden window, illuminating countless specks of dust dancing gently in the beam. Time seemed to slow, allowing one to feel unspoken serenity and the delicate beauty of existence in tranquil silence. | El sol poniente cruzaba el ventanuco de madera revelando motas de polvo que danzaban en el haz de luz. El tiempo parecía detenerse, regalando en el sosiego una paz honda y la belleza sutil de la vida.
+  #2 | 大气细颗粒物与工业灰尘污染是现代城市环境治理的核心难点。环保监测网络利用激光散射遥感与微粒吸附技术，对建筑扬尘与工厂排放实施全天候实时监控，为守护蓝天白云提供了坚实的数字屏障。 | Dàqì xìkēlìwù yǔ gōngyè huīchén wūrǎn shì xiàndài chéngshì huánjìng zhìlǐ de héxīn nándiǎn. Huánbǎo jiāncè wǎngluò lìyòng jīguāng sǎnsè yáogǎn yǔ wēilì xīfù jìshù, duì jiànzhù yángchén yǔ gōngchǎng páifàng shíshī quántiānhòu shíshí jiānkòng, wèi shǒuhù lántiān-báiyún tígōng le jiānshí de shùzì píngzhàng. | Fine atmospheric particulates and industrial dust pollution pose core hurdles in urban environmental governance. Environmental sensor grids deploy laser scattering to monitor emissions 24/7, safeguarding clean skies. | El polvo en suspensión y las partículas industriales retan la gestión ambiental urbana. Redes de sensores láser monitorizan en tiempo real las obras y fábricas, levantando un escudo digital para preservar el aire limpio.

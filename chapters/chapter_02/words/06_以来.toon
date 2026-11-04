@@ -1,0 +1,63 @@
+id: 6
+hanzi: 以来
+pinyin: yǐ lái
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: since (a past time); ever since; from... until now
+  es: desde (hace); a partir de entonces; desde aquel momento
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | period following a specified starting point up to the present; ever since | tiempo transcurrido desde un momento inicial hasta ahora | 改革开放以来 (since the reform and opening up)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 搬到县城的新房以来，母亲总挂念着老家的菜园和那几只散养的母鸡。 | Bān dào xiànchéng de xīnfáng yǐlái, mǔqīn zǒng guàniàn zhe lǎojiā de càiyuán hé nà jǐ zhī sǎnyǎng de mǔjī. | Ever since moving to the new apartment in the county seat, mother constantly misses her vegetable garden and free-range hens back home. | Desde que nos mudamos al piso del pueblo, mi madre no deja de añorar su huerto y las gallinas camperas de la aldea.
+  #2 | 自去年两国签署全面战略经贸协议以来，双边货物进出口总额实现了跨越式增长。 | Zì qùnián liǎng guó qiānshǔ quánmiàn zhànlüè jīngmào xiéyì yǐlái, shuāngbiān huòwù jìnchūkǒu zǒng'é shíxiàn le kuàyuè shì zēngzhǎng. | Ever since the two nations signed the comprehensive strategic trade pact last year, bilateral import-export volume has achieved leapfrog growth. | Desde que ambos países firmaron el acuerdo estratégico integral el año pasado, el volumen comercial bilateral ha crecido exponencialmente.
+
+collocations[6]{hanzi,en}:
+  长期以来 | for a long time past
+  一直以来 | all along; ever since
+  改革开放以来 | since the reform and opening up
+  建厂以来 | since the factory was founded
+  自古以来 | since ancient times
+  有生以来 | since birth; in all one's life
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  自古以来 | zì gǔ yǐ lái | since ancient times; throughout history
+  古往今来 | gǔ wǎng jīn lái | from ancient times to the present; down the ages
+  日往月来 | rì wǎng yuè lái | days depart and months arrive; the swift passage of time
+  源远流长 | yuán yuǎn liú cháng | having a distant source and long stream; deep-rooted and enduring
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  以 | yǐ | with; by means of; take from | mediante; con; a partir de | 人 | person / human | 厶/人 (holding or using an implement) | "" | 4 | 左右结构 | Ancient pictograph of a person holding an agricultural implement, signifying 'taking this as an instrument or anchor'. | A worker holding an instrument firmly in hand, using it as an established starting reference point. | Un labrador empuñando una herramienta firme, tomándola como punto de partida y referencia. | 214 | VO | ""
+  来 | lái | come; arrive; future | venir; llegar; futuro | 木 | tree / wood | 禾 (cereal grain coming from heaven) | 一 (sky / origin) | 7 | 独体结构 | Ancient pictograph of wheat or cereal grain blowing in the wind, which came as a heaven-sent staple food to humanity. | Wheat stalks swaying gracefully in the field, representing bountiful gifts that come from distant lands. | Espigas de trigo que ondean con la brisa, representando los dones nutricios que llegan a los humanos. | 35 | DTI | 來
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Taking a past moment as reference (以), time continuously flows forward and arrives (来) into the present (以来).
+  composite_memory_hook_es: Tomando un punto temporal de partida (以), el tiempo fluye y llega (来) hasta el presente (以来).
+  cultural_and_cognitive_roots: In classical Chinese cosmology, time is experienced as an ongoing arrival from ancestors to posterity; 'yǐlái' establishes a spatial-temporal continuum uniting history directly to current lived experience.
+  tone_sandhi_and_pitch_modulation: Pronounced with a 214-35 pitch contour (3rd tone dipping then rising smoothly, followed by 2nd tone rising cleanly). Keep the transition between syllables fluid.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    已 | yǐ | already; stop | Closed at the top unlike 以 which has two distinct left and right components
+    似 | sì | resemble; similar | Has 亻 (person) radical on the left with 以 on the right
+    夹 | jiā | squeeze; clip;夾 | Resembles 来 in overall simplified contour but lacks the upper horizontal canopy
+    米 | mǐ | rice; meter | Resembles the lower half of 来 but lacks the upper horizontal bar
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    以后 | yǐ hòu | after; afterwards; in the future
+    以前 | yǐ qián | before; formerly; previously
+    来历 | lái lì | origin; antecedent; background
+    历来 | lì lái | always; through all ages
+
+semantic_boundary_contrasts:
+  core_nuance: 以来 acts as a postposition indicating continuous elapsed duration starting from an event up to the present moment.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 以来 vs. 以后 | yǐhòu | 以来 marks duration extending continuously from a past milestone all the way to now (e.g. 去年以来), whereas 以后 simply denotes the period after a specific event without requiring continuity to the present (e.g. 下课以后, 毕业以后).
+    2 | 以来 vs. 至今 | zhìjīn | 以来 is placed after a noun or clause indicating the starting boundary (e.g. 结婚以来), while 至今 stands alone as a time adverb meaning 'to this day' or 'up until now' (e.g. 至今未归).
+    3 | 以来 vs. 自从 | zìcóng | 自从 is a preposition placed before the clause or time point (e.g. 自从他离家), whereas 以来 is attached as a suffix at the end of the phrase (often paired: 自从……以来).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 自从搬离村庄以来，每逢秋雨绵绵的夜晚，母亲总会在灯下讲述过去的农事。那些关于麦浪与晚霞的记忆，在时光冲刷下愈发清晰，成为全家人心底最深沉的精神依托。 | Zìcóng bānlí cūnzhuāng yǐlái, měiféng qiūyǔ miánmián de yèwǎn, mǔqīn zǒng huì zài dēng xià jiǎngshù guòqù de nóngshì. Nàxiē guānyú màilàng yǔ wǎnxiá de jìyì, zài shíguāng chōngshuā xià yùfā qīngxī, chéngwéi quán jiā rén xīndǐ zuì shēnchén de jīngshén yītuō. | Ever since leaving the village, whenever autumn rain falls softly at night, mother sits beneath the lamp reminiscing about farming days. Those memories of wheat fields and glowing sunsets grow ever clearer, anchoring the whole family's spirit. | Desde que dejamos el pueblo, en las noches de lluvia otoñal, madre relata viejas labores agrícolas bajo la lámpara. Esos recuerdos de trigales dorados y crepúsculos se aclaran con el tiempo, convirtiéndose en el sostén afectivo de la familia.
+  #2 | 伴随新一轮科技革命，该企业创立以来始终聚焦核心工业芯片的自主研制。历经十余年技术攻关，团队突破多项国际技术封锁，形成了覆盖设计制造全流程的完整产业链体系，为国家制造业转型筑牢了基石。 | Bànsuí xīn yì lún kējì gémìng, gāi qǐyè chuànglì yǐlái shǐzhōng jùjiāo héxīn gōngyè xīnpiàn de zìzhǔ yánzhì. Lìjīng shí yú nián jìshù gōngguān, tuánduì tūpò duō xiàng guójì jìshù fēngsuǒ, xíngchéng le fùgài shèjì zhìzào quán liúchéng de wánzhěng chǎnyèliàn tǐxì, wèi guójiā zhìzàoyè zhuǎnxíng zhùláo le jīshí. | Since its inception during the new technological revolution, the enterprise has focused on self-developed industrial chips. After a decade of breakthroughs overcoming international tech embargos, the team established a complete industry chain covering design and fabrication. | Desde su fundación en la nueva ola tecnológica, la empresa se ha centrado en el desarrollo de microchips industriales. Tras una década de superación tecnológica, el equipo construyó una cadena integral que apuntala la industria nacional.

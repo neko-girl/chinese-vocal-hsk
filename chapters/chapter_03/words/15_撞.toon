@@ -1,0 +1,63 @@
+id: 15
+hanzi: 撞
+pinyin: zhuàng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to bump against; to collide; to strike; to run into; to meet by chance
+  es: chocar; colisionar; tropezar; golpear; toparse con
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to collide violently with or strike against an object or person | chocar violentamente contra algo o alguien; colisionar | 撞车 (car crash / collision)
+  2 | Verb | Colloquial | to meet, bump into, or coincide with by chance | toparse por casualidad; coincidir de forma imprevista | 撞见熟人 (bump into an acquaintance)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 狂暴的巨浪猛烈撞击着帆船的侧舷，船身剧烈摇晃，全家人紧紧抓牢甲板上的扶手。 | Kuángbào de jùlàng měngliè zhuàngjī zhe fānchuán de cèxián, chuánshēn jùliè yáohuàng, quán jiārén jǐnjǐn zhuāláo jiǎbǎn shàng de fúshǒu. | Savage monster waves slammed violently against the sailboat's flank, rocking the hull wildly as the family gripped the deck rails. | Olas descomunales embistieron el costado del velero, haciendo crujir el casco mientras la familia se aferraba con fuerza al pasamanos de cubierta.
+  #2 | 两辆高速行驶的货车在十字路口发生碰撞，交警与救援人员迅速赶赴现场展开处置。 | Liǎng liàng gāosù xíngshǐ de huòchē zài shízì lùkǒu fāshēng pèngzhuàng, jiāojǐng yǔ jiùyuán rényuán xùnsù gǎnfù xiànchǎng zhǎnkāi chǔzhì. | Two fast-moving trucks collided at the intersection, prompting traffic police and rescue teams to rush to the scene. | Dos camiones que circulaban a gran velocidad colisionaron en la intersección; la policía de tráfico y los equipos de auxilio acudieron de inmediato.
+
+collocations[6]{hanzi,en}:
+  撞击 | strike; impact; hit
+  碰撞 | collide; clash
+  撞车 | vehicle collision; clash of schedules
+  被撞 | be hit; be struck
+  撞倒 | knock down; bump over
+  横冲直撞 | dash around wildly; barge about recklessly
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  横冲直撞 | héng chōng zhí zhuàng | dash around recklessly; barge about wildly
+  误打误撞 | wù dǎ wù zhuàng | score a lucky hit by mistake; stumble into success by accident
+  东奔西撞 | dōng bēn xī zhuàng | dash around in all directions; rush about blindly
+  撞钟引磬 | zhuàng zhōng yǐn qìng | strike bell to initiate chime; prompt subsequent responses
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  撞 | zhuàng | bump; collide; strike | chocar; golpear; topar | 扌 | hand / strike | 扌 (hand striking with force) | 童 (tóng phonetic / youth or child standing) | 15 | 左右结构 | Phono-semantic compound: a forceful hand (扌) delivering an impact like a running youth (童) colliding head-on. | An outstretched arm (扌) trying to brace against an energetic youth (童) barreling into you head-on. | Un brazo extendido (扌) que intenta frenar el choque frontal de un muchacho que corre desbocado (童). | 51 | QYTG | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An energetic boy (童) barreling forward crashes into an outstretched hand (扌), producing a violent collision (撞).
+  composite_memory_hook_es: Un muchacho que corre desbocado (童) choca contra una mano extendida (扌), provocando una fuerte colisión (撞).
+  cultural_and_cognitive_roots: In Chinese cultural tradition, striking temple bronze bells (撞钟) was an ancient ritual signaling dawn and dusk. Metaphorically, '撞' evokes abrupt, jarring physical or psychological impact.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone: zhuàng (51). Deliver the syllable with a forceful, downward burst to phonetically mirror an abrupt impact.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    撞 | zhuàng | collide; hit | Has 扌 (hand) radical on the left and 童 on the right
+    憧 | chōng | yearn for; look forward | Has 忄 (heart) radical on the left with 童
+    幢 | chuáng / zhuàng | banner; classifier for buildings | Has 巾 (cloth) radical on the left with 童
+    瞳 | tóng | pupil of eye | Has 目 (eye) radical on the left with 童
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    相撞 | xiāng zhuàng | crash into each other; collide
+    撞伤 | zhuàng shāng | injure by collision
+    冲击 | chōng jī | charge; impact; shock wave
+    打击 | dǎ jī | strike; hit; crack down on
+
+semantic_boundary_contrasts:
+  core_nuance: 撞 denotes sudden, violent physical contact or an unexpected coincidental meeting.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 撞 vs. 碰 | pèng | 撞 carries much greater physical force, kinetic impact, and destructive potential (撞车, 巨浪撞击), whereas 碰 describes lighter contact, touching, or minor gentle bumps (碰了一下).
+    2 | 撞 vs. 打 | dǎ | 撞 implies direct physical collisions between moving bodies, while 打 is an intentional act of hitting, punching, beating, or playing.
+    3 | 撞 vs. 击 | jī | 撞 emphasizes blunt-force bodily collision or crashes, whereas 击 is formal and literary, describing precision strikes, blows, or ballistic impacts (击中目标).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 航行在大洋深处，最惊心动魄的莫过于深夜暗礁与风浪的撞击。狂风卷起数米高的黑色巨浪，一次次重重砸在甲板上。水手们在剧烈的震荡中咬紧牙关，因为他们深知，唯有坚守阵地，才能在自然伟力面前搏得一线生机。 | Hángxíng zài dàyáng shēnchù, zuì jīngxīndòupò de mòguòyú shēnyè ànjiāo yǔ fēnglàng de zhuàngjī. Kuángfēng juǎn qǐ shù mǐ gāo de hēisè jùlàng, yícìcì zhòngzhòng zá zài jiǎbǎn shàng. Shuǐshǒumen zài jùliè de zhèndàng zhōng yǎojǐn yáoguān, yīnwèi tāmen shēnzhī, wéiyǒu jiānshǒu zhèndì, cáinéng zài zìrán wěilì miànqián bó dé yíxiàn shēngjī. | Deep in the ocean, nothing strikes terror like colliding with nocturnal reefs and surging waves. Wind heaves multi-meter black rollers crashing upon decks. Bracing through jarring shuddering, sailors grit their teeth, knowing steadfast vigilance secures survival. | En alta mar nada sobrecoge más que el impacto nocturno contra arrecifes y olas monstruosas. El vendaval levanta crestas negras que azotan la cubierta. Entre sacudidas violentas la tripulación aprieta los dientes, consciente de que resistir es la única salvación.
+  #2 | 汽车安全碰撞测试是衡量整车被动安全性能的核心标准。通过高精度传感器记录车辆在高速撞击瞬间的车身结构形变与吸能效果，工程研发团队能够针对性强化关键受力构件，并在毫秒级时间内优化气囊点火算法，筑牢驾乘人员的安全防线。 | Qìchē ānquán pèngzhuàng cèshì shì héngliáng zhěngchē bèidòng ānquán xìngnéng de héxīn biāozhǔn. Tōngguò gāojīngdù chuángǎnqì jìlù chēliàng zài gāosù zhuàngjī shùnjiān de chēshēn jiégòu xíngbiàn yǔ xīnnéng xiàoguǒ, gōngchéng yánfā tuánduì nénggòu zhēnduìxìng qiánghuà guānjiàn shòulì gòujiàn, bìng zài háomiǎojí shíjiān nèi yōuhuà qìnáng diǎnhuǒ suànfǎ, zhùláo jiàchéng rényuán de ānquán fángxiàn. | Automotive crash testing represents the definitive benchmark for evaluating vehicular passive safety. High-precision sensors record deformation and kinetic energy absorption during high-speed impacts, empowering engineers to reinforce structural pillars and calibrate millisecond airbag deployment. | Los ensayos de choque automovilístico evalúan la seguridad pasiva integral. Sensores de precisión registran la deformación y disipación energética en colisiones violentas, permitiendo reforzar pilares clave y optimizar el disparo de los airbags para salvar vidas.

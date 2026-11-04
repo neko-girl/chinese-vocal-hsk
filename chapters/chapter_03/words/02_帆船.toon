@@ -1,0 +1,63 @@
+id: 2
+hanzi: 帆船
+pinyin: fān chuán
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: sailboat; sailing ship; yacht
+  es: velero; barco de vela; yate
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a boat or ship propelled mainly or partly by sails | embarcación propulsada principalmente o en parte por velas | 驾驶帆船 (steer a sailboat)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他毅然辞去了稳定的工作，买下一艘二手帆船，开启了长达数年的环球航行。 | Tā yìrán cíqù le wěndìng de gōngzuò, mǎi xià yì sōu èrshǒu fānchuán, kāiqǐ le chángdá shù nián de huánqiú hángxíng. | Resigning resolutely from his stable job, he bought a second-hand sailboat and embarked on a multi-year global voyage. | Renunciando con determinación a su trabajo estable, compró un velero de segunda mano e inició una vuelta al mundo de varios años.
+  #2 | 国际帆船拉力赛吸引了全球数十支顶尖船队，在汹涌澎湃的海浪中展开激烈的技术角逐。 | Guójì fānchuán lālìsài xīyǐn le quánqiú shùshí zhī dǐngjiān chuánduì, zài xiōngyǒng péngpài de hǎilàng zhōng zhǎnkāi jīliè de jìshù juézhú. | The international sailing regatta attracted dozens of top teams from across the globe to compete fiercely in surging waves. | La regata internacional de veleros atrajo a decenas de equipos de élite mundial para librar una reñida competencia náutica entre olas impetuosas.
+
+collocations[6]{hanzi,en}:
+  一艘帆船 | a sailing boat
+  驾驶帆船 | sail / pilot a sailboat
+  帆船比赛 | sailing competition / regatta
+  帆船运动 | sailing sport
+  豪华帆船 | luxury sailboat / yacht
+  帆船航行 | sailboat navigation / cruising
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  一帆风顺 | yì fān fēng shùn | smooth sailing; proceed without a hitch
+  同舟共济 | tóng zhōu gòng jì | cross a river in the same boat; pull together in times of trouble
+  乘风破浪 | chéng fēng pò làng | ride the wind and cleave the waves; forge ahead fearlessly
+  风雨同舟 | fēng yǔ tóng zhōu | share weather and boat together; stand together through thick and thin
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  帆 | fān | sail; canvas | vela de barco; lienzo | 巾 | cloth / towel | 巾 (canvas cloth used for catching wind) | 凡 (fán, phonetic marker and spreading contour) | 6 | 左右结构 | Phono-semantic compound: cloth (巾) spreading wide to catch sea breezes (凡) to propel watercraft. | A tall sheet of strong woven cloth (巾) catching the vast ocean breeze (凡) to push a ship forward. | Una gran tela resistente (巾) desplegada para atrapar la brisa marina (凡) e impulsar el barco. | 55 | LBHN | ""
+  船 | chuán | boat; ship; vessel | barco; nave; embarcación | 舟 | boat / canoe | 舟 (pictograph of a dugout canoe) | 㕣 (yǎn / 几+口 phonetic / hollow hull cavity) | 11 | 左右结构 | Phono-semantic compound: the boat radical (舟) paired with hull opening (㕣), indicating a floating water vessel. | A buoyant wooden boat hull (舟) carrying travelers across the open water (㕣). | El casco de madera de un barco (舟) que navega sobre las aguas abiertas (㕣). | 35 | HYNCR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Hoisting sturdy canvas sails (帆) onto a wooden ship (船) transforms it into an adventurous ocean-going sailboat (帆船).
+  composite_memory_hook_es: Izar fuertes velas de lona (帆) en un barco de madera (船) lo convierte en un intrépido velero (帆船).
+  cultural_and_cognitive_roots: In Chinese maritime history, the invention of battened junk sails enabled long-distance navigation. The sailboat metaphorically embodies self-determination, freedom, and brave pioneering spirit.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by a rising 2nd tone: fān chuán (55-35). Both syllables require distinct, ringing open vocal resonance without rushing.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    佩 | pèi | admire; wear at waist | Has 亻 (person) radical on the left instead of 巾 (cloth)
+    凡 | fán | ordinary; mundane | The root character without the 巾 (cloth) radical
+    般 | bān | sort; manner; kind | Has 舟 on the left and 殳 on the right instead of 㕣
+    舵 | duò | rudder; helm | Has 舟 on the left and 它 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    帆布 | fān bù | canvas; sailcloth
+    扬帆 | yáng fān | hoist sails; set sail
+    船舶 | chuán bó | shipping; vessels; boats
+    船只 | chuán zhī | ships; vessels (collective)
+
+semantic_boundary_contrasts:
+  core_nuance: 帆船 specifies a water vessel relying fundamentally on wind-driven sails, representing lifestyle sailing and expedition voyages.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 帆船 vs. 轮船 | lúnchuán | 帆船 uses wind and sails for propulsion and represents sport or leisure, whereas 轮船 is a motorized steam or motor ship used for industrial passenger and cargo transport.
+    2 | 帆船 vs. 快艇 | kuàitǐng | 帆船 emphasizes natural wind navigation and patience on long routes, while 快艇 is a high-speed engine-powered motorboat designed for rapid cruising or water patrol.
+    3 | 帆船 vs. 军舰 | jūnjiàn | 帆船 is a civilian vessel used in recreation, athletics, and oceanic exploration, whereas 军舰 designates naval combat warships.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 当夕阳的余晖洒满辽阔海面，白色帆船随微风轻轻荡漾。远离了陆地的嘈杂喧嚣，唯有海水拍打船舷的节律与海鸟清脆的鸣叫相伴。在纯净的蔚蓝世界里，心灵找到了久违的从容与自由。 | Dāng xīyáng de yúhuī sǎ mǎn liáokuò hǎimiàn, báisè fānchuán suí wēifēng qīngqīng dàngyàng. Yuǎnlí le lùdì de cáozá xuānxiāo, wéiyǒu hǎishuǐ pāidǎ chuánxián de jiélǜ yǔ hǎiniǎo qīngcuì de míngjiào xiāngbàn. Zài chúnjìng de wèilán shìjiè lǐ, xīnlíng zhǎodào le jiǔwéi de cóngròng yǔ zìyóu. | As sunset glow bathes the expansive sea, the white sailboat sways gently with the breeze. Far from terrestrial clamor, only the rhythmic lapping against the hull and seabird calls remain. In this pure azure expanse, the soul recovers its long-sought serenity and freedom. | Al teñirse el mar con los arreboles del ocaso, el velero blanco se mece suavemente con la brisa. Lejos del bullicio terrestre, solo acompaña el rítmico romper de las olas contra el casco y el trino de las aves marinas. En este puro mundo azul, el alma halla su ansiada libertad.
+  #2 | 近年来，随着沿海城市海洋休闲产业的发展，民间帆船运动逐渐走入大众视野。参与者不仅能在航海中掌握水文与气象技能，更能磨砺团队协同作战与应对突发危机的意志力，展现了现代人挑战自然极限的体育精神。 | Jìnniánlái, suízhe yánhǎi chéngshì hǎiyáng xiūxián chǎnyè de fāzhǎn, mínjiān fānchuán yùndòng zhújiàn zǒurù dàzhòng shìyě. Cānyùzhě bùjǐn néng zài hánghǎi zhōng zhǎngwò shuǐwén yǔ qìxiàng jìnéng, gèng néng mólì tuánduì xiétóng zuòzhàn yǔ yìngduì tūfā wēijī de yìzhìlì, zhǎnxiàn le xiàndài rén tiǎozhàn zìrán jíxiàn de tǐyù jīngshén. | In recent years, with coastal marine recreation expanding, recreational sailing has entered mainstream vision. Sailors master hydrological and meteorological skills while forging teamwork and crisis-handling fortitude, embodying the modern athletic spirit of daring nature's limits. | En los últimos años, con el auge del ocio marino costero, la navegación a vela ha ganado popularidad. Quienes navegan aprenden hidrología y meteorología, templando a la vez la cooperación en equipo y la resolución de crisis, mostrando el valor contemporáneo de superación.

@@ -1,0 +1,64 @@
+id: 35
+hanzi: 铺
+pinyin: pū
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to spread; to pave; to unfold; to make (a bed); store / shop / berth (read pù)
+  es: extender; desplegar; tender (la cama); pavimentar; tienda / litera (leído pù)
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to spread out, unfold, or smooth bedding, rugs, or tablecloths | extender; desplegar; tender la cama o manteles | 铺床 (make the bed / spread sheets)
+  2 | Verb | Standard | to lay down or pave a road, floor, or pipeline | pavimentar; tender baldosas, raíles o tuberías | 铺路 (pave a road)
+  3 | Noun | Standard | (read pù) a shop, store, or sleeping berth / bunk | (leído pù) tienda; comercio; litera | 卧铺 (sleeping berth on train)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 母亲把刚在日头下晒得干爽蓬松的棉被小心翼翼地抱进屋，平平整整地铺在大床上。 | Mǔqīn bǎ gāng zài rìtou xià shài de gānshuǎng péngsōng de miánbèi xiǎoxīnyìyì de bào jìn wū, píngpíng-zhěngzhěng de pū zài dà chuáng shàng. | Mother carried the fluffy, dry cotton quilt freshly sunned under the daylight into the room, spreading it neat and smooth over the large bed. | Mi madre llevó a la habitación el mullido edredón bien soleado y lo extendió con mimo sobre la cama matrimonial sin una arruga.
+  #2 | 为了改善山区农村群众的出行条件，交通运输局组织大型机械加班加点铺设沥青路面。 | Wèile gǎishàn shānqū nóngcūn qúnzhòng de chūxíng tiáojiàn, jiāotōng yùnshū jú zǔzhī dàxíng jīxiè jiābān-jiādiǎn pūshè lìqīng lùmiàn. | To improve travel conditions for mountain villagers, the transport bureau organized heavy machinery working overtime to pave asphalt roads. | Para mejorar los caminos de los pueblos de la sierra, transportes desplegó maquinaria pesada trabajando horas extras para pavimentar la calzada con asfalto.
+
+collocations[6]{hanzi,en}:
+  铺床 | make the bed / spread bedding
+  铺路 | pave a road
+  铺满 | spread all over; carpeted with
+  铺平 | smooth out; flatten
+  铺盖 | bedding / bedroll
+  床铺 | bed; sleeping place (read pù)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  铺天盖地 | pū tiān gài dì | blot out the sky and cover the earth; overwhelming in scale
+  节衣缩食 | jié yī suō shí | live frugally; tighten one's belt
+  铺张浪费 | pū zhāng làng fèi | extravagant and wasteful; excessive luxury
+  平铺直叙 | píng pū zhí xù | speak or write in a dull, straightforward narrative style
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  铺 | pū | spread; pave; store; bed | extender; desplegar; pavimentar; tienda | 钅 | metal / gold | 钅 (metal door-knocker / hardware) | 甫 (fǔ, broad / phonetic) | 12 | 左右结构 | Phono-semantic compound where metal 钅 originally referred to flat metal door-plates, expanding to spreading materials flat. | Spreading shiny flat metal tiles (钅) broad and wide (甫) across an open floor to pave it smoothly. | Extender planchas de metal pulido (钅) a lo largo y ancho (甫) para allanar y pavimentar el suelo con tersura. | 55 | CIBY | 鋪
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Fastening broad plates of metal (钅) or unrolling fabric wide (甫) smoothly spreads out (铺) a surface.
+  composite_memory_hook_es: Extender planchas resistentes (钅) o desplegar telas a lo ancho (甫) sirve para tender (铺) la cama con esmero.
+  cultural_and_cognitive_roots: In traditional Chinese domestic hospitality, '铺床' (making a bed with fresh quilts) is a heartfelt ritual welcoming weary travelers, signaling total familial embrace and maternal solicitude.
+  tone_sandhi_and_pitch_modulation: When used as a verb (spread/pave), pronounced in 1st tone: 'pū' (55). When used as a noun (shop/store/berth, e.g. 店铺, 上铺), pronounced in 4th tone: 'pù' (51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    浦 | pǔ | riverbank; shore | Has 氵 (water) on the left instead of 钅 (metal)
+    捕 | bǔ | catch; seize; arrest | Has 扌 (hand) on the left of 甫
+    辅 | fǔ | assist; auxiliary | Has 车 (cart) on the left of 甫
+    傅 | fù | tutor; teacher | Has 亻 (person) with 寸 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    铺设 | pū shè | lay down; pave; install
+    平铺 | píng pū | spread flat
+    床铺 | chuáng pù | bed; sleeping berth
+    店铺 | diàn pù | shop; retail store
+
+semantic_boundary_contrasts:
+  core_nuance: 铺 indicates spreading, unfolding, or smoothing an object horizontally across a flat surface.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 铺 vs. 盖 | gài | 铺 means spreading something beneath or horizontally flat onto a mattress or floor (e.g. 铺床单, 铺地砖), whereas 盖 means draping over or covering from above (e.g. 盖被子, 盖上盖子).
+    2 | 铺 vs. 展 | zhǎn | 铺 emphasizes smoothing flat onto a supporting base, while 展 emphasizes unfolding, expanding, or putting on display in 3D space (e.g. 展开翅膀, 展览).
+    3 | 铺 vs. 垫 | diàn | 铺 is horizontal spreading, while 垫 emphasizes placing something underneath to provide cushioning, elevate, or pad (e.g. 垫高, 垫子).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 秋末初冬的落叶铺满了古朴的庭院，金黄一片。踩在厚厚的落叶上，脚下发出清脆细碎的声响。屋里母亲早已把新棉絮铺在木床上，那份沉静而踏实的暖意，让归家的游子倍感宁静。 | Qiūmò-chūdōng de luòyè pūmǎn le gǔpǔ de tíngyuàn, jīnhuáng yí piàn. Cǎi zài hòuhòu de luòyè shàng, jiǎoxià fāchū qīngcuì xìsuì de shēngxiǎng. Wūlǐ mǔqīn zǎoyǐ bǎ xīn miánxù pū zài mùchuáng shàng, nà fèn chénjìng ér tàshi de nuǎnyì, ràng guījiā de yóuzǐ bèi gǎn níngjìng. | Late autumn fallen leaves carpet the courtyard in pure gold. Treading upon the leaves makes crisp rustling whispers. Indoors mother had smoothed fresh cotton onto the bed, its calm warmth comforting the returning traveler. | Las hojas secas de otoño alfombran de oro el patio rústico. Al pisarlas crujen con suave susurro. Dentro, madre ha extendido el algodón nuevo sobre el lecho; esa paz sólida sosiega al viajero de vuelta al hogar.
+  #2 | 国家高速铁路与轨道交通网络的快速铺设，构筑起现代综合立体交通网的大动脉。先进的长钢轨无缝焊接与精准铺轨施工技术，确保了列车在时速三百五十公里高速行驶下的极佳平稳性与舒适度。 | Guójiā gāosù tiělù yǔ guǐdào jiāotōng wǎngluò de kuàisù pūshè, gòuzhù qǐ xiàndài zōnghé lìtǐ jiāotōngwǎng de dàmàimài. Xiānjìn de cháng gāngguǐ wúfèng hànjiē yǔ jīngzhǔn pūguǐ shīgōng jìshù, quèbǎo le lièchē zài shísù sān bǎi wǔshí gōnglǐ gāosù xíngshǐ xià de jí jiā píngwěnxìng yǔ shūshìdù. | Rapid laying of high-speed rail networks forms arteries of modern transit. Advanced continuous welded rail and precision track-laying techniques ensure supreme stability and passenger comfort at speeds of 350 km/h. | El tendido de líneas férreas de alta velocidad articula las arterias del transporte moderno. La soldadura continua de raíles y el tendido milimétrico de vías garantizan suavidad y confort a 350 kilómetros por hora.

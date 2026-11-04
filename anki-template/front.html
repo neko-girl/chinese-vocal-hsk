@@ -1,0 +1,765 @@
+<div class="card card-container front-card">
+  <!-- Action Bar Header Controls -->
+<div class="card-top-bar">
+  <div class="card-action-bar">
+    <button type="button" class="drawer-trigger-btn" id="btn-trigger-lookup" title="External Lookups" aria-label="External Lookups" onclick="ankineitorOpenDrawer('lookup')">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
+        <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 14z"/>
+      </svg>
+    </button>
+    <button type="button" class="drawer-trigger-btn" id="btn-trigger-settings" title="Study Settings" aria-label="Study Settings" onclick="ankineitorOpenDrawer('settings')">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
+        <path d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58c.18-.14.23-.41.12-.61l-1.92-3.32c-.12-.22-.37-.29-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54c-.04-.24-.24-.41-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96c-.22-.08-.47 0-.59.22L2.74 8.87c-.12.21-.08.47.12.61l2.03 1.58c-.05.3-.09.63-.09.94s.02.64.07.94l-2.03 1.58c-.18.14-.23.41-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32c.12-.22.07-.47-.12-.61l-2.01-1.58zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6z"/>
+      </svg>
+    </button>
+  </div>
+</div>
+
+<!-- Backdrop Overlay -->
+<div id="ankineitor-drawer-overlay" class="drawer-overlay" onclick="ankineitorCloseDrawers()"></div>
+
+<!-- Study & Field Visibility Drawer -->
+<div id="ankineitor-settings-drawer" class="ankineitor-drawer" aria-hidden="true">
+  <div class="drawer-header">
+    <div class="drawer-title-group">
+      <span class="drawer-icon">⚙️</span>
+      <span class="drawer-title">Study & Display Settings</span>
+    </div>
+    <button type="button" class="drawer-close-btn" onclick="ankineitorCloseDrawers()" title="Close">&times;</button>
+  </div>
+
+  <div class="drawer-content">
+    <!-- Quick Study Presets -->
+    <div class="drawer-section-label">⚡ Quick Presets</div>
+    <div class="preset-btn-group">
+      <button type="button" class="preset-btn primary" onclick="ankineitorApplyPreset('hanzi_only')">
+        <span>🀄</span> Hanzi Only (Testing Mode)
+      </button>
+      <div style="display:flex; gap:6px;">
+        <button type="button" class="preset-btn" style="flex:1;" onclick="ankineitorApplyPreset('show_all')">
+          <span>👁️</span> Show All
+        </button>
+        <button type="button" class="preset-btn" style="flex:1;" onclick="ankineitorApplyPreset('defaults')">
+          <span>↺</span> Defaults
+        </button>
+      </div>
+      <div style="display:flex; gap:6px;">
+        <button type="button" class="preset-btn" style="flex:1;" onclick="ankineitorApplyPreset('pinyin_first')">
+          <span>🔤</span> Pinyin First
+        </button>
+        <button type="button" class="preset-btn" style="flex:1;" onclick="ankineitorApplyPreset('bilingual')">
+          <span>🌐</span> Bilingual
+        </button>
+      </div>
+    </div>
+
+    <!-- 1. Display & Layout Options -->
+    <div class="settings-group open">
+      <div class="settings-group-header" onclick="this.parentElement.classList.toggle('open')">
+        <span class="settings-group-title">🖥️ Display & Layout</span>
+        <span class="settings-group-arrow">▼</span>
+      </div>
+      <div class="settings-group-body">
+        <div class="drawer-section-label">Card Width Preset</div>
+        <div class="drawer-segmented-control" id="ctrl-card-width">
+          <button type="button" class="segmented-btn active" data-width-btn="auto" onclick="ankineitorSetCardWidth('auto')">Auto</button>
+          <button type="button" class="segmented-btn" data-width-btn="compact" onclick="ankineitorSetCardWidth('compact')">Compact</button>
+          <button type="button" class="segmented-btn" data-width-btn="tablet" onclick="ankineitorSetCardWidth('tablet')">Tablet</button>
+          <button type="button" class="segmented-btn" data-width-btn="desktop" onclick="ankineitorSetCardWidth('desktop')">Desktop</button>
+          <button type="button" class="segmented-btn" data-width-btn="full" onclick="ankineitorSetCardWidth('full')">Full</button>
+        </div>
+
+        <div class="drawer-section-label">Font Scale</div>
+        <div class="drawer-segmented-control" id="ctrl-font-scale">
+          <button type="button" class="segmented-btn" data-font-btn="sm" onclick="ankineitorSetFontScale('sm')">Small</button>
+          <button type="button" class="segmented-btn active" data-font-btn="md" onclick="ankineitorSetFontScale('md')">Normal</button>
+          <button type="button" class="segmented-btn" data-font-btn="lg" onclick="ankineitorSetFontScale('lg')">Large</button>
+        </div>
+
+        <div class="drawer-section-label">Chinese Character Scale</div>
+        <div class="drawer-segmented-control" id="ctrl-hanzi-scale">
+          <button type="button" class="segmented-btn active" data-hanzi-btn="normal" onclick="ankineitorSetHanziScale('normal')">Normal</button>
+          <button type="button" class="segmented-btn" data-hanzi-btn="lg" onclick="ankineitorSetHanziScale('lg')">Large (+15%)</button>
+          <button type="button" class="segmented-btn" data-hanzi-btn="xl" onclick="ankineitorSetHanziScale('xl')">Jumbo (+30%)</button>
+        </div>
+
+        <div class="drawer-section-label">Chinese Font Family</div>
+        <div class="drawer-segmented-control" id="ctrl-font-family">
+          <button type="button" class="segmented-btn active" data-fontfam-btn="sans" onclick="ankineitorSetFontFamily('sans')">Modern Sans</button>
+          <button type="button" class="segmented-btn" data-fontfam-btn="kaiti" onclick="ankineitorSetFontFamily('kaiti')">Kaiti (楷体)</button>
+          <button type="button" class="segmented-btn" data-fontfam-btn="songti" onclick="ankineitorSetFontFamily('songti')">Songti (宋体)</button>
+        </div>
+
+        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Tone Colors</span><span class="setting-desc">Colorize pinyin syllables by tone mark</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-tone-colors" onchange="ankineitorToggleSetting('toneColors', this.checked)"><span class="slider"></span></label>
+        </div>
+
+        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Auto-trigger Main Audio</span><span class="setting-desc">Play headword audio on reveal; keep sentences silent</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-autoplay-main" onchange="ankineitorToggleSetting('autoplay_main', this.checked)"><span class="slider"></span></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2. Example Sentences (语境例句) -->
+    <div class="settings-group open">
+      <div class="settings-group-header" onclick="this.parentElement.classList.toggle('open')">
+        <span class="settings-group-title">💬 Example Sentences (语境例句)</span>
+        <span class="settings-group-arrow">▼</span>
+      </div>
+      <div class="settings-group-body">        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Sentences Section</span><span class="setting-desc">Show/hide entire sentences tab</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-sentences" onchange="ankineitorToggleSetting('sentences', this.checked)"><span class="slider"></span></label>
+        </div>
+
+        <div class="drawer-section-label">Sentence 1 Options</div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Sentence 1 (Whole)</span><span class="setting-desc">Display primary example sentence</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-sent-1" onchange="ankineitorToggleSetting('sent_1', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Sentence 1 Pinyin</span><span class="setting-desc">Pronunciation transcription</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-sent-1-py" onchange="ankineitorToggleSetting('sent_1_py', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Sentence 1 English</span><span class="setting-desc">Primary translation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-sent-1-en" onchange="ankineitorToggleSetting('sent_1_en', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Sentence 1 Spanish</span><span class="setting-desc">Secondary translation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-sent-1-es" onchange="ankineitorToggleSetting('sent_1_es', this.checked)"><span class="slider"></span></label>
+        </div>
+
+        <div class="drawer-section-label">Sentence 2 Options</div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Sentence 2 (Whole)</span><span class="setting-desc">Display secondary example sentence</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-sent-2" onchange="ankineitorToggleSetting('sent_2', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Sentence 2 Pinyin</span><span class="setting-desc">Pronunciation transcription</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-sent-2-py" onchange="ankineitorToggleSetting('sent_2_py', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Sentence 2 English</span><span class="setting-desc">Primary translation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-sent-2-en" onchange="ankineitorToggleSetting('sent_2_en', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Sentence 2 Spanish</span><span class="setting-desc">Secondary translation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-sent-2-es" onchange="ankineitorToggleSetting('sent_2_es', this.checked)"><span class="slider"></span></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3. Extended Passages (篇章阅读) -->
+    <div class="settings-group open">
+      <div class="settings-group-header" onclick="this.parentElement.classList.toggle('open')">
+        <span class="settings-group-title">📖 Extended Passages (篇章阅读)</span>
+        <span class="settings-group-arrow">▼</span>
+      </div>
+      <div class="settings-group-body">        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Passages Section</span><span class="setting-desc">Show/hide extended reading tab</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-passages" onchange="ankineitorToggleSetting('passages', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">All Passage Pinyin</span><span class="setting-desc">Hide passage pinyin while keeping standard pinyin</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-passage-py" onchange="ankineitorToggleSetting('passage_py', this.checked)"><span class="slider"></span></label>
+        </div>
+
+        <div class="drawer-section-label">Passage 1 Options</div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Passage 1 (Whole)</span><span class="setting-desc">Extended reading passage 1</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-passage-1" onchange="ankineitorToggleSetting('passage_1', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Passage 1 Pinyin</span><span class="setting-desc">Passage 1 phonetics</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-passage-1-py" onchange="ankineitorToggleSetting('passage_1_py', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Passage 1 English</span><span class="setting-desc">Passage 1 translation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-passage-1-en" onchange="ankineitorToggleSetting('passage_1_en', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Passage 1 Spanish</span><span class="setting-desc">Passage 1 translation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-passage-1-es" onchange="ankineitorToggleSetting('passage_1_es', this.checked)"><span class="slider"></span></label>
+        </div>
+
+        <div class="drawer-section-label">Passage 2 Options</div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Passage 2 (Whole)</span><span class="setting-desc">Extended reading passage 2</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-passage-2" onchange="ankineitorToggleSetting('passage_2', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Passage 2 Pinyin</span><span class="setting-desc">Passage 2 phonetics</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-passage-2-py" onchange="ankineitorToggleSetting('passage_2_py', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Passage 2 English</span><span class="setting-desc">Passage 2 translation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-passage-2-en" onchange="ankineitorToggleSetting('passage_2_en', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Passage 2 Spanish</span><span class="setting-desc">Passage 2 translation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-passage-2-es" onchange="ankineitorToggleSetting('passage_2_es', this.checked)"><span class="slider"></span></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4. Headword & Meanings (主词与释义) -->
+    <div class="settings-group">
+      <div class="settings-group-header" onclick="this.parentElement.classList.toggle('open')">
+        <span class="settings-group-title">🔤 Headword & Meanings (主词释义)</span>
+        <span class="settings-group-arrow">▼</span>
+      </div>
+      <div class="settings-group-body">        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Headword Pinyin</span><span class="setting-desc">Hero pronunciation above card</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-hero-py" onchange="ankineitorToggleSetting('hero_py', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Master Pinyin</span><span class="setting-desc">Global pinyin toggle</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-pinyin" onchange="ankineitorToggleSetting('pinyin', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Tone Contour Guide</span><span class="setting-desc">Chao pitch number contour badge</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-hero-contour" onchange="ankineitorToggleSetting('hero_contour', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Word Audio Box</span><span class="setting-desc">Headword pronunciation button</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-hero-audio" onchange="ankineitorToggleSetting('hero_audio', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">English Definitions</span><span class="setting-desc">Primary English meanings</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-definitions" onchange="ankineitorToggleSetting('definitions', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Spanish Subtitles</span><span class="setting-desc">Secondary Spanish translations</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-spanish" onchange="ankineitorToggleSetting('spanish', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Structured Senses</span><span class="setting-desc">Multi-sense breakdown cards</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-senses" onchange="ankineitorToggleSetting('senses', this.checked)"><span class="slider"></span></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- 5. Collocations & Idioms (搭配与成语) -->
+    <div class="settings-group">
+      <div class="settings-group-header" onclick="this.parentElement.classList.toggle('open')">
+        <span class="settings-group-title">⚡ Collocations & Idioms (搭配与成语)</span>
+        <span class="settings-group-arrow">▼</span>
+      </div>
+      <div class="settings-group-body">        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Collocations Section</span><span class="setting-desc">High-frequency partnerships</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-collocations" onchange="ankineitorToggleSetting('collocations', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Collocations Pinyin</span><span class="setting-desc">Pronunciation inside collocations</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-colloc-py" onchange="ankineitorToggleSetting('colloc_py', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Collocations English</span><span class="setting-desc">Gloss translations</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-colloc-en" onchange="ankineitorToggleSetting('colloc_en', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Idioms Section</span><span class="setting-desc">Classical chéngyǔ</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-idioms" onchange="ankineitorToggleSetting('idioms', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Idioms Pinyin</span><span class="setting-desc">Chéngyǔ pronunciation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-idioms-py" onchange="ankineitorToggleSetting('idioms_py', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Idioms Meanings</span><span class="setting-desc">Chéngyǔ explanation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-idioms-def" onchange="ankineitorToggleSetting('idioms_def', this.checked)"><span class="slider"></span></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- 6. Decomposition & Radicals (字形拆解) -->
+    <div class="settings-group">
+      <div class="settings-group-header" onclick="this.parentElement.classList.toggle('open')">
+        <span class="settings-group-title">🧩 Decomposition & Radicals (字形拆解)</span>
+        <span class="settings-group-arrow">▼</span>
+      </div>
+      <div class="settings-group-body">        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Decomposition Section</span><span class="setting-desc">Kangxi character breakdown</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-decomp" onchange="ankineitorToggleSetting('decomp', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Decomposition Pinyin</span><span class="setting-desc">Individual character pinyin</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-decomp-py" onchange="ankineitorToggleSetting('decomp_py', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Decomposition Meanings</span><span class="setting-desc">Character definitions</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-decomp-meaning" onchange="ankineitorToggleSetting('decomp_meaning', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Radicals & Stroke Badges</span><span class="setting-desc">Kangxi radical badges and stroke count</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-decomp-radicals" onchange="ankineitorToggleSetting('decomp_radicals', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Phono-Semantic Components</span><span class="setting-desc">Semantic shape & phonetic sound clues</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-decomp-comps" onchange="ankineitorToggleSetting('decomp_comps', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Stories & Tone Anchors</span><span class="setting-desc">Visual stories and tone anchors</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-decomp-notes" onchange="ankineitorToggleSetting('decomp_notes', this.checked)"><span class="slider"></span></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- 7. Mnemonics, Traps & Cognates (记忆与形近) -->
+    <div class="settings-group">
+      <div class="settings-group-header" onclick="this.parentElement.classList.toggle('open')">
+        <span class="settings-group-title">🧠 Mnemonics, Traps & Nuances (记忆形近)</span>
+        <span class="settings-group-arrow">▼</span>
+      </div>
+      <div class="settings-group-body">        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Mnemonics Section</span><span class="setting-desc">Action stories and cultural notes</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-mnemonics" onchange="ankineitorToggleSetting('mnemonics', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Memory Hook (EN)</span><span class="setting-desc">English mnemonic narrative</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-mnem-en" onchange="ankineitorToggleSetting('mnem_en', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Memory Hook (ES)</span><span class="setting-desc">Spanish mnemonic narrative</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-mnem-es" onchange="ankineitorToggleSetting('mnem_es', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Cultural Roots</span><span class="setting-desc">Cognitive and cultural origin notes</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-cultural-notes" onchange="ankineitorToggleSetting('cultural_notes', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Tone Sandhi Notes</span><span class="setting-desc">Pitch modulation instructions</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-tone-notes" onchange="ankineitorToggleSetting('tone_notes', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Traps Section</span><span class="setting-desc">Look-alikes & false friends</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-traps" onchange="ankineitorToggleSetting('traps', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Traps Pinyin</span><span class="setting-desc">Look-alike pronunciation</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-traps-py" onchange="ankineitorToggleSetting('traps_py', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Traps Meaning</span><span class="setting-desc">Look-alike distinction</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-traps-meaning" onchange="ankineitorToggleSetting('traps_meaning', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Cognates Family Pinyin</span><span class="setting-desc">Etymological family phonetics</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-family-py" onchange="ankineitorToggleSetting('family_py', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Cognates Family Gloss</span><span class="setting-desc">Cognate meaning gloss</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-family-gloss" onchange="ankineitorToggleSetting('family_gloss', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Synonym Nuances</span><span class="setting-desc">Near-synonym boundary contrasts</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-syn-contrast" onchange="ankineitorToggleSetting('syn_contrast', this.checked)"><span class="slider"></span></label>
+        </div>        <div class="setting-row">
+          <div class="setting-info"><span class="setting-title">Synonyms Section</span><span class="setting-desc">Entire synonyms tab</span></div>
+          <label class="ankineitor-switch"><input type="checkbox" id="toggle-synonyms" onchange="ankineitorToggleSetting('synonyms', this.checked)"><span class="slider"></span></label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Contextual External Lookup Drawer -->
+<div id="ankineitor-lookup-drawer" class="ankineitor-drawer" aria-hidden="true">
+  <div class="drawer-header">
+    <div class="drawer-title-group">
+      <span class="drawer-icon">🔍</span>
+      <span class="drawer-title">External Lookups</span>
+      <span class="drawer-term-badge">{{Word}}</span>
+    </div>
+    <button type="button" class="drawer-close-btn" onclick="ankineitorCloseDrawers()" title="Close">&times;</button>
+  </div>
+
+  <div class="drawer-content">
+    <div class="drawer-section-label">Mobile App Scheme</div>
+    <div class="lookup-list">
+      <a class="lookup-item" href="plecoapi://x-callback-url/s?q={{Word}}">
+        <div class="lookup-item-icon">🐟</div>
+        <div class="lookup-item-content">
+          <div class="lookup-item-name">Pleco Chinese Dictionary</div>
+          <div class="lookup-item-desc">Launch installed native mobile dictionary</div>
+        </div>
+        <div class="lookup-item-arrow">↗</div>
+      </a>
+    </div>
+
+    <div class="drawer-section-label">Authoritative Dictionaries</div>
+    <div class="lookup-list">
+      <a class="lookup-item" href="https://dict.youdao.com/search?q={{Word}}" target="_blank">
+        <div class="lookup-item-icon">🔴</div>
+        <div class="lookup-item-content">
+          <div class="lookup-item-name">Youdao (有道词典)</div>
+          <div class="lookup-item-desc">Native audio, collocations & usage frequency</div>
+        </div>
+        <div class="lookup-item-arrow">↗</div>
+      </a>
+
+      <a class="lookup-item" href="https://hanyu.baidu.com/s?wd={{Word}}" target="_blank">
+        <div class="lookup-item-icon">🟢</div>
+        <div class="lookup-item-content">
+          <div class="lookup-item-name">Baidu Hanyu (百度汉语)</div>
+          <div class="lookup-item-desc">Official definitions, stroke orders & idioms</div>
+        </div>
+        <div class="lookup-item-arrow">↗</div>
+      </a>
+
+      <a class="lookup-item" href="https://www.zdic.net/hans/{{Word}}" target="_blank">
+        <div class="lookup-item-icon">📖</div>
+        <div class="lookup-item-content">
+          <div class="lookup-item-name">ZDic (汉典)</div>
+          <div class="lookup-item-desc">Comprehensive classical Kangxi and etymology</div>
+        </div>
+        <div class="lookup-item-arrow">↗</div>
+      </a>
+    </div>
+
+    <div class="drawer-section-label">Character Breakdown & Strokes</div>
+    <div class="lookup-list">
+      <a class="lookup-item" href="https://hanzicraft.com/character/{{Word}}" target="_blank">
+        <div class="lookup-item-icon">🧩</div>
+        <div class="lookup-item-content">
+          <div class="lookup-item-name">HanziCraft</div>
+          <div class="lookup-item-desc">Phonetic / semantic component decomposition</div>
+        </div>
+        <div class="lookup-item-arrow">↗</div>
+      </a>
+
+      <a class="lookup-item" href="https://characterpop.com/characters/{{Word}}" target="_blank">
+        <div class="lookup-item-icon">🍿</div>
+        <div class="lookup-item-content">
+          <div class="lookup-item-name">CharacterPop</div>
+          <div class="lookup-item-desc">Radical breakdown and mnemonic stories</div>
+        </div>
+        <div class="lookup-item-arrow">↗</div>
+      </a>
+
+      <a class="lookup-item" href="https://rtega.be/chmn/index.php?c={{Word}}" target="_blank">
+        <div class="lookup-item-icon">✍️</div>
+        <div class="lookup-item-content">
+          <div class="lookup-item-name">Rtega Chinese Mnemonics</div>
+          <div class="lookup-item-desc">Decomposition diagram & stroke sequence</div>
+        </div>
+        <div class="lookup-item-arrow">↗</div>
+      </a>
+    </div>
+
+    <div class="drawer-section-label">Real Sentences Repository</div>
+    <div class="lookup-list">
+      <a class="lookup-item" href="https://tatoeba.org/sentences/search?query={{Word}}&from=cmn&to=eng" target="_blank">
+        <div class="lookup-item-icon">💬</div>
+        <div class="lookup-item-content">
+          <div class="lookup-item-name">Tatoeba Corpus</div>
+          <div class="lookup-item-desc">Search thousands of authentic translated sentences</div>
+        </div>
+        <div class="lookup-item-arrow">↗</div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  // Universal Storage Helper (localStorage -> sessionStorage -> window._persistence)
+  var AnkineitorStorage = {
+    get: function(key, fallback) {
+      try {
+        var v = localStorage.getItem('ankineitor_' + key);
+        if (v !== null) return JSON.parse(v);
+      } catch(e) {}
+      try {
+        var sv = sessionStorage.getItem('ankineitor_' + key);
+        if (sv !== null) return JSON.parse(sv);
+      } catch(e) {}
+      if (window._ankineitor && window._ankineitor[key] !== undefined) {
+        return window._ankineitor[key];
+      }
+      return fallback;
+    },
+    set: function(key, val) {
+      try { localStorage.setItem('ankineitor_' + key, JSON.stringify(val)); } catch(e) {}
+      try { sessionStorage.setItem('ankineitor_' + key, JSON.stringify(val)); } catch(e) {}
+      window._ankineitor = window._ankineitor || {};
+      window._ankineitor[key] = val;
+    }
+  };
+
+  window.ankineitorOpenDrawer = function(type) {
+    ankineitorCloseDrawers();
+    var overlay = document.getElementById('ankineitor-drawer-overlay');
+    var drawer = document.getElementById('ankineitor-' + type + '-drawer');
+    if (overlay && drawer) {
+      overlay.classList.add('active');
+      drawer.classList.add('active');
+    }
+  };
+
+  window.ankineitorCloseDrawers = function() {
+    var overlay = document.getElementById('ankineitor-drawer-overlay');
+    if (overlay) overlay.classList.remove('active');
+    var drawers = document.querySelectorAll('.ankineitor-drawer');
+    for (var i = 0; i < drawers.length; i++) {
+      drawers[i].classList.remove('active');
+    }
+  };
+
+  var settingConfig = {
+    // Legacy / Master toggles
+    pinyin: { cls: 'hide-pinyin', defaultVal: true },
+    definitions: { cls: 'hide-definitions', defaultVal: true },
+    spanish: { cls: 'hide-spanish', defaultVal: true },
+    decomp: { cls: 'hide-decomp', defaultVal: true },
+    mnemonics: { cls: 'hide-mnemonics', defaultVal: true },
+    collocations: { cls: 'hide-collocations', defaultVal: true },
+    traps: { cls: 'hide-traps', defaultVal: true },
+    sentences: { cls: 'hide-sentences', defaultVal: true },
+    passages: { cls: 'hide-passages', defaultVal: true },
+    idioms: { cls: 'hide-idioms', defaultVal: true },
+    synonyms: { cls: 'hide-synonyms', defaultVal: true },
+    toneColors: { cls: 'hide-tone-colors', defaultVal: true },
+
+    // Granular Sentences
+    sent_1: { cls: 'hide-sent-1', defaultVal: true },
+    sent_2: { cls: 'hide-sent-2', defaultVal: true },
+    sent_1_py: { cls: 'hide-sent-1-py', defaultVal: true },
+    sent_2_py: { cls: 'hide-sent-2-py', defaultVal: true },
+    sent_1_en: { cls: 'hide-sent-1-en', defaultVal: true },
+    sent_2_en: { cls: 'hide-sent-2-en', defaultVal: true },
+    sent_1_es: { cls: 'hide-sent-1-es', defaultVal: true },
+    sent_2_es: { cls: 'hide-sent-2-es', defaultVal: true },
+
+    // Granular Passages
+    passage_1: { cls: 'hide-passage-1', defaultVal: true },
+    passage_2: { cls: 'hide-passage-2', defaultVal: true },
+    passage_py: { cls: 'hide-passage-py', defaultVal: true },
+    passage_1_py: { cls: 'hide-passage-1-py', defaultVal: true },
+    passage_2_py: { cls: 'hide-passage-2-py', defaultVal: true },
+    passage_1_en: { cls: 'hide-passage-1-en', defaultVal: true },
+    passage_2_en: { cls: 'hide-passage-2-en', defaultVal: true },
+    passage_1_es: { cls: 'hide-passage-1-es', defaultVal: true },
+    passage_2_es: { cls: 'hide-passage-2-es', defaultVal: true },
+
+    // Granular Headword & Meanings
+    hero_py: { cls: 'hide-hero-pinyin', defaultVal: true },
+    hero_audio: { cls: 'hide-hero-audio', defaultVal: true },
+    hero_contour: { cls: 'hide-hero-contour', defaultVal: true },
+    hero_badges: { cls: 'hide-hero-badges', defaultVal: true },
+    meanings_en: { cls: 'hide-meanings-en', defaultVal: true },
+    senses: { cls: 'hide-senses', defaultVal: true },
+
+    // Granular Collocations & Idioms
+    colloc_py: { cls: 'hide-colloc-py', defaultVal: true },
+    colloc_en: { cls: 'hide-colloc-en', defaultVal: true },
+    idioms_py: { cls: 'hide-idioms-py', defaultVal: true },
+    idioms_def: { cls: 'hide-idioms-def', defaultVal: true },
+
+    // Granular Decomposition
+    decomp_py: { cls: 'hide-decomp-py', defaultVal: true },
+    decomp_meaning: { cls: 'hide-decomp-meaning', defaultVal: true },
+    decomp_radicals: { cls: 'hide-decomp-radicals', defaultVal: true },
+    decomp_comps: { cls: 'hide-decomp-comps', defaultVal: true },
+    decomp_notes: { cls: 'hide-decomp-notes', defaultVal: true },
+
+    // Granular Mnemonics & Traps
+    mnem_en: { cls: 'hide-mnem-en', defaultVal: true },
+    mnem_es: { cls: 'hide-mnem-es', defaultVal: true },
+    cultural_notes: { cls: 'hide-cultural-notes', defaultVal: true },
+    tone_notes: { cls: 'hide-tone-notes', defaultVal: true },
+    traps_py: { cls: 'hide-traps-py', defaultVal: true },
+    traps_meaning: { cls: 'hide-traps-meaning', defaultVal: true },
+    family_py: { cls: 'hide-family-py', defaultVal: true },
+    family_gloss: { cls: 'hide-family-gloss', defaultVal: true },
+    syn_contrast: { cls: 'hide-syn-contrast', defaultVal: true },
+    autoplay_main: { cls: 'opt-autoplay-main', defaultVal: true }
+  };
+
+  window.ankineitorToggleSetting = function(key, isVisible) {
+    AnkineitorStorage.set('setting_' + key, isVisible);
+    applySettingDOM(key, isVisible);
+    var chkId = 'toggle-' + key.replace(/_/g, '-');
+    if (key === 'toneColors') chkId = 'toggle-tone-colors';
+    if (key === 'autoplay_main') chkId = 'toggle-autoplay-main';
+    var chk = document.getElementById(chkId);
+    if (chk) chk.checked = isVisible;
+  };
+
+  function applySettingDOM(key, isVisible) {
+    var cfg = settingConfig[key];
+    if (!cfg) return;
+    var cards = document.querySelectorAll('.card-container, .card');
+    for (var i = 0; i < cards.length; i++) {
+      if (isVisible) {
+        cards[i].classList.remove(cfg.cls);
+      } else {
+        cards[i].classList.add(cfg.cls);
+      }
+    }
+  }
+
+  window.ankineitorSetCardWidth = function(widthMode) {
+    AnkineitorStorage.set('layout_card_width', widthMode);
+    applyCardWidthDOM(widthMode);
+  };
+
+  function applyCardWidthDOM(widthMode) {
+    var cards = document.querySelectorAll('.card-container, .card');
+    for (var i = 0; i < cards.length; i++) {
+      cards[i].classList.remove('card-w-compact', 'card-w-tablet', 'card-w-desktop', 'card-w-full');
+      if (widthMode && widthMode !== 'auto') {
+        cards[i].classList.add('card-w-' + widthMode);
+      }
+    }
+    var btns = document.querySelectorAll('[data-width-btn]');
+    for (var j = 0; j < btns.length; j++) {
+      btns[j].classList.toggle('active', btns[j].getAttribute('data-width-btn') === widthMode);
+    }
+  }
+
+  window.ankineitorSetFontScale = function(scale) {
+    AnkineitorStorage.set('layout_font_scale', scale);
+    applyFontScaleDOM(scale);
+  };
+
+  function applyFontScaleDOM(scale) {
+    var cards = document.querySelectorAll('.card-container, .card');
+    for (var i = 0; i < cards.length; i++) {
+      cards[i].classList.remove('card-font-sm', 'card-font-md', 'card-font-lg');
+      if (scale) cards[i].classList.add('card-font-' + scale);
+    }
+    var btns = document.querySelectorAll('[data-font-btn]');
+    for (var j = 0; j < btns.length; j++) {
+      btns[j].classList.toggle('active', btns[j].getAttribute('data-font-btn') === scale);
+    }
+  }
+
+  window.ankineitorSetHanziScale = function(scale) {
+    AnkineitorStorage.set('layout_hanzi_scale', scale);
+    applyHanziScaleDOM(scale);
+  };
+
+  function applyHanziScaleDOM(scale) {
+    var cards = document.querySelectorAll('.card-container, .card');
+    for (var i = 0; i < cards.length; i++) {
+      cards[i].classList.remove('card-hanzi-lg', 'card-hanzi-xl');
+      if (scale && scale !== 'normal') cards[i].classList.add('card-hanzi-' + scale);
+    }
+    var btns = document.querySelectorAll('[data-hanzi-btn]');
+    for (var j = 0; j < btns.length; j++) {
+      btns[j].classList.toggle('active', btns[j].getAttribute('data-hanzi-btn') === scale);
+    }
+  }
+
+  window.ankineitorSetFontFamily = function(family) {
+    AnkineitorStorage.set('layout_font_family', family);
+    applyFontFamilyDOM(family);
+  };
+
+  function applyFontFamilyDOM(family) {
+    var cards = document.querySelectorAll('.card-container, .card');
+    for (var i = 0; i < cards.length; i++) {
+      cards[i].classList.remove('card-fontfam-sans', 'card-fontfam-kaiti', 'card-fontfam-songti');
+      if (family && family !== 'sans') {
+        cards[i].classList.add('card-fontfam-' + family);
+      }
+    }
+    var btns = document.querySelectorAll('[data-fontfam-btn]');
+    for (var j = 0; j < btns.length; j++) {
+      btns[j].classList.toggle('active', btns[j].getAttribute('data-fontfam-btn') === family);
+    }
+  }
+
+  window.ankineitorCopyText = function(text) {
+    if (!text) return;
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text);
+      } else {
+        var ta = document.createElement('textarea');
+        ta.value = text;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+      }
+    } catch(e) {}
+    showToast('Copied: ' + text);
+  };
+
+  function showToast(msg) {
+    var toast = document.getElementById('ankineitor-toast');
+    if (!toast) {
+      toast = document.createElement('div');
+      toast.id = 'ankineitor-toast';
+      toast.className = 'ankineitor-toast';
+      document.body.appendChild(toast);
+    }
+    toast.textContent = msg;
+    toast.classList.add('show');
+    setTimeout(function() {
+      toast.classList.remove('show');
+    }, 1600);
+  }
+
+  window.ankineitorToggleSentenceBlur = function(btn) {
+    var item = btn.closest ? btn.closest('.sentence-item') : null;
+    if (item) {
+      item.classList.toggle('blur-revealed');
+    }
+  };
+
+  window.ankineitorApplyPreset = function(presetName) {
+    if (presetName === 'defaults') {
+      for (var key in settingConfig) {
+        ankineitorToggleSetting(key, settingConfig[key].defaultVal);
+      }
+      ankineitorSetCardWidth('auto');
+      ankineitorSetFontScale('md');
+      ankineitorSetHanziScale('normal');
+      ankineitorSetFontFamily('sans');
+    } else if (presetName === 'hanzi_only') {
+      var hidePinyinsAndTranslations = [
+        'pinyin', 'hero_py', 'passage_py', 'colloc_py', 'idioms_py', 'decomp_py', 'traps_py', 'family_py',
+        'sent_1_py', 'sent_2_py', 'passage_1_py', 'passage_2_py',
+        'definitions', 'spanish', 'sent_1_en', 'sent_2_en', 'sent_1_es', 'sent_2_es',
+        'passage_1_en', 'passage_2_en', 'passage_1_es', 'passage_2_es'
+      ];
+      for (var i = 0; i < hidePinyinsAndTranslations.length; i++) {
+        ankineitorToggleSetting(hidePinyinsAndTranslations[i], false);
+      }
+    } else if (presetName === 'pinyin_first') {
+      for (var k in settingConfig) {
+        ankineitorToggleSetting(k, true);
+      }
+      var hideTrans = [
+        'definitions', 'spanish', 'sent_1_en', 'sent_2_en', 'sent_1_es', 'sent_2_es',
+        'passage_1_en', 'passage_2_en', 'passage_1_es', 'passage_2_es', 'colloc_en',
+        'idioms_def', 'decomp_meaning', 'mnem_en', 'mnem_es', 'traps_meaning', 'family_gloss'
+      ];
+      for (var p = 0; p < hideTrans.length; p++) {
+        ankineitorToggleSetting(hideTrans[p], false);
+      }
+    } else if (presetName === 'bilingual' || presetName === 'show_all') {
+      for (var k2 in settingConfig) {
+        ankineitorToggleSetting(k2, true);
+      }
+    }
+  };
+
+  function initSettings() {
+    // 1. Initialize Field Toggles
+    for (var key in settingConfig) {
+      var saved = AnkineitorStorage.get('setting_' + key, settingConfig[key].defaultVal);
+      applySettingDOM(key, saved);
+      var chkId = 'toggle-' + key.replace(/_/g, '-');
+      if (key === 'toneColors') chkId = 'toggle-tone-colors';
+      if (key === 'autoplay_main') chkId = 'toggle-autoplay-main';
+      var chk = document.getElementById(chkId);
+      if (chk) {
+        chk.checked = saved;
+      }
+    }
+
+    // 2. Initialize Layout Configurations
+    var savedWidth = AnkineitorStorage.get('layout_card_width', 'auto');
+    applyCardWidthDOM(savedWidth);
+
+    var savedFont = AnkineitorStorage.get('layout_font_scale', 'md');
+    applyFontScaleDOM(savedFont);
+
+    var savedHanzi = AnkineitorStorage.get('layout_hanzi_scale', 'normal');
+    applyHanziScaleDOM(savedHanzi);
+
+    var savedFamily = AnkineitorStorage.get('layout_font_family', 'sans');
+    applyFontFamilyDOM(savedFamily);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initSettings);
+  } else {
+    initSettings();
+  }
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      ankineitorCloseDrawers();
+    }
+  });
+})();
+</script>
+
+
+  <main class="front-body">
+    <div class="word hero-word">{{Word}}</div>
+  </main>
+
+  <div class="card-hint">
+  <span class="hint-pill">
+    <span class="hint-icon" aria-hidden="true">💡</span>
+    <span class="hint-text">Show Answer</span>
+    <kbd class="hint-kbd" title="Press Space on keyboard">Space</kbd>
+  </span>
+</div>
+
+</div>

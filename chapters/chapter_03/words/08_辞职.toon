@@ -1,0 +1,63 @@
+id: 8
+hanzi: 辞职
+pinyin: cí zhí
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to resign; to quit one's job; to tender resignation
+  es: dimitir; renunciar al trabajo; presentar la dimisión
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to voluntarily relinquish one's office, post, or employment | renunciar voluntariamente a un empleo, cargo o puesto | 递交辞职信 (submit a resignation letter)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他在铁路部门工作了二十年，却为了追逐心中的航海梦想毅然决定辞职。 | Tā zài tiělù bùmén gōngzuò le èrshí nián, què wèile zhuīzhú xīnzhōng de hánghǎi mèngxiǎng yìrán juédìng cízhí. | Having worked in the railway department for twenty years, he resolutely decided to resign to pursue his dream of oceanic sailing. | Tras trabajar veinte años en el sector ferroviario, decidió renunciar con firmeza a su empleo para perseguir su sueño de navegar por los mares.
+  #2 | 由于公司组织架构调整，多位高管相继提出辞职，引起了业界内外的广泛关注。 | Yóuyú gōngsī zǔzhī jiàgòu tiáozhěng, duō wèi gāoguǎn xiāngjì tíchū cízhí, yǐnqǐ le yèjiè nèiwài de guǎnfàn guānzhù. | Owing to organizational restructuring, several senior executives successively tendered their resignations, drawing widespread industry attention. | Debido a la reestructuración corporativa, varios altos directivos presentaron su dimisión de forma consecutiva, despertando gran expectación en el sector.
+
+collocations[6]{hanzi,en}:
+  辞职信 | resignation letter
+  正式辞职 | formally resign
+  提出辞职 | submit one's resignation
+  决定辞职 | decide to quit
+  被迫辞职 | be forced to resign
+  辞职报告 | resignation report / application
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  挂冠求去 | guà guān qiú qù | hang up one's official cap and seek retirement; resign from government office
+  解甲归田 | jiě jiǎ guī tián | take off armor and return to farmland; retire from military/service
+  各司其职 | gè sī qí zhí | each performs their respective duties
+  恪尽职守 | kè jìn zhí shǒu | scrupulously abide by one's duties
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  辞 | cí | words; bid farewell; resign | palabras; despedirse; renunciar | 舌 | tongue / speech | 辛 (toil or punishment) | 司 / 舌 (words uttered in court or declaration) | 13 | 左右结构 | In ancient legal courts, uttering formal declarations (舌) regarding grievances or official departure. | Taking the floor to utter parting words (舌) as you hand over painful labor (辛) to move on. | Tomar la palabra (舌) para pronunciar la despedida formal y desligarse de un arduo deber (辛). | 35 | HTSJ | 辭
+  职 | zhí | duty; job; office | cargo; puesto; oficio | 耳 | ear / listen | 耳 (ears listening attentively to orders) | 只 (zhǐ phonetic / capture) | 11 | 左右结构 | Phono-semantic compound: ears (耳) listening diligently to official commands and organizational responsibilities. | A dutiful employee listening with focused ears (耳) to execute professional tasks faithfully (只). | Un empleado aplicado que escucha con atención (耳) las directrices para cumplir cabalmente con su cometido (只). | 35 | SJRC | 職
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Uttering formal words of farewell (辞) to relinquish your professional post (职) marks the bold decision to resign (辞职).
+  composite_memory_hook_es: Pronunciar palabras formales de despedida (辞) para desligarse del puesto asignado (职) sella la dimisión (辞职).
+  cultural_and_cognitive_roots: In imperial China, scholar-officials resigning to return home was celebrated as moral independence (辞官归隐), embodying the pursuit of personal integrity above material emolument.
+  tone_sandhi_and_pitch_modulation: Two consecutive rising 2nd tones: cí zhí (35-35). Rise smoothly and clearly on each syllable without dropping pitch in between.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    辞 | cí | resign; words | Has 舌 on the left and 辛 on the right
+    辩 | biàn | debate; argue | Has 辛 on both left and right enclosing 讠 (speech)
+    职 | zhí | post; job | Has 耳 (ear) on the left and 只 on the right
+    聪 | cōng | clever; acute hearing | Has 耳 (ear) on the left and 总 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    辞退 | cí tuì | dismiss; discharge; fire
+    辞别 | cí bié | say goodbye to; bid farewell
+    职业 | zhí yè | occupation; profession
+    职责 | zhí zé | duty; responsibility
+
+semantic_boundary_contrasts:
+  core_nuance: 辞职 emphasizes the employee's voluntary and unilateral choice to terminate an employment relationship.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 辞职 vs. 离职 | lízhí | 辞职 highlights the employee's proactive, voluntary action to resign, whereas 离职 is an objective neutral term describing the fact of leaving a company (due to resignation, contract expiry, or transfer).
+    2 | 辞职 vs. 解雇 | jiěgù | 辞职 is initiated voluntarily by the employee, whereas 解雇 (firing/dismissal) is an involuntary termination initiated by the employer.
+    3 | 辞职 vs. 退休 | tuìxiū | 辞职 represents leaving employment at any working age, whereas 退休 refers to retiring upon reaching statutory legal age after decades of service.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 递交辞职信的那一刻，他感到一种前所未有的释怀。体制内的稳定与保障曾是他赖以生存的防线，但也悄悄禁锢了他的脚步。人生的真正意义不在于原地等待岁月的流逝，而在于勇敢地推开未知的大门。 | Dìjiāo cízhíxìn de nà yí kè, tā gǎndào yì zhǒng qiánsuǒwèiyǒu de shìhuái. Tǐzhì nèi de wěndìng yǔ bǎozhàng céng shì tā làiyǐ shēngcún de fángxiàn, dàn yě qiāoqiāo jìngù le tā de jiǎobù. Rénshēng de zhēnzhèng yìyì bú zàiyú yuándì děngdài suìyuè de liúshì, ér zàiyú yǒnggǎn de tuīkāi wèizhī de dàmén. | Handing in his resignation, he felt an unprecedented sense of release. Institutional stability had long been his shield, yet it quietly caged his spirit. Life's true significance lies not in idling away years, but in daring to push open unknown gates. | Al entregar su carta de renuncia sintió un alivio sin precedentes. La estabilidad institucional había sido su trinchera, pero también enjaulaba sus alas. El sentido de la vida no reside en aguardar el paso de los años, sino en empujar con valor las puertas de lo desconocido.
+  #2 | 劳动力市场监测数据显示，随着青年就业观念的多元化转变，知识密集型行业的离职与辞职流动率呈现上升趋势。新生代专业人才更加看重个人价值的实现空间与工作生活平衡，这对现代企业的组织韧性与雇主品牌建设提出了更高要求。 | Láodònglì shìchǎng jiāncè shùjù biǎomíng, suízhe qīngnián jiùyè guānniàn de duōyuánhuà zhuǎnbiàn, zhīshi mìjíxíng hángyè de lízhí yǔ cízhí liúdònglǜ chéngxiàn shàngshēng qūshì. Xīnshēngdài zhuānyè réncái gèngjiā kànzhòng gèrén jiàzhí de shíxiàn kōngjiān yǔ gōngzuò shēnghuó pínghéng, zhè duì xiàndài qǐyè de zǔzhī rènxìng yǔ gùzhǔ pǐnpái jiànshè tíchū le gèng gāo yāoqiú. | Labor market data indicates that shifting youth employment values have raised voluntary resignation and turnover rates across knowledge-intensive sectors. Young professionals prioritize personal self-fulfillment and work-life balance, demanding organizational agility from modern corporate employers. | Los estudios laborales indican que el cambio de valores profesionales entre los jóvenes ha elevado las dimisiones en sectores de alta cualificación. El talento emergente prima la autorrealización y la conciliación, lo que exige a las empresas mayor flexibilidad organizativa y reputación laboral.

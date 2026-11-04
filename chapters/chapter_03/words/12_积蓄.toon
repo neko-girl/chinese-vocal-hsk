@@ -1,0 +1,64 @@
+id: 12
+hanzi: 积蓄
+pinyin: jī xù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: savings; accumulated funds; to accumulate; to store up
+  es: ahorros; fondos acumulados; ahorrar; atesorar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | money or resources accumulated and saved over a prolonged period | ahorros acumulados o capital guardado a lo largo del tiempo | 花光所有积蓄 (spend all one's savings)
+  2 | Verb | Standard | to accumulate, store up, or save gradually (wealth, energy, strength) | acumular, almacenar o atesorar gradualmente | 积蓄力量 (gather and build up strength)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了圆全家人的航海梦想，翟峰拿出了工作半辈子积累下来的全部积蓄，买下了那艘帆船。 | Wèile yuán quán jiārén de hánghǎi mèngxiǎng, Zhái Fēng ná chū le gōngzuò bàn bèizi jīlěi xiàlái de quánbù jīxù, mǎi xià le nà sōu fānchuán. | To realize his family's sailing dream, Zhai Feng gathered all the savings accumulated over half a lifetime of work to purchase that sailboat. | Para hacer realidad el sueño marinero de su familia, Zhai Feng reunió todos los ahorros de media vida de trabajo y adquirió aquel velero.
+  #2 | 面对突发的国际公共卫生事件，深厚的企业资本积蓄帮助该制造集团成功渡过了订单缩水的最艰难阶段。 | Miànduì tūfā de guójì gōnggòng wèishēng shìjiàn, shēnhòu de qǐyè zīběn jīxù bāngzhù gāi zhìzào jítuán chénggōng dùguò le dìngdān suōshuǐ de zuì jiānnán jiēduàn. | Confronted with sudden international public health emergencies, deep corporate capital reserves carried the manufacturing group through severe order contractions. | Ante una imprevista emergencia sanitaria internacional, los cuantiosos fondos de reserva ayudaron a la corporación industrial a capear la brusca caída de pedidos.
+
+collocations[6]{hanzi,en}:
+  多年积蓄 | savings of many years
+  花光积蓄 | spend all one's savings
+  微薄的积蓄 | meager savings
+  积蓄力量 | build up strength / reserves
+  一生积蓄 | a lifetime of savings
+  动用积蓄 | draw on one's savings
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  积少成多 | jī shǎo chéng duō | small sums add up to a tidy sum; many a little makes a mickle
+  日积月累 | rì jī yuè lěi | accumulate day by day and month by month; over time
+  厚积薄发 | hòu jī bó fā | amass deeply and release with control; prepare extensively before bursting forth
+  积劳成疾 | jī láo chéng jí | break down from accumulated overwork
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  积 | jī | accumulate; pile up | acumular; apilar; amontonar | 禾 | grain / crop | 禾 (grain crops piled high in barns) | 只 (zhī phonetic / single bundle) | 10 | 左右结构 | Phono-semantic compound: stalks of harvested grain (禾) gradually stacked together into substantial mounds. | Bundles of ripe grain (禾) piled patiently one by one into an abundant harvest stack (积). | Gavillas de cereal maduro (禾) apiladas con paciencia una a una hasta formar una abundante cosecha (积). | 55 | HDRC | 積
+  蓄 | xù | store up; save; cherish | almacenar; atesorar; guardar | 艹 | grass / vegetation | 艹 (hay and forage preserved for livestock) | 畜 (chù / livestock and pen) | 13 | 上下结构 | Ideogrammic compound: gathering grass and fodder (艹) into storage to feed livestock (畜) through winter. | Cutting and storing sweet grass (艹) in winter pens to feed livestock (畜) and preserve wealth. | Cortar y almacenar forraje fresco (艹) en los corrales de ganado (畜) para subsistir al invierno y conservar capital. | 51 | TYVI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Stacking harvested grain (积) and storing livestock fodder (蓄) builds up a household's hard-earned savings (积蓄).
+  composite_memory_hook_es: Apilar el cereal cosechado (积) y almacenar forraje para el ganado (蓄) forma el fruto paciente de los ahorros (积蓄).
+  cultural_and_cognitive_roots: In ancient Chinese agricultural society, thrift and storing grain reserves for famine years ('丰年积蓄以防荒年') stood as the paramount virtue ensuring familial survival against unpredictable floods and droughts.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by a falling 4th tone: jī xù (55-51). Articulate 'jī' with clear horizontal pitch before delivering 'xù' downward firmly.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    积 | jī | accumulate; gather | Has 禾 (grain) on the left and 只 on the right
+    和 | hé | harmonious; with | Has 禾 on the left and 口 (mouth) on the right
+    蓄 | xù | store up; hoard | Has 艹 on top and 畜 at the bottom
+    畜 | chù | livestock; domestic animal | Lacks the 艹 (grass) radical on top
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    积极 | jī jí | positive; active; energetic
+    积累 | jī lěi | accumulate; amass; gather
+    储蓄 | chǔ xù | deposit; savings; bank savings
+    蓄水 | xù shuǐ | water storage; impound water
+
+semantic_boundary_contrasts:
+  core_nuance: 积蓄 emphasizes the gradual, disciplined accumulation of money or energy over an extended duration.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 积蓄 vs. 储蓄 | chǔxù | 积蓄 functions primarily as a noun referring to the total nest egg or saved wealth accumulated over time (花掉积蓄), whereas 储蓄 emphasizes the financial act or banking system of depositing money (储蓄银行, 储蓄业务).
+    2 | 积蓄 vs. 存款 | cúnkuǎn | 积蓄 refers to total accumulated wealth across all assets, while 存款 refers specifically to cash held in bank deposit accounts.
+    3 | 积蓄 vs. 财富 | cáifù | 积蓄 denotes modest personal savings built through frugal labor, whereas 财富 encompasses broad, substantial riches, assets, and prosperity.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 父母那一辈人的存折里，藏着他们一生勤俭节约的积蓄。每一笔微小的存入，都记录着他们对抗生活风雨的坚韧。对于他们而言，积蓄不仅是安身立命的保障，更是留给子女最深沉、最无私的爱。 | Fùmǔ nà yí bèi rén de cúnzhé lǐ, cáng zhe tāmen yìshēng qínjiǎnjiéyuē de jīxù. Měi yì bǐ wēixiǎo de cúnrù, dōu jìlù zhe tāmen duìkàng shēnghuó fēngyǔ de jiānrèn. Duìyú tāmen éryán, jīxù bùjǐn shì ānshēnlìmìng de bǎozhàng, gèng shì liú gěi zǐnǚ zuì shēnchén, zuì wúsī de ài. | Within our parents' bankbooks lie the frugal savings of a lifetime. Every modest deposit recorded their fortitude against life's bitter storms. To them, savings represented not only security, but profound, selfless love bequeathed to their children. | En las libretas bancarias de nuestros padres descansan los ahorros pacientes de toda una vida frugal. Cada modesto ingreso plasmaba su tesón ante los embates de la vida. Para ellos, ahorrar no era solo un resguardo, sino un acto de amor puro hacia sus hijos.
+  #2 | 金融数据显示，居民家庭积蓄为经济建设提供了坚实的资金后盾。在新发展格局下，如何引导居民庞大的预防性积蓄转化为有效消费内需，已成为当前宏观经济调控的重要着力点。 | Jīnróng shùjù xiǎnshì, jūmín jiātíng jīxù wèi jīngjì jiànshè tígōng le jiānshí de zījīn hòudùn. Zài xīn fāzhǎn gégjú xià, rúhé yǐndǎo jūmín pángdà de yùfángxìng jīxù zhuǎnhuà wéi yǒuxiào xiāofèi nèixū, yǐ chéngwéi dāngqián hóngguān jīngjì tiáokòng de zhòngyào zhuólìdiǎn. | Financial data shows household savings provide a firm financial bedrock for economic construction. Under modern models, guiding vast precautionary savings into domestic consumption forms a crucial macroeconomic priority. | Las finanzas constatan que el ahorro familiar constituye un sólido respaldo económico. Orientar esos fondos de reserva preventivos hacia el consumo interno es hoy un reto clave de la política económica.

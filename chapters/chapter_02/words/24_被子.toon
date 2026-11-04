@@ -1,0 +1,63 @@
+id: 24
+hanzi: 被子
+pinyin: bèi zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: quilt; blanket; duvet; comforter
+  es: edredón; colcha; manta; manta acolchada
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a quilted blanket filled with cotton, down, or wool used for sleeping warmly | edredón; colcha rellena de algodón o plumón para dormir abrigado | 盖被子 (cover with a quilt)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 母亲知道城里冬天阴冷，特意用老家新采摘的头茬白棉花，亲手缝制了一床十斤重的大棉被。 | Mǔqīn zhīdào chénglǐ dōngtiān yīnlěng, tèyì yòng lǎojiā xīn cǎizhāi de tóuchá bái miánhua, qīnshǒu féngzhì le yì chuáng shí jīn zhòng de dà miánbèi. | Knowing city winters are damp and chilly, mother specially used newly picked prime white cotton from home to hand-stitch a ten-pound quilt. | Consciente del frío húmedo urbano en invierno, mi madre seleccionó el mejor algodón blanco de la aldea para coser a mano una manta acolchada.
+  #2 | 为了保障受灾群众温暖过冬，民政部门紧急调拨了数万床保暖被子与防寒服迅速运往震区。 | Wèile bǎozhàng shòuzāi qúnzhòng wēnnuǎn guòdōng, mínzhèng bùmén jǐnjí diàobō le shù wàn chuáng bǎonuǎn bèizi yǔ fánghánfú xùnsù yùn wǎng zhènqū. | To ensure disaster victims stay warm through winter, civil affairs departments urgently dispatched tens of thousands of thermal quilts to the quake zone. | Para que los damnificados pasen un invierno cálido, las autoridades enviaron de urgencia decenas de miles de mantas térmicas a la zona sísmica.
+
+collocations[6]{hanzi,en}:
+  盖被子 | cover with a quilt / blanket
+  晒被子 | sun / air a quilt
+  缝被子 | sew a quilt by hand
+  叠被子 | fold the quilt / make the bed
+  一床被子 | one quilt / blanket (classifier 床)
+  棉被 | cotton quilt; padded blanket
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  高枕无忧 | gāo zhěn wú yōu | sleep on a high pillow without care; rest easy and worry-free
+  安居乐业 | ān jū lè yè | live in peace and work happily with contentment
+  同床异梦 | tóng chuáng yì mèng | share the same bed but dream different dreams; outward unity with inner division
+  寒冬腊月 | hán dōng là yuè | the coldest months of deep winter
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  被 | bèi | quilt; cover; passive marker | edredón; cubrir; por (voz pasiva) | 衤 | clothing (cloth radical) | 衤 (fabric or clothing enclosing the body) | 皮 (pí, animal hide / phonetic) | 10 | 左右结构 | Phono-semantic compound where clothing radical 衤 and phonetic 皮 (skin) evoke a protective skin-like fabric layer. | A layer of warm fabric clothing (衤) functioning like a second animal skin (皮) to keep the sleeper warm. | Una prenda acolchada de tela (衤) que abriga como una segunda piel (皮) protegiendo el sueño nocturno. | 51 | LDE | 被
+  子 | zi | noun suffix | sufijo nominal | 子 | child / infant | 子 (infant pictograph) | "" | 3 | 独体结构 | Ancient pictograph of a child, used across spoken Mandarin as a lightweight noun-forming suffix. | A child (子) serving as an everyday conversational affix appended to home objects. | Una pequeña figura (子) que actúa como sufijo cotidiano en el vocabulario doméstico. | 214 | ND | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Soft fabric stitched like a warm outer skin (被) wraps around you like a child (子) in a cozy quilt (被子).
+  composite_memory_hook_es: Una suave tela acolchada como una segunda piel (被) abriga al durmiente como a un niño (子) en una colcha (被子).
+  cultural_and_cognitive_roots: In Chinese tradition, cotton quilts are central to matrimonial dowries and maternal devotion; receiving a handmade quilt signifies enduring maternal protection and familial warmth across distance.
+  tone_sandhi_and_pitch_modulation: Pronounced with 4th tone followed by the neutral tone: 'bèi zi' (51-0). Avoid giving 'zi' full 3rd tone weight.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    破 | pò | broken; damaged | Has 石 (stone) on the left instead of 衤 (clothing)
+    坡 | pō | slope; hillside | Has 土 (earth) on the left instead of 衤
+    波 | bō | wave; ripple | Has 氵 (water) on the left instead of 衤
+    初 | chū | beginning; first | Has 衤 on left but 刀 on right instead of 皮
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    被褥 | bèi rù | bedding; quilts and mattresses
+    被套 | bèi tào | quilt cover; duvet slipcover
+    棉被 | mián bèi | cotton-padded quilt
+    植被 | zhí bèi | vegetation cover (botanical)
+
+semantic_boundary_contrasts:
+  core_nuance: 被子 specifically designates a thick quilted bedding cover stuffed with cotton or feathers used over the body.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 被子 vs. 褥子 | rùzi | 被子 is the top cover draped over the sleeping body, whereas 褥子 is the padded mattress pad laid beneath the sleeper.
+    2 | 被子 vs. 毯子 | tǎnzi | 被子 is thick and stuffed with batting (cotton, down, silk), while 毯子 refers to a woven, single-layer woolen or fleece blanket.
+    3 | 被子 vs. 席子 | xízi | 被子 provides thermal insulation against cold, while 席子 is a cooling woven bamboo or straw mat used on summer beds.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 钻进刚被母亲晒过、铺得平平整整的被子里，满鼻腔都是混合着阳光与棉絮的清甜香气。那份沉甸甸的暖意迅速包裹全身，让人仿佛重回幼年时无忧无虑的怀抱，一夜好梦到天亮。 | Zuānjìn gāng bèi mǔqīn shài guò, pū de píngpíng-zhěngzhěng de bèizi lǐ, mǎn bíqiāng dōu shì hùnhé zhe yángguāng yǔ miánxù de qīngtián xiāngqì. Nà fèn chéndiāndiān de nuǎnyì xùnsù bǎoguǒ quánshēn, ràng rén fǎngrú chónghuí yòunián shí wúyōu-wúlǜ de huáibào, yí yè hǎomèng dào tiānliàng. | Slipping under the quilt freshly sunned and made by mother, one's senses fill with the sweet aroma of sunshine and cotton. That heavy warmth wraps the entire body, recalling innocent childhood embrace and peaceful sleep till dawn. | Al deslizarse bajo la colcha recién asoleada y estirada por la madre, se respira un suave aroma a sol y algodón. El cálido abrazo de la tela disipa el frío devolviendo la dulce paz de la infancia hasta el amanecer.
+  #2 | 家用纺织品产业的科技升级正深刻改变着传统寝具市场。抗菌防螨纤维、石墨烯远红外控温发热材料被广泛应用于新型被子的研发，实现了在轻量化质感下的优异保暖与微环境湿度智能调节。 | Jiāyòng fǎngzhīpǐn chǎnyè de kējì shēngjí zhèng shēnkè gǎibiàn zhe chuántǒng qǐnjù shìchǎng. Kàngjūn fángmǎn xiānwéi, shímòxī yuǎnhóngwài kòngwēn fārè cáiliào bèi guǎngfàn yìngyòng yú xīnxíng bèizi de yánfā, shíxiàn le zài qīngliànghuà zhìgǎn xià de yōuyì bǎonuǎn yǔ wēihuánjìng shīdù zhìnéng tiáojié. | Technological modernization in home textiles is transforming the bedding market. Antibacterial fibers and graphene far-infrared thermal materials applied in modern duvets achieve ultralight warmth and smart humidity regulation. | La innovación textil moderniza el mercado de la ropa de cama. Fibras hipoalergénicas y grafeno autorregulador crean edredones ligeros de alto rendimiento térmico que optimizan el descanso nocturno.

@@ -1,0 +1,65 @@
+id: 31
+hanzi: 温暖
+pinyin: wēn nuǎn
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: warm; genial; to make warm; warmth (physical and emotional)
+  es: cálido; abrigado; reconfortante; calidez; dar calor
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | pleasantly and comfortably warm in temperature | cálido; templado al tacto o clima | 温暖的阳光 (warm sunshine)
+  2 | Adjective | Standard | emotionally heartwarming, comforting, and kind | reconfortante; cariñoso; acogedor | 温暖的话语 (heartwarming words)
+  3 | Verb | Standard | to warm up; to bring warmth and comfort to someone | calentar; dar calidez y consuelo | 温暖了大家的心 (warmed everyone's hearts)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 钻进被阳光充分晒透的棉被里，周身被融融的暖意包裹，那一刻感受到了家最温暖的滋味。 | Zuānjìn bèi yángguāng chōngfèn shàitòu de miánbèi lǐ, zhōushēn bèi róngróng de nuǎnyì bǎoguǒ, nà yí kè gǎnshòu dào le jiā zuì wēnnuǎn de zīwèi. | Slipping under the cotton quilt thoroughly sunned by daylight, wrapped in gentle warmth, in that moment I felt the warmest taste of home. | Al cobijarme bajo el edredón impregnado de sol, envuelto en una suave tibieza, saboreé la calidez más entrañable del hogar.
+  #2 | 在抗震救灾第一线，社会各界捐赠的防寒物资与志愿者的无私奉献，深深温暖了受灾群众的心。 | Zài kàngzhèn-jiùzāi dì-yī xiàn, shèhuì gèjiè juānzèng de fánghán wùzī yǔ zhìyuànzhě de wúsī fèngxiàn, shēnshēn wēnnuǎn le shòuzāi qúnzhòng de xīn. | On the frontline of quake relief, winter relief supplies donated by society and volunteers' selfless dedication deeply warmed disaster victims' hearts. | En primera línea de auxilio ante el sismo, los víveres donados por la sociedad y la abnegación voluntaria confortaron con calidez a los damnificados.
+
+collocations[6]{hanzi,en}:
+  温暖的阳光 | warm sunshine
+  感到温暖 | feel warm / comforted
+  温暖人心 | warm people's hearts
+  温暖的怀抱 | warm embrace
+  送去温暖 | deliver warmth / care
+  春风送暖 | spring breeze brings warmth
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  风和日暖 | fēng hé rì nuǎn | gentle breeze and warm sun; genial, pleasant weather
+  春暖花开 | chūn nuǎn huā kāi | spring warmth arrives and flowers bloom; bright new beginnings
+  饱食暖衣 | bǎo shí nuǎn yī | adequately fed and warmly clad; living in comfort
+  嘘寒问暖 | xū hán wèn nuǎn | inquire solicitously after someone's welfare and comfort
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  温 | wēn | warm; mild; lukewarm | tibio; templado; suave; apacible | 氵 | water (three drops) | 氵 (water heated to genial temperature) | 昷 (wēn, vessel on fire) | 12 | 左右结构 | Phono-semantic compound where water radical 氵 combines with 昷 (food vessel warmed over heat), signifying gentle warmth. | Clear spring water (氵) heated gently over an earthenware basin (昷) to a soothing, comfortable warmth. | Agua de manantial (氵) calentada suavemente en una vasija (昷) hasta alcanzar una temperatura reconfortante. | 55 | EABT | 溫
+  暖 | nuǎn | warm; genial; toast | cálido; calentar; abrigado | 日 | sun / day | 日 (radiant sunshine) | 爰 (yuán, helping hand / phonetic) | 13 | 左右结构 | Phono-semantic compound combining sun radical 日 with phonetic 爰, conveying the comforting thermal embrace of sunlight. | The bright midday sun (日) extending warm rays like gentle helping hands (爰) to dispel winter chill. | El sol radiante (日) que tiende sus rayos como manos amigas (爰) para ahuyentar el frío y dar cobijo. | 214 | ABME | 暖
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Soothing warm water (温) bathed in radiant sunshine (暖) brings physical and emotional warmth (温暖).
+  composite_memory_hook_es: Agua templada y apacible (温) iluminada por el sol radiante (暖) regala una calidez infinita (温暖).
+  cultural_and_cognitive_roots: In Confucian family ethics, '温暖' embodies the quintessential virtue of maternal compassion ('温良敦厚'), representing unconditional psychological safety and ancestral belonging against life's hardships.
+  tone_sandhi_and_pitch_modulation: Pronounced with a 55-214 pitch contour (1st tone high and level, followed by 3rd tone dipping smoothly). When followed by another syllable, 'nuǎn' dips without full rising.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    湿 | shī | wet; damp; moist | Has 显 on the right of 氵 instead of 昷
+    援 | yuán | assist; aid | Has 扌 (hand) on the left instead of 日
+    缓 | huǎn | slow; postpone; relax | Has 纟 (silk) on the left instead of 日
+    爱 | ài | love; affection | Resembles the right component 爰 with 心 in ancient forms
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    温度 | wēn dù | temperature
+    温和 | wēn hé | gentle; mild; temperate
+    暖和 | nuǎn huo | warm; comfortably warm
+    取暖 | qǔ nuǎn | warm oneself (by a fire or heater)
+
+semantic_boundary_contrasts:
+  core_nuance: 温暖 encompasses both physical genial temperature and emotional solace, compassion, or familial love.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 温暖 vs. 暖和 | nuǎnhuo | 温暖 is formal and covers both physiological warmth and emotional/psychological comfort (e.g. 温暖的怀抱, 感到温暖), whereas 暖和 is primarily oral and restricted to physical temperature (e.g. 屋里挺暖和).
+    2 | 温暖 vs. 热 | rè | 温暖 describes pleasant, comfortable, moderate thermal warmth, while 热 denotes intense heat or high temperature, often uncomfortable (e.g. 天气太热).
+    3 | 温暖 vs. 温和 | wēnhé | 温暖 highlights feeling warm and cared for, whereas 温和 describes mild temperament, non-extreme climate, or gentle medicinal properties (e.g. 性情温和, 气候温和).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 家是风浪中最温暖的港湾。无论在外面经历了多少坎坷与委屈，只要推开家门，看到母亲端上那一碗热气腾腾的面条，耳边响起轻声的叮咛，所有的疲惫都会瞬间被这股融融的温暖彻底化解。 | Jiā shì fēnglàng zhōng zuì wēnnuǎn de gǎngwān. Wúlùn zài wàimiàn jīnglì le duōshǎo kǎnkě yǔ wěiqu, zhǐyào tuīkāi jiāmén, kàndào mǔqīn duān shàng nà yì wǎn rèqì-téngténg de miàntiáo, ěrbiān xiǎngqǐ qīngshēng de dīngníng, suǒyǒu de píbèi dōu huì shùnjiān bèi zhè gǔ róngróng de wēnnuǎn chèdǐ huàjiě. | Home is the warmest haven amid life's storms. No matter what trials or grievances occur outside, opening the door to steaming noodles from mother and gentle words, fatigue dissolves completely in this pervasive warmth. | El hogar es el puerto más cálido ante las tempestades. Pese a las adversidades del mundo, cruzar el umbral y recibir el tazón humeante de fideos de madre con dulces palabras disuelve toda pena en su tibieza.
+  #2 | 现代化城市基层社区建设正注重提升公共服务的“温度”。从设立老年助餐点到建设全天候户外劳动者爱心驿站，细致入微的民生举措让城市不仅具备钢筋水泥的现代高度，更洋溢着人本主义的社会温暖。 | Xiàndàihuà chéngshì jīcéng shèqū jiànshè zhèng zhùzhòng tíshēng gōnggòng fúwù de "wēndù". Cóng shèlì lǎonián zhùcāndiǎn dào jiànshè quántiānhòu hùwài láodòngzhě àixīn yìzhàn, xìzhì-rùwēi de mínshēng jǔcuò ràng chéngshì bùjǐn jùbèi gāngjīn-shuǐní de xiàndài gāodù, gèng yángyì zhe rénběnzhǔyì de shèhuì wēnnuǎn. | Modern municipal grassroots community building emphasizes improving public service warmth. From senior dining centers to 24/7 rest hubs for workers, attentive measures endow cities with humanistic social warmth. | Las comunidades vecinales urbanas priorizan hoy la calidez del servicio público. Comedores para ancianos y áreas de descanso para obreros dotan a las urbes modernas de un hondo sentido de solidaridad humana.

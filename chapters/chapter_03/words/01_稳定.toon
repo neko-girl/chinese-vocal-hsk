@@ -1,0 +1,64 @@
+id: 1
+hanzi: 稳定
+pinyin: wěn dìng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: stable; steady; settled; to stabilize
+  es: estable; firme; estabilizar; consolidar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | steady and not easily shaken or changing; firm | estable; seguro; que no cambia con facilidad | 情绪稳定 (emotionally stable)
+  2 | Verb | Standard | to stabilize; to steady; to maintain equilibrium | estabilizar; pacificar; consolidar | 稳定物价 (stabilize commodity prices)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对突如其来的航海风暴，船长保持着冷静与稳定的心态，带领全船人员化险为夷。 | Miànduì tūrúqílái de hánghǎi fēngbào, chuánzhǎng bǎochí zhe lěngjìng yǔ wěndìng de xīntài, dàilǐng quán chuán rényuán huà xiǎn wéi yí. | Facing the sudden maritime storm, the captain maintained a calm and steady mindset, leading the entire crew out of danger. | Frente a la tormenta marítima repentina, el capitán mantuvo una mentalidad tranquila y estable, guiando a la tripulación fuera del peligro.
+  #2 | 为了确保经济平稳过渡，政府出台了多项宏观调控措施以稳定就业和金融市场。 | Wèile quèbǎo jīngjì píngwěn guòdù, zhèngfǔ chūtái le duō xiàng hóngguān tiáokòng cuòshī yǐ wěndìng jiùyè hé jīnróng shìchǎng. | To ensure a smooth economic transition, the government introduced several macro-control measures to stabilize employment and financial markets. | Para garantizar una transición económica fluida, el gobierno implementó diversas medidas de control macroeconómico para estabilizar el empleo y los mercados financieros.
+
+collocations[6]{hanzi,en}:
+  情绪稳定 | emotionally stable
+  稳定发展 | stable development
+  保持稳定 | maintain stability
+  稳定人心 | reassure the public; settle people's minds
+  政治稳定 | political stability
+  稳定增长 | steady growth
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  稳扎稳打 | wěn zhā wěn dǎ | go forward steadily and strike sure blows; make steady progress
+  安居乐业 | ān jū lè yè | live and work in peace and contentment
+  平稳过渡 | píng wěn guò dù | smooth and steady transition
+  立足稳固 | lì zú wěn gù | gain a firm foothold; stand on solid ground
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  稳 | wěn | stable; steady; secure | estable; firme; seguro | 禾 | grain / standing cereal | 禾 (grain harvest providing security) | 隐 (yǐn / 急 / 爫+工 phonetic/semantic association) | 14 | 左右结构 | Phono-semantic compound. Grain (禾) in abundance allows the populace to remain settled and calm. | A granary full of harvested grain (禾) brings steady security and calm to the family. | Un granero colmado de cereal cosechado (禾) aporta tranquilidad y firmeza a la familia. | 214 | HDNSP | 穩
+  定 | dìng | settle; decide; fixed | fijar; decidir; calmado | 宀 | roof / dwelling | 宀 (roof sheltering a home) | 正 (zhèng / 足 foot resting peacefully) | 8 | 上下结构 | Ideogrammic compound: a foot (疋/正) resting firmly under a roof (宀), signifying tranquility and permanence. | Under the protective roof of home (宀), your feet rest still and settled (疋). | Bajo el techo protector de la casa (宀), los pies reposan quietos y seguros (疋). | 51 | JMO | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When grain harvests (禾) are securely stored under a sheltered roof (宀), life becomes prosperous and stable (稳定).
+  composite_memory_hook_es: Cuando la cosecha (禾) descansa segura bajo el techo del hogar (宀), la vida se vuelve próspera y estable (稳定).
+  cultural_and_cognitive_roots: Ancient agrarian society equated stability with grain in the bin (稳) and family beneath a roof (定). Social equilibrium is perceived as an inner anchor against life's turbulence.
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by a decisive falling 4th tone: wěn dìng (214-51). 'wěn' dips smoothly down to 21 before transitioning crisply to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    隐 | yǐn | hidden; conceal | Has 阝 (mound/wall) radical on the left instead of 禾 (grain)
+    锭 | dìng | ingot; spindle | Has 钅 (metal) radical on the left instead of 禾
+    绽 | zhàn | burst open; split | Has 纟 (silk) radical on the left with 定 on the right
+    淀 | diàn | shallow water; precipitate | Has 氵 (water) radical on the left with 定 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    安定 | ān dìng | stable; quiet; settled
+    确定 | què dìng | definite; certain; confirm
+    固定 | gù dìng | fixed; regular; fasten
+    稳重 | wěn zhòng | prudent; staid; composed
+
+semantic_boundary_contrasts:
+  core_nuance: 稳定 denotes equilibrium, reliability, and resistance to disruptive fluctuations across emotions, structures, or social systems.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 稳定 vs. 固定 | gùdìng | 稳定 describes a steady state of equilibrium free from turbulence (稳定情绪, 稳定物价), whereas 固定 focuses on physical immobilization or predetermined unchangeability (固定座位, 固定时间).
+    2 | 稳定 vs. 平静 | píngjìng | 稳定 emphasizes endurance, reliability, and security of an overall system, while 平静 describes peaceful sensory stillness or tranquil waters and moods (风浪平静, 心情平静).
+    3 | 稳定 vs. 沉着 | chénzhuó | 稳定 reflects overall equilibrium and steadfastness, whereas 沉着 specifically characterizes a person's poised, unflappable calmness in the face of crisis.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 很多人渴望一份稳定的工作与波澜不惊的岁月，但真正的稳定并非来自外界环境的庇护，而是源自内心深处从容应对变故的笃定。在生活的惊涛骇浪中，拥有自我调节的能力，便能在任何风暴里找到稳固的港湾。 | Hěnduō rén kěwàng yí fèn wěndìng de gōngzuò yǔ bōlánbùjīng de suìyuè, dàn zhēnzhèng de wěndìng bìng fēi láizì wàijiè huánjìng de bìhù, ér shì yuánzì nèixīn shēnchù cóngròng yìngduì biàngù de dǔdìng. Zài shēnghuó de jīngtāohàilàng zhōng, yōngyǒu zìwǒ tiáojié de nénglì, biàn néng zài rènhé fēngbào lǐ zhǎodào wěngù de gǎngwān. | Many people yearn for a stable career and tranquil years, yet genuine stability stems not from sheltered circumstance, but from inner certainty in facing sudden change. Amid life's surging waves, possessing emotional self-regulation allows one to anchor safely in any storm. | Mucha gente anhela un trabajo estable y años apacibles, pero la verdadera estabilidad no proviene de un entorno protegido, sino de la convicción interior al afrontar los cambios. En medio de los oleajes de la vida, regularse a uno mismo permite hallar un puerto seguro en cualquier tormenta.
+  #2 | 宏观经济学分析指出，维持物价与就业的长期稳定，是保障社会民生和增强投资信心的关键基石。面对全球贸易格局的深刻变动，唯有通过科技创新和结构性改革，才能在全球竞争中构建更加稳健、更有韧性的产业发展体系。 | Hóngguān jīngjìxué fēnxī zhǐchū, wéichí wùjià yǔ jiùyè de chángqī wěndìng, shì bǎozhàng shèhuì mínshēng hé zēngqiáng tóuzī xìnxīn de guānjiàn jīshí. Miànduì quánqiú màoyì gégjú de shēnkè biàndòng, wéiyǒu tōngguò kējì chuàngxīn hé jiégòuxìng gǎigé, cáinéng zài quánqiú jìngzhēng zhōng gòujiàn gèngjiā wěnjiàn, gèng yǒu rènxìng de chǎnyè fāzhǎn tǐxì. | Macroeconomic analysis indicates that maintaining long-term stability in commodity prices and employment forms the bedrock of social welfare and investor confidence. Facing deep transformations in global trade, only technological innovation and structural reforms can build a resilient industrial system. | El análisis macroeconómico señala que mantener la estabilidad prolongada de precios y empleo es la base del bienestar y la confianza inversora. Ante las profundas transformaciones del comercio global, la innovación técnica y las reformas estructurales permiten forjar un tejido industrial más sólido y resiliente.

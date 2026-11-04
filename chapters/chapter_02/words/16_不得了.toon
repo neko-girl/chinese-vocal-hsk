@@ -1,0 +1,65 @@
+id: 16
+hanzi: 不得了
+pinyin: bù dé liǎo
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: extremely; terribly; disastrous; serious; out of hand
+  es: tremendo; gravísimo; extraordinario; sumamente; una barbaridad
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Colloquial | extremely; exceedingly (used after 得 as an intensifier: Adj + 得不得了) | sumamente; extraordinariamente (pospuesto a adjetivos con 得) | 高兴得不得了 (terribly happy / overjoyed)
+  2 | Adjective | Colloquial | disastrous; terrible; serious (indicating a catastrophic or unmanageable turn of events) | terrible; catastrófico; gravísimo | 那还了得，可不得了了 (that's terrible / serious trouble)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 第一次走进儿子在城里买的新房子，看到宽敞明亮的落地窗，母亲高兴得不得了。 | Dì-yī cì zǒujìn érzi zài chénglǐ mǎi de xīn fángzi, kàndào kuānchǎng míngliàng de luòdìchuāng, mǔqīn gāoxìng de bùdéliǎo. | Stepping into the new city apartment her son purchased for the first time and seeing the floor-to-ceiling windows, mother was overjoyed. | Al entrar por primera vez al piso nuevo que su hijo compró en la ciudad y ver las amplias cristaleras, mi madre se puso contentísima.
+  #2 | 汛期山洪一旦冲毁村头堤坝那可就不得了了，全村的防汛抢险队伍昼夜坚守在第一线。 | Xùnqī shānhóng yídàn chōnghuǐ cūntóu dībà nà kě jiù bùdéliǎo le, quán cūn de fángxùn qiǎngxiǎn duìwǔ zhòuyè jiānshǒu zài dì-yī xiàn. | If mountain torrents in flood season breached the village dam it would be catastrophic; the village flood-relief crew guarded the front lines day and night. | Si las riadas quebraran la presa de la aldea sería una catástrofe; por ello las cuadrillas de emergencia montaron guardia día y noche en primera línea.
+
+collocations[6]{hanzi,en}:
+  高兴得不得了 | overjoyed; thrilled to bits
+  热得不得了 | terribly hot; scorching
+  忙得不得了 | insanely busy; swamped
+  疼得不得了 | hurting terribly; agonizing
+  那还不得了 | that would be completely disastrous / out of hand
+  乐得不得了 | delighted beyond measure
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  非同小可 | fēi tóng xiǎo kě | no small matter; extraordinary and serious
+  喜出望外 | xǐ chū wàng wài | overjoyed at unexpected good news; delighted beyond expectations
+  不可收拾 | bù kě shōu shí | out of hand; irremediable; hopelessly disorganized
+  欣喜若狂 | xīn xǐ ruò kuáng | wild with joy; ecstatic beyond words
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  不 | bù | not; negative | no; prefijo negativo | 一 | one / horizontal line | 一 (firm boundary line) | "" | 4 | 独体结构 | Ancient pictograph of a seed or bird flying upward toward the firmament line, asserting negative denial. | A boundary line above a downward-branching stroke firmly denying any further extension. | Un trazo delimitador superior que niega tajantemente cualquier paso hacia abajo. | 51 | MF | ""
+  得 | dé | obtain; acquire; succeed | obtener; lograr; partícula modal | 彳 | step / walk | 彳 (footsteps of progress) | 贝 (wealth/shell) + 寸 (hand) | 11 | 左右结构 | Depicts taking purposeful steps (彳) while using a hand (寸) to acquire valuable treasure (贝). | Taking strides (彳) to firmly grasp (寸) precious seashells (贝) into one's possession. | Dar zancadas (彳) para asir firmemente (寸) valiosas conchas (贝) entre las manos. | 35 | HOAMI | 得
+  了 | liǎo | finish; settle; understand | terminar; concluir; comprender | 亅 | hook / standing line | 亅 (hook denoting finality) | 子 (without arms) | 2 | 独体结构 | Ancient pictograph of an infant swaddled tight, denoting the conclusive end of birth or completion of an action. | A swift hook stroke (了) drawing a line under everything to mark total completion. | Un trazo limpio y curvado (了) que pone punto final a una acción concluida. | 214 | NN | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Something so extreme that it cannot (不) be attained (得) or concluded (了) within normal limits is truly extraordinary (不得了).
+  composite_memory_hook_es: Algo tan desmedido que no (不) se puede abarcar (得) ni dar por terminado (了) es una auténtica barbaridad (不得了).
+  cultural_and_cognitive_roots: Originating from classical Chinese philosophical vernacular expressing boundary breach ('不得了' = incapable of closure/resolution), it evolved into a vivid emotional exclamation for extreme subjective intensity.
+  tone_sandhi_and_pitch_modulation: The headword is pronounced with flowing cadence: 'bù dé liǎo' (51-35-214). When modifying a predicate with '得', the tone carries lively oral exaggeration.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    待 | dài | wait; treat | Has 寺 on the right instead of 旦+寸 (得)
+    木 | mù | wood; tree | Lacks the lower left oblique stroke of 不
+    子 | zǐ | child; infant | Has an extra horizontal middle stroke compared to 了
+    行 | xíng | walk; alright | Has 亍 on the right instead of 旦+寸
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    了解 | liǎo jiě | understand; comprehend
+    了结 | liǎo jié | settle; wind up
+    获得 | huò dé | obtain; acquire
+    不得已 | bù dé yǐ | have no alternative; forced to
+
+semantic_boundary_contrasts:
+  core_nuance: 不得了 functions primarily as an exaggerated vernacular degree complement meaning 'to an astonishing degree' or as a catastrophic exclamation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 不得了 vs. 非常 | fēicháng | 不得了 is placed after an adjective with 得 (e.g. 累得不得了) with strong emotional exaggeration, whereas 非常 is a formal adverb placed before adjectives (e.g. 非常累).
+    2 | 不得了 vs. 了不起 | liǎobùqǐ | 不得了 indicates extreme degree or impending disaster, while 了不起 expresses praise, meaning remarkable, marvelous, or admirable (e.g. 了不起的成就).
+    3 | 不得了 vs. 极其 | jíqí | 不得了 is informal and oral, whereas 极其 is a formal written adverb of superlative degree (e.g. 极其重要).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 幼年每逢过年，孩子们穿上崭新的棉袄，兜里塞满了花生和糖果，心里快活得不得了。在窄窄的村巷里追逐嬉闹，那清脆的笑声穿透冬日的寒风，成了记忆里最温暖明亮的底色。 | Yòunián měiféng guònián, háizimen chuān shàng zhǎnxīn de mián'ǎo, dōulǐ sāi mǎn le huāshēng hé tángguǒ, xīnlǐ kuàihuó de bùdéliǎo. Zài zhǎizhǎi de cūnxiàng lǐ zhuīzhú xīnào, nà qīngcuì de xiàoshēng chuāntòu dōngrì de hánfēng, chéngle jìyì lǐ zuì wēnnuǎn míngliàng de dǐsè. | In childhood at New Year, kids wore new cotton coats with pockets stuffed with peanuts and candies, overjoyed beyond words. Frolicking along narrow village lanes, our laughter pierced the chilly wind, painting the warmest memories. | En la niñez, al llegar el Año Nuevo, los niños estrenaban abrigos y llenaban sus bolsillos de cacahuetes y dulces, contentísimos. Corrían por los callejones nevados y sus risas claras templaban el invierno.
+  #2 | 在复杂的工业控制系统中，哪怕是微小的信号抖动，如果引发级联放大效应，后果也会严重得不得了。因此，系统架构师必须在各关键子模块之间设置严格的安全冗余隔离，确保整体稳定受控。 | Zài fùzá de gōngyè kòngzhì xìtǒng zhōng, nǎpà shì wēixiǎo de xìnhào dǒudòng, rúguǒ yǐnfā jílián fàngdà xiàoyìng, hòuguǒ yě huì yánzhòng de bùdéliǎo. Yīncǐ, xìtǒng jiàgòushī bìxū zài gè guānjiàn zǐmókuài zhījiān shèzhì yángé de ānquán rǒngyú gélí, quèbǎo zhěngtǐ wěndìng shòukòng. | In intricate industrial control systems, even minute signal jitter, if triggering cascade amplification, could lead to catastrophic consequences. Hence architects must install safety redundancy barriers between critical submodules. | En sistemas industriales complejos, una leve oscilación de señal puede desatar efectos en cascada gravísimos. Por ello, los ingenieros instalan aislamientos redundantes para garantizar el control riguroso de cada módulo.

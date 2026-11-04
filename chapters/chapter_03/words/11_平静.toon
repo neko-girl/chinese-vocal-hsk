@@ -1,0 +1,64 @@
+id: 11
+hanzi: 平静
+pinyin: píng jìng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: calm; peaceful; tranquil; serene; quiet
+  es: tranquilo; en calma; sereno; apacible; sosegado
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | undisturbed, peaceful, and free from agitation (describing mood, mind, or expressions) | tranquilo; sosegado; sereno en el ánimo o la expresión | 心情平静 (calm and peaceful state of mind)
+  2 | Adjective | Standard | smooth, still, and without waves or disturbances (describing water, sea, or atmosphere) | en calma; apacible; sin oleaje ni alboroto | 海面平静 (the sea surface is calm)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 暴风雨终于停歇，蔚蓝的大海重新恢复了平静，帆船在柔和的阳光下缓缓滑行。 | Bàofēngyǔ zhōngyú tíngxiē, wèilán de dàhǎi chóngxīn huìfù le píngjìng, fānchuán zài róuhé de yángguāng xià huǎnhuǎn huáxíng. | The storm finally subsided, the azure ocean regained its tranquility, and the sailboat glided gently beneath the soft sunlight. | La tempestad amainó por fin, el mar azul recobró la calma y el velero se deslizó suavemente bajo la tenue luz del sol.
+  #2 | 面对突发的市场公关危机，公司发言人以异常平静的语调客观陈述事实，迅速稳定了舆论走向。 | Miànduì tūfā de shìchǎng gōngguān wēijī, gōngsī fāyánrén yǐ yìcháng píngjìng de yǔdiào kèguān chénshù shìshí, xùnsù wěndìng le yúlùn zǒuxiàng. | Facing a sudden public relations crisis, the company spokesperson presented facts in an unusually calm tone, swiftly steadying public opinion. | Ante una imprevista crisis de imagen corporativa, el portavoz expuso los hechos con un tono sereno, apaciguando con presteza el rumor público.
+
+collocations[6]{hanzi,en}:
+  心情平静 | peaceful / calm mood
+  海面平静 | calm sea surface
+  恢复平静 | restore tranquility; calm down
+  平静的生活 | peaceful life
+  十分平静 | very calm / tranquil
+  平静的眼神 | calm gaze / eyes
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  心平气和 | xīn píng qì hé | calm and even-tempered; serene and composed
+  平风静浪 | píng fēng jìng làng | calm wind and tranquil waves; peaceful sailing
+  风平浪静 | fēng píng làng jìng | the wind is calm and the waves are quiet; calm and tranquil
+  安之若素 | ān zhī ruò sù | bear hardship or change with composure; take things calmly
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  平 | píng | flat; level; peaceful | plano; nivelado; en paz | 干 | shield / pestle | 于 / 丂 (breath spreading out evenly) | 八 (cleaving evenly in half) | 5 | 独体结构 | Ancient pictograph of a scale beam or breath exhaled in smooth, balanced equilibrium. | A horizontal level beam (一) perfectly balanced on both sides (八) without tipping. | Una balanza perfectamente horizontal (一) con pesos idénticos a ambos lados (八). | 35 | MFI | ""
+  静 | jìng | quiet; still; calm | quieto; silencioso; sereno | 青 | blue-green / nature | 青 (clarity of green waters and clear skies) | 争 (zhèng phonetic / struggle settling down) | 14 | 左右结构 | Phono-semantic compound: azure clarity (青) subduing conflict and turbulence (争), yielding deep stillness. | Lush emerald nature (青) absorbing all worldly commotion and striving (争) into serene quiet. | El verdor puro de la naturaleza (青) apaciguando cualquier lucha o disputa (争) en un remanso de paz. | 51 | QBNS | 靜
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When life's balance becomes level (平) and outer struggles quiet down (静), a deep inner stillness emerges (平静).
+  composite_memory_hook_es: Cuando la vida recupera el equilibrio llano (平) y las disputas callan (静), florece una profunda calma (平静).
+  cultural_and_cognitive_roots: Traditional Chinese philosophy views tranquility as water returning to a level mirror ('静水流深'). Serenity is not emptiness, but internal harmony unruffled by fleeting external winds.
+  tone_sandhi_and_pitch_modulation: Rising 2nd tone followed by a falling 4th tone: píng jìng (35-51). Articulate 'píng' smoothly upward before bringing 'jìng' firmly downward.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    平 | píng | flat; peaceful | Single vertical stroke centered between two dots
+    苹 | píng | apple | Has 艹 (grass) radical on top of 平
+    静 | jìng | quiet; silent | Has 青 on the left and 争 on the right
+    净 | jìng | clean; pure | Has 冫 (ice) radical on the left with 争
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    平时 | píng shí | peacetime; ordinarily; at normal times
+    平安 | píng ān | safe and sound; peaceful
+    安静 | ān jìng | quiet; peaceful; silent
+    宁静 | níng jìng | tranquil; serene; placid
+
+semantic_boundary_contrasts:
+  core_nuance: 平静 describes the cessation of turbulent waves, commotion, or emotional agitation, restoring natural stillness.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 平静 vs. 安静 | ānjìng | 平静 highlights the absence of internal turmoil, emotional agitation, or oceanic turbulence (心情平静, 海面平静), while 安静 focuses on the absence of sound or audible noise (请大家安静).
+    2 | 平静 vs. 宁静 | níngjìng | 平静 describes recovering composure after a disturbance, whereas 宁静 evokes poetic, idyllic, and solemn serenity in natural landscapes or meditative states (宁静的夜晚).
+    3 | 平静 vs. 冷静 | lěngjìng | 平静 reflects emotional peace and freedom from anxiety, while 冷静 emphasizes rational, analytical thinking and maintaining cool logic under high pressure.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走过人生的坎坷波折，才明白最珍贵的莫过于内心的平静。外界的喧嚣与评价宛如掠过海面的季风，只要心底的水域足够深沉，任凭风吹浪打，也无法动摇那份沉稳与澄澈。 | Zǒuguò rénshēng de kǎnkě bōzhé, cái míngbai zuì zhēnguì de mòguòyú nèixīn de píngjìng. Wàijiè de xuānxiāo yǔ píngjià wǎnrú lüèguò hǎimiàn de jìfēng, zhǐyào xīndǐ de shuǐyù zúgòu shēnchén, rènpíng fēngchuīlàngdǎ, yě wúfǎ dòngyáo nà fèn chénwěn yǔ chéngchè. | Traversing life's jagged turns teaches that nothing surpasses inner tranquility. External clamor and judgments resemble monsoon gusts across the sea; if one's depths run deep enough, no wave can shake that crystalline clarity. | Superados los escollos del camino se comprende que nada supera la paz del corazón. El ruido ajeno es como el monzón sobre el mar: si las aguas interiores son hondas, ningún temporal perturbará su firmeza y limpidez.
+  #2 | 现代认知心理学指出，长期高压环境会导致自主神经系统紊乱，而练习正念呼吸有助于个体在剧烈的情绪波动后迅速回归平静。保持自主神经系统的平衡状态，不仅能有效降低皮质醇水平，还能显著提高复杂决策环境下的抗压韧性。 | Xiàndài rènzhī xīnlǐxué zhǐchū, chángqī gāoyā huánjìng huì dǎozhì zìzhǔ shénjīng xìtǒng wěnluàn, ér liànxí zhèngniàn hūxī yǒuzhùyú gètǐ zài jùliè de qíngxù bōdòng hòu xùnsù huíguī píngjìng. Bǎochí zìzhǔ shénjīng xìtǒng de pínghéng zhuàngtài, bùjǐn néng yǒuxiào jiàngdī pízìchún shuǐpíng, hái néng xiǎnzhù tígāo fùzá juécè huánjìng xià de kàngyā rènxìng. | Cognitive psychology notes that chronic stress dysregulates the autonomic nervous system, whereas mindfulness breathing aids rapid return to calm after emotional shocks. Maintaining neural equilibrium curbs cortisol levels and fortifies resilience during complex decision-making. | La psicología cognitiva demuestra que el estrés crónico desajusta el sistema nervioso, mientras la atención plena ayuda a recobrar la calma tras crisis emocionales. Preservar el equilibrio neurovegetativo reduce el cortisol y apuntala la templanza para tomar decisiones complejas.

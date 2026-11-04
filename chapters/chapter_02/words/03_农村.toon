@@ -1,0 +1,63 @@
+id: 3
+hanzi: 农村
+pinyin: nóng cūn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: countryside; rural area; village community
+  es: campo; zona rural; aldea campesina
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | rural area; agricultural region populated by farming households | campo; área rural habitada por campesinos dedicados al agro | 建设社会主义新农村 (build a socialist new countryside)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每到周末，许多城里人都喜欢驾车前往周边的农村，呼吸新鲜空气并品尝农家菜肴。 | Měi dào zhōumò, xǔduō chénglǐ rén dōu xǐhuan jiàchē qiánwǎng zhōubiān de nóngcūn, hūxī xīnxiān kōngqì bìng pǐncháng nóngjiā càiyáo. | Every weekend, many urban residents love driving to nearby rural areas to breathe fresh air and savor farm-style dishes. | Cada fin de semana, muchos habitantes urbanos disfrutan conduciendo al campo cercano para respirar aire puro y degustar comida campesina.
+  #2 | 近年来，国家加大对农村基础设施和教育资源的投入，有力推动了城乡一体化融合发展。 | Jìnnián lái, guójiā jiàdà duì nóngcūn jīchǔ shèshī hé jiàoyù zīyuán de tóurù, yǒulì tuīdòng le chéng-xiāng yìtǐhuà rónghé fāzhǎn. | In recent years, the state has boosted investment in rural infrastructure and educational resources, vigorously promoting urban-rural integration. | En los últimos años, el Estado ha incrementado la inversión en infraestructura y educación rural, impulsando la integración equilibrada de campo y ciudad.
+
+collocations[6]{hanzi,en}:
+  广大农村 | vast countryside
+  农村人口 | rural population
+  农村改革 | rural reform
+  离开农村 | leave the countryside
+  回到农村 | return to the rural village
+  农村生活 | countryside life
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  柳暗花明 | liǔ àn huā míng | dark willows and bright flowers; a promising turn after despair, reminiscent of rural paths
+  鸡犬相闻 | jī quǎn xiāng wén | crowing cocks and barking dogs heard all around; idyllic, peaceful village life
+  世外桃源 | shì wài táo yuán | the Peach Blossom Spring; idyllic, secluded haven away from worldly turmoil
+  晴耕雨读 | qíng gēng yǔ dú | plow when it's sunny and read when it rains; idyllic agrarian intellectual lifestyle
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  农 | nóng | agriculture; farming; peasant | agricultura; cultivar; campesino | 冖 | crown / cover | 辰 (agricultural calendar / hoe implement) | 曲 (simplified phonetic contour) | 6 | 独体结构 | Derived from ancient oracle script showing hands holding a tool to clear agricultural land during auspicious season (辰). | A farmer under the morning sky (冖) bends over the field cultivating crops according to the seasons. | Un agricultor bajo el cobertizo (冖) inclina su espalda para cultivar la tierra según el ciclo natural. | 35 | BHV | 農
+  村 | cūn | village; rustic settlement | aldea; poblado rural | 木 | tree / wood | 木 (trees surrounding early settlements) | 寸 (cùn, inch / hand measurement) | 7 | 左右结构 | Phono-semantic compound where trees (木) represent natural shelter enclosing small settlements, with phonetic 寸. | A cluster of wooden cottages (木) measured out carefully inch by inch (寸) forms a rural hamlet. | Cabañas de madera (木) levantadas palmo a palmo (寸) en armonía con los árboles forman una aldea. | 55 | DDI | 村
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Farmers cultivating the land (农) amidst wooden woodland cottages (村) form the peaceful countryside (农村).
+  composite_memory_hook_es: Campesinos cultivando la tierra (农) entre chozas de madera (村) componen el pacífico campo (农村).
+  cultural_and_cognitive_roots: China's historic agrarian civilization views the 'nóngcūn' not merely as land, but as the moral wellspring and emotional bedrock of ancestor veneration, kinship hospitality, and organic seasonal harmony.
+  tone_sandhi_and_pitch_modulation: Pronounced with a 35-55 pitch contour (2nd tone rising steadily, followed by 1st tone high and level). Maintain clear tonal elevation on 'cūn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    材 | cái | timber; talent | Has 才 (talent) on the right instead of 寸 (inch)
+    付 | fù | pay; hand over | Has 亻 (person) radical on the left with 寸 on the right
+    衣 | yī | clothes; garment | Top dot and horizontal line resemble simplified 农 upper strokes
+    树 | shù | tree; plant | Contains 木 on left and 寸 on right, but intercalates 又 in the center
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    农业 | nóng yè | agriculture; agricultural industry
+    农民 | nóng mín | farmer; peasant
+    乡村 | xiāng cūn | countryside; rural village
+    村落 | cūn luò | rustic hamlet; rural settlement
+
+semantic_boundary_contrasts:
+  core_nuance: 农村 refers broadly to the socio-economic rural geographic realm opposite to cities (城市).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 农村 vs. 乡村 | xiāngcūn | 农村 focuses on agricultural production, socio-economic demography, and administrative designation, whereas 乡村 emphasizes idyllic scenery, rustic nostalgia, and pastoral tranquility.
+    2 | 农村 vs. 郊区 | jiāoqū | 农村 refers to distant agricultural land and peasant villages, while 郊区 denotes the suburban fringe surrounding a metropolis.
+    3 | 农村 vs. 乡镇 | xiāngzhèn | 农村 encompasses sprawling agricultural fields and farming communities, whereas 乡镇 refers specifically to administrative townships and commercial market towns in rural regions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走在农村蜿蜒的田埂上，鼻尖总能嗅到泥土与青草混合的清香。远处的炊烟在落日余晖中袅袅升起，老人们坐在门槛上亲切交谈。这种淳朴悠缓的节奏，让久居喧嚣的人心神宁静。 | Zǒu zài nóngcūn wānyán de tiángěng shàng, bíjiān zǒng néng xiù dào nítǔ yǔ qīngcǎo hùnhé de qīngxiāng. Yuǎnchù de chuīyān zài luòrì yúhuī zhōng niǎoniǎo shēngqǐ, lǎorénmen zuò zài ménkǎn shàng qīnqiè jiāotán. Zhè zhǒng chúnpǔ yōuhuǎn de jiézòu, ràng jiǔjū xuānxiāo de rén xīnshén níngjìng. | Walking along winding field ridges in the countryside, one always breathes in the fresh aroma of earth and wild grass. Distant cooking smoke curls gently into the sunset as elders chat warmly on doorways. This unhurried rustic rhythm brings profound peace to restless urban minds. | Al caminar por los senderos serpenteantes del campo, se percibe el aroma fresco a tierra y hierba. El humo de las cocinas asciende suavemente en el ocaso mientras los ancianos charlan en los umbrales. Este compás sereno apacigua el espíritu agitado por la vida urbana.
+  #2 | 伴随数字乡村建设的推进，中国农村展现出全新的发展面貌。电子商务让深山农特产品销往全国，现代农业科技提升了产出效益。农村正由传统的劳动力输出地，逐步转变为充满活力的创新创业沃土。 | Bànsuí shùzì xiāngcūn jiànshè de tuījìn, Zhōngguó nóngcūn zhǎnxiàn chū quánxīn de fāzhǎn miànmào. Diànzǐ shāngwù ràng shēnshān nóngtè chǎnpǐn xiāowǎng quánguó, xiàndài nóngyè kējì tíshēng le chǎnchū xiàoyì. Nóngcūn zhèng yóu chuántǒng de láodònglì shūchūdì, zhúbù zhuǎnbiàn wéi chōngmǎn huólì de chuàngxīn chuàngyè wòtǔ. | Driven by digital village initiatives, rural China presents a vibrant new development landscape. E-commerce connects specialty produce from remote mountains to nationwide markets, while agritech improves efficiency. The countryside is transforming from a labor exporter into fertile ground for entrepreneurship. | Con el avance de las aldeas digitales, el campo chino muestra una faz renovada. El comercio electrónico distribuye productos autóctonos a todo el país y la tecnología eleva la productividad. El medio rural deja de ser mero emisor de mano de obra para convertirse en foco de innovación.

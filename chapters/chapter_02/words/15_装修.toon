@@ -1,0 +1,64 @@
+id: 15
+hanzi: 装修
+pinyin: zhuāng xiū
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to decorate; to renovate; to fit out (an interior); interior decoration
+  es: renovar; remodelar; decorar (una vivienda); decoración de interiores
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to renovate, decorate, and install fixtures in a building or apartment | reformar; remodelar o decorar los interiores de un inmueble | 装修新房 (renovate a new apartment)
+  2 | Noun | Standard | interior decoration, renovation works, or fit-out | reforma; obras de decoración interior | 豪华装修 (luxurious interior decor)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 新买的房子刚装修完，为了家人的身体健康，母亲特意让窗户大开通风散味了整整三个月。 | Xīn mǎi de fángzi gāng zhuāngxiū wán, wèile jiārén de shēntǐ jiànkāng, mǔqīn tèyì ràng chuānghu dà kāi tōngfēng sǎnwèi le zhěngzhěng sān gè yuè. | The newly purchased apartment had just finished being renovated; for the family's health, mother deliberately kept the windows wide open to ventilate for three full months. | El piso recién comprado acababa de reformarse; por la salud de la familia, mi madre dejó las ventanas abiertas de par en par durante tres meses para ventilarlo.
+  #2 | 该连锁酒店聘请了国际知名设计团队进行室内装修升级，全面融入环保建材与智能化客房控制系统。 | Gāi liánsuǒ jiǔdiàn pìnqǐng le guójì zhīmíng shèjì tuánduì jìnxíng shìnèi zhuāngxiū shēngjí, quánmiàn róngrù huánbǎo jiàncái yǔ zhìnénghuà kèfáng kòngzhì xìtǒng. | The hotel chain hired an internationally renowned design team to upgrade its interior renovation, integrating eco-friendly materials and smart room controls. | La cadena hotelera contrató a un célebre equipo de diseño para renovar la decoración interior, incorporando materiales ecológicos y domótica avanzada.
+
+collocations[6]{hanzi,en}:
+  装修风格 | decoration style; interior aesthetic
+  室内装修 | interior renovation / fit-out
+  豪华装修 | luxurious renovation
+  简单装修 | simple / basic renovation
+  装修工人 | interior decoration / renovation worker
+  装修污染 | renovation pollution (fumes/formaldehyde)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  富丽堂皇 | fù lì táng huáng | sumptuous and magnificent; majestic and splendid
+  美轮美奂 | měi lún měi huàn | magnificent and gorgeous; describing exquisite architecture
+  焕然一新 | huàn rán yì xīn | take on an entirely new look; refreshed and renewed
+  巧夺天工 | qiǎo duó tiān gōng | exquisite craftsmanship surpassing nature itself
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  装 | zhuāng | attire; pack; dress; fit out | vestir; adornar; instalar; empaquetar | 衣 | clothing / garments | 衣 (fine garments adorning the exterior) | 壮 (zhuàng, robust / strong) | 12 | 上下结构 | Phono-semantic compound where clothing (衣) signifies dressing up or outfitting a person or architectural space. | Dressing a sturdy room frame (壮) in exquisite clothing and decorative fabrics (衣). | Revestir la sólida estructura de un hogar (壮) con hermosas vestiduras y acabados decorativos (衣). | 55 | LVH | 裝
+  修 | xiū | decorate; repair; cultivate | reparar; adornar; cultivar; pulir | 彡 | hair / feathers / fine brushstrokes | 彡 (delicate brush embellishment) | 攸 (yōu, flowing water / person) | 9 | 左右结构 | Ancient compound depicting polishing ornaments with fine brushstrokes (彡) to attain elegance and repair defects. | A craftsman using delicate brush strokes (彡) to polish, paint, and perfect interior surfaces. | Un artesano aplicando delicadas pinceladas (彡) para pintar, pulir y embellecer los muros interiores. | 55 | OLOH | 修
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Outfitting a living space with fine fixtures (装) and polishing each surface with care (修) produces a beautiful renovation (装修).
+  composite_memory_hook_es: Dotar la vivienda de buen equipamiento (装) y pulir sus paredes con esmero (修) culmina en una gran reforma (装修).
+  cultural_and_cognitive_roots: In modern Chinese society, '装修' represents the ritual transition from an empty concrete shell ('毛坯房') into a sanctified, personalized family hearth, reflecting aesthetic tastes and hard-earned prosperity.
+  tone_sandhi_and_pitch_modulation: Pronounced with paired high-level tones: 'zhuāng xiū' (55-55). Maintain a sustained high, steady pitch across both syllables without dipping.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    袋 | dài | bag; pocket | Has 代 on top of 衣 instead of 壮
+    裳 | shang | skirt; lower garment | Has 尚 on top of 衣 instead of 壮
+    条 | tiáo | strip; clause | Upper structure differs from 修; has 木 at bottom
+    徐 | xú | slowly; gentle | Has 彳 (step) on the left instead of 亻 with 攸
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    修理 | xiū lǐ | repair; fix
+    修养 | xiū yǎng | personal cultivation; refinement
+    装置 | zhuāng zhì | device; apparatus; installation
+    装备 | zhuāng bèi | equipment; outfit
+
+semantic_boundary_contrasts:
+  core_nuance: 装修 specifically refers to architectural interior fit-out, carpentry, tiling, and aesthetic decoration of spaces.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 装修 vs. 修理 | xiūlǐ | 装修 focuses on beautifying and installing interior fittings for homes or offices, whereas 修理 refers to fixing broken machinery, electronics, or equipment (e.g. 修理汽车, 修理手机).
+    2 | 装修 vs. 装饰 | zhuāngshì | 装修 involves structural carpentry, plastering, plumbing, and wall tiling, while 装饰 refers to surface adornment, decorative trinkets, or aesthetic motifs (e.g. 装饰画, 装饰品).
+    3 | 装修 vs. 改建 | gǎijiàn | 装修 deals with indoor surface finishes and furnishing, whereas 改建 involves reconstructing or modifying external architectural frameworks and structural walls.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 新房装修的每个周末，夫妻俩都满怀期待地穿梭于建材市场。从一块地砖的花纹到一盏吊灯的色调，他们亲手将对未来生活的所有憧憬，一点一滴地融入到了这个崭新的温馨居所之中。 | Xīnfáng zhuāngxiū de měi gè zhōumò, fūqī liǎ dōu mǎnhuái qīdài de chuānsuō yú jiàncái shìchǎng. Cóng yí kuài dìzhuān de huāwén dào yì zhǎn diàodēng de sèdiào, tāmen qīnshǒu jiāng duì wèilái shēnghuó de suǒyǒu chōngjǐng, yìdiǎn-yìdī de róngrù dào le zhè gè zhǎnxīn de wēnxīn jūsuǒ zhīzhōng. | Every weekend during the apartment renovation, the couple eagerly navigated building material markets. From tile patterns to lamp shades, they incorporated their hopes for future life into this fresh, cozy residence. | Cada fin de semana de la reforma, la pareja recorría con ilusión los almacenes de construcción. Del dibujo de las baldosas a la tonalidad de las lámparas, plasmaron con esmero sus anhelos en su nuevo y acogedor hogar.
+  #2 | 近年来，随着居民环保意识提升，绿色家装已成为住宅装修市场的核心风向标。低碳环保建材、装配式装修工艺以及零甲醛涂料的应用，不仅缩短了工期，更从源头上筑牢了健康人居环境的生态防线。 | Jìnnián lái, suí zhe jūmín huánbǎo yìshí tíshēng, lǜsè jiāzhuāng yǐ chéngwéi zhùzhái zhuāngxiū shìchǎng de héxīn fēngxiàngbiāo. Dītàn huánbǎo jiàncái, zhuāngpèishì zhuāngxiū gōngyì yǐjí líng jiǎquán túliào de yìngyòng, bùjǐn suōduǎn le gōngqī, gèng cóng yuántóu shàng zhùláo le jiànkāng rénjū huánjìng de shēngtài fángxiàn. | With rising eco-awareness, green home decoration has become the benchmark of the interior renovation industry. Low-carbon materials, prefabricated fittings, and zero-formaldehyde coatings safeguard a healthy residential ecology. | Con la creciente conciencia ecológica, la reforma sostenible lidera el mercado del interiorismo. El empleo de materiales no contaminantes y prefabricados modulares acorta plazos y garantiza un hábitat residencial saludable.

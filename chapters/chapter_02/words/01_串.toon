@@ -1,0 +1,64 @@
+id: 1
+hanzi: 串
+pinyin: chuàn
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: bunch; cluster; string; skewer; to string together; to mix up
+  es: racimo; sarta; brocheta; ensartar; encadenar; confundir
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | classifier for things strung together, clusters, or series of items | clasificador para cosas ensartadas, racimos o series | 一串钥匙 (a bunch of keys)
+  2 | Verb | Standard | to string together; to thread; to skewer | ensartar; enhebrar; ensartar en brocheta | 把肉串起来 (skewer the meat)
+  3 | Verb | Colloquial | to mix up; to cross over; to visit neighbors | cruzarse; mezclarse; pasar de visita | 走街串巷 (wander through streets and alleys)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 母亲从老家带了一串串红辣椒挂在厨房门前，让新家多了几分乡村的温情。 | Mǔqīn cóng lǎojiā dài le yí chuànchuàn hóng làjiāo guà zài chúfáng ménqián, ràng xīn jiā duō le jǐ fèn xiāngcūn de wēnqíng. | Mother brought strings of red chili peppers from our hometown and hung them before the kitchen door, adding rustic warmth to the new house. | Mi madre trajo ristras de chiles rojos de nuestra tierra natal y las colgó ante la cocina, añadiendo calidez campestre al nuevo hogar.
+  #2 | 这次供应链断裂引发了一连串连锁反应，导致数家制造企业的生产陷入停顿。 | Zhè cì gōngyìngliàn duànliè yǐnfā le yì liánchuàn liánsuǒ fǎnyìng, dǎozhì shù jiā zhìzàoqǐyè de shēngchǎn xiànrù tíngdùn. | This supply chain disruption triggered a string of chain reactions, bringing production in several manufacturers to a standstill. | Esta ruptura en la cadena de suministro desencadenó una serie de reacciones en cadena que paralizó la producción de varias fábricas.
+
+collocations[6]{hanzi,en}:
+  一串钥匙 | a bunch of keys
+  羊肉串 | lamb skewers / kebabs
+  一连串 | a whole series of
+  串门 | visit someone's home casually
+  串通 | collude; conspire with
+  串味 | tainted with another smell or flavor
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  一串骊珠 | yí chuàn lí zhū | a string of bright pearls; elegant words or exquisite singing
+  走街串巷 | zǒu jiē chuàn xiàng | roam streets and alleys; wander all around town
+  贯穿始终 | guàn chuān shǐ zhōng | run through from beginning to end
+  连珠合璧 | lián zhū hé bì | conjunction of pearls and jade; harmonious union of talents
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  串 | chuàn | string; bunch; skewer | sarta; racimo; brocheta | 丨 | vertical stroke / rod | 丨 (rod or skewer piercing items) | 吕 (doubled boxes representing items) | 7 | 独体结构 | Pictographic depiction of two discrete objects pierced through by a single vertical skewer. | Two round meat chunks (口 口) skewered through the center by a single wooden stick (丨). | Dos trozos de comida (口 口) ensartados por el centro mediante un palo vertical (丨). | 51 | LL | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A vertical skewer (丨) piercing through two squares (口) creates a tasty kebab skewer or a string of keys (串).
+  composite_memory_hook_es: Una vara vertical (丨) atraviesa dos cuadrados (口) formando una brocheta o una sarta de llaves (串).
+  cultural_and_cognitive_roots: In ancient Chinese commerce and food culture, coins were strung on hemp cords (贯/串), and food was skewered over charcoal fire, giving 'chuàn' the core spatial imagery of connected alignment.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 4th tone with a decisive falling contour (51). When preceded by '一' (yī), '一' changes tone to 2nd tone: 'yí chuàn' (35-51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    中 | zhōng | center; middle | Has only one box 口 pierced by 丨, whereas 串 has two stacked boxes
+    申 | shēn | state; express; 9th earthly branch | Has one box with horizontal strokes intersecting 丨 inside
+    吕 | lǚ | surname; musical pitch | Two stacked boxes without the vertical piercing line 丨
+    患 | huàn | disaster; worry; suffer | Has 串 on top and 心 (heart) below; anxiety pierced through the heart
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    贯 | guàn | thread together; pass through
+    连 | lián | connect; link
+    系 | xì | tie; fasten; relate
+    穿 | chuān | pierce through; thread; wear
+
+semantic_boundary_contrasts:
+  core_nuance: 串 emphasizes discrete physical items or events linked continuously along a single central axis or line.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 串 vs. 束 | shù | 串 classifies items pierced or tied sequentially on a string (e.g. 钥匙, 烤肉), whereas 束 classifies bundled or tied stems held together in a cluster (e.g. 一束鲜花).
+    2 | 串 vs. 阵 | zhèn | 串 implies a continuous linear succession of things or events (一连串), while 阵 signifies a sudden, intermittent burst or wave of sensation, wind, or sound (一阵风).
+    3 | 串 vs. 批 | pī | 串 describes small sequential units strung together, whereas 批 designates large batches, groups, or shipments handled collectively (一批货, 一批游客).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 故乡院落里的记忆，总是伴随着房檐下一串串金黄的玉米与红透的干辣椒。秋风拂过，它们在阳光下轻轻碰撞，发出沙沙的声响。那一串串挂起的不只是丰收的粮食，更是母亲一整年无声的惦念与辛劳。 | Gùxiāng yuànluò lǐ de jìyì, zǒngshì bànsuí zhe fángyán xià yí chuànchuàn jīnhuáng de yùmǐ yǔ hóng tòu de gān làjiāo. Qiūfēng fúguò, tāmen zài yángguāng xià qīngqīng pèngzhuàng, fāchū shāshā de shēngxiǎng. Nà yí chuànchuàn guà qǐ de bù zhǐ shì fēngshōu de liángshi, gèng shì mǔqīn yì zhěng nián wúshēng de diànniàn yǔ xīnláo. | Memories of the courtyard in my hometown are always accompanied by golden corn and crimson dried peppers strung beneath the eaves. Swaying in the autumn breeze, they whisper rustling sounds in the sunlight. Those hanging strings carry not just a harvest, but mother's silent devotion throughout the year. | Los recuerdos del patio de mi pueblo natal siempre evocan mazorcas doradas y chiles secos ensartados bajo los aleros. Cuando el viento otoñal los agita bajo el sol, emiten un suave crujido. Esas sartas colgadas no solo representan la cosecha, sino la callada devoción materna durante todo el año.
+  #2 | 城市化进程的加快催生了一连串社会变迁。从传统农耕宗族到现代都市公寓，生活空间的重构重塑了邻里关系。许多学者指出，社区治理的关键在于重建居民之间的情感纽带，避免人际关系碎片化。 | Chéngshìhuà jìnchéng de jiākuài cuīshēng le yì liánchuàn shèhuì biànqiān. Cóng chuántǒng nónggēng zōngzú dào xiàndài dūshì gōngyù, shēnghuó kōngjiān de chónggòu zhòngshù le línlǐ guānxì. Xǔduō xuézhě zhǐchū, shèqū zhìlǐ de guānjiàn zàiyú chóngjiàn jūmín zhījiān de qínggǎn niǔdài, bìmiǎn rénjì guānxì suìpiànhuà. | The acceleration of urbanization has spurred a whole series of societal transformations. Moving from agrarian clans to urban apartments, the reconfigured living space reshapes neighborhood dynamics. Scholars highlight that successful community governance relies on rebuilding emotional bonds among residents. | La aceleración urbanística ha desatado una serie de transformaciones sociales. Del clan agrícola al apartamento urbano, la reconfiguración espacial reformula la convivencia vecinal. Los sociólogos advierten que la cohesión comunitaria requiere reconstruir lazos afectivos vecinales.

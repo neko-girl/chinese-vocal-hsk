@@ -1,0 +1,63 @@
+id: 36
+hanzi: 飘
+pinyin: piāo
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to float; to drift; to flutter in the wind; to waft (of scents or sounds)
+  es: flotar; flotar en el aire; ondear al viento; esparcirse (aroma o sonido)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to blow, drift, or flutter lightly in the air or on wind currents | flotar en el aire; revolotear; ondear al viento | 红旗迎风飘扬 (red flags flutter in the wind)
+  2 | Verb | Standard | to waft, drift, or spread gently across space (smell, fragrance, melody) | esparcirse; flotar en el ambiente (aromas, música) | 飘来阵阵清香 (waves of fresh fragrance waft in)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 刚走上楼梯，母亲在厨房炖土鸡的浓郁香味就从门缝里悄悄飘了出来，勾起了满满的食欲。 | Gāng zǒu shàng lóutī, mǔqīn zài chúfáng dùn tǔjī de nóngyù xiāngwèi jiù cóng ménfèng lǐ qiāoqiāo piāo le chūlái, gōuqǐ le mǎnmǎn de shíyù. | Just stepping onto the stairs, the rich aroma of free-range chicken stewed by mother drifted softly through the door crack, stirring an appetite. | Al subir por la escalera, el apetitoso aroma del guiso de pollo que preparaba madre se filtró por la rendija de la puerta despertando el apetito.
+  #2 | 初春的细雨夹杂着微风，漫天洁白的樱花花瓣如雪花般在校园林荫道上随风缓缓飘落。 | Chūchūn de xìyǔ jiāzá zhe wēifēng, màntiān jiébái de yīnghuā huābàn rú xuěhuā bān zài xiàoyuán línyīndào shàng suí fēng huǎnhuǎn piāoluò. | Early spring drizzle mingled with gentle breeze as pure white cherry blossom petals drifted softly like snowflakes along the shaded campus avenue. | La llovizna primaveral se mezclaba con la brisa mientras los pétalos de cerezo flotaban y caían como copos de nieve por la alameda del campus.
+
+collocations[6]{hanzi,en}:
+  飘扬 | flutter in the breeze; fly
+  飘荡 | drift gently; waft
+  飘落 | flutter down; drift down
+  飘香 | waft fragrance; emit sweet scent
+  飘来 | waft over; drift in
+  随风飘动 | drift / float with the wind
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  随波逐流 | suí bō zhú liú | drift with the waves and follow the current; lack independent conviction
+  凤泊鸾飘 | fèng bó luán piāo | phoenix stranded and luan bird drifting; talented people wandering in exile
+  天女散花 | tiān nǚ sàn huā | heavenly maiden scatters blossoms; petals or snow drifting everywhere
+  风雨飘摇 | fēng yǔ piāo yáo | tottering in wind and rain; unstable and precarious situation
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  飘 | piāo | float; drift; flutter; waft | flotar; ondear; esparcirse | 风 | wind | 风 (gusts of wind carrying items) | 票 (piào, light paper slip / phonetic) | 15 | 左右结构 | Phono-semantic compound where wind radical 风 carries light objects resembling fluttering tickets (票) gracefully through the air. | A light paper slip (票) lifted high into the sky by a sudden breeze of wind (风), drifting effortlessly. | Una leve tira de papel (票) alzada por una racha de viento (风) que flota grácilmente por el aire sin peso. | 55 | MFHN | 飄
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A light paper sheet (票) caught in a gust of wind (风) gracefully flutters and drifts (飘) across the sky.
+  composite_memory_hook_es: Una leve cuartilla de papel (票) atrapada por la brisa del viento (风) flota y ondea (飘) por el aire.
+  cultural_and_cognitive_roots: In classical Chinese lyrical poetry, '飘' evokes transient, ethereal beauty—petals falling at dusk, banners waving over distant ramparts, or drifting wanderers ('飘零') searching for home.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 1st tone with a sustained, light, elevated pitch: 'piāo' (55). Keep the articulation buoyant and breathy to mirror its floating meaning.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    漂 | piào / piāo | float on water; bleach | Has 氵 (water) on the left instead of 风 (wind)
+    膘 | biāo | fat; meat | Has 月 (flesh) on the left of 票
+    瓢 | piáo | gourd ladle | Has 瓜 (melon/gourd) on the right of 票
+    飘 | piāo | float in air | Simplified with left 票 and right 风; traditional has left 票 right 飄
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    飘扬 | piāo yáng | wave in the wind; flutter
+    飘渺 | piāo miǎo | faintly discernable; misty
+    漂泊 | piāo bó | drift aimlessly; lead a nomadic life
+    风吹 | fēng chuī | wind blows
+
+semantic_boundary_contrasts:
+  core_nuance: 飘 emphasizes being suspended and carried lightly through the atmosphere by air or wind currents.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 飘 vs. 漂 | piāo | 飘 implies floating or wafting through the air or wind (e.g. 飘雪, 飘香), whereas 漂 strictly requires floating on the surface of liquid or water (e.g. 漂在水面上).
+    2 | 飘 vs. 飞 | fēi | 飘 is passive, gentle fluttering propelled solely by air currents, while 飞 involves active, powered self-propulsion through wings or engines (e.g. 鸟在飞, 飞机起飞).
+    3 | 飘 vs. 落 | luò | 飘 highlights the graceful mid-air drifting trajectory, whereas 落 emphasizes the final downward descent or landing impact (e.g. 落在地上).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 黄昏漫步在故乡的小巷，缕缕炊烟在暮色中随风轻盈飘荡。空气里飘来柴火燃烧的青涩香气与煎鱼的诱人芬芳，这熟悉的烟火气息瞬间驱散了游子心中的清冷，化作了无尽的眷恋。 | Huánghūn mànbù zài gùxiāng de xiǎoxiàng, lǚlǚ chuīyān zài mùsè zhōng suí fēng qīngyíng piāodàng. Kōngqì lǐ piāolái cháihuǒ ránshāo de qīngsè xiāngqì yǔ jiānyú de yòurén fēnfāng, zhè shúxī de yānhuǒ qìxī shùnjiān qūsàn le yóuzǐ xīnzhōng de qīnglěng, huàzuò le wújìn de juànliàn. | Strolling home lanes at dusk, cooking smoke drifted gracefully into twilight. Familiar scents of burning wood and fried fish wafted on the air, dispelling chills and awakening boundless affection. | Paseando al atardecer por los callejones natales, el humo de las cocinas flotaba en la penumbra. Los aromas a leña y pescado frito disiparon el frío del viajero convirtiéndose en ternura.
+  #2 | 大气气溶胶颗粒在大尺度环流驱动下的远距离飘移与沉降，是全球生物地球化学循环的关键环节。科学家利用卫星激光雷达监测沙尘微粒跨洋飘散路径，为精准预警跨区域沙尘天气提供了重要科学依据。 | Dàqì qìróngjiāo kēlì zài dàchǐdù huánliú qūdòng xià de yuǎnjùlí piāoyí yǔ chénjiàng, shì quánqiú shēngwù-dìqiú-huàxué xúnhuán de guānjiàn huánjié. Kēxuéjiā lìyòng wèixīng jīguāng léidá jiāncè shāchén wēilì kuàyáng piāosàn lùjìng, wèi jīngzhǔn yùjǐng kuàqūyù shāchén tiānqì tígōng le zhòngyào kēxué yījù. | Long-range drifting and deposition of aerosols driven by global atmospheric circulation forms a vital biogeochemical cycle. Satellite lidars track dust transoceanic drift paths to warn of transboundary dust storms. | La dispersión y deriva de aerosoles atmosféricos por corrientes globales es clave en los ciclos biogeoquímicos. Satélites con sónar láser rastrean el polvo transoceánico para pronosticar temporales de arena.

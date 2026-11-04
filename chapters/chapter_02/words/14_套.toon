@@ -1,0 +1,64 @@
+id: 14
+hanzi: 套
+pinyin: tào
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: set; suite; series; cover; sheath; to encase; conventional formula
+  es: juego; conjunto; serie; funda; cubierta; enfundar; juego (clasificador para pisos)
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | classifier for sets of things, suites of rooms/apartments, books, or suits of clothing | clasificador para conjuntos, trajes, pisos o juegos | 一套房子 (an apartment / a suite of rooms)
+  2 | Noun | Standard | sheath, cover, case, or glove slipped over an object | funda; cubierta; guante protector | 被套 (quilt cover)
+  3 | Verb | Standard | to slip over; to encase; to tie up; to coax information | enfundar; encajar; envolver; sonsacar | 套上外套 (slip on an overcoat)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过多年的勤俭节约，夫妻俩终于在市中心按揭购买了一套属于自己的两居室公寓。 | Jīngguò duōnián de qínjiǎn jiéyuē, fūqī liǎ zhōngyú zài shìzhōngxīn ànjiē gòumǎi le yí tào shǔyú zìjǐ de liǎngjūshì gōngyù. | Through years of thrift and frugality, the couple finally purchased a two-bedroom apartment of their own through a mortgage downtown. | Tras años de ahorro y austeridad, el matrimonio compró con hipoteca un piso de dos dormitorios en el centro urbano.
+  #2 | 这套关于中国传统节令民俗的丛书考据详实、图文并茂，深受广大文史学者与读者的喜爱。 | Zhè tào guānyú Zhōngguó chuántǒng jiélìng mínsú de cóngshū kǎojù xiángshí, túwén-bìngmào, shēn shòu guǎngdà wénshǐ xuézhě yǔ dúzhě de xǐ'ài. | This multi-volume series on traditional Chinese seasonal folklore features rigorous scholarship and exquisite illustrations, highly loved by scholars. | Esta serie de libros sobre costumbres y fiestas estacionales tradicionales cuenta con rigurosa erudición e ilustraciones, muy aplaudida por eruditos.
+
+collocations[6]{hanzi,en}:
+  一套房子 | an apartment / house
+  一套西装 | a suit of Western clothing
+  一套方案 | a complete plan or scheme
+  沙发套 | sofa slipcover
+  手套 | gloves; mittens
+  套近乎 | cozy up to; try to win someone's favor
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  陈词滥调 | chén cí làn diào | worn-out clichés; hackneyed platitudes (talking in stereotypes/套话)
+  设局圈套 | shè jú quān tào | set up an elaborate snare or trap
+  相辅相成 | xiāng fǔ xiāng chéng | complement each other in an integrated system
+  层出不穷 | céng chū bù qióng | emerge one after another in an endless series
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  套 | tào | cover; sheath; set; loop | funda; juego; conjunto; encajar | 大 | big / great | 大 (large outer covering) | 镸 (cháng, long / extensive) | 10 | 上下结构 | Ideogrammic compound of big (大) over long (镸), signifying a large garment or cover enclosing an entire set. | A big (大) outer garment designed long (镸) to slip comfortably over an entire matching outfit. | Una prenda amplia (大) y larga (镸) concebida para enfundar y cubrir un conjunto completo de ropa. | 51 | KMMI | 套
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A large (大) and long (镸) cover slips perfectly over items to form a complete matched set (套).
+  composite_memory_hook_es: Una funda grande (大) y larga (镸) que se ajusta a las prendas para formar un conjunto completo (套).
+  cultural_and_cognitive_roots: In Chinese material culture, '套' conceptualizes wholeness through fitting integration—whether a set of ritual furniture, an interconnected courtyard suite, or a protective embroidered cover.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 4th tone with a firm falling pitch: 'tào' (51). When following '一' (yī), '一' shifts to 2nd tone: 'yí tào' (35-51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    肆 | sì | four (formal); reckless | Has 镸 on the left with 聿 on the right
+    契 | qì | contract; deed | Has 丰 and 刀 beneath 大 instead of 镸
+    奢 | shē | luxurious; extravagant | Has 者 below 大 instead of 镸
+    奖 | jiǎng | award; prize | Has 将 on top and 大 below; inverse positioning
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    配套 | pèi tào | complete set; provide supporting facilities
+    圈套 | quān tào | trap; snare
+    手套 | shǒu tào | gloves
+    套房 | tào fáng | suite of rooms
+
+semantic_boundary_contrasts:
+  core_nuance: 套 designates an interrelated system or collection forming an organic, matched, or complete functional unit.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 套 vs. 件 | jiàn | 套 classifies multi-piece composite sets or entire dwellings (e.g. 一套衣服, 一套房), whereas 件 classifies single standalone articles (e.g. 一件衣服, 一件事).
+    2 | 套 vs. 组 | zǔ | 套 stresses complete, self-contained functional unity (e.g. 一套家具), while 组 emphasizes combinatorial groupings or research teams (e.g. 一组数据, 一个研究组).
+    3 | 套 vs. 间 | jiān | 套 refers to a whole private apartment containing multiple chambers, while 间 designates a single discrete partitioned room (e.g. 一间卧室).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 拥有这一套真正属于自己的居所，是普通人最踏实的幸福。夕阳洒在客厅淡米色的地板上，看着亲手挑选的这套原木餐桌与布艺沙发，奔波半生的疲惫在这一瞬间化作了安心的微笑。 | Yōngyǒu zhè yí tào zhēnzhèng shǔyú zìjǐ de jūsuǒ, shì pǔtōngrén zuì tàshi de xìngfú. Xīyáng sǎ zài kètīng dànmǐsè de dìbǎn shàng, kàn zhe qīnshǒu tiāoxuǎn de zhè tào yuánmù cānzhuō yǔ bùyì shāfā, bēnbō bànshēng de píbèi zài zhè yí shùnjiān huàzuò le ānxīn de wēixiào. | Owning a residential apartment truly belonging to oneself is the most grounded happiness for ordinary people. Sunset washes over beige flooring, illuminating the chosen wooden table and cloth sofa; the weariness of half a lifetime turns into a tranquil smile. | Poseer un piso verdaderamente propio constituye la dicha más sólida para la gente corriente. El sol poniente baña el suelo y acaricia la mesa de madera y el sofá elegidos a mano; las fatigas de media vida se truecan en paz.
+  #2 | 现代化城市住宅配套建设已步入系统化阶段。从单一的居住单元开发，延伸至涵盖医疗、教育与商业网点的一整套生活服务链。高品质的居住环境不再仅指房屋本身，更依托于社区整体生态的完善度。 | Xiàndàihuà chéngshì zhùzhái pèitào jiànshè yǐ bùrù xìtǒnghuà jiēduàn. Cóng dānyī de jūzhù dānyuán kāifā, yánshēn zhì hángài yīliáo, jiàoyù yǔ shāngyè wǎngdiǎn de yì zhěng tào shēnghuó fúwù liàn. Gāopǐnzhì de jūzhù huánjìng bú zài jǐn zhǐ fángwū běnshēn, gèng yītuō yú shèqū zhěngtǐ shēngtài de wánshàndù. | Supporting construction for modern urban housing has entered a systemic stage. From single residential units, it extends to an entire suite of service chains spanning healthcare, schooling, and commerce. Quality of life depends on the holistic neighborhood ecosystem. | La edificación de vivienda urbana moderna es ya una obra integral. Evoluciona del bloque residencial aislado a un conjunto completo de servicios sanitarios, educativos y comerciales que garantizan el bienestar vecinal.

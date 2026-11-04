@@ -1,0 +1,62 @@
+id: 13
+hanzi: 县
+pinyin: xiàn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: county; administrative subdivision below prefecture/city
+  es: condado; distrito; demarcación administrativa intermedia
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an administrative division in China subordinate to a prefecture or city, governing townships and villages | condado; demarcación administrativa bajo la prefectura que administra pueblos | 县城 (county seat / county town)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他在沿海打工多年，终于攒够了钱在老家的县城买下了一套宽敞明亮的楼房。 | Tā zài yánhǎi dǎgōng duōnián, zhōngyú zǎn gòu le qián zài lǎojiā de xiànchéng mǎi xià le yí tào kuānchǎng míngliàng de lóufáng. | After working along the coast for years, he finally saved enough money to buy a spacious and bright apartment in his home county seat. | Tras trabajar años en la costa, reunió suficiente dinero para comprar un piso amplio y luminoso en la cabecera de su condado natal.
+  #2 | 为了缩小区域发展差距，国家大力扶持中西部各县发展特色农业与文化旅游优势产业。 | Wèile suōxiǎo qūyù fāzhǎn chājù, guójiā dàlì fúchí zhōng-xībù gè xiàn fāzhǎn tèsè nóngyè yǔ wénhuà lǚyóu yōushì chǎnyè. | To narrow regional development disparities, the state vigorously supports central and western counties in developing specialty agriculture and cultural tourism. | Para mitigar las brechas de desarrollo regional, el Estado impulsa en los condados del centro y oeste la agricultura autóctona y el turismo cultural.
+
+collocations[6]{hanzi,en}:
+  县城 | county seat; county town
+  县长 | county magistrate; county mayor
+  县政府 | county government
+  全县 | the entire county
+  偏远县 | remote county
+  贫困县 | impoverished county
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  他山之石 | tā shān zhī shí | stones from other hills can polish jade; learn from others' experience
+  一方水土 | yì fāng shuǐ tǔ | a particular natural environment nurtures its local inhabitants
+  安贫乐道 | ān pín lè dào | contented with poverty and devoted to spiritual pursuit
+  保境息民 | bǎo jìng xī mín | safeguard one's territory and bring peace to the populace
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  县 | xiàn | county; district | condado; distrito administrativo | 厶 | private / cocoon | 系 (traditional silk thread tether) | 目 (inverted head in archaic form) | 7 | 上下结构 | Simplified from traditional 縣, originally depicting an inverted head suspended by silk (tethered jurisdiction dependent on the central court). | An administrative official's seal (厶) placed atop recorded registers (目/且) to govern a regional county. | El sello de un magistrado (厶) estampado sobre los libros de registro (目/且) para gobernar un condado. | 51 | BVI | 縣
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A local official affixing a seal (厶) over registry books (目) oversees the affairs of the entire county (县).
+  composite_memory_hook_es: El sello oficial (厶) estampado sobre el censo de población (目) rige los asuntos de todo el condado (县).
+  cultural_and_cognitive_roots: Originating during the Qin Dynasty's pioneering prefecture-county system (郡县制), the 'xiàn' has served for over 2,200 years as the fundamental administrative cell uniting imperial or national policy with grassroots rural life.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 4th tone with a decisive falling pitch: 'xiàn' (51). Ensure the vowel ending nasal 'n' is sharp and not confused with 'xiàng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    且 | qiě | and; moreover; just | Lacks the upper 厶 component present in 县
+    具 | jù | tool; possess | Has an upper horizontal shelter stroke and two dots inside
+    直 | zhí | straight; direct | Has a vertical cross line at the top
+    真 | zhēn | true; real | Has an upper cross and base strokes unlike 县
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    县城 | xiàn chéng | county seat
+    县志 | xiàn zhì | county annals / chronicles
+    悬挂 | xuán guà | suspend; hang (etymological cognate sharing ancient 縣 root)
+    郡县 | jùn xiàn | commanderies and counties (Qin administrative system)
+
+semantic_boundary_contrasts:
+  core_nuance: 县 is an intermediate administrative division bridging provincial/municipal cities with grassroots towns and villages.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 县 vs. 市 | shì | 县 is an administrative county centered around small towns and extensive rural land, whereas 市 denotes an urbanized prefecture, municipality, or metropolitan city.
+    2 | 县 vs. 乡 | xiāng | 县 is an upper administrative level governing numerous townships, while 乡 is a grassroots rural township subordinate to a county.
+    3 | 县 vs. 省 | shěng | 县 is a local district level, whereas 省 is the highest provincial administrative tier governing multiple cities and counties.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 穿过那座青石拱桥，就进入了县城的老街。两旁的店铺挂着手写的老招牌，茶馆里传来热热闹闹的说书声。这座古老的小县城，承载着数代人的悲欢离合，在时代变迁中守着自己的安宁。 | Chuānguò nà zuò qīngshí gǒngqiáo, jiù jìnrù le xiànchéng de lǎojiē. Liǎngpáng de diànpù guà zhe shǒuxiě de lǎo zhāopai, cháguǎn lǐ chuánlái rèrènàonào de shuōshū shēng. Zhè zuò gǔlǎo de xiǎoxiànchéng, chéngzài zhe shù dài rén de bēihuān-líhé, zài shídài biànqiān zhōng shǒu zhe zìjǐ de ānníng. | Crossing the blue-stone arched bridge leads into the old street of the county seat. Shops on both sides hang hand-painted signs while storytelling echoes from teahouses. This ancient small county town holds generations of joys and sorrows. | Al cruzar el puente de piedra se entra en la calle vieja de la cabecera comarcal. Las tiendas exhiben rótulos tradicionales y el salón de té bulle de narradores populares. Esta comarca histórica custodia con sosiego la memoria de generaciones.
+  #2 | “县域经济”是中国国民经济发展的重要基石。当前，县域正成为承接大中城市产业转移与吸纳农村富余劳动力的核心载体。健全县城基础设施与公共服务配套，对于推进新型城镇化建设具有深远的战略意义。 | "Xiànyù jīngjì" shì Zhōngguó guómín jīngjì fāzhǎn de zhòngyào jīshí. Dāngqián, xiànyù zhèng chéngwéi chéngjiē dàzhōng chéngshì chǎnyè zhuǎnyí yǔ xīnà nóngcūn fùyú láodònglì de héxīn zàitǐ. Jiànquán xiànchéng jīchǔ shèshī yǔ gōnggòng fúwù pèitào, duìyú tuījìn xīnxíng chéngzhènhuà jiànshè jùyǒu shēnyuǎn de zhànlüè yìyì. | The county economy is an essential cornerstone of China's national economy. Today, county regions act as key vehicles absorbing industrial relocation and rural surplus labor. Improving county public services carries strategic significance for urbanization. | La economía comarcal es un pilar vertebral del desarrollo nacional. Los condados absorben la transferencia industrial de las metrópolis y canalizan el empleo rural. Mejorar los servicios públicos comarcales impulsa decisivamente la urbanización equilibrada.

@@ -1,0 +1,64 @@
+id: 21
+hanzi: 临
+pinyin: lín
+level: HSK 5
+part_of_speech: Preposition
+
+meanings_summary:
+  en: just before; about to; on the verge of; to overlook; to face; to arrive
+  es: justo antes de; a punto de; frente a; asomarse a; llegar; descender
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Preposition | Standard | just before; on the point of (an action or departure) | justo antes de; al borde de (una partida o acción) | 临走前 (just before leaving)
+  2 | Verb | Standard | to overlook; to face; to border on (a river, street, sea) | dar a; asomarse a; estar frente a | 临街的窗户 (window overlooking the street)
+  3 | Verb | Literary | to arrive; to descend upon (used in polite or formal contexts) | descender; llegar; presentarse | 光临 (honor with one's presence)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 临上长途汽车前，母亲悄悄往儿子的背包里塞了两罐亲手炒制的牛肉辣酱和一沓厚厚的零钱。 | Lín shàng chángtú qìchē qián, mǔqīn qiāoqiāo wǎng érzi de bèibāo lǐ sāi le liǎng guàn qīnshǒu chǎozhì de niúròu làjiàng hé yì dá hòuhòu de língqián. | Just before boarding the long-distance coach, mother quietly slipped two jars of handmade spicy beef sauce and a thick wad of pocket money into her son's backpack. | Justo antes de subir al autobús de larga distancia, mi madre metió a escondidas dos frascos de pasta picante de carne casera y un fajo de dinero en mi mochila.
+  #2 | 该高级商务酒店坐落于黄浦江畔，每间行政套房均拥有极佳的临江全景视野，为高端旅客提供卓越入住体验。 | Gāi gāojí shāngwù jiǔdiàn zuòluò yú Huángpǔ Jiāng pàn, měi jiān xíngzhèng tàofáng jūn yōngyǒu jí jiā de línjiāng quánjǐng shìyě, wèi gāoduān lǚkè tígōng zhuóyuè rùzhù tǐyàn. | The luxury business hotel sits by the Huangpu River; every executive suite commands an exceptional panoramic river view, offering premium guests an outstanding stay. | Este hotel ejecutivo se erige junto al río Huangpu; sus suites poseen magníficas vistas panorámicas frente al agua, brindando una estancia insuperable a viajeros distinguidos.
+
+collocations[6]{hanzi,en}:
+  临走 | just before leaving
+  临时 | temporary; provisional
+  面临 | be faced with; confront
+  降临 | descend; arrive; befall
+  临近 | approaching; close at hand
+  临危不乱 | calm and undaunted in the face of peril
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  身临其境 | shēn lín qí jìng | be personally on the scene; experience firsthand
+  临渴掘井 | lín kě jué jǐng | dig a well only when thirsty; make preparations at the last minute
+  临危不乱 | lín wēi bú luàn | remain undaunted and calm in the face of crisis
+  双喜临门 | shuāng xǐ lín mén | two blessings arrive at the door simultaneously
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  临 | lín | just before; overlook; descend | justo antes de; dar a; llegar | 丨 | vertical stroke / line | 臣 (archaic downward-gazing eye) | 品/人 (people below) | 9 | 左右结构 | Depicts an eye peering down from above to inspect people below, evolving into facing or imminent arrival. | A compassionate overseer bending down to inspect people below just as critical action begins. | Una mirada atenta que se inclina hacia abajo para supervisar el lugar justo antes de partir. | 35 | LIOR | 臨
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An observer leaning over (临) to inspect everything carefully right on the verge of departure.
+  composite_memory_hook_es: Inclinarse a mirar (临) con atención todo lo que sucede justo antes del momento de actuar.
+  cultural_and_cognitive_roots: In ancient governance, '临' signified an imperial or compassionate gaze descending onto subjects; in family life, it captured tender parental anxiety guarding a child's parting moment ('临行密密缝').
+  tone_sandhi_and_pitch_modulation: Pronounced in the 2nd tone with a smooth rising pitch: 'lín' (35). Articulate the nasal 'n' ending cleanly without dropping into 3rd tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    师 | shī | teacher; master | Has 巾 on the right side instead of the vertical strokes of 临
+    帅 | shuài | handsome; commander | Has 巾 on the right with a top dot stroke
+    川 | chuān | river; stream | Consists solely of three vertical strokes
+    卧 | wò | lie down; recline | Has 臣 on the left with 卜 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    临时 | lín shí | temporary; provisional
+    临近 | lín jìn | approach; draw near
+    光临 | guāng lín | honor with presence (polite arrival)
+    面临 | miàn lín | face; be confronted with
+
+semantic_boundary_contrasts:
+  core_nuance: 临 indicates immediate temporal proximity right before an event occurs or physical spatial exposure facing an open vista.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 临 vs. 快 | kuài | 临 is a preposition meaning 'just before' attached to a verb/noun (e.g. 临睡前, 临别), whereas 快 is an adverb/predicate meaning 'soon' or 'rapidly' (e.g. 快走, 火车快开了).
+    2 | 临 vs. 将 | jiāng | 临 marks the immediate threshold moments before an action, while 将 indicates a broader upcoming future tense (e.g. 将要发生).
+    3 | 临 vs. 朝 | cháo | 临 means facing with a direct view or overlooking (e.g. 临街, 临水), while 朝 indicates directional orientation toward any compass point (e.g. 朝南, 朝东).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 孟郊诗云：“慈母手中线，游子身上衣。临行密密缝，意恐迟迟归。”每当读到这句千古名句，眼前便会浮现出母亲在昏黄油灯下飞针走线的背影，那份母爱穿越千年依然滚烫如初。 | Mèng Jiāo shī yún: "Címǔ shǒuzhōng xiàn, yóuzǐ shēnshàng yī. Línxíng mìmì féng, yì kǒng chíchí guī." Měidāng dú dào zhè jù qiāngǔ míngjù, yǎnqián biàn huì fúxiàn chū mǔqīn zài hūnhuáng yóudēng xià fēizhēn-zǒuxiàn de bèiyǐng, nà fèn mǔ'ài chuānyuè qiānnián yīrán gǔntàng rúchū. | Meng Jiao wrote: "Threads in loving mother's hands become the coat on the departing child. Stitching closely just before he goes, fearing his return will be delayed." This filial imagery remains intensely poignant through millennia. | Meng Jiao escribió: "Hilos en manos de la madre tejen la túnica del hijo viajero. Puntadas apretadas antes de partir, temiendo su tardío retorno". La estampa maternal conmueve hoy con idéntica hondura milenaria.
+  #2 | 面对全球产业链重塑与市场不确定性剧增的严峻挑战，企业决策者必须具备临危不乱的战略定力。唯有在风浪来临之前未雨绸缪，建立多元化的供应链缓冲体系，方能在激烈的国际竞争中立于不败之地。 | Miànduì quánqiú chǎnyèliàn chóngshù yǔ shìchǎng bùquèdìngxìng jùzēng de yánjùn tiǎozhàn, qǐyè juécèzhě bìxū jùbèi línwēi-búlùan de zhànlüè dìnglì. Wéiyǒu zài fēnglàng láilín zhīqián wèiyǔchóumóu, jiànlì duōyuánhuà de gōngyìngliàn huǎnchōng tǐxì, fāng néng zài jīliè de guójì jìngzhēng zhōng lìyú-búbàizhīdì. | Facing supply chain restructuring and market uncertainty, business leaders must demonstrate strategic calmness when facing crises. Preparing buffers before storms arrive ensures lasting resilience in global competition. | Ante la recomposición de cadenas industriales y la incertidumbre, los directivos empresariales deben mantener serenidad estratégica frente a las crisis, reforzando la logística para afianzar su liderazgo mundial.

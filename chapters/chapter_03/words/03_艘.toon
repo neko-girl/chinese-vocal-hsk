@@ -1,0 +1,62 @@
+id: 3
+hanzi: 艘
+pinyin: sōu
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: classifier for boats, ships, and oceanic vessels
+  es: clasificador para barcos, buques y embarcaciones
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | standard numerical classifier for sea-going ships, warships, boats, and large vessels | clasificador para embarcaciones marítimas y barcos | 一艘轮船 (a steamship)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 港口里停泊着一艘艘远洋货轮，等待着工人们装卸来自五大洲的集装箱。 | Gǎngkǒu lǐ tíngbó zhe yì sōusōu yuǎnyáng huòlún, děngdài zhe gōngrénmen zhuāngxiè láizì wǔdàzhōu de jízhuāngxiāng. | Ocean-going cargo freighters were moored in the harbor, waiting for dockworkers to unload containers from five continents. | En el puerto descansaban buques de carga transoceánicos, a la espera de que los operarios descargaran contenedores llegados de los cinco continentes.
+  #2 | 海军最新服役的一艘驱逐舰顺利完成了长达半年的护航与搜救演练任务。 | Hǎijūn zuìxīn fúyì de yì sōu qūzhújiàn shùnlì wánchéng le chángdá bàn nián de hùháng yǔ sōujiù yǎnliàn rènwu. | A newly commissioned navy destroyer successfully completed a half-year escort and search-and-rescue drill mission. | El flamante destructor incorporado por la marina completó con éxito una misión semestral de escolta y simulacros de salvamento marítimo.
+
+collocations[6]{hanzi,en}:
+  一艘船 | a ship / boat
+  一艘军舰 | a warship / naval vessel
+  一艘潜艇 | a submarine
+  一艘货轮 | a cargo freighter
+  一艘帆船 | a sailboat
+  一艘快艇 | a speedboat
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  共济同舟 | gòng jì tóng zhōu | cross in the same boat together; unite to overcome difficulties
+  木已成舟 | mù yǐ chéng zhōu | the wood is already a boat; what is done cannot be undone
+  沉舟破釜 | chén zhōu pò fǔ | sink boats and break cooking pots; burn bridges with resolve
+  顺水推舟 | shùn shuǐ tuī zhōu | push the boat along with the current; take advantage of an opportunity
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  艘 | sōu | classifier for boats | clasificador para barcos | 舟 | boat / canoe | 舟 (boat hull) | 叟 (sǒu phonetic, elder) | 15 | 左右结构 | Phono-semantic compound combining boat (舟) with phonetic marker 叟 (elder), representing sea craft. | An experienced old sailor (叟) at the helm of an ocean-going ship (舟) sailing through ocean foam. | Un curtido marinero anciano (叟) al timón de una nave de alta mar (舟) sorteando las olas. | 55 | HYHXE | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A vessel crafted from wood (舟) piloted by an elder captain (叟) is counted as one magnificent ship (艘).
+  composite_memory_hook_es: Una embarcación de madera (舟) guiada por un veterano capitán (叟) se cuenta como un majestuoso barco (艘).
+  cultural_and_cognitive_roots: In ancient classical Chinese, 'zhōu' (舟) denoted small craft while 'sōu' (艘) gradually specialized as the dedicated formal classifier for seafaring vessels of notable size.
+  tone_sandhi_and_pitch_modulation: High level 1st tone: sōu (55). When paired with '一' (yī), '一' changes to 4th tone: 'yì sōu' (51-55). Maintain a clear, steady vocal tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    艘 | sōu | classifier for ships | Has 舟 (boat) radical on the left
+    搜 | sōu | search; seek | Has 扌 (hand) radical on the left instead of 舟
+    嫂 | sǎo | elder brother's wife | Has 女 (woman) radical on the left instead of 舟
+    瘦 | shòu | thin; lean | Has 疒 (sickness) radical enclosing 叟
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    船舶 | chuán bó | watercraft; ships
+    船只 | chuán zhī | vessels; fleet
+    舟楫 | zhōu jí | boat and oars; shipping traffic
+    巨轮 | jù lún | giant ocean liner; huge vessel
+
+semantic_boundary_contrasts:
+  core_nuance: 艘 is the formal, standard classifier reserved exclusively for motorized boats, sailing vessels, and naval ships.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 艘 vs. 只 | zhī | 艘 is the formal classifier for boats and ships of any size (一艘船, 一艘航母), while 只 is colloquial and general, usually applied to smaller skiffs (一只小船).
+    2 | 艘 vs. 条 | tiáo | 艘 applies to formal shipping vessels and ocean boats, whereas 条 is commonly used for long slender canoes or informal river boats (一条小舟, 一条渔船).
+    3 | 艘 vs. 架 | jià | 艘 is strictly for aquatic craft, while 架 is the classifier for aircraft, airplanes, machinery, and framed items (一架飞机).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 晨雾未散的江面上，一艘古旧的木船缓缓划破宁静的水面。老艄公手中的长篙在水中荡开圈圈涟漪，岁月仿佛在这无声的航程里放慢了脚步，让人忘却了尘世的浮躁与纷扰。 | Chénwù wèi sàn de jiāngmiàn shàng, yì sōu gùjiù de mùchuán huǎnhuǎn huàpò níngjìng de shuǐmiàn. Lǎo shāogōng shǒuzhōng de chánggāo zài shuǐzhōng dàng kāi quānquān liányī, suìyuè fǎngfú zài zhè wúshēng de hángchéng lǐ fàngmàn le jiǎobù, ràng rén wàngquè le chénshì de fúzào yǔ fēnrǎo. | On the river where morning mist had not yet cleared, an old wooden boat slowly cut through tranquil waters. Ripples expanded under the ferryman's pole; time seemed to slow in this quiet voyage, washing away mundane restlessness. | Sobre el río cubierto aún por la niebla matinal, un viejo barco de madera rasgaba despacio las aguas en calma. La pértiga del barquero trazaba ondas circulares; el tiempo parecía frenar su paso en este viaje sereno, disipando la inquietud terrenal.
+  #2 | 伴随着一声嘹亮的汽笛，我国自主设计建造的万吨级科考船缓缓驶离母港。这艘现代化的先进科研巨轮搭载了深海勘探设备，将远赴极地海域执行多学科综合科学考察任务，展现了我国深蓝海洋科技的飞速跨越。 | Bànsuí zhe yì shēng liáoliàng de qìdí, wǒguó zìzhǔ shèjì jiànzào de wàndūnjí kěkǎochuán huǎnhuǎn shǐlí mǔgǎng. Zhè sōu xiàndàihuà de xiānjìn kēyán jùlún dāzài le shēnhǎi kāntàn shèbèi, jiāng yuǎnfù jídì hǎiyù zhíxíng duō xuékē zōnghé kēxué kǎochá rènwu, zhǎnxiàn le wǒguó shēnlán hǎiyáng kējì de fēisù kuàyuè. | With a resounding whistle, a ten-thousand-ton polar research vessel designed domestically set sail from its home port. Outfitted with deep-sea probes, this modern vessel journeys to polar waters for multidisciplinary expeditions, highlighting deep-sea technological leaps. | Entre el vibrante eco de una sirena, un buque científico de diez mil toneladas construido en el país zarpó de su puerto base. Esta moderna nave de investigación, dotada de sondas de aguas profundas, parte a los polos en misión multidisciplinar, reflejando el salto en tecnología marina.

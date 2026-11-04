@@ -1,0 +1,62 @@
+id: 8
+hanzi: 舅舅
+pinyin: jiù jiu
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: maternal uncle; mother's brother
+  es: tío materno; hermano de la madre
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | brother of one's mother (maternal uncle) | tío materno; hermano de la madre | 大舅舅 (eldest maternal uncle)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每年春节初二回娘家，舅舅总会早早站在村口迎接我们，手里提着满满一篮刚摘的鲜果。 | Měinián chūnjié chū'èr huí niángjiā, jiùjiu zǒng huì zǎozǎo zhàn zài cūnkǒu yíngjiē wǒmen, shǒulǐ tí zhe mǎnmǎn yì lán gāng zhāi de xiānguǒ. | On the second day of Spring Festival when we visited my mother's family, uncle always stood early at the village entrance to welcome us, holding a basket of fresh fruit. | El segundo día de la Fiesta de la Primavera, al visitar a la familia materna, mi tío nos esperaba en la entrada del pueblo con una cesta de fruta recién cosechada.
+  #2 | 舅舅早年在南方沿海城市打拼创业，如今不仅事业有成，还经常出资资助家乡兴建学校与道路。 | Jiùjiu zǎonián zài nánfāng yánhǎi chéngshì dǎpīn chuàngyè, rújīn bùjǐn shìyè yǒuchéng, hái jīngcháng chūzī zīzhù jiāxiāng xīngjiàn xuéxiào yǔ dàolù. | In his early years uncle worked hard building a business in southern coastal cities; today he is successful and frequently finances schools and roads in his hometown. | De joven mi tío emprendió en la costa sur; hoy, además de triunfar en los negocios, financia con frecuencia escuelas y caminos en su pueblo natal.
+
+collocations[6]{hanzi,en}:
+  大舅舅 | eldest maternal uncle
+  小舅舅 | youngest maternal uncle
+  舅舅家 | maternal uncle's house
+  探望舅舅 | visit one's maternal uncle
+  舅舅的嘱咐 | maternal uncle's advice or exhortation
+  亲舅舅 | maternal uncle by blood
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  姑舅表亲 | gū jiù biǎo qīn | cousins through paternal aunt and maternal uncle; cross-cousin kin
+  骨肉相连 | gǔ ròu xiāng lián | flesh and blood inextricably linked; intimate familial ties
+  情同手足 | qíng tóng shǒu zú | loving each other like brothers; close affection
+  安居乐业 | ān jū lè yè | live in peace and work happily
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  舅 | jiù | maternal uncle; mother's brother | tío materno; hermano de la madre | 臼 | mortar | 臼 (mortar, representing domestic work alliance) | 男 (nán, male worker in the fields) | 13 | 上下结构 | Ancient compound of mortar (臼) and man (男), indicating the male member of the maternal household. | A strong man (男) working alongside the maternal clan's grain mortar (臼) serves as your protective uncle. | Un hombre recio (男) que ayuda con el mortero de grano (臼) en la casa materna es el tío protector. | 51 | HXWS | 舅
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The capable man (男) who shares the household mortar (臼) with your mother is your maternal uncle (舅舅).
+  composite_memory_hook_es: El hombre laborioso (男) que comparte el mortero familiar (臼) con tu madre es tu tío materno (舅舅).
+  cultural_and_cognitive_roots: In traditional Chinese lineage laws, maternal uncles held supreme moral authority ('天上雷公，地下母舅') as objective mediators during clan property divisions and wedding arbitrations.
+  tone_sandhi_and_pitch_modulation: Reduplicated noun where the first syllable carries 4th tone and the second is read in the neutral tone: 'jiù jiu' (51-0).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    男 | nán | male; man | The lower component of 舅 without the upper 臼
+    臼 | jiù | mortar | The upper component of 舅 without the lower 男
+    界 | jiè | boundary; scope | Has 田 over 介; distinct lower structure from 男
+    留 | liú | remain; stay | Has 卯 on the left with 田 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    舅母 | jiù mǔ | maternal uncle's wife; aunt
+    外甥 | wài sheng | nephew (sister's son)
+    表哥 | biǎo gē | older male cousin via maternal line
+    亲戚 | qīn qi | relatives; kin
+
+semantic_boundary_contrasts:
+  core_nuance: 舅舅 strictly denotes the brother of one's mother (maternal line).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 舅舅 vs. 叔叔 | shūshu | 舅舅 is the mother's brother, whereas 叔叔 is the father's younger brother (or an informal polite title for an unfamiliar adult male).
+    2 | 舅舅 vs. 伯伯 | bóbo | 舅舅 is on the maternal side, whereas 伯伯 refers exclusively to the father's elder brother.
+    3 | 舅舅 vs. 姑父 | gūfu | 舅舅 is related by blood on the mother's side, while 姑父 is an uncle by marriage (husband of father's sister).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 小时候每次去舅舅家，他都会领着我们去小溪边捉鱼捉虾。傍晚归来，舅舅在院里生起柴火，用大铁锅煎出焦黄酥脆的杂鱼，那份爽朗豁达的笑声至今仍留在我的耳畔。 | Xiǎoshíhou měicì qù jiùjiu jiā, tā dōu huì lǐng zhe wǒmen qù xiǎoxī biān zhuō yú zhuō xiā. Bàngwǎn guīlái, jiùjiu zài yuàn lǐ shēng qǐ cháihuǒ, yòng dà tiěguō jiān chū jiāohuáng sūcuì de záyú, nà fèn shuǎnglǎng huòdá de xiàoshēng zhìjīn réng liú zài wǒ de ěrpàn. | In childhood whenever visiting uncle's house, he would lead us to the creek catching fish and shrimp. Returning at dusk, uncle lit a wood fire in the yard and fried crispy fish in a large iron wok, his hearty laughter lingering in my ears to this day. | De niño, al visitar a mi tío, nos llevaba al arroyo a pescar peces y camarones. Al caer la tarde encendía el fuego del patio y freía pescado crujiente en la sartén de hierro, con una risa franca que aún resuena en mi memoria.
+  #2 | 在中国传统乡土社会中，“娘舅”往往承担着调节宗族纠纷与见证家庭分产的重要伦理职能。这种独特的亲属制度安排，不仅为外甥一代提供了强有力的情感支撑，也成为维系乡村宗族和谐的制度纽带。 | Zài Zhōngguó chuántǒng xiāngtǔ shèhuì zhōng, "niángjiù" wǎngwǎng chéngdān zhe tiáojié zōngzú jiūfēn yǔ jiànzhèng jiātíng fēnchǎn de zhòngyào lúnlǐ zhínéng. Zhè zhǒng dútè de qīnshǔ zhìdù ānpái, bùjǐn wèi wàisheng yídài tígōng le qiángyǒulì de qínggǎn zhīchēng, yě chéngwéi wéixì xiāngcūn zōngzú héxié de zhìdù niǔdài. | In traditional Chinese rural society, maternal uncles often fulfilled vital ethical duties mediating disputes and witnessing property divisions. This unique kinship arrangement provided emotional support for nephews and acted as an institutional bond sustaining clan harmony. | En la sociedad rural tradicional, el tío materno ejercía la función de mediar en disputas y avalar repartos hereditarios. Esta institución no solo ofrecía respaldo a los sobrinos, sino que constituía un lazo civil que salvaguardaba la concordia comunitaria.

@@ -1,0 +1,64 @@
+id: 38
+hanzi: 感受
+pinyin: gǎn shòu
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to feel; to experience; to perceive; subjective impression; feeling
+  es: sentir; experimentar; percibir; sensación; vivencia subjetiva
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to perceive or experience emotionally or sensory-wise from an external stimulus | sentir; experimentar o percibir por los sentidos o el ánimo | 感受大自然的美好 (experience the beauty of nature)
+  2 | Noun | Standard | subjective feeling, inner impression, or experiential insight | impresión subjetiva; sensación; vivencia interior | 谈谈你的感受 (share your impressions)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 躺在母亲刚晒过的蓬松棉被里，闻着阳光的味道，我真真切切地感受到了家无可替代的温暖。 | Tǎng zài mǔqīn gāng shài guò de péngsōng miánbèi lǐ, wén zhe yángguāng de wèidao, wǒ zhēnzhēn-qièqiè de gǎnshòu dào le jiā wúkětìdài de wēnnuǎn. | Lying in the fluffy cotton quilt freshly sunned by mother and smelling sunshine, I truly and deeply felt the irreplaceable warmth of home. | Tumbado bajo el esponjoso edredón recién soleado por mi madre, respirando aroma a sol, sentí con nitidez la insustituible calidez del hogar.
+  #2 | 为了深入了解基层消费者的实际需求，产品研发团队深入农村开展驻点调研，切身感受当地居民的生活痛点。 | Wèile shēnrù liǎojiě jīcéng xiāofèizhě de shíjì xūqiú, chǎnpǐn yánfā tuánduì shēnrù nóngcūn kāizhǎn zhùdiǎn diàoyán, qièshēn gǎnshòu dāngdì jūmín de shēnghuó tòngdiǎn. | To understand actual needs of grassroots consumers, the product R&D team embedded in rural villages, experiencing local residents' daily pain points firsthand. | Para conocer las demandas reales de los usuarios populares, el equipo técnico convivió en aldeas rurales experimentando de primera mano sus dificultades cotidianas.
+
+collocations[6]{hanzi,en}:
+  切身感受 | firsthand feeling / personal experience
+  谈谈感受 | talk about one's impressions / thoughts
+  深有感受 | feel deeply / relate intensely
+  感受生活 | experience life
+  主观感受 | subjective feeling / perception
+  感受温暖 | feel warmth / kindness
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  身临其境 | shēn lín qí jìng | be personally on the scene; experience firsthand
+  感同身受 | gǎn tóng shēn shòu | empathize deeply as if experiencing it oneself
+  多愁善感 | duō chóu shàn gǎn | sentimental and melancholic; easily stirred to sadness
+  大有感触 | dà yǒu gǎn chù | deeply moved and stirred with impressions
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  感 | gǎn | feel; sense; emotion; move | sentir; emoción; conmover | 心 | heart / mind | 心 (seat of human empathy and sensation) | 咸 (xián, harmonious touch / all) | 13 | 上下结构 | Phono-semantic compound where external touch (咸) harmoniously resonates in the human heart-mind (心). | An external touch that resonates through every fiber of the sensitive human heart (心), awakening deep feelings. | Una vivencia exterior que conmueve las cuerdas íntimas del corazón (心), despertando hondas emociones. | 214 | IRP | 感
+  受 | shòu | receive; accept; endure; feel | recibir; aceptar; soportar; experimentar | 又 | hand | 又 (hand receiving below) | 爫 (hand giving above) | 8 | 上下结构 | Ancient ideogram showing an upper hand (爫) passing an object to a lower hand (又), signifying receiving. | An upper hand passing a treasure to an outstretched lower hand (又) that receives and absorbs it. | Una mano superior entregando un don a otra mano inferior (又) que lo acoge y asimila en su interior. | 51 | BME | 受
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The heart (感) receiving and absorbing (受) the world's impressions produces a profound feeling (感受).
+  composite_memory_hook_es: El corazón que siente (感) recibiendo y acogiendo (受) las vivencias del mundo da lugar a un sentimiento hondo (感受).
+  cultural_and_cognitive_roots: In Chinese epistemology, '感受' signifies organic experiential unity between sensory stimulus and emotional internalisation, contrasting mere dispassionate intellectual observation with holistic bodily immersion.
+  tone_sandhi_and_pitch_modulation: Pronounced with a 214-51 pitch contour (3rd tone dipping smoothly, followed by 4th tone falling resolutely).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    爱 | ài | love; affection | Has 心 in middle with 友-like bottom instead of 又 alone
+    妥 | tuǒ | proper; settled | Has 女 at the bottom instead of 又
+    咸 | xián | salty; all | Top component of 感 without lower 心
+    惑 | huò | confused; doubt | Has 或 over 心 instead of 咸
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    感情 | gǎn qíng | emotion; feeling; sentiment
+    感觉 | gǎn jué | sense; feeling; perceive
+    接受 | jiē shòu | accept; receive
+    体会 | tǐ huì | learn through experience; empathize
+
+semantic_boundary_contrasts:
+  core_nuance: 感受 emphasizes subjective emotional impressions, inner resonance, or psychological absorption of experiences.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 感受 vs. 感觉 | gǎnjué | 感觉 covers both raw physical sensory reception (cold, pain, light) and intuition (e.g. 感觉有点冷), whereas 感受 emphasizes deeper subjective psychological evaluation and emotional resonance (e.g. 谈谈你对这部作品的感受).
+    2 | 感受 vs. 体会 | tǐhuì | 感受 focuses on emotional and affective impression, while 体会 stresses intellectual appreciation, practical comprehension, or philosophical insight gained through hands-on practice.
+    3 | 感受 vs. 感动 | gǎndòng | 感受 is a broad neutral awareness of an experience, whereas 感动 is specifically the intense emotion of being moved to tears or inspired by virtue.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生活的美好往往不在于轰轰烈烈的成就，而在于静下心来去感受每一个平凡的瞬间。清晨的第一缕微风、母亲端来的一碗热汤，只要用心去感受，生活中那些细碎的日常便都闪耀着幸福的光泽。 | Shēnghuó de měihǎo wǎngwǎng bú zàiyú hōnghōng-lièliè de chéngjiù, ér zàiyú jìng xià xīn lái qù gǎnshòu měi yí gè píngfán de shùnjiān. Qīngchén de dì-yī lǚ wēifēng, mǔqīn duān lái de yì wǎn rètāng, zhǐyào yòngxīn qù gǎnshòu, shēnghuó zhōng nàxiē xìsuì de rìcháng biàn dōu shǎnyào zhe xìngfú de guāngzé. | Beauty in life lies not in grand achievements, but in quietly experiencing each ordinary moment. The first morning breeze, a warm soup from mother—feeling with heart illuminates ordinary days with happiness. | La belleza de la vida radica en sosegar el ánimo y sentir la magia de lo cotidiano. La brisa del alba o el tazón de sopa tibia de madre, sentidos con el alma, iluminan la rutina con destellos de dicha.
+  #2 | 用户体验设计研究正深度融合认知心理学与人机工程学方法。通过量化眼动轨迹、脑电生理指标与微表情，评估工程师能够客观解析用户在使用交互界面时的真实感受，推动软件产品在易用性与情感共鸣维度的迭代优化。 | Yònghù tǐyàn shèjì yánjiū zhèng shēndù rónghé rènzhī xīnlǐxué yǔ rénjī gōngchéngxué fāngfǎ. Tōngguò liànghuà yǎndòng guǐjì, nǎodiàn shēnglǐ zhǐbiāo yǔ wēibiǎoqíng, pínggū gōngchéngshī nénggòu kèguān jiěxī yònghù zài shǐyòng jiāohù jièmiàn shí de zhēnshí gǎnshòu, tuīdòng ruǎnjiàn chǎnpǐn zài yìyòngxìng yǔ qínggǎn gòngmíng wéidù de diédài yōuhuà. | UX research integrates cognitive psychology and ergonomics. Quantifying eye tracking and EEG signals enables engineers to analyze users' authentic feelings, refining software usability and emotional resonance. | El diseño de experiencia de usuario combina psicología cognitiva y ergonomía. Analizando la mirada y las señales neuronales, los analistas evalúan las sensaciones reales del usuario optimizando interfaces digitales con empatía.

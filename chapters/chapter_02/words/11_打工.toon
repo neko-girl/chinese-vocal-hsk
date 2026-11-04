@@ -1,0 +1,64 @@
+id: 11
+hanzi: 打工
+pinyin: dǎ gōng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to work a temporary or manual job; to work away from home; to do part-time work
+  es: trabajar por cuenta ajena; hacer trabajos temporales; trabajar fuera de casa
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to work as an employee or wage laborer, often away from one's hometown | trabajar de asalariado o peón, a menudo emigrando | 外出打工 (go out to work)
+  2 | Verb | Standard | to do part-time or student odd jobs to earn pocket money | hacer trabajos de media jornada o changas de estudiante | 假期打工 (work part-time during holidays)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了供弟弟妹妹上学，他高中毕业后就跟随同乡前往沿海工业城市打工。 | Wèile gōng dìdi mèimei shàngxué, tā gāozhōng bìyè hòu jiù gēnsuí tóngxiāng qiánwǎng yánhǎi gōngyè chéngshì dǎgōng. | In order to support his younger siblings' schooling, after high school graduation he followed fellow villagers to coastal industrial cities to work. | Para costear los estudios de sus hermanos, tras graduarse de secundaria emigró a las ciudades industriales costeras a trabajar como asalariado.
+  #2 | 许多当代大学生利用寒暑假在企业打工实习，以此积累宝贵的职场实践经验并实现经济独立。 | Xǔduō dāngdài dàxuéshēng lìyòng hánshǔjià zài qǐyè dǎgōng shíxí, yǐ cǐ jīlěi bǎoguì de zhíchǎng shíjiàn jīngyàn bìng shíxiàn jīngjì dúlì. | Many contemporary college students work temporary internships during breaks to accumulate workplace experience and achieve financial independence. | Muchos universitarios aprovechan las vacaciones para trabajar como pasantes en empresas, acumulando experiencia profesional y logrando autonomía económica.
+
+collocations[6]{hanzi,en}:
+  外出打工 | go out to work away from home
+  打工仔 | migrant worker / young employee (colloquial)
+  打工妹 | young female migrant worker
+  兼职打工 | work a part-time job
+  打工赚钱 | work to earn money
+  打工经历 | work experience as an employee
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  白手起家 | bái shǒu qǐ jiā | build up an enterprise from scratch with bare hands
+  自食其力 | zì shí qí lì | earn one's own living; support oneself by one's own labor
+  起早贪黑 | qǐ zǎo tān hēi | wake early and toil into the dark; work from dawn to dusk
+  苦尽甘来 | kǔ jìn gān lái | bitterness ends and sweetness arrives; after pain comes joy
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  打 | dǎ | strike; hit; do; make | golpear; dar; hacer; ejercer | 扌 | hand | 扌 (hand in vigorous manual motion) | 丁 (dīng, nail / phonetic) | 5 | 左右结构 | Phono-semantic compound combining hand radical 扌 with phonetic 丁, broadly signifying energetic bodily manipulation or work. | A skilled hand (扌) driving a nail (丁) represents physical work and manual exertion. | Una mano diestra (扌) que clava con fuerza un clavo (丁) simboliza el trabajo manual dinámico. | 214 | QMN | 打
+  工 | gōng | labor; work; craftsman | trabajo; labor; obrero | 工 | carpenter's square / work | 工 (pictograph of a builder's carpenter's rule or square) | "" | 3 | 独体结构 | Ancient pictograph of a carpenter's square or level, representing the craft and discipline of human manual fabrication. | A carpenter's square (工) used by craftsmen to measure wood accurately on the worksite. | La escuadra de carpintero (工) que emplean los artesanos para medir la obra en construcción. | 55 | M | 工
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Using one's hands (打) with tools to produce disciplined labor (工) defines working for wages (打工).
+  composite_memory_hook_es: Mover las manos (打) con disciplina laboral (工) define trabajar como asalariado (打工).
+  cultural_and_cognitive_roots: Originating from Cantonese vernacular ('打工'), the phrase entered Mandarin during China's 1980s economic reform, becoming the defining symbol of the massive rural-to-urban migrant labor mobility ('民工潮').
+  tone_sandhi_and_pitch_modulation: Pronounced with a 214-55 pitch contour (3rd tone dipping cleanly, followed by a crisp 1st tone high pitch).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    订 | dìng | subscribe; order | Has 讠 (speech) on the left instead of 扌 (hand)
+    顶 | dǐng | crown; apex; prop | Has 页 (head) on the right instead of hand 扌
+    土 | tǔ | soil; earth | Has shorter top horizontal stroke than 工
+    干 | gàn | do; dry; trunk | Has vertical stroke piercing through the top horizontal
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    工人 | gōng rén | worker; laborer
+    工业 | gōng yè | industry
+    工作 | gōng zuò | work; job; task
+    手工艺 | shǒu gōng yì | handicraft; artisan craftsmanship
+
+semantic_boundary_contrasts:
+  core_nuance: 打工 highlights working as an employee, wage earner, or migrant worker, often emphasizing manual, frontline, or temporary nature.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 打工 vs. 工作 | gōngzuò | 工作 is a neutral, formal term covering any professional employment or career, whereas 打工 emphasizes working under an employer for hourly/monthly wages, often implying migrant or frontline status.
+    2 | 打工 vs. 就业 | jiùyè | 就业 is an official socio-economic term referring to systemic employment and labor market statistics, while 打工 is colloquial personal parlance.
+    3 | 打工 vs. 创业 | chuàngyè | 打工 means working for someone else's business, which is the direct conceptual antonym of 创业 (founding one's own business / entrepreneurship).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 那些年在外打工，父亲的双手磨出了厚厚的老茧。每年年底踏上回乡的绿皮火车，他总会小心翼翼地把攒下的工钱缝在外衣内侧口袋里，那是撑起全家希望的全部底气与尊严。 | Nàxiē nián zài wài dǎgōng, fùqīn de shǒushān mó chū le hòuhòu de lǎojiǎn. Měinián niándǐ tà shàng huíxiāng de lǜpí huǒchē, tā zǒng huì xiǎoxīnyìyì de bǎ zǎn xià de gōngqián féng zài wàiyī nèicè kǒudài lǐ, nà shì chēng qǐ quán jiā xīwàng de quánbù dǐqì yǔ zūnyán. | During those years working away from home, father's hands grew thick calluses. Boarding the green train home at year's end, he carefully stitched saved wages into his inner coat pocket, carrying our family's entire hope and dignity. | En aquellos años de trabajo fuera, las manos de mi padre se llenaron de callos. Al subir al tren verde a fin de año, cosía los ahorros en el forro del abrigo, guardando la dignidad y el sustento de la familia.
+  #2 | 改革开放以来，数以亿计的农民工外出打工，为中国制造业崛起与城市化建设奠定了坚实的人力基石。近年来，随着产业升级与技能培训普及，“新生代农民工”正加速向具备专业技能的现代产业工人转型。 | Gǎigé kāifàng yǐlái, shù yǐ yì jì de nóngmíngōng wàichū dǎgōng, wèi Zhōngguó zhìzàoyè juéqǐ yǔ chéngshìhuà jiànshè diàndìng le jiānshí de rénlì jīshí. Jìnnián lái, suí zhe chǎnyè shēngjí yǔ jìnéng péixùn pǔjí, "xīnshēngdài nóngmíngōng" zhèng jiāsù xiàng jùbèi zhuānyè jìnéng de xiàndài chǎnyè gōngrén zhuǎnxíng. | Since the reform, hundreds of millions of rural workers migrated to work, laying the manpower foundation for China's manufacturing and urban boom. Recently, industrial upgrading has accelerated their transformation into skilled modern industrial workers. | Desde la reforma, cientos de millones de campesinos migraron a trabajar en la urbe, levantando la industria china. Con la capacitación técnica moderna, las nuevas generaciones se transforman rápidamente en operarios cualificados.

@@ -1,24 +1,22 @@
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-  <style>
-    :root {
-      --bg: #0f172a;
-      --bg-card: #1e293b;
-      --bg-card-sub: #162032;
-      --border: #334155;
-      --border-accent: #3b82f6;
-      --text: #f8fafc;
-      --text-muted: #94a3b8;
-      --text-dim: #64748b;
-      --primary: #38bdf8;
-      --primary-glow: rgba(56, 189, 248, 0.2);
-      --accent: #f59e0b;
-      --accent-green: #10b981;
-      --accent-purple: #a855f7;
-      --accent-rose: #f43f5e;
-      --sidebar-w: 320px;
-      --radius: 12px;
-      --radius-sm: 8px;
-    }
+:root {
+  --bg: #0f172a;
+  --bg-card: #1e293b;
+  --bg-card-sub: #162032;
+  --border: #334155;
+  --border-accent: #3b82f6;
+  --text: #f8fafc;
+  --text-muted: #94a3b8;
+  --text-dim: #64748b;
+  --primary: #38bdf8;
+  --primary-glow: rgba(56, 189, 248, 0.2);
+  --accent: #f59e0b;
+  --accent-green: #10b981;
+  --accent-purple: #a855f7;
+  --accent-rose: #f43f5e;
+  --sidebar-w: 320px;
+  --radius: 12px;
+  --radius-sm: 8px;
+}
 
     [data-theme="light"] {
       --bg: #f8fafc;
@@ -872,3 +870,215 @@
 .chapter-select:hover, .chapter-select:focus {
   border-color: var(--primary);
 }
+
+/* ==========================================================================
+   Review System & Anki Flashcard Integrations
+   ========================================================================== */
+
+/* Word item review status dot in sidebar */
+.word-item {
+  position: relative;
+}
+.word-review-indicator {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 6px;
+  flex-shrink: 0;
+  background-color: var(--text-dim);
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+.word-review-indicator.status-remembered {
+  background-color: #10b981;
+  box-shadow: 0 0 6px rgba(16, 185, 129, 0.4);
+}
+.word-review-indicator.status-dont_remember {
+  background-color: #ef4444;
+  box-shadow: 0 0 6px rgba(239, 68, 68, 0.4);
+}
+.word-review-indicator.status-new {
+  background-color: var(--text-dim);
+  opacity: 0.4;
+}
+
+/* Review Filter Row in Sidebar */
+.review-filter-row {
+  display: flex;
+  gap: 4px;
+  margin-top: 8px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+  scrollbar-width: none;
+}
+.review-filter-row::-webkit-scrollbar { display: none; }
+.review-chip {
+  padding: 3px 8px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--bg-card-sub);
+  color: var(--text-muted);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+.review-chip:hover {
+  border-color: var(--primary);
+  color: var(--text);
+}
+.review-chip.active {
+  background: var(--primary);
+  color: #0b0f19;
+  border-color: var(--primary);
+}
+
+/* Mode Switcher in Topbar */
+.mode-switch-group {
+  display: inline-flex;
+  background: var(--bg-card-sub);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 2px;
+  gap: 2px;
+}
+.mode-btn {
+  padding: 4px 10px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: all 0.15s ease;
+}
+.mode-btn:hover {
+  color: var(--text);
+}
+.mode-btn.active {
+  background: var(--bg-card);
+  color: var(--text);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* Chapter Mastery Progress in Topbar */
+.mastery-progress-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 12px;
+  border-radius: 20px;
+  background: var(--bg-card-sub);
+  border: 1px solid var(--border);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+.mastery-bar-track {
+  width: 60px;
+  height: 6px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.1);
+  overflow: hidden;
+  position: relative;
+}
+[data-theme="light"] .mastery-bar-track {
+  background: rgba(0, 0, 0, 0.08);
+}
+.mastery-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #10b981, #38bdf8);
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+/* Cheatsheet Modal */
+.shortcuts-modal-wrap {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(15, 23, 42, 0.7);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+.shortcuts-modal-wrap.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+.shortcuts-modal-card {
+  width: 90%;
+  max-width: 520px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+  overflow: hidden;
+  color: var(--text);
+  animation: modalPopIn 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+@keyframes modalPopIn {
+  0% { transform: scale(0.95); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+.shortcuts-modal-header {
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--bg-card-sub);
+}
+.shortcuts-modal-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.shortcuts-modal-body {
+  padding: 18px;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+.shortcut-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+[data-theme="light"] .shortcut-row {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+.shortcut-desc {
+  font-size: 0.84rem;
+  color: var(--text-muted);
+}
+.shortcut-keys {
+  display: flex;
+  gap: 4px;
+}
+.kbd-key {
+  padding: 2px 7px;
+  font-size: 0.75rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 600;
+  background: var(--bg-card-sub);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+  color: var(--text);
+}
+

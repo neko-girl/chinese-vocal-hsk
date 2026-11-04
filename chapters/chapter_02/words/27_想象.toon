@@ -1,0 +1,64 @@
+id: 27
+hanzi: 想象
+pinyin: xiǎng xiàng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to imagine; to visualize; to conceive; imagination
+  es: imaginar; figurarse; concebir; imaginación; fantasía
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to form a mental image or concept of something not present or not yet experienced | imaginar; representarse mentalmente algo no vivido | 难以想象 (hard to imagine)
+  2 | Noun | Standard | the faculty of imagining; imaginative vision or fancy | imaginación; fantasía creadora | 丰富的想象力 (rich imagination)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 没进过城的老母亲很难想象，在几十层的高楼大厦里，人们只要按一下电梯按钮就能瞬间上下穿梭。 | Méi jìn guò chéng de lǎo mǔqīn hěn nán xiǎngxiàng, zài jǐshí céng de gāolóu-dàshà lǐ, rénmen zhǐyào àn yíxià diàntī ànniǔ jiù néng shùnjiān shàngxià chuānsuō. | The elderly mother who had never been to a city found it hard to imagine that in skyscrapers tens of stories high, people ride up and down in seconds just by pushing a button. | La anciana madre, que nunca había pisado la gran ciudad, apenas podía figurarse que en rascacielos de decenas de plantas la gente subiera al instante pulsando un ascensor.
+  #2 | 这部优秀的科幻小说打破了传统时空维度的桎梏，以超凡的想象力为读者描摹出宏伟壮阔的宇宙图景。 | Zhè bù yōuxiù de kēhuàn xiǎoshuō dǎpò le chuántǒng shíkōng wéidù de zhìgù, yǐ chāofán de xiǎngxiànglì wèi dúzhě miáomó chū hóngwěi zhuàngkuò de yǔzhòu tújǐng. | This outstanding sci-fi novel breaks the shackles of conventional spacetime dimensions, painting a majestic cosmic landscape for readers through extraordinary imagination. | Esta novela de ciencia ficción rompe las ataduras del espacio-tiempo convencional, dibujando con desbordante imaginación un tapiz cósmico sublime para el lector.
+
+collocations[6]{hanzi,en}:
+  超乎想象 | beyond imagination
+  难以想象 | hard to imagine / inconceivable
+  想象力 | imagination; imaginative faculty
+  展开想象 | unleash one's imagination
+  凭空想象 | imagine out of thin air / groundless fancy
+  想象空间 | room for imagination / creative scope
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  异想天开 | yì xiǎng tiān kāi | indulge in the wildest fantasies; whimsical imagination
+  奇思妙想 | qí sī miào xiǎng | wonderful ideas and bizarre thoughts; whimsical genius
+  浮想联翩 | fú xiǎng lián piān | thoughts and fantasies welling up in rapid succession
+  前所未有 | qián suǒ wèi yǒu | unprecedented; never seen or imagined before
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  想 | xiǎng | think; ponder; wish; miss | pensar; desear; añorar; meditar | 心 | heart / mind | 心 (seat of thought and feeling) | 相 (xiāng, mutual / looking) | 13 | 上下结构 | Phono-semantic compound where the heart-mind 心 observes a mental mutual image (相) in reflection. | A person looking intently (相) with the inner heart (心) to conceive thoughts of distant things. | Una persona que contempla (相) con los ojos de su corazón (心) evocando imágenes en la mente. | 214 | DUP | 想
+  象 | xiàng | elephant; image; shape | elefante; imagen; forma visible | 豕 | pig / beast / elephant | 象 (pictograph of an elephant with trunk and tusk) | "" | 11 | 独体结构 | Ancient pictograph of an elephant with a long trunk, later abstracting into 'image' or mental representation. | An elephant (象) with its majestic long trunk and ivory tusks, projecting an unforgettable shape and image. | La silueta de un elefante (象) con su trompa y colmillos, convertida en símbolo de una imagen visible. | 51 | NAO | 象
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Using the reflective heart (想) to form the mental shape of an elephant (象) is the power to imagine (想象).
+  composite_memory_hook_es: Usar el corazón meditativo (想) para dibujar la silueta majestuosa (象) permite imaginar (想象) lo que no está.
+  cultural_and_cognitive_roots: Han Feizi noted that ancient people rarely saw live elephants, so they reconstructed elephant forms by gazing upon unearthed bones; thus mental reconstruction was called 'xiàng' (象/想象).
+  tone_sandhi_and_pitch_modulation: Pronounced with a 214-51 pitch contour (3rd tone dipping cleanly, followed by 4th tone falling resolutely).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    像 | xiàng | resemble; statue; like | Has 亻 (person) radical on the left of 象
+    相 | xiāng | mutual; appearance | Top component of 想 without lower 心
+    家 | jiā | home; family | Has 宀 (roof) on top of 豕 instead of elephant head strokes
+    逐 | zhú | pursue; chase | Has 辶 (walk) on left of 豕
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    景象 | jǐng xiàng | scene; sight; phenomenon
+    表象 | biǎo xiàng | representation; semblance
+    思想 | sī xiǎng | thought; ideology; thinking
+    设想 | shè xiǎng | conceive; envision; tentative plan
+
+semantic_boundary_contrasts:
+  core_nuance: 想象 emphasizes generating subjective mental concepts, creative pictures, or scenarios not physically present.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 想象 vs. 猜测 | cāicè | 想象 means picturing or visualizing hypothetical scenarios in the mind's eye, whereas 猜测 means estimating or guessing facts based on limited clues (e.g. 猜测谜底).
+    2 | 想象 vs. 设想 | shèxiǎng | 想象 is unconstrained creative fantasy or visualization, while 设想 implies constructive, systematic planning or tentative hypothesis formulation for practical execution.
+    3 | 想象 vs. 回忆 | huíyì | 想象 produces novel mental pictures of things unexperienced or future, whereas 回忆 reconstructs past events genuinely experienced in memory.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 小时候躺在夏夜的谷堆上，望着浩瀚无垠的星空，我的脑海里总会插上想象的翅膀。那些关于牛郎织女的神话传说，在银河璀璨的波光中化作了最瑰丽的梦境，悄然启蒙了对未知世界的探索渴望。 | Xiǎoshíhou tǎng zài xiàyè de gǔduī shàng, wàng zhe hàohàn-wúyín de xīngkōng, wǒ de nǎohǎi lǐ zǒng huì chā shàng xiǎngxiàng de chìbǎng. Nàxiē guānyú Niúláng Zhīnǚ de shénhuà chuánshuō, zài Yínhé cuǐcàn de bōguāng zhōng huàzuò le zuì guīlì de mèngjìng, qiǎorán qǐméng le duì wèizhī shìjiè de tànsuǒ kěwàng. | Lying on summer grain piles as a child, gazing at the boundless starry sky, imagination sprouted wings in my mind. Folktales of the Cowherd and Weaver transformed in the Milky Way into splendid dreams, awakening hunger to explore the unknown. | De niño, recostado sobre parvas de trigo bajo el cielo estival, la imaginación desplegaba alas. Las leyendas del Boyero y la Tejedora en la Vía Láctea creaban sueños radiantes que encendieron la curiosidad por el cosmos.
+  #2 | 生成式人工智能技术的爆发式演进，正在彻底重塑人类的艺术创作与想象力边界。算法不仅能够根据文本指令瞬间合成多维视觉艺术，更在辅助工程设计与生物大分子折叠预测中展现出超乎人类传统经验的创新潜力。 | Shēngchéngshì réngōngzhìnéng jìshù de bàofāshì yǎnjìn, zhèngzài chèdǐ zhòngshù rénlèi de yìshù chuàngzuò yǔ xiǎngxiànglì biānjiè. Suànfǎ bùjǐn nénggòu gēnjù wénběn zhǐlìng shùnjiān héchéng duōwéi shìjué yìshù, gèng zài fǔzhù gōngchéng shèjì yǔ shēngwù dàmōzǐ zhédié yùcè zhōng zhǎnxiàn chū chāohū rénlèi chuántǒng jīngyàn de chuàngxīn qiánlì. | The explosive rise of generative AI is restructuring the frontiers of human artistic creation and imagination. Algorithms synthesize multidimensional visual arts and assist structural engineering and protein folding beyond traditional experience. | La inteligencia artificial generativa redefine los horizontes de la imaginación y el arte. Los algoritmos no solo recrean escenas visuales a partir de texto, sino que revolucionan el diseño industrial y el plegamiento proteico superando moldes previos.

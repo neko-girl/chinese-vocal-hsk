@@ -1,0 +1,64 @@
+id: 9
+hanzi: 待遇
+pinyin: dài yù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: treatment; reception; compensation; salary and perks
+  es: trato; retribución; remuneración; condiciones laborales
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | remuneration, salary, benefits, and welfare received from employment | remuneración, sueldo, beneficios sociales y prestaciones laborales | 工资待遇 (salary and compensation)
+  2 | Noun | Standard | treatment, reception, or manner of dealing with individuals | trato, acogida o consideración dispensada a alguien | 享受特殊待遇 (enjoy special treatment)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 尽管原单位提供了优厚的薪酬待遇，但他依然选择放弃，投身到充满未知的远洋探险中。 | Jǐnguǎn yuándānwèi tígōng le yōuhòu de xīnchóu dàiyù, dàn tā yīrán xuǎnzé fàngqì, tóushēn dào chōngmǎn wèizhī de yuǎnyáng tànxiǎn zhōng. | Although his former employer provided generous pay and perks, he still chose to give them up and plunge into the ocean adventure. | Pese a que su anterior empresa le ofrecía una retribución generosa, decidió renunciar a ella para consagrarse a la aventura oceánica.
+  #2 | 为了招揽顶尖科技研发人才，该创新园区为入驻专家提供了涵盖安居补贴与科研经费的全方位保障待遇。 | Wèile zhāolǎn dǐngjiān kējì yánfā réncái, gāi chuàngxīn yuánqū wèi rùzhù zhuānjiā tígōng le hángài ānjū bǔtiē yǔ kēyán jīngfèi de quánfāngwèi bǎozhàng dàiyù. | To attract top technological research talent, the innovation park offered resident experts comprehensive welfare, including housing subsidies and research funding. | A fin de atraer talentos de investigación punteros, el parque tecnológico ofreció a los expertos un completo paquete de remuneración con ayudas de vivienda y fondos.
+
+collocations[6]{hanzi,en}:
+  福利待遇 | welfare benefits and perks
+  优厚待遇 | generous compensation
+  工资待遇 | salary and wage treatment
+  享受待遇 | enjoy benefits / treatment
+  平等待遇 | equal treatment
+  特别待遇 | special treatment / privileged status
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  礼贤下士 | lǐ xián xià shì | treat worthy men of talent with courtesy and respect
+  一视同仁 | yí shì tóng rén | treat everyone equally without discrimination
+  待价而沽 | dài jià ér gū | wait for the right price to sell; await the right opportunity
+  待人接物 | dài rén jiē wù | manner of treating people and conducting oneself in society
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  待 | dài | treat; await; attend | tratar; esperar; atender | 彳 | step / walk slowly | 彳 (interpersonal interaction or stride) | 寺 (sì phonetic / hall of service or measure) | 9 | 左右结构 | Phono-semantic compound: stepping up (彳) to an official hall (寺) to wait upon or receive guests courteously. | Stepping forward respectfully (彳) into a grand reception hall (寺) to await and welcome honored visitors. | Avanzar con respeto (彳) hacia el salón de recepción (寺) para atender y hospedar con esmero a los visitantes. | 51 | HOODI | ""
+  遇 | yù | meet; encounter; opportunity | encontrar; toparse; trato | 辶 | walk / motion | 辶 (advancing along a path) | 禺 (yù phonetic / corner or monkey ideogram) | 12 | 半包围结构 | Ideogrammic/phono-semantic compound: walking along a path (辶) and unexpectedly crossing paths with an acquaintance (禺). | Walking briskly down an intersection (辶) and unexpectedly meeting (禺) an auspicious opportunity. | Caminar por un sendero (辶) y toparse inesperadamente (禺) con una persona o coyuntura propicia. | 51 | YWLB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The manner in which you are received (待) when you encounter (遇) life's circumstances defines your treatment and compensation (待遇).
+  composite_memory_hook_es: El modo en que te reciben (待) cuando te cruzas con las circunstancias (遇) define tu trato y retribución (待遇).
+  cultural_and_cognitive_roots: In ancient statecraft, '待' signified how sovereigns treated scholars (礼贤), while '遇' signified finding an appreciative monarch (知遇之恩). In modern times, it evolved to represent fair remuneration and working conditions.
+  tone_sandhi_and_pitch_modulation: Two consecutive falling 4th tones: dài yù (51-51). Pronounce each syllable with firm, descending pitch, giving equal weight to both.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    待 | dài | treat; wait | Has 彳 (step) radical on the left and 寺 on the right
+    侍 | shì | serve; attend upon | Has 亻 (person) radical on the left with 寺
+    遇 | yù | meet; encounter | Has 辶 (walk) radical enclosing 禺
+    偶 | ǒu | accidental; idol | Has 亻 (person) radical on the left with 禺
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    对待 | duì dài | treat; deal with; adopt attitude toward
+    招待 | zhāo dài | entertain; receive guests
+    遇见 | yù jiàn | meet; run into
+    遭遇 | zāo yù | encounter; run up against (hardship)
+
+semantic_boundary_contrasts:
+  core_nuance: 待遇 spans both monetary compensation (pay, perks) and interpersonal or social treatment accorded to individuals.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 待遇 vs. 薪酬 | xīnchóu | 薪酬 refers strictly to financial remuneration (salaries, wages, bonuses), whereas 待遇 is broader, incorporating health insurance, housing benefits, social prestige, and interpersonal courtesies.
+    2 | 待遇 vs. 态度 | tàidù | 待遇 refers to concrete tangible conditions or institutional treatment provided, while 态度 reflects the subjective emotional disposition or manner exhibited toward someone.
+    3 | 待遇 vs. 报酬 | bàochóu | 待遇 focuses on systematic, ongoing employee welfare packages, whereas 报酬 emphasizes direct remuneration paid for specific tasks or services rendered.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 很多人终其一生都在追求更高的薪水与更体面的社会待遇，却往往忽略了内心真正的渴望。物质上的丰厚固然能带来短暂的欢愉，但唯有做自己真正热爱的事业，才能在灵魂深处获得长久的满足与安宁。 | Hěnduō rén zhōng qí yìshēng dōu zài zhuīqiú gèng gāo de xīnshuǐ yǔ gèng tǐmiàn de shèhuì dàiyù, què wǎngwǎng hūlüè le nèixīn zhēnzhèng de kěwàng. Wùzhì shàng de fēnghòu gùrán néng dài lái duǎnzàn de huányú, dàn wéiyǒu zuò zìjǐ zhēnzhèng rè'ài de shìyè, cáinéng zài línghún shēnchù huòdé chángjiǔ de mǎnzú yǔ ānníng. | Many spend their entire lives chasing higher wages and respectable treatment, yet often neglect genuine inner yearnings. While material opulence brings transient pleasure, only pursuing one's true passion delivers enduring solace and soul contentment. | Muchos consagran su vida a perseguir mejores sueldos y un estatus respetable, olvidando los anhelos del alma. La opulencia material depara dichas efímeras, pero solo entregarse a la verdadera vocación concede paz duradera y plenitud interior.
+  #2 | 在全球高端产业竞争日趋白热化的背景下，企业仅靠提高薪资待遇已难以构建绝对的人才竞争壁垒。现代人力资本管理愈发强调优化职业发展通道、激发团队创造力，通过建立包容协作的组织文化来增强核心员工的归属感与黏性。 | Zài quánqiú gāoduān chǎnyè jìngzhēng rìqū báirèhuà de bèijǐng xià, qǐyè jǐn kào tígāo xīnzī dàiyù yǐ nányǐ gòujiàn juéduì de réncái jìngzhēng bìlěi. Xiàndài rénlì zīběn guǎnlǐ yùfā qiángdiào yōuhuà zhíyè fāzhǎn tōngdào, jīfā tuánduì chuàngzàolì, tōngguò jiànlì bāoróng xiézuò de zǔzhī wénhuà lái zēngqiáng héxīn yuángōng de guīshǔgǎn yǔ niánxìng. | Amid escalating competition across high-tech sectors, raising salaries and perks alone no longer builds impenetrable talent moats. Modern human capital management emphasizes refining career pathways, sparking innovation, and nurturing inclusive cultures to retain key talent. | Con la competencia global al rojo vivo, subir sueldos ya no basta para retener talento estratégico. La gestión de personas prima proyectar carreras motivadoras e inspirar creatividad, forjando culturas inclusivas que afiancen el sentido de pertenencia de los profesionales.

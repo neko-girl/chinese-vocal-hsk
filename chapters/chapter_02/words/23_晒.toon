@@ -1,0 +1,64 @@
+id: 23
+hanzi: 晒
+pinyin: shài
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to dry in the sun; to bask; to expose to sunshine; to share/showcase online
+  es: secar al sol; solear; tomar el sol; exhibir o compartir en redes sociales
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to expose objects (clothes, quilts, crops) to sunshine for drying or sanitizing | secar o airear ropa, cereales o edredones al sol | 晒被子 (dry quilts in the sun)
+  2 | Verb | Standard | to bask under the sun (for warmth or tanning) | tomar el sol; broncearse; asolearse | 晒太阳 (bask in the sun)
+  3 | Verb | Colloquial | to post, showcase, or flaunt photos and lifestyle on social media | compartir fotos o presumir en redes sociales | 晒朋友圈 (post on Moments)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 趁着周末晴空万里，母亲一大早就把家里的几床厚棉被抱到楼顶晒衣绳上充分晾晒。 | Chènzhe zhōumò qíngkōng-wànlǐ, mǔqīn yí dà zǎo jiù bǎ jiālǐ de jǐ chuáng hòu miánbèi bào dào lóudǐng shàiyīshéng shàng chōngfèn liàngshài. | Taking advantage of the cloudless weekend sky, mother took several thick cotton quilts to the rooftop clothesline early to dry under the sun. | Aprovechando el cielo despejado del fin de semana, mi madre subió de buena mañana los edredones de algodón a la azotea para airearlos al sol.
+  #2 | 在高原地区进行户外实地科学考察时，研究队员必须涂抹防晒霜并佩戴墨镜，以防止强烈的紫外线晒伤皮肤。 | Zài gāoyuán dìqū jìnxíng hùwài shídì kēxué kǎochá shí, yánjiū duìyuán bìxū túmǒ fángshàishuāng bìng pèidài mòjìng, yǐ fángzhǐ qiángliè de zǐwàixiàn shàishāng pífū. | When conducting field scientific research in plateau regions, researchers must apply sunscreen and wear sunglasses to prevent intense UV rays from sunburn. | Durante las expediciones científicas en zonas de meseta, los investigadores deben aplicarse protector solar y gafas oscuras para no quemarse con la radiación ultravioleta.
+
+collocations[6]{hanzi,en}:
+  晒太阳 | bask in the sun; sunbathe
+  晒被子 | air quilts under the sun
+  晾晒 | dry in the sun and air
+  防晒霜 | sunscreen; sun cream
+  晒伤 | sunburn
+  暴晒 | expose to scorching baking sun
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  三天打鱼，两天晒网 | sān tiān dǎ yú, liǎng tiān shài wǎng | go fishing three days and dry nets two days; lack perseverance
+  风吹日晒 | fēng chuī rì shài | weathered by wind and scorched by sun; endure outdoor hardship
+  饱经风霜 | bǎo jīng fēng shuāng | weather-beaten; having experienced many hardships of life
+  烈日炎炎 | liè rì yán yán | the blazing sun scorching hot
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  晒 | shài | dry in sun; bask; expose | secar al sol; solear; asolearse | 日 | sun / day | 日 (sun radiating light and warmth) | 西 (xī, west / phonetic) | 10 | 左右结构 | Phono-semantic compound where sun radical 日 combines with phonetic 西; simplified from traditional 曬. | Hanging fresh fabrics outside as the bright sun (日) sets toward the west (西) to bake in warmth. | Extender telas al aire libre mientras el sol (日) brilla cálido hacia el poniente (西) absorbiendo la luz. | 51 | AMCW | 曬
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Letting the bright sun (日) shine down onto your belongings dries and warms (晒) them through and through.
+  composite_memory_hook_es: Dejar que el sol (日) ilumine los tejidos logra secar y calentar (晒) cada fibra con su brillo.
+  cultural_and_cognitive_roots: In rural China, '晒' is the centerpiece of seasonal labor—drying harvested grain, drying autumn chilies, and airing heavy cotton quilts so they smell of 'the aroma of sunshine' (阳光的味道).
+  tone_sandhi_and_pitch_modulation: Pronounced in the 4th tone with a sharp falling pitch: 'shài' (51). Distinguish from 4th tone homophones like 'shài' (筛 is 1st tone shāi).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    洒 | sǎ | sprinkle; spill | Has 氵 (water) on the left instead of 日 (sun)
+    栖 | qī | perch; roost | Has 木 (wood) on the left instead of 日
+    西 | xī | west | Standalone phonetic component without left sun radical 日
+    昭 | zhāo | bright; evident | Has 召 on the right of 日 instead of 西
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    日晒 | rì shài | sun exposure; insolation
+    晾晒 | liàng shài | dry in the sun and air
+    晴朗 | qíng lǎng | sunny and bright
+    映照 | yìng zhào | shine upon; reflect
+
+semantic_boundary_contrasts:
+  core_nuance: 晒 requires the direct thermal energy of sunlight to heat, dry, or disinfect physical objects or human skin.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 晒 vs. 晾 | liàng | 晒 relies on direct radiant sunlight to dry and heat, whereas 晾 emphasizes hanging items in a ventilated, shaded, or breezy space to dry without requiring sun (e.g. 晾在屋檐下).
+    2 | 晒 vs. 烤 | kǎo | 晒 utilizes natural solar warmth, while 烤 involves artificial fire, an oven, or an electric heater (e.g. 烤面包, 烤火).
+    3 | 晒 vs. 烘 | hōng | 晒 relies on outdoor sunshine, whereas 烘 implies using hot air or a specialized mechanical tumble dryer (e.g. 烘干机).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 阳光明媚的周末，小区的阳台上铺满了各色被褥。经过整整一个下午的暴晒，棉絮里吸饱了太阳的温暖与干爽。扑倒在刚晒好的被子里深吸一口气，那熟悉的青草香气让人彻底卸下周身疲惫。 | Yángguāng míngmèi de zhōumò, xiǎoqū de yángtái shàng pūmǎn le gèsè bèirù. Jīngguò zhěngzhěng yí gè xiàwǔ de bàoshài, miánxù lǐ xī bǎo le tàiyáng de wēnnuǎn yǔ gānshuǎng. Pūdǎo zài gāng shài hǎo de bèizi lǐ shēn xī yì kǒu qì, nà shúxī de qīngcǎoxiāng qì ràng rén chèdǐ xièxià zhōushēn píbèi. | On a bright weekend, residential balconies fill with colorful bedding. Baked throughout the afternoon, cotton absorbs the sun's warmth. Collapsing onto the sun-dried quilt with a deep breath, familiar fresh scents dissolve all exhaustion. | En fines de semana soleados, los balcones se llenan de colchas. Tras una siesta bajo el sol, el algodón absorbe calidez y pureza. Al tenderse en la colcha recién soleada aspirando su fragancia, el cuerpo se libera de toda fatiga.
+  #2 | 传统中药材炮制工艺中的“日晒”绝非单纯脱水，而是借助特定波长的紫外线促进活性成分转化的关键生化环节。科研机构通过光谱模拟与控温干燥技术，成功实现了传统晒制工艺的数字化与标准化升级。 | Chuántǒng zhōngyàocái páozhì gōngyì zhōng de "rìshài" juéfēi dānchún tuōshuǐ, ér shì jièzhù tèdìng bōcháng de zǐwàixiàn cùjìn huóxìng chéngfèn zhuǎnhuà de guānjiàn shēnghuà huánjié. Kēyán jīgòu tōngguò guāngpǔ mónǐ yǔ kòngwēn gānzào jìshù, chénggōng shíxiàn le chuántǒng shàizhì gōngyì de shùzìhuà yǔ biāozhǔnhuà shēngjí. | Sun-drying in traditional medicine preparation is not mere dehydration, but a photochemical phase transforming active compounds via UV wavelengths. Research centers simulate solar spectra to standardize traditional drying methods digitally. | El soleado en la medicina tradicional supera la deshidratación; los rayos ultravioleta activan fitoquímicos esenciales. Laboratorios modernos reproducen espectros solares para industrializar este método milenario con rigor científico.

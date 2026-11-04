@@ -1,0 +1,63 @@
+id: 7
+hanzi: 姥姥
+pinyin: lǎo lao
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: maternal grandmother; granny (Northern colloquial)
+  es: abuela materna; abuelita (coloquial norteño)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Colloquial | mother's mother; maternal grandmother (predominantly Northern usage) | abuela materna; madre de la madre (uso común en el norte de China) | 去姥姥家 (go to maternal grandmother's house)
+  2 | Interjection | Slang | expression of disbelief, defiance, or contempt (Northern dialect: 姥姥！) | ¡ni hablar!, ¡de ninguna manera! (interjección dialectal norteña) | 姥姥，我才不信呢 (No way, I don't buy that at all!)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 小时候每逢放暑假，我最盼望的就是去乡下姥姥家，吃姥姥亲手包的热腾腾的猪肉茴香饺子。 | Xiǎoshíhou měiféng fàng shǔjià, wǒ zuì pànwàng de jiùshì qù xiāngxià lǎolao jiā, chī lǎolao qīnshǒu bāo de rètēngtēng de zhūròu huíxiāng jiǎozi. | In childhood whenever summer vacation arrived, what I looked forward to most was visiting granny's house in the country and eating steaming pork-fennel dumplings she made by hand. | En mi infancia, al llegar las vacaciones estivales, lo que más ansiaba era ir al pueblo de mi abuelita y saborear sus humeantes empanadillas caseras.
+  #2 | 姥姥虽已年过八旬，但精神矍铄，经常在家庭聚会上给年轻一辈讲述家族百年来的奋斗故事。 | Lǎolao suī yǐ nián guò bāxún, dàn jīngshén juéshuò, jīngcháng zài jiātíng jùhuì shàng gěi niánqīng yíbèi jiǎngshù jiāzú bǎinián lái de fèndòu gùshì. | Although granny is over eighty years old, she remains in hale and hearty spirits, often recounting the family's century of perseverance at gatherings. | Pese a superar los ochenta años, mi abuelita conserva una salud admirable y a menudo relata en reuniones familiares las vicisitudes del linaje.
+
+collocations[6]{hanzi,en}:
+  姥姥家 | maternal grandmother's home
+  看姥姥 | visit maternal grandmother
+  接姥姥 | welcome / pick up maternal grandmother
+  给姥姥拜年 | wish maternal grandmother a Happy New Year
+  姥姥的手艺 | grandmother's cooking or craft skills
+  想念姥姥 | miss maternal grandmother
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  儿孙满堂 | ér sūn mǎn táng | surrounded by children and grandchildren; enjoy bountiful family blessings
+  尊老爱幼 | zūn lǎo ài yòu | respect the elderly and cherish the young
+  天伦之乐 | tiān lún zhī lè | family happiness; domestic bliss among kin
+  含饴弄孙 | hán yí nòng sūn | enjoy playing with one's grandchildren in old age
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  姥 | lǎo | maternal grandmother; old lady | abuela materna; anciana respetable | 女 | woman / female | 女 (female elder) | 老 (lǎo, aged / venerable) | 9 | 左右结构 | Phono-semantic compound combining female radical 女 with venerable elder 老 to designate the maternal matriarch. | A loving woman (女) with white hair and ripe years (老) holding her grandchild with deep tenderness. | Una mujer bondadosa (女) que ha alcanzado una edad venerable (老) acoge a sus nietos con infinito afecto. | 214 | VJP | 姥
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The venerable elderly (老) woman (女) who raised your mother with boundless love is your maternal grandmother (姥姥).
+  composite_memory_hook_es: La venerable anciana (老) mujer (女) que crio a tu madre con infinito amor es tu abuela materna (姥姥).
+  cultural_and_cognitive_roots: In Northern Chinese culture, '姥姥' embodies warm maternal kinship, celebrated in children's folklore and holiday reunions as a haven of indulgence and homemade delicacies.
+  tone_sandhi_and_pitch_modulation: Reduplicated kinship noun where the first syllable carries 3rd tone and the second is reduced to neutral tone: 'lǎo lao' (214-0).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    奶 | nǎi | grandmother (paternal); milk | Has 乃 on the right instead of 老
+    姑 | gū | paternal aunt | Has 古 (ancient) on the right instead of 老
+    姨 | yí | maternal aunt | Has 夷 on the right instead of 老
+    老 | lǎo | old; elderly | Standalone root without the left female radical 女
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    姥爷 | lǎo ye | maternal grandfather (Northern colloquial)
+    奶奶 | nǎi nai | paternal grandmother
+    老人 | lǎo rén | elderly person; parents
+    老师 | lǎo shī | teacher; mentor
+
+semantic_boundary_contrasts:
+  core_nuance: 姥姥 specifically refers to maternal grandmother in Northern vernacular Chinese.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 姥姥 vs. 外婆 | wàipó | 姥姥 is predominantly Northern Mandarin vernacular, whereas 外婆 is common in Southern China and standard formal written Chinese.
+    2 | 姥姥 vs. 奶奶 | nǎinai | 姥姥 designates the mother's mother (maternal), while 奶奶 designates the father's mother (paternal).
+    3 | 姥姥 vs. 姑姑 | gūgu | 姥姥 belongs to the grandparent generation on the maternal side, whereas 姑姑 refers to the father's sister in the parental generation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 记忆中姥姥的身影总是系着一条洗得泛白的蓝布围裙。每当我奔跑着推开院门，她便立刻放下手中的活计，迈着小碎步迎上来，将热腾腾的烤红薯塞进我冰凉的手心，眼里溢满了关切。 | Jìyì zhōng lǎolao de shēnyǐng zǒngshì xì zhe yì tiáo xǐ de fānbái de lánbù wéiqún. Měidāng wǒ bēnpǎo zhe tuīkāi yuànmén, tā biàn lìkè fàngxià shǒuzhōng de huójì, màizhe xiǎosuìbù yíng shànglái, jiāng rètēngtēng de kǎohóngshǔ sāijìn wǒ bīngliáng de shǒuxīn, yǎnlǐ yìmǎn le guānqiè. | In my memory granny always wore a faded blue apron. Whenever I burst through the courtyard gate, she would set down her chores and rush out with tiny steps, pressing a steaming roasted sweet potato into my cold hands, her eyes overflowing with affection. | En mi memoria, mi abuela siempre llevaba un delantal azul desteñido. Al empujar yo la cancela del patio, dejaba su quehacer y salía a paso presuroso para poner un boniato asado en mis manos frías, con los ojos rebosantes de amor.
+  #2 | 中国南北方亲属称谓的差异折射出丰富的方言文化。北方习惯以“姥姥”与“姥爷”称呼母系祖辈，而南方多使用“外婆”与“外公”。现代语言学学者指出，这类亲属词汇的传承强化了代际认同与地域文化归属感。 | Zhōngguó nánběifāng qīnshǔ chēngwèi de chāyì zhéshè chū fēngfù de fāngyán wénhuà. Běifāng xíguàn yǐ "lǎolao" yǔ "lǎoye" chēnghu mǔxì zǔbèi, ér nánfāng duō shǐyòng "wàipó" yǔ "wàigōng". Xiàndài yǔyánxué xuézhě zhǐchū, zhè lèi qīnshǔ cíhuì de chuánchéng qiánghuà le dàijì rèntóng yǔ dìyù wénhuà guīshǔgǎn. | Regional contrasts in Chinese kinship terms reflect dialectal richness. Northerners use 'lǎolao' and 'lǎoye' for maternal grandparents, while Southerners use 'wàipó' and 'wàigōng'. Linguists emphasize that preserving kinship lexicon reinforces intergenerational identity and regional belonging. | Las diferencias de parentesco entre el norte y el sur de China muestran una gran riqueza lingüística. El norte emplea "lǎolao" y el sur "wàipó". Los lingüistas sostienen que estos vocablos fortalecen la identidad intergeneracional y el arraigo cultural.

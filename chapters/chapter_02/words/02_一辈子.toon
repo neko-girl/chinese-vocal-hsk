@@ -1,0 +1,65 @@
+id: 2
+hanzi: 一辈子
+pinyin: yí bèi zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: all one's life; a lifetime; throughout one's days
+  es: toda la vida; una vida entera; a lo largo de la vida
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the entire duration of a human lifespan; a lifetime | toda la vida; la vida entera de una persona | 辛苦了一辈子 (worked hard all one's life)
+  2 | Adverb | Colloquial | forever; for a lifetime (used to express deep commitment or unchanging state) | para toda la vida; eternamente | 记一辈子 (remember for a lifetime)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 父母在农村辛苦劳作了一辈子，终于在儿女成家后过上了安稳舒适的晚年生活。 | Fùmǔ zài nóngcūn xīnkǔ láozuò le yíbèizi, zhōngyú zài énnǚ chéngjiā hòu guò shàng le ānwěn shūshì de wǎnnián shēnghuó. | Having toiled in the countryside all their lives, the parents finally enjoyed a peaceful, comfortable old age after their children started families. | Habiendo trabajado duro en el campo toda su vida, los padres al fin disfrutaron de una vejez tranquila y cómoda tras casarse sus hijos.
+  #2 | 一位优秀的工匠往往倾注一辈子的心血，只为将一门传统手艺传承并做到极致。 | Yí wèi yōuxiù de gōngjiàng wǎngwǎng qīngzhù yíbèizi de xīnxuè, zhǐ wèi jiāng yì mén chuántǒng shǒuyì chuánchéng bìng zuò dào jízhì. | A master craftsman often devotes a lifetime of effort solely to preserving and perfecting a single traditional craft. | Un maestro artesano a menudo consagra el esfuerzo de toda una vida solo para preservar y perfeccionar un oficio tradicional.
+
+collocations[6]{hanzi,en}:
+  辛苦一辈子 | work hard all one's life
+  过一辈子 | spend one's whole life
+  一辈子的幸福 | a lifetime of happiness
+  爱一辈子 | love for a lifetime
+  一辈子的心血 | a lifetime of dedicated effort
+  受用一辈子 | benefit for a lifetime
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  终生难忘 | zhōng shēng nán wàng | unforgettable for a lifetime; etched in memory forever
+  人才辈出 | rén cái bèi chū | talented people emerging in generation after generation
+  百代过客 | bǎi dài guò kè | transient travelers through a hundred generations; fleeting human life
+  承前启后 | chéng qián qǐ hòu | inherit the past and usher in the future across generations
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  一 | yī | one; single; whole | uno; único; entero | 一 | one / horizontal line | 一 (the primal unity of heaven and earth) | "" | 1 | 独体结构 | The primordial horizontal stroke representing unified wholeness and singularity. | A single unbroken horizon line (一) uniting earth and sky into a continuous whole. | Una única línea horizontal continua (一) que une el cielo y la tierra. | 55 | M | ""
+  辈 | bèi | generation; rank; lifetime | generación; rango; vida entera | 车 | cart / chariot | 车 (line of carts denoting sequential generations) | 非 (fēi, phonetic marker) | 12 | 上下结构 | Originally indicated a convoy of war chariots lined up sequentially, extended to ancestral generational tiers. | Rows of carts (车) moving beneath parallel flags (非) represent ranks of ancestors advancing across generations. | Filas de carros (车) bajo estandartes (非) representan generaciones sucesivas que avanzan en el tiempo. | 51 | LYSJ | 輩
+  子 | zi | noun suffix / offspring | sufijo nominal / hijo | 子 | child / infant | 子 (pictograph of a swaddled infant) | "" | 3 | 独体结构 | Ancient pictograph of a child with arms spread out wide and swaddled legs. | A baby opening tiny arms wide (子), acting here as a lightweight colloquial noun suffix. | Un pequeño bebé con los brazos extendidos (子), sirviendo aquí como sufijo nominal ligero. | 214 | ND | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Traveling through a single (一) continuous caravan of generations (辈) defines a person's entire lifetime (一辈子).
+  composite_memory_hook_es: Viajar en una sola (一) caravana de generaciones (辈) define toda la vida de una persona (一辈子).
+  cultural_and_cognitive_roots: Traditional Chinese kinship conceptualizes human existence within lineage tiers (辈分). '一辈子' captures individual existence as one complete generational cycle within the endless ancestral chain.
+  tone_sandhi_and_pitch_modulation: The headword undergoes tone sandhi: '一' changes to 2nd tone 'yí' before 4th tone 'bèi', and 'zi' is read in the neutral tone (轻声): yí bèi zi (35-51-0).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    悲 | bēi | sad; sorrow | Has 心 (heart) at the bottom instead of 车 (cart)
+    斐 | fěi | brilliant; elegant | Has 文 (literature) at the bottom instead of 车
+    排 | pái | row; line up | Has 扌 (hand) radical on the left with 非 on the right
+    翡 | fěi | jadeite; green kingfisher | Has 羽 (feathers) at the bottom under 非
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    辈分 | bèi fen | generational rank in family hierarchy
+    前辈 | qián bèi | predecessor; elder generation
+    后辈 | hòu bèi | younger generation; junior
+    平辈 | píng bèi | person of the same generation / peer
+
+semantic_boundary_contrasts:
+  core_nuance: 一辈子 is a colloquial, emotionally warm term emphasizing personal lived human experience across a complete lifespan.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 一辈子 vs. 一生 | yìshēng | 一辈子 carries a strong colloquial, affectionate oral tone (e.g. 念叨了一辈子), while 一生 is more formal and literary, favored in biographies and philosophical writing (e.g. 他的一生波澜壮阔).
+    2 | 一辈子 vs. 终身 | zhōngshēn | 一辈子 stresses emotional duration and daily endurance, whereas 终身 carries legal, institutional, or solemn career connotations (e.g. 终身教授, 终身监禁).
+    3 | 一辈子 vs. 岁月 | suìyuè | 一辈子 anchors strictly to the lifespan of an individual person, whereas 岁月 refers abstractly to the passage of time or historical eras (e.g. 峥嵘岁月).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 祖母在老屋的灶台前站了一辈子，柴火映红了她的笑脸。她总说，人这一辈子就像熬一锅粥，火候到了，滋味自然就出来了。那些漫长的岁月，都化作了饭菜里最深沉的关爱与温度。 | Zǔmǔ zài lǎowū de zàotái qián zhàn le yíbèizi, cháihuǒ yìng hóng le tā de xiàoliǎn. Tā zǒng shuō, rén zhè yíbèizi jiù xiàng áo yì guō zhōu, huǒhòu dào le, zīwèi zìrán jiù chūlái le. Nàxiē màncháng de suìyuè, dōu huàzuò le fàncài lǐ zuì shēnchén de guān'ài yǔ wēndù. | Grandmother stood before the hearth in the old house all her life, the fire glow warming her face. She often said a lifetime is like simmering porridge; when the heat is right, flavor emerges naturally. Those long years dissolved into deep affection and warmth in every meal. | Mi abuela pasó toda su vida ante el fogón de la casa vieja, con el rostro iluminado por las llamas. Decía que la vida es como cocer gachas a fuego lento: cuando el tiempo madura, brota el sabor. Esos largos años se transformaron en amor hondo en cada plato.
+  #2 | 社会学研究表明，现代人对“一辈子”的职业规划正在发生深刻重构。与过去依靠单一单位度过终生不同，当代青年更倾向于多维度发展技能。终身学习已从一种理想愿景转化为个体应对时代变革的核心生存策略。 | Shèhuìxué yánjiū biǎomíng, xiàndài rén duì "yíbèizi" de zhíyè guīhuà zhèngzài fāshēng shēnkè chónggòu. Yǔ guòqù yīkào dānyī dānwèi dùguò zhōngshēng bùtóng, dāngdài qīngnián gèng qīngxiàng yú duō wéidù fāzhǎn jìnéng. Zhōngshēn xuéxí yǐ cóng yì zhǒng lǐxiǎng yuànjǐng zhuǎnhuà wéi gètǐ yìngduì shídài biàngé de héxīn shēngcún cèlüè. | Sociological research shows that modern people's lifelong career planning is undergoing profound restructuring. Unlike past generations relying on a single employer for life, today's youth favor multidimensional skill building. Lifelong learning has shifted from an ideal into a core survival strategy. | Los estudios sociológicos muestran que el proyecto profesional de toda una vida se transforma profundamente. Lejos de la fidelidad a una sola empresa, los jóvenes actuales diversifican competencias. El aprendizaje continuo ha pasado de aspiración a estrategia vital imprescindible.

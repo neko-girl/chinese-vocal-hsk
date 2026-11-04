@@ -1,0 +1,64 @@
+id: 5
+hanzi: 断
+pinyin: duàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to break; to snap; to cut off; to sever; to stop; to judge
+  es: romper; quebrar; cortar; suspender; juzgar; decidir
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to physically snap, break in two, or sever | romperse; partirse en dos; quebrar | 绳子断了 (the rope snapped)
+  2 | Verb | Standard | to cut off, interrupt, or discontinue (relations, supply, habit) | cortar; interrumpir; suspender | 断绝往来 (sever contacts)
+  3 | Verb | Formal | to judge; to determine; to arbitrate | juzgar; dictaminar; resolver un litigio | 判断是非 (judge right from wrong)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 暴风雨刮断了村口的几根电线，导致全村的电力供应中断了大半天。 | Bàofēngyǔ guā duàn le cūnkǒu de jǐ gēn diànxiàn, dǎozhì quán cūn de diànlì gōngyìng zhōngduàn le dàbàntiān. | The rainstorm snapped several power lines at the village entrance, causing electricity across the village to be interrupted for half a day. | La tormenta partió varios cables eléctricos a la entrada del pueblo, interrumpiendo el suministro eléctrico durante más de medio día.
+  #2 | 无论离家多远、工作多忙，游子与故乡亲人之间的思念与牵挂永远都不会断。 | Wúlùn líjiā duō yuǎn, gōngzuò duō máng, yóuzǐ yǔ gùxiāng qīnrén zhījiān de sīniàn yǔ qiānguà yǒngyuǎn dōu bú huì duàn. | No matter how far one wanders or how busy work becomes, the affection and yearning between travelers and kin back home will never break. | Por lejos que se marche o por ocupado que esté el trabajo, el cariño y la añoranza entre el viajero y sus seres queridos nunca se romperán.
+
+collocations[6]{hanzi,en}:
+  中断 | interrupt; suspend
+  不断 | continuously; incessantly
+  断绝 | sever; break off completely
+  推断 | infer; deduce
+  断定 | conclude; determine with certainty
+  断线 | disconnected; broken line
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  藕断丝连 | ǒu duàn sī lián | lotus roots snap but fibers remain joined; lingering attachment despite separation
+  当机立断 | dāng jī lì duàn | make a prompt decision at the critical moment
+  源源不断 | yuán yuán bú duàn | flowing in a continuous, endless stream
+  优柔寡断 | yōu róu guǎ duàn | indecisive; hesitant and irresolute
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  断 | duàn | break; snap; sever; decide | romper; quebrar; cortar; decidir | 斤 | axe / adze | 斤 (axe used for severing) | 𢆶 (silk skeins on left) | 11 | 左右结构 | Depicts bundles of silk threads being cleaved in half by a sharp iron axe (斤). | An axe (斤) chops down forcefully, severing twisted threads on the left into two separate halves. | Un hacha afilada (斤) desciende cortando de un solo golpe los hilos trenzados de la izquierda. | 51 | VIDH | 斷
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An axe (斤) swings down to slice through fibers and cleanly sever (断) the thread.
+  composite_memory_hook_es: Un hacha (斤) cae con fuerza para cortar las hebras y quebrar (断) el hilo de forma tajante.
+  cultural_and_cognitive_roots: In ancient Chinese legal and philosophical thought, 'duàn' originated from cutting physical cords to resolve disputes, evolving into the mental capacity to reach decisive judgments (决断).
+  tone_sandhi_and_pitch_modulation: Pronounced in the 4th tone with an abrupt, decisive downward pitch (51). When forming '不断', '不' undergoes tone sandhi to 2nd tone: 'bú duàn' (35-51).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    折 | zhé | break; bend; fold | Has 扌 (hand) on the left instead of silk bundle remnants
+    析 | xī | analyze; split wood | Has 木 (wood) on left with 斤 (axe) on right
+    斩 | zhǎn | behead; chop off | Has 车 (chariot) on left with 斤 on right
+    斤 | jīn | axe / half-kilogram | The standalone right radical of 断 without the left component
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    折断 | zhé duàn | snap; break into pieces
+    割断 | gē duàn | cut off; sever with a blade
+    间断 | jiàn duàn | be interrupted; intermittent
+    决断 | jué duàn | make a resolute decision; resolution
+
+semantic_boundary_contrasts:
+  core_nuance: 断 refers to an abrupt physical snapping or sudden cessation of continuity in time, relationship, or supply.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 断 vs. 停 | tíng | 断 emphasizes complete physical breakage or rupture of a continuous link (e.g. 绳子断了, 断电), whereas 停 implies pausing or coming to rest with the potential to resume (e.g. 停车, 停雨).
+    2 | 断 vs. 破 | pò | 断 denotes dividing an elongated object into discrete parts along its length, while 破 means shattering, tearing, or puncturing a surface (e.g. 衣服破了, 碗摔破了).
+    3 | 断 vs. 截 | jié | 断 highlights the state of disruption or severance, whereas 截 emphasizes the deliberate physical action of cutting a section off or intercepting (e.g. 截断, 截获).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 游子离家千万里，但心中的牵挂宛如风筝的线，无论岁月怎样流转，也未曾真正断开。每当夜深人静仰望星空，母亲慈祥的目光仿佛穿越山海，将游子与故乡紧紧连在一起。 | Yóuzǐ líjiā qiānwàn lǐ, dàn xīnzhōng de qiānguà wǎnrú fēngzheng de xiàn, wúlùn suìyuè zěnyàng liúzhuǎn, yě wèicéng zhēnzhèng duànkāi. Měidāng yèshēn-rénjìng yǎngwàng xīngkōng, mǔqīn cíxiáng de mùguāng fǎngrú chuānyuè shānhǎi, jiāng yóuzǐ yǔ gùxiāng jǐnjǐn lián zài yìqǐ. | Wandering thousands of miles from home, one's thoughts resemble a kite string that never truly snaps, however years roll by. Gazing at stars in the silent night, mother's loving gaze traverses mountains and seas, binding traveler and home together. | Aunque el viajero marche a miles de leguas, el lazo afectivo es un hilo de cometa que el tiempo jamás logra quebrar. En la noche silenciosa mirando las estrellas, la mirada tierna de la madre cruza montes y mares, uniendo al hijo con su tierra.
+  #2 | 现代城市供电与水务系统高度依赖智能调度网络。一旦关键枢纽发生物理损坏导致供电中断，应急机制将瞬间启动自愈算法，在毫秒级时间内重配路由，确保核心基础设施稳定运行。 | Xiàndài chéngshì gōngdiàn yǔ shuǐwù xìtǒng gāodù yīlài zhìnéng diàodù wǎngluò. Yídàn guānjiàn shūniǔ fāshēng wùlǐ sǔnhuài dǎozhì gōngdiàn zhōngduàn, yìngjí jīzhì jiāng shùnjiān qǐdòng zìyù suànfǎ, zài háomiǎo jí shíjiān nèi chóngpèi lùyóu, quèbǎo héxīn jīchǔ shèshī wěndìng yùnxíng. | Modern municipal power and water grids rely heavily on smart dispatch networks. If physical damage at a critical hub interrupts electrical supply, emergency mechanisms instantaneously trigger self-healing algorithms within milliseconds, re-routing power. | Las redes de abastecimiento urbano dependen de la gestión inteligente. Si un daño en un nudo clave interrumpe el suministro eléctrico, los protocolos de emergencia activan algoritmos de autorrecuperación en milisegundos para garantizar los servicios vitales.

@@ -1,0 +1,63 @@
+id: 34
+hanzi: 卧室
+pinyin: wò shì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: bedroom; sleeping chamber; private bedchamber
+  es: dormitorio; alcoba; recámara; habitación para dormir
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a private room in a house or apartment used specifically for sleeping and resting | dormitorio; estancia de la casa destinada al descanso y sueño | 主卧室 (master bedroom)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 母亲把朝南采光最好的大卧室留给了我们夫妻俩，自己却坚持要住背阴偏小的那一间客房。 | Mǔqīn bǎ cháo nán cǎiguāng zuì hǎo de dà wòshì liú gěi le wǒmen fūqī liǎ, zìjǐ què jiānchí yào zhù bèiyīn piān xiǎo de nà yì jiān kèfáng. | Mother reserved the large south-facing bedroom with the best sunlight for our couple, while insisting on staying in the smaller guest room. | Mi madre reservó el dormitorio principal con sol del sur para nosotros dos, insistiendo ella en ocupar el cuarto de invitados más fresco.
+  #2 | 现代化智能家居系统支持根据睡眠阶段自动调节卧室的温度、湿度与遮光窗帘，为居民打造深度睡眠环境。 | Xiàndàihuà zhìnéng jiājū xìtǒng zhīchí gēnjù shuìmián jiēduàn zìdòng tiáojié wòshì de wēndù, shīdù yǔ zhēguāng chuānglián, wèi jūmín dǎzào shēndù shuìmián huánjìng. | Modern smart home systems automatically calibrate bedroom temperature, humidity, and blackout curtains based on sleep phases, creating an ideal sleep haven. | La domótica moderna regula la temperatura, humedad y cortinas del dormitorio según la fase del sueño, favoreciendo un descanso nocturno reparador.
+
+collocations[6]{hanzi,en}:
+  主卧室 | master bedroom
+  次卧室 | secondary bedroom / guest bedroom
+  走进卧室 | walk into the bedroom
+  卧室门 | bedroom door
+  收拾卧室 | tidy up the bedroom
+  卧室设计 | bedroom interior design
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  藏龙卧虎 | cáng lóng wò hǔ | hidden dragons and crouching tigers; undiscovered talents
+  引狼入室 | yǐn láng rù shì | introduce a wolf into the house; bring danger upon oneself
+  登堂入室 | dēng táng rù shì | pass the hall and enter the chamber; attain high proficiency in learning
+  卧薪尝胆 | wò xīn cháng dǎn | sleep on brushwood and taste gall; undergo self-imposed hardships to achieve ambition
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  卧 | wò | lie down; recline; crouch | acostarse; reclinar; yacer; agazapado | 卜 | divining line / minister | 臣 (downward gazing eye / leaning body) | 卜 (bǔ, phonetic / posture marker) | 8 | 左右结构 | Depicts a weary human body (臣) leaning over horizontally to recline and rest on a mat. | A person leaning their head down (臣) to rest horizontally on a quiet sleeping mat. | Una persona que reclina la cabeza (臣) para descansar el cuerpo sobre una estera nocturna. | 51 | SLY | 臥
+  室 | shì | room; chamber; office | habitación; sala; estancia; cámara | 宀 | roof with chimney | 宀 (protective residential roof) | 至 (zhì, reach / settle) | 9 | 上下结构 | Ideogrammic compound of roof (宀) over arrive (至), meaning the ultimate chamber where a traveler reaches domestic rest. | Reaching (至) safety beneath the family roof (宀) to dwell securely inside a private room (室). | Llegar (至) al cobijo bajo el techo hogareño (宀) para descansar en una estancia íntima (室). | 51 | JMGI | 室
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Reclining your body (卧) inside a protected sheltered chamber (室) defines a restful bedroom (卧室).
+  composite_memory_hook_es: Reclinar el cuerpo a descansar (卧) dentro de una estancia protegida (室) es la esencia del dormitorio (卧室).
+  cultural_and_cognitive_roots: In ancient architectural cosmology, the '室' was the most sacred, private chamber located behind the public hall ('堂'), reserved for intimate marital life, ancestral sleep, and personal tranquility.
+  tone_sandhi_and_pitch_modulation: Pronounced with paired 4th tones: 'wò shì' (51-51). Articulate both syllables with steady, crisp falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    屋 | wū | house; room | Has 尸 on top of 至 instead of 宀
+    臣 | chén | minister; official | Left component of 卧 without the right 卜
+    到 | dào | arrive; reach | Has 至 on the left with 刂 (knife) on the right
+    宝 | bǎo | treasure; precious | Has 宀 on top with 玉 (jade) below instead of 至
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    房间 | fáng jiān | room; chamber
+    卧铺 | wò pù | sleeping berth (on trains)
+    室内 | shì nèi | indoor; interior
+    温室 | wēn shì | greenhouse; hothouse
+
+semantic_boundary_contrasts:
+  core_nuance: 卧室 is strictly designated for sleeping, bed rest, and private nightly repose.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 卧室 vs. 客厅 | kètīng | 卧室 is a private interior chamber designated for sleep and rest, whereas 客厅 is the public communal hall for receiving guests, dining, and family entertainment.
+    2 | 卧室 vs. 书房 | shūfáng | 卧室 is furnished with a bed for nocturnal rest, while 书房 is dedicated to reading, writing, and intellectual study.
+    3 | 卧室 vs. 屋子 | wūzi | 卧室 denotes the specific functional room for sleeping, while 屋子 can colloquially refer to any room or an entire domestic house.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 穿过客厅推开卧室的门，阳光透过白色纱帘柔柔地洒在大床上。母亲提前铺好的棉被散发着清新的气息，枕边还细心摆放着安神的香囊。这方寸之间的小天地，永远是抵御风尘最安宁的港湾。 | Chuānguò kètīng tuīkāi wòshì de mén, yángguāng tòuguò báisè shālián róuróu de sǎ zài dà chuáng shàng. Mǔqīn tíqián pū hǎo de miánbèi sànfā zhe qīngxīn de qìxī, zhěnbiān hái xìxīn bǎifàng zhe ānshén de xiāngnáng. Zhè fāngcùn zhījiān de xiǎotiāndì, yǒngyuǎn shì dǐyù fēngchén zuì ānníng de gǎngwān. | Crossing the living room and opening the bedroom door, sunlight filtered softly through white lace curtains onto the bed. The quilt mother smoothed smelled fresh, a soothing sachet by the pillow. This haven guards from the world. | Cruzando el salón al abrir el dormitorio, el sol entraba tamizado por el visillo blanco. El edredón estirado por la madre olía a pureza, con un saquito aromático junto a la almohada. Aquel rincón es un puerto de paz ante el mundo.
+  #2 | 现代人居健康建筑标准将卧室声学与微气候环境置于核心考量。通过安装双层中空隔音玻璃、低噪声新风置换系统与昼夜节律光谱灯具，高品质卧室设计有效保障了现代高压人群深度睡眠与机能恢复。 | Xiàndài rénjū jiànkāng jiànzhù biāozhǔn jiāng wòshì shēngxué yǔ wēiqìhòu huánjìng zhìyú héxīn kǎoliàng. Tōngguò ānzhuāng shuāngcéng zhōngkōng géyīn bōli, dīzàoshēng xīnfēng zhìhuàn xìtǒng yǔ zhòuyè jiélǜ guāngpǔ dēngjù, gāopǐnzhì wòshì shèjì yǒuxiào bǎozhàng le xiàndài gāoyā rénqún shēndù shuìmián yǔ jīnéng huīfù. | Healthy building standards place bedroom acoustics and microclimate at the center. Soundproof double glazing, fresh-air exchange, and circadian lighting in bedroom design safeguard deep sleep for stressed populations. | La arquitectura del bienestar prioriza la acústica y el microclima del dormitorio. Dobles acristalamientos, ventilación silenciosa e iluminación circadiana garantizan un sueño profundo y reparador en la vida moderna.

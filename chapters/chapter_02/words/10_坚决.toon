@@ -1,0 +1,64 @@
+id: 10
+hanzi: 坚决
+pinyin: jiān jué
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: firm; resolute; determined; unyielding
+  es: firme; resuelto; tajante; inquebrantable
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | firm and unwavering in attitude, stance, or decision | firme; resuelto; que no vacila | 态度坚决 (resolute attitude)
+  2 | Adverb | Standard | resolutely; determinedly; firmly (modifying a verb) | resueltamente; con firmeza | 坚决反对 (firmly oppose)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对村里重男轻女的传统旧观念，母亲坚决支持姐姐继续读完大学并追求梦想。 | Miànduì cūnlǐ zhòngnán-qīngnǚ de chuántǒng jiù guānniàn, mǔqīn jiānjué zhīchí jiějie jìxù dú wán dàxué bìng zhuīqiú mèngxiǎng. | In the face of old village prejudices favoring boys over girls, mother resolutely supported my elder sister finishing university and pursuing her dreams. | Frente al prejuicio tradicional de la aldea que favorecía a los varones, mi madre apoyó resueltamente a mi hermana para concluir la universidad.
+  #2 | 董事会以坚决的姿态驳回了这项存在巨大合规风险的投资提案，切实保障了股东利益。 | Dǒngshìhuì yǐ jiānjué de zītài bóhuí le zhè xiàng cúnzài jùdà hégūi fēngxiǎn de tóuzī tí'àn, qièshí bǎozhàng le gǔdōng lìyì. | The board of directors rejected with a resolute stance this investment proposal carrying huge compliance risks, safeguarding shareholder interests. | La junta directiva rechazó con firme determinación la propuesta inversora de alto riesgo regulatorio, protegiendo los intereses de los accionistas.
+
+collocations[6]{hanzi,en}:
+  坚决反对 | firmly oppose
+  坚决支持 | resolutely support
+  态度坚决 | resolute attitude
+  坚决执行 | resolutely execute / implement
+  坚决抵制 | firmly resist / boycott
+  语气坚决 | resolute tone of voice
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  坚定不移 | jiān dìng bù yí | unswerving; steadfast and immovable
+  斩钉截铁 | zhǎn dīng jié tiě | chop through nails and sever iron; resolute and decisive
+  雷打不动 | léi dǎ bú dòng | not shaken even by thunder; rock-firm and unyielding
+  毅然决然 | yì rán jué rán | resolute and determined without hesitation
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  坚 | jiān | hard; solid; firm; resolute | duro; sólido; firme; tenaz | 土 | earth / soil | 土 (earth packed solid) | 臤 (qiān, firm grasp) | 7 | 上下结构 | Ancient compound depicting rammed earth (土) held tightly together, symbolizing unyielding structural integrity. | Solid earth (土) compressed so tightly beneath a watchful hand that no force can crumble its resolve. | Tierra apisonada (土) tan compacta bajo una mano firme que nada logra quebrar su solidez. | 55 | EPG | 堅
+  决 | jué | decide; breach; certainly | decidir; resolver; tajante | 冫 | ice / two drops of water | 冫 (cutting water or ice) | 夬 (guài, decisive parting) | 6 | 左右结构 | Phono-semantic compound where ice (冫) and breach (夬) denote breaking through obstacles to make an irrevocable judgment. | Chilly drops of water (冫) cutting like a sharp blade (夬) through doubts to make a final decision. | Gotas de hielo (冫) que cortan como una cuchilla (夬) las dudas para tomar una determinación tajante. | 35 | IMDK | 決
+
+mnemonics_and_roots:
+  composite_memory_hook_en: With the strength of rammed earth (坚) and the cutting sharpness of a blade (决), one makes a resolute (坚决) choice.
+  composite_memory_hook_es: Con la solidez de la tierra firme (坚) y el filo tajante del hielo (决), se toma una decisión inquebrantable (坚决).
+  cultural_and_cognitive_roots: In classical Chinese statecraft, '坚决' represents moral fortitude where rock-solid internal integrity (坚) pairs with decisive external execution (决) without wavering.
+  tone_sandhi_and_pitch_modulation: Pronounced with a 55-35 pitch contour (1st tone high and level, followed by 2nd tone rising resolutely). Maintain firm articulation throughout.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    坚持 | jiān chí | persist; persevere | Contains 坚 but paired with 持 (hold)
+    快 | kuài | fast; quick | Has 忄 (heart) on the left with 夬 on the right instead of 冫
+    决 | jué | decide | Has 冫 on the left, unlike 块 which has 土 (earth)
+    贤 | xián | worthy; virtuous | Has 贝 (shell/wealth) at the bottom instead of 土
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    决定 | jué dìng | decide; decision
+    坚定 | jiān dìng | firm; steadfast
+    坚强 | jiān qiáng | strong; staunch; resilient
+    决断 | jué duàn | make a decision; judgment
+
+semantic_boundary_contrasts:
+  core_nuance: 坚决 describes an uncompromising, unwavering attitude or stance in taking decisive action.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 坚决 vs. 坚定 | jiāndìng | 坚决 focuses on decisive and uncompromising external action or attitude (e.g. 坚决执行, 坚决反对), whereas 坚定 emphasizes enduring internal conviction, faith, or willpower (e.g. 立场坚定, 坚定信心).
+    2 | 坚决 vs. 果断 | guǒduàn | 坚决 highlights firmness and lack of hesitation against opposition, while 果断 stresses swift decisiveness and absence of delay or hesitation in crises.
+    3 | 坚决 vs. 顽固 | wángù | 坚决 is a positive or neutral commendation of integrity and moral strength, whereas 顽固 is derogatory, implying irrational stubbornness and refusal to change.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在人生的十字路口，我们总会面临外界的非议与阻力。唯有内心笃定、态度坚决的人，才能在重重迷雾中守住自己的初心，不被旁人的只言片语所左右，一步一个脚印走出属于自己的宽广坦途。 | Zài rénshēng de shízìlùkǒu, wǒmen zǒng huì miànlín wàijiè de fēiyì yǔ zǔlì. Wéiyǒu nèixīn dǔdìng, tàidù jiānjué de rén, cáinǐng zài chóngchóng míwù zhōng shǒuzhù zìjǐ de chūxīn, bú bèi pángrén de zhīyán-piànyǔ suǒ zuǒyòu, yíbù yí gè jiǎoyìn zǒuchū shǔyú zìjǐ de kuānguǎng tǎntú. | At life's crossroads, we always encounter outside criticism and resistance. Only those with inner certainty and resolute resolve can safeguard their initial aspirations amid thick mists, unswayed by casual remarks, forging their own broad path. | En las encrucijadas vitales, siempre afrontamos críticas y obstáculos. Solo quien posee convicción interior y actitud resuelta preserva su vocación entre la niebla, sin dejarse desviar por juicios ajenos, labrando su propio destino.
+  #2 | 面对突发公共卫生事件与复杂的国际经济博弈，决策层采取了极为坚决果断的宏观调控措施。通过迅速切断风险传播链条、全力稳就业保民生，各级机构展现出高效的协同动员力，确保了社会大局平稳发展。 | Miànduì tūfā gōnggòng wèishēng shìjiàn yǔ fùzá de guójì jīngjì bóyì, juécècéng cǎiqǔ le jíwéi jiānjué guǒduàn de hóngguān tiáokòng cuòshī. Tōngguò xùnsù qiēduàn fēngxiǎn chuánbō liàntiáo, quánlì wěn jiùyè bǎo mínshēng, gèjí jīgòu zhǎnxiàn chū gāoxiào de xiétóng dòngyuánlì, quèbǎo le shèhuì dàjú píngwěn fāzhǎn. | Confronting emergency public health crises and intricate global economic games, leadership adopted resolute macro-regulatory measures. Promptly cutting risk transmission chains and stabilizing livelihoods, institutions demonstrated efficient mobilization. | Ante emergencias sanitarias y complejas tensiones económicas globales, el liderazgo adoptó enérgicas medidas reguladoras macroeconómicas. Cortando cadenas de riesgo y protegiendo el empleo, las instituciones preservaron la estabilidad nacional.

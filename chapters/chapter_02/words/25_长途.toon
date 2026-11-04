@@ -1,0 +1,64 @@
+id: 25
+hanzi: 长途
+pinyin: cháng tú
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: long-distance; long haul; long journey
+  es: larga distancia; largo trayecto; largo recorrido
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a journey covering a long physical distance; long haul | viaje de larga distancia; trayecto prolongado | 长途旅行 (long-distance trip)
+  2 | Adjective | Standard | operating or communicating over long distances | de larga distancia (transporte, telecomunicación) | 长途汽车 (long-distance bus)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过十几个小时的长途颠簸，客车终于在夜幕降临时缓缓驶进了县城客运站。 | Jīngguò shí jǐ gè xiǎoshí de chángtú diānbǒ, kèchē zhōngyú zài yèmù jiànglín shí huǎnhuǎn shǐjìn le xiànchéng kèyùnzhàn. | After more than ten hours of bumpy long-distance travel, the coach finally pulled slowly into the county passenger station at nightfall. | Tras más de diez horas de traqueteo en un viaje de larga distancia, el autobús entró despacio en la estación del pueblo al caer la noche.
+  #2 | 高铁网络的四通八达彻底重塑了人们的出行方式，使原本耗时漫长的跨省长途通勤变得前所未有的快捷与舒适。 | Gāotiě wǎngluò de sìtōng-bādá chèdǐ zhòngshù le rénmen de chūxíng fāngshì, shǐ yuánběn hàoshí màncháng de kuàshěng chángtú tōngqín biàn de qiánsuǒwèiyǒu de kuàijié yǔ shūshì. | The extensive high-speed rail network has revolutionized travel, making interprovincial long-distance journeys faster and more comfortable than ever. | La densa red de trenes de alta velocidad ha revolucionado la movilidad, haciendo los trayectos de larga distancia más veloces y confortables que nunca.
+
+collocations[6]{hanzi,en}:
+  长途汽车 | long-distance bus / coach
+  长途电话 | long-distance phone call
+  长途旅行 | long-distance travel
+  长途跋涉 | trek a long distance; arduous journey
+  长途客运 | long-distance passenger transport
+  长途奔波 | rush around on long journeys
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  长途跋涉 | cháng tú bá shè | trek a long and arduous journey across mountains and rivers
+  道阻且长 | dào zǔ qiě cháng | the road is perilous and long; steep challenges ahead
+  前途无量 | qián tú wú liàng | have boundless prospects and limitless future
+  风雨兼程 | fēng yǔ jiān chéng | travel day and night braving wind and rain
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  长 | cháng | long; space; time | largo; extenso; prolongado | 长 | long hair / elder | 长 (flowing hair of an elder) | "" | 4 | 独体结构 | Ancient oracle script depicting an elder leaning on a cane with long flowing hair, symbolizing enduring distance. | An elder's long hair (长) cascading down, evoking an unbroken line stretching far into the distance. | Los largos cabellos de un anciano (长) ondeando al viento, evocando una línea que se prolonga a lo lejos. | 35 | LO | 長
+  途 | tú | way; road; journey | camino; vía; trayecto; ruta | 辶 | walking / motion | 辶 (advancing along a route) | 余 (yú, ample / phonetic) | 10 | 半包围结构 | Phono-semantic compound where walking radical 辶 indicates traveling along an established highway or path (途). | Stepping forward along a road (辶) with surplus energy (余) to conquer a protracted journey. | Avanzar a paso firme por una senda (辶) con vigor suficiente (余) para culminar una ruta prolongada. | 35 | YOMD | 途
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Walking an extensively long (长) highway route (途) completes an arduous long-distance journey (长途).
+  composite_memory_hook_es: Recorrer una ruta (途) sumamente larga (长) define un viaje de larga distancia (长途).
+  cultural_and_cognitive_roots: In Chinese poetry, '长途' carries profound historical resonance of post stations, official couriers, and migrant workers journeying across mountains to reunite with distant families during Lunar New Year ('春运').
+  tone_sandhi_and_pitch_modulation: Pronounced with twin 2nd tones: 'cháng tú' (35-35). Both syllables rise smoothly in pitch; articulate the 't' clearly.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    短 | duǎn | short; brief | Direct semantic antonym of 长; has 矢 and 豆
+    徐 | xú | slowly; gentle | Has 彳 (step) instead of 辶 (walking radical)
+    除 | chú | eliminate; divide | Has 阝 (mound) on the left of 余 instead of 辶
+    叙 | xù | narrate; chat | Has 又 on the right of 余 instead of 辶
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    途径 | tú jìng | pathway; channel; avenue
+    前途 | qián tú | future prospects; outlook
+    沿途 | yán tú | along the way; en route
+    旅途 | lǚ tú | journey; trip
+
+semantic_boundary_contrasts:
+  core_nuance: 长途 emphasizes significant geographic spatial distance or extended travel duration.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 长途 vs. 短途 | duǎntú | 长途 denotes cross-city or interprovincial travel covering vast distances, whereas 短途 refers to local suburban or intra-city commutes.
+    2 | 长途 vs. 远道 | yuǎndào | 长途 describes the physical nature of transport or travel (e.g. 长途客运), while 远道 is often used in polite hospitality phrases welcoming guests from afar (e.g. 远道而来).
+    3 | 长途 vs. 漫长 | màncháng | 长途 anchors specifically to physical travel distance or routes, whereas 漫长 describes abstract or psychological duration of time (e.g. 漫长的等待, 漫长的岁月).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 伴随长途列车车轮有节奏的撞击声，车窗外的群山与原野飞速向后退去。车厢里满载着思乡的游子，尽管身体疲惫，但只要想到列车终点那盏为自己亮着的家灯，漫长的旅途便充满了温情。 | Bànsuí chángtú lièchē chēlún yǒujiézòu de zhuàngjī shēng, chēchuāng wài de qúnshān yǔ yuányě fēisù xiànghòu tuìqù. Chēxiāng lǐ mǎnzài zhe sīxiāng de yóuzǐ, jǐnguǎn shēntǐ píbèi, dàn zhǐyào xiǎngdào lièchē zhōngdiǎn nà zhǎn wèi zìjǐ liàng zhe de jiādēng, màncháng de lǚtú biàn chōngmǎn le wēnqíng. | To the rhythmic clatter of long-distance train wheels, hills and fields retreat swiftly outside the window. Tired travelers fill the cars, yet knowing a home lamp shines at the journey's end warms every mile. | Al compás rítmico de los raíles del tren de larga distancia, montes y llanuras desfilan tras el cristal. Pese al cansancio, la certeza de la luz del hogar al término del trayecto llena de afecto el camino.
+  #2 | 现代化多式联运物流体系正重塑长途干线货运格局。通过铁路班列与大型公路货车的高效衔接，跨区域生鲜食品与高端工业品的长途周转损耗显著降低，大幅提升了国家大市场内部的资源流通效率。 | Xiàndàihuà duōshì liányùn wùliú tǐxì zhèng chóngshù chángtú gànxiàn huòyùn géjú. Tōngguò tiělù bānliè yǔ dàxíng gōnglù huòchē de gāoxiào xiánjiē, kuàqūyù shēngxiān shípǐn yǔ gāoduān gōngyèpǐn de chángtú zhōuzhuǎn sǔnhào xiǎnzhù jiàngdī, dàfú tíshēng le guójiā dàshìchǎng nèibù de zīyuán liútōng xiàolǜ. | Multimodal logistics systems are reshaping long-distance freight patterns. Seamless rail-to-truck transfers minimize transit spoilage of perishables and high-tech freight, maximizing unified market distribution. | La logística intermodal moderna transforma el transporte de mercancías de larga distancia. La coordinación de ferrocarril y carretera reduce mermas y dinamiza la distribución eficiente en el mercado nacional.

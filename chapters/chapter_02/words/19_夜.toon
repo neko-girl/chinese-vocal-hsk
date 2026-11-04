@@ -1,0 +1,63 @@
+id: 19
+hanzi: 夜
+pinyin: yè
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: night; evening; darkness; nocturnal
+  es: noche; anochecer; oscuridad; nocturno
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the period of darkness between sunset and sunrise; night | noche; periodo de oscuridad entre el ocaso y el alba | 漆黑的夜 (pitch-black night)
+  2 | Adverb | Standard | at night; during the evening hours | de noche; por la noche | 夜行 (travel by night)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 乡村的冬夜格外寂静，只有窗外寒风吹打树枝的沙沙声，和屋里炉火偶尔噼啪作响的温热。 | Xiāngcūn de dōngyè géwài jìjìng, zhǐyǒu chuāngwài hánfēng chuīdǎ shùzhī de shāshā shēng, hé wūlǐ lúhuǒ ǒu'ěr pīpā zuòxiǎng de wēnrè. | Winter nights in the countryside are exceptionally tranquil, broken only by chilly winds rustling branches outside and the cozy crackle of the hearth fire indoors. | Las noches de invierno en el campo son de un sosiego admirable, rotas solo por el viento en las ramas y el chisporroteo cálido del hogar.
+  #2 | 为了确保新一代运载火箭按期发射，科研攻关团队连夜奋战在戈壁深处的发射控制大厅里。 | Wèile quèbǎo xīn yídài yùnzài huǒjiàn ànqī fāshè, kēyán gōngguān tuánduì liányè fènzhàn zài gēbì shēnchù de fāshè kòngzhì dàtīng lǐ. | To ensure the scheduled launch of the new generation carrier rocket, the research team fought throughout the night in the launch hall deep in the Gobi desert. | Para asegurar el lanzamiento puntual del cohete espacial, el equipo científico trabajó toda la noche sin descanso en el centro de control del desierto.
+
+collocations[6]{hanzi,en}:
+  深夜 | late at night; deep in the night
+  半夜 | midnight; middle of the night
+  夜市 | night market
+  连夜 | that very night; throughout the night
+  整夜 | all night long; whole night
+  熬夜 | stay up late; pull an all-nighter
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  夜以继日 | yè yǐ jì rì | day and night without stopping; work around the clock
+  日落西山 | rì luò xī shān | the sun sets behind western hills; declining rapidly
+  秉烛夜游 | bǐng zhú yè yóu | hold candles to stroll at night; make merry while life lasts
+  万家灯火 | wàn jiā dēng huǒ | a myriad twinkling lights of homes at night
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  夜 | yè | night; evening; dark | noche; anochecer; nocturno | 夕 | evening / dusk | 夕 (crescent moon in twilight) | 亦 (yì, person standing under twilight) | 8 | 上下结构 | Ancient compound depicting a person walking under the newly risen crescent moon (夕), entering the dark hours of night. | A person walking homeward beneath a cool crescent evening moon (夕) as darkness descends across the earth. | Una persona que regresa a casa bajo la luna creciente del crepúsculo (夕) cuando la noche envuelve la tierra. | 51 | YONK | 夜
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A crescent moon (夕) rising above human roofs marks the onset of the quiet night (夜).
+  composite_memory_hook_es: Una luna creciente (夕) que asoma sobre los tejados inaugura la quietud de la noche (夜).
+  cultural_and_cognitive_roots: In classical Chinese poetic tradition, '夜' is the sacred realm of introspective nostalgia, longing for absent loved ones, and philosophical communion with cosmic infinity.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 4th tone with a decisive dropping pitch: 'yè' (51). Ensure firm glottal stop and do not draw out unnecessarily.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    夕 | xī | evening; sunset | The standalone radical of 夜 without upper and lower limbs
+    死 | sǐ | die; death | Has 歹 (bad/bone) on left with 匕 on right
+    度 | dù | degree; spend time | Has 广 and 廿 on top with 又 below
+    亦 | yì | also; too | Has upper lid and lower strokes without the middle 夕
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    夜晚 | yè wǎn | night; evening
+    夜光 | yè guāng | nocturnal glow; luminous
+    日日夜夜 | rìrì-yèyè | day and night; continuously
+    宵夜 | xiāo yè | late night snack
+
+semantic_boundary_contrasts:
+  core_nuance: 夜 refers to the temporal span from dusk to dawn, characterized by darkness and restful domestic quiet.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 夜 vs. 晚 | wǎn | 夜 strictly denotes the period of darkness and night (e.g. 半夜, 黑夜), whereas 晚 can mean evening (晚上) or tardiness/delay (来晚了, 迟到晚了).
+    2 | 夜 vs. 暮 | mù | 夜 is the entire nocturnal span, while 暮 refers specifically to the transitional dusk hour of twilight when the sun sinks (e.g. 暮色, 暮年).
+    3 | 夜 vs. 昏 | hūn | 夜 refers to nighttime, whereas 昏 emphasizes dusk, dimness, or loss of clarity and consciousness (e.g. 黄昏, 昏迷).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 故乡山村的夜，澄澈得如同洗过的明镜。没有都市霓虹的喧扰，漫天繁星在墨蓝的天幕上悄然闪烁。微风吹过竹林，沙沙作响，将游子漂泊的心温柔地安放在这静谧的夜色之中。 | Gùxiāng shāncūn de yè, chéngchè de rútóng xǐ guò de míngjìng. Méiyǒu dūshì níhóng de xuānrǎo, màntiān fánxīng zài mòlán de tiānmù shàng qiǎorán shǎnshuò. Wēifēng chuīguò zhúlín, shāshā zuòxiǎng, jiāng yóuzǐ piāobó de xīn wēnróu de ānfàng zài zhè jìngmì de yèsè zhīzhōng. | The night in my mountain hometown is as clear as a polished mirror. Free from city neons, countless stars glitter quietly on ink-blue heavens. Breeze murmuring through bamboos gently lulls a wanderer's restless heart into stillness. | La noche en el pueblo serrano es tan pura como un espejo bruñido. Lejos del neón urbano, infinitas estrellas titilan sobre el cielo azul marino. La brisa en el bambú serena con ternura el corazón inquieto del viajero.
+  #2 | 随着夜间文旅与消费场景的不断拓展，“夜经济”已成为激发中国城市活力的重要引擎。从深夜书店到全景夜游，多元业态不仅丰富了市民的精神文化生活，更显著带动了第三产业的复苏与升级。 | Suí zhe yèjiān wénlǚ yǔ xiāofèi chǎngjǐng de búduàn tuòzhǎn, "yè jīngjì" yǐ chéngwéi jīfā Zhōngguó chéngshì huólì de zhòngyào yǐnqíng. Cóng shēnyè shūdiàn dào quánjǐng yèyóu, duōyuán yètài bùjǐn fēngfù le shìmín de jīngshén wénhuà shēnghuó, gèng xiǎnzhù dàidòng le dìsān chǎnyè de fùsū yǔ shēngjí. | With nighttime tourism and commerce expanding, the night economy has become a prime engine energizing Chinese cities. From late-night bookstores to night tours, diverse formats enrich cultural life and boost tertiary sector revitalization. | La expansión del ocio nocturno convierte la economía de la noche en motor urbano. De librerías nocturnas a rutas iluminadas, estas propuestas enriquecen la vida ciudadana y dinamizan con fuerza el sector servicios.

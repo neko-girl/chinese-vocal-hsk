@@ -1,0 +1,64 @@
+id: 17
+hanzi: 醉
+pinyin: zuì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to be drunk; intoxicated; enchanted; infatuated with
+  es: emborracharse; embriagarse; estar ebrio; extasiarse; cautivado
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to become intoxicated by alcohol | emborracharse; intoxicarse por el alcohol | 喝醉了 (got drunk)
+  2 | Verb | Literary | to be deeply enchanted, captivated, or fascinated by scenery, art, or affection | embriagarse de emoción; extasiarse con la belleza | 令人陶醉 (intoxicating / enchanting)
+  3 | Verb | Standard | to cook or steep food in liquor or rice wine | adobar o marinar con licor | 醉虾 (drunken shrimp)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 儿子考上重点大学那晚，平日滴酒不沾的父亲破例多喝了几杯，脸色微红，彻底醉倒在沙发上。 | Érzi kǎoshàng zhòngdiǎn dàxué nà wǎn, píngrì dījiǔ-bùzhān de fùqīn pòlì duō hē le jǐ bēi, liǎnsè wēihóng, chèdǐ zuì dǎo zài shāfā shàng. | The night his son got admitted into a key university, father who usually never touched a drop broke his rule, drank several cups, blushed red, and fell asleep drunk on the sofa. | La noche en que su hijo ingresó en la universidad, el padre, que jamás probaba alcohol, bebió varias copas de emoción y cayó dormido ebrio en el sofá.
+  #2 | 漫步在初春盛放的油菜花海中，微风轻拂送来阵阵清香，游人们无不沉醉在这如诗如画的田园风光里。 | Mànbù zài chūchūn shèngfàng de yóucàihuā hǎi zhōng, wēifēng qīngfú sòng lái zhènzhèn qīngxiāng, yóurénmen wúbù chénzuì zài zhè rúshī-rúhuà de tiányuán fēngguāng lǐ. | Strolling through rapeseed blossoms blooming in early spring, a gentle breeze wafted fragrance; tourists were all enchanted by this picturesque countryside scenery. | Paseando entre campos dorados de colza en flor, la brisa traía aromas frescos; todos los viajeros se extasiaban con aquel paisaje campestre poético.
+
+collocations[6]{hanzi,en}:
+  喝醉 | get drunk; intoxicated
+  沉醉 | deeply intoxicated / immersed in
+  陶醉 | revel in; be enchanted by
+  醉鬼 | drunkard; drunk
+  微醉 | tipsy; slightly drunk
+  醉意 | signs or feeling of drunkenness
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  醉生梦死 | zuì shēng mèng sǐ | lead a drunken dream-like stupor; live aimlessly and indulgently
+  如痴如醉 | rú chī rú zuì | completely entranced and infatuated as if spellbound
+  纸醉金迷 | zhǐ zuì jīn mí | dazzling luxury and decadent dissipation
+  自我陶醉 | zì wǒ táo zuì | self-intoxicated; smugly infatuated with oneself
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  醉 | zuì | drunk; intoxicated; enchanted | ebrio; embriagado; cautivado | 酉 | wine vessel / fermented wine | 酉 (wine jar fermenting spirits) | 卒 (zú, extreme limit / soldier) | 15 | 左右结构 | Phono-semantic compound where a wine jar (酉) filled to the extreme limit (卒) causes a drinker to become intoxicated. | Drinking wine from an earthenware jar (酉) down to the very last drop (卒) makes one delightfully drunk. | Beber el licor de la tinaja (酉) hasta el último sorbo (卒) deja al comensal felizmente embriagado. | 51 | MWYJ | 醉
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Drinking liquor from a wine vessel (酉) to the utmost limit (卒) leaves one completely drunk (醉).
+  composite_memory_hook_es: Beber de la vasija de vino (酉) hasta agotar la última gota (卒) deja a cualquiera ebrio (醉).
+  cultural_and_cognitive_roots: In classical Chinese literature, '醉' transcends mere alcohol intake; from Li Bai to Su Shi, drunkenness served as an aesthetic and spiritual liberation from mundane constraints into transcendent artistic ecstasy.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 4th tone with a decisive dropping pitch: 'zuì' (51). Distinct from 1st tone 'zuī' (as in 咀).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    碎 | suì | broken; smashed | Has 石 (stone) on the left instead of 酉 (wine jar)
+    粹 | cuì | pure; unadulterated | Has 米 (rice) on the left instead of 酉
+    醒 | xǐng | wake up; sober up | Has 星 on the right instead of 卒; direct semantic antonym
+    配 | pèi | match; allocate | Has 己 on the right instead of 卒
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    酒 | jiǔ | wine; liquor; alcoholic drink
+    配 | pèi | match; blend wine ingredients
+    酪 | lào | fermented dairy / cheese
+    酷 | kù | cruel; intense; cool (originally strong fermented liquor taste)
+
+semantic_boundary_contrasts:
+  core_nuance: 醉 describes the physiological state of alcohol intoxication or psychological enchantment and aesthetic ecstasy.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 醉 vs. 醒 | xǐng | 醉 is the state of intoxication or loss of sobriety, whereas 醒 is its direct antonym, meaning regaining consciousness, waking up, or becoming sober.
+    2 | 醉 vs. 迷 | mí | 醉 implies blissful intoxication or sensory absorption, while 迷 suggests losing direction, being infatuated, confused, or obsessed with something (e.g. 迷失方向, 追星着迷).
+    3 | 醉 vs. 晕 | yūn | 醉 is caused by alcohol or overwhelming joy, whereas 晕 denotes physiological dizziness, vertigo, motion sickness, or faintness (e.g. 晕车, 头晕).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 故乡的金秋总是令人心醉神迷。院子里的桂花落了满满一地，浓郁的甜香随着夜风弥漫在空气里。一家人围坐在一起品尝新酿的米酒，微醉之中，欢声笑语将整个秋夜染得格外明亮。 | Gùxiāng de jīnqiū zǒngshì lìngrén xīnzùishénmí. Yuànzi lǐ de guìhuā luò le mǎnmǎn yí dì, nóngyù de tiánxiāng suí zhe yèfēng mímàn zài kōngqì lǐ. Yì jiā rén wéizuò zài yìqǐ pǐncháng xīn niàng de mǐjiǔ, wēizuì zhīzhōng, huānshēng-xiàoyǔ jiāng zhěnggè qiūyè rǎn de géwài míngliàng. | Golden autumn in my hometown is always captivating. Osmanthus blossoms scatter across the yard, sweet aroma wafting on night breezes. Sipping sweet rice wine together, our tipsy laughter lit up the autumn night. | El otoño dorado de mi pueblo natal siempre embriaga los sentidos. Las flores de osmanto alfombran el patio perfumando la brisa. Al probar el licor de arroz en familia, la alegre ebriedad ilumina la noche otoñal.
+  #2 | 在中国古典诗学中，“醉”往往是文人摆脱世俗规训、进入审美自由境界的催化剂。陶渊明借酒远避尘俗，李白则以醉态挥洒诗情。酒意并非逃避，而是诗人与天地造化精神往来的独特精神仪式。 | Zài Zhōngguó gǔdiǎn shīxué zhōng, "zuì" wǎngwǎng shì wénrén bǎituō shìsú guīxùn, jìnrù shěnměi zìyóu jìngjiè de cuīhuàjì. Táo Yuānmíng jiè jiǔ yuǎnbì chénsú, Lǐ Bái zé yǐ zuìtài huīsǎ shīqíng. Jiǔyì bìng fēi táobì, ér shì shīrén yǔ tiāndì zàohuà jīngshén wǎnglái de dútè jīngshén yíshì. | In classical Chinese poetics, drunkenness often catalyzed literary liberation into aesthetic freedom. Tao Yuanming shunned worldly cares through wine, while Li Bai poured poetry in drunken ecstasy, conversing with the universe. | En la poética clásica china, la embriaguez liberaba al literato de las ataduras mundanas hacia el éxtasis creador. Lejos de ser evasión vulgar, constituía un ritual espiritual de comunión con la naturaleza.

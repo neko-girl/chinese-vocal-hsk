@@ -1,0 +1,63 @@
+id: 16
+hanzi: 疯
+pinyin: fēng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: crazy; mad; insane; deranged; to go mad; to play wild
+  es: loco; chiflado; enloquecer; volverse loco; jugar desenfrenadamente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to lose mental balance or go mad; to become insane | volverse loco; perder el juicio; enloquecer | 气疯了 (driven mad with anger)
+  2 | Adjective | Colloquial | wild, reckless, or completely unrestrained in enthusiasm | loco; desenfrenado; desmedido | 玩疯了 (having wild fun)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 得知翟峰辞掉公职卖掉房子买帆船出海，身边的很多亲友都以为他一定是疯了。 | Dézhī Zhái Fēng cídiào gōngzhí mài diào fángzi mǎi fānchuán chūhǎi, shēnbiān de hěnduō qīnyǒu dōu yǐwéi tā yídìng shì fēng le. | Learning that Zhai Feng had quit his job, sold his home, and bought a boat to sail away, many friends thought he had gone crazy. | Al enterarse de que Zhai Feng había dejado su empleo fijo y vendido su casa para comprar un velero, muchos allegados pensaron que se había vuelto loco.
+  #2 | 股市在投机资金的疯狂推动下出现异常暴涨，理性投资者纷纷警示潜在的泡沫风险。 | Gǔshì zài tóujī zījīn de fēngkuáng tuīdòng xià chūxiàn yìcháng bàozhǎng, lǐxìng tóuzīzhě fēnfēn jǐngshì qiánzài de pàomò fēngxiǎn. | Driven by speculative frenzy, the stock market surged abnormally, prompting rational investors to warn of bubble risks. | Impulsada por una fiebre especulativa, la bolsa experimentó alzas desorbitadas, lo que llevó a inversores sensatos a advertir del riesgo de burbuja.
+
+collocations[6]{hanzi,en}:
+  疯子 | madman; lunatic
+  疯狂 | crazy; frantic; insane
+  气疯 | driven mad with anger
+  玩疯了 | having wild and crazy fun
+  发疯 | go mad; lose one's mind
+  急疯了 | driven frantic with worry
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  疯疯癫癫 | fēng fēng diān diān | acting crazy and frivolous; eccentric and unhinged
+  丧心病狂 | sàng xīn bìng kuáng | frenzied and perverse; completely devoid of conscience
+  狂风暴雨 | kuáng fēng bào yǔ | furious howling winds and violent rainstorms
+  发狂大叫 | fā kuáng dà jiào | scream hysterically like a maniac
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  疯 | fēng | crazy; mad; insane | loco; enloquecer; demente | 疒 | sickness / disease | 疒 (illness or sickbed) | 风 (fēng phonetic / wind causing madness) | 9 | 半包围结构 | Ideogrammic/phono-semantic compound: sickbed radical (疒) with wind (风), evoking traditional medicine where pernicious pathogenic wind attacks the brain. | A patient bound to a sickbed (疒) whose mind has been whipped into a frenzy by wild winds (风). | Un enfermo encamado (疒) cuya mente ha quedado desquiciada por el vendaval delirante del viento (风). | 55 | KHNK | 瘋
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An internal illness (疒) whipping up like wild stormy winds (风) drives a person completely mad (疯).
+  composite_memory_hook_es: Una dolencia febril (疒) agitada como un viento desbocado (风) hace enloquecer a cualquiera (疯).
+  cultural_and_cognitive_roots: Traditional Chinese medicine believed that external wind evil ('风邪') entering the body could cause convulsions and delirium (中风/疯癫). Culturally, deviating radically from conventional societal norms is often labeled '疯' before being recognized as genius.
+  tone_sandhi_and_pitch_modulation: High level 1st tone: fēng (55). Hold the pitch high and steady without inflection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    疯 | fēng | crazy; insane | Has 疒 (sickness) radical enclosing 风
+    病 | bìng | disease; illness | Has 疒 enclosing 丙 instead of 风
+    疼 | téng | ache; hurt | Has 疒 enclosing 冬
+    痛 | tòng | pain; ache | Has 疒 enclosing 甬
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    疯狂 | fēng kuáng | frantic; madness; crazy
+    疯长 | fēng zhǎng | grow rampant; proliferate wildly
+    装疯 | zhuāng fēng | feign madness; play the fool
+    打疯 | dǎ fēng | play wildly with extreme gusto
+
+semantic_boundary_contrasts:
+  core_nuance: 疯 represents extreme departure from sanity, conventional restraint, or rational bounds.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 疯 vs. 狂 | kuáng | 疯 emphasizes medical madness, loss of mental lucidity, or foolish eccentricities (疯子, 气疯了), whereas 狂 denotes wild arrogance, fierce unbridled passion, or elemental fury (狂妄, 狂欢, 狂风).
+    2 | 疯 vs. 傻 | shǎ | 疯 signifies mental derangement or hysterical abandon, while 傻 refers to slowness of wit, foolish simplicity, or gullibility.
+    3 | 疯 vs. 呆 | dāi | 疯 denotes hyperactive, irrational agitation, whereas 呆 indicates blank sluggishness, frozen stupor, or numbness.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在世俗的眼光里，放弃安稳舒适的日常生活去追逐不可预测的海洋探险，无异于一种疯狂的举动。然而，历史往往由那些敢于打破常规的疯子写就。当一个人坚信自己的航向时，外界的质疑终将化作远航的风帆。 | Zài shìsú de yǎnguāng lǐ, fàngqì ānwěn shūshì de rìcháng shēnghuó qù zhuīzhú bùkěyùcè de hǎiyáng tànxiǎn, wúyìyú yì zhǒng fēngkuáng de jǔdòng. Rán'ér, lìshǐ wǎngwǎng yóu nàxiē gǎnyú dǎpò chángguī de fēngzi xiějiù. Dāng yí gè rén jiānxìn zìjǐ de hángxiàng shí, wàijiè de zhìyí zhōng jiāng huàzuò yuǎnháng de fēngfān. | In conventional eyes, forfeiting mundane stability to chase volatile oceanic adventures seems utter madness. Yet history is inked by dreamers bold enough to defy norms. When one believes in their compass heading, skepticism becomes wind in the sails. | A los ojos convencionales, cambiar la rutina plácida por los azares del mar parece pura locura. Mas la historia la forjan aquellos audaces tachados de chiflados. Quien confía en su propio rumbo transforma los reproches en viento para sus velas.
+  #2 | 社会心理学学者分析指出，群体狂热往往发端于信息闭塞与从众本能的叠加。在极端市场情绪诱导下，个体会不自觉地卷入非理性的投资热潮中。唯有强化独立思辨能力与金融风险意识，才能在狂热的市场中保持清醒，规避非理性投机带来的惨痛代价。 | Shèhuì xīnlǐxué xuézhě fēnxī zhǐchū, qúntǐ kuángrè wǎngwǎng fāduān yú xìnxī bìsè yǔ cóngzhòng běnnéng de diéjiā. Zài jíduān shìchǎng qíngxù yòudǎo xià, gètǐ huì bùzìjué de juǎnrù fēilǐxìng de tóuzī rècháo zhōng. Wéiyǒu qiánghuà dúlì sībiàn nénglì yǔ jīnróng fēngxiǎn yìshí, cáinéng zài kuángrè de shìchǎng zhōng bǎochí qīngxǐng, guībì fēilǐxìng tóujī dài lái de cǎntòng dàijià. | Social psychologists note that mass frenzy stems from coupled information deficits and herd mentality. Goaded by euphoria, individuals tumble into irrational speculative manias. Fostering critical discernment remains crucial for shielding oneself against devastating market collapses. | La psicología social explica que el furor colectivo brota de la desinformación y el instinto gregario. Seducidos por la euforia, los inversores se precipitan a fiebres especulativas irracionales. Solo el pensamiento crítico y la templanza permiten preservar la cordura y eludir la ruina.

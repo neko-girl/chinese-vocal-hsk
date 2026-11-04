@@ -1,0 +1,64 @@
+id: 5
+hanzi: 二手
+pinyin: èr shǒu
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: second-hand; pre-owned; indirect; dealing in used goods
+  es: de segunda mano; usado; indirecto; de ocasión
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | previously owned or used by another person | de segunda mano; usado previamente por otra persona | 二手房 (pre-owned house / second-hand apartment)
+  2 | Adjective | Standard | received indirectly or heard from intermediary sources | de segunda mano; indirecto; no presenciado directamente | 二手资料 (second-hand source material)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了实现环球航海的夙愿，翟峰夫妇变卖了家产，自费购置了一艘二手双体帆船。 | Wèile shíxiàn huánqiú hánghǎi de sùyuàn, Zhái Fēng fūfù biànmài le jiāchǎn, zìfèi gòuzhì le yì sōu èrshǒu shuāngtǐ fānchuán. | To realize their lifelong dream of circumnavigating the globe, Zhai Feng and his wife sold their belongings and purchased a used catamaran. | Para cumplir su anhelo de circunnavegar el planeta, Zhai Feng y su esposa vendieron sus bienes y compraron un catamarán de segunda mano.
+  #2 | 近年来二手车交易平台蓬勃发展，通过透明的检测认证制度赢得了年轻消费群体的信赖。 | Jìnniánlái èrshǒuchē jiāoyì píngtái péngbó fāzhǎn, tōngguò tòumíng de jiǎncè rènzhèng zhìdù yíngdé le niánqīng xiāofèiqúntǐ de xìnlài. | In recent years, pre-owned car trading platforms have flourished, winning the trust of young consumers through transparent inspection systems. | En los últimos años, las plataformas de coches de ocasión han prosperado, ganándose la confianza de jóvenes compradores mediante revisiones transparentes.
+
+collocations[6]{hanzi,en}:
+  二手车 | second-hand car; used car
+  二手房 | pre-owned housing; second-hand apartment
+  二手市场 | second-hand market; thrift market
+  二手书 | second-hand book; used book
+  二手烟 | second-hand smoke; passive smoking
+  二手交易 | second-hand transaction
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  二话不说 | èr huà bù shuō | without saying another word; without hesitation
+  一手包办 | yì shǒu bāo bàn | take care of everything single-handedly
+  得心应手 | dé xīn yìng shǒu | what the heart wishes the hand can do; highly proficient
+  手足无措 | shǒu zú wú cuò | at a loss what to do with hands and feet; bewildered
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  二 | èr | two; secondary | dos; segundo; secundario | 二 | two / pair | 二 (two parallel horizontal lines) | "" | 2 | 独体结构 | Ancient ideograph of two parallel strokes representing the cardinal number two and secondary rank. | Two horizontal lines (二) stacked neatly representing a pair or the second in line. | Dos trazos horizontales (二) que representan la dualidad o el segundo en orden sucesivo. | 51 | MM | ""
+  手 | shǒu | hand; person doing action | mano; persona que ejecuta una acción | 手 | hand / palm | 手 (pictograph of human hand and spread fingers) | "" | 4 | 独体结构 | Ancient pictograph of a human palm with five outstretched fingers and wrist line. | A palm showing five distinct fingers (手) ready to grasp, hold, and pass down an object. | Una palma con sus dedos abiertos (手) lista para asir, manipular y transferir un objeto. | 214 | F | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An item that has passed into a second (二) person's hands (手) becomes a cherished second-hand possession (二手).
+  composite_memory_hook_es: Un artículo que ha pasado a manos de una segunda (二) persona (手) se convierte en una posesión de segunda mano (二手).
+  cultural_and_cognitive_roots: Metaphorically, 'first hand' (一手) represents direct origin or creation, while 'second hand' (二手) denotes intermediary transfer, resource circulation, and practical frugality in material culture.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by a dipping 3rd tone: èr shǒu (51-214). 'èr' strikes sharply downwards before 'shǒu' dips deep into the lower vocal register.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    二 | èr | two | Two simple horizontal strokes
+    三 | sān | three | Three parallel horizontal strokes
+    毛 | máo | hair; fur; feather | Extends the bottom curve rightward into a hook (乚) with an angled top stroke
+    手 | shǒu | hand | Straight vertical hook with three horizontal crossing strokes
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    一手 | yì shǒu | first-hand; single-handed; proficiency
+    插手 | chā shǒu | poke one's nose into; intervene
+    转手 | zhuǎn shǒu | resell; pass on through another hand
+    帮手 | bāng shou | helper; assistant
+
+semantic_boundary_contrasts:
+  core_nuance: 二手 highlights that an item has undergone previous ownership or that information was acquired via an intermediary.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 二手 vs. 旧 | jiù | 二手 emphasizes previous ownership and transactional transfer (二手车 may still be 90% new), while 旧 focuses purely on physical age, wear, or obsolescence (旧衣服, 旧社会).
+    2 | 二手 vs. 翻新 | fānxīn | 二手 describes goods simply traded in their existing state, whereas 翻新 signifies that used items were reconditioned, repaired, or refurbished to look brand new.
+    3 | 二手 vs. 一手 | yìshǒu | 二手 indicates secondary acquisition through middlemen or prior owners, whereas 一手 denotes direct, pristine source acquisition from manufacturers (一手货源) or direct observation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 逛周末二手旧书市集是许多读书人独特的雅趣。那些泛黄纸页间夹带的铅笔批注与旧书签，记录了前一位读者与文字对话的温度。一件二手物品，因承载了时间的印记而变得别具情调与生命力。 | Guàng zhōumò èrshǒu jiùshū shìjí shì xǔduō dúshūrén dútè de yǎqù. Nàxiē fànhuáng zhǐyè jiān jiādài de qiānbǐ pīzhù yǔ jiù shūqiān, jìlù le qián yí wèi dúzhě yǔ wénzì duìhuà de wēndù. Yí jiàn èrshǒu wùpǐn, yīn chéngzài le shíjiān de yìnjì ér biànde biéjù qíngdiào yǔ shēngmìnglì. | Browsing weekend used bookstores is a refined pleasure for bibliophiles. Penciled annotations and aged bookmarks between yellowed pages record the previous reader's intimate dialogue with words. A pre-owned artifact carries the patina of time, imbued with unique vitality. | Recorrer el mercadillo de libros usados de fin de semana es un deleite para los amantes de la lectura. Anotaciones a lápiz y marcapáginas olvidados entre hojas amarillentas conservan la huella del lector anterior. Un objeto de segunda mano atesora el alma del tiempo y cobra vida propia.
+  #2 | 循环经济理念的深入推广，促使二手循环经济从边缘业态逐步迈向规范化、规模化发展轨道。建立完善的二手商品质量鉴定与信用溯源标准体系，不仅有效促进了资源的高效循环利用，也为践行低碳环保的生活方式提供了强有力的市场支撑。 | Xúnhuán jīngjì lǐniàn de shēnrù tuīguǎng, cùshǐ èrshǒu xúnhuán jīngjì cóng biānyuán yètài zhúbù màixiàng guīfànhuà, guīmóhuà fāzhǎn guǐdào. Jiànlì wánshàn de èrshǒu shāngpǐn zhìliàng jiàndìng yǔ xìnyòng sùyuán biāozhǔn tǐxì, bùjǐn yǒuxiào cùjìn le zīyuán de gāoxiào xúnhuán lìyòng, yě wèi jiànxíng dītàn huánbǎo de shēnghuó fāngshì tígōng le qiángyǒulì de shìchǎng zhīchēng. | Promoting the circular economy has driven second-hand markets from fringe commerce toward standardized, scaled development. Establishing quality certification and traceability standards facilitates efficient resource recycling while furnishing market support for low-carbon green living. | El fomento de la economía circular ha impulsado el mercado de segunda mano desde la periferia hacia la estandarización profesional. Trazar normas de peritaje y trazabilidad de artículos usados no solo optimiza recursos, sino que respalda firmemente un estilo de vida ecológico y bajo en carbono.

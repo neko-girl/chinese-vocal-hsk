@@ -1,0 +1,64 @@
+id: 26
+hanzi: 冻
+pinyin: dòng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to freeze; to feel very cold; to suffer from frostbite; jelly/aspic
+  es: congelarse; helar; pasar mucho frío; aterirse; gelatina
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to freeze; to turn into ice due to low temperature | congelarse; helarse | 河水冻成了坚冰 (the river froze into solid ice)
+  2 | Verb | Standard | to feel very cold; to suffer chills or frostbite | tener mucho frío; aterirse | 手脚冻得通红 (hands and feet frozen red)
+  3 | Noun | Standard | jelly; aspic; gelatinous cold dish | gelatina; aspic | 果冻 (fruit jelly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 冬天清晨顶着北风出门，走在去学校的泥土路上，我的双手经常被冻得通红发僵。 | Dōngtiān qīngchén dǐng zhe běifēng chūmén, zǒu zài qù xuéxiào de nítǔ lù shàng, wǒ de shǒushān jīngcháng bèi dòng de tōnghóng fājiāng. | Heading out against the north wind on winter mornings, walking dirt paths to school, my hands often froze bright red and stiff. | Al salir al alba invernal encarando el viento del norte por caminos de tierra hacia la escuela, mis manos se helaban rojas y rígidas.
+  #2 | 为了保持远洋捕捞水产品的鲜美品质，大型现代化冷链运输船配备了先进的超低温速冻装置。 | Wèile bǎochí yuǎnyáng bǔlāo shuǐchǎnpǐn de xiānměi pǐnzhì, dàxíng xiàndàihuà lěngliàn yùnshū chuán pèibèi le xiānjìn de chāodīwēn sùdòng zhuāngzhì. | To preserve the freshness of deep-sea catch, large modern cold-chain cargo ships are equipped with advanced ultra-low temperature flash-freezing devices. | Para preservar la frescura de la pesca en alta mar, los modernos buques frigoríficos incorporan sistemas avanzados de congelación rápida a ultrabaja temperatura.
+
+collocations[6]{hanzi,en}:
+  冷冻 | freeze; refrigerate
+  冰冻 | frozen; freeze over
+  冻僵 | frozen stiff; numb with cold
+  冻结 | freeze (assets, accounts, or water)
+  果冻 | fruit jelly / gelatin
+  冻疮 | chilblain; frostbite
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  冰冻三尺，非一日之寒 | bīng dòng sān chǐ, fēi yí rì zhī hán | it takes more than one cold day for a river to freeze three feet deep; troubles build over time
+  滴水成冰 | dī shuǐ chéng bīng | dripping water freezes into ice; bitterly frigid cold
+  饥寒交迫 | jī hán jiāo pò | beset by hunger and cold; living in extreme deprivation
+  冻骨露野 | dòng gǔ lù yě | frozen corpses exposed across wild fields; horrific casualties of famine or war
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  冻 | dòng | freeze; cold; jelly | congelar; helar; pasar frío | 冫 | ice / two drops of water | 冫 (freezing ice crystals) | 东 (dōng, east / phonetic) | 7 | 左右结构 | Phono-semantic compound where ice radical 冫 indicates subzero solidification, paired with phonetic 东. | Two chilling icicles (冫) freezing a tree facing the morning east (东) into solid crystal. | Dos carámbanos gélidos (冫) que congelan por completo el árbol que mira al oriente (东). | 51 | IMOD | 凍
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Ice crystals (冫) blowing from the eastern dawn (东) freeze everything solid (冻).
+  composite_memory_hook_es: Gotas heladas (冫) que llegan desde el este (东) congelan la tierra con su frío (冻).
+  cultural_and_cognitive_roots: In northern Chinese folklore and poetry, winter frostbite ('冻') contrastively highlights the moral warmth of the heated kang bed, hand-stitched quilted padding, and family solidarity against nature's cruelty.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 4th tone with an abrupt falling pitch: 'dòng' (51). Distinguish from 4th tone 'dòng' (动, 洞).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    栋 | dòng | ridgepole; pillar | Has 木 (wood) on the left instead of 冫 (ice)
+    陈 | chén | display; old; surname | Has 阝 (mound) on the left of 东
+    炼 | liàn | smelt; refine | Has 火 (fire) on the left instead of 冫
+    冷 | lěng | cold; chilly | Shares radical 冫 but has 令 on the right instead of 东
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    冷冻 | lěng dòng | freeze; refrigeration
+    冰冻 | bīng dòng | frozen
+    冻结 | dòng jié | freeze assets or progress
+    解冻 | jiě dòng | thaw; unfreeze
+
+semantic_boundary_contrasts:
+  core_nuance: 冻 refers specifically to liquid solidifying into ice or the physiological suffering caused by freezing subzero temperatures.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 冻 vs. 冷 | lěng | 冷 is a general sensory state of low ambient temperature (e.g. 今天很冷), whereas 冻 denotes the extreme physical consequence where temperature reaches the freezing threshold causing numbness or ice (e.g. 手冻僵了).
+    2 | 冻 vs. 凉 | liáng | 凉 implies comfortably cool or pleasant lack of heat (e.g. 凉快, 凉水), in sharp contrast to the painful freezing of 冻.
+    3 | 冻 vs. 凝 | níng | 冻 specifies solidification driven by cold/ice, while 凝 refers broadly to chemical curdling, condensation, or coagulation (e.g. 凝固, 凝结).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 北方的冬日清晨呵气成霜，屋檐下挂满了长长的冰锥。早起推开柴门，寒风扑面而来，双手瞬间冻得发麻。然而只要走回生着炭火的老屋，扑面而来的热气总能迅速融化周身的冰冷。 | Běifāng de dōngrì qīngchén hēqì-chéngshuāng, wūyán xià guàmǎn le chángcháng de bīngzhuī. Zǎoqǐ tuīkāi cháimén, hánfēng pūmiàn ér lái, shǒushān shùnjiān dòng de fāmá. Rán'ér zhǐyào zǒuhuí shēng zhe tànhuǒ de lǎowū, pūmiàn ér lái de rèqì zǒng néng xùnsù rónghuà zhōushēn de bīnglěng. | Winter dawn in the north turns breath into frost, icicles dripping from eaves. Pushing open the gate, chilly wind numbs fingers instantly. Yet returning into the hearth-warmed cottage, rising warmth melts the cold away. | La mañana invernal en el norte hiela el aliento en vaho y cuelga carámbanos del tejado. El viento adormece las manos; mas al volver al calor del fuego en la casa vieja, el aire tibio disuelve el frío al instante.
+  #2 | 全球气候变化背景下，高纬度永冻土层的融化正对区域基础设施安全构成严峻威胁。科研团队通过铺设热棒降温与地基隔热技术，有效减缓了冻土退化速度，为青藏高原重大铁路工程的长期稳定运营提供了科技支撑。 | Quánqiú qìhòu biànhuà bèijǐng xià, gāowěidù yǒngdòngtǔ céng de rónghuà zhèng duì qūyù jīchǔ shèshī ānquán gòuchéng yánjùn wēixié. Kēyán tuánduì tōngguò pūshè rèbàng jiàngwēn yǔ dìjī gérè jìshù, yǒuxiào jiǎnhuǎn le dòngtǔ tuìhuà sùdù, wèi Qīng-Zàng Gāoyuán zhòngdà tiělù gōngchéng de chángqī wěndìng yùnyíng tígōng le kējì zhīchēng. | Under global climate change, thawing permafrost in high latitudes poses severe threats to infrastructure. Deploying thermosyphon cooling and thermal insulation, research teams curb permafrost degradation, safeguarding Tibetan railways. | El deshielo del permafrost por el cambio climático amenaza las infraestructuras árticas. Ingenieros aplican termosifones y aislamiento térmico en el Tíbet para mitigar la degradación del suelo helado y estabilizar el ferrocarril.

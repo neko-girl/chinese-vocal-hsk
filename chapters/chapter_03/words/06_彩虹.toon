@@ -1,0 +1,63 @@
+id: 6
+hanzi: 彩虹
+pinyin: cǎi hóng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: rainbow; spectrum of colors in the sky
+  es: arco iris; arcoíris
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an arc of spectral colors that appears in the sky opposite the sun after rain | arco de colores que aparece en el cielo por la refracción solar en la lluvia | 雨后彩虹 (rainbow after the rain)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 暴风雨过后，天边悬挂起一道绚丽的彩虹，给在海上漂泊数日的船员们带来了希望。 | Bàofēngyǔ guòhòu, tiānbiān xuánguà qǐ yí dào xuànlì de cǎihóng, gěi zài hǎishàng piāobó shù rì de chuányuánmen dài lái le xīwàng. | After the storm, a resplendent rainbow arched across the horizon, bringing renewed hope to sailors adrift for days. | Tras la tormenta, un resplandeciente arcoíris se dibujó en el horizonte, trayendo esperanza a los marineros tras días de travesía.
+  #2 | 科学家利用高精度光学仪器，深入剖析了阳光穿透大气水滴形成双彩虹的物理机制。 | Kēxuéjiā lìyòng gāojīngdù guāngxué yíqì, shēnrù pōuxī le yángguāng chuāntòu dàqì shuǐdī xíngchéng shuāng cǎihóng de wùlǐ jīzhì. | Using precision optical instruments, scientists analyzed the physical mechanism of double rainbows formed by sunlight refracting through atmospheric droplets. | Con instrumentos ópticos de alta precisión, los científicos analizaron el mecanismo físico que genera un arcoíris doble mediante la refracción solar en gotas atmosféricas.
+
+collocations[6]{hanzi,en}:
+  一道彩虹 | a rainbow
+  彩虹般的颜色 | rainbow-like colors
+  雨后彩虹 | rainbow after rain
+  绚丽的彩虹 | gorgeous / resplendent rainbow
+  彩虹桥 | rainbow bridge
+  七色彩虹 | seven-colored rainbow
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  彩云易散 | cǎi yún yì sàn | colorful clouds easily disperse; beautiful illusions vanish quickly
+  光彩夺目 | guāng cǎi duó mù | brilliant and dazzling; of dazzling splendor
+  彩凤随鸦 | cǎi fèng suí yā | a colorful phoenix following a crow; a fine talent mismatched with someone inferior
+  五彩斑斓 | wǔ cǎi bān lán | multicoloured; gorgeously iridescent
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  彩 | cǎi | color; hue; prize | color; matiz; premio | 彡 | hair / bristle streaks | 彡 (fine brushstrokes or luster) | 采 (cǎi phonetic / gather with hands) | 11 | 左右结构 | Phono-semantic compound: hand gathering foliage (采) adorned with lustrous radiant brushstrokes (彡). | Hands gathering vibrant flowers (采) leave colorful brushstrokes (彡) across the canvas. | Manos que cosechan flores (采) dejan hermosos trazos de colores vivos (彡) sobre el lienzo. | 214 | BDHH | ""
+  虹 | hóng | rainbow | arcoíris | 虫 | insect / worm / serpent | 虫 (mythological sky dragon/serpent drinking river water) | 工 (gōng phonetic / span bridge) | 9 | 左右结构 | Ancient pictograph of a celestial two-headed dragon or serpent (虫) arching across the sky to drink river water (工). | A celestial dragon serpent (虫) stretching an arching bridge (工) across the sky after rain. | Un dragón celestial mitológico (虫) que tiende un puente combado (工) en el cielo tras la tormenta. | 35 | LIM | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Radiant colors (彩) arch across the sky like a celestial serpent bridge (虹) forming a breathtaking rainbow (彩虹).
+  composite_memory_hook_es: Brillantes colores (彩) trazan un puente celestial serpenteante (虹) formando un hermoso arcoíris (彩虹).
+  cultural_and_cognitive_roots: Ancient Chinese meteorology viewed the rainbow as a mythical atmospheric creature (虹霓) bridging heaven and earth. In popular idioms, seeing a rainbow signifies hardship yielding to blessing ('不经历风雨，怎能见彩虹').
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone followed by a rising 2nd tone: cǎi hóng (214-35). 'cǎi' dips smoothly into pitch 21 before ascending cleanly into 'hóng' (35).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    采 | cǎi | pick; gather | Lacks the three decorative brushstrokes 彡 on the right
+    红 | hóng | red | Has 纟 (silk) radical on the left instead of 虫 (insect/creature)
+    肛 | gāng | anus | Has 月 (flesh) radical on the left with 工
+    扛 | káng | carry on shoulder | Has 扌 (hand) radical on the left with 工
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    彩霞 | cǎi xiá | rosy evening clouds
+    色彩 | sè cǎi | color; hue; flavor
+    虹吸 | hóng xī | siphon; siphoning effect
+    五彩 | wǔ cǎi | five colors; multi-colored
+
+semantic_boundary_contrasts:
+  core_nuance: 彩虹 denotes the specific optical phenomenon of spectral color bands arched in the sky after moisture refractions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 彩虹 vs. 彩霞 | cǎixiá | 彩虹 is a curved spectral optical arc produced opposite the sun, while 彩霞 refers to the warm red, orange, and purple illuminated cloud banks at sunrise or sunset.
+    2 | 彩虹 vs. 晕 | yùn | 彩虹 forms via water droplet reflection/refraction with distinct multi-band colors, whereas 晕 (halo) refers to faint circular rings of diffused light around the sun or moon.
+    3 | 彩虹 vs. 极光 | jíguāng | 彩虹 occurs universally in lower atmospheres following rainfall, whereas 极光 (aurora) is an electromagnetic plasma luminescence restricted to polar nighttime skies.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 狂风暴雨洗净了海面上的尘霾，天际间缓缓浮现出一道壮丽的彩虹。七彩光晕连接着苍穹与碧波，宛如大自然写给远方游子的安慰。那一刻，航海途中的所有疲惫与凶险，都融化在这无与伦比的美丽之中。 | Kuángfēngbàoyǔ xǐjìng le hǎimiàn shàng de chénmái, tiānjì jiān huǎnhuǎn fúxiàn chū yí dào zhuànglì de cǎihóng. Qīcǎi guāngyùn liánjiē zhe cāngqióng yǔ bìbō, wǎnrú dàzìrán xiě gěi yuǎnfāng yóuzǐ de ānwèi. Nà yí kè, hánghǎi túzhōng de suǒyǒu píbèi yǔ xiōngxiǎn, dōu rónghuà zài zhè wúyǔlúnbǐ de měilì zhīzhōng. | Violent storms washed away oceanic haze, and a magnificent rainbow slowly materialized on the horizon. Seven-hued luminescence linked heaven and azure waves, nature's gentle solace for weary travelers. In that moment, all voyaging toil dissolved into unparalleled splendor. | La tormenta lavó la calima marina y un espléndido arcoíris surgió lentamente en el horizonte. Siete reflejos unían el firmamento y las olas azules, como un consuelo que la naturaleza brinda al viajero. En ese instante, fatigas y peligros del viaje se disolvieron en belleza pura.
+  #2 | 气象光学原理证明，彩虹的形成源于阳光在球形雨滴内部发生的折射、全反射与色散过程。当空气湿度适宜且观测者背对光源时，便能清晰捕捉到这道美丽的自然光谱。现代科研人员借助这一光学机理，持续改进遥感监测与大气气溶胶分析模型。 | Qìxiàng guāngxué yuánlǐ zhèngmíng, cǎihóng de xíngchéng yuányú yángguāng zài qiúxíng yǔdī nèibù fāshēng de zhéshè, quánfǎnshè yǔ sèsàn guòchéng. Dāng kōngqì shīdù shìyí qiě guāncèzhě bèiduì guāngyuán shí, biàn néng qīngxī bǔzhuō dào zhè dào měilì de zìrán guāngpǔ. Xiàndài kēyán rényuán jièzhù zhè yí guāngxué jīlǐ, chíxù gǎijìn yáogǎn jiānkòng yǔ dàqì qìróngjiāo fēnxī móxíng. | Meteorological optics proves that rainbows originate from refraction, internal reflection, and dispersion within spherical raindrops. When humidity is optimal and observers face away from sunlight, this spectrum emerges cleanly, informing modern aerosol remote-sensing models. | La óptica meteorológica demuestra que el arcoíris surge de la refracción, reflexión interna y dispersión solar en gotas esféricas. Con humedad idónea y dando la espalda al sol, se contempla este nítido espectro, mecanismo aprovechado hoy en teledetección de aerosoles atmosféricos.

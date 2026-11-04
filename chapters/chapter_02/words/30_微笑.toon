@@ -1,0 +1,64 @@
+id: 30
+hanzi: 微笑
+pinyin: wēi xiào
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to smile; smile (gentle, unspoken facial expression)
+  es: sonreír; sonrisa; gesto de agrado suave
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to form a gentle smile without opening the mouth wide or making laughter sounds | sonreír suavemente sin emitir carcajadas | 向大家微笑 (smile at everyone)
+  2 | Noun | Standard | a pleasant, friendly, or peaceful facial expression; smile | sonrisa; expresión risueña | 迷人的微笑 (charming smile)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 看到下班归来的儿女，坐在门槛上歇息的母亲脸上露出了慈祥而欣慰的微笑。 | Kàndào xiàbān guīlái de énnǚ, zuò zài ménkǎn shàng xiēxi de mǔqīn liǎnshàng lùchū le cíxiáng ér xīnwèi de wēixiào. | Seeing her children returning from work, a benevolent and gratified smile appeared on mother's face as she rested on the threshold. | Al ver regresar a sus hijos del trabajo, el rostro de la madre descansando en el umbral se iluminó con una sonrisa dulce y satisfecha.
+  #2 | 在国际航空与高端酒店服务业中，真诚亲和的微笑是拉近与客户距离、提升品牌美誉度的核心软实力。 | Zài guójì hángkōng yǔ gāoduān jiǔdiàn fúwùyè zhōng, zhēnchéng qīnhé de wēixiào shì lājìn yǔ kèhù jùlí, tíshēng pǐnpái měiyùdù de héxīn ruǎnshílì. | In international aviation and luxury hospitality, a sincere, warm smile is a core soft skill bridging distance with guests and elevating brand goodwill. | En la aviación comercial y la hostelería de lujo, la sonrisa sincera constituye una habilidad esencial para fidelizar clientes y prestigiar la marca.
+
+collocations[6]{hanzi,en}:
+  露出微笑 | reveal a smile
+  面带微笑 | wear a smile on one's face
+  迷人的微笑 | charming / captivating smile
+  淡淡的微笑 | faint / gentle smile
+  微笑面对 | face with a smile (adversity)
+  微笑服务 | service with a smile
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  微不足道 | wēi bù zú dào | too insignificant or small to mention
+  眉开眼笑 | méi kāi yǎn xiào | brows spread and eyes laugh; beaming with joy
+  拈花微笑 | niān huā wēi xiào | hold a flower with a subtle smile (Zen enlightenment; unspoken mutual understanding)
+  喜笑颜开 | xǐ xiào yán kāi | face lit up with joyful smiles
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  微 | wēi | tiny; minute; subtle; slight | diminuto; sutil; leve; microscópico | 彳 | step / walk | 彳 (delicate measured footsteps) | 山+一+儿+攵 (subtle motion of hand) | 13 | 左中右结构 | Ideogrammic and phono-semantic compound where gentle footsteps (彳) and delicate tapping hands (攵) convey micro-subtlety. | Taking gentle tiny steps (彳) while observing minute delicate details (微) without disturbing anyone. | Pasos casi imperceptibles (彳) que avanzan con suma delicadeza prestando atención a lo sutil (微). | 55 | HOUBK | 微
+  笑 | xiào | smile; laugh; chuckle | sonreír; reír; carcajada | 竹 | bamboo | 竹 (bamboo swaying softly in breeze) | 夭 (yāo, supple young person) | 10 | 上下结构 | Ancient compound depicting bamboo shoots (竹) bowing gracefully and swaying in the breeze like smiling lips. | Bamboo branches (竹) bowing and rustling merrily in the wind, resembling human lips curving into laughter. | Tallos de bambú (竹) que se mecen con donaire en la brisa como labios humanos curvados en una sonrisa. | 51 | HHK | 笑
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A subtle, tiny movement (微) of curved lips like swaying bamboo (笑) produces a peaceful smile (微笑).
+  composite_memory_hook_es: Un sutil y leve movimiento (微) de labios que se curvan como bambú (笑) compone una dulce sonrisa (微笑).
+  cultural_and_cognitive_roots: In Chan (Zen) philosophy, the '拈花微笑' (holding a flower and subtly smiling) encapsulates transcendent enlightenment communicating supreme truth beyond spoken words, epitomizing inner peace.
+  tone_sandhi_and_pitch_modulation: Pronounced with a 55-51 pitch contour (1st tone high and level, followed by 4th tone dropping with pleasant clarity). Keep transitions smooth.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    徽 | huī | badge; emblem; Anhui | Has 糸 (silk) in the middle instead of 几 in 微
+    徵 | zhǐ / zhēng | summon; levy; musical note | Has 王 in the middle instead of 几
+    哭 | kū | cry; weep | Direct semantic antonym of 笑; has two mouths 口 and 犬
+    笔 | bǐ | pen; brush | Has 竹 on top and 毛 (hair) at bottom instead of 夭
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    微妙 | wēi miào | delicate; subtle; nuanced
+    微小 | wēi xiǎo | tiny; minuscule
+    笑声 | xiào shēng | sound of laughter
+    笑容 | xiào róng | smiling expression
+
+semantic_boundary_contrasts:
+  core_nuance: 微笑 is specifically a silent, gentle, mild curving of the lips denoting benevolence and friendliness.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 微笑 vs. 大笑 | dàxiào | 微笑 is silent, gentle, and composed without showing wide open mouth or sound, whereas 大笑 is hearty, audible, roaring laughter.
+    2 | 微笑 vs. 冷笑 | lěngxiào | 微笑 carries genuine warmth, friendliness, and benevolence, while 冷笑 conveys sneering sarcasm, disdain, or chilling mockery.
+    3 | 微笑 vs. 苦笑 | kǔxiào | 微笑 radiates pleasant contentment, whereas 苦笑 is a wry, helpless, or forced bitter smile in the face of misfortune.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微笑是人际交往中最动人的世界通用语言。面对生活中的挫折与磨难，一个从容恬淡的微笑不仅能给予自己直面逆境的勇气，更能如春风化雨般融化人与人之间的隔阂，传递出直抵人心的温暖。 | Wēixiào shì rénjì jiāowǎng zhōng zuì dòngrén de shìjiè tōngyòng yǔyán. Miànduì shēnghuó zhōng de cuòzhé yǔ mónàn, yí gè cóngróng tiándàn de wēixiào bùjǐn néng jǐyǔ zìjǐ zhímiàn nìjìng de yǒngqì, gèng néng rú chūnfēng-huàyǔ bān rónghuà rén yǔ rén zhījiān de géhé, chuándǐ chū zhídǐ-rénxīn de wēnnuǎn. | A smile is the most touching universal language in human communication. Facing trials, a composed smile offers courage to confront adversity and melts estrangement like spring rain, transmitting heart-touching warmth. | La sonrisa es el idioma universal más conmovedor del ser humano. Ante los reveses vitales, una sonrisa serena brinda entereza para encarar la adversidad y disuelve distancias con la calidez de la lluvia primaveral.
+  #2 | 神经认知科学研究表明，主动微笑能够显著刺激大脑分泌内啡肽与多巴胺，从而有效降低机体压力荷尔蒙皮质醇水平。在企业管理中推广微笑沟通机制，对于缓解员工职场焦虑、构建高韧性协作团队具有积极的生理与心理调节价值。 | Shénjīng rènzhī kēxué yánjiū biǎomíng, zhǔdòng wēixiào nénggòu xiǎnzhù cìjī dànǎo fēnmì nèifēitài yǔ duōbā'àn, cóng'ér yǒuxiào jiàngdī jītǐ yālì hèměng pízìchún shuǐpíng. Zài qǐyè guǎnlǐ zhōng tuīguǎng wēixiào gōutōng jīzhì, duìyú huǎnjiě yuángōng zhíchǎng jiāolǜ, gòujiàn gāorènxìng xiézuò tuánduì jùyǒu jījí de shēnglǐ yǔ xīnlǐ tiáojié jiàzhí. | Neurocognitive research reveals that voluntary smiling stimulates endorphin and dopamine secretion, reducing cortisol levels. Promoting smiling communication in enterprise management eases workplace anxiety and builds resilient teams. | La neurociencia demuestra que sonreír estimula endorfinas y dopamina, reduciendo el cortisol. Fomentar la comunicación risueña en las empresas alivia el estrés laboral y forja equipos de trabajo cohesionados y resilientes.

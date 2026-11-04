@@ -1,0 +1,63 @@
+id: 12
+hanzi: 挣
+pinyin: zhèng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to earn (money); to make a living; to struggle free
+  es: ganar (dinero); ganarse la vida; desasirse; forcejear
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to earn money through labor or enterprise | ganar dinero mediante el trabajo | 挣钱养家 (earn money to support family)
+  2 | Verb | Standard | (read zhēng) to struggle, strive, or try to break free | (leído zhēng) forcejear; desasirse; bregar | 挣脱束缚 (struggle free from shackles)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他年轻时在建筑工地上勤扒苦做，省吃俭用挣下了第一笔买房的首付款。 | Tā niánqīng shí zài jiànzhù gōngdì shàng qín bā kǔ zuò, shěngchī-jiǎnyòng zhèng xià le dì-yī bǐ mǎi fáng de shǒufùkuǎn. | When young he toiled relentlessly on construction sites, living frugally to earn the down payment for his first apartment. | De joven trabajó duramente en obras de construcción, ahorrando hasta el último céntimo para ganar la entrada de su primer piso.
+  #2 | 该科技初创公司通过不断优化海外跨境电商服务模式，在竞争激烈的国际市场中挣得了可观的利润。 | Gāi kējì chūchuàng gōngsī tōngguò búduàn yōuhuà hǎiwài kuàjìng diànshāng fúwù móshì, zài jìngzhēng jīliè de guójì shìchǎng zhōng zhèng dé le kěguān de lìrùn. | By continually refining its cross-border e-commerce model, the tech startup earned respectable profits in the fierce global market. | Optimizando su modelo de comercio transfronterizo, la empresa emergente obtuvo considerables beneficios en el competitivo mercado internacional.
+
+collocations[6]{hanzi,en}:
+  挣钱 | earn money; make money
+  挣工资 | earn a salary / wage
+  挣大钱 | make big money
+  挣扎 | struggle; strive (pronounced zhēngzhá)
+  挣脱 | struggle free; break loose
+  挣得 | earn; gain; secure
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  垂死挣扎 | chuí sǐ zhēng zhá | make a deathbed struggle; put up a desperate last-ditch fight
+  挣扎求生 | zhēng zhá qiú shēng | struggle to survive amidst harsh adversity
+  自食其力 | zì shí qí lì | earn one's own living through one's own labor
+  日进斗金 | rì jìn dǒu jīn | bring in a peck of gold every day; rake in wealth
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  挣 | zhèng | earn money; struggle | ganar dinero; forcejear | 扌 | hand | 扌 (hand engaged in hard labor) | 争 (zhēng, contend / strive) | 9 | 左右结构 | Phono-semantic compound combining hand radical 扌 with phonetic 争 (strive), illustrating earning wealth through competitive bodily struggle. | Diligent hands (扌) contending against all odds (争) to earn a living through honest hard labor. | Manos tenaces (扌) que luchan y compiten (争) con esfuerzo para ganar honradamente el sustento diario. | 51 | QNSD | 掙
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Using both hands (扌) to strive and compete (争) in the world allows you to earn (挣) hard-won income.
+  composite_memory_hook_es: Usar las manos (扌) para luchar y pugnar (争) en la vida te permite ganar (挣) el sustento con esfuerzo.
+  cultural_and_cognitive_roots: In traditional Chinese popular ethics, '挣' carries the weight of sweat and hardship; money earned through bodily toil (血汗钱) is revered as the highest test of moral character and familial piety.
+  tone_sandhi_and_pitch_modulation: When meaning 'earn money', read in 4th tone with sharp falling pitch: 'zhèng' (51). When paired in '挣扎' (struggle), read in 1st tone: 'zhēngzhá' (55-35).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    净 | jìng | clean; pure; net | Has 冫 (ice) on the left instead of 扌 (hand)
+    争 | zhēng | contend; dispute | Standalone phonetic root without the left hand radical 扌
+    睁 | zhēng | open eyes | Has 目 (eye) on the left with 争 on the right
+    铮 | zhēng | clank of metal; sonorous | Has 钅 (metal) on the left with 争 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    挣钱 | zhèng qián | earn money
+    挣脱 | zhèng tuō | break free from; extricate oneself
+    挣扎 | zhēng zhá | struggle; flail
+    争分夺秒 | zhēng fēn duó miǎo | race against the clock; contest every second
+
+semantic_boundary_contrasts:
+  core_nuance: 挣 emphasizes earning income through arduous physical or persistent personal labor.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 挣 vs. 赚 | zhuàn | 挣 emphasizes hard work, sweat, and labor to earn wages (e.g. 挣辛苦钱), whereas 赚 focuses on commercial profit, investment margins, or financial returns (e.g. 赚钱, 赚差价).
+    2 | 挣 vs. 赢 | yíng | 挣 is strictly earning remuneration through work, while 赢 means winning a game, competition, legal lawsuit, or lottery (e.g. 赢得比赛, 赢牌).
+    3 | 挣 vs. 领 | lǐng | 挣 requires exertion of effort to produce income, while 领 means receiving, collecting, or claiming funds issued by others (e.g. 领工资, 领补贴).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 祖辈们常说，踏踏实实挣来的钱，花起来心里才最敞亮。每一分辛苦钱都凝聚着日晒雨淋的艰辛，它教会了我们敬畏劳动、珍惜粮食，更懂得了生活最本真的分量与尊严。 | Zǔbèimen cháng shuō, tātāshíshí zhèng lái de qián, huā qǐlái xīnlǐ cái zuì chǎngliàng. Měi yì fēn xīnkǔqián dōu níngjù zhe rìshài-yǔlín de jiānxīn, tā jiàohuì le wǒmen jìngwèi láodòng, zhēnxī liángshi, gèng dǒngdé le shēnghuó zuì běnzhēn de fènliàng yǔ zūnyán. | Elders often said money earned with honest sweat feels lightest to spend. Every hard-earned penny crystallizes hardship under scorching sun and pouring rain, teaching us reverence for labor and the true weight of human dignity. | Los ancianos decían que el dinero ganado con honradez es el que da mayor paz al gastarse. Cada moneda atesora el esfuerzo bajo sol y lluvia, enseñándonos a valorar el trabajo y la dignidad de la vida.
+  #2 | 在知识经济时代，人们“挣钱”的思维方式已从单纯出售体力向出售智力与创意转变。数字内容创作者与自由职业者利用平台经济开拓多元收入渠道，重塑了个体价值变现与财富积累的全新路径。 | Zài zhīshi jīngjì shídài, rénmen "zhèngqián" de sīwéi fāngshì yǐ cóng dānchún chūshòu tǐlì xiàng chūshòu zhìlì yǔ chuàngyì zhuǎnbiàn. Shùzì nèiróng chuàngzuòzhě yǔ zìyóuzhíyèzhě lìyòng píngtái jīngjì kāituò duōyuán shōurù qúdào, zhòngshù le gètǐ jiàzhí biànxiàn yǔ cáifù jīlěi de quánxīn lùjìng. | In the knowledge economy, the mindset of earning money has shifted from manual labor to monetizing intellect and creativity. Digital creators and freelancers leverage platform models to reshape avenues of individual wealth accumulation. | En la era del conocimiento, ganar dinero evoluciona del esfuerzo físico a la monetización del talento creativo. Los creadores digitales emplean economías de plataforma para diversificar ingresos y redefinir el éxito laboral.

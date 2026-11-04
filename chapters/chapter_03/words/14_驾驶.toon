@@ -1,0 +1,63 @@
+id: 14
+hanzi: 驾驶
+pinyin: jià shǐ
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to drive; to pilot; to steer; to navigate a vehicle or vessel
+  es: conducir; pilotar; manejar; guiar un vehículo o barco
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to operate, control, and steer a motor vehicle, airplane, boat, or ship | operar, guiar y controlar un vehículo de motor, aeronave o barco | 驾驶汽车 (drive a car)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他经过半年的刻苦训练，熟练掌握了复杂海况下操纵帆船的驾驶技巧。 | Tā jīngguò bàn nián de kèkǔ xùnliàn, shúliàn zhǎngwò le fùzá hǎikuàng xià cāozòng fānchuán de jiàshǐ jìqiǎo. | After six months of rigorous training, he skillfully mastered sailing piloting techniques under treacherous sea conditions. | Tras medio año de arduo entrenamiento, dominó con soltura las técnicas de gobierno del velero bajo complicadas condiciones marinas.
+  #2 | 交通法规严厉惩处酒后驾驶行为，以最大限度保障道路公共交通的行车安全。 | Jiāotōng fǎguī yánlì chéngchǔ jiǔhòu jiàshǐ xíngwéi, yǐ zuìdà xiàndù bǎozhàng dàolù gōnggòng jiāotōng de xíngchē ānquán. | Traffic regulations strictly penalize drunk driving to maximize safety on public roads. | El código de circulación sanciona con severidad la conducción bajo los efectos del alcohol para garantizar la seguridad en las vías públicas.
+
+collocations[6]{hanzi,en}:
+  驾驶员 | driver; pilot
+  驾驶执照 | driver's license
+  酒后驾驶 | drunk driving; drive under influence
+  自动驾驶 | autonomous driving; autopilot
+  驾驶技巧 | driving / piloting skills
+  熟练驾驶 | drive / pilot skillfully
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  驾轻就熟 | jià qīng jiù shú | drive a light cart on a familiar road; do a job with ease from experience
+  并驾齐驱 | bìng jià qí qū | run neck and neck; keep pace with; match side by side
+  长驱直入 | cháng qū zhí rù | drive straight into deep enemy territory; advance without hindrance
+  东齐西驶 | dōng qí xī shǐ | drive eastward and sail westward; work toward conflicting directions
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  驾 | jià | harness; drive; chariot | uncir; conducir; carruaje | 马 | horse / steed | 马 (steed harnessed to a cart) | 加 (jiā phonetic / add force or yoke) | 11 | 上下结构 | Phono-semantic compound: adding harnesses (加) onto spirited horses (马) to guide and steer chariots. | Fastening the harness yoke (加) onto powerful horses (马) to steer the speeding chariot forward. | Uncir el arnés (加) a briosos caballos (马) para guiar el carruaje al galope con destreza. | 51 | KSNVF | 駕
+  驶 | shǐ | speed; drive; sail fast | avanzar rápido; navegar; marchar | 马 | horse / steed | 马 (horse running swiftly) | 史 (shǐ phonetic / scribe or official record) | 8 | 左右结构 | Phono-semantic compound: steed (马) speeding forward as swiftly as historical events recorded by a scribe (史). | A galloping horse (马) racing across vast terrain, steering forward with focused direction (史). | Un caballo al galope (马) que vuela por el camino marcando un rumbo veloz y certero (史). | 214 | NMSK | 駛
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Harnessing horses to a chariot (驾) and spurring them to gallop swiftly (驶) embodies skillful steering and driving (驾驶).
+  composite_memory_hook_es: Uncir caballos al carruaje (驾) y lanzarlos a galopar a buen paso (驶) representa el arte de conducir (驾驶).
+  cultural_and_cognitive_roots: Chariot driving (御) was one of the Six Classic Arts (六艺) of ancient Chinese noble education. '驾驶' evolved from ancient equine horsemanship into the universal term for vehicular and nautical pilotage.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone followed by a dipping 3rd tone: jià shǐ (51-214). Drop 'jià' sharply from pitch 5 to 1 before modulating 'shǐ' smoothly through 214.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    驾 | jià | drive; harness | Has 加 on top and 马 (horse) at the bottom
+    贺 | hè | congratulate; celebrate | Has 加 on top and 贝 (cowrie shell) at the bottom
+    驶 | shǐ | drive; speed | Has 马 on the left and 史 on the right
+    使 | shǐ | use; make; envoy | Has 亻 (person) on the left and 吏/史 on the right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    劳驾 | láo jià | excuse me; may I trouble you
+    驶向 | shǐ xiàng | sail toward; head toward
+    行驶 | xíng shǐ | drive; travel (of vehicles/ships)
+    飞驶 | fēi shǐ | speed along; dart by
+
+semantic_boundary_contrasts:
+  core_nuance: 驾驶 emphasizes the technical manipulation and control of machines, vehicles, aircraft, or ships by an operator.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 驾驶 vs. 开 | kāi | 驾驶 is the formal, written, and technical term for operating any vehicle, boat, or plane (驾驶飞机, 驾驶员), whereas 开 is the colloquial everyday verb for driving or operating (开车).
+    2 | 驾驶 vs. 操纵 | cāozòng | 驾驶 emphasizes navigation and steering a moving vessel, whereas 操纵 focuses on mechanical lever/button control, financial manipulation, or political pull.
+    3 | 驾驶 vs. 航行 | hángxíng | 驾驶 describes the specific operational actions of the pilot at the helm, whereas 航行 describes the overall travel movement of the vessel through water or air.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 独自在深夜的海面上驾驶帆船，需要超越常人的专注与勇气。四周是一片深邃的漆黑，唯有舵盘在掌心传递着波浪的震颤。这一刻，人与帆船融为一体，每一次对航向的微调，都是对生命的敬畏与担当。 | Dúzì zài shēnyè de hǎimiàn shàng jiàshǐ fānchuán, xūyào chāoyuè chángrén de zhuānzhù yǔ yǒngqì. Sìzhōu shì yí piàn shēnsuì de qīhēi, wéiyǒu duòpán zài zhǎngxīn chuándì zhe bōlàng de zhènchàn. Zhè yí kè, rén yǔ fānchuán róng wéi yītǐ, měi yí cì duì hángxiàng de wēitiáo, dōu shì duì shēngmìng de jìngwèi yǔ dāndāng. | Piloting a sailboat alone across night waters demands superhuman concentration and courage. Surrounded by inky darkness, only the helm vibrates against the palm. Man and vessel fuse; every micro-correction of heading honors life itself. | Pilotar un velero en la soledad de la noche marina exige un temple sobrehumano. En medio de la oscuridad absoluta, el timón transmite en la palma el pulso de las olas. Hombre y nave se funden; cada ajuste de rumbo es un tributo a la vida.
+  #2 | 人工智能与高精度激光雷达传感器的飞速迭代，正深刻颠覆传统的机动车驾驶概念。具备高级别自主决策能力的自动驾驶算法系统，不仅能够大幅削减由于人为注意力分散而引发的道路交通事故，更将从底层重塑未来智慧城市的交通出行新范式。 | Réngōng zhìnéng yǔ gāojīngdù jīguāng léidá chuángǎnqì de fēisù jiédài, zhèng shēnkè diānfù chuántǒng de jīdòngchē jiàshǐ gǎiniàn. Jùbèi gāojíbié zìzhǔ juécè nénglì de zìdòng jiàshǐ suànfǎ xìtǒng, bùjǐn nénggòu dàfú xuējiǎn yóuyú rénwéi zhùyìlì fēnsǎn ér yǐnfā de dàolù jiāotōng shìgù, gèng jiāng cóng dǐcéng zhòngshù wèilái zhìhuì chéngshì de jiāotōng chūxíng xīn fànshì. | Rapid breakthroughs in artificial intelligence and LiDAR sensors are overturning conventional notions of vehicular driving. Autonomous driving algorithms possessing high-level decision autonomy mitigate human-error accidents and fundamentally reconfigure urban mobility paradigms. | Los avances en inteligencia artificial y sensores LiDAR revolucionan el concepto de conducir. Los algoritmos de conducción autónoma avanzada suprimen siniestros por distracciones humanas y remodelan desde la base el paradigma del transporte urbano inteligente.

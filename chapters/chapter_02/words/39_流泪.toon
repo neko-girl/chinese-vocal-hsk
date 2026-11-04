@@ -1,0 +1,63 @@
+id: 39
+hanzi: 流泪
+pinyin: liú lèi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to shed tears; to weep; to cry
+  es: derramar lágrimas; llorar; soltar lágrimas
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to shed tears from the eyes due to sadness, grief, joy, or eye irritation | derramar lágrimas; llorar por pena, alegría o irritación ocular | 感动得流泪 (moved to tears)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 临行前看着母亲那双布满老茧的手把省下的积蓄塞进我衣兜，我转过身去忍不住悄悄流下了眼泪。 | Línxíng qián kàn zhe mǔqīn nà shuāng bùmǎn lǎojiǎn de shǒu bǎ shěng xià de jīxù sāijìn wǒ yīdōu, wǒ zhuǎn guò shēn qù rěnbúzhù qiāoqiāo liú xià le yǎnlèi. | Before departing, seeing mother's callused hands stuff saved money into my pocket, I turned around and could not help weeping silently. | Antes de partir, al ver las manos agrietadas de madre meter sus ahorros en mi bolsillo, me di la vuelta conteniendo las lágrimas a duras penas.
+  #2 | 当看到被困数日的矿工全部安全升井脱险时，守候在井口的家属与救援队员们无不激动得热泪盈眶。 | Dāng kàndào bèikùn shù rì de kuànggōng quánbù ānquán shēngjǐng tuōxiǎn shí, shǒuhòu zài jǐngkǒu de jiāshǔ yǔ jiùyuán duìyuánmen wúbù jīdòng de rèlèi-yíngkuàng. | When miners trapped for days were brought up safely, families and rescue personnel waiting at the pithead were moved to tears of relief. | Al ver a los mineros atrapados salir sanos y salvos a la superficie, los familiares y rescatistas congregados en la bocamina rompieron a llorar de emoción.
+
+collocations[6]{hanzi,en}:
+  流下眼泪 | shed tears
+  忍不住流泪 | cannot help crying / shedding tears
+  感动流泪 | moved to tears
+  暗自流泪 | weep in secret
+  伤心流泪 | weep from sorrow
+  眼眶流泪 | eyes welling with tears
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  热泪盈眶 | rè lèi yíng kuàng | eyes brimming with warm tears of deep emotion
+  声泪俱下 | shēng lèi jù xià | shed tears while speaking; speak in a voice choked with weeping
+  潸然泪下 | shān rán lèi xià | tears trickling down cheeks quietly
+  催人泪下 | cuī rén lèi xià | bring tears to one's eyes; deeply moving
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  流 | liú | flow; stream; shed; drift | fluir; corriente; derramar | 氵 | water (three drops) | 氵 (flowing water stream) | 𠫓 (newborn infant floating in stream / phonetic) | 10 | 左右结构 | Depicts a newborn child floating gently along a winding river stream (氵), abstracting into continuous flowing. | Drops of fresh water (氵) cascading continuously down a stream without impediment. | Gotas de agua fresca (氵) que fluyen sin cesar formando un arroyo continuo y constante. | 35 | EYIU | 流
+  泪 | lèi | tears; weep | lágrimas; llorar | 氵 | water (three drops) | 氵 (water / droplets) | 目 (eye) | 8 | 左右结构 | Ideogrammic compound of water (氵) welling from the eye (目), graphically illustrating human tears. | Crystal clear water drops (氵) spilling softly out of the corners of the eyes (目). | Gotas cristalinas de agua (氵) que brotan suavemente de los ojos (目) de una persona. | 51 | EBU | 淚
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Water drops flowing (流) straight from the eyes (泪) are warm tears (流泪) shed in love and longing.
+  composite_memory_hook_es: Agua que fluye (流) brotando directamente de los ojos (泪) compone las lágrimas (流泪) de la emoción.
+  cultural_and_cognitive_roots: In Chinese literary tradition, tears shed at parting ('执手相看泪眼') or upon homecoming represent the pinnacle of emotional sincerity ('真情实感'), honoring genuine human affection beyond worldly pretension.
+  tone_sandhi_and_pitch_modulation: Pronounced with a 35-51 pitch contour (2nd tone rising cleanly, followed by 4th tone dropping with pathos). Keep the vocal transition fluid.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    相 | xiāng | mutual; appearance | Has 木 on the left of 目 instead of 氵 (water)
+    泪 | lèi | tears | Has 氵 on the left of 目; traditional 淚 has 戾
+    盲 | máng | blind | Has 亡 on top of 目 instead of 氵 on left
+    梳 | shū | comb | Has 木 on left with 𠫓 and 川 on right instead of 氵
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    眼泪 | yǎn lèi | tears
+    流淌 | liú tǎng | flow; trickle
+    流行 | liú xíng | popular; prevalent; flow
+    泪水 | lèi shuǐ | teardrops; weeping
+
+semantic_boundary_contrasts:
+  core_nuance: 流泪 emphasizes the physical physiological phenomenon of teardrops flowing from the eyes.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 流泪 vs. 哭泣 | kūqì | 流泪 denotes the physical tears trickling from eyes (often quiet or moved), whereas 哭泣 involves vocal sobbing, whimpering, and crying sounds of sadness.
+    2 | 流泪 vs. 抽泣 | chōuqì | 流泪 can occur peacefully in joy or grief, while 抽泣 describes convulsive sobbing with shuddering gasps for breath.
+    3 | 流泪 vs. 流汗 | liúhàn | 流泪 is weeping tears from eyes, while 流汗 is sweating perspiration through pores due to physical exertion or heat.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 离别总是在不经意间到来。车轮缓缓转动，透过弥漫雾气的车窗，望着站台上母亲渐渐模糊的身影与挥动的手帕，眼眶里打转的泪水终于忍不住夺眶而出，浸湿了整个衣领。 | Líbié zǒngshì zài bùjīngyì jiān dàolái. Chēlún huǎnhuǎn zhuàndòng, tòuguò mímàn wùqì de chēchuāng, wàng zhe zhàntái shàng mǔqīn jiànjiàn móhu de shēnyǐng yǔ huīdòng de shǒupà, yǎnkuàng lǐ dǎzhuàn de lèishuǐ zhōngyú rěnbúzhù duókuàng-érchū, jìnshī le zhěnggè yīlǐng. | Parting arrives unawares. Wheels turning, peering through foggy windows at mother's blurring silhouette waving her handkerchief, tears welled in my eyes and overflowed, soaking my collar. | La despedida llega sin aviso. El tren arranca y, tras el vaho del cristal, la silueta de madre agitando el pañuelo se nubla; las lágrimas contenidas brotan al fin empapando el abrigo.
+  #2 | 心理学实证研究表明，“情绪性流泪”是人类特有的非言语心理宣泄与社会联结机制。泪液中富含应激诱发的催乳素与促肾上腺皮质激素，适度流泪不仅有助于机体缓解心理压力，更能在社交互动中有效激发同理心。 | Xīnlǐxué shízhèng yánjiū biǎomíng, "qíngxùxìng liúlèi" shì rénlèi tèyǒu de fēi-yányǔ xīnlǐ xuānxiè yǔ shèhuì liánjié jīzhì. Lèiyè zhōng fùhán yìngjī yòufā de cuīrǔsù yǔ cùshènshàngxiàn-pízhì jīsù, shìdù liúlèi bùjǐn yǒuzhùyú jītǐ huǎnjiě xīnlǐ yālì, gèng néng zài shèjiāo hùdòng zhōng yǒuxiào jīfā tónglǐxīn. | Empirical psychological research indicates that emotional crying is a uniquely human mechanism for psychological release. Emotional tears contain stress hormones; shedding tears relieves neuro-stress and evokes social empathy. | Estudios de psicología confirman que el llanto emocional es un mecanismo de desahogo humano. Las lágrimas eliminan hormonas de estrés y su expresión en sociedad estimula la empatía comunitaria profunda.

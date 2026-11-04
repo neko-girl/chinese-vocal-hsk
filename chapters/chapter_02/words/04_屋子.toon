@@ -1,0 +1,64 @@
+id: 4
+hanzi: 屋子
+pinyin: wū zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: room; house; small building
+  es: habitación; cuarto; casa; vivienda
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an enclosed room within a dwelling | habitación; cuarto en una vivienda | 走进屋子 (walk into the room)
+  2 | Noun | Colloquial | an entire house or cottage dwelling | casa; casita; vivienda | 盖了一座新屋子 (built a new house)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 母亲把屋子收拾得干干净净，窗台上还摆放着几盆绿意盎然的盆栽，让人倍感温馨。 | Mǔqīn bǎ wūzi shōushi de gāngānjìngjìng, chuāngtái shàng hái bǎifàng zhe jǐ pén lǜyì àngrán de pénzāi, ràng rén bèi gǎn wēnxīn. | Mother tidied the room spotless, and several lush potted plants on the windowsill made everyone feel exceptionally warm. | Mi madre dejó la habitación impecable, y varias macetas verdes en el alféizar creaban una atmósfera sumamente acogedora.
+  #2 | 冬天窗外北风呼啸，但屋子里生着旺旺的炉火，一家人围坐在一起谈笑风生。 | Dōngtiān chuāngwài běifēng hūxiào, dàn wūzi lǐ shēng zhe wàngwàng de lúhuǒ, yì jiā rén wéizuò zài yìqǐ tánxiàofēngshēng. | In winter the north wind roared outside the window, but a brisk stove fire burned inside the room where the family sat chatting merrily. | En invierno el viento del norte rugía tras la ventana, pero en la habitación ardía la estufa y la familia charlaba animadamente reunida.
+
+collocations[6]{hanzi,en}:
+  收拾屋子 | tidy up the room
+  满屋子 | the entire room; whole room full of
+  进屋子 | enter the house / room
+  屋子里 | inside the room
+  空屋子 | empty room
+  租屋子 | rent a room / house
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  爱屋及乌 | ài wū jí wū | love for the house extends to the crow on the roof; love me, love my dog
+  屋上建瓴 | wū shàng jiàn líng | pour water from high roof tiles; operate from an overwhelmingly advantageous position
+  金屋藏娇 | jīn wū cáng jiāo | shelter a beauty in a gilded mansion; provide a luxurious haven for one's beloved
+  引狼入室 | yǐn láng rù shì | lead a wolf into the room; introduce a dangerous element into one's inner sanctum
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  屋 | wū | room; house; roof | habitación; casa; tejado | 尸 | corpse / reclining body / shelter | 尸 (shelter frame) | 至 (zhì, arrive / reach) | 9 | 半包围结构 | Ideogrammic and phono-semantic compound where a resting body (尸) reaches destination (至) under a roof. | A person seeking rest reaches (至) shelter under a protective wooden roof frame (尸), creating a cozy room. | Una persona llega (至) a guarecerse bajo el techo protector (尸) para descansar en una cálida habitación. | 55 | SMGI | 屋
+  子 | zi | noun suffix | sufijo nominal | 子 | child / infant | 子 (infant pictograph) | "" | 3 | 独体结构 | Ancient pictograph of a child, serving as a softening phonetic suffix in modern vernacular nouns. | A tiny baby (子) serving as an everyday conversational affix attached to living objects and spaces. | Una pequeña figura infantil (子) que actúa como sufijo coloquial cotidiano en sustantivos. | 214 | ND | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Arriving (至) under a shelter frame (尸) with the family child (子) forms a warm and livable room (屋子).
+  composite_memory_hook_es: Llegar (至) bajo un tejado protector (尸) junto al niño (子) da lugar a una habitación acogedora (屋子).
+  cultural_and_cognitive_roots: In traditional Chinese vernacular culture, 'wū' is the intimate hearth where bodily shelter and family affection coalesce, distinguishing concrete emotional refuge from formal architectural facades.
+  tone_sandhi_and_pitch_modulation: Pronounced with high level tone followed by a light neutral tone: 'wū zi' (55-0). Do not pronounce 'zi' with an emphatic 3rd tone contour.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    居 | jū | dwell; reside | Has 古 (ancient) inside 尸 instead of 至
+    层 | céng | layer; floor | Has 云 (cloud) inside 尸 instead of 至
+    屏 | píng | screen; shield | Has 并 (combine) inside 尸 instead of 至
+    屁 | pì | flatulence; fart | Has 比 (compare) inside 尸 instead of 至
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    房间 | fáng jiān | room; chamber
+    房屋 | fáng wū | house; building; real estate
+    木屋 | mù wū | wooden cabin; log cabin
+    同屋 | tóng wū | roommate; cabin mate
+
+semantic_boundary_contrasts:
+  core_nuance: 屋子 is an informal, vernacular everyday word for a physical enclosed domestic room or small dwelling.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 屋子 vs. 房间 | fángjiān | 屋子 is colloquial and paints a vivid domestic living scene, whereas 房间 is the neutral standard term used in hotels, formal descriptions, and architectural layouts.
+    2 | 屋子 vs. 房屋 | fángwū | 屋子 refers to specific interior rooms or a cozy private home, while 房屋 is formal and collective, denoting physical residential real estate or urban building structures.
+    3 | 屋子 vs. 卧室 | wòshì | 屋子 can denote any room or the whole cottage, whereas 卧室 is specifically designated as a bedroom for sleeping.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 无论是简陋的茅草房还是宽敞的楼房，只要有亲人在，屋子里就会弥漫着烟火气。每当黄昏归家，推开那扇熟悉的木门，扑面而来的饭菜香气总能抚平一整天的疲惫，让人安然入梦。 | Wúlùn shì jiǎnlòu de máocǎofáng háishì kuānchǎng de lóufáng, zhǐyào yǒu qīnrén zài, wūzi lǐ jiù huì mímàn zhe yānhuǒqì. Měidāng huánghūn guījiā, tuīkāi nà shàn shúxī de mùmén, pūmiàn ér lái de fàncài xiāngqì zǒng néng fǔpíng yì zhěng tiān de píbèi, ràng rén ānrán rùmèng. | Whether a rustic thatched hut or a spacious apartment, as long as loved ones are there, the room fills with the warmth of living. Opening that familiar wooden door at dusk, welcoming aromas of dinner dissolve exhaustion, inviting sweet dreams. | Sea una humilde choza o un piso amplio, mientras esté la familia, la habitación rebosa de vida entrañable. Al volver al anochecer y abrir la puerta familiar, los reconfortantes aromas culinarios disipan el cansancio e invitan al sosiego.
+  #2 | 传统民居的空间布局蕴含着深刻的中国宗族伦理。正厅用于待客与祭祖，厢房则作为晚辈日常居住的屋子。这种等级分明的建筑形制，不仅反映了家庭内部的长幼有序，更强化了血缘纽带与道德规约。 | Chuántǒng mínjū de kōngjiān bùjú yùnhán zhe shēnkè de Zhōngguó zōngzú lúnlǐ. Zhèngtīng yòngyú dàikè yǔ jìzǔ, xiāngfáng zé zuòwéi wǎnbèi rìcháng jūzhù de wūzi. Zhè zhǒng děngjí fēnmíng de jiànzhù xíngzhì, bùjǐn fǎnyìng le jiātíng nèibù de zhǎngyòuyǒuxù, gèng qiánghuà le xiěyuán niǔdài yǔ dàodé guīyuē. | The spatial layout of traditional dwellings reflects Chinese ancestral ethics. The central hall hosted guests and rituals, while wing rooms served as living quarters for juniors. This hierarchical architecture reinforced generational respect and moral norms within the clan. | La disposición de las viviendas vernáculas refleja la ética familiar tradicional. El salón principal acogía rituales, y las estancias laterales eran habitaciones para los jóvenes. Esta estructura jerárquica fortalecía el respeto generacional y los lazos de linaje.

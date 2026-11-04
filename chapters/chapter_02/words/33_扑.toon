@@ -1,0 +1,64 @@
+id: 33
+hanzi: 扑
+pinyin: pū
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to throw oneself on; to pounce on; to rush forward; to flap; to extinguish (fire)
+  es: abalanzarse; arrojarse sobre; lanzarse; abofetear; apagar (fuego)
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to throw one's whole body forward onto something (a bed, person, prey) | arrojarse sobre; abalanzarse hacia delante | 扑向母亲的怀抱 (throw oneself into mother's embrace)
+  2 | Verb | Standard | to waft or blow directly into one's face (aroma, heat, wind) | dar de lleno en el rostro (olor, calor, brisa) | 扑面而来 (blow right into one's face)
+  3 | Verb | Standard | to stamp out or extinguish (a blaze or flames) | sofocar o apagar (las llamas) | 扑灭大火 (extinguish a fire)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 闻到被子上浓浓的阳光味道，疲惫的孩子迫不及待地猛扑到床上，把脸深深埋进柔软的棉被里。 | Wéndào bèizi shàng nóngnóng de yángguāng wèidao, píbèi de háizi pòbùjídài de měng pū dào chuáng shàng, bǎ liǎn shēndìng máijìn róuruǎn de miánbèi lǐ. | Smelling the rich scent of sunshine on the quilt, the exhausted child impatiently threw himself onto the bed, burying his face in soft cotton. | Al oler la densa fragancia a sol en el edredón, el niño rendido se abalanzó ansioso sobre la cama enterrando la cara en el algodón.
+  #2 | 森林消防特勤支队顶着滚滚浓烟与灼人热浪冲上火场，经过数小时连续奋战终于扑灭了多处蔓延的山火。 | Sēnlín xiāofáng tèqín zhīduì dǐng zhe gǔngǔn nóngyān yǔ zhuórén rèlàng chōng shàng huǒchǎng, jīngguò shù xiǎoshí liánxù fènzhàn zhōngyú pūmiè le duō chù mànyán de shānhuǒ. | Braving billowing smoke and scorching heat waves, forest firefighting detachments charged the fireground, extinguishing several spreading wildfires after hours of combat. | Afrontando el humo y el calor sofocante, los bomberos forestales cargaron contra el fuego sofocando tras varias horas las llamas en la sierra.
+
+collocations[6]{hanzi,en}:
+  扑面而来 | blow / waft right into one's face
+  猛扑 | pounce violently; throw oneself forward
+  扑灭 | extinguish; put out (fire)
+  扑空 | fail to find someone; miss an appointment
+  扑通 | splash; thud (onomatopoeia)
+  扑向 | rush toward; throw oneself into
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  飞蛾扑火 | fēi é pū huǒ | moths fly into the flame; rush to one's own destruction
+  饿虎扑食 | è hǔ pū shí | hungry tiger pouncing on its prey; pounce with ferocious eagerness
+  扑朔迷离 | pū shuò mí lí | complicated and bewildering; confusingly intricate
+  前赴后继 | qián fù hòu jì | advance wave upon wave as those ahead fall
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  扑 | pū | throw oneself on; pounce; tap | arrojarse; abalanzarse; golpear | 扌 | hand | 扌 (hands reaching out vigorously) | 卜 (bǔ, divining crack / phonetic) | 5 | 左右结构 | Phono-semantic compound combining hand radical 扌 with phonetic 卜; simplified from traditional 撲. | Hands outstretched (扌) lunging forward with explosive energy like a sudden crack (卜) to clasp something. | Brazos abiertos (扌) que se lanzan con fuerza súbita (卜) hacia delante para arrojarse sobre algo. | 55 | QY | 撲
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Reaching out both hands (扌) with a sudden thrust (卜) allows you to throw yourself onto (扑) the bed.
+  composite_memory_hook_es: Extender las manos (扌) con impulso decidido (卜) para arrojarse de lleno (扑) sobre el lecho.
+  cultural_and_cognitive_roots: In Chinese vernacular imagery, '扑' captures unfiltered kinetic emotion: a joyful child leaping into a mother's arms, or an exhausted wanderer collapsing headlong into a fresh quilt.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 1st tone with a sustained high pitch: 'pū' (55). Distinct from 4th tone 'pù' (as in 铺铺).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    补 | bǔ | repair; mend; supplement | Has 衤 (clothing) on left with 卜 on right
+    朴 | pǔ | simple; plain; surname | Has 木 (wood) on left with 卜 on right
+    挂 | guà | hang; suspend | Has 扌 with 圭 instead of 卜
+    打 | dǎ | strike; hit | Has 丁 on the right instead of 卜
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    扑灭 | pū miè | extinguish; put out
+    扑击 | pū jī | pounce and strike
+    打扑克 | dǎ pū kè | play poker cards (loanword)
+    扑腾 | pū teng | flap wings; struggle
+
+semantic_boundary_contrasts:
+  core_nuance: 扑 emphasizes a sudden, forceful, whole-body forward lunging movement toward an object.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 扑 vs. 跳 | tiào | 扑 emphasizes forward bodily lunging or throwing oneself flat onto a surface (e.g. 扑在床上), whereas 跳 emphasizes vertical leaping, bounding, or hopping (e.g. 跳高, 跳绳).
+    2 | 扑 vs. 冲 | chōng | 扑 implies landing directly onto a target to grab or cover it, while 冲 emphasizes high linear velocity charging through space (e.g. 冲向终点).
+    3 | 扑 vs. 倒 | dǎo | 扑 is an intentional kinetic lunging action, whereas 倒 indicates tumbling, falling down, or collapsing due to loss of balance (e.g. 摔倒).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 无论年纪多大，只要回到母亲身边，我们便依然是个依恋温暖的孩子。推开房门，闻着被褥间扑鼻而来的阳光气息，整个人猛地扑了上去，所有的疲惫与烦恼在这一瞬间被彻底治愈。 | Wúlùn niánjì duō dà, zhǐyào huídào mǔqīn shēnbiān, wǒmen biàn yīrán shì gè yīliàn wēnnuǎn de háizi. Tuīkāi fángmén, wén zhe bèirù jiān pūbí ér lái de yángguāng qìxī, zhěnggè rén měng de pū le shàngqù, suǒyǒu de píbèi yǔ fánnǎo zài zhè yí shùnjiān bèi chèdǐ zhìyù. | No matter our age, returning to mother's side we remain children craving warmth. Pushing open the room and breathing sunlit fragrance wafting from bedding, collapsing onto it heals all fatigue and trouble. | Sin importar los años, junto a la madre seguimos siendo niños en busca de cobijo. Al abrir el cuarto y oler la fragancia a sol de las mantas, arrojarse sobre ellas sana toda congoja al instante.
+  #2 | 生态环保应急部门建立了重点林区无人机巡查与红外热成像预警网络。一旦发现早期火点，专业防灭火直升机便能在半小时内扑向险情核心区域实施精准洒水，将森林火灾扼杀在萌芽状态。 | Shēngtài huánbǎo yìngjí bùmén jiànlì le zhòngdiǎn línqū wúrénjī xúnchá yǔ hóngwài rèchéngxiàng yùjǐng wǎngluò. Yídàn fāxiàn zǎoqī huǒdiǎn, zhuānyè fáng-mièhuǒ zhíshēngjī biàn néng zài bàn xiǎoshí nèi pū xiàng xiǎnqíng héxīn qūyù shíshī jīngzhǔn sǎshuǐ, jiāng sēnlín huǒzāi èshā zài méngyá zhuàngtài. | Environmental agencies deploy drone patrols and infrared early warning in forests. Sighting early fire spots, specialized helicopters rush to disaster centers within half an hour, extinguishing blazes in the bud. | Los equipos forestales patrullan con drones y cámaras térmicas. Ante cualquier foco de humo, los helicópteros de extinción se lanzan a la zona crítica descargando agua para sofocar el fuego en su origen.

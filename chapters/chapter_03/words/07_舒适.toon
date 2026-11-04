@@ -1,0 +1,63 @@
+id: 7
+hanzi: 舒适
+pinyin: shū shì
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: comfortable; cozy; snug; easeful
+  es: cómodo; confortable; agradable; acogedor
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | providing physical ease, relaxation, or pleasant well-being | que produce bienestar físico, relajación o agrado | 舒适的环境 (comfortable environment)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他不愿一辈子过着安逸舒适的生活，而是渴望驾驶帆船去探索未知的辽阔世界。 | Tā bú yuàn yíbèizi guò zhe ānyì shūshì de shēnghuó, ér shì kěwàng jiàshǐ fānchuán qù tànsuǒ wèizhī de liáokuò shìjiè. | Unwilling to spend a lifetime in easy, comfortable ease, he yearned to pilot a sailboat to explore the vast unknown world. | Negándose a pasar toda la vida en una existencia plácida y cómoda, ansiaba tripular un velero para explorar la inmensidad del mundo ignoto.
+  #2 | 该度假酒店以符合人体工学的设计理念改造客房，为跨国商旅人士打造出极致舒适的休憩体验。 | Gāi dùjià jiǔdiàn yǐ fúhé réntǐ gōngxué de shèjì lǐniàn gǎizào kèfáng, wèi kuàguó shānglǚ rénshì dǎzào chū jízhì shūshì de xiūqì tǐyàn. | The resort hotel renovated guest rooms using ergonomic design concepts, crafting an intensely comfortable resting experience for international business travelers. | El complejo hotelero remodeló sus habitaciones con criterios ergonómicos, creando una experiencia de descanso de máximo confort para viajeros de negocios globales.
+
+collocations[6]{hanzi,en}:
+  舒适的生活 | comfortable life
+  环境舒适 | comfortable environment
+  感到舒适 | feel comfortable
+  舒适惬意 | cozy and pleasant
+  舒适整洁 | comfortable and tidy
+  舒适度 | degree of comfort; comfort level
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  舒心惬意 | shū xīn qiè yì | comfortable and gratified; relaxed and at ease
+  心广体胖 | xīn guǎng tǐ pán | carefree mind and healthy plump body; comfortable peace of mind
+  安居乐业 | ān jū lè yè | live and work in peace and contentment
+  得心应手 | dé xīn yìng shǒu | handy and comfortable; skilled and smooth
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  舒 | shū | stretch; relax; leisurely | estirar; relajar; pausado | 舌 | tongue / speech | 舍 (shè phonetic / lodge) | 予 (yú / stretch outward or give) | 12 | 左右结构 | Phono-semantic compound: giving (予) shelter in a dwelling (舍), allowing body and limbs to relax and stretch leisurely. | Resting your head peacefully in a home lodge (舍) while freely stretching out (予) your limbs. | Reposar con sosiego en un albergue (舍) extendiendo libremente (予) los brazos y el cuerpo. | 55 | OINN | ""
+  适 | shì | suitable; proper; comfortable | apto; adecuado; cómodo | 辶 | walk / motion | 辶 (walking path) | 舌 (shé phonetic / tongue or taste) | 9 | 半包围结构 | Ideogrammic compound: stepping forward along a smooth path (辶) where everything suits one's palate and senses (舌). | Strolling smoothly along a paved path (辶) where every step feels completely natural and fitting (舌). | Caminar a paso ligero por un sendero llano (辶) donde cada pisada resulta placentera y justa (舌). | 51 | YHR | 適
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When your limbs can freely stretch (舒) along a fitting path of life (适), you experience complete relaxation and comfort (舒适).
+  composite_memory_hook_es: Cuando el cuerpo se estira relajado (舒) por un camino favorable (适), se disfruta de pleno confort y bienestar (舒适).
+  cultural_and_cognitive_roots: Ancient Daoist aesthetics connected '舒' (stretching without constriction) with '适' (harmonious adaptation to nature), forming an ideal balance between mind and bodily ease.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by a sharp falling 4th tone: shū shì (55-51). Articulate 'shū' with smooth breath and conclude 'shì' decisively.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    舒 | shū | relax; stretch | Has 舍 on the left and 予 on the right
+    野 | yě | wild; open country | Has 里 on the left and 予 on the right
+    适 | shì | suitable; fit | Has 辶 radical enclosing 舌
+    恬 | tián | calm; quiet | Has 忄 (heart) radical on the left with 舌
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    舒服 | shū fu | comfortable; feel well
+    合适 | hé shì | suitable; appropriate; fitting
+    适应 | shì yìng | adapt to; adjust
+    舒展 | shū zhǎn | unfold; extend; smooth out
+
+semantic_boundary_contrasts:
+  core_nuance: 舒适 emphasizes an objective condition or environment providing pleasant, relaxing, high-quality sensory ease.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 舒适 vs. 舒服 | shūfu | 舒适 is more formal and literary, commonly modifying environments, clothing, or designs (环境舒适, 舒适的床垫), while 舒服 is colloquial and describes both physical ease and bodily health (身体不舒服).
+    2 | 舒适 vs. 安逸 | ānyì | 舒适 denotes enjoyable physical and atmospheric comfort, whereas 安逸 often carries a cautionary connotation of lazy complacency or avoiding life's challenges (贪图安逸).
+    3 | 舒适 vs. 自在 | zìzài | 舒适 focuses on sensory ease from external surroundings, while 自在 describes mental freedom, unrestricted behavior, and psychological autonomy.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 很多人将舒适的居所视作终生奋斗的归宿，但过度的安稳有时也会磨灭探索未知的勇气。当我们在温暖的房间里待得太久，不妨推开窗户，感受一下荒野的风与海水的咸涩，重燃内心对生命的渴望。 | Hěnduō rén jiāng shūshì de jūsuǒ shìzuò zhōngshēng fèndòu de guīsù, dàn guòdù de ānwěn yǒushí yě huì mómiè tànsuǒ wèizhī de yǒngqì. Dāng wǒmen zài wēnnuǎn de fángjiān lǐ dài de tài jiǔ, bùfáng tuīkāi chuānghu, gǎnshòu yíxià huāngyě de fēng yǔ hǎishuǐ de xiánsè, chóngrán nèixīn duì shēngmìng de kěwàng. | Many consider a comfortable home the ultimate prize of lifelong struggle, yet excessive security can dull courage to explore. Lingering too long in warm rooms, we might open the window to taste wild wind and sea salt, rekindling thirst for existence. | Muchos ven en un hogar confortable la meta de una vida de esfuerzo, pero el acomodo excesivo puede adormecer la audacia exploradora. Tras permanecer mucho tiempo al abrigo del hogar, conviene abrir la ventana al viento agreste y la sal marina para avivar la sed vital.
+  #2 | 现代工业设计越来越强调“以人为本”，在座椅研发中广泛引入空间力学与新材料科技，力求将人体工程学舒适度推向新高度。实验数据表明，优化办公环境的舒适水准不仅能显著缓解骨骼疲劳，更能提升脑力劳动者的长期专注度与工作效率。 | Xiàndài gōngyè shèjì yuèláiyuè qiángdiào "yǐrénwéiběn", zài zuòyǐ yánfā zhōng guǎngfàn yǐnrù kōngjiān lìxué yǔ xīn cáiliào kējì, lìqiú jiāng réntǐ gōngchéngxué shūshìdù tuīxiàng xīn gāodù. Shíyàn shùjù biǎomíng, yōuhuà bàngōng huánjìng de shūshì shuǐzhǔn bùjǐn néng xiǎnzhù huǎnjiě gǔgé píláo, gèng néng tíshēng nǎolì láodòngzhě de chángqī zhuānzhùdù yǔ gōngzuò xiàolǜ. | Contemporary industrial design emphasizes human-centric values, incorporating spatial ergonomics and modern materials into seating to elevate comfort. Empirical data confirms that optimizing workplace comfort mitigates musculoskeletal fatigue while boosting cognitive productivity. | El diseño industrial actual prima el principio humano, aplicando biomecánica y nuevos materiales al mobiliario para elevar el confort ergonómico. Los datos revelan que optimizar el confort en la oficina no solo alivia la fatiga física, sino que potencia la concentración intelectual.

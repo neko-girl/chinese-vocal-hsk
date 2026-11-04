@@ -1,0 +1,63 @@
+id: 13
+hanzi: 包括
+pinyin: bāo kuò
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to include; to comprise; to consist of; to encompass
+  es: incluir; abarcar; comprender; constar de
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to contain or encompass as part of a whole or category | incluir o abarcar como parte integrante de un conjunto | 包括各种费用 (include various expenses)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这次跨洋航行的必备物资清单非常庞大，不仅包括充足的淡水与干粮，还涵盖了各类卫星通信设备。 | Zhè cì kuàyáng hángxíng de bìbèi wùzī qīngdān fēicháng pángdà, bùjǐn bāokuò chōngzú de dànshuǐ yǔ gānliáng, hái hángài le gèlèi wèixīng tōngxìn shèbèi. | The supply checklist for this transoceanic voyage was massive, including not only abundant freshwater and provisions, but various satellite communication devices. | La lista de provisiones esenciales para esta travesía transoceánica era inmensa, incluyendo agua potable y víveres secos, además de equipos de comunicación satelital.
+  #2 | 该科技孵化器的扶持政策十分全面，包括提供免租办公场地、创业启动资金以及专业的知识产权法务咨询。 | Gāi kējì fūhuàqì de fúchí zhèngcè shífēn quánmiàn, bāokuò tígōng miǎnzū bàngōng chǎngdì, chuàngyè qǐdòng zījīn yǐjí zhuānyè de zhīshi chǎnquán fǎwù zīxún. | The technology incubator's support policy was comprehensive, including rent-free office spaces, startup capital, and professional intellectual property legal counsel. | La política de respaldo de la incubadora tecnológica era muy completa, incluyendo oficinas sin alquiler, capital semilla y asesoría legal sobre patentes.
+
+collocations[6]{hanzi,en}:
+  包括在内 | included within; count in
+  不包括 | not include; exclude
+  主要包括 | mainly consist of; primarily include
+  费用包括 | expenses include
+  其中包括 | among which are included
+  包括以下方面 | include the following aspects
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  无所不包 | wú suǒ bù bāo | all-inclusive; nothing omitted
+  兼收并蓄 | jiān shōu bìng xù | incorporate diverse elements; absorb all useful things
+  包罗万象 | bāo luó wàn xiàng | embrace everything in nature; all-embracing
+  囊括其中 | náng kuò qí zhōng | gather all into one's bag; encompass entirely
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  包 | bāo | wrap; pack; bundle | envolver; paquete; envoltorio | 勹 | wrap / embrace | 勹 (curving arms wrapping an object) | 巳 (sì / fetus or embryo) | 5 | 半包围结构 | Ancient pictograph of a mother's womb wrapping and nurturing an unborn child (巳). | Two curved maternal arms (勹) tenderly wrapping and embracing a tiny bundle (巳). | Dos brazos protectores (勹) envolviendo con mimo un bulto tierno (巳). | 55 | PFU | ""
+  括 | kuò | encompass; enclose; gather | abarcar; englobar; sujetar | 扌 | hand / action | 扌 (hand gathering and clasping together) | 舌 (kuò/shé phonetic / draw tight) | 9 | 左右结构 | Phono-semantic compound: using hands (扌) to bundle and tie up loose items within boundaries (舌). | A firm hand (扌) drawing an open cord tight around bundled items to encompass them all (舌). | Una mano firme (扌) anudando la cuerda de un saco para englobarlo todo dentro (舌). | 51 | QHR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Wrapping everything up in a package (包) and clasping it securely (括) ensures that all essential elements are included (包括).
+  composite_memory_hook_es: Envolverlo todo en un fardo (包) y sujetarlo con la mano (括) garantiza que todo quede incluido (包括).
+  cultural_and_cognitive_roots: Ancient Chinese philosophy valued comprehensive synthesis and holistic thinking ('兼容并包'). The compound '包括' embodies the conceptual metaphor of containment: a conceptual container holding varied parts into an organic unity.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by a sharp falling 4th tone: bāo kuò (55-51). Pronounce 'bāo' smoothly and crisply transition downward into 'kuò'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    包 | bāo | wrap; bundle | Curving wrap enclosing 巳
+    句 | jù | sentence | Encloses 口 (mouth) instead of 巳
+    括 | kuò | include; bracket | Has 扌 (hand) radical on the left and 舌 on the right
+    适 | shì | suitable; comfortable | Has 辶 (walk) radical enclosing 舌
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    包装 | bāo zhuāng | pack; package; wrapping
+    包含 | bāo hán | contain; embody; include
+    概括 | gài kuò | summarize; generalize
+    括号 | kuò hào | parenthesis; brackets
+
+semantic_boundary_contrasts:
+  core_nuance: 包括 denotes membership or containment within a collective whole, enumerating components or scope.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 包括 vs. 包含 | bāohán | 包括 is practical and enumerative, listing tangible components, members, or fees (费用包括早餐), whereas 包含 emphasizes abstract, deeper meanings or emotional undertones (这句话包含深刻的道理).
+    2 | 包括 vs. 涉及 | shèjí | 包括 defines internal membership within a set, while 涉及 describes reaching into, touching upon, or affecting outside domains (这个问题涉及到法律).
+    3 | 包括 vs. 涵盖 | hángài | 包括 is standard everyday and formal vocabulary, whereas 涵盖 is high-level, literary discourse denoting sweeping, overarching coverage (涵盖多个研究领域).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正的生活从不只有眼前的繁琐，还包括对远方星空的凝望与探索。人生的旅途就像一本厚重的书，既包括欢笑与收获的章节，也包括泪水与挫折的考验。只有接纳全部的经历，生命才算真正完整。 | Zhēnzhèng de shēnghuó cóngbù zhǐyǒu yǎnqián de fánsuǒ, hái bāokuò duì yuǎnfāng xīngkōng de níngwàng yǔ tànsuǒ. Rénshēng de lǚtú jiù xiàng yì běn hòuzhòng de shū, jì bāokuò huānxiào yǔ shōuhuò de zhāngjié, yě bāokuò lèishuǐ yǔ cuòzhé de kǎoyàn. Zhǐyǒu jiēnà quánbù de jīnglì, shēngmìng cái suàn zhēnzhèng wánzhěng. | True living encompasses not just immediate mundanities, but contemplating distant starry skies. Life's journey resembles a dense volume, including joyful harvest chapters as well as trials of tears and setbacks. Embracing the whole renders existence complete. | Vivir no es solo lidiar con afanes cotidianos, sino alzar la mirada hacia las estrellas. El camino vital asemeja un libro denso que incluye risas y frutos, mas también lágrimas y pruebas amargas. Solo abrazando cada vivencia la existencia alcanza su plenitud.
+  #2 | 联合国可持续发展目标构建了一个多元评估指标体系，核心内容不仅包括消除极端贫困与饥饿，更涵盖了促进性别平等、保护海洋生态以及应对全球气候变化等多重战略维度。这一综合框架为世界各国制定包容性公共治理政策确立了清晰的行动指南。 | Liánhéguó kěchíxù fāzhǎn mùbiāo gòujiàn le yí gè duōyuán pínggū zhǐbiāo tǐxì, héxīn nèiróng bùjǐn bāokuò xiāochú jíduān pínkùn yǔ jī'è, gèng hángài le cùjìn xìngbié píngděng, bǎohù hǎiyáng shēngtài yǐjí yìngduì quánqiú qìhòu biànhuà děng duōchóng zhànlüè wéidù. Zhè yí zōnghé kuàngjià wèi shìjiè gèguó zhìdìng bāoróngxìng gōnggòng zhìlǐ zhèngcè quèlì le qīngxī de xíngdòng zhǐnán. | The UN Sustainable Development Goals formulate a multidimensional metric system, including eradicating extreme poverty and hunger while advancing gender equality, marine preservation, and climate resilience. This framework furnishes clear roadmaps for inclusive public governance worldwide. | Los Objetivos de Desarrollo Sostenible de la ONU trazan un sistema de indicadores plural que incluye erradicar la pobreza y el hambre, abarcando la equidad de género, la protección marina y el cambio climático. Este marco global orienta políticas públicas inclusivas en todo el mundo.

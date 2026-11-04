@@ -1,0 +1,63 @@
+id: 32
+hanzi: 立刻
+pinyin: lì kè
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: immediately; at once; right away; promptly without delay
+  es: inmediatamente; enseguida; al instante; en el acto; de inmediato
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | immediately; without a moment's hesitation or delay | inmediatamente; de inmediato; al instante | 立刻出发 (depart at once)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 刚进家门闻到厨房里飘出的饭菜香味，长途奔波的饥饿感立刻涌了上来。 | Gāng jìn jiāmén wéndào chúfáng lǐ piāochū de fàncài xiāngwèi, chángtú bēnbō de jī'ègǎn lìkè yǒng le shànglái. | Stepping into the house and smelling meal aromas wafting from the kitchen, hunger from long-distance travel immediately surged up. | Al cruzar la puerta y aspirar el aroma que salía de la cocina, el hambre del largo viaje emergió de inmediato.
+  #2 | 监测系统一旦发现核心服务器遭遇异常流量攻击，应急防护脚本将立刻自动阻断风险端口。 | Jiāncè xìtǒng yídàn fāxiàn héxīn fúwùqì zāoyù yìcháng liúliàng gōngjī, yìngjí fánghù jiǎoběn jiāng lìkè zìdòng zǔduàn fēngxiǎn duānkǒu. | The moment the monitoring system detects anomalous traffic attacks on core servers, emergency defense scripts will immediately block risky ports automatically. | En cuanto el sistema detecta un tráfico anómalo sobre los servidores centrales, el protocolo de defensa bloquea al instante los puertos en riesgo.
+
+collocations[6]{hanzi,en}:
+  立刻执行 | execute immediately
+  立刻停止 | stop at once
+  立刻动身 | set off immediately
+  立刻回复 | reply promptly
+  立刻生效 | take effect immediately
+  立刻明白 | understand at once
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  立竿见影 | lì gān jiàn yǐng | erect a pole and see its shadow immediately; produce prompt, tangible results
+  风驰电掣 | fēng chí diàn chè | swift as the wind and quick as lightning; rapid motion
+  刻不容缓 | kè bù róng huǎn | brook not a moment's delay; extremely urgent
+  兵贵神速 | bīng guì shén sù | speed is precious in warfare; act with lightning swiftness
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  立 | lì | stand; erect; immediate | estar de pie; erigir; inmediato | 立 | stand / upright | 立 (person standing firmly erect on earth) | "" | 5 | 独体结构 | Ancient oracle script depicting a human figure standing upright with feet planted firmly on ground line, denoting instant readiness. | A person standing upright and poised on two feet (立), prepared to spring into prompt action. | Una persona erguida y firme sobre el suelo (立), preparada para actuar en el acto sin vacilar. | 51 | YT | 立
+  刻 | kè | engrave; carve; moment | tallar; grabar; cuarto de hora; instante | 刂 | knife / blade | 刂 (sharp cutting knife) | 亥 (hài, boar / phonetic) | 8 | 左右结构 | Phono-semantic compound where knife radical 刂 denotes carving notches on a water clock (clepsydra) to measure fleeting moments. | A sharp knife (刂) notching marks into a water clock to divide time into precise fleeting moments (刻). | Una cuchilla (刂) grabando muescas en el reloj de agua para marcar instantes precisos y veloces (刻). | 51 | YOLN | 刻
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Standing upright in readiness (立) at that precise notched moment (刻) means springing into action immediately (立刻).
+  composite_memory_hook_es: Ponerse de pie al instante (立) en el segundo marcado por el reloj (刻) significa actuar de inmediato (立刻).
+  cultural_and_cognitive_roots: In ancient Chinese chronometry, time on sundials and water clocks was measured in 'kè' (刻 = 1/100 of a day, roughly 14.4 minutes); combined with 'lì' (stand upright), it conveyed instant kinetic readiness.
+  tone_sandhi_and_pitch_modulation: Pronounced with paired 4th tones: 'lì kè' (51-51). Articulate both syllables with decisive, clipped staccato without softening the second tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    该 | gāi | should; ought to | Has 讠 (speech) on the left instead of 亥 with 刂
+    咳 | hāi / ké | cough | Has 口 (mouth) on the left of 亥
+    孩 | hái | child; kid | Has 子 (child) on the left of 亥
+    位 | wèi | place; position | Has 亻 (person) on the left of 立
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    立即 | lì jí | immediately; instantly
+    时刻 | shí kè | moment; constantly
+    深刻 | shēn kè | profound; deep
+    立场 | lì chǎng | stance; position
+
+semantic_boundary_contrasts:
+  core_nuance: 立刻 emphasizes zero elapsed time or absence of hesitation between stimulus and response.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 立刻 vs. 马上 | mǎshàng | 立刻 denotes zero time delay or instant reaction (e.g. 立刻停止), whereas 马上 can allow a brief practical buffer before execution (e.g. 我马上就来, often implies within a few minutes).
+    2 | 立刻 vs. 顿时 | dùnshí | 立刻 is an adverb modifying an intentional action or command, while 顿时 describes a sudden change in atmosphere, mood, or situation occurring in the past (e.g. 掌声顿时响了起来).
+    3 | 立刻 vs. 逐渐 | zhújiàn | 立刻 is instantaneous action, which is the exact antonym of 逐渐 (gradual, step-by-step progress over time).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 离家千里的游子推开久违的门扉，迎面撞见母亲含泪的眼眸，心中积攒的所有委屈与疲惫立刻烟消云散。那一刻，无需千言万语，紧紧的拥抱便足以将漫长岁月里的思念彻底填满。 | Líjiā qiānlǐ de yóuzǐ tuīkāi jiǔwéi de ménfēi, yíngmiàn zhuàngjiàn mǔqīn hánlèi de yǎnmóu, xīnzhōng jīzǎn de suǒyǒu wěiqu yǔ píbèi lìkè yānxiāo-yúnsàn. Nà yí kè, wúxū qiānyán-wànyǔ, jǐnjǐn de yōngbào biàn zúyǐ jiāng màncháng suìyuè lǐ de sīniàn chèdǐ tiánmǎn. | Pushing open the long-absent door and meeting mother's tearful eyes, grievances and exhaustion accumulated in my heart vanished immediately. In that moment, a tight embrace filled the yearning of long years without words. | Al empujar la puerta familiar y hallar la mirada emocionada de madre, los pesares del viaje se desvanecieron de inmediato. No hacían falta palabras: un abrazo apretado colmó la añoranza de años de distancia.
+  #2 | 现代应急管理机制强调“黄金响应时间”。突发灾害发生后，综合指挥中心必须立刻激活跨部门联勤联动预案，在数分钟内统筹调度救援梯队与医疗资源，最大限度保障人民群众生命财产安全。 | Xiàndài yìngjí guǎnlǐ jīzhì qiángdiào "huángjīn xiǎngyìng shíjiān". Tūfā zāihài fāshēng hòu, zōnghé zhǐhuī zhōngxīn bìxū lìkè jīhuó kuàbùmén liánqín liándòng yù'àn, zài shù fēnzhōng nèi tǒngchóu diàodù jiùyuán tīduì yǔ yīliáo zīyuán, zuìdà xiàndù bǎozhàng rénmín qúnzhòng shēngmìng cáichǎn ānquán. | Modern emergency management emphasizes the 'golden response window.' Following sudden disasters, central command must immediately activate cross-department protocols, dispatching rescue and medical teams within minutes. | La gestión de emergencias exige una respuesta inmediata. Ante catástrofes repentinas, el mando central activa al instante los protocolos de auxilio para desplegar equipos médicos y salvaguardar vidas humanas con celeridad.

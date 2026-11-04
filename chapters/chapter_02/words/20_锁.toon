@@ -1,0 +1,64 @@
+id: 20
+hanzi: 锁
+pinyin: suǒ
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to lock; lock; padlock; chain; to lock up; to knit (brows)
+  es: cerrar con llave; candado; cerradura; encadenar; fruncir (el ceño)
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to fasten or secure with a lock or latch | cerrar con llave; echar el cerrojo | 把门锁好 (lock the door properly)
+  2 | Noun | Standard | a mechanical or electronic fastening device opened by a key or code | cerradura; cerrojo; candado | 一把铜锁 (a bronze lock)
+  3 | Verb | Literary | to knit or contract tightly (as in brows/eyebrows in deep worry) | fruncir (el ceño por preocupación) | 眉头紧锁 (brows deeply furrowed)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 临出门前，母亲总要反复拉动门把手确认大门已经锁好，才放心地迈步下楼。 | Lín chūmén qián, mǔqīn zǒng yào fǎnfù lādòng ménbǎshou quèrèn dàmén yǐjīng suǒ hǎo, cái fàngxīn de màibù xiàlóu. | Just before stepping out, mother always rattles the door handle repeatedly to ensure the front door is securely locked before walking downstairs. | Antes de salir, mi madre siempre tira varias veces del picaporte para cerciorarse de que la puerta quedó bien cerrada antes de bajar.
+  #2 | 该数据中心部署了金融级智能数字密码锁与多模态生物识别门禁系统，全面防范未经授权的物理入侵。 | Gāi shùjù zhōngxīn bùshǔ le jīnróng jí zhìnéng shùzì mìmǎsuǒ yǔ duōmótài shēngwù shíbié ménjìn xìtǒng, quánmiàn fángfàn wèijīng shòuquán de wùlǐ rùqīn. | The data center deployed finance-grade smart digital combination locks and multimodal biometric access controls to guard against unauthorized entry. | El centro de datos implementó cerraduras digitales de seguridad bancaria y control biométrico de accesos para blindarse frente a intrusiones.
+
+collocations[6]{hanzi,en}:
+  一把锁 | a lock; a padlock
+  开锁 | unlock; pick a lock
+  锁门 | lock the door
+  上锁 | put a lock on; lock up
+  锁链 | chain; iron fetters
+  紧锁眉头 | furrow one's brows deeply
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  封关锁国 | fēng guān suǒ guó | close borders and lock up the country; strict isolationism
+  神魂颠倒 | shén hún diān dǎo | infatuated to distraction; soul turned topsy-turvy
+  闭关自守 | bì guān zì shǒu | close passes and defend oneself; adopt a closed-door stance
+  严阵以待 | yán zhèn yǐ dài | stand in tight array waiting for the enemy; fully prepared
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  锁 | suǒ | lock; latch; chain; fasten | cerradura; candado; cerrar con llave | 钅 | metal / gold | 钅 (metal hardware) | 琐 (suǒ, intricate link / small pieces) | 12 | 左右结构 | Phono-semantic compound where metal radical 钅 combines with phonetic 琐 (intricate links) to designate a secure locking mechanism. | An intricate metal device (钅) forged with precise interlocking tumblers (琐) to safeguard the house. | Un mecanismo metálico (钅) forjado con precisos engranajes (琐) para custodiar los bienes del hogar. | 214 | CFBO | 鎖
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A metal bolt (钅) fitted with intricate internal tumblers (琐) forms a secure lock (锁).
+  composite_memory_hook_es: Una pieza metálica (钅) con diminutos engranajes interiores (琐) constituye una cerradura segura (锁).
+  cultural_and_cognitive_roots: In ancient China, bronze fish locks ('鱼锁') symbolized vigilance because fish sleep with their eyes open; locking up signified not mere suspicion, but the moral boundary guarding home harmony.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 3rd tone with a dipping and rising contour: 'suǒ' (214). When followed by another 3rd tone (e.g. 锁好), 'suǒ' undergoes tone sandhi to 2nd tone: 'suó hǎo' (35-214).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    琐 | suǒ | trifling; trivial | Has 王 (jade) on the left instead of 钅 (metal)
+    销 | xiāo | melt; cancel; sell | Has 肖 on the right of 钅 instead of 琐
+    铝 | lǚ | aluminum | Has 吕 on the right of 钅 instead of 琐
+    错 | cuò | mistake; wrong; cross | Has 昔 on the right of 钅 instead of 琐
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    钥匙 | yào shi | key
+    锁链 | suǒ liàn | chain; iron links
+    枷锁 | jiā suǒ | shackles; fetters; yoke
+    锁骨 | suǒ gǔ | clavicle; collarbone
+
+semantic_boundary_contrasts:
+  core_nuance: 锁 refers to fastening or securing with a mechanical key/bolt, or shutting tight metaphorically.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 锁 vs. 关 | guān | 关 means closing or shutting a door/window without a key mechanism (e.g. 关门), whereas 锁 explicitly requires engaging a bolt or padlock (e.g. 把门锁上).
+    2 | 锁 vs. 封 | fēng | 锁 restricts access via a key mechanism while preserving the barrier, whereas 封 means sealing, gluing, or stamping shut completely (e.g. 封信, 封锁).
+    3 | 锁 vs. 扣 | kòu | 锁 secures with tumblers or padlocks, while 扣 means fastening buttons, buckles, or clasping with rings (e.g. 扣纽扣, 扣紧安全带).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 祖宅大门上的那把老铜锁早已生出了斑驳的绿锈，但在钥匙插入旋转的清脆声响中，尘封的童年记忆仿佛瞬间被打开。推开沉重的木门，天井里的青苔与老树依然守候在静谧的光阴里。 | Zǔzhái dàmén shàng de nà bǎ lǎo tóngsuǒ zǎoyǐ shēngchū le bānbó de lǜxiù, dàn zài yàoshi chārù xuánzhuǎn de qīngcuì shēngxiǎng zhōng, chénfēng de tóngnián jìyì fǎngrú shùnjiān bèi dǎkāi. Tuīkāi chénzhòng de mùmén, tiānjǐng lǐ de qīngtái yǔ lǎoshù yīrán shǒuhòu zài jìngmì de guāngyīn lǐ. | The old bronze padlock on the ancestral gate had grown mottled green patina, yet at the crisp click of the turning key, sealed childhood memories seemed to unlock instantly. Pushing open heavy doors, moss and old trees waited in tranquility. | El viejo cerrojo de bronce de la casa solariega mostraba pátina verdosa, pero al girar la llave con un chasquido limpio, los recuerdos sellados se abrieron de par en par. El musgo y los árboles aguardaban aún en silencio.
+  #2 | 随着移动物联网与生物识别技术的普及，传统机械锁正迅速向智能门锁系统迭代。通过集成活体指纹、3D人脸识别以及远程权限加密授权，现代安防系统在极大提升出入便捷性的同时，筑牢了数字家庭的安全防线。 | Suí zhe yídòng wùliánwǎng yǔ shēngwù shíbié jìshù de pǔjí, chuántǒng jīxièsuǒ zhèng xùnsù xiàng zhìnéng ménsuǒ xìtǒng diédài. Tōngguò jíchéng huótǐ zhǐwén, sān-D rénliǎn shíbié yǐjí yuǎnchéng quánxiàn jiāmì shòuquán, xiàndài ānfáng xìtǒng zài jídà tíshēng chūrù biànjièxìng de tóngshí, zhùláo le shùzì jiātíng de ānquán fángxiàn. | Driven by IoT and biometrics, mechanical locks are iterating into smart lock systems. Integrating live fingerprint, 3D facial recognition, and encrypted authorization, modern security elevates convenience while fortifying digital home safety. | Con el internet de las cosas y la biometría, las cerraduras mecánicas dan paso a cerraduras inteligentes. El reconocimiento facial y la huella digital dactilar multiplican la comodidad blindando la seguridad del hogar digital.

@@ -1,0 +1,64 @@
+id: 18
+hanzi: 强烈
+pinyin: qiáng liè
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: strong; intense; vehement; sharp; violent
+  es: fuerte; intenso; vehemente; agudo; violento
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | having immense physical force, brightness, scent, or impact | fuerte; intenso en luz, olor o fuerza física | 强烈的光线 (intense light beam)
+  2 | Adjective | Standard | vehement and passionate in feeling, desire, demand, or opposition | vehemente; ardiente; apasionado en sentimientos o demandas | 强烈的愿望 (strong desire)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 初夏午后的阳光十分强烈，母亲特意把厚厚的冬被抱到院子里暴晒，以便彻底杀灭潮气与细菌。 | Chūxià wǔhòu de yángguāng shífēn qiángliè, mǔqīn tèyì bǎ hòuhòu de dōngbèi bào dào yuànzi lǐ bàoshài, yǐbiàn chèdǐ shāmiè cháoqì yǔ xìjūn. | Early summer afternoon sunshine was exceptionally intense; mother took the thick winter quilts into the yard to bake under the sun to destroy moisture and germs. | El sol de la siesta estival pegaba muy fuerte; mi madre sacó los gruesos edredones de invierno al patio para secarlos al sol y eliminar la humedad.
+  #2 | 该国企图单方面修改贸易规则的做法，遭到了国际社会与周边多个邻国的强烈谴责与坚决抵制。 | Gāi guó qǐtú dānfāngmiàn xiūgǎi màoyì guīzé de zuòfǎ, zāodào le guójì shèhuì yǔ zhōubiān duō gè línguó de qiángliè qiǎnzé yǔ jiānjué dǐzhì. | The country's attempt to unilaterally alter trade rules met with intense condemnation and firm boycott from the international community and neighboring nations. | El intento de aquel país de modificar unilateralmente las reglas comerciales desató la enérgica condena y el firme boicot de la comunidad internacional.
+
+collocations[6]{hanzi,en}:
+  强烈要求 | strongly demand
+  强烈反对 | vehemently oppose
+  强烈对比 | sharp contrast
+  强烈的阳光 | intense sunlight
+  强烈的愿望 | strong desire / burning wish
+  强烈震撼 | deep / intense shock
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  烈火干柴 | liè huǒ gān chái | dry firewood near blazing fire; intense passion ready to erupt
+  轰轰烈烈 | hōng hōng liè liè | grand and vigorous; stirring and fiery
+  自强不息 | zì qiáng bù xī | constantly strive to improve oneself without cessation
+  旗帜鲜明 | qí zhì xiān míng | show a clear-cut and distinctive stance
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  强 | qiáng | strong; powerful; robust | fuerte; poderoso; robusto | 弓 | bow | 弓 (bow drawn under immense tension) | 虽 (insect / vigor) | 12 | 左右结构 | Phono-semantic compound where a tense hunting bow (弓) conveys resilience, power, and forceful elasticity. | An arched hunting bow (弓) stretched to maximum tension ready to release immense striking force. | Un arco tensado al máximo (弓) cargado de energía elástica para disparar con potencia descomunal. | 35 | NII | 強
+  烈 | liè | fiery; fierce; intense; ardent | ardiente; fiero; intenso; vehemente | 灬 | fire (four dots) | 灬 (blazing fire heat) | 列 (liè, line / array / phonetic) | 10 | 上下结构 | Phono-semantic compound where blazing fire dots 灬 combine with phonetic 列 to convey overwhelming searing energy. | A blazing roaring fire (灬) burning with such fury that its heat waves knock spectators back. | Un fuego abrasador (灬) que arde con tal furia que expande olas de calor sofocante. | 51 | MNF | 烈
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Combining the elastic force of a tense bow (强) with blazing fire (烈) creates an intensely powerful impact (强烈).
+  composite_memory_hook_es: Unir la fuerza de un arco tenso (强) con el fuego ardiente (烈) produce un impacto intensísimo (强烈).
+  cultural_and_cognitive_roots: In ancient natural philosophy, '烈' signifies fire at peak combustion while '强' denotes muscular or structural tenacity; together they embody forces that overcome resistance by sheer energy density.
+  tone_sandhi_and_pitch_modulation: Pronounced with a 35-51 pitch contour (2nd tone rising steadily, followed by 4th tone dropping with explosive force). Emphasize the crisp, punchy articulation on 'liè'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    列 | liè | row; array; line | Standalone phonetic root without the lower fire radical 灬
+    照 | zhào | photograph; illuminate | Has 昭 on top of 灬 instead of 列
+    弱 | ruò | weak; frail | Two bows back to back; direct semantic antonym of 强
+    弦 | xián | string; chord | Has 玄 on the right of 弓 instead of 虽
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    热烈 | rè liè | warm; enthusiastic; fervent
+    激烈 | jī liè | intense; fierce; heated
+    富强 | fù qiáng | rich and powerful; prosperous
+    倔强 | jué jiàng | stubborn; unyielding; obstinate
+
+semantic_boundary_contrasts:
+  core_nuance: 强烈 conveys extreme concentration of energy, high sensory impact, or fervent emotional force.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 强烈 vs. 激烈 | jīliè | 强烈 describes sensations, emotions, desire, or physical elements (e.g. 强烈光线, 强烈愿望), whereas 激烈 applies to dynamic competitive clashes, battles, or debates (e.g. 激烈竞争, 激烈争吵).
+    2 | 强烈 vs. 剧烈 | jùliè | 强烈 highlights intensity of feeling, brightness, or demands, while 剧烈 emphasizes violent physical bodily convulsions or shaking motion (e.g. 剧烈运动, 剧烈疼痛).
+    3 | 强烈 vs. 浓烈 | nóngliè | 强烈 applies to light, feelings, or arguments, while 浓烈 is restricted to dense fragrances, thick smoke, or heavy colors (e.g. 浓烈的香水味, 浓烈的色彩).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走进故乡的老屋，一股强烈的熟悉感瞬间涌上心头。斑驳的木桌、墙角的老钟，都在午后强烈的阳光中投下修长的影子，无声唤醒了沉睡在心底童年的纯真欢愉与深切眷恋。 | Zǒujìn gùxiāng de lǎowū, yì gǔ qiángliè de shúxīgǎn shùnjiān yǒng shàng xīntóu. Bānbó de mùzhuō, qiángjiǎo de lǎozhōng, dōu zài wǔhòu qiángliè de yángguāng zhōng tóuxià xiūcháng de yǐngzi, wúshēng huànxǐng le chénsùi zài xīndǐ tóngnián de chúnzhēn huānyú yǔ shēnqiè juànliàn. | Stepping into the old house, an intensely familiar feeling surged into my heart. The weathered table and grandfather clock cast long shadows in the intense afternoon sunlight, silently awakening childhood joys and deep affection. | Al entrar a la casa vieja, una intensa familiaridad inundó mi alma. La mesa descolorida y el reloj proyectaban largas sombras bajo el sol ardiente de la siesta, despertando los tiernos cariños de la niñez.
+  #2 | 全球气候变暖引发的极端天气事件呈现出频次增高与强度剧增的强烈态势。从超级干旱到破坏性飓风，气候危机的加剧促使国际社会形成强烈共识，必须加速落实碳减排目标，共同维护地球生态安全。 | Quánqiú qìhòu biànnuǎn yǐnfā de jíduān tiānqì shìjiàn chéngxiàn chū píncì zēnggāo yǔ qiángdù jùzēng de qiángliè tàishì. Cóng chāojí gānhàn dào pòhuàixìng jùfēng, qìhòu wēijī de jiājù cùshǐ guójì shèhuì xíngchéng qiángliè gòngshí, bìxū jiāsù luòshí tànjiǎnpái mùbiāo, gòngtóng wéihù dìqiú shēngtài ānquán. | Extreme weather events triggered by global warming show a strong trend of increased frequency and severity. From mega-droughts to hurricanes, the deepening crisis impels a strong international consensus to cut emissions. | El calentamiento global intensifica de forma extrema los temporales. De severas sequías a huracanes devastadores, la crisis climática exige un consenso firme internacional para acelerar la reducción de carbono.

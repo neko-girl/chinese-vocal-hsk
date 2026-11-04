@@ -1,0 +1,64 @@
+id: 29
+hanzi: 亮
+pinyin: liàng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: bright; shining; resonant; clear; to shine; to reveal; to dawn
+  es: brillante; claro; luminoso; sonoro; encenderse; amanecer; exhibir
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | bright; radiant; giving off or reflecting plentiful light | brillante; luminoso; bien iluminado | 屋里很亮 (the room is very bright)
+  2 | Verb | Standard | to illuminate; to light up; to shine; to dawn (of morning) | iluminar; encenderse; amanecer | 天刚亮 (the sky just dawned)
+  3 | Adjective | Standard | loud, clear, and sonorous in vocal tone or pitch | sonoro; claro y potente de voz | 嗓门很亮 (a very resonant voice)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过母亲一整天的擦拭收拾，客厅的地板和每扇玻璃窗都被擦得锃亮发光。 | Jīngguò mǔqīn yì zhěng tiān de cāshì shōushi, kètīng de dìbǎn hé měi shàn bōliboli dōu bèi cā de zèngliàng fāguāng. | Through mother's full day of wiping and tidying, the living room floor and every window pane were polished brilliantly shiny. | Gracias a la jornada de limpieza de mi madre, el suelo del salón y cada cristal de las ventanas quedaron relucientes como espejos.
+  #2 | 该新能源汽车搭载了全新一代矩阵式自适应激光大灯，夜间行车时能够智能照亮前方数百米道路并避免炫目。 | Gāi xīnnéngyuán qìchē dāzài le quánxīn yídài jùzhènshì zìshìyìng jīguāng dàdēng, yèjiān xíngchē shí nénggòu zhìnéng zhàoliàng qiánfāng shù bǎi mǐ dàolù bìng bìmiǎn xuànmù. | The new energy vehicle sports adaptive matrix laser headlights that smartly illuminate hundreds of meters ahead at night without dazzling others. | Este vehículo eléctrico incorpora faros matriciales láser inteligentes que iluminan cientos de metros de carretera nocturna sin deslumbrar a otros conductores.
+
+collocations[6]{hanzi,en}:
+  天亮 | dawn; daybreak
+  明亮 | bright; well-lit
+  眼前一亮 | one's eyes light up / deeply impressed
+  照亮 | illuminate; light up
+  响亮 | loud and clear; resonant
+  发亮 | shine; glisten
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  高风亮节 | gāo fēng liàng jié | noble character and integrity; high moral exemplary standards
+  打开天窗说亮话 | dǎ kāi tiān chuāng shuō liàng huà | open the skylight and speak frankly; speak plain truth
+  灯火辉煌 | dēng huǒ huī huáng | brilliantly illuminated with blazing lights
+  明察秋毫 | míng chá qiū háo | perceive the finest detail with piercing clarity
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  亮 | liàng | bright; clear; shine | brillante; luminoso; alumbrar | 亠 | lid / roof | 亠 (high lookout tower) | 儿 (standing person) | 9 | 上中下结构 | Ancient compound depicting a high elevated tower overlooking the horizon, catching the very first rays of morning light. | Standing tall atop a high lookout tower (亠+儿) as the morning sun breaks, illuminating the world in bright light (亮). | Erguido sobre una torre de vigía (亠+儿) al romper el alba, bañando el mundo con un resplandor brillante (亮). | 51 | YBRN | 亮
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Gazing outward from a high open pavilion (亠) reveals a clear and wonderfully bright (亮) morning horizon.
+  composite_memory_hook_es: Mirar al horizonte desde un pabellón elevado (亠) descubre una mañana diáfana y brillante (亮).
+  cultural_and_cognitive_roots: In classical aesthetics, '亮' unites ocular luminosity with moral clarity (as in Zhuge Liang's courtesy name 'Kongming' 孔明 / 亮), embodying transparency, nobility, and enlightenment.
+  tone_sandhi_and_pitch_modulation: Pronounced in the 4th tone with a decisive dropping pitch: 'liàng' (51). Vowel articulation is open, resonant, and crisp.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    高 | gāo | high; tall | Has 口 in the lower portion instead of 冖 and 儿
+    毫 | háo | fine hair; milli- | Has 毛 (hair) at the bottom instead of 儿
+    亨 | hēng | prosperous; smooth | Middle and lower components differ from 亮
+    景 | jǐng | view; scenery | Has 日 (sun) on top of 京 instead of 亠
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    月亮 | yuè liang | the moon
+    亮堂 | liàng tang | brightly lit; spacious and airy
+    漂亮 | piào liang | pretty; beautiful
+    光亮 | guāng liàng | bright light; luster
+
+semantic_boundary_contrasts:
+  core_nuance: 亮 describes the optical property of emitting or reflecting strong visible illumination or acoustic sonority.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 亮 vs. 暗 | àn | 亮 indicates abundant illumination and visibility, whereas 暗 is its direct antonym, signifying darkness, dimness, or obscurity.
+    2 | 亮 vs. 明 | míng | 亮 emphasizes the immediate optical sensation of shining brightness (e.g. 屋里很亮), while 明 encompasses conceptual clarity, wisdom, and transparency (e.g. 明白, 聪明).
+    3 | 亮 vs. 晴 | qíng | 亮 describes light intensity anywhere, while 晴 specifically describes weather without cloud or rain (e.g. 晴天).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 无论走多远，故乡窗口那一抹温暖的亮光，始终是照亮游子归途的灯塔。每当穿过漆黑的乡村小道，望见母亲在窗前翘首以盼的身影，一路的风霜与疲惫便全都在那片光晕中消散了。 | Wúlùn zǒu duō yuǎn, gùxiāng chuāngkǒu nà yì mǒ wēnnuǎn de liàngguāng, shǐzhōng shì zhàoliàng yóuzǐ guītú de dēngtǎ. Měidāng chuānguò qīhēi de xiāngcūn xiǎodào, wàngjiàn mǔqīn zài chuāngqián qiáoshǒu-yǐpàn de shēnyǐng, yílù de fēngshuāng yǔ píbèi biàn quán dōu zài nà piàn guāngyùn zhōng xiāosàn le. | No matter how far I wander, the warm glow in my hometown window remains a lighthouse illuminating the path home. Sighting mother waiting at the window through black lanes, all road fatigue vanishes in that halo. | Por lejos que viaje, el cálido resplandor en la ventana de mi aldea natal es un faro que guía el regreso. Al divisar a mi madre aguardando tras el cristal, las fatigas del camino se desvanecen en su luz.
+  #2 | 现代化城市照明设计正由传统的单一功能性照明向“绿色光环境”跃升。利用低能耗发光二极管与物联网智能调光矩阵，城市景观照明在夜间按需点亮，既展现了都市璀璨魅力，又实现了显著节能降碳。 | Xiàndàihuà chéngshì zhàomíng shèjì zhèng yóu chuántǒng de dānyī gōngnéngxìng zhàomíng xiàng "lǜsè guāng huánjìng" yuèshēng. Lìyòng dī nénghào fāguāng'èjíguǎn yǔ wùliánwǎng zhìnéng tiáoguāng jùzhèn, chéngshì jǐngguān zhàomíng zài yèjiān ànxū diǎnliàng, jì zhǎnxiàn le dūshì cuǐcàn mèilì, yòu shíxiàn le xiǎnzhù jiénéng jiàngtàn. | Urban lighting design has jumped from simple illumination to green optical environments. Smart IoT dimming matrices light up cityscapes on demand, showcasing modern beauty while curbing carbon emissions. | El diseño del alumbrado urbano evoluciona hacia una iluminación ecológica inteligente. Matrices LED controladas por sensores iluminan las avenidas según la demanda, aunando esplendor estético y ahorro energético.

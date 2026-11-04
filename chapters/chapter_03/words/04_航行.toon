@@ -1,0 +1,64 @@
+id: 4
+hanzi: 航行
+pinyin: háng xíng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to sail; to navigate; to cruise by sea or air; voyage
+  es: navegar; surcar el mar o el aire; travesía náutica o aérea
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to travel on water or through the air along a course | navegar o desplazarse por agua o aire siguiendo una ruta | 在大海上航行 (navigate upon the open sea)
+  2 | Noun | Formal | the act or course of navigating; cruising | navegación; travesía náutica o aérea | 安全航行 (safe navigation)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过长达三个月的艰难航行，考察船终于穿越了风暴肆虐的海峡，安全抵达南极科考站。 | Jīngguò chángdá sān gè yuè de jiānnán hángxíng, kǎocháchuán zhōngyú chuānyuè le fēngbào sìnüè de hǎixiá, ānquán dǐdá nánjí kěkǎozhàn. | After three months of arduous navigation, the expedition ship finally crossed the storm-ravaged strait and arrived safely at the Antarctic station. | Tras tres meses de difícil navegación, el buque científico cruzó al fin el estrecho azotado por temporales y arribó a salvo a la base antártica.
+  #2 | 民航机长凭借精湛的飞行技能与敏锐的判断，保障了航班在恶劣雷雨天气下的平稳航行。 | Mínháng jīzhǎng píngjiè jīngzhàn de fēixíng jìnéng yǔ mǐnruì de pànduàn, bǎozhàng le hángbān zài èliè léiyǔ tiānqì xià de píngwěn hángxíng. | Relying on consummate piloting skills and keen judgment, the commercial airline captain ensured steady flight through severe thunderstorms. | Gracias a su destreza de pilotaje y agudo criterio, el comandante de aviación comercial garantizó un vuelo estable y seguro bajo severas tormentas.
+
+collocations[6]{hanzi,en}:
+  安全航行 | safe navigation / cruising
+  航行路线 | navigation route / course
+  远洋航行 | ocean-going voyage
+  停止航行 | suspend navigation
+  航行自由 | freedom of navigation
+  昼夜航行 | sail day and night
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  乘风破浪 | chéng fēng pò làng | ride the wind and break the waves; brave hardships boldly
+  扬帆起航 | yáng fān qǐ háng | hoist the sails and set out on a voyage
+  栈山航海 | zhàn shān háng hǎi | scale mountains and sail seas; endure arduous travels
+  梯山航海 | tī shān háng hǎi | scale cliffs and navigate oceans; travel from distant lands
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  航 | háng | navigate; sail; fly | navegar; cruzar aguas o aire | 舟 | boat / canoe | 舟 (boat hull traversing water) | 亢 (kàng, phonetic / neck or high contour) | 10 | 左右结构 | Phono-semantic compound combining boat (舟) with phonetic 亢, designating watercraft crossing open waters or air. | A boat (舟) holding its bow high (亢) as it plows through oceanic waves. | La proa de una nave (舟) levantada con orgullo (亢) mientras surca el oleaje marítimo. | 35 | HYYHN | ""
+  行 | xíng | walk; go; travel | andar; marchar; desplazarse | 行 | crossroads / step | 行 (pictograph of a four-way intersection) | "" | 6 | 左右结构 | Ancient pictograph of a four-way road crossroads where people step forward and journey. | Footsteps walking briskly through a wide four-way street intersection (行). | Pasos decididos que avanzan a través de una encrucijada de caminos (行). | 35 | HONN | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A ship (航) proceeding along a charted oceanic road (行) carries out a magnificent voyage of navigation (航行).
+  composite_memory_hook_es: Una embarcación (航) que avanza por una ruta trazada (行) emprende una maravillosa travesía de navegación (航行).
+  cultural_and_cognitive_roots: The character '航' originated with aquatic navigation and Zheng He's medieval maritime expeditions, later extended metaphorically in the 20th century to aeronautics (航空) and spaceflight (航天).
+  tone_sandhi_and_pitch_modulation: Two consecutive rising 2nd tones: háng xíng (35-35). Both rise smoothly without pitching too abruptly.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    航 | háng | sail; fly | Has 舟 (boat) on the left and 亢 on the right
+    抗 | kàng | resist; combat | Has 扌 (hand) radical on the left with 亢
+    坑 | kēng | pit; hole; defraud | Has 土 (earth) radical on the left with 亢
+    炕 | kàng | heatable brick bed | Has 火 (fire) radical on the left with 亢
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    航空 | háng kōng | aviation; aeronautics
+    航天 | háng tiān | spaceflight; astronautics
+    航班 | háng bān | scheduled flight; sailing schedule
+    航线 | háng xiàn | air route; shipping sea lane
+
+semantic_boundary_contrasts:
+  core_nuance: 航行 specifically refers to long-distance motion through fluid mediums (water or air) along planned navigational tracks.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 航行 vs. 行驶 | xíngshǐ | 航行 applies specifically to ships in water or aircraft in the air, while 行驶 typically applies to wheeled motor vehicles on land roads (汽车在公路上行驶).
+    2 | 航行 vs. 飞行 | fēixíng | 航行 encompasses both sea voyage and air travel with an emphasis on navigational course, whereas 飞行 refers strictly to airborne travel or avian flight.
+    3 | 航行 vs. 漂泊 | piāobó | 航行 conveys purposeful, controlled movement guided by a helm, whereas 漂泊 emphasizes aimless drifting or wandering without a permanent home.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 驾驶帆船在无垠的大洋中航行，是对水手意志与体魄的双重洗礼。当陆地彻底消失在地平线之外，唯有头顶的北极星指引前路。这种与风浪搏击的过程，让人深切领会到人类在自然面前的渺小与坚韧。 | Jiàshǐ fānchuán zài wúyín de dàyáng zhōng hángxíng, shì duì shuǐshǒu yìzhì yǔ tǐpò de shuāngchóng xǐlǐ. Dāng lùdì chèdǐ xiāoshī zài dìpíngxiàn zhīwài, wéiyǒu tóudǐng de běijíxīng zhǐyǐn qiánlù. Zhè zhǒng yǔ fēnglàng bójī de guòchéng, ràng rén shēnqiè lǐnghuì dào rénlèi zài zìrán miànqián de miǎoxiǎo yǔ jiānrèn. | Sailing a yacht across the boundless ocean is a baptism of both will and physical endurance. When land recedes past the horizon, only Polaris guides the vessel. Contending with waves reveals humanity's profound insignificance yet unyielding tenacity. | Navegar en velero por la inmensidad del océano bautiza el temple y el vigor físico del marinero. Al disiparse la costa en el horizonte, solo la Estrella Polar guía el rumbo. Luchar contra el temporal revela tanto la pequeñez humana como su indomable tenacidad.
+  #2 | 现代卫星导航与气象雷达系统的普及，彻底革新了全球远洋航运产业的航行模式。海事部门能够实时监控航道水文变化与极端天气演变，精准规划避风路径，从而大幅降低了海上事故率，确保国际贸易大通道的安全畅通。 | Xiàndài wèixīng dǎoháng yǔ qìxiàng léidá xìtǒng de pǔjí, chèdǐ gēxīn le quánqiú yuǎnyáng hángyùn chǎnyè de hángxíng móshì. Hǎishì bùmén nénggòu shíshí jiānkòng hángdào shuǐwén biànhuà yǔ jíduān tiānqì yǎnbiàn, jīngzhǔn guīhuà bìfēng lùjìng, cóng'ér dàfú jiàngdī le hǎishàng shìgùlǜ, quèbǎo guójì màoyì dàtōngdào de ānquán chàngtōng. | The ubiquity of satellite navigation and weather radar has revolutionized ocean freight navigation models. Maritime authorities monitor real-time hydrological shifts and extreme storms to chart storm-evading courses, dramatically lowering maritime incidents. | La generalización del GPS por satélite y los radares meteorológicos ha revolucionado la navegación en el transporte marítimo mundial. Las autoridades marítimas monitorizan corrientes y tormentas para trazar rutas seguras, reduciendo siniestros y blindando el comercio.

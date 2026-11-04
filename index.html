@@ -3,14 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HSK 5 Chinese Vocabulary Visualizer</title>
+  <title>HSK 5 Chinese Vocabulary & Anki Memorizer</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="web/css/style.css">
+  <link rel="stylesheet" href="web/css/anki.css">
   <!-- Optional fallbacks for direct file:// browser access -->
   <script src="data/chapters.js"></script>
   <script src="chapters/chapter_01/data.js"></script>
+  <script src="chapters/chapter_02/data.js"></script>
 </head>
 <body>
 
@@ -36,8 +38,18 @@
         <input type="text" id="search-input" placeholder="Search Hanzi, Pinyin, EN, ES...">
       </div>
 
+      <!-- Spaced Repetition & Memorization Status Filters -->
+      <div class="review-filter-row">
+        <button class="review-chip active" data-status="all">All</button>
+        <button class="review-chip" data-status="due">Due (SRS)</button>
+        <button class="review-chip" data-status="lapses">Lapses (🔴)</button>
+        <button class="review-chip" data-status="remembered">Remembered (🟢)</button>
+        <button class="review-chip" data-status="new">New (⚪)</button>
+      </div>
+
+      <!-- Part of Speech Filter Chips -->
       <div class="pos-filters" id="pos-filters">
-        <button class="filter-chip active" data-pos="ALL">All</button>
+        <button class="filter-chip active" data-pos="ALL">All POS</button>
         <button class="filter-chip" data-pos="Noun">Noun</button>
         <button class="filter-chip" data-pos="Verb">Verb</button>
         <button class="filter-chip" data-pos="Adjective">Adjective</button>
@@ -58,12 +70,31 @@
     <header class="topbar">
       <div class="nav-controls">
         <button class="btn btn-icon" id="toggle-sidebar-btn" title="Toggle Sidebar">☰</button>
+        
+        <!-- Mode Switcher: Flashcard vs Browse -->
+        <div class="mode-switch-group">
+          <button class="mode-btn active" data-mode="flashcard" title="Anki Spaced Repetition Mode">🗂️ Flashcard</button>
+          <button class="mode-btn" data-mode="browse" title="Full Dictionary Browse Mode">📖 Browse</button>
+        </div>
+
         <button class="btn" id="prev-btn">← Prev</button>
         <button class="btn" id="next-btn">Next →</button>
         <span style="font-size: 0.82rem; color: var(--text-dim);" id="word-counter">01 / 38</span>
       </div>
 
       <div class="nav-controls">
+        <!-- Chapter Mastery Progress -->
+        <div class="mastery-progress-pill" title="Chapter Mastery Progress (Remembered in Cache Memory)">
+          <span id="mastery-text">0/38 (0%)</span>
+          <div class="mastery-bar-track">
+            <div class="mastery-bar-fill" id="mastery-bar-fill" style="width: 0%;"></div>
+          </div>
+        </div>
+
+        <!-- Shortcuts Help Modal Trigger -->
+        <button class="btn btn-icon" onclick="App.toggleShortcutsModal()" title="Keyboard Shortcuts (?)">⌨️</button>
+
+        <!-- Language Switcher -->
         <div class="lang-toggle">
           <button class="lang-btn active" data-lang="both">Bilingual</button>
           <button class="lang-btn" data-lang="en">EN</button>
@@ -73,11 +104,127 @@
     </header>
 
     <div class="content-wrap" id="detail-container">
-      <!-- Word details rendered dynamically -->
+      <!-- Word details or Flashcard rendered dynamically -->
     </div>
   </main>
 
+  <!-- Sticky Bottom Anki Response Bar -->
+  <div id="anki-action-bar" class="anki-bottom-bar">
+    <!-- Populated dynamically by renderer -->
+  </div>
+
+  <!-- Drawer Backdrop Overlay -->
+  <div id="drawer-overlay" class="drawer-overlay" onclick="App.closeDrawers()"></div>
+
+  <!-- External Lookup Drawer -->
+  <div id="ankineitor-lookup-drawer" class="ankineitor-drawer" aria-hidden="true">
+    <div class="drawer-header">
+      <div class="drawer-title-group">
+        <span>🔍 External Lookups</span>
+        <span class="drawer-term-badge" id="lookup-word-badge">词</span>
+      </div>
+      <button type="button" class="drawer-close-btn" onclick="App.closeDrawers()">&times;</button>
+    </div>
+    <div class="drawer-content" id="lookup-links-list">
+      <!-- Injected dynamically -->
+    </div>
+  </div>
+
+  <!-- Study & Display Settings Drawer -->
+  <div id="ankineitor-settings-drawer" class="ankineitor-drawer" aria-hidden="true">
+    <div class="drawer-header">
+      <div class="drawer-title-group">
+        <span>⚙️ Study & Display Settings</span>
+      </div>
+      <button type="button" class="drawer-close-btn" onclick="App.closeDrawers()">&times;</button>
+    </div>
+    <div class="drawer-content">
+      <div class="setting-row">
+        <div>
+          <span class="setting-title">Auto-Play Headword Audio</span>
+          <span class="setting-desc">Speak pronunciation via TTS on answer reveal</span>
+        </div>
+        <label class="ankineitor-switch">
+          <input type="checkbox" id="toggle-auto-audio" checked>
+          <span class="slider"></span>
+        </label>
+      </div>
+
+      <div class="setting-row">
+        <div>
+          <span class="setting-title">Tone Colors</span>
+          <span class="setting-desc">Colorize Pinyin syllables by tone marks</span>
+        </div>
+        <label class="ankineitor-switch">
+          <input type="checkbox" id="toggle-tone-colors" checked>
+          <span class="slider"></span>
+        </label>
+      </div>
+
+      <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 6px;">
+        <span class="setting-title">TTS Speech Speed</span>
+        <input type="range" id="speech-rate-range" min="0.7" max="1.2" step="0.05" value="0.9" style="width: 100%;">
+        <span class="setting-desc">Adjust speech speed for clear Chinese pronunciation</span>
+      </div>
+
+      <div style="margin-top: 24px; padding-top: 16px; border-top: 1px dashed var(--border);">
+        <button type="button" class="btn" style="width: 100%; color: #ef4444; border-color: rgba(239, 68, 68, 0.4);" onclick="App.resetCurrentChapterProgress()">
+          🗑️ Reset Chapter Progress
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Keyboard Shortcuts Cheatsheet Modal -->
+  <div id="shortcuts-modal" class="shortcuts-modal-wrap" onclick="if(event.target === this) App.closeDrawers();">
+    <div class="shortcuts-modal-card">
+      <div class="shortcuts-modal-header">
+        <div class="shortcuts-modal-title">⌨️ Keyboard Shortcuts</div>
+        <button type="button" class="drawer-close-btn" onclick="App.closeDrawers()">&times;</button>
+      </div>
+      <div class="shortcuts-modal-body">
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Show Answer / Flip Card</span>
+          <div class="shortcut-keys"><span class="kbd-key">Space</span><span class="kbd-key">Enter</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Mark as <strong>Don't Remember (Again)</strong></span>
+          <div class="shortcut-keys"><span class="kbd-key">1</span><span class="kbd-key">A</span><span class="kbd-key">←</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Mark as <strong>Remember (Good)</strong></span>
+          <div class="shortcut-keys"><span class="kbd-key">2</span><span class="kbd-key">Space</span><span class="kbd-key">D</span><span class="kbd-key">→</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Switch 8-Pill Tabs (On Back Card)</span>
+          <div class="shortcut-keys"><span class="kbd-key">1</span> - <span class="kbd-key">8</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Replay Headword Audio (TTS)</span>
+          <div class="shortcut-keys"><span class="kbd-key">R</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Flip Card Toggle</span>
+          <div class="shortcut-keys"><span class="kbd-key">F</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Open External Lookups Drawer</span>
+          <div class="shortcut-keys"><span class="kbd-key">L</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Open Study Settings Drawer</span>
+          <div class="shortcut-keys"><span class="kbd-key">S</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Close Drawers / Modals</span>
+          <div class="shortcut-keys"><span class="kbd-key">Esc</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- Application Modules -->
+  <script src="web/js/storage.js"></script>
   <script src="web/js/data_loader.js"></script>
   <script src="web/js/renderer.js"></script>
   <script src="web/js/app.js"></script>

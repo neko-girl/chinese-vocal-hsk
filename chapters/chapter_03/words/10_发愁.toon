@@ -1,0 +1,63 @@
+id: 10
+hanzi: 发愁
+pinyin: fā chóu
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to worry; to fret; to be anxious about; to be troubled
+  es: preocuparse; afligirse; estar inquieto; atribularse
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to feel worried, burdened, or distressed about difficulties or uncertainty | sentir preocupación, agobio o desazón ante dificultades o incertidumbre | 为学费发愁 (worry about tuition fees)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对航行中淡水短缺和食物不足的严峻现实，全家人虽然发愁，但依然相互鼓励咬牙坚持。 | Miànduì hángxíng zhōng dànshuǐ duǎnquē hé shíwù bùzú de yánjùn xiànshí, quán jiārén suīrán fāchóu, dàn yīrán xiānghù gǔlì yǎoyá jiānchí. | Confronted with severe water shortages and dwindling food during the voyage, the family worried, yet encouraged each other to persevere. | Ante la escasez de agua dulce y víveres en plena travesía, la familia no pudo evitar afligirse, pero se animó mutuamente a resistir con entereza.
+  #2 | 许多应届大学毕业生正在为找工作发愁，而职业规划导师建议他们拓宽思路，多尝试新兴业态。 | Xǔduō yīngjiè dàxué bìyèshēng zhèngzài wèi zhǎo gōngzuò fāchóu, ér zhíyè guīhuà dǎoshī jiànyì tāmen tuòkuān sīlù, duō chángshì xīnxīng yètài. | Many recent college graduates are fretting over job searches, while career mentors advise broadening horizons and trying emerging industries. | Muchos recién graduados universitarios se angustian buscando trabajo, mientras los orientadores laborales sugieren abrir la mente a nuevas industrias emergentes.
+
+collocations[6]{hanzi,en}:
+  为……发愁 | worry about / fret over
+  不用发愁 | no need to worry
+  令人发愁 | make someone anxious; worrisome
+  暗自发愁 | fret in secret
+  发愁叹气 | fret and sigh
+  为钱发愁 | worry about money
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  愁眉苦脸 | chóu méi kǔ liǎn | wear a worried frown; have a troubled countenance
+  借酒消愁 | jiè jiǔ xiāo chóu | drown one's sorrows in alcohol
+  多愁善感 | duō chóu shàn gǎn | prone to melancholy and sentimentality; overly sensitive
+  愁云惨雾 | chóu yún cǎn wù | gloom of sorrow and distressing clouds; atmosphere of gloom
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  发 | fā | emit; release; start | emitir; soltar; originar | 又 | hand / right hand | 又 (hand releasing an arrow) | 癶 (bō / foot step) | 5 | 独体结构 | Ancient ideograph of drawing a bow and releasing an arrow forward, extended to venting feelings outward. | An archer's hand releasing an arrow (发) sending emotions bursting outward into the open. | La mano del arquero que suelta la flecha (发), desatando las emociones contenidas hacia el exterior. | 55 | IVE | 發
+  愁 | chóu | worry; anxiety; gloom | preocupación; tristeza; desazón | 心 | heart / emotion | 心 (the human heart and seat of emotions) | 秋 (qiū phonetic / autumn, season of fading leaves) | 13 | 上下结构 | Phono-semantic compound: autumn chill (秋) weighing heavy upon the sensitive heart (心), evoking sorrow and anxiety. | As autumn winds (秋) strip the trees, a heavy chill settles upon your tender heart (心), stirring anxiety. | Cuando el frío del otoño (秋) marchita las hojas, una nube de inquietud oprime el corazón (心). | 35 | HFP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When autumn chill descends upon the heart (愁), emotional sighs burst forth (发), leading one to worry and fret (发愁).
+  composite_memory_hook_es: Cuando la nostalgia otoñal invade el corazón (愁), brotan los suspiros (发) y uno empieza a preocuparse (发愁).
+  cultural_and_cognitive_roots: In classical Chinese poetic imagery, autumn (秋) and sadness (愁) are inextricably linked: the seasonal decay of vegetation mirrors human anxiety over impermanence, aging, and worldly troubles.
+  tone_sandhi_and_pitch_modulation: High level 1st tone followed by a rising 2nd tone: fā chóu (55-35). Ensure 'fā' remains high before ascending smoothly into 'chóu'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    发 | fā | emit; hair | Five strokes with a diagonal slash and dot
+    友 | yǒu | friend | Has 十 under top horizontal stroke without the dot
+    愁 | chóu | worry; sad | Has 秋 on top and 心 (heart) at the bottom
+    悉 | xī | know; all | Has 釆 on top and 心 at the bottom
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    忧愁 | yōu chóu | worried; depressed; sorrowful
+    愁苦 | chóu kǔ | distressed and miserable
+    发火 | fā huǒ | get angry; lose temper
+    发现 | fā xiàn | discover; find out
+
+semantic_boundary_contrasts:
+  core_nuance: 发愁 emphasizes the ongoing, brooding psychological anxiety caused by practical difficulties or lacking solutions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 发愁 vs. 担心 | dānxīn | 发愁 emphasizes being at a loss for how to solve an existing problem (为生活费发愁), whereas 担心 focuses on dreading that an adverse event might occur in the future (担心会下雨).
+    2 | 发愁 vs. 焦虑 | jiāolǜ | 发愁 is an everyday oral expression describing practical fretting, while 焦虑 is a clinical/psychological term denoting deep, chronic emotional angst or agitation.
+    3 | 发愁 vs. 难过 | nánguò | 发愁 is directed toward unresolved hurdles and decisions, whereas 难过 expresses emotional sadness and heartache after a misfortune has already occurred.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生活中的许多烦恼，往往源于我们对未来的过度预设。与其为了明天的风浪暗自发愁，不如握紧当下的船桨，认真划好脚下的每一道水波。风雨终会过去，而勇敢行动的人永远不会被困境击倒。 | Shēnghuó zhōng de xǔduō fánnǎo, wǎngwǎng yuányú wǒmen duì wèilái de guòdù yùshè. Yǔqí wèile míngtiān de fēnglàng ànzì fāchóu, bùrú wòjǐn dāngxià de chuánjiǎng, rènzhēn huà hǎo jiǎoxià de měi yí dào shuǐbō. Fēngyǔ zhōng huì guòqù, ér yǒnggǎn xíngdòng de rén yǒngyuǎn bú huì bèi kùnjìng jīdǎo. | Many troubles stem from excessively fretting over hypothetical futures. Rather than worrying about tomorrow's squalls, we do better gripping present oars to stroke each passing wave. Tempests pass; the brave are never crushed by plight. | Muchas zozobras nacen de anticipar en exceso el porvenir. En vez de angustiarse por las tempestades del mañana, conviene empuñar los remos del presente y surcar cada ola con tesón. La tormenta pasará y quien actúa jamás sucumbe ante la adversidad.
+  #2 | 消费心理学研究指出，面对宏观不确定性，居民更容易因预期收入波动而为家庭收支平衡发愁，从而引发防御性储蓄行为。建立多层次社会兜底救助机制与普惠金融体系，是平复公众焦虑心态、释放内需消费活力的重要制度保障。 | Xiāofèi xīnlǐxué yánjiū zhǐchū, miànduì hóngguān bùquèdìngxìng, jūmín gèng róngyì yīn yùqī shōurù bōdòng ér wèi jiātíng shōuzhī pínghéng fāchóu, cóng'ér yǐnfā fángyùxìng chǔxù xíngwéi. Jiànlì duōcéngcì shèhuì dōudǐ jiùzhù jīzhì yǔ pǔhuì jīnróng tǐxì, shì píngfù gōngzhòng jiāolǜ xīntài, shìfàng nèixū xiāofèi huólì de zhòngyào zhìdù bǎozhàng. | Studies in consumer psychology reveal that macroeconomic uncertainty prompts families to worry over household budgets, spurring defensive saving. Multi-tiered social safety nets and inclusive finance remain vital institutional buffers to soothe public anxieties and unleash domestic demand. | La psicología del consumo indica que ante la incertidumbre económica las familias se angustian por cuadrar el presupuesto doméstico, refugiándose en el ahorro preventivo. Robustecer la red de protección social y las finanzas inclusivas resulta decisivo para apaciguar el desasosiego popular.
