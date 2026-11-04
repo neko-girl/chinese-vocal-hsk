@@ -1,6 +1,9 @@
-import os, re, json
+import os
+import re
+import json
 
-def parse_toon_file(filepath):
+def parse_toon_file(filepath: str) -> dict:
+    """Parses a single .toon file into a structured dictionary."""
     with open(filepath, 'r', encoding='utf-8') as f:
         lines = f.readlines()
 
@@ -21,12 +24,17 @@ def parse_toon_file(filepath):
             continue
 
         # Check for top-level scalar fields
+        matched_scalar = False
         for field in ['id', 'hanzi', 'pinyin', 'level', 'part_of_speech']:
             if line.startswith(field + ':'):
-                doc[field] = line[len(field)+1:].strip()
+                doc[field] = line[len(field) + 1:].strip()
+                matched_scalar = True
                 break
+        if matched_scalar:
+            i += 1
+            continue
 
-        # Check for sections
+        # Section: meanings_summary
         if line == 'meanings_summary:':
             i += 1
             while i < len(lines) and (lines[i].startswith('  ') or not lines[i].strip()):
@@ -38,16 +46,18 @@ def parse_toon_file(filepath):
                 i += 1
             continue
 
+        # Section: mnemonics_and_roots
         if line == 'mnemonics_and_roots:':
             i += 1
             while i < len(lines) and (lines[i].startswith('  ') or not lines[i].strip()):
                 l = lines[i].strip()
                 for k in ['composite_memory_hook_en', 'composite_memory_hook_es', 'cultural_and_cognitive_roots', 'tone_sandhi_and_pitch_modulation']:
                     if l.startswith(k + ':'):
-                        doc['mnemonics_and_roots'][k] = l[len(k)+1:].strip()
+                        doc['mnemonics_and_roots'][k] = l[len(k) + 1:].strip()
                 i += 1
             continue
 
+        # Section: semantic_boundary_contrasts
         if line == 'semantic_boundary_contrasts:':
             i += 1
             while i < len(lines) and (lines[i].startswith('  ') or not lines[i].strip()):
@@ -56,7 +66,6 @@ def parse_toon_file(filepath):
                     doc['semantic_boundary_contrasts']['core_nuance'] = l[len('core_nuance:'):].strip()
                     i += 1
                 elif 'contrasts[' in l:
-                    # Parse table
                     hdr_m = re.search(r'contrasts\[\d+\]\{([^}]+)\}:', l)
                     fields = [f.strip() for f in hdr_m.group(1).split(',')] if hdr_m else []
                     rows = []
@@ -64,13 +73,15 @@ def parse_toon_file(filepath):
                     while i < len(lines) and lines[i].startswith('    '):
                         row_cols = [c.strip() for c in lines[i].strip().split('|')]
                         if len(row_cols) == len(fields):
-                            rows.append(dict(zip(fields, row_cols)))
+                            row_dict = {f: ('' if v == '""' else v) for f, v in zip(fields, row_cols)}
+                            rows.append(row_dict)
                         i += 1
                     doc['semantic_boundary_contrasts']['contrasts'] = rows
                 else:
                     i += 1
             continue
 
+        # Section: traps_and_cognates
         if line == 'traps_and_cognates:':
             i += 1
             while i < len(lines) and (lines[i].startswith('  ') or not lines[i].strip()):
@@ -83,7 +94,8 @@ def parse_toon_file(filepath):
                     while i < len(lines) and lines[i].startswith('    '):
                         row_cols = [c.strip() for c in lines[i].strip().split('|')]
                         if len(row_cols) == len(fields):
-                            rows.append(dict(zip(fields, row_cols)))
+                            row_dict = {f: ('' if v == '""' else v) for f, v in zip(fields, row_cols)}
+                            rows.append(row_dict)
                         i += 1
                     doc['traps_and_cognates']['look_alikes'] = rows
                 elif 'etymological_cognates[' in l:
@@ -94,7 +106,8 @@ def parse_toon_file(filepath):
                     while i < len(lines) and lines[i].startswith('    '):
                         row_cols = [c.strip() for c in lines[i].strip().split('|')]
                         if len(row_cols) == len(fields):
-                            rows.append(dict(zip(fields, row_cols)))
+                            row_dict = {f: ('' if v == '""' else v) for f, v in zip(fields, row_cols)}
+                            rows.append(row_dict)
                         i += 1
                     doc['traps_and_cognates']['etymological_cognates'] = rows
                 else:
@@ -111,7 +124,6 @@ def parse_toon_file(filepath):
             while i < len(lines) and lines[i].startswith('  '):
                 row_cols = [c.strip() for c in lines[i].strip().split('|')]
                 if len(row_cols) == len(fields):
-                    # Replace "" with empty string
                     row_dict = {f: ('' if v == '""' else v) for f, v in zip(fields, row_cols)}
                     rows.append(row_dict)
                 i += 1
@@ -122,14 +134,19 @@ def parse_toon_file(filepath):
 
     return doc
 
-if __name__ == '__main__':
-    words_dir = 'words'
-    files = sorted([f for f in os.listdir(words_dir) if f.endswith('.toon')])
+def parse_chapter(chapter_dir: str) -> list[dict]:
+    """Parses all .toon files in chapter_dir/words/ in sorted order."""
+    words_dir = os.path.join(chapter_dir, 'words')
+    if not os.path.exists(words_dir):
+        return []
+
+    def sort_key(name):
+        m = re.match(r'^(\d+)_', name)
+        return int(m.group(1)) if m else 999999
+
+    files = sorted([f for f in os.listdir(words_dir) if f.endswith('.toon')], key=sort_key)
     all_words = []
     for f in files:
         data = parse_toon_file(os.path.join(words_dir, f))
         all_words.append(data)
-    print(f"Parsed {len(all_words)} words from TOON files.")
-    with open('words_data.json', 'w', encoding='utf-8') as f:
-        json.dump(all_words, f, ensure_ascii=False, indent=2)
-    print("Saved words_data.json successfully.")
+    return all_words

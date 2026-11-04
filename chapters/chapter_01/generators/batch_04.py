@@ -1,4 +1,4 @@
-from builder import save_word
+from core.toon_builder import save_word
 
 words_batch4 = [
     # 16 暗暗

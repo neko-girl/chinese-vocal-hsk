@@ -1,0 +1,10 @@
+window.__HSK_CHAPTERS_MANIFEST__ = [
+  {
+    "id": 1,
+    "dir": "chapter_01",
+    "name": "Chapter 1",
+    "title": "细节与人际关系 (Details & Relationships)",
+    "word_count": 38,
+    "level": "HSK 5"
+  }
+];

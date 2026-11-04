@@ -1,11 +1,12 @@
 import os
 
-def render_toon(data):
+def render_toon(data: dict) -> str:
+    """Renders a structured word dictionary into strict TOON format."""
     lines = []
     lines.append(f"id: {data['id']}")
     lines.append(f"hanzi: {data['hanzi']}")
     lines.append(f"pinyin: {data['pinyin']}")
-    lines.append("level: HSK 5")
+    lines.append(f"level: {data.get('level', 'HSK 5')}")
     lines.append(f"part_of_speech: {data['part_of_speech']}")
     lines.append("")
     lines.append("meanings_summary:")
@@ -51,7 +52,13 @@ def render_toon(data):
         cangjie = ch.get('cangjie', '')
         if cangjie == '' or cangjie is None:
             cangjie = '""'
-        lines.append(f"  {ch['character']} | {ch['pinyin']} | {ch['meaning_en']} | {ch['meaning_es']} | {ch['radical']} | {ch['radical_meaning_en']} | {ch['meaning_component']} | {ch['sound_component']} | {ch['stroke_count']} | {ch['composition_type']} | {ch['etymology_and_mnemonic']} | {ch['visual_mnemonic_story_en']} | {ch['visual_mnemonic_story_es']} | {ch['tone_mnemonic_anchor']} | {cangjie} | {trad}")
+        lines.append(
+            f"  {ch['character']} | {ch['pinyin']} | {ch['meaning_en']} | {ch['meaning_es']} | "
+            f"{ch['radical']} | {ch['radical_meaning_en']} | {ch['meaning_component']} | "
+            f"{ch['sound_component']} | {ch['stroke_count']} | {ch['composition_type']} | "
+            f"{ch['etymology_and_mnemonic']} | {ch['visual_mnemonic_story_en']} | "
+            f"{ch['visual_mnemonic_story_es']} | {ch['tone_mnemonic_anchor']} | {cangjie} | {trad}"
+        )
     lines.append("")
 
     # mnemonics_and_roots
@@ -95,11 +102,13 @@ def render_toon(data):
 
     return "\n".join(lines) + "\n"
 
-def save_word(data):
+def save_word(data: dict, target_dir: str = "words") -> str:
+    """Saves a word dictionary as a formatted .toon file in target_dir."""
+    os.makedirs(target_dir, exist_ok=True)
     no_padded = f"{int(data['id']):02d}"
     filename = f"{no_padded}_{data['hanzi']}.toon"
-    filepath = os.path.join("words", filename)
+    filepath = os.path.join(target_dir, filename)
     content = render_toon(data)
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content)
-    print(f"Saved {filepath}")
+    return filepath

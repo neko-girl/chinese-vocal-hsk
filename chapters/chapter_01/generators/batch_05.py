@@ -1,4 +1,4 @@
-from builder import save_word
+from core.toon_builder import save_word
 
 words_batch5 = [
     # 21 喊
