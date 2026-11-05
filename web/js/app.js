@@ -439,8 +439,8 @@ const App = (function() {
     renderCurrentWord();
   }
 
-  // 8-Pill Tabs Definition & Cycling
-  const ALL_TABS = ['sentences', 'collocations', 'idioms', 'decomp', 'mnemonics', 'traps', 'synonyms', 'passages'];
+  // 9-Pill Tabs Definition & Cycling
+  const ALL_TABS = ['sentences', 'collocations', 'idioms', 'decomp', 'mnemonics', 'traps', 'cognates', 'contrasts', 'passages'];
 
   function cycleTab(direction = 1) {
     const curIdx = ALL_TABS.indexOf(currentActiveTab);
@@ -464,13 +464,24 @@ const App = (function() {
     } else if (currentActiveTab === 'collocations') {
       const c = w.collocations?.[0];
       if (c) speak(c.hanzi, speed);
+    } else if (currentActiveTab === 'traps') {
+      const trap = w.traps_and_cognates?.look_alikes?.[0];
+      if (trap) speak(trap.character, speed);
+      else speak(w.hanzi, speed);
+    } else if (currentActiveTab === 'cognates') {
+      const cog = w.traps_and_cognates?.etymological_cognates?.[0];
+      if (cog) speak(cog.character, speed);
+      else speak(w.hanzi, speed);
+    } else if (currentActiveTab === 'contrasts' || currentActiveTab === 'synonyms') {
+      speak(w.hanzi, speed);
     } else {
       speak(w.hanzi, speed);
     }
   }
 
-  // Switch 8-Pill Tabs
+  // Switch 9-Pill Tabs
   function switchTab(tabId) {
+    if (tabId === 'synonyms') tabId = 'contrasts';
     playAudioFeedback('click');
     currentActiveTab = tabId;
     const settings = StorageManager.getSettings();
@@ -478,13 +489,14 @@ const App = (function() {
 
     // Update active tab buttons
     document.querySelectorAll('.pill-btn').forEach(btn => {
-      const isTarget = btn.getAttribute('onclick')?.includes(`'${tabId}'`);
+      const onclickAttr = btn.getAttribute('onclick') || '';
+      const isTarget = onclickAttr.includes(`'${tabId}'`) || (tabId === 'contrasts' && onclickAttr.includes("'synonyms'"));
       btn.classList.toggle('active', isTarget);
     });
 
     // Update tab panels
     document.querySelectorAll('.tab-panel').forEach(panel => {
-      const isTarget = panel.id === `panel-${tabId}`;
+      const isTarget = panel.id === `panel-${tabId}` || (tabId === 'contrasts' && panel.id === 'panel-synonyms');
       panel.classList.toggle('active', isTarget);
     });
   }
@@ -978,7 +990,7 @@ const App = (function() {
           cycleTab(e.shiftKey ? -1 : 1);
           return;
         }
-        if (e.altKey && e.key >= '1' && e.key <= '8') {
+        if (e.altKey && e.key >= '1' && e.key <= '9') {
           const tabIndex = parseInt(e.key, 10) - 1;
           if (ALL_TABS[tabIndex]) {
             e.preventDefault();
@@ -1060,14 +1072,15 @@ const App = (function() {
             return;
           }
 
-          // Hotkeys 3-8 switch pill tabs on Back card
+          // Hotkeys 3-9 switch pill tabs on Back card
           const tabMap = {
             '3': 'idioms',
             '4': 'decomp',
             '5': 'mnemonics',
             '6': 'traps',
-            '7': 'synonyms',
-            '8': 'passages'
+            '7': 'cognates',
+            '8': 'contrasts',
+            '9': 'passages'
           };
           if (tabMap[e.key]) {
             e.preventDefault();
@@ -1288,6 +1301,7 @@ const App = (function() {
       const savedSettings = StorageManager.getSettings();
       studyMode = savedSettings.studyMode || 'flashcard';
       currentActiveTab = savedSettings.activeTab || 'sentences';
+      if (currentActiveTab === 'synonyms') currentActiveTab = 'contrasts';
       currentLang = savedSettings.lang || 'both';
 
       if (!savedSettings.toneColors) {

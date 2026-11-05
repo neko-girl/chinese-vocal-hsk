@@ -312,7 +312,7 @@
 }
 
 /* ==========================================================================
-   Segmented 8-Pill Navigation Bar (胶囊选项卡)
+   Segmented 9-Pill Navigation Bar (9胶囊选项卡)
    ========================================================================== */
 .pill-nav-container {
   margin: 14px 0 16px 0;
@@ -964,6 +964,39 @@ input:checked + .slider:before { transform: translateX(18px); }
   background: rgba(245, 158, 11, 0.08);
   border-left: 2px solid var(--accent);
   border-radius: 0 4px 4px 0;
+}
+
+/* Etymological Cognates Family (同族字) */
+.cognate-chips {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+.cognate-chip {
+  background: var(--bg-card-sub);
+  border: 1px solid var(--border);
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+.cognate-chip:hover {
+  border-color: var(--primary);
+  background: var(--bg-card);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+.cognate-chip .ch {
+  font-family: 'PingFang SC', 'Source Han Serif SC', 'Noto Serif SC', serif;
+  font-weight: 700;
+  color: var(--primary);
+  font-size: 1.15rem;
 }
 
 /* Enhanced Contrast Card */

@@ -393,7 +393,7 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
     </div>
   `;
 
-  // 6. Traps & Cognates Panel (Modern Side-by-Side Comparison Cards)
+  // 6. Look-Alike Traps Panel (字形陷阱)
   const traps = w.traps_and_cognates || {};
   const lookAlikes = traps.look_alikes || [];
   const lookAlikesHtml = lookAlikes.map(la => `
@@ -409,27 +409,45 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
     </div>
   `).join('');
 
+  const trapsHtml = lookAlikes.length > 0 ? `
+    <div style="margin-bottom: 12px;">
+      <div style="font-weight: 700; font-size: 0.92rem; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">
+        <span>⚠️ Look-Alike Confusion Traps (字形陷阱)</span>
+        <span class="badge badge-pos" style="background: rgba(245, 158, 11, 0.15); color: var(--accent);">${lookAlikes.length} pairs</span>
+      </div>
+      <div class="comparison-grid">${lookAlikesHtml}</div>
+    </div>
+  ` : `
+    <div class="alert-box" style="text-align: center; color: var(--text-muted); padding: 18px;">
+      No specific look-alike confusion traps recorded for this word.
+    </div>
+  `;
+
+  // 7. Etymological Cognates Family Panel (同族字)
   const cognates = traps.etymological_cognates || [];
   const cognatesHtml = cognates.map(cg => `
-    <div class="cognate-chip" onclick="speak('${cg.character}', 1.0)">
+    <div class="cognate-chip" onclick="speak('${cg.character}', 1.0)" title="Click to pronounce ${cg.character}">
       <span class="ch">${cg.character}</span>
       <span style="font-family: 'JetBrains Mono'; font-size: 0.72rem;">${colorizePinyinHTML(cg.pinyin)}</span>
       <span style="color: var(--text-dim); font-size: 0.72rem;">${cg.gloss_en}</span>
     </div>
   `).join('');
 
-  const trapsHtml = `
-    <div style="margin-bottom: 20px;">
-      <div style="font-weight: 700; font-size: 0.9rem; margin-bottom: 8px;">Look-Alike Characters (字形陷阱 · ${lookAlikes.length})</div>
-      <div class="comparison-grid">${lookAlikesHtml}</div>
-    </div>
+  const cognatesPanelHtml = cognates.length > 0 ? `
     <div>
-      <div style="font-weight: 700; font-size: 0.9rem; margin-bottom: 8px;">Etymological Cognates Family (同族字 · ${cognates.length})</div>
+      <div style="font-weight: 700; font-size: 0.92rem; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">
+        <span>🧬 Etymological Cognates Family (同族字)</span>
+        <span class="badge badge-pos" style="background: rgba(59, 130, 246, 0.15); color: var(--primary);">${cognates.length} cognates</span>
+      </div>
       <div class="cognate-chips">${cognatesHtml}</div>
+    </div>
+  ` : `
+    <div class="alert-box" style="text-align: center; color: var(--text-muted); padding: 18px;">
+      No etymological cognate family members recorded for this word.
     </div>
   `;
 
-  // 7. Contrasts Panel (Modern Contrast Cards)
+  // 8. Semantic Boundary Contrasts Panel (语义辨析)
   const sbc = w.semantic_boundary_contrasts || {};
   const contrasts = sbc.contrasts || [];
   const contrastsHtml = contrasts.map(ct => `
@@ -442,12 +460,12 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
     </div>
   `).join('');
 
-  const synonymsHtml = `
+  const contrastsPanelHtml = `
     ${sbc.core_nuance ? `
       <div style="margin-bottom: 16px; font-size: 0.94rem; color: var(--text); padding: 12px 16px; background: var(--bg-card-sub); border-radius: 10px; border: 1px solid var(--border); border-left: 4px solid var(--accent);">
         <strong>🎯 Core Semantic Nuance:</strong> ${sbc.core_nuance}
       </div>` : ''}
-    <div>${contrastsHtml}</div>
+    <div>${contrastsHtml || '<div class="alert-box" style="text-align: center; color: var(--text-muted); padding: 18px;">No semantic boundary contrasts recorded for this word.</div>'}</div>
   `;
 
   // 8. Passages Panel (with Pinyin toggle and dual-speed audio)
@@ -519,7 +537,7 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
         </div>
       </header>
 
-      <!-- 8-Pill Segmented Navigation Bar with Count Badges -->
+      <!-- 9-Pill Segmented Navigation Bar with Count Badges -->
       <nav class="pill-nav-container" aria-label="Vocabulary Sections">
         <div class="pill-nav-track" role="tablist">
           <button type="button" class="pill-btn ${activeTab === 'sentences' ? 'active' : ''}" onclick="App.switchTab('sentences')">
@@ -551,28 +569,34 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
             <span class="pill-text">助记</span>
             <span class="pill-key">5</span>
           </button>
-          <button type="button" class="pill-btn ${activeTab === 'traps' ? 'active' : ''}" onclick="App.switchTab('traps')">
+          <button type="button" class="pill-btn ${activeTab === 'traps' ? 'active' : ''}" onclick="App.switchTab('traps')" title="Look-Alike Character Traps (字形陷阱)">
             <span class="pill-icon">⚠️</span>
-            <span class="pill-text">形近</span>
+            <span class="pill-text">字形陷阱</span>
             <span class="pill-count">${lookAlikes.length}</span>
             <span class="pill-key">6</span>
           </button>
-          <button type="button" class="pill-btn ${activeTab === 'synonyms' ? 'active' : ''}" onclick="App.switchTab('synonyms')">
-            <span class="pill-icon">🎯</span>
-            <span class="pill-text">辨析</span>
-            <span class="pill-count">${contrasts.length}</span>
+          <button type="button" class="pill-btn ${activeTab === 'cognates' ? 'active' : ''}" onclick="App.switchTab('cognates')" title="Etymological Cognates Family (同族字)">
+            <span class="pill-icon">🧬</span>
+            <span class="pill-text">同族字</span>
+            <span class="pill-count">${cognates.length}</span>
             <span class="pill-key">7</span>
           </button>
-          <button type="button" class="pill-btn ${activeTab === 'passages' ? 'active' : ''}" onclick="App.switchTab('passages')">
+          <button type="button" class="pill-btn ${activeTab === 'contrasts' || activeTab === 'synonyms' ? 'active' : ''}" onclick="App.switchTab('contrasts')" title="Semantic Boundary Contrasts (语义辨析)">
+            <span class="pill-icon">🎯</span>
+            <span class="pill-text">语义辨析</span>
+            <span class="pill-count">${contrasts.length}</span>
+            <span class="pill-key">8</span>
+          </button>
+          <button type="button" class="pill-btn ${activeTab === 'passages' ? 'active' : ''}" onclick="App.switchTab('passages')" title="Extended Reading Passages (篇章)">
             <span class="pill-icon">📖</span>
             <span class="pill-text">篇章</span>
             <span class="pill-count">${passages.length}</span>
-            <span class="pill-key">8</span>
+            <span class="pill-key">9</span>
           </button>
         </div>
       </nav>
 
-      <!-- 8 Dynamic Tab Panels -->
+      <!-- 9 Dynamic Tab Panels -->
       <div class="tab-viewport">
         <section class="tab-panel ${activeTab === 'sentences' ? 'active' : ''}" id="panel-sentences">
           ${sentencesHtml}
@@ -592,8 +616,11 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
         <section class="tab-panel ${activeTab === 'traps' ? 'active' : ''}" id="panel-traps">
           ${trapsHtml}
         </section>
-        <section class="tab-panel ${activeTab === 'synonyms' ? 'active' : ''}" id="panel-synonyms">
-          ${synonymsHtml}
+        <section class="tab-panel ${activeTab === 'cognates' ? 'active' : ''}" id="panel-cognates">
+          ${cognatesPanelHtml}
+        </section>
+        <section class="tab-panel ${activeTab === 'contrasts' || activeTab === 'synonyms' ? 'active' : ''}" id="panel-contrasts">
+          ${contrastsPanelHtml}
         </section>
         <section class="tab-panel ${activeTab === 'passages' ? 'active' : ''}" id="panel-passages">
           ${passagesHtml}
@@ -937,7 +964,7 @@ function renderBrowseView(w, currentLang) {
 
     <!-- Semantic Contrasts -->
     <div class="section-card">
-      <div class="section-title">Semantic Boundary Contrasts</div>
+      <div class="section-title">Semantic Boundary Contrasts (语义辨析)</div>
       ${sbc.core_nuance ? `<div style="margin-bottom: 14px; font-size: 0.92rem; color: var(--text);"><strong>Core Semantic Nuance:</strong> ${sbc.core_nuance}</div>` : ''}
       ${(sbc.contrasts || []).map(ct => `
         <div class="contrast-item">
