@@ -66,14 +66,16 @@ cd "$ROOT_DIR"
 
 echo "=== [6/6] Exporting APK to exports/ ==="
 mkdir -p exports
+cp android/app/build/outputs/apk/debug/app-debug.apk exports/chinese-vocal-hsk-v1.1-debug.apk
 cp android/app/build/outputs/apk/debug/app-debug.apk exports/chinese-vocal-hsk-v1.0-debug.apk
+cp android/app/build/outputs/apk/debug/app-debug.apk exports/chinese-vocal-hsk-debug.apk
 cp android/app/build/outputs/apk/debug/app-debug.apk exports/hsk5-vocal-lexicon-debug.apk
 
-APK_SIZE=$(du -h exports/chinese-vocal-hsk-v1.0-debug.apk | cut -f1)
+APK_SIZE=$(du -h exports/chinese-vocal-hsk-v1.1-debug.apk | cut -f1)
 echo ""
 echo "=============================================================================="
 echo " [SUCCESS] Android Export Complete!"
-echo " APK Output : $ROOT_DIR/exports/chinese-vocal-hsk-v1.0-debug.apk ($APK_SIZE)"
+echo " APK Output : $ROOT_DIR/exports/chinese-vocal-hsk-v1.1-debug.apk ($APK_SIZE)"
 echo " Project    : $ROOT_DIR/android/ (Ready for Android Studio)"
 echo "=============================================================================="
 echo "To install on a connected Android phone or emulator:"
