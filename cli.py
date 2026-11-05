@@ -10,6 +10,7 @@ Commands:
   prompt        Generate agent-ready prompt for a batch of words
   generate      Run batch generator scripts for a chapter
   serve         Start a local preview web server
+  export-android Compile data and export native Android APK & project
 """
 
 import os
@@ -23,7 +24,7 @@ import socketserver
 
 from core.toon_validator import validate_chapter, validate_toon_file
 from core.compiler import compile_chapter, compile_all
-from core.audio_generator import generate_chapter_audio, VOICE_CONFIGS
+from core.audio_generator import generate_chapter_audio, check_chapter_audio, VOICE_CONFIGS
 
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
@@ -301,24 +302,38 @@ def cmd_generate(args):
     return subprocess.call(cmd)
 
 def cmd_audio(args):
-    """Generate native Chinese audio using MiniMax TTS API across 4 voices."""
+    """Generate native Chinese audio using MiniMax TTS API across voices."""
     voice_list = [v.strip() for v in args.voices.split(",")] if args.voices else None
     item_list = [it.strip() for it in args.items.split(",")] if args.items else None
 
-    if args.chapter is not None:
+    # Limit to chapter 1 by default unless --all or explicit --chapter is passed
+    if args.all:
+        target_dirs = list_all_chapter_dirs()
+    elif args.chapter is not None:
         target_dirs = [get_chapter_dir(args.chapter)]
     else:
-        target_dirs = list_all_chapter_dirs()
+        target_dirs = [get_chapter_dir(1)]
 
     if not target_dirs:
         print("No chapters found in chapters/ directory.")
         return 1
+
+    if args.check:
+        for cdir in target_dirs:
+            check_chapter_audio(
+                chapter_dir=cdir,
+                voices=voice_list,
+                skip_passages=args.skip_passages,
+                item_types=item_list
+            )
+        return 0
 
     for cdir in target_dirs:
         generate_chapter_audio(
             chapter_dir=cdir,
             voices=voice_list,
             item_types=item_list,
+            skip_passages=args.skip_passages,
             word_filter=args.word,
             dry_run=args.dry_run,
             force=args.force,
@@ -341,6 +356,16 @@ def cmd_serve(args):
             print("\nServer stopped.")
     return 0
 
+def cmd_export_android(args):
+    """Compile data and export for Android (bundles assets and builds Capacitor/Gradle APK)."""
+    script_path = os.path.join(BASE_DIR, 'scripts', 'build_android.sh')
+    if not os.path.exists(script_path):
+        print(f"Error: Build script not found: {script_path}")
+        return 1
+    import subprocess
+    cmd = ['bash', script_path]
+    return subprocess.call(cmd)
+
 def main():
     parser = argparse.ArgumentParser(description="Chinese Vocal HSK Tooling & Lexicographical CLI")
     subparsers = parser.add_subparsers(dest="command", help="Subcommand to run")
@@ -359,11 +384,15 @@ def main():
     p_build.add_argument("--chapter", "-c", type=int, help="Chapter number (default: all)")
 
     # audio
-    p_audio = subparsers.add_parser("audio", help="Generate Chinese audio using MiniMax TTS API (4 voices)")
-    p_audio.add_argument("--chapter", "-c", type=int, help="Chapter number (default: all)")
+    p_audio = subparsers.add_parser("audio", help="Generate Chinese audio using MiniMax TTS API")
+    p_audio.add_argument("--chapter", "-c", type=int, default=1, help="Chapter number (default: 1, limit to chapter 1)")
+    p_audio.add_argument("--all", "-a", action="store_true", help="Process all chapters instead of just chapter 1")
+    p_audio.add_argument("--check", action="store_true", help="Audit existing files, verify integrity, and check remaining points without generating")
     p_audio.add_argument("--word", "-w", type=int, help="Specific word ID (e.g. 1)")
-    p_audio.add_argument("--voices", "-v", type=str, help="Comma-separated voices: mature_woman,soothing_host,office_man,tender_ceo")
-    p_audio.add_argument("--items", "-i", type=str, help="Comma-separated item types: headword,sentence,collocation,idiom,passage,char")
+    p_audio.add_argument("--voices", "-v", type=str, help="Comma-separated voices: mature_woman,office_man (or 'all')")
+    p_audio.add_argument("--items", "-i", type=str, help="Comma-separated item types: headword,sentence,collocation,idiom,char")
+    p_audio.add_argument("--skip-passages", action="store_true", default=True, help="Skip long reading passages to conserve points (default: True)")
+    p_audio.add_argument("--include-passages", dest="skip_passages", action="store_false", help="Include extended reading passages in generation")
     p_audio.add_argument("--dry-run", action="store_true", help="Preview planned generation without calling API")
     p_audio.add_argument("--force", "-f", action="store_true", help="Overwrite existing audio files")
     p_audio.add_argument("--delay", type=float, default=0.25, help="Delay between API calls in seconds (default: 0.25)")
@@ -388,6 +417,9 @@ def main():
     p_serve = subparsers.add_parser("serve", help="Start local web server")
     p_serve.add_argument("--port", "-p", type=int, default=8000, help="Port (default: 8000)")
 
+    # export-android
+    p_export_android = subparsers.add_parser("export-android", help="Compile data and export native Android APK & project")
+
     args = parser.parse_args()
     if not args.command:
         parser.print_help()
@@ -401,7 +433,8 @@ def main():
         "new-chapter": cmd_new_chapter,
         "prompt": cmd_prompt,
         "generate": cmd_generate,
-        "serve": cmd_serve
+        "serve": cmd_serve,
+        "export-android": cmd_export_android
     }
 
     return commands[args.command](args)

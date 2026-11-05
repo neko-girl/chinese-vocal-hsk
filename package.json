@@ -1,0 +1,20 @@
+{
+  "name": "chinese-vocal-hsk",
+  "version": "1.0.0",
+  "description": "Chinese Vocal HSK 5 Lexicographical Engine & Visualizer",
+  "private": true,
+  "scripts": {
+    "build:data": "python cli.py build",
+    "bundle:www": "bash -c 'rm -rf www && mkdir -p www/web www/data www/chapters && cp index.html www/ && cp -r web/* www/web/ && cp -r data/* www/data/ && cp -r chapters/* www/chapters/ && rm -rf www/chapters/*/generators www/chapters/*/words www/chapters/*/*.csv'",
+    "cap:sync": "npx cap sync android",
+    "build:android": "bash scripts/build_android.sh"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/app": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}

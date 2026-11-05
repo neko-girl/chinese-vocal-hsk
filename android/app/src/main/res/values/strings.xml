@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HSK 5 Vocal Lexicon</string>
+    <string name="title_activity_main">HSK 5 Vocal Lexicon</string>
+    <string name="package_name">com.chinesevocal.hsk5</string>
+    <string name="custom_url_scheme">com.chinesevocal.hsk5</string>
+</resources>

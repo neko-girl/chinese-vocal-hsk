@@ -1,11 +1,11 @@
 """MiniMax Text-to-Speech (T2A v2) Audio Generator for Chinese Vocal HSK.
 
-Generates native Chinese audio for vocabulary headwords, sentences, collocations,
-idioms, reading passages, and characters using 4 distinct MiniMax voice personas:
-  1. Mature Woman (成熟女性)
-  2. Soothing Host (温润女主播 / 播音主持)
-  3. Office Man (职场男音 / 精英青年)
-  4. Tender CEO (温润/霸道总裁)
+Features:
+  - Smart File Integrity Checker: skips valid existing files, cleans corrupted stubs.
+  - Persistent Cross-Word Text Hash Cache: reuses identical text audio across words (0 API points).
+  - Atomic File Writing: prevents partial/corrupted files if interrupted.
+  - Audit/Check Mode: deep verification of chapter audio progress and point estimates.
+  - Support for 4 MiniMax voice personas (defaults to Option 1: Mature Woman + Office Man).
 """
 
 import os
@@ -89,6 +89,75 @@ def get_voice_id(voice_key: str) -> str:
     return os.getenv(cfg["id_key"], cfg["default_id"])
 
 # ---------------------------------------------------------------------------
+# Strategy 1: File Integrity Checker
+# ---------------------------------------------------------------------------
+def is_valid_audio_file(filepath: str) -> bool:
+    """Checks if a file exists, is non-empty (>128 bytes), and has a valid audio signature.
+    
+    Protects against 0-byte files, truncated downloads, or API error JSON saved as .mp3.
+    """
+    if not os.path.isfile(filepath):
+        return False
+    try:
+        size = os.path.getsize(filepath)
+        if size < 128:
+            return False
+
+        with open(filepath, 'rb') as f:
+            header = f.read(4)
+
+        # Check for ID3v2 container header
+        if header.startswith(b'ID3'):
+            return True
+
+        # Check for MPEG audio frame sync bits (11 set bits: 0xFF followed by 0xE0 mask)
+        if len(header) >= 2 and header[0] == 0xFF and (header[1] & 0xE0) == 0xE0:
+            return True
+
+        # Fallback for RIFF / WAV headers if any
+        if header.startswith(b'RIFF'):
+            return True
+
+        return False
+    except Exception:
+        return False
+
+# ---------------------------------------------------------------------------
+# Strategy 2: Persistent Cross-Word Text Hash Cache
+# ---------------------------------------------------------------------------
+def get_cache_path(chapter_dir: str) -> str:
+    return os.path.join(chapter_dir, 'audio', '.cache.json')
+
+def load_audio_cache(chapter_dir: str) -> Dict[str, str]:
+    """Loads persistent map of text+voice -> valid relative mp3 file."""
+    cache_file = get_cache_path(chapter_dir)
+    if not os.path.isfile(cache_file):
+        return {}
+    try:
+        with open(cache_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        valid_cache = {}
+        for k, rel_path in data.items():
+            full_path = os.path.join(chapter_dir, 'audio', rel_path)
+            if is_valid_audio_file(full_path):
+                valid_cache[k] = rel_path
+        return valid_cache
+    except Exception:
+        return {}
+
+def save_audio_cache(chapter_dir: str, cache: Dict[str, str]):
+    """Atomically writes cache to disk."""
+    cache_file = get_cache_path(chapter_dir)
+    try:
+        os.makedirs(os.path.dirname(cache_file), exist_ok=True)
+        tmp = cache_file + '.tmp'
+        with open(tmp, 'w', encoding='utf-8') as f:
+            json.dump(cache, f, ensure_ascii=False, indent=2)
+        os.replace(tmp, cache_file)
+    except Exception as e:
+        print(f"[WARN] Failed to save audio cache: {e}")
+
+# ---------------------------------------------------------------------------
 # MiniMax API Client
 # ---------------------------------------------------------------------------
 class MiniMaxAudioClient:
@@ -104,23 +173,13 @@ class MiniMaxAudioClient:
         return bool(self.api_key)
 
     def synthesize(self, text: str, voice_id: str, speed: float = 1.0) -> bytes:
-        """Synthesizes text to MP3 bytes via MiniMax T2A v2 API.
-        
-        Args:
-            text: The Chinese text string to synthesize.
-            voice_id: The MiniMax system or cloned voice ID.
-            speed: Speech speed multiplier (default 1.0).
-            
-        Returns:
-            Raw MP3 bytes.
-        """
+        """Synthesizes text to MP3 bytes via MiniMax T2A v2 API."""
         if not self.is_configured():
             raise ValueError(
                 "MINIMAX_API_KEY is not set. Please add it to your .env file or environment.\n"
                 "Example: MINIMAX_API_KEY=your_key_here"
             )
 
-        # Build endpoint URL (include GroupId query param if present)
         endpoint = f"{self.api_base}/t2a_v2"
         if self.group_id:
             endpoint += f"?GroupId={self.group_id}"
@@ -130,7 +189,6 @@ class MiniMaxAudioClient:
             "Content-Type": "application/json"
         }
 
-        # Filter out non-Chinese/punctuation symbols if needed, preserving standard Chinese
         clean_text = text.strip()
         if not clean_text:
             raise ValueError("Cannot synthesize empty text.")
@@ -166,7 +224,6 @@ class MiniMaxAudioClient:
         except Exception as e:
             raise RuntimeError(f"Network error calling MiniMax API: {e}")
 
-        # Check MiniMax business status
         base_resp = resp_json.get("base_resp", {})
         status_code = base_resp.get("status_code", 0)
         status_msg = base_resp.get("status_msg", "")
@@ -177,24 +234,13 @@ class MiniMaxAudioClient:
         if not audio_hex:
             raise RuntimeError(f"MiniMax returned no audio data: {resp_json}")
 
-        # Convert hex stream to binary MP3
         return bytes.fromhex(audio_hex)
 
 # ---------------------------------------------------------------------------
 # Word Item Extractor
 # ---------------------------------------------------------------------------
 def extract_chinese_items(word_data: dict) -> List[Tuple[str, str, str]]:
-    """Extracts all Chinese text items that require audio from a word dictionary.
-    
-    Returns:
-        List of tuples: (item_type, file_slug, chinese_text)
-        e.g. ("headword", "headword", "细节")
-             ("sentence", "sentence_1", "老艺术家的画作细腻生动...")
-             ("collocation", "collocation_1", "注意细节")
-             ("idiom", "idiom_1", "不拘小节")
-             ("passage", "passage_1", "生活的美好往往隐藏在...")
-             ("char", "char_细", "细")
-    """
+    """Extracts all Chinese text items that require audio from a word dictionary."""
     items: List[Tuple[str, str, str]] = []
 
     # 1. Headword
@@ -254,57 +300,159 @@ def extract_chinese_items(word_data: dict) -> List[Tuple[str, str, str]]:
     return items
 
 # ---------------------------------------------------------------------------
-# Audio Generator Runner
+# Strategy 3: Chapter Checker / Audit Mode
+# ---------------------------------------------------------------------------
+def check_chapter_audio(
+    chapter_dir: str,
+    voices: Optional[List[str]] = None,
+    skip_passages: bool = True,
+    item_types: Optional[List[str]] = None
+) -> dict:
+    """Performs a comprehensive integrity check and status audit of a chapter's audio files.
+    
+    Verifies every audio file, detects corrupt/0-byte files, and calculates remaining points.
+    """
+    if voices is None:
+        env_voices = os.getenv("MINIMAX_VOICES")
+        if env_voices:
+            voices = list(VOICE_CONFIGS.keys()) if env_voices.lower() == 'all' else [v.strip() for v in env_voices.split(",") if v.strip()]
+        else:
+            voices = ["mature_woman", "office_man"]
+
+    words = parse_chapter(chapter_dir)
+    audio_base_dir = os.path.join(chapter_dir, 'audio')
+    chapter_basename = os.path.basename(chapter_dir)
+
+    total_required = 0
+    valid_count = 0
+    missing_count = 0
+    corrupt_count = 0
+    chars_to_synthesize = 0
+    already_spent_chars = 0
+
+    seen_texts: Dict[str, str] = {}
+    dedup_savings_chars = 0
+
+    print(f"\n==================================================")
+    print(f"🔍 Audio Checker & Audit for {chapter_basename}")
+    print(f"Total Words        : {len(words)}")
+    print(f"Voices Monitored   : {', '.join([VOICE_CONFIGS[v]['display_name'] for v in voices])}")
+    print(f"Skip Passages      : {skip_passages}")
+    print(f"==================================================")
+
+    for w_idx, w in enumerate(words, 1):
+        w_id = int(w.get('id', w_idx))
+        hanzi = w.get('hanzi', '')
+        word_slug = f"{w_id:02d}_{hanzi}"
+        word_audio_dir = os.path.join(audio_base_dir, word_slug)
+
+        items = extract_chinese_items(w)
+        if skip_passages:
+            items = [item for item in items if item[0] != 'passage']
+        if item_types:
+            items = [item for item in items if item[0] in item_types]
+
+        for it_type, slug, text in items:
+            for v_key in voices:
+                total_required += 1
+                out_filename = f"{slug}_{v_key}.mp3"
+                out_path = os.path.join(word_audio_dir, out_filename)
+
+                if os.path.exists(out_path):
+                    if is_valid_audio_file(out_path):
+                        valid_count += 1
+                        already_spent_chars += len(text)
+                        # Register in seen texts for dedup tracking
+                        cache_key = f"{text}___{v_key}"
+                        if cache_key not in seen_texts:
+                            seen_texts[cache_key] = out_path
+                    else:
+                        corrupt_count += 1
+                        print(f"  [CORRUPT FILE DETECTED]: {word_slug}/{out_filename} (Size: {os.path.getsize(out_path)} bytes)")
+                        # Remove corrupt file so it can regenerate cleanly
+                        try:
+                            os.remove(out_path)
+                            print(f"    --> Removed corrupted file.")
+                        except Exception:
+                            pass
+                        missing_count += 1
+                        chars_to_synthesize += len(text)
+                else:
+                    missing_count += 1
+                    cache_key = f"{text}___{v_key}"
+                    if cache_key in seen_texts:
+                        dedup_savings_chars += len(text)
+                    else:
+                        chars_to_synthesize += len(text)
+                        seen_texts[cache_key] = "pending"
+
+    pct = (valid_count / total_required * 100) if total_required > 0 else 0
+    print(f"\nAudit Summary for {chapter_basename}:")
+    print(f"  Required Audio Files : {total_required}")
+    print(f"  Valid Existing Files : {valid_count} ({pct:.1f}%)")
+    print(f"  Missing Files        : {missing_count}")
+    print(f"  Corrupted/Cleaned    : {corrupt_count}")
+    print(f"  Points Already Spent : {already_spent_chars:,} points")
+    print(f"  Dedup Points Saved   : {dedup_savings_chars:,} points")
+    print(f"  Points to Complete   : {chars_to_synthesize:,} points")
+    print(f"==================================================\n")
+
+    return {
+        "total_required": total_required,
+        "valid": valid_count,
+        "missing": missing_count,
+        "corrupted": corrupt_count,
+        "points_to_complete": chars_to_synthesize
+    }
+
+# ---------------------------------------------------------------------------
+# Audio Generator Runner (with Checker, Dedup & Atomic Writing)
 # ---------------------------------------------------------------------------
 def generate_chapter_audio(
     chapter_dir: str,
     voices: Optional[List[str]] = None,
     item_types: Optional[List[str]] = None,
+    skip_passages: bool = False,
     word_filter: Optional[int] = None,
     dry_run: bool = False,
     force: bool = False,
     delay: float = 0.25,
     client: Optional[MiniMaxAudioClient] = None
 ) -> dict:
-    """Generates audio files for all words in a chapter across the 4 voices.
-    
-    Args:
-        chapter_dir: Path to chapters/chapter_XX
-        voices: List of voice keys (defaults to all 4 voices)
-        item_types: Filter for item types (e.g. ['headword', 'sentence']) or None for all
-        word_filter: Optional specific word ID to generate for
-        dry_run: If True, only calculate and display planned generations without calling API
-        force: If True, overwrite existing audio files
-        delay: Sleep delay in seconds between API requests
-        client: MiniMaxAudioClient instance
-        
-    Returns:
-        Summary dict of execution stats.
-    """
+    """Generates audio files for all words in a chapter with full duplicate prevention and checkers."""
     load_env_file()
     if client is None:
         client = MiniMaxAudioClient()
 
     if voices is None:
+        env_voices = os.getenv("MINIMAX_VOICES")
+        if env_voices:
+            voices = list(VOICE_CONFIGS.keys()) if env_voices.lower() == 'all' else [v.strip() for v in env_voices.split(",") if v.strip()]
+        else:
+            # Option 1 default (Mature Woman + Office Man)
+            voices = ["mature_woman", "office_man"]
+    elif len(voices) == 1 and voices[0].lower() == 'all':
         voices = list(VOICE_CONFIGS.keys())
     else:
-        # Validate voices
         for v in voices:
             if v not in VOICE_CONFIGS:
                 print(f"[WARN] Unknown voice '{v}', using default configuration.")
+
+    if not skip_passages:
+        env_skip = os.getenv("MINIMAX_SKIP_PASSAGES", "").lower()
+        if env_skip in ("true", "1", "yes"):
+            skip_passages = True
 
     words_dir = os.path.join(chapter_dir, 'words')
     if not os.path.isdir(words_dir):
         print(f"[ERROR] Words directory not found: {words_dir}")
         return {"error": "words_dir_not_found"}
 
-    # Base audio directory for chapter: chapters/chapter_XX/audio/
     audio_base_dir = os.path.join(chapter_dir, 'audio')
     os.makedirs(audio_base_dir, exist_ok=True)
 
-    # In-memory single-character cache to avoid paying duplicate API tokens
-    # Key: (character, voice_key) -> raw bytes
-    char_cache: Dict[Tuple[str, str], bytes] = {}
+    # Load persistent cross-word text cache for deduplication
+    audio_cache = load_audio_cache(chapter_dir)
 
     words = parse_chapter(chapter_dir)
     if word_filter is not None:
@@ -316,10 +464,11 @@ def generate_chapter_audio(
     stats = {
         "total_items": 0,
         "already_exists": 0,
+        "dedup_reused": 0,
         "generated": 0,
-        "cached_reuse": 0,
         "failed": 0,
-        "total_chars_synthesized": 0
+        "total_chars_synthesized": 0,
+        "points_saved_by_dedup": 0
     }
 
     chapter_basename = os.path.basename(chapter_dir)
@@ -327,6 +476,7 @@ def generate_chapter_audio(
     print(f"🎵 MiniMax Audio Generation for {chapter_basename}")
     print(f"Voices enabled   : {', '.join([VOICE_CONFIGS[v]['display_name'] for v in voices])}")
     print(f"Words to process : {len(words)}")
+    print(f"Skip Passages    : {skip_passages}")
     print(f"Dry Run Mode     : {dry_run}")
     print(f"Force Overwrite  : {force}")
     print(f"Output Directory : {audio_base_dir}")
@@ -347,6 +497,8 @@ def generate_chapter_audio(
         os.makedirs(word_audio_dir, exist_ok=True)
 
         items = extract_chinese_items(w)
+        if skip_passages:
+            items = [item for item in items if item[0] != 'passage']
         if item_types:
             items = [item for item in items if item[0] in item_types]
 
@@ -354,44 +506,74 @@ def generate_chapter_audio(
 
         for it_type, slug, text in items:
             for v_key in voices:
-                v_cfg = VOICE_CONFIGS[v_key]
                 voice_id = get_voice_id(v_key)
                 out_filename = f"{slug}_{v_key}.mp3"
                 out_path = os.path.join(word_audio_dir, out_filename)
+                rel_out_path = os.path.join(word_slug, out_filename)
+                cache_key = f"{text}___{v_key}"
                 stats["total_items"] += 1
 
-                # Check if file exists
-                if os.path.exists(out_path) and not force and os.path.getsize(out_path) > 0:
-                    stats["already_exists"] += 1
-                    continue
+                # ---------------------------------------------------------------
+                # Checker 1: File Existence & Integrity Check
+                # ---------------------------------------------------------------
+                if os.path.exists(out_path) and not force:
+                    if is_valid_audio_file(out_path):
+                        stats["already_exists"] += 1
+                        # Register in cache if not present
+                        if cache_key not in audio_cache:
+                            audio_cache[cache_key] = rel_out_path
+                        continue
+                    else:
+                        print(f"  [CHECKER]: Found corrupted/incomplete {out_filename}, re-generating...")
+                        try:
+                            os.remove(out_path)
+                        except Exception:
+                            pass
+
+                # ---------------------------------------------------------------
+                # Checker 2: Cross-Word Dedup Reuse (0 API Points!)
+                # ---------------------------------------------------------------
+                if cache_key in audio_cache and not force:
+                    source_rel = audio_cache[cache_key]
+                    source_full = os.path.join(audio_base_dir, source_rel)
+                    if is_valid_audio_file(source_full):
+                        if dry_run:
+                            stats["dedup_reused"] += 1
+                            stats["points_saved_by_dedup"] += len(text)
+                            print(f"  [DRY RUN - DEDUP REUSE 0 PTS]: {word_slug}/{out_filename} (copied from {source_rel})")
+                            continue
+
+                        try:
+                            shutil.copy2(source_full, out_path)
+                            stats["dedup_reused"] += 1
+                            stats["points_saved_by_dedup"] += len(text)
+                            print(f"  [DEDUP REUSE - 0 PTS]: {word_slug}/{out_filename} ('{text}')")
+                            continue
+                        except Exception as e:
+                            print(f"  [WARN] Copy failed, will synthesize: {e}")
 
                 if dry_run:
-                    print(f"  [DRY RUN] Will generate: {word_slug}/{out_filename} (Voice: {v_key}, Text: '{text[:25]}{'...' if len(text)>25 else ''}')")
+                    print(f"  [DRY RUN - API CALL]: {word_slug}/{out_filename} (Voice: {v_key}, Text: '{text[:25]}{'...' if len(text)>25 else ''}')")
                     stats["generated"] += 1
                     stats["total_chars_synthesized"] += len(text)
+                    audio_cache[cache_key] = rel_out_path
                     continue
 
-                # Check single-character deduplication cache
-                if it_type in ('char', 'lookalike', 'cognate') and len(text) == 1:
-                    cache_key = (text, v_key)
-                    if cache_key in char_cache:
-                        with open(out_path, 'wb') as f:
-                            f.write(char_cache[cache_key])
-                        stats["cached_reuse"] += 1
-                        stats["generated"] += 1
-                        print(f"  [CACHE REUSE] {word_slug}/{out_filename} ('{text}')")
-                        continue
-
-                # Live API Call
+                # ---------------------------------------------------------------
+                # Live Synthesis via MiniMax with Atomic File Writing
+                # ---------------------------------------------------------------
                 try:
-                    print(f"  [SYNTHESIZING] {v_key} -> '{text[:22]}{'...' if len(text)>22 else ''}' ({len(text)} chars)...", end="", flush=True)
+                    print(f"  [SYNTHESIZING]: {v_key} -> '{text[:20]}{'...' if len(text)>20 else ''}' ({len(text)} chars)...", end="", flush=True)
                     audio_bytes = client.synthesize(text=text, voice_id=voice_id)
-                    with open(out_path, 'wb') as f:
-                        f.write(audio_bytes)
 
-                    # Store in cache if single character
-                    if it_type in ('char', 'lookalike', 'cognate') and len(text) == 1:
-                        char_cache[(text, v_key)] = audio_bytes
+                    # Strategy: Write to .tmp first and atomically rename
+                    tmp_path = out_path + ".tmp"
+                    with open(tmp_path, 'wb') as f:
+                        f.write(audio_bytes)
+                    os.replace(tmp_path, out_path)
+
+                    # Register in persistent cache
+                    audio_cache[cache_key] = rel_out_path
 
                     stats["generated"] += 1
                     stats["total_chars_synthesized"] += len(text)
@@ -401,8 +583,12 @@ def generate_chapter_audio(
                     stats["failed"] += 1
                     print(f" FAILED: {e}")
 
+    # Save updated persistent audio cache
+    if not dry_run:
+        save_audio_cache(chapter_dir, audio_cache)
+
     # Recompile chapter dataset so data.json & data.js instantly link audio paths
-    if not dry_run and stats["generated"] > 0:
+    if not dry_run and (stats["generated"] > 0 or stats["dedup_reused"] > 0):
         print(f"\n🔄 Compiling updated audio paths into {chapter_basename} datasets...")
         compile_chapter(chapter_dir)
         print(f"✓ Recompiled data.json and data.js with new audio references!")
@@ -411,11 +597,11 @@ def generate_chapter_audio(
     print(f"Finished audio processing for {chapter_basename}:")
     print(f"  Total items checked : {stats['total_items']}")
     print(f"  Already existed     : {stats['already_exists']}")
-    print(f"  Generated           : {stats['generated']}")
-    print(f"  Cache reuses        : {stats['cached_reuse']}")
+    print(f"  Dedup reuses (0 pts): {stats['dedup_reused']} (saved {stats['points_saved_by_dedup']:,} points)")
+    print(f"  Newly synthesized   : {stats['generated']}")
     print(f"  Failed              : {stats['failed']}")
     if not dry_run:
-        print(f"  Chars synthesized   : {stats['total_chars_synthesized']}")
+        print(f"  Points consumed     : {stats['total_chars_synthesized']:,}")
     print(f"==================================================")
 
     return stats

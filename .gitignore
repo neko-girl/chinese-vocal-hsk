@@ -8,3 +8,15 @@ __pycache__/
 .env.local
 .env.*.local
 
+# Node & Capacitor
+node_modules/
+www/
+
+# Android Build Outputs
+.gradle/
+android/.gradle/
+android/build/
+android/app/build/
+android/capacitor-cordova-android-plugins/build/
+*.apk
+

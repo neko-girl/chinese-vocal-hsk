@@ -81,6 +81,20 @@ Then open `http://localhost:8000` in your browser.
 > [!TIP]
 > You can also open `index.html` directly in your browser (`file:///.../index.html`) without running any server; the built-in fallback script loader automatically loads chapter data without CORS issues.
 
+### 7. Export for Android (APK & Android Studio)
+```bash
+python cli.py export-android
+# or via npm / bash script:
+npm run build:android
+```
+This compiles all chapter datasets, bundles offline assets, synchronizes the native Capacitor Android project in `android/`, and builds a standalone debug APK into `exports/chinese-vocal-hsk-v1.0-debug.apk`.
+
+To install directly on an Android device with USB debugging enabled:
+```bash
+adb install -r exports/chinese-vocal-hsk-v1.0-debug.apk
+```
+Or open the `android/` directory in Android Studio to run, debug, or sign for release.
+
 ---
 
 ## AI Agent Integration

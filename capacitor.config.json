@@ -1,0 +1,12 @@
+{
+  "appId": "com.chinesevocal.hsk5",
+  "appName": "HSK 5 Vocal Lexicon",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
