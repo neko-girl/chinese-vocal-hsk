@@ -220,17 +220,17 @@ function renderFlashcardFront(w, chapterDir, reviewItem) {
         </div>
         <div class="card-action-bar">
           <div class="audio-control-cluster">
-            <button type="button" class="audio-speed-btn" onclick="speak('${w.hanzi}', 0.75)" title="Slow Pronunciation (Shortcut: T or Shift+R)">
-              🐢 0.75x <kbd class="hint-kbd" style="font-size: 0.65rem; padding: 1px 4px; margin-left: 2px;">T</kbd>
+            <button type="button" class="audio-speed-btn" onclick="speak('${w.hanzi}', 0.75)" title="Slow Pronunciation (0.75x)">
+              🐢 0.75x
             </button>
-            <button type="button" class="audio-speed-btn" onclick="speak('${w.hanzi}', 1.0)" title="Normal Pronunciation (Shortcut: R)">
-              🔊 1.0x <kbd class="hint-kbd" style="font-size: 0.65rem; padding: 1px 4px; margin-left: 2px;">R</kbd>
+            <button type="button" class="audio-speed-btn" onclick="speak('${w.hanzi}', 1.0)" title="Normal Pronunciation (1.0x)">
+              🔊 1.0x
             </button>
           </div>
-          <button type="button" class="drawer-trigger-btn" onclick="App.openLookupDrawer()" title="External Lookups (L)">
+          <button type="button" class="drawer-trigger-btn" onclick="App.openLookupDrawer()" title="External Lookups">
             🔍
           </button>
-          <button type="button" class="drawer-trigger-btn" onclick="App.openSettingsDrawer()" title="Study Settings (S)">
+          <button type="button" class="drawer-trigger-btn" onclick="App.openSettingsDrawer()" title="Configuration & Settings">
             ⚙️
           </button>
         </div>
@@ -253,7 +253,6 @@ function renderFlashcardFront(w, chapterDir, reviewItem) {
         <div class="front-hint-section">
           <button type="button" class="btn-peek-hint" onclick="App.toggleFrontHint()">
             <span>💡 Peek Hint</span>
-            <kbd class="hint-kbd">H</kbd>
           </button>
           <div id="front-hint-content" class="hint-content-box">
             <div style="font-size: 0.82rem; margin-bottom: 4px;"><strong>Pinyin:</strong> ${colorizePinyinHTML(w.pinyin)}</div>
@@ -265,7 +264,6 @@ function renderFlashcardFront(w, chapterDir, reviewItem) {
       <div class="card-hint">
         <button type="button" class="hint-pill" onclick="App.showAnswer()">
           <span>👁️ Show Answer</span>
-          <kbd class="hint-kbd">Space</kbd>
         </button>
       </div>
     </div>
@@ -537,61 +535,35 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
         </div>
       </header>
 
-      <!-- 9-Pill Segmented Navigation Bar with Count Badges -->
+      <!-- Minimalist Segmented Navigation Bar -->
       <nav class="pill-nav-container" aria-label="Vocabulary Sections">
         <div class="pill-nav-track" role="tablist">
           <button type="button" class="pill-btn ${activeTab === 'sentences' ? 'active' : ''}" onclick="App.switchTab('sentences')">
-            <span class="pill-icon">💬</span>
             <span class="pill-text">例句</span>
-            <span class="pill-count">${sentences.length}</span>
-            <span class="pill-key">1</span>
           </button>
           <button type="button" class="pill-btn ${activeTab === 'collocations' ? 'active' : ''}" onclick="App.switchTab('collocations')">
-            <span class="pill-icon">⚡</span>
             <span class="pill-text">搭配</span>
-            <span class="pill-count">${collocations.length}</span>
-            <span class="pill-key">2</span>
           </button>
           <button type="button" class="pill-btn ${activeTab === 'idioms' ? 'active' : ''}" onclick="App.switchTab('idioms')">
-            <span class="pill-icon">📜</span>
             <span class="pill-text">成语</span>
-            <span class="pill-count">${idioms.length}</span>
-            <span class="pill-key">3</span>
           </button>
           <button type="button" class="pill-btn ${activeTab === 'decomp' ? 'active' : ''}" onclick="App.switchTab('decomp')">
-            <span class="pill-icon">🧩</span>
             <span class="pill-text">字形</span>
-            <span class="pill-count">${decomp.length}</span>
-            <span class="pill-key">4</span>
           </button>
           <button type="button" class="pill-btn ${activeTab === 'mnemonics' ? 'active' : ''}" onclick="App.switchTab('mnemonics')">
-            <span class="pill-icon">🧠</span>
             <span class="pill-text">助记</span>
-            <span class="pill-key">5</span>
           </button>
-          <button type="button" class="pill-btn ${activeTab === 'traps' ? 'active' : ''}" onclick="App.switchTab('traps')" title="Look-Alike Character Traps (字形陷阱)">
-            <span class="pill-icon">⚠️</span>
+          <button type="button" class="pill-btn ${activeTab === 'traps' ? 'active' : ''}" onclick="App.switchTab('traps')" title="Look-Alike Character Traps">
             <span class="pill-text">字形陷阱</span>
-            <span class="pill-count">${lookAlikes.length}</span>
-            <span class="pill-key">6</span>
           </button>
-          <button type="button" class="pill-btn ${activeTab === 'cognates' ? 'active' : ''}" onclick="App.switchTab('cognates')" title="Etymological Cognates Family (同族字)">
-            <span class="pill-icon">🧬</span>
+          <button type="button" class="pill-btn ${activeTab === 'cognates' ? 'active' : ''}" onclick="App.switchTab('cognates')" title="Etymological Cognates Family">
             <span class="pill-text">同族字</span>
-            <span class="pill-count">${cognates.length}</span>
-            <span class="pill-key">7</span>
           </button>
-          <button type="button" class="pill-btn ${activeTab === 'contrasts' || activeTab === 'synonyms' ? 'active' : ''}" onclick="App.switchTab('contrasts')" title="Semantic Boundary Contrasts (语义辨析)">
-            <span class="pill-icon">🎯</span>
+          <button type="button" class="pill-btn ${activeTab === 'contrasts' || activeTab === 'synonyms' ? 'active' : ''}" onclick="App.switchTab('contrasts')" title="Semantic Boundary Contrasts">
             <span class="pill-text">语义辨析</span>
-            <span class="pill-count">${contrasts.length}</span>
-            <span class="pill-key">8</span>
           </button>
-          <button type="button" class="pill-btn ${activeTab === 'passages' ? 'active' : ''}" onclick="App.switchTab('passages')" title="Extended Reading Passages (篇章)">
-            <span class="pill-icon">📖</span>
+          <button type="button" class="pill-btn ${activeTab === 'passages' ? 'active' : ''}" onclick="App.switchTab('passages')" title="Extended Reading Passages">
             <span class="pill-text">篇章</span>
-            <span class="pill-count">${passages.length}</span>
-            <span class="pill-key">9</span>
           </button>
         </div>
       </nav>
@@ -646,20 +618,17 @@ function renderActionBar(cardSide, studyMode) {
       <div class="anki-action-group">
         <button type="button" class="btn-action-show" onclick="App.showAnswer()">
           <span>👁️ Show Answer</span>
-          <kbd class="action-kbd">Space</kbd>
         </button>
       </div>
     `;
   } else {
     barEl.innerHTML = `
       <div class="anki-action-group">
-        <button type="button" class="btn-rate-again" onclick="App.rateCard('dont_remember')" title="Mark as Don't Remember (Shortcut: 1 or A)">
+        <button type="button" class="btn-rate-again" onclick="App.rateCard('dont_remember')" title="Mark as Don't Remember">
           <span>🔴 Don't Remember</span>
-          <kbd class="action-kbd">1</kbd>
         </button>
-        <button type="button" class="btn-rate-good" onclick="App.rateCard('remembered')" title="Mark as Remembered (Shortcut: 2 or Space)">
+        <button type="button" class="btn-rate-good" onclick="App.rateCard('remembered')" title="Mark as Remembered">
           <span>🟢 Remember</span>
-          <kbd class="action-kbd">2 / Space</kbd>
         </button>
       </div>
     `;
