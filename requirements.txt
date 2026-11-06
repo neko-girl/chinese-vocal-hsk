@@ -1,0 +1,8 @@
+# Chinese Vocal HSK Lexicographical Engine & Web Visualizer
+# Python dependencies
+
+# Free Microsoft Edge Neural TTS Client (Zero API keys required)
+edge-tts>=7.0.0
+
+# Testing
+pytest>=8.0.0

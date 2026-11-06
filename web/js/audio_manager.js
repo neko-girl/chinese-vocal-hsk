@@ -14,13 +14,91 @@ const AudioManager = (function() {
 
   let currentAudio = null;
   let activeSpeakingElements = [];
+  let cachedChineseVoices = [];
 
   const VOICE_LABELS = {
-    mature_woman: '👩 Mature Woman (成熟女性)',
-    soothing_host: '🎙️ Soothing Host (温润女主播)',
-    office_man: '💼 Office Man (职场男音)',
-    tender_ceo: '👔 Tender CEO (霸道/温润总裁)'
+    mature_woman: '👩 Mature Woman (成熟女性 / 晓晓)',
+    soothing_host: '🎙️ Soothing Host (温润女主播 / 晓依)',
+    office_man: '💼 Office Man (职场男音 / 云扬)',
+    tender_ceo: '👔 Tender CEO (霸道总裁 / 云健)'
   };
+
+  /**
+   * Loads and caches all available Chinese voices in the browser.
+   */
+  function loadChineseVoices() {
+    if (typeof window === 'undefined' || !('speechSynthesis' in window)) return [];
+    try {
+      const all = window.speechSynthesis.getVoices() || [];
+      cachedChineseVoices = all.filter(v => {
+        const lang = (v.lang || '').toLowerCase();
+        const name = (v.name || '').toLowerCase();
+        return lang.startsWith('zh') || lang.startsWith('cmn') ||
+               name.includes('chinese') || name.includes('mandarin') || name.includes('putonghua');
+      });
+      return cachedChineseVoices;
+    } catch (e) {
+      return [];
+    }
+  }
+
+  // Pre-load voices on startup & subscribe to async voicesready
+  if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+    loadChineseVoices();
+    if (window.speechSynthesis.onvoiceschanged !== undefined) {
+      window.speechSynthesis.onvoiceschanged = () => loadChineseVoices();
+    }
+  }
+
+  /**
+   * Retrieves all Chinese voices installed or available in this browser.
+   */
+  function getAvailableChineseVoices() {
+    if (!cachedChineseVoices.length) {
+      loadChineseVoices();
+    }
+    return cachedChineseVoices;
+  }
+
+  /**
+   * Picks the highest quality neural / natural Chinese voice.
+   * Priority: Microsoft Online Natural (Xiaoxiao/Yunxi) > Google Neural > Apple Enhanced > Other.
+   */
+  function getBestChineseVoice(preferredVoiceURI = null) {
+    const voices = getAvailableChineseVoices();
+    if (!voices.length) return null;
+
+    if (preferredVoiceURI) {
+      const match = voices.find(v => v.voiceURI === preferredVoiceURI || v.name === preferredVoiceURI);
+      if (match) return match;
+    }
+
+    // Heuristic neural ranking
+    const scored = voices.map(v => {
+      let score = 0;
+      const n = (v.name || '').toLowerCase();
+      const l = (v.lang || '').toLowerCase();
+
+      // Microsoft Edge / Azure Online Natural voices (world's best)
+      if (n.includes('natural') || n.includes('online')) score += 50;
+      if (n.includes('xiaoxiao') || n.includes('yunxi') || n.includes('yunyang') || n.includes('xiaoyi') || n.includes('yunjian')) score += 40;
+      // Google Chrome Neural
+      if (n.includes('google') || n.includes('普通话') || n.includes('china')) score += 30;
+      // Apple Siri / Enhanced
+      if (n.includes('enhanced') || n.includes('premium') || n.includes('siri') || n.includes('ting-ting')) score += 25;
+      // Remote cloud synthesis (higher fidelity than local robot)
+      if (v.localService === false) score += 20;
+      // Prefer Mainland Mandarin
+      if (l === 'zh-cn' || l === 'zh_cn' || l.startsWith('zh-cn')) score += 10;
+      // Demote robotic eSpeak if other options exist
+      if (n.includes('espeak')) score -= 50;
+
+      return { voice: v, score };
+    });
+
+    scored.sort((a, b) => b.score - a.score);
+    return scored[0]?.voice || voices[0];
+  }
 
   /**
    * Clears any active .speaking visual highlights on buttons/elements.
@@ -73,6 +151,13 @@ const AudioManager = (function() {
 
       const settings = (typeof StorageManager !== 'undefined') ? StorageManager.getSettings() : null;
       u.rate = (typeof speed === 'number') ? speed : (settings?.speechRate || 0.9);
+
+      // Select highest quality neural voice
+      const bestVoice = getBestChineseVoice(settings?.browserVoiceURI);
+      if (bestVoice) {
+        u.voice = bestVoice;
+        u.lang = bestVoice.lang || 'zh-CN';
+      }
 
       setVisualSpeaking(triggerEl);
 
@@ -197,6 +282,8 @@ const AudioManager = (function() {
     stop,
     speakTTS,
     selectAudioUrl,
+    getAvailableChineseVoices,
+    getBestChineseVoice,
     VOICE_LABELS
   };
 })();

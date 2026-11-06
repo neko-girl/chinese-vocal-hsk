@@ -54,29 +54,48 @@ load_env_file()
 # ---------------------------------------------------------------------------
 # Voice Configuration
 # ---------------------------------------------------------------------------
+EDGE_VOICE_MAPPING = {
+    "mature_woman": "zh-CN-XiaoxiaoNeural",
+    "soothing_host": "zh-CN-XiaoyiNeural",
+    "office_man": "zh-CN-YunyangNeural",
+    "tender_ceo": "zh-CN-YunjianNeural"
+}
+
+# Reverse map for MiniMax IDs to Edge voices
+MINIMAX_TO_EDGE = {
+    "female-chengshu": "zh-CN-XiaoxiaoNeural",
+    "presenter_female": "zh-CN-XiaoyiNeural",
+    "male-qn-jingying": "zh-CN-YunyangNeural",
+    "male-qn-badao": "zh-CN-YunjianNeural"
+}
+
 VOICE_CONFIGS = {
     "mature_woman": {
         "id_key": "MINIMAX_VOICE_MATURE_WOMAN",
         "default_id": "female-chengshu",
-        "display_name": "Mature Woman (成熟女性)",
+        "edge_voice": "zh-CN-XiaoxiaoNeural",
+        "display_name": "Mature Woman (成熟女性 / 晓晓)",
         "tone": "Warm, mature, steady feminine tone"
     },
     "soothing_host": {
         "id_key": "MINIMAX_VOICE_SOOTHING_HOST",
         "default_id": "presenter_female",
-        "display_name": "Soothing Host (温润女主播)",
+        "edge_voice": "zh-CN-XiaoyiNeural",
+        "display_name": "Soothing Host (温润女主播 / 晓依)",
         "tone": "Clear, broadcast-quality presenter delivery"
     },
     "office_man": {
         "id_key": "MINIMAX_VOICE_OFFICE_MAN",
         "default_id": "male-qn-jingying",
-        "display_name": "Office Man (职场男音)",
+        "edge_voice": "zh-CN-YunyangNeural",
+        "display_name": "Office Man (职场男音 / 云扬)",
         "tone": "Professional, grounded workplace male cadence"
     },
     "tender_ceo": {
         "id_key": "MINIMAX_VOICE_TENDER_CEO",
         "default_id": "male-qn-badao",
-        "display_name": "Tender CEO (霸道/温润总裁)",
+        "edge_voice": "zh-CN-YunjianNeural",
+        "display_name": "Tender CEO (霸道总裁 / 云健)",
         "tone": "Deep, magnetic, resonant executive tone"
     }
 }
@@ -235,6 +254,56 @@ class MiniMaxAudioClient:
             raise RuntimeError(f"MiniMax returned no audio data: {resp_json}")
 
         return bytes.fromhex(audio_hex)
+
+# ---------------------------------------------------------------------------
+# Microsoft Edge TTS Client (100% Free, High Quality Neural Speech)
+# ---------------------------------------------------------------------------
+class EdgeTTSAudioClient:
+    """Free, high-fidelity Microsoft Edge Speech client with zero API keys required."""
+
+    def __init__(self, voice_map: Optional[Dict[str, str]] = None):
+        self.voice_map = dict(EDGE_VOICE_MAPPING)
+        if voice_map:
+            self.voice_map.update(voice_map)
+
+    def is_configured(self) -> bool:
+        return True
+
+    def synthesize(self, text: str, voice_id: str, speed: float = 1.0) -> bytes:
+        """Synthesizes text to MP3 bytes using Microsoft Edge Neural TTS."""
+        clean_text = text.strip()
+        if not clean_text:
+            raise ValueError("Cannot synthesize empty text.")
+
+        # Resolve voice id: could be persona key ('mature_woman'), MiniMax id ('female-chengshu'), or Edge voice
+        edge_voice = self.voice_map.get(voice_id)
+        if not edge_voice:
+            edge_voice = MINIMAX_TO_EDGE.get(voice_id, voice_id)
+        if not edge_voice or not edge_voice.endswith("Neural"):
+            edge_voice = "zh-CN-XiaoxiaoNeural"
+
+        rate_str = "+0%"
+        if speed != 1.0:
+            pct = int((speed - 1.0) * 100)
+            rate_str = f"{pct:+d}%"
+
+        import asyncio
+        try:
+            import edge_tts
+        except ImportError:
+            raise RuntimeError(
+                "edge-tts package is not installed. Please install it using: pip install edge-tts"
+            )
+
+        async def _synthesize():
+            communicate = edge_tts.Communicate(clean_text, edge_voice, rate=rate_str)
+            chunks = []
+            async for chunk in communicate.stream():
+                if chunk["type"] == "audio":
+                    chunks.append(chunk["data"])
+            return b"".join(chunks)
+
+        return asyncio.run(_synthesize())
 
 # ---------------------------------------------------------------------------
 # Word Item Extractor
@@ -417,12 +486,23 @@ def generate_chapter_audio(
     dry_run: bool = False,
     force: bool = False,
     delay: float = 0.25,
-    client: Optional[MiniMaxAudioClient] = None
+    client: Optional[Any] = None,
+    engine: str = "edge"
 ) -> dict:
     """Generates audio files for all words in a chapter with full duplicate prevention and checkers."""
     load_env_file()
     if client is None:
-        client = MiniMaxAudioClient()
+        eng = engine.lower()
+        if eng == "edge":
+            client = EdgeTTSAudioClient()
+        elif eng == "minimax":
+            client = MiniMaxAudioClient()
+        else:  # auto
+            minimax_key = os.getenv("MINIMAX_API_KEY", "").strip()
+            if minimax_key:
+                client = MiniMaxAudioClient()
+            else:
+                client = EdgeTTSAudioClient()
 
     if voices is None:
         env_voices = os.getenv("MINIMAX_VOICES")
@@ -472,8 +552,9 @@ def generate_chapter_audio(
     }
 
     chapter_basename = os.path.basename(chapter_dir)
+    engine_name = "Microsoft Edge Neural TTS (100% Free, Zero Keys)" if isinstance(client, EdgeTTSAudioClient) else "MiniMax T2A v2 (API)"
     print(f"\n==================================================")
-    print(f"🎵 MiniMax Audio Generation for {chapter_basename}")
+    print(f"🎵 Audio Generation for {chapter_basename} via {engine_name}")
     print(f"Voices enabled   : {', '.join([VOICE_CONFIGS[v]['display_name'] for v in voices])}")
     print(f"Words to process : {len(words)}")
     print(f"Skip Passages    : {skip_passages}")
@@ -483,10 +564,11 @@ def generate_chapter_audio(
     print(f"==================================================")
 
     if not dry_run and not client.is_configured():
-        print("\n❌ ERROR: MiniMax API Key is not configured!")
-        print("Please create or edit the .env file in the repository root:")
-        print("    MINIMAX_API_KEY=your_actual_minimax_api_key")
-        print("\nYou can still run with '--dry-run' to inspect all audio files that will be generated.")
+        print("\n❌ ERROR: Audio client is not configured!")
+        if isinstance(client, MiniMaxAudioClient):
+            print("Please create or edit the .env file in the repository root:")
+            print("    MINIMAX_API_KEY=your_actual_minimax_api_key")
+            print("Or use the free Microsoft Edge neural engine: --engine edge")
         return {"error": "api_key_missing"}
 
     for w_idx, w in enumerate(words, 1):
@@ -560,11 +642,12 @@ def generate_chapter_audio(
                     continue
 
                 # ---------------------------------------------------------------
-                # Live Synthesis via MiniMax with Atomic File Writing
+                # Live Synthesis via MiniMax or Edge-TTS with Atomic File Writing
                 # ---------------------------------------------------------------
                 try:
                     print(f"  [SYNTHESIZING]: {v_key} -> '{text[:20]}{'...' if len(text)>20 else ''}' ({len(text)} chars)...", end="", flush=True)
-                    audio_bytes = client.synthesize(text=text, voice_id=voice_id)
+                    voice_arg = v_key if isinstance(client, EdgeTTSAudioClient) else voice_id
+                    audio_bytes = client.synthesize(text=text, voice_id=voice_arg)
 
                     # Strategy: Write to .tmp first and atomically rename
                     tmp_path = out_path + ".tmp"

@@ -337,7 +337,8 @@ def cmd_audio(args):
             word_filter=args.word,
             dry_run=args.dry_run,
             force=args.force,
-            delay=args.delay
+            delay=args.delay,
+            engine=args.engine
         )
     return 0
 
@@ -384,7 +385,8 @@ def main():
     p_build.add_argument("--chapter", "-c", type=int, help="Chapter number (default: all)")
 
     # audio
-    p_audio = subparsers.add_parser("audio", help="Generate Chinese audio using MiniMax TTS API")
+    p_audio = subparsers.add_parser("audio", help="Generate Chinese audio using Edge-TTS (free) or MiniMax TTS")
+    p_audio.add_argument("--engine", "-e", choices=["edge", "minimax", "auto"], default="edge", help="TTS synthesis engine: 'edge' (free Microsoft Azure Neural, 0 keys, default) or 'minimax'")
     p_audio.add_argument("--chapter", "-c", type=int, default=1, help="Chapter number (default: 1, limit to chapter 1)")
     p_audio.add_argument("--all", "-a", action="store_true", help="Process all chapters instead of just chapter 1")
     p_audio.add_argument("--check", action="store_true", help="Audit existing files, verify integrity, and check remaining points without generating")

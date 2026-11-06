@@ -11,6 +11,7 @@ if BASE_DIR not in sys.path:
 
 from core.audio_generator import (
     MiniMaxAudioClient,
+    EdgeTTSAudioClient,
     VOICE_CONFIGS,
     get_voice_id,
     extract_chinese_items,
@@ -198,6 +199,18 @@ class TestAudioGenerator(unittest.TestCase):
             res2 = check_chapter_audio(ch_dir, voices=["mature_woman", "office_man"], skip_passages=True)
             self.assertEqual(res2["valid"], 1)
             self.assertEqual(res2["missing"], res["total_required"] - 1)
+
+    def test_edge_tts_client(self):
+        """Verify EdgeTTSAudioClient configuration and synthesis."""
+        client = EdgeTTSAudioClient()
+        self.assertTrue(client.is_configured())
+        self.assertIn("mature_woman", client.voice_map)
+        self.assertEqual(client.voice_map["mature_woman"], "zh-CN-XiaoxiaoNeural")
+
+        # Test synthesis
+        audio_bytes = client.synthesize("测试", "mature_woman")
+        self.assertGreater(len(audio_bytes), 128)
+        self.assertTrue(audio_bytes.startswith(b"ID3") or (audio_bytes[0] == 0xFF and (audio_bytes[1] & 0xE0) == 0xE0))
 
 if __name__ == '__main__':
     unittest.main()

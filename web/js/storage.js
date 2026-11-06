@@ -621,7 +621,8 @@ const StorageManager = (function() {
         autoAdvanceDelay: 5,     // countdown seconds before auto-advance
         soundFx: true,           // soft UI audio feedback
         showPassagePinyin: false,// reading passage pinyin visibility toggle
-        afkThresholdSeconds: 120 // AFK inactivity threshold in seconds (default 2 min)
+        afkThresholdSeconds: 120,// AFK inactivity threshold in seconds (default 2 min)
+        browserVoiceURI: ''      // Browser TTS Voice (empty string = auto-detect best neural)
       };
 
       try {

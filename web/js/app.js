@@ -873,6 +873,53 @@ const App = (function() {
     if (overlay) overlay.classList.add('active');
   }
 
+  function populateBrowserVoices() {
+    const select = document.getElementById('browser-voice-select');
+    if (!select || typeof AudioManager === 'undefined' || typeof AudioManager.getAvailableChineseVoices !== 'function') return;
+    const voices = AudioManager.getAvailableChineseVoices();
+    const currentUri = StorageManager.getSettings().browserVoiceURI || '';
+
+    select.innerHTML = '<option value="">✨ Auto-Select Best Neural Voice</option>';
+    voices.forEach(v => {
+      const opt = document.createElement('option');
+      opt.value = v.voiceURI || v.name;
+      const isOnline = v.localService === false || v.name.includes('Online') || v.name.includes('Natural');
+      const badge = isOnline ? '⚡ ' : '';
+      opt.textContent = `${badge}${v.name} (${v.lang})`;
+      if (opt.value === currentUri) opt.selected = true;
+      select.appendChild(opt);
+    });
+
+    const best = AudioManager.getBestChineseVoice(currentUri);
+    const infoEl = document.getElementById('browser-voice-info');
+    if (infoEl) {
+      if (best) {
+        infoEl.textContent = `Active Voice: ${best.name} (${best.lang})`;
+      } else {
+        infoEl.textContent = 'Auto-detecting best neural/natural voice';
+      }
+    }
+  }
+
+  function changeBrowserVoice(voiceURI) {
+    StorageManager.saveSettings({ browserVoiceURI: voiceURI });
+    if (typeof AudioManager !== 'undefined') {
+      const best = AudioManager.getBestChineseVoice(voiceURI);
+      const infoEl = document.getElementById('browser-voice-info');
+      if (infoEl && best) {
+        infoEl.textContent = `Active Voice: ${best.name} (${best.lang})`;
+      }
+    }
+  }
+
+  function testBrowserVoice() {
+    const testPhrase = '你好，祝你汉语学习愉快！';
+    const settings = StorageManager.getSettings();
+    if (typeof AudioManager !== 'undefined') {
+      AudioManager.speakTTS(testPhrase, settings.speechRate || 0.9, document.getElementById('btn-test-browser-voice'));
+    }
+  }
+
   function openSettingsDrawer() {
     const drawer = document.getElementById('ankineitor-settings-drawer');
     const overlay = document.getElementById('drawer-overlay');
@@ -882,6 +929,7 @@ const App = (function() {
     const autoAudioCheck = document.getElementById('toggle-auto-audio');
     const toneColorsCheck = document.getElementById('toggle-tone-colors');
     const speechRateRange = document.getElementById('speech-rate-range');
+    const speechRateLabel = document.getElementById('speech-rate-val-label');
     const autoAdvanceCheck = document.getElementById('toggle-auto-advance');
     const delayRange = document.getElementById('auto-advance-delay-range');
     const delayLabel = document.getElementById('countdown-val-label');
@@ -892,7 +940,10 @@ const App = (function() {
 
     if (autoAudioCheck) autoAudioCheck.checked = !!settings.autoAudio;
     if (toneColorsCheck) toneColorsCheck.checked = !!settings.toneColors;
-    if (speechRateRange) speechRateRange.value = settings.speechRate || 0.9;
+    if (speechRateRange) {
+      speechRateRange.value = settings.speechRate || 0.9;
+      if (speechRateLabel) speechRateLabel.textContent = `${(settings.speechRate || 0.9).toFixed(2)}x`;
+    }
     if (autoAdvanceCheck) autoAdvanceCheck.checked = settings.autoAdvanceChapter !== false;
     if (delayRange) delayRange.value = settings.autoAdvanceDelay || 5;
     if (delayLabel) delayLabel.textContent = `${settings.autoAdvanceDelay || 5}s`;
@@ -906,6 +957,8 @@ const App = (function() {
           : (typeof AudioManager !== 'undefined' ? (AudioManager.VOICE_LABELS[settings.preferredVoice] || settings.preferredVoice) : settings.preferredVoice);
       }
     }
+
+    populateBrowserVoices();
 
     drawer.classList.add('active');
     if (overlay) overlay.classList.add('active');
@@ -1476,7 +1529,17 @@ const App = (function() {
     const speechRateRange = document.getElementById('speech-rate-range');
     if (speechRateRange) {
       speechRateRange.addEventListener('input', (e) => {
-        StorageManager.saveSettings({ speechRate: parseFloat(e.target.value) });
+        const val = parseFloat(e.target.value);
+        StorageManager.saveSettings({ speechRate: val });
+        const label = document.getElementById('speech-rate-val-label');
+        if (label) label.textContent = `${val.toFixed(2)}x`;
+      });
+    }
+
+    // Subscribe to browser speech synthesis voices dynamically loaded
+    if (typeof window !== 'undefined' && 'speechSynthesis' in window && window.speechSynthesis.onvoiceschanged !== undefined) {
+      window.speechSynthesis.addEventListener('voiceschanged', () => {
+        populateBrowserVoices();
       });
     }
 
@@ -1641,6 +1704,9 @@ const App = (function() {
     openSettingsDrawer,
     closeDrawers,
     toggleShortcutsModal,
+    changeBrowserVoice,
+    testBrowserVoice,
+    populateBrowserVoices,
     resetCurrentChapterProgress,
     skipToNextChapter,
     pauseAutoAdvance,

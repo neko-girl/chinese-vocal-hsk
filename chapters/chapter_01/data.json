@@ -39,47 +39,79 @@
           "character": "粗",
           "pinyin": "cū",
           "meaning_en": "coarse; rough",
-          "distinction_note": "Has radical 米 (rice) instead of 纟 (silk); semantically its direct antonym"
+          "distinction_note": "Has radical 米 (rice) instead of 纟 (silk); semantically its direct antonym",
+          "audio": {
+            "mature_woman": "chapters/chapter_01/audio/01_细节/lookalike_粗_mature_woman.mp3",
+            "office_man": "chapters/chapter_01/audio/01_细节/lookalike_粗_office_man.mp3"
+          }
         },
         {
           "character": "组",
           "pinyin": "zǔ",
           "meaning_en": "group; organize",
-          "distinction_note": "Shares radical 纟 but has 且 on the right instead of 田"
+          "distinction_note": "Shares radical 纟 but has 且 on the right instead of 田",
+          "audio": {
+            "mature_woman": "chapters/chapter_01/audio/01_细节/lookalike_组_mature_woman.mp3",
+            "office_man": "chapters/chapter_01/audio/01_细节/lookalike_组_office_man.mp3"
+          }
         },
         {
           "character": "符",
           "pinyin": "fú",
           "meaning_en": "tally; symbol",
-          "distinction_note": "Has bamboo radical 竹 over 付; unrelated to 节"
+          "distinction_note": "Has bamboo radical 竹 over 付; unrelated to 节",
+          "audio": {
+            "mature_woman": "chapters/chapter_01/audio/01_细节/lookalike_符_mature_woman.mp3",
+            "office_man": "chapters/chapter_01/audio/01_细节/lookalike_符_office_man.mp3"
+          }
         },
         {
           "character": "爷",
           "pinyin": "yé",
           "meaning_en": "grandfather; lord",
-          "distinction_note": "Has top radical 父; distinct lower structure from 节"
+          "distinction_note": "Has top radical 父; distinct lower structure from 节",
+          "audio": {
+            "mature_woman": "chapters/chapter_01/audio/01_细节/lookalike_爷_mature_woman.mp3",
+            "office_man": "chapters/chapter_01/audio/01_细节/lookalike_爷_office_man.mp3"
+          }
         }
       ],
       "etymological_cognates": [
         {
           "character": "丝",
           "pinyin": "sī",
-          "gloss_en": "silk; minute thread"
+          "gloss_en": "silk; minute thread",
+          "audio": {
+            "mature_woman": "chapters/chapter_01/audio/01_细节/cognate_丝_mature_woman.mp3",
+            "office_man": "chapters/chapter_01/audio/01_细节/cognate_丝_office_man.mp3"
+          }
         },
         {
           "character": "幼",
           "pinyin": "yòu",
-          "gloss_en": "infant; tender micro-growth"
+          "gloss_en": "infant; tender micro-growth",
+          "audio": {
+            "mature_woman": "chapters/chapter_01/audio/01_细节/cognate_幼_mature_woman.mp3",
+            "office_man": "chapters/chapter_01/audio/01_细节/cognate_幼_office_man.mp3"
+          }
         },
         {
           "character": "竹",
           "pinyin": "zhú",
-          "gloss_en": "bamboo; parent radical of traditional 節"
+          "gloss_en": "bamboo; parent radical of traditional 節",
+          "audio": {
+            "mature_woman": "chapters/chapter_01/audio/01_细节/cognate_竹_mature_woman.mp3",
+            "office_man": "chapters/chapter_01/audio/01_细节/cognate_竹_office_man.mp3"
+          }
         },
         {
           "character": "阶",
           "pinyin": "jiē",
-          "gloss_en": "steps; discrete levels"
+          "gloss_en": "steps; discrete levels",
+          "audio": {
+            "mature_woman": "chapters/chapter_01/audio/01_细节/cognate_阶_mature_woman.mp3",
+            "office_man": "chapters/chapter_01/audio/01_细节/cognate_阶_office_man.mp3"
+          }
         }
       ]
     },
@@ -104,62 +136,110 @@
         "hanzi": "老艺术家的画作细腻生动，连花瓣上的露珠这种细节都被表现得惟妙惟肖。",
         "pinyin": "Lǎo yìshùjiā de huàzuò xìnì shēngdòng, lián huābàn shàng de lùzhū zhè zhǒng xìjié dōu bèi biǎoxiàn de wéimiàowéixiào.",
         "en": "The veteran artist's paintings are exquisite and vivid; even such details as dew on petals are depicted to perfection.",
-        "es": "Las pinturas del veterano artista son exquisitas y vivaces; incluso detalles como el rocío en los pétalos están plasmados a la perfección."
+        "es": "Las pinturas del veterano artista son exquisitas y vivaces; incluso detalles como el rocío en los pétalos están plasmados a la perfección.",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/sentence_1_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/sentence_1_office_man.mp3"
+        }
       },
       {
         "id": "#2",
         "hanzi": "在复杂的外交谈判中，代表团对协议文本的每一处细节都进行了反复推敲和严谨确认。",
         "pinyin": "Zài fùzá de wàijiāo tánpàn zhōng, dàibiǎotuán duì xiéyì wénběn de měi yí chù xìjié dōu jìnxíng le fǎnfù tuīqiāo hé yánjǐn quèrèn.",
         "en": "In complex diplomatic negotiations, the delegation repeatedly scrutinized and rigorously confirmed every detail of the agreement text.",
-        "es": "En las complejas negociaciones diplomáticas, la delegación examinó minuciosamente y confirmó con rigor cada detalle del texto del acuerdo."
+        "es": "En las complejas negociaciones diplomáticas, la delegación examinó minuciosamente y confirmó con rigor cada detalle del texto del acuerdo.",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/sentence_2_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/sentence_2_office_man.mp3"
+        }
       }
     ],
     "collocations": [
       {
         "hanzi": "注意细节",
-        "en": "pay attention to details"
+        "en": "pay attention to details",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/collocation_1_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/collocation_1_office_man.mp3"
+        }
       },
       {
         "hanzi": "忽略细节",
-        "en": "overlook details"
+        "en": "overlook details",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/collocation_2_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/collocation_2_office_man.mp3"
+        }
       },
       {
         "hanzi": "具体细节",
-        "en": "specific details"
+        "en": "specific details",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/collocation_3_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/collocation_3_office_man.mp3"
+        }
       },
       {
         "hanzi": "技术细节",
-        "en": "technical details"
+        "en": "technical details",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/collocation_4_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/collocation_4_office_man.mp3"
+        }
       },
       {
         "hanzi": "细节决定成败",
-        "en": "details determine success or failure"
+        "en": "details determine success or failure",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/collocation_5_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/collocation_5_office_man.mp3"
+        }
       },
       {
         "hanzi": "丰富细节",
-        "en": "enrich the details"
+        "en": "enrich the details",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/collocation_6_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/collocation_6_office_man.mp3"
+        }
       }
     ],
     "idioms": [
       {
         "hanzi": "不拘小节",
         "pinyin": "bù jū xiǎo jié",
-        "meaning_en": "not bother about trifles; not adhere strictly to trivial rules"
+        "meaning_en": "not bother about trifles; not adhere strictly to trivial rules",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/idiom_1_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/idiom_1_office_man.mp3"
+        }
       },
       {
         "hanzi": "细水长流",
         "pinyin": "xì shuǐ cháng liú",
-        "meaning_en": "a fine stream flows long; economize to ensure long-term sustainability"
+        "meaning_en": "a fine stream flows long; economize to ensure long-term sustainability",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/idiom_2_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/idiom_2_office_man.mp3"
+        }
       },
       {
         "hanzi": "节衣缩食",
         "pinyin": "jié yī suō shí",
-        "meaning_en": "live frugally; practice strict economy in clothing and food"
+        "meaning_en": "live frugally; practice strict economy in clothing and food",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/idiom_3_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/idiom_3_office_man.mp3"
+        }
       },
       {
         "hanzi": "明察秋毫",
         "pinyin": "míng chá qiū háo",
-        "meaning_en": "perceive the finest detail; see clearly down to an autumn hair"
+        "meaning_en": "perceive the finest detail; see clearly down to an autumn hair",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/idiom_4_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/idiom_4_office_man.mp3"
+        }
       }
     ],
     "character_decomposition": [
@@ -179,7 +259,11 @@
         "visual_mnemonic_story_es": "Un hilo de seda (纟) tendido sobre un campo de arroz (田) es tan fino que atrapa las gotas más diminutas.",
         "tone_mnemonic_anchor": "51",
         "cangjie": "VMW",
-        "traditional": "細"
+        "traditional": "細",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/char_细_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/char_细_office_man.mp3"
+        }
       },
       {
         "character": "节",
@@ -197,7 +281,11 @@
         "visual_mnemonic_story_es": "Brotes de hierba (艹) que crecen junto a un sello (卩) marcan las secciones medidas del tallo.",
         "tone_mnemonic_anchor": "35",
         "cangjie": "TSL",
-        "traditional": "節"
+        "traditional": "節",
+        "audio": {
+          "mature_woman": "chapters/chapter_01/audio/01_细节/char_节_mature_woman.mp3",
+          "office_man": "chapters/chapter_01/audio/01_细节/char_节_office_man.mp3"
+        }
       }
     ],
     "extended_reading_passages": [
@@ -215,7 +303,11 @@
         "en": "Manufacturing competitiveness is shifting toward precision engineering. In high-end equipment and semiconductor sectors, micron-level tolerance details often determine overall performance and yield. Stringent international standards on production details compel enterprises to establish lifecycle refined management systems.",
         "es": "La competitividad manufacturera evoluciona hacia la ingeniería de precisión. En equipos avanzados y semiconductores, los detalles de tolerancia micrométrica determinan el rendimiento y la calidad. Las exigentes normas internacionales sobre detalles productivos obligan a implantar una gestión refinada integral."
       }
-    ]
+    ],
+    "audio": {
+      "mature_woman": "chapters/chapter_01/audio/01_细节/headword_mature_woman.mp3",
+      "office_man": "chapters/chapter_01/audio/01_细节/headword_office_man.mp3"
+    }
   },
   {
     "meanings_summary": {
