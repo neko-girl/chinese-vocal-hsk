@@ -85,19 +85,6 @@
   <main id="main-scroll">
     <header class="topbar">
       <div class="nav-controls">
-        <button class="btn nav-drawer-btn" id="open-wordlist-btn" onclick="App.openWordListDrawer()" title="Open Vocabulary List (Shortcut: W)">
-          <svg style="width:16px;height:16px;vertical-align:-2px;" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7"></path></svg>
-          <span>Word List</span>
-          <kbd class="topbar-kbd">W</kbd>
-        </button>
-
-        <div class="current-chapter-indicator" id="current-chapter-indicator" onclick="App.openChapterPicker()" title="Click to Switch Chapter (Shortcut: C)">
-          <span class="ch-badge" id="topbar-ch-badge">CHP 1</span>
-          <span class="ch-title" id="topbar-ch-title">细节与人际关系</span>
-          <span class="ch-dropdown-arrow">▾</span>
-          <kbd class="topbar-kbd" style="margin-left: 2px;">C</kbd>
-        </div>
-
         <div class="card-step-nav">
           <button type="button" class="btn btn-icon btn-nav-step" onclick="App.prevCard()" title="Previous Card (←)">‹</button>
           <button type="button" class="btn btn-icon btn-nav-step" onclick="App.nextCard()" title="Next Card (→)">›</button>
@@ -124,37 +111,14 @@
       </div>
 
       <div class="nav-controls">
-        <!-- 3 Dedicated Views Switcher: Flashcards, Dictionary, Statistics -->
-        <div class="view-switch-group">
-          <button class="view-btn active" data-view="flashcard" onclick="App.switchView('flashcard')" title="Flashcards SRS Stage">
-            🗂️ Flashcards
-          </button>
-          <button class="view-btn" data-view="dictionary" onclick="App.switchView('dictionary')" title="Full Dictionary View">
-            📖 Dictionary
-          </button>
-          <button class="view-btn" data-view="stats" onclick="App.switchView('stats')" title="Study Statistics & Timeline">
-            📊 Statistics
-          </button>
-          <button class="view-btn view-popout-btn" onclick="App.popoutCurrentView()" title="Pop out current view into standalone window (⧉)">
-            ⧉
-          </button>
-        </div>
-
         <!-- Shortcuts Help Modal Trigger -->
         <button class="btn btn-icon" onclick="App.toggleShortcutsModal()" title="Keyboard Shortcuts (?)">⌨️</button>
-
-        <!-- Settings Trigger -->
-        <button class="btn btn-icon" onclick="App.openSettingsDrawer()" title="Study & Auto-Advance Settings (S)">⚙️</button>
 
         <!-- Theme Toggle -->
         <button class="btn btn-icon" id="main-theme-btn" title="Toggle Light/Dark Theme">🌓</button>
 
-        <!-- Language Switcher -->
-        <div class="lang-toggle">
-          <button class="lang-btn active" data-lang="both">Bilingual</button>
-          <button class="lang-btn" data-lang="en">EN</button>
-          <button class="lang-btn" data-lang="es">ES</button>
-        </div>
+        <!-- Settings & Configuration Trigger -->
+        <button class="btn btn-icon" onclick="App.openSettingsDrawer()" title="Configuration & Views (S)">⚙️</button>
       </div>
     </header>
 
@@ -189,11 +153,64 @@
   <div id="ankineitor-settings-drawer" class="ankineitor-drawer" aria-hidden="true">
     <div class="drawer-header">
       <div class="drawer-title-group">
-        <span>⚙️ Study & Display Settings</span>
+        <span>⚙️ Configuration & Views</span>
       </div>
       <button type="button" class="drawer-close-btn" onclick="App.closeDrawers()">&times;</button>
     </div>
     <div class="drawer-content">
+      <!-- Section 1: Views & Workspace -->
+      <div class="setting-category-title">📱 Views & Windows</div>
+      <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 8px;">
+        <span class="setting-title">Active Workspace View</span>
+        <div class="view-switch-group" style="width: 100%; display: flex; justify-content: space-between;">
+          <button class="view-btn active" data-view="flashcard" onclick="App.switchView('flashcard'); App.closeDrawers();" style="flex: 1; justify-content: center;" title="Flashcards SRS Stage">
+            🗂️ Flashcards
+          </button>
+          <button class="view-btn" data-view="dictionary" onclick="App.switchView('dictionary'); App.closeDrawers();" style="flex: 1; justify-content: center;" title="Full Dictionary View">
+            📖 Dictionary
+          </button>
+          <button class="view-btn" data-view="stats" onclick="App.switchView('stats'); App.closeDrawers();" style="flex: 1; justify-content: center;" title="Study Statistics & Timeline">
+            📊 Statistics
+          </button>
+        </div>
+        <button type="button" class="btn" onclick="App.popoutCurrentView()" style="width: 100%; font-size: 0.8rem; margin-top: 4px;">
+          ⧉ Pop out current view into standalone window
+        </button>
+      </div>
+
+      <!-- Section 2: Curriculum & Navigation -->
+      <div class="setting-category-title">📚 Curriculum & Chapter</div>
+      <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 8px;">
+        <div style="display: flex; justify-content: space-between; width: 100%;">
+          <span class="setting-title">Curriculum Chapter</span>
+          <span class="ch-badge" id="settings-ch-badge">CHP 1</span>
+        </div>
+        <select id="settings-chapter-select" class="chapter-select" style="width: 100%; font-size: 0.85rem;" onchange="App.switchChapter(this.value)">
+          <!-- Populated dynamically via JS -->
+        </select>
+        <div style="display: flex; gap: 8px; width: 100%; margin-top: 4px;">
+          <button type="button" class="btn" style="flex: 1; font-size: 0.78rem;" onclick="App.closeDrawers(); App.openChapterPicker();">
+            📚 Chapter Picker Modal
+          </button>
+          <button type="button" class="btn" style="flex: 1; font-size: 0.78rem;" onclick="App.closeDrawers(); App.openWordListDrawer();">
+            📑 Open Word List
+          </button>
+        </div>
+      </div>
+
+      <!-- Section 3: Language & Translations -->
+      <div class="setting-category-title">🌐 Language & Translations</div>
+      <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 8px;">
+        <span class="setting-title">Translation Mode</span>
+        <div class="lang-toggle" style="width: 100%; display: flex;">
+          <button class="lang-btn active" data-lang="both" style="flex: 1; text-align: center;">Bilingual (EN+ES)</button>
+          <button class="lang-btn" data-lang="en" style="flex: 1; text-align: center;">English Only</button>
+          <button class="lang-btn" data-lang="es" style="flex: 1; text-align: center;">Español Solo</button>
+        </div>
+      </div>
+
+      <!-- Section 4: Study Automation & Audio -->
+      <div class="setting-category-title">⏱️ Study Automation & Audio</div>
       <div class="setting-row">
         <div>
           <span class="setting-title">Auto-Advance to Next Chapter</span>

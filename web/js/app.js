@@ -285,8 +285,10 @@ const App = (function() {
 
     // Update Chapter Badge & Title in Topbar
     const badgeEl = document.getElementById('topbar-ch-badge');
+    const settingsBadge = document.getElementById('settings-ch-badge');
     const titleEl = document.getElementById('topbar-ch-title');
     if (badgeEl) badgeEl.textContent = `CHP ${currentChapter.id}`;
+    if (settingsBadge) settingsBadge.textContent = `CHP ${currentChapter.id}`;
     if (titleEl) titleEl.textContent = currentChapter.title || currentChapter.name;
   }
 
@@ -638,6 +640,16 @@ const App = (function() {
     const selectEl = document.getElementById('chapter-select');
     if (selectEl && selectEl.value !== found.dir) {
       selectEl.value = found.dir;
+    }
+
+    const settingsSelectEl = document.getElementById('settings-chapter-select');
+    if (settingsSelectEl && settingsSelectEl.value !== found.dir) {
+      settingsSelectEl.value = found.dir;
+    }
+
+    const settingsBadge = document.getElementById('settings-ch-badge');
+    if (settingsBadge) {
+      settingsBadge.textContent = `CHP ${found.id}`;
     }
 
     try {
@@ -1558,17 +1570,19 @@ const App = (function() {
         chapters = [{ id: 1, dir: 'chapter_01', name: 'Chapter 1', title: '细节与人际关系', word_count: 38 }];
       }
 
-      // Populate Chapter dropdown
-      const chapterSelect = document.getElementById('chapter-select');
-      if (chapterSelect) {
-        chapterSelect.innerHTML = '';
-        chapters.forEach(c => {
-          const opt = document.createElement('option');
-          opt.value = c.dir;
-          opt.textContent = `${c.name}: ${c.title || c.dir} (${c.word_count} words)`;
-          chapterSelect.appendChild(opt);
-        });
-      }
+      // Populate Chapter dropdowns
+      ['chapter-select', 'settings-chapter-select'].forEach(selId => {
+        const chapterSelect = document.getElementById(selId);
+        if (chapterSelect) {
+          chapterSelect.innerHTML = '';
+          chapters.forEach(c => {
+            const opt = document.createElement('option');
+            opt.value = c.dir;
+            opt.textContent = `${c.name}: ${c.title || c.dir} (${c.word_count} words)`;
+            chapterSelect.appendChild(opt);
+          });
+        }
+      });
 
       // Load initial chapter
       const requestedCh = urlParams.get('ch');

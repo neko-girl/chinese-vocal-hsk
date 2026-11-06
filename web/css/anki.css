@@ -612,6 +612,18 @@
 .lookup-item-arrow { margin-left: auto; color: var(--text-dim); }
 
 /* Settings Switch Rows */
+.setting-category-title {
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--primary);
+  margin: 16px 0 8px 0;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--border);
+  display: block;
+}
+
 .setting-row {
   display: flex;
   justify-content: space-between;
@@ -619,7 +631,19 @@
   padding: 10px 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
-[data-theme="light"] .setting-row {
+[data-theme="light"] .setting-category-title {
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--primary);
+  margin: 16px 0 8px 0;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--border);
+  display: block;
+}
+
+.setting-row {
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 .setting-title { font-size: 0.84rem; font-weight: 600; display: block; }
