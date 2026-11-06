@@ -15,9 +15,46 @@ const App = (function() {
   let currentCardSide = 'front'; // 'front' | 'back'
   let currentActiveTab = 'sentences';
   let studyMode = 'flashcard'; // 'flashcard' | 'browse'
+  let currentActiveView = 'flashcard'; // 'flashcard' | 'dictionary' | 'stats'
   let reviewFilter = 'all'; // 'all' | 'due' | 'lapses' | 'remembered' | 'new'
   let currentPosFilter = 'ALL';
   let currentLang = 'both';
+
+  // Dedicated Dictionary View State
+  let selectedDictWordId = null;
+  let dictSearchQuery = '';
+  let dictPosFilter = 'ALL';
+  let dictStatusFilter = 'all';
+
+  // Cross-Window Real-Time Synchronization Channel
+  const syncChannel = (typeof BroadcastChannel !== 'undefined') ? new BroadcastChannel('hsk_sync_channel') : null;
+  if (syncChannel) {
+    syncChannel.onmessage = (event) => {
+      const { type, payload } = event.data || {};
+      if (type === 'review_updated') {
+        if (currentActiveView === 'stats' || currentActiveView === 'dictionary') {
+          renderCurrentWord();
+        } else if (currentActiveView === 'flashcard') {
+          updateMasteryStats();
+          updateFilterCountBadges();
+        }
+      } else if (type === 'chapter_switched') {
+        if (payload?.dir && payload.dir !== currentChapter?.dir) {
+          switchChapter(payload.dir, false);
+        }
+      } else if (type === 'afk_changed') {
+        if (typeof TimeTracker !== 'undefined') {
+          updateTopBarTimePill(TimeTracker.getStatus());
+        }
+      }
+    };
+  }
+
+  function broadcastSync(type, payload = {}) {
+    if (syncChannel) {
+      try { syncChannel.postMessage({ type, payload }); } catch (e) {}
+    }
+  }
 
   // Intra-session stats & Auto-advance state
   let sessionGoodCount = 0;
@@ -36,6 +73,9 @@ const App = (function() {
 
   // Current active word object
   function getCurrentWord() {
+    if (currentActiveView === 'dictionary' && selectedDictWordId) {
+      return WORDS.find(w => String(w.id) === String(selectedDictWordId)) || WORDS[0] || null;
+    }
     if (studyMode === 'flashcard') {
       const wordId = reviewQueue[queueIndex];
       return WORDS.find(w => String(w.id) === String(wordId)) || WORDS[0] || null;
@@ -318,7 +358,11 @@ const App = (function() {
     const container = document.getElementById('detail-container');
     if (!container || !currentChapter) return;
 
-    if (studyMode === 'flashcard') {
+    const ankiActionBar = document.getElementById('anki-action-bar');
+
+    if (currentActiveView === 'flashcard') {
+      if (ankiActionBar) ankiActionBar.style.display = '';
+
       if (reviewQueue.length === 0 || queueIndex >= reviewQueue.length) {
         const stats = StorageManager.getChapterStats(currentChapter.dir, WORDS);
         const currentIdx = chapters.findIndex(c => c.dir === currentChapter.dir);
@@ -353,18 +397,43 @@ const App = (function() {
         container.innerHTML = renderFlashcardBack(w, currentChapter.dir, reviewItem, currentLang, currentActiveTab);
       }
 
-      renderActionBar(currentCardSide, studyMode);
-    } else {
-      // Browse Mode
+      renderActionBar(currentCardSide, 'flashcard');
+
+      const reviews = StorageManager.getChapterReviews(currentChapter.dir);
+      const activeWord = getCurrentWord();
+      renderSidebar(filteredWords, WORDS, activeWord?.id, currentLang, selectWordById, reviews);
+    } else if (currentActiveView === 'dictionary') {
+      if (ankiActionBar) ankiActionBar.style.display = 'none';
       clearAutoAdvanceTimer();
-      const w = getCurrentWord();
-      renderBrowseView(w, currentLang);
-      renderActionBar('front', 'browse');
+
+      const selectedWord = selectedDictWordId
+        ? (WORDS.find(w => String(w.id) === String(selectedDictWordId)) || WORDS[0])
+        : (getCurrentWord() || WORDS[0]);
+
+      if (typeof renderDictionaryWindow === 'function') {
+        renderDictionaryWindow({
+          words: WORDS,
+          selectedWord,
+          currentLang,
+          currentChapter,
+          searchQuery: dictSearchQuery,
+          selectedPos: dictPosFilter,
+          selectedStatus: dictStatusFilter
+        });
+      }
+    } else if (currentActiveView === 'stats') {
+      if (ankiActionBar) ankiActionBar.style.display = 'none';
+      clearAutoAdvanceTimer();
+
+      if (typeof renderStatisticsDashboard === 'function') {
+        renderStatisticsDashboard({
+          currentChapter,
+          chapters,
+          words: WORDS
+        });
+      }
     }
 
-    const reviews = StorageManager.getChapterReviews(currentChapter.dir);
-    const activeWord = getCurrentWord();
-    renderSidebar(filteredWords, WORDS, activeWord?.id, currentLang, selectWordById, reviews);
     updateMasteryStats();
     updateFilterCountBadges();
 
@@ -415,6 +484,7 @@ const App = (function() {
 
     // Record review in storage
     StorageManager.recordReview(currentChapter.dir, w.id, status);
+    broadcastSync('review_updated', { chapterDir: currentChapter.dir, wordId: w.id, status });
 
     if (status === 'remembered') {
       sessionGoodCount++;
@@ -486,6 +556,7 @@ const App = (function() {
     currentActiveTab = tabId;
     const settings = StorageManager.getSettings();
     StorageManager.saveSettings({ activeTab: tabId });
+    StorageManager.recordStudyEvent('tab_view', { tab: tabId });
 
     // Update active tab buttons
     document.querySelectorAll('.pill-btn').forEach(btn => {
@@ -582,17 +653,160 @@ const App = (function() {
     renderCurrentWord();
   }
 
-  // Set Study Mode (Flashcard vs Browse)
-  function setStudyMode(mode) {
-    studyMode = mode;
-    StorageManager.saveSettings({ studyMode: mode });
+  // Switch Top-Level Dedicated View ('flashcard' | 'dictionary' | 'stats')
+  function switchView(viewName) {
+    if (viewName !== 'flashcard' && viewName !== 'dictionary' && viewName !== 'stats') {
+      viewName = 'flashcard';
+    }
 
-    document.querySelectorAll('.mode-btn').forEach(b => {
-      b.classList.toggle('active', b.getAttribute('data-mode') === mode);
+    currentActiveView = viewName;
+    studyMode = (viewName === 'dictionary') ? 'browse' : 'flashcard';
+    StorageManager.saveSettings({ activeView: viewName, studyMode });
+
+    if (typeof TimeTracker !== 'undefined') {
+      TimeTracker.setMode(viewName);
+    }
+
+    // Update view button active states
+    document.querySelectorAll('.view-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.getAttribute('data-view') === viewName);
     });
 
-    currentCardSide = 'front';
     renderCurrentWord();
+    playAudioFeedback('click');
+  }
+
+  // Pop out current view into an individual standalone OS/browser window
+  function popoutCurrentView() {
+    const url = `index.html?view=${currentActiveView}&ch=${currentChapter?.dir || 'chapter_01'}`;
+    const windowFeatures = 'width=1150,height=850,resizable=yes,scrollbars=yes';
+    window.open(url, `hsk_${currentActiveView}_window`, windowFeatures);
+    showToast(`⧉ Opened ${currentActiveView} in separate window`);
+  }
+
+  // Legacy setStudyMode for compatibility
+  function setStudyMode(mode) {
+    if (mode === 'browse') {
+      switchView('dictionary');
+    } else {
+      switchView('flashcard');
+    }
+  }
+
+  // Dictionary Window Interactive Actions
+  function selectDictionaryWord(id) {
+    selectedDictWordId = id;
+    StorageManager.recordStudyEvent('tab_view', { tab: 'dictionary_word', wordId: id });
+    renderCurrentWord();
+  }
+
+  function onDictSearchInput(val) {
+    dictSearchQuery = val;
+    renderCurrentWord();
+    const input = document.getElementById('dict-search-input');
+    if (input) {
+      input.focus();
+      input.setSelectionRange(val.length, val.length);
+    }
+  }
+
+  function clearDictSearch() {
+    dictSearchQuery = '';
+    renderCurrentWord();
+  }
+
+  function setDictPosFilter(pos) {
+    dictPosFilter = pos;
+    renderCurrentWord();
+  }
+
+  function setDictStatusFilter(status) {
+    dictStatusFilter = status;
+    renderCurrentWord();
+  }
+
+  function openWordInDictionary(id) {
+    selectedDictWordId = id;
+    switchView('dictionary');
+  }
+
+  function studyCurrentWord(id) {
+    switchView('flashcard');
+    selectWordById(id);
+  }
+
+  // Time Tracker & AFK Status Updates
+  function updateTopBarTimePill(status) {
+    if (!status) return;
+    const timeDisplay = document.getElementById('topbar-time-display');
+    const afkDot = document.getElementById('topbar-afk-dot');
+
+    if (timeDisplay && typeof formatSecondsToShort === 'function') {
+      timeDisplay.textContent = formatSecondsToShort(status.totalSecondsToday);
+    }
+
+    if (afkDot) {
+      if (status.isAfk) {
+        afkDot.textContent = '⏸️';
+        afkDot.className = 'time-afk-dot afk-paused';
+        afkDot.title = 'Inactivity Detected (Tracking Paused)';
+      } else {
+        afkDot.textContent = '🟢';
+        afkDot.className = 'time-afk-dot afk-active';
+        afkDot.title = 'Active Tracking';
+      }
+    }
+
+    // Live update in Statistics Dashboard if currently displayed
+    if (currentActiveView === 'stats') {
+      const liveAfkPill = document.querySelector('.afk-indicator-pill');
+      if (liveAfkPill) {
+        liveAfkPill.className = `afk-indicator-pill ${status.isAfk ? 'pill-afk' : 'pill-active'}`;
+        const spanText = liveAfkPill.querySelector('span:last-child');
+        if (spanText) {
+          spanText.textContent = status.isAfk ? '⏸️ Idle / AFK (Tracking Paused)' : '🟢 Active (Time Tracking)';
+        }
+      }
+    }
+  }
+
+  function changeAfkThreshold(seconds) {
+    const secNum = Number(seconds) || 120;
+    if (typeof TimeTracker !== 'undefined') {
+      TimeTracker.setAfkThresholdSeconds(secNum);
+    }
+    const select1 = document.getElementById('afk-timeout-setting');
+    const select2 = document.getElementById('afk-timeout-select');
+    if (select1) select1.value = String(secNum);
+    if (select2) select2.value = String(secNum);
+
+    const label = document.getElementById('afk-val-label');
+    if (label) label.textContent = `${Math.round(secNum / 60)}m`;
+
+    showToast(`⏱️ AFK timeout set to ${Math.round(secNum / 60)}m`);
+  }
+
+  function exportStudyAnalytics() {
+    const data = StorageManager.exportAllData();
+    const jsonStr = JSON.stringify(data, null, 2);
+    const blob = new Blob([jsonStr], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `hsk_study_analytics_${new Date().toISOString().slice(0, 10)}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+    showToast('📥 Study Analytics exported successfully');
+  }
+
+  function resetTimeTrackerPrompt() {
+    if (confirm('Are you sure you want to reset all active time tracking and study habit statistics? (Flashcard review progress will NOT be lost).')) {
+      StorageManager.resetTimeTrackerData();
+      renderCurrentWord();
+      showToast('🗑️ Time tracker data reset.');
+    }
   }
 
   // Drawers & Modals
@@ -806,6 +1020,10 @@ const App = (function() {
     if (hintEl) {
       hintEl.classList.toggle('active');
       playAudioFeedback('click');
+      if (hintEl.classList.contains('active')) {
+        const w = getCurrentWord();
+        if (w) StorageManager.recordStudyEvent('hint_peek', { wordId: w.id });
+      }
     }
   }
 
@@ -910,10 +1128,52 @@ const App = (function() {
         return;
       }
 
-      // Study Mode Toggle
+      // Alt+1, Alt+2, Alt+3 View Switcher
+      if (e.altKey) {
+        if (e.key === '1') {
+          e.preventDefault();
+          switchView('flashcard');
+          return;
+        }
+        if (e.key === '2') {
+          e.preventDefault();
+          switchView('dictionary');
+          return;
+        }
+        if (e.key === '3') {
+          e.preventDefault();
+          switchView('stats');
+          return;
+        }
+      }
+
+      // Switch views via 1, 2, 3 when not typing and not on card back grading
+      const activeTag = document.activeElement ? document.activeElement.tagName.toLowerCase() : '';
+      if (activeTag !== 'input' && activeTag !== 'textarea') {
+        if (currentActiveView !== 'flashcard' || currentCardSide === 'front') {
+          if (e.key === '1') {
+            e.preventDefault();
+            switchView('flashcard');
+            return;
+          }
+          if (e.key === '2') {
+            e.preventDefault();
+            switchView('dictionary');
+            return;
+          }
+          if (e.key === '3') {
+            e.preventDefault();
+            switchView('stats');
+            return;
+          }
+        }
+      }
+
+      // View Cycle Toggle
       if (e.key === 'm' || e.key === 'M') {
         e.preventDefault();
-        setStudyMode(studyMode === 'flashcard' ? 'browse' : 'flashcard');
+        const nextView = (currentActiveView === 'flashcard') ? 'dictionary' : (currentActiveView === 'dictionary' ? 'stats' : 'flashcard');
+        switchView(nextView);
         return;
       }
 
@@ -1298,19 +1558,40 @@ const App = (function() {
       initTheme();
       setupEventListeners();
 
+      const urlParams = new URLSearchParams(window.location.search);
+      const viewParam = urlParams.get('view');
       const savedSettings = StorageManager.getSettings();
-      studyMode = savedSettings.studyMode || 'flashcard';
+
+      currentActiveView = viewParam || savedSettings.activeView || 'flashcard';
+      studyMode = (currentActiveView === 'dictionary') ? 'browse' : 'flashcard';
       currentActiveTab = savedSettings.activeTab || 'sentences';
       if (currentActiveTab === 'synonyms') currentActiveTab = 'contrasts';
       currentLang = savedSettings.lang || 'both';
+
+      if (viewParam) {
+        document.body.classList.add(`standalone-window-${viewParam}`);
+      }
 
       if (!savedSettings.toneColors) {
         document.body.classList.add('hide-tone-colors');
       }
 
-      // Update mode button active state
-      document.querySelectorAll('.mode-btn').forEach(b => {
-        b.classList.toggle('active', b.getAttribute('data-mode') === studyMode);
+      // Initialize TimeTracker
+      if (typeof TimeTracker !== 'undefined') {
+        TimeTracker.init({
+          mode: currentActiveView,
+          afkThresholdSeconds: savedSettings.afkThresholdSeconds || 120
+        });
+        TimeTracker.onTick((status) => updateTopBarTimePill(status));
+        TimeTracker.onStatusChange((status) => {
+          updateTopBarTimePill(status);
+          broadcastSync('afk_changed', status);
+        });
+      }
+
+      // Update view button active state
+      document.querySelectorAll('.view-btn').forEach(b => {
+        b.classList.toggle('active', b.getAttribute('data-view') === currentActiveView);
       });
 
       // Update language buttons
@@ -1339,7 +1620,6 @@ const App = (function() {
       }
 
       // Load initial chapter
-      const urlParams = new URLSearchParams(window.location.search);
       const requestedCh = urlParams.get('ch');
       let initialDir = chapters[0]?.dir || 'chapter_01';
       if (requestedCh) {
@@ -1357,7 +1637,18 @@ const App = (function() {
     cycleTab,
     speakActiveTabContent,
     toggleFlip,
+    switchView,
+    popoutCurrentView,
     setStudyMode,
+    selectDictionaryWord,
+    onDictSearchInput,
+    clearDictSearch,
+    setDictPosFilter,
+    setDictStatusFilter,
+    openWordInDictionary,
+    changeAfkThreshold,
+    exportStudyAnalytics,
+    resetTimeTrackerPrompt,
     filterByReviewStatus,
     prevCard,
     nextCard,
@@ -1375,7 +1666,7 @@ const App = (function() {
       renderCurrentWord();
     },
     studyCurrentWord(id) {
-      setStudyMode('flashcard');
+      switchView('flashcard');
       selectWordById(id);
     },
     openWordListDrawer,

@@ -996,6 +996,904 @@ function renderBrowseView(w, currentLang) {
   `;
 }
 
+// -------------------------------------------------------------
+// Time & Date Formatting Utilities
+// -------------------------------------------------------------
+function formatSecondsToHMS(totalSeconds) {
+  const s = Math.max(0, Math.floor(totalSeconds || 0));
+  const hours = Math.floor(s / 3600);
+  const minutes = Math.floor((s % 3600) / 60);
+  const seconds = s % 60;
+  if (hours > 0) {
+    return `${hours}h ${String(minutes).padStart(2, '0')}m ${String(seconds).padStart(2, '0')}s`;
+  }
+  return `${String(minutes).padStart(2, '0')}m ${String(seconds).padStart(2, '0')}s`;
+}
+
+function formatSecondsToShort(totalSeconds) {
+  const s = Math.max(0, Math.floor(totalSeconds || 0));
+  const hours = Math.floor(s / 3600);
+  const minutes = Math.floor((s % 3600) / 60);
+  if (hours > 0) return `${hours}h ${minutes}m`;
+  if (minutes > 0) return `${minutes}m`;
+  return `${s}s`;
+}
+
+// -------------------------------------------------------------
+// Mini Review Timeline for Individual Word
+// -------------------------------------------------------------
+function renderWordMiniTimeline(reviewItem) {
+  if (!reviewItem || !reviewItem.reviews) {
+    return `
+      <div class="word-timeline-card empty-state">
+        <div style="font-size: 0.82rem; color: var(--text-dim);">⚪ <strong>Unreviewed Word:</strong> This word has not been practiced in flashcards yet.</div>
+      </div>
+    `;
+  }
+
+  const lapses = reviewItem.lapses || 0;
+  const history = reviewItem.history || [];
+  const srsLevel = reviewItem.srsLevel || 0;
+  const lastRevDate = reviewItem.lastReviewed ? new Date(reviewItem.lastReviewed).toLocaleDateString() : 'Today';
+
+  return `
+    <div class="word-timeline-card">
+      <div class="word-timeline-header">
+        <div class="word-timeline-title">
+          <span>📈 Memorization Journey</span>
+          <span class="badge ${lapses > 0 ? 'badge-again' : 'badge-green'}">
+            ${lapses > 0 ? `🔴 ${lapses} Lapse${lapses > 1 ? 's' : ''}` : '🟢 Mastered Smoothly'}
+          </span>
+          <span class="badge badge-num">SRS Level ${srsLevel} (${reviewItem.reviews} Reviews)</span>
+        </div>
+        <span style="font-size: 0.78rem; color: var(--text-dim);">Last Review: ${lastRevDate}</span>
+      </div>
+      <div class="word-timeline-track">
+        <div class="tl-node tl-node-start" title="First Encounter">⚪ First Seen</div>
+        ${history.slice(-10).map((h) => {
+          const isLapse = h.result === 'dont_remember';
+          const timeStr = new Date(h.t).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+          const dateStr = new Date(h.t).toLocaleDateString([], { month: 'short', day: 'numeric' });
+          return `
+            <div class="tl-connector ${isLapse ? 'tl-conn-lapse' : 'tl-conn-good'}"></div>
+            <div class="tl-node ${isLapse ? 'tl-node-lapse' : 'tl-node-good'}" title="${isLapse ? 'Forgot (Lapse)' : 'Remembered (Good)'} on ${dateStr} ${timeStr}">
+              <span>${isLapse ? '🔴 Lapse' : `🟢 Lvl ${h.level}`}</span>
+              <span class="tl-date">${dateStr}</span>
+            </div>
+          `;
+        }).join('')}
+      </div>
+    </div>
+  `;
+}
+
+// -------------------------------------------------------------
+// Full Dedicated Dictionary Window View
+// -------------------------------------------------------------
+function renderDictionaryWindow({
+  words = [],
+  selectedWord = null,
+  currentLang = 'both',
+  currentChapter = null,
+  searchQuery = '',
+  selectedPos = 'ALL',
+  selectedStatus = 'all'
+}) {
+  const container = document.getElementById('detail-container');
+  if (!container) return;
+
+  const showEn = currentLang === 'both' || currentLang === 'en';
+  const showEs = currentLang === 'both' || currentLang === 'es';
+  const chapterDir = currentChapter ? currentChapter.dir : 'chapter_01';
+  const reviews = (typeof StorageManager !== 'undefined') ? StorageManager.getChapterReviews(chapterDir) : {};
+
+  // Filter words for dictionary index pane
+  let filtered = [...words];
+  const queryLower = (searchQuery || '').trim().toLowerCase();
+  if (queryLower) {
+    filtered = filtered.filter(w =>
+      (w.hanzi && w.hanzi.toLowerCase().includes(queryLower)) ||
+      (w.pinyin && w.pinyin.toLowerCase().includes(queryLower)) ||
+      (w.meanings_summary?.en && w.meanings_summary.en.toLowerCase().includes(queryLower)) ||
+      (w.meanings_summary?.es && w.meanings_summary.es.toLowerCase().includes(queryLower))
+    );
+  }
+
+  if (selectedPos !== 'ALL') {
+    const posLower = selectedPos.toLowerCase();
+    filtered = filtered.filter(w => (w.part_of_speech || '').toLowerCase().includes(posLower));
+  }
+
+  if (selectedStatus === 'due') {
+    filtered = filtered.filter(w => StorageManager.isDue(reviews[String(w.id)]));
+  } else if (selectedStatus === 'lapses') {
+    filtered = filtered.filter(w => reviews[String(w.id)]?.status === 'dont_remember' || (reviews[String(w.id)]?.lapses > 0));
+  } else if (selectedStatus === 'remembered') {
+    filtered = filtered.filter(w => reviews[String(w.id)]?.status === 'remembered');
+  } else if (selectedStatus === 'new') {
+    filtered = filtered.filter(w => !reviews[String(w.id)]);
+  }
+
+  const activeWord = selectedWord || filtered[0] || words[0] || null;
+  const activeReview = activeWord ? reviews[String(activeWord.id)] : null;
+
+  container.innerHTML = `
+    <div class="dictionary-view-container">
+      <!-- Left Index & Navigation Pane -->
+      <aside class="dict-index-pane">
+        <div class="dict-index-header">
+          <div class="dict-search-row">
+            <svg class="dict-search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            <input type="text" id="dict-search-input" class="dict-search-input" placeholder="Search Hanzi, Pinyin, EN, ES..." value="${searchQuery || ''}" oninput="App.onDictSearchInput(this.value)">
+            ${searchQuery ? `<button class="dict-clear-btn" onclick="App.clearDictSearch()">&times;</button>` : ''}
+          </div>
+
+          <!-- POS Quick Filter Chips -->
+          <div class="dict-filter-chips">
+            ${['ALL', 'Noun', 'Verb', 'Adjective', 'Adverb', 'Idiom'].map(p => `
+              <button class="dict-pos-chip ${selectedPos === p ? 'active' : ''}" onclick="App.setDictPosFilter('${p}')">${p}</button>
+            `).join('')}
+          </div>
+
+          <!-- Review Status Filter -->
+          <div class="dict-status-row">
+            <button class="dict-status-chip ${selectedStatus === 'all' ? 'active' : ''}" onclick="App.setDictStatusFilter('all')">All (${words.length})</button>
+            <button class="dict-status-chip ${selectedStatus === 'lapses' ? 'active' : ''}" onclick="App.setDictStatusFilter('lapses')">🔴 Lapses</button>
+            <button class="dict-status-chip ${selectedStatus === 'remembered' ? 'active' : ''}" onclick="App.setDictStatusFilter('remembered')">🟢 Mastered</button>
+            <button class="dict-status-chip ${selectedStatus === 'new' ? 'active' : ''}" onclick="App.setDictStatusFilter('new')">⚪ New</button>
+          </div>
+
+          <div class="dict-meta-summary">
+            <span>Showing <strong>${filtered.length}</strong> of ${words.length} terms</span>
+            <span class="dict-ch-tag">CHP ${currentChapter ? currentChapter.id : 1}</span>
+          </div>
+        </div>
+
+        <!-- Dictionary Word List -->
+        <div class="dict-word-list" id="dict-word-list">
+          ${filtered.length === 0 ? `
+            <div class="dict-empty-list">No vocabulary terms match current filter.</div>
+          ` : filtered.map(w => {
+            const rev = reviews[String(w.id)];
+            const isSelected = activeWord && activeWord.id === w.id;
+            let statusBadge = '<span class="dict-chip-status status-new">⚪</span>';
+            if (rev) {
+              if (rev.status === 'dont_remember' || rev.lapses > 0) {
+                statusBadge = `<span class="dict-chip-status status-lapse">🔴 ${rev.lapses || 1}</span>`;
+              } else if (rev.status === 'remembered') {
+                statusBadge = `<span class="dict-chip-status status-good">🟢 L${rev.srsLevel || 1}</span>`;
+              }
+            }
+
+            return `
+              <div class="dict-word-item ${isSelected ? 'active' : ''}" onclick="App.selectDictionaryWord(${w.id})">
+                <div class="dict-item-top">
+                  <span class="dict-item-hanzi">${w.hanzi}</span>
+                  <span class="dict-item-pinyin">${colorizePinyinHTML(w.pinyin)}</span>
+                  ${statusBadge}
+                </div>
+                <div class="dict-item-def">${showEn ? (w.meanings_summary?.en || '') : (w.meanings_summary?.es || '')}</div>
+                <div class="dict-item-meta">
+                  <span class="dict-item-badge">#${String(w.id).padStart(2, '0')}</span>
+                  <span class="dict-item-badge">${w.part_of_speech}</span>
+                </div>
+              </div>
+            `;
+          }).join('')}
+        </div>
+      </aside>
+
+      <!-- Right Lexicographical Article Pane -->
+      <section class="dict-article-pane">
+        ${!activeWord ? `
+          <div class="dict-no-selection">
+            <div style="font-size: 2.5rem; margin-bottom: 12px;">📖</div>
+            <h3>Select a word from the dictionary list</h3>
+            <p>Select any vocabulary item on the left to read full definitions, radicals, decompositions, and reading passages.</p>
+          </div>
+        ` : renderDictionaryArticle(activeWord, currentLang, activeReview)}
+      </section>
+    </div>
+  `;
+}
+
+// Render full single-entry dictionary article
+function renderDictionaryArticle(w, currentLang, reviewItem) {
+  const showEn = currentLang === 'both' || currentLang === 'en';
+  const showEs = currentLang === 'both' || currentLang === 'es';
+  const contour = computeToneContour(w.pinyin);
+
+  const senses = w.senses || [];
+  const sentences = w.example_sentences || [];
+  const collocations = w.collocations || [];
+  const idioms = w.idioms || [];
+  const decomp = w.character_decomposition || [];
+  const mr = w.mnemonics_and_roots || {};
+  const traps = w.traps_and_cognates || {};
+  const sbc = w.semantic_boundary_contrasts || {};
+  const passages = w.extended_reading_passages || [];
+
+  return `
+    <div class="dict-article-inner">
+      <!-- Article Top Toolbar -->
+      <div class="dict-article-toolbar">
+        <div class="dict-toolbar-left">
+          <span class="badge badge-hsk">${w.level || 'HSK 5'}</span>
+          <span class="badge badge-pos">${w.part_of_speech}</span>
+          <span class="badge badge-num">NO. ${String(w.id).padStart(2, '0')}</span>
+          ${contour ? `<span class="badge tone-contour-badge">${contour}</span>` : ''}
+        </div>
+        <div class="dict-toolbar-right">
+          <button type="button" class="btn btn-primary" onclick="App.studyCurrentWord(${w.id})" title="Jump to Flashcard Stage for this word">
+            🗂️ Study in Flashcards
+          </button>
+          <button type="button" class="btn btn-icon" onclick="App.openExternalLookups('${w.hanzi}')" title="External Lookups (Pleco, MDBG, Wiktionary)">
+            🔍 Lookups
+          </button>
+        </div>
+      </div>
+
+      <!-- Hero Header -->
+      <div class="dict-hero-card">
+        <div class="dict-hero-main">
+          <span class="dict-hanzi-hero" onclick="speak('${w.hanzi}')" title="Click to pronounce">${w.hanzi}</span>
+          <div class="dict-hero-pinyin-group">
+            <span class="dict-pinyin-hero">${colorizePinyinHTML(w.pinyin)}</span>
+            <button class="audio-btn hero-audio-btn" title="Pronounce Word" onclick="speak('${w.hanzi}')">🔊</button>
+          </div>
+        </div>
+        <div class="dict-hero-summary">
+          ${showEn ? `
+            <div class="summary-box">
+              <div class="label">English Definition</div>
+              <div class="text">${w.meanings_summary?.en || ''}</div>
+            </div>` : ''}
+          ${showEs ? `
+            <div class="summary-box">
+              <div class="label">Definición en Español</div>
+              <div class="text">${w.meanings_summary?.es || ''}</div>
+            </div>` : ''}
+        </div>
+      </div>
+
+      <!-- Word Memorization History Timeline -->
+      ${renderWordMiniTimeline(reviewItem)}
+
+      <!-- Core Lexical Senses -->
+      <div class="section-card">
+        <div class="section-title">Core Lexical Senses (${senses.length})</div>
+        ${senses.map(s => `
+          <div class="sense-row">
+            <div class="sense-meta">
+              <span class="badge badge-pos">${s.part_of_speech}</span>
+              <span class="badge badge-num">${s.register}</span>
+            </div>
+            ${showEn ? `<div class="sense-def"><strong>EN:</strong> ${s.definition_en}</div>` : ''}
+            ${showEs ? `<div class="sense-def" style="color: var(--text-muted);"><strong>ES:</strong> ${s.definition_es}</div>` : ''}
+            <div class="sense-eg" onclick="speak('${s.example_phrase.split(' ')[0]}')">
+              <span>🔊 ${s.example_phrase}</span>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+
+      <!-- Contextual Example Sentences -->
+      <div class="section-card">
+        <div class="section-title">Contextual Example Sentences (${sentences.length})</div>
+        ${sentences.map(sent => `
+          <div class="sentence-card">
+            <span class="tag-ctx">${sent.id === '#1' ? 'Context: Daily / Life' : 'Context: Formal / Professional'}</span>
+            <div class="sentence-hanzi">${sent.hanzi}</div>
+            <div class="sentence-pinyin">${colorizePinyinHTML(sent.pinyin)}</div>
+            ${showEn ? `<div class="sentence-trans"><strong>EN:</strong> ${sent.en}</div>` : ''}
+            ${showEs ? `<div class="sentence-trans"><strong>ES:</strong> ${sent.es}</div>` : ''}
+            <div style="margin-top: 10px;">
+              <button class="btn btn-icon" style="padding: 3px 8px; font-size: 0.75rem;" onclick="speak('${sent.hanzi}')">🔊 Listen</button>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+
+      <!-- Collocations & Classical Idioms -->
+      <div class="grid-2">
+        <div class="section-card" style="margin-bottom: 0;">
+          <div class="section-title">High-Frequency Collocations (${collocations.length})</div>
+          <div class="colloc-grid">
+            ${collocations.map(c => `
+              <div class="colloc-item" onclick="speak('${c.hanzi}')">
+                <div class="colloc-hanzi"><span>${c.hanzi}</span> <span style="font-size: 0.8rem; color: var(--primary);">🔊</span></div>
+                <div class="colloc-en">${c.en}</div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+        <div class="section-card" style="margin-bottom: 0;">
+          <div class="section-title">Classical Idioms (成语 ${idioms.length})</div>
+          <div class="colloc-grid">
+            ${idioms.map(im => `
+              <div class="colloc-item" onclick="speak('${im.hanzi}')">
+                <div class="colloc-hanzi"><span>${im.hanzi}</span> <span style="font-size: 0.8rem; color: var(--primary);">🔊</span></div>
+                <div style="font-family: 'JetBrains Mono', monospace; font-size: 0.72rem;">${colorizePinyinHTML(im.pinyin)}</div>
+                <div class="colloc-en">${im.meaning_en}</div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      </div>
+      <div style="height: 20px;"></div>
+
+      <!-- Character Decomposition & Etymology -->
+      <div class="section-card">
+        <div class="section-title">Character Decomposition & Etymology (K=${decomp.length})</div>
+        <div class="decomp-grid">
+          ${decomp.map(ch => `
+            <div class="decomp-card">
+              <div class="decomp-header">
+                <div class="char-big">${ch.character}</div>
+                <div class="char-meta-top">
+                  <div style="display: flex; align-items: baseline; gap: 8px;">
+                    <span class="char-pinyin">${colorizePinyinHTML(ch.pinyin)}</span>
+                    <span class="badge badge-pos">Tone ${ch.tone_mnemonic_anchor}</span>
+                    <button class="btn btn-icon" style="padding: 2px 6px; font-size: 0.7rem;" onclick="speak('${ch.character}')">🔊</button>
+                  </div>
+                  <div class="char-pills">
+                    <span class="pill-sm">Rad: ${ch.radical} (${ch.radical_meaning_en})</span>
+                    <span class="pill-sm">${ch.stroke_count} strokes</span>
+                    <span class="pill-sm">${ch.composition_type}</span>
+                  </div>
+                </div>
+              </div>
+              <div class="decomp-detail-row"><strong>Components:</strong> Meaning ${ch.meaning_component} · Sound ${ch.sound_component}</div>
+              <div class="decomp-detail-row"><strong>Etymology:</strong> ${ch.etymology_and_mnemonic}</div>
+              ${showEn && ch.visual_mnemonic_story_en ? `<div class="mnemonic-story"><strong>Visual Hook (EN):</strong> ${ch.visual_mnemonic_story_en}</div>` : ''}
+              ${showEs && ch.visual_mnemonic_story_es ? `<div class="mnemonic-story" style="border-left-color: var(--accent-green);"><strong>Visual Hook (ES):</strong> ${ch.visual_mnemonic_story_es}</div>` : ''}
+            </div>
+          `).join('')}
+        </div>
+      </div>
+
+      <!-- Memory Hooks & Roots -->
+      <div class="section-card">
+        <div class="section-title">Memory Hooks & Cultural Foundations</div>
+        ${showEn && mr.composite_memory_hook_en ? `
+          <div class="alert-box">
+            <div class="alert-title">Composite Memory Hook (EN)</div>
+            <div style="font-size: 0.9rem;">${mr.composite_memory_hook_en}</div>
+          </div>` : ''}
+        ${showEs && mr.composite_memory_hook_es ? `
+          <div class="alert-box" style="background: rgba(16, 185, 129, 0.08); border-color: rgba(16, 185, 129, 0.3);">
+            <div class="alert-title" style="color: var(--accent-green);">Gancho Mnemotécnico Compuesto (ES)</div>
+            <div style="font-size: 0.9rem;">${mr.composite_memory_hook_es}</div>
+          </div>` : ''}
+        ${mr.cultural_and_cognitive_roots ? `
+          <div class="alert-box blue">
+            <div class="alert-title">Cultural & Cognitive Metaphor</div>
+            <div style="font-size: 0.88rem; line-height: 1.6;">${mr.cultural_and_cognitive_roots}</div>
+          </div>` : ''}
+      </div>
+
+      <!-- Look-Alikes & Cognates -->
+      <div class="grid-2">
+        <div class="section-card" style="margin-bottom: 0;">
+          <div class="section-title">Look-Alike Characters (字形陷阱)</div>
+          <table class="data-table">
+            <thead><tr><th>Char</th><th>Pinyin</th><th>Meaning</th><th>Distinction</th></tr></thead>
+            <tbody>${(traps.look_alikes || []).map(la => `
+              <tr>
+                <td class="char-cell" onclick="speak('${la.character}')">${la.character} 🔊</td>
+                <td style="font-family: 'JetBrains Mono';">${colorizePinyinHTML(la.pinyin)}</td>
+                <td>${la.meaning_en}</td>
+                <td style="color: var(--text-muted); font-size: 0.8rem;">${la.distinction_note}</td>
+              </tr>
+            `).join('')}</tbody>
+          </table>
+        </div>
+        <div class="section-card" style="margin-bottom: 0;">
+          <div class="section-title">Etymological Cognates Family (同族字)</div>
+          <div class="cognate-chips">
+            ${(traps.etymological_cognates || []).map(cg => `
+              <div class="cognate-chip" onclick="speak('${cg.character}')">
+                <span class="ch">${cg.character}</span>
+                <span style="font-family: 'JetBrains Mono'; font-size: 0.72rem;">${colorizePinyinHTML(cg.pinyin)}</span>
+                <span style="color: var(--text-dim); font-size: 0.72rem;">${cg.gloss_en}</span>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      </div>
+      <div style="height: 20px;"></div>
+
+      <!-- Semantic Contrasts -->
+      <div class="section-card">
+        <div class="section-title">Semantic Boundary Contrasts (语义辨析)</div>
+        ${sbc.core_nuance ? `<div style="margin-bottom: 14px; font-size: 0.92rem; color: var(--text);"><strong>Core Semantic Nuance:</strong> ${sbc.core_nuance}</div>` : ''}
+        ${(sbc.contrasts || []).map(ct => `
+          <div class="contrast-item">
+            <div class="contrast-header">
+              <span class="contrast-pair">${ct.compared_word}</span>
+              <span class="contrast-pinyin">${colorizePinyinHTML(ct.pinyin)}</span>
+            </div>
+            <div class="contrast-desc">${ct.analysis}</div>
+          </div>
+        `).join('')}
+      </div>
+
+      <!-- Extended Reading Passages -->
+      <div class="section-card">
+        <div class="section-title">Extended Reading Passages (${passages.length})</div>
+        ${passages.map((p, idx) => `
+          <div class="passage-block">
+            <div class="passage-header">
+              <span class="passage-badge">${idx === 0 ? 'Passage #1: Reflective' : 'Passage #2: Formal'}</span>
+              <button class="btn btn-icon" onclick="speak('${p.hanzi}')">🔊 Read Passage</button>
+            </div>
+            <div class="passage-hanzi">${p.hanzi}</div>
+            <div class="passage-pinyin">${colorizePinyinHTML(p.pinyin)}</div>
+            ${showEn ? `<div class="passage-trans" style="margin-bottom: 8px;"><strong>EN:</strong> ${p.en}</div>` : ''}
+            ${showEs ? `<div class="passage-trans"><strong>ES:</strong> ${p.es}</div>` : ''}
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `;
+}
+
+// -------------------------------------------------------------
+// Character Review & Lapse Timeline Section Renderer
+// -------------------------------------------------------------
+function renderCharacterTimeline(chapterDir, words = []) {
+  if (typeof StorageManager === 'undefined') return '';
+  const data = StorageManager.getCharacterTimelineData(chapterDir, words);
+
+  const highLapse = data.highLapseWords || [];
+  const smoothGroups = data.smoothGroups || {};
+  const smoothTotal = data.smoothWords?.length || 0;
+
+  return `
+    <div class="char-timeline-section">
+      <div class="char-timeline-header">
+        <div>
+          <h3 class="char-timeline-title">🎯 Character Retention Radar & Lapse Timeline</h3>
+          <p class="char-timeline-desc">
+            Spotlights vocabulary terms that had to be repeated most often due to memory lapses.
+            Smoothly mastered terms are grouped together into progression milestones.
+          </p>
+        </div>
+      </div>
+
+      <!-- High-Lapse Problem Characters Spotlight -->
+      <div class="high-lapse-block">
+        <div class="lapse-block-title">
+          <span>⚠️ High-Lapse Focus Area (${highLapse.length} Characters)</span>
+          <span style="font-size: 0.8rem; font-weight: 500; color: var(--text-dim);">Repeated multiple times due to lapses</span>
+        </div>
+
+        ${highLapse.length === 0 ? `
+          <div class="lapse-empty-banner">
+            🎉 <strong>Zero Problem Words!</strong> No memory lapses recorded yet in this chapter.
+          </div>
+        ` : `
+          <div class="lapse-cards-grid">
+            ${highLapse.map(item => {
+              const w = item.word;
+              const lapses = item.lapses;
+              const revs = item.reviews;
+              const history = item.history || [];
+              const severityClass = lapses >= 3 ? 'severity-critical' : 'severity-moderate';
+
+              return `
+                <div class="lapse-card ${severityClass}">
+                  <div class="lapse-card-top">
+                    <div class="lapse-card-hanzi" onclick="speak('${w.hanzi}')">
+                      <span>${w.hanzi}</span>
+                      <span class="audio-mini-btn">🔊</span>
+                    </div>
+                    <div class="lapse-card-meta">
+                      <span class="badge ${lapses >= 3 ? 'badge-again' : 'badge-amber'}">
+                        🔴 ${lapses} Lapse${lapses > 1 ? 's' : ''} / ${revs} Reviews
+                      </span>
+                      <span class="badge badge-pos">${w.part_of_speech}</span>
+                    </div>
+                  </div>
+
+                  <div class="lapse-card-pinyin">${colorizePinyinHTML(w.pinyin)}</div>
+                  <div class="lapse-card-def">${w.meanings_summary?.en || w.meanings_summary?.es || ''}</div>
+
+                  <!-- Step-by-Step History Event Track -->
+                  <div class="lapse-track-wrap">
+                    <div class="lapse-track-label">Review Progression:</div>
+                    <div class="word-timeline-track">
+                      <div class="tl-node tl-node-start" title="Started">⚪ Start</div>
+                      ${history.slice(-8).map(h => {
+                        const isLapse = h.result === 'dont_remember';
+                        const timeStr = new Date(h.t).toLocaleDateString([], { month: 'numeric', day: 'numeric' });
+                        return `
+                          <div class="tl-connector ${isLapse ? 'tl-conn-lapse' : 'tl-conn-good'}"></div>
+                          <div class="tl-node ${isLapse ? 'tl-node-lapse' : 'tl-node-good'}" title="${isLapse ? 'Forgot (Lapse)' : 'Remembered (Good)'}">
+                            ${isLapse ? '🔴 Forgot' : `🟢 Lvl ${h.level}`}
+                          </div>
+                        `;
+                      }).join('')}
+                    </div>
+                  </div>
+
+                  <!-- Quick Action Buttons -->
+                  <div class="lapse-card-actions">
+                    <button type="button" class="btn btn-sm btn-primary" onclick="App.studyCurrentWord(${w.id})" title="Practice this card immediately in Flashcards">
+                      🗂️ Study Now
+                    </button>
+                    <button type="button" class="btn btn-sm" onclick="App.openWordInDictionary(${w.id})" title="Inspect radicals & decomposition in Dictionary">
+                      📖 View Details
+                    </button>
+                  </div>
+                </div>
+              `;
+            }).join('')}
+          </div>
+        `}
+      </div>
+
+      <!-- Grouped Smooth Progress Milestones -->
+      <div class="smooth-progress-block">
+        <div class="smooth-block-header">
+          <div>
+            <span style="font-weight: 700; color: var(--accent-green); font-size: 1rem;">
+              🟢 Standard Progression (${smoothTotal} Characters Advancing Without Lapses)
+            </span>
+            <div style="font-size: 0.8rem; color: var(--text-dim); margin-top: 2px;">
+              Words remembered steadily on schedule, grouped by current spaced repetition level
+            </div>
+          </div>
+        </div>
+
+        ${smoothTotal === 0 ? `
+          <div style="font-size: 0.84rem; color: var(--text-dim); padding: 12px;">No smooth review records yet. Complete flashcard reviews to see progress tiers.</div>
+        ` : `
+          <div class="smooth-tiers-container">
+            ${Object.keys(smoothGroups).sort((a, b) => b - a).map(lvl => {
+              const grp = smoothGroups[lvl];
+              const lvlNames = ['Level 0 (Same-Day Queue)', 'Level 1 (1-Day Interval)', 'Level 2 (3-Day Interval)', 'Level 3 (7-Day Interval)', 'Level 4 (14-Day Interval)', 'Level 5 (30-Day Mastered)'];
+              const label = lvlNames[lvl] || `Level ${lvl}`;
+
+              return `
+                <div class="smooth-tier-row">
+                  <div class="smooth-tier-label">
+                    <span class="badge ${lvl >= 4 ? 'badge-green' : 'badge-num'}">${label}</span>
+                    <span style="font-size: 0.8rem; font-weight: 600; color: var(--text);">${grp.count} terms</span>
+                  </div>
+                  <div class="smooth-chips-wrap">
+                    ${grp.words.map(item => `
+                      <span class="smooth-char-chip" onclick="App.openWordInDictionary(${item.word.id})" title="${item.word.hanzi} (${item.word.pinyin}) - ${item.word.meanings_summary?.en || ''}">
+                        ${item.word.hanzi}
+                        <span class="smooth-chip-revs">${item.reviews}x</span>
+                      </span>
+                    `).join('')}
+                  </div>
+                </div>
+              `;
+            }).join('')}
+          </div>
+        `}
+      </div>
+    </div>
+  `;
+}
+
+// -------------------------------------------------------------
+// Dedicated Statistics & Study Analytics Window View
+// -------------------------------------------------------------
+function renderStatisticsDashboard({
+  currentChapter = null,
+  chapters = [],
+  words = []
+}) {
+  const container = document.getElementById('detail-container');
+  if (!container || typeof StorageManager === 'undefined') return;
+
+  const todayStats = StorageManager.getTimeStatsToday();
+  const allTimeStats = StorageManager.getTimeStatsAllTime();
+  const habits = StorageManager.getStudyHabitsSummary();
+  const recentDays = StorageManager.getDailyActivityHistory(14);
+  const recentSessions = StorageManager.getRecentSessions(8);
+  const chapterDir = currentChapter ? currentChapter.dir : 'chapter_01';
+
+  const isAfk = (typeof TimeTracker !== 'undefined') ? TimeTracker.isAfk() : false;
+  const afkThresholdSec = (typeof TimeTracker !== 'undefined') ? TimeTracker.getAfkThresholdSeconds() : 120;
+
+  // Max daily seconds for chart scaling
+  const maxDaySeconds = Math.max(1, ...recentDays.map(d => d.totalSeconds));
+
+  container.innerHTML = `
+    <div class="stats-dashboard-container">
+      <!-- Dashboard Top Header -->
+      <div class="stats-header-card">
+        <div class="stats-title-group">
+          <h2>📊 Study Analytics & Time Tracking</h2>
+          <p class="stats-subtitle">Continuous activity tracking, spaced repetition retention rates, and study behavior breakdown.</p>
+        </div>
+
+        <!-- AFK Status & Threshold Control -->
+        <div class="afk-status-box">
+          <div class="afk-indicator-pill ${isAfk ? 'pill-afk' : 'pill-active'}">
+            <span class="afk-dot"></span>
+            <span>${isAfk ? '⏸️ Idle / AFK (Tracking Paused)' : '🟢 Active (Time Tracking)'}</span>
+          </div>
+
+          <div class="afk-selector-wrap">
+            <label for="afk-timeout-select">AFK Inactivity Timeout:</label>
+            <select id="afk-timeout-select" class="chapter-select" style="padding: 3px 8px; font-size: 0.78rem;" onchange="App.changeAfkThreshold(this.value)">
+              <option value="60" ${afkThresholdSec === 60 ? 'selected' : ''}>1 minute</option>
+              <option value="120" ${afkThresholdSec === 120 ? 'selected' : ''}>2 minutes (Default)</option>
+              <option value="180" ${afkThresholdSec === 180 ? 'selected' : ''}>3 minutes</option>
+              <option value="300" ${afkThresholdSec === 300 ? 'selected' : ''}>5 minutes</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- Top KPI Metric Cards Grid -->
+      <div class="stats-kpi-grid">
+        <!-- Today's Active Time -->
+        <div class="kpi-card">
+          <div class="kpi-icon">⏱️</div>
+          <div class="kpi-data">
+            <div class="kpi-label">Active Time Today</div>
+            <div class="kpi-value">${formatSecondsToHMS((todayStats.studySeconds || 0) + (todayStats.readingSeconds || 0))}</div>
+            <div class="kpi-sub">
+              <span>🗂️ Study: ${formatSecondsToShort(todayStats.studySeconds)}</span> · 
+              <span>📖 Reading: ${formatSecondsToShort(todayStats.readingSeconds)}</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Lifetime Active Time -->
+        <div class="kpi-card">
+          <div class="kpi-icon">⏳</div>
+          <div class="kpi-data">
+            <div class="kpi-label">All-Time Study Time</div>
+            <div class="kpi-value">${formatSecondsToHMS(allTimeStats.totalSeconds)}</div>
+            <div class="kpi-sub">
+              <span>Total Reviews: <strong>${allTimeStats.totalReviews}</strong></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Daily Streak -->
+        <div class="kpi-card">
+          <div class="kpi-icon">🔥</div>
+          <div class="kpi-data">
+            <div class="kpi-label">Current Study Streak</div>
+            <div class="kpi-value">${allTimeStats.streak?.currentStreak || 0} <span style="font-size: 1rem; font-weight: 500;">Days</span></div>
+            <div class="kpi-sub">
+              <span>Longest: ${allTimeStats.streak?.longestStreak || 0} Days</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Retention Accuracy -->
+        <div class="kpi-card">
+          <div class="kpi-icon">🎯</div>
+          <div class="kpi-data">
+            <div class="kpi-label">Flashcard Retention</div>
+            <div class="kpi-value ${habits.retentionRate >= 80 ? 'text-green' : 'text-amber'}">${habits.retentionRate}%</div>
+            <div class="kpi-sub">
+              <span>🟢 ${habits.totalGood} Good</span> · <span>🔴 ${habits.totalAgain} Again</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- "How You Study" Behavior Analytics Section -->
+      <div class="section-card">
+        <div class="section-title">🧠 Study Methodology & Habit Tracking ("How I Study")</div>
+        <div class="habits-grid">
+          <!-- Recall Pace -->
+          <div class="habit-box">
+            <div class="habit-icon">⚡</div>
+            <div class="habit-info">
+              <div class="habit-label">Average Recall Pace</div>
+              <div class="habit-value">${habits.avgCardSeconds > 0 ? `${habits.avgCardSeconds}s` : 'N/A'} <span style="font-size: 0.8rem; font-weight: normal; color: var(--text-dim);">/ card</span></div>
+              <div class="habit-desc">${habits.avgCardSeconds > 10 ? 'Thoughtful & deep reading pace' : habits.avgCardSeconds > 0 ? 'Fast, fluid recall speed' : 'Pending more reviews'}</div>
+            </div>
+          </div>
+
+          <!-- Hint Peek Reliance -->
+          <div class="habit-box">
+            <div class="habit-icon">💡</div>
+            <div class="habit-info">
+              <div class="habit-label">Hint Peek Rate (H)</div>
+              <div class="habit-value">${habits.hintRate}% <span style="font-size: 0.8rem; font-weight: normal; color: var(--text-dim);">(${habits.totalHintPeeks} total peeks)</span></div>
+              <div class="habit-desc">${habits.hintRate < 20 ? 'High confidence (rarely peeks hints)' : 'Frequently checks pinyin/radical anchors'}</div>
+            </div>
+          </div>
+
+          <!-- Audio Pronunciation Frequency -->
+          <div class="habit-box">
+            <div class="habit-icon">🔊</div>
+            <div class="habit-info">
+              <div class="habit-label">Audio Replay Practice</div>
+              <div class="habit-value">${habits.totalAudioPlays} <span style="font-size: 0.8rem; font-weight: normal; color: var(--text-dim);">listens</span></div>
+              <div class="habit-desc">Speech synthesizer and MiniMax native audio playback clicks</div>
+            </div>
+          </div>
+
+          <!-- Study Mode Balance -->
+          <div class="habit-box">
+            <div class="habit-icon">⚖️</div>
+            <div class="habit-info">
+              <div class="habit-label">Flashcards vs Reading Ratio</div>
+              <div class="habit-value">
+                ${allTimeStats.totalSeconds > 0 ? `${Math.round(((allTimeStats.totalStudySeconds || 0) / allTimeStats.totalSeconds) * 100)}% 🗂️ · ${Math.round(((allTimeStats.totalReadingSeconds || 0) / allTimeStats.totalSeconds) * 100)}% 📖` : '50% · 50%'}
+              </div>
+              <div class="habit-desc">Balance between active recall drills and deep lexicographical reading</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Detail Tab Exploration Breakdown -->
+        <div style="margin-top: 18px;">
+          <div style="font-size: 0.86rem; font-weight: 700; color: var(--text); margin-bottom: 8px;">
+            📑 Detail Tab Exploration Distribution
+          </div>
+          <div class="tab-exploration-grid">
+            ${[
+              { id: 'sentences', name: 'Example Sentences', count: habits.tabClicks?.sentences || 0 },
+              { id: 'collocations', name: 'Collocations & Phrases', count: habits.tabClicks?.collocations || 0 },
+              { id: 'decomposition', name: 'Radical Decomposition', count: habits.tabClicks?.decomposition || 0 },
+              { id: 'contrasts', name: 'Contrasts & Nuances', count: habits.tabClicks?.contrasts || 0 },
+              { id: 'mnemonics', name: 'Memory Hooks', count: habits.tabClicks?.mnemonics || 0 },
+              { id: 'passages', name: 'Reading Passages', count: habits.tabClicks?.passages || 0 }
+            ].map(tab => `
+              <div class="tab-exp-chip">
+                <span class="tab-exp-name">${tab.name}</span>
+                <span class="tab-exp-count">${tab.count}</span>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      </div>
+
+      <!-- 14-Day Activity Chart -->
+      <div class="section-card">
+        <div class="section-title">📅 14-Day Study Activity & Time Heatmap</div>
+        <div class="chart-container">
+          <div class="chart-bars-row">
+            ${recentDays.map(day => {
+              const heightPct = Math.round((day.totalSeconds / maxDaySeconds) * 100);
+              const studyPct = day.totalSeconds > 0 ? (day.studySeconds / day.totalSeconds) * 100 : 0;
+              const readingPct = 100 - studyPct;
+
+              return `
+                <div class="chart-col" title="${day.date} (${day.dayOfWeek}): ${formatSecondsToShort(day.totalSeconds)} active (${day.reviewsCount} reviews)">
+                  <div class="chart-bar-wrap">
+                    <div class="chart-bar-track" style="height: ${Math.max(6, heightPct)}%;">
+                      <div class="chart-bar-study" style="height: ${studyPct}%;"></div>
+                      <div class="chart-bar-reading" style="height: ${readingPct}%;"></div>
+                    </div>
+                  </div>
+                  <div class="chart-label">${day.label}</div>
+                  <div class="chart-sublabel">${day.dayOfWeek}</div>
+                </div>
+              `;
+            }).join('')}
+          </div>
+          <div class="chart-legend-row">
+            <span class="chart-legend-item"><span class="legend-dot dot-study"></span> Study Time (Flashcards)</span>
+            <span class="chart-legend-item"><span class="legend-dot dot-reading"></span> Reading Time (Dictionary & Passages)</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Character Review & Lapse Timeline Component -->
+      ${renderCharacterTimeline(chapterDir, words)}
+
+      <!-- Curriculum Chapters Progress Table -->
+      <div class="section-card">
+        <div class="section-title">📚 Curriculum Chapters Breakdown</div>
+        <div class="table-responsive">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Chapter</th>
+                <th>Theme Title</th>
+                <th>Words</th>
+                <th>Mastery %</th>
+                <th>Study Time</th>
+                <th>Reading Time</th>
+                <th>Reviews</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${chapters.map(ch => {
+                const isCurrent = ch.dir === chapterDir;
+                const chWords = ch.words || [];
+                const chStats = StorageManager.getChapterStats(ch.dir, chWords);
+                const timeData = (habits.chapters && habits.chapters[ch.dir]) || { studySeconds: 0, readingSeconds: 0, reviewsCount: 0 };
+
+                return `
+                  <tr class="${isCurrent ? 'row-active' : ''}">
+                    <td><strong>CHP ${ch.id}</strong></td>
+                    <td>${ch.title || ch.name}</td>
+                    <td>${ch.word_count || chWords.length || 38}</td>
+                    <td>
+                      <div style="display: flex; align-items: center; gap: 8px;">
+                        <span>${chStats.percent}%</span>
+                        <div class="table-progress-track">
+                          <div class="table-progress-fill" style="width: ${chStats.percent}%;"></div>
+                        </div>
+                      </div>
+                    </td>
+                    <td>${formatSecondsToShort(timeData.studySeconds)}</td>
+                    <td>${formatSecondsToShort(timeData.readingSeconds)}</td>
+                    <td>${timeData.reviewsCount || chStats.remembered + chStats.dontRemember}</td>
+                    <td>
+                      <button class="btn btn-sm ${isCurrent ? 'btn-primary' : ''}" onclick="App.switchChapter('${ch.dir}')">
+                        ${isCurrent ? 'Selected' : 'Open'}
+                      </button>
+                    </td>
+                  </tr>
+                `;
+              }).join('')}
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Recent Study Sessions Log -->
+      <div class="section-card">
+        <div class="section-title">⏱️ Recent Study Sessions</div>
+        ${recentSessions.length === 0 ? `
+          <div style="font-size: 0.86rem; color: var(--text-dim); padding: 12px 0;">No completed sessions recorded yet. Review cards to log sessions.</div>
+        ` : `
+          <div class="table-responsive">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Date & Time</th>
+                  <th>Mode</th>
+                  <th>Chapter</th>
+                  <th>Duration</th>
+                  <th>Reviews</th>
+                  <th>Accuracy</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${recentSessions.map(s => `
+                  <tr>
+                    <td>${new Date(s.timestamp).toLocaleDateString()} ${new Date(s.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</td>
+                    <td><span class="badge ${s.mode === 'flashcard' ? 'badge-primary' : 'badge-num'}">${s.mode === 'flashcard' ? '🗂️ Flashcard' : '📖 Dictionary'}</span></td>
+                    <td>${s.chapterDir || 'Chapter 1'}</td>
+                    <td>${formatSecondsToShort(s.durationSeconds)}</td>
+                    <td>${s.reviewsCount || '-'}</td>
+                    <td>${s.accuracy ? `${s.accuracy}%` : '-'}</td>
+                  </tr>
+                `).join('')}
+              </tbody>
+            </table>
+          </div>
+        `}
+      </div>
+
+      <!-- Data Management Actions -->
+      <div class="section-card" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: gap: 12px;">
+        <div>
+          <div style="font-weight: 700; font-size: 0.9rem; color: var(--text);">Export & Reset Analytics Data</div>
+          <div style="font-size: 0.8rem; color: var(--text-dim);">Download your learning record or clear time metrics.</div>
+        </div>
+        <div style="display: flex; gap: 8px;">
+          <button class="btn btn-primary" onclick="App.exportStudyAnalytics()">
+            📥 Export Analytics (JSON)
+          </button>
+          <button class="btn" style="color: #ef4444; border-color: rgba(239, 68, 68, 0.4);" onclick="App.resetTimeTrackerPrompt()">
+            🗑️ Reset Time Tracker
+          </button>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
 if (typeof window !== 'undefined') {
   window.speak = speak;
   window.colorizePinyinHTML = colorizePinyinHTML;
@@ -1007,5 +1905,11 @@ if (typeof window !== 'undefined') {
   window.renderActionBar = renderActionBar;
   window.renderCompletionScreen = renderCompletionScreen;
   window.renderBrowseView = renderBrowseView;
+  window.renderDictionaryWindow = renderDictionaryWindow;
+  window.renderCharacterTimeline = renderCharacterTimeline;
+  window.renderStatisticsDashboard = renderStatisticsDashboard;
+  window.renderWordMiniTimeline = renderWordMiniTimeline;
+  window.formatSecondsToHMS = formatSecondsToHMS;
+  window.formatSecondsToShort = formatSecondsToShort;
 }
 

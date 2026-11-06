@@ -108,6 +108,11 @@
       <div class="topbar-center-hud">
         <div class="hud-meta-row">
           <span style="font-size: 0.82rem; font-weight: 700; color: var(--text);" id="word-counter">01 / 38</span>
+          <div class="topbar-time-pill" id="topbar-time-pill" onclick="App.switchView('stats')" title="Active Learning Time Today (Click for Statistics)">
+            <span class="time-pill-icon">⏱️</span>
+            <span id="topbar-time-display">00m 00s</span>
+            <span class="time-afk-dot" id="topbar-afk-dot" title="Active">🟢</span>
+          </div>
           <div class="hud-session-stats" id="hud-session-stats">
             <span class="stat-pill-good" title="Remembered this session">🟢 <span id="session-good-count">0</span></span>
             <span class="stat-pill-again" title="Lapses re-queued">🔴 <span id="session-again-count">0</span></span>
@@ -119,10 +124,20 @@
       </div>
 
       <div class="nav-controls">
-        <!-- Mode Switcher: Flashcard vs Browse -->
-        <div class="mode-switch-group">
-          <button class="mode-btn active" data-mode="flashcard" title="Distraction-Free Flashcard Memorization (M)">🗂️ Study <kbd class="topbar-kbd" style="font-size: 0.65rem; padding: 1px 4px; margin-left: 2px;">M</kbd></button>
-          <button class="mode-btn" data-mode="browse" title="Full Dictionary Browse Mode (M)">📖 Browse</button>
+        <!-- 3 Dedicated Views Switcher: Flashcards, Dictionary, Statistics -->
+        <div class="view-switch-group">
+          <button class="view-btn active" data-view="flashcard" onclick="App.switchView('flashcard')" title="Flashcards SRS Stage (1 or Alt+1)">
+            🗂️ Flashcards <kbd class="topbar-kbd">1</kbd>
+          </button>
+          <button class="view-btn" data-view="dictionary" onclick="App.switchView('dictionary')" title="Full Dictionary View (2 or Alt+2)">
+            📖 Dictionary <kbd class="topbar-kbd">2</kbd>
+          </button>
+          <button class="view-btn" data-view="stats" onclick="App.switchView('stats')" title="Study Statistics & Timeline (3 or Alt+3)">
+            📊 Statistics <kbd class="topbar-kbd">3</kbd>
+          </button>
+          <button class="view-btn view-popout-btn" onclick="App.popoutCurrentView()" title="Pop out current view into standalone window (⧉)">
+            ⧉
+          </button>
         </div>
 
         <!-- Shortcuts Help Modal Trigger -->
@@ -259,6 +274,20 @@
       </div>
 
       <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 6px;">
+        <div style="display: flex; justify-content: space-between; width: 100%;">
+          <span class="setting-title">AFK Inactivity Timeout</span>
+          <span class="setting-desc" id="afk-val-label" style="font-weight: 700; color: var(--primary);">2m</span>
+        </div>
+        <select id="afk-timeout-setting" class="chapter-select" style="width: 100%; font-size: 0.85rem;" onchange="App.changeAfkThreshold(this.value)">
+          <option value="60">1 minute (Strict)</option>
+          <option value="120" selected>2 minutes (Recommended)</option>
+          <option value="180">3 minutes</option>
+          <option value="300">5 minutes</option>
+        </select>
+        <span class="setting-desc">Stops counting study/reading time when no user activity is detected</span>
+      </div>
+
+      <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 6px;">
         <span class="setting-title">TTS Speech Speed</span>
         <input type="range" id="speech-rate-range" min="0.7" max="1.2" step="0.05" value="0.9" style="width: 100%;">
         <span class="setting-desc">Adjust speech speed for clear Chinese pronunciation</span>
@@ -334,18 +363,26 @@
           <div class="shortcut-keys"><span class="kbd-key">T</span><span class="kbd-key">Shift+R</span></div>
         </div>
 
-        <div class="shortcut-category-title">🚀 Navigation, Search & Drawers</div>
+        <div class="shortcut-category-title">🚀 Dedicated Views & Navigation</div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Switch to <strong>🗂️ Flashcards View</strong></span>
+          <div class="shortcut-keys"><span class="kbd-key">1</span><span class="kbd-key">Alt+1</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Switch to <strong>📖 Dictionary View</strong></span>
+          <div class="shortcut-keys"><span class="kbd-key">2</span><span class="kbd-key">Alt+2</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Switch to <strong>📊 Statistics & Timeline View</strong></span>
+          <div class="shortcut-keys"><span class="kbd-key">3</span><span class="kbd-key">Alt+3</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Cycle Views (Flashcard ↔ Dictionary ↔ Stats)</span>
+          <div class="shortcut-keys"><span class="kbd-key">M</span></div>
+        </div>
         <div class="shortcut-row">
           <span class="shortcut-desc">Focus Search in Word List</span>
           <div class="shortcut-keys"><span class="kbd-key">/</span></div>
-        </div>
-        <div class="shortcut-row">
-          <span class="shortcut-desc">Open Chapter Picker Popover</span>
-          <div class="shortcut-keys"><span class="kbd-key">C</span></div>
-        </div>
-        <div class="shortcut-row">
-          <span class="shortcut-desc">Toggle Study ↔ Browse Mode</span>
-          <div class="shortcut-keys"><span class="kbd-key">M</span></div>
         </div>
         <div class="shortcut-row">
           <span class="shortcut-desc">Cycle Language (Both ↔ EN ↔ ES)</span>
@@ -389,6 +426,7 @@
 
   <!-- Application Modules -->
   <script src="web/js/storage.js"></script>
+  <script src="web/js/time_tracker.js"></script>
   <script src="web/js/data_loader.js"></script>
   <script src="web/js/audio_manager.js"></script>
   <script src="web/js/renderer.js"></script>
