@@ -326,6 +326,25 @@
         <span class="setting-desc">Adjust speech speed for clear Chinese pronunciation</span>
       </div>
 
+      <!-- Section 5: Data Backup & Cross-Navigator Sync -->
+      <div class="setting-category-title">💾 Backup & Cross-Navigator Sync</div>
+      <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 8px;">
+        <div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+          <span class="setting-title">Auto Server File Sync</span>
+          <span class="sync-badge" id="sync-status-badge" style="font-size: 0.72rem; padding: 2px 6px; border-radius: 4px; background: rgba(156, 163, 175, 0.15); color: var(--text-muted); font-weight: 600;">⚪ Checking Sync...</span>
+        </div>
+        <span class="setting-desc">Persists reviews & time tracker to <code>data/user_progress.json</code> so progress survives cache resets and syncs across different browsers.</span>
+        <div style="display: flex; gap: 8px; width: 100%; margin-top: 4px;">
+          <button type="button" class="btn" style="flex: 1; font-size: 0.78rem;" onclick="App.exportBackupFile()">
+            📥 Download Backup (.json)
+          </button>
+          <button type="button" class="btn" style="flex: 1; font-size: 0.78rem;" onclick="document.getElementById('import-backup-file-input').click()">
+            📤 Restore Backup
+          </button>
+          <input type="file" id="import-backup-file-input" accept=".json" style="display: none;" onchange="App.handleImportBackup(event)">
+        </div>
+      </div>
+
       <div style="margin-top: 24px; padding-top: 16px; border-top: 1px dashed var(--border);">
         <button type="button" class="btn" style="width: 100%; color: #ef4444; border-color: rgba(239, 68, 68, 0.4);" onclick="App.resetCurrentChapterProgress()">
           🗑️ Reset Chapter Progress

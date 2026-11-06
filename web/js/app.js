@@ -920,10 +920,67 @@ const App = (function() {
     }
   }
 
+  let serverSyncActive = false;
+
+  function updateSyncStatusBadge(isConnected) {
+    serverSyncActive = !!isConnected;
+    const badge = document.getElementById('sync-status-badge');
+    if (!badge) return;
+    if (isConnected) {
+      badge.textContent = '🟢 Server File Synced (data/user_progress.json)';
+      badge.style.background = 'rgba(16, 185, 129, 0.15)';
+      badge.style.color = '#10b981';
+    } else {
+      badge.textContent = '⚪ Local Browser Storage';
+      badge.style.background = 'rgba(156, 163, 175, 0.15)';
+      badge.style.color = 'var(--text-muted)';
+    }
+  }
+
+  function exportBackupFile() {
+    const data = StorageManager.exportAllData();
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    const d = new Date().toISOString().slice(0, 10);
+    a.href = url;
+    a.download = `hsk_progress_backup_${d}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  function handleImportBackup(event) {
+    const file = event.target.files?.[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = async (e) => {
+      try {
+        const parsed = JSON.parse(e.target.result);
+        const ok = StorageManager.importAllData(parsed);
+        if (ok) {
+          await StorageManager.syncWithServer();
+          alert('✓ Progress successfully imported and restored!');
+          location.reload();
+        } else {
+          alert('Could not parse the backup file. Please verify it is a valid HSK backup JSON.');
+        }
+      } catch (err) {
+        alert('Failed to read file: ' + err.message);
+      }
+    };
+    reader.readAsText(file);
+    event.target.value = '';
+  }
+
   function openSettingsDrawer() {
     const drawer = document.getElementById('ankineitor-settings-drawer');
     const overlay = document.getElementById('drawer-overlay');
     if (!drawer) return;
+
+    updateSyncStatusBadge(serverSyncActive);
 
     const settings = StorageManager.getSettings();
     const autoAudioCheck = document.getElementById('toggle-auto-audio');
@@ -1584,6 +1641,16 @@ const App = (function() {
       initTheme();
       setupEventListeners();
 
+      // Cross-Navigator & Server File Sync (data/user_progress.json)
+      try {
+        if (typeof StorageManager !== 'undefined' && typeof StorageManager.syncWithServer === 'function') {
+          const syncRes = await StorageManager.syncWithServer();
+          updateSyncStatusBadge(syncRes?.isConnected);
+        }
+      } catch (e) {
+        updateSyncStatusBadge(false);
+      }
+
       const urlParams = new URLSearchParams(window.location.search);
       const viewParam = urlParams.get('view');
       const savedSettings = StorageManager.getSettings();
@@ -1707,6 +1774,9 @@ const App = (function() {
     changeBrowserVoice,
     testBrowserVoice,
     populateBrowserVoices,
+    exportBackupFile,
+    handleImportBackup,
+    updateSyncStatusBadge,
     resetCurrentChapterProgress,
     skipToNextChapter,
     pauseAutoAdvance,

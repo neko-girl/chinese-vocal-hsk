@@ -20,3 +20,7 @@ android/app/build/
 android/capacitor-cordova-android-plugins/build/
 *.apk
 
+# Persistent User Progress (Protected from git pulls/overwrites)
+data/user_progress.json
+data/*.tmp
+

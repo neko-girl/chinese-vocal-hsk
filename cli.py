@@ -342,14 +342,70 @@ def cmd_audio(args):
         )
     return 0
 
+class HSKServerHandler(http.server.SimpleHTTPRequestHandler):
+    """HTTP server handler with persistent /api/sync endpoint for cross-browser progress."""
+
+    def do_GET(self):
+        if self.path == '/api/sync':
+            self.send_response(200)
+            self.send_header('Content-Type', 'application/json; charset=utf-8')
+            self.send_header('Access-Control-Allow-Origin', '*')
+            self.send_header('Cache-Control', 'no-cache, no-store, must-revalidate')
+            self.end_headers()
+            sync_file = os.path.join(BASE_DIR, 'data', 'user_progress.json')
+            if os.path.isfile(sync_file):
+                with open(sync_file, 'rb') as f:
+                    self.wfile.write(f.read())
+            else:
+                self.wfile.write(b'{}')
+            return
+        return super().do_GET()
+
+    def do_POST(self):
+        if self.path == '/api/sync':
+            content_length = int(self.headers.get('Content-Length', 0))
+            post_data = self.rfile.read(content_length)
+            sync_file = os.path.join(BASE_DIR, 'data', 'user_progress.json')
+            try:
+                parsed = json.loads(post_data.decode('utf-8'))
+                os.makedirs(os.path.dirname(sync_file), exist_ok=True)
+                tmp_file = sync_file + '.tmp'
+                with open(tmp_file, 'w', encoding='utf-8') as f:
+                    json.dump(parsed, f, ensure_ascii=False, indent=2)
+                os.replace(tmp_file, sync_file)
+
+                self.send_response(200)
+                self.send_header('Content-Type', 'application/json; charset=utf-8')
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                self.wfile.write(b'{"status":"ok"}')
+            except Exception as e:
+                self.send_response(400)
+                self.send_header('Content-Type', 'application/json; charset=utf-8')
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                self.wfile.write(json.dumps({"error": str(e)}).encode('utf-8'))
+            return
+        self.send_response(404)
+        self.end_headers()
+
+    def do_OPTIONS(self):
+        self.send_response(204)
+        self.send_header('Access-Control-Allow-Origin', '*')
+        self.send_header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
+        self.send_header('Access-Control-Allow-Headers', 'Content-Type')
+        self.end_headers()
+
 def cmd_serve(args):
-    """Start local preview HTTP server."""
+    """Start local preview HTTP server with cross-browser progress sync."""
     port = args.port or 8000
     os.chdir(BASE_DIR)
-    handler = http.server.SimpleHTTPRequestHandler
-    with socketserver.TCPServer(("", port), handler) as httpd:
+    socketserver.TCPServer.allow_reuse_address = True
+    with socketserver.TCPServer(("", port), HSKServerHandler) as httpd:
         print(f"Serving Chinese Vocal HSK Visualizer at:")
         print(f"  http://localhost:{port}/")
+        print(f"  Persistent sync endpoint: http://localhost:{port}/api/sync")
+        print(f"  Progress saved across navigators in: data/user_progress.json")
         print(f"Press Ctrl+C to stop.")
         try:
             httpd.serve_forever()

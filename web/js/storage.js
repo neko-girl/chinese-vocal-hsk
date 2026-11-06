@@ -77,6 +77,17 @@ const StorageManager = (function() {
     }
   }
 
+  let syncTimer = null;
+  function scheduleServerSync(delayMs = 2500) {
+    if (typeof window === 'undefined' || !window.fetch) return;
+    clearTimeout(syncTimer);
+    syncTimer = setTimeout(() => {
+      if (typeof StorageManager !== 'undefined' && typeof StorageManager.syncWithServer === 'function') {
+        StorageManager.syncWithServer().catch(() => {});
+      }
+    }, delayMs);
+  }
+
   // Update streak counter based on activity date
   function updateStreak(store, todayKey) {
     const streak = store.streak || { currentStreak: 0, longestStreak: 0, lastActiveDate: null };
@@ -179,6 +190,7 @@ const StorageManager = (function() {
 
       store[chapterDir][idStr] = existing;
       saveRawStore(store);
+      scheduleServerSync();
 
       // Log to time tracker / study analytics
       this.recordStudyEvent('card_grade', {
@@ -365,6 +377,7 @@ const StorageManager = (function() {
 
       updateStreak(store, todayKey);
       saveRawTimeStore(store);
+      scheduleServerSync();
     },
 
     /**
@@ -418,6 +431,7 @@ const StorageManager = (function() {
 
       updateStreak(store, todayKey);
       saveRawTimeStore(store);
+      scheduleServerSync();
     },
 
     /**
@@ -641,10 +655,123 @@ const StorageManager = (function() {
       const updated = { ...current, ...patch };
       try {
         localStorage.setItem(SETTINGS_KEY, JSON.stringify(updated));
+        scheduleServerSync();
       } catch (e) {
         console.warn('Failed to save study settings:', e);
       }
       return updated;
+    },
+
+    /**
+     * Import and intelligently merge external user progress
+     */
+    importAllData(payload) {
+      if (!payload || typeof payload !== 'object') return false;
+      try {
+        if (payload.reviews && typeof payload.reviews === 'object') {
+          const currentStore = getRawStore();
+          for (const [chDir, wordsMap] of Object.entries(payload.reviews)) {
+            if (!currentStore[chDir]) {
+              currentStore[chDir] = { ...wordsMap };
+            } else {
+              for (const [wId, revData] of Object.entries(wordsMap)) {
+                const existing = currentStore[chDir][wId];
+                if (!existing) {
+                  currentStore[chDir][wId] = revData;
+                } else {
+                  const incomingCount = revData.reviews || 0;
+                  const existingCount = existing.reviews || 0;
+                  const incomingDate = revData.lastReviewed || revData.dueDate || 0;
+                  const existingDate = existing.lastReviewed || existing.dueDate || 0;
+
+                  if (incomingCount > existingCount || (incomingCount === existingCount && incomingDate > existingDate)) {
+                    currentStore[chDir][wId] = revData;
+                  }
+                }
+              }
+            }
+          }
+          saveRawStore(currentStore);
+        }
+
+        if (payload.timeTracking && typeof payload.timeTracking === 'object') {
+          const currentT = getRawTimeStore();
+          const incoming = payload.timeTracking;
+
+          currentT.daily = { ...(incoming.daily || {}), ...(currentT.daily || {}) };
+          currentT.totalStudySeconds = Math.max(currentT.totalStudySeconds || 0, incoming.totalStudySeconds || 0);
+          currentT.totalReadingSeconds = Math.max(currentT.totalReadingSeconds || 0, incoming.totalReadingSeconds || 0);
+          currentT.totalReviews = Math.max(currentT.totalReviews || 0, incoming.totalReviews || 0);
+          currentT.totalGood = Math.max(currentT.totalGood || 0, incoming.totalGood || 0);
+          currentT.totalAgain = Math.max(currentT.totalAgain || 0, incoming.totalAgain || 0);
+
+          if (incoming.chapters) {
+            currentT.chapters = { ...(incoming.chapters || {}), ...(currentT.chapters || {}) };
+          }
+          if (incoming.streak) {
+            currentT.streak = {
+              currentStreak: Math.max(currentT.streak?.currentStreak || 0, incoming.streak.currentStreak || 0),
+              longestStreak: Math.max(currentT.streak?.longestStreak || 0, incoming.streak.longestStreak || 0),
+              lastActiveDate: currentT.streak?.lastActiveDate || incoming.streak.lastActiveDate
+            };
+          }
+          if (Array.isArray(incoming.sessions) && incoming.sessions.length) {
+            const seen = new Set((currentT.sessions || []).map(s => s.startTime));
+            const merged = [...(currentT.sessions || [])];
+            incoming.sessions.forEach(s => {
+              if (s && s.startTime && !seen.has(s.startTime)) {
+                merged.push(s);
+                seen.add(s.startTime);
+              }
+            });
+            merged.sort((a, b) => (b.startTime || 0) - (a.startTime || 0));
+            currentT.sessions = merged.slice(0, 50);
+          }
+
+          saveRawTimeStore(currentT);
+        }
+
+        if (payload.settings && typeof payload.settings === 'object') {
+          this.saveSettings(payload.settings);
+        }
+
+        return true;
+      } catch (err) {
+        console.warn('Failed to import user progress:', err);
+        return false;
+      }
+    },
+
+    /**
+     * Cross-Navigator Server Sync
+     * Synchronizes progress with the local server (/api/sync) backed by data/user_progress.json
+     */
+    async syncWithServer() {
+      if (typeof window === 'undefined' || !window.fetch) return { success: false, reason: 'no-fetch' };
+      try {
+        const resp = await fetch('/api/sync', { method: 'GET', cache: 'no-store' });
+        if (!resp.ok) return { success: false, status: resp.status };
+
+        const serverData = await resp.json();
+        if (serverData && (serverData.reviews || serverData.timeTracking)) {
+          this.importAllData(serverData);
+        }
+
+        const fullPayload = this.exportAllData();
+        const postResp = await fetch('/api/sync', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(fullPayload)
+        });
+
+        return { success: postResp.ok, isConnected: true, lastSynced: new Date().toISOString() };
+      } catch (e) {
+        return { success: false, isConnected: false, error: e.message };
+      }
+    },
+
+    triggerServerSync() {
+      scheduleServerSync(500);
     }
   };
 })();
