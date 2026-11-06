@@ -1128,55 +1128,6 @@ const App = (function() {
         return;
       }
 
-      // Alt+1, Alt+2, Alt+3 View Switcher
-      if (e.altKey) {
-        if (e.key === '1') {
-          e.preventDefault();
-          switchView('flashcard');
-          return;
-        }
-        if (e.key === '2') {
-          e.preventDefault();
-          switchView('dictionary');
-          return;
-        }
-        if (e.key === '3') {
-          e.preventDefault();
-          switchView('stats');
-          return;
-        }
-      }
-
-      // Switch views via 1, 2, 3 when not typing and not on card back grading
-      const activeTag = document.activeElement ? document.activeElement.tagName.toLowerCase() : '';
-      if (activeTag !== 'input' && activeTag !== 'textarea') {
-        if (currentActiveView !== 'flashcard' || currentCardSide === 'front') {
-          if (e.key === '1') {
-            e.preventDefault();
-            switchView('flashcard');
-            return;
-          }
-          if (e.key === '2') {
-            e.preventDefault();
-            switchView('dictionary');
-            return;
-          }
-          if (e.key === '3') {
-            e.preventDefault();
-            switchView('stats');
-            return;
-          }
-        }
-      }
-
-      // View Cycle Toggle
-      if (e.key === 'm' || e.key === 'M') {
-        e.preventDefault();
-        const nextView = (currentActiveView === 'flashcard') ? 'dictionary' : (currentActiveView === 'dictionary' ? 'stats' : 'flashcard');
-        switchView(nextView);
-        return;
-      }
-
       // Language Toggle
       if (e.key === 'b' || e.key === 'B') {
         e.preventDefault();
