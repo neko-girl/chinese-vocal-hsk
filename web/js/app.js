@@ -322,9 +322,9 @@ const App = (function() {
   // Build the review queue with Smart Mix interleaving (3 Due : 1 New)
   function buildReviewQueue() {
     const activeDirs = getActiveChapterDirs();
-    const dueList = [];
-    const newList = [];
-    const learningList = [];
+    let dueList = [];
+    let newList = [];
+    let learningList = [];
     const now = Date.now();
 
     for (const dir of activeDirs) {
@@ -729,15 +729,6 @@ const App = (function() {
     const undoBtn = document.getElementById('btn-undo');
     if (undoBtn) {
       undoBtn.disabled = !StorageManager.canUndo();
-    }
-        const total = WORDS.length;
-        const currentPos = queueIndex + 1;
-        counterEl.textContent = `${String(currentPos).padStart(2, '0')} / ${String(total).padStart(2, '0')}`;
-        if (hudFillEl) {
-          const pct = total > 0 ? Math.round((currentPos / total) * 100) : 0;
-          hudFillEl.style.width = `${pct}%`;
-        }
-      }
     }
 
     // Update Session Counters in Topbar HUD
@@ -2311,10 +2302,13 @@ const App = (function() {
     }
 
     // Subscribe to browser speech synthesis voices dynamically loaded
-    if (typeof window !== 'undefined' && 'speechSynthesis' in window && window.speechSynthesis.onvoiceschanged !== undefined) {
-      window.speechSynthesis.addEventListener('voiceschanged', () => {
-        populateBrowserVoices();
-      });
+    if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+      const handleVoicesChanged = () => populateBrowserVoices();
+      if (typeof window.speechSynthesis.addEventListener === 'function') {
+        window.speechSynthesis.addEventListener('voiceschanged', handleVoicesChanged);
+      } else {
+        window.speechSynthesis.onvoiceschanged = handleVoicesChanged;
+      }
     }
 
     const soundFxCheck = document.getElementById('toggle-sound-fx');

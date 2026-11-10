@@ -248,7 +248,10 @@ const TimeTracker = (function() {
   };
 })();
 
-// Export globally for browser environment
+// Export globally for browser and Node environments
 if (typeof window !== 'undefined') {
   window.TimeTracker = TimeTracker;
+}
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = TimeTracker;
 }

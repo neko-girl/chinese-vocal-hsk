@@ -4,9 +4,10 @@
   "description": "Chinese Vocal HSK 5 Lexicographical Engine & Visualizer",
   "private": true,
   "scripts": {
-    "test": "node tests/test_srs_engine.js && node tests/test_ui_cache.js && python -m unittest tests/test_audio.py",
+    "test": "node tests/test_srs_engine.js && node tests/test_ui_cache.js && node tests/test_browser_boot.js && python -m unittest tests/test_audio.py",
     "test:srs": "node tests/test_srs_engine.js",
     "test:ui": "node tests/test_ui_cache.js",
+    "test:boot": "node tests/test_browser_boot.js",
     "build:data": "python cli.py build"
   }
 }
