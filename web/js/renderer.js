@@ -197,23 +197,45 @@ function renderSidebar(filteredWords, allWords, currentWordId, currentLang, onSe
   });
 }
 
+function renderSRSStatusBadge(reviewItem) {
+  if (!reviewItem || reviewItem.state === 'new') {
+    return '<span class="card-srs-badge badge-new" title="New unlearned word">🔵 New</span>';
+  }
+  if (reviewItem.state === 'learning') {
+    const stepLabel = (reviewItem.step === 1) ? 'Step 2/2' : 'Step 1/2';
+    return `<span class="card-srs-badge badge-learning" title="Intra-session learning step">🟠 Learning: ${stepLabel}</span>`;
+  }
+  if (reviewItem.state === 'relearning') {
+    return `<span class="card-srs-badge badge-relearning" title="Lapsed card in re-learning">🔴 Relearning • Lapse ${reviewItem.lapses || 1}</span>`;
+  }
+  // review
+  const intDays = reviewItem.interval || 1;
+  return `<span class="card-srs-badge badge-review" title="Graduated spaced repetition review">🟢 Review • ${intDays}d</span>`;
+}
+
+function renderChapterOriginBadge(chapterDir) {
+  if (!chapterDir) return '';
+  const num = chapterDir.match(/\d+/) ? parseInt(chapterDir.match(/\d+/)[0], 10) : '';
+  return num ? `<span class="card-origin-badge">📖 CHP ${num}</span>` : '';
+}
+
 // Generate Flashcard Front View
 function renderFlashcardFront(w, chapterDir, reviewItem) {
-  const status = reviewItem?.status || 'new';
-  let statusBadge = '<span class="badge" style="background: rgba(148, 163, 184, 0.15); color: var(--text-dim);">New Card</span>';
-  if (status === 'remembered') {
-    statusBadge = `<span class="badge" style="background: rgba(16, 185, 129, 0.15); color: var(--accent-green);">🟢 Box ${reviewItem.srsLevel || 1}</span>`;
-  } else if (status === 'dont_remember') {
-    statusBadge = `<span class="badge" style="background: rgba(239, 68, 68, 0.15); color: #ef4444;">🔴 Lapsed (${reviewItem.lapses || 1}x)</span>`;
-  }
+  const statusBadge = renderSRSStatusBadge(reviewItem);
+  const originBadge = renderChapterOriginBadge(w.chapterId || chapterDir);
 
   const decomp = w.character_decomposition || [];
   const radicalHint = decomp.map(d => `${d.character}: ${d.radical} (${d.radical_meaning_en || ''})`).join(' · ');
+
+  const settings = (typeof StorageManager !== 'undefined') ? StorageManager.getSettings() : {};
+  const isAudioFirst = !!settings.audioFirstMode;
+  const blurClass = isAudioFirst ? 'audio-first-blur' : '';
 
   return `
     <div class="card-container front-card">
       <div class="card-top-bar">
         <div class="card-meta-left">
+          ${originBadge}
           <span class="badge badge-hsk">${w.level || 'HSK 5'}</span>
           <span class="badge badge-pos">${w.part_of_speech}</span>
           ${statusBadge}
@@ -237,11 +259,16 @@ function renderFlashcardFront(w, chapterDir, reviewItem) {
       </div>
 
       <main class="front-body">
-        <div class="tianzige-container" onclick="App.showAnswer()" title="Click or press Space to reveal answer">
-          <div class="tianzige-box ${w.hanzi.length > 2 ? 'tianzige-box-multi' : ''}">
+        <div class="tianzige-container">
+          <div class="tianzige-box ${w.hanzi.length > 2 ? 'tianzige-box-multi' : ''} ${blurClass}" id="front-tianzige-box" onclick="App.handleFrontHanziClick(this)" title="${isAudioFirst ? 'Listening Mode: Click or press H to reveal Hanzi' : 'Click or press Space to reveal answer'}">
             <div class="tianzige-char">${w.hanzi}</div>
           </div>
         </div>
+        ${isAudioFirst ? `
+          <div class="audio-first-indicator" onclick="App.unblurFrontHanzi()" title="Click to reveal Hanzi (or press H)">
+            🎧 Listening Mode (Tap or press H to reveal)
+          </div>
+        ` : ''}
 
         <div class="front-meta-pills">
           <span class="badge badge-num">NO. ${String(w.id).padStart(2, '0')}</span>
@@ -276,13 +303,8 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
   const showEs = currentLang === 'both' || currentLang === 'es';
   const contour = computeToneContour(w.pinyin);
 
-  const status = reviewItem?.status || 'new';
-  let statusBadge = '<span class="badge" style="background: rgba(148, 163, 184, 0.15); color: var(--text-dim);">New</span>';
-  if (status === 'remembered') {
-    statusBadge = `<span class="badge" style="background: rgba(16, 185, 129, 0.15); color: var(--accent-green);">🟢 Remembered (Box ${reviewItem.srsLevel || 1})</span>`;
-  } else if (status === 'dont_remember') {
-    statusBadge = `<span class="badge" style="background: rgba(239, 68, 68, 0.15); color: #ef4444;">🔴 Lapsed (${reviewItem.lapses || 1}x)</span>`;
-  }
+  const statusBadge = renderSRSStatusBadge(reviewItem);
+  const originBadge = renderChapterOriginBadge(w.chapterId || chapterDir);
 
   // 1. Sentences Panel (with target word highlighting and dual-speed audio)
   const sentences = w.example_sentences || [];
@@ -497,6 +519,7 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
       <header class="card-header-sticky">
         <div class="hero-top-row">
           <div class="hero-badges">
+            ${originBadge}
             <span class="badge badge-num">NO. ${String(w.id).padStart(2, '0')}</span>
             <span class="badge badge-hsk">${w.level || 'HSK 5'}</span>
             <span class="badge badge-pos">${w.part_of_speech}</span>
@@ -603,7 +626,7 @@ function renderFlashcardBack(w, chapterDir, reviewItem, currentLang, activeTab =
 }
 
 // Render Persistent Bottom Anki Review Bar
-function renderActionBar(cardSide, studyMode) {
+function renderActionBar(cardSide, studyMode, reviewItem) {
   const barEl = document.getElementById('anki-action-bar');
   if (!barEl) return;
 
@@ -617,22 +640,105 @@ function renderActionBar(cardSide, studyMode) {
     barEl.innerHTML = `
       <div class="anki-action-group">
         <button type="button" class="btn-action-show" onclick="App.showAnswer()">
-          <span>👁️ Show Answer</span>
+          <span>👁️ Show Answer <span class="action-kbd">Space</span></span>
         </button>
       </div>
     `;
   } else {
+    const pred = (typeof StorageManager !== 'undefined' && StorageManager.predictNextIntervals)
+      ? StorageManager.predictNextIntervals(reviewItem)
+      : {
+          again: { label: '~5 cards' },
+          hard: { label: '~6 cards' },
+          good: { label: '1d' },
+          easy: { label: '3d' }
+        };
+
     barEl.innerHTML = `
       <div class="anki-action-group">
-        <button type="button" class="btn-rate-again" onclick="App.rateCard('dont_remember')" title="Mark as Don't Remember">
-          <span>🔴 Don't Remember</span>
+        <button type="button" class="btn-rate-again" onclick="App.rateCard('again')" title="Mark as Again: Intra-session repeat (1 / A / Bksp)">
+          <span class="rate-interval-preview">${pred.again.label}</span>
+          <span class="rate-btn-label">🔴 Again <span class="action-kbd">1</span></span>
         </button>
-        <button type="button" class="btn-rate-good" onclick="App.rateCard('remembered')" title="Mark as Remembered">
-          <span>🟢 Remember</span>
+        <button type="button" class="btn-rate-hard" onclick="App.rateCard('hard')" title="Mark as Hard: Shorter interval (2)">
+          <span class="rate-interval-preview">${pred.hard.label}</span>
+          <span class="rate-btn-label">🟠 Hard <span class="action-kbd">2</span></span>
+        </button>
+        <button type="button" class="btn-rate-good" onclick="App.rateCard('good')" title="Mark as Good: Spaced repetition progression (3 / D / Space)">
+          <span class="rate-interval-preview">${pred.good.label}</span>
+          <span class="rate-btn-label">🟢 Good <span class="action-kbd">3</span></span>
+        </button>
+        <button type="button" class="btn-rate-easy" onclick="App.rateCard('easy')" title="Mark as Easy: Accelerated bonus (4)">
+          <span class="rate-interval-preview">${pred.easy.label}</span>
+          <span class="rate-btn-label">🔵 Easy <span class="action-kbd">4</span></span>
         </button>
       </div>
     `;
   }
+}
+
+// Render Dynamic Study Filter Bar (Chapter Horizon & SRS Status Interleaving)
+function renderStudyFilterPills({
+  chapters = [],
+  activeChapterFilter = 'all',
+  activeStatusFilter = 'all',
+  chapterCounts = {},
+  statusCounts = {},
+  onSelectChapterFilter,
+  onSelectStatusFilter
+}) {
+  const chContainer = document.getElementById('chapter-filter-pills');
+  const stContainer = document.getElementById('status-filter-pills');
+  if (!chContainer || !stContainer) return;
+
+  // Row 1: Chapter Filter Pills
+  let chHtml = `
+    <button type="button" class="study-filter-pill ${activeChapterFilter === 'all' ? 'active' : ''}" data-ch="all">
+      <span>🌐 All Active Chapters</span>
+      <span class="pill-count-badge">${chapterCounts['all'] || 0}</span>
+    </button>
+  `;
+
+  chapters.forEach(ch => {
+    const isAct = activeChapterFilter === ch.dir;
+    const cnt = chapterCounts[ch.dir] ?? ch.word_count ?? 0;
+    chHtml += `
+      <button type="button" class="study-filter-pill ${isAct ? 'active' : ''}" data-ch="${ch.dir}" title="${ch.title || ch.name}">
+        <span>CHP ${ch.id}</span>
+        <span class="pill-count-badge">${cnt}</span>
+      </button>
+    `;
+  });
+  chContainer.innerHTML = chHtml;
+  chContainer.querySelectorAll('.study-filter-pill').forEach(btn => {
+    btn.onclick = () => {
+      const chVal = btn.getAttribute('data-ch');
+      if (onSelectChapterFilter) onSelectChapterFilter(chVal);
+    };
+  });
+
+  // Row 2: Status Filter Pills
+  const statuses = [
+    { id: 'all', label: '⚡ All (Smart Mix)', count: statusCounts['all'] || 0, title: 'Interleaves 3 Due Reviews : 1 New Card' },
+    { id: 'due', label: '⏰ Due Reviews Only', count: statusCounts['due'] || 0, title: 'SRS due cards needing review' },
+    { id: 'new', label: '⚪ New Words Only', count: statusCounts['new'] || 0, title: 'Unstudied vocabulary' },
+    { id: 'learning', label: '🔥 Learning / Difficult', count: statusCounts['learning'] || 0, title: 'Cards currently in intra-session learning or lapses' },
+    { id: 'leeches', label: '🔴 Hard / Leeches', count: statusCounts['leeches'] || 0, title: 'Cards with frequent lapses' }
+  ];
+
+  let stHtml = statuses.map(st => `
+    <button type="button" class="study-filter-pill ${activeStatusFilter === st.id ? 'active' : ''}" data-status="${st.id}" title="${st.title}">
+      <span>${st.label}</span>
+      <span class="pill-count-badge">${st.count}</span>
+    </button>
+  `).join('');
+  stContainer.innerHTML = stHtml;
+  stContainer.querySelectorAll('.study-filter-pill').forEach(btn => {
+    btn.onclick = () => {
+      const stVal = btn.getAttribute('data-status');
+      if (onSelectStatusFilter) onSelectStatusFilter(stVal);
+    };
+  });
 }
 
 // Render Session Complete & Chapter Milestone Screen with Auto-Advance Countdown
@@ -1556,7 +1662,7 @@ function renderStatisticsDashboard({
   chapters = [],
   words = []
 }) {
-  const container = document.getElementById('detail-container');
+  const container = document.getElementById('stats-view-container') || document.getElementById('detail-container');
   if (!container || typeof StorageManager === 'undefined') return;
 
   const todayStats = StorageManager.getTimeStatsToday();
@@ -1564,6 +1670,9 @@ function renderStatisticsDashboard({
   const habits = StorageManager.getStudyHabitsSummary();
   const recentDays = StorageManager.getDailyActivityHistory(14);
   const recentSessions = StorageManager.getRecentSessions(8);
+  const forecast = (typeof StorageManager.getForecast7Days === 'function') ? StorageManager.getForecast7Days() : [];
+  const maxForecastCount = Math.max(1, ...forecast.map(f => f.count));
+  const leeches = (typeof StorageManager.getLeechWords === 'function') ? StorageManager.getLeechWords(10) : [];
   const chapterDir = currentChapter ? currentChapter.dir : 'chapter_01';
 
   const isAfk = (typeof TimeTracker !== 'undefined') ? TimeTracker.isAfk() : false;
@@ -1577,8 +1686,8 @@ function renderStatisticsDashboard({
       <!-- Dashboard Top Header -->
       <div class="stats-header-card">
         <div class="stats-title-group">
-          <h2>📊 Study Analytics & Time Tracking</h2>
-          <p class="stats-subtitle">Continuous activity tracking, spaced repetition retention rates, and study behavior breakdown.</p>
+          <h2>📊 Study Analytics & Review Forecast</h2>
+          <p class="stats-subtitle">Continuous activity tracking, spaced repetition forecast, and leech vocabulary drill.</p>
         </div>
 
         <!-- AFK Status & Threshold Control -->
@@ -1598,6 +1707,85 @@ function renderStatisticsDashboard({
             </select>
           </div>
         </div>
+      </div>
+
+      <!-- 7-Day Spaced Repetition Review Forecast -->
+      <div class="forecast-chart-container">
+        <div class="forecast-header">
+          <div>
+            <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--text);">📅 7-Day Review Forecast</h3>
+            <p style="font-size: 0.78rem; color: var(--text-muted); margin-top: 2px;">Cards scheduled for spaced repetition review across the next 7 days.</p>
+          </div>
+          <div style="font-size: 0.8rem; font-weight: 700; color: var(--primary);">
+            Due This Week: ${forecast.reduce((sum, f) => sum + f.count, 0)} cards
+          </div>
+        </div>
+        <div class="forecast-bars-row">
+          ${forecast.map(f => {
+            const heightPct = Math.max(6, Math.round((f.count / maxForecastCount) * 100));
+            return `
+              <div class="forecast-bar-col">
+                <span class="forecast-count-label">${f.count}</span>
+                <div class="forecast-bar-fill ${f.dayOffset === 0 ? 'is-today' : ''}" style="height: ${heightPct}%;"></div>
+                <div class="forecast-label-group">
+                  <div class="forecast-day-name">${f.dayLabel}</div>
+                  <div class="forecast-date-str">${f.dateStr}</div>
+                </div>
+              </div>
+            `;
+          }).join('')}
+        </div>
+      </div>
+
+      <!-- Leech Vocabulary Section (Top 10 Lapsed Cards) -->
+      <div class="leech-section-card">
+        <div class="leech-header-row">
+          <div>
+            <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--text);">🔴 Leech Vocabulary (Difficult Cards)</h3>
+            <p style="font-size: 0.78rem; color: var(--text-muted); margin-top: 2px;">Words with repeated lapses and low ease factor requiring extra reinforcement.</p>
+          </div>
+          <button type="button" class="btn btn-primary" onclick="App.practiceLeeches()" style="font-size: 0.82rem; padding: 6px 14px; white-space: nowrap;">
+            ⚡ Practice Leeches (${leeches.length})
+          </button>
+        </div>
+        ${leeches.length === 0 ? `
+          <div style="text-align: center; padding: 20px 0; color: var(--text-muted); font-size: 0.88rem;">
+            🎉 No leeches found! Your retention is in great shape.
+          </div>
+        ` : `
+          <div class="leech-table-wrap">
+            <table class="leech-table">
+              <thead>
+                <tr>
+                  <th>Word</th>
+                  <th>Pinyin</th>
+                  <th>Lapses</th>
+                  <th>Interval</th>
+                  <th>Ease</th>
+                  <th>Actions</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${leeches.map(rec => {
+                  const w = words.find(item => String(item.id) === String(rec.wordId)) || { hanzi: rec.wordId, pinyin: '' };
+                  return `
+                    <tr>
+                      <td><strong style="font-size: 1.05rem;">${w.hanzi || rec.wordId}</strong></td>
+                      <td>${colorizePinyinHTML(w.pinyin || '')}</td>
+                      <td><span class="leech-lapse-badge">🔴 ${rec.lapses}x</span></td>
+                      <td>${rec.interval}d</td>
+                      <td>${(rec.ease || 2.5).toFixed(2)}</td>
+                      <td>
+                        <button type="button" class="btn" style="padding: 3px 8px; font-size: 0.75rem;" onclick="speak('${(w.hanzi || '').replace(/'/g, "\\'")}', 1.0)">🔊</button>
+                        <button type="button" class="btn" style="padding: 3px 8px; font-size: 0.75rem;" onclick="App.openWordDetail('${rec.chapterId}', '${rec.wordId}')">🔍</button>
+                      </td>
+                    </tr>
+                  `;
+                }).join('')}
+              </tbody>
+            </table>
+          </div>
+        `}
       </div>
 
       <!-- Top KPI Metric Cards Grid -->
@@ -1863,6 +2051,290 @@ function renderStatisticsDashboard({
   `;
 }
 
+// Render Chapters & Word Browser View
+function renderChaptersAndWordBrowser({
+  chapters = [],
+  activeChapter = null,
+  allWords = [],
+  currentLang = 'both',
+  frontierChapter = 'chapter_01',
+  searchQuery = '',
+  statusFilter = 'all'
+}) {
+  const container = document.getElementById('chapters-view-container');
+  if (!container) return;
+
+  const showEn = currentLang === 'both' || currentLang === 'en';
+  const showEs = currentLang === 'both' || currentLang === 'es';
+
+  // 1. Compute Mastery Breakdown for all 8 Chapters
+  const chapterCardsHtml = chapters.map(ch => {
+    const isFrontier = ch.dir === frontierChapter;
+    const chWords = ch.words || allWords.filter(w => w.chapterId === ch.dir);
+    const totalWords = chWords.length || ch.word_count || 38;
+    const reviews = (typeof StorageManager !== 'undefined') ? StorageManager.getChapterReviews(ch.dir) : {};
+
+    let mastered = 0;
+    let review = 0;
+    let learning = 0;
+    let unlearned = 0;
+
+    chWords.forEach(w => {
+      const rev = reviews[String(w.id)];
+      if (!rev || rev.state === 'new') {
+        unlearned++;
+      } else if (rev.state === 'learning' || rev.state === 'relearning') {
+        learning++;
+      } else if (rev.state === 'review') {
+        if ((rev.interval || 0) > 21) mastered++;
+        else review++;
+      } else {
+        unlearned++;
+      }
+    });
+
+    const masteredPct = Math.round((mastered / totalWords) * 100);
+    const reviewPct = Math.round((review / totalWords) * 100);
+    const learningPct = Math.round((learning / totalWords) * 100);
+    const newPct = 100 - masteredPct - reviewPct - learningPct;
+
+    return `
+      <div class="chapter-card-item ${isFrontier ? 'frontier-chapter' : ''}" data-ch="${ch.dir}">
+        <div class="chapter-header-row">
+          <div>
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <span class="chapter-card-title">${ch.name || 'Chapter'}</span>
+              ${isFrontier ? '<span class="chapter-frontier-badge">⭐ Frontier</span>' : ''}
+            </div>
+            <div class="chapter-card-desc">${ch.title || ''} · ${totalWords} words</div>
+          </div>
+          <span class="badge" style="font-weight: 700; background: var(--bg-card-sub);">${mastered + review}/${totalWords} Learned</span>
+        </div>
+
+        <div class="chapter-stacked-bar" title="Mastered: ${mastered}, Review: ${review}, Learning: ${learning}, New: ${unlearned}">
+          <div class="seg-fill" style="width: ${masteredPct}%; background: #10b981;" title="Mastered (>21d): ${mastered}"></div>
+          <div class="seg-fill" style="width: ${reviewPct}%; background: #06b6d4;" title="Review (1-21d): ${review}"></div>
+          <div class="seg-fill" style="width: ${learningPct}%; background: #f59e0b;" title="Learning / Intraday: ${learning}"></div>
+          <div class="seg-fill" style="width: ${Math.max(0, newPct)}%; background: rgba(148, 163, 184, 0.2);" title="New: ${unlearned}"></div>
+        </div>
+
+        <div class="chapter-stat-legend">
+          <span class="legend-item"><span class="legend-dot" style="background: #10b981;"></span> Mastered ${masteredPct}%</span>
+          <span class="legend-item"><span class="legend-dot" style="background: #06b6d4;"></span> Review ${reviewPct}%</span>
+          <span class="legend-item"><span class="legend-dot" style="background: #f59e0b;"></span> Learning ${learningPct}%</span>
+          <span class="legend-item"><span class="legend-dot" style="background: rgba(148, 163, 184, 0.4);"></span> New ${unlearned}</span>
+        </div>
+
+        <div style="display: flex; gap: 8px; margin-top: 6px;">
+          <button type="button" class="btn btn-primary" style="flex: 1; font-size: 0.8rem; padding: 6px 10px;" onclick="App.studySpecificChapter('${ch.dir}')">
+            🗂️ Study Chapter
+          </button>
+          <button type="button" class="btn" style="font-size: 0.8rem; padding: 6px 10px;" onclick="App.setFrontierChapter('${ch.dir}')" title="Set this chapter as your active curriculum frontier">
+            ${isFrontier ? '⭐ Active' : 'Set Frontier'}
+          </button>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  // 2. Filter Word List Table
+  let filteredList = [...allWords];
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase().trim();
+    filteredList = filteredList.filter(w => {
+      const hz = (w.hanzi || '').toLowerCase();
+      const py = (w.pinyin || '').toLowerCase();
+      const en = (w.translations?.en || []).join(' ').toLowerCase();
+      const es = (w.translations?.es || []).join(' ').toLowerCase();
+      return hz.includes(q) || py.includes(q) || en.includes(q) || es.includes(q);
+    });
+  }
+
+  if (statusFilter !== 'all') {
+    filteredList = filteredList.filter(w => {
+      const chDir = w.chapterId || (activeChapter ? activeChapter.dir : 'chapter_01');
+      const rev = (typeof StorageManager !== 'undefined') ? StorageManager.getWordReview(chDir, w.id) : null;
+      if (statusFilter === 'due') {
+        return rev && rev.state !== 'new' && (rev.dueAt || rev.dueDate || 0) <= Date.now();
+      }
+      if (statusFilter === 'learning') {
+        return rev && (rev.state === 'learning' || rev.state === 'relearning');
+      }
+      if (statusFilter === 'review') {
+        return rev && rev.state === 'review';
+      }
+      if (statusFilter === 'leeches') {
+        return rev && (rev.lapses || 0) > 0;
+      }
+      if (statusFilter === 'new') {
+        return !rev || rev.state === 'new';
+      }
+      return true;
+    });
+  }
+
+  container.innerHTML = `
+    <div>
+      <div style="margin-bottom: 20px;">
+        <h2 style="font-size: 1.3rem; font-weight: 800; color: var(--text);">📚 Curriculum Chapters & Vocabulary Browser</h2>
+        <p style="font-size: 0.84rem; color: var(--text-muted); margin-top: 4px;">Track mastery progress across all 8 HSK chapters and inspect vocabulary with audio and reset controls.</p>
+      </div>
+
+      <!-- 8-Chapter Mastery Grid -->
+      <div class="chapter-mastery-grid">
+        ${chapterCardsHtml}
+      </div>
+
+      <!-- Searchable & Filterable Word Table Section -->
+      <div class="section-card" style="padding: 20px;">
+        <div style="display: flex; flex-direction: column; gap: 14px; margin-bottom: 16px;">
+          <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+            <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--text);">Vocabulary Catalog (${filteredList.length} words)</h3>
+            <div style="display: flex; gap: 6px; flex-wrap: wrap;">
+              <button type="button" class="study-filter-pill ${statusFilter === 'all' ? 'active' : ''}" onclick="App.filterBrowserStatus('all')">All</button>
+              <button type="button" class="study-filter-pill ${statusFilter === 'due' ? 'active' : ''}" onclick="App.filterBrowserStatus('due')">Due (SRS)</button>
+              <button type="button" class="study-filter-pill ${statusFilter === 'learning' ? 'active' : ''}" onclick="App.filterBrowserStatus('learning')">Learning</button>
+              <button type="button" class="study-filter-pill ${statusFilter === 'review' ? 'active' : ''}" onclick="App.filterBrowserStatus('review')">Review</button>
+              <button type="button" class="study-filter-pill ${statusFilter === 'leeches' ? 'active' : ''}" onclick="App.filterBrowserStatus('leeches')">🔴 Leeches</button>
+              <button type="button" class="study-filter-pill ${statusFilter === 'new' ? 'active' : ''}" onclick="App.filterBrowserStatus('new')">New</button>
+            </div>
+          </div>
+
+          <div class="search-box" style="margin: 0;">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            <input type="text" id="chapter-word-search-input" value="${searchQuery}" placeholder="Search Hanzi, Pinyin, English, Spanish..." oninput="App.onBrowserSearch(this.value)">
+            ${searchQuery ? `<button type="button" class="search-clear-btn" onclick="App.onBrowserSearch('')">&times;</button>` : ''}
+          </div>
+        </div>
+
+        <div class="table-responsive" style="max-height: 600px; overflow-y: auto;">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th style="width: 50px;">#</th>
+                <th>Hanzi & Pinyin</th>
+                <th>Part of Speech</th>
+                <th>Translation</th>
+                <th>SRS State</th>
+                <th>Lapses</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${filteredList.map((w, idx) => {
+                const chDir = w.chapterId || (activeChapter ? activeChapter.dir : 'chapter_01');
+                const rev = (typeof StorageManager !== 'undefined') ? StorageManager.getWordReview(chDir, w.id) : null;
+                const badge = renderSRSStatusBadge(rev);
+                const lapses = rev?.lapses || 0;
+                const enStr = (w.translations?.en || []).join(', ');
+                const esStr = (w.translations?.es || []).join(', ');
+                const trans = showEn && showEs ? `${enStr} / ${esStr}` : (showEs ? esStr : enStr);
+
+                return `
+                  <tr>
+                    <td><span class="badge badge-num">${idx + 1}</span></td>
+                    <td>
+                      <div style="display: flex; flex-direction: column;">
+                        <span style="font-size: 1.15rem; font-weight: 700; cursor: pointer;" onclick="App.openWordDetail('${chDir}', '${w.id}')">${w.hanzi}</span>
+                        <span style="font-size: 0.78rem;">${colorizePinyinHTML(w.pinyin || '')}</span>
+                      </div>
+                    </td>
+                    <td><span class="badge badge-pos">${w.part_of_speech || 'Word'}</span></td>
+                    <td style="max-width: 260px; font-size: 0.82rem; color: var(--text-muted);">${trans || '-'}</td>
+                    <td>${badge}</td>
+                    <td>${lapses > 0 ? `<span class="leech-lapse-badge">🔴 ${lapses}x</span>` : '<span style="color: var(--text-dim);">-</span>'}</td>
+                    <td>
+                      <div style="display: flex; gap: 4px;">
+                        <button type="button" class="btn" style="padding: 3px 8px; font-size: 0.75rem;" onclick="speak('${(w.hanzi || '').replace(/'/g, "\\'")}', 1.0)" title="Play Pronunciation">🔊</button>
+                        <button type="button" class="btn" style="padding: 3px 8px; font-size: 0.75rem;" onclick="App.openWordDetail('${chDir}', '${w.id}')" title="Inspect Word Details">🔍</button>
+                        <button type="button" class="btn" style="padding: 3px 8px; font-size: 0.75rem; color: #ef4444; border-color: rgba(239, 68, 68, 0.3);" onclick="App.confirmResetWord('${chDir}', '${w.id}')" title="Reset Card Progress to New">🗑️</button>
+                      </div>
+                    </td>
+                  </tr>
+                `;
+              }).join('')}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+// Render Word Detail Modal
+function renderWordDetailModal(word, reviewItem, chapterDir, currentLang = 'both') {
+  const modalEl = document.getElementById('word-detail-modal');
+  const titleEl = document.getElementById('word-detail-title');
+  const bodyEl = document.getElementById('word-detail-body');
+  if (!modalEl || !titleEl || !bodyEl || !word) return;
+
+  const showEn = currentLang === 'both' || currentLang === 'en';
+  const showEs = currentLang === 'both' || currentLang === 'es';
+  const statusBadge = renderSRSStatusBadge(reviewItem);
+  const decomp = word.character_decomposition || [];
+
+  titleEl.innerHTML = `📖 ${word.hanzi} · ${colorizePinyinHTML(word.pinyin || '')}`;
+  bodyEl.innerHTML = `
+    <div>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="font-size: 2.2rem; font-weight: 800; color: var(--text);">${word.hanzi}</span>
+          <div style="display: flex; flex-direction: column;">
+            <span style="font-size: 1.15rem; font-weight: 700;">${colorizePinyinHTML(word.pinyin || '')}</span>
+            <span style="font-size: 0.75rem; color: var(--text-dim);">${word.part_of_speech || 'Word'} · ${word.level || 'HSK 5'}</span>
+          </div>
+        </div>
+        ${statusBadge}
+      </div>
+
+      <div style="display: flex; gap: 8px; margin-bottom: 16px;">
+        <button type="button" class="btn btn-primary" onclick="speak('${word.hanzi}', 1.0)">🔊 Normal (1.0x)</button>
+        <button type="button" class="btn" onclick="speak('${word.hanzi}', 0.75)">🐢 Slow (0.75x)</button>
+      </div>
+
+      <div style="margin-bottom: 16px; background: var(--bg-card-sub); padding: 12px; border-radius: 10px;">
+        <div style="font-size: 0.75rem; font-weight: 700; color: var(--text-muted); margin-bottom: 4px;">TRANSLATIONS</div>
+        ${showEn ? `<div style="font-size: 0.88rem; margin-bottom: 2px;"><strong>EN:</strong> ${(word.translations?.en || []).join('; ')}</div>` : ''}
+        ${showEs ? `<div style="font-size: 0.88rem;"><strong>ES:</strong> ${(word.translations?.es || []).join('; ')}</div>` : ''}
+      </div>
+
+      ${decomp.length > 0 ? `
+        <div style="margin-bottom: 16px; background: var(--bg-card-sub); padding: 12px; border-radius: 10px;">
+          <div style="font-size: 0.75rem; font-weight: 700; color: var(--text-muted); margin-bottom: 4px;">RADICAL BREAKDOWN</div>
+          <div style="font-size: 0.82rem;">
+            ${decomp.map(d => `<strong>${d.character}</strong>: Radical ${d.radical} (${d.radical_meaning_en || ''})`).join(' · ')}
+          </div>
+        </div>
+      ` : ''}
+
+      ${Array.isArray(word.example_sentences) && word.example_sentences.length > 0 ? `
+        <div style="margin-bottom: 16px;">
+          <div style="font-size: 0.75rem; font-weight: 700; color: var(--text-muted); margin-bottom: 6px;">EXAMPLE SENTENCE</div>
+          <div style="background: var(--bg-card-sub); padding: 12px; border-radius: 10px;">
+            <div style="font-size: 0.95rem; font-weight: 600; margin-bottom: 4px;">${word.example_sentences[0].hanzi}</div>
+            <div style="font-size: 0.82rem; margin-bottom: 4px;">${colorizePinyinHTML(word.example_sentences[0].pinyin)}</div>
+            ${showEn ? `<div style="font-size: 0.8rem; color: var(--text-muted);"><strong>EN:</strong> ${word.example_sentences[0].en}</div>` : ''}
+            <div style="margin-top: 8px;">
+              <button type="button" class="btn" style="padding: 2px 8px; font-size: 0.75rem;" onclick="speak('${(word.example_sentences[0].hanzi || '').replace(/'/g, "\\'")}', 1.0)">🔊 Listen Sentence</button>
+            </div>
+          </div>
+        </div>
+      ` : ''}
+
+      <div style="display: flex; gap: 8px; margin-top: 20px; border-top: 1px solid var(--border); padding-top: 16px;">
+        <button type="button" class="btn btn-primary" style="flex: 1;" onclick="App.studySpecificWord('${chapterDir}', '${word.id}')">
+          🗂️ Study This Word
+        </button>
+        <button type="button" class="btn" style="color: #ef4444; border-color: rgba(239, 68, 68, 0.4);" onclick="App.confirmResetWord('${chapterDir}', '${word.id}')">
+          🗑️ Reset Progress
+        </button>
+      </div>
+    </div>
+  `;
+
+  modalEl.classList.add('active');
+}
+
 if (typeof window !== 'undefined') {
   window.speak = speak;
   window.colorizePinyinHTML = colorizePinyinHTML;
@@ -1878,6 +2350,11 @@ if (typeof window !== 'undefined') {
   window.renderCharacterTimeline = renderCharacterTimeline;
   window.renderStatisticsDashboard = renderStatisticsDashboard;
   window.renderWordMiniTimeline = renderWordMiniTimeline;
+  window.renderStudyFilterPills = renderStudyFilterPills;
+  window.renderSRSStatusBadge = renderSRSStatusBadge;
+  window.renderChapterOriginBadge = renderChapterOriginBadge;
+  window.renderChaptersAndWordBrowser = renderChaptersAndWordBrowser;
+  window.renderWordDetailModal = renderWordDetailModal;
   window.formatSecondsToHMS = formatSecondsToHMS;
   window.formatSecondsToShort = formatSecondsToShort;
 }

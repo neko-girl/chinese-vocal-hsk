@@ -1,6 +1,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache/
 *.DS_Store
 .idea/
 .vscode/
@@ -8,17 +9,11 @@ __pycache__/
 .env.local
 .env.*.local
 
-# Node & Capacitor
+# Node
 node_modules/
-www/
 
-# Android Build Outputs
-.gradle/
-android/.gradle/
-android/build/
-android/app/build/
-android/capacitor-cordova-android-plugins/build/
-*.apk
+# User-specified ignored folder
+gg/
 
 # Persistent User Progress (Protected from git pulls/overwrites)
 data/user_progress.json

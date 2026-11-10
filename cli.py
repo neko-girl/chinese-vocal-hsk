@@ -10,7 +10,6 @@ Commands:
   prompt        Generate agent-ready prompt for a batch of words
   generate      Run batch generator scripts for a chapter
   serve         Start a local preview web server
-  export-android Compile data and export native Android APK & project
 """
 
 import os
@@ -413,16 +412,6 @@ def cmd_serve(args):
             print("\nServer stopped.")
     return 0
 
-def cmd_export_android(args):
-    """Compile data and export for Android (bundles assets and builds Capacitor/Gradle APK)."""
-    script_path = os.path.join(BASE_DIR, 'scripts', 'build_android.sh')
-    if not os.path.exists(script_path):
-        print(f"Error: Build script not found: {script_path}")
-        return 1
-    import subprocess
-    cmd = ['bash', script_path]
-    return subprocess.call(cmd)
-
 def main():
     parser = argparse.ArgumentParser(description="Chinese Vocal HSK Tooling & Lexicographical CLI")
     subparsers = parser.add_subparsers(dest="command", help="Subcommand to run")
@@ -475,9 +464,6 @@ def main():
     p_serve = subparsers.add_parser("serve", help="Start local web server")
     p_serve.add_argument("--port", "-p", type=int, default=8000, help="Port (default: 8000)")
 
-    # export-android
-    p_export_android = subparsers.add_parser("export-android", help="Compile data and export native Android APK & project")
-
     args = parser.parse_args()
     if not args.command:
         parser.print_help()
@@ -491,8 +477,7 @@ def main():
         "new-chapter": cmd_new_chapter,
         "prompt": cmd_prompt,
         "generate": cmd_generate,
-        "serve": cmd_serve,
-        "export-android": cmd_export_android
+        "serve": cmd_serve
     }
 
     return commands[args.command](args)

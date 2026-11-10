@@ -1,24 +1,37 @@
 /**
  * Application Controller for Chinese Vocal HSK Visualizer & Anki Flashcard System.
- * Coordinates SRS review loops, intra-session lapse re-queueing, keyboard shortcuts, and UI drawers.
+ * Coordinates two-stage SRS review loops, intra-session anti-clustering re-queueing,
+ * multi-chapter global pool, automatic chapter progression, and keyboard shortcuts.
  */
 
 const App = (function() {
   let chapters = [];
   let currentChapter = null;
+  let allChaptersData = {}; // { [chapterDir]: Array<Word> }
   let WORDS = [];
   let filteredWords = [];
   
   // Flashcard review queue & state
-  let reviewQueue = []; // array of word IDs
+  let reviewQueue = []; // array of composite keys: "${chapterDir}:${wordId}"
   let queueIndex = 0;
   let currentCardSide = 'front'; // 'front' | 'back'
   let currentActiveTab = 'sentences';
   let studyMode = 'flashcard'; // 'flashcard' | 'browse'
-  let currentActiveView = 'flashcard'; // 'flashcard' | 'dictionary' | 'stats'
-  let reviewFilter = 'all'; // 'all' | 'due' | 'lapses' | 'remembered' | 'new'
+  let currentActiveView = 'study'; // 'study' | 'chapters' | 'stats' | 'settings' | 'dictionary'
+  let reviewFilter = 'all'; // legacy filter support
+  let activeChapterFilter = 'all'; // 'all' (All Active Chapters) | 'chapter_01' .. 'chapter_08'
+  let activeStatusFilter = 'all';  // 'all' (Smart Mix 3:1) | 'due' | 'new' | 'learning' | 'leeches'
   let currentPosFilter = 'ALL';
   let currentLang = 'both';
+  let sessionStartTime = Date.now();
+  let frontierChapter = 'chapter_01';
+
+  // Dedicated Browser & Catalog View State
+  let browserSearchQuery = '';
+  let browserStatusFilter = 'all';
+
+  const MIN_GAP = 5;
+  const AUTO_ADVANCE_THRESHOLD = 5;
 
   // Dedicated Dictionary View State
   let selectedDictWordId = null;
@@ -37,6 +50,7 @@ const App = (function() {
         } else if (currentActiveView === 'flashcard') {
           updateMasteryStats();
           updateFilterCountBadges();
+          updateFilterPills();
         }
       } else if (type === 'chapter_switched') {
         if (payload?.dir && payload.dir !== currentChapter?.dir) {
@@ -71,17 +85,54 @@ const App = (function() {
     }
   }
 
+  // Parse composite card key ("${chapterDir}:${wordId}")
+  function parseCompositeKey(key) {
+    if (typeof key === 'string' && key.includes(':')) {
+      const [chapterDir, wordId] = key.split(':');
+      return { chapterDir, wordId };
+    }
+    return {
+      chapterDir: currentChapter ? currentChapter.dir : 'chapter_01',
+      wordId: String(key || '1')
+    };
+  }
+
+  // Get full word object by composite key
+  function getWordByCompositeKey(key) {
+    const { chapterDir, wordId } = parseCompositeKey(key);
+    const chWords = allChaptersData[chapterDir] || (currentChapter?.dir === chapterDir ? WORDS : []);
+    const found = chWords.find(w => String(w.id) === String(wordId));
+    if (found) {
+      return { ...found, chapterId: chapterDir };
+    }
+    const fallback = WORDS.find(w => String(w.id) === String(wordId));
+    return fallback ? { ...fallback, chapterId: chapterDir } : WORDS[0] || null;
+  }
+
   // Current active word object
   function getCurrentWord() {
     if (currentActiveView === 'dictionary' && selectedDictWordId) {
       return WORDS.find(w => String(w.id) === String(selectedDictWordId)) || WORDS[0] || null;
     }
     if (studyMode === 'flashcard') {
-      const wordId = reviewQueue[queueIndex];
-      return WORDS.find(w => String(w.id) === String(wordId)) || WORDS[0] || null;
+      const key = reviewQueue[queueIndex];
+      if (!key) return null;
+      return getWordByCompositeKey(key);
     } else {
-      return WORDS[queueIndex] || WORDS[0] || null;
+      const w = WORDS[queueIndex] || WORDS[0] || null;
+      return w ? { ...w, chapterId: currentChapter?.dir || 'chapter_01' } : null;
     }
+  }
+
+  // Determine active chapter directories based on filter and frontier
+  function getActiveChapterDirs() {
+    if (activeChapterFilter !== 'all') {
+      return [activeChapterFilter];
+    }
+    const frontier = StorageManager.getFrontierChapter();
+    const frontierIdx = Math.max(0, chapters.findIndex(c => c.dir === frontier));
+    const active = chapters.slice(0, frontierIdx + 1).map(c => c.dir);
+    return active.length > 0 ? active : [chapters[0]?.dir || 'chapter_01'];
   }
 
   // Initialize Theme
@@ -158,7 +209,7 @@ const App = (function() {
     if (toastTimer) clearTimeout(toastTimer);
     toastTimer = setTimeout(() => {
       toastEl.classList.remove('active');
-    }, 2200);
+    }, 2400);
   }
 
   function copyText(text, successMsg = 'Copied!') {
@@ -178,17 +229,18 @@ const App = (function() {
   function updateFilterCountBadges() {
     if (!currentChapter) return;
     const reviews = StorageManager.getChapterReviews(currentChapter.dir);
+    const now = Date.now();
     
     let due = 0, lapses = 0, remembered = 0, newWords = 0;
     WORDS.forEach(w => {
       const rev = reviews[String(w.id)];
-      if (!rev) {
+      if (!rev || rev.state === 'new') {
         newWords++;
         due++;
       } else {
-        if (rev.status === 'remembered') remembered++;
-        if (rev.status === 'dont_remember') lapses++;
-        if (StorageManager.isDue(rev)) due++;
+        if (rev.state === 'review') remembered++;
+        if (rev.state === 'relearning' || rev.lapses > 0) lapses++;
+        if (StorageManager.isDue(rev, now)) due++;
       }
     });
 
@@ -215,38 +267,402 @@ const App = (function() {
     });
   }
 
-  // Build the review queue based on active review filter
+  // Update Dynamic Study Filter Bar Pills
+  function updateFilterPills() {
+    if (typeof renderStudyFilterPills !== 'function' || !chapters || chapters.length === 0) return;
+
+    const chapterCounts = { all: 0 };
+    const statusCounts = { all: 0, due: 0, new: 0, learning: 0 };
+    const now = Date.now();
+
+    const frontier = StorageManager.getFrontierChapter();
+    const frontierIdx = Math.max(0, chapters.findIndex(c => c.dir === frontier));
+
+    chapters.forEach((ch, idx) => {
+      const chWords = allChaptersData[ch.dir] || (ch.dir === currentChapter?.dir ? WORDS : []);
+      const chReviews = StorageManager.getChapterReviews(ch.dir);
+      let countThisCh = 0;
+
+      chWords.forEach(w => {
+        const rev = chReviews[String(w.id)];
+        const isDue = StorageManager.isDue(rev, now);
+        const state = rev?.state || 'new';
+
+        countThisCh++;
+
+        const isWithinHorizon = (activeChapterFilter === 'all' && idx <= frontierIdx) || (activeChapterFilter === ch.dir);
+
+        if (isWithinHorizon) {
+          chapterCounts.all++;
+          if (state === 'new') {
+            statusCounts.new++;
+          } else if (state === 'learning' || state === 'relearning') {
+            statusCounts.learning++;
+          } else if (state === 'review' && isDue) {
+            statusCounts.due++;
+          }
+        }
+      });
+      chapterCounts[ch.dir] = countThisCh;
+    });
+
+    statusCounts.all = statusCounts.due + statusCounts.new + statusCounts.learning;
+
+    renderStudyFilterPills({
+      chapters,
+      activeChapterFilter,
+      activeStatusFilter,
+      chapterCounts,
+      statusCounts,
+      onSelectChapterFilter: selectChapterFilter,
+      onSelectStatusFilter: selectStatusFilter
+    });
+  }
+
+  // Build the review queue with Smart Mix interleaving (3 Due : 1 New)
   function buildReviewQueue() {
-    if (!currentChapter) return;
-    const reviews = StorageManager.getChapterReviews(currentChapter.dir);
+    const activeDirs = getActiveChapterDirs();
+    const dueList = [];
+    const newList = [];
+    const learningList = [];
+    const now = Date.now();
 
-    let candidates = [...WORDS];
+    for (const dir of activeDirs) {
+      const words = allChaptersData[dir] || (currentChapter?.dir === dir ? WORDS : []);
+      const reviews = StorageManager.getChapterReviews(dir);
 
-    // Filter by POS if selected
-    if (currentPosFilter !== 'ALL') {
-      const posFilterLower = currentPosFilter.toLowerCase();
-      candidates = candidates.filter(w => (w.part_of_speech || '').toLowerCase().includes(posFilterLower));
-    }
+      for (const w of words) {
+        if (currentPosFilter !== 'ALL') {
+          const pos = (w.part_of_speech || '').toLowerCase();
+          if (!pos.includes(currentPosFilter.toLowerCase())) continue;
+        }
 
-    // Filter by Review Status
-    if (reviewFilter === 'due') {
-      candidates = candidates.filter(w => StorageManager.isDue(reviews[String(w.id)]));
-    } else if (reviewFilter === 'lapses') {
-      candidates = candidates.filter(w => reviews[String(w.id)]?.status === 'dont_remember');
-    } else if (reviewFilter === 'remembered') {
-      candidates = candidates.filter(w => reviews[String(w.id)]?.status === 'remembered');
-    } else if (reviewFilter === 'new') {
-      candidates = candidates.filter(w => !reviews[String(w.id)]);
+        const key = `${dir}:${w.id}`;
+        const rev = reviews[String(w.id)];
+        const state = rev?.state || 'new';
+
+        if (state === 'new') {
+          newList.push(key);
+        } else if (state === 'learning' || state === 'relearning') {
+          learningList.push(key);
+        } else if (state === 'review') {
+          if (StorageManager.isDue(rev, now)) {
+            dueList.push(key);
+          }
+        }
+      }
     }
 
     const settings = StorageManager.getSettings();
-    if (settings.studyOrder === 'shuffle') {
-      candidates.sort(() => Math.random() - 0.5);
+
+    // Enforce daily new card limit if configured
+    const dailyLimit = typeof settings.dailyNewLimit === 'number' ? settings.dailyNewLimit : 20;
+    if (dailyLimit > 0 && newList.length > dailyLimit) {
+      newList = newList.slice(0, dailyLimit);
     }
 
-    reviewQueue = candidates.map(w => w.id);
+    if (settings.studyOrder === 'shuffle') {
+      dueList.sort(() => Math.random() - 0.5);
+      newList.sort(() => Math.random() - 0.5);
+      learningList.sort(() => Math.random() - 0.5);
+    }
+
+    let finalQueue = [];
+
+    if (activeStatusFilter === 'due') {
+      finalQueue = [...dueList, ...learningList];
+    } else if (activeStatusFilter === 'new') {
+      finalQueue = [...newList];
+    } else if (activeStatusFilter === 'learning') {
+      finalQueue = [...learningList];
+    } else if (activeStatusFilter === 'leeches') {
+      const leechesList = [];
+      for (const dir of activeDirs) {
+        const words = allChaptersData[dir] || [];
+        const reviews = StorageManager.getChapterReviews(dir);
+        for (const w of words) {
+          const rev = reviews[String(w.id)];
+          if (rev && (rev.lapses || 0) > 0) {
+            leechesList.push({ key: `${dir}:${w.id}`, lapses: rev.lapses });
+          }
+        }
+      }
+      leechesList.sort((a, b) => b.lapses - a.lapses);
+      finalQueue = leechesList.map(item => item.key);
+    } else {
+      // Smart Mix Interleaving: 3 Due Reviews : 1 New Card
+      let dIdx = 0;
+      let nIdx = 0;
+      const interleaved = [];
+
+      while (dIdx < dueList.length || nIdx < newList.length) {
+        for (let k = 0; k < 3 && dIdx < dueList.length; k++) {
+          interleaved.push(dueList[dIdx++]);
+        }
+        if (nIdx < newList.length) {
+          interleaved.push(newList[nIdx++]);
+        }
+      }
+
+      finalQueue = [...learningList, ...interleaved];
+    }
+
+    reviewQueue = finalQueue;
     queueIndex = 0;
     currentCardSide = 'front';
+  }
+
+  // Fetch backfill cards when queue length ahead is less than MIN_GAP (5)
+  function fetchBackfillCards(count, excludeKeys = []) {
+    const excludeSet = new Set(excludeKeys);
+    const backfill = [];
+    const activeDirs = getActiveChapterDirs();
+    const now = Date.now();
+
+    // 1. Try due review cards not already queued
+    for (const dir of activeDirs) {
+      const words = allChaptersData[dir] || [];
+      const reviews = StorageManager.getChapterReviews(dir);
+      for (const w of words) {
+        const key = `${dir}:${w.id}`;
+        if (excludeSet.has(key)) continue;
+        const rev = reviews[String(w.id)];
+        if (rev?.state === 'review' && StorageManager.isDue(rev, now)) {
+          backfill.push(key);
+          excludeSet.add(key);
+          if (backfill.length >= count) return backfill;
+        }
+      }
+    }
+
+    // 2. Try new cards from active chapters
+    for (const dir of activeDirs) {
+      const words = allChaptersData[dir] || [];
+      const reviews = StorageManager.getChapterReviews(dir);
+      for (const w of words) {
+        const key = `${dir}:${w.id}`;
+        if (excludeSet.has(key)) continue;
+        const rev = reviews[String(w.id)];
+        if (!rev || rev.state === 'new') {
+          backfill.push(key);
+          excludeSet.add(key);
+          if (backfill.length >= count) return backfill;
+        }
+      }
+    }
+
+    // 3. Try next chapter words if available
+    const frontier = StorageManager.getFrontierChapter();
+    const currentIdx = chapters.findIndex(c => c.dir === frontier);
+    if (currentIdx !== -1 && currentIdx + 1 < chapters.length) {
+      const nextDir = chapters[currentIdx + 1].dir;
+      const nextWords = allChaptersData[nextDir] || [];
+      for (const w of nextWords) {
+        const key = `${nextDir}:${w.id}`;
+        if (excludeSet.has(key)) continue;
+        const rev = StorageManager.getWordReview(nextDir, w.id);
+        if (!rev || rev.state === 'new') {
+          backfill.push(key);
+          excludeSet.add(key);
+          if (backfill.length >= count) return backfill;
+        }
+      }
+    }
+
+    return backfill;
+  }
+
+  // Anti-Clustering Insertion Guard (MIN_GAP = 5)
+  function insertWithAntiClustering(cardKey, targetOffset) {
+    const remainingAhead = reviewQueue.length - (queueIndex + 1);
+    const minRequired = Math.min(targetOffset, MIN_GAP);
+
+    if (remainingAhead < minRequired) {
+      const needed = minRequired - remainingAhead;
+      const backfilled = fetchBackfillCards(needed, [cardKey, ...reviewQueue.slice(queueIndex + 1)]);
+      if (backfilled.length > 0) {
+        reviewQueue.push(...backfilled);
+      }
+    }
+
+    let targetIndex = Math.min(reviewQueue.length, queueIndex + 1 + targetOffset);
+
+    // Ensure cardKey is not placed within MIN_GAP (5) positions of another identical card
+    let hasConflict = false;
+    for (let i = Math.max(0, targetIndex - MIN_GAP); i <= Math.min(reviewQueue.length - 1, targetIndex + MIN_GAP); i++) {
+      if (i !== queueIndex && reviewQueue[i] === cardKey) {
+        hasConflict = true;
+        break;
+      }
+    }
+
+    if (hasConflict) {
+      for (let i = queueIndex + MIN_GAP; i <= reviewQueue.length + MIN_GAP; i++) {
+        let conflictAtI = false;
+        for (let k = Math.max(0, i - MIN_GAP); k <= Math.min(reviewQueue.length - 1, i + MIN_GAP); k++) {
+          if (k !== queueIndex && reviewQueue[k] === cardKey) {
+            conflictAtI = true;
+            break;
+          }
+        }
+        if (!conflictAtI) {
+          targetIndex = Math.min(reviewQueue.length, i);
+          break;
+        }
+      }
+    }
+
+    reviewQueue.splice(targetIndex, 0, cardKey);
+  }
+
+  // Automatic Next-Chapter Progression (Low-Card Spillover)
+  function checkAndTriggerSpillover() {
+    const settings = StorageManager.getSettings();
+    if (!settings.autoAdvanceChapter && activeChapterFilter !== 'all') {
+      return;
+    }
+
+    const currentFrontier = StorageManager.getFrontierChapter();
+    const frontierWords = allChaptersData[currentFrontier] || [];
+    if (frontierWords.length === 0) return;
+
+    let unlearnedCount = 0;
+    for (const w of frontierWords) {
+      const rev = StorageManager.getWordReview(currentFrontier, w.id);
+      if (!rev || rev.state === 'new' || rev.state === 'learning' || rev.state === 'relearning') {
+        unlearnedCount++;
+      }
+    }
+
+    const threshold = (typeof settings.autoAdvanceThreshold === 'number') ? settings.autoAdvanceThreshold : AUTO_ADVANCE_THRESHOLD;
+    if (unlearnedCount <= threshold) {
+      const currentIdx = chapters.findIndex(c => c.dir === currentFrontier);
+      if (currentIdx !== -1 && currentIdx + 1 < chapters.length) {
+        const nextChapter = chapters[currentIdx + 1];
+        StorageManager.setFrontierChapter(nextChapter.dir);
+
+        const nextWords = allChaptersData[nextChapter.dir] || [];
+        const queuedKeys = new Set(reviewQueue);
+        const injected = [];
+
+        for (const nw of nextWords) {
+          const key = `${nextChapter.dir}:${nw.id}`;
+          if (!queuedKeys.has(key)) {
+            const rev = StorageManager.getWordReview(nextChapter.dir, nw.id);
+            if (!rev || rev.state === 'new') {
+              injected.push(key);
+              queuedKeys.add(key);
+            }
+          }
+        }
+
+        if (injected.length > 0) {
+          reviewQueue.push(...injected);
+          const curChObj = chapters[currentIdx];
+          showToast(`🎉 ${curChObj.name} nearly complete — mixing in new words from ${nextChapter.name}!`);
+        }
+      }
+    }
+  }
+
+  // Filter Pill Select Handlers
+  function selectChapterFilter(chVal) {
+    activeChapterFilter = chVal;
+    StorageManager.saveSettings({ activeChapterFilter: chVal });
+    if (chVal !== 'all') {
+      const found = chapters.find(c => c.dir === chVal);
+      if (found) {
+        currentChapter = found;
+        WORDS = allChaptersData[found.dir] || WORDS;
+        filteredWords = [...WORDS];
+        const pillEl = document.getElementById('chapter-pill');
+        if (pillEl) pillEl.textContent = `CHP ${found.id}`;
+      }
+    }
+    buildReviewQueue();
+    renderCurrentWord();
+  }
+
+  function selectStatusFilter(stVal) {
+    activeStatusFilter = stVal;
+    StorageManager.saveSettings({ activeStatusFilter: stVal });
+    buildReviewQueue();
+    renderCurrentWord();
+  }
+
+  // Persist exact active session snapshot
+  function persistActiveSession() {
+    if (typeof StorageManager === 'undefined') return;
+    StorageManager.saveActiveSession({
+      queue: reviewQueue,
+      currentIndex: queueIndex,
+      activeFilters: { chapter: activeChapterFilter, status: activeStatusFilter },
+      frontierChapterId: frontierChapter,
+      startedAt: sessionStartTime || Date.now()
+    });
+  }
+
+  // Undo last card rating action (Ctrl+Z / Topbar button)
+  function undoLastAction() {
+    if (typeof StorageManager === 'undefined' || !StorageManager.canUndo()) return;
+    const popped = StorageManager.popUndo();
+    if (popped) {
+      if (Array.isArray(popped.prevQueue)) {
+        reviewQueue = popped.prevQueue;
+      }
+      queueIndex = typeof popped.prevIndex === 'number' ? popped.prevIndex : Math.max(0, queueIndex - 1);
+      currentCardSide = 'front';
+      persistActiveSession();
+      renderCurrentWord();
+      showToast('↶ Undid last card action');
+      playAudioFeedback('click');
+    }
+  }
+
+  // Rate Card action (Again, Hard, Good, Easy) with Intra-Session Re-queueing
+  function rateCard(rating) {
+    const card = getCurrentWord();
+    if (!card) return;
+
+    const chDir = card.chapterId || currentChapter?.dir || 'chapter_01';
+    const wordKey = `${chDir}:${card.id}`;
+
+    // Push previous card and queue state onto undo stack before mutating
+    const prevRecord = StorageManager.getWordReview(chDir, card.id);
+    StorageManager.pushUndo({
+      chapterId: chDir,
+      wordId: card.id,
+      prevRecord,
+      prevQueue: [...reviewQueue],
+      prevIndex: queueIndex
+    });
+
+    if (rating === 'again') {
+      sessionAgainCount++;
+      playAudioFeedback('again');
+    } else {
+      sessionGoodCount++;
+      playAudioFeedback('good');
+    }
+
+    const res = StorageManager.recordReview(chDir, card.id, rating);
+    broadcastSync('review_updated', { chapterDir: chDir, wordId: card.id, rating });
+
+    if (!res.graduated && typeof res.reinsertOffset === 'number') {
+      insertWithAntiClustering(wordKey, res.reinsertOffset);
+    }
+
+    queueIndex++;
+    currentCardSide = 'front';
+
+    // Auto-Alternate Voice progression
+    if (typeof AudioManager !== 'undefined' && typeof AudioManager.setAlternateVoiceIndex === 'function') {
+      AudioManager.setAlternateVoiceIndex();
+    }
+
+    persistActiveSession();
+    checkAndTriggerSpillover();
+    renderCurrentWord();
   }
 
   // Update Topbar Mastery Progress Bar & Stats HUD
@@ -277,6 +693,53 @@ const App = (function() {
       }
     }
 
+    // Update Tri-Segment Session Progress Bar
+    const segNewEl = document.getElementById('seg-fill-new');
+    const segLearnEl = document.getElementById('seg-fill-learning');
+    const segReviewEl = document.getElementById('seg-fill-review');
+    const countNewEl = document.getElementById('val-count-new');
+    const countLearnEl = document.getElementById('val-count-learning');
+    const countReviewEl = document.getElementById('val-count-review');
+
+    let qNew = 0;
+    let qLearn = 0;
+    let qRev = 0;
+
+    reviewQueue.forEach(itemKey => {
+      const parts = String(itemKey).split(':');
+      const itemCh = parts.length === 2 ? parts[0] : (currentChapter ? currentChapter.dir : 'chapter_01');
+      const itemWId = parts.length === 2 ? parts[1] : itemKey;
+      const rev = StorageManager.getWordReview(itemCh, itemWId);
+      if (!rev || rev.state === 'new') qNew++;
+      else if (rev.state === 'learning' || rev.state === 'relearning') qLearn++;
+      else if (rev.state === 'review') qRev++;
+      else qNew++;
+    });
+
+    const totalQ = reviewQueue.length || 1;
+    if (segNewEl) segNewEl.style.width = `${Math.round((qNew / totalQ) * 100)}%`;
+    if (segLearnEl) segLearnEl.style.width = `${Math.round((qLearn / totalQ) * 100)}%`;
+    if (segReviewEl) segReviewEl.style.width = `${Math.round((qRev / totalQ) * 100)}%`;
+
+    if (countNewEl) countNewEl.textContent = qNew;
+    if (countLearnEl) countLearnEl.textContent = qLearn;
+    if (countReviewEl) countReviewEl.textContent = qRev;
+
+    // Update Undo Button state
+    const undoBtn = document.getElementById('btn-undo');
+    if (undoBtn) {
+      undoBtn.disabled = !StorageManager.canUndo();
+    }
+        const total = WORDS.length;
+        const currentPos = queueIndex + 1;
+        counterEl.textContent = `${String(currentPos).padStart(2, '0')} / ${String(total).padStart(2, '0')}`;
+        if (hudFillEl) {
+          const pct = total > 0 ? Math.round((currentPos / total) * 100) : 0;
+          hudFillEl.style.width = `${pct}%`;
+        }
+      }
+    }
+
     // Update Session Counters in Topbar HUD
     const goodEl = document.getElementById('session-good-count');
     const againEl = document.getElementById('session-again-count');
@@ -287,9 +750,14 @@ const App = (function() {
     const badgeEl = document.getElementById('topbar-ch-badge');
     const settingsBadge = document.getElementById('settings-ch-badge');
     const titleEl = document.getElementById('topbar-ch-title');
-    if (badgeEl) badgeEl.textContent = `CHP ${currentChapter.id}`;
+    const currentWord = getCurrentWord();
+    const chNum = currentWord?.chapterId
+      ? (currentWord.chapterId.match(/\d+/) ? parseInt(currentWord.chapterId.match(/\d+/)[0], 10) : currentChapter.id)
+      : currentChapter.id;
+
+    if (badgeEl) badgeEl.textContent = activeChapterFilter === 'all' ? `ALL ACTIVE` : `CHP ${chNum}`;
     if (settingsBadge) settingsBadge.textContent = `CHP ${currentChapter.id}`;
-    if (titleEl) titleEl.textContent = currentChapter.title || currentChapter.name;
+    if (titleEl) titleEl.textContent = activeChapterFilter === 'all' ? 'All Active Chapters (Smart Mix)' : (currentChapter.title || currentChapter.name);
   }
 
   // Auto-Advance Countdown Controller
@@ -362,7 +830,7 @@ const App = (function() {
 
     const ankiActionBar = document.getElementById('anki-action-bar');
 
-    if (currentActiveView === 'flashcard') {
+    if (currentActiveView === 'study' || currentActiveView === 'flashcard') {
       if (ankiActionBar) ankiActionBar.style.display = '';
 
       if (reviewQueue.length === 0 || queueIndex >= reviewQueue.length) {
@@ -383,6 +851,7 @@ const App = (function() {
         }
 
         updateMasteryStats();
+        updateFilterPills();
         return;
       }
 
@@ -391,19 +860,59 @@ const App = (function() {
       const w = getCurrentWord();
       if (!w) return;
 
-      const reviewItem = StorageManager.getWordReview(currentChapter.dir, w.id);
+      const chDir = w.chapterId || currentChapter.dir;
+      const reviewItem = StorageManager.getWordReview(chDir, w.id);
+
+      // Sticky pill tab memory
+      const settings = StorageManager.getSettings();
+      currentActiveTab = settings.lastBackTab || currentActiveTab || 'sentences';
 
       if (currentCardSide === 'front') {
-        container.innerHTML = renderFlashcardFront(w, currentChapter.dir, reviewItem);
+        container.innerHTML = renderFlashcardFront(w, chDir, reviewItem);
+        // Audio-First mode: automatically play headword audio on front reveal
+        if (settings.audioFirstMode) {
+          setTimeout(() => {
+            speakCurrentHeadword(1.0);
+          }, 120);
+        }
       } else {
-        container.innerHTML = renderFlashcardBack(w, currentChapter.dir, reviewItem, currentLang, currentActiveTab);
+        container.innerHTML = renderFlashcardBack(w, chDir, reviewItem, currentLang, currentActiveTab);
       }
 
-      renderActionBar(currentCardSide, 'flashcard');
+      renderActionBar(currentCardSide, 'flashcard', reviewItem);
 
-      const reviews = StorageManager.getChapterReviews(currentChapter.dir);
+      // Background Audio Preloading for next upcoming cards
+      if (typeof AudioManager !== 'undefined' && typeof AudioManager.preloadUpcomingWords === 'function') {
+        const nextCards = [];
+        if (queueIndex + 1 < reviewQueue.length) {
+          const w1 = getWordByKey(reviewQueue[queueIndex + 1]);
+          if (w1) nextCards.push(w1);
+        }
+        if (queueIndex + 2 < reviewQueue.length) {
+          const w2 = getWordByKey(reviewQueue[queueIndex + 2]);
+          if (w2) nextCards.push(w2);
+        }
+        AudioManager.preloadUpcomingWords(nextCards);
+      }
+
+      const reviews = StorageManager.getChapterReviews(chDir);
       const activeWord = getCurrentWord();
       renderSidebar(filteredWords, WORDS, activeWord?.id, currentLang, selectWordById, reviews);
+    } else if (currentActiveView === 'chapters') {
+      if (ankiActionBar) ankiActionBar.style.display = 'none';
+      clearAutoAdvanceTimer();
+
+      if (typeof renderChaptersAndWordBrowser === 'function') {
+        renderChaptersAndWordBrowser({
+          chapters,
+          activeChapter: currentChapter,
+          allWords: getAllCurriculumWords(),
+          currentLang,
+          frontierChapter: StorageManager.getFrontierChapter(),
+          searchQuery: browserSearchQuery,
+          statusFilter: browserStatusFilter
+        });
+      }
     } else if (currentActiveView === 'dictionary') {
       if (ankiActionBar) ankiActionBar.style.display = 'none';
       clearAutoAdvanceTimer();
@@ -431,13 +940,18 @@ const App = (function() {
         renderStatisticsDashboard({
           currentChapter,
           chapters,
-          words: WORDS
+          words: getAllCurriculumWords()
         });
       }
+    } else if (currentActiveView === 'settings') {
+      if (ankiActionBar) ankiActionBar.style.display = 'none';
+      clearAutoAdvanceTimer();
+      openSettingsDrawer();
     }
 
     updateMasteryStats();
     updateFilterCountBadges();
+    updateFilterPills();
 
     const scrollContainer = document.getElementById('main-scroll');
     if (scrollContainer && typeof scrollContainer.scrollTo === 'function') {
@@ -448,12 +962,15 @@ const App = (function() {
   // Select word by ID
   function selectWordById(id) {
     if (studyMode === 'flashcard') {
-      const idx = reviewQueue.findIndex(qid => String(qid) === String(id));
+      const idx = reviewQueue.findIndex(qid => {
+        const parsed = parseCompositeKey(qid);
+        return String(parsed.wordId) === String(id) || String(qid) === String(id);
+      });
       if (idx !== -1) {
         queueIndex = idx;
       } else {
-        // If not in current filtered queue, temporarily insert it
-        reviewQueue.splice(queueIndex, 0, id);
+        const ch = currentChapter ? currentChapter.dir : 'chapter_01';
+        reviewQueue.splice(queueIndex, 0, `${ch}:${id}`);
       }
       currentCardSide = 'front';
       closeWordListDrawer();
@@ -476,39 +993,6 @@ const App = (function() {
       const w = getCurrentWord();
       if (w) speak(w.hanzi);
     }
-  }
-
-  // Rate Card action (Remember / Don't Remember) with Intra-Session Lapse Loop
-  function rateCard(status) {
-    if (!currentChapter) return;
-    const w = getCurrentWord();
-    if (!w) return;
-
-    // Record review in storage
-    StorageManager.recordReview(currentChapter.dir, w.id, status);
-    broadcastSync('review_updated', { chapterDir: currentChapter.dir, wordId: w.id, status });
-
-    if (status === 'remembered') {
-      sessionGoodCount++;
-      playAudioFeedback('good');
-    } else {
-      sessionAgainCount++;
-      playAudioFeedback('again');
-    }
-
-    // Intra-session active recall lapse loop:
-    // If the user forgot ("dont_remember"), re-insert this card into the session queue
-    // so they are tested again before completing the round!
-    if (status === 'dont_remember') {
-      // Insert 3 cards ahead (or at queue end if fewer than 3 left)
-      const reinsertIndex = Math.min(reviewQueue.length, queueIndex + 4);
-      reviewQueue.splice(reinsertIndex, 0, w.id);
-    }
-
-    // Advance queue
-    queueIndex++;
-    currentCardSide = 'front';
-    renderCurrentWord();
   }
 
   // 9-Pill Tabs Definition & Cycling
@@ -557,7 +1041,7 @@ const App = (function() {
     playAudioFeedback('click');
     currentActiveTab = tabId;
     const settings = StorageManager.getSettings();
-    StorageManager.saveSettings({ activeTab: tabId });
+    StorageManager.saveSettings({ activeTab: tabId, lastBackTab: tabId });
     StorageManager.recordStudyEvent('tab_view', { tab: tabId });
 
     // Update active tab buttons
@@ -665,10 +1149,11 @@ const App = (function() {
     renderCurrentWord();
   }
 
-  // Switch Top-Level Dedicated View ('flashcard' | 'dictionary' | 'stats')
+  // Switch Top-Level Dedicated View ('study' | 'chapters' | 'stats' | 'settings' | 'dictionary')
   function switchView(viewName) {
-    if (viewName !== 'flashcard' && viewName !== 'dictionary' && viewName !== 'stats') {
-      viewName = 'flashcard';
+    if (viewName === 'flashcard') viewName = 'study';
+    if (!['study', 'chapters', 'stats', 'settings', 'dictionary'].includes(viewName)) {
+      viewName = 'study';
     }
 
     currentActiveView = viewName;
@@ -679,13 +1164,223 @@ const App = (function() {
       TimeTracker.setMode(viewName);
     }
 
-    // Update view button active states
-    document.querySelectorAll('.view-btn').forEach(btn => {
+    // Update bottom nav items
+    document.querySelectorAll('.mobile-nav-item').forEach(btn => {
       btn.classList.toggle('active', btn.getAttribute('data-view') === viewName);
     });
 
+    // Update desktop nav tabs
+    document.querySelectorAll('.desktop-nav-tab').forEach(btn => {
+      btn.classList.toggle('active', btn.getAttribute('data-view') === viewName);
+    });
+
+    // Update drawer view buttons
+    document.querySelectorAll('.view-btn').forEach(btn => {
+      const v = btn.getAttribute('data-view');
+      btn.classList.toggle('active', (v === viewName) || (v === 'flashcard' && viewName === 'study'));
+    });
+
+    // Toggle view containers
+    const studyView = document.getElementById('view-study');
+    const chaptersView = document.getElementById('view-chapters');
+    const statsView = document.getElementById('view-stats');
+    const settingsView = document.getElementById('view-settings');
+    const hud = document.getElementById('topbar-study-hud');
+
+    if (studyView) studyView.style.display = (viewName === 'study' || viewName === 'dictionary') ? 'block' : 'none';
+    if (chaptersView) chaptersView.style.display = (viewName === 'chapters') ? 'block' : 'none';
+    if (statsView) statsView.style.display = (viewName === 'stats') ? 'block' : 'none';
+    if (settingsView) settingsView.style.display = (viewName === 'settings') ? 'block' : 'none';
+    if (hud) hud.style.display = (viewName === 'study') ? 'flex' : 'none';
+
     renderCurrentWord();
     playAudioFeedback('click');
+  }
+
+  function speakCurrentHeadword(speed = 1.0) {
+    const w = getCurrentWord();
+    if (!w) return;
+    if (typeof AudioManager !== 'undefined') {
+      AudioManager.play(w.audio, w.hanzi, speed);
+    } else {
+      speak(w.hanzi, speed);
+    }
+  }
+
+  function handleFrontHanziClick(boxEl) {
+    const settings = StorageManager.getSettings();
+    if (settings.audioFirstMode && boxEl && boxEl.classList.contains('audio-first-blur')) {
+      boxEl.classList.remove('audio-first-blur');
+    } else {
+      showAnswer();
+    }
+  }
+
+  function unblurFrontHanzi() {
+    const box = document.getElementById('front-tianzige-box');
+    if (box) box.classList.remove('audio-first-blur');
+  }
+
+  function getWordByKey(compositeKey) {
+    if (!compositeKey) return null;
+    const parts = String(compositeKey).split(':');
+    if (parts.length === 2) {
+      const [chDir, idStr] = parts;
+      const chWords = allChaptersData[chDir] || [];
+      const found = chWords.find(item => String(item.id) === idStr);
+      if (found) return { ...found, chapterId: chDir };
+    }
+    return WORDS.find(item => String(item.id) === String(compositeKey)) || null;
+  }
+
+  function getAllCurriculumWords() {
+    const list = [];
+    for (const ch of chapters) {
+      const chWords = allChaptersData[ch.dir] || (currentChapter?.dir === ch.dir ? WORDS : []);
+      chWords.forEach(w => {
+        list.push({ ...w, chapterId: ch.dir });
+      });
+    }
+    return list;
+  }
+
+  function studySpecificChapter(chDir) {
+    activeChapterFilter = chDir;
+    const found = chapters.find(c => c.dir === chDir);
+    if (found) currentChapter = found;
+    switchView('study');
+    buildReviewQueue();
+    renderCurrentWord();
+  }
+
+  function setFrontierChapter(chDir) {
+    frontierChapter = chDir;
+    StorageManager.setFrontierChapter(chDir);
+    showToast(`⭐ Set ${chDir} as active curriculum frontier`);
+    renderCurrentWord();
+  }
+
+  function onBrowserSearch(val) {
+    browserSearchQuery = val;
+    renderCurrentWord();
+    const input = document.getElementById('chapter-word-search-input');
+    if (input) {
+      input.focus();
+      input.setSelectionRange(val.length, val.length);
+    }
+  }
+
+  function filterBrowserStatus(status) {
+    browserStatusFilter = status;
+    renderCurrentWord();
+  }
+
+  function openWordDetail(chDir, wordId) {
+    const chWords = allChaptersData[chDir] || [];
+    const w = chWords.find(item => String(item.id) === String(wordId)) || WORDS.find(item => String(item.id) === String(wordId));
+    if (!w) return;
+    const rev = StorageManager.getWordReview(chDir, wordId);
+    if (typeof renderWordDetailModal === 'function') {
+      renderWordDetailModal(w, rev, chDir, currentLang);
+    }
+  }
+
+  function confirmResetWord(chDir, wordId) {
+    if (confirm('Reset this word back to brand new (unlearned) state?')) {
+      StorageManager.resetWordReview(chDir, wordId);
+      showToast('Word progress reset to new');
+      closeModals();
+      renderCurrentWord();
+    }
+  }
+
+  function studySpecificWord(chDir, wordId) {
+    closeModals();
+    const chWords = allChaptersData[chDir] || [];
+    const w = chWords.find(item => String(item.id) === String(wordId)) || WORDS.find(item => String(item.id) === String(wordId));
+    if (!w) return;
+    activeChapterFilter = chDir;
+    currentChapter = chapters.find(c => c.dir === chDir) || currentChapter;
+    switchView('study');
+    reviewQueue = [`${chDir}:${wordId}`];
+    queueIndex = 0;
+    currentCardSide = 'front';
+    renderCurrentWord();
+  }
+
+  function practiceLeeches() {
+    activeStatusFilter = 'leeches';
+    switchView('study');
+    buildReviewQueue();
+    renderCurrentWord();
+    showToast('⚡ Practicing difficult leech vocabulary');
+  }
+
+  function openBackupCodeModal(mode = 'copy') {
+    const modal = document.getElementById('backup-code-modal');
+    const title = document.getElementById('backup-code-modal-title');
+    const textarea = document.getElementById('backup-code-input');
+    const copyBtn = document.getElementById('btn-copy-backup-code');
+    const restoreBtn = document.getElementById('btn-restore-backup-code');
+    if (!modal || !textarea) return;
+
+    if (mode === 'copy') {
+      if (title) title.textContent = '📋 Copy Backup Code';
+      textarea.value = StorageManager.exportBackupCode();
+      if (copyBtn) copyBtn.style.display = 'inline-block';
+      if (restoreBtn) restoreBtn.style.display = 'none';
+    } else {
+      if (title) title.textContent = '📥 Paste Backup Code';
+      textarea.value = '';
+      if (copyBtn) copyBtn.style.display = 'none';
+      if (restoreBtn) restoreBtn.style.display = 'inline-block';
+    }
+    modal.classList.add('active');
+  }
+
+  function copyBackupCode() {
+    const textarea = document.getElementById('backup-code-input');
+    if (!textarea || !textarea.value) return;
+    copyText(textarea.value, '📋 Backup code copied to clipboard!');
+    setTimeout(closeModals, 800);
+  }
+
+  function restoreFromBackupCode() {
+    const textarea = document.getElementById('backup-code-input');
+    if (!textarea || !textarea.value.trim()) {
+      showToast('Please paste a backup code');
+      return;
+    }
+    const ok = StorageManager.importBackupCode(textarea.value.trim());
+    if (ok) {
+      showToast('✨ Backup code restored successfully!');
+      closeModals();
+      setTimeout(() => {
+        window.location.reload();
+      }, 500);
+    } else {
+      showToast('⚠️ Invalid or corrupted backup code');
+    }
+  }
+
+  function closeModals() {
+    document.querySelectorAll('.modal-wrap').forEach(m => m.classList.remove('active'));
+  }
+
+  function changeDailyNewLimit(val) {
+    const num = parseInt(val, 10);
+    StorageManager.saveSettings({ dailyNewLimit: isNaN(num) ? 20 : num });
+    const label = document.getElementById('daily-new-val-label');
+    if (label) label.textContent = num === 0 ? 'Unlimited' : `${num} cards`;
+    buildReviewQueue();
+    renderCurrentWord();
+  }
+
+  function changeAutoAdvanceThreshold(val) {
+    const num = parseInt(val, 10);
+    StorageManager.saveSettings({ autoAdvanceThreshold: isNaN(num) ? 5 : num });
+    const label = document.getElementById('advance-threshold-val-label');
+    if (label) label.textContent = num === 0 ? '0 cards (100%)' : `< ${num} cards`;
   }
 
   // Pop out current view into an individual standalone OS/browser window
@@ -1006,6 +1701,16 @@ const App = (function() {
     if (delayLabel) delayLabel.textContent = `${settings.autoAdvanceDelay || 5}s`;
     if (soundFxCheck) soundFxCheck.checked = settings.soundFx !== false;
     if (passagePinyinCheck) passagePinyinCheck.checked = !!settings.showPassagePinyin;
+
+    const audioFirstCheck = document.getElementById('toggle-audio-first');
+    if (audioFirstCheck) audioFirstCheck.checked = !!settings.audioFirstMode;
+
+    const dailyLimitSelect = document.getElementById('daily-new-limit-select');
+    if (dailyLimitSelect) dailyLimitSelect.value = String(settings.dailyNewLimit ?? 20);
+
+    const thresholdSelect = document.getElementById('auto-advance-threshold-select');
+    if (thresholdSelect) thresholdSelect.value = String(settings.autoAdvanceThreshold ?? 5);
+
     if (voiceSelect) {
       voiceSelect.value = settings.preferredVoice || 'random';
       if (voiceLabel) {
@@ -1187,6 +1892,7 @@ const App = (function() {
     if (modal) modal.classList.remove('active');
     const chapterModal = document.getElementById('chapter-picker-modal');
     if (chapterModal) chapterModal.classList.remove('active');
+    closeModals();
   }
 
   function toggleShortcutsModal() {
@@ -1222,6 +1928,20 @@ const App = (function() {
       if (e.key === 'Escape') {
         closeDrawers();
         return;
+      }
+
+      // Undo Shortcut (Ctrl+Z, Cmd+Z, or Z)
+      if ((e.ctrlKey || e.metaKey) && (e.key === 'z' || e.key === 'Z')) {
+        e.preventDefault();
+        undoLastAction();
+        return;
+      }
+      if (e.key === 'z' || e.key === 'Z') {
+        if (!e.ctrlKey && !e.metaKey && !e.altKey && (currentActiveView === 'study' || currentActiveView === 'flashcard')) {
+          e.preventDefault();
+          undoLastAction();
+          return;
+        }
       }
 
       // Help shortcuts
@@ -1340,9 +2060,10 @@ const App = (function() {
         return;
       }
 
-      // Hint toggle
+      // Hint toggle (and unblur in Audio-First mode)
       if (e.key === 'h' || e.key === 'H') {
         e.preventDefault();
+        unblurFrontHanzi();
         toggleFrontHint();
         return;
       }
@@ -1375,40 +2096,36 @@ const App = (function() {
           if (currentCardSide === 'front') {
             showAnswer();
           } else {
-            rateCard('remembered');
+            rateCard('good');
           }
           return;
         }
 
-        // When Back is showing:
-        // Key 1: Don't Remember
-        // Key 2: Remember
+        // When Back is showing: 4-rating Anki responses
         if (currentCardSide === 'back') {
-          if (e.key === '1') {
+          if (e.key === '1' || e.key === 'a' || e.key === 'A' || e.key === 'Backspace') {
             e.preventDefault();
-            rateCard('dont_remember');
+            rateCard('again');
             return;
           }
           if (e.key === '2') {
             e.preventDefault();
-            rateCard('remembered');
+            rateCard('hard');
             return;
           }
-          if (e.key === 'a' || e.key === 'A' || e.key === 'ArrowLeft' || e.key === 'Backspace') {
+          if (e.key === '3' || e.key === 'd' || e.key === 'D') {
             e.preventDefault();
-            rateCard('dont_remember');
+            rateCard('good');
             return;
           }
-          if (e.key === 'd' || e.key === 'D' || e.key === 'ArrowRight') {
+          if (e.key === '4') {
             e.preventDefault();
-            rateCard('remembered');
+            rateCard('easy');
             return;
           }
 
-          // Hotkeys 3-9 switch pill tabs on Back card
+          // Hotkeys 5-9 switch pill tabs on Back card
           const tabMap = {
-            '3': 'idioms',
-            '4': 'decomp',
             '5': 'mnemonics',
             '6': 'traps',
             '7': 'cognates',
@@ -1633,6 +2350,28 @@ const App = (function() {
         }
       });
     }
+
+    const audioFirstCheck = document.getElementById('toggle-audio-first');
+    if (audioFirstCheck) {
+      audioFirstCheck.addEventListener('change', (e) => {
+        StorageManager.saveSettings({ audioFirstMode: e.target.checked });
+        renderCurrentWord();
+      });
+    }
+
+    const dailyLimitSelect = document.getElementById('daily-new-limit-select');
+    if (dailyLimitSelect) {
+      dailyLimitSelect.addEventListener('change', (e) => {
+        changeDailyNewLimit(e.target.value);
+      });
+    }
+
+    const thresholdSelect = document.getElementById('auto-advance-threshold-select');
+    if (thresholdSelect) {
+      thresholdSelect.addEventListener('change', (e) => {
+        changeAutoAdvanceThreshold(e.target.value);
+      });
+    }
   }
 
   // Public App Interface
@@ -1692,11 +2431,17 @@ const App = (function() {
         b.classList.toggle('active', b.getAttribute('data-lang') === currentLang);
       });
 
-      // Load manifest
+      // Restore active filters
+      activeChapterFilter = savedSettings.activeChapterFilter || 'all';
+      activeStatusFilter = savedSettings.activeStatusFilter || 'all';
+
+      // Load all chapters in parallel for unified global pool
       try {
-        chapters = await DataLoader.loadManifest();
+        const loaded = await DataLoader.loadAllChapters();
+        chapters = loaded.manifest;
+        allChaptersData = loaded.chaptersMap;
       } catch (err) {
-        console.error("Failed to load manifest:", err);
+        console.error("Failed to load chapters:", err);
         chapters = [{ id: 1, dir: 'chapter_01', name: 'Chapter 1', title: '细节与人际关系', word_count: 38 }];
       }
 
@@ -1719,10 +2464,58 @@ const App = (function() {
       let initialDir = chapters[0]?.dir || 'chapter_01';
       if (requestedCh) {
         const match = chapters.find(c => String(c.id) === requestedCh || c.dir === requestedCh);
-        if (match) initialDir = match.dir;
+        if (match) {
+          initialDir = match.dir;
+          activeChapterFilter = match.dir;
+        }
       }
 
-      await switchChapter(initialDir);
+      currentChapter = chapters.find(c => c.dir === initialDir) || chapters[0];
+      WORDS = allChaptersData[currentChapter.dir] || [];
+      filteredWords = [...WORDS];
+
+      const pillEl = document.getElementById('chapter-pill');
+      if (pillEl) {
+        pillEl.textContent = `CHP ${currentChapter.id}`;
+      }
+
+      // Check for active session snapshot
+      const restored = StorageManager.getActiveSession();
+      if (restored && !restored.expired && Array.isArray(restored.queue) && restored.queue.length > 0) {
+        reviewQueue = restored.queue;
+        queueIndex = Math.min(restored.currentIndex || 0, Math.max(0, reviewQueue.length - 1));
+        if (restored.activeFilters) {
+          activeChapterFilter = restored.activeFilters.chapter || 'all';
+          activeStatusFilter = restored.activeFilters.status || 'all';
+        }
+        if (restored.frontierChapterId) {
+          frontierChapter = restored.frontierChapterId;
+        }
+        showToast('✨ Resumed your active study session');
+      } else {
+        if (restored && restored.isNewDay && restored.promotedCardsCount > 0) {
+          showToast(`🌅 New Day: ${restored.promotedCardsCount} unlearned card(s) promoted to today's reviews`);
+        }
+        buildReviewQueue();
+      }
+
+      // Add lifecycle listeners for persistent session saving
+      if (typeof window !== 'undefined') {
+        window.addEventListener('visibilitychange', () => {
+          if (document.visibilityState === 'hidden') {
+            persistActiveSession();
+          }
+        });
+        window.addEventListener('pagehide', () => {
+          persistActiveSession();
+        });
+        window.addEventListener('beforeunload', () => {
+          persistActiveSession();
+        });
+      }
+
+      renderCurrentWord();
+      updateFilterPills();
     },
 
     getCurrentWord,
@@ -1740,6 +2533,8 @@ const App = (function() {
     clearDictSearch,
     setDictPosFilter,
     setDictStatusFilter,
+    selectChapterFilter,
+    selectStatusFilter,
     openWordInDictionary,
     changeAfkThreshold,
     exportStudyAnalytics,
@@ -1753,6 +2548,23 @@ const App = (function() {
     clearSearch,
     openChapterPicker,
     toggleChapterPicker,
+    undoLastAction,
+    handleFrontHanziClick,
+    unblurFrontHanzi,
+    studySpecificChapter,
+    setFrontierChapter,
+    onBrowserSearch,
+    filterBrowserStatus,
+    openWordDetail,
+    confirmResetWord,
+    studySpecificWord,
+    practiceLeeches,
+    openBackupCodeModal,
+    copyBackupCode,
+    restoreFromBackupCode,
+    closeModals,
+    changeDailyNewLimit,
+    changeAutoAdvanceThreshold,
     restartQueue() {
       clearAutoAdvanceTimer();
       sessionGoodCount = 0;
@@ -1761,7 +2573,7 @@ const App = (function() {
       renderCurrentWord();
     },
     studyCurrentWord(id) {
-      switchView('flashcard');
+      switchView('study');
       selectWordById(id);
     },
     openWordListDrawer,

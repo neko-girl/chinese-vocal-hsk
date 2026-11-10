@@ -15,12 +15,15 @@ const AudioManager = (function() {
   let currentAudio = null;
   let activeSpeakingElements = [];
   let cachedChineseVoices = [];
+  let alternateVoiceCounter = 0;
+  const preloadedUrls = new Set();
 
   const VOICE_LABELS = {
     mature_woman: '👩 Mature Woman (成熟女性 / 晓晓)',
     soothing_host: '🎙️ Soothing Host (温润女主播 / 晓依)',
     office_man: '💼 Office Man (职场男音 / 云扬)',
-    tender_ceo: '👔 Tender CEO (霸道总裁 / 云健)'
+    tender_ceo: '👔 Tender CEO (霸道总裁 / 云健)',
+    alternate: '🔄 Auto-Alternate (♀ Mature Woman / ♂ Office Man)'
   };
 
   /**
@@ -190,6 +193,15 @@ const AudioManager = (function() {
     const settings = (typeof StorageManager !== 'undefined') ? StorageManager.getSettings() : {};
     const preferredVoice = settings.preferredVoice || 'random';
 
+    // Auto-Alternate between Mature Woman (female) and Office Man (male)
+    if (preferredVoice === 'alternate' || preferredVoice === 'auto_alternate') {
+      const cycle = ['mature_woman', 'office_man'];
+      const chosen = cycle[alternateVoiceCounter % cycle.length];
+      if (audioData[chosen]) {
+        return { url: audioData[chosen], voice: chosen };
+      }
+    }
+
     // If user locked a specific voice preference and that audio file exists
     if (preferredVoice !== 'random' && audioData[preferredVoice]) {
       return { url: audioData[preferredVoice], voice: preferredVoice };
@@ -203,6 +215,46 @@ const AudioManager = (function() {
     const [selectedVoice, selectedUrl] = availableEntries[randomIndex];
 
     return { url: selectedUrl, voice: selectedVoice };
+  }
+
+  /**
+   * Preloads headword and primary sentence audio for upcoming cards to eliminate playback latency.
+   */
+  function preloadUpcomingWords(words) {
+    if (!Array.isArray(words) || typeof window === 'undefined') return;
+    words.forEach(w => {
+      if (!w) return;
+      const urls = [];
+      if (w.audio) {
+        const { url } = selectAudioUrl(w.audio);
+        if (url) urls.push(url);
+      }
+      if (Array.isArray(w.sentences) && w.sentences[0] && w.sentences[0].audio) {
+        const { url } = selectAudioUrl(w.sentences[0].audio);
+        if (url) urls.push(url);
+      }
+      urls.forEach(u => {
+        if (u && !preloadedUrls.has(u)) {
+          preloadedUrls.add(u);
+          try {
+            const preAudio = new Audio();
+            preAudio.preload = 'auto';
+            preAudio.src = u;
+          } catch (e) {}
+        }
+      });
+    });
+    if (preloadedUrls.size > 200) {
+      preloadedUrls.clear();
+    }
+  }
+
+  function setAlternateVoiceIndex(idx) {
+    if (typeof idx === 'number') {
+      alternateVoiceCounter = idx;
+    } else {
+      alternateVoiceCounter++;
+    }
   }
 
   /**
@@ -284,9 +336,16 @@ const AudioManager = (function() {
     selectAudioUrl,
     getAvailableChineseVoices,
     getBestChineseVoice,
-    VOICE_LABELS
+    VOICE_LABELS,
+    preloadUpcomingWords,
+    setAlternateVoiceIndex
   };
 })();
 
 // Export globally
-window.AudioManager = AudioManager;
+if (typeof window !== 'undefined') {
+  window.AudioManager = AudioManager;
+}
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = AudioManager;
+}

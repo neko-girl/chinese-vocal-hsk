@@ -1,15 +1,126 @@
 /**
- * StorageManager - Handles local caching, spaced repetition system (SRS) persistence,
+ * StorageManager - Handles local caching, two-stage spaced repetition system (SRS),
  * time tracking logs, study habits analytics, and character review timelines.
  */
 
 const StorageManager = (function() {
   const REVIEW_KEY = 'hsk_review_store_v1';
+  const REVIEW_KEY_V2 = 'hsk_review_store_v2';
+  const SESSION_KEY_V2 = 'hsk_active_session_v2';
   const SETTINGS_KEY = 'hsk_study_settings_v1';
   const TIME_KEY = 'hsk_time_tracker_v1';
+  const DB_NAME = 'chinese_vocal_db';
+  const DB_VERSION = 1;
 
-  // Spaced Repetition interval days based on Leitner/SRS levels
-  const SRS_INTERVAL_DAYS = [0, 1, 3, 7, 14, 30]; // Level 0 (same day), Level 1 (1d), Level 2 (3d), etc.
+  // In-memory undo stack
+  let undoMemoryStack = [];
+
+  // IndexedDB asynchronous mirror & restoration helper
+  let dbPromise = null;
+  function getIndexedDB() {
+    if (typeof window === 'undefined' || !window.indexedDB) return Promise.resolve(null);
+    if (dbPromise) return dbPromise;
+    dbPromise = new Promise((resolve) => {
+      try {
+        const req = window.indexedDB.open(DB_NAME, DB_VERSION);
+        req.onupgradeneeded = (e) => {
+          const db = e.target.result;
+          if (!db.objectStoreNames.contains('srs_ledger')) {
+            db.createObjectStore('srs_ledger', { keyPath: 'id' });
+          }
+          if (!db.objectStoreNames.contains('active_session')) {
+            db.createObjectStore('active_session', { keyPath: 'id' });
+          }
+        };
+        req.onsuccess = (e) => resolve(e.target.result);
+        req.onerror = (e) => {
+          console.warn('IndexedDB open error:', e);
+          resolve(null);
+        };
+      } catch (err) {
+        console.warn('IndexedDB unsupported:', err);
+        resolve(null);
+      }
+    });
+    return dbPromise;
+  }
+
+  async function mirrorToIndexedDB(storeName, data) {
+    try {
+      const db = await getIndexedDB();
+      if (!db) return;
+      const tx = db.transaction([storeName], 'readwrite');
+      const store = tx.objectStore(storeName);
+      store.put(data);
+    } catch (e) {
+      // Non-blocking mirror
+    }
+  }
+
+  async function restoreFromIndexedDBIfEmpty() {
+    if (typeof window === 'undefined') return;
+    try {
+      const localData = localStorage.getItem(REVIEW_KEY_V2) || localStorage.getItem(REVIEW_KEY);
+      if (localData && localData !== '{}' && localData !== '{"wordsById":{}}') {
+        return;
+      }
+      const db = await getIndexedDB();
+      if (!db) return;
+      const tx = db.transaction(['srs_ledger'], 'readonly');
+      const store = tx.objectStore('srs_ledger');
+      const req = store.get('main');
+      req.onsuccess = () => {
+        const result = req.result;
+        if (result && result.wordsById && Object.keys(result.wordsById).length > 0) {
+          const rebuilt = unflattenStore(result.wordsById);
+          saveRawStore(rebuilt);
+          if (typeof window !== 'undefined' && window.App && typeof window.App.renderCurrentWord === 'function') {
+            window.App.renderCurrentWord();
+          }
+        }
+      };
+    } catch (e) {
+      console.warn('Restore from IndexedDB failed:', e);
+    }
+  }
+
+  // Trigger IndexedDB check on startup
+  if (typeof window !== 'undefined') {
+    setTimeout(restoreFromIndexedDBIfEmpty, 200);
+  }
+
+  function flattenWordsById(store) {
+    const flat = {};
+    if (!store || typeof store !== 'object') return flat;
+    for (const ch of Object.keys(store)) {
+      if (ch === 'schemaVersion' || ch === 'updatedAt' || ch === 'wordsById' || ch === 'chapters') continue;
+      if (!store[ch] || typeof store[ch] !== 'object') continue;
+      for (const wId of Object.keys(store[ch])) {
+        const rec = store[ch][wId];
+        if (rec) {
+          flat[`${ch}_${wId}`] = rec;
+        }
+      }
+    }
+    return flat;
+  }
+
+  function unflattenStore(wordsById) {
+    const store = {};
+    if (!wordsById || typeof wordsById !== 'object') return store;
+    for (const key of Object.keys(wordsById)) {
+      const rec = wordsById[key];
+      if (!rec) continue;
+      const ch = rec.chapterId || (key.includes('_') ? key.substring(0, key.lastIndexOf('_')) : 'chapter_01');
+      const wId = String(rec.wordId || (key.includes('_') ? key.substring(key.lastIndexOf('_') + 1) : key));
+      if (!store[ch]) store[ch] = {};
+      store[ch][wId] = rec;
+    }
+    return store;
+  }
+
+  // Spaced Repetition interval days based on Leitner/SRS levels (for legacy mapping)
+  const SRS_INTERVAL_DAYS = [0, 1, 3, 7, 14, 30];
   const ONE_DAY_MS = 24 * 60 * 60 * 1000;
 
   function getTodayKey() {
@@ -20,21 +131,191 @@ const StorageManager = (function() {
     return `${year}-${month}-${day}`;
   }
 
-  // Retrieve raw SRS review store
+  function randomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+
+  function randomFloat(min, max) {
+    return Math.random() * (max - min) + min;
+  }
+
+  function intervalToSrsLevel(days) {
+    if (days <= 0) return 0;
+    if (days <= 1) return 1;
+    if (days <= 3) return 2;
+    if (days <= 7) return 3;
+    if (days <= 14) return 4;
+    return 5;
+  }
+
+  // Create default new card record
+  function createNewCardRecord(chapterDir, wordId) {
+    const now = Date.now();
+    return {
+      chapterId: chapterDir,
+      wordId: String(wordId),
+      state: 'new',
+      step: 0,
+      interval: 0,
+      ease: 2.5,
+      dueAt: now,
+      lapses: 0,
+      lastReviewedAt: null,
+      postRelearnInterval: 1,
+      reviews: 0,
+      history: [],
+      firstReviewed: null,
+      status: 'new',
+      srsLevel: 0,
+      intervalDays: 0,
+      dueDate: now,
+      lastReviewed: null
+    };
+  }
+
+  // Migrate legacy or raw record into standard 2-stage SRS model
+  function migrateRecord(rec, chapterDir, wordId) {
+    if (!rec || typeof rec !== 'object') {
+      return createNewCardRecord(chapterDir, wordId);
+    }
+
+    const now = Date.now();
+
+    // Already migrated to 2-stage schema
+    if (rec.state && typeof rec.step === 'number' && typeof rec.interval === 'number' && typeof rec.ease === 'number') {
+      rec.chapterId = rec.chapterId || chapterDir;
+      rec.wordId = String(rec.wordId || wordId);
+      rec.lapses = rec.lapses || 0;
+      rec.ease = Math.max(1.3, rec.ease || 2.5);
+      rec.dueAt = rec.dueAt || rec.dueDate || now;
+      rec.lastReviewedAt = rec.lastReviewedAt ?? rec.lastReviewed ?? null;
+      rec.postRelearnInterval = rec.postRelearnInterval || Math.max(1, Math.round((rec.interval || 1) * 0.25));
+
+      // Synchronize legacy fields
+      rec.status = (rec.state === 'review') ? 'remembered' : (rec.state === 'relearning' ? 'dont_remember' : (rec.state === 'learning' ? 'remembered' : 'new'));
+      rec.dueDate = rec.dueAt;
+      rec.intervalDays = rec.interval;
+      rec.lastReviewed = rec.lastReviewedAt;
+      rec.srsLevel = intervalToSrsLevel(rec.interval);
+      return rec;
+    }
+
+    // Legacy migration
+    const lapses = rec.lapses || (rec.status === 'dont_remember' ? 1 : 0);
+    const reviews = rec.reviews || 0;
+    const lastReviewedAt = rec.lastReviewed || (reviews > 0 ? now : null);
+    const firstReviewed = rec.firstReviewed || lastReviewedAt;
+    const history = Array.isArray(rec.history) ? rec.history : [];
+
+    let state = 'new';
+    let step = 0;
+    let interval = 0;
+    let ease = 2.5;
+    let dueAt = now;
+    let postRelearnInterval = 1;
+
+    if (rec.status === 'remembered' && (rec.srsLevel > 0 || rec.intervalDays > 0)) {
+      state = 'review';
+      step = 1;
+      interval = rec.intervalDays || SRS_INTERVAL_DAYS[rec.srsLevel || 1] || 1;
+      dueAt = rec.dueDate || (now + interval * ONE_DAY_MS);
+    } else if (rec.status === 'dont_remember' || (rec.srsLevel === 0 && reviews > 0)) {
+      state = 'relearning';
+      step = 0;
+      interval = 0;
+      dueAt = rec.dueDate || now;
+      postRelearnInterval = Math.max(1, Math.round((rec.intervalDays || 1) * 0.25));
+    }
+
+    return {
+      chapterId: chapterDir,
+      wordId: String(wordId),
+      state,
+      step,
+      interval,
+      ease,
+      dueAt,
+      lapses,
+      lastReviewedAt,
+      postRelearnInterval,
+      reviews,
+      history,
+      firstReviewed,
+      status: (state === 'review') ? 'remembered' : (state === 'relearning' ? 'dont_remember' : 'new'),
+      srsLevel: intervalToSrsLevel(interval),
+      intervalDays: interval,
+      dueDate: dueAt,
+      lastReviewed: lastReviewedAt
+    };
+  }
+
+  // Retrieve raw SRS review store and ensure migration to Schema v2
   function getRawStore() {
     try {
-      const data = localStorage.getItem(REVIEW_KEY);
-      return data ? JSON.parse(data) : {};
+      let store = {};
+      let needsSave = false;
+      const v2Data = localStorage.getItem(REVIEW_KEY_V2);
+
+      if (v2Data) {
+        try {
+          const parsed = JSON.parse(v2Data);
+          if (parsed && parsed.wordsById && Object.keys(parsed.wordsById).length > 0) {
+            store = unflattenStore(parsed.wordsById);
+          } else if (parsed && parsed.chapters && typeof parsed.chapters === 'object') {
+            store = parsed.chapters;
+          }
+        } catch (err) {
+          console.warn('Error reading v2 store, checking v1:', err);
+        }
+      }
+
+      if (Object.keys(store).length === 0) {
+        const v1Data = localStorage.getItem(REVIEW_KEY);
+        if (v1Data) {
+          try {
+            store = JSON.parse(v1Data) || {};
+            needsSave = true; // Migrate to Schema v2
+          } catch (err) {
+            console.warn('Error reading v1 store:', err);
+          }
+        }
+      }
+
+      for (const chapterDir of Object.keys(store)) {
+        if (chapterDir === 'schemaVersion' || chapterDir === 'updatedAt' || chapterDir === 'wordsById' || chapterDir === 'chapters') continue;
+        if (!store[chapterDir] || typeof store[chapterDir] !== 'object') continue;
+        for (const wordId of Object.keys(store[chapterDir])) {
+          const raw = store[chapterDir][wordId];
+          if (!raw.state || typeof raw.step !== 'number') {
+            store[chapterDir][wordId] = migrateRecord(raw, chapterDir, wordId);
+            needsSave = true;
+          }
+        }
+      }
+
+      if (needsSave) {
+        saveRawStore(store);
+      }
+      return store;
     } catch (e) {
       console.warn('Failed to parse review cache from localStorage:', e);
       return {};
     }
   }
 
-  // Save raw SRS review store
+  // Save raw SRS review store to Schema v2 with dual-layer mirror
   function saveRawStore(store) {
     try {
+      const flat = flattenWordsById(store);
+      const envelopeV2 = {
+        schemaVersion: 2,
+        updatedAt: Date.now(),
+        wordsById: flat,
+        chapters: store
+      };
+      localStorage.setItem(REVIEW_KEY_V2, JSON.stringify(envelopeV2));
       localStorage.setItem(REVIEW_KEY, JSON.stringify(store));
+      mirrorToIndexedDB('srs_ledger', { id: 'main', ...envelopeV2 });
     } catch (e) {
       console.warn('Failed to save review cache to localStorage:', e);
     }
@@ -117,6 +398,302 @@ const StorageManager = (function() {
     SRS_INTERVAL_DAYS,
 
     /**
+     * Calculate next schedule according to 2-stage Spaced Repetition rules
+     */
+    calculateNextSchedule(cardRecord, rating, now = Date.now()) {
+      const state = cardRecord.state || 'new';
+      const step = typeof cardRecord.step === 'number' ? cardRecord.step : 0;
+      let ease = typeof cardRecord.ease === 'number' ? cardRecord.ease : 2.5;
+      const curInterval = cardRecord.interval || 0;
+      let postRelearnInterval = cardRecord.postRelearnInterval || Math.max(1, Math.round(curInterval * 0.25));
+
+      let nextState = state;
+      let nextStep = step;
+      let nextInterval = 0;
+      let nextEase = ease;
+      let nextDueAt = now;
+      let reinsertOffset = null;
+      let graduated = false;
+      let lapsesDelta = 0;
+
+      if (state === 'new') {
+        if (rating === 'easy') {
+          nextState = 'review';
+          nextStep = 1;
+          nextInterval = 3;
+          nextDueAt = now + (3 * ONE_DAY_MS);
+          reinsertOffset = null;
+          graduated = true;
+        } else if (rating === 'good') {
+          nextState = 'learning';
+          nextStep = 1;
+          nextInterval = 0;
+          nextDueAt = now;
+          reinsertOffset = randomInt(8, 14);
+          graduated = false;
+        } else {
+          // 'again' or 'hard'
+          nextState = 'learning';
+          nextStep = 0;
+          nextInterval = 0;
+          nextDueAt = now;
+          reinsertOffset = randomInt(4, 6);
+          graduated = false;
+        }
+      } else if (state === 'learning') {
+        if (rating === 'easy') {
+          nextState = 'review';
+          nextStep = 1;
+          nextInterval = 3;
+          nextDueAt = now + (3 * ONE_DAY_MS);
+          reinsertOffset = null;
+          graduated = true;
+        } else if (step === 0) {
+          if (rating === 'good') {
+            nextState = 'learning';
+            nextStep = 1;
+            nextInterval = 0;
+            nextDueAt = now;
+            reinsertOffset = randomInt(8, 14);
+            graduated = false;
+          } else {
+            // 'again' or 'hard'
+            nextState = 'learning';
+            nextStep = 0;
+            nextInterval = 0;
+            nextDueAt = now;
+            reinsertOffset = randomInt(4, 6);
+            graduated = false;
+          }
+        } else {
+          // step === 1
+          if (rating === 'good') {
+            nextState = 'review';
+            nextStep = 1;
+            nextInterval = 1;
+            nextDueAt = now + ONE_DAY_MS;
+            reinsertOffset = null;
+            graduated = true;
+          } else if (rating === 'hard') {
+            nextState = 'learning';
+            nextStep = 1;
+            nextInterval = 0;
+            nextDueAt = now;
+            reinsertOffset = randomInt(5, 8);
+            graduated = false;
+          } else {
+            // 'again' -> resets to step 0
+            nextState = 'learning';
+            nextStep = 0;
+            nextInterval = 0;
+            nextDueAt = now;
+            reinsertOffset = randomInt(4, 6);
+            graduated = false;
+          }
+        }
+      } else if (state === 'review') {
+        if (rating === 'again') {
+          lapsesDelta = 1;
+          nextEase = Math.max(1.3, ease - 0.20);
+          postRelearnInterval = Math.max(1, Math.round(curInterval * 0.25));
+          nextState = 'relearning';
+          nextStep = 1;
+          nextInterval = 0;
+          nextDueAt = now;
+          reinsertOffset = randomInt(6, 10);
+          graduated = false;
+        } else if (rating === 'hard') {
+          nextEase = Math.max(1.3, ease - 0.15);
+          nextInterval = Math.max(curInterval + 1, Math.round(curInterval * 1.2));
+          nextState = 'review';
+          nextStep = 1;
+          nextDueAt = now + (nextInterval * ONE_DAY_MS);
+          reinsertOffset = null;
+          graduated = true;
+        } else if (rating === 'good') {
+          const fuzz = curInterval >= 3 ? randomFloat(0.9, 1.1) : 1.0;
+          nextInterval = Math.max(curInterval + 1, Math.round(curInterval * ease * fuzz));
+          nextState = 'review';
+          nextStep = 1;
+          nextDueAt = now + (nextInterval * ONE_DAY_MS);
+          reinsertOffset = null;
+          graduated = true;
+        } else {
+          // 'easy'
+          nextEase = ease + 0.15;
+          const fuzz = curInterval >= 3 ? randomFloat(0.9, 1.1) : 1.0;
+          nextInterval = Math.max(curInterval + 2, Math.round(curInterval * nextEase * 1.3 * fuzz));
+          nextState = 'review';
+          nextStep = 1;
+          nextDueAt = now + (nextInterval * ONE_DAY_MS);
+          reinsertOffset = null;
+          graduated = true;
+        }
+      } else if (state === 'relearning') {
+        if (rating === 'again') {
+          lapsesDelta = 1;
+          nextEase = Math.max(1.3, ease - 0.20);
+          nextState = 'relearning';
+          nextStep = 0;
+          nextInterval = 0;
+          nextDueAt = now;
+          reinsertOffset = randomInt(4, 6);
+          graduated = false;
+        } else if (rating === 'hard') {
+          nextState = 'relearning';
+          nextStep = 1;
+          nextInterval = 0;
+          nextDueAt = now;
+          reinsertOffset = randomInt(5, 8);
+          graduated = false;
+        } else if (rating === 'good') {
+          nextInterval = postRelearnInterval || 1;
+          nextState = 'review';
+          nextStep = 1;
+          nextDueAt = now + (nextInterval * ONE_DAY_MS);
+          reinsertOffset = null;
+          graduated = true;
+        } else {
+          // 'easy'
+          nextInterval = Math.max(2, Math.round((postRelearnInterval || 1) * 1.5));
+          nextState = 'review';
+          nextStep = 1;
+          nextDueAt = now + (nextInterval * ONE_DAY_MS);
+          reinsertOffset = null;
+          graduated = true;
+        }
+      }
+
+      return {
+        nextState,
+        nextStep,
+        nextInterval,
+        nextEase: Math.round(nextEase * 100) / 100,
+        nextDueAt,
+        reinsertOffset,
+        graduated,
+        lapsesDelta,
+        postRelearnInterval
+      };
+    },
+
+    /**
+     * Generate predictive intervals and intra-session offsets for the 4 grading buttons
+     */
+    predictNextIntervals(cardRecord) {
+      const state = cardRecord?.state || 'new';
+      const step = cardRecord?.step || 0;
+      const interval = cardRecord?.interval || 1;
+      const ease = cardRecord?.ease || 2.5;
+      const postRelearn = cardRecord?.postRelearnInterval || Math.max(1, Math.round(interval * 0.25));
+
+      if (state === 'new') {
+        return {
+          again: { label: '~5 cards', desc: 'Repeat intra-session' },
+          hard: { label: '~6 cards', desc: 'Repeat intra-session' },
+          good: { label: '~10 cards', desc: 'Step 1 delayed check' },
+          easy: { label: '3d', desc: 'Graduate immediately' }
+        };
+      }
+      if (state === 'learning') {
+        if (step === 0) {
+          return {
+            again: { label: '~5 cards', desc: 'Repeat intra-session' },
+            hard: { label: '~6 cards', desc: 'Repeat intra-session' },
+            good: { label: '~10 cards', desc: 'Advance to step 1' },
+            easy: { label: '3d', desc: 'Graduate immediately' }
+          };
+        } else {
+          return {
+            again: { label: '~5 cards', desc: 'Reset to step 0' },
+            hard: { label: '~6 cards', desc: 'Reset to step 0' },
+            good: { label: '1d', desc: 'Graduate to Review' },
+            easy: { label: '3d', desc: 'Graduate with boost' }
+          };
+        }
+      }
+      if (state === 'relearning') {
+        return {
+          again: { label: '~5 cards', desc: 'Repeat intra-session' },
+          hard: { label: '~6 cards', desc: 'Repeat intra-session' },
+          good: { label: `${postRelearn}d`, desc: 'Re-graduate to Review' },
+          easy: { label: `${Math.max(2, Math.round(postRelearn * 1.5))}d`, desc: 'Bonus re-graduate' }
+        };
+      }
+      // 'review' state
+      const hardInt = Math.max(interval + 1, Math.round(interval * 1.2));
+      const goodInt = Math.max(interval + 1, Math.round(interval * ease));
+      const easyInt = Math.max(interval + 2, Math.round(interval * (ease + 0.15) * 1.3));
+
+      return {
+        again: { label: '~8 cards', desc: `Lapses +1, relearn ${Math.max(1, Math.round(interval * 0.25))}d` },
+        hard: { label: `${hardInt}d`, desc: 'Ease reduced' },
+        good: { label: `${goodInt}d`, desc: 'Normal interval' },
+        easy: { label: `${easyInt}d`, desc: 'Ease bonus' }
+      };
+    },
+
+    /**
+     * Generate human-readable interval preview labels for UI buttons (legacy compatibility)
+     */
+    previewSchedule(cardRecord) {
+      const state = cardRecord?.state || 'new';
+      const step = cardRecord?.step || 0;
+      const interval = cardRecord?.interval || 1;
+      const ease = cardRecord?.ease || 2.5;
+      const postRelearn = cardRecord?.postRelearnInterval || Math.max(1, Math.round(interval * 0.25));
+
+      if (state === 'new') {
+        return {
+          again: '<10m',
+          hard: '<15m',
+          good: '<25m',
+          easy: '3d'
+        };
+      }
+      if (state === 'learning') {
+        if (step === 0) {
+          return {
+            again: '<10m',
+            hard: '<15m',
+            good: '<25m',
+            easy: '3d'
+          };
+        } else {
+          return {
+            again: '<10m',
+            hard: '<15m',
+            good: '1d',
+            easy: '3d'
+          };
+        }
+      }
+      if (state === 'relearning') {
+        return {
+          again: '<10m',
+          hard: '<15m',
+          good: `${postRelearn}d`,
+          easy: `${Math.max(2, Math.round(postRelearn * 1.5))}d`
+        };
+      }
+      // 'review' state
+      const hardInt = Math.max(interval + 1, Math.round(interval * 1.2));
+      const goodInt = Math.max(interval + 1, Math.round(interval * ease));
+      const easyInt = Math.max(interval + 2, Math.round(interval * (ease + 0.15) * 1.3));
+
+      return {
+        again: '<10m',
+        hard: `${hardInt}d`,
+        good: `${goodInt}d`,
+        easy: `${easyInt}d`
+      };
+    },
+
+    getTodayKey() {
+      return getTodayKey();
+    },
+
+    /**
      * Get all review records for a specific chapter
      */
     getChapterReviews(chapterDir) {
@@ -133,58 +710,67 @@ const StorageManager = (function() {
     },
 
     /**
-     * Record a review outcome ("remembered" or "dont_remember")
-     * Maintains chronological history events and lapse counters
+     * Record a review rating ('again', 'hard', 'good', 'easy')
      */
-    recordReview(chapterDir, wordId, status) {
+    recordReview(chapterDir, wordId, ratingOrStatus) {
+      let rating = ratingOrStatus;
+      if (rating === 'remembered') rating = 'good';
+      if (rating === 'dont_remember') rating = 'again';
+      if (!['again', 'hard', 'good', 'easy'].includes(rating)) {
+        rating = 'good';
+      }
+
       const store = getRawStore();
       if (!store[chapterDir]) {
         store[chapterDir] = {};
       }
 
       const idStr = String(wordId);
-      const existing = store[chapterDir][idStr] || {
-        status: 'new',
-        srsLevel: 0,
-        intervalDays: 0,
-        dueDate: Date.now(),
-        reviews: 0,
-        lapses: 0,
-        history: [],
-        firstReviewed: Date.now(),
-        lastReviewed: Date.now()
-      };
+      const existing = store[chapterDir][idStr]
+        ? migrateRecord(store[chapterDir][idStr], chapterDir, idStr)
+        : createNewCardRecord(chapterDir, idStr);
 
       const now = Date.now();
+      const schedule = this.calculateNextSchedule(existing, rating, now);
+
       existing.reviews = (existing.reviews || 0) + 1;
+      existing.lastReviewedAt = now;
       existing.lastReviewed = now;
+      if (!existing.firstReviewed) existing.firstReviewed = now;
+
+      existing.state = schedule.nextState;
+      existing.step = schedule.nextStep;
+      existing.interval = schedule.nextInterval;
+      existing.ease = schedule.nextEase;
+      existing.dueAt = schedule.nextDueAt;
+      existing.dueDate = schedule.nextDueAt;
+      existing.intervalDays = schedule.nextInterval;
+      existing.srsLevel = intervalToSrsLevel(schedule.nextInterval);
+
+      if (schedule.lapsesDelta) {
+        existing.lapses = (existing.lapses || 0) + schedule.lapsesDelta;
+      }
+      if (schedule.postRelearnInterval) {
+        existing.postRelearnInterval = schedule.postRelearnInterval;
+      }
+
+      // Synchronize legacy status
+      existing.status = (existing.state === 'review')
+        ? 'remembered'
+        : (existing.state === 'relearning' ? 'dont_remember' : (existing.state === 'learning' ? 'learning' : 'new'));
+
       if (!Array.isArray(existing.history)) {
         existing.history = [];
       }
-
-      if (status === 'remembered') {
-        const nextLevel = Math.min(SRS_INTERVAL_DAYS.length - 1, (existing.srsLevel || 0) + 1);
-        const interval = SRS_INTERVAL_DAYS[nextLevel];
-        existing.status = 'remembered';
-        existing.srsLevel = nextLevel;
-        existing.intervalDays = interval;
-        existing.dueDate = now + (interval * ONE_DAY_MS);
-      } else {
-        // "dont_remember" -> reset SRS level to 0, log lapse, due immediately
-        existing.status = 'dont_remember';
-        existing.srsLevel = 0;
-        existing.intervalDays = 0;
-        existing.dueDate = now;
-        existing.lapses = (existing.lapses || 0) + 1;
-      }
-
-      // Append to chronological history (capped to last 25 steps)
       existing.history.push({
         t: now,
-        result: status,
-        level: existing.srsLevel
+        result: rating,
+        state: existing.state,
+        step: existing.step,
+        interval: existing.interval,
+        ease: existing.ease
       });
-      if (existing.history.length > 25) {
+      if (existing.history.length > 30) {
         existing.history.shift();
       }
 
@@ -192,25 +778,32 @@ const StorageManager = (function() {
       saveRawStore(store);
       scheduleServerSync();
 
-      // Log to time tracker / study analytics
+      // Log study event to time tracker / analytics
       this.recordStudyEvent('card_grade', {
-        status,
+        status: rating === 'again' ? 'dont_remember' : 'remembered',
+        rating,
         wordId,
         chapterDir,
         srsLevel: existing.srsLevel
       });
 
-      return existing;
+      return {
+        record: existing,
+        reinsertOffset: schedule.reinsertOffset,
+        graduated: schedule.graduated
+      };
     },
 
     /**
      * Check if a word is due for review
      */
-    isDue(reviewItem) {
+    isDue(reviewItem, now = Date.now()) {
       if (!reviewItem) return true; // New words are due
-      if (reviewItem.status === 'dont_remember') return true;
-      if (!reviewItem.dueDate) return true;
-      return reviewItem.dueDate <= Date.now();
+      if (reviewItem.state === 'new') return true;
+      if (reviewItem.state === 'learning' || reviewItem.state === 'relearning') return true;
+      if (!reviewItem.dueAt && !reviewItem.dueDate) return true;
+      const dueTimestamp = reviewItem.dueAt || reviewItem.dueDate;
+      return dueTimestamp <= now;
     },
 
     /**
@@ -221,20 +814,24 @@ const StorageManager = (function() {
       const total = words.length;
       let remembered = 0;
       let dontRemember = 0;
+      let learningCount = 0;
       let unreviewed = 0;
       let dueCount = 0;
       let mastered = 0;
 
+      const now = Date.now();
+
       words.forEach(w => {
         const rev = reviews[String(w.id)];
-        if (!rev) {
+        if (!rev || rev.state === 'new') {
           unreviewed++;
           dueCount++;
         } else {
-          if (rev.status === 'remembered') remembered++;
-          if (rev.status === 'dont_remember') dontRemember++;
-          if (this.isDue(rev)) dueCount++;
-          if (rev.srsLevel >= 4) mastered++;
+          if (rev.state === 'review') remembered++;
+          if (rev.state === 'learning' || rev.state === 'relearning') learningCount++;
+          if (rev.lapses > 0 || rev.state === 'relearning') dontRemember++;
+          if (this.isDue(rev, now)) dueCount++;
+          if (rev.interval >= 14 || rev.srsLevel >= 4) mastered++;
         }
       });
 
@@ -243,11 +840,43 @@ const StorageManager = (function() {
         total,
         remembered,
         dontRemember,
+        learningCount,
         unreviewed,
         dueCount,
         mastered,
         percent
       };
+    },
+
+    /**
+     * Get user's current frontier chapter (starting at chapter_01)
+     */
+    getFrontierChapter() {
+      const settings = this.getSettings();
+      return settings.frontierChapter || 'chapter_01';
+    },
+
+    /**
+     * Set user's current frontier chapter
+     */
+    setFrontierChapter(chapterDir) {
+      return this.saveSettings({ frontierChapter: chapterDir });
+    },
+
+    /**
+     * Get dictionary of all records across all chapters keyed by "chapterDir:wordId"
+     */
+    getAllCardsRecordMap() {
+      const store = getRawStore();
+      const map = {};
+      for (const [chDir, words] of Object.entries(store)) {
+        if (words && typeof words === 'object') {
+          for (const [wId, rec] of Object.entries(words)) {
+            map[`${chDir}:${wId}`] = rec;
+          }
+        }
+      }
+      return map;
     },
 
     /**
@@ -630,13 +1259,20 @@ const StorageManager = (function() {
         activeTab: 'sentences',  // default active pill tab
         filter: 'all',           // 'all', 'due', 'lapses', 'remembered', 'new'
         lang: localStorage.getItem('hsk_lang') || 'both',
-        preferredVoice: 'random',// 'random', 'mature_woman', 'soothing_host', 'office_man', 'tender_ceo'
+        preferredVoice: 'random',// 'random', 'mature_woman', 'soothing_host', 'office_man', 'tender_ceo', 'alternate'
         autoAdvanceChapter: true,// auto-start next chapter when finished
         autoAdvanceDelay: 5,     // countdown seconds before auto-advance
         soundFx: true,           // soft UI audio feedback
         showPassagePinyin: false,// reading passage pinyin visibility toggle
         afkThresholdSeconds: 120,// AFK inactivity threshold in seconds (default 2 min)
-        browserVoiceURI: ''      // Browser TTS Voice (empty string = auto-detect best neural)
+        browserVoiceURI: '',     // Browser TTS Voice (empty string = auto-detect best neural)
+        activeChapterFilter: 'all', // 'all' (All Active Chapters) | 'chapter_01' .. 'chapter_08'
+        activeStatusFilter: 'all',  // 'all' (Smart Mix 3:1) | 'due' | 'new' | 'learning'
+        frontierChapter: 'chapter_01', // Current active frontier chapter
+        audioFirstMode: false,   // Listening mode: blur front Hanzi and autoplay audio
+        dailyNewLimit: 20,       // Daily new card limit (0 = unlimited)
+        autoAdvanceThreshold: 5, // Auto-advance chapter when < 5 unlearned cards remain
+        lastBackTab: 'sentences' // Sticky pill-tab memory across cards
       };
 
       try {
@@ -675,17 +1311,18 @@ const StorageManager = (function() {
               currentStore[chDir] = { ...wordsMap };
             } else {
               for (const [wId, revData] of Object.entries(wordsMap)) {
+                const migratedIncoming = migrateRecord(revData, chDir, wId);
                 const existing = currentStore[chDir][wId];
                 if (!existing) {
-                  currentStore[chDir][wId] = revData;
+                  currentStore[chDir][wId] = migratedIncoming;
                 } else {
-                  const incomingCount = revData.reviews || 0;
+                  const incomingCount = migratedIncoming.reviews || 0;
                   const existingCount = existing.reviews || 0;
-                  const incomingDate = revData.lastReviewed || revData.dueDate || 0;
-                  const existingDate = existing.lastReviewed || existing.dueDate || 0;
+                  const incomingDate = migratedIncoming.lastReviewedAt || migratedIncoming.dueAt || 0;
+                  const existingDate = existing.lastReviewedAt || existing.dueAt || 0;
 
                   if (incomingCount > existingCount || (incomingCount === existingCount && incomingDate > existingDate)) {
-                    currentStore[chDir][wId] = revData;
+                    currentStore[chDir][wId] = migratedIncoming;
                   }
                 }
               }
@@ -735,9 +1372,315 @@ const StorageManager = (function() {
           this.saveSettings(payload.settings);
         }
 
+        if (payload.activeSession && typeof payload.activeSession === 'object') {
+          this.saveActiveSession(payload.activeSession);
+        }
+
         return true;
       } catch (err) {
         console.warn('Failed to import user progress:', err);
+        return false;
+      }
+    },
+
+    /**
+     * Reset review record for a specific word back to new state
+     */
+    resetWordReview(chapterDir, wordId) {
+      const store = getRawStore();
+      if (!store[chapterDir]) store[chapterDir] = {};
+      store[chapterDir][String(wordId)] = createNewCardRecord(chapterDir, String(wordId));
+      saveRawStore(store);
+      return true;
+    },
+
+    /**
+     * Save active study session snapshot to localStorage and mirror to IndexedDB
+     */
+    saveActiveSession(sessionData) {
+      if (!sessionData || typeof sessionData !== 'object') return;
+      const snapshot = {
+        queue: Array.isArray(sessionData.queue) ? sessionData.queue : [],
+        currentIndex: typeof sessionData.currentIndex === 'number' ? sessionData.currentIndex : 0,
+        activeFilters: sessionData.activeFilters || { chapter: 'all', status: 'all' },
+        frontierChapterId: sessionData.frontierChapterId || 'chapter_01',
+        undoStack: Array.isArray(sessionData.undoStack) ? sessionData.undoStack.slice(-20) : [],
+        startedAt: sessionData.startedAt || Date.now(),
+        lastActiveDate: sessionData.lastActiveDate || getTodayKey(),
+        updatedAt: Date.now()
+      };
+      try {
+        localStorage.setItem(SESSION_KEY_V2, JSON.stringify(snapshot));
+      } catch (e) {
+        console.warn('Failed to save session snapshot to localStorage:', e);
+      }
+      mirrorToIndexedDB('active_session', { id: 'current', ...snapshot });
+    },
+
+    /**
+     * Retrieve active session snapshot. If from a previous calendar day, expires snapshot
+     * and promotes unfinished intra-session learning cards to the top of today's queue.
+     */
+    getActiveSession() {
+      try {
+        const raw = localStorage.getItem(SESSION_KEY_V2);
+        if (!raw) return null;
+        const session = JSON.parse(raw);
+        if (!session || typeof session !== 'object') return null;
+
+        const today = getTodayKey();
+        if (session.lastActiveDate && session.lastActiveDate !== today) {
+          // Calendar day rollover: promote unfinished learning cards & clear snapshot
+          const promoted = this.promoteUnfinishedLearningCards();
+          this.clearActiveSession();
+          return {
+            expired: true,
+            isNewDay: true,
+            previousDate: session.lastActiveDate,
+            promotedCardsCount: promoted
+          };
+        }
+        return session;
+      } catch (e) {
+        console.warn('Failed to retrieve active session:', e);
+        return null;
+      }
+    },
+
+    /**
+     * Clear active session snapshot
+     */
+    clearActiveSession() {
+      try {
+        localStorage.removeItem(SESSION_KEY_V2);
+      } catch (e) {}
+      mirrorToIndexedDB('active_session', { id: 'current', cleared: true, updatedAt: Date.now() });
+    },
+
+    /**
+     * Promote any unfinished learning/relearning cards to due immediately
+     */
+    promoteUnfinishedLearningCards() {
+      const store = getRawStore();
+      let count = 0;
+      const now = Date.now();
+      for (const ch of Object.keys(store)) {
+        if (ch === 'schemaVersion' || ch === 'updatedAt' || ch === 'wordsById' || ch === 'chapters') continue;
+        if (!store[ch] || typeof store[ch] !== 'object') continue;
+        for (const wId of Object.keys(store[ch])) {
+          const rec = store[ch][wId];
+          if (rec && (rec.state === 'learning' || rec.state === 'relearning')) {
+            rec.dueAt = now - 60000;
+            rec.dueDate = rec.dueAt;
+            count++;
+          }
+        }
+      }
+      if (count > 0) {
+        saveRawStore(store);
+      }
+      return count;
+    },
+
+    /**
+     * Push action onto the undo stack (max 20 entries)
+     */
+    pushUndo(entry) {
+      if (!entry || !entry.chapterId || !entry.wordId) return;
+      const currentStack = undoMemoryStack;
+      currentStack.push({
+        wordId: String(entry.wordId),
+        chapterId: entry.chapterId,
+        prevRecord: entry.prevRecord ? JSON.parse(JSON.stringify(entry.prevRecord)) : null,
+        prevQueue: Array.isArray(entry.prevQueue) ? JSON.parse(JSON.stringify(entry.prevQueue)) : [],
+        prevIndex: typeof entry.prevIndex === 'number' ? entry.prevIndex : 0,
+        timestamp: Date.now()
+      });
+      if (currentStack.length > 20) currentStack.shift();
+      undoMemoryStack = currentStack;
+
+      const session = this.getActiveSession();
+      if (session && !session.expired) {
+        session.undoStack = currentStack;
+        this.saveActiveSession(session);
+      }
+    },
+
+    /**
+     * Pop the last action from the undo stack and restore state
+     */
+    popUndo() {
+      if (!undoMemoryStack.length) {
+        const session = this.getActiveSession();
+        if (session && Array.isArray(session.undoStack) && session.undoStack.length) {
+          undoMemoryStack = session.undoStack;
+        }
+      }
+      if (!undoMemoryStack.length) return null;
+
+      const entry = undoMemoryStack.pop();
+
+      // Restore word record in review store
+      if (entry && entry.chapterId && entry.wordId && entry.prevRecord) {
+        const store = getRawStore();
+        if (!store[entry.chapterId]) store[entry.chapterId] = {};
+        store[entry.chapterId][String(entry.wordId)] = entry.prevRecord;
+        saveRawStore(store);
+      }
+
+      // Update active session snapshot
+      const session = this.getActiveSession();
+      if (session && !session.expired) {
+        session.undoStack = undoMemoryStack;
+        if (Array.isArray(entry.prevQueue) && entry.prevQueue.length) {
+          session.queue = entry.prevQueue;
+          session.currentIndex = entry.prevIndex;
+        }
+        this.saveActiveSession(session);
+      }
+
+      return entry;
+    },
+
+    canUndo() {
+      if (undoMemoryStack.length > 0) return true;
+      const session = this.getActiveSession();
+      return !!(session && Array.isArray(session.undoStack) && session.undoStack.length > 0);
+    },
+
+    clearUndo() {
+      undoMemoryStack = [];
+      const session = this.getActiveSession();
+      if (session && !session.expired) {
+        session.undoStack = [];
+        this.saveActiveSession(session);
+      }
+    },
+
+    /**
+     * Get review distribution forecast for the next 7 days (Today .. +6 days)
+     */
+    getForecast7Days() {
+      const store = getRawStore();
+      const days = [];
+      const now = new Date();
+      const startOfToday = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+      const ONE_DAY = 24 * 60 * 60 * 1000;
+
+      for (let i = 0; i < 7; i++) {
+        const dayStart = startOfToday + i * ONE_DAY;
+        const dateObj = new Date(dayStart);
+        const dayLabel = i === 0 ? 'Today' : i === 1 ? 'Tomorrow' : dateObj.toLocaleDateString(undefined, { weekday: 'short' });
+        const dateStr = `${dateObj.getMonth() + 1}/${dateObj.getDate()}`;
+        days.push({
+          dayOffset: i,
+          dayLabel,
+          dateStr,
+          count: 0
+        });
+      }
+
+      for (const ch of Object.keys(store)) {
+        if (ch === 'schemaVersion' || ch === 'updatedAt' || ch === 'wordsById' || ch === 'chapters') continue;
+        if (!store[ch] || typeof store[ch] !== 'object') continue;
+        for (const wId of Object.keys(store[ch])) {
+          const rec = store[ch][wId];
+          if (!rec || rec.state === 'new') continue;
+          const due = rec.dueAt || rec.dueDate || 0;
+          if (due <= startOfToday + ONE_DAY - 1) {
+            days[0].count++;
+          } else {
+            const offset = Math.floor((due - startOfToday) / ONE_DAY);
+            if (offset >= 1 && offset < 7) {
+              days[offset].count++;
+            }
+          }
+        }
+      }
+
+      return days;
+    },
+
+    /**
+     * Get words with the highest lapses (Leech List)
+     */
+    getLeechWords(limit = 10) {
+      const store = getRawStore();
+      const leeches = [];
+      for (const ch of Object.keys(store)) {
+        if (ch === 'schemaVersion' || ch === 'updatedAt' || ch === 'wordsById' || ch === 'chapters') continue;
+        if (!store[ch] || typeof store[ch] !== 'object') continue;
+        for (const wId of Object.keys(store[ch])) {
+          const rec = store[ch][wId];
+          if (rec && (rec.lapses || 0) > 0) {
+            leeches.push(rec);
+          }
+        }
+      }
+      leeches.sort((a, b) => (b.lapses || 0) - (a.lapses || 0));
+      return leeches.slice(0, limit);
+    },
+
+    /**
+     * Export complete user data as formatted JSON
+     */
+    exportBackupJson() {
+      const full = this.exportAllData();
+      const session = this.getActiveSession();
+      return JSON.stringify({
+        schemaVersion: 2,
+        exportedAt: new Date().toISOString(),
+        ...full,
+        activeSession: session
+      }, null, 2);
+    },
+
+    /**
+     * Import user data from JSON string or object
+     */
+    importBackupJson(payload) {
+      try {
+        const obj = (typeof payload === 'string') ? JSON.parse(payload) : payload;
+        return this.importAllData(obj);
+      } catch (e) {
+        console.warn('Invalid backup JSON:', e);
+        return false;
+      }
+    },
+
+    /**
+     * Export backup as compact Base64 code for cross-device copy-paste
+     */
+    exportBackupCode() {
+      const jsonStr = this.exportBackupJson();
+      if (typeof btoa !== 'undefined') {
+        const encoded = btoa(unescape(encodeURIComponent(jsonStr)));
+        return `HSK_V2:${encoded}`;
+      } else if (typeof Buffer !== 'undefined') {
+        return `HSK_V2:${Buffer.from(jsonStr, 'utf-8').toString('base64')}`;
+      }
+      return jsonStr;
+    },
+
+    /**
+     * Import backup from Base64 code
+     */
+    importBackupCode(code) {
+      try {
+        if (!code || typeof code !== 'string') return false;
+        let base64 = code.trim();
+        if (base64.startsWith('HSK_V2:')) {
+          base64 = base64.slice('HSK_V2:'.length);
+        }
+        let jsonStr = '';
+        if (typeof atob !== 'undefined') {
+          jsonStr = decodeURIComponent(escape(atob(base64)));
+        } else if (typeof Buffer !== 'undefined') {
+          jsonStr = Buffer.from(base64, 'base64').toString('utf-8');
+        }
+        return this.importBackupJson(jsonStr);
+      } catch (e) {
+        console.warn('Import backup code failed:', e);
         return false;
       }
     },

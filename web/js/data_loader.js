@@ -49,5 +49,28 @@ const DataLoader = {
         document.head.appendChild(script);
       });
     }
+  },
+
+  /**
+   * Load all chapters from manifest in parallel
+   */
+  async loadAllChapters() {
+    const manifest = await this.loadManifest();
+    const map = {};
+    const promises = manifest.map(async (ch) => {
+      try {
+        const words = await this.loadChapter(ch.dir);
+        map[ch.dir] = words;
+      } catch (e) {
+        console.warn(`Could not load chapter ${ch.dir}:`, e);
+        map[ch.dir] = [];
+      }
+    });
+    await Promise.all(promises);
+    return { manifest, chaptersMap: map };
   }
 };
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = DataLoader;
+}

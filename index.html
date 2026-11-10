@@ -85,16 +85,30 @@
   <main id="main-scroll">
     <header class="topbar">
       <div class="nav-controls">
+        <button type="button" class="btn btn-icon btn-nav-undo" id="btn-undo" onclick="App.undoLastAction()" title="Undo Last Card Action (Ctrl+Z)" disabled>↶</button>
         <div class="card-step-nav">
           <button type="button" class="btn btn-icon btn-nav-step" onclick="App.prevCard()" title="Previous Card (←)">‹</button>
           <button type="button" class="btn btn-icon btn-nav-step" onclick="App.nextCard()" title="Next Card (→)">›</button>
         </div>
       </div>
 
-      <!-- Center Focus HUD: Card Counter, Progress Bar, Session Tally -->
-      <div class="topbar-center-hud">
+      <!-- Desktop View Switcher Navigation Tabs -->
+      <nav class="desktop-view-tabs" id="desktop-view-tabs" aria-label="Desktop Navigation">
+        <button type="button" class="desktop-nav-tab active" data-view="study" onclick="App.switchView('study')">🗂️ Study</button>
+        <button type="button" class="desktop-nav-tab" data-view="chapters" onclick="App.switchView('chapters')">📚 Chapters & Words</button>
+        <button type="button" class="desktop-nav-tab" data-view="stats" onclick="App.switchView('stats')">📊 Stats & Forecast</button>
+        <button type="button" class="desktop-nav-tab" data-view="settings" onclick="App.switchView('settings')">⚙️ Settings</button>
+      </nav>
+
+      <!-- Center Focus HUD: Card Counter, Tri-Segment Progress Bar, Live SRS Counters -->
+      <div class="topbar-center-hud" id="topbar-study-hud">
         <div class="hud-meta-row">
           <span style="font-size: 0.82rem; font-weight: 700; color: var(--text);" id="word-counter">01 / 38</span>
+          <div class="hud-srs-counters" id="hud-srs-counters">
+            <span class="srs-count-pill srs-pill-new" id="srs-count-new" title="New cards in active queue">🔵 <span id="val-count-new">0</span></span>
+            <span class="srs-count-pill srs-pill-learning" id="srs-count-learning" title="Learning / Same-Day check cards">🟠 <span id="val-count-learning">0</span></span>
+            <span class="srs-count-pill srs-pill-review" id="srs-count-review" title="Due review cards">🟢 <span id="val-count-review">0</span></span>
+          </div>
           <div class="topbar-time-pill" id="topbar-time-pill" onclick="App.switchView('stats')" title="Active Learning Time Today (Click for Statistics)">
             <span class="time-pill-icon">⏱️</span>
             <span id="topbar-time-display">00m 00s</span>
@@ -105,8 +119,10 @@
             <span class="stat-pill-again" title="Lapses re-queued">🔴 <span id="session-again-count">0</span></span>
           </div>
         </div>
-        <div class="hud-bar-track">
-          <div class="hud-bar-fill" id="hud-bar-fill" style="width: 0%;"></div>
+        <div class="hud-segmented-track" id="hud-segmented-track" title="Session Breakdown: Blue = New, Amber = Learning, Green = Due Review">
+          <div class="seg-fill seg-new" id="seg-fill-new" style="width: 0%;"></div>
+          <div class="seg-fill seg-learning" id="seg-fill-learning" style="width: 0%;"></div>
+          <div class="seg-fill seg-review" id="seg-fill-review" style="width: 0%;"></div>
         </div>
       </div>
 
@@ -122,8 +138,46 @@
       </div>
     </header>
 
-    <div class="content-wrap" id="detail-container">
-      <!-- Word details or Flashcard rendered dynamically -->
+    <!-- View 1: Study View -->
+    <div id="view-study" class="app-view active">
+      <!-- Dynamic Study Filter Bar (Chapter Horizon & SRS Status Interleaving) -->
+      <section class="study-filter-bar" id="study-filter-bar" aria-label="SRS Repetition & Chapter Filters">
+        <div class="filter-pills-container">
+          <!-- Row 1: Chapter Filter Pills -->
+          <div class="filter-pill-row chapter-pill-row" id="chapter-filter-pills">
+            <!-- Populated dynamically via JS -->
+          </div>
+          <!-- Row 2: Status Filter Pills -->
+          <div class="filter-pill-row status-pill-row" id="status-filter-pills">
+            <!-- Populated dynamically via JS -->
+          </div>
+        </div>
+      </section>
+
+      <div class="content-wrap" id="detail-container">
+        <!-- Word details or Flashcard rendered dynamically -->
+      </div>
+    </div>
+
+    <!-- View 2: Chapters & Word Browser View -->
+    <div id="view-chapters" class="app-view" style="display: none;">
+      <div class="content-wrap" id="chapters-view-container" style="max-width: 1040px; margin: 0 auto; padding: 20px 16px 120px;">
+        <!-- Injected dynamically via renderer.js -->
+      </div>
+    </div>
+
+    <!-- View 3: Stats & Forecast View -->
+    <div id="view-stats" class="app-view" style="display: none;">
+      <div class="content-wrap" id="stats-view-container" style="max-width: 1040px; margin: 0 auto; padding: 20px 16px 120px;">
+        <!-- Injected dynamically via renderer.js -->
+      </div>
+    </div>
+
+    <!-- View 4: Settings & Data View -->
+    <div id="view-settings" class="app-view" style="display: none;">
+      <div class="content-wrap" id="settings-view-container" style="max-width: 760px; margin: 0 auto; padding: 20px 16px 120px;">
+        <!-- Injected dynamically via renderer.js -->
+      </div>
     </div>
   </main>
 
@@ -224,11 +278,52 @@
 
       <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 6px;">
         <div style="display: flex; justify-content: space-between; width: 100%;">
+          <span class="setting-title">Auto-Advance Threshold</span>
+          <span class="setting-desc" id="advance-threshold-val-label" style="font-weight: 700; color: var(--primary);">&lt; 5 cards</span>
+        </div>
+        <select id="auto-advance-threshold-select" class="chapter-select" style="width: 100%; font-size: 0.85rem;" onchange="App.changeAutoAdvanceThreshold(this.value)">
+          <option value="0">0 cards (Strict 100% completion)</option>
+          <option value="3">&lt; 3 unlearned cards</option>
+          <option value="5" selected>&lt; 5 unlearned cards (Recommended)</option>
+          <option value="10">&lt; 10 unlearned cards</option>
+        </select>
+        <span class="setting-desc">Mixes in new vocabulary from next chapter when queue runs low</span>
+      </div>
+
+      <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 6px;">
+        <div style="display: flex; justify-content: space-between; width: 100%;">
+          <span class="setting-title">Daily New Card Limit</span>
+          <span class="setting-desc" id="daily-new-val-label" style="font-weight: 700; color: var(--primary);">20 cards</span>
+        </div>
+        <select id="daily-new-limit-select" class="chapter-select" style="width: 100%; font-size: 0.85rem;" onchange="App.changeDailyNewLimit(this.value)">
+          <option value="5">5 new cards/day (Gentle)</option>
+          <option value="10">10 new cards/day</option>
+          <option value="15">15 new cards/day</option>
+          <option value="20" selected>20 new cards/day (Standard)</option>
+          <option value="30">30 new cards/day (Intensive)</option>
+          <option value="0">Unlimited (No limit)</option>
+        </select>
+        <span class="setting-desc">Paces daily introduction of brand new vocabulary</span>
+      </div>
+
+      <div class="setting-row" style="flex-direction: column; align-items: flex-start; gap: 6px;">
+        <div style="display: flex; justify-content: space-between; width: 100%;">
           <span class="setting-title">Auto-Advance Countdown</span>
           <span class="setting-desc" id="countdown-val-label" style="font-weight: 700; color: var(--primary);">5s</span>
         </div>
         <input type="range" id="auto-advance-delay-range" min="2" max="10" step="1" value="5" style="width: 100%;">
         <span class="setting-desc">Countdown delay before automatically advancing to next chapter</span>
+      </div>
+
+      <div class="setting-row">
+        <div>
+          <span class="setting-title">Audio-First (Listening) Mode</span>
+          <span class="setting-desc">Blurs Hanzi on front card and auto-plays audio for listening drill</span>
+        </div>
+        <label class="ankineitor-switch">
+          <input type="checkbox" id="toggle-audio-first">
+          <span class="slider"></span>
+        </label>
       </div>
 
       <div class="setting-row">
@@ -249,12 +344,13 @@
         </div>
         <select id="voice-preference-select" class="chapter-select" style="width: 100%; font-size: 0.85rem;" title="Choose voice persona or random mix">
           <option value="random">🎲 Random (Shuffle 4 Voices)</option>
+          <option value="alternate">🔄 Auto-Alternate (♀ Mature Woman / ♂ Office Man)</option>
           <option value="mature_woman">👩 Mature Woman (成熟女性)</option>
-          <option value="soothing_host">🎙️ Soothing Host (温润女主播)</option>
           <option value="office_man">💼 Office Man (职场男音)</option>
+          <option value="soothing_host">🎙️ Soothing Host (温润女主播)</option>
           <option value="tender_ceo">👔 Tender CEO (霸道/温润总裁)</option>
         </select>
-        <span class="setting-desc">Random switches dynamically between all 4 MiniMax voices on each playback</span>
+        <span class="setting-desc">Auto-Alternate switches between female and male personas on each card review</span>
       </div>
 
       <div class="setting-row">
@@ -343,6 +439,14 @@
           </button>
           <input type="file" id="import-backup-file-input" accept=".json" style="display: none;" onchange="App.handleImportBackup(event)">
         </div>
+        <div style="display: flex; gap: 8px; width: 100%; margin-top: 4px;">
+          <button type="button" class="btn" style="flex: 1; font-size: 0.78rem;" onclick="App.openBackupCodeModal('copy')">
+            📋 Copy Backup Code
+          </button>
+          <button type="button" class="btn" style="flex: 1; font-size: 0.78rem;" onclick="App.openBackupCodeModal('paste')">
+            📥 Paste Backup Code
+          </button>
+        </div>
       </div>
 
       <div style="margin-top: 24px; padding-top: 16px; border-top: 1px dashed var(--border);">
@@ -363,16 +467,24 @@
       <div class="shortcuts-modal-body">
         <div class="shortcut-category-title">🗂️ Flashcard Study & Grading</div>
         <div class="shortcut-row">
-          <span class="shortcut-desc">Show Answer / Flip to Back</span>
+          <span class="shortcut-desc">Show Answer (Front) / Mark as <strong>Good</strong> (Back)</span>
           <div class="shortcut-keys"><span class="kbd-key">Space</span><span class="kbd-key">Enter</span></div>
         </div>
         <div class="shortcut-row">
-          <span class="shortcut-desc">Mark as <strong>Don't Remember (Again)</strong></span>
+          <span class="shortcut-desc">Mark as <strong>Again</strong> (Re-queue Intra-Session)</span>
           <div class="shortcut-keys"><span class="kbd-key">1</span><span class="kbd-key">A</span><span class="kbd-key">Bksp</span></div>
         </div>
         <div class="shortcut-row">
-          <span class="shortcut-desc">Mark as <strong>Remember (Good)</strong></span>
-          <div class="shortcut-keys"><span class="kbd-key">2</span><span class="kbd-key">D</span><span class="kbd-key">Space</span></div>
+          <span class="shortcut-desc">Mark as <strong>Hard</strong> (Short Interval)</span>
+          <div class="shortcut-keys"><span class="kbd-key">2</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Mark as <strong>Good</strong> (Standard SRS Interval)</span>
+          <div class="shortcut-keys"><span class="kbd-key">3</span><span class="kbd-key">D</span></div>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Mark as <strong>Easy</strong> (Immediate 3d+ Boost)</span>
+          <div class="shortcut-keys"><span class="kbd-key">4</span></div>
         </div>
         <div class="shortcut-row">
           <span class="shortcut-desc">Peek Radical & Pinyin Hint (Front Card)</span>
@@ -460,6 +572,63 @@
       </div>
     </div>
   </div>
+
+  <!-- Word Detail Modal -->
+  <div id="word-detail-modal" class="modal-wrap" onclick="if(event.target === this) App.closeModals();">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title" id="word-detail-title">📖 Word Detail</div>
+        <button type="button" class="drawer-close-btn" onclick="App.closeModals()">&times;</button>
+      </div>
+      <div class="modal-body" id="word-detail-body">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Backup Code Modal -->
+  <div id="backup-code-modal" class="modal-wrap" onclick="if(event.target === this) App.closeModals();">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title" id="backup-code-modal-title">📋 Backup Code</div>
+        <button type="button" class="drawer-close-btn" onclick="App.closeModals()">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 8px;">
+          Copy this code to transfer your study progress, or paste a backup code from another browser/device to restore.
+        </p>
+        <textarea id="backup-code-input" class="backup-code-textarea" rows="8" placeholder="Paste HSK_V2:... code here"></textarea>
+        <div style="display: flex; gap: 8px; margin-top: 12px;">
+          <button type="button" class="btn btn-primary" id="btn-copy-backup-code" style="flex: 1;" onclick="App.copyBackupCode()">
+            📋 Copy to Clipboard
+          </button>
+          <button type="button" class="btn" id="btn-restore-backup-code" style="flex: 1;" onclick="App.restoreFromBackupCode()">
+            📥 Restore Code
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile Bottom Navigation Bar -->
+  <nav class="mobile-bottom-nav" id="mobile-bottom-nav" aria-label="Mobile Navigation">
+    <button type="button" class="mobile-nav-item active" data-view="study" onclick="App.switchView('study')">
+      <span class="mobile-nav-icon">🗂️</span>
+      <span class="mobile-nav-label">Study</span>
+    </button>
+    <button type="button" class="mobile-nav-item" data-view="chapters" onclick="App.switchView('chapters')">
+      <span class="mobile-nav-icon">📚</span>
+      <span class="mobile-nav-label">Chapters</span>
+    </button>
+    <button type="button" class="mobile-nav-item" data-view="stats" onclick="App.switchView('stats')">
+      <span class="mobile-nav-icon">📊</span>
+      <span class="mobile-nav-label">Stats</span>
+    </button>
+    <button type="button" class="mobile-nav-item" data-view="settings" onclick="App.switchView('settings')">
+      <span class="mobile-nav-icon">⚙️</span>
+      <span class="mobile-nav-label">Settings</span>
+    </button>
+  </nav>
 
   <!-- Toast Notification -->
   <div id="app-toast" class="app-toast"></div>
