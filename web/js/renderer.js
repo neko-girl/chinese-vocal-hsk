@@ -107,6 +107,25 @@ function highlightHeadword(text, headword) {
   return text.replace(regex, '<mark class="target-headword">$1</mark>');
 }
 
+// Universal Translation & Definition Extraction Helper
+function getWordTranslation(w, lang = 'both') {
+  if (!w) return '';
+  const en = w.meanings_summary?.en ||
+    (Array.isArray(w.translations?.en) ? w.translations.en.join('; ') : w.translations?.en) ||
+    (Array.isArray(w.senses) ? w.senses.map(s => s.definition_en).filter(Boolean).join('; ') : '') ||
+    w.meaning_en || w.meaning || '';
+
+  const es = w.meanings_summary?.es ||
+    (Array.isArray(w.translations?.es) ? w.translations.es.join('; ') : w.translations?.es) ||
+    (Array.isArray(w.senses) ? w.senses.map(s => s.definition_es).filter(Boolean).join('; ') : '') ||
+    w.meaning_es || '';
+
+  if (lang === 'en') return en;
+  if (lang === 'es') return es;
+  if (en && es) return `${en} / ${es}`;
+  return en || es || '';
+}
+
 // Tone Coloring Table
 const TONE_MARKS = {
   'ā': 1, 'ē': 1, 'ī': 1, 'ō': 1, 'ū': 1, 'ǖ': 1,
@@ -282,7 +301,8 @@ function renderFlashcardFront(w, chapterDir, reviewItem) {
             <span>💡 Peek Hint</span>
           </button>
           <div id="front-hint-content" class="hint-content-box">
-            <div style="font-size: 0.82rem; margin-bottom: 4px;"><strong>Pinyin:</strong> ${colorizePinyinHTML(w.pinyin)}</div>
+            <div style="font-size: 0.85rem; margin-bottom: 4px;"><strong>Pinyin:</strong> ${colorizePinyinHTML(w.pinyin)}</div>
+            ${getWordTranslation(w, 'both') ? `<div style="font-size: 0.82rem; color: var(--text-muted); margin-bottom: 4px;"><strong>Meaning:</strong> ${getWordTranslation(w, 'both')}</div>` : ''}
             ${radicalHint ? `<div style="font-size: 0.76rem; color: var(--text-dim);"><strong>Radicals:</strong> ${radicalHint}</div>` : ''}
           </div>
         </div>
@@ -2144,8 +2164,8 @@ function renderChaptersAndWordBrowser({
     filteredList = filteredList.filter(w => {
       const hz = (w.hanzi || '').toLowerCase();
       const py = (w.pinyin || '').toLowerCase();
-      const en = (w.translations?.en || []).join(' ').toLowerCase();
-      const es = (w.translations?.es || []).join(' ').toLowerCase();
+      const en = (getWordTranslation(w, 'en') || '').toLowerCase();
+      const es = (getWordTranslation(w, 'es') || '').toLowerCase();
       return hz.includes(q) || py.includes(q) || en.includes(q) || es.includes(q);
     });
   }
@@ -2226,9 +2246,11 @@ function renderChaptersAndWordBrowser({
                 const rev = (typeof StorageManager !== 'undefined') ? StorageManager.getWordReview(chDir, w.id) : null;
                 const badge = renderSRSStatusBadge(rev);
                 const lapses = rev?.lapses || 0;
-                const enStr = (w.translations?.en || []).join(', ');
-                const esStr = (w.translations?.es || []).join(', ');
-                const trans = showEn && showEs ? `${enStr} / ${esStr}` : (showEs ? esStr : enStr);
+                const enStr = getWordTranslation(w, 'en');
+                const esStr = getWordTranslation(w, 'es');
+                const trans = showEn && showEs
+                  ? (enStr && esStr ? `${enStr} / ${esStr}` : (enStr || esStr))
+                  : (showEs ? esStr : enStr);
 
                 return `
                   <tr>
@@ -2294,8 +2316,8 @@ function renderWordDetailModal(word, reviewItem, chapterDir, currentLang = 'both
 
       <div style="margin-bottom: 16px; background: var(--bg-card-sub); padding: 12px; border-radius: 10px;">
         <div style="font-size: 0.75rem; font-weight: 700; color: var(--text-muted); margin-bottom: 4px;">TRANSLATIONS</div>
-        ${showEn ? `<div style="font-size: 0.88rem; margin-bottom: 2px;"><strong>EN:</strong> ${(word.translations?.en || []).join('; ')}</div>` : ''}
-        ${showEs ? `<div style="font-size: 0.88rem;"><strong>ES:</strong> ${(word.translations?.es || []).join('; ')}</div>` : ''}
+        ${showEn ? `<div style="font-size: 0.88rem; margin-bottom: 2px;"><strong>EN:</strong> ${getWordTranslation(word, 'en') || '-'}</div>` : ''}
+        ${showEs ? `<div style="font-size: 0.88rem;"><strong>ES:</strong> ${getWordTranslation(word, 'es') || '-'}</div>` : ''}
       </div>
 
       ${decomp.length > 0 ? `
@@ -2337,6 +2359,7 @@ function renderWordDetailModal(word, reviewItem, chapterDir, currentLang = 'both
 
 if (typeof window !== 'undefined') {
   window.speak = speak;
+  window.getWordTranslation = getWordTranslation;
   window.colorizePinyinHTML = colorizePinyinHTML;
   window.computeToneContour = computeToneContour;
   window.highlightHeadword = highlightHeadword;

@@ -167,6 +167,14 @@ async function runBootTest() {
   assert.ok(curWord, 'Current word must be loaded');
   console.log(`  ✓ Current word loaded: ${curWord.hanzi} (${curWord.pinyin})`);
 
+  // Verify translation accessibility
+  const enTrans = global.window.getWordTranslation(curWord, 'en');
+  const esTrans = global.window.getWordTranslation(curWord, 'es');
+  assert.ok(enTrans && enTrans.length > 0, 'English translation must be populated');
+  assert.ok(esTrans && esTrans.length > 0, 'Spanish translation must be populated');
+  assert.ok(Array.isArray(curWord.translations?.en) && curWord.translations.en.length > 0, 'translations.en array must be populated');
+  console.log(`  ✓ Translations verified: EN="${enTrans}" | ES="${esTrans}"`);
+
   // Test switching views
   console.log('  Testing view transitions...');
   global.window.App.switchView('chapters');

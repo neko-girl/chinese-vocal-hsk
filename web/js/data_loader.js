@@ -24,31 +24,79 @@ const DataLoader = {
     }
   },
 
+  /**
+   * Normalizes word object fields so translation, meanings_summary, and chapterId
+   * are uniformly available regardless of JSON / JS source schema.
+   */
+  normalizeWords(rawWords, chapterDir) {
+    if (!Array.isArray(rawWords)) return [];
+    return rawWords.map(w => {
+      const en = w.meanings_summary?.en ||
+        (Array.isArray(w.translations?.en) ? w.translations.en.join('; ') : w.translations?.en) ||
+        (Array.isArray(w.senses) ? w.senses.map(s => s.definition_en).filter(Boolean).join('; ') : '') ||
+        w.meaning_en || w.meaning || '';
+
+      const es = w.meanings_summary?.es ||
+        (Array.isArray(w.translations?.es) ? w.translations.es.join('; ') : w.translations?.es) ||
+        (Array.isArray(w.senses) ? w.senses.map(s => s.definition_es).filter(Boolean).join('; ') : '') ||
+        w.meaning_es || '';
+
+      const enList = Array.isArray(w.translations?.en)
+        ? w.translations.en
+        : (en ? en.split(/[;,]/).map(s => s.trim()).filter(Boolean) : []);
+
+      const esList = Array.isArray(w.translations?.es)
+        ? w.translations.es
+        : (es ? es.split(/[;,]/).map(s => s.trim()).filter(Boolean) : []);
+
+      return {
+        ...w,
+        chapterId: w.chapterId || chapterDir,
+        meaning: w.meaning || en,
+        meaning_en: w.meaning_en || en,
+        meaning_es: w.meaning_es || es,
+        meanings_summary: {
+          en: w.meanings_summary?.en || en,
+          es: w.meanings_summary?.es || es
+        },
+        translations: {
+          en: enList,
+          es: esList
+        }
+      };
+    });
+  },
+
   async loadChapter(chapterDir) {
+    let raw = null;
     try {
       const res = await fetch(`chapters/${chapterDir}/data.json`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return await res.json();
+      raw = await res.json();
     } catch (err) {
       // In local file:// mode, check if already loaded via data.js
-      if (window.__HSK_CHAPTER_DATA__ && window.__HSK_CHAPTER_DATA__[chapterDir]) {
-        return window.__HSK_CHAPTER_DATA__[chapterDir];
+      if (typeof window !== 'undefined' && window.__HSK_CHAPTER_DATA__ && window.__HSK_CHAPTER_DATA__[chapterDir]) {
+        raw = window.__HSK_CHAPTER_DATA__[chapterDir];
+      } else if (typeof document !== 'undefined') {
+        // Dynamically inject data.js script tag as fallback
+        raw = await new Promise((resolve, reject) => {
+          const script = document.createElement('script');
+          script.src = `chapters/${chapterDir}/data.js`;
+          script.onload = () => {
+            if (window.__HSK_CHAPTER_DATA__ && window.__HSK_CHAPTER_DATA__[chapterDir]) {
+              resolve(window.__HSK_CHAPTER_DATA__[chapterDir]);
+            } else {
+              reject(new Error(`Failed to load dataset for ${chapterDir}`));
+            }
+          };
+          script.onerror = () => reject(new Error(`Could not find chapters/${chapterDir}/data.js`));
+          document.head.appendChild(script);
+        });
+      } else {
+        throw new Error(`Cannot load chapter ${chapterDir} in this environment`);
       }
-      // Dynamically inject data.js script tag as fallback
-      return new Promise((resolve, reject) => {
-        const script = document.createElement('script');
-        script.src = `chapters/${chapterDir}/data.js`;
-        script.onload = () => {
-          if (window.__HSK_CHAPTER_DATA__ && window.__HSK_CHAPTER_DATA__[chapterDir]) {
-            resolve(window.__HSK_CHAPTER_DATA__[chapterDir]);
-          } else {
-            reject(new Error(`Failed to load dataset for ${chapterDir}`));
-          }
-        };
-        script.onerror = () => reject(new Error(`Could not find chapters/${chapterDir}/data.js`));
-        document.head.appendChild(script);
-      });
     }
+    return this.normalizeWords(raw, chapterDir);
   },
 
   /**
