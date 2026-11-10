@@ -1,0 +1,63 @@
+id: 10
+hanzi: 脖子
+pinyin: bó zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: neck; cervix (of human or animal body)
+  es: cuello; cerviz; pescuezo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the part of the body connecting the head to the shoulders and torso in humans and animals | parte del cuerpo que une la cabeza con el tronco en personas y animales | 伸长脖子 (crane one's neck)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 长时间低头看手机或伏案工作，极易导致颈椎酸痛，建议大家工作一小时后适度活动活动脖子。 | Cháng shíjiān dītóu kàn shǒujī huò fú'àn gōngzuò, jí yì dǎozhì jǐngzhuī suāntòng, jiànyì dàjiā gōngzuò yì xiǎoshí hòu shìdù huódòng huodong bózi. | Bending down to look at screens or desks for hours causes neck aches; taking breaks every hour to stretch your neck is recommended. | Mirar el móvil agachado o pasar horas ante la pantalla sobrecarga las cervicales; conviene estirar el cuello tras una hora de labor.
+  #2 | 辩论场上双方各执己见互不相让，争论得面红脖子粗，谁也不肯轻易放弃自己的学术立场。 | Biànlùnchǎng shàng shuāngfāng gèzhí-jǐjiàn hùbù-xiāngràng, zhēnglùn de miànhóng-bózicū, shéi yě bù kěn qīngyì fàngqì zìjǐ de xuéshù lìchǎng. | On the debate floor, both sides held their ground stubbornly, arguing until red in the face with veins bulging on necks, yielding to none. | En el debate, ambas partes se enrocaron en sus posturas, disputando hasta ponerse rojos y con las venas del cuello hinchadas sin ceder un ápice.
+
+collocations[6]{hanzi,en}:
+  伸长脖子 | crane one's neck
+  缩着脖子 | huddle one's neck in the cold
+  卡脖子 | stranglehold; choke point (technological bottleneck)
+  脖子酸痛 | sore neck / stiff neck
+  摸摸脖子 | touch one's neck
+  脸红脖子粗 | red in the face with neck veins bulging in anger/argument
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  延颈企踵 | yán jǐng qǐ zhǒng | crane neck and stand on tiptoe; eagerly anticipate
+  脸红脖子粗 | liǎn hóng bó zi cū | flushed red face and swollen neck in furious dispute
+  昂首挺胸 | áng shǒu tǐng xiōng | head held high and chest puffed out
+  交头接耳 | jiāo tóu jiē ěr | whisper ear to ear secretly
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  脖 | bó | neck; scruff | cuello; pescuezo; cerviz | 月 | moon / flesh | 月 (flesh/body organ) | 勃 (bó, vigorous sudden growth / phonetic) | 11 | 左右结构 | Phono-semantic character where flesh radical 月 combines with 勃 (vigorous swelling) denoting the muscular neck supporting the head. | Fleshy sinews of the body (月) swell vigorously (勃) to form the muscular column of the neck (脖). | La carne y los tendones (月) se yerguen con vigor (勃) conformando la firme columna del cuello (脖). | 35 | BJBD | ""
+  子 | zi | noun suffix; child | sufijo nominal; niño | 子 | child | 子 (infant child) | 子 (zǐ) | 3 | 单一结构 | Pictogram of an infant; productive unstressed noun suffix in modern Chinese vocabulary. | A child (子) stands gracefully; used as a noun suffix to name anatomical parts. | Un niño menudo (子); sirve de sufijo para formar nombres de partes del cuerpo. | 214 | ND | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The muscular flesh (脖) supporting the head takes the common noun suffix (子) to form the neck (脖子).
+  composite_memory_hook_es: La musculatura carnosa (脖) que sostiene la cabeza lleva el sufijo (子) para designar el cuello (脖子).
+  cultural_and_cognitive_roots: Anatomical term; modern political economy adapted 'qiǎ bózǐ' (卡脖子, chokehold on the neck) to describe strategic tech choke points or embargo bottlenecks.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by neutral tone: 'bó zi' (35-2). Syllable 'bó' glides upward, followed by a light, unstressed neutral syllable 'zi'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    勃 | bó | thriving; vigorous | Has 力 on right instead of flesh 月 on left
+    脖 | bó | neck | Has 月 on left; do not confuse with 脯 (flesh 月 + 甫)
+    肢 | zhī | limb | Has 支 on right of 月
+    胳 | gē | armpit/arm | Has 各 on right of 月
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    颈 | jǐng | cervical neck; formal anatomical term
+    项 | xiàng | nape of neck; item; heading
+    咽 | yān | pharynx; throat passage
+    喉 | hóu | larynx; Adam's apple
+
+semantic_boundary_contrasts:
+  core_nuance: 脖子 is the universal everyday colloquial word for the anatomical neck in both humans and animals.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 脖子 vs. 颈部 | jǐngbù | 颈部 is a formal, medical, and scientific term ('颈部淋巴结', '颈椎'), while 脖子 is everyday conversational.
+    2 | 脖子 vs. 咽喉 | yānhóu | 咽喉 specifically denotes the internal throat and airway passage, while 脖子 refers to the external visible neck.
+    3 | 脖子 vs. 项 | xiàng | 项 is a classical literary word for the back of the neck/nape ('望其项背'), rarely used alone in spoken Mandarin today.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 寒冬腊月北风呼啸，清晨出门的人们纷纷拉高衣领、紧紧缩起脖子。一条母亲亲手编织的红色羊毛围巾，厚实温暖地缠绕在脖子上，不仅挡住了刺骨的凛冽寒风，更把远方游子与家人的牵挂紧紧相连。那是冬日里最贴心的暖意。 | Hándōng-làyuè běifēng hūxiào, qīngchén chūmén de rénmen fēnfēn lāgāo yīlǐng, jǐnjǐn suōqǐ bózi. Yì tiáo mǔqīn qīnshǒu biānzhī de hóngsè yángmáo wéijīn, hòushi wēnduǎn de chánrào zài bózi shàng, bùjǐn dǎngzhù le cìgǔ de lǐnliè hánfēng, gèng bǎ yuǎnfāng yóuzǐ yǔ jiārén de qiānguà jǐnjǐn xiānglián. Nà shì dōngrì lǐ zuì tiēxīn de nuǎnyì. | In deep winter howling winds, people departing in the morning pull up collars and huddle necks. A warm red woolen scarf knit by mother wrapped around the neck blocks biting winds, tying traveler and home together with cozy warmth. | Con el viento helado del invierno, los transeúntes alzan solapas y encogen el cuello. Una bufanda de lana roja tejida por madre rodea el pescuezo, deteniendo la cellisca y uniendo al caminante con el calor familiar.
+  #2 | 突破关键核心技术“卡脖子”瓶颈，是实现高水平科技自立自强的重中之重。科研院所与领军企业紧密协同，瞄准工业软件、先进光刻机与高端航空轴承等短板领域持续攻关，彻底摆脱核心元器件受制于人的被动局面，筑牢科技安全基石。 | Tūpò guānjiàn héxīn jìshù 'qiǎ bózǐ' píngjǐng, shì shíxiàn gāoshuǐpíng kējì zìlì-zìqiáng de zhòngzhōngzhīzhòng. Kēyán yuànsuǒ yǔ lǐngjūn qǐyè jǐnmì xiétóng, miáozhǔn gōngyè ruǎnjiàn, xiānjìn guāngkèjī yǔ gāoduān hángkōng zhóuchéng děng duǎnbǎn lǐngyù chíxù gōngguān, chèdǐ bǎituō héxīn yuánqìjiàn shòuzhìyúrén de bèidòng júmiàn, zhùláo kējì ānquán jīshí. | Breaking through tech bottleneck chokeholds is paramount for self-reliance. Research institutes and leading firms collaborate on industrial software, lithography, and aviation bearings, shaking off dependencies to fortify technological security. | Romper los cuellos de botella en tecnologías críticas es clave para la soberanía técnica. Laboratorios y empresas colaboran en software y litografía avanzada, superando dependencias externas y blindando la seguridad tecnológica.

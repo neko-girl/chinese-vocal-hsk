@@ -1,0 +1,64 @@
+id: 32
+hanzi: 纪念
+pinyin: jì niàn
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to commemorate; to remember; souvenir; memorial; commemoration
+  es: conmemorar; recordar; recuerdo; memorial; conmemoración
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to honor the memory of a person, event, or past deed through ceremonies, tokens, or monuments | honrar la memoria de una persona o efeméride histórica mediante actos, ofrendas o monumentos | 纪念伟大的先驱 (commemorate great pioneers)
+  2 | Noun | Standard | a keepsake, souvenir, memorial token, or commemorative artifact | recuerdo, objeto conmemorativo o prenda testimonial que perpetúa una memoria | 留作纪念 (keep as a souvenir)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每年清明时节，成千上万的少先队员都会来到烈士陵园敬献花圈，深切纪念为国捐躯的英雄。 | Měinián Qīngmíng shíjié, chéngqiān-shàngwàn de Shàoxiānduìyuán dōuhuì láidào lièshì língyuán jìngxiàn huāquān, shēnqiè jìniàn wèiguó juānqū de yīngxióng. | Every Qingming festival, thousands of Young Pioneers visit martyrs' cemeteries to lay wreaths and deeply commemorate fallen heroes. | Cada año por Qingming, millares de escolares acuden al cementerio de mártires a ofrendar coronas conmemorando a los héroes caídos por la patria.
+  #2 | 这块做工考究的机械怀表是爷爷离职退休时单位赠送的，他一直珍藏在书房抽屉里留作纪念。 | Zhè kuài zuògōng kǎojiu de jīxiè huáibiǎo shì yéye lízhí tuìxiū shí dānwèi zèngsòng de, tā yìzhí zhēncáng zài shūfáng chōuti lǐ liúzuò jìniàn. | This exquisite mechanical pocket watch was gifted by grandfather's work unit upon retirement; he keeps it in a study drawer as a souvenir. | Este fino reloj de bolsillo mecánico fue un obsequio que recibió el abuelo al jubilarse, conservándolo con cariño en su despacho como recuerdo.
+
+collocations[6]{hanzi,en}:
+  纪念馆 | memorial hall / museum
+  纪念品 | souvenir; keepsake
+  纪念日 | anniversary; memorial day
+  深切纪念 | deeply commemorate
+  留作纪念 | keep as a souvenir/memento
+  纪念碑 | monument; memorial stele
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  永垂不朽 | yǒng chuí bù xiǔ | immortal; eternal glory enduring through ages
+  流芳百世 | liú fāng bǎi shì | leave a good name for a hundred generations
+  铭记在心 | míng jì zài xīn | engraved deeply on one's heart; never forget
+  睹物思人 | dǔ wù sī rén | seeing familiar objects evokes memories of absent persons
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  纪 | jì | record; chronicle; era; discipline | registrar; época; crónica; disciplina | 纟 | silk | 纟 (sorting skeins of silk thread) | 己 (jǐ, self / phonetic) | 6 | 左右结构 | Unraveling and sorting tangled silk skeins 纟 into an orderly historical record; denotes chronicles or eras. | Threads of silk (纟) are sorted into orderly historical records (纪). | Hebras de seda (纟) hiladas en pulcro orden para tejer las crónicas de la historia (纪). | 51 | VMSU | 紀
+  念 | niàn | read aloud; think of; miss; thought | leer en voz alta; pensar en; recordar; idea | 心 | heart / mind | 今 (present moment) + 心 (heart/mind) | 念 (niàn) | 8 | 上下结构 | Holding thoughts of someone in one's heart 心 at the present moment 今; signifies remembering, yearning, or reciting. | Present thoughts (今) reside deep in the loving heart (心), remembering (念) dear ones. | Pensamientos del presente (今) habitan en el corazón (心) recordando con ternura a los seres queridos (念). | 51 | ONP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Silk chronicles (纪) intertwined with heartfelt thoughts (念) commemorate historical legacies (纪念).
+  composite_memory_hook_es: Crónicas escritas (纪) atadas al recuerdo del corazón (念) conmemoran hechos insignes (纪念).
+  cultural_and_cognitive_roots: Derived from traditional ancestral remembrance rituals and historiography (纪传体); venerating precursors to link past, present, and future generations.
+  tone_sandhi_and_pitch_modulation: Double falling fourth tones: 'jì niàn' (51-51). Descend firmly on 'jì', then drop down sharply again on 'niàn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    记 | jì | record; remember | Has speech radical 讠 on left instead of silk 纟 in 纪
+    红 | hóng | red | Has 工 on right of 纟
+    忿 | fèn | anger; indignation | Has 分 atop 心 instead of 今 in 念
+    急 | jí | urgent; anxious | Has 刍-like upper component atop 心
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    忆 | yì | recollect; recall memory
+    怀 | huái | bosom; cherish memory
+    思 | sī | ponder; yearn for
+    悼 | dào | grieve; mourn the dead
+
+semantic_boundary_contrasts:
+  core_nuance: 纪念 emphasizes public, ritual, or tangible remembrance of monumental deeds, heroes, or significant dates.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 纪念 vs. 怀念 | huáiniàn | 怀念 is a soft, personal emotional feeling of longing for absent friends or bygone days, while 纪念 involves public ceremonies, medals, or monuments.
+    2 | 纪念 vs. 悼念 | dàoniàn | 悼念 is strictly focused on grief and sorrow immediately following someone's death, while 纪念 celebrates lasting legacies over long eras.
+    3 | 纪念 vs. 留念 | liúniàn | 留念 is specifically used when giving small gifts or posing for photos upon departure ('拍照留念'), while 纪念 has broader historic stature.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 庄严巍峨的人民英雄纪念碑耸立在天安门广场中央。碑身正面镌刻着金光闪闪的题词，四周汉白玉浮雕生动再现了百余年来中华儿女浴血奋斗的历史长卷。它不仅是对革命先烈的深切纪念，更是激励后人奋进的灯塔。 | Zhuāngyán-wēi'é de Rénmín Yīngxióng Jìniànbēi sǒnglì zài Tiān'ānmén Guǎngchǎng zhōngyāng. Bēishēn zhèngmiàn juānkè zhe jīnguāng-shǎnshǎn de tící, sìzhōu hànbáiyù fúdiāo shēngdòng zàixiàn le bǎiyú nián lái Zhōnghuá érnǚ yùxuè-fèndòu de lìshǐ chángjuǎn. Tā bùjǐn shì duì gémìng xiānliè de shēnqiè jìniàn, gèng shì jīlì hòurén fènjìn de dēngtǎ. | The Monument to the People's Heroes rises in Tiananmen Square. Gilded inscriptions and marble bas-reliefs depict historic struggles. It stands as a solemn commemoration of martyrs and a guiding beacon inspiring generations. | El Monumento a los Héroes del Pueblo se yergue en la plaza de Tiananmen. Relieves de mármol retratan gestas históricas conmemorando a los mártires e iluminando el porvenir nacional.
+  #2 | 今年适逢该校建校一百周年，来自世界各地的数千名校友重返母校，共同出席隆重庄严的世纪纪念盛典。大家漫步在绿树成荫的林荫道上，重温当年的求学时光，并在标志性钟楼前合影留作难忘的青春纪念。 | Jīnnián shìféng gāixiào jiànxiào yìbǎi zhōunián, láizì shìjiè gèdì de shùqiān míng xiàoyǒu chóngfǎn mǔxiào, gòngtóng chūxí lóngzhòng zhuāngyán de shìjì jìniàn shèngdiǎn. Dàjiā mànbù zài lǜshù-chéngyīn de línyīndào shàng, chóngwēn dāngnián de qiúxué shíguāng, bìng zài biāozhìxìng zhōnglóu qián héyǐng liúzuò nánwàng de qīngchūn jìniàn. | Marking the school's centenary, thousands of alumni returned worldwide for commemorative celebrations. Strolling shady avenues, they reminisced about student days, snapping keepsake photos before the landmark clock tower. | Con ocasión del centenario escolar, miles de antiguos alumnos regresaron para los actos conmemorativos. Paseando bajo las arboledas evocaron sus años mozos, tomándose fotos inolvidables ante el reloj del campus.

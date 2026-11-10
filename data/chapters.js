@@ -62,5 +62,21 @@ window.__HSK_CHAPTERS_MANIFEST__ = [
     "title": "“朝三暮四”的古今义 (Ancient & Modern Meanings of Zhao San Mu Si)",
     "word_count": 42,
     "level": "HSK 5"
+  },
+  {
+    "id": 9,
+    "dir": "chapter_09",
+    "name": "Chapter 9",
+    "title": "别样鲁迅 (Another Side of Lu Xun)",
+    "word_count": 38,
+    "level": "HSK 5"
+  },
+  {
+    "id": 10,
+    "dir": "chapter_10",
+    "name": "Chapter 10",
+    "title": "争论的奇迹 (The Miracle of Debate)",
+    "word_count": 37,
+    "level": "HSK 5"
   }
 ];

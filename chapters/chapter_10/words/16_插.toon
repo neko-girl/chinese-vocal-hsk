@@ -1,0 +1,62 @@
+id: 16
+hanzi: 插
+pinyin: chā
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to insert; to stick in; to pierce; to interpose
+  es: insertar; enchufar; clavar; meter; intercalar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to insert, stick, or pierce an object into an opening, gap, or soil | introducir, clavar o embutir un objeto alargado en una abertura o superficie | 插上电源插头 (plug in the electrical cord)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 姐姐买来了一束芬芳的白百合，小心翼翼地插进精致的青花瓷花瓶中。 | Jiějie mǎilai le yí shù fēnfāng de bái bǎihé, xiǎoxīnyìyì de chājìn jīngzhì de qīnghuācí huāpíng zhōng. | My sister bought fragrant white lilies and carefully inserted them into an exquisite porcelain vase. | Mi hermana compró un aromático ramo de azucenas y las colocó con esmero en un fino jarrón de porcelana.
+  #2 | 在严肃的讨论过程中随意插话打断别人，是一种极不礼貌的社交行为。 | Zài yánsù de tǎolùn guòchéng zhōng suíyì chāhuà dǎduàn biérén, shì yì zhǒng jí bù lǐmào de shèjiāo xíngwéi. | Casually interjecting and interrupting others during a serious discussion is extremely impolite social etiquette. | Interrumpir a otros interpelando sin permiso durante una deliberación seria resulta una falta de consideración social.
+
+collocations[6]{hanzi,en}:
+  插头 | electrical plug
+  插座 | power socket/outlet
+  插花 | flower arrangement; ikebana
+  插嘴 | butt in; interrupt talking
+  插队 | jump the queue / cut in line
+  插图 | book illustration
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  插翅难逃 | chā chì nán táo | unable to escape even if given wings
+  倒打一耙 | dào dǎ yì pá | make a bogus counter-accusation
+  安插亲信 | ān chā qīn xìn | plant cronies in strategic positions
+  旁敲侧击 | páng qiāo cè jī | drop indirect hints and insinuations
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  插 | chā | insert; pierce; stick in; interpose | insertar; clavar; intercalar; meter | 扌 | hand | 扌 (hand manipulation) | 臿 (chā, pestle pounding in mortar / phonetic) | 12 | 左右结构 | Hand radical 扌 combined with 臿 (pestle pounding grain into mortar); motion of sticking or thrusting downward. | A hand (扌) guides a pestle-like prong (臿) firmly into its slot (插). | Una mano (扌) encaja una espiga (臿) firmemente en su ranura (插). | 55 | QHJL | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A hand (扌) plunges a rod down like a pestle (臿) to insert it securely (插).
+  composite_memory_hook_es: La mano (扌) clava un vástago como mano de mortero (臿) para insertarlo con firmeza (插).
+  cultural_and_cognitive_roots: Agricultural roots dating to Neolithic rice cultivation (插秧: inserting rice shoots into wet mud), expanding to modern electrical prongs.
+  tone_sandhi_and_pitch_modulation: High flat level tone: 'chā' (55). Hold clear high pitch 55 steadily without dipping.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    播 | bō | broadcast; sow seed | Has 番 on right of 扌 instead of 臿 in 插
+    捶 | chuí | beat; thump with fist | Has 垂 on right of 扌
+    碴 | chā | glass fragment; fault | Has stone radical 石 on left instead of hand 扌
+    茬 | chá | crop stubble; round | Has grass radical 艹 on top instead of 扌
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    刺 | cì | thorn; prick with sharp tip
+    入 | rù | enter; go inside
+    嵌 | qiàn | inlay flush into surface
+    穿 | chuān | pierce through; thread into
+
+semantic_boundary_contrasts:
+  core_nuance: 插 involves sliding or embedding an elongated object into an opening, gap, or soft medium.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 插 vs. 扎 | zhā | 扎 emphasizes puncturing a surface with a needle or needle-point causing a wound, while 插 slides into pre-existing openings or soft soil.
+    2 | 插 vs. 塞 | sāi | 塞 implies stuffing or jamming something tightly to plug a gap, while 插 implies a smooth linear insertion.
+    3 | 插 vs. 嵌 | qiàn | 嵌 implies embedding flush into a groove or mosaic, whereas 插 leaves parts sticking out.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 暮春时节江南水乡春雨绵绵，农夫们卷起裤脚挽起衣袖，走入波光粼粼的水田中辛勤插秧。一株株翠绿柔嫩的秧苗被整齐地插入松软的泥土里，不一会儿，原本空旷的水面便泛起了一片生机勃勃的新绿。 | Mùchūn shíjié Jiāngnán shuǐxiāng chūnyǔ miánmián, nóngfūmen juǎnqǐ kùjiǎo wǎnqǐ yīxiù, zǒurù bōguāng-línlín de shuǐtián zhōng xīnqín chāyāng. Yìzhūzhū cuìlǜ róunèn de yāngmiáo bèi zhěngqí de chārù sōngruǎn de nítǔ lǐ, bù yíhuìr, yuánběn kōngkuàng de shuǐmiàn biàn fànqǐ le yí piàn shēngjī-bóbó de xīnlǜ. | In late spring southern wetlands, farmers transplant rice in glistening paddies. Tender green shoots are inserted neatly into mud, soon carpeting watery fields in vibrant green. | A fines de primavera, labriegos trasplantan arroz bajo mansa llovizna. Tallos verdes son insertados en el fango blando tiñendo el espejo de agua de un lozano manto esperanzador.
+  #2 | 日常使用各类家用电器时，必须严格遵守电气安全规范。潮湿的手绝对不能触碰插头，插入插座时也应动作平稳、严禁蛮力拉扯电线。只有养成良好的用电习惯，才能有效避免因接触不良而发生短路险情。 | Rìcháng shǐyòng gèlèi jiāyòng diànqì shí, bìxū yángé zūnshǒu diànqì ānquán guīfàn. Cháoshī de shǒu juéduì bù néng chùpèng chātóu, chārù chāzuò shí yě yīng dòngzuò píngwěn, yánjìn mánlì lāchě diànxiàn. Zhǐyào yǎngchéng liánghǎo de yòngdiàn xíguàn, cáinéng yǒuxiào bìmiǎn yīn jiēchù bùliáng ér fāshēng duǎnlù xiǎnqíng. | When using appliances, adhering to electrical safety is vital. Never touch plugs with wet hands; insert them smoothly into outlets without yanking cords to avoid short-circuit risks. | Al manipular electrodomésticos, acatar las normas de seguridad eléctrica es indispensable. Jamás toques enchufes húmedos; insértalos suavemente en la toma para evitar cortocircuitos.

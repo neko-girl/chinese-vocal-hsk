@@ -1,0 +1,63 @@
+id: 11
+hanzi: 说服
+pinyin: shuō fú
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to persuade; to convince; to talk someone round
+  es: persuadir; convencer; hacer cambiar de opinión
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to use logical reasoning, evidence, or emotional appeal to win someone over | utilizar razonamientos lógicos, pruebas o persuasión para hacer que alguien acepte un punto de vista | 说服大家接受方案 (persuade everyone to accept the proposal)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他摆事实、讲道理，终于说服了持反对意见的客户签下合作协议。 | Tā bǎi shìshí, jiǎng dàolǐ, zhōngyú shuōfú le chí fǎnduì yìjiàn de kèhù qiānxià hézuò xiéyì. | Presenting facts and reasoning, he finally persuaded the opposing client to sign the agreement. | Exponiendo hechos y razonando, finalmente convenció al cliente reticente para que firmara el acuerdo.
+  #2 | 这篇科学研究论文数据详实严谨，论证层层递进，具有极强的说服力。 | Zhè piān kēxué yánjiū lùnwén shùjù xiángshí yánjǐn, lùnzhèng céngcéng-dìjìn, jùyǒu jí qiáng de shuōfúlì. | This scientific paper is rigorous with data and builds logically step by step, possessing immense persuasive power. | Esta tesis científica aporta datos minuciosos y una argumentación gradual dotada de un enorme poder de convicción.
+
+collocations[6]{hanzi,en}:
+  说服力 | persuasive power; cogency
+  耐心说服 | persuade patiently
+  试图说服 | attempt to convince
+  说服别人 | convince others
+  极具说服力 | highly persuasive
+  说服教育 | educate through persuasion
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  心服口服 | xīn fú kǒu fú | convinced in heart and word; completely convinced
+  理屈词穷 | lǐ qū cí qióng | run out of arguments when reason is lacking
+  苦口婆心 | kǔ kǒu pó xīn | persuade earnestly and kindly with good intentions
+  循循善诱 | xún xún shàn yòu | guide systematically and persuasively step by step
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  说 | shuō | speak; talk; explain; theory | hablar; decir; explicar; teoría | 讠 | speech | 讠 (spoken words/speech) | 兑 (duì, articulate/exchange / phonetic) | 9 | 左右结构 | Spoken words 讠 paired with 兑 (open mouth speaking pleasantly), signifying articulating thoughts clearly to others. | Words (讠) flow joyfully from an open mouth (兑) in clear speech (说). | Palabras (讠) brotan con agrado de una boca abierta (兑) en discurso fluido (说). | 55 | IVCR | 說
+  服 | fú | clothes; obey; submit; convince; serve | ropa; obedecer; someterse; convencerse; servir | 月 | flesh / boat | 月/舟 (boat or person) + 卩 (kneeling person) | 又 (yòu, hand / action) | 8 | 左右结构 | A hand 又 pressing a kneeling figure 卩 to submit, evolving from physical subjugation to voluntary mental assent and obedience. | A hand gently touches a kneeling person until they yield willingly in heart (服). | Una mano posada sobre quien se arrodilla hasta que asiente de buen grado (服). | 35 | BSSE | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Using reasoned speech (说) until the listener willingly assents in their heart (服) yields persuasion (说服).
+  composite_memory_hook_es: Emplear la palabra razonada (说) hasta que el oyente asiente de corazón (服) logra convencerlo (说服).
+  cultural_and_cognitive_roots: Derived from classical Chinese diplomacy and rhetoric (战国策); ancient strategists (纵横家) perfected the art of persuasion without resorting to warfare.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by rising tone: 'shuō fú' (55-35). Hold high pitch 55 on 'shuō', then rise smoothly from 3 to 5 on 'fú'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    悦 | yuè | pleased; delighted | Has heart radical 忄 on left instead of speech 讠 in 说
+    朋 | péng | friend | Consists of two 月 characters side by side
+    报 | bào | report; newspaper | Has hand radical 扌 on left instead of 月 in 服
+    蜕 | tuì | slough off; molt | Has insect radical 虫 on left instead of 讠
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    劝 | quàn | advise; urge with words
+    导 | dǎo | guide; lead with hand
+    信 | xìn | trust; sincere speech
+    从 | cóng | follow; agree with
+
+semantic_boundary_contrasts:
+  core_nuance: 说服 focuses on successfully achieving psychological agreement, whereas 劝告 is merely giving advice regardless of whether it is accepted.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 说服 vs. 劝说 | quànshuō | 劝说 highlights the ongoing communicative effort to advise, while 说服 marks the successful conclusion of having won someone over.
+    2 | 说服 vs. 强迫 | qiǎngpò | 强迫 compels compliance through threat or coercion, whereas 说服 relies on rational conviction and voluntary choice.
+    3 | 说服 vs. 开导 | kāidǎo | 开导 focuses on soothing emotional distress or mental gloom, while 说服 focuses on winning agreement in matters of opinion.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在商业谈判中，单凭华丽的言辞很难真正说服精明的投资人。唯有拿出详实客观的市场调研数据、清晰可行的盈利模式以及强大的执行团队，才能彻底打消顾虑，赢得真诚认可与资金支持。 | Zài shāngyè tánpàn zhōng, dānpíng huálì de yáncí hěn nán zhēnzhèng shuōfú jīngmíng de tóuzīrén. Wéiyǒu náchū xiángshí kèguān de shìchǎng diàoyán shùjù, qīngxī kěxíng de yínglì móshì yǐjí qiángdà de zhíxíng tuánduì, cáinéng chèdǐ dǎxiāo gùlǜ, yíngdé zhēnchéng rènkě yǔ zījīn zhīchí. | In business negotiations, flowery rhetoric alone rarely convinces shrewd investors. Only objective market data, clear profit models, and strong execution can dispel doubts and secure authentic backing. | En negociaciones comerciales, la retórica hueca apenas convence a inversores sagaces. Solo datos objetivos de mercado, modelos viables y equipos solventes disipan dudas y conquistan respaldo financiero.
+  #2 | 面对固执己见的朋友，粗暴指责往往适得其反，激起防御心理。真正高超的说服艺术，在于设身处地倾听对方关切，巧妙引导其换位思考，让对方在自主权衡中得出合乎逻辑的明智结论。 | Miànduì gùzhí jǐjiàn de péngyou, cūbào zhǐzé wǎngwǎng shìdéqífǎn, jīqǐ fángyù xīnlǐ. Zhēnzhèng gāochāo de shuōfú yìshù, zàiyú shèshēnchǔdì qīngtīng duìfāng guānqiè, qiǎomiào yǐndǎo qí huànwèi sīkǎo, ràng duìfāng zài zìzhǔ quánhéng zhōng déchū héhū luóji de míngzhì jiélùn. | Confronting stubborn friends with blunt reproach often backfires into defensiveness. True persuasive skill lies in empathetic listening and guiding them to weigh perspectives autonomously toward wise conclusions. | Ante amigos testarudos, la censura tajante desata actitudes defensivas. La verdadera maestría persuasiva consiste en escuchar con empatía y guiar con tacto para que sopesen opciones y alcancen conclusiones sensatas.

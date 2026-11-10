@@ -1,0 +1,63 @@
+id: 34
+hanzi: 曾经
+pinyin: céng jīng
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: once; formerly; previously; at one time in the past
+  es: una vez; antaño; en otro tiempo; anteriormente; haber ocurrido en el pasado
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | indicates that an action or state occurred or existed at a specific prior time in the past | indica que una acción o estado tuvo lugar o existió en un momento anterior del pasado | 曾经去过北京 (once visited Beijing)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 青年时代他曾经独自背着行囊周游大江南北，那些艰苦而充实的旅途岁月磨砺了他坚韧的性格。 | Qīngnián shídài tā céngjīng dúzì bēizhe xíngnáng zhōuyóu Dàjiāng-nánběi, nàxiē jiānkǔ ér chōngshí de lǚtú suìyuè mólì le tā jiānrèn de xìnggé. | In his youth he once traveled across the nation alone with a backpack; those arduous and fulfilling journeys honed his resilient character. | En su juventud recorrió en solitario el país con una mochila; aquellas duras y ricas andanzas templaron su tenaz personalidad.
+  #2 | 鲁迅在给友人的信件中曾经深情形容故乡绍兴的乌篷船与社戏，那些童年水乡记忆是他一生的精神慰藉。 | Lǔ Xùn zài gěi yǒurén de xìnjiàn zhōng céngjīng shēnqíng xíngróng gùxiāng Shàoxīng de wūpéngchuán yǔ shèxì, nàxiē tóngnián shuǐxiāng jìyì shì tā yìshēng de jīngshén wèijiè. | In letters to friends, Lu Xun once affectionately described the awning boats and village operas of Shaoxing, a lifelong spiritual comfort. | En cartas a amigos, Lu Xun evocó con cariño las barcas de toldo negro y las óperas de Shaoxing, recuerdos de infancia que fueron su consuelo vital.
+
+collocations[6]{hanzi,en}:
+  曾经发生 | once occurred
+  曾经辉煌 | once glorious / historically splendid
+  曾经说过 | once said
+  曾经相识 | once acquainted with each other
+  曾经沧海 | having seen the wide sea (experienced much)
+  曾经拥有 | once possessed
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  曾经沧海 | céng jīng cāng hǎi | having sailed the vast ocean, other waters pale in comparison
+  时过境迁 | shí guò jìng qiān | time has passed and the circumstances have changed
+  事过境迁 | shì guò jìng qiān | things change with the passage of time
+  今非昔比 | jīn fēi xī bǐ | the present cannot be compared to the past; dramatic change
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  曾 | céng | already; past; once; previous; great-grand- | ya; antes; otrora; anterior; bis- | 日 | sun / day | 八 (diverge upward) + 丷 (steam) | 日 (sun marking past days) | 12 | 上下结构 | Oracle bone pictogram of a clay steaming cauldron with steam rising; borrowed phonetically to signify already passed time. | Steam rises into the air above the cauldron, marking past days (日) that have already elapsed (曾). | El vapor se eleva sobre la olla cocedora, simbolizando los días (日) ya transcurridos (曾). | 35 | CWA | ""
+  经 | jīng | pass through; experience; warp; classics | pasar por; experimentar; urdimbre; clásicos | 纟 | silk | 纟 (longitudinal warp silk threads) | 巠 (jīng, underground water flow / phonetic) | 8 | 左右结构 | Phono-semantic character where longitudinal silk threads 纟 run continuously through the loom, denoting passing through time. | Long silk threads (纟) pass through the loom from end to end, weaving experiences along the way (经). | Finos hilos de seda (纟) atraviesan el telar de principio a fin, tejiendo el paso del tiempo (经). | 55 | VMNOM | 經
+
+mnemonics_and_roots:
+  composite_memory_hook_en: What has already elapsed in past days (曾) and passed through life's loom (经) happened previously (曾经).
+  composite_memory_hook_es: Lo que ya transcurrió en días idos (曾) y pasó por el telar de la vida (经) ocurrió en otro tiempo (曾经).
+  cultural_and_cognitive_roots: A time-aspect adverb dating to Middle Chinese; marks completed experiences situated in a bygone temporal frame, often evoking nostalgic or reflective emotional coloring.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by level high tone: 'céng jīng' (35-55). Smooth rising contour on 'céng', followed by a sustained high tone on 'jīng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    增 | zēng | increase | Has earth radical 土 on left of 曾
+    赠 | zèng | give as gift | Has cowrie radical 贝 on left of 曾
+    红 | hóng | red | Has 工 on right of 纟 instead of 圣/巠
+    轻 | qīng | light weight | Has vehicle radical 车 on left instead of 纟
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    往 | wǎng | past; go to; former
+    昔 | xī | former times; sun over dried meat
+    历 | lì | pass through; calendar history
+    过 | guò | cross over; pass by on road
+
+semantic_boundary_contrasts:
+  core_nuance: 曾经 is an aspectual adverb indicating that an event definitively took place in the past, often contrasting with the present.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 曾经 vs. 已经 | yǐjīng | 已经 indicates that an action is currently completed ('已经做完'), whereas 曾经 emphasizes that it occurred in a bygone past period ('曾经做过').
+    2 | 曾经 vs. 从前 | cóngqián | 从前 is a time noun meaning 'in the past / once upon a time', while 曾经 is an adverb directly preceding verbal predicates.
+    3 | 曾经 vs. 过去 | guòqù | 过去 functions as a broad noun for the past ('在过去') or directional verb, unlike the preverbal aspect marker 曾经.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 曾经走过的弯路与吃过的苦头，最终都会化作生命中最珍贵的养分。那些在至暗时刻咬牙坚持的岁月，如今回望起来不过是轻舟已过的万重山峦。不必沉溺于过去的遗憾，所有曾经的磨难，都是为了成全今日更坚韧的自己。 | Céngjīng zǒuguò de wānlù yǔ chīguò de kǔtou, zuìzhōng dōu huì huàzuò shēngmìng zhōng zuì zhēnguì de yǎngfèn. Nàxiē zài zhì'àn shíkè yǎoyá jiānchí de suìyuè, rújīn huíwàng qǐlái bùguò shì qīngzhōu-yǐguò de wànchóng shānluán. Búbì chénnì yú guòqù de yíhàn, suǒyǒu céngjīng de mónàn, dōu shì wèile chéngquán jīnrì gèng jiānrèn de zìjǐ. | The detours and hardships once endured ultimately become life's richest nutrients. Dark hours endured with grit now seem like distant mountains passed by a swift boat. Regret not the past; all trials forge a stronger self. | Los desvíos y sinsabores vividos antaño terminan siendo el mejor abono del alma. Las horas aciagas resistidas con coraje parecen hoy cumbres lejanas dejadas atrás. No cabe llorar el ayer: las pruebas sufridas forjan la entereza presente.
+  #2 | 回首近代以来中华民族走过的风雨征程，无数仁人志士曾经为了救亡图存抛头颅洒热血。从积贫积弱的半殖民地旧中国，到今日繁荣昌盛的世界第二大经济体，这片古老大地上曾经饱经沧桑的历史记忆，始终激励着亿万中华儿女奋勇前行。 | Huíshǒu jìndài yǐlái Zhōnghuá mínzú zǒuguò de fēngyǔ zhēngchéng, wúshù rénrén-zhìshì céngjīng wèile jiùwáng-túcún pāotóu-sǎrèxuè. Cóng jīpín-jīruò de bàn zhímíndì jiù Zhōngguó, dào jīnrì fánróng-chāngshèng de shìjiè dì-èr dà jīngjìtǐ, zhè piàn gǔlǎo dàdì shàng céngjīng bǎojīng-cāngsāng de lìshǐ jìyì, shǐzhōng jīlì zhe yìwàn Zhōnghuá érnǚ fènyǒng qiánxíng. | Looking back on modern trials, patriots once shed blood to save the nation. From a broken semi-colony to the world's second-largest economy, memories of hardship once endured on this soil inspire millions to advance boldly. | Al contemplar las vicisitudes de la era moderna, incontables patriotas dieron su sangre por la nación. De la humillación colonial al vigor de la segunda potencia económica, las penalidades sufridas antaño alientan a avanzar con tesón.

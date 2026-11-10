@@ -1,0 +1,63 @@
+id: 28
+hanzi: 改进
+pinyin: gǎi jìn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to improve; to modify; to make better; improvement
+  es: mejorar; perfeccionar; reformar; optimizar; mejora
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to change, refine, or upgrade methods, technologies, or tools to make them better and more efficient | modificar, perfeccionar o actualizar métodos, técnicas o herramientas para elevar su eficacia | 改进工作方法 (improve working methods)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 工程师团队根据用户反馈的意见，对手机操作系统的流畅度进行了深度改进。 | Gōngchéngshī tuánduì gēnjù yònghù fǎnkuì de yìjiàn, duì shǒujī cāozuò xìtǒng de liúchàngdù jìnxíng le shēndù gǎijìn. | Based on user feedback, the engineering team carried out deep improvements on the mobile OS smoothness. | Tomando en cuenta las sugerencias de los usuarios, los ingenieros perfeccionaron a fondo la fluidez del sistema operativo móvil.
+  #2 | 工厂引进了自动化流水线并大力改进生产工艺，不仅大幅削减了能耗，还显著提升了产量。 | Gōngchǎng yǐnjìn le zìdònghuà liúshuǐxiàn bìng dàlì gǎijìn shēngchǎn gōngyì, bùjǐn dàfú xuējiǎn le nénghào, hái xiǎnzhù tíshēng le chǎnliàng. | The plant introduced automated assembly lines and improved craftsmanship, slashing energy consumption and boosting output. | La fábrica introdujo líneas automatizadas y mejoró los procesos productivos, recortando el consumo energético y aumentando la producción.
+
+collocations[6]{hanzi,en}:
+  改进工作 | improve work
+  改进技术 | upgrade/improve technology
+  改进方法 | improve methods
+  改进工艺 | refine manufacturing craft
+  大力改进 | vigorously improve
+  有待改进 | leave room for improvement
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  精益求精 | jīng yì qiú jīng | constantly strive for perfection; refine unceasingly
+  推陈出新 | tuī chén chū xīn | weed through the old to bring forth the new
+  革故鼎新 | gé gù dǐng xīn | discard the obsolete and establish the new
+  改过自新 | gǎi guò zì xīn | turn over a new leaf; reform oneself
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  改 | gǎi | change; alter; correct; transform | cambiar; corregir; modificar; reformar | 攵 | tap / action | 己 (oneself) + 攵 (tapping hand correcting posture) | 改 (gǎi) | 7 | 左右结构 | A hand holding a rod 攵 lightly tapping to correct oneself 己; signifies reforming flaws into proper form. | A mentor taps a student lightly (攵) to correct posture, changing for the better (改). | Una vara suave (攵) corrige la postura personal (己) para reformarla a mejor (改). | 214 | SUOK | ""
+  进 | jìn | advance; enter; move forward; promote | avanzar; entrar; progresar; promover | 辶 | walk / movement | 辶 (walk/movement) + 井 (phonetic / well-ordered grid) | 进 (jìn) | 7 | 半包围结构 | Oracle bone pictograph of a small bird hopping forward 佳 with a walking foot 辶; moving steadily ahead. | Footsteps (辶) march steadily through the gate, moving forward (进). | Pasos firmes (辶) cruzan el dintel avanzando resueltamente hacia adelante (进). | 51 | YTT | 進
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Correcting flaws (改) to advance forward (进) constitutes an improvement (改进).
+  composite_memory_hook_es: Corregir defectos (改) para avanzar adelante (进) conduce a la mejora (改进).
+  cultural_and_cognitive_roots: Rooted in the Chinese philosophical tenet of constant self-renewal (日新又新); continuously rectifying flaws to promote progress.
+  tone_sandhi_and_pitch_modulation: Dipping tone followed by falling tone: 'gǎi jìn' (214-51). Dip on 'gǎi' then land decisively on falling 'jìn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    政 | zhèng | politics; government | Has 正 on left of 攵 instead of 己 in 改
+    攻 | gōng | attack; study | Has 工 on left of 攵
+    近 | jìn | near; close | Has 斤 inside 辶 instead of 井 in 进
+    送 | sòng | deliver; see off | Has 关 inside 辶
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    良 | liáng | good; fine quality
+    革 | gé | leather; reform skin
+    更 | gēng | change; renew watch
+    变 | biàn | alter; transform
+
+semantic_boundary_contrasts:
+  core_nuance: 改进 targets refining procedural methods, tools, workflows, or technologies to make them more effective.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 改进 vs. 改善 | gǎishàn | 改善 usually collocates with conditions, livelihoods, or relationships ('改善生活', '改善关系'), while 改进 collocates with methods, techniques, and systems ('改进工艺', '改进作风').
+    2 | 改进 vs. 改良 | gǎiliáng | 改良 often refers to biological breeding or soil enhancement ('改良品种', '改良土壤'), whereas 改进 applies to tools and workflows.
+    3 | 改进 vs. 改革 | gǎigé | 改革 implies large-scale institutional transformation of social or economic structures, while 改进 is operational refinement.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代精益制造理念中，持续改进被视为企业安身立命之本。一线工人和技术骨干紧密配合，不放过任何一个操作细节上的小缺陷，通过日积月累的技术微创新，使整条生产线的加工精度达到了行业领先水平。 | Zài xiàndài jīngyì zhìzào lǐniàn zhōng, chíxù gǎijìn bèi shìwéi qǐyè ānshēn-lìmìng zhī běn. Yīxiàn gōngrén yǔ jìshù gǔgàn jǐnmì pèihé, bú fàngguò rènhé yí ge cāozuò xìjié shàng de xiǎoquēxiàn, tōngguò rìjī-yuèlěi de jìshù wēichuàngxīn, shǐ zhěng tiáo shēngchǎnxiàn de jiāgōng jīngdù dádào le hángyè lǐngxiān shuǐpíng. | In lean manufacturing, continuous improvement is vital. Workers and technicians address minor flaws in operational details; through accumulated micro-innovations, the line's precision achieves industry leadership. | En la manufactura esbelta, la mejora continua es pilar esencial. Operarios y técnicos corrigen minucias operativas; con microinnovaciones diarias la precisión de la línea alcanza el liderazgo industrial.
+  #2 | 面对瞬息万变的市场需求，互联网产品经理必须时刻根据用户体验反馈改进产品设计。从简化注册流程到优化界面交互，唯有以用户为中心不断迭代升级，才能在同质化严重的激烈竞争中立于不败之地。 | Miànduì shùnxī-wànbiàn de shìchǎng xūqiú, hùliánwǎng chǎnpǐn jīnglǐ bìxū shíkè gēnjù yònghù tǐyàn fǎnkuì gǎijìn chǎnpǐn shèjì. Cóng jiǎnhuà zhùcè liúchéng dào yōuhuà jièmiàn jiāohù, wéiyǒu yǐ yònghù wéi zhōngxīn bùduàn diédài shēngjí, cáinéng zài tóngzhìhuà yánzhòng de jīliè jìngzhēng zhōng lìyú-búbàizhīdì. | Facing fast-changing market needs, internet product managers continuously improve designs based on user feedback. From streamlining onboarding to UI interaction, iterating keeps products competitive. | Ante la demanda cambiante, los gestores de producto perfeccionan el diseño según las impresiones del usuario. Simplificar el registro y optimizar la interfaz asegura la competitividad del producto.

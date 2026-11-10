@@ -1,0 +1,65 @@
+id: 15
+hanzi: 讲究
+pinyin: jiǎng jiu
+level: HSK 5
+part_of_speech: Verb / Adjective / Noun
+
+meanings_summary:
+  en: to be particular about; to pay attention to; exquisite; tasteful; particularity
+  es: ser exigente con; cuidar al detalle; refinado; primoroso; esmero; minuciosidad
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to pay meticulous attention to, stress, or be exceptionally discerning and particular about quality or etiquette | prestar minuciosa atención a, ser sumamente exigente con o cuidar con esmero la calidad o el protocolo | 讲究卫生 (pay attention to hygiene)
+  2 | Adjective | Standard | tasteful, exquisite, sophisticated, or delicately made | primoroso, refinado, elegante o primorosamente elaborado | 陈设很讲究 (furnishings are very tasteful)
+  3 | Noun | Colloquial | intricate rules, delicate techniques, or fine points to be observed | reglas sutiles, detalles protocolarios o pormenores a tener en cuenta | 很有讲究 (involves a great deal of fine points)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这间茶室的布置极为讲究，无论是几案上的宋瓷插花还是墙上的古画，都透出淡雅的文人趣味。 | Zhè jiān cháchì de bùzhì jíwéi jiǎngjiu, wúlùn shì jī'àn shàng de Sòng cí chāhuā háishì qiáng shàng de gǔhuà, dōu tòuchū dànyǎ de wénrén qùwèi. | The decor of this teahouse is extremely exquisite; whether the Song porcelain flower arrangement or antique scrolls, it exudes literati elegance. | La decoración de este salón de té es primorosa; tanto los jarrones de porcelana Song como las pinturas murales respiran refinamiento letrado.
+  #2 | 鲁迅先生对饮食极为讲究，不仅挑选食材严苛，更对火候掌控与菜肴搭配有着极高的美学追求。 | Lǔ Xùn xiānsheng duì yǐnshí jíwéi jiǎngjiu, bùjǐn tiāoxuǎn shícái yánkē, gèng duì huǒhou zhǎngkòng yǔ càiyáo dāpèi yǒuzhe jí gāo de měixué zhuīqiú. | Mr. Lu Xun was extremely particular about dining; he not only selected ingredients rigorously, but held high aesthetic standards for cooking heat and pairings. | Lu Xun era muy exigente con la comida; no solo seleccionaba los ingredientes con rigor, sino que cuidaba al detalle el fuego y la armonía de los platos.
+
+collocations[6]{hanzi,en}:
+  讲究卫生 | pay attention to hygiene
+  讲究吃穿 | be particular about food and clothing
+  穿着讲究 | tastefully and impeccably dressed
+  颇有讲究 | have considerable fine points
+  讲究实效 | stress practical results
+  讲究方法 | pay attention to proper methods
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  精益求精 | jīng yì qiú jīng | constantly strive for ever greater perfection
+  一丝不苟 | yì sī bù gǒu | scrupulously meticulous; not overlooking a single thread
+  吹毛求疵 | chuī máo qiú cī | nitpick and blow aside hair looking for tiny flaws
+  登峰造极 | dēng fēng zào jí | reach the pinnacle of excellence
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  讲 | jiǎng | speak; explain; stress; negotiate | hablar; explicar; enfatizar; negociar | 讠 | speech | 讠 (speech/words) | 井 (jǐng, well / orderly grid) | 6 | 左右结构 | Phono-semantic character where speech 讠 is structured in an orderly grid 井, meaning to discuss and stress rules. | Orderly words (讠) laid out like a neat square water well (井) explain instructions carefully (讲). | Palabras claras (讠) ordenadas como el brocal de un pozo (井) exponen las normas con rigor (讲). | 214 | IVTT | 講
+  究 | jiu | investigate; examine thoroughly; after all | indagar; examinar a fondo; al fin | 穴 | cave | 穴 (cave/depth) | 九 (jiǔ, nine / exhaustive limit) | 7 | 上下结构 | Ideogram showing probing to the ninth 九 extreme depth of a cave 穴, meaning exhaustive scrutiny. | Probing deep into a dark cave (穴) nine (九) times leaves no stone unturned in thorough research (究). | Explorar el fondo de la caverna (穴) hasta el límite nueve (九) no deja rincón sin escrutar (究). | 55 | JCKN | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Discuss rules with precision (讲) and probe to the deepest cave (究) to ensure everything is exquisite and particular (讲究).
+  composite_memory_hook_es: Expón las normas (讲) e indaga hasta el fondo (究) para asegurar que todo sea primoroso y refinado (讲究).
+  cultural_and_cognitive_roots: Originates from scholar-official aesthetics where living was elevated into an art form; 'jiǎngjiu' denotes mindful taste and refined restraint rather than vulgar ostentation.
+  tone_sandhi_and_pitch_modulation: Dipping tone followed by neutral tone: 'jiǎng jiu' (214-2). Syllable 'jiǎng' dips fully, and 'jiu' is softened into a light neutral tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    许 | xǔ | allow; perhaps | Has 午 on right instead of 井
+    突 | tū | sudden; dash | Has 犬 below 穴 instead of 九
+    穷 | qióng | poor; exhausted | Has 力 below 穴 instead of 九
+    空 | kōng | empty; sky | Has 工 below 穴 instead of 九
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    雅 | yǎ | refined; elegant; standard
+    精 | jīng | refined rice; essence; exquisite
+    琢 | zhuó | carve jade meticulously
+    致 | zhì | delicate; fine; send
+
+semantic_boundary_contrasts:
+  core_nuance: 讲究 denotes meticulous attention to quality and refined aesthetic standards, or describes tastefully made artifacts.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 讲究 vs. 注重 | zhùzhòng | 注重 is a neutral verb meaning to place emphasis on something, while 讲究 implies refined aesthetic taste, etiquette, or demanding connoisseurship.
+    2 | 讲究 vs. 精致 | jīngzhì | 精致 is solely an adjective describing finely crafted physical objects, whereas 讲究 can function as verb (to stress), adjective (tasteful), or noun (delicate rule).
+    3 | 讲究 vs. 挑剔 | tiāoti | 挑剔 carries a negative nuance of being fussily hypercritical, whereas 讲究 represents cultured elegance and high standards.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生活里的讲究，不是挥金如土的奢侈，而是一种取悦内心的自律与从容。清晨给花瓶换上一束带露的雏菊，沏茶时严格把握水温，这些看似繁琐的细节，正是让平淡日子开出花来的秘诀。讲究，是把平凡日子过成诗意。 | Shēnghuó lǐ de jiǎngjiu, bú shì huījīn-rútǔ de shěchǐ, ér shì yì zhǒng qǔyuè nèixīn de zìlǜ yǔ cóngróng. Qīngchén gěi huāpíng huànshàng yí shù dài lù de chújú, qīchá shí yángé bǎwò shuǐwēn, zhèxiē kànsì fánsuǒ de xìjié, zhèng shì ràng píngdàn rìzi kāichū huā lái de mìjué. Jiǎngjiu, shì bǎ píngfán rìzi guò chéng shīyì. | Being particular about life is not squandering money, but self-discipline and tranquility that pleases the soul. Replacing daisies with morning dew or controlling tea water temperature turns ordinary days into poetic moments. | El esmero cotidiano no es derroche, sino templanza y deleite interior. Poner margaritas frescas al alba o cuidar la temperatura del agua al preparar té son detalles que hacen florecer la rutina, convirtiendo lo ordinario en poesía.
+  #2 | 中国传统建筑对营造法式有着极其严苛的讲究。从梁架榫卯的咬合精度，到斗拱排布的力学结构，无不体现出古代匠人对天人合一哲学思想的崇高追求。这种对工艺极致讲究的工匠精神，正是中华传统营建文脉生生不息的根基。 | Zhōngguó chuántǒng jiànzhù duì yíngzào fǎshì yǒuzhe jíqí yánkē de jiǎngjiu. Cóng liángjià sǔnmǎo de yǎohé jīngdù, dào dǒugǒng páibù de lìxué jiégòu, wúbù tǐxiàn chū gǔdài jiàngrén duì tiānrén-héyī zhéxué sīxiǎng de chónggāo zhuīqiú. Zhè zhǒng duì gōngyì jízhì jiǎngjiu de gōngjiàng jīngshén, zhèng shì Zhōnghuá chuántǒng yíngjiàn wénmài shēngshēng-bùxī de gēnjī. | Traditional Chinese architecture enforces rigorous standards. From mortise precision to bracket mechanics, it reflects harmony between humanity and nature. This relentless commitment to craft excellence forms the foundation of architectural heritage. | La arquitectura tradicional china sigue pautas de construcción muy exigentes. Desde el ajuste de las vigas hasta los soportes ménsula, todo refleja la unión del hombre y el cosmos. Ese primoroso rigor artesanal sustenta la memoria edilicia.

@@ -1,0 +1,63 @@
+id: 37
+hanzi: 重大
+pinyin: zhòng dà
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: great; momentous; significant; major; monumental
+  es: trascendental; de gran envergadura; crucial; capital
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | having great significance, consequence, scale, or far-reaching impact | que reviste extraordinaria importancia, alcance, trascendencia o gravedad | 取得重大突破 (achieve a major breakthrough)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 我国科学家在量子计算与量子通信领域取得了举世瞩目的重大突破，牢牢占据了国际科技制高点。 | Wǒguó kēxuéjiā zài liàngzǐ jìsuàn yǔ liàngzǐ tōngxìn lǐngyù qǔdé le jǔshì-zhǔmù de zhòngdà tūpò, láoláo zhànjù le guójì kējì zhìgāodiǎn. | Our country's scientists achieved world-renowned major breakthroughs in quantum computing, securing commanding heights in global tech. | Nuestros científicos lograron avances de trascendental envergadura en computación cuántica, conquistando un liderazgo mundial indiscutible.
+  #2 | 在涉及国家安全与人民群众根本利益的重大问题上，必须始终保持高度的政治敏锐性与原则性。 | Zài shèjí guójiā ānquán yǔ rénmín qúnzhòng gēnběn lìyì de zhòngdà wèntí shàng, bìxū shǐzhōng bǎochí gāodù de zhèngzhì mǐnruìxìng yǔ yuánzéxìng. | On momentous issues concerning national security and people's fundamental interests, one must maintain political sensitivity and principle. | En asuntos de capital trascendencia relativos a la seguridad nacional y el bienestar ciudadano, es imperativo mantener una sólida firmeza de principios.
+
+collocations[6]{hanzi,en}:
+  重大突破 | major breakthrough
+  重大意义 | monumental significance
+  重大贡献 | momentous contribution
+  重大事故 | major accident; severe incident
+  重大决策 | momentous strategic decision
+  重大历史事件 | major historical event
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  举足轻重 | jǔ zú qīng zhòng | hold the balance of power; play a pivotal, decisive role
+  至关重要 | zhì guān zhòng yào | of paramount importance; vital and crucial
+  非同小可 | fēi tóng xiǎo kě | no trivial matter; of profound consequence
+  重中之重 | zhòng zhōng zhī zhòng | the highest priority of all; priority among priorities
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  重 | zhòng | heavy; weighty; serious; important | pesado; grave; importante; de peso | 里 | village / Chinese mile | 人 (human standing) + 东 (heavy bundle strapped on back) + 土 (earth/burden) | 重 (zhòng) | 9 | 单一结构 | A person bending under a heavy baggage bundle 东 on their back; signifies weightiness, seriousness, and importance. | A traveler carries a heavy loaded bundle (东) strapped tight, staggering under the weighty burden (重). | Un caminante sostiene un fardo pesado (东) a sus espaldas, encorvándose bajo la enorme carga (重). | 51 | HJG | ""
+  大 | dà | big; large; great; grand | grande; grandioso; magno; mayor | 大 | big / great | 人 (human stretching arms and legs out to maximum size) | 大 (dà) | 3 | 单一结构 | Oracle bone pictograph of an adult person standing tall with arms stretched wide to represent greatness and scale. | A person spreads arms wide to measure something huge and grand (大). | Una persona extiende los brazos en cruz para abarcar algo inmenso y grandioso (大). | 51 | K | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Both weighty in consequence (重) and vast in scale (大), a momentous event is created (重大).
+  composite_memory_hook_es: Pesado de consecuencias (重) e inmenso de escala (大) forjan lo trascendental y crucial (重大).
+  cultural_and_cognitive_roots: Synonym pairing of magnitude and consequence; applied in statecraft (国家大计) to demarcate cardinal political and civil landmarks.
+  tone_sandhi_and_pitch_modulation: Double falling fourth tones: 'zhòng dà' (51-51). Descend sharply and heavily on 'zhòng', then land firmly on 'dà'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    量 | liàng | measure; quantity | Has 日 atop 里 instead of 千 in 重
+    童 | tóng | child | Has 立 atop 里
+    太 | tài | too; extreme | Has a dot at bottom of 大
+    犬 | quǎn | dog | Has a dot at upper right of 大
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    巨 | jù | gigantic; immense size
+    要 | yào | crucial waist; essential
+    要 | zhòng | weight of bronze
+    伟 | wěi | extraordinary greatness
+
+semantic_boundary_contrasts:
+  core_nuance: 重大 modifies events, breakthroughs, policies, and consequences that carry profound institutional or historical impact.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 重大 vs. 重要 | zhòngyào | 重要 is a widely applicable descriptor for anything essential or necessary in daily life ('重要的人', '重要的事情'), while 重大 is reserved for macroscopic, epochal events and breakthroughs ('重大转折', '重大胜利').
+    2 | 重大 vs. 巨大 | jùdà | 巨大 emphasizes immense physical volume, physical force, or quantitative scale ('巨大的石块', '巨大的反响'), whereas 重大 emphasizes profound consequence and significance.
+    3 | 重大 vs. 要紧 | yàojǐn | 要紧 is an informal spoken adjective meaning urgent or critical ('不要紧 nothing serious'), lacking the institutional stature of 重大.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 港珠澳大桥作为连接粤港澳大湾区的三地跨海巨构，是国家重大工程建设史上的光辉里程碑。建设团队攻克了海底深埋沉管等一系列世界级技术难题，对促进区域经济深度融合发展具有深远重大的战略意义。 | Gǎng-Zhū-Ào Dàqiáo zuòwéi liánjiē Yuè-Gǎng-Ào Dàwānqū de sān dì kuàhǎi jùgòu, shì guójiā zhòngdà gōngchéng jiànshè shǐ shàng de guānghuī lǐchéngbēi. Jiànshè tuánduì gōngkè le hǎidǐ shēnmái chénguǎn děng yíxìliè shìjièjí jìshù nántí, duì cùjìn qūyù jīngjì shēndù rónghé fāzhǎn jùyǒu shēnyuǎn zhòngdà de zhànlüè yìyì. | The Hong Kong-Zhuhai-Macao Bridge, linking the Greater Bay Area, marks a milestone in national mega-engineering. Overcoming undersea tube engineering hurdles, it holds momentous strategic significance for regional integration. | El puente Hong Kong-Zhuhai-Macao constituye un hito glorioso en la megaingeniería nacional. Superando retos de túneles submarinos sumergidos, reviste una trascendencia estratégica capital para la integración comarcal.
+  #2 | 站在人类文明发展的历史十字路口，每一次科技革命都会引发生产力与社会结构的重大重塑。面对新一轮人工智能与绿色能源浪潮，各国唯有秉持开放包容与合作共赢的原则，才能有效防范重大全球性风险，携手开创美好未来。 | Zhàn zài rénlèi wénmíng fāzhǎn de lìshǐ shízìlùkǒu, měi yí cì kējì gémìng dōuhuì yǐnfā shēngchǎnlì yǔ shèhuì jiégòu de zhòngdà chóngsù. Miànduì xīn yì lún réngōng zhìnéng yǔ lǜsè néngyuán làngcháo, gèguó wéiyǒu bǐngchí kāifàng-bāoróng yǔ hézuò-gòngyíng de yuánzé, cáinéng yǒuxiào fángfàn zhòngdà quánqiúxìng fēngxiǎn, xiéshǒu kāichuàng měihǎo wèilái. | At history's crossroads, every scientific revolution triggers major reshaping of productivity and society. Facing AI and green energy waves, nations must uphold cooperation to guard against major global risks and forge a shared future. | En la encrucijada histórica de la civilización, toda revolución técnica suscita una transformación de gran calado. Ante la inteligencia artificial y la energía verde, la cooperación multilateral previene riesgos globales mayores.

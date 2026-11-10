@@ -1,0 +1,64 @@
+id: 16
+hanzi: 平均
+pinyin: píng jūn
+level: HSK 5
+part_of_speech: Adjective / Adverb / Verb
+
+meanings_summary:
+  en: average; mean; equally; evenly divided; on average
+  es: promedio; medio; por término medio; igualar; equitativo; parejo
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | equally distributed without bias, or representing an arithmetic mean | distribuido a partes iguales o que representa una media aritmética | 平均分配 (distribute equally)
+  2 | Adverb | Standard | on average; evenly across units of time or count | por término medio; de manera uniforme por unidad de tiempo o cuenta | 平均每月 (on average each month)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 根据气象台的统计数据，该地区年平均气温在十五摄氏度左右，气候十分宜人舒适。 | Gēnjù qìxiàngtái de tǒngjì shùjù, gāi dìqū nián píngjūn qìwēn zài shíwǔ shèshìdù zuǒyòu, qìhòu shífēn yírén shūshì. | According to meteorological data, the annual average temperature in this region is around 15 degrees Celsius, very pleasant. | Según los registros meteorológicos, la temperatura media anual ronda los quince grados, haciendo el clima muy grato.
+  #2 | 查阅鲁迅在北京时期的日记发现，他平均每个月都要同挚友聚餐数次，足迹遍及各大知名餐馆。 | Cháyuè Lǔ Xùn zài Běijīng shíqī de rìjì fāxiàn, tā píngjūn měi ge yuè dōu yào tóng zhìyǒu jùcān shù cì, zújì biànjí gèdà zhīmíng cānguǎn. | Reviewing Lu Xun's Beijing diaries reveals that on average he dined out with close friends several times a month across famous restaurants. | Al consultar los diarios de Lu Xun en Pekín, se aprecia que por término medio se reunía a comer con amigos íntimos varias veces al mes.
+
+collocations[6]{hanzi,en}:
+  平均水平 | average level
+  平均分配 | equal distribution
+  平均寿命 | average life expectancy
+  平均速度 | average speed
+  人均/平均收入 | average income per capita
+  平均分摊 | share costs equally
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  平分秋色 | píng fēn qiū sè | divide autumn scenery equally; share honors equally
+  一视同仁 | yí shì tóng rén | treat everyone equally with same benevolence
+  不患寡而患不均 | bú huàn guǎ ér huàn bù jūn | worry not about scarcity, but about unequal distribution
+  水涨船高 | shuǐ zhǎng chuán gāo | when the water rises, the boat goes up too; tied fortunes
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  平 | píng | flat; level; calm; equal; peace | plano; llano; sereno; igual; paz | 干 | shield/stem | 于 (breath expanding levelly) | 八 (divide symmetrically) | 5 | 单一结构 | Ancient ideogram showing breath dispersing evenly to both sides along a level balance beam. | A balanced scale rests level across the center bar, weighing both pans in fair equality (平). | Una balanza de platillos se mantiene nivelada sobre el fiel, repartiendo el peso con equidad (平). | 35 | MFJ | ""
+  均 | jūn | equal; even; all; uniform | igual; parejo; uniforme; equitativo | 土 | earth | 土 (soil/land to divide) | 匀 (yún, even / phonetic) | 7 | 左右结构 | Phono-semantic character where land 土 is apportioned evenly 匀 among farmers. | Mounds of fertile soil (土) are divided evenly and uniformly (匀) among the field hands (均). | Parcelas de tierra (土) se reparten de modo equitativo (匀) entre los campesinos (均). | 55 | GPMM | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Level the scales (平) and distribute the soil evenly (均) to establish a fair average (平均).
+  composite_memory_hook_es: Nivela la balanza (平) y reparte la tierra por igual (均) para calcular el promedio (平均).
+  cultural_and_cognitive_roots: Derived from ancient agrarian land surveying (井田制) and balance scales; represents the Confucian value of egalitarian fairness and mathematical equilibrium.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by level high tone: 'píng jūn' (35-55). Smooth upward rise on 'píng', followed by a sustained high tone on 'jūn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    乎 | hū | particle | Has curved slant at top instead of flat horizontal line of 平
+    匀 | yún | even; uniform | Lacks the earth radical 土 on the left of 均
+    钓 | diào | fish with hook | Has metal radical 钅 on left instead of 土
+    半 | bàn | half | Vertical stroke crosses top stroke, unlike 平
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    衡 | héng | balance beam; weigh equally
+    齐 | qí | aligned; even like ear of wheat
+    等 | děng | equal; bamboo tallies equalized
+    称 | chèng | steelyard balance; weigh
+
+semantic_boundary_contrasts:
+  core_nuance: 平均 emphasizes mathematical arithmetic mean or dividing an aggregate equally across parts.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 平均 vs. 平等 | píngděng | 平等 denotes political, legal, and human rights equality, while 平均 refers to mathematical quantities, statistical averages, or physical distribution.
+    2 | 平均 vs. 均匀 | jūnyún | 均匀 describes spatial, temporal, or density consistency ('搅拌均匀', stir evenly), whereas 平均 emphasizes mathematical division or mean values.
+    3 | 平均 vs. 平常 | píngcháng | 平常 means ordinary, commonplace, or routine, while 平均 denotes quantitative calculation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生活的美好从不取决于平均分配的物质多寡，而在于感知幸福的心灵敏感度。同样是面对清风明月，有人视若无睹终日愁容满面，有人却能在粗茶淡饭中自得其乐。学会抚平内心的浮躁，生活才能展现出它温润柔和的原色。 | Shēnghuó de měihǎo cóng bù qǔjué yú píngjūn fēnpèi de wùzhì duōguǎ, ér zàiyú gǎnzhī xìngfú de xīnlíng mǐngǎndù. Tóngyàng shì miànduì qīngfēng-míngyuè, yǒurén shìruò-wúdǔ zhōngrì chóuróng-mǎnmiàn, yǒurén què néng zài chūchá-dànfàn zhōng zìdé-qílè. Xuéhuì fǔpíng nèixīn de fúzào, shēnghuó cáinéng zhǎnxiàn chū tā wēnrùn róuhé de yuánsè. | Life's beauty depends not on equally divided material wealth, but the soul's sensitivity to joy. Facing the breeze and moon, some fret while others find peace in simple meals. Calming inner restlessness reveals life's gentle colors. | La gracia de vivir no estriba en repartir bienes por igual, sino en abrir el corazón al gozo. Ante la luna y la brisa, unos viven pesarosos mientras otros hallan paz en la sencillez. Al serenar el ánimo, la vida revela su dulzura natural.
+  #2 | 随着公共卫生体系的持续健全，全国人均预期寿命已突破七十八岁大关。这一显著提升的平均数字背后，凝聚着基层医疗资源的均衡覆盖与重大疾病防治能力的全面跃升，切实保障了最广大人民群众最基本的健康权益。 | Suízhe gōnggòng wèishēng tǐxì de chíxù jiànquán, quánguó rénjūn yùqī shòumìng yǐ tūpò qīshíbā suì dàguān. Zhè yí xiǎnzhù tíshēng de píngjūn shùzì bèihòu, níngjù zhe jīcéng yīliáo zīyuán de jūnhéng fùgài yǔ zhòngdà jíbìng fángzhì nénglì de quánmiàn yuèshēng, qièshí bǎozhàng le zuì guǎngdà rénmín qúnzhòng zuì jīběn de jiànkāng quányì. | With public healthcare improving, average national life expectancy has surpassed 78 years. Behind this rising average figure lies balanced primary care coverage and disease prevention, safeguarding foundational health rights. | Con el afianzamiento sanitario, la esperanza media de vida ha superado los 78 años. Tras este promedio en alza se aúnan la cobertura equitativa de ambulatorios y la lucha contra dolencias graves, amparando el bienestar colectivo.

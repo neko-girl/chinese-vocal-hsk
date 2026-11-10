@@ -1,0 +1,63 @@
+id: 2
+hanzi: 奇迹
+pinyin: qí jì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: miracle; wonder; marvel; phenomenal achievement
+  es: milagro; maravilla; prodigio; portento; hecho asombroso
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an extraordinary, marvelous event or astounding achievement that seems almost impossible by ordinary standards | hecho extraordinario, prodigioso o hazaña asombrosa que parece imposible según los estándares ordinarios | 创造奇迹 (create a miracle)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在医疗团队连续十几个小时的极限抢救下，重伤患者终于脱离了生命危险，创造了医学奇迹。 | Zài yīliáo tuánduì liánxù shí jǐ ge xiǎoshí de jíxiàn qiǎngjiù xià, zhòngshāng huànzhě zhōngyú tuōlí le shēngmìng wēixiǎn, chuàngzào le yīxué qíjì. | Under intense emergency rescue for over a dozen hours by the medical team, the critically injured patient pulled through, creating a medical miracle. | Tras más de diez horas de intensos cuidados por el equipo médico, el paciente grave quedó fuera de peligro, obrando un milagro médico.
+  #2 | 摄影师将连续拍摄的二十四张马蹄腾空照片放入放映机中快速播放，静止的画面奇迹般地化作了奔腾的活马。 | Shèyǐngshī jiāng liánxù pāishè de èrshísì zhāng mǎtí téngkōng zhàopiàn fàngrù fàngyìngjī zhōng kuàisù bōfàng, jìngzhǐ de huàmiàn qíjì-bān de huàzuò le bēnténg de huómǎ. | When the photographer projected twenty-four sequential snapshots into a projector, static frames miraculously transformed into a galloping horse. | Al proyectar las veinticuatro instantáneas tomadas en serie, las imágenes estáticas se transformaron milagrosamente en un caballo al galope.
+
+collocations[6]{hanzi,en}:
+  创造奇迹 | create a miracle
+  医学奇迹 | medical miracle
+  奇迹般地 | miraculously
+  人间奇迹 | earthly wonder / man-made miracle
+  见证奇迹 | witness a miracle
+  发生奇迹 | a miracle occurs
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  起死回生 | qǐ sǐ huí shēng | raise from the dead; bring back to life miraculously
+  回天乏术 | huí tiān fá shù | unable to turn the tide of fate; beyond miracle
+  不可思议 | bù kě sī yì | inconceivable; beyond imagination and wonder
+  神来之笔 | shén lái zhī bǐ | a stroke of divine brushwork; miraculous artistry
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  奇 | qí | strange; rare; wonderful; odd; surprise | extraño; raro; maravilloso; impar; asombro | 大 | big | 大 (great human stature) | 可 (kě, approval / exclaiming in awe) | 8 | 上下结构 | Ideogram showing an extraordinary human figure 大 inspiring gasps of vocal wonder 可. | A great human figure (大) achieves something so extraordinary that observers shout in wonder (可): 'What a marvel!' (奇). | Una figura admirable (大) realiza una hazaña tan insólita que la multitud exclama (可): '¡Qué portento!' (奇). | 35 | KMNR | ""
+  迹 | jì | trace; footprint; mark; track; remains | huella; rastro; vestigio; indicio; marca | 辶 | walk | 辶 (movement on a path) | 亦 (yì, armpits / human figure / phonetic) | 9 | 半包围结构 | Phono-semantic character where feet walking along a path 辶 leave visible footprints and traces 迹. | Footsteps walking along the snowy path (辶) leave indelible tracks and footprints (迹). | Los pasos al avanzar por la senda nevada (辶) dejan rastros y huellas imborrables (迹). | 51 | YYC | 跡
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An extraordinary marvel (奇) that leaves an indelible trace on history (迹) is a true miracle (奇迹).
+  composite_memory_hook_es: Un hecho maravilloso (奇) que deja una huella imborrable (迹) constituye un auténtico milagro (奇迹).
+  cultural_and_cognitive_roots: Literally 'marvelous footprints'; in ancient Chinese cosmology, divine interventions were verified by unusual physical imprints left upon the earthly terrain.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by falling tone: 'qí jì' (35-51). Syllable 'qí' glides upward smoothly, followed by a crisp descending strike on 'jì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    夺 | duó | seize; snatch | Has 寸 below 大 instead of 可 in 奇
+    奈 | nài | how; what | Has 示 below 大 instead of 可
+    变 | biàn | change | Has 又 at bottom, distinct from 迹
+    迈 | mài | stride | Has 万 inside 辶 instead of 亦
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    异 | yì | different; extraordinary anomaly
+    痕 | hén | scar; trace mark on skin
+    踪 | zōng | tracks; footprints in dust
+    妙 | miào | subtle; ingenious wonder
+
+semantic_boundary_contrasts:
+  core_nuance: 奇迹 denotes an astonishing, seemingly impossible phenomenon or momentous historic breakthrough.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 奇迹 vs. 神话 | shénhuà | 神话 refers to ancient folklore mythologies, or metaphorical impossibilities, while 奇迹 denotes verifiable, real-world feats achieved against all odds.
+    2 | 奇迹 vs. 壮举 | zhuàngjǔ | 壮举 emphasizes heroic, courageous human effort on a massive scale, while 奇迹 emphasizes the astonishing, almost magical outcome.
+    3 | 奇迹 vs. 偶然 | ǒurán | 偶然 denotes a random coincidence, whereas 奇迹 represents an extraordinary milestone born of persistence.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生命本身就是大自然最壮丽的奇迹。一粒微小的草籽能够在坚硬的岩石缝隙中破土而出，历经暴风骤雨依然迎风绽放。生活从不缺少奇迹，只要心怀希望永不言弃，黑暗尽头终将迎来破晓的曙光。坚持，是奇迹的唯一起点。 | Shēngmìng běnshēn jiùshì dàzìrán zuì zhuànglì de qíjì. Yí lì wēixiǎo de cǎozǐ nénggòu zài jiānyìng de yánshí fèngxì zhōng pòtǔ-érchū, lìjīng bàofēng-zhòuyǔ yīrán yíngfēng zhànfàng. Shēnghuó cóng bù quēshǎo qíjì, zhǐyào xīnhuái xīwàng yǒng bù yánqì, hēi'àn jìntóu zhōng jiāng yínglái pòxiǎo de shǔguāng. Jiānchí, shì qíjì de wéiyī qǐdiǎn. | Life is nature's most magnificent miracle. A tiny seed bursts through rock fissures, blooming through storms. Life never lacks miracles; keeping hope and never surrendering brings dawn at dark's end. Persistence is the sole origin of miracles. | La vida es el mayor prodigio de la naturaleza. Una semilla menuda brota en la hendidura de la peña y florece desafiando tempestades. Jamás faltan milagros si se abriga la esperanza: la perseverancia es la cuna de lo asombroso.
+  #2 | 改革开放四十余年间，中国经济社会的飞速跃升被国际社会公认为当代人类发展史上的伟大奇迹。从落后的农业国迈入世界制造业第一大国，数亿人口摆脱绝对贫困，这一系列举世瞩目的非凡奇迹，离不开全体人民脚踏实地的艰苦奋斗。 | Gǎigé kāifàng sìshí yú nián jiān, Zhōngguó jīngjì shèhuì de fēisù yuèshēng bèi guójì shèhuì gōngrèn wéi dāngdài rénlèi fāzhǎnshǐ shàng de wěidà qíjì. Cóng luòhòu de nóngyèguó màirù shìjiè zhìzàoyè dì-yī dàguó, shùyì rénkǒu bǎituō juéduì píngkùn, zhè yíxìliè jǔshì-zhǔmù de fēifán qíjì, líbùkāi quántǐ rénmín jiǎotà-shídì de jiānkǔ fèndòu. | Over forty years of reform, China's economic ascent has been recognized as a great miracle of human history. Transitioning to a manufacturing giant and lifting hundreds of millions from poverty, this miracle stems from down-to-earth struggle. | En cuatro décadas de reforma, el auge de China ha sido reconocido como un portento histórico. Erigirse en potencia industrial y sacar a millones de la pobreza absoluta compone un milagro forjado con tenaz esfuerzo colectivo.

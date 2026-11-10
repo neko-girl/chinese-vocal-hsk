@@ -1,0 +1,63 @@
+id: 20
+hanzi: 豪华
+pinyin: háo huá
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: luxurious; lavish; sumptuous; opulent; splendid
+  es: lujoso; suntuoso; fastuoso; opulento; de gran lujo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | lavishly decorated, sumptuous, highly expensive, and opulent in appointments or lifestyle | decorado con suntuosidad, sumamente costoso, espléndido u opulento en instalaciones o estilo | 豪华酒店 (luxury hotel)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这座豪华的海景度假酒店设施一应俱全，窗外便是碧海银沙，吸引了许多游客前来度假。 | Zhè zuò háohuá de hǎijǐng dùjià jiǔdiàn shèshī yìyīng-jùquán, chuāngwài biàn shì bìhǎi-yínshā, xīyǐn le xǔduō yóukè qiánlái dùjià. | This luxurious oceanfront resort hotel is fully appointed; with azure sea and white sand outside, it attracts numerous holidaymakers. | Este lujoso complejo turístico frente al mar cuenta con todos los servicios; sus vistas de arena y agua turquesa atraen a muchos viajeros.
+  #2 | 鲁迅常去的北京广和居饭馆虽然称不上豪华，但菜肴风味地道，极适合好友促膝畅谈。 | Lǔ Xùn cháng qù de Běijīng Guǎnghéjū fànguǎn suīrán chēngbùshàng háohuá, dàn càiyáo fēngwèi dìdao, jí shìhé hǎoyǒu cùxī-chàngtán. | Although Guangheju restaurant where Lu Xun dined could hardly be called luxurious, its authentic flavors were perfect for intimate talks. | Aunque el mesón Guangheju que Lu Xun frecuentaba no era lujoso, su sazón castizo era idóneo para largas sobremesas de amigos.
+
+collocations[6]{hanzi,en}:
+  豪华客房 | deluxe guestroom
+  豪华轿车 | luxury sedan/limousine
+  阵容豪华 | star-studded lineup
+  豪华装修 | sumptuous interior renovation
+  奢靡豪华 | lavish and extravagant
+  豪华游轮 | luxury cruise ship
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  富丽堂皇 | fù lì táng huáng | sumptuous and magnificent; splendid palace-like grandeur
+  金碧辉煌 | jīn bì huī huáng | resplendent with gold and jade luster; glittering
+  琼楼玉宇 | qióng lóu yù yǔ | magnificent jade halls in fairy realm
+  朴实无华 | pǔ shí wú huá | simple and unadorned; plain and genuine
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  豪 | háo | grand; heroic; bold; opulent; porcupine | grandioso; heroico; audaz; magnate | 豕 | pig | 豕 (boar with bristling spines) | 高 (gāo, tall / noble / phonetic) | 14 | 上下结构 | Ancient pictogram showing a wild boar 豕 with formidable bristling spines, symbolizing unrestrained heroic grandeur. | A majestic leader stands tall (高) alongside mighty guardian assets (豕), exuding noble boldness (豪). | Un prócer eminente se alza alto (高) protegiendo el vigoroso porcino (豕) con porte magnánimo (豪). | 35 | YRMSO | ""
+  华 | huá | splendid; flowery; illustrious; China | espléndido; florido; ilustre; China | 十 | ten | 艸 (flowers blooming in traditional 華) | 于 (breath) + 夸 (kuā, grand) | 6 | 上下结构 | Traditional 華 depicts abundant radiant tree blossoms; simplified to 华 representing glorious radiance. | Lush branches blossom with vibrant flowers, creating splendid visual magnificence (华). | Ramas lozanas florecen con exhuberancia, creando un espectáculo espléndido y radiante (华). | 35 | OPJ | 華
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Heroic bold power (豪) paired with radiant flowering splendor (华) creates magnificent luxury (豪华).
+  composite_memory_hook_es: El porte señorial (豪) sumado al esplendor florido (华) engendra el mayor lujo (豪华).
+  cultural_and_cognitive_roots: Derived from classical descriptions of high aristocratic life; 'háo' denoted noble chivalric wealth and 'huá' denoted resplendent ornamentation.
+  tone_sandhi_and_pitch_modulation: Two rising tones: 'háo huá' (35-35). Smooth parallel rising pitch contours from mid to high.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    家 | jiā | family | Has 宀 at top instead of 亠 and 口
+    毫 | háo | hair; fine millimeter | Has 毛 at bottom instead of 豕
+    毕 | bì | complete | Has 比 at top instead of 人 and horizontal strokes
+    化 | huà | transform | Has 亻 and 匕 side-by-side, unlike 华
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    奢 | shē | luxurious; extravagant
+    侈 | chǐ | excessive; waste of wealth
+    盛 | shèng | flourishing; abundant feast
+    丽 | lì | beautiful; magnificent pair
+
+semantic_boundary_contrasts:
+  core_nuance: 豪华 describes extravagant, highly expensive, and lavishly appointed environments, vehicles, or lineups.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 豪华 vs. 奢华 | shēhuá | 奢华 carries a stronger flavor of ostentatious, wasteful private indulgence, while 豪华 can describe positive world-class hotel or theater amenities.
+    2 | 豪华 vs. 雄伟 | xióngwěi | 雄伟 emphasizes grand physical scale and imposing mountain/architectural stature, while 豪华 stresses high monetary cost and plush interior fittings.
+    3 | 豪华 vs. 考究 | kǎojiu | 考究 emphasizes refined, meticulous craftsmanship and connoisseur taste, whereas 豪华 emphasizes sheer opulence and scale.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正的富足不在于拥有豪华的豪宅与名车，而在于内心世界的宁静与坦荡。当一个人褪去了对物质奢华的盲目执念，方能在山川草木中领略造化之美，在简朴平淡的生活中品味出最纯粹的幸福。心若丰盈，处处皆胜景。 | Zhēnzhèng de fùzú bú zàiyú yǒngyǒu háohuá de háozhái yǔ míngchē, ér zàiyú nèixīn shìjiè de níngjìng yǔ tǎndàng. Dāng yí ge rén tuìqù le duì wùzhì shēhuá de mángmù zhíniàn, fāng néng zài shānchuān-cǎomù zhōng lǐnglüè zàohuà zhī měi, zài jiǎnpǔ píngdàn de shēnghuó zhōng pǐnwèi chū zuì chúncuì de xìngfú. Xīn ruò fēngyíng, chùchù jiē shèngjǐng. | True wealth lies not in luxury mansions or cars, but tranquility of the soul. Stripping away blind attachment to opulence allows one to appreciate nature's beauty and taste pure happiness in simplicity. A rich mind finds wonders everywhere. | La riqueza cabal no reside en mansiones o coches lujosos, sino en la serenidad de ánimo. Quien se desprende del apego suntuoso descubre la belleza del paisaje y saborea la dicha en lo humilde. Un corazón fecundo halla hermosura en todo rincón.
+  #2 | 近年来，文化消费呈现出从追求豪华排场向注重精神内涵的理性回归。观众不再仅仅为金碧辉煌的舞台布景与豪华明星阵容买单，而是愈发看重艺术剧目的叙事深度与思想张力。这一转变倒逼演艺市场去粗取精，回归创作本体。 | Jìnniánlái, wénhuà xiāofèi chéngxiàn chū cóng zhuīqiú háohuá páichǎng xiàng zhùzhòng jīngshén nèihán de lǐxìng huíguī. Guānzhòng bù zài jǐnjǐn wèi jīnbì-huīhuáng de wǔtái bùjǐng yǔ háohuá míngxīng zhènróng mǎidān, ér shì yùfā kànzhòng yìshù jùmù de xùshì shēndù yǔ sīxiǎng zhānglì. Zhè yí zhuǎnbiàn dàobī yǎnyì shìchǎng qùcū-qǔjīng, huíguī chuàngzuò běntǐ. | Cultural consumption is returning from lavish spectacles to spiritual substance. Audiences no longer pay just for glittering sets or luxury star casts, but value narrative depth, compelling theaters to focus on core artistic creation. | El consumo cultural retorna del fasto escénico a la sustancia intelectual. El público ya no premia decorados dorados o repartos deslumbrantes, sino el calado dramático, empujando a los escenarios a depurar su oferta y volver a la esencia.

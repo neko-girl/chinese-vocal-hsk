@@ -1,0 +1,64 @@
+id: 14
+hanzi: 学问
+pinyin: xué wen
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: knowledge; learning; scholarship; erudition; wisdom; knack
+  es: conocimiento; saber; erudición; ciencia; arte; sabiduría práctica
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | systematic academic knowledge, deep erudition, or profound intellectual scholarship | conocimiento académico sistemático, profunda erudición o sabiduría intelectual | 有高深的学问 (possess profound scholarship)
+  2 | Noun | Colloquial | hidden technique, special knack, or practical wisdom embedded in everyday affairs | truco especial, secreto técnico o sabiduría práctica oculta en el quehacer cotidiano | 这里面大有学问 (there is a great deal of skill/knack in this)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老教授一生潜心钻研甲骨文，学问渊博品德高尚，受到了海内外学界的一致尊崇。 | Lǎo jiàoshòu yìshēng qiánxīn zuānyán jiǎgǔwén, xuéwen yuānbó pǐndé gāoshàng, shòudào le hǎinèiwài xuéjiè de yízhì zūnchóng. | The veteran professor dedicated his life to oracle bone research; his profound learning and noble virtue won universal scholarly respect. | El catedrático consagró su vida al desciframiento de los huesos oraculares; su vasta erudición y probidad le valieron gran estima académica.
+  #2 | 在鲁迅看来，烹饪选料与饮食调味里处处藏着大学问，懂得品味美食也是体察世情的一种方式。 | Zài Lǔ Xùn kànlái, pēngrèn xuǎnliào yǔ yǐnshí tiáowèi lǐ chùchù cáng zhe dà xuéwen, dǒngdé pǐnwèi měishí yě shì tǐchá shìqíng de yì zhǒng fāngshì. | In Lu Xun's eyes, selecting culinary ingredients and seasonings harbored profound wisdom; savoring food was a way to observe life. | Para Lu Xun, la elección de ingredientes y el sazón culinario albergaban un profundo saber; saborear delicias era otra forma de entender la vida.
+
+collocations[6]{hanzi,en}:
+  学问渊博 | profound and vast learning
+  大有学问 | contain profound knowledge/wisdom
+  潜心学问 | immerse oneself in scholarship
+  做学问 | conduct scholarly research
+  大学问家 | scholar of immense erudition
+  日常学问 | practical daily wisdom
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  博古通今 | bó gǔ tōng jīn | conversant with both ancient and modern learning
+  学无止境 | xué wú zhǐ jìng | there is no limit to learning; lifelong study
+  敏而好学 | mǐn ér hào xué | clever and fond of learning
+  满腹经纶 | mǎn fù jīng lún | full of political and administrative scholarship
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  学 | xué | study; learn; knowledge; school | estudiar; aprender; conocimiento; escuela | 子 | child | 子 (child under roof) | 爻 (yáo, counting slips) | 8 | 上下结构 | Ancient ideogram showing a child 子 learning arithmetic tallies beneath a thatched classroom roof. | A child (子) under a roof eagerly studies classic texts to acquire lifelong knowledge (学). | Un joven estudiante (子) bajo el tejado escolar asimila los libros para cultivar el saber (学). | 35 | FBD | 學
+  问 | wen | ask; inquire; question; problem | preguntar; inquirir; interrogar; cuestión | 门 | door/gate | 门 (entrance gate) | 口 (kǒu, mouth asking questions) | 6 | 半包围结构 | Ideogram showing an open mouth 口 at the gate 门 of a master's courtyard asking for instruction. | A seeker arrives at the teacher's doorway (门) and opens their mouth (口) to inquire and ask (问). | Un aprendiz se asoma al portón (门) del sabio y abre la boca (口) para inquirir y preguntar (问). | 51 | LSR | 問
+
+mnemonics_and_roots:
+  composite_memory_hook_en: True knowledge is forged by coupling diligent study (学) with constant inquiring (问) to master deep scholarship (学问).
+  composite_memory_hook_es: El verdadero conocimiento nace de aunar el estudio constante (学) con la pregunta incisiva (问) para forjar el saber (学问).
+  cultural_and_cognitive_roots: Confucius taught in the Analects that one must 'learn and inquire' (学而问之); true Chinese scholarship rejects passive intake in favor of persistent philosophical questioning.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by neutral tone: 'xué wen' (35-2). Syllable 'xué' glides upward, while 'wen' is pronounced as a light neutral syllable.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    字 | zì | character | Has 宀 instead of the upper strokes of 学
+    闪 | shǎn | flash; dodge | Has person 人 inside 门 instead of 口
+    闭 | bì | close; shut | Has 才 inside 门 instead of 口
+    间 | jiān | between; space | Has sun 日 inside 门 instead of 口
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    习 | xí | practice; flap wings repeatedly
+    识 | shí | know; discern with words
+    闻 | wén | hear with ear at gate; reputation
+    智 | zhì | wisdom; knowing words over days
+
+semantic_boundary_contrasts:
+  core_nuance: 学问 denotes systematic erudition, profound scholarship, or the intricate wisdom embedded in craft techniques.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 学问 vs. 知识 | zhīshi | 知识 refers to discrete informational facts and data, whereas 学问 implies deep, integrated, lifelong scholarship and philosophical insight.
+    2 | 学问 vs. 学术 | xuéshù | 学术 refers strictly to formal institutional university research and scientific theory, while 学问 can also describe practical knacks in daily life ('泡茶有学问').
+    3 | 学问 vs. 经验 | jīngyàn | 经验 refers to empirical habits gathered through repetition, while 学问 emphasizes reasoned principles and scholarly mastery.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正的学问从不只存在于故纸堆中，它鲜活地流淌在柴米油盐的人间烟火里。无论是木匠手中精准无误的榫卯构造，还是厨师火候中出神入化的调味平衡，只要用心体悟精益求精，平凡琐事之中皆藏着深奥的大学问。 | Zhēnzhèng de xuéwen cóng bù zhǐ cúnzài yú gùzhǐduī zhōng, tā xiānhuó de liútǎng zài cháimǐ-yóuyán de rénjiān yānhuǒ lǐ. Wúlùn shì mùjiang shǒuzhōng jīngzhǔn-wúwù de sǔnmǎo gòuzào, háishì chúshī huǒhòu zhōng chūshén-rùhuà de tiáowèi pínghéng, zhǐyào yòngxīn tǐwù jīngyì-qiújīng, píngfán suǒshì zhīzhōng jiē cáng zhe shēn'ào de dà xuéwen. | True learning lives not merely in dusty tomes, but flows through daily life. From a carpenter's seamless mortise joints to a chef's balanced seasonings, ordinary tasks harbor profound wisdom if approached with dedication. | El saber genuino no habita solo en viejos legajos, sino en las tareas cotidianas. Desde las ensambladuras precisas del carpintero hasta el sazón magistral del cocinero, la búsqueda de la perfección encierra una honda sabiduría.
+  #2 | 求学问之道在于知行合一。先贤倡导博学之、审问之、慎思之、明辨之、笃行之，强调学术研究不能脱离社会现实。学者只有扎根大地洞察民生疾苦，将理论创见转化为解决实际问题的良方，才能成就无愧于时代的大大学问。 | Qiú xuéwen zhī dào zàiyú zhīxíng-héyī. Xiānxián chàngdǎo bóxué zhī, shěnwèn zhī, shènsī zhī, míngbiàn zhī, dǔxíng zhī, qiángdiào xuéshù yánjiū bùnéng tuōlí shèhuì xiànshí. Xuézhě zhǐyǒu zhāgēn dàdì dòngchá mínshēng jíkǔ, jiāng lǐlùn chuàngjiàn zhuǎnhuà wéi jiějué shíjì wèntí de liángfāng, cáinéng chéngjiù wúkuì yú shídài de dà xuéwen. | The path of scholarship requires unity of knowing and doing. Sages urged wide learning, questioning, thinking, discerning, and practicing. Scholars must ground theories in real life, turning insights into remedies to achieve great scholarship. | El camino del saber exige unir conocimiento y acción. Los antiguos exhortaban a estudiar, inquirir, reflexionar y obrar con rectitud. Solo arraigando la teoría en los dilemas reales se forja una ciencia digna de su tiempo.

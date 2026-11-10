@@ -1,0 +1,64 @@
+id: 29
+hanzi: 成熟
+pinyin: chéng shú
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: mature; ripe; fully developed; seasoned
+  es: maduro; sazonado; desarrollado; prudente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | ripe and ready for harvesting (of crops and fruit) | maduro y listo para cosechar (dicho de frutos y cosechas) | 麦子成熟了 (the wheat has ripened)
+  2 | Adjective | Standard | mature, fully developed, seasoned, and well-thought-out (of personality, conditions, or ideas) | maduro, plenamente desarrollado, sensato y ponderado (de personas o condiciones) | 时机已经成熟 (conditions are now ripe)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 秋风吹过金色的原野，果园里沉甸甸的红苹果成熟了，散发出诱人的阵阵果香。 | Qiūfēng chuīguò jīnsè de yuányě, guǒyuán lǐ chéndiāndiān de hóng píngguǒ chéngshú le, sànfā chū yòurén de zhènzhèn guǒxiāng. | Autumn breezes sweep golden fields; in orchards, heavy red apples have ripened, exuding alluring fragrant scents. | La brisa otoñal peina campos dorados; en el huerto, las pesadas manzanas rojas han madurado desprendiendo un delicioso aroma.
+  #2 | 经过多年商海风浪的洗礼，他在处理复杂人际关系与商务谈判时显得愈发沉稳成熟。 | Jīngguò duōnián shānghǎi fēnglàng de xǐlǐ, tā zài chǔlǐ fùzá rénjì guānxì yǔ shāngwù tánpàn shí xiǎnde yùfā chénwěn chéngshú. | Seasoned by years of business storms, he appears increasingly composed and mature in negotiations. | Curtido por años de lances comerciales, se muestra cada vez más sosegado y maduro en negociaciones complejas.
+
+collocations[6]{hanzi,en}:
+  时机成熟 | ripe timing / opportune moment
+  技术成熟 | mature technology
+  成熟稳重 | mature and prudent
+  果实成熟 | fruit ripeness
+  思想成熟 | mature thinking
+  趋于成熟 | tend towards maturity
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  瓜熟蒂落 | guā shú dì luò | when melon is ripe it falls off the stem; things succeed when conditions ripen
+  水到渠成 | shuǐ dào qú chéng | water flows and a channel is formed; success comes naturally when ready
+  深思熟虑 | shēn sī shú lǜ | mature deliberation; careful, thorough consideration
+  半生不熟 | bàn shēng bù shú | half-cooked / half-baked; poorly mastered
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  成 | chéng | complete; accomplish; succeed; become | completar; lograr; tener éxito; convertirse | 戈 | dagger-axe | 戊 (halberd weapon) + 丁 (nail / strike firmly) | 成 (chéng) | 6 | 单一结构 | Oracle bone pictograph of an axe 戊 striking down firmly to conclude peace or complete construction work. | A weapon (戈) strikes a firm boundary mark, successfully completing the goal (成). | Un arma de bronce (戈) fija el límite firme, consumando con éxito la meta (成). | 35 | IHS | ""
+  熟 | shú | cooked; ripe; familiar; skilled | cocido; maduro; familiar; diestro | 灬 | fire | 灬 (fire boiling food) + 享 (offering in temple) | 孰 (shú, who/which / phonetic) | 15 | 上下结构 | Fire radical 灬 heating sacrificial offerings 孰 until fully cooked, soft, and fragrant. | Cooking fire (灬) warms food until thoroughly tender and fully ripe (熟). | Llamas de fuego (灬) cuecen la vianda hasta dejarla tierna y madura (熟). | 35 | YDOF | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When goals are accomplished (成) and grain is ripened over warmth (熟), full maturity is attained (成熟).
+  composite_memory_hook_es: Cuando la meta se cumple (成) y el fruto sazona con calor (熟), se alcanza la madurez (成熟).
+  cultural_and_cognitive_roots: Agricultural metaphor: crop ripening translated into human emotional poise, intellectual judgment, and institutional readiness.
+  tone_sandhi_and_pitch_modulation: Double rising second tones: 'chéng shú' (35-35). Rise smoothly from pitch 3 to 5 on 'chéng', then rise again clearly on 'shú'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    城 | chéng | city; castle wall | Has earth radical 土 on left of 成
+    诚 | chéng | honest; sincere | Has speech radical 讠 on left of 成
+    孰 | shú | who; which | Lacks four fire dots 灬 underneath
+    热 | rè | hot; heat | Has 执 atop 灬 instead of 孰
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    练 | liàn | practiced; seasoned skill
+    满 | mǎn | full; completely replete
+    立 | lì | stand firm; establish
+    丰 | fēng | plentiful; bountiful yield
+
+semantic_boundary_contrasts:
+  core_nuance: 成熟 encompasses biological ripeness as well as human emotional, cognitive, and commercial readiness.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 成熟 vs. 老练 | lǎoliàn | 老练 focuses specifically on being crafty, seasoned, and calculating through worldly experience, while 成熟 has a broader, positive tone of emotional balance and wisdom.
+    2 | 成熟 vs. 熟练 | shúliàn | 熟练 describes technical dexterity and fast motor skill ('操作熟练'), while 成熟 describes inner character, timing, or fruit ripeness.
+    3 | 成熟 vs. 完善 | wánshàn | 完善 describes systems, rules, or facilities that are comprehensive and without flaws, while 成熟 describes organic evolution to full readiness.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 八月的江南水乡果实累累，果园里的葡萄藤上挂满了一串串紫晶般的葡萄。微风吹过，阳光透过茂密的绿叶洒在成熟的果实上，甘甜的果汁在薄薄的果皮下流淌，预示着又一个丰硕喜悦的丰收年景。 | Bāyuè de Jiāngnán shuǐxiāng guǒshí-lěilěi, guǒyuán lǐ de pútáoténg shàng guàmǎn le yíchuànchuàn zǐjīngbān de pútáo. Wēifēng chuīguò, yángguāng tòuguò màomì de lǜyè sǎ zài chéngshú de guǒshí shàng, gāntián de guǒzhī zài báobáo de guǒpí xià liútǎng, yùshì zhe yòu yí ge fēngshuò xǐyuè de fēngshōu niánjǐng. | In August southern wetlands, orchards abound with grape clusters like purple crystals. Sunbeams pierce leaves onto ripe fruit, sweet nectar flowing beneath thin skins, heralding a bountiful harvest. | En agosto, los huertos del sur rebosan racimos de uvas como cristales violáceos. El sol dora los frutos maduros y el jugo dulce bajo la fina piel vaticina una colosal y alegre cosecha.
+  #2 | 一个人真正的成熟，绝不是变得圆滑世故，而是看清生活的艰难本质后依然热爱生活。面对挫折时保持理智清醒，身处喧嚣时守住内心情操，以宽厚包容的心胸接纳差异，这才是经岁月淬炼出的生命高度。 | Yí ge rén zhēnzhèng de chéngshú, juébù shì biànde yuánhuá-shìgù, érshì kànqīng shēnghuó de jiānnán běnzhì hòu yīrán rè'ài shēnghuó. Miànduì cuòzhé shí bǎochí lǐzhì qīngxǐng, shēnchǔ xuānxiāo shí shǒuzhù nèixīn qíngcāo, yǐ kuānhòu bāoróng de xīnxxiōng jiēnà chāyì, zhè cáishì jīng suìyuè cuìliàn chū de shēngmìng gāodù. | True maturity is not cynical sophistication, but loving life after seeing its hardships. Staying rational in adversity, guarding integrity amidst noise, and embracing differences reflect seasoned wisdom. | La verdadera madurez no consiste en volverse taimado, sino en amar la vida tras conocer su aspereza. Guardar la serenidad ante reveses y cobijar empatía refleja la hondura que forja el tiempo.

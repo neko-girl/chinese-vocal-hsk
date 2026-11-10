@@ -1,0 +1,64 @@
+id: 3
+hanzi: 文学家
+pinyin: wén xué jiā
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: writer; man of letters; literary figure; author of renown
+  es: escritor; literato; hombre de letras; autor consagrado
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a renowned specialist or author with significant achievements in literary creation or research | persona consagrada a la creación o estudio de la literatura con obras de reconocido prestigio | 杰出的文学家 (distinguished man of letters)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 鲁迅是中国近代著名的文学家和思想家，他的小说深刻解剖了旧社会的积弊与国民劣根性。 | Lǔ Xùn shì Zhōngguó jìndài zhùmíng de wénxuéjiā hé sīxiǎngjiā, tā de xiǎoshuō shēnkè jiěpōu le jiù shèhuì de jībì yǔ guómín liègènxìng. | Lu Xun was a celebrated modern Chinese writer and thinker; his fiction incisively dissected old societal ills and deep-seated mentalities. | Lu Xun fue un célebre literato y pensador chino moderno; sus relatos diseccionaron con lucidez los males de la antigua sociedad.
+  #2 | 真正伟大的文学家不仅用生花妙笔描摹世间百态，更通过作品启迪民众的灵魂与良知。 | Zhēnzhèng wěidà de wénxuéjiā bùjǐn yòng shēnghuā-miàobǐ miáomó shìjiān bǎitài, gèng tōngguò zuòpǐn qǐdí mínzhòng de línghún yǔ liángzhī. | Truly great literary authors not only depict human life with masterful pens, but enlighten the souls and consciences of the public through their works. | Los grandes hombres de letras no solo retratan la condición humana con maestría, sino que iluminan el alma y la conciencia colectiva.
+
+collocations[6]{hanzi,en}:
+  著名文学家 | famous man of letters
+  近代文学家 | modern literary writer
+  伟大文学家 | great literary master
+  杰出文学家 | distinguished writer
+  文学家的故居 | former residence of a literary figure
+  青年文学家 | young author
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  文质彬彬 | wén zhì bīn bīn | refined in manner and gentle in speech
+  才高八斗 | cái gāo bā dǒu | endowed with immense literary talent
+  著作等身 | zhù zuò děng shēn | one's written works pile as high as one's height; prolific author
+  自成一家 | zì chéng yì jiā | develop a unique, standalone school of thought or style
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  文 | wén | culture; script; literature; gentle | cultura; escritura; literatura; refinado | 文 | pattern/script | 文 (ritual body pattern / script) | 文 (wén) | 4 | 单一结构 | Oracle bone pictogram depicting patterned ritual chest tattoos, which later evolved into culture, literature, and writing. | Ancient scholars drew elegant patterned characters on silk, establishing the bedrock of human literature (文). | Los antiguos trazaron armoniosos caracteres sobre seda, fundando la civilización de las letras (文). | 35 | YK | ""
+  学 | xué | study; learn; scholarship; school | estudiar; aprender; saber; escuela | 子 | child | 子 (child under school roof) | 爻 (yáo, counting tallies) | 8 | 上下结构 | Ancient ideogram showing two hands guiding counting tallies above a child 子 in a roofed schoolroom. | A child (子) sits beneath the roof, enthusiastically mastering books of learning and scholarship (学). | Un niño (子) sentado bajo el tejado escolar adquiere con tesón el tesoro del saber (学). | 35 | FBD | 學
+  家 | jiā | family; home; master; specialist | familia; hogar; maestro; especialista | 宀 | roof | 宀 (roof/house) | 豕 (shǐ, domestic pig / prosperity) | 10 | 上下结构 | Ancient pictogram showing a domestic pig 豕 sheltered beneath a solid roof 宀, signifying settled family life, extended to masters of a craft. | Under a safe shelter roof (宀), precious domestic assets (豕) establish a settled home and an expert lineage (家). | Bajo el techo (宀), criar cerdos (豕) representaba prosperidad familiar y la consolidación de un maestro (家). | 55 | JMO | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A master (家) who has mastered cultural script (文) and deep learning (学) becomes a true literary author (文学家).
+  composite_memory_hook_es: El maestro (家) que domina las bellas letras (文) y el saber profundo (学) se consagra como literato (文学家).
+  cultural_and_cognitive_roots: Suffix -jiā (家) historically designated prestigious intellectual schools (e.g., 儒家, 墨家) and recognized guild masters; appended to 'wénxué' it dignifies authorial authority.
+  tone_sandhi_and_pitch_modulation: Rising, rising, high: 'wén xué jiā' (35-35-55). Two smooth upward glides transitioning into a steady high tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    字 | zì | character; word | Has 宀 over 子, but lacks the upper three strokes of 学
+    冢 | zhǒng | mound; tomb | Has extra dot and slant stroke inside radical 冖
+    父 | fù | father | Has crossing diagonal strokes distinct from 文
+    豪 | háo | grand; heroic | Has top radical 亠 and 口 over 豕, distinct from 家
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    教 | jiào | teach; instruct students
+    考 | kǎo | examine; investigate scholarship
+    儒 | rú | Confucian scholar; literatus
+    宅 | zhái | residence; family manor
+
+semantic_boundary_contrasts:
+  core_nuance: 文学家 refers to recognized, accomplished figures in literature whose works have enduring aesthetic and cultural standing.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 文学家 vs. 作家 | zuòjiā | 作家 is a common professional term for anyone who writes fiction or books, whereas 文学家 carries solemn cultural prestige denoting a historic literary master.
+    2 | 文学家 vs. 学者 | xuézhě | 文学家 primarily creates imaginative literary prose, poetry, and drama, while 学者 conducts academic analysis, historical research, and theoretical critique.
+    3 | 文学家 vs. 文人 | wénrén | 文人 describes the broad traditional socio-cultural class of educated intellectuals with artistic taste, while 文学家 denotes specific master-level authors.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在老北京青砖灰瓦的胡同深处，一代代文学家留下了浓墨重彩的文化印记。他们伏案疾书，用敏锐的文字记录下时代的悲欢离合。推开斑驳的朱红院门，庭院里的古槐似乎仍在轻声吟诵着昔日大师写下的不朽篇章。 | Zài lǎo Běijīng qīngzhuān-huīwǎ de hútòng shēnchù, yídàidài wénxuéjiā liúxià le nóngmò-zhòngcǎi de wénhuà yìnjì. Tāmen fú'àn-jíshū, yòng mǐnruì de wénzì jìlù xià shídài de bēihuān-líhé. Tuīkāi bānbó de zhūhóng yuànmén, tíngyuàn lǐ de gǔhuái sìhū réng zài qīngshēng yínsòng zhe xīrì dàshī xièxià de bùxiǔ piānzhāng. | In the alleys of old Beijing, generations of literary masters left vibrant cultural imprints. Leaning over desks, they recorded joys and sorrows of eras. Creaking open vermilion gates, ancient trees still whisper enduring lines. | En los callejones de Pekín, sucesivas generaciones de literatos forjaron un legado imborrable. En sus escritorios plasmaron las vicisitudes de su era. Al abrir los portones de madera, las viejas acacias parecen susurrar aquellos textos inmortales.
+  #2 | 中国近代文学家的作品不仅推动了白话文运动的蓬勃普及，更为民族精神的觉醒注入了强劲动力。从《呐喊》到《彷徨》，鲁迅等文学先驱以笔为戈，深刻审视民族历史命运，奠定了现代人文思想的精神基石。 | Zhōngguó jìndài wénxuéjiā de zuòpǐn bùjǐn tuīdòng le báihuàwén yùndòng de péngbó pǔjí, gèng wèi mínzú jīngshén de juéxǐng zhùrù le qiángjìn dònglì. Cóng 《Nàhǎn》 dào 《Pánghuáng》, Lǔ Xùn děng wénxué xiānqū yǐ bǐ wéi gē, shēnkè shěnshì mínzú lìshǐ mìngyùn, diàndìng le xiàndài rénwén sīxiǎng de jīngshén jīshí. | Works of modern Chinese writers spurred the vernacular language movement and invigorated national awakening. From 'Call to Arms' to 'Wandering', literary pioneers scrutinized history with their pens, laying humanistic cornerstones. | Las creaciones de los literatos modernos impulsaron el uso de la lengua vernácula y el renacer nacional. Con obras como 'Gritos', pioneros como Lu Xun empuñaron la pluma para reflexionar sobre el destino del país, cimentando el humanismo.

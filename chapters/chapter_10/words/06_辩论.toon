@@ -1,0 +1,64 @@
+id: 6
+hanzi: 辩论
+pinyin: biàn lùn
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to debate; to argue logically; debate; formal argumentation
+  es: debatir; polemizar; debate; argumentación reglada
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to present logical arguments, refute opponent propositions, and debate formally on a specific topic | exponer argumentos lógicos, rebatir tesis contrarias y debatir formalmente sobre un tema | 就此问题展开激烈辩论 (debate fiercely on this question)
+  2 | Noun | Standard | a formal structured competition, parliamentary contest, or academic debate | competición formal de oratoria, certamen parlamentario o debate académico reglado | 国际大专辩论赛 (international collegiate debate competition)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 两支代表队在全国大学生辩论赛决赛中妙语连珠，就科技发展与环境保护的关系展开了精彩辩论。 | Liǎng zhī dàibiǎotuán zài quánguó dàxuéshēng biànlùnsài juésài zhōng miàoyǔ-liánzhū, jiù kējì fāzhǎn yǔ huánjìng bǎohù de guānxi zhǎnkāi le jīngcǎi biànlùn. | In the national collegiate debate finals, both teams exchanged witty arguments, holding a splendid debate on technology and ecology. | En la final del torneo nacional de debate, ambos equipos cruzaron brillantes argumentos sobre tecnología y medio ambiente.
+  #2 | 为了验证辩论中的学术假说，斯坦福重金聘请专业摄影师在操场跑道旁架设相机，开创了实验科学的新范式。 | Wèile yànzhèng biànlùn zhōng de xuéshù jiǎshuō, Sītǎnfú zhòngjīn pìnqǐng zhuānyè shèyǐngshī zài cāochǎng pǎodào páng jiàshè xiàngjī, kāichuàng le shíyàn kēxué de xīn fànshì. | To verify the hypothesis raised in debate, Stanford hired a photographer to set up cameras beside the track, pioneering experimental science. | Para verificar la hipótesis de su debate, Stanford contrató a un fotógrafo que montó cámaras junto a la pista, inaugurando un hito científico.
+
+collocations[6]{hanzi,en}:
+  辩论赛 | debate competition
+  激烈辩论 | heated debate
+  辩论技巧 | debating skills
+  辩论对手 | debate opponent
+  展开辩论 | launch a debate
+  公开辩论 | public debate
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  唇枪舌剑 | chún qiāng shé jiàn | cross verbal swords; fierce verbal battle
+  据理力争 | jù lǐ lì zhēng | argue strongly on the basis of reason and justice
+  无可辩驳 | wú kě biànbó | indisputable; irrefragable; irrefutable
+  巧舌如簧 | qiǎo shé rú huáng | smooth-tongued like a reed instrument; glib-tongued
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  辩 | biàn | dispute; debate; argue; distinguish | debatir; discutir; distinguir; defender | 辛 | bitter / acrid | 辛 (punishment/dispute between two parties) + 讠 (speech) | 辡 (biàn, two accusers confronting each other) | 16 | 左中右结构 | Ideogram showing spoken words 讠 delivered between two opposing litigants 辛 confronting each other in court. | Clear words of truth (讠) stand between two contentious litigants (辛 辛) to debate and settle justice (辩). | La palabra elocuente (讠) media entre dos litigantes acusadores (辛 辛) para debatir con justicia (辩). | 51 | YJYRJ | 辯
+  论 | lùn | discuss; discourse; debate; theory | discutir; tratar; teoría; debatir | 讠 | speech | 讠 (speech/words) | 仑 (lún, orderly bamboo slips) | 6 | 左右结构 | Spoken argument 讠 structured systematically like ordered bamboo records 仑. | Spoken words (讠) are laid out with systematic logical order like bamboo slips (仑) in reasoned debate (论). | Palabras reflexivas (讠) se ordenan como legajos (仑) para sostener una argumentación sólida (论). | 51 | IVOP | 論
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Deliver articulate speech between litigants (辩) with systematic logical discourse (论) to win the formal debate (辩论).
+  composite_memory_hook_es: Defiende tu postura entre partes (辩) ordenando tus palabras con lógica (论) para vencer en el debate (辩论).
+  cultural_and_cognitive_roots: Central to the ancient School of Names (名家, e.g., Hui Shi and Gongsun Long); 'biàn' was the art of distinguishing truth from falsehood via systematic logical propositions.
+  tone_sandhi_and_pitch_modulation: Two falling tones: 'biàn lùn' (51-51). Articulate both syllables with decisive, authoritative descending contours.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    辨 | biàn | distinguish; discern | Has knife radical 刂 in center between two 辛 instead of 讠
+    瓣 | bàn | petal; slice | Has melon radical 瓜 in center between two 辛
+    辫 | biàn | braid; pigtail | Has silk radical 纟 in center between two 辛
+    轮 | lún | wheel | Has vehicle radical 车 on left of 仑
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    诉 | sù | plead; tell court; accuse
+    析 | xī | dissect; analyze logic
+    述 | shù | state; narrate reasons
+    驳 | bó | rebut; dispute opposing side
+
+semantic_boundary_contrasts:
+  core_nuance: 辩论 refers to formal, rule-bound intellectual debate emphasizing logic, rhetoric, and systematic rebuttal.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 辩论 vs. 争论 | zhēnglùn | 争论 refers to contentious ideological friction or emotional disputes in daily life, while 辩论 refers to structured formal debates with rules and evidence.
+    2 | 辩论 vs. 讨论 | tǎolùn | 讨论 aims at consensus-building, while 辩论 pits two opposing affirmative and negative camps against each other.
+    3 | 辩论 vs. 争吵 | zhēngchǎo | 争吵 is irrational, noisy bickering, while 辩论 demands disciplined rational argumentation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 辩论的魅力绝不在于用言辞压制对手，而在于通过逻辑的交锋照亮真理的轮廓。站在辩论台前，思维在电光石火间高速运转，每一个论点的立与破，都要求极高的敏锐度。优秀的辩手懂得倾听，在交锋中展现出包容的智慧。 | Biànlùn de mèilì jué bú zàiyú yòng yáncí yāzhì duìshǒu, ér zàiyú tōngguò luóji de jiāofēng zhàoliàng zhēnlǐ de lúnkuò. Zhàn zài biànlùntái qián, sīwéi zài diànguāng-shíhuǒ jiān gāosù yùnzhuǎn, měi yí ge lùndiǎn de lì yǔ pò, dōu yāoqiú jí gāo de mǐnruìdù. Yōuxiù de biànshǒu dǒngdé qīngtīng, zài jiāofēng zhōng zhǎnxiàn chū bāoróng de zhìhuì. | The charm of debate lies not in crushing opponents, but illuminating truth through logic. At the podium, thought runs like lightning; establishing or refuting arguments demands acuity. Great debaters listen well, showing inclusive wisdom. | La gracia del debate no estriba en avasallar al rival, sino en alumbrar la verdad con la lógica. Ante el atril, el ingenio vuela como el rayo; sostener o rebatir premisas exige lucidez. El buen orador sabe escuchar e integrar razones.
+  #2 | 在现代法治社会中，法庭辩论是查明案件事实与维护司法公正的关键程序。控辩双方围绕涉案证据的真实性、合法性与关联性展开法理辩论，法官依据严谨的庭审调查作出公正判决。规范透明的辩论机制，切实捍卫了法律的权威与尊严。 | Zài xiàndài fǎzhì shèhuì zhōng, fǎtíng biànlùn shì chámíng ànjiàn shíshí yǔ wéihù sīfǎ gōngzhèng de guānjiàn chéngxù. Kòng-biàn shuāngfāng wéirào shè'àn zhèngjù de zhēnshíxìng, héfǎxìng yǔ guāanliánxìng zhǎnkāi fǎlǐ biànlùn, fǎguān yījù yánjǐn de tíngshěn diàochá zuòchū gōngzhèng pànjué. Guīfàn tòumíng de biànlùn jīzhì, qièshí hànwèi le fǎlǜ de quánwēi yǔ zūnyán. | In modern rule of law, courtroom debate is pivotal for determining facts and justice. Prosecution and defense debate evidence veracity and legality, allowing judges to rule fairly. Transparent debate procedures uphold the law's dignity. | En el Estado de derecho, el careo procesal es crucial para esclarecer los hechos. Fiscales y letrados debaten la validez de las pruebas para que el tribunal dicte sentencia justa. La transparencia del debate afianza el imperio de la ley.

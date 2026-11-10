@@ -1,0 +1,64 @@
+id: 1
+hanzi: 争论
+pinyin: zhēng lùn
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to argue; to dispute; to debate contentiously; controversy; debate
+  es: disputar; polemizar; discutir acaloradamente; controversia; debate
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to dispute, argue, or contest opposing views vigorously when opinions clash | disputar o sostener puntos de vista opuestos con vehemencia cuando chocan las opiniones | 引起激烈争论 (spark heated dispute)
+  2 | Noun | Standard | an argument, dispute, controversy, or debate | discusión acalorada, controversia, disputa o querella de ideas | 停止无谓的争论 (stop pointless arguing)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 学术沙龙上，两位教授围绕人工智能的道德边界展开了热烈争论，谁也无法轻易说服对方。 | Xuéshù shālóng shàng, liǎng wèi jiàoshòu wéirào réngōng zhìnéng de dàodé biānjiè zhǎnkāi le rèliè zhēnglùn, shéi yě wúfǎ qīngyì shuōfú duìfāng. | At the academic salon, two professors entered a heated dispute over the ethical boundaries of AI, neither easily convincing the other. | En el coloquio académico, dos catedráticos se enzarzaron en una viva disputa sobre los límites éticos de la IA, sin convencerse mutuamente.
+  #2 | 十九世纪七十年代，斯坦福与科恩围绕奔跑中的马蹄是否同时离地进行了著名争论，最终促成了电影技术的诞生。 | Shíjiǔ shìjì qīshí niándài, Sītǎnfú yǔ Kē'ēn wéirào bēnpǎo zhōng de mǎtí shìfǒu tóngshí lídì jìnxíng le zhùmíng zhēnglùn, zuìzhōng cùchéng le diànyǐng jìshù de dànshēng. | In the 1870s, Stanford and Cohen engaged in a famous debate over whether galloping horse hooves leave the ground simultaneously, triggering the birth of cinema. | En la década de 1870, Stanford y Cohen mantuvieron una célebre controversia sobre si los cascos del caballo dejaban el suelo al galopar, alumbrando el cine.
+
+collocations[6]{hanzi,en}:
+  激烈争论 | heated dispute/argument
+  引发争论 | trigger controversy/debate
+  无休止的争论 | endless dispute
+  展开争论 | launch into an argument
+  争论不休 | argue incessantly without pause
+  学术争论 | academic debate
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  争论不休 | zhēng lùn bù xiū | argue incessantly without reaching an agreement
+  各执一词 | gè zhí yì cí | each clings stubbornly to their own version of the story
+  面红耳赤 | miàn hóng ěr chì | red in the face and ears with agitation
+  平息纷争 | píng xī fēn zhēng | calm down and quell contentious disputes
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  争 | zhēng | struggle; strive; contend; dispute | luchar; disputar; competir; contender | 刀 | knife | 爫 (hand from above) + 彐 (hand from below grasping a stick) | 争 (zhēng) | 6 | 单一结构 | Oracle bone pictogram of two human hands pulling and wrestling over a single object, symbolizing contention and struggle. | Two hands reach out from above and below, wrestling fiercely over a single prize (争). | Dos manos tiran a la vez desde arriba y abajo, forcejeando con brío por un mismo trofeo (争). | 55 | NSD | 爭
+  论 | lùn | discuss; debate; discourse; theory | discutir; debatir; teoría; tratado | 讠 | speech | 讠 (speech/words) | 仑 (lún, bamboo slips in order / phonetic) | 6 | 左右结构 | Phono-semantic character combining spoken words 讠 with ordered bamboo slips 仑, meaning systematic theoretical discourse. | Spoken words (讠) are systematically arranged like ordered bamboo slips (仑) in reasoned debate (论). | Palabras meditadas (讠) se ordenan como tablillas de bambú (仑) para sostener un debate lógico (论). | 51 | IVOP | 論
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Two hands struggle to pull (争) while words fly in theoretical discourse (论), sparking an intense dispute (争论).
+  composite_memory_hook_es: Dos manos forcejean por la razón (争) mientras cruzan palabras teóricas (论), desatando la disputa (争论).
+  cultural_and_cognitive_roots: Derived from classical Chinese dialectics (百家争鸣); while Confucianism emphasized harmony, ancient schools of thought (Mohists and Logicians) developed debate into formal epistemology.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'zhēng lùn' (55-51). Articulate 'zhēng' on level pitch 55, then descend decisively into 4th tone 'lùn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    净 | jìng | clean; pure | Has ice radical 冫 on left of 争
+    静 | jìng | quiet; still | Has 青 on left of 争
+    轮 | lún | wheel | Has vehicle radical 车 on left instead of speech 讠 in 论
+    伦 | lún | ethics; peer | Has person radical 亻 on left instead of 讠
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    辩 | biàn | debate; argue with fine distinctions
+    驳 | bó | refute; contradict opponent
+    竞 | jìng | compete; race toward goal
+    议 | yì | deliberate; discuss righteous policy
+
+semantic_boundary_contrasts:
+  core_nuance: 争论 emphasizes emotional or ideological friction where two parties argue vigorously over conflicting views.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 争论 vs. 辩论 | biànlùn | 辩论 emphasizes formal, structured academic or competitive debates with rules, while 争论 implies emotional contention, clash, and dispute.
+    2 | 争论 vs. 讨论 | tǎolùn | 讨论 is a cooperative, friendly discussion aimed at finding mutual solutions, whereas 争论 highlights opposing friction.
+    3 | 争论 vs. 争吵 | zhēngchǎo | 争吵 is a vulgar, noisy quarrel or domestic spat, whereas 争论 involves ideas, theories, or principles.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 学术的繁荣离不开自由真诚的争论。当学者们各抒己见据理力争，真理的微光便在观点的剧烈交锋中悄然点亮。不因权威而盲从，不因分歧而交恶，在思想的争论与洗礼中，人类理性的大厦才能历经风雨而愈发坚固。 | Xuéshù de fánróng líbùkāi zìyóu zhēnchéng de zhēnglùn. Dāng xuézhěmen gèshū-jǐjiàn jùlǐ-lìzhēng, zhēnlǐ de wēiguāng biàn zài guāndiǎn de jùliè jiāofēng zhōng qiǎorán diǎnliàng. Bù yīn quánwēi ér mángcóng, bù yīn fēnqí ér jiāo'è, zài sīxiǎng de zhēnglùn yǔ xǐlǐ zhōng, rénlèi lǐxìng de dàshà cáinéng lìjīng fēngyǔ ér yùfā jiāngù. | Scholarly flourishing thrives on free and sincere debate. When scholars contest ideas with reason, truth's spark lights up amid intellectual clashes. Questioning authority without enmity, rationality's edifice grows stronger through debate. | La ciencia florece gracias a la controversia sincera. Cuando los sabios defienden sus tesis con rigor, la verdad destella en el choque de ideas. Sin rendirse ante dogmas ni enemistarse por disensos, el templo de la razón se afianza en el debate.
+  #2 | 回溯科技发展史，重大的发明往往脱胎于看似不起眼的激烈争论。十九世纪美国关于马奔跑时蹄子是否同时腾空的学术争论，促使摄影师发明了连续高速曝光拍摄装置。正是这场著名的科学争论，奇迹般地催生了现代活动电影技术。 | Huísù kējì fāzhǎnshǐ, zhòngdà de fāmíng wǎngwǎng tuōtāi yú kànsì bùqǐyǎn de jīliè zhēnglùn. Shíjiǔ shìjì Měiguó guānyú mǎ bēnpǎo shí tízi shìfǒu tóngshí téngkōng de xuéshù zhēnglùn, cùshǐ shèyǐngshī fāmíng le liánxù gāosù bàoguāng pāishè zhuāngzhì. Zhèng shì zhè chǎng zhùmíng de kēxué zhēnglùn, qíjì-bān de cuīshēng le xiàndài huódòng diànyǐng jìshù. | Tracing technological history, major inventions often stem from sharp debates. A 19th-century American dispute on whether horse hooves leave the ground spurred the invention of high-speed photography, miraculously giving birth to cinema. | En la historia de la técnica, grandes inventos nacieron de vivas polémicas. La disputa sobre si los caballos suspendían sus cuatro cascos al correr motivó la fotografía de alta velocidad. Esa controversia alumbró milagrosamente la cinematografía.

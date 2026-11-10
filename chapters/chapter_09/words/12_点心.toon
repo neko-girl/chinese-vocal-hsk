@@ -1,0 +1,63 @@
+id: 12
+hanzi: 点心
+pinyin: diǎn xin
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: dim sum; pastry; snack; dessert; refreshment
+  es: repostería; pastelitos; merienda; tentempié; dim sum
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | traditional baked, steamed, or fried cakes, dumplings, and sweet or savory snacks served between meals | pasteles, bollos o bocadillos dulces o salados que se toman como merienda o tentempié | 可口的小点心 (delicious little pastries)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每逢周末，母亲总会亲手烘焙几样精致的点心，搭配浓郁的热红茶，让全家人享受惬意的下午茶时光。 | Měiféng zhòumò, mǔqīn zǒng huì qīnshǒu hōngbèi jǐ yàng jīngzhì de diǎnxin, dàipèi nóngyù de rè hóngchá, ràng quánjiā rén xiǎngshòu qièyì de xiàwǔchá shíguāng. | Every weekend, mother bakes delicate pastries by hand, paired with rich black tea for the family to enjoy cozy afternoon tea. | Cada fin de semana, madre hornea finos pastelitos para acompañar con té caliente, brindando una plácida merienda familiar.
+  #2 | 鲁迅先生极爱甜食，下班路过北京稻香村时，总要买上几包传统的精致点心带回家中招待来客。 | Lǔ Xùn xiānsheng jí ài tiánshí, xiàbān lùguò Běijīng Dàoxiāngcūn shí, zǒng yào mǎi shàng jǐ bāo chuántǒng de jīngzhì diǎnxin dài huí jiā zhōng zhāodài láikè. | Mr. Lu Xun had a great sweet tooth; passing Daoxiangcun after work, he always bought traditional pastries to treat guests at home. | A Lu Xun le fascinaban los dulces; al pasar por la confitería Daoxiangcun compraba cajas de repostería típica para agasajar a sus visitas.
+
+collocations[6]{hanzi,en}:
+  精美点心 | delicate pastries
+  广式点心 | Cantonese dim sum
+  传统点心 | traditional snacks/pastries
+  点心匣子 | traditional pastry gift box
+  烘焙点心 | bake pastries
+  茶水点心 | tea and refreshments
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  脍炙人口 | kuài zhì rén kǒu | appealing to all tastes; universally praised
+  茶余饭后 | chá yú fàn hòu | over tea and meals; during leisurely spare time
+  秀色可餐 | xiù sè kě cān | ravishing beauty feast for the eyes
+  甘之如饴 | gān zhī rú yí | taste as sweet as malt sugar; bear hardships willingly
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  点 | diǎn | drop; dot; touch; spot; light up | punto; gota; tocar levemente; encender | 灬 | fire | 黑 (black/soot) + 灬 (fire) | 占 (zhàn, divine / phonetic) | 9 | 上下结构 | Ancient character showing soot marks from a lamp flame 灬; later simplified to touching or touching lightly. | A spark of flame (灬) touches the wick to place a small dot of light on the table (点). | Una chispa de fuego (灬) roza la mecha depositando una pizca de luz sobre la mesa (点). | 214 | YRBO | 點
+  心 | xin | heart; core; mind; affection | corazón; centro; mente; afecto | 心 | heart | 心 (pictogram of the human heart) | 心 (xīn) | 4 | 单一结构 | Ancient oracle bone pictogram of the human heart showing ventricles and aorta chambers. | The three drops surround the curved ventricle chamber to depict the living human heart (心). | Las tres gotas rodean la cavidad central para representar el corazón humano palpitante (心). | 55 | P | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A light snack touches (点) and comforts the stomach and heart (心), hence pastry (点心).
+  composite_memory_hook_es: Un bocado ligero que toca (点) y conforta el corazón (心) se convierte en merienda (点心).
+  cultural_and_cognitive_roots: Folklore traces 'diǎnxīn' to the Tang/Song dynasties, signifying eating a tiny bite just enough to 'touch the heart' (点点心意) before hunger strikes.
+  tone_sandhi_and_pitch_modulation: Dipping tone followed by neutral tone: 'diǎn xin' (214-2). Deliver 'diǎn' with a full 3rd tone and drop 'xin' softly into an unstressed neutral tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    占 | zhàn | occupy; divine | Lacks the four bottom fire dots 灬 of 点
+    店 | diàn | shop; store | Has shelter radical 广 instead of bottom fire dots
+    必 | bì | must; surely | Has a long diagonal slashing stroke through 心
+    忒 | tuī | excessive | Has 弋 on the upper right of 心
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    糕 | gāo | steamed cake of rice/flour
+    饼 | bǐng | round flat biscuit or pastry
+    馅 | xiàn | pastry stuffing or filling
+    馍 | mó | steamed flour bun or bread
+
+semantic_boundary_contrasts:
+  core_nuance: 点心 refers to baked, steamed, or fried pastries and snacks eaten between formal meals.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 点心 vs. 零食 | língshí | 零食 encompasses all processed casual snacks (candies, chips, nuts) eaten casually, while 点心 specifically refers to cooked, baked, or culinary pastries.
+    2 | 点心 vs. 甜点 | tiándiǎn | 甜点 is strictly sweet desserts served at the conclusion of meals, whereas 点心 includes both savory meat buns and sweet pastries.
+    3 | 点心 vs. 小吃 | xiǎochī | 小吃 covers regional street foods (noodles, tofu, skewers), while 点心 leans toward refined flour/rice pastries and teahouse refreshments.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 午后暖阳斜照在雕花木桌上，一壶清冽的龙井配上两块软糯的桂花点心，勾勒出岁月静好的江南午后。那甜而不腻的豆沙馅料入口即化，在唇齿间弥散开淡淡的花香，将所有的奔波劳碌都化作了舌尖上的温存。 | Wǔhòu nuǎnyáng xiézhào zài diāohuā mùzhuō shàng, yì hú qīngliè de Lóngjǐng pèishàng liǎng kuài ruǎnnuò de guìhuā diǎnxin, gōulè chū suìyuè-jìnghǎo de Jiāngnán wǔhòu. Nà tián ér bú nì de dòushā xiànliào rùkǒu-jíhuà, zài chúnchǐ jiān mísàn kāi dàndàn de huāxiāng, jiāng suǒyǒu de bēnbō-láolù dōu huàzuò le shéjiān shàng de wēncún. | Warm afternoon sun slants across the carved table, where Longjing tea and sweet osmanthus pastries outline southern tranquility. The delicate bean paste melts on the tongue, dispersing floral fragrance and melting daily weariness. | El sol vespertino baña la mesa de madera labrada; una tetera de té Longjing y pastelitos de osmanto dibujan la quietud del sur. El dulce relleno se deshace en el paladar, disipando las fatigas del día con su sutil aroma floral.
+  #2 | 传统中式点心不仅是美味的物质享受，更承载着中华民族深厚的节庆民俗与礼仪文化。从八月十五象征阖家团圆的月饼，到端午时节包裹青竹清香的粽子，每一道手工点心的纹样与馅料，都寄托着人们对美好生活的永恒期盼。 | Chuántǒng zhōngshì diǎnxin bùjǐn shì měiwèi de wùzhì xiǎngshòu, gèng chéngzài zhe Zhōnghuá mínzú shēnhòu de jiéqìng mínsú yǔ lǐyí wénhuà. Cóng bāyuè shíwǔ xiàngzhēng héjiā-tuányuán de yuèbǐng, dào Duānwǔ shíjié bāoguǒ qīngzhú qīngxiāng de zòngzi, měi yí dào shǒugōng diǎnxin de wényàng yǔ xiànliào, dōu jìtuō zhe rénmen duì měihǎo shēnghuó de yǒnghéng qīpàn. | Traditional pastries offer not only culinary pleasure, but embody festive customs and etiquette. From Mid-Autumn mooncakes symbolizing reunion to Dragon Boat dumplings wrapped in bamboo, every pattern carries hopes for a good life. | La repostería china tradicional encarna un rico legado festivo. Desde los pasteles de luna que celebran la unión familiar hasta los tamales de bambú en el festival del dragón, cada manjar artesano alberga los mejores deseos de bienestar.

@@ -1,0 +1,63 @@
+id: 27
+hanzi: 逐渐
+pinyin: zhú jiàn
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: gradually; by degrees; little by little
+  es: gradualmente; poco a poco; paulatinamente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | gradually, step by step, or progressively over the course of time | poco a poco, paso a paso o progresivamente a lo largo del tiempo | 天气逐渐转凉 (weather gradually turns cool)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 立秋过后，昼夜温差变大，北方大地的树叶逐渐从翠绿变为金黄。 | Lìqiū guòhòu, zhòuyè wēnchā biàndà, běifāng dàdì de shùyè zhújiàn cóng cuìlǜ biànwéi jīnhuáng. | After Start of Autumn, temperature swings widen and northern tree leaves gradually turn from jade green to gold. | Tras la llegada del otoño, el contraste térmico aumenta y el follaje norteño pasa paulatinamente del verde esmeralda al dorado.
+  #2 | 通过持之以恒的系统阅读与写作训练，他的汉语听说表达能力逐渐得到了显著提升。 | Tōngguò chízhīyǐhéng de xìtǒng yuèdú yǔ xiězuò xùnliàn, tā de Hànyǔ tīng-shuō biǎodá nénglì zhújiàn dédào le xiǎnzhù tíshēng. | Through persistent systematic reading and writing, his Chinese speaking and listening abilities gradually improved remarkably. | Mediante una perseverante práctica de lectura y redacción, su destreza oral en chino experimentó una mejora paulatina y notable.
+
+collocations[6]{hanzi,en}:
+  逐渐增加 | gradually increase
+  逐渐减少 | gradually decrease
+  逐渐形成 | gradually take shape
+  逐渐适应 | gradually adapt to
+  逐渐恢复 | gradually recover
+  逐渐改变 | gradually change
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  循序渐进 | xún xù jiàn jìn | proceed step by step in an orderly progression
+  水滴石穿 | shuǐ dī shí chuān | dripping water wears through stone; persistence pays
+  日积月累 | rì jī yuè lěi | accumulate day by day and month by month
+  防微杜渐 | fáng wēi dù jiàn | nip problems in the bud before they grow
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  逐 | zhú | pursue; chase; one by one; successively | perseguir; ahuyentar; uno a uno; sucesivamente | 辶 | walk / movement | 辶 (stride/movement) + 豕 (pig/wild boar) | 逐 (zhú) | 10 | 半包围结构 | A foot 辶 hunting and chasing a wild boar 豕 step by step; signifies following successively one after another. | A hunter pursues (辶) a wild boar (豕) step by step in orderly succession (逐). | Un cazador sigue el rastro (辶) de un jabalí (豕) paso a paso en pos de la presa (逐). | 35 | YMBO | ""
+  渐 | jiàn | gradual; slowly; advance step by step | gradual; paulatino; avanzar poco a poco | 氵 | water | 氵 (soaking water flow) | 斩 (zhǎn, cleave / phonetic) | 11 | 左右结构 | Water radical 氵 paired with 斩; water gently and steadily soaking through soil over time without rushing. | Water drops (氵) slowly soak into earth step by step (渐) without rushing. | El agua (氵) impregna la tierra paso a paso (渐) con calma silenciosa. | 51 | EKLJ | 漸
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pursuing step by step (逐) as water slowly soaks through soil (渐) describes gradual progress (逐渐).
+  composite_memory_hook_es: Seguir un paso tras otro (逐) como el agua cala la tierra (渐) describe el avance paulatino (逐渐).
+  cultural_and_cognitive_roots: Derived from the I Ching hexagram Jian (渐卦: gradual mountain tree growth); emphasizes natural evolutionary tempo versus rash haste.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by falling tone: 'zhú jiàn' (35-51). Rise smoothly on 'zhú', then descend firmly on 'jiàn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    遂 | suì | succeed; fulfill | Has 豕 inside 辶 like 逐 but has two extra upper strokes
+    家 | jiā | family; home | Has roof radical 宀 atop 豕 instead of movement 辶
+    惭 | cán | ashamed | Has heart radical 忄 on left of 斩 instead of water 氵 in 渐
+    崭 | zhǎn | towering; brand-new | Has mountain radical 山 on top of 斩
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    慢 | màn | slow; deliberate pace
+    进 | jìn | advance; proceed forward
+    步 | bù | step; pace of walking
+    徐 | xú | gently slow; leisurely
+
+semantic_boundary_contrasts:
+  core_nuance: 逐渐 focuses on incremental, developmental transitions across uninterrupted chronological timelines.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 逐渐 vs. 逐步 | zhúbù | 逐步 emphasizes clear, discrete planned human steps ('逐步落实方案'), while 逐渐 highlights continuous, natural, or subtle progressive changes ('天色逐渐暗下来').
+    2 | 逐渐 vs. 渐渐 | jiànjiàn | 渐渐 is more colloquial and poetic, common in spoken narrative, whereas 逐渐 is standard across written prose and analytical reports.
+    3 | 逐渐 vs. 慢慢 | mànmàn | 慢慢 emphasizes low velocity ('慢慢走'), while 逐渐 emphasizes chronological degree of change.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 早春二月，覆盖大地的积雪在和煦阳光下悄然融化，小溪解冻流淌出悦耳的叮咚乐声。向阳山坡上的嫩草逐渐探出绿茸茸的脑袋，枯槁了一整个冬天的森林正在逐渐苏醒，四处洋溢着盎然生机。 | Zǎochūn èryuè, fùgài dàdì de jīxuě zài héxù yángguāng xià qiǎorán rónghuà, xiǎoxī jiědòng liútǎng chū yuè'ěr de dīngdōng yuèshēng. Xiàngyáng shānpō shàng de nèncǎo zhújiàn tànchū lǜróngróng de nǎodài, kūgǎo le yí zhěng ge dōngtiān de sēnlín zhèngzài zhújiàn sùxǐng, sìchù yángyì zhe àngrán shēngjī. | In early spring, snow melts softly under gentle sun as brooks thaw into song. Tender grass gradually peeps out on sunny slopes; the forest that slumbered all winter is gradually awakening to life. | A comienzos de primavera, la nieve se funde al sol tibio y los arroyos entonan su murmullo. Brotes verdes asoman en las laderas soleadas; el bosque despierta paulatinamente rebosando vida.
+  #2 | 掌握一门外语从非一朝一夕之功。初学者往往因记不住单词而倍感焦虑，但只要每天坚持收听地道广播、积累经典表达，语感就会在潜移默化中逐渐建立，原本晦涩复杂的长难句最终也能轻松读懂。 | Zhǎngwò yì mén wàiyǔ cóng fēi yìzhāo-yīxī zhī gōng. Chūxuézhě wǎngwǎng yīn jìbuzhù dāncí ér bèigǎn jiāolǜ, dàn zhǐyào měitiān jiānchí shōutīng dìdao guǎngbō, jīlěi jīngdiǎn biǎodá, yǔgǎn jiù huì zài qiányí-mòhuà zhōng zhújiàn jiànlì, yuánběn huìsè fùzá de chángnánjù zuìzhōng yě néng qīngsōng dúdǒng. | Mastering a foreign language is never overnight work. Beginners fret over vocabulary, yet daily listening builds language intuition gradually, turning complex sentences into accessible reading. | Dominar una lengua extranjera no se logra de la noche a la mañana. La constancia diaria con la radio consolida paulatinamente la intuición lingüística, facilitando la comprensión de frases arduas.

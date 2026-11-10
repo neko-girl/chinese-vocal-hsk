@@ -1,0 +1,63 @@
+id: 36
+hanzi: 朦胧
+pinyin: méng lóng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: hazy; dim; obscure; misty; blurred (from wine, mist, or twilight)
+  es: brumoso; borroso; tenue; velado; difuso; soñoliento
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | dim, indistinct, or blurred in sight or consciousness due to moonlight, mist, sleepiness, or light intoxication | tenue, borroso o poco nítido para la vista o la conciencia por la niebla, el crepúsculo o el vino | 月色朦胧 (hazy moonlight)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨薄雾笼罩着湖畔，远处的亭台楼阁与垂柳在朦胧的水汽中若隐若现，宛如水墨仙境。 | Qīngchén báowù lǒngzhào zhe húpàn, yuǎnchù de tíngtái-lóugé yǔ chuíliǔ zài ménglóng de shuǐqì zhōng ruòyǐn-ruòxiàn, wǎnrú shuǐmò xiānjìng. | Morning mist enshrouded the lakeshore; distant pavilions and willows faded in and out in hazy vapor like an ink-wash dreamland. | La neblina matinal cubría la orilla; quioscos y sauces llorones asomaban entre el vaho brumoso como una acuarela de hadas.
+  #2 | 友人撰文回忆鲁迅宴饮时的神采，称他酒过三巡后“醉眼朦胧”，神情极为亲切和蔼，尽显文人真性情。 | Yǒurén zhuànwén huíyì Lǔ Xùn yànyǐn shí de shéncǎi, chēng tā jiǔguò-sānxún hòu 'zuìyǎn ménglóng', shénqíng jíwéi qīnqiè hé'ǎi, jìnxiǎn wénrén zhēnxìngqíng. | Friends recalled Lu Xun's demeanor after wine: 'eyes hazy from drink', warmly amiable, revealing his genuine literati nature. | Sus amigos recordaban a Lu Xun tras brindar varias rondas: con los ojos entornados y brumosos, cordial y mostrando su genio más franco.
+
+collocations[6]{hanzi,en}:
+  月色朦胧 | hazy moonlight
+  睡眼朦胧 | eyes hazy with sleep
+  醉眼朦胧 | eyes dim and hazy with wine
+  朦胧美 | hazy aesthetic beauty
+  朦胧的记忆 | hazy/dim memories
+  夜色朦胧 | dimly obscure night
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  若隐若现 | ruò yǐn ruò xiàn | partly hidden and partly visible; faint
+  雾里看花 | wù lǐ kàn huā | view flowers through mist; vague, blurred perception
+  扑朔迷离 | pū shuò mí lí | complicated, confusing, and difficult to unravel
+  浮想联翩 | fú xiǎng lián piān | thoughts and fancies drift in rapid succession
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  朦 | méng | dim moonlight; obscure; hazy | luna tenue; brumoso; velado | 月 | moon | 月 (moon behind clouds) | 蒙 (méng, cover / blind / phonetic) | 17 | 左右结构 | Phono-semantic character where the moon 月 is obscured and covered 蒙 by drifting mist and night clouds. | The pale moon (月) is wrapped in covered veils of cloud (蒙), shedding dim, hazy light (朦). | La pálida luna (月) queda envuelta bajo velos de nubes (蒙), emitiendo una luz tenue y brumosa (朦). | 35 | BTOE | ""
+  胧 | lóng | dim; twilight; cloudy moon | difuso; crepúsculo; luna velada | 月 | moon | 月 (moon) | 龙 (lóng, dragon / phonetic) | 9 | 左右结构 | Phono-semantic character where the nocturnal moon 月 shines indistinctly like a dragon 龙 concealed in clouds. | The nocturnal crescent moon (月) drifts like a dragon (龙) through misty night fog, creating twilight (胧). | La luna creciente (月) serpentea como un dragón (龙) entre la niebla nocturna creando un halo difuso (胧). | 35 | BIKP | 朧
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When the moon is shrouded by clouds (朦) and drifts like a twilight dragon (胧), the landscape turns hazy and dim (朦胧).
+  composite_memory_hook_es: Cuando la luna queda velada (朦) y serpentea en la penumbra (胧), el paisaje se torna brumoso y difuso (朦胧).
+  cultural_and_cognitive_roots: A celebrated aesthetic term in classical Chinese poetry; 'ménglóng' values evocative poetic indeterminacy ('朦胧诗') over stark, clinical clarity.
+  tone_sandhi_and_pitch_modulation: Two rising tones: 'méng lóng' (35-35). Two gentle, continuous upward sweeps capturing the soft, indistinct imagery.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    蒙 | méng | cover; ignorant | Has grass radical 艹 at top; lacks left moon radical 月
+    朦 | méng | dim moon | Pair with 胧; do not confuse with 庞 (large/face)
+    珑 | lóng | tinkling jade | Has jade radical 王 on left instead of 月
+    笼 | lóng | cage; basket | Has bamboo radical 竹 at top instead of 月
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    雾 | wù | fog; water droplets in air
+    霭 | ǎi | mist; evening twilight clouds
+    茫 | máng | vast; blurred; water expanse
+    恍 | huǎng | dimly; as if in a daze
+
+semantic_boundary_contrasts:
+  core_nuance: 朦胧 characterizes a soft, aesthetically pleasing indistinctness caused by moonlight, mist, sleep, or mild wine.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 朦胧 vs. 模糊 | móhu | 模糊 is an everyday, technical term for blurred vision, damaged lenses, or indistinct logic, whereas 朦胧 carries strong poetic, evocative beauty.
+    2 | 朦胧 vs. 隐约 | yǐnyuē | 隐约 can describe both faint sights and distant sounds ('隐约听到'), while 朦胧 predominantly describes visual twilight, mist, or mental haze.
+    3 | 朦胧 vs. 明晰 | míngxī | 明晰 (crystal clear and sharply defined) is the direct antonym of 朦胧.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 江南春夜，月色朦胧。细雨初歇的石板路上倒映着点点红灯笼的光晕，乌篷船在桨声灯影里悠然摇曳。古镇在湿润的水汽中半睡半醒，那种若即若离的朦胧诗意，宛如一幅晕染开来的宋代山水长卷，令人沉醉不知归路。 | Jiāngnán chūnyè, yuèxiè ménglóng. Xìyǔ chū xiē de shíbǎnlù shàng dàoyìng zhe diǎndiǎn hóng dēnglong de guāngyùn, wūpéngchuán zài jiǎngshēng-dēngyǐng lǐ yōurán yáoyè. Gǔzhèn zài shīrùn de shuǐqì zhōng bànshuì-bànxǐng, nà zhǒng ruòjí-ruòlí de ménglóng shīyì, wǎnrú yì fú yùnrǎn kāilái de Sòngdài shānshuǐ chángjuàn, lìngrén chénzuì bùzhī guīlù. | On a spring night south of the Yangtze, the moon shines hazy. Lantern glows shimmer on wet stone paths as awning boats sway. Half-awake in mist, the ancient town's poetic haze intoxicates like a Song landscape scroll. | En la noche primaveral del sur, la luna brilla tenue. Los farolillos rojos se reflejan en el empedrado mientras las barcas se mecen. Entre la bruma húmeda, el pueblo antiguo destila una poesía que embriaga como un lienzo Song.
+  #2 | 在二十世纪七八十年代的中国诗坛上，“朦胧诗”派以其独特的艺术探索开创了现代诗歌的新纪元。诗人通过多义性的意象组合与富有哲思的意境留白，打破了传统现实主义诗歌单一说教的僵化模式，唤醒了无数读者对于人性、尊严与独立思考的深刻觉醒。 | Zài èrshí shìjì qībāshí niándài de Zhōngguó shītán shàng, 'Ménglóngshī' pài yǐ qí dútè de yìshù tànsuǒ kāichuàng le xiàndài shīgē de xīn jìyuán. Shīrén tōngguò duōyìxìng de yìxiàng zǔhé yǔ fùyǒu zhésī de yìjìng liúbái, dǎpò le chuántǒng xiànshí zhǔyì shīgē dānyī shuōjiào de jiānghuà móshì, huànxǐng le wúshù dúzhě duìyú rénxìng, zūnyán yǔ dúlì sīkǎo de shēnkè juéxǐng. | In late 20th-century Chinese poetry, the 'Misty Poets' opened a new era through artistic exploration. Multi-layered imagery and reflective spaces shattered rigid didacticism, awakening readers to human dignity and independent thought. | La corriente de la 'Poesía Brumosa' inauguró una nueva era en las letras chinas. Sus metáforas polisémicas y silencios meditados rompieron el didactismo monolítico, despertando la dignidad humana y el pensamiento crítico en millones de lectores.

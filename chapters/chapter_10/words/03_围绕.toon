@@ -1,0 +1,64 @@
+id: 3
+hanzi: 围绕
+pinyin: wéi rào
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to revolve around; to center around; to encircle; to focus on a theme
+  es: girar en torno a; centrarse en; rodear; girar alrededor de
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to physically move around a center in a circular or elliptical path, or encircle an object | desplazarse en círculo o elipse alrededor de un centro, o cercar físicamente algo | 地球围绕太阳旋转 (the Earth revolves around the Sun)
+  2 | Verb | Standard | to center discussion, policy, or research upon a core topic, problem, or theme | centrar debates, políticas o investigaciones en torno a un tema o problema nuclear | 围绕核心议题展开 (center around the core topic)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 孩子们欢声笑语地围绕在篝火四周载歌载舞，跳动的火光映红了每一张灿烂的笑脸。 | Háizimen huānshēng-xiàoyǔ de wéirào zài gōuhuǒ sìzhōu zàigē-zàiwǔ, tiàodòng de huǒguāng yìnghóng le měi yì zhāng cànlàn de xiàoliǎn. | Laughing and cheering, children encircled the bonfire dancing and singing, the dancing flames illuminating their smiling faces. | Entre risas y cantos, los niños bailaban alrededor de la fogata, mientras las llamas alumbraban sus alegres rostros.
+  #2 | 当年斯坦福与科恩正是围绕“马奔跑时马蹄是否全部腾空”这一分歧展开论战，推动了照相技术的重大革新。 | Dāngnián Sītǎnfú yǔ Kē'ēn zhèng shì wéirào 'mǎ bēnpǎo shí mǎtí shìfǒu quánbù téngkōng' zhè yì fēnqí zhǎnkāi lùnzhàn, tuīdòng le zhàoxiàng jìshù de zhòngdà géxīn. | Back then, Stanford and Cohen centered their debate around whether all hooves leave the ground, propelling a major photographic breakthrough. | Stanford y Cohen centraron su célebre controversia en si el caballo suspendía sus cuatro cascos, impulsando la técnica fotográfica.
+
+collocations[6]{hanzi,en}:
+  围绕主题 | center around the theme
+  围绕中心 | revolve around the center
+  紧紧围绕 | closely focus on / center tightly around
+  围绕核心 | center around the core
+  围绕问题 | focus on the issue
+  围绕太阳公转 | revolve around the Sun
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  众星拱月 | zhòng xīng gǒng yuè | multitude of stars revolve around the bright moon; cluster around a center
+  环顾四周 | huán gù sì zhōu | look around in all directions
+  群策群力 | qún cè qún lì | pool collective wisdom and efforts
+  万变不离其宗 | wàn biàn bù lí qí zōng | innumerable changes never depart from the central principle
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  围 | wéi | surround; encircle; enclosure; corral | rodear; cercar; recinto; corral | 囗 | enclosure | 囗 (surrounding wall boundary) | 韦 (wéi, leather / patrol / phonetic) | 7 | 全包围结构 | Ideogram showing guards patrolling 韦 around the outer perimeter wall 囗 of a fortified city. | A perimeter wall (囗) completely encircles the citadel to guard (韦) against intrusion (围). | Un muro perimetral (囗) rodea la fortaleza para protegerla (韦) por los cuatro costados (围). | 35 | WDS | 圍
+  绕 | rào | wind around; coil; bypass; detour | enrollar; serpentear; dar rodeo; girar | 纟 | silk | 纟 (silk cord/thread) | 尧 (yáo, lofty / winding / phonetic) | 9 | 左右结构 | Phono-semantic character where silken threads 纟 wind in circular loops around a spindle. | Long silk cords (纟) wind in circular coils around a tall spool (尧), bypassing obstacles (绕). | Finos hilos de seda (纟) se enrollan en espiral alrededor del carrete (尧), dando vueltas (绕). | 51 | VMJPU | 繞
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Encircle with boundary walls (围) and wind silk cords in orbit (绕) to revolve around a center (围绕).
+  composite_memory_hook_es: Cerca con muros (围) y enrolla el hilo en torno al centro (绕) para girar alrededor de él (围绕).
+  cultural_and_cognitive_roots: Derived from celestial orbits (astronomy) and circular defensive architecture; in discourse analysis, it serves as the primary metaphor for thematic focus ('theme as solar center').
+  tone_sandhi_and_pitch_modulation: Rising tone followed by falling tone: 'wéi rào' (35-51). Syllable 'wéi' glides upward, followed by a crisp descending strike on 'rào'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    图 | tú | picture; map | Has 冬 inside 囗 instead of 韦
+    国 | guó | country | Has jade 玉 inside 囗 instead of 韦
+    烧 | shāo | burn | Has fire radical 火 on left of 尧 instead of 纟
+    晓 | xiǎo | dawn; know | Has sun radical 日 on left of 尧
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    环 | huán | ring; encircle like jade ring
+    转 | zhuǎn | turn; rotate like wheels
+    旋 | xuán | whirl; revolve under banners
+    周 | zhōu | perimeter; circumference
+
+semantic_boundary_contrasts:
+  core_nuance: 围绕 emphasizes physical orbiting/encirclement, or focusing intellectual analysis closely around a central core.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 围绕 vs. 环绕 | huánrào | 环绕 emphasizes static physical surrounding on all sides ('青山环绕'), while 围绕 emphasizes active dynamic revolution or thematic focus ('围绕问题').
+    2 | 围绕 vs. 针对 | zhēnduì | 针对 means aiming directly at a specific target, person, or symptom ('针对性措施'), while 围绕 implies exploring various dimensions around a central theme.
+    3 | 围绕 vs. 旁敲侧击 | pángqiāo-cèjī | 旁敲侧击 means beating around the bush evasively, whereas 围绕 focuses constructively on the main hub.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 仰望浩瀚夜空，无数星辰围绕着银河的漩涡静静旋转，展示着宇宙庄严的秩序。人类探索星空的脚步从未停歇，科学家们围绕着黑洞与暗物质的奥秘展开持续攻关，正是这种执着的叩问，不断拓展着人类认知的宏伟边界。 | Yǎngwàng hàohàn yèkōng, wúshù xīngchén wéirào zhe Yínhé de xuánwō jìngjìng xuánzhuǎn, zhǎnshì zhe yǔzhòu zhuāngyán de zhìxù. Rénlèi tànsuǒ xīngkōng de jiǎobù cóng wèi tíngxiē, kēxuéjiāmen wéirào zhe hēidòng yǔ ànwùzhì de àomì zhǎnkāi chíxù gōngguān, zhèng shì zhè zhǒng zhízhuó de kòuwèn, bùduàn tuòzhǎn zhe rénlèi rènzhī de hóngwěi biānjiè. | Gazing into the night, countless stars revolve quietly around the galactic spiral, showing cosmic order. Never halting starward exploration, scientists center investigations on black holes, expanding the boundaries of knowledge. | Al mirar el firmamento, miríadas de estrellas giran en torno a la espiral galáctica, mostrando el orden cósmico. La ciencia centra sus pesquisas en los agujeros negros, ampliando los horizontes del saber humano.
+  #2 | 高质量发展必须紧紧围绕供给侧结构性改革这条主线。各级产业部门围绕传统产业数字化转型与绿色低碳循环发展，出台了一系列精准的财政与金融扶持政策，有力推动了产业链核心关键技术的自主可控与协同升级。 | Gāo zhìliàng fāzhǎn bìxū jǐnjǐn wéirào gōngjǐcè jiégòuxìng gǎigé zhè tiáo zhǔxiàn. Gèjí chǎnyè bùmén wéirào chuántǒng chǎnyè shùzìhuà zhuǎnxíng yǔ lǜsè dītàn xúnhuán fāzhǎn, chūtái le yíxìliè jīngzhǔn de cáizhèng yǔ jīnróng fúchí zhèngcè, yǒulì tuīdòng le chǎnyèliàn héxīn guānjiàn jìshù de zìzhǔ kěkòng yǔ xiétóng shēngjí. | High-quality development must tightly center around supply-side structural reform. Industrial bodies focus on digital transformation and green development, issuing targeted policies to boost supply-chain autonomy and coordinated upgrades. | El crecimiento de calidad debe girar en torno a la reforma estructural de la oferta. Los ministerios industriales centran sus planes en la digitalización y la transición verde, dictando incentivos para afianzar la soberanía técnica fabril.

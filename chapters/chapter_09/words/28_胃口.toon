@@ -1,0 +1,64 @@
+id: 28
+hanzi: 胃口
+pinyin: wèi kǒu
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: appetite; liking; taste; interest; ambition
+  es: apetito; ganas de comer; gusto; inclinación; ambición
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | physiological desire for food; physical appetite | deseo fisiológico de ingerir alimentos; apetito corporal | 胃口很好 (have a very good appetite)
+  2 | Noun | Standard | interest, taste, or appetite for specific arts, activities, or business ventures | inclinación, afición, gusto o ambición por determinados temas o proyectos | 不对胃口 (not to one's liking/taste)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这道酸辣爽口的开胃小菜色泽诱人，让人一尝之下顿时胃口大开，连吃了两碗白米饭。 | Zhè dào suānlà shuǎngkǒu de kāiwèi xiǎocài sèzé yòurén, ràng rén yì cháng zhīxià dùnshí wèikǒu dà kāi, lián chī le liǎng wǎn bái mǐfàn. | This sour and spicy appetizer is enticing; tasting it immediately stimulated my appetite, so I ate two bowls of rice in a row. | Este aperitivo agridulce y crujiente abre el apetito con su color seductor; tras catarlo comí dos cuencos de arroz seguidos.
+  #2 | 鲁迅晚年虽然胃病时常发作，但每逢故乡好友带来绍兴梅干菜与糟肉，他依然胃口极佳地品尝几筷。 | Lǔ Xùn wǎnnián suīrán wèibìng shícháng fāzuò, dàn měiféng gùxiāng hǎoyǒu dàilái Shàoxīng méigāncài yǔ zāoròu, tā yīrán wèikǒu jí jiā de pǐncháng jǐ kuài. | Although suffering frequent stomach trouble in later years, whenever hometown friends brought Shaoxing dried mustard greens and wine pork, he tasted them with great appetite. | Pese a padecer achaques de estómago en sus últimos años, cuando paisanos le traían carne curada de Shaoxing comía con gran apetito.
+
+collocations[6]{hanzi,en}:
+  胃口大开 | have one's appetite whetted
+  没有胃口 | have no appetite
+  吊胃口 | keep someone on tenterhooks; whet appetite
+  合胃口 | suit one's taste/liking
+  坏了胃口 | spoil one's appetite
+  胃口不小 | have big ambition/appetite
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  津津有味 | jīn jīn yǒu wèi | with great relish; thoroughly enjoyable
+  狼吞虎咽 | láng tūn hǔ yàn | wolf down food like wolves and tigers; ravenous
+  食不甘味 | shí bù gān wèi | food lacks sweet flavor; too worried to eat with relish
+  欲壑难填 | yù hè nán tián | abyss of desire is hard to fill; insatiable appetite
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  胃 | wèi | stomach; digestive organ | estómago; órgano gástrico | 月 | moon / flesh | 月 (flesh/organ) | 田 (tián, stomach grain granary pictogram) | 9 | 上下结构 | Ancient oracle bone pictogram of the stomach sac storing grain 田 above the flesh radical 月/肉. | A fleshy digestive sac (月) holding grains of food (田) represents the vital stomach organ (胃). | Una bolsa carnosa (月) que almacena los granos ingeridos (田) representa el estómago (胃). | 51 | WB | ""
+  口 | kǒu | mouth; opening; entrance; taste | boca; entrada; abertura; paladar | 口 | mouth | 口 (pictogram of open human mouth) | 口 (kǒu) | 3 | 单一结构 | Oracle bone pictogram depicting an open human mouth receiving sustenance. | An open mouth (口) cheerfully receives delicious food to nourish the body. | Una boca abierta (口) acoge gozosa los bocados para nutrir el organismo. | 214 | R | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When the stomach (胃) desires food, the mouth (口) salivates with eager appetite (胃口).
+  composite_memory_hook_es: Cuando el estómago (胃) pide sustento, la boca (口) se abre con vivo apetito (胃口).
+  cultural_and_cognitive_roots: Metaphorical mapping between physical digestion and cognitive taste; Chinese treats intellectual interest ('duì wèikǒu', 对胃口) and ambitious desire ('wèikǒu dà', 胃口大) as bodily appetite.
+  tone_sandhi_and_pitch_modulation: Falling tone followed by dipping tone: 'wèi kǒu' (51-214). Pronounce 'wèi' firmly, followed by an undulating 3rd tone on 'kǒu'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    骨 | gǔ | bone | Top structure has roof framing, unlike 田 in 胃
+    肖 | xiào | resemble | Has 小 at top instead of 田
+    日 | rì | sun | Has horizontal bar in center, unlike open square 口
+    中 | zhōng | middle | Has vertical stroke piercing through center of 口
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    食 | shí | eat; food; meal
+    脾 | pí | spleen; temperament in medicine
+    欲 | yù | desire; appetite; wish
+    嗜 | shì | addiction; taste for flavor
+
+semantic_boundary_contrasts:
+  core_nuance: 胃口 denotes physical hunger/desire to eat, or metaphorically represents taste, interest, or ambition.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 胃口 vs. 食欲 | shíyù | 食欲 is a formal, medical/physiological term strictly referring to biological desire for food, while 胃口 is widely used idiomatically for taste ('吊胃口').
+    2 | 胃口 vs. 兴趣 | xìngqù | 兴趣 denotes general intellectual hobby or curious interest, while 胃口 when used metaphorically carries a zestful, hungry pursuit of a match.
+    3 | 胃口 vs. 胃病 | wèibìng | 胃病 is clinical pathology (gastric disease), while 胃口 describes functional desire for food.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 心情舒畅的时候，粗茶淡饭也能吃得津津有味；心事重重之际，即便面对山珍海味也难有丝毫胃口。人生的胃口往往是内心境遇的晴雨表。学会卸下过重的精神包袱，放慢脚步体会当下的清欢，生活的滋味自然会甘之如饴。 | Xīnqíng shūchàng de shíhòu, chūchá-dànfàn yě néng chī de jīnjīn-yǒuwèi; xīnshì-chóngchóng zhī jì, jíbiàn miànduì shānzhēn-hǎiwèi yě nán yǒu sīháo wèikǒu. Rénshēng de wèikǒu wǎngwǎng shì nèixīn jìngyù de qíngyǔbiǎo. Xuéhuì xièxià guòzhòng de jīngshén bāofu, fàngmàn jiǎobù tǐhuì dāngxià de qīnghuān, shēnghuó de zīwèi zìrán huì gānzhī-rúyí. | When lighthearted, simple fare is savored; weighed down by worry, delicacies spark no appetite. Appetite mirrors the soul. Learning to unload burdens and slow down lets life's flavors become sweet again naturally. | Con el ánimo alegre, la comida humilde sabe a gloria; abrumado de pesares, los manjares no despiertan apetito. Las ganas de comer son barómetro del alma. Aliviar fardos y desacelerar permite saborear de nuevo la dulzura de vivir.
+  #2 | 在影视内容创作领域，盲目迎合市场的速食产品正在逐渐败坏受众的观影胃口。同质化严重的悬疑套路与低俗搞笑，引发了观众强烈的审美疲劳。唯有扎根现实生活、用心打磨剧本思想深度的原创精品，才能真正满足大众日益提升的文化胃口。 | Zài yǐngshì nèiróng chuàngzuò lǐngyù, mángmù yínghé shìchǎng de sùshí chǎnpǐn zhèngzài zhújiàn bàihuài shòuzhòng de guānyǐng wèikǒu. Tóngzhìhuà yánzhòng de xuányí tàolù yǔ dīsú gǎoxiào, yǐnfā le guānzhòng qiángliè de shěnmǐ pílào. Wéiyǒu zhāgēn xiànshí shēnghuó, yòngxīn dǎmó jùběn sīxiǎng shēndù de yuánchuàng jīngpǐn, cáinéng zhēnzhèng mǎnzú dàzhòng rìyì tíshēng de wénhuà wèikǒu. | In film and television, formulaic fast-food content spoils audience appetite. Clichéd plots cause aesthetic fatigue. Only genuine originals rooted in life with deep scripts can satisfy the public's rising cultural appetite. | En la creación audiovisual, los productos clónicos arruinan el paladar del espectador. El exceso de fórmulas manidas genera hastío. Solo guiones meditados con hondura humana satisfacen las exigencias de un público cada vez más formado.

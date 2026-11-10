@@ -1,0 +1,64 @@
+id: 2
+hanzi: 突出
+pinyin: tū chū
+level: HSK 5
+part_of_speech: Adjective / Verb
+
+meanings_summary:
+  en: prominent; outstanding; striking; conspicuous; to stand out; to highlight
+  es: destacado; sobresaliente; prominente; resaltar; poner de relieve; descollar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | clearly prominent, striking, or exceeding the average standard | claramente prominente, sobresaliente o superior a la media | 成绩突出 (outstanding achievement)
+  2 | Verb | Standard | to highlight, emphasize, or project physically outward | hacer resaltar, dar prominencia o proyectarse físicamente hacia afuera | 突出重点 (highlight the focal point)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他在数学竞赛中取得了突出的成绩，不仅获得了金牌，还得到了名校的录取邀请函。 | Tā zài shùxué jìngsài zhōng qǔdé le tūchū de chéngjì, bùjǐn huòdé le jīnpái, hái dédào le míngxiào de lùqǔ yāoqǐnghán. | He achieved outstanding results in the mathematics competition, winning not only a gold medal but an admission invitation from a prestigious school. | Alcanzó resultados sobresalientes en la olimpiada de matemáticas, ganando no solo el oro sino la admisión a una célebre universidad.
+  #2 | 这份研究报告着重突出了近代都市变迁对传统民俗的影响，具有很强的学术说服力与前瞻性。 | Zhè fèn yánjiū bàogào zhuózhòng tūchū le jìndài dūshì biànqiān duì chuántǒng mínsú de yǐngxiǎng, jùyǒu hěn qiáng de xuéshù shuōfúlì yǔ qiánzhānxìng. | This research report emphatically highlighted the impact of modern urban transition on folk customs, possessing scholarly rigor and foresight. | Este informe de investigación destacó con firmeza el impacto de la modernización urbana sobre el folclore, con gran rigor y visión académica.
+
+collocations[6]{hanzi,en}:
+  成绩突出 | outstanding achievement
+  突出贡献 | prominent contribution
+  突出特点 | striking feature
+  突出重点 | highlight the key points
+  突出矛盾 | accentuate contradictions
+  地位突出 | prominent position
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  出类拔萃 | chū lèi bá cuì | stand out above one's peers; distinguished
+  突飞猛进 | tū fēi měng jìn | advance by leaps and bounds; rapid progress
+  拔地倚天 | bá dì yǐ tiān | rise steeply from the ground into the sky; towering
+  锋芒毕露 | fēng máng bì lù | display one's edge or brilliance fully
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  突 | tū | dash forward; abrupt; sudden; protrude | lanzarse; repentino; brusco; sobresalir | 穴 | cave | 穴 (cave / hole) | 犬 (quǎn, dog rushing out) | 9 | 上下结构 | Ancient pictogram showing a hound 犬 suddenly darting out from a cave opening 穴, meaning abrupt emergence. | A hound (犬) suddenly bursts out of a hidden burrow (穴), startling passersby with its sudden dash (突). | Un sabueso (犬) sale disparado de golpe desde su cueva (穴), sorprendiendo con su brusca salida (突). | 55 | JCIK | ""
+  出 | chū | go out; come forth; produce; issue | salir; brotar; producir; emitir | 凵 | open container | 凵 (hollow container/ground) | 屮 (chè, plant sprouting) | 5 | 单一结构 | Ancient ideogram showing a foot or plant sprout leaving an enclosed hollow, denoting outward progression. | Two fresh leaves sprout upward out of a hollow recess in the ground, bursting out (出) toward the sun. | Dos brotes tiernos germinan hacia arriba saliendo del hoyo (出) en busca del sol. | 55 | UU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A spirited hound dashes out (突) and emerges outward (出), standing conspicuously prominent (突出).
+  composite_memory_hook_es: El sabueso se lanza repentinamente (突) y sale hacia afuera (出), destacando de modo sobresaliente (突出).
+  cultural_and_cognitive_roots: Originating from the imagery of an animal surging from an enclosure; extended metaphorically to any person or deed that rises above an otherwise uniform baseline.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by level high tone: 'tū chū' (55-55). Maintain a stable high plateau pitch throughout both syllables.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    究 | jiū | investigate; study | Has 九 below radical 穴 instead of 犬
+    空 | kōng | empty; sky | Has 工 below radical 穴 instead of 犬
+    击 | jī | strike; hit | Shares two tier vertical design, but lacks center crossing
+    山 | shān | mountain | Has three peaks on one base, unlike stacked 出
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    窜 | cuàn | scurry; flee in panic from holes
+    穿 | chuān | pierce; pass through caves
+    窝 | wō | nest; hollow den
+    入 | rù | enter; direct antonym of 出
+
+semantic_boundary_contrasts:
+  core_nuance: 突出 emphasizes exceeding normal standards or drawing distinct visual or conceptual focus.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 突出 vs. 显著 | xiǎnzhù | 突出 highlights that a feature or achievement rises sharply above peers, while 显著 denotes that an effect or change is obvious and plainly discernible.
+    2 | 突出 vs. 优异 | yōuyì | 突出 can describe either positive achievements or glaring problems, whereas 优异 is strictly reserved for praiseworthy and exceptional talent or grades.
+    3 | 突出 vs. 强调 | qiángdiào | 突出 can function as both an adjective (prominent) and a verb (highlight), whereas 强调 is solely a verb meaning to stress or underline in speech or policy.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 优秀的艺术作品往往具有突出的个性风格。无论是画作中浓墨重彩的强烈对比，还是诗篇中真挚奔放的情感流淌，都能够从平庸的作品中脱颖而出。唯有保持本色，才能在岁月的长河中留下难以磨灭的印记。 | Yōuxiù de yìshù zuòpǐn wǎngwǎng jùyǒu tūchū de gèxìng fēnggé. Wúlùn shì huàzuò zhōng nóngmò-zhòngcǎi de qiángliè duìbǐ, háishì shīpiān zhōng zhēnzhì bēnfàng de qínggǎn liútǎng, dōu nénggòu cóng píngyōng de zuòpǐn zhōng tuōyǐng-érchū. Wéiyǒu bǎochí běnsè, cáinéng zài suìyuè de chánghé zhōng liúxià nányǐ mómì de yìnjì. | Masterpieces always possess outstanding unique character. Be it the stark contrast of thick ink or the earnest flow of poetic emotion, they stand out sharply from mediocrity. Only by keeping one's true colors can lasting marks be made. | Las grandes obras de arte poseen una personalidad sobresaliente. Ya sea mediante intensos contrastes cromáticos o versos de emoción sincera, despuntan por encima de lo común. Solo siendo fiel a la propia voz se deja una huella imperecedera.
+  #2 | 在产业转型升级的关键时期，技术创新的地位愈发突出。研发机构通过攻关核心算法与精密部件，解决了产业链上的突出问题。实践证明，谁在基础科学上拥有突出的原创能力，谁就能在国际竞争中抢占战略制高点。 | Zài chǎnyè zhuǎnxíng shēngjí de guānjiàn shíqī, jìshù chuàngxīn de dìwèi yùfā tūchū. Yánfā jīgòu tōngguò gōngguān héxīn suànfǎ yǔ jīngmì bùjiàn, jiějué le chǎnyèliàn shàng de tūchū wèntí. Shíjiàn zhèngmíng, shéi zài jīchǔ kēxué shàng yǒngyǒu tūchū de yuánchuàng nénglì, shéi jiù néng zài guójì jìngzhēng zhōng qiǎngzhàn zhànlüè zhìgāodiǎn. | In industrial transformation, technological innovation holds an ever more prominent place. Solving key bottlenecks in algorithms and parts has resolved prominent supply chain issues, proving foundational research commands strategic heights. | En la reconversión industrial, la innovación tecnológica adquiere un peso sobresaliente. Al resolver nudos críticos en algoritmos y componentes, se solventaron fallas notorias. La vanguardia científica otorga una ventaja decisiva.

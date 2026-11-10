@@ -1,0 +1,62 @@
+id: 17
+hanzi: 棍
+pinyin: gùn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: stick; rod; truncheon; staff
+  es: palo; vara; bastón; garrote; porra
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a piece of solid wood, metal, or rigid material shaped into a straight cylindrical rod | pieza cilíndrica y alargada de madera, metal u otro material resistente | 木棍 / 警棍 (wooden stick / police baton)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 爷爷喜欢在山间小路上散步，手里总是拄着一根结实坚韧的竹棍作为拐杖。 | Yéye xǐhuan zài shānjiān xiǎolù shàng sànbù, shǒu lǐ zǒngshì zhǔ zhe yì gēn jiēshi jiānrèn de zhúgùn zuòwéi guǎizhàng. | Grandfather loves walking along mountain paths, always leaning on a sturdy bamboo stick as a cane. | Al abuelo le encanta pasear por senderos serranos, apoyándose siempre en una vara de bambú a modo de bastón.
+  #2 | 教练向武术学员们耐心传授少林棍法的防守与进攻技巧，动作刚劲有力。 | Jiàoliàn xiàng wǔshù xuéyuánmen nàixīn chuánshòu Shàolín gùnfǎ de fángshǒu yǔ jìngōng jìqiǎo, dòngzuò gāngjìng yǒulì. | The coach patiently instructed martial arts students in offensive and defensive Shaolin staff techniques. | El instructor transmitió pacientemente las técnicas de ataque y defensa con palo Shaolin, ejecutando movimientos vigorosos.
+
+collocations[6]{hanzi,en}:
+  木棍 | wooden stick
+  铁棍 | iron rod
+  警棍 | police baton
+  棍棒 | sticks and clubs
+  手杖棍 | walking stick
+  指挥棍 | baton / conducting stick
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  当头棒喝 | dāng tóu bàng hè | sharp blow and loud shout; blunt awakening
+  光棍一条 | guāng gùn yì tiáo | bachelor with no family ties; single person
+  敲闷棍 | qiāo mèn gùn | strike someone secretly from behind; sneak attack
+  弄巧成拙 | nòng qiǎo chéng zhuō | try to be clever only to blunder clumsily
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  棍 | gùn | stick; rod; staff; scoundrel | palo; vara; bastón; bribón | 木 | wood / tree | 木 (wooden timber) | 昆 (kūn, together / descendant / phonetic) | 12 | 左右结构 | Wood radical 木 combined with 昆 (together/multitude); a stripped wooden rod or staff shaped for utility. | Carved straight from timber (木), a uniform rod (昆) becomes a sturdy walking staff (棍). | Labrado en dura madera (木), un cilindro uniforme (昆) se convierte en bastón de apoyo (棍). | 51 | DAMP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Timber (木) trimmed into a solid straight piece (昆) forms a handheld stick (棍).
+  composite_memory_hook_es: La madera (木) alisada en tramo recto (昆) forma una vara o palo consistente (棍).
+  cultural_and_cognitive_roots: Revered as the ancestor of all weapons (百兵之祖) in Chinese martial arts due to its simplicity and versatility in combat.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone: 'gùn' (51). Descend sharply and firmly like a heavy wooden staff striking the earth.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    混 | hùn | mix; muddle along | Has water radical 氵 on left instead of wood 木 in 棍
+    辊 | gǔn | roller; revolve | Has vehicle radical 车 on left of 昆
+    琨 | kūn | fine jade | Has jade radical 王 on left of 昆
+    溷 | hùn | turbid; latrine | Has enclosure 囗 enclosing 豕
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    棒 | bàng | club; heavy wooden bat
+    杖 | zhàng | cane; dignified staff
+    杆 | gān | pole; vertical upright mast
+    枝 | zhī | branch; slender twig
+
+semantic_boundary_contrasts:
+  core_nuance: 棍 denotes a cylindrical, unbladed rod of uniform thickness, distinct from pointed canes or thick bats.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 棍 vs. 杖 | zhàng | 杖 is dignified and ritualistic (拐杖 walking cane, 权杖 scepter), while 棍 is utilitarian for rough rods.
+    2 | 棍 vs. 棒 | bàng | 棒 denotes a heavier, thicker club or bat (棒球棒, 木棒), while 棍 has uniform slender diameter.
+    3 | 棍 vs. 杆 | gān | 杆 designates tall vertical posts or poles (旗杆 flagpole, 电线杆 utility pole), while 棍 is handheld.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在传统中国武术中，棍被称为“百兵之祖”。练棍讲究身法灵活、棍随身转。挥舞之时如疾风扫落叶，密不透风。武术练习者通过持之以恒地挥棍磨砺臂力与协调性，涵养坚毅不屈的武德与沉稳气度。 | Zài chuántǒng Zhōngguó wǔshù zhōng, gùn bèi chēngwéi 'bǎibīngzhīzǔ'. Liàn gùn jiǎngjiu shēnfǎ línghuó, gùn suí shēn zhuǎn. Huīwǔ zhīshí rú jífēng sǎoluòyè, mìbùtòufēng. Wǔshù liànxízhě tōngguò chízhīyǐhéng de huīgùn mólì bìlì yǔ xiétiáoxìng, hányǎng jiānyì-bùqū de wǔdé yǔ chénwěn qìdù. | In martial arts, the staff is called ancestor of all weapons. Practice requires agile footwork, sweeping like winds to temper arm strength, resilience, and inner composure. | En las artes marciales chinas, el bastón es progenitor de las armas. Su manejo exige agilidad y cadencia armónica, templando la fuerza física, la entereza moral y el temple.
+  #2 | 野外科考队员在茂密的热带雨林中穿行时，每个人手中都会随身携带一根探路木棍。这根看似普通的木棍，不仅能在陡峭湿滑的泥泞山路上借力支撑身体平衡，更能在拨开荆棘杂草时提前惊走潜伏的毒蛇与昆虫。 | Yěwài kěkǎoduìyuán zài màomì de rèdài yǔlín zhōng chuānxíng shí, měi ge rén shǒu zhōng dōuhuì suíshēn xiédài yì gēn tànlù mùgùn. Zhè gēn kànsì pǔtōng de mùgùn, bùjǐn néng zài dǒuqiào shīhuá de nínìng shānlù shàng jièlì zhīchēng shēntǐ pínghéng, gèng néng zài bōkāi jīngjí zácǎo shí tíqián jīngzǒu qiánfú de dúshé yǔ kūnchóng. | Trekking in rainforests, expeditions carry walking sticks. This wooden rod supports balance on slippery slopes and rustles thorny brush to scare away lurking snakes. | Al explorar selvas tropicales, los científicos portan una vara de madera para tantear el sendero. Asegura el equilibrio en pendientes y bate matorrales ahuyentando víboras.

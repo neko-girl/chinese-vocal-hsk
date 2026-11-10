@@ -1,0 +1,63 @@
+id: 26
+hanzi: 招待
+pinyin: zhāo dài
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to receive guests; to entertain; to treat; reception; hospitality
+  es: atender; recibir; agasajar; hospedar; convidar; recepción
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to welcome, provide food and lodging for, and look after guests with courtesy | recibir, dar de comer, alojar o agasajar a los invitados con atenciones y cortesía | 热情招待来宾 (warmly entertain incoming guests)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 逢年过节，祖母总会提前准备好满满一桌丰盛的家乡菜肴，热情招待前来拜年的亲朋好友。 | Féngnián-guòjié, zǔmǔ zǒng huì tíqián zhǔnbèi hǎo mǎnmǎn yì zhuō fēngshèng de jiāxiāng càiyáo, rèqíng zhāodài qiánlái bàinián de qīnpéng-hǎoyǒu. | During holidays, grandmother prepares a full table of lavish hometown dishes to warmly entertain relatives and friends visiting for New Year. | En las festividades, la abuela prepara de antemano una opípara mesa de platos tradicionales para agasajar a los allegados que vienen a felicitar.
+  #2 | 在近代北京文人圈子中，鲁迅以生性好客著称，广和居的“碎金白菜”是他用来招待知心朋友的招牌菜。 | Zài jìndài Běijīng wénrén quānzi zhōng, Lǔ Xùn yǐ shēngxìng hàokè zhùchēng, Guǎnghéjū de 'suìjīn báicài' shì tā yòng lái zhāodài zhīxīn péngyou de zhāopái cài. | In modern Beijing literary circles, Lu Xun was famous for hospitality; Guangheju's signature shredded cabbage was his favorite treat for close friends. | En los cenáculos letrados de Pekín, Lu Xun descollaba por su hospitalidad; la col dorada del mesón Guangheju era su plato predilecto para convidar amigos.
+
+collocations[6]{hanzi,en}:
+  热情招待 | warmly entertain
+  招待所 | guesthouse; hostel
+  招待会 | reception conference (e.g. press conference)
+  盛情招待 | lavish and generous hospitality
+  设宴招待 | host a banquet to entertain
+  招待不周 | apologize for inadequate hospitality
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  款待周到 | kuǎn dài zhōu dào | attentive and thoughtful entertainment of guests
+  宾至如归 | bīn zhì rú guī | guests feel as comfortable as if at home
+  设宴款待 | shè yàn kuǎn dài | arrange a banquet to entertain guests lavishly
+  相敬如宾 | xiāng jìng rú bīn | treat each other with mutual respect like guests
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  招 | zhāo | beckon; wave; summon; recruit; attract | hacer señas; convocar; reclutar; atraer | 扌 | hand | 扌 (hand beckoning) | 召 (zhào, summon / phonetic) | 8 | 左右结构 | Phono-semantic character where hand radical 扌 beckons with gestures to summon 召 someone forward. | A welcoming hand (扌) gestures warmly, calling (召) guests forward to enter the feast (招). | Una mano amable (扌) hace señas con presteza, llamando (召) al visitante hacia el banquete (招). | 55 | QSHR | ""
+  待 | dài | treat; wait; receive; entertain | atender; esperar; tratar; hospedar | 彳 | step | 彳 (step / approach on road) | 寺 (sì, temple / law court / phonetic) | 9 | 左右结构 | Ideogram showing standing on a path 彳 with courtly decorum 寺, waiting to receive arriving guests. | Standing respectfully along the pathway (彳) near the temple hall (寺), a host waits to attend (待) to guests. | Apostado en la senda (彳) junto al pabellón (寺), el anfitrión aguarda para atender con esmero (待) a los huéspedes. | 51 | HOGDI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Beckon warmly with your hand (招) and wait attentively by the threshold (待) to entertain guests (招待).
+  composite_memory_hook_es: Haz señas acogedoras con la mano (招) y aguarda en el umbral (待) para agasajar a los invitados (招待).
+  cultural_and_cognitive_roots: Derived from classical host-guest ritual (宾主之礼); emphasizes respectful reception, providing seating, tea, and warm culinary comfort.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'zhāo dài' (55-51). Articulate 'zhāo' with a steady high pitch 55, then descend firmly on 'dài'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    召 | zhào | summon; call | Lacks the hand radical 扌 of 招
+    绍 | shào | introduce; connect | Has silk radical 纟 on left instead of 扌
+    侍 | shì | attend upon; serve | Has person radical 亻 on left instead of double-step 彳
+    持 | chí | hold; grasp | Has hand radical 扌 on left instead of 彳
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    款 | kuǎn | entertain with sincere funds
+    接 | jiē | receive; touch hands with
+    延 | yán | extend invitation; prolong
+    遇 | yù | meet; encounter on path
+
+semantic_boundary_contrasts:
+  core_nuance: 招待 focuses on hosting, serving food, and providing lodging and hospitality for guests or attendees.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 招待 vs. 款待 | kuǎndài | 款待 is more formal and emphasizes deeply generous, lavish, and heartfelt hospitality, while 招待 applies to both grand banquets and basic guesthouse services.
+    2 | 招待 vs. 接待 | jiēdài | 接待 emphasizes the organizational, administrative protocol of receiving delegations at doors, while 招待 emphasizes dining, drinking, and hosting.
+    3 | 招待 vs. 招待所 | zhāodàisuǒ | 招待所 is the physical noun for modest state/institutional guesthouses, while 招待 is the universal verb.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统的待客之道，最见人间温情。哪怕家中清贫，主人也会倾其所有端出最好的饭菜招待远客。饭桌上频频劝菜的热忱，临别前塞进行囊的土特产，无不浸润着古老农耕文明中最朴素、最真挚的善良与厚道。 | Zhōngguó chuántǒng de dàikè zhī dào, zuì jiàn rénjiān wēnqíng. Nǎpà jiāzhōng qīngpín, zhǔrén yě huì qīng qí suǒyǒu duānchū zuì hǎo de fàncài zhāodài yuǎnkè. Fànzhuō shàng pínpín quàncài de rèchén, línbié qián sāijìn xíngnáng de tǔtèchǎn, wúbù jìnrùn zhe gǔlǎo nónggēng wénmíng zhōng zuì pǔsù, zuì zhēnzhì de shànliáng yǔ hòudào. | Traditional Chinese hospitality best reveals human warmth. Even in poverty, hosts offer their finest food. Urging extra servings at table and tucking local snacks into departing travelers' bags radiates heartfelt agrarian kindness. | La hospitalidad tradicional china destila calidez humana. Aun en la escasez, el dueño de casa ofrece sus mejores manjares. Rogar que repitan plato y regalar viandas para el viaje refleja la entrañable bondad del mundo rural.
+  #2 | 在大型国际经贸论坛期间，新闻发布厅与招待会现场秩序井然。组委会不仅精心安排了同声传译与多语种咨询服务，更在晚宴上以融合中西特色的精美冷餐招待中外媒体记者，高效务实的组织工作赢得了与会代表的广泛赞誉。 | Zài dàxíng guójì jīngmào lùntán qījiān, xīnwén fābùtīng yǔ zhāodàihuì xiànchǎng zhìxù-jǐngrán. Zǔwěihuì bùjǐn jīngxīn ānpái le tóngshēng-chuányì yǔ duō yǔzhǒng zīxún fúwù, gèng zài wǎnyàn shàng yǐ rónghé zhōng-xī tèsè de jīngměi lěngcān zhāodài zhōng-wài méitǐ jìzhě, gāoxiào wùshí de zǔzhī gōngzuò yíngdé le yùhuì dàibiǎo de guǎngfàn zànyù. | During international economic forums, press halls and receptions run in perfect order. Providing simultaneous translation and hosting journalists with exquisite fusion dinners, the efficient organizing team won broad praise from delegates. | En los foros económicos mundiales, las recepciones de prensa discurren con pulcritud. La organización dispuso traducción simultánea y agasajó a los corresponsales con una cena fusión, ganándose el reconocimiento general por su eficacia.

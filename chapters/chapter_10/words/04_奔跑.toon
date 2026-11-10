@@ -1,0 +1,63 @@
+id: 4
+hanzi: 奔跑
+pinyin: bēn pǎo
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to run; to gallop; to sprint; to dash rapidly
+  es: correr; galopar; corretear; correr velozmente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to run swiftly with quick strides on foot, or gallop forward rapidly | correr a gran velocidad a zancadas o galopar con ímpetu | 在操场上奔跑 (run on the sports ground)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨的阳光洒在绿茵场上，少年们迎着晨风尽情奔跑，挥洒着青春特有的蓬勃朝气。 | Qīngchén de yángguāng sǎ zài lǜyīnchǎng shàng, shàoniánmen yíng zhe chénfēng jìnqíng bēnpǎo, huīsǎ zhe qīngchūn tèyǒu de péngbó zhāoqì. | Morning sunlight spilled over the grassy field; youths ran freely against the dawn breeze, radiating youthful vitality. | La luz matinal bañaba el césped; los jóvenes corrían a placer contra la brisa, derrochando el vigor propio de la lozanía.
+  #2 | 当赛马在跑道上全力奔跑时，高速相机记录下了马蹄腾空的瞬间，彻底解开了多年的谜团。 | Dāng sàimǎ zài pǎodào shàng quánlì bēnpǎo shí, gāosù xiàngjī jìlù xià le mǎtí téngkōng de shùnjiān, chèdǐ jiěkāi le duōnián de mǐtuán. | As the racehorse galloped along the track with all its might, high-speed cameras captured the instant its hooves left the ground, resolving the mystery. | Cuando el corcel galopaba con furia por la pista, las cámaras rápidas atraparon el instante de los cascos en el aire, zanjando el enigma.
+
+collocations[6]{hanzi,en}:
+  飞速奔跑 | run at breakneck speed
+  尽情奔跑 | run to one's heart's content
+  向前奔跑 | dash forward
+  狂热奔跑 | run wild with fervor
+  自由奔跑 | run freely
+  骏马奔跑 | steeds galloping
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  万马奔腾 | wàn mǎ bēn téng | ten thousand horses gallop forward; magnificent momentum
+  东奔西跑 | dōng bēn xī pǎo | run around here and there; rush about busy
+  奋勇争先 | fèn yǒng zhēng xiān | dash ahead courageously to take the lead
+  策马疾驰 | cè mǎ jí chí | spur horse into rapid gallop
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  奔 | bēn | run fast; rush; dash; flee | correr rápido; apresurarse; lanzarse | 大 | big | 大 (human running with arms out) + 卉/三止 (three running feet) | 奔 (bēn) | 8 | 上下结构 | Ancient ideogram showing a person 大 running forward propelled by three running feet 止, meaning sprinting at top speed. | A runner (大) sprints forward with three flying feet (卉), dashing fast like the wind (奔). | Un atleta (大) se lanza hacia adelante impulsado por tres pies veloces (卉), corriendo como el rayo (奔). | 55 | KJT | ""
+  跑 | pǎo | run; jog; race; flee; escape | correr; trotar; escapar; huir | 足 | foot | 𧾷 (foot in motion) | 包 (bāo, bundle / phonetic) | 12 | 左右结构 | Phono-semantic character combining foot radical 𧾷 with 包 (curved momentum), denoting rapid running on foot. | Legs and feet (𧾷) push off the earth with bundled kinetic momentum (包) to run swiftly (跑). | Las piernas y pies (𧾷) cobran impulso concentrado (包) para correr a zancadas (跑). | 214 | RMPRU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Propel yourself forward with three feet (奔) using foot strength (跑) to run and gallop fast (奔跑).
+  composite_memory_hook_es: Lánzate hacia adelante con zancadas (奔) impulsando tus pies (跑) para correr a galope tendido (奔跑).
+  cultural_and_cognitive_roots: Cognate with nomadic horse culture; galloping horses (奔腾) were synonymous with unstoppable historical progress, dynamic youth, and military momentum.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by dipping tone: 'bēn pǎo' (55-214). Level high plateau on 'bēn', dipping and rising fully on 3rd tone 'pǎo'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    夯 | hāng | rammer; tamp | Has 力 below 大 instead of 卉/十
+    奋 | fèn | exert; strive | Has 田 below 大 instead of 卉/十
+    抱 | bào | hug | Has hand radical 扌 on left instead of foot 𧾷 in 跑
+    饱 | bǎo | full/sated | Has food radical 饣 on left instead of 𧾷
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    驰 | chí | gallop swiftly on horseback
+    骋 | chěng | gallop freely; give free rein
+    窜 | cuàn | scurry; flee in panic
+    跨 | kuà | stride over; leap with legs
+
+semantic_boundary_contrasts:
+  core_nuance: 奔跑 emphasizes vigorous, energetic running across open spaces or dynamic sprinting of animals/humans.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 奔跑 vs. 跑步 | pǎobù | 跑步 is an everyday exercise/sport activity ('每天跑步锻炼'), while 奔跑 conveys dramatic cinematic motion, wild freedom, or passionate pursuit ('在原野上奔跑').
+    2 | 奔跑 vs. 疾驰 | jíchí | 疾驰 is typically used for vehicles or steeds speeding on highways, while 奔跑 applies to living legs sprinting.
+    3 | 奔跑 vs. 散步 | sànbù | 散步 (stroll leisurely) is the complete tempo antonym of 奔跑.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生活就像一场没有终点的马拉松，我们都在各自的赛道上迎风奔跑。或许会遭遇泥泞与暴雨，或许会感到疲惫与孤单，但只要脚步不停歇，奔跑本身就是对生命最大的赞美。不向命运低头的人，终会跑出属于自己的精彩。 | Shēnghuó jiù xiàng yì chǎng méiyǒu zhōngdiǎn de mǎlāsōng, wǒmen dōu zài gèzì de sàidào shàng yíngfēng bēnpǎo. Huòxǔ huì zāoyù nǐnìng yǔ bàoyǔ, huòxǔ huì gǎndào píbèi yǔ gūdān, dàn zhǐyào jiǎobù bù tíngxiē, bēnpǎo běnshēn jiùshì duì shēngmìng zuì dà de zànměi. Bù xiàng mìngyùn dītóu de rén, zhōng huì pǎochū shǔyú zìjǐ de jīngcǎi. | Life is like an endless marathon where we run against the wind on our own tracks. We may face mud and storms, fatigue and loneliness, but keeping our steps moving is itself the grandest praise of life. Those who do not yield will triumph. | La vida es como un maratón sin meta en el que corremos contra el viento. Habrá lodo y tormentas, fatiga y soledad, pero no frenar el paso es el mayor homenaje al existir. Quien no se rinde ante el hado alcanza su propia plenitud.
+  #2 | 在现代野生动物保护区内，红外感应相机记录下了藏羚羊在广袤草原上自由奔跑的珍贵画面。数以万计的生灵迎着朝阳向迁徙地奔跑进发，蹄声如雷气势磅礴，彰显出大自然生生不息的野性力量与高原生态系统修复的显著成效。 | Zài xiàndài yěshēng dòngwù bǎohùqū nèi, hóngwài gǎnyìng xiàngjī jìlù xià le zànglíngyáng zài guǎngmào cǎoyuán shàng zìyóu bēnpǎo de zhēnguì huàmiàn. Shùyǐwànjì de shēnglíng yíng zhe zhāoyáng xiàng qiānxǐdì bēnpǎo jìnfā, tíshēng-rúlèi qìshì-pángbó, zhāngxiǎn chū dàzìrán shēngshēng-bùxī de yěxìng lìliàng yǔ gāoyuán shēngtài xìtǒng xiūfù de xiǎnzhù chéngxiào. | In modern wildlife reserves, infrared cameras captured precious footage of Tibetan antelopes galloping across open grasslands. Tens of thousands migration herds dash toward pastures with thunderous hooves, demonstrating ecological restoration. | En las reservas naturales, cámaras infrarrojas captaron el galope libre de antílopes tibetanos en la estepa. Miles de animales corren hacia sus pastos con cascos tronantes, mostrando la indómita fuerza natural y el éxito de la conservación.

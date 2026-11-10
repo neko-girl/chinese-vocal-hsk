@@ -1,0 +1,64 @@
+id: 30
+hanzi: 兄弟
+pinyin: xiōng dì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: brothers; fraternal comrades; younger brother
+  es: hermanos; camaradas entrañables; hermano menor
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | brothers (elder and younger brothers collectively) | hermanos (varones mayores y menores colectivamente) | 他们是亲兄弟 (they are blood brothers)
+  2 | Noun | Standard | close male friends, comrades, or fraternal confederates | camaradas, amigos entrañables o hermanos de causa | 情同手足的兄弟 (brothers close as hands and feet)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这两兄弟从小志趣相投，大学毕业后携手创立了一家高新技术科技企业。 | Zhè liǎng xiōngdì cóngxiǎo zhìqù-xiāngtóu, dàxué bìyè hòu xiéshǒu chuànglì le yì jiā gāoxīnjìshù kējì qǐyè. | These two brothers shared identical interests from childhood; after college, they joined hands to found a high-tech firm. | Estos dos hermanos compartían aficiones desde la infancia; al graduarse de la universidad, fundaron juntos una firma de alta tecnología.
+  #2 | 当年在部队一起服役的战友们情同手足，几十年后聚会依然互称亲切的兄弟。 | Dāngnián zài bùduì yìqǐ fúyì de zhànyǒumen qíngtóngshǒuzú, jǐshí nián hòu jùhuì yīrán hùchēng qīnqiè de xiōngdì. | Comrades serving in the army were as close as hands and feet; reuniting decades later, they still affectionately call each other brothers. | Los compañeros de armas eran uña y carne en el ejército; décadas después, siguen llamándose entrañablemente hermanos.
+
+collocations[6]{hanzi,en}:
+  亲兄弟 | blood brothers
+  兄弟情 | brotherly bond / fraternity
+  堂兄弟 | paternal male cousins
+  表兄弟 | maternal/cross cousins
+  兄弟俩 | the two brothers
+  结拜兄弟 | sworn brothers
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  情同手足 | qíng tóng shǒu zú | affectionate as hands and feet; close as brothers
+  难兄难弟 | nàn xiōng nàn dì | fellow sufferers; brothers in tribulation
+  情深义重 | qíng shēn yì zhòng | profound affection and weighty loyalty
+  同舟共济 | tóng zhōu gòng jì | cross river in same boat; pull together in crisis
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  兄 | xiōng | elder brother; senior male | hermano mayor; mayor | 儿 | human / legs | 口 (mouth giving counsel) + 儿 (standing adult legs) | 兄 (xiōng) | 5 | 上下结构 | A standing person 儿 with an open mouth 口 praying to ancestors on behalf of younger siblings; the eldest brother. | A tall person (儿) speaks with an elder voice (口) advising siblings as the elder brother (兄). | Un hombre en pie (儿) alza la voz (口) para guiar a la familia como hermano mayor (兄). | 55 | RHU | ""
+  弟 | dì | younger brother; junior | hermano menor; joven; menor | 弓 | bow | 弋 (wooden stake) + 弓 (leather cord wound around it) | 弟 (dì) | 7 | 单一结构 | A leather cord wound sequentially down around a wooden spindle; represents descending order of birth. | Cord wraps step by step down a spool like birth order descending to the younger brother (弟). | Una cuerda se enrolla sucesivamente hacia abajo simbolizando el orden del hermano menor (弟). | 51 | CNLH | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Elder brother (兄) standing with younger brother (弟) bound in kinship forms brothers (兄弟).
+  composite_memory_hook_es: El hermano mayor (兄) y el hermano menor (弟) unidos en linaje forman los hermanos (兄弟).
+  cultural_and_cognitive_roots: Foundational pillar of Confucian familial ethics (悌道: fraternal piety); expanded through heroic literature (三国演义 桃园结义) into sworn brotherhood.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'xiōng dì' (55-51). Hold high pitch 55 on 'xiōng', then descend firmly on 'dì'. (Can neutralize to 'xiōngdi' in casual talk).
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    况 | kuàng | condition; situation | Has water radical 冫 on left of 兄
+    党 | dǎng | political party | Has 尚-like top over 儿
+    第 | dì | ordinal prefix | Has bamboo radical 竹 on top of 弟
+    梯 | tī | ladder; stairs | Has wood radical 木 on left of 弟
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    友 | yǒu | two hands joined in friendship
+    朋 | péng | strings of cowries / friends
+    亲 | qīn | blood relative; close kin
+    侪 | chái | peers of same generation
+
+semantic_boundary_contrasts:
+  core_nuance: 兄弟 encompasses male sibling relationships as well as fraternal comrades united by deep loyalty.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 兄弟 vs. 朋友 | péngyou | 朋友 is general for any social acquaintance or friendship, while 兄弟 implies deep, sworn, family-like loyalty and mutual devotion.
+    2 | 兄弟 vs. 弟兄 | dìxiong | 弟兄 is often used in military or close gang contexts ('弟兄们冲啊'), while 兄弟 is standard for biological siblings and friends.
+    3 | 兄弟 vs. 同志 | tóngzhì | 同志 emphasizes shared political ideals and revolutionary comradeship, whereas 兄弟 emphasizes personal emotional affinity.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统文化中历来崇尚“长幼有序、兄友弟恭”的家庭伦理美德。做兄长的要关爱呵护弟弟，做弟弟的要尊敬体恤兄长。兄弟之间齐心协力、和睦相处，家庭才能枝繁叶茂、兴旺发达。 | Zhōngguó chuántǒng wénhuà zhōng lìlái chóngshàng 'zhǎngyòu-yǒuxù, xiōngyǒu-dìgōng' de jiātíng lúnlǐ měidé. Zuò xiōngzhǎng de yào guān'ài hēhù dìdi, zuò dìdi de yào zūnjìng tǐxù xiōngzhǎng. Xiōngdì zhījiān qíxīn-xiélì, hémù xiāngchǔ, jiātíng cáinéng zhīfán-yèmào, xīngwàng fādá. | Traditional culture upholds fraternal harmony: elder brothers care for younger ones, while younger brothers respect seniors. When brothers unite cordially, the household prospers like leafy branches. | La cultura tradicional ensalza la concordia fraterna: el mayor protege y el menor venera. Cuando los hermanos aúnan voluntades en armonía, el hogar florece próspero y bien avenido.
+  #2 | 在法国电影先驱卢米埃尔兄弟的科研试验室里，兄弟俩分工明确、配合默契。他们共同发明了活动电影机，并于十九世纪末在巴黎大咖啡馆公开放映了第一部电影，携手开启了世界电影艺术的崭新时代。 | Zài Fǎguó diànyǐng xiānqū Lúmǐ'āi'ěr xiōngdì de kēyán shíyànshì lǐ, xiōngdì liǎ fēngōng míngquè, pèihé mòqì. Tāmen gòngtóng fāmíng le huódòng diànyǐngjī, bìng yú shíjiǔ shìjì mò zài Bālí dàkāfēiguǎn gōngkāi fàngyìng le dì-yī bù diànyǐng, xiéshǒu kāiqǐ le shìjiè diànyǐng yìshù de zhǎnxīn shídài. | In the Lumière brothers' workshop, the two worked in seamless harmony. Inventing the Cinématographe and premiering movies in late 19th-century Paris, they launched a glorious era of motion pictures. | En el laboratorio de los hermanos Lumière reinaba una armonía perfecta. Inventaron el cinematógrafo y proyectaron la primera película en París a fines del siglo XIX, inaugurando la era del cine.

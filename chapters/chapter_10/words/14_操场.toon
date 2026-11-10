@@ -1,0 +1,63 @@
+id: 14
+hanzi: 操场
+pinyin: cāo chǎng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: playground; sports field; athletic ground
+  es: patio de recreo; pista de atletismo; campo de deportes
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an outdoor open ground or track in schools or institutions for physical exercise and sports | terreno exterior o pista deportiva escolar o institucional para ejercicios físicos y deportes | 在操场跑步 (run on the sports field)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 放学后，操场上聚集了许多热爱运动的学生，打篮球和踢足球的声音此起彼伏。 | Fàngxué hòu, cāochǎng shàng jùjí le xǔduō rè'ài yùndòng de xuésheng, dǎ lánqiú hé tī zúqiú de shēngyīn cǐqǐ-bǐfú. | After school, sports-loving students gathered on the playground, basketball and football shouts rising continuously. | Al concluir las clases, los alumnos se congregan en el patio escolar, sucediéndose los ecos del baloncesto y el fútbol.
+  #2 | 学校为了保障学生安全，对操场的塑胶跑道和草坪进行了全面翻新。 | Xuéxiào wèile bǎozhàng xuésheng ānquán, duì cāochǎng de sùjiāo pǎodào hé cǎopíng jìnxíng le quánmiàn fānxīn. | To guarantee student safety, the school carried out a comprehensive renovation of the sports field's track and lawn. | Para garantizar la seguridad del alumnado, la escuela renovó íntegramente la pista sintética y el césped del campo deportivo.
+
+collocations[6]{hanzi,en}:
+  学校操场 | school sports ground
+  塑胶操场 | synthetic turf/track playground
+  环形操场 | circular athletic track
+  跑操场 | run laps on the playground
+  操场集合 | assemble on the sports ground
+  操场跑道 | playground running track
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  生龙活虎 | shēng lóng huó hǔ | full of vigor and vitality; spirited as dragons and tigers
+  欢声笑语 | huān shēng xiào yǔ | bursts of happy laughter and cheerful voices
+  你追我赶 | nǐ zhuī wǒ gǎn | compete keenly with each other neck and neck
+  龙腾虎跃 | lóng téng hǔ yuè | bounding with dynamic vitality and boundless energy
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  操 | cāo | grasp; hold; drill; exercise | agarrar; sostener; ejercitarse; maniobrar | 扌 | hand | 扌 (hand action) | 喿 (zào, chirping birds on trees / phonetic) | 16 | 左右结构 | Hand radical 扌 combined with 喿; holding tools firmly and directing physical drilling (体操). | Hands (扌) move vigorously in unison during morning physical exercises (操). | Las manos (扌) se mueven enérgica y coordinadamente en la tabla gimnástica (操). | 55 | QRRD | ""
+  场 | chǎng | open ground; threshing floor; scene | campo; terreno llano; escena; explanada | 土 | earth / ground | 土 (soil/ground) | 𠃓 (yáng, spreading light / phonetic) | 6 | 左右结构 | Earth radical 土 plus spreading sunlight; an open flat ground cleared for threshing or gatherings. | Level ground (土) basking under open sunlight makes an expansive field (场). | Suelo llano (土) expuesto al sol abierto que conforma una ancha explanada (场). | 214 | GNSH | 場
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An open level ground (场) where students drill and exercise (操) is the school playground (操场).
+  composite_memory_hook_es: Una ancha explanada (场) donde se ejecutan ejercicios y gimnasia (操) es el patio escolar (操场).
+  cultural_and_cognitive_roots: Evolved from military drill grounds (操练场地) into universal modern school physical education grounds since the late Qing educational reforms.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by dipping tone: 'cāo chǎng' (55-214). Maintain steady pitch 55 on 'cāo', then dip and rise on 'chǎng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    燥 | zào | dry; parched | Has fire radical 火 on left instead of hand 扌 in 操
+    澡 | zǎo | bathe; wash | Has water radical 氵 on left instead of 扌
+    扬 | yáng | raise; hoist | Has hand radical 扌 on left instead of earth 土 in 场
+    汤 | tāng | soup; broth | Has water radical 氵 on left of 𠃓
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    坪 | píng | level ground; lawn
+    坛 | tán | altar; raised earthen platform
+    苑 | yuàn | garden grounds; park
+    园 | yuán | enclosed garden field
+
+semantic_boundary_contrasts:
+  core_nuance: 操场 emphasizes school or military outdoor grounds equipped with running tracks for calisthenics and games.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 操场 vs. 体育场 | tǐyùchǎng | 体育场 refers to a grand public stadium with spectator stands, while 操场 is the everyday outdoor yard of a school.
+    2 | 操场 vs. 广场 | guǎngchǎng | 广场 is an urban paved public square for civic assemblies and leisure, not student physical education.
+    3 | 操场 vs. 球场 | qiúchǎng | 球场 specifically designates a specialized ball court (basketball court, tennis court), while 操场 covers the general athletic ground.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 金色的夕阳洒在校园的操场上，将奔跑少年的影子拉得长长的。微风拂过红绿相间的跑道，带来泥土与青草的气息。这里不仅见证了青春的拼搏与汗水，也承载着无数纯真难忘的友谊。 | Jīnsè de xīyáng sǎ zài xiàoyuán de cāochǎng shàng, jiāng bēnpǎo shàonián de yǐngzi lā de chángcháng de. Wēifēng fúguò hónglǜ xiāngjiàn de pǎodào, dàilái nítǔ yǔ qīngcǎo de qìxī. Zhèlǐ bùjǐn jiànzhèng le qīngchūn de pīnbó yǔ hànshuǐ, yě chéngzài zhe wúshù chúnzhēn nánwàng de yǒuyì. | Golden sunset bathes the campus sports field, elongating runners' shadows. Breezes bring scents of turf and earth, witnessing youth's sweat and carrying pure friendships. | La puesta de sol baña el patio escolar alargando las sombras juveniles. La brisa trae aroma a tierra y hierba, atestiguando el tesón y cobijando amistades entrañables.
+  #2 | 每逢清晨集合铃声响起，全校师生便整齐划一地汇聚在操场中央做广播体操。口令声与进行曲交织回荡在蓝天下，整齐的队列和蓬勃的朝气，让整座宁静的校园瞬间焕发出无限生机与活力。 | Měiféng qīngchén jíhé língshēng xiǎngqǐ, quánxiào shīshēng biàn zhěngqí huàyī de huìjù zài cāochǎng zhōngyāng zuò guǎngbō tǐcāo. Kǒulìngshēng yǔ jìnxíngqǔ jiāozhī huídàng zài lántiān xià, zhěngqí de duìliè hé péngbó de zhāoqì, ràng zhěng zuò níngjìng de xiàoyuán shùnjiān huànfā chū wúxiàn shēngjī yǔ huólì. | When the morning bell rings, students assemble neatly across the sports field for calisthenics. Commands and music echo under blue skies, instantly filling the quiet campus with vitality. | Al sonar la campana matutina, el alumnado se forma en el patio para la gimnasia rítmica. Voces de mando y marchas resuenan bajo el cielo azul infundiendo dinamismo a todo el recinto.

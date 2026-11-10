@@ -1,0 +1,64 @@
+id: 5
+hanzi: 地道
+pinyin: dì dao
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: authentic; genuine; typical; pure; up to standard; honest
+  es: auténtico; genuino; castizo; típico; intachable; cabal
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | authentic, pure, or conforming perfectly to traditional native origins and flavors | auténtico, puro o que responde con fidelidad al sabor y estilo tradicional de origen | 地道的北京烤鸭 (authentic Beijing roast duck)
+  2 | Adjective | Colloquial | honest, fair-minded, or morally upright in character and business dealings | honesto, cabal, intachable o leal en el trato personal | 为人很地道 (very upright and honest person)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这位外国留学生在北京生活了十年，不仅能说一口地道的京腔，连待人接物的规矩都十分讲究。 | Zhè wèi wàiguó liúxuéshēng zài Běijīng shēnghuó le shí nián, bùjǐn néng shuō yì kǒu dìdao de jīngqiāng, lián dàirén-jiēwù de guīju dōu shífēn jiǎngjiu. | This foreign student has lived in Beijing for ten years; he speaks authentic local slang and is deeply mindful of etiquette. | Este estudiante extranjero lleva diez años en Pekín; no solo habla un acento pekinés auténtico, sino que cuida todas las costumbres.
+  #2 | 鲁迅在北京定居期间，常去宣武门外的老字号饭馆，品尝地道的北方炸酱面与绍兴故乡的传统黄酒。 | Lǔ Xùn zài Běijīng dìngjū qījiān, cháng qù Xuānwǔmén wài de lǎozìhào fànguǎn, pǐncháng dìdao de běifāng zhàjiàngmiàn yǔ Shàoxīng gùxiāng de chuántǒng huángjiǔ. | While residing in Beijing, Lu Xun frequented heritage restaurants to savor authentic northern Zhajiang noodles and Shaoxing rice wine. | Durante su estancia en Pekín, Lu Xun frecuentaba mesones tradicionales para degustar auténticos fideos norteños y vino añejo de Shaoxing.
+
+collocations[6]{hanzi,en}:
+  地道的口音 | authentic accent
+  地道的美食 | authentic delicacy
+  地道普通话 | standard, authentic Mandarin
+  为人地道 | morally upright and honest person
+  做工地下/地道 | exquisite and genuine craftsmanship
+  地道特产 | authentic local specialty
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  原汁原味 | yuán zhī yuán wèi | original flavor and aroma; completely authentic
+  名副其实 | míng fù qí shí | worthy of the name; genuine reality matching the title
+  货真价实 | huò zhēn jià shí | genuine goods at a fair price; authentic through and through
+  言传身教 | yán chuán shēn jiào | teach by both word and genuine personal example
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  地 | dì | earth; soil; place; land; ground | tierra; suelo; lugar; territorio | 土 | earth | 土 (soil/land) | 也 (yě, phonetic) | 6 | 左右结构 | Phono-semantic character where earth radical 土 represents the soil of the terrain and 也 acts as the phonetic harmony. | Mounds of fertile soil (土) extend across the vast landscape (也) creating stable ground (地). | Montículos de tierra fértil (土) se extienden por el terreno (也) formando suelo firme (地). | 51 | GPD | ""
+  道 | dào | road; way; doctrine; say; direction | camino; vía; doctrina; decir; dirección | 辶 | walk | 辶 (motion along a road) | 首 (shǒu, head / direction) | 12 | 半包围结构 | Ideogram showing an eye and head 首 leading the body along a path 辶, meaning walking in the correct rightful direction. | Keeping your head (首) forward as you walk along the path (辶) ensures you follow the true proper way (道). | Caminar con la cabeza (首) erguida a lo largo de la senda (辶) conduce por la vía correcta (道). | 51 | YTBU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Only what grows directly from native soil (地) along the proper path (道) is truly authentic (地道).
+  composite_memory_hook_es: Solo lo que brota del suelo natal (地) siguiendo la debida senda (道) resulta auténtico (地道).
+  cultural_and_cognitive_roots: Originally rooted in the traditional concept of 'dìdao yàocái' (authentic herbs native to specific terroirs); extended to language, culinary flavors, and honest personal character.
+  tone_sandhi_and_pitch_modulation: Falling tone followed by neutral tone: 'dì dao' (51-2). Articulate 'dì' firmly on pitch 51, and drop 'dao' softly into a low neutral tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    池 | chí | pool; pond | Has water radical 氵 instead of 土
+    驰 | chí | gallop; speed | Has horse radical 马 instead of 土
+    导 | dǎo | guide; direct | Has 寸 at bottom instead of walking radical 辶
+    通 | tōng | pass through; open | Has 甬 inside 辶 instead of 首
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    基 | jī | foundation; soil base
+    垠 | yín | boundary; border of land
+    途 | tú | route; journey on foot
+    径 | jìng | direct path; shortcut
+
+semantic_boundary_contrasts:
+  core_nuance: 地道 specifically emphasizes genuine local provenance, traditional craftsmanship, or uncorrupted pure native style.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 地道 vs. 正宗 | zhèngzōng | 正宗 highlights authoritative lineage and orthodox recipes ('正宗传人'), while 地道 focuses on unadulterated native flavor, accent, or honest conduct.
+    2 | 地道 vs. 真正 | zhēnzhèng | 真正 denotes that an object is real rather than fake in an ontological sense, whereas 地道 denotes high quality conformity to cultural tradition.
+    3 | 地道 vs. 纯正 | chúnzhèng | 纯正 stresses freedom from adulteration or ideological taint, while 地道 carries a rich, colloquial, grassroots flavor of regional life.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 寻味一座城市最地道的人间烟火，往往不需要流连于豪华饭店。清晨拐进胡同深处的小吃铺，一碗热气腾腾的豆汁，配上金黄酥脆的焦圈，那浓郁而朴实的乡土滋味，才是老街坊心中无可替代的真地道。 | Xúnwèi yí zuò chéngshì zuì dìdao de rénjiān yānhuǒ, wǎngwǎng bù xūyào liúlián yú háohuá fàndiàn. Qīngchén guǎijìn hútòng shēnchù de xiǎochīpù, yì wǎn rèqì-téngténg de dòuzhī, pèishàng jīnhuáng sūcuì de jiāojuān, nà nóngyù ér pǔshí de xiāngtǔ zīwèi, cáishì lǎo jiēfang xīnzhōng wúkě-tìdài de zhēn dìdao. | Seeking a city's authentic pulse rarely requires luxury dining. Turning into an alley stall for steaming fermented milk with crisp rings, that earthy local flavor is the irreplaceable genuine article cherished by longtime residents. | Para saborear lo más castizo de una ciudad no hace falta acudir al lujo. Basta doblar la esquina hacia un puesto matutino en el callejón: un tazón humeante con buñuelos dorados brinda ese entrañable sabor que los vecinos veneran.
+  #2 | 语言学习的最高境界在于掌握地道的文化语境。单纯背诵语法规则和词汇表，往往难以摆脱生硬的母语负迁移。唯有多听多练，积极融入本土社交场域，才能在潜移默化中说出一口流利地道、符合母语者习惯的中文。 | Yǔyán xuéxí de zuìgāo jìngjiè zàiyú zhǎngwò dìdao de wénhuà yǔjìng. Dānchún bèisòng yǔfǎ guīzé hé cíhuìbiǎo, wǎngwǎng nányǐ bǎituō shēngyìng de mǔyǔ fùqiānyí. Wéiyǒu duō tīng duō liàn, jījí róngrù běntǔ shèjiāo chǎngyù, cáinéng zài qiányí-mòhuà zhōng shuōchū yì kǒu liúlì dìdao, fúhé mǔyǔzhě xíguàn de Zhōngwén. | The pinnacle of language learning lies in mastering authentic cultural context. Rote memorization cannot shake off mother-tongue interference. Only by immersion can one naturally speak fluent, authentic Chinese matching native habits. | La cima del aprendizaje de idiomas estriba en dominar el contexto cultural genuino. Memorizar reglas gramaticales suele generar calcos rígidos. Solo practicando e integrándose en el entorno social se logra hablar con naturalidad castiza.

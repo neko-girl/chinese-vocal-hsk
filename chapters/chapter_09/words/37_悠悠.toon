@@ -1,0 +1,63 @@
+id: 37
+hanzi: 悠悠
+pinyin: yōu yōu
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: leisurely; unhurried; lingering; protracted; long-drawn-out; endless (of time)
+  es: apacible; sosegado; parsimonioso; prolongado; interminable; milenario
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | leisurely, relaxed, slow, and completely free from rush or anxiety | sosegado, tranquilo, pausado y sin prisas ni agobios | 闲情悠悠 (leisurely and carefree mood)
+  2 | Adjective | Literary | long, protracted, or lingering continuously across vast expanses of time or space | prolongado, interminable o milenario a través de eras remotas o distancias | 悠悠岁月 (the long, lingering years)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 山间古寺钟声悠悠回荡在云雾缭绕的峡谷之中，洗涤着红尘过客心头的浮躁与疲惫。 | Shānjiān gǔsì zhōngshēng yōuyōu huídàng zài yúnwù-liáorào de xiágǔ zhīzhōng, xǐdí zhe hóngchén guòkè xīntóu de fúzào yǔ píbèi. | The bell of the mountain temple echoed leisurely and lingeringly in the mist-veiled canyon, washing away travelers' restless fatigue. | La campana del templo serrano resonaba con pausado eco en el cañón cubierto de niebla, lavando las fatigas del caminante.
+  #2 | 在老友郁达夫笔下，鲁迅饮酒微醺时有着“悠悠自得”的神态，那是严峻斗士卸下防备后最本真的文人风骨。 | Zài lǎoyǒu Yù Dáfū bǐxià, Lǔ Xùn yǐnjiǔ wēixūn shí yǒuzhe 'yōuyōu-zìdé' de shéntài, nà shì yánjùn dòushì xièxià fángbèi hòu zuì běnzhēn de wénrén fēnggǔ. | In friend Yu Dafu's words, when Lu Xun was slightly tipsy he wore an unhurried, content air, the authentic grace of a warrior letting down his guard. | En la pluma de Yu Dafu, Lu Xun lucía un porte sosegado al brindar, revelando la entraña franca del luchador que desciende la guardia.
+
+collocations[6]{hanzi,en}:
+  悠悠岁月 | the long, lingering years
+  悠悠自得 | leisurely and content with oneself
+  悠悠琴声 | lingering notes of the zither
+  历史悠悠 | long, protracted history
+  悠悠白云 | slow-drifting white clouds
+  钟声悠悠 | leisurely chime of the bell
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  悠然自得 | yōu rán zì dé | carefree and leisurely; completely self-content
+  从容不迫 | cóng róng bú pò | calm, unhurried, and unruffled
+  白云苍狗 | bái yún cāng gǒu | white clouds turn into grey dogs; swift worldly vicissitudes
+  悠悠忽忽 | yōu yōu hū hū | in a dazed, unhurried reverie
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  悠 | yōu | long; leisurely; distant; lingering | largo; apacible; lejano; pausado | 心 | heart | 心 (heart/peace) | 攸 (yōu, flowing water line / phonetic) | 11 | 上下结构 | Phono-semantic character combining heart 心 with 攸 (flowing calm water), denoting an unruffled, relaxed soul and lingering distance. | A calm heart (心) flows like gentle unhurried water (攸), resting in peaceful leisure and lingering time (悠). | Un corazón sereno (心) fluye como agua mansa (攸), descansando en dulce sosiego y tiempo prolongado (悠). | 55 | OKP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A calm, unhurried heart duplicated twice (悠悠) floats leisurely across vast expanses of time (悠悠).
+  composite_memory_hook_es: Un corazón sosegado repetido dos veces (悠悠) flota con parsimonia a través del tiempo milenario (悠悠).
+  cultural_and_cognitive_roots: A classical poetic reduplication found in the Book of Songs (诗经: '青青子衿，悠悠我心'); conveys the lingering emotional resonance of longing, leisurely contentment, and deep historical time.
+  tone_sandhi_and_pitch_modulation: Two high level tones: 'yōu yōu' (55-55). Sustained, steady high plateau pitch capturing peaceful, prolonged flow.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    您 | nín | you (polite) | Has 你 at top over 心 instead of 攸
+    您 | yōu | long | Do not confuse with 愁 (has 禾 and 火 over 心)
+    怒 | nù | anger | Has 奴 over 心 instead of 攸
+    怨 | yuàn | resentment | Has 夗 over 心 instead of 攸
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    闲 | xián | leisure; moonlight through gate
+    逸 | yì | ease; rabbit escaping into freedom
+    舒 | shū | relax; stretch out gently
+    漫 | màn | free-flowing; boundless water
+
+semantic_boundary_contrasts:
+  core_nuance: 悠悠 describes the unhurried, peaceful tempo of life, or the vast, lingering passage of historical time and musical echoes.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 悠悠 vs. 悠闲 | yōuxián | 悠闲 strictly describes an individual's leisurely lifestyle or relaxed mood, while 悠悠 can describe lingering sounds, vast centuries ('悠悠万事'), or drifting clouds.
+    2 | 悠悠 vs. 漫长 | màncháng | 漫长 emphasizes lengthy, tedious duration ('漫长的等待'), while 悠悠 carries poetic, nostalgic, and serene grace.
+    3 | 悠悠 vs. 匆匆 | cōngcōng | 匆匆 (hurried and rushed in haste) is the direct semantic antonym of 悠悠.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 放慢匆忙的脚步，才能听见生活悠悠流淌的清音。坐在老藤椅上泡一盏淡茶，看庭前落花随风起舞，天边白云悠悠远去。不必焦虑未来的风雨，在这份不慌不忙的从容里，灵魂方能重获久违的安顿与宁静。 | Fàngmàn cōngmáng de jiǎobù, cáinéng tīngjiàn shēnghuó yōuyōu liútǎng de qīngyīn. Zuò zài lǎoténgyǐ shàng pào yì zhǎn dànchá, kàn tíngqián luòhuā suífēng qǐwǔ, tiānbiān báiyún yōuyōu yuǎnqù. Búbì jiāolǜ wèilái de fēngyǔ, zài zhè fèn bùhuāng-bùmáng de cóngróng lǐ, línghún fāng néng chónghuò jiǔwéi de āndùn yǔ níngjìng. | Slowing rushed footsteps allows one to hear life's gentle melody. Sipping tea in a rattan chair, watching fallen flowers dance and clouds drift afar, anxieties fade as the soul regains peace in unhurried composure. | Frenar las prisas permite escuchar el rumor apacible de la vida. En una mecedora con té tibio, viendo bailar las flores y pasar nubes lentas, se disipan los desvelos y el alma recobra su sosiego soñado.
+  #2 | 五千年华夏文明历经悠悠岁月的洗礼，展现出坚韧不拔的强大生命力。从甲骨青铜的深邃记忆，到唐诗宋词的绝美华章，滚滚长江东逝水淘尽千古风流，唯有那份深植于血脉深处的文化自信，在历史长河中历久弥新、生生不息。 | Wǔqiān nián Huáxià wénmíng lìjīng yōuyōu suìyuè de xǐlǐ, zhǎnxiàn chū jiānrèn-bùbá de qiángdà shēngmìnglì. Cóng jiǎgǔ-qīngtóng de shēnsuì jìyì, dào Tángshī-Sòngcí de juéměi huázhāng, gǔngǔn Chángjiāng dōng shì shuǐ táojìn qiāngǔ fēngliú, wéiyǒu nà fèn shēnzhí yú xuèmài shēnchù de wénhuà zìxìn, zài lìshǐ chánghé zhōng lìjiǔ-míxīn, shēngshēng-bùxī. | Tested by lingering millennia, five thousand years of Chinese civilization reveal enduring vigor. From oracle bronzes to Tang and Song poetry, though rivers wash away heroes, deep cultural confidence remains immortal and vibrant. | A lo largo de eras milenarias, la civilización china muestra una recia vitalidad. De los bronces arcaicos a la lírica de Tang y Song, aunque las aguas del Yangtsé arrastren héroes, la confianza cultural florece perenne.

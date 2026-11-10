@@ -1,0 +1,64 @@
+id: 10
+hanzi: 时尚
+pinyin: shí shàng
+level: HSK 5
+part_of_speech: Noun / Adjective
+
+meanings_summary:
+  en: fashion; vogue; trend; trendy; fashionable; stylish
+  es: moda; tendencia; boga; moderno; elegante; a la moda
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | prevailing social customs, artistic trends, or clothing styles fashionable in a given period | usos, costumbres, estilos de vestir o tendencias artísticas en boga durante una época | 引领时代时尚 (lead the fashion of the era)
+  2 | Adjective | Standard | conforming to current popular taste; stylish and fashionable | adaptado al gusto en boga; moderno y con estilo | 设计非常时尚 (very fashionable design)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这家文创店将传统剪纸工艺融入时尚背包设计，吸引了大量年轻消费者的青睐。 | Zhè jiā wénchuàng diàn jiāng chuántǒng jiǎnzhǐ gōngyì róngrù shíshàng bēibāo shèjì, xīyǐn le dàliàng niánqīng xiāofèizhě de qīnglài. | This cultural shop integrated paper-cutting into stylish backpack designs, attracting many young consumers. | Esta tienda fusionó el recortado de papel con mochilas modernas, cautivando la atención de los jóvenes compradores.
+  #2 | 在近代北京与上海，穿西装、喝咖啡、下西餐厅渐渐成为文人圈子里极具标志性的生活时尚。 | Zài jìndài Běijīng yǔ Shànghǎi, chuān xīzhuāng, hē kāfēi, xià xīcāntīng jiànjiàn chéngwéi wénrén quānzi lǐ jí jù biāozhìxìng de shēnghuó shíshàng. | In modern Beijing and Shanghai, wearing suits, drinking coffee, and patronizing Western diners became iconic lifestyle trends among literati. | En el Pekín y Shanghái de la modernidad, vestir traje occidental, tomar café y frecuentar mesones foráneos devino una moda emblemática.
+
+collocations[6]{hanzi,en}:
+  时尚潮流 | fashion trend
+  追赶时尚 | pursue fashion/trends
+  时尚元素 | fashionable elements
+  生活时尚 | lifestyle fashion
+  时尚前沿 | forefront of fashion
+  引领时尚 | lead fashion
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  风靡一时 | fēng mǐ yì shí | sweep like the wind; be all the rage for a time
+  蔚然成风 | wèi rán chéng fēng | grow into a widespread custom or prevailing practice
+  独领风骚 | dú lǐng fēng sāo | take the lead in literary style; dominate the trend
+  标新立异 | biāo xīn lì yì | innovate distinctively; show uniqueness
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  时 | shí | time; era; season; hour; current | tiempo; era; sazón; hora; oportuno | 日 | sun | 日 (sun marking time) | 寸 (cùn, measurement / hand) | 7 | 左右结构 | Phono-semantic character where solar passage 日 measured by inches 寸 represents time and seasonal changes. | Measuring the sun's (日) shadow inch by inch (寸) tracks the precious passage of time (时). | Medir pulgada a pulgada (寸) la sombra del sol (日) marca el paso del tiempo oportuno (时). | 35 | ADI | 時
+  尚 | shàng | esteem; value; still; yet; upward | estimar; valorar; aún; hacia arriba | 小 | small / top | 八 (diverge upward) | 向 (xiàng, window / orientation) | 8 | 上下结构 | Ancient ideogram showing upward movement toward an opening, extended to esteeming or holding in high regard. | Rising above small (小) trifles to point toward the high open window (向) shows what is valued and esteemed (尚). | Elevarse sobre lo menudo (小) hacia el ventanal alto (向) simboliza lo que se valora y estima (尚). | 51 | FBR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: What is esteemed (尚) in the current season of time (时) becomes the reigning fashion (时尚).
+  composite_memory_hook_es: Lo que más se estima (尚) en el tiempo presente (时) marca la pauta de la moda (时尚).
+  cultural_and_cognitive_roots: Derived from classical phrases like 'fēngshàng' (风尚) and 'shíshì' (时事); represents the social psychology of collective zeitgeist and aesthetic adoration.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by falling tone: 'shí shàng' (35-51). Syllable 'shí' rises steadily from mid to high, followed by a crisp downward drop on 'shàng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    村 | cūn | village | Has tree radical 木 on left instead of 日
+    堂 | táng | hall; room | Has earth radical 土 at bottom instead of 口
+    常 | cháng | often; common | Has cloth radical 巾 at bottom instead of 口
+    党 | dǎng | party; faction | Has 儿 at bottom instead of 口
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    崇 | chóng | lofty; revere mountains; esteem
+    尊 | zūn | respect; honor with wine
+    潮 | cháo | ocean tide; trend of the era
+    流 | liú | flow; stream; mainstream style
+
+semantic_boundary_contrasts:
+  core_nuance: 时尚 refers to the contemporary aesthetic, behavioral, or consumerist trend embraced by society.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 时尚 vs. 时髦 | shímáo | 时髦 is a more colloquial loanword-style term focusing narrowly on trendy clothing or makeup, while 时尚 has a broader cultural, artistic, and lifestyle scope.
+    2 | 时尚 vs. 潮流 | cháoliú | 潮流 denotes the broader, powerful historical or macroeconomic tide of change ('时代潮流'), while 时尚 focuses on lifestyle taste and aesthetic design.
+    3 | 时尚 vs. 流行 | liúxíng | 流行 simply means widely circulating or statistically popular, whereas 时尚 carries an inherent connotation of chic elegance, novelty, and prestige.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 时尚如同一阵拂面而过的春风，不断更迭着城市的容颜。然而盲目跟风者往往在追赶中迷失自我，唯有将外在的审美与内在的气质相契合，才能孕育出历久弥新的优雅。真正的时尚从不喧哗，它是一种从容不迫的生活态度。 | Shíshàng rútóng yí zhèn fúmiàn-érguò de chūnfēng, bùduàn gēngdié zhe chéngshì de róngyán. Rán'ér mángmù gēnfēng zhě wǎngwǎng zài zhuīgǎn zhōng míshī zìwǒ, wéiyǒu jiāng wàizài de shěnmǐ yǔ nèizài de qìzhì xiàng qìhé, cáinéng yùnyù chū lìjiǔ-míxīn de yōuyǎ. Zhēnzhèng de shíshàng cóng bù xuānhuá, tā shì yì zhǒng cóngróng-bùpò de shēnghuó tàidù. | Fashion is like a passing spring breeze, renewing the city's face. Yet blind trend followers lose themselves; only uniting outer aesthetics with inner grace breeds timeless elegance. True style never shouts—it is calm composure. | La moda es como una brisa primaveral que renueva el rostro de la urbe. Quien la sigue a ciegas se extravía; solo al aunar el buen gusto exterior con el temple interno florece la elegancia perdurable. La auténtica distinción no alardea: es serenidad.
+  #2 | 近年来，东方美学在国际设计舞台上掀起了一股强劲的中国时尚风潮。设计师们从故宫典藏与传统刺绣中汲取灵感，将古老东方的水墨留白与现代极简剪裁巧妙交融。这种跨越时空的创新表达，向世界展现了中华文化的现代活力。 | Jìnniánlái, dōngfāng měixué zài guójì shèjì wǔtái shàng xiānqǐ le yì gǔ qiángjìn de Zhōngguó shíshàng fēngcháo. Shèjìshīmen cóng Gùgōng diǎncáng yǔ chuántǒng cìxiù zhōng jíqǔ línggǎn, jiāng gǔlǎo dōngfāng de shuǐmò liúbái yǔ xiàndài jíjiǎn jiǎncái qiǎomiào jiāoróng. Zhè zhǒng kuàyuè shíkōng de chuàngxīn biǎodá, xiàng shìjiè zhǎnxiàn le Zhōnghuá wénhuà de xiàndài huólì. | In recent years, oriental aesthetics has sparked a vibrant Chinese fashion wave on international stages. Designers draw inspiration from Forbidden City archives and embroidery, fusing ink-wash space with modern minimalism to showcase cultural vitality. | La estética oriental ha desatado una pujante corriente de diseño en las pasarelas del orbe. Los creadores beben de los bordados y el arte imperial para fusionar la tinta china con el corte moderno, mostrando al mundo la lozanía de su cultura.

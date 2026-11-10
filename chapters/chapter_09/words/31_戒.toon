@@ -1,0 +1,63 @@
+id: 31
+hanzi: 戒
+pinyin: jiè
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to give up; to quit; to abstain from; to warn; to guard against
+  es: dejar de; abandonar (un hábito); abstenerse; prevenir; precaverse
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to renounce, quit, or abstain from an addictive habit such as smoking or drinking | abandonar, dejar o abstenerse de un mal hábito adictivo como fumar o beber | 戒烟戒酒 (quit smoking and drinking)
+  2 | Verb | Formal | to guard against, take warning from, or be vigilant against errors or vices | precaverse, precaver o guardarse de cometer faltas o vicios | 引以为戒 (take as a warning)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了改善日益严重的慢性咽喉炎与心肺健康，父亲下定决心彻底戒掉了抽了三十年的香烟。 | Wèile gǎishàn rìyì yánzhòng de mànxìng yānhóuyán yǔ xīnfèi jiànkāng, fùqīn xiàdìng juéxīn chèdǐ jièdiào le chōu le sānshí nián de xiāngyān. | To improve worsening chronic pharyngitis and cardiopulmonary health, father firmly resolved to completely quit smoking cigarettes after thirty years. | Para aliviar su faringitis crónica y proteger el corazón, el padre decidió con firmeza dejar para siempre el tabaco tras treinta años fumando.
+  #2 | 鲁迅晚年因肺病与胃病屡屡发作，医生曾严厉告诫他必须戒酒戒烟，但他为了写作依然难以割舍烟草。 | Lǔ Xùn wǎnnián yīn fèibìng yǔ wèibìng lǚlǚ fāzuò, yīshēng céng yánlì gàojiè tā bìxū jièjiǔ jièyān, dàn tā wèile xiězuò yīrán nányǐ gēshě yāncǎo. | Suffering recurrent lung and stomach crises in his final years, doctors sternly warned Lu Xun to quit alcohol and tobacco, but writing kept him bound to it. | Por sus afecciones de pulmón y estómago, los médicos conminaron a Lu Xun a dejar el tabaco y el alcohol; mas para escribir no podía prescindir de fumar.
+
+collocations[6]{hanzi,en}:
+  戒烟 | quit smoking
+  戒酒 | quit drinking alcohol
+  戒备 | be on guard; alert vigilance
+  引以为戒 | take as a warning/caution
+  戒骄戒躁 | guard against arrogance and rashness
+  戒掉坏毛病 | kick a bad habit
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  戒骄戒躁 | jiè jiāo jiè zào | guard against arrogance and impetuosity
+  前车之鉴 | qián chē zhī jiàn | warning from the overturned cart ahead; lessons from past errors
+  严加戒备 | yán jiā jiè bèi | mount strict security vigilance
+  惩前毖后 | chéng qián bì hòu | criticize former errors to take warning for the future
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  戒 | jiè | warn; guard against; quit; ring; precept | advertir; precaverse; dejar; precepto; anillo | 戈 | halberd/dagger-axe | 戈 (dagger-axe weapon) + 廾 (two hands holding weapon) | 戒 (jiè) | 7 | 单一结构 | Oracle bone pictogram showing two hands 廾 firmly gripping a halberd 戈 in defensive guard against danger. | Two hands hold a halberd (戈) ready on guard to warn against incoming danger and ward off bad habits (戒). | Dos manos empuñan la alabarda (戈) en guardia defensiva, alertando del peligro y cortando malos hábitos (戒). | 51 | IT | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Hold weapons high in defensive guard (戒) to cut off and quit destructive addictions (戒).
+  composite_memory_hook_es: Empuña el arma en guardia vigilante (戒) para erradicar y dejar hábitos perniciosos (戒).
+  cultural_and_cognitive_roots: Originating from military garrison sentries holding halberds; adopted in Buddhist monastic rules (戒律, śīla) as moral prohibitions against vices, and later in medicine for cessation.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone: 'jiè' (51). Crisp, decisive descent from pitch 5 to pitch 1, reflecting resolute willpower.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    戎 | róng | military; arms | Has 十 cross inside 戈 instead of two parallel vertical lines of 戒
+    成 | chéng | accomplish; become | Has 勹 wrapped inside 戈
+    或 | huò | maybe; perhaps | Has 口 and 一 inside 戈
+    械 | xiè | weapon; machinery | Has tree radical 木 on left side of 戒
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    断 | duàn | sever; cut off completely
+    绝 | jué | cut off threads; absolute
+    防 | fáng | guard against; earthen embankment
+    警 | jǐng | warn with words; alert
+
+semantic_boundary_contrasts:
+  core_nuance: 戒 denotes proactively and resolutely severing an ingrained addiction or habit through conscious willpower.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 戒 vs. 戒备 | jièbèi | 戒备 is solely a noun or verb meaning defensive military/security alert against external enemies, while 戒 alone often means quitting habits ('戒烟').
+    2 | 戒 vs. 放弃 | fàngqì | 放弃 means giving up rights, opportunities, or struggles passively, whereas 戒 means voluntarily quitting harmful addictions.
+    3 | 戒 vs. 禁 | jìn | 禁 means external prohibition by law or authority ('禁止吸烟'), while 戒 emphasizes personal internal self-restraint ('戒烟').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 戒除一个根深蒂固的不良嗜好，本质上是一场与自我惰性的顽强博弈。无论是放下对尼古丁的依赖，还是告别深夜沉迷手机的恶习，都需要刮骨疗毒的决绝勇气。唯有敢于向昨天的软弱告别，生命才能重获清爽与掌控。 | Jièchú yí ge gēnshēn-dìgù de bùliáng shìhào, běnzhì shàng shì yì chǎng yǔ zìwǒ duòxìng de wánqiáng bóyì. Wúlùn shì fàngxià duì nígǔdīng de yīlài, háishì gàobié shēnyè chénmí shǒujī de èxí, dōu xūyào guāgǔ-liáodú de juéjué yǒngqì. Wéiyǒu gǎnyú xiàng zuótiān de ruǎnruò gàobié, shēngmìng cáinéng chónghuò qīngshuǎng yǔ zhǎngkòng. | Quitting an ingrained vice is essentially a tenacious duel with personal inertia. Whether abandoning nicotine or midnight screen addiction, it takes resolute courage. Only by daring to part with past weakness can life regain fresh mastery. | Erradicar un vicio arraigado es un pulso tenaz contra la inercia interior. Romper con la nicotina o el desvelo ante las pantallas exige coraje sin titubeos. Solo despidiéndose de la flaqueza pretérita recobra la vida su vigor y timón.
+  #2 | 面对瞬息万变的金融衍生品市场，投资机构必须时刻紧绷风险防控之弦，切忌盲目激进加杠杆。行业监管部门发布的一系列风险预警通报，督促各类资产管理机构引以为戒，切实完善内控合规体系，坚决守住不发生系统性金融风险的底线。 | Miànduì shùnxī-wànbiàn de jīnróng yǎnshēngpǐn shìchǎng, tóuzī jīgòu bìxū shíkè jǐnběng fēngxiǎn fángkòng zhī xián, qièjì mángmù jījìn jiā gànggǎn. Hángyè jiānguǎn bùmén fābù de yíxìliè fēngxiǎn yùjǐng tōngbào, dūcù gèlèi zīchǎn guǎnlǐ jīgòu yǐnyǐwéijiè, qièshí wánshàn nèikòng hégūi tǐxì, jiānjué shǒuzhù bù fāshēng xìtǒngxìng jīnróng fēngxiǎn de dǐxiàn. | In volatile financial markets, investment institutions must keep risk control tight, strictly avoiding blind leverage. Regulatory warnings urge firms to take heed, refine compliance, and firmly defend the baseline against systemic risks. | Ante mercados financieros volátiles, los fondos deben extremar el control de riesgos y evitar el apalancamiento temerario. Las advertencias de los supervisores instan a precaverse y afianzar la auditoría, blindando la estabilidad sistémica.

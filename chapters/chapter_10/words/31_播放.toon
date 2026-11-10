@@ -1,0 +1,63 @@
+id: 31
+hanzi: 播放
+pinyin: bō fàng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to broadcast; to transmit; to play (video or audio)
+  es: reproducir; emitir; transmitir; difundir (audio o vídeo)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to transmit sound or images through radio, television, internet, or playback devices | transmitir o emitir señales sonoras o visuales a través de medios de difusión o reproductores | 播放背景音乐 (play background music)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 电影院的大银幕上正在播放最新上映的科幻大片，震撼的音效让观众仿佛身临其境。 | Diànyǐngyuàn de dàyínmù shàng zhèngzài bōfàng zuìxīn shàngyìng de kēhuàn dàpiān, zhènhàn de yīnxiào ràng guānzhòng fǎngfú shēnlín-qíjìng. | The cinema's big screen was playing the newly released sci-fi blockbuster, its stunning sound effects immersing the audience. | En la gran pantalla del cine se reproducía el último estreno de ciencia ficción, cuyos vibrantes efectos envolvían a los espectadores.
+  #2 | 国家广播电台每天清晨准时向全国各地的听众播放早间新闻与天气预报节目。 | Guójiā guǎngbō diàntái měitiān qīngchén zhǔnshí xiàng quánguó gèdì de tīngzhòng bōfàng zǎojiān xīnwén yǔ tiānqì yùbào jiémù. | The national radio station broadcasts morning news and weather forecast programs punctually to listeners nationwide. | La radio nacional emite puntualmente cada mañana el noticiario matutino y el pronóstico del tiempo para la audiencia de todo el país.
+
+collocations[6]{hanzi,en}:
+  播放音乐 | play music
+  播放视频 | play video
+  循环播放 | loop playback / play on repeat
+  暂停播放 | pause playback
+  正在播放 | currently playing / now showing
+  播放列表 | playlist
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  绘声绘色 | huì shēng huì sè | vivid and lively description in sound and color
+  口口相传 | kǒu kǒu xiāng chuán | passed on from mouth to mouth; oral tradition
+  声情并茂 | shēng qíng bìng mào | rich in both voice and emotion; expressive recitation
+  广为流传 | guǎng wéi liú chuán | widely circulated and propagated
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  播 | bō | sow; spread; broadcast; scatter | sembrar; esparcir; difundir; emitir | 扌 | hand | 扌 (hand casting seeds) + 番 (turning paws / spread) | 番 (fān/bō, turn over / phonetic) | 15 | 左右结构 | Hand radical 扌 combined with 番; scattering seeds wide across fields, extended to scattering electromagnetic waves into the air. | A hand (扌) scatters grain (番) across fields, just as a transmitter scatters broadcast signals (播). | Una mano (扌) esparce simiente (番) en el sembrado, igual que una antena difunde ondas al aire (播). | 55 | QHDW | ""
+  放 | fàng | release; let go; place; bloom | soltar; liberar; colocar; florecer | 攵 | tap / action | 方 (square / side) + 攵 (whip / tap) | 方 (fāng, square / phonetic) | 8 | 左右结构 | A hand driving cattle with a whip 攵 out into the four directions 方; signifies releasing, setting free, or letting out. | Livestock are guided outward in all directions (方) by a herder (攵) to graze freely (放). | El ganado es guiado hacia las cuatro direcciones (方) por el pastor (攵) para pastar libre (放). | 51 | YSK | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Scattering waves (播) and releasing them freely into the atmosphere (放) broadcasts programs (播放).
+  composite_memory_hook_es: Esparcir ondas (播) y liberarlas al éter (放) reproduce y emite las señales (播放).
+  cultural_and_cognitive_roots: Agricultural metaphor: ancient farmers broadcast seeds (播种), which modern telecommunications borrowed to mean radio diffusion (广播) and audiovisual playback.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'bō fàng' (55-51). Hold high pitch 55 on 'bō', then descend decisively on 'fàng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    插 | chā | insert; stick in | Has 臿 on right of 扌 instead of 番 in 播
+    潘 | pān | surname; river | Has water radical 氵 on left of 番
+    房 | fáng | house; room | Has door radical 户 atop 方 instead of 攵 in 放
+    防 | fáng | defend; prevent | Has hill radical 阝 on left of 方
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    传 | chuán | transmit; pass on
+    达 | dá | reach; communicate
+    扬 | yáng | hoist; make known
+    发 | fā | send out; emit
+
+semantic_boundary_contrasts:
+  core_nuance: 播放 designates the physical action of transmitting or playing audio and video recordings via electronic apparatus.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 播放 vs. 广播 | guǎngbō | 广播 denotes the broader public mass media industry or institutional transmission station ('中央人民广播电台'), while 播放 is the concrete act of playing specific media clips.
+    2 | 播放 vs. 放映 | fàngyìng | 放映 specifically denotes projecting cinematographic motion pictures onto big screens or theater walls, while 播放 applies to audio, TV, and digital apps.
+    3 | 播放 vs. 演播 | yǎnbō | 演播 emphasizes live studio performance combined with broadcasting ('演播室'), while 播放 plays pre-recorded files.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 夜幕降临，宁静的咖啡馆里点亮了柔和温暖的橘黄色灯光。角落里的留声机缓缓旋转，播放着舒缓悠扬的古典爵士乐曲。伴随着醇厚诱人的咖啡香气，客人们在此洗去一身疲惫，静享安宁时光。 | Yèmù jiànglín, níngjìng de kāfēiguǎn lǐ diǎnliàng le róuhé wēnnuǎn de júhuángsè dēngguāng. Jiǎoluò lǐ de liúshēngjī huǎnhuǎn xuánzhuǎn, bōfàng zhe shūhuǎn yōuyáng de gǔdiǎn juéshì yuèqǔ. Bànsuí zhe chúnhòu yòurén de kāfēi xiāngqì, kèrénmen zàicǐ xǐqù yì shēn píbèi, jìngxiǎng ānníng shíguāng. | At dusk, the quiet cafe is lit by warm amber glow. A corner gramophone spins slowly, playing soothing jazz. Mingled with rich coffee aroma, guests wash away fatigue, savoring peaceful hours. | Al anochecer, el café se ilumina con tenue luz ambarina. En el rincón, un gramófono gira suave emitiendo jazz clásico. Entre aromas a café tostado, los clientes disipan el cansancio y gozan de la calma.
+  #2 | 在现代移动互联网时代，短视频平台凭借先进的智能推荐算法，实现了视频内容的个性化精准播放。无论是传统非遗手艺还是前沿科技科普，都能借助便捷的屏幕播放触达数以亿计的受众，激发出强大的文化传播力量。 | Zài xiàndài yídòng hùliánwǎng shídài, duǎnshìpín píngtái píngjiè xiānjìn de zhìnéng tuījiàn suànfǎ, shíxiàn le shìpín nèiróng de gèxìnghuà jīngzhǔn bōfàng. Wúlùn shì chuántǒng fēiyí shǒuyì háishì qiányán kējì kēpǔ, dōunéng jièzhù biànjié de píngmù bōfàng chùdá shùyǐyìjì de shòuzhòng, jīfā chū qiángdà de wénhuà chuánbō lìliàng. | In the mobile internet era, video platforms use algorithms for personalized playback. Whether intangible heritage or science popularization, swift video streaming reaches hundreds of millions, igniting cultural resonance. | En la era de internet móvil, las plataformas de vídeo usan algoritmos para una reproducción personalizada. Desde oficios tradicionales hasta ciencia punta, las pantallas difunden saberes a millones avivando la cultura.

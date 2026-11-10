@@ -1,0 +1,64 @@
+id: 38
+hanzi: 形象
+pinyin: xíng xiàng
+level: HSK 5
+part_of_speech: Noun / Adjective
+
+meanings_summary:
+  en: image; figure; public profile; vivid; graphic; figurative
+  es: imagen; figura; semblanza; perfil público; gráfico; vívido; elocuente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | external appearance, artistic persona, or corporate/public reputational image | imagen pública, figura artística, semblanza moral o prestigio corporativo | 树立良好形象 (establish a good public image)
+  2 | Adjective | Standard | vivid, graphic, concrete, and visually expressive in language or metaphor | gráfico, vívido, plástico y expresivo al ilustrar conceptos con metáforas | 比喻非常形象 (the metaphor is extremely vivid)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老师用切苹果的分数比喻深入浅出，十分形象地解释了抽象的数学原理，让同学们豁然开朗。 | Lǎoshī yòng qiē píngguǒ de fēnshù bǐyù shēnrù-qiǎnchū, shífēn xíngxiàng de jiěshì le chōuxiàng de shùxué yuánlǐ, ràng tóngxuémen huòrán-kāilǎng. | Using sliced apples to illustrate fractions, the teacher explained abstract principles vividly, enlightening the students. | El maestro explicó principios matemáticos abstractos mediante un elocuente símil con manzanas cortadas, iluminando a los alumnos.
+  #2 | 在现代读者心中，鲁迅先生往往被塑造成金刚怒目的斗士形象，但研读其日常书信，才能触摸到一个有血有肉的完整鲁迅。 | Zài xiàndài dúzhě xīnzhōng, Lǔ Xùn xiānsheng wǎngwǎng bèi sùzào chéng jīngāng-nùmù de dòushì xíngxiàng, dàn yándú qí rìcháng shūxìn, cáinéng chùmō dào yí ge yǒuxuè-yǒuròu de wánzhěng Lǔ Xùn. | To modern readers, Lu Xun is often cast as an uncompromising warrior; yet reading his letters reveals a complete, flesh-and-blood human being. | Los lectores suelen imaginar a Lu Xun como un combatiente de ceño adusto; mas al leer su correspondencia se descubre a un ser entrañable de carne y hueso.
+
+collocations[6]{hanzi,en}:
+  树立形象 | establish an image
+  企业形象 | corporate image/branding
+  形象生动 | vivid and graphic
+  形象大使 | brand/image ambassador
+  文学形象 | literary character/figure
+  形象思维 | thinking in images / visual thinking
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  绘声绘色 | huì shēng huì sè | describe vividly in vibrant sound and color
+  栩栩如生 | xǔ xǔ rú shēng | vivid as if alive; lifelike
+  顶天立地 | dǐng tiān lì dì | stand upright between heaven and earth; heroic stature
+  深入人心 | shēn rù rén xīn | strike deep roots in the hearts of the people
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  形 | xíng | form; shape; appearance; body | forma; figura; cuerpo; aspecto | 彡 | hair / pattern | 彡 (hair/artistic brushstrokes) | 开 (frame / phonetic harmony) | 7 | 左右结构 | Phono-semantic character where elegant brushstrokes 彡 trace out the outer shape of an entity. | Fine brushstrokes (彡) define the physical form and visible silhouette (形) of a living figure. | Trazos de pincel (彡) dibujan la figura externa y la silueta visible (形) de un ser. | 35 | MTHH | ""
+  象 | xiàng | elephant; image; phenomenon; resemble | elefante; imagen; fenómeno; asemejarse | 豕 | pig / beast | 象 (ancient oracle bone pictogram of an elephant) | 象 (xiàng) | 11 | 单一结构 | Oracle bone pictogram of an elephant with long trunk, large ears, and stout body; extended to the concept of form, mental image, and phenomenon. | An elephant with curved trunk and stout body outlines a grand iconic mental image (象). | Un elefante de larga trompa y cuerpo robusto perfila una imagen icónica y palpable (象). | 51 | NAHO | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Combine physical form (形) with the vivid iconic presence of the elephant (象) to build a powerful image (形象).
+  composite_memory_hook_es: Aúna la forma física (形) con la figura elocuente del elefante (象) para forjar una imagen vívida (形象).
+  cultural_and_cognitive_roots: According to Han Feizi, ancient Chinese rarely saw living elephants, so they imagined their shape by studying elephant bones (见其骨而象之); thus 'xiàng' became the root for mental images, symbols, and metaphors.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by falling tone: 'xíng xiàng' (35-51). Syllable 'xíng' glides upward, followed by a crisp descending drop on 'xiàng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    刑 | xíng | punishment | Has knife radical 刂 on right instead of 彡 in 形
+    免 | miǎn | exempt; avoid | Lacks the top snout and tusks structure of 象
+    像 | xiàng | resemble; statue | Has person radical 亻 on left of 象
+    豫 | yù | hesitate; Henan | Has 予 on left side of 象
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    相 | xiàng | appearance; mutual look
+    状 | zhuàng | shape; state; appearance
+    影 | yǐng | shadow; reflection; cinema
+    态 | tài | bearing; posture; state
+
+semantic_boundary_contrasts:
+  core_nuance: 形象 denotes public reputational image, artistic fictional character, or functions as an adjective meaning vivid and graphic.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 形象 vs. 现象 | xiànxiàng | 现象 refers to objective natural or societal occurrences and manifestations ('自然现象'), while 形象 refers to personal reputational persona or vivid metaphor.
+    2 | 形象 vs. 印象 | yìnxiàng | 印象 is the subjective impression left in someone's memory ('第一印象'), whereas 形象 is the objective persona projected outwards.
+    3 | 形象 vs. 生动 | shēngdòng | 生动 emphasizes dynamic lifelikeness and animated charm, while 形象 as an adjective emphasizes clear, graphic metaphorical representation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 一个人的外在形象，是其内在涵养与精神风貌的直观投射。得体的谈吐、沉稳的举止与真诚的眼神，往往胜过一切华丽的名牌包装。保持干净大方的个人形象，不仅是对他人的基本尊重，更是对自己人格尊严的郑重守护。 | Yí ge rén de wàizài xíngxiàng, shì qí nèizài hányǎng yǔ jīngshén fēngmào de zhíguān tóushè. Détǐ de tántǔ, chénwěn de jǔzhǐ yǔ zhēnchéng de yǎnshén, wǎngwǎng shèngguò yíqiè huálì de míngpái bāozhuāng. Bǎochí gānjìng-dàfang de gèrén xíngxiàng, bùjǐn shì duì tārén de jīběn zūnzhòng, gèng shì duì zìjǐ réngé zūnyán de zhèngzhòng shǒuhù. | Personal image is a direct reflection of inner culture. Proper speech, steady posture, and sincere eyes outweigh luxury packaging. Maintaining a clean, dignified image respects others and solemnly guards one's own dignity. | La imagen exterior proyecta el cultivo interior y la compostura. El hablar mesurado, el porte firme y la mirada limpia superan a las marcas de lujo. Guardar una traza pulcra y cabal honra al prójimo y protege la propia dignidad.
+  #2 | 中国国家形象的全球传播正在从宏大叙事转向具象生动的人文表达。纪录片与影视出海团队通过聚焦当代普通中国人的奋斗打拼与温情日常，将古老东方的深厚底蕴生动具象化。这种真实接地气的文化形象，有效增进了全球民心相通。 | Zhōngguó guójiā xíngxiàng de quánqiú chuánbō zhèngzài cóng hóngdà xùshì zhuǎnxiàng jùxiàng shēngdòng de rénwén biǎodá. Jìlùpiàn yǔ yǐngshì chūhǎi tuánduì tōngguò jùjiāo dāngdài pǔtōng Zhōngguórén de fèndòu dǎpīn yǔ wēnqíng rìcháng, jiāng gǔlǎo dōngfāng de shēnhòu dǐyùn shēngdòng jùxiànghuà. Zhè zhǒng zhēnshí jiēdìqì de wénhuà xíngxiàng, yǒuxiào zēngjìn le quánqiú mínxīn-xiāngtōng. | Global communication of national image is shifting from grand narratives to human stories. Documentaries focusing on ordinary lives embody eastern heritage concretely. This grounded cultural image fosters international mutual understanding. | La proyección internacional de la imagen de China evoluciona hacia historias humanas y vivas. Al mostrar la brega cotidiana de ciudadanos corrientes, se visibiliza el arraigo oriental. Esa imagen franca y humana tiende puentes entre las gentes.

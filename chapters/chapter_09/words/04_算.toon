@@ -1,0 +1,63 @@
+id: 4
+hanzi: 算
+pinyin: suàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to count; to calculate; to regard as; to pass as; at last; finally
+  es: contar; calcular; considerar; calificar como; al fin; por fin
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to calculate, compute arithmetic figures, or plan strategically | calcular, computar cifras aritméticas o planificar | 算一笔账 (calculate the accounts)
+  2 | Verb | Standard | to consider, count as, or pass muster as meeting a certain criterion | considerar, tener por o calificar como alguien o algo que cumple un criterio | 算是个行家 (considered an expert)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过反复核算，这笔家庭开支总算达到了收支平衡，让父母松了一大口气。 | Jīngguò fǎnfù hésuàn, zhè bǐ jiātíng kāizhī zǒngsuàn dádào le shōuzhī pínghéng, ràng fùmǔ sōng le yí dà kǒuqì. | After repeated recalculations, these household expenses finally balanced out, allowing the parents to breathe a sigh of relief. | Tras repetidos cálculos, los gastos domésticos al fin quedaron equilibrados, lo que brindó un hondo alivio a los padres.
+  #2 | 鲁迅先生对各大菜系的烹饪技法了如指掌，在饮食文化上绝对算得上是一位地道的行家。 | Lǔ Xùn xiānsheng duì gèdà càixì de pēngrèn jìfǎ liǎorú-zhǐzhǎng, zài yǐnshí wénhuà shàng juéduì suàndeshàng shì yí wèi dìdao de hángjia. | Mr. Lu Xun was intimately familiar with culinary techniques across regional cuisines; he can certainly be regarded as an authentic connoisseur. | El señor Lu Xun conocía las técnicas de las cocinas regionales al dedillo; en cultura gastronómica califica como un auténtico entendido.
+
+collocations[6]{hanzi,en}:
+  算得上 | can be counted as; pass as
+  总算 | at long last; finally
+  说了算 | have the final say
+  算账 | settle accounts; calculate costs
+  算是 | can be considered; at least is
+  划算 | worthwhile; cost-effective
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  精打细算 | jīng dǎ xì suàn | meticulous planning and careful budgeting
+  心怀叵测 | xīn huái pǒ cè | harbor unpredictable, malicious schemes
+  满打满算 | mǎn dǎ mǎn suàn | at the very most; counting generously
+  失算 | shī suàn | miscalculation; bad judgment
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  算 | suàn | calculate; reckon; consider; plan | calcular; computar; considerar; planear | 竹 | bamboo | 竹 (bamboo counting tallies / rods) | 目 (mù, eye inspecting tallies) + 廾 (two hands) | 14 | 上下结构 | Ancient ideogram showing two hands 廾 arranging bamboo counting rods 竹 while the eye 目 inspects the calculation. | Two hands manipulate bamboo counting sticks (竹) under watchful eyes (目) to calculate precise tallies (算). | Dos manos ordenan varillas de bambú (竹) bajo la atenta mirada (目) para calcular con exactitud (算). | 51 | HBUC | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Align bamboo calculating rods (竹) under observant eyes (目) to calculate and count someone as qualified (算).
+  composite_memory_hook_es: Alinea las varas de cálculo (竹) ante los ojos (目) para computar y calificar a alguien de experto (算).
+  cultural_and_cognitive_roots: Derived from ancient Chinese rod calculus (筹算); moving counting rods led to the metaphor of cognitive estimation, strategic reckoning, and legal qualification.
+  tone_sandhi_and_pitch_modulation: Sharp falling tone: 'suàn' (51). Deliver with a crisp descending strike without drawling.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    鼻 | bí | nose | Has 自 at the top instead of 竹
+    笄 | jī | hairpin | Has 开 below 竹 instead of the complex lower matrix of 算
+    符 | fú | symbol; tally | Has 付 below radical 竹
+    等 | děng | wait; equal | Has 寺 below radical 竹 instead of 目 and 廾
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    筹 | chóu | counting tally; chip; plan
+    简 | jiǎn | bamboo slip; concise letter
+    计 | jì | count; plan; strategy
+    数 | shǔ | count numbers sequentially
+
+semantic_boundary_contrasts:
+  core_nuance: 算 denotes either cognitive/mathematical calculation or subjectively evaluating someone as meeting an informal classification.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 算 vs. 计算 | jìsuàn | 算 is widely used colloquially for both arithmetic and qualitative judgment ('算是'), whereas 计算 is a formal verb restricted to mathematical or technical computation.
+    2 | 算 vs. 认为 | rènwéi | 算 indicates an objective or grudging concession of qualification ('勉强算'), while 认为 expresses an explicit conscious belief or argument.
+    3 | 算 vs. 打算 | dǎsuàn | 算 alone can mean finally or counting as, whereas 打算 specifically functions as an intention or future plan ('to intend to').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫漫人生路，究竟怎样才算不虚此行？有人耗尽心力计算名利的得失，到头来却身心俱疲；有人寄情山水淡泊明志，反倒在宁静中收获了丰盈的喜乐。唯有遵从本心，珍惜当下的每一寸光阴，生命才算真正活得通透坦然。 | Mànmàn rénshēng lù, jiūjìng zènyàng cái suàn bùxū-cǐxíng? Yǒurén hàojìn xīnlì jìsuàn mínglì de déshī, dàotóulái què shēnxīn-jùpí; yǒurén jìqíng-shānshuǐ dànbó-míngzhì, fǎndào zài níngjìng zhōng shōuhuò le fēngyíng de xǐlè. Wéiyǒu zūncóng běnxīn, zhēnxī dāngxià de měi yí cùn guāngyīn, shēngmìng cái suàn zhēnzhèng huó de tōngtòu tǎnrán. | On life's long path, what counts as living without regret? Some exhaust themselves calculating fame and profit, ending in fatigue; others love nature and find joy. Only following one's heart and treasuring the present makes life genuinely fulfilled. | ¿Qué se considera vivir plenamente? Algunos agotan sus fuerzas calculando ganancias mundanas, quedando extenuados; otros prefieren la calma natural y hallan paz. Solo viviendo según la propia conciencia el camino cuenta como auténtico.
+  #2 | 民国时期的文人日记，算得上是一部鲜活生动的微观社会史。学者们统计鲁迅日记中记载的数百次宴请记录，细致测算当年的物价水准与文人收入构成。这些详实账目为研究近代知识分子的日常生活，提供了极具学术价值的实证依据。 | Mínguó shíqī de wénrén rìjì, suàndeshàng shì yí bù xiānhuó shēngdòng de wēiguān shèhuìshǐ. Xuézhěmen tǒngjì Lǔ Xùn rìjì zhōng jìzǎi de shùbǎi cì yànqǐng jìlù, xìzhì cèsuàn dāngnián de wùjià shuǐzhǔn yǔ wénrén shōurù gòuchéng. Zhèxiē xiángshí zhàngmù wèi yánjiū jìndài zhīshifènzǐ de rìcháng shēnghuó, tígōng le jí jù xuéshù jiàzhí de shídzhèng yījù. | Diaries of the Republican era pass as vivid micro-histories. Scholars analyze Lu Xun's hundreds of dining entries, calculating price levels and intellectual income, yielding empirical evidence for modern social research. | Los diarios de la época republicana califican como una viva microhistoria. Los investigadores compilan los banquetes anotados por Lu Xun para calcular el coste de vida y los honorarios, aportando datos de gran valor historiográfico.

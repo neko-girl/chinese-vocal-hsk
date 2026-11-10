@@ -1,0 +1,63 @@
+id: 17
+hanzi: 胡同
+pinyin: hú tòng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: hutong; traditional narrow lane or alleyway (especially in Beijing)
+  es: hutong; callejón tradicional estrecho (especialmente en Pekín)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | traditional narrow street, lane, or alley formed by lines of siheyuan courtyards in northern Chinese cities | callejuela o callejón tradicional flanqueado por casas con patio (siheyuan) típico de ciudades norteñas | 穿过狭窄的胡同 (walk through a narrow hutong)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京的胡同曲径通幽，灰瓦四合院门前的大槐树下，几位老人正摇着蒲扇悠闲地下着象棋。 | Lǎo Běijīng de hútòng qūjìng-tōngyōu, huīwǎ sìhéyuàn ménqián de dà huáishù xià, jǐ wèi lǎorén zhèng yáo zhe púshàn yōuxián de xià zhe xiàngqí. | Old Beijing hutongs wind quietly; under the locust tree before grey-tiled courtyards, elders wave cattail fans, playing chess leisurely. | Los callejones del viejo Pekín serpentean apacibles; bajo las acacias ante patios señoriales, los ancianos juegan ajedrez con su abanico.
+  #2 | 鲁迅在北京生活了十四年，曾先后居住在南半截胡同的会馆与西三条胡同的四合院，留下了无数文学名篇。 | Lǔ Xùn zài Běijīng shēnghuó le shísì nián, céng xiānhòu jūzhù zài Nánbànjié Hútòng de huìguǎn yǔ Xīsāntiáo Hútòng de sìhéyuàn, liúxià le wúshù wénxué míngpiān. | Lu Xun lived in Beijing for 14 years, residing in Nanbanjie Hutong guild and Xisantiao courtyard, authoring countless literary masterworks. | Lu Xun residió 14 años en Pekín, viviendo en el callejón Nanbanjie y en el patio de Xisantiao, donde redactó célebres páginas literarias.
+
+collocations[6]{hanzi,en}:
+  穿过胡同 | pass through a hutong
+  胡同文化 | hutong culture
+  老北京胡同 | old Beijing hutong
+  死胡同 | dead end; blind alley; impasse
+  胡同深处 | deep in the hutong
+  胡同人家 | households in the alley
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  曲径通幽 | qū jìng tōng yōu | a winding path leads to a quiet, secluded sanctuary
+  深宅大院 | shēn zhái dà yuàn | spacious mansion with secluded inner courtyards
+  街谈巷议 | jiē tán xiàng yì | street gossip and alley discussions
+  走投无路 | zǒu tóu wú lù | have no way out; reach a dead end
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  胡 | hú | reckless; beard; northern tribes; non-Han | imprudente; barba; pueblos del norte; nómada | 月 | moon / flesh | 月 (flesh / dewlap of animal) | 古 (gǔ, ancient / phonetic) | 9 | 左右结构 | Phono-semantic character showing dewlap flesh 月 of oxen; loan character transcribing Mongolian 'hottog' (water well). | Ancient elders (古) stroke their long beards (月) while resting near northern water wells (胡). | Ancianos (古) acarician sus largas barbas (月) junto a los pozos norteños de agua (胡). | 35 | JRB | ""
+  同 | tòng | same; alley; together | mismo; callejón; juntos | 口 | mouth | 冂 (enclosure) + 一 (one) | 口 (kǒu, mouth in agreement) | 6 | 半包围结构 | Ideogram showing people speaking with one unified voice under an enclosure; used as phonetic loan for lane in hutong. | Neighbors gather together under one enclosure (冂) to speak with one mouth (口) along the shared alley (同). | Los vecinos se congregan bajo un mismo techo (冂) hablando a una sola voz (口) en el callejón común (同). | 51 | BMR | 衚衕
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Northern travelers (胡) gathered together in agreement (同) around water-well settlements, giving birth to the hutong (胡同).
+  composite_memory_hook_es: Los pobladores del norte (胡) se agrupaban juntos (同) junto a los pozos de agua, creando el callejón hutong (胡同).
+  cultural_and_cognitive_roots: Linguistically derived from Mongolian 'hottog' (water well) during the Yuan Dynasty (Dadu / Beijing); settlements clustered around wells became narrow communal alleys.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by falling tone or neutral tone: 'hú tòng' (35-51 or 35-2 in Beijing dialect). Syllable 'tòng' drops firmly, often lightened in vernacular speech.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    糊 | hú | paste; paste up | Has rice radical 米 on the left side of 胡
+    湖 | hú | lake | Has water radical 氵 on the left side of 胡
+    洞 | dòng | cave; hole | Has water radical 氵 on left of 同
+    周 | zhōu | week; circle; complete | Has 土 at top instead of flat 一
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    巷 | xiàng | lane; narrow urban alleyway
+    街 | jiē | broad thoroughfare; street
+    弄 | lòng | lane in Shanghai shikumen alleys
+    坊 | fāng | urban residential subdivision ward
+
+semantic_boundary_contrasts:
+  core_nuance: 胡同 specifically denotes traditional northern Chinese residential alleys bordered by grey-brick courtyard walls.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 胡同 vs. 街道 | jiēdào | 街道 refers broadly to paved city traffic streets with motor vehicles, whereas 胡同 refers to intimate residential alleys formed by courtyard walls.
+    2 | 胡同 vs. 弄堂 | lòngtáng | 胡同 is the northern (Beijing) cultural term for lanes, while 弄堂 (or 里弄) specifically describes Shanghai and southern alleyways.
+    3 | 胡同 vs. 小巷 | xiǎoxiàng | 小巷 is a generic, literary term for any narrow passage in any city, while 胡同 carries specific historical identity tied to Yuan, Ming, and Qing Beijing.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京的魂，大半凝固在错落有致的胡同里。斑驳的朱漆大门，门口蹲坐着威武的石狮，门墩上雕刻着吉祥的花草纹样。傍晚时分炊烟渐起，一声清脆悠长的鸽哨掠过瓦檐，那是深宅大院里最富有人情味的天伦图景。 | Lǎo Běijīng de hún, dàbàn nínggù zài cuòluò-yǒuzhì de hútòng lǐ. Bānbó de zhūqī dàmén, ménkǒu dūnzuò zhe wēiwǔ de shíshī, méndūn shàng diāokè zhe jíxiáng de huācǎo wényàng. Bàngwǎn shífēn chuīyān jiàn qǐ, yì shēng qīngcuì yōucháng de gēshào lüèguò wǎyán, nà shì shēnzhái-dàyuàn lǐ zuì fùyǒu rénqíngwèi de tiānlún tújǐng. | Old Beijing's soul is set in winding hutongs. Peeling vermilion gates flanked by stone lions and auspicious carvings welcome evening hearth smoke. A crisp pigeon whistle grazes tile eaves, painting a scene rich with human warmth. | El alma de Pekín reposa en sus callejones. Portones bermejos flanqueados por leones de piedra guardan el humo de las cocinas al atardecer. El silbido de las palomas surca los tejados, dibujando una estampa entrañable de convivencia.
+  #2 | 在现代城市更新与历史文化名城保护的交汇点上，胡同肌理的修复成了关键课题。市政规划者摒弃大拆大建的粗暴模式，转而推行渐进式的“微循环”改造。在保留原住民市井记忆的同时，完善供暖排污管网，让古老胡同焕发出现代宜居生机。 | Zài xiàndài chéngshì gēngxīn yǔ lìshǐ wénhuà míngchéng bǎohù de jiāohuìdiǎn shàng, hútòng jīlǐ de xiūfù chéng le guānjiàn kètí. Shìzhèng guīhuàzhě bǐngqì dàchāi-dàjiàn de cūbào móshì, zhuǎn'ér tuīxíng jiànjìnxìng de 'wēixúnhuán' gǎizào. Zài bǎoliú yuánzhùmín shìjǐng jìyì de tóngshí, wánshàn gōngnuǎn páiwū guǎnwǎng, ràng gǔlǎo hútòng huànfā chū xiàndài yíjū shēngjī. | Preserving historical cities makes hutong restoration pivotal. Planners abandon demolition for organic micro-renovation. Preserving resident memories while modernizing heating and drainage breathes livable vitality into ancient alleys. | En la renovación urbana, la restauración de los hutongs es crucial. Los urbanistas rechazan el derribo masivo y optan por mejoras graduales. Al renovar saneamientos y calefacción sin desalojar vecinos, los viejos callejones cobran nueva vida.

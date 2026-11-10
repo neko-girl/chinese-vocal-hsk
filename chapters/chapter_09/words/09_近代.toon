@@ -1,0 +1,63 @@
+id: 9
+hanzi: 近代
+pinyin: jìn dài
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: modern times (in Chinese historiography: 1840-1919/1949); recent history
+  es: época moderna; era contemporánea temprana; historia reciente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | historical era typically defined in China as spanning from the Opium War (1840) to the May Fourth Movement (1919) or the mid-20th century | período histórico que en China comprende desde la Guerra del Opio (1840) hasta el Movimiento del Cuatro de Mayo (1919) o mediados del siglo XX | 近代历史 (modern history)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 近代中国经历了波澜壮阔的社会变革，传统的儒家伦理与西方的现代科学思想在此激烈碰撞交融。 | Jìndài Zhōngguó jīnglì le bōlán-zhuàngkuò de shèhuì biàngé, chuántǒng de Rújiā lúnlǐ yǔ xīfāng de xiàndài kēxué sīxiǎng zài cǐ jīliè pèngzhuàng jiāoróng. | Modern China experienced tumultuous social changes, where traditional Confucian ethics and Western scientific thought clashed and converged violently. | La China moderna vivió convulsas transformaciones sociales, en las que la ética confuciana colisionó y se entrelazó con la ciencia occidental.
+  #2 | 研究近代文人的饮食文化与日常手账，能让我们以更加鲜活真实的视角重返百年前的市井生活。 | Yánjiū jìndài wénrén de yǐnshí wénhuà yǔ rìcháng shǒuzhàng, néng ràng wǒmen yǐ gèngjiā xiānhuó zhēnshí de shìjiǎo chóngfǎn bǎi nián qián de shìjǐng shēnghuó. | Studying the dining culture and daily journals of modern literary figures allows us to revisit century-old urban life with vivid authenticity. | Estudiar los hábitos culinarios y dietarios de los literatos de la era moderna nos permite asomarnos con viveza a la vida urbana de hace un siglo.
+
+collocations[6]{hanzi,en}:
+  近代历史 | modern history
+  近代科学 | modern science
+  近代中国 | modern China
+  近代思想 | modern thought/ideology
+  近代以来 | since the advent of modern times
+  近代文学 | modern literature
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  继往开来 | jì wǎng kāi lái | carry forward past heritage and blaze new trails into the future
+  改弦易辙 | gǎi xián yì zhé | change one's course or policy drastically
+  与时俱进 | yǔ shí jù jìn | advance in lockstep with the times; keep pace with progress
+  推陈出新 | tuī chén chū xīn | weed out the obsolete to bring forth the fresh and new
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  近 | jìn | near; close; recent; approach | cerca; próximo; reciente; aproximarse | 辶 | walk | 辶 (movement on a path) | 斤 (jīn, axe / phonetic harmony) | 7 | 半包围结构 | Phono-semantic character where motion along a road 辶 approaches a destination close at hand. | Walking along the path (辶) with an axe (斤) in hand brings you within close, recent reach (近). | Avanzar por la senda (辶) con un hacha (斤) sitúa al viajero a poca distancia (近). | 51 | YHML | ""
+  代 | dài | era; generation; replace; substitute | era; época; generación; reemplazar | 亻 | person | 亻 (person / generational succession) | 弋 (yì, arrow peg / marker) | 5 | 左右结构 | Ideogram showing one person 亻 taking the post marked by 弋, signifying generational replacement and successive historical eras. | One person (亻) steps up to stake (弋) their place, succeeding the previous generation in the era (代). | Un individuo (亻) toma el relevo en la estaca (弋), sucediendo a la generación anterior en la época (代). | 51 | OIP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The era (代) closest to our present memory (近) is the modern era (近代).
+  composite_memory_hook_es: La época (代) más cercana a nuestro presente (近) constituye la era moderna (近代).
+  cultural_and_cognitive_roots: Chinese historiography divides epochs into Ancient (古代, pre-1840), Modern (近代, 1840-1919/1949), and Contemporary (现代/当代, post-1949/1919); 'jìn' marks proximity to the present.
+  tone_sandhi_and_pitch_modulation: Two falling tones: 'jìn dài' (51-51). Articulate both syllables with firm, crisp descending contours.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    进 | jìn | advance; enter | Has 井 inside 辶 instead of 斤
+    远 | yuǎn | far; distant | Has 元 inside 辶; direct antonym of 近
+    伐 | fá | cut down; attack | Has 戈 on right instead of 弋
+    仕 | shì | official; serve | Has 士 on right instead of 弋
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    世 | shì | generation; epoch; thirty years
+    纪 | jì | record; century; discipline
+    年 | nián | year; seasonal harvest cycle
+    临 | lín | approach; overlook from nearby
+
+semantic_boundary_contrasts:
+  core_nuance: 近代 specifically refers to the transitional modern historical era preceding contemporary times.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 近代 vs. 现代 | xiàndài | In Chinese historiography, 近代 denotes the period starting from 1840, whereas 现代 denotes the contemporary era starting with the May Fourth Movement (1919) or PRC founding.
+    2 | 近代 vs. 当代 | dāngdài | 近代 is a concluded historical epoch, while 当代 strictly denotes the immediate present ongoing period in which we currently live.
+    3 | 近代 vs. 古代 | gǔdài | 古代 refers to antiquity and imperial dynasties prior to the 1840 Opium War, while 近代 marks the threshold of industrial modernization.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在近代留下的红砖洋房与石库门里弄之间，斑驳的铁艺栏杆静静诉说着往昔的风云际会。那些从旧时代突围而出的思想先驱，正是在这些逼仄的亭子间里挑灯夜战，为民族的觉醒点亮了最早的黎明微光。 | Mànbù zài jìndài liúxià de hóngzhuān yángfáng yǔ shíkùmén lǐnòng zhījiān, bānbó de tiěyì lángān jìngjìng sùshuō zhe wǎngxī de fēngyún-jìhuì. Nàxiē cóng jiù shídài tūwéi-érchū de sīxiǎng xiānqū, zhèng shì zài zhèxiē bīzè de tíngzǐjiān lǐ tiǎodēng-yèzhàn, wèi mínzú de juéxǐng diǎnliàng le zuìzǎo de límíng wēiguāng. | Strolling between modern red-brick villas and lane alleys, mottled railings whisper tales of historical turbulence. In cramped garrets, pioneers broke from old constraints and burnt midnight oil, kindling the dawn of national awakening. | Paseando entre casonas de ladrillo rojo y callejones antiguos, las rejas oxidadas susurran memorias de cambio. Fue en estos estrechos desvanes donde los pioneros del pensamiento velaron armas, encendiendo la aurora del renacer popular.
+  #2 | 中国近代工业化探索走过了一条极其曲折艰难的道路。从晚清洋务运动创办军工制造，到民国初期民族资本在轻工纺织业的艰难崛起，近代先辈们实业报国的顽强求索，为今日门类完备的现代工业体系奠定了坚实雏形。 | Zhōngguó jìndài gōngyèhuà tànsuǒ zǒuguò le yì tiáo jíqí qūzhé jiānnán de dàolù. Cóng wǎn-Qīng Yángwù Yùndòng chuàngbàn jūngōng zhìzào, dào Mínguó chūqí mínzú zīběn zài qīnggōng fǎngzhīyè de jiānnán juéqǐ, jìndài xiānbèimen shíyè-bàoguó de wánqiáng qiúsuǒ, wèi jīnrì ménlèi-wánbèi de xiàndài gōngyè tǐxì diàndìng le jiānshí chúxíng. | China's modern industrialization walked a tortuous path. From late Qing defense arsenals to Republican textile mills, modern predecessors' tenacity in building domestic enterprise laid the solid embryonic foundation for today's industry. | La industrialización de la China moderna recorrió un sendero arduo. Desde las factorías de defensa en la dinastía Qing hasta el auge textil republicano, la entrega de aquellos precursores forjó los cimientos del actual tejido fabril.

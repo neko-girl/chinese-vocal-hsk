@@ -1,0 +1,63 @@
+id: 23
+hanzi: 显示
+pinyin: xiǎn shì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to show; to display; to demonstrate; to manifest
+  es: mostrar; exhibir; manifestar; reflejar; indicar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to clearly show, reveal, exhibit, or indicate qualities, data, or situations | hacer patente, exteriorizar, desplegar o indicar con claridad cualidades, datos o realidades | 显示出非凡的才能 (display extraordinary talent)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 最新发布的国家宏观经济统计数据显示，国内消费市场正在稳步回暖。 | Zuìxīn fābù de guójiā hóngguān jīngjì tǒngjì shùjù xiǎnshì, guónèi xiāofèi shìchǎng zhèngzài wěnbù huínuǎn. | The newly released national macroeconomic statistical data show that the domestic consumer market is steadily recovering. | Las últimas estadísticas macroeconómicas nacionales reflejan que el mercado de consumo interno se está recuperando de manera constante.
+  #2 | 面对极其复杂的突发局面，年轻的指挥员显示出了过人的沉着与决断力。 | Miànduì jíqí fùzá de tūfā júmiàn, niánqīng de zhǐhuīyuán xiǎnshì chū le guòrén de chénzhuó yǔ juéduànlì. | Confronted with an extremely complex emergency, the young commander displayed remarkable composure and decisiveness. | Ante una contingencia sumamente compleja, el joven comandante dio muestras de una serenidad y determinación extraordinarias.
+
+collocations[6]{hanzi,en}:
+  显示屏 | display screen / monitor
+  数据显示 | data indicate / show
+  显示出 | display; demonstrate; reveal
+  显示器 | visual display unit; monitor
+  充分显示 | fully demonstrate; clearly show
+  结果显示 | results show/indicate
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大显身手 | dà xiǎn shēn shǒu | fully display one's talents and capabilities
+  显而易见 | xiǎn ér yì jiàn | obvious and easy to see; self-evident
+  初露锋芒 | chū lù fēng máng | first display of talent and brilliance
+  崭露头角 | zhǎn lù tóu jiǎo | stand out prominently; rise above others
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  显 | xiǎn | prominent; apparent; show; manifest | evidente; patente; ostensible; mostrar | 日 | sun | 日 (sun/sunlight) + 业 (silk hanging ornament) | 显 (xiǎn) | 9 | 上下结构 | Sunlight 日 shining down on illuminated objects 业, making them vividly visible to the eye. | Bright sunlight (日) illuminates fine details, making them clearly visible (显). | El sol radiante (日) alumbra los menores detalles haciéndolos patentes a la vista (显). | 214 | ATC | 顯
+  示 | shì | show; reveal; notify; altar tablet | mostrar; manifestar; señalar; altar | 示 | spirit / show | 二 (heaven) + 𡭕 (sun, moon, stars showing signs) | 示 (shì) | 5 | 单一结构 | Oracle bone pictograph of an ancestral sacrificial stone altar upon which omens and celestial signs are revealed. | An altar (示) displays sacrificial offerings to indicate divine guidance and signs. | Un ara sagrada (示) expone ofrendas para revelar las señales del cielo. | 51 | MMF | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Bright sunlight (显) illuminates an altar sign (示) to clearly display and manifest truths (显示).
+  composite_memory_hook_es: La luz solar (显) descubre la señal del altar (示) para mostrar de forma patente la verdad (显示).
+  cultural_and_cognitive_roots: Derived from ancient celestial divination: 显 (light revealing forms) paired with 示 (heavenly omens displayed to mankind).
+  tone_sandhi_and_pitch_modulation: Dipping tone followed by falling tone: 'xiǎn shì' (214-51). Dip on 'xiǎn' then drop sharply and decisively on 'shì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    晃 | huàng | sway; dazzle | Has 光 underneath 日 instead of 业 in 显
+    是 | shì | to be; yes | Has 疋 underneath 日 instead of 业
+    宗 | zōng | ancestor; clan | Has roof radical 宀 atop 示
+    奈 | nài | how; cope with | Has 大 atop 示
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    明 | míng | bright; clear insight
+    见 | jiàn | perceive with eyes
+    露 | lù | expose to open air
+    表 | biǎo | external surface; display
+
+semantic_boundary_contrasts:
+  core_nuance: 显示 emphasizes bringing internal qualities or data into clear, objective visibility for observers.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 显示 vs. 表现 | biǎoxiàn | 表现 focuses on human conduct, behavior, or attitude, while 显示 commonly introduces statistical data, signs, or screen readouts.
+    2 | 显示 vs. 表明 | biǎomíng | 表明 focuses on clarifying a stance, viewpoint, or intention ('表明态度'), while 显示 demonstrates empirical phenomena.
+    3 | 显示 vs. 显露 | xiǎnlù | 显露 implies that something previously hidden or buried becomes revealed to view, while 显示 is neutral presentation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 科研团队在实验室成功研制出新型柔性超高清显示屏。这种屏幕厚度仅如薄纸，能够任意折叠弯曲而不影响色彩饱和度。测试数据显示，其在超低温环境下依然能保持极高刷新率与卓越的显示性能。 | Kēyán tuánduì zài shíyànshì chénggōng yánzhì chū xīnxíng róuxìng chāogāoqīng xiǎnshìpíng. Zhè zhǒng píngmù hòudù jǐn rú báozhǐ, nénggòu rènyì zhédié wānqū ér bù yǐngxiǎng sècǎi bǎohédù. Cèshì shùjù xiǎnshì, qí zài chāodīwēn huánjìng xià yīrán néng bǎochí jí gāo shuāxīnlǜ yǔ zhuóyuè de xiǎnshì xìngnéng. | Scientists developed ultra-thin flexible ultra-HD display screens. Thin as paper, it bends freely without losing color saturation. Test data show it maintains high refresh rates even under deep cold. | Científicos desarrollaron una pantalla flexible ultra HD fina como papel. Se pliega libremente sin mermar la saturación cromática. Los datos demuestran que conserva un refresco óptimo incluso en frío extremo.
+  #2 | 在面对重大自然灾害救援时，全社会各界心往一处想、劲往一处使，争分夺秒抢救生命。无数志愿者挺身而出，展现出中华民族守望相助的大爱精神，充分显示了万众一心、众志成城的强大凝聚力与制度优势。 | Zài miànduì zhòngdà zìrán zāihài jiùyuán shí, quán shèhuì gèjiè xīn wǎng yí chù xiǎng, jìn wǎng yí chù shǐ, zhēngfēn-duómiǎo qiǎngjiù shēngmìng. Wúshù zhìyuànzhě tǐngshēn'érchū, zhǎnxiàn chū Zhōnghuá mínzú shǒuwàng-xiāngzhù de dà'ài jīngshén, chōngfèn xiǎnshì le wànzhòng-yìxīn, zhòngzhì-chéngchéng de qiángdà níngjùlì yǔ zhìdù yōushì. | During disaster rescues, society joins forces to save lives against the clock. Volunteers step forward, manifesting solidarity and demonstrating the immense cohesion and resilience of a united nation. | En labores de rescate ante catástrofes, la sociedad aúna voluntades contrarreloj. Los voluntarios socorren al prójimo desplegando solidaridad y reflejando una formidable cohesión y entereza comunitaria.

@@ -1,0 +1,64 @@
+id: 19
+hanzi: 首
+pinyin: shǒu
+level: HSK 5
+part_of_speech: Noun / Measure Word / Adjective
+
+meanings_summary:
+  en: head; chief; first; leader; measure word for poems, songs, and melodies
+  es: cabeza; primero; líder; principal; clasificador para poemas y canciones
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Formal | head of a body, or the leader/head of an organization | cabeza física, o máxima autoridad y líder de una comitiva o estado | 昂首挺胸 (hold head high with chest out)
+  2 | Measure Word | Standard | classifier for poems, poetic verses, lyrics, and musical songs | clasificador para composiciones poéticas, canciones y melodías | 一首动人的歌 (a moving song)
+  3 | Adjective | Standard | first in order, primary, or initial | primero en orden, primordial o de rango prioritario | 首次登台 (first appearance on stage)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 晚会上，音乐家深情弹唱了一首脍炙人口的经典老歌，唤起了现场观众无尽的美好回忆。 | Wǎnhuì shàng, yīnyuèjiā shēnqíng tánchàng le yì shǒu kuàizhì-rénkǒu de jīngdiǎn lǎogē, huànqǐ le xiànchǎng guānzhòng wújìn de měihǎo huíyì. | At the gala, the musician passionately sang a beloved classic song, awakening endless fond memories in the audience. | En la velada, el músico entonó con emoción una canción clásica inolvidable, despertando bellos recuerdos en los asistentes.
+  #2 | 鲁迅先生发表的《狂人日记》是中国现代文学史上第一篇白话短篇小说，堪称新文学运动的首发之作。 | Lǔ Xùn xiānsheng fābiǎo de 《Kuángrén Rìjì》 shì Zhōngguó xiàndài wénxué shǐ shàng dì yī piān báihuà duǎnpiān xiǎoshuō, kānchēng xīn wénxué yùndòng de shǒufā zhī zuò. | Lu Xun's 'Diary of a Madman' was the first vernacular short story in modern Chinese literature, truly the inaugural work of the New Literature movement. | El 'Diario de un loco' de Lu Xun fue el primer relato en lengua vernácula de las letras chinas modernas, hito inaugural de la nueva literatura.
+
+collocations[6]{hanzi,en}:
+  一首诗 | a poem
+  一首歌 | a song
+  首次 | for the first time
+  首要任务 | primary task; top priority
+  首席执行官 | chief executive officer (CEO)
+  首都 | national capital
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  首屈一指 | shǒu qū yì zhǐ | bend the thumb first; second to none; top notch
+  昂首阔步 | áng shǒu kuò bù | stride forward proudly with head held high
+  马首是瞻 | mǎ shǒu shì zhān | follow the leader's horse head; follow another's lead
+  始料未及 | shǐ liào wèi jí | unforeseen from the very beginning
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  首 | shǒu | head; chief; first; poem classifier | cabeza; principal; primero; clasificador | 首 | head | 自 (nose/face) + 丷 (hair on head) | 首 (shǒu) | 9 | 单一结构 | Oracle bone pictogram depicting a human head with hair 丷 and prominent nose/eye; source of concepts of leadership and beginning. | Wisps of hair (丷) crown the forehead above facial features to represent the vital head and leader (首). | Mechones de pelo (丷) coronan la frente sobre los ojos para representar la cabeza y la primacía (首). | 214 | TBU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The head (首) sits at the very top of the body, designating the first rank and the measure word for a song (首).
+  composite_memory_hook_es: La cabeza (首) corona la cima del cuerpo, simbolizando lo primero y sirviendo de clasificador para canciones (首).
+  cultural_and_cognitive_roots: An anatomical radical in Kangxi lexicography; bodily primacy of the head gave rise to political leadership (首领, 元首) and numerical commencement (首先, 首席).
+  tone_sandhi_and_pitch_modulation: Dipping 3rd tone: 'shǒu' (214). Pronounce with an articulate dipping and rising tone contour without rushing.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    道 | dào | road; way | Has walking radical 辶 wrapping around 首
+    自 | zì | self | Lacks the top two hair strokes 丷 that crown 首
+    百 | bǎi | hundred | Has flat horizontal stroke at top without hair horns
+    盲 | máng | blind | Has 亡 over 目 instead of 首
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    头 | tóu | head; beginning; first
+    领 | lǐng | neck; collar; lead; govern
+    初 | chū | initial; cut cloth at beginning
+    元 | yuán | first; head; original sovereign
+
+semantic_boundary_contrasts:
+  core_nuance: 首 designates the foremost position, head rank, or functions as a classical measure word for poems/songs.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 首 vs. 头 | tóu | 头 is the common everyday colloquial word for physical head, while 首 is elevated, formal, and poetic ('昂首', '元首').
+    2 | 首 vs. 首/曲 | qǔ | 曲 is a measure word restricted solely to musical tunes and melodies ('一曲梁祝'), while 首 applies to both poems and lyrics.
+    3 | 首 vs. 第一 | dì-yī | 第一 is a general ordinal number (first), whereas 首 combines ordinal priority with chief executive status ('首席').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 诗歌是人类心灵最纯粹的低语。在孤独清冷的夜晚，捧读一首直击心灵的哲理诗，那些凝练如金石的字句，瞬间抚平了浮躁与疲惫。好的诗作如同一盏明灯，在漫漫长夜里为疲惫的旅人照亮回归内心的归途。 | Shīgē shì rénlèi xīnlíng zuì chúncuì de dīyǔ. Zài gūdú qīnglěng de yèwǎn, pěngdú yì shǒu zhíjī-xīnlíng de zhélǐshī, nàxiē níngliàn rú jīnshí de zìjù, shùnjiān fǔpíng le fúzào yǔ píbèi. Hǎo de shīzuò rútóng yì zhǎn míngdēng, zài mànmàn chángyè lǐ wèi píbèi de lǚrén zhàoliàng huíguī nèixīn de guītú. | Poetry is the soul's purest whisper. On lonely nights, reading a philosophical poem with words condensed like jade soothes exhaustion. Fine poems are lanterns lighting the traveler's return to peace. | La poesía es el susurro más íntimo del alma. En la quietud nocturna, leer un poema que cala hondo disipa la fatiga. Los versos maestros son candiles que alumbran al caminante cansado en su regreso al sosiego interior.
+  #2 | 把保障和改善民生作为经济社会发展的首要任务，是执政为民理念的生动体现。各地政府通过完善多层次社会保障网，将解决好群众关心的就业、教育、医疗等实际问题放在首位，切实提升广大百姓的获得感与安全感。 | Bǎ bǎozhàng yǔ gǎishàn mínshēng zuòwéi jīngjì shèhuì fāzhǎn de shǒuyào rènwù, shì zhízhèng-wèimín lǐniàn de shēngdòng tǐxiàn. Gèdì zhèngfǔ tōngguò wánshàn duō céngcì shèhuì bǎozhàng wǎng, jiāng jiějué hǎo qúnzhòng guānxīn de jiùyè, jiàoyù, yīliáo děng shíjì wèntí fàng zài shǒuwèi, qièshí tíshēng guǎngdà bǎixìng de huòdé gǎn yǔ ānquán gǎn. | Making public well-being the primary task of development embodies service to the people. Expanding social security networks prioritizes employment, schooling, and healthcare, enhancing the populace's sense of security. | Priorizar el bienestar ciudadano como tarea primordial traduce el compromiso social en hechos. Al afianzar la seguridad social y atender empleo, salud y educación, los gobiernos fortalecen la certidumbre colectiva.

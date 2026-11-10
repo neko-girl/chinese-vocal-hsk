@@ -1,0 +1,63 @@
+id: 7
+hanzi: 亲自
+pinyin: qīn zì
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: personally; in person; oneself (without proxy)
+  es: personalmente; en persona; por sí mismo (sin intermediarios)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | doing an action in person oneself, rather than delegating it to subordinates or agents | realizar una acción en persona uno mismo, sin delegarla en terceros o subordinados | 亲自主持会议 (personally chair the meeting)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了表达对远道而来客人的诚意，总经理亲自驾车前往机场迎接，令客户深受感动。 | Wèile biǎodá duì yuǎndào-érlái kèrén de chéngyì, zǒngjīnglǐ qīnzì jiàchē qiánwǎng jīchǎng yíngjiē, lìng kèhù shēnshòu gǎndòng. | To express sincere hospitality to guests traveling from afar, the general manager personally drove to the airport to welcome them, deeply touching the clients. | Para mostrar sincera cortesía a los huéspedes que venían de lejos, el director general condujo él mismo hasta el aeropuerto a recibirlos.
+  #2 | 鲁迅不仅爱吃会吃，周末闲暇时还常常亲自下厨掌勺，为前来做客的年轻朋友们烹制家乡美味。 | Lǔ Xùn bùjǐn àichī huìchī, zhòumò xiánxiá shí hái chángcháng qīnzì xiàchú zhǎngsháo, wèi qiánlái zuòkè de niánqīng péngyoumen pēngzhì jiāxiāng měiwèi. | Lu Xun not only enjoyed fine cuisine, but frequently cooked in person on weekends, preparing hometown delicacies for visiting young friends. | Lu Xun no solo disfrutaba de la gastronomía, sino que en sus fines de semana solía meterse en persona a la cocina para agasajar a sus amigos.
+
+collocations[6]{hanzi,en}:
+  亲自出席 | attend in person
+  亲自参与 | participate personally
+  亲自下厨 | cook in person in the kitchen
+  亲自过问 | inquire into personally
+  亲自体验 | experience firsthand
+  亲自带队 | lead the team in person
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  身体力行 | shēn tǐ lì xíng | practice what one preaches; carry out personally
+  事必躬亲 | shì bì gōng qīn | attend to everything personally; take care of all details oneself
+  微服私访 | wēi fú sī fǎng | travel incognito to investigate conditions firsthand
+  耳闻目睹 | ěr wén mù dǔ | hear with one's ears and see with one's own eyes
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  亲 | qīn | close; parent; intimate; in person; kiss | pariente; íntimo; en persona; besar | 亠 | lid | 立 (stand on feet) + 木 (tree/parent) | 见 (jiàn, see / present in traditional 親) | 9 | 上下结构 | Traditional 親 shows standing 立 atop wood 木 to look out 见 affectionately for returning loved ones. | A loving parent stands tall (立) on the threshold waiting to greet loved ones intimately in person (亲). | Un progenitor devoto se pone en pie (立) para aguardar con afecto la llegada del ser querido (亲). | 55 | YKD | 親
+  自 | zì | self; oneself; from; origin | uno mismo; propio; desde; origen | 自 | nose / self | 自 (pictogram of the human nose) | 自 (zì) | 6 | 单一结构 | Ancient pictogram of the human nose; in Chinese gesture, pointing to one's nose signifies 'myself'. | A person points directly to their nose (自) to indicate: 'I did this completely by myself!' | Alguien se señala la nariz (自) con el dedo índice para recalcar: '¡Lo hice yo mismo!' | 51 | HBU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Step forward with close care (亲) and point to yourself (自) to do the vital job in person (亲自).
+  composite_memory_hook_es: Acércate con afecto (亲) y señálate a ti mismo (自) para realizar la tarea en persona (亲自).
+  cultural_and_cognitive_roots: In high-context Chinese culture, doing something 'qīnzì' (rather than sending an assistant) demonstrates extraordinary respect, humility, or utmost importance.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'qīn zì' (55-51). Articulate 'qīn' with a high pitch, dropping crisply into 4th tone 'zì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    白 | bái | white | Lacks the extra horizontal stroke inside 自
+    目 | mù | eye | Lacks the top diagonal dot stroke that 自 possesses
+    辛 | xīn | toilsome; bitter | Has 十 at bottom instead of the lower strokes of 亲
+    新 | xīn | new; fresh | Has axe radical 斤 on the right side of 亲
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    躬 | gōng | body; bow personally
+    己 | jǐ | oneself; private self
+    吾 | wú | I; myself
+    近 | jìn | near; intimate closeness
+
+semantic_boundary_contrasts:
+  core_nuance: 亲自 emphasizes the non-delegation of duty, underscoring that a principal figure acted without proxies.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 亲自 vs. 自己 | zìjǐ | 自己 is a reflexive pronoun ('myself / himself'), while 亲自 is an adverb strictly modifying verbs to stress that an authoritative person did not delegate the action.
+    2 | 亲自 vs. 亲身 | qīnshēn | 亲自 modifies proactive actions taken by someone ('亲自接待'), whereas 亲身 typically modifies passive experiences undergone ('亲身经历').
+    3 | 亲自 vs. 亲自/亲手 | qīnshǒu | 亲手 emphasizes physical manipulation with one's own hands ('亲手做蛋糕'), while 亲自 covers broader leadership, attendance, or decision-making.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正的温暖不是金钱的馈赠，而是亲自陪伴与倾听的诚意。当朋友遭遇人生低谷时，再多的客套短信也比不上亲自登门探望，握住对方冰冷的手送上一句鼓励。躬身而行的温度，胜过世间一切虚华的繁文缛节。 | Zhēnzhèng de wēnduǎn bú shì jīnqián de kuìzèng, ér shì qīnzì péibàn yǔ qīngtīng de chéngyì. Dāng péngyou zāoyù rénshēng dīgǔ shí, zài duō de kètào duǎnxìn yě bǐbúshàng qīnzì dēngmén tànwàng, wòzhù duìfāng bīnglěng de shǒu sòngshàng yí jù gǔlì. Gōngshēn-érxíng de wēndù, shèngguò shìjiān yíqiè xūhuá de fánwén-rùjié. | True warmth is not gifts of money, but the sincerity of personally accompanying and listening. When a friend hits rock bottom, polite texts pale beside visiting in person and clasping their hand. Personal presence outweighs empty etiquette. | La calidez genuina no emana del dinero, sino de la cercanía al acompañar y escuchar. Cuando un amigo toca fondo, ningún mensaje formal iguala una visita en persona para estrechar su mano. La presencia sincera vale más que vanas cortesías.
+  #2 | 卓越的领导力不仅体现在高瞻远瞩的战略决策，更体现在关键时刻亲自靠前指挥的务实作风。抗洪抢险与重大科研攻关一线，指挥官亲自带队深入最艰苦的现场，极大鼓舞了全员士气，为化解危机赢得了宝贵先机。 | Zhuóyuè de lǐngdǎolì bùjǐn tǐxiàn zài gāozhān-yuǎnzhǔ de zhànlüè juécè, gèng tǐxiàn zài guānjiàn shíkè qīnzì kàoqián zhǐhuī de wùshí zuòfēng. Kànghóng-qiǎngxiǎn yǔ zhòngdà kēyán gōngguān yíxiàn, zhǐhuīguān qīnzì dàiduì shēnrù zuì jiānkǔ de xiànchǎng, jídà gǔwǔ le quányuán shìqì, wèi huàjiě wēijī yíngdé le bǎoguì xiānjī. | Outstanding leadership is shown not only in foresight, but in taking charge in person at critical moments. Leading teams to frontlines of floods or research breakthroughs inspires morale, winning precious ground in resolving crises. | El liderazgo insigne se refleja tanto en la visión de futuro como en asumir el mando en persona durante momentos decisivos. Cuando los mandos guían al equipo sobre el terreno, levantan la moral y toman la delantera ante las dificultades.

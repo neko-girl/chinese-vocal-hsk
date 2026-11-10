@@ -1,0 +1,64 @@
+id: 33
+hanzi: 资料
+pinyin: zī liào
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: data; material; information; reference documents; resources
+  es: datos; material; información; documentación; fuentes de referencia
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | factual information, archival documents, statistics, or reference sources collected for study or work | información factual, documentos de archivo, estadísticas o fuentes de consulta reunidas para el trabajo | 搜集第一手资料 (collect firsthand material)
+  2 | Noun | Formal | material means or resources for production or living | medios de producción o subsistencia material para la vida | 生产资料与生活资料 (means of production and means of subsistence)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了撰写毕业论文，他在图书馆查阅了大量的历史档案资料，做了厚厚三大本读书笔记。 | Wèile zhuànxiě bìyè lùnwén, tā zài túshūguǎn cháyuè le dàliàng de lìshǐ dàng'àn zīliào, zuò le hòuhòu sān dà běn dúshū bǐjì. | To write his thesis, he consulted a large volume of historical archival material in the library, filling three thick notebooks. | Para redactar su tesis, consultó copiosa documentación de archivo en la biblioteca, llenando tres gruesos cuadernos de notas.
+  #2 | 学者们通过比对鲁迅日记与民国报刊资料，系统还原了他当年在京沪两地的交往脉络与餐饮开销。 | Xuézhěmen tōngguò bǐduì Lǔ Xùn rìjì yǔ Mínguó bàokān zīliào, xìtǒng huányuán le tā dāngnián zài Jīng-Hù liǎng dì de jiāowǎng màiluò yǔ cānyǐn kāixiāo. | By comparing Lu Xun's diaries with Republican newspaper records, scholars systematically reconstructed his social network and dining expenses. | Cotejando los diarios de Lu Xun con la hemeroteca republicana, los expertos reconstruyeron su red de amistades y sus cuentas gastronómicas.
+
+collocations[6]{hanzi,en}:
+  收集资料 | collect information/data
+  第一手资料 | firsthand material/data
+  参考资料 | reference materials
+  档案资料 | archival records
+  资料齐全 | complete documentation
+  生产资料 | means of production
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  引经据典 | yǐn jīng jù diǎn | quote classic texts and cite authoritative sources
+  搜罗殆尽 | sōu luó dài jìn | collect and comb through almost everything thoroughly
+  信而有征 | xìn ér yǒu zhēng | proven true by verifiable evidence and reliable documentation
+  汗牛充栋 | hàn niú chōng dòng | immense volume of books making pack-oxen sweat; voluminous
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  资 | zī | capital; wealth; resources; subsidize; qualifications | capital; recursos; bienes; fondos; títulos | 贝 | shell / money | 贝 (cowrie shell / monetary currency) | 次 (cì, second / orderly sequence) | 9 | 上下结构 | Phono-semantic character where valuable cowrie shell wealth 贝 provides necessary capital resources. | Neatly stacked cowrie coins (贝) supply the vital financial capital and resources (资) for projects. | Monedas de concha (贝) apiladas con orden brindan el capital y los fondos necesarios (资). | 55 | MOBU | ""
+  料 | liào | material; grain; measure; expect; foresee | materia; material; grano; calcular; prever | 斗 | peck / measure | 斗 (peck measuring ladle) | 米 (mǐ, rice grain to be measured) | 10 | 左右结构 | Ideogram showing measuring out rations of grain 米 using a volumetric wooden peck ladle 斗, meaning material rations. | Using a wooden measuring ladle (斗) to scoop out grain rations (米) provides raw materials (料). | Con el cazo de medir (斗) se reparte la ración de grano (米), suministrando la materia prima (料). | 51 | FDYJ | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Gather your informational capital resources (资) and measure raw facts like grain (料) to compile research data (资料).
+  composite_memory_hook_es: Reúne tus recursos de información (资) y mide los datos como grano (料) para compilar documentación (资料).
+  cultural_and_cognitive_roots: Combining economic funds (资) with measured physical ingredients (料); expanded in modern lexicography to encompass intellectual resources and data.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'zī liào' (55-51). Articulate 'zī' on level pitch 55, then descend firmly on 'liào'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    姿 | zī | posture; gesture | Has woman radical 女 at bottom instead of 贝
+    科 | kē | branch of study | Has 禾 on left instead of 米 in 料
+    抖 | dǒu | shake; tremble | Has hand radical 扌 on left instead of 米
+    斜 | xié | slanted; oblique | Has 余 on left instead of 米
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    材 | cái | timber; raw material; talent
+    据 | jù | evidence; grasp with hand
+    籍 | jí | records; books on bamboo
+    案 | àn | case table; legal records
+
+semantic_boundary_contrasts:
+  core_nuance: 资料 emphasizes factual, textual, or statistical reference inputs collected for research, writing, or practical production.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 资料 vs. 材料 | cáiliào | 材料 emphasizes physical substances used in manufacture (steel, wood) or written drafts, while 资料 emphasizes intellectual data and reference documents.
+    2 | 资料 vs. 信息 | xìnxī | 信息 refers to dynamic real-time communication signals, messages, or news data, while 资料 denotes compiled reference documents and dossiers.
+    3 | 资料 vs. 数据 | shùjù | 数据 strictly refers to quantitative numerical figures, metrics, and computer bits, while 资料 includes qualitative texts and images.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 学术研究是一场板凳甘坐十年冷的漫长探索。学者为了弄清一个历史细节，往往需要在浩瀚如烟海的古籍资料中反复搜求、比对考证。正是在这一份份泛黄的档案资料里，历史那模糊的面庞才一点点变得清晰可感。 | Xuéshù yánjiū shì yì chǎng bǎndèng gānzuò shí nián lěng de màncháng tànsuǒ. Xuézhě wèile nòngqīng yí ge lìshǐ xìjié, wǎngwǎng xūyào zài hàohàn rú yānhǎi de gǔjí zīliào zhōng fǎnfù sōuqiú, bǐduì kǎozhèng. Zhèng shì zài zhè yífènfèn fànhuáng de dàng'àn zīliào lǐ, lìshǐ nà móhu de miànpáng cái yìdiǎndiǎn biàn de qīngxī kě gǎn. | Scholarship is a patient decade-long pursuit. To clarify a single historical detail, researchers sift through seas of ancient documents, comparing evidence. In these yellowed archival records, history's blurred face gradually becomes distinct. | La investigación académica exige años de paciente estudio. Para esclarecer un pormenor histórico, el sabio escudriña legajos antiguos cotejando datos. Es en esa documentación amarillenta donde el rostro borroso del pasado cobra nitidez.
+  #2 | 在数字化大数据时代，保护个人敏感资料与数据安全已上升为国家战略。相关法律法规严格规范互联网企业对用户个人信息资料的采集、存储与跨境传输行为，依法严厉打击非法买卖公民资料犯罪，全面筑牢数字经济时代的信息安全堤坝。 | Zài shùzìhuà dàshùjù shídài, bǎohù gèrén mǐngǎn zīliào yǔ shùjù ānquán yǐ shàngshēng wéi guójiā zhànlüè. Xiāngguān fǎlǜ fǎguī yángé guīfàn hùliánwǎng qǐyè duì yònghù gèrén xìnxī zīliào de cǎijí, cúnchǔ yǔ kuàjìng chuánshū xíngwéi, yīfǎ yánlì dǎjī fēifǎ mǎimài gōngmín zīliào fànzuì, quánmiàn zhùláo shùzì jīngjì shídài de xìnxī ānquán dībà. | In the big data era, protecting sensitive personal information has become a national strategy. Strict laws regulate collection, storage, and cross-border transfer of user data by tech firms, cracking down on illegal trafficking to fortify security. | En la era de los macrodatos, proteger la información sensible es una prioridad nacional. Las leyes regulan la recogida y almacenamiento de datos por firmas tecnológicas y penalizan el tráfico de expedientes, blindando la seguridad digital.

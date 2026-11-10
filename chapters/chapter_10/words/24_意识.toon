@@ -1,0 +1,64 @@
+id: 24
+hanzi: 意识
+pinyin: yì shí
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to realize; to become aware; consciousness; awareness
+  es: darse cuenta; percatarse; conciencia; conocimiento
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to realize, perceive, or become conscious of a fact, risk, or situation | percatarse, tomar conciencia o darse cuenta de un hecho o peligro | 意识到问题的严重性 (realize the gravity of the problem)
+  2 | Noun | Standard | mental awareness, consciousness, or perception of the external world | facultad de la mente de percibir la realidad, estado de lucidez o sentido de alerta | 增强环保意识 (strengthen environmental awareness)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走出大门走了好一段路，他才突然意识到自己把家里的钥匙忘在客厅茶几上了。 | Zǒuchū dàmén zǒu le hǎo yí duàn lù, tā cái tūrán yìshí dào zìjǐ bǎ jiā lǐ de yàoshi wàng zài kètīng chájī shàng le. | After walking quite a distance outside, he suddenly realized he had left his house keys on the living room table. | Tras caminar un buen trecho al salir a la calle, se percató de repente de que había dejado las llaves de casa en la mesita del salón.
+  #2 | 在野外徒步探险活动中，每一位队员都必须具备高度的安全防范意识与团队协作精神。 | Zài yěwài túbù tànxiǎn huódòng zhōng, měi yí wèi duìyuán dōu bìxū jùbèi gāodù de ānquán fángfàn yìshí yǔ tuánduì xiézuò jīngshén. | During outdoor trekking expeditions, every team member must possess heightened safety awareness and team cooperation. | En expediciones senderistas al aire libre, cada miembro debe contar con una elevada conciencia preventiva y espíritu de equipo.
+
+collocations[6]{hanzi,en}:
+  意识到 | become aware of / realize
+  环保意识 | environmental awareness
+  安全意识 | safety awareness
+  失去意识 | lose consciousness / faint
+  防范意识 | precautionary awareness
+  潜意识 | subconscious mind
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  潜移默化 | qián yí mò huà | exert a subtle, imperceptible influence over time
+  恍然大悟 | huǎng rán dà wù | suddenly see the light; sudden dawn of realization
+  知觉敏锐 | zhī jué mǐn ruì | keen sensory perception and alert awareness
+  居安思危 | jū ān sī wēi | in peacetime think of danger; remain vigilant
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  意 | yì | meaning; mind; intention; consciousness | significado; intención; mente; deseo | 心 | heart / mind | 音 (inner voice) + 心 (heart/mind) | 意 (yì) | 13 | 上下结构 | An internal voice 音 rising from deep within the human heart 心; denotes intention, thoughts, or consciousness. | An inner voice (音) whispers deep inside the heart (心), creating conscious thought (意). | Una voz interior (音) susurra en el hondón del corazón (心) forjando el pensamiento (意). | 51 | YTAIP | ""
+  识 | shí | know; recognize; knowledge; perception | conocer; distinguir; saber; conocimiento | 讠 | speech | 讠 (spoken words/thought expression) | 只 (zhǐ, weapon banner / marker / phonetic) | 7 | 左右结构 | Speech radical 讠 paired with an insignia marker 只; to recognize, discriminate, or record knowledge. | Words (讠) label markers (只) so that the mind recognizes and identifies them (识). | Las palabras (讠) nombran señales (只) para que el juicio las reconozca con lucidez (识). | 35 | IVRC | 識
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When internal thoughts (意) recognize and identify external realities (识), conscious awareness awakes (意识).
+  composite_memory_hook_es: Cuando la mente interna (意) reconoce y discierne lo externo (识), brota la conciencia (意识).
+  cultural_and_cognitive_roots: Adopted in Buddhist epistemic philosophy (Vijñāna / 唯识宗) to translate sensory and cognitive awareness, later becoming the standard psychological term.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by rising second tone: 'yì shí' (51-35). Descend sharply on 'yì', then climb up clearly on 'shí'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    思 | sī | think; ponder | Has field 田 atop heart 心 instead of 音 in 意
+    息 | xī | breath; rest | Has nose 自 atop 心
+    织 | zhī | weave; knit | Has silk radical 纟 on left instead of 讠 in 识
+    炽 | chì | blazing; fierce fire | Has fire radical 火 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    知 | zhī | know; be cognizant
+    觉 | jué | feel; awaken to sense
+    悟 | wù | apprehend; enlighten
+    想 | xiǎng | ponder; imagine in mind
+
+semantic_boundary_contrasts:
+  core_nuance: 意识 covers cognitive perception of reality (verb: to realize) as well as psychological consciousness (noun: awareness).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 意识 vs. 认识 | rènshi | 认识 refers to knowing a person, understanding objective facts, or cognitive epistemics, while 意识 refers to spontaneous situational realization or philosophical consciousness.
+    2 | 意识 vs. 察觉 | chájué | 察觉 emphasizes early sensory detection of subtle external clues ('察觉到危险'), whereas 意识 highlights internal mental awakening.
+    3 | 意识 vs. 思想 | sīxiǎng | 思想 denotes a structured system of beliefs, ideology, or deep philosophies, while 意识 is basic vigilance or alertness.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着全球气候变化加剧，越来越多的人开始深刻意识到保护地球生态的紧迫性。从日常生活中减少一次性塑料制品的使用，到低碳绿色出行，公众环保意识的觉醒正在汇聚成推动可持续发展的强大动力。 | Suízhe quánqiú qìhòu biànhuà jiājù, yuèláiyuè duō de rén kāishǐ shēnkè yìshí dào bǎohù Dìqiú shēngtài de jǐnpòxìng. Cóng rìcháng shēnghuó zhōng jiǎnshǎo yícìxìng sùliào zhìpǐn de shǐyòng, dào dītàn lǜsè chūxíng, gōngzhòng huánbǎo yìshí de juéxǐng zhèngzài huìjù chéng tuīdòng kěchíxù fāzhǎn de qiángdà dònglì. | As climate change intensifies, people realize the urgency of ecological protection. Reducing single-use plastics and adopting low-carbon travel reflect an awakening environmental consciousness driving sustainability. | Con el cambio climático, más ciudadanos toman conciencia de proteger la ecología. Reducir plásticos y adoptar transportes limpios refleja una conciencia ambiental colectiva que impulsa la sostenibilidad.
+  #2 | 当医生从手术室走出来并宣布伤者已经彻底恢复了清醒意识时，焦急守候在走廊里的家属们终于如释重负。经历了惊心动魄的重症抢救，这个脆弱的生命展现出了顽强的生机，奇迹般地战胜了死神。 | Dāng yīshēng cóng shǒushùshì zǒuchūlái bìng xuānbù shāngzhě yǐjīng chèdǐ huīfù le qīngxǐng yìshí shí, jiāojí shǒuhòu zài zǒuláng lǐ de jiāshǔmen zhōngyú rúshìzhòngfù. Jīnglì le jīngxīn-dòngpò de zhòngzhèng qiǎngjiù, zhè ge cuìruò de shēngmìng zhǎnxiàn chū le wánqiáng de shēngjī, qíjìbān de zhànshèng le sǐshén. | When the doctor announced the patient had regained full consciousness, the family in the corridor felt immense relief. After intensive emergency treatment, fragile life rallied tenaciously to overcome death miraculously. | Al anunciar el cirujano que el herido había recobrado la plena conciencia, la familia en vela suspiró aliviada. Tras una dramática reanimación, la frágil vida venció tenaz y milagrosamente a la muerte.

@@ -1,0 +1,63 @@
+id: 22
+hanzi: 差距
+pinyin: chā jù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: gap; disparity; difference; divergence
+  es: brecha; disparidad; diferencia; distancia
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the distance, difference, or disparity between two entities in level, ability, scale, or quality | distancia, desnivel o desemejanza entre dos entidades en cuanto a nivel, capacidad o calidad | 缩小贫富差距 (narrow the wealth gap)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 虽然我国在一些前沿科技领域取得了突破，但与国际顶尖水平相比仍存在明显差距。 | Suīrán wǒguó zài yìxiē qiányán kējì lǐngyù qǔdé le tūpò, dàn yǔ guójì dǐngjiān shuǐpíng xiāngbǐ réng cúnzài míngxiǎn chājù. | Although our country achieved breakthroughs in frontier tech, noticeable gaps remain compared with top global levels. | Pese a los avances nacionales en tecnologías punteras, aún persiste una brecha palpable frente a los estándares mundiales líderes.
+  #2 | 正视自身差距不仅不会让人消沉，反而能激发团队奋发图强的斗志与前进动力。 | Zhèngshì zìshēn chājù bùjǐn bú huì ràng rén xiāochén, fǎn'ér néng jīfā tuánduì fènfā-túqiáng de dòuzhì yǔ qiánjìn dònglì. | Facing one's own shortcomings doesn't cause despair; rather, it spurs a team's fighting spirit to forge ahead. | Afrontar la propia desventaja no induce al desánimo, sino que espolea la combatividad y el empeño del equipo para superarse.
+
+collocations[6]{hanzi,en}:
+  缩小差距 | narrow the gap
+  拉开差距 | widen the distance / pull ahead
+  明显差距 | clear disparity; noticeable gap
+  贫富差距 | wealth gap; income disparity
+  技术差距 | technological disparity
+  存在差距 | exist a gap/difference
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  天壤之别 | tiān rǎng zhī bié | world of difference; difference between heaven and earth
+  相去甚远 | xiāng qù shèn yuǎn | fall far short of; miles apart
+  截然不同 | jié rán bù tóng | entirely different; starkly contrasting
+  平分秋色 | píng fēn qiū sè | share honors equally; on equal footing
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  差 | chā | difference; mistake; fall short | diferencia; error; faltar; discrepancia | 羊 | sheep / ram | 羊 (horns uneven) + 工 (hand measuring) | 差 (chā) | 9 | 上下结构 | Rubbing and threshing ears of grain with unequal lengths, producing divergence, difference, or disparity. | Comparing two ears of grain shows they diverge unevenly, creating a visible difference (差). | Al medir dos espigas de grano se aprecia su longitud dispar, originando una diferencia (差). | 55 | TQM | ""
+  距 | jù | distance; spur; be apart from | distancia; espolón; distar de; separación | 足 | foot | 足 (foot/stride) | 巨 (jù, carpenter square / huge / phonetic) | 12 | 左右结构 | Foot radical 足 paired with 巨 (carpenter square measuring span); measuring spatial distance paced out by footsteps. | A foot (足) paces out strides measured by a ruler (巨) to establish distance (距). | Un pie (足) mide pasos con una escuadra (巨) para fijar la distancia (距). | 51 | RMSS | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An uneven difference (差) paced out across physical distance (距) constitutes a disparity or gap (差距).
+  composite_memory_hook_es: Una desigualdad de nivel (差) medida en distancia de pasos (距) conforma la brecha (差距).
+  cultural_and_cognitive_roots: Metrology pairing: 差 (disparity in quality or measure) combined with 距 (linear span between benchmarks).
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'chā jù' (55-51). Hold high pitch 55 on 'chā', then drop down to 51 on 'jù'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    着 | zhe | aspect particle; touch | Has 目 underneath 羊-like top instead of 工 in 差
+    羞 | xiū | shy; shame | Has 丑 underneath 羊
+    拒 | jù | refuse; reject | Has hand radical 扌 on left instead of foot 足 in 距
+    矩 | jǔ | carpenter square; rule | Has arrow radical 矢 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    别 | bié | distinction; separate
+    异 | yì | different; abnormal
+    离 | lí | separate; distance apart
+    隔 | gé | partition; divide
+
+semantic_boundary_contrasts:
+  core_nuance: 差距 emphasizes the measurable developmental or statistical distance between two levels, standards, or entities.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 差距 vs. 差异 | chāyì | 差异 denotes qualitative differences in characteristics or styles (cultural differences), while 差距 emphasizes quantitative disparity in level or quality.
+    2 | 差距 vs. 距离 | jùlí | 距离 primarily designates physical spatial length between coordinates ('两地距离五公里'), while 差距 is comparative disparity.
+    3 | 差距 vs. 区别 | qūbié | 区别 distinguishes features that make two things non-identical, whereas 差距 highlights who is ahead and who is lagging behind.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 推进城乡一体化协调发展的关键，在于有效缩小城乡基础设施与公共服务领域的差距。政府通过持续加大对乡村教育、医疗与交通电网的财政扶持力度，让广大农民群众切实享受到现代化建设带来的发展成果。 | Tuījìn chéng-xiāng yītǐhuà xiétiáo fāzhǎn de guānjiàn, zàiyú yǒuxiào suōxiǎo chéng-xiāng jīchǔ shèshī yǔ gōnggòng fúwù lǐngyù de chājù. Zhèngfǔ tōngguò chíxù jiàdà duì xiāngcūn jiàoyù, yīliáo yǔ jiāotōng diànwǎng de cáizhèng fúchí lìdù, ràng guǎngdà nóngmín qúnzhòng qièshí xiǎngshòudào xiàndàihuà jiànshè dàilái de fāzhǎn chéngguǒ. | The key to balanced urban-rural development lies in narrowing disparities in infrastructure and public services. Fiscal support for rural education, healthcare, and transit ensures farmers share in modernization fruits. | La clave de la integración urbano-rural radica en acortar la brecha de infraestructuras y servicios públicos. El apoyo fiscal a la enseñanza, sanidad y vías rurales permite al campesinado disfrutar del progreso moderno.
+  #2 | 在激烈的国际产业竞争中，企业必须时刻保持居安思危的忧患意识。只有清醒地看到自身在基础工业软件和原创专利上的差距，沉下心来加大研发投入攻坚克难，才能逐步打破垄断，实现产业链的自主可控。 | Zài jīliè de guójì chǎnyè jìngzhēng zhōng, qǐyè bìxū shíkè bǎochí jū'ān-sīwēi de yōuhuàn yìshí. Zhǐyào qīngxǐng de kàndào zìshēn zài jīchǔ gōngyè ruǎnjiàn hé yuánchuàng zhuānlì shàng de chājù, chénxiàxīnlái jiàdà yánfā tóurù gōngjiān-kènán, cáinéng zhúbù dǎpò lǒngduàn, shíxiàn chǎnyèliàn de zìzhǔ kěkòng. | Amidst fierce global competition, firms must maintain crisis awareness. Only by acknowledging gaps in foundational software and patents, and investing in R&D, can they break monopolies and secure autonomous supply chains. | Ante la enconada competencia internacional, las empresas deben vigilar riesgos latentes. Reconociendo su desventaja en patentes y redoblando la inversión en I+D, quebrarán monopolios afianzando cadenas de suministro.

@@ -1,0 +1,63 @@
+id: 21
+hanzi: 光临
+pinyin: guāng lín
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to honor with one's presence; to visit; to frequent (polite honorific)
+  es: honrar con su presencia; visitar; acudir (fórmula de cortesía)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Formal / Honorific | polite honorific expression used by hosts, shops, or institutions welcoming guests or patrons | expresión cortés empleada por anfitriones o comercios para agradecer la presencia o llegada de clientes | 欢迎光临 (welcome to our shop/establishment)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 画廊开幕典礼上，馆长站在大厅前热情迎接各位艺术界同仁与收藏家的光临指导。 | Huàláng kāimù diǎnlǐ shàng, guǎnzhǎng zhàn zài dàtīng qián rèqíng yíngjiē gèwèi yìshùjiè tóngrén yǔ shōucángjiā de guānglín zhǐdǎo. | At the gallery opening ceremony, the curator stood before the hall welcoming the presence and guidance of art peers and collectors. | En la inauguración de la galería, el director aguardaba en el vestíbulo agradeciendo la presencia y las luces de colegas y coleccionistas.
+  #2 | 北京宣武门外的那家绍兴餐馆，因鲁迅等知名文人墨客的频繁光临而声名远扬，门庭若市。 | Běijīng Xuānwǔmén wài de nà jiā Shàoxīng cānguǎn, yīn Lǔ Xùn děng zhīmíng wénrén-mòkè de pínfán guānglín ér shēngmíng yuǎnyáng, méntíng-ruòshì. | That Shaoxing diner outside Beijing's Xuanwumen gained renown and bustling patronage due to frequent visits by Lu Xun and prominent writers. | Aquel mesón de Shaoxing en Pekín cobró gran fama y bullicio gracias a las asiduas visitas de Lu Xun y célebres literatos.
+
+collocations[6]{hanzi,en}:
+  欢迎光临 | welcome; please come in
+  光临指导 | honor us with your presence and guidance
+  敬请光临 | cordially invite you to attend
+  光临寒舍 | grace my humble home with your visit
+  频频光临 | frequently visit / patronize
+  感谢光临 | thank you for your presence
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  蓬荜生辉 | péng bì shēng huī | your presence adds luster to my humble abode
+  扫径以待 | sǎo jìng yǐ dài | sweep path to await the arrival of an esteemed guest
+  如雷贯耳 | rú léi guàn ěr | reverberate like thunder; renowned name
+  宾至如归 | bīn zhì rú guī | guests feel at home; warm hospitality
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  光 | guāng | light; ray; glory; honor; bare | luz; rayo; gloria; honor; desnudo | 儿 | legs | 火 (fire/torch) | 儿 (legs of a kneeling torchbearer) | 6 | 上下结构 | Oracle bone pictogram showing a person kneeling with a bright burning torch 火 upon their head, emitting radiance and honor. | A kneeling attendant raises a blazing torch (火) over their head to cast bright light and honor (光) upon visitors. | Un criado de rodillas alza una antorcha encendida (火) sobre la cabeza para alumbrar y honrar (光) al forastero. | 55 | FMU | ""
+  临 | lín | approach; overlook; arrive; descend | acercarse; asomarse; llegar; descender | 丨 | vertical line | 臣 (eye looking down) + 𠂉 (human figure) | 品 (three items inspected below) | 9 | 左右结构 | Ideogram showing an official's eye 臣 gazing downward from a height upon subjects below, meaning to arrive from above. | An esteemed noble gaze (臣) turns downward as an honored dignitary arrives and descends (临) into the hall. | La mirada atenta (臣) desciende desde lo alto mientras el ilustre personaje llega y se asoma (临) al salón. | 35 | LLNW | 臨
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Your glorious radiance (光) arrives to illuminate (临) our humble hall, honoring us with your presence (光临).
+  composite_memory_hook_es: Tu benévola luz (光) desciende y llega (临) a colmar nuestra casa, honrándonos con tu visita (光临).
+  cultural_and_cognitive_roots: Derived from classical Chinese epistolary and court etiquette; visitors were conceptualized as bringing solar luster ('guānghuī') into an otherwise dark, rustic abode.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by rising tone: 'guāng lín' (55-35). Hold 'guāng' steadily at high pitch 55, then glide smoothly upward into 2nd tone 'lín'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    先 | xiān | first; early | Has horizontal crossbar inside bottom legs instead of fire-like top
+    鉴 | jiàn | inspect; mirror | Has 金 at bottom of 监/临 structures
+    览 | lǎn | survey; view | Has 见 at bottom instead of the right strokes of 临
+    严 | yán | strict; severe | Has 一 at top instead of left-right division
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    到 | dào | arrive at destination
+    访 | fǎng | visit; inquire respectfully
+    顾 | gù | look back; patronize customer-wise
+    至 | zhì | reach; arrive like arrow hitting mark
+
+semantic_boundary_contrasts:
+  core_nuance: 光临 is an honorific verb used solely to praise or welcome the arrival of guests, clients, or superiors.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 光临 vs. 来到 | láidào | 来到 is a neutral factual verb ('he arrived at the station'), while 光临 is strictly an honorific formula ('welcome your esteemed arrival').
+    2 | 光临 vs. 拜访 | bàifǎng | 拜访 is spoken by the visitor describing their own respectful visit to another ('我去拜访老师'), while 光临 is spoken by the host to the visitor.
+    3 | 光临 vs. 光顾 | guānggù | 光顾 is used specifically in commercial transactions welcoming patrons to spend money, while 光临 applies broadly to ceremonies, banquets, and homes.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古人扫径以待远客，一席粗茶便足慰平生。当挚友踏雪而来叩响柴扉，主家满心欢喜相迎，那句发自肺腑的欢迎光临，绝非市井虚辞，而是高山流水般的知音相惜。灯火可亲的庭院里，酒香胜过千言万语。 | Gǔrén sǎojìng-yǐdài yuǎnkè, yì xí chūchá biàn zú wèi píngshēng. Dāng zhìyǒu tàxuě-érlái kòuxiǎng cháifēi, zhǔjiā mǎnxīn huānxǐ xiāngyíng, nà jù fāzì-fèifǔ de huānyíng guānglín, juéfēi shìjǐng xūcí, ér shì gāoshān-liúshuǐ bān de zhīyīn xiāngxī. Dēnghuǒ-kěqīn de tíngyuàn lǐ, jiǔxiāng shèngguò qiānyán-wànyǔ. | Ancients swept paths awaiting guests; simple tea consoled life. When a dear friend knocks through the snow, welcoming them is no empty commercial greeting, but deep resonance. By warm lamplight, the wine aroma outshines all words. | Los antiguos barrían la senda aguardando amigos; un té bastaba para festejar la vida. Cuando el allegado llama a la puerta sobre la nieve, darle la bienvenida no es fórmula hueca, sino complicidad de almas afines al calor de la lumbre.
+  #2 | 在现代高端服务业竞争中，真诚周到的礼仪规范是树立品牌口碑的核心要素。星级酒店与国际航空通过持续优化客户体验，将温馨专业的光临问候融入每一个服务触点，让来自五湖四海的旅客在异乡也能深切感受到宾至如归的尊崇与关怀。 | Zài xiàndài gāoduān fúwùyè jìngzhēng zhōng, zhēnchéng zhōudào de lǐyí guīfàn shì shùlì pǐnpái kǒubēi de héxīn yàosù. Xīngjí jiǔdiàn yǔ guójì hángkōng tōngguò chíxù yōuhuà kèhù tǐyàn, jiāng wēnxīn zhuānyè de guānglín wènhòu róngrù měi yí ge fúwù chùdiǎn, ràng láizì wǔhú-sìhǎi de lǚkè zài yìxiāng yě néng shēnqiè gǎnshòudào bīnzhì-rúguī de zūnchóng yǔ guānhuái. | In high-end hospitality, sincere etiquette builds brand reputation. Luxury hotels integrate professional welcomes into every service touchpoint, allowing travelers from afar to feel the warmth, respect, and belonging of a home away from home. | En la hostelería de alto nivel, la cortesía sincera cimenta la reputación. Los hoteles y aerolíneas incorporan una acogida profesional en cada detalle, haciendo que el viajero foráneo experimente la consideración y el calor de sentirse como en casa.

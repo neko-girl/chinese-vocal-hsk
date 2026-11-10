@@ -1,0 +1,64 @@
+id: 26
+hanzi: 试验
+pinyin: shì yàn
+level: HSK 5
+part_of_speech: Noun / Verb
+
+meanings_summary:
+  en: experiment; test; trial; to test; to experiment
+  es: experimento; ensayo; prueba; probar; ensayar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a scientific test, trial, or experiment carried out to discover, verify, or demonstrate something | ensayo, prueba empírica o experimento científico realizado para comprobar o demostrar algo | 科学试验 (scientific experiment)
+  2 | Verb | Standard | to put to test, run trials on, or experimentally verify equipment or theories | poner a prueba, ensayar o verificar experimentalmente equipos o teorías | 试验新机器 (test a new machine)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了验证杂交水稻耐盐碱的特性，农科院专家在沿海滩涂进行了连续三年的田间试验。 | Wèile yànzhèng zájiāo shuǐdào nài yánjiǎn de tèxìng, Nóngkēyuàn zhuānjiā zài yánhǎi tāntú jìnxíng le liánxù sān nián de tiánjiān shìyàn. | To verify saline-alkali resistance of hybrid rice, agronomy experts carried out field trials on coastal mudflats for three years. | Para comprobar la tolerancia al salitre del arroz híbrido, agrónomos realizaron ensayos en marismas litorales durante tres años.
+  #2 | 新型客机在正式投入商业运营前，必须通过数千小时极其严苛的试飞试验与极端环境测试。 | Xīnxíng kèjī zài zhèngshì tóurù shāngyè yùnyíng qián, bìxū tōngguò shùqiān xiǎoshí jíqí yánkē de shìfēi shìyàn yǔ jíduān huánjìng cèshì. | Before commercial passenger flights, new airliners must pass thousands of hours of rigorous flight trials and extreme weather tests. | Antes de operar comercialmente, los nuevos aviones de pasajeros deben superar miles de horas de rigurosos vuelos de prueba.
+
+collocations[6]{hanzi,en}:
+  临床试验 | clinical trial
+  试验田 | experimental plot; testing ground
+  试验品 | test product; trial article
+  科学试验 | scientific experiment/trial
+  试验阶段 | experimental/trial phase
+  模拟试验 | simulation test; mock trial
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  屡试不爽 | lǚ shì bù shuǎng | tested many times and never fails; foolproof
+  实践检验 | shí jiàn jiǎn yàn | testing through actual practical experience
+  身体力行 | shēn tǐ lì xíng | practice personally what one preaches
+  切实验证 | qiè shí yàn zhèng | verify rigorously through facts
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  试 | shì | try; test; experiment; exam | probar; ensayar; examen; intentar | 讠 | speech | 讠 (inquire with speech/questions) | 式 (shì, model/standard / phonetic) | 8 | 左右结构 | Spoken words 讠 tested against a set pattern or standard rule 式; to evaluate, assay, or try out. | Measuring words (讠) against a standard template (式) tests (试) their validity. | Confrontar palabras (讠) con una pauta patrón (式) sirve para probar (试) su exactitud. | 51 | IVIP | 試
+  验 | yàn | examine; check; verify; effective | verificar; comprobar; examinar; eficaz | 马 | horse | 马 (examining physical traits of horses) | 佥 (qiān, all together / phonetic carrier) | 10 | 左右结构 | Horse radical 马 paired with 佥 (thoroughly assembled); thoroughly checking a horse's teeth and gait to verify pedigree. | Inspectors examine a fine horse (马) from head to hoof to verify (验) its strength. | Un perito examina al corcel (马) de pies a cabeza para verificar (验) su brío y salud. | 51 | NMSOI | 驗
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Trying out a model (试) and verifying results on a test subject (验) constitutes an experiment (试验).
+  composite_memory_hook_es: Probar un modelo patrón (试) y verificar resultados fehacientes (验) conforma el ensayo (试验).
+  cultural_and_cognitive_roots: Scientific methodology term coined in modern Chinese: 试 (tentative testing) + 验 (verifying concrete outcomes).
+  tone_sandhi_and_pitch_modulation: Double falling fourth tones: 'shì yàn' (51-51). Descend firmly on 'shì', then drop sharply again on 'yàn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    拭 | shì | wipe away tears | Has hand radical 扌 on left instead of speech 讠 in 试
+    弑 | shì | slay one's sovereign | Has weapon 弋 component
+    脸 | liǎn | face | Has flesh radical 月 on left of 佥 instead of horse 马 in 验
+    险 | xiǎn | danger; hazard | Has hill radical 阝 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    考 | kǎo | examine; scrutinize
+    查 | chá | inspect; investigate
+    测 | cè | fathom; measure water
+    核 | hé | audit; check seed/core
+
+semantic_boundary_contrasts:
+  core_nuance: 试验 focuses on exploratory practical trials conducted to develop, verify, or improve products and machines.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 试验 vs. 实验 | shíyàn | 实验 emphasizes controlled scientific lab procedures to deduce natural laws ('物理实验', '化学实验'), while 试验 refers to practical performance trials of tools, crops, or prototypes.
+    2 | 试验 vs. 考试 | kǎoshì | 考试 designates formal academic tests evaluating students' mastery, whereas 试验 tests things or machines.
+    3 | 试验 vs. 检验 | jiǎnyàn | 检验 focuses on inspecting already manufactured goods to ensure they meet existing quality criteria, while 试验 is exploratory.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在航空航天领域，每一次新型发动机的研发都要经历数以千计的严苛试验。科研人员在超音速风洞中反复模拟极端气流与超高温环境，细致采集各项核心数据，为国之重器的安全升空打下坚实基础。 | Zài hángkōng-hángtiān lǐngyù, měi yí cì xīnxíng fādòngjī de yánfā dōuyào jīnglì shùyǐqiānzhì de yánkē shìyàn. Kēyán rényuán zài chāoyīnsù fēngdòng zhōng fǎnfù mónǐ jíduān qìliú yǔ chāogāowēn huánjìng, xìzhì cǎijí gèxiàng héxīn shùjù, wèi guózhīzhòngqì de ānquán shēngkōng dǎxià jiānshí jīchǔ. | In aerospace, developing each new engine undergoes thousands of severe trials. Researchers simulate extreme airflow in supersonic wind tunnels, collecting data to safeguard liftoffs. | En la ingeniería aeroespacial, el desarrollo de turbinas afronta miles de rigurosos ensayos. En túneles supersónicos se simulan corrientes y calor extremos reuniendo datos clave para el vuelo seguro.
+  #2 | 科学探索的道路往往伴随着无数次试验的失败与挫折。发明家爱迪生在寻找理想灯丝的过程中，试验了上千种耐热植物纤维与金属材料。正是在一次次看似没有希望的尝试中，才最终迎来了照亮黑暗的伟大突破。 | Kēxué tànsuǒ de dàolù wǎngwǎng bànsuí zhe wúshù cì shìyàn de shībài yǔ cuòzhé. Fāmíngjiā Àidíshēng zài xúnzhǎo lǐxiǎng dēngsī de guòchéng zhōng, shìyàn le shàngqiān zhǒng nàirè zhíwù xiānwéi yǔ jīnshǔ cáiliào. Zhèngshì zài yícìcì kànsì méiyǒu xīwàng de chángshì zhōng, cái zuìzhōng yínglái le zhàoliàng hēi'àn de wěidà tūpò. | Scientific exploration is paved with failures across countless trials. In search of the ideal filament, Edison tested thousands of materials. Persisting through unpromising attempts, he achieved light. | La senda científica está jalonada de tropiezos en incontables ensayos. Para hallar el filamento idóneo, Edison ensayó miles de fibras y metales, coronando una gesta que iluminó las tinieblas.

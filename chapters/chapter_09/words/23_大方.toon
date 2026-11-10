@@ -1,0 +1,65 @@
+id: 23
+hanzi: 大方
+pinyin: dà fang
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: generous; open-handed; natural and poised; tasteful; in good taste
+  es: generoso; desprendido; natural; suelto; elegante; de buen gusto
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | generous and open-handed with money or goods, not stingy or penny-pinching | generoso, desprendido y liberal con el dinero o las pertenencias; nada tacaño | 出手很大方 (very generous when spending)
+  2 | Adjective | Standard | natural, poised, and unconstrained in manner and speech; free from awkward self-consciousness | desenvuelto, natural y con aplomo en los modales; sin timidez ni afectación | 举止大方 (poised and natural deportment)
+  3 | Adjective | Standard | tasteful, elegant, simple, and not gaudy in visual design or dress | elegante, sobrio, de buen tono y no recargado en el vestir o el diseño | 衣着大方 (tastefully dressed)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 新来的主持人举止优雅落落大方，在聚光灯前毫不怯场，赢得了全场观众的喝彩。 | Xīnlái de zhǔchírén jǔzhǐ yōuyǎ luòluò-dàfang, zài jùguāngdēng qián háobù qièchǎng, yíngdé le quánchǎng guānzhòng de hècǎi. | The newly arrived presenter was elegant, poised, and perfectly natural, without stage fright under the spotlights, winning applause. | La nueva presentadora mostró soltura y porte distinguido, sin amilanarse ante los focos y arrancando los aplausos del público.
+  #2 | 鲁迅先生为人极其豪爽大方，每逢青年作家囊中羞涩求助，他总是慷慨解囊资助出版与生活。 | Lǔ Xùn xiānsheng wéirén jíqí háoshuǎng dàfang, měiféng niánqīng zuòjiā nángzhōng-xiūsè qiúzhù, tā zǒng shì kāngkǎi-jiěnáng zīzhù chūbǎn yǔ shēnghuó. | Mr. Lu Xun was remarkably frank and generous; whenever young struggling writers sought help, he always opened his purse liberally for them. | Lu Xun era sumamente desprendido y generoso; cuando jóvenes escritores apurados pedían auxilio, él costeaba sus ediciones y manutención.
+
+collocations[6]{hanzi,en}:
+  出手大方 | spend generously
+  举止大方 | natural and poised deportment
+  落落大方 | graceful and unconstrained
+  为人很大方 | very generous in character
+  款式大方 | tasteful and clean design style
+  穿着大方 | tastefully and decently dressed
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  落落大方 | luò luò dà fāng | natural, poised, and dignified in conduct
+  慷慨解囊 | kāng kǎi jiě náng | generously untie one's purse to give financial help
+  贻笑大方 | yí xiào dà fāng | become a laughingstock to true experts/masters
+  雍容大雅 | yōng róng dà yǎ | poised, dignified, and exquisitely refined
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  大 | dà | big; great; major; expansive | grande; mayor; amplio; noble | 大 | big | 大 (person stretching limbs out) | 大 (dà) | 3 | 单一结构 | Oracle bone pictogram of a fully grown human standing with arms and legs outstretched in majestic breadth. | A person stretches arms wide in noble expansiveness, embracing all things in greatness (大). | Un hombre abre los brazos de par en par con hidalguía, abarcando el espacio con grandeza (大). | 51 | K | ""
+  方 | fang | square; direction; side; upright; rule | cuadrado; rumbo; lado; recto; norma | 方 | square / direction | 方 (plows lashed together square) | 方 (fāng) | 4 | 单一结构 | Ancient ideogram showing two boats or plows lashed square across; represents proper measure and moral uprightness. | A compass points steadily in all four square directions, guiding conduct along righteous paths (方). | La brújula señala con rectitud los cuatro puntos cardinales, orientando el recto proceder (方). | 55 | YHS | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Possessing a broad, great heart (大) and upright moral poise (方) makes one truly generous and poised (大方).
+  composite_memory_hook_es: Tener un corazón magnánimo (大) y modales intachables (方) define a la persona desprendida y elegante (大方).
+  cultural_and_cognitive_roots: Originally rooted in the Daoist Zhuangzi phrase 'dàfāng zhī jiā' (大方之家, master of the great cosmic way); over centuries it evolved into a compliment for unselfish generosity and graceful poise.
+  tone_sandhi_and_pitch_modulation: Falling tone followed by neutral tone: 'dà fang' (51-2). Articulate 'dà' with a crisp falling 4th tone, letting 'fang' fall into an unstressed neutral tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    太 | tài | too; excessive | Has extra dot below between legs of 大
+    犬 | quǎn | dog | Has dot on upper right shoulder of 大
+    万 | wàn | ten thousand | Has no dot at top and right hook instead of vertical
+    斤 | jīn | catty; axe | Has slant stroke on top left instead of dot of 方
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    广 | guǎng | broad; vast shelter
+    博 | bó | extensive; rich; plentiful
+    慷 | kāng | fervent; generous in spirit
+    恺 | kǎi | joyous; benevolent and generous
+
+semantic_boundary_contrasts:
+  core_nuance: 大方 characterizes unselfish open-handedness with wealth, or natural, unconstrained elegance in posture and dress.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 大方 vs. 慷慨 | kāngkǎi | 慷慨 is a literary, elevated adjective specifically emphasizing enthusiastic financial donation or self-sacrifice, while 大方 is broadly used for money, clothes, and natural manner.
+    2 | 大方 vs. 小气 | xiǎoqi | 小气 (stingy / petty) is the direct antonym of 大方 in both financial generosity and personal magnanimity.
+    3 | 大方 vs. 潇洒 | xiāosǎ | 潇洒 emphasizes suave, carefree, dashing charm, while 大方 stresses grounded poise, good taste, and decent generosity.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 做人的最高境界在于大方。对待钱财不斤斤计较，施惠于人而不图回报；与人相处从容坦率，不忸怩作态不卑躬屈膝。这种由内而外生发的大方与舒朗，胜过世间一切矫揉造作的伪装，让人如沐春风倍感踏实。 | Zuòrén de zuìgāo jìngjiè zàiyú dàfang. Duìdài qiáncái bù jīnjīn-jìjiào, shīhuì yú rén ér bù tú huíbào; yǔ rén xiāngchǔ cóngróng tǎnshuài, bù niǔnī-zuòtài bù bēigōng-qūxī. Zhè zhǒng yóu nèi ér wài shēngfā de dàfang yǔ shūlǎng, shèngguò shìjiān yíqiè jiǎoróu-zàozuò de wěizhuāng, ràng rén rúmù-chūnfēng bèi gǎn tàshí. | The highest realm of character is poise and generosity. Not squabbling over pennies, giving without demanding returns, and treating others frankly without servility. This inner magnanimity outshines false pretense like a soothing spring breeze. | La mayor nobleza reside en la generosidad y el aplomo. No regatear pequeñeces, brindar ayuda sin esperar paga y tratar al prójimo con soltura sin dobleces. Esa hidalguía que brota del fondo vale más que fingimientos, regalando sosiego.
+  #2 | 现代极简主义设计强调“简而不陋，素雅大方”。设计师摒弃繁复冗余的雕琢堆砌，通过洗练利落的几何线条与天然材质的质朴肌理，营造出经得起岁月淘洗的空间美感。这种大方得体的审美理念，正深刻引领着当代都市居住风尚。 | Xiàndài jíjiǎn zhǔyì shèjì qiángdiào 'jiǎn ér bú lòu, sùyǎ dàfang'. Shèjìshī bǐngqì fánfù rǒngyú de diāozhuó duīqì, tōngguò xǐliàn lìluò de jǐhé xiàntiáo yǔ tiānrán cáizhì de zhìpǔ jīlǐ, yíngzào chū jīngdeqǐ suìyuè táoxǐ de kōngjiān měigǎn. Zhè zhǒng dàfang-détǐ de shěnmǐ lǐniàn, zhèng shēnkè yǐnlǐng zhe dāngdài dūshì jūzhù fēngshàng. | Minimalist design stresses clean elegance: simple yet tasteful. Stripping superfluous ornamentation, designers use crisp lines and natural textures to build timeless spaces. This tasteful aesthetic profoundly guides contemporary urban living. | El minimalismo moderno apuesta por la sobriedad distinguida. Al prescindir de barroquismos y valerse de líneas depuradas y materiales puros, se conciben espacios de belleza imperecedera. Ese porte sobrio guía hoy las vanguardias del diseño.

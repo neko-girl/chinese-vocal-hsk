@@ -1,0 +1,62 @@
+id: 29
+hanzi: 明明
+pinyin: míng míng
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: obviously; plainly; undoubtedly; clearly; manifestly (often introducing a contrast)
+  es: a todas luces; patentemente; a ojos vistas; evidentemente; cuando es bien sabido que
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | plainly, visibly, or undeniably true; often used before a clause that highlights an unexpected contradiction or denial | manifiestamente, a todas luces o a ojos vistas; suele contraponer una evidencia a una negación injustificada | 明明知道却不说 (obviously know but refuse to say)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 天气预报明明说了今天全天有大暴雨，他出门时却偏偏不带伞，结果被淋成了落汤鸡。 | Tiānqì yùbào míngmíng shuō le jīntiān quántiān yǒu dà bàoyǔ, tā chūmén shí què piānpiān bú dài sǎn, jiéguǒ bèi línchéng le luòtāngjī. | The weather forecast plainly stated heavy rain all day, yet he stubbornly brought no umbrella and got soaked to the bone. | El parte meteorológico anunció claramente aguaceros para todo el día; él salió sin paraguas y acabó empapado como una sopa.
+  #2 | 鲁迅明明患有严重的胃病需要静养忌口，但面对好友热忱的邀约，他依然欣然前往，舍命陪君子。 | Lǔ Xùn míngmíng huànyǒu yánzhòng de wèibìng xūyào jìngyǎng jìkǒu, dàn miànduì hǎoyǒu rèchén de yāoyuē, tā yīrán xīnrán qiánwǎng, shěmìng péi jūnzǐ. | Lu Xun clearly suffered severe gastric troubles requiring diet restrictions, yet facing friends' warm invitations, he still joined happily. | Lu Xun padecía patentemente de males estomacales y debía guardar dieta; aun así, ante la invitación de amigos acudía solícito a departir.
+
+collocations[6]{hanzi,en}:
+  明明知道 | plainly know; know very well
+  明明记得 | distinctly remember
+  明明看见 | plainly saw with one's own eyes
+  事实明明摆着 | the facts are plainly evident
+  明明在撒谎 | obviously lying
+  明明可以 | clearly could have
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  明察秋毫 | míng chá qiū háo | see down to the finest autumn down hair; clear discernment
+  黑白分明 | hēi bái fēn míng | black and white are clearly demarcated; unmistakable
+  洞若观火 | dòng ruò guān huǒ | as clear as looking at a bright blazing fire
+  昭然若揭 | zhāo rán ruò jiē | abundantly manifest; exposed in broad daylight
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  明 | míng | bright; clear; understand; obvious; dawn | claro; brillante; evidente; entender; alba | 日 | sun | 日 (sun) / 囧 (window) | 月 (moon radiance) | 8 | 左右结构 | Ancient ideogram pairing the solar disc 日 with the lunar crescent 月 (or window 囧), symbolizing radiant clarity. | The brilliant sun (日) and glowing moon (月) shine together, illuminating all things with undeniable clarity (明). | El sol radiante (日) y la luna llena (月) brillan juntos, alumbrando la verdad sin sombra de duda (明). | 35 | AB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Reduplicating bright light (明) upon bright clarity (明) makes an undeniable truth obvious and manifest (明明).
+  composite_memory_hook_es: Duplicar la luz clara (明) sobre la claridad evidente (明) hace que la verdad salte a la vista (明明).
+  cultural_and_cognitive_roots: Reduplication of 'míng' intensifies subjective certitude; used in rhetorical discourse when pointing out a glaring contrast between known reality and someone's evasive behavior.
+  tone_sandhi_and_pitch_modulation: Two rising tones: 'míng míng' (35-35). Two steady parallel upward sweeps from mid pitch to high.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    朋 | péng | friend | Has two moons 月 月 side-by-side instead of 日 and 月
+    昭 | zhāo | bright; manifest | Has 召 on right instead of 月
+    旺 | wàng | prosperous | Has 王 on right of 日 instead of 月
+    暗 | àn | dark; obscure | Has 音 on right; direct antonym of 明
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    显 | xiǎn | manifest; visible under sun
+    晰 | xī | clear; split wood under sun
+    彻 | chè | thorough; penetrating; lucid
+    白 | bái | white; clear; in vain
+
+semantic_boundary_contrasts:
+  core_nuance: 明明 is an adverb emphasizing an undeniable fact, almost always set against an unjustified denial or contradictory action.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 明明 vs. 明显 | míngxiǎn | 明显 is an adjective meaning obvious or discernible ('明显的变化'), while 明明 is an adverb modifying verbs with contrastive emphasis ('他明明知道').
+    2 | 明明 vs. 显然 | xiǎnrán | 显然 means evidently or obviously deduced from clues ('显然他是对的'), while 明明 carries an emotional tone of indignation at contradiction.
+    3 | 明明 vs. 明确 | míngquè | 明确 is an adjective/verb meaning explicit, unambiguous, or to clarify ('明确目标'), not an emphatic adverb.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 生活中最令人叹息的隔阂，莫过于彼此明明深爱着对方，却在赌气与沉默中渐行渐远。很多误会明明只需要一句坦诚的解释便能烟消云散，却偏偏被虚荣的面子硬生生演变成了经年遗憾。学会低头，才是成熟的开端。 | Shēnghuó zhōng zuì lìngrén tànxī de géhé, mòguòyú bǐcǐ míngmíng shēn'ài zhe duìfāng, què zài dǔqì yǔ chénmò zhōng jiànxíng-jiànyuǎn. Hěnduō wùhuì míngmíng zhǐ xūyào yí jù tǎnchéng de jiěshì biàn néng yānxiāo-yúnsàn, què piānpiān bèi xūróng de miànzi yìngshēngshēng yǎnbiàn chéng le jīngnián yíhàn. Xuéhuì dītóu, cáishì chéngshú de kāiduān. | Life's saddest distance is when two people clearly love each other yet drift apart in silence. Many misunderstandings plainly need only one sincere word to dissolve, yet pride turns them into regrets. Yielding is the start of maturity. | La mayor desazón surge cuando dos personas se quieren con evidencia, pero se distancian por orgullo. Muchos malentendidos se disiparían con una frase franca, mas la vanidad los torna pesares. Aprender a ceder es el principio de la madurez.
+  #2 | 科研求真最忌讳掩耳盗铃。实验数据明明已经出现了无法自圆其说的反常偏差，个别学者却为了迎合既定课题结论，试图对异常数值进行修饰遮掩。科学的大厦唯有建立在实事求是的铁证之上，任何侥幸弄虚作假终将被历史证伪。 | Kēyán qiúzhēn zuì jìhuì yǎn'ěr-dàolíng. Shíyàn shùjù míngmíng yǐjīng chūxiàn le wúfǎ zìyuán-qíshuō de fǎncháng piānchā, gèbié xuézhě què wèile yínghé jìdìng kètí jiélùn, shìtú duì yìcháng shùzhí jìnxíng xiūshì zhēyǎn. Kēxué de dàshà wéiyǒu jiànlì zài shíshì-qiúshì de tiězhèng zhīshàng, rènhé jiǎoxìng nòngxū-zuòjiǎ zhōng jiāng bèi lìshǐ zhèngwěi. | Scientific rigor abhors self-deception. Experimental data plainly shows anomalous discrepancies, yet some attempt to gloss over them to fit conclusions. Science must stand on ironclad evidence; falsification will inevitably be disproven by history. | En la ciencia está proscrito engañarse. Aunque los datos muestren a todas luces desvíos anómalos, maquillar cifras para encajar hipótesis falsea el rigor. El templo del saber se asienta sobre pruebas de hierro; la trampa sucumbe ante la verdad.

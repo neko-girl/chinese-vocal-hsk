@@ -1,0 +1,63 @@
+id: 24
+hanzi: 好客
+pinyin: hào kè
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: hospitable; friendly to visitors; fond of entertaining guests
+  es: hospitalario; acogedor; generoso con las visitas; amante de agasajar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | enthusiastic, warm, and generous in receiving, entertaining, and lodging guests | cálido, entusiasta y desprendido al recibir, atender y alojar a los visitantes | 热情好客的主人 (warm and hospitable host)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 草原上的牧民纯朴好客，每当有远方的客人骑马到来，总会端出喷香的奶茶和手把肉热情款待。 | Cǎoyuán shàng de mùmín chūnpǔ hàokè, měidāng yǒu yuǎnfāng de kèrén qǐmǎ dàolái, zǒng huì duānchū pēnxiāng de nǎichá hé shǒubàròu rèqíng kuǎndài. | Herdsmen on the grassland are simple and hospitable; whenever travelers arrive on horseback, they serve fragrant milk tea and mutton cordially. | Los pastores de la estepa son hospitalarios y llanos; al llegar viajeros a caballo, siempre sirven té con leche aromático y carnes asadas.
+  #2 | 鲁迅在北京与上海居住期间极度好客，家中常常高朋满座，同乡挚友与求教青年络绎不绝。 | Lǔ Xùn zài Běijīng yǔ Shànghǎi jūzhù qījiān jídù hàokè, jiā zhōng chángcháng gāopéng-mǎnzuò, tóngxiāng zhìyǒu yǔ qiújiào qīngnián luòyì-bùjué. | Lu Xun was exceptionally hospitable in Beijing and Shanghai; his home was constantly filled with distinguished friends and visiting youths. | Lu Xun fue un anfitrión entrañable en Pekín y Shanghái; su morada paraba colmada de paisanos, amigos dilectos y jóvenes aprendices.
+
+collocations[6]{hanzi,en}:
+  热情好客 | warm and hospitable
+  生性好客 | naturally hospitable by disposition
+  好客之邦 | a nation known for hospitality
+  好客的民风 | hospitable folk customs
+  淳朴好客 | honest, simple, and hospitable
+  好客的主人家 | hospitable host family
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  倾囊相助 | qīng náng xiāng zhù | empty one's purse to assist a friend in need
+  高朋满座 | gāo péng mǎn zuò | a hall full of distinguished and noble guests
+  投桃报李 | tóu táo bào lǐ | return a plum when given a peach; reciprocate mutual goodwill
+  倒屣相迎 | dào xǐ xiāng yíng | rush out with shoes on backwards in eager welcome
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  好 | hào | be fond of; love; like (4th tone) | amar; gustar; ser aficionado a (4to tono) | 女 | woman | 女 (woman/mother) | 子 (child) | 6 | 左右结构 | Ancient oracle bone pictogram showing a loving mother 女 embracing her newborn child 子; pronounced hào when expressing fondness. | A fond mother (女) lovingly cradles her sweet child (子), showing deep affection and love (好). | Una madre abnegada (女) abraza a su pequeño (子), reflejando entrañable apego y gusto (好). | 51 | VND | ""
+  客 | kè | guest; visitor; traveler; customer | huésped; invitado; forastero; cliente | 宀 | roof | 宀 (sheltering roof) | 各 (gè, arrival of person from another place) | 9 | 上下结构 | Ideogram showing an individual 各 from another location arriving under the household roof 宀 as a respected guest. | Under the warm roof (宀), travelers from various regions (各) are welcomed as honored guests (客). | Bajo el alero hospitalario (宀), visitantes de diversos confines (各) son acogidos como huéspedes (客). | 51 | JHER | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A generous heart that loves (好, hào) to welcome travelers under the roof as guests (客) is truly hospitable (好客).
+  composite_memory_hook_es: Quien ama de corazón (好, hào) recibir a viajeros bajo su techo como huéspedes (客) es hospitalario (好客).
+  cultural_and_cognitive_roots: Derived from classical Chinese virtue ethics; in ancient China, hosting traveling scholars and wanderers (养客) was considered the supreme badge of chivalric honor and generosity.
+  tone_sandhi_and_pitch_modulation: Two falling tones: 'hào kè' (51-51). Note the crucial 4th tone on 'hào' (meaning 'to be fond of'); do not pronounce as 3rd tone hǎo.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    如 | rú | as if; like | Has 口 on right instead of 子
+    容 | róng | contain; tolerate | Has 谷 below 宀 instead of 各
+    家 | jiā | family | Has pig 豕 below 宀 instead of 各
+    安 | ān | peaceful | Has 女 below 宀 instead of 各
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    嗜 | shì | addicted to; fond of flavor
+    宾 | bīn | esteemed guest; visitor at court
+    朋 | péng | friend; companion; two strings of cowries
+    友 | yǒu | friend; two clasped hands
+
+semantic_boundary_contrasts:
+  core_nuance: 好客 specifically characterizes an enthusiastic, warm disposition toward entertaining visitors and treating guests well.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 好客 vs. 热情 | rèqíng | 热情 is a broad personality trait describing general warmth, zeal, or energy in any situation, while 好客 is restricted to receiving guests and travelers.
+    2 | 好客 vs. 友善 | yǒushàn | 友善 means amicable and kind to others, whereas 好客 specifically implies opening one's home and table to visitors.
+    3 | 好客 vs. 周到 | zhōudào | 周到 emphasizes thorough, flawless attentiveness in service or protocol, while 好客 emphasizes genuine emotional enthusiasm for guests.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 山里人天性纯朴好客，哪怕家境并不宽裕，逢有陌生旅人借宿，也总会杀鸡宰鸭拿出最好的存粮款待。围坐在暖融融的柴火堆旁，听着老人讲述山间古老的传说，那种毫无防备的赤诚与善意，足以驱散长途跋涉的所有严寒。 | Shānlǐ rén tiānxìng chūnpǔ hàokè, nǎpà jiājìng bìng bù kuānyù, féng yǒu mòshēng lǚrén jièsù, yě zǒng huì shājī-zǎiyā ná chū zuì hǎo de cúnliáng kuǎndài. Wéizuò zài nuǎnróngróng de cháihuǒduī páng, tīng zhe lǎorén jiǎngshù shānjiān gǔlǎo de chuánshuō, nà zhǒng háowú-fángbèi de chìchéng yǔ shànyì, zúyǐ qūsàn chángtú bǎshè de suǒyǒu yánhán. | Mountain folk are naturally hospitable; even with modest means, when strangers seek shelter they prepare their best provisions. Sitting by the crackling woodfire listening to mountain legends, their warmth dispels all chills of the journey. | Los montañeses son hospitalarios por naturaleza; aun con pocos recursos, ante un viajero perdido preparan sus mejores viandas. Al calor del fuego de leña, escuchando viejas leyendas, su generosa calidez disipa el frío del camino.
+  #2 | “好客中国”不仅是享誉世界的国家旅游名片，更是中华优秀传统文化中“有朋自远方来，不亦乐乎”的当代传承。在各大国际经贸展会与体育盛事中，志愿者们以真诚热忱的好客之礼迎接四海宾朋，向世界生动展现了礼仪之邦的大国风范。 | 'Hàokè Zhōngguó' bùjǐn shì xiǎngyù shìjiè de guójiā lǚyóu míngpiàn, gèng shì Zhōnghuá yōuxiù chuántǒng wénhuà zhōng 'yǒu péng zì yuǎnfāng lái, bú yì lè hū' de dāngdài chuánchéng. Zài gèdà guójì jīngmào zhǎnhuì yǔ tǐyù shèngshì zhōng, zhìyuànzhěmen yǐ zhēnchéng rèchén de hàokè zhī lǐ yíngjiē sìhǎi bīnpéng, xiàng shìjiè shēngdòng zhǎnxiàn le lǐyí-zhī-bāng de dàguó fēngfàn. | 'Hospitable China' reflects the ancient teaching: 'To have friends come from afar, is this not delightful?' In international expos and tournaments, volunteers greet global guests with sincere hospitality, displaying civilizational elegance. | 'China hospitalaria' evoca el milenario lema de Confucio: '¿No es un gozo recibir amigos de tierras lejanas?'. En cumbres y torneos internacionales, los voluntarios acogen al forastero con afabilidad, mostrando la hidalguía de una nación de protocolo.

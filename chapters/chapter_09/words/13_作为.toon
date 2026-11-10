@@ -1,0 +1,65 @@
+id: 13
+hanzi: 作为
+pinyin: zuò wéi
+level: HSK 5
+part_of_speech: Preposition / Verb / Noun
+
+meanings_summary:
+  en: as; in the capacity of; to act as; accomplishment; conduct; deed
+  es: como; en calidad de; actuar como; logro; acción; conducta
+
+senses[3]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Preposition | Standard | in the role, capacity, or identity of | en calidad de; en el papel o condición de | 作为一名教师 (as a teacher)
+  2 | Verb | Standard | to regard as; to use or take as | tomar como; considerar o emplear en concepto de | 作为参考 (take as a reference)
+  3 | Noun | Formal | significant deeds, positive accomplishments, or enterprise | hazaña, logro o iniciativa de envergadura | 大有作为 (have great prospects for accomplishment)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 作为这个项目的团队负责人，他时刻把员工的安全与身心健康放在首要位置。 | Zuòwéi zhè ge xiàngmù de tuánduì fùzérén, tā shíkè bǎ yuángōng de ānquán yǔ shēnxīn jiànkāng fàng zài shǒuyào wèizhì. | As the leader of this project team, he constantly prioritizes employee safety and mental well-being. | Como responsable del equipo en este proyecto, antepone en todo momento la seguridad y la salud de sus colaboradores.
+  #2 | 鲁迅将饮食文化作为观察近代中国社会百态的一面镜子，在笔墨间展现了极其深厚的人间温情。 | Lǔ Xùn jiāng yǐnshí wénhuà zuòwéi guānchá jìndài Zhōngguó shèhuì bǎitài de yí miàn jìngzi, zài bǐmò jiān zhǎnxiàn le jíqí shēnhòu de rénjiān wēnqíng. | Lu Xun used food culture as a mirror to observe modern Chinese society, showing deep human warmth in his writings. | Lu Xun empleó la gastronomía como un espejo para observar la sociedad moderna, plasmando con su pluma una entrañable calidez humana.
+
+collocations[6]{hanzi,en}:
+  作为代表 | as a representative
+  大有作为 | have brilliant prospects
+  毫无作为 | accomplish nothing; passive inaction
+  作为依据 | use as a basis
+  担当作为 | take responsibility and take action
+  作为参考 | as a reference
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  胡作非为 | hú zuò fēi wéi | act recklessly and commit illegal atrocities
+  量力而为 | liàng lì ér wéi | act according to one's capabilities
+  有所作为 | yǒu suǒ zuò wéi | make a promising mark; achieve notable success
+  敢作敢当 | gǎn zuò gǎn dāng | bold enough to act and brave enough to face the consequences
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  作 | zuò | do; make; act; write; work | hacer; crear; actuar; componer | 亻 | person | 亻 (person) | 乍 (zhà, sudden initiation / phonetic) | 7 | 左右结构 | Phono-semantic ideogram showing a person 亻 undertaking active creative endeavor 乍. | A capable artisan (亻) stands up to begin making (作) useful things for the community. | Un individuo diligente (亻) se pone en pie para iniciar la labor constructiva (作). | 51 | OHS | ""
+  为 | wéi | act as; serve as; become; do | actuar como; servir de; hacer; ser | 丶 | dot | 爪 (hand guiding an elephant in traditional 為) | 为 (wéi) | 4 | 单一结构 | Ancient oracle bone pictogram of a human hand 爪 leading an elephant, meaning to direct work or perform deeds. | A firm guiding hand reaches out to direct work, acting as (为) an able leader. | Una mano firme guía la labor con destreza, sirviendo de (为) orientadora eficaz. | 35 | IKS | 為
+
+mnemonics_and_roots:
+  composite_memory_hook_en: To work actively (作) and serve in a guiding role (为) is to act in the capacity of an authority (作为).
+  composite_memory_hook_es: Trabajar con empeño (作) y servir de guía (为) significa desempeñarse en calidad de líder (作为).
+  cultural_and_cognitive_roots: A cornerstone term in Chinese philosophy; Daoism warns of 'wúwéi' (无为, effortless non-forcing), while Confucianism urges active moral initiative ('yǒusuǒ-zuòwéi', 有所作为).
+  tone_sandhi_and_pitch_modulation: Falling tone followed by rising tone: 'zuò wéi' (51-35). Syllable 'zuò' descends sharply, while 'wéi' rises smoothly from pitch 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    昨 | zuó | yesterday | Has sun radical 日 on left instead of 亻
+    办 | bàn | manage; do | Has 力 in center flanked by two dots, unlike 为
+    刃 | rèn | blade edge | Has 刀 with single dot inside, unlike 为
+    仿 | fǎng | imitate | Has 方 on right instead of 乍
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    办 | bàn | manage; handle affairs
+    行 | xíng | walk; carry out action
+    施 | shī | execute; dispense benevolence
+    当 | dāng | serve as; undertake office
+
+semantic_boundary_contrasts:
+  core_nuance: 作为 denotes operating in a defined capacity/identity, or refers formally to purposeful human accomplishments.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 作为 vs. 当作 | dàngzuò | 当作 is strictly a transitive verb meaning to treat or mistake A for B ('把他当作朋友'), whereas 作为 primarily introduces an identity role ('作为朋友').
+    2 | 作为 vs. 行为 | xíngwéi | 行为 denotes objective human conduct and motor actions, while 作为 as a noun specifically denotes significant positive accomplishments ('大有作为').
+    3 | 作为 vs. 以为 | yǐwéi | 以为 indicates subjective (often erroneous) cognitive assumption, while 作为 indicates functional identity or purposeful deed.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 作为社会的一分子，每个人都在用自己的行动书写历史。无论身处平凡的岗位还是显赫的舞台，只要怀揣善意认真做事，就能为他人带去光明。不因位卑而自弃，不因艰难而退缩，这才是作为一个人最崇高的尊严。 | Zuòwéi shèhuì de yì fēnzǐ, měi ge rén dōu zài yòng zìjǐ de xíngdòng shūxiě lìshǐ. Wúlùn shēnchǔ píngfán de gǎngwèi háishì xiǎnhè de wǔtái, zhǐyào huáichuāi shànyì rènzhēn zuòshì, jiù néng wèi tārén dàiqù guāngmíng. Bù yīn wèibēi ér zìqì, bù yīn jiānnán ér tuìsuō, zhè cáishì zuòwéi yí ge rén zuì chónggāo de zūnyán. | As members of society, all write history with actions. Whether in humble posts or grand stages, acting with goodwill brings light to others. Not abandoning oneself for low status is the highest human dignity. | Como miembros de la sociedad, todos forjamos la historia con nuestros actos. Ya sea en un puesto humilde o en un gran escenario, obrar con buena fe alumbra a los demás. No desanimarse ante la dificultad dignifica la condición humana.
+  #2 | 在推动生态文明建设的进程中，政府部门必须积极作为。通过建立严格的环境保护问责制度，杜绝个别企业以牺牲绿水青山为代价换取短期经济效益的违法行为。唯有勇于担当作为，才能为子孙后代留下一片天蓝水清的美好家园。 | Zài tuīdòng shēngtài wénmíng jiànshè de jìnchéng zhōng, zhèngfǔ bùmén bìxū jījí zuòwéi. Tōngguò jiànlì yángé de huánjìng bǎohù wènzé zhìdù, dùjué gèbié qǐyè yǐ xīshēng lǜshuǐ-qīngshān wéi dàijià huànqǔ duǎnqī jīngjì xiàoyì de wéifǎ xíngwéi. Wéiyǒu yǒngyú dāndāng zuòwéi, cáinéng wèi zǐsūn-hòudài liúxià yí piàn tiānlán-shuǐqīng de měihǎo jiāyuán. | In promoting ecological progress, government bodies must take proactive action. Strict environmental accountability prevents firms from sacrificing nature for short-term gain. Bold initiative ensures clean skies for future generations. | En la salvaguarda ecológica, los poderes públicos deben actuar con firmeza. Exigir responsabilidades ambientales frena a las empresas que sacrifican la naturaleza por lucro efímero. Solo asumiendo el deber se legará un entorno limpio a la posteridad.

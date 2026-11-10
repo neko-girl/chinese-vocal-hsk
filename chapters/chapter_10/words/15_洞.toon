@@ -1,0 +1,62 @@
+id: 15
+hanzi: 洞
+pinyin: dòng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: hole; cave; cavity; aperture
+  es: agujero; hoyo; cueva; cavidad; orificio
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a hollow place, opening, perforation, or natural cavern in a solid body or the earth | espacio hueco, abertura, perforación o caverna natural en la roca o tierra | 山洞 / 衣服破了个洞 (mountain cave / hole in clothes)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 调皮的小老鼠一看到黑猫走过来，立刻敏捷地钻进了墙角深处的石洞里。 | Tiáopí de xiǎolǎoshǔ yí kàndào hēimāo zǒuguòlai, lìkè mǐnjié de zuānjìn le qiángjiǎo shēnchù de shídòng lǐ. | Seeing the black cat approach, the mischievous mouse darted into a stone hole deep in the wall corner. | Al ver aproximarse al gato negro, el ratoncillo se escabulló veloz hacia el agujero de piedra en el rincón.
+  #2 | 老工人顺着木板仔细检查，发现这块木料中间竟然被虫子蛀出了好几个小洞。 | Lǎo gōngrén shùnzhe mùbǎn zǐxì jiǎnchá, fāxiàn zhè kuài mùliào zhōngjiān jìngrán bèi chóngzi zhùchū le hǎojǐ ge xiǎodòng. | Inspecting the plank, the veteran worker found insects had bored several small holes right through the wood. | Inspeccionando el tablón, el veterano operario descubrió que los insectos habían horadado varios agujeros diminutos en la madera.
+
+collocations[6]{hanzi,en}:
+  山洞 | mountain cave
+  漏洞 | loophole; security flaw
+  挖洞 | dig a hole
+  打洞 | drill / bore holes
+  地洞 | underground burrow
+  黑洞 | astronomical black hole
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  别有洞天 | bié yǒu dòng tiān | a wonderful hidden new world or paradise
+  洞察秋毫 | dòng chá qiū háo | perceive the minutest detail with razor-sharp insight
+  无底深洞 | wú dǐ shēn dòng | bottomless pit; unfillable chasm
+  钻洞而逃 | zuān dòng ér táo | crawl through a hole to escape
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  洞 | dòng | hole; cave; cavity; penetrate through | agujero; cueva; cavidad; penetrar a fondo | 氵 | water | 氵 (water flowing straight through) | 同 (tóng, tunnel / concurrence / phonetic) | 9 | 左右结构 | Water radical 氵 paired with 同 (together/through); rushing subterranean streams boring straight through rocks to create caves. | Water (氵) carves a smooth tunnel (同) straight through rock, creating a cavernous hole (洞). | El agua (氵) horada un túnel continuo (同) en la roca viva, modelando una cueva (洞). | 51 | EBMR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Water (氵) flowing through rock forms a deep opening or cave (洞).
+  composite_memory_hook_es: El agua (氵) que perfora la peña abre un hoyo o profunda cueva (洞).
+  cultural_and_cognitive_roots: Taoist cosmology reveres sacred grottos (洞天福地) as secluded gateways to immortality and primordial nature.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone: 'dòng' (51). Drop sharply like a heavy rock plummeting into a deep underground cavern.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    铜 | tóng | copper; bronze | Has metal radical 钅 on left instead of water 氵 in 洞
+    桐 | tóng | paulownia tree | Has tree radical 木 on left instead of 氵
+    筒 | tǒng | cylinder; tube | Has bamboo radical 竹 on top instead of 氵
+    侗 | dòng | Dong ethnic group; naive | Has person radical 亻 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    穴 | xué | burrow; cave dwelling
+    坑 | kēng | earthen pit; depression
+    孔 | kǒng | aperture; small pore
+    窟 | kū | cavernous grotto; den
+
+semantic_boundary_contrasts:
+  core_nuance: 洞 denotes a hollow opening, cavity, or passage, ranging from punctures in cloth to karst caves.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 洞 vs. 穴 | xué | 穴 is used in scientific or anatomical contexts (acupuncture point 穴位, animal burrow 巢穴), while 洞 is the general term for holes and caves.
+    2 | 洞 vs. 坑 | kēng | 坑 refers to a shallow depression or pit dug in the earth, whereas 洞 refers to a deep cavern or penetrating aperture.
+    3 | 洞 vs. 窟 | kū | 窟 denotes grottos with Buddhist carvings (石窟) or illicit dens, while 洞 is neutral and natural.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在群山环抱的幽深峡谷中，隐藏着一个巨大的喀斯特溶洞。岩壁上的石笋历经数万年水滴的洗礼，千姿百态。洞内溪流淙淙、清凉宜人，微弱的手电光束照亮了沉睡千万年的地下奇观。 | Zài qúnshān huánbào de yōushēn xiágǔ zhōng, yǐncáng zhe yí ge jùdà de kāsītè róngdòng. Yánbì shàng de shísǔn lìjīng shùwàn nián shuǐdī de xǐlǐ, qiānzībǎitài. Dòngnèi xīliú cóngcóng, qīngliáng yírén, wēiruò de shǒudiàn guāngshù zhàoliàng le chénsù qiānwàn nián de dìxià qíguān. | In a deep canyon surrounded by mountains lies a colossal karst cave. Stalagmites washed over millennia present diverse forms. Streams keep the cavern cool as flashlights illuminate ancient wonders. | En un hondo cañón entre montañas yace oculta una inmensa gruta cárstica. Estalagmitas milenarias adoptan caprichosas formas. El rumor del arroyo interior refresca el ambiente mientras las linternas alumbran maravillas subterráneas.
+  #2 | 信息安全工程师在系统代码中发现了一个隐秘的逻辑漏洞。这个看似微小的系统破洞，极易被黑客利用进行恶意渗透与窃取核心数据库。团队通宵达旦地紧急编写补丁程序，彻底封堵了安全隐患。 | Xìnxī ānquán gōngchéngshī zài xìtǒng dàimǎ zhōng fāxiàn le yí ge yǐnmì de luóji lòudòng. Zhè ge kànsì wēixiǎo de xìtǒng pòdòng, jíyì bèi hēikè lìyòng jìnxíng èyì shèntòu yǔ qièqǔ héxīn shùjùkù. Tuánduì tōngxiāo-dádàn de jǐnjí biānxǐe bǔdīng chéngxù, chèdǐ fēngdǔ le ānquán yǐnhuàn. | Security engineers discovered a covert logic vulnerability in code. This seemingly tiny system hole could easily be exploited by hackers to steal databases. The team coded patches overnight to plug risks. | Ingenieros de ciberseguridad hallaron una sutil brecha lógica en el código. Este minúsculo orificio permitía a atacantes infiltrarse en bases de datos. El equipo programó parches de urgencia para neutralizar la amenaza.

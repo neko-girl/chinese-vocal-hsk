@@ -1,0 +1,64 @@
+id: 35
+hanzi: 形容
+pinyin: xíng róng
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to describe; to depict; to portray; appearance; countenance
+  es: describir; retratar; calificar; semblante; apariencia física
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to describe or depict a person's appearance, emotion, or the state of an affair through words or analogies | describir, retratar o calificar el aspecto, ánimo o estado de algo mediante palabras o símiles | 难以用语言形容 (hard to describe in words)
+  2 | Noun | Literary | external physical appearance, facial countenance, or emaciated look | semblante, aspecto físico o traza del rostro | 形容憔悴 (haggard and emaciated appearance)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 站在巍峨的雪山之巅，面对日照金山的壮丽奇观，那种震撼的心情简直无法用言语来形容。 | Zhàn zài wéi'é de xuěshān zhī diān, miànduì rìzhào-jīnshān de zhuànglì qíguān, nà zhǒng zhènhàn de xīnqíng jiǎnzhí wúfǎ yòng yányǔ lái xíngróng. | Standing atop the snow-capped peak before the golden sunrise, that awe-inspiring emotion simply defies verbal description. | En la cumbre de la montaña nevada ante el amanecer dorado, la honda emoción que sentí resulta imposible de describir con palabras.
+  #2 | 郁达夫曾撰文形容鲁迅先生的相貌与风度：“醉眼朦胧，悠悠自得”，生动勾勒出鲁迅文人生活的一面。 | Yù Dáfū céng zhuànwén xíngróng Lǔ Xùn xiānsheng de xiàngmào yǔ fēngdù: 'zuìyǎn ménglóng, yōuyōu zìdé', shēngdòng gōulè chū Lǔ Xùn wénrén shēnghuó de yí miàn. | Yu Dafu once described Mr. Lu Xun's countenance: 'eyes hazy from wine, leisurely and content', vividly sketching his literati lifestyle. | Yu Dafu describió la traza de Lu Xun: 'ojos entornados por el vino, plácido y dueño de sí', retratando con viveza su temple letrado.
+
+collocations[6]{hanzi,en}:
+  难以形容 | hard to describe
+  恰当形容 | describe appropriately
+  用来形容 | used to describe
+  形容词 | adjective (grammar)
+  形容憔悴 | haggard and emaciated look
+  生动形容 | vividly describe
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  不可名状 | bù kě míng zhuàng | indescribable; beyond words to depict
+  惟妙惟肖 | wéi miào wéi xiào | depicted with consummate lifelikeness and fidelity
+  绘声绘色 | huì shēng huì sè | describe with vivid sound and color; picturesque
+  妙语连珠 | miào yǔ lián zhū | sparkling pearls of wit flow in rapid succession
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  形 | xíng | form; shape; appearance; body; depict | forma; figura; cuerpo; aspecto; plasmar | 彡 | hair / bristles / pattern | 彡 (hair/artistic brushstrokes) | 开 (kāi, frame / phonetic harmony) | 7 | 左右结构 | Phono-semantic character where elegant brushstrokes 彡 sketch out visible physical contours. | Delicate brushstrokes (彡) trace out the physical contours and visible shape (形) of an object. | Trazos de pincel (彡) dibujan los contornos y la figura visible (形) de un cuerpo. | 35 | MTHH | ""
+  容 | róng | countenance; look; contain; tolerate | semblante; rostro; contener; tolerar | 宀 | roof | 宀 (sheltering roof) + 谷 (valley mouth) | 容 (róng) | 10 | 上下结构 | Ideogram showing a spacious valley 谷 sheltered under a roof 宀, meaning accommodating; extended to facial appearance. | Under the roof (宀), a serene valley (谷) accommodates all things, reflecting peaceful facial countenance (容). | Bajo el alero (宀), el amplio valle (谷) acoge los arroyos, reflejando el rostro sereno (容). | 35 | JCOR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Observe external shapes (形) and facial countenance (容) to vividly describe and portray reality (形容).
+  composite_memory_hook_es: Observa la figura externa (形) y el semblante (容) para describir la realidad con maestría (形容).
+  cultural_and_cognitive_roots: Originally denoted a person's physical demeanor and facial looks ('xíngtài róngmào'); in classical rhetoric it shifted into using verbal similes to capture essence.
+  tone_sandhi_and_pitch_modulation: Two rising tones: 'xíng róng' (35-35). Two steady parallel rising glides from mid to high pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    刑 | xíng | punishment | Has knife radical 刂 on right instead of 彡 in 形
+    型 | xíng | mold; type | Has earth radical 土 below 刑
+    客 | kè | guest | Has 各 below 宀 instead of 谷 in 容
+    谷 | gǔ | valley | Lacks the top roof radical 宀 of 容
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    描 | miáo | trace; describe with hand
+    摹 | mó | imitate; trace outline on paper
+    写 | xiě | sketch; write lifelike scene
+    绘 | huì | draw; paint colorful pictures
+
+semantic_boundary_contrasts:
+  core_nuance: 形容 emphasizes using verbal metaphors, adjectives, or analogies to portray physical appearance or sensory experience.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 形容 vs. 描写 | miáoxiě | 描写 denotes systematic literary prose depicting scenes or actions in extended paragraphs, while 形容 is frequently used for concise qualitative analogies ('用...来形容').
+    2 | 形容 vs. 描述 | miáoshù | 描述 is a formal, objective verb for narrating facts or procedural details ('描述事故经过'), whereas 形容 emphasizes figurative imagery.
+    3 | 形容 vs. 形象 | xíngxiàng | 形容 is a verb (to describe), whereas 形象 is primarily a noun (image/figure) or adjective (vivid/graphic).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 大自然造化之美，往往超越了人类语言形容的极限。黄昏时分夕阳熔金，漫天晚霞将整片海面染成了瑰丽的紫红色，波光潋滟美不胜收。面对如此雄奇壮丽的天地大美，任何华丽的修辞都显得苍白无力，唯有静默赞叹。 | Dàzìrán zàohuà zhī měi, wǎngwǎng chāoyuè le rénlèi yǔyán xíngróng de jíxiàn. Huánghūn shífēn xīyáng róngjīn, màntiān wǎnxiá jiāng zhěng piàn hǎimiàn rǎnchéng le guīlì de zǐhóngsè, bōguāng-liànyàn měibùshèngshōu. Miànduì rúcǐ xióngqí zhuànglì de tiāndì dàměi, rènhé huálì de xiūcí dōu xiǎnde cāngbái-wúlì, wéiyǒu jìngmò zàntàn. | Nature's beauty often exceeds the limits of human description. At dusk, melting golden sunsets dye the entire sea in magnificent violet. Facing such grand splendor, any ornate rhetoric pales; only reverent silence remains. | La creación natural desborda los límites de la descripción humana. Al crepúsculo, el sol poniente tiñe las olas de un púrpura fastuoso. Ante tanta majestuosidad, cualquier retórica resulta vana y solo cabe el silencio extasiado.
+  #2 | 优秀的文学家总能以独特的洞察力提炼出生动传神的比喻。在现代文学经典名篇中，鲁迅以“风马牛不相及”形容世态的冷漠隔阂，用“路是人走出来的”形象激励青年勇于开拓。这些贴切生动的形容，具有穿越时代的永恒艺术生命力。 | Yōuxiù de wénxuéjiā zǒng néng yǐ dútè de dòngchálì tíliàn chū shēngdòng chuánshén de bǐyù. Zài xiàndài wénxué jīngdiǎn míngpiān zhōng, Lǔ Xùn yǐ 'fēngmǎniú bù xiāng jí' xíngróng shìtài de lěngmò géhé, yòng 'lù shì rén zǒuchūlái de' xíngxiàng jīlì qīngnián yǒngyú kāituò. Zhèxiē tiēqiè shēngdòng de xíngróng, jùyǒu chuānyuè shídài de yǒnghéng yìshù shēngmìnglì. | Master authors extract vivid metaphors with keen insight. In classic essays, Lu Xun described social indifference with pungent sayings and encouraged youth by writing 'paths are made by walking'. Such apt descriptions possess timeless vitality. | Los grandes literatos forjan metáforas imborrables. En sus clásicos, Lu Xun calificó la frialdad social con mordaces símiles y exhortó a los jóvenes recordando que el camino se hace al andar. Tales descripciones atesoran vigencia eterna.

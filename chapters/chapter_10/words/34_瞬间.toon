@@ -1,0 +1,63 @@
+id: 34
+hanzi: 瞬间
+pinyin: shùn jiān
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: moment; instant; split second; flash
+  es: instante; momento; abrir y cerrar de ojos; segundo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an extremely brief span of time; an instant; a blink of an eye | espacio brevísimo de tiempo; un instante o pestañeo | 一瞬间 (in a split second / in an instant)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 夜空中划过一道耀眼的金色流星，虽然仅仅闪耀了一瞬间，却在仰望星空的人们心中留下了永恒的美丽。 | Yèkōng zhōng huàguò yí dào yàoyǎn de jīnsè liúxīng, suīrán jǐnjǐn shǎnyào le yí shùnjiān, què zài yǎngwàng xīngkōng de rénmen xīnxzhōng liúxià le yǒnghéng de měilì. | A dazzling golden shooting star streaked across the night sky; though gleaming for merely an instant, it left eternal beauty in stargazers' hearts. | Un fulgurante meteoro dorado cruzó la noche; aunque solo brilló un instante, dejó una estela de belleza eterna en el corazón de quienes miraban.
+  #2 | 在裁判吹响终场哨声的瞬间，全场沸腾欢呼，队员们激动得紧紧拥抱在一起失声痛哭。 | Zài cáipàn chuīxiǎng zhōngchǎng shàoshēng de shùnjiān, quánchǎng fèiténg huānhū, duìyuánmen jīdòng de jǐnjǐn yōngbào zài yìqǐ shīshēng tòngkū. | The instant the referee blew the final whistle, the stadium erupted in cheers, players embracing each other and weeping tears of joy. | En el instante en que el árbitro pitó el final, la grada estalló en júbilo y los jugadores se fundieron en un abrazo llorando de emoción.
+
+collocations[6]{hanzi,en}:
+  一瞬间 | in a split second; in an instant
+  瞬间爆发 | instantaneous outburst
+  精彩瞬间 | wonderful highlight moments
+  抓住瞬间 | seize the fleeting moment
+  瞬间消失 | vanish in an instant
+  永恒的瞬间 | eternal instant
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  转瞬即逝 | zhuǎn shùn jí shì | vanish in the blink of an eye; fleeting and transient
+  白驹过隙 | bái jū guò xì | time passing like a white colt leaping across a gap; fleeting time
+  电光石火 | diàn guāng shí huǒ | lightning flash and spark from flint; split second
+  弹指之间 | tán zhǐ zhī jiān | in the flick of a finger; in a trice
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  瞬 | shùn | wink; blink eye; flash; instant | parpadear; guiñar; pestañeo; instante | 目 | eye | 目 (eye blinking) + 舜 (flowering hibiscus / ephemeral) | 舜 (shùn, wise emperor / phonetic) | 17 | 左右结构 | Eye radical 目 combined with 舜; the brief duration of an eye winking or blinking shut. | An eyelid (目) winks shut like a flower blooming and closing in an instant (瞬). | Un ojo (目) parpadea fugaz como corola que abre y cierra en un pestañeo (瞬). | 51 | HUBFQ | ""
+  间 | jiān | between; among; interval; room | entre; intervalo; espacio; habitación | 门 | gate / door | 门 (double door) + 日 (sunlight peeking through crevice) | 间 (jiān) | 7 | 半包围结构 | Sunlight 日 shining through the chink of closed double doors 门; represents a spatial opening or temporal interval. | Sunlight gleams through a crack in closed doors (门), defining a brief interval (间). | Un rayo de sol asoma por la rendija del portón (门) marcando un lapso efímero (间). | 55 | LSA | 間
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The tiny time interval (间) of an eye blinking (瞬) defines a split second (瞬间).
+  composite_memory_hook_es: El mínimo intervalo (间) que tarda un ojo en parpadear (瞬) define un instante (瞬间).
+  cultural_and_cognitive_roots: Derived from Buddhist temporal units (ksana / 刹那): the human eye blinking constitutes the foundational metaphor for transience.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by level high tone: 'shùn jiān' (51-55). Strike down on 'shùn' then float high and clear on 'jiān'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    睛 | jīng | eyeball; pupil | Has 青 on right of 目 instead of 舜 in 瞬
+    睡 | shuì | sleep | Has 垂 on right of 目
+    问 | wèn | ask | Has mouth 口 inside 门 instead of 日 in 间
+    闭 | bì | close; shut | Has 才 inside 门
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    秒 | miǎo | second; awn of grain
+    刹 | chà | instant; ksana
+    顷 | qǐng | short while; inclined head
+    刻 | kè | quarter hour; carve notch
+
+semantic_boundary_contrasts:
+  core_nuance: 瞬间 emphasizes the extreme brevity of a fleeting flash of time, often capturing decisive kinetic actions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 瞬间 vs. 刹那 | chànà | 刹那 is a formal philosophical or poetic Buddhist term for a micro-instant, while 瞬间 is modern standard written and spoken Chinese.
+    2 | 瞬间 vs. 片刻 | piànkè | 片刻 designates a short while or brief pause spanning several minutes ('休息片刻'), while 瞬间 is a fraction of a second.
+    3 | 瞬间 vs. 顿时 | dùnshí | 顿时 is an adverb meaning 'immediately / at once' emphasizing cause-and-effect reaction, while 瞬间 is a noun designating the time instant itself.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 摄影的最高境界，在于用心灵捕捉那些稍纵即逝的感人瞬间。奔跑骏马四蹄凌空的一瞬，婴儿绽放天真笑容的刹那，亦或老夫妻街头相视而笑的温馨画面，都在快门按下的瞬间化作了永不褪色的永恒记忆。 | Shèyǐng de zuìgāo jìngjiè, zàiyú yòng xīnlíng bǔzhuō nàxiē shāozòng-jíshì de gǎnrén shùnjiān. Bēnpǎo jùnmǎ sì tí língkōng de yí shùn, yīng'ér zhànfàng tiānzhēn xiàoróng de chànà, yìhuò lǎofūqī jiētóu xiāngshì-érxiào de wēnxīn huàmiàn, dōu zài kuàimén ànxià de shùnjiān huàzuò le yǒngbútùisè de yǒnghéng jìyì. | Photography's peak lies in capturing fleeting moments. A steed's hooves airborne, an infant's pure smile, or an old couple's warm glance all become timeless memories the instant the shutter clicks. | La cumbre de la fotografía radica en capturar instantes fugitivos. Cascos suspendidos en el galope, la risa de un bebé o miradas cómplices de ancianos se tornan memoria eterna al disparar el obturador.
+  #2 | 面对突如其来的地震险情，生死往往只在短短的一两秒瞬间决定。危急关头，年轻的班主任毫不犹豫地张开双臂护住讲台下的幼小学生，将生的希望留给孩子们，用生命谱写出感天动地的人性赞歌。 | Miànduì tūrúqílái de dìzhèn xiǎnqíng, shēngsǐ wǎngwǎng zhǐ zài duǎnduǎn de yì-liǎng miǎo shùnjiān juédìng. Wēijí guāntóu, niánqīng de bānzhǔrèn háobùyóuyù de zhāngkāi shuāngbì hùzhù jiǎngtái xià de yòuxiǎo xuésheng, jiāng shēng de xīwàng liúgěi háizimen, yòng shēngmìng pǔxiě chū gǎntiān-dòngdì de rénxìng zàngē. | In earthquakes, survival is decided in a split second. At the critical moment, the young teacher shielded pupils beneath the desk with outstretched arms, offering hope of life in an unforgettable act. | Ante la sacudida de un terremoto, la vida y la muerte se zanjan en un instante. En el trance crítico, la maestra cubrió a sus pupilos con sus brazos, ofrendando su vida en un conmovedor himno de entrega.

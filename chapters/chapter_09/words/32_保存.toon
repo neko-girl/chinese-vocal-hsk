@@ -1,0 +1,64 @@
+id: 32
+hanzi: 保存
+pinyin: bǎo cún
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to preserve; to conserve; to keep; to save (files/data); to maintain intact
+  es: guardar; conservar; preservar; mantener; salvar (archivos informáticos)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to keep things, documents, or biological specimens safe, undamaged, and intact over time | guardar cosas, documentos o muestras para que no se deterioren, pierdan o dañen | 妥善保存文件 (keep documents safe and well-preserved)
+  2 | Verb | Standard | to save electronic computer files, database records, or digital configurations | guardar o salvar archivos informáticos, bases de datos o configuraciones en soporte digital | 保存修改内容 (save modified contents)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这些泛黄的老照片被外婆妥善保存在铁盒子里，记录了半个世纪以来全家人的温情岁月。 | Zhèxiē fànhuáng de lǎo zhàopiàn bèi wàipó tuǒshàn bǎocún zài tiě hézi lǐ, jìlù le bàn ge shìjì yǐlái quánjiā rén de wēnqíng suìyuè. | These yellowed old photos were properly preserved by grandmother in a tin box, documenting half a century of family warmth. | Estas fotos amarillentas fueron conservadas por la abuela en una lata, guardando medio siglo de entrañable memoria familiar.
+  #2 | 北京鲁迅博物馆精心保存了鲁迅生前的大量珍贵手稿、藏书和生活用具，具有极高的历史文化价值。 | Běijīng Lǔ Xùn Bówùguǎn jīngxīn bǎocún le Lǔ Xùn shēngqián de dàliàng zhēnguì shǒugǎo, cángshū hé shēnghuó yòngjù, jùyǒu jí gāo de lìshǐ wénhuà jiàzhí. | The Beijing Lu Xun Museum meticulously preserves many of his manuscripts, book collections, and daily utensils, of immense cultural value. | El Museo Lu Xun de Pekín conserva con celo manuscritos, volúmenes y enseres de su vida cotidiana, de incalculable valor histórico.
+
+collocations[6]{hanzi,en}:
+  妥善保存 | properly keep/preserve
+  保存完好 | preserved in perfect condition
+  保存文件 | save files/documents
+  保存实力 | conserve strength/resources
+  保存期 | shelf life; retention period
+  点击保存 | click to save
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  历久弥新 | lì jiǔ mí xīn | remain fresh and vibrant with the passage of time
+  完璧归赵 | wán bì guī Zhào | return the jade intact to Zhao; return untouched to owner
+  安然无恙 | ān rán wú yàng | safe and sound without the slightest blemish
+  硕果仅存 | shuò guǒ jǐn cún | the sole surviving great fruit; one of the few survivors
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  保 | bǎo | protect; maintain; keep; guarantee | proteger; mantener; amparar; garantizar | 亻 | person | 亻 (adult guardian) | 呆 (infant child swaddled on back) | 9 | 左右结构 | Oracle bone pictogram showing an adult guardian 亻 carrying an infant child on their back, protecting it from harm. | A loving adult (亻) holds a baby safely swaddled on their back, protecting and keeping it unharmed (保). | Un tutor protector (亻) lleva a un niño a la espalda, amparándolo y protegiéndolo de todo daño (保). | 214 | ORD | ""
+  存 | cún | exist; live; survive; deposit; retain | existir; vivir; subsistir; depositar; guardar | 子 | child | 子 (child/offspring) | 才 (cái, plant sprout / phonetic) | 6 | 半包围结构 | Ancient ideogram showing a fresh sprout 才 sprouting above an offspring 子, signifying ongoing existence and survival. | A tender sprout grows safely under roof shelter for the child (子), ensuring it survives and exists (存). | Un brote tierno germina al amparo del hogar para el niño (子), garantizando su subsistencia (存). | 35 | KND | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Protect with loving care (保) so that precious heritage continues to exist intact (存), preserving it safely (保存).
+  composite_memory_hook_es: Ampara con celo (保) para que el legado siga existiendo intacto (存), logrando conservarlo (保存).
+  cultural_and_cognitive_roots: Combining protective guardianship (保) with existential permanence (存); in traditional culture, preserving family ancestral tablets (宗祠) and genealogies formed the sacred core of continuity.
+  tone_sandhi_and_pitch_modulation: Dipping tone followed by rising tone: 'bǎo cún' (214-35). Syllable 'bǎo' dips down, followed by an energetic rising tone on 'cún'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    堡 | bǎo | fortress | Has earth radical 土 at bottom of 保
+    在 | zài | at; in | Has 土 at bottom instead of 子 in 存
+    右 | yòu | right | Has 口 at bottom instead of 子
+    友 | yǒu | friend | Has 又 at bottom instead of 子
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    藏 | cáng | hide; store away securely
+    护 | hù | protect; guard with hand
+    留 | liú | remain; detain; preserve
+    蓄 | xù | accumulate; store crops
+
+semantic_boundary_contrasts:
+  core_nuance: 保存 focuses on keeping physical items, documents, food, or computer files intact without loss or spoilage.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 保存 vs. 保留 | bǎoliú | 保留 emphasizes keeping or retaining rights, opinions, seats, or customs without altering them, while 保存 emphasizes protecting items from physical/digital decay.
+    2 | 保存 vs. 保护 | bǎohù | 保护 focuses on shielding an entity from active external danger, violence, or harm, whereas 保存 focuses on storage and long-term conservation.
+    3 | 保存 vs. 存储 | cúnchǔ | 存储 is a technical computing/warehousing term for storing large volumes of data or physical stock, while 保存 is general and everyday.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 岁月是一条奔流不息的大河，唯有那些被爱妥善保存的记忆，才能在时光的淘洗中闪耀出温润的光泽。一封泛黄的家书，一枚斑驳的纪念章，静静躺在抽屉深处，默默守护着漫漫人生旅途中最珍贵的深情与执着。 | Suìyuè shì yì tiáo bēnliú-bùxī de dàhé, wéiyǒu nàxiē bèi ài tuǒshàn bǎocún de jìyì, cáinéng zài shíguāng de táoxǐ zhōng shǎnyào chū wēnrùn de guāngzé. Yì fēng fànhuáng de jiāshū, yì méi bānbó de jìniànzhāng, jìngjìng tǎng zài chōutì shēnchù, mòmò shǒuhù zhe mànmàn rénshēng lǚtú zhōng zuì zhēnguì de shēnqíng yǔ zhízhuó. | Years are a rushing river; only memories lovingly preserved shine with warm luster through time. A yellowed family letter and a worn medal lying in a drawer quietly guard life's most precious devotion and resolve. | Los años son un río impetuoso; solo los recuerdos conservados con amor brillan en el tiempo. Una carta amarillenta y una medalla gastada en el cajón custodian en silencio los afectos más puros y nobles del camino vivido.
+  #2 | 古籍文献数字化工程为抢救与永久保存珍贵古籍开辟了全新路径。技术团队采用高光谱无损扫描与三维建模技术，将宋元珍本的纸张纤维与朱墨字迹完好记录。这不仅实现了历史典籍的永久保存，更极大地促进了中华优秀传统文化的开放共享。 | Gǔjí wénxiàn shùzìhuà gōngchéng wèi qiǎngjiù yǔ yǒngjiǔ bǎocún zhēnguì gǔjí kāipì le quánxīn lùjìng. Jìshù tuánduì cǎiyòng gāoguāngpǔ wúsǔn sǎomiáo yǔ sānwéi jiànmó jìshù, jiāng Sòng-Yuán zhēnběn de zhǐzhāng xiānwéi yǔ zhūmò zìjì wánhǎo jìlù. Zhè bùjǐn shíxiàn le lìshǐ diǎnjí de yǒngjiǔ bǎocún, gèng jídà de cùjìn le Zhōnghuá yōuxiù chuántǒng wénhuà de kāifàng gòngxiǎng. | Digitization of ancient manuscripts opens new paths for permanent preservation. Using non-destructive scanning and 3D modeling, teams record Song and Yuan rarities, ensuring eternal conservation and promoting open cultural sharing. | La digitalización abre nuevas vías para conservar incunables antiguos. Mediante escaneo hiperespectral no invasivo y modelado 3D, se capturan las fibras de códices Song y Yuan, garantizando su preservación y divulgación pública.

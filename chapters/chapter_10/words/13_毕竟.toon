@@ -1,0 +1,63 @@
+id: 13
+hanzi: 毕竟
+pinyin: bì jìng
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: after all; when all is said and done; in the final analysis
+  es: después de todo; al fin y al cabo; en definitiva
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | used to emphasize a fundamental, inescapable truth or decisive explanatory factor | empleado para recalcar una verdad ineludible, factor decisivo o realidad concluyente | 毕竟是小孩子 (after all, he is just a child)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 他刚参加工作不到两个月，缺乏实战经验，毕竟还是个新手，我们应该多加包容。 | Tā gāng cānjiā gōngzuò bú dào liǎng ge yuè, quēfá shízhàn jīngyàn, bìjìng háishì ge xīnshǒu, wǒmen yīnggāi duōjiā bāoróng. | Having worked for under two months, he lacks field experience; after all, he is a beginner, so we should be forgiving. | Lleva menos de dos meses en el puesto y carece de tablas; al fin y al cabo es principiante, por lo que conviene ser tolerantes.
+  #2 | 理论设想无论多么完美，毕竟需要放到实践中去检验其真实可行性。 | Lǐlùn shèxiǎng wúlùn duōme wánměi, bìjìng xūyào fàng dào shíjiàn zhōng qù jiǎnyàn qí zhēnshí kěxíngxìng. | No matter how perfect theoretical assumptions are, in the end they must be verified in practical application. | Por impecable que parezca el planteamiento teórico, después de todo es preciso contrastarlo en la práctica real.
+
+collocations[6]{hanzi,en}:
+  毕竟还是 | after all still is
+  毕竟不同 | after all different
+  毕竟有限 | ultimately limited
+  毕竟年轻 | young after all
+  这毕竟说明 | this after all proves
+  毕竟是事实 | after all a reality
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  归根到底 | guī gēn dào dǐ | fundamentally speaking; in the final analysis
+  水落石出 | shuǐ luò shí chū | the water recedes and rocks appear; truth comes to light
+  终成正果 | zhōng chéng zhèng guǒ | reach fruition after prolonged striving
+  不可否认 | bù kě fǒu rèn | undeniable; cannot be contested
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  毕 | bì | finish; complete; entirely; graduate | terminar; concluir; graduarse; totalmente | 十 | ten | 比 (close/paired) + 十 (full completeness) | 毕 (bì) | 6 | 上下结构 | Originally a hunting net on a handle for netting small birds; extended to total capture and final completion (毕业). | A net scoops up every last target, bringing total completion (毕) to the hunt. | Una red atrapa la última pieza, consumando la faena con pleno remate (毕). | 51 | PPU | 畢
+  竟 | jìng | unexpectedly; finally; finish; go so far as to | al final; inesperadamente; concluir; llegar al extremo de | 立 | stand | 音 (music piece playing through) | 儿 (human reaching the limit) | 11 | 上下结构 | A musical performance 音 reaching its final chord or closing measure; signifying termination, limit, or ultimately. | A piece of music (音) plays its very last note, reaching its ultimate end (竟). | Una melodía (音) desgrana su última nota sonora hasta concluir por fin (竟). | 51 | YTQU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Reaching the end of the net (毕) and the final musical note (竟), one realizes the bottom line truth after all (毕竟).
+  composite_memory_hook_es: Llegando al remate de la red (毕) y al acorde final (竟), se comprende la verdad concluyente al fin y al cabo (毕竟).
+  cultural_and_cognitive_roots: Classical compound pairing two words of terminus (毕 finish + 竟 conclude) to yield a philosophical realization of ultimate realities.
+  tone_sandhi_and_pitch_modulation: Double falling fourth tones: 'bì jìng' (51-51). Descend sharply on 'bì', then strike down again decisively on 'jìng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    华 | huá | splendid; flower; China | Has 化 atop 十 instead of 比 in 毕
+    竞 | jìng | compete; contest | Has two 立 components and two 儿 components (竞争)
+    境 | jìng | border; territory; state | Has earth radical 土 on left of 竟
+    算 | suàn | calculate; reckon | Has bamboo radical 竹 on top instead of 比
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    终 | zhōng | end; terminal knot
+    底 | dǐ | bottom; underlying foundation
+    竟 | jìng | finish musical composition
+    极 | jí | utmost; extremity
+
+semantic_boundary_contrasts:
+  core_nuance: 毕竟 underlines an unavoidable root reason or fundamental factor explaining an outcome.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 毕竟 vs. 究竟 | jiūjìng | 究竟 is used in questions to interrogate reality deeply ('你究竟去不去？'), while 毕竟 provides explanatory reasons in declarative statements.
+    2 | 毕竟 vs. 到底 | dàodǐ | 到底 can express persistence over time ('坚持到底'), whereas 毕竟 strictly serves as an explanatory causal connector.
+    3 | 毕竟 vs. 终究 | zhōngjiū | 终究 emphasizes inevitable eventual fate over long timeframes, while 毕竟 explains why something is justifiable.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 虽然人工智能翻译软件日新月异，但在捕捉文学作品细腻情感与文化潜台词方面，算法毕竟难以彻底替代人类译者的艺术直觉。文字深处的温度与灵魂，终究源于真实的心灵共鸣。 | Suīrán réngōng zhìnéng fānyì ruǎnjiàn rìxīnyuèyì, dàn zài bǔzhuō wénxué zuòpǐn xìnì qínggǎn yǔ wénhuà qiántáicí fāngmiàn, suànfǎ bìjìng nán yǐ chèdǐ tìdài rénlèi yìzhě de yìshù zhíjué. Wénzì shēnchù de wēndù yǔ línghún, zhōngjiū yuányú zhēnshí de xīnlíng gòngmíng. | Though AI translation evolves quickly, algorithms after all can hardly replace a human translator's artistic intuition for literary nuances. Verbal warmth stems from authentic human resonance. | Aunque la traducción automática avanza rauda, después de todo los algoritmos no sustituyen la intuición estética humana ante matices líricos. El calor del texto mana de la empatía vivencial.
+  #2 | 年轻人初入职场难免眼高手低、遭遇挫折，但前辈们应当给予足够的耐心与宽容。他们毕竟缺乏阅历积累，只要肯虚心钻研、勇于担当，经过数年摸爬滚打，定能成为独当一面的骨干力量。 | Niánqīngrén chūrù zhíchǎng nánmiǎn yǎngāoshǒudī, zāoyù cuòzhé, dàn qiánbèimen yīngdāng jǐyǔ zúgòu de nàixīn yǔ kuānróng. Tāmen bìjìng quēfá yuèlì jīlěi, zhǐyào kěn xūxīn zuānyán, yǒngyú dāndāng, jīngguò shùnián mōpágǔndǎ, dìng néng chéngwéi dúdāng-yímiàn de gǔgàn lìliàng. | Novices starting careers inevitably stumble, but seniors should offer patience. After all, they lack accumulated experience; with humility and dedication, they will grow into pillars of strength. | Los novatos tropiezan inevitablemente al debutar en el trabajo, pero los veteranos deben mostrar paciencia. Carecen de bagaje después de todo; con humildad y coraje madurarán hasta ser puntales decisivos.

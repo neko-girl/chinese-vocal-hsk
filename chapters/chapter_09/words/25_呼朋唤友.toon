@@ -1,0 +1,65 @@
+id: 25
+hanzi: 呼朋唤友
+pinyin: hū péng huàn yǒu
+level: HSK 5
+part_of_speech: Idiom
+
+meanings_summary:
+  en: to invite friends; to gather companions together; to call on cronies
+  es: convocar a los amigos; reunir a la pandilla; llamar a los compadres
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Idiom | Standard | calling out to summon friends, comrades, and companions to gather, celebrate, or act together | llamar o convocar a amigos y compañeros para congregarse, salir de excursión o celebrar juntos | 呼朋唤友去聚餐 (call friends together to have a meal)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 春暖花开的时节，大学生们常常呼朋唤友前往郊野公园踏青野餐，享受大自然的美丽风光。 | Chūnnuǎn-huākāi de shíjié, dàxuéshēngmen chángcháng hūpéng-huànyǒu qiánwǎng jiāoyě gōngyuán tàqīng yěcān, xiǎngshòu dàzìrán de měilì fēngguāng. | When spring blossoms bloom, university students often gather friends together to hike in suburban parks, enjoying nature's beauty. | Cuando la primavera florece, los universitarios suelen reunir a los amigos para salir de campo al parque campestre y disfrutar del sol.
+  #2 | 每逢发了稿费或有朋自远方来，鲁迅先生总爱呼朋唤友前往熟悉的绍兴酒馆，推杯换盏纵论古今。 | Měiféng fā le gǎofèi huò yǒu péng zì yuǎnfāng lái, Lǔ Xùn xiānsheng zǒng ài hūpéng-huànyǒu qiánwǎng shúxī de Shàoxīng jiǔguǎn, tuībēi-huànzhǎn zònglùn-gǔjīn. | Whenever royalties arrived or friends came from afar, Mr. Lu Xun loved gathering companions to local taverns, toasting and debating history. | Al cobrar honorarios o recibir visitas de fuera, Lu Xun convocaba a su círculo de amigos hacia las tabernas de Shaoxing para brindar y charlar.
+
+collocations[6]{hanzi,en}:
+  呼朋唤友去聚会 | gather friends to attend a party
+  呼朋唤友出门 | call friends together to go out
+  呼朋唤友来做客 | invite friends over as guests
+  呼朋唤友踏青 | gather companions for a spring outing
+  呼朋唤友共饮 | call friends together for drinks
+  呼朋唤友游玩 | gather friends for leisure and recreation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  招兵买马 | zhāo bīng mǎi mǎ | recruit troops and buy horses; assemble personnel
+  走南闯北 | zǒu nán chuǎng běi | travel throughout south and north; journey far and wide
+  引类呼朋 | yǐn lèi hū péng | gather one's ilk and summon cronies
+  三五成群 | sān wǔ chéng qún | in small groups of threes and fives
+
+character_decomposition[4]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  呼 | hū | call; shout; exhale; summon | llamar; clamar; exhalar; gritar | 口 | mouth | 口 (mouth shouting) | 乎 (hū, breath / exclamation) | 8 | 左右结构 | Phono-semantic character where open mouth 口 exhales sound with vocal force 乎 to call out. | Opening the mouth (口) wide to shout outward into the open air (乎) calls out to distant friends (呼). | Abrir la boca (口) de par en par para soltar la voz al aire (乎) llama a los compadres (呼). | 55 | RHFD | ""
+  朋 | péng | friend; companion; associate | amigo; camarada; compañero | 月 | moon / cowrie | 月 (ancient cowrie shells strung together) | 朋 (péng) | 8 | 左右结构 | Oracle bone pictogram showing two matched strings of precious cowrie currency, symbolizing equal, bonded friends. | Two matching strands of lustrous cowrie shells hang side by side, symbolizing bonded peers and friends (朋). | Dos hileras gemelas de conchas preciosas penden juntas, simbolizando amigos inseparables (朋). | 35 | BB | ""
+  唤 | huàn | call; summon; awaken; shout | llamar; convocar; despertar; vocear | 口 | mouth | 口 (mouth) | 奂 (huàn, brilliant change / phonetic) | 10 | 左右结构 | Phono-semantic character combining mouth 口 with 奂, signifying raising the voice to summon or awaken. | Using the mouth (口) to utter a vibrant clear sound (奂) awakens and summons companions (唤). | Con la boca (口) se emite una voz sonora (奂) para despertar y convocar a los cercanos (唤). | 51 | RNBK | ""
+  友 | yǒu | friend; companion; friendly | amigo; compañero; fraterno | 又 | right hand | 又 (hand) + 𠂇 (hand reaching together) | 友 (yǒu) | 4 | 半包围结构 | Oracle bone pictogram of two right hands 又 reaching out to clasp each other in warm mutual assistance. | Two hands reach out in the same direction, clasping together in lifelong loyal friendship (友). | Dos manos amigas se extienden en el mismo sentido, estrechándose en fraternal lealtad (友). | 214 | KE | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Shout out (呼) to your peers (朋) and summon (唤) your dear friends (友) to gather merrily (呼朋唤友).
+  composite_memory_hook_es: Clama en voz alta (呼) a los compadres (朋) y convoca (唤) a los amigos (友) para festejar juntos (呼朋唤友).
+  cultural_and_cognitive_roots: A classic four-character idiom reflecting traditional Chinese communal sociability; conveys an upbeat, festive atmosphere of spontaneous companionship and merry gatherings.
+  tone_sandhi_and_pitch_modulation: Level, rising, falling, dipping: 'hū péng huàn yǒu' (55-35-51-214). A rich four-syllable pitch arc moving through all four classic tone contours.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    呼吸 | hūxī | breathe | 吸 has 及 on right instead of 乎
+    服 | fú | clothes; obey | Has 月 on left, but 𠬝 on right instead of another 月 in 朋
+    换 | huàn | exchange; change | Has hand radical 扌 on left instead of mouth 口 in 唤
+    发 | fā | send out; hair | Has top stroke crossing with dot, distinct from 友
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    叫 | jiào | shout; call out aloud
+    招 | zhāo | beckon with hand; recruit
+    邀 | yāo | invite along the path
+    聚 | jù | gather together like flock
+
+semantic_boundary_contrasts:
+  core_nuance: 呼朋唤友 depicts a lively, festive scene of joyously gathering friends and companions for leisure, outings, or dining.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 呼朋唤友 vs. 结党营私 | jiédǎng-yíngsī | 呼朋唤友 has a cheerful, wholesome, or neutral lifestyle tone, while 结党营私 is an idiom describing corrupt conspiratorial faction-building.
+    2 | 呼朋唤友 vs. 走亲访友 | zǒuqīn-fǎngyǒu | 走亲访友 refers specifically to formal family holiday visits to relatives, while 呼朋唤友 conveys casual, high-spirited peer gatherings.
+    3 | 呼朋唤友 vs. 聚众闹事 | jùzhòng-nàoshì | 聚众闹事 denotes illegal riotous mob behavior, completely antithetical to friendly 呼朋唤友.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 金秋十月的周末天高气爽，红叶染透了漫山遍野。平日里忙碌奔波的年轻人纷纷呼朋唤友，背起行囊去登高赏秋。大家坐在山顶的巨石上分享零食畅聊心事，爽朗的笑声穿透松林，在湛蓝的天空下激荡出青春最欢畅的乐章。 | Jīnqiū shíyuè de zhòumò tiāngāo-qìshuǎng, hóngyè rǎntòu le mànshān-biànyě. Píngrì lǐ mánglù bēnbō de niánqīngrén fēnfēn hūpéng-huànyǒu, bēiqǐ xíngnáng qù dēnggāo shǎngqiū. Dàjiā zuò zài shāndǐng de jùshí shàng fēnxiǎng língshí chàngliáo xīnshì, shuǎnglǎng de xiàoshēng chuāntòu sōnglín, zài zhànlán de tiānkōng xià jīdàng chū qīngchūn zuì huānchàng de yuèzhāng. | On an autumn weekend under crisp skies, red leaves blanketed hills. Busy youths gathered companions, packing bags to hike. Sharing snacks on summit boulders and chatting freely, clear laughter echoed through pines, celebrating youth. | En un límpido fin de semana de otoño, las hojas tiñen las laderas. Jóvenes atareados convocan a los amigos para coronar la cumbre. Compartiendo viandas sobre las peñas, sus risas francas cruzan los pinares celebrando la juventud.
+  #2 | 文人结社与雅集是近代中国知识界独特的生活方式。无论是在北京胡同里的小酌论道，还是在上海租界的咖啡厅畅谈新思潮，先辈们常常呼朋唤友共同商讨办刊启蒙救国之策。思想的火花在频繁的友人聚会中激烈迸发，推动了时代巨浪。 | Wénrén jiéshè yǔ yǎjí shì jìndài Zhōngguó zhīshijiè dútè de shēnghuó fāngshì. Wúlùn shì zài Běijīng hútòng lǐ de xiǎozhuó lùndào, háishì zài Shànghǎi zūjiè de kāfēitīng chàngtán xīn sīcháo, xiānbèimen chángcháng hūpéng-huànyǒu gòngtóng shāngtǎo bànkān qǐmēng jiùguó zhī cè. Sīxiǎng de huǒhuā zài pínfán de yǒurén jùhuì zhōng jīliè bèngfā, tuīdòng le shídài jùlàng. | Literati salons were a hallmark of modern Chinese intellectuals. Whether sipping wine in Beijing hutongs or discussing ideas in Shanghai cafes, predecessors gathered companions to deliberate publications. Sparks from these meetings drove historical tides. | Las tertulias letradas marcaron a la intelectualidad moderna. Ya fuera brindando en los callejones de Pekín o debatiendo en cafés de Shanghái, los próceres reunían amigos para fundar revistas y abrir mentes, desatando olas históricas.

@@ -1,0 +1,64 @@
+id: 12
+hanzi: 摄影师
+pinyin: shè yǐng shī
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: photographer; cinematographer; cameraman
+  es: fotógrafo; camarógrafo; operador de cámara
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a professional who operates cameras to take still photographs or film motion pictures | profesional que opera cámaras para tomar fotografías fijas o rodar películas | 专业摄影师 (professional photographer)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 野生动物摄影师在茫茫雪原耐心地潜伏了三天，终于拍摄到雪豹奔跑的珍贵瞬间。 | Yěshēng dòngwù shèyǐngshī zài mángmáng xuěyuán nàixīn de qiánfú le sān tiān, zhōngyú pāishè dào xuěbào bēnpǎo de zhēnguì shùnjiān. | The wildlife photographer staked out the snowy plateau for three days, finally filming the precious moment of a snow leopard sprinting. | El fotógrafo de fauna silvestre acechó tres días en la estepa nevada, captando al fin el instante irrepetible de un leopardo de las nieves corriendo.
+  #2 | 这位年轻的摄影师凭借独特的光影构图，斩获了国际摄影大赛金奖。 | Zhè wèi niánqīng de shèyǐngshī píngjiè dútè de guāngyǐng gòutú, zhǎnhuò le guójì shèyǐng dàsài jīnjiǎng. | With his unique lighting and composition, this young photographer won the gold prize at the international photography competition. | Este joven fotógrafo cosechó el premio de oro en el certamen internacional gracias a su original composición de luces y sombras.
+
+collocations[6]{hanzi,en}:
+  专业摄影师 | professional photographer
+  野生动物摄影师 | wildlife photographer
+  首席摄影师 | chief cinematographer/photographer
+  特约摄影师 | contributing photographer
+  婚礼摄影师 | wedding photographer
+  签约摄影师 | contracted photographer
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  惟妙惟肖 | wéi miào wéi xiào | remarkably lifelike and vivid
+  跃然纸上 | yuè rán zhǐ shàng | leap off the page; vividly presented
+  捕捉瞬间 | bǔ zhuō shùn jiān | capture fleeting, critical moments
+  匠心独运 | jiàng xīn dú yùn | exquisite artistic craftsmanship and originality
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  摄 | shè | absorb; capture; take photo; act for | absorber; captar; fotografiar; asumir | 扌 | hand | 扌 (hand action) | 聑 (dié/shè, multiple ears / phonetic) | 13 | 左右结构 | Hand radical 扌 combined with three ears 聑; originally gathering sounds and sights by hand, extended to photo-recording. | A hand (扌) captures sights and sounds from listening ears (聑) through a camera lens (摄). | Una mano (扌) recoge imágenes y susurros de oídos atentos (聑) a través de una lente (摄). | 51 | QSJJ | 攝
+  影 | yǐng | shadow; image; film; reflection | sombra; imagen; película; reflejo | 彡 | bristle / pattern | 彡 (rays/patterns of light and shade) | 景 (jǐng, scenery/sunshine / phonetic) | 15 | 左右结构 | Sunlight over a pavilion 景 casting decorative shadow streaks 彡; represents shadow, image, or movie. | Sun shining on bright scenery (景) casts delicate shadow rays (彡) creating photographic imagery (影). | El sol sobre el paisaje (景) proyecta haces de sombra (彡) engendrando la imagen fotográfica (影). | 214 | AFHHH | ""
+  师 | shī | teacher; master; specialist; division | maestro; especialista; profesor; división | 巾 | cloth / banner | 巾 (military camp banner) | 𠂤 (duī, mound / multitude) | 6 | 左右结构 | A commander's banner 巾 leading an assembled host 𠂤; evolved to denote certified masters and professionals. | Under a guild banner (巾), a qualified master (师) leads and teaches with expertise. | Bajo el estandarte gremial (巾), un maestro profesional (师) guía con pericia consumada. | 55 | LMLB | 師
+
+mnemonics_and_roots:
+  composite_memory_hook_en: One who captures (摄) light and shadows (影) with masterly skill (师) is a photographer (摄影师).
+  composite_memory_hook_es: Quien captura (摄) sombras y luces (影) con destreza de maestro (师) es un fotógrafo (摄影师).
+  cultural_and_cognitive_roots: Compound created in late Qing to translate optical photography; 摄影 (capturing shadows) reflects the poetic Chinese perception of camera optics.
+  tone_sandhi_and_pitch_modulation: Falling tone, dipping tone, level high tone: 'shè yǐng shī' (51-214-55). Strike down on 'shè', swoop low on 'yǐng', float high on 'shī'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    慑 | shè | fear; intimidate | Has heart radical 忄 on left instead of hand 扌 in 摄
+    帅 | shuài | handsome; commander | Has 丿 on left instead of 刂 in 师
+    聂 | niè | whisper; surname | Has three ears 耳 without hand radical 扌
+    彭 | péng | drum sound; surname | Has 壴 on left instead of 景 before 彡
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    照 | zhào | illuminate; take snapshot
+    相 | xiàng | appearance; portrait photograph
+    镜 | jìng | mirror; optical lens
+    景 | jǐng | scenery; optical vista
+
+semantic_boundary_contrasts:
+  core_nuance: 摄影师 highlights artistic mastery of lighting, framing, and lenses, distinct from moving camera operators or directors.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 摄影师 vs. 摄像师 | shèxiàngshī | 摄影师 commonly focuses on still photography or cinema optics, while 摄像师 primarily operates video cameras for television and live broadcasts.
+    2 | 摄影师 vs. 导演 | dǎoyǎn | 导演 directs overall dramatic narrative and acting, while 摄影师 realizes visual compositions on camera.
+    3 | 摄影师 vs. 照相师傅 | zhàoxiàng shīfu | 照相师傅 is a traditional colloquial term for ID studio technicians, lacking the creative artistic prestige of 摄影师.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 一名优秀的纪实摄影师，不仅需要精湛的技术，更需要敏锐的人文洞察力。他们穿梭在喧嚣街巷与偏僻乡村，用镜头定格普通人的喜怒哀乐，记录时代变迁中最动人的脉搏与记忆。 | Yì míng yōuxiù de jìshí shèyǐngshī, bùjǐn xūyào jīngzhàn de jìshù, gèng xūyào mǐnruì de rénwén dòngchálì. Tāmen chuānsuō zài xuānxiāo jiēxiàng yǔ piānpì xiāngcūn, yòng jìngtóu dìnggé pǔtōngrén de xǐnù'ǎilè, jìlù shídài biànqiān zhōng zuì dòngrén de màibó yǔ jìyì. | An outstanding documentary photographer requires superb technique and humanistic insight. Moving between bustling alleys and quiet hamlets, their lens captures human emotions, recording the poignant pulse of history. | Un fotógrafo documental sobresaliente precisa pericia técnica y hondura humanística. Recorriendo callejones bulliciosos y aldeas remotas, su lente inmortaliza emociones cotidianas retratando el palpitar de una época.
+  #2 | 电影摄影师被称为“用光作画的诗人”。在剧组拍摄现场，摄影师与导演紧密配合，根据剧情发展精准调配光影明暗、机位运动与色调冷暖，赋予原本平淡的场景深邃的戏剧张力与视觉美感。 | Diànyǐng shèyǐngshī bèi chēngwéi 'yòng guāng zuòhuà de shīrén'. Zài jùzǔ pāishè xiànchǎng, shèyǐngshī yǔ dǎoyǎn jǐnmì pèihé, gēnjù jùqíng fāzhǎn jīngzhǔn tiáopèi guāngyǐng míng'àn, jīwèi yùndòng yǔ sèdiào lěngnuǎn, fùyǔ yuánběn píngdàn de chǎngjǐng shēnsù de xìjù zhānglì yǔ shìjué měigǎn. | Cinematographers are called poets painting with light. On set, they collaborate with directors, calibrating shadows, camera movement, and color warmth to infuse ordinary scenes with dramatic tension and beauty. | A los directores de fotografía se les llama poetas de la luz. En el rodaje colaboran con el director modulando sombras, encuadres y temperatura de color para dotar a las escenas de tensión dramática y belleza visual.

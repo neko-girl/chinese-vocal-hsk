@@ -1,0 +1,62 @@
+id: 8
+hanzi: 啦
+pinyin: la
+level: HSK 5
+part_of_speech: Particle
+
+meanings_summary:
+  en: modal particle fusion of 了 (le) and 啊 (a) marking exclamation, finality, or excitement
+  es: partícula modal fusión de 了 y 啊 que denota júbilo, cambio de estado o aviso
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Particle | Colloquial / Standard | sentence-final modal particle expressing completed change of state merged with lively exclamatory emotion | partícula modal al final de frase que denota la consumación de un cambio unida a exclamación viva o júbilo | 下雪啦 (it is snowing!)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 下课铃声一响，操场上顿时热闹起来，孩子们欢呼雀跃地喊道：“放假啦！放假啦！” | Xiàkè língshēng yì xiǎng, cāochǎng shàng dùnshí rènào qǐlái, háizimen huānhū-quèyuè de hǎndào: 'Fàngjià la! Fàngjià la!' | As soon as the bell rang, the playground bustled as children cheered joyfully: 'Vacation has started! Vacation is here!' | Al sonar el timbre, el patio se llenó de algarabía mientras los niños gritaban con júbilo: '¡Llegaron las vacaciones! ¡Vacaciones!'.
+  #2 | 经过反复调试实验装置，摄影师兴奋地大喊：“奇迹出现啦！静止的马片连成会跑的活马啦！” | Jīngguò fǎnfù tiáoshì shíyàn zhuāngzhì, shèyǐngshī xīngfèn de dàhǎn: 'Qíjì chūxiàn la! Jìngzhǐ de mǎpiàn liánchéng huì pǎo de huómǎ la!' | After repeatedly calibrating the apparatus, the photographer shouted in excitement: 'The miracle has happened! The pictures have turned into a running horse!' | Tras ajustar el aparato, el fotógrafo gritó entusiasmado: '¡Ocurrió el milagro! ¡Las fotos fijas se han convertido en un caballo al galope!'.
+
+collocations[6]{hanzi,en}:
+  快来啦 | come quickly!
+  知道啦 | I know now!
+  好啦 | all right; that's enough
+  算啦 | forget it; let it drop
+  成功啦 | we succeeded!
+  回家啦 | going home now!
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大快人心 | dà kuài rén xīn | afford universal satisfaction; delight everyone
+  皆大欢喜 | jiē dà huān xǐ | to the delight of all involved; universal joy
+  欢天喜地 | huān tiān xǐ dì | overjoyed with heavenly rejoicing
+  喜上眉梢 | xǐ shàng méi shāo | joy beaming on one's eyebrows
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  啦 | la | modal particle le + a; exclamation | partícula modal le + a; exclamación | 口 | mouth | 口 (mouth expressing sound) | 拉 (lā, pull / phonetic harmony) | 11 | 左右结构 | Phono-semantic fusion particle where mouth radical 口 utters the merged phonetic contraction of 了 (le) and 啊 (a). | An open mouth (口) pulls (拉) out a cheerful exclamation, shouting 'hurrah!' (啦). | Una boca abierta (口) suelta una alegre exclamación (拉) festejando un desenlace (啦). | 55 | RYT | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Open your mouth (口) and pull out (拉) a joyful shout merging change of state and delight into a vibrant particle (啦).
+  composite_memory_hook_es: Abre la boca (口) y entona (拉) un grito de júbilo que une el cambio de estado y el asombro (啦).
+  cultural_and_cognitive_roots: A phonological fusion morpheme (合音字) originating in Song and Yuan vernacular drama; contracts 'le' (completed aspect) with 'a' (affective particle) into a single lively syllable.
+  tone_sandhi_and_pitch_modulation: Neutral tone: 'la' (pitch 2 or 5 depending on preceding tone). Short, light, unstressed musical cadence at the tail of sentences.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    拉 | lā | pull; drag | Has hand radical 扌 on left instead of mouth 口 in 啦
+    垃 | lā | garbage | Has earth radical 土 on left of 立 and 十
+    粒 | lì | grain | Has rice radical 米 on left of 立
+    哈 | hā | laughter | Has 合 on right instead of 拉
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    了 | le | aspect particle; completed change
+    啊 | a | exclamatory modal particle
+    呢 | ne | continuative question particle
+    嘛 | ma | obvious emphatic particle
+
+semantic_boundary_contrasts:
+  core_nuance: 啦 is a colloquial sentence-final modal particle expressing lively completion, sudden joy, relief, or an alert.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 啦 vs. 了 | le | 了 is a neutral grammatical aspect/modal particle without emotional coloring, whereas 啦 adds lively exclamatory warmth ('下雨了' vs. '下雨啦!').
+    2 | 啦 vs. 吧 | ba | 吧 expresses suggestion, hesitation, or gentle conjecture ('走吧'), while 啦 announces a realized fact with gusto ('来啦').
+    3 | 啦 vs. 吗 | ma | 吗 strictly forms yes-no interrogative questions, while 啦 is affirmative or exclamatory.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 冬去春来，当第一抹嫩绿悄悄爬上枝头，枝头上的燕子开始筑巢，田埂上的孩子们脱下厚重的棉袄欢呼：“春天来啦！春天来啦！”那稚嫩清脆的欢呼声在春风里回荡，唤醒了沉睡的大地，吹散了漫长冬日的所有严寒。 | Dōngqù-chūnlái, dāng dì-yī mǒ nènlǜ qiāoqiāo pá shàng zhītóu, zhītóu shàng de yànzi kāishǐ zhùcháo, tiángěng shàng de háizimen tuōxià hòuzhòng de mián'ǎo huānhū: 'Chūntiān lái la! Chūntiān lái la!' Nà zhìnèn qīngcuì de huānhūshēng zài chūnfēng lǐ huídàng, huànxǐng le chénsùi de dàdì, chuīsàn le màncháng dōngrì de suǒyǒu yánhán. | Winter fades into spring; as the first green climbs twigs and swallows nest, kids strip off coats cheering: 'Spring is here! Spring is here!' That youthful cheer echoes in the breeze, awakening the earth and scattering winter chills. | Se va el invierno y brotan las yemas; al anidar las golondrinas, los niños se quitan los abrigos gritando: '¡Llegó la primavera! ¡Ya está aquí!'. Sus risas limpias despiertan los campos, disipando la frialdad invernal.
+  #2 | 科研攻关是一段漫长而艰辛的跋涉。经过成百上千次的失败与摸索，当计算机屏幕上最终跳出完美吻合的测试曲线时，整个实验室里顿时爆发出一片沸腾的欢呼声：“我们成功啦！这项技术终于突破啦！”所有的心血在此刻化作了自豪的泪水。 | Kēyán gōngguān shì yí duàn màncháng ér jiānxīn de báshè. Jīngguò chéngbǎi-shàngqiān cì de shībài yǔ mōsuǒ, dāng jìsuànjī píngmù shàng zuìzhōng tiàochū wánměi wènhé de cèshì qūxiàn shí, zhěng gè shíyànshì lǐ dùnshí bàofā chū yí piàn fèiténg de huānhūshēng: 'Wǒmen chénggōng la! Zhè xiàng jìshù zhōngyú tūpò la!' Suǒyǒu de xīnxuè zài cǐkè huàzuò le zìháo de lèishuǐ. | Scientific research is an arduous journey. After hundreds of failures, when computer screens display matching test curves, the lab erupts into cheers: 'We succeeded! The breakthrough is here!' Years of toil turn into tears of pride. | La investigación científica es una ardua senda. Tras incontables ensayos, cuando la pantalla muestra la curva perfecta de datos, el laboratorio prorrumpe en vítores: '¡Lo logramos! ¡Se hizo el hallazgo!'. El desvelo deviene júbilo.

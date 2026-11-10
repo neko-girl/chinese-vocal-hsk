@@ -1,0 +1,64 @@
+id: 11
+hanzi: 写作
+pinyin: xiě zuò
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to write; to compose; writing; literary composition
+  es: escribir; redactar; composición; creación literaria
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to compose literary works, articles, books, or poems | redactar o componer obras literarias, artículos, libros o poesías | 从事写作 (engage in writing)
+  2 | Noun | Standard | the process or craft of literary composition | el oficio, disciplina o proceso de la composición escrita | 提高写作技巧 (improve writing skills)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了完成这部长篇小说的写作，作者深入西南山区体验生活了整整三年，积累了丰富素材。 | Wèile wánchéng zhè bù chángpiān xiǎoshuō de xiězuò, zuòzhě shēnrù xīnán shānqū tǐyàn shēnghuó le zhěngzhěng sān nián, jīlěi le fēngfù sùcái. | To complete writing this novel, the author lived in the southwest mountains for three whole years, gathering rich material. | Para redactar esta novela extensa, el autor se adentró en las sierras del suroeste durante tres años a recopilar vivencias.
+  #2 | 鲁迅的日记中记录了大量深夜写作的琐屑，伏案工作之余，品茶抽烟便成了他舒缓神经的习惯。 | Lǔ Xùn de rìjì zhōng jìlù le dàliàng shēnyè xiězuò de suǒxiè, fú'àn gōngzuò zhī yú, pǐnchá chōuyān biàn chéngwéi tā shūhuǎn shénjīng de xíguàn. | Lu Xun's journals recorded many details of late-night writing; after hours at his desk, tea and cigarettes relieved tension. | El diario de Lu Xun consigna vigilias dedicadas a escribir; tras largas horas al pupitre, fumar y tomar té aliviaban su fatiga.
+
+collocations[6]{hanzi,en}:
+  从事写作 | engage in writing
+  写作技巧 | writing techniques
+  文学写作 | literary writing
+  写作风格 | writing style
+  学术写作 | academic writing
+  完成写作 | finish writing
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  妙笔生花 | miào bǐ shēng huā | a gifted pen brings forth flowers; brilliant writing
+  行云流水 | xíng yún liú shuǐ | floating clouds and flowing water; natural and smooth style
+  文不加点 | wén bù jiā diǎn | write without needing corrections; swift literary facility
+  一挥而就 | yì huī ér jiù | accomplish in one flourish of the pen
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  写 | xiě | write; draw; depict; compose | escribir; dibujar; retratar; componer | 冖 | cover | 冖 (cover/canopy) | 与 (yǔ, simplified component) | 5 | 上下结构 | Traditional 寫 shows placing objects into a container under a roof 宀; simplified to 写 for putting words on paper. | Under a desk canopy (冖), strokes of ink flow with (与) deliberate grace to write (写) truth. | Bajo la lámpara de la mesa (冖), los trazos fluyen con (与) armonía para escribir (写) verdades. | 214 | BYM | 寫
+  作 | zuò | make; do; create; write; act | hacer; crear; componer; actuar | 亻 | person | 亻 (person/creator) | 乍 (zhà, sudden burst / phonetic) | 7 | 左右结构 | Ideogram showing an active artisan 亻 suddenly 乍 beginning a new constructive creation. | A creative person (亻) abruptly (乍) begins to fashion a masterwork with their hands (作). | Una persona industriosa (亻) se pone de pronto (乍) manos a la obra para crear algo nuevo (作). | 51 | OHS | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When a creative mind (作) puts ink to paper (写), powerful writing (写作) is born.
+  composite_memory_hook_es: Cuando la mano creadora (作) plasma la tinta sobre el papel (写), surge la viva escritura (写作).
+  cultural_and_cognitive_roots: In the Chinese Confucian tradition, writing ('wén') carried the sacred mission of conveying moral dao ('文以载道'); combining 'xiě' (inscribing) with 'zuò' (creative generation) denotes purposeful art.
+  tone_sandhi_and_pitch_modulation: Dipping tone followed by falling tone: 'xiě zuò' (214-51). Pronounce 'xiě' with a low dip before dropping into 4th tone 'zuò'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    军 | jūn | army; military | Has 车 inside 冖 instead of 与
+    昨 | zuó | yesterday | Has sun radical 日 on left instead of 亻
+    炸 | zhà | explode; deep fry | Has fire radical 火 on left instead of 亻
+    咋 | zǎ | how; why | Has mouth radical 口 on left instead of 亻
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    述 | shù | narrate; recount on paths
+    撰 | zhuàn | compile; author with hands
+    著 | zhù | author; manifest clearly
+    创 | chuàng | create; initiate with blades
+
+semantic_boundary_contrasts:
+  core_nuance: 写作 focuses on the active creative or technical process of producing written prose, articles, or books.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 写作 vs. 创作 | chuàngzuò | 创作 applies broadly to original artistic creation across all mediums (music, painting, theater), while 写作 is strictly text-based.
+    2 | 写作 vs. 起草 | qǐcǎo | 起草 refers specifically to producing preliminary bureaucratic or legal drafts of treaties and laws, unlike general literary 写作.
+    3 | 写作 vs. 抄写 | chāoxiě | 抄写 is merely copying existing text onto paper without creative input, while 写作 requires cognitive ideation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 写作是一场孤独而又丰盈的心灵远征。作家在夜深人静时面对素白的稿纸，将心底最隐秘的感悟化作跳动的文字。那些在生活磨难中提炼出的深刻句子，不仅慰藉了创作者孤寂的灵魂，更穿越时空温暖了无数素昧平生的读者。 | Xiězuò shì yì chǎng gūdú ér yòu fēngyíng de xīnlíng yuǎnzhēng. Zuòjiā zài yèshēn-rénjìng shí miànduì sùbái de gǎozhǐ, jiāng xīndǐ zuì yǐnmì de gǎnwù huàzuò tiàodòng de wénzì. Nàxiē zài shēnghuó mónàn zhōng tíliàn chū de shēnkè jùzi, bùjǐn wèijiè le chuàngzuòzhě gūjì de línghún, gèng chuānyuè shíkōng wēnduǎn le wúshù sùmèi-píngshēng de dúzhě. | Writing is a lonely yet fruitful pilgrimage of the soul. In the quiet of night, authors turn inner feelings into living words on white sheets. Profound sentences forged through hardship comfort the creator and warm readers across time. | Escribir es una travesía íntima, solitaria y fecunda. En el sosiego nocturno, el autor plasma sus emociones en el papel en blanco. Esas frases forjadas en la adversidad no solo consuelan al creador, sino que arropan a lectores remotos.
+  #2 | 随着人工智能技术的飞速演进，机器辅助写作正在深刻重塑传统传媒生态。智能算法能够在数秒内生成结构完整的财经快讯与行业简报，促使专业记者将更多精力投入深度调查与批判性写作，以守护新闻叙事的人文深度与思想温度。 | Suízhe réngōng zhìnéng jìshù de fēisù yǎnjìn, jīqì fùzhù xiězuò zhèngzài shēnkè chóngshù chuántǒng chuánméi shēngtài. Zhìnéng suànfǎ nénggòu zài shù miǎo nèi shēngchéng jiégòu wánzhěng de cáiqīng kuàixùn yǔ hángyè jiǎnbào, cùshǐ zhuānyè jìzhě jiāng gèng duō jīnglì tóurù shēndù diàochá yǔ pīpànxìng xiězuò, yǐ shǒuhù xīnwén xùshì de rénwén shēndù yǔ sīxiǎng wēndù. | With AI advancing, machine writing reshapes journalism. Algorithms generate newsflashes in seconds, compelling reporters to focus on investigative and critical writing to preserve the human depth and intellectual warmth of narratives. | Con el avance de la inteligencia artificial, la redacción automatizada transforma el periodismo. Los algoritmos generan síntesis en segundos, empujando a los cronistas hacia la investigación profunda para preservar el pulso humano de las noticias.

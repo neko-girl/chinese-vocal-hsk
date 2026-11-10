@@ -1,0 +1,62 @@
+id: 30
+hanzi: 胃
+pinyin: wèi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: stomach; gastric organ; belly
+  es: estómago; órgano digestivo gástrico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the muscular organ of the digestive tract in humans and animals where food is broken down | órgano muscular del aparato digestivo de humanos y animales donde se descomponen los alimentos | 保护胃部健康 (protect stomach health)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经常不规律进食和暴饮暴食极易损伤脆弱的胃黏膜，导致慢性胃炎等消化系统疾病发作。 | Jīngcháng bù guīlǜ jìnshí hé bàoyǐn-bàoshí jí yì sǔnshāng cuìruò de wèi niánmó, dǎozhì mànxìng wèiyán děng xiāohuà xìtǒng jíbìng fāzuò. | Irregular eating and bingeing easily damage the delicate stomach mucosa, triggering chronic gastritis and digestive ailments. | Comer a deshoras y darse atracones daña la mucosa gástrica, provocando gastritis crónica y desórdenes digestivos.
+  #2 | 根据鲁迅先生的日记与书信考证，他在北京和上海写作期间常年饱受胃病折磨，严重时夜不能寐。 | Gēnjù Lǔ Xùn xiānsheng de rìjì yǔ shūxìn kǎozhèng, tā zài Běijīng hé Shànghǎi xiězuò qījiān chángnián bǎoshòu wèibìng zhémó, yánzhòng shí yè bùnéng mèi. | Researching Lu Xun's diaries confirms he suffered year-round from stomach illness while writing, frequently kept awake at night. | Los diarios de Lu Xun atestiguan que padeció intensas dolencias de estómago mientras escribía, perdiendo el sueño en sus crisis.
+
+collocations[6]{hanzi,en}:
+  胃病 | stomach illness / gastric ailment
+  胃痛 | stomach ache / gastralgia
+  暖胃 | warm and comfort the stomach
+  空腹伤胃 | harm the empty stomach
+  胃酸 | gastric acid
+  胃溃疡 | gastric ulcer
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  刮目相看 | guā mù xiāng kàn | rub one's eyes and look at someone with new respect
+  痛定思痛 | tòng dìng sī tòng | reflect deeply on painful lessons after pain subsides
+  养生之道 | yǎng shēng zhī dào | the way of preserving health and life
+  饮鸩止渴 | yǐn zhèn zhǐ kě | drink poison to quench thirst; seek relief with disastrous means
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  胃 | wèi | stomach; digestive sac | estómago; saco digestivo | 月 | moon / flesh | 月 (flesh/body organ) | 田 (tián, granary storage chamber) | 9 | 上下结构 | Ancient oracle bone pictogram of a fleshy muscular pouch 月 storing grain harvests 田 for digestion. | A muscular organ pouch of flesh (月) receives grains from the rice fields (田) to digest in the stomach (胃). | Una bolsa carnosa (月) asimila los granos del campo (田) para hacer la digestión gástrica (胃). | 51 | WB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The flesh pouch (月) that holds and digests field grains (田) is your vital stomach (胃).
+  composite_memory_hook_es: La bolsa carnosa (月) que digiere los granos del campo (田) es el estómago (胃).
+  cultural_and_cognitive_roots: Traditional Chinese Medicine (TCM) refers to the stomach as the 'Sea of Grain and Water' (水谷之海) and the minister of granaries (仓廪之官), vital for postnatal vitality.
+  tone_sandhi_and_pitch_modulation: Falling 4th tone: 'wèi' (51). Crisp, solid descending contour from pitch 5 to pitch 1.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    骨 | gǔ | bone | Has 冎 at top instead of 田 in 胃
+    宵 | xiāo | night | Has roof 宀 at top instead of 田
+    渭 | wèi | Wei River | Has water radical 氵 on the left of 胃
+    谓 | wèi | say; tell | Has speech radical 讠 on the left of 胃
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    肚 | dù | belly; abdomen
+    肠 | cháng | intestines; bowels
+    腑 | fǔ | internal organs; entrails
+    脏 | zàng | viscera; internal anatomy
+
+semantic_boundary_contrasts:
+  core_nuance: 胃 strictly denotes the anatomical stomach organ responsible for breaking down food.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 胃 vs. 肚子 | dùzi | 肚子 is the broad colloquial word for the entire external belly or abdominal cavity, while 胃 is the specific internal organ.
+    2 | 胃 vs. 胃口 | wèikǒu | 胃 is the physical organ, whereas 胃口 is appetite or psychological interest in something.
+    3 | 胃 vs. 肠胃 | chángwèi | 肠胃 is a collective term for the entire gastrointestinal tract (stomach and intestines), while 胃 is solely the stomach.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 胃是人体中最敏感的情绪器官之一。长期的焦虑、紧张与熬夜，往往会通过神经系统迅速波及胃部，引起痉挛与隐痛。呵护好自己的胃，按时吃一顿温热的三餐，不仅是保持身体健康的底线，更是对疲惫心灵最温存的体恤。 | Wèi shì réntǐ zhōng zuì mǐngǎn de qíngxù qìguān zhīyī. Chángqī de jiāolǜ, jǐnzhāng yǔ áoyè, wǎngwǎng huì tōngguò shénjīng xìtǒng xùnsù bōjí wèibù, yǐnqǐ jìngluán yǔ yǐntòng. Hēhù hǎo zìjǐ de wèi, ànshí chī yí dùn wēnrè de sāncān, bùjǐn shì bǎochí shēntǐ jiànkāng de dǐxiàn, gèng shì duì píbèi xīnlíng zuì wēncún de tǐxù. | The stomach is one of the body's most sensitive emotional organs. Anxiety and sleep deprivation swiftly strike through the nervous system, causing cramps and aches. Caring for one's stomach with warm, regular meals is gentlest comfort. | El estómago es uno de los órganos más sensibles a las emociones. La ansiedad constante y el desvelo alteran los nervios, provocando cólicos. Cuidar la digestión y comer caliente a sus horas es el mayor mimo para un cuerpo fatigado.
+  #2 | 随着幽门螺旋杆菌筛查技术的广泛普及，我国早期胃癌的诊疗水平取得了长足进步。消化内科专家呼吁，四十岁以上高危人群应当定期接受无痛胃镜检查，做到早发现、早诊断、早干预，筑牢消化道肿瘤防控的坚固屏障。 | Suízhe yōumén luóxuángǎnjūn shāichá jìshù de guǎngfàn pǔjí, wǒguó zǎoqī wèiyán de zhěnliáo shuǐpǐng qǔdé le chángzú jìnbù. Xiāohuà nèikē zhuānjiā hūyù, sìshí suì yǐshàng gāowēi rénqún yīngdāng dìngqī jiēshòu wútòng wèijìng jiǎnchá, zuòdào zǎo fāxiàn, zǎo zhěnduàn, zǎo gānyù, zhùláo xiāohuàdào zhǒngliú fángkòng de jiāngù píngzhàng. | With widespread screening for H. pylori, early gastric cancer diagnosis has progressed significantly. Gastroenterologists urge those over 40 to undergo painless gastroscopy regularly for early detection and intervention. | Con el cribado de Helicobacter pylori, la detección precoz del cáncer gástrico ha avanzado a pasos agigantados. Los especialistas recomiendan gastroscopias preventivas a mayores de 40 años para atajar a tiempo cualquier anomalía.

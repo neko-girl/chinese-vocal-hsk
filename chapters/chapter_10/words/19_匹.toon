@@ -1,0 +1,62 @@
+id: 19
+hanzi: 匹
+pinyin: pǐ
+level: HSK 5
+part_of_speech: Measure Word
+
+meanings_summary:
+  en: measure word for horses or cloth bolts; match; equal
+  es: clasificador para caballos o piezas de tela; rival; igual
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Measure Word | Standard | measure word used for horses, mules, or bolts of woven cloth | clasificador numeral empleado para caballos, mulas o piezas de tela | 一匹骏马 / 两匹布 (a spirited horse / two bolts of cloth)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 广阔无垠的蒙古大草原上，一匹黑色的骏马正迎着晨曦自由自在地飞驰奔跑。 | Guǎngkuò-wúyín de Měnggǔ dàcǎoyuán shàng, yì pǐ hēisè de jùnmǎ zhèng yíngzhe chénxī zìyóuzìzài de fēichí bēnpǎo. | On the boundless Mongolian steppe, a black steed galloped freely into the morning dawn. | En la inmensa estepa mongola, un brioso caballo negro galopaba a sus anchas de cara al alba.
+  #2 | 在这场马拉松长跑决赛中，这位名不见经传的年轻小将成为一匹爆冷的黑马，夺得冠军。 | Zài zhè chǎng mǎlāsōng chángpǎo juésài zhōng, zhè wèi míngbùjiànjīngzhuàn de niánqīng xiǎojiàng chéngwéi yì pǐ bàolěng de hēimǎ, duódé guànjūn. | In the marathon final, this little-known young athlete emerged as a dark horse upset, winning the championship. | En la final de maratón, este desconocido joven atleta se convirtió en un caballo negro revelación alzándose con el título.
+
+collocations[6]{hanzi,en}:
+  一匹马 | a horse
+  一匹骏马 | a fine spirited horse
+  一匹黑马 | a dark horse (surprise winner)
+  一匹布 | a bolt of cloth
+  单枪匹马 | single-handed; all alone
+  匹配 | to match / pair up
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  单枪匹马 | dān qiāng pǐ mǎ | single-handed; completely on one's own
+  匹夫有责 | pǐ fū yǒu zé | every ordinary citizen shares responsibility for the nation
+  天下无匹 | tiān xià wú pǐ | matchless in the world; peerless
+  势均力敌 | shì jūn lì dí | evenly matched in strength
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  匹 | pǐ | measure word for horses/cloth; equal; match | clasificador para caballos/tela; semejante; rival | 匚 | box / enclosure | 匚 (container/measured enclosure) | 儿 (legs / phonetic carrier) | 4 | 半包围结构 | Enclosure 匚 holding measured rolls of silk; ancient textile counting unit later applied to equines. | A measure box (匚) neatly rolls up a bolt of silk cloth (匹). | Un cajón de medida (匚) enrolla con pulcritud una pieza de seda (匹). | 214 | SU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Count horses and fine silk bolts within the standard measure box (匹).
+  composite_memory_hook_es: Cuenta corceles y piezas de tela fina con el clasificador patrón (匹).
+  cultural_and_cognitive_roots: Silk trading on the Northern frontier: an equine war horse was valued at exactly one bolt of standard silk (匹), permanently bridging the classifier.
+  tone_sandhi_and_pitch_modulation: Dipping third tone: 'pǐ' (214). Dip down low to pitch 2 and rebound lightly up to 4.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    四 | sì | four | Has enclosed box 囗 with 儿 inside instead of 匚 open on right in 匹
+    西 | xī | west | Has top stroke 一 over enclosure
+    巨 | jù | huge; gigantic | Has internal horizontal and vertical hook strokes inside 匚
+    臣 | chén | official; minister | Pictogram of downcast eye in vertical frame
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    配 | pèi | match; pair together
+    头 | tóu | classifier for cattle and pigs
+    卷 | juǎn | roll of paper or fabric
+    双 | shuāng | pair; couple
+
+semantic_boundary_contrasts:
+  core_nuance: 匹 is the dedicated classifier for horses, mules, and fabric bolts, conveying stature and vigor.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 匹 vs. 头 | tóu | 头 is the classifier for cattle, pigs, and donkeys ('一头牛', '一头猪'), while horses strictly take 匹 ('一匹马').
+    2 | 匹 vs. 只 | zhī | 只 is the classifier for birds, sheep, and small pets, inappropriate for noble horses in standard Chinese.
+    3 | 匹 vs. 卷 | juǎn | 卷 counts modern rolled carpets and paper, whereas 匹 traditionally counts whole woven fabric bolts ('两匹布').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古丝绸之路上，商人牵着满载丝绸的骆驼商队西行，用一匹匹细腻柔软的中国绫罗绸缎，换回西域良马。一匹匹神骏的汗血宝马穿行在大漠黄沙间，见证了东西方文明跨越千山万水的繁荣交融。 | Gǔ Sīchóuzhīlù shàng, shāngrén qiānzhe mǎnzài sīchóu de luòtuo shāngduì xīxíng, yòng yì pǐ pǐ xìnì róuruǎn de Zhōngguó língluó-chóuduàn, huànhuí Xīyù liángmǎ. Yì pǐ pǐ shénjùn de hànxiě bǎomǎ chuānxíng zài dàmò huángshā jiān, jiànzhèng le dōng-xīfāng wénmíng kuàyuè qiānshān-wànshuǐ de fánróng jiāoróng. | On the Silk Road, merchants traded bolts of silk for western steeds. Noble horses trotting through desert sands witnessed the prosperous fusion of civilizations. | En la Ruta de la Seda, caravanas trocaban piezas de seda por corceles occidentales. Caballos trotando entre arenas desérticas atestiguaron la fructífera comunión de civilizaciones.
+  #2 | 在现代科技竞技赛场上，只要敢打敢拼，任何籍籍无名的初创企业都有可能凭借颠覆性创新脱颖而出，成为震撼行业的“独角兽黑马”。这匹黑马的诞生，不仅打破了既有市场格局，更激发了全社会的创新活力。 | Zài xiàndài kējì jìngjì sàichǎng shàng, zhǐyào gǎndǎ-gǎnpīn, rènhé jíjímíngbù de chūchuàng qǐyè dōuyǒu kěnéng píngjiè diānfùxìng chuàngxīn tuōyǐng'érchū, chéngwéi zhènhàn hángyè de 'dújiǎoshòu hēimǎ'. Zhè pǐ hēimǎ de dànshēng, bùjǐn dǎpò le jìyǒu shìchǎng géjú, gèng jīfā le quán shèhuì de chuàngxīn huólì. | In tech arenas, an obscure startup pioneering disruption can emerge as an industry-shaking dark horse unicorn. Its birth shatters market setups and inspires innovation. | En la arena tecnológica, una empresa emergente resuelta puede irrumpir como caballo negro unicornio gracias a una innovación disruptiva, sacudiendo el mercado con dinamismo creador.

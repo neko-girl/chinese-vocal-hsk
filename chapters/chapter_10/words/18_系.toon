@@ -1,0 +1,62 @@
+id: 18
+hanzi: 系
+pinyin: jì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to tie; to fasten; to bind; to buckle
+  es: atar; amarrar; abrochar; ceñir; anudar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to tie, bind, knot, or fasten with a cord, rope, strap, or belt (pronounced jì) | atar, anudar, abrochar o sujetar mediante cuerda, lazo, correa o cinturón (leído jì) | 系鞋带 / 系安全带 (tie shoelaces / fasten seatbelt)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 登机入座后，乘务员微笑着提醒每一位旅客系好座椅上的安全带。 | Dēngjī rùzuò hòu, chéngwùyuán wēixiào zhe tíxǐng měi yí wèi lǚkè jìhǎo zuòyǐ shàng de ānquándài. | After boarding, the flight attendant reminded passengers to fasten their seatbelts. | Tras acomodarse en el avión, la azafata recordó a los pasajeros abrocharse los cinturones de seguridad.
+  #2 | 他在木棍上牢牢系了一条细线，用它制作了一副简单耐用的简易捕鱼工具。 | Tā zài mùgùn shàng láoláo jì le yì tiáo xìxiàn, yòng tā zhìzuò le yí fù jiǎndān nàiyòng de jiǎnyì bǔyú gōngjù. | He tied a thin line firmly onto the wooden stick, making a simple improvised fishing rig. | Ató firmemente un sedal a la vara de madera, fabricando un útil de pesca casero, sencillo y resistente.
+
+collocations[6]{hanzi,en}:
+  系好 | fasten securely
+  系鞋带 | tie shoelaces
+  系安全带 | buckle seatbelt
+  系上围裙 | put on / tie apron
+  系红领巾 | tie red scarf
+  系紧绳子 | tighten rope knot
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  解铃系铃 | jiě líng xì líng | let whoever tied the bell untie it; solve what one caused
+  心系祖国 | xīn xì zǔ guó | heart inextricably tied to one's homeland
+  千钧一发 | qiān jūn yí fà | suspended by a single hair; extremely critical moment
+  命系一线 | mìng xì yí xiàn | one's life hanging by a single slender thread
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  系 | jì | tie; fasten; knot; bind | atar; anudar; amarrar; abrochar | 糸 | silk / thread | 糸 (silk filaments/threads) | 丿 (hand reaching to attach) | 7 | 上下结构 | Oracle bone pictograph of silk skeins connected together with a binding tie; phonetic split between colloquial jì (fasten) and formal xì (system). | Silk threads (糸) are held by a hand and tied into a firm knot (系). | Hebras de seda (糸) sujetadas por una mano para anudarlas con firmeza (系). | 51 | HVI | 繫
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Hold silk threads (糸) and snap them down tight into a knot (jì, 系).
+  composite_memory_hook_es: Toma hebras de seda (糸) y ciérralas en un nudo firme (jì, 系).
+  cultural_and_cognitive_roots: Textile knotting culture in ancient China; before writing, knots (结绳记事) recorded treaties and obligations, giving '系' deep cultural resonance.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone: 'jì' (51). Snap down sharply and firmly like locking a seatbelt buckle into place.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    素 | sù | plain; vegetarian; element | Has 𡗗 on top instead of 丿 in 系
+    絮 | xù | cotton wadding; chatter | Has 如 on top of 糸
+    索 | suǒ | rope; search; demand | Has 十 and 冖 atop 糸
+    累 | lèi | tired; accumulate | Has field 田 on top of 糸
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    结 | jié | knot; tie into bundle
+    绑 | bǎng | bind; tie person to post
+    扣 | kòu | button; buckle clasp
+    缚 | fù | bind; tie tightly with cords
+
+semantic_boundary_contrasts:
+  core_nuance: 系 (jì) emphasizes binding or fastening with flexible cords, straps, or ribbons.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 系 (jì) vs. 捆 | kǔn | 捆 refers to bundling up bulky cargo tightly with thick ropes, whereas 系 is tying a neat knot or fastening a strap/belt.
+    2 | 系 (jì) vs. 绑 | bǎng | 绑 involves binding someone or something securely to immobilize it, while 系 fastens garments and accessories.
+    3 | 系 (jì) vs. 扣 | kòu | 扣 focuses on snapping buttons or clasps together, whereas 系 uses cordage and knotting.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在驾驶汽车出行时，上车后第一件事就是规范地系好安全带。这条看似普通的尼龙带子，是发生突发碰撞时保护驾乘人员生命安全的关键屏障。系牢的是安全带，守护的是每一个家庭的团圆与平安。 | Zài jiàshǐ qìchē chūxíng shí, shàngchē hòu dì-yī jiàn shì jiùshì guīfàn de jìhǎo ānquándài. Zhè tiáo kànsì pǔtōng de nílóng dàizi, shì fāshēng tūfā pèngzhuàng shí bǎohù jiàchéng rényuán shēngmìng ānquán de guānjiàn píngzhàng. Jìláo de shì ānquándài, shǒuhù de shì měi yí ge jiātíng de tuányuán yǔ píng'ān. | When driving, buckling the seatbelt properly is the first step. This nylon belt is a vital barrier protecting lives during collisions, safeguarding family peace. | Al subir a un coche, abrocharse el cinturón de seguridad es el primer paso. Esta banda de nailon salvaguarda vidas en colisiones custodiando la paz familiar.
+  #2 | 秋风渐凉，母亲细心地为即将远行求学的儿子整理行装，并在毛衣领口系上了一条亲手织就的羊毛围巾。那温暖整齐的结扣，紧紧系着长辈对游子道不尽的牵挂与叮咛，无论走多远都能感受到家的温存。 | Qiūfēng jiàn liáng, mǔqīn xìxīn de wèi jíjiāng yuǎnxíng qiúxué de érzi zhěnglǐ xíngzhuang, bìng zài máoyī lǐngkǒu jì shàng le yì tiáo qīnshǒu zhījiù de yángmáo wéijīn. Nà wēnnuǎn zhěngqí de jiékòu, jǐnjǐn jì zhe zhǎngbèi duì yóuzǐ dào bù jìn de qiānguà yǔ dīngníng, wúlùn zǒu duō yuǎn dōunéng gǎnshòudào jiā de wēncún. | As autumn cools, mother packs for her son studying afar, tying a hand-knit woolen scarf at his sweater collar. That neat knot ties elders' boundless yearnings to him wherever he journeys. | Con el fresco otoñal, una madre prepara el equipaje de su hijo anudándole al cuello una bufanda tejida a mano. Ese nudo ata el cariño familiar arropándolo en la distancia.

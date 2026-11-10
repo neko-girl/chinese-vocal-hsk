@@ -1,0 +1,63 @@
+id: 6
+hanzi: 行家
+pinyin: háng jia
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: expert; connoisseur; professional; insider
+  es: experto; perito; entendido; conocedor; profesional
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person thoroughly skilled, experienced, and knowledgeable in a specific trade, art, or field | persona muy versada, ducha y experimentada en determinado oficio, arte o disciplina | 内行是行家 (an insider is an expert)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 李师傅在古董玉石行业摸爬滚打了几十年，只要上手一摸，行家一出手便知真假。 | Lǐ shīfu zài gǔdǒng yùshí hángyè mōpá-gǔndǎ le jǐshí nián, zhǐyào shàngshǒu yì mō, hángjia yì chūshǒu biàn zhī zhēnjiǎ. | Master Li has worked in antiques and jades for decades; with a single touch, the expert immediately discerns the real from fake. | El maestro Li lleva décadas en el gremio de las antigüedades; apenas palpa una pieza, el entendido distingue lo falso de lo legítimo.
+  #2 | 在朋友眼中，鲁迅不仅文章写得极具锋芒，在品鉴各大名菜和选购点心上更是一位极具眼光的行家。 | Zài péngyou yǎnzhōng, Lǔ Xùn bùjǐn wénzhāng xiě de jí jù fēngmáng, zài pǐnjiàn gèdà míngcài hé xuǎngòu diǎnxin shàng gèng shì yí wèi jí jù yǎnguāng de hángjia. | To his friends, Lu Xun not only wrote incisive essays, but was a discerning connoisseur when sampling famous dishes and pastries. | A ojos de sus amigos, Lu Xun no solo escribía prosa mordaz, sino que al catar delicias y comprar repostería era un consumado experto.
+
+collocations[6]{hanzi,en}:
+  真正的行家 | true connoisseur
+  行业行家 | industry expert
+  行家指点 | guidance from an expert
+  美食行家 | gourmet connoisseur
+  古玩行家 | antique expert
+  行家一出手 | as soon as the expert takes action
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  行家里手 | háng jiā lǐ shǒu | master of one's trade; seasoned expert
+  驾轻就熟 | jià qīng jiù shú | handle an easy task with familiar ease
+  游刃有余 | yóu rèn yǒu yú | handle with skill and room to spare; effortless mastery
+  庖丁解牛 | páo dīng jiě niú | dissect an ox with consummate technical artistry
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  行 | háng | line; trade; profession; business firm | fila; gremio; oficio; profesión; negocio | 行 | go / crossroads | 彳 (step / left road junction) | 亍 (chù, right road junction) | 6 | 左右结构 | Ancient oracle bone pictogram of a four-way road crossroads; extended to shops lined along roads, and hence lines of business. | Rows of shops line the busy four-way street intersection (行), forming professional trade guilds (行). | Hileras de tiendas flanquean el cruce de caminos (行), conformando los gremios profesionales (行). | 35 | HONN | ""
+  家 | jia | specialist; person skilled in a craft | especialista; maestro de un quehacer | 宀 | roof | 宀 (household/lineage) | 豕 (shǐ, pig / domestic wealth) | 10 | 上下结构 | Denotes an accomplished practitioner belonging to an established school or master's lineage. | Inside the master's studio house (宀), a seasoned expert (家) trains disciples in the craft. | Bajo el techo del taller (宀), el maestro (家) guía a los aprendices en el dominio del oficio. | 55 | JMO | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A master (家) who has mastered every street and guild of the trade (行) is a true expert (行家).
+  composite_memory_hook_es: El maestro (家) que conoce al dedillo los secretos del gremio (行) es un verdadero perito (行家).
+  cultural_and_cognitive_roots: In imperial Chinese cities, artisans and merchants formed trade associations called 'háng' (行) along designated streets; an acknowledged master within the guild was titled 'hángjia'.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by neutral/level tone: 'háng jia' (35-2 or 35-55). Syllable 'háng' rises cleanly, and 'jia' is lightened in colloquial speech.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    待 | dài | wait; treat | Has 彳 on left, but 寺 on right instead of 亍
+    街 | jiē | street | Has 圭 inserted in the center of 行
+    律 | lǜ | law; rhythm | Has 聿 on right instead of 亍
+    徒 | tú | disciple; apprentice | Has 走 on right; direct semantic counterpart to 行家
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    术 | shù | art; skill; technique along roads
+    途 | tú | path; career avenue
+    业 | yè | enterprise; occupational line
+    匠 | jiàng | craftsman; master artisan
+
+semantic_boundary_contrasts:
+  core_nuance: 行家 emphasizes practical savvy, trade secrets, and acute connoisseurship gained through long hands-on immersion.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 行家 vs. 专家 | zhuānjiā | 专家 emphasizes institutional academic credentials and formal scientific theory, whereas 行家 highlights practical trade experience, discerning taste, and street wisdom.
+    2 | 行家 vs. 内行 | nèiháng | 内行 is frequently used as an adjective meaning knowledgeable or competent (vs. 外行), while 行家 is primarily a noun denoting the expert person.
+    3 | 行家 vs. 高手 | gāoshǒu | 高手 emphasizes exceptional physical skill or competitive prowess, whereas 行家 stresses analytical discernment, connoisseurship, and appraisal.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 品茶论道最讲究心境与眼力。真正的行家端起茶盏，先观汤色之澄澈，再嗅香气之幽微，最后轻啜一口品味回甘的层次。外行看热闹，内行看门道，那种只可意会不可言传的韵味，只有久经熏陶的行家方能心领神会。 | Pǐnchá lùndào zuì jiǎngjiu xīnjìng yǔ yǎnlì. Zhēnzhèng de hángjia duānqǐ cházhǎn, xiān guān tāngsè zhī chéngchè, zài xiù xiāngqì zhī yōuwēi, zuìhòu qīngchuò yì kǒu pǐnwèi huígān de céngcì. Wàiháng kàn rènào, nèiháng kàn méndào, nà zhǒng zhǐ kě yìhuì bù kě yánchuán de yùnwèi, zhǐyǒu jiǔjīng-xūntáo de hángjia fāng néng xīnlǐng-shénhuì. | Tasting tea demands tranquility and sharp eyes. An expert lifts the cup to inspect clarity, smell subtle aromas, and sip for multi-layered sweetness. While novices watch the surface, true connoisseurs grasp subtle depths intuitively. | Catar té requiere serenidad y ojo clínico. El entendido toma la taza, observa la nitidez del licor, inhala el aroma y da un sorbo para saborear el dulzor de fondo. Quien no sabe mira de lejos; solo el experto versado capta la sutil armonía.
+  #2 | 在快速更迭的数字经济浪潮中，各行各业都渴求兼具前沿视野与实操经验的行家。优秀的顾问能够一针见血地指出商业模式的漏洞，并提出行之有效的优化方案。正是这些行家的深度参与，有力护航了初创企业的稳健发展。 | Zài kuàisù gēngdié de shùzì jīngjì làngcháo zhōng, gèháng-gèyè dōu kěqiú jiānjù qiányán shìyě yǔ shícāo jīngyàn de hángjia. Yōuxiù de gùwèn nénggòu yìzhēn-jiànxiě de zhǐchū shāngyè móshì de lòudòng, bìng tíchū xíngzhī-yǒuxiào de yōuhuà fāng'àn. Zhèng shì zhèxiē hángjia de shēndù cānyù, yǒulì hùháng le chūchuàng qǐyè de wěnjiàn fāzhǎn. | Amid digital economic waves, industries seek seasoned professionals combining vision with operational savvy. Outstanding advisors pinpoint business flaws and propose viable solutions, safeguarding startup growth through deep involvement. | En la veloz economía digital, los sectores demandan peritos con visión y pericia práctica. Los consultores brillantes detectan fallas al vuelo y ofrecen soluciones viables. Su decisiva aportación afianza el crecimiento de las nuevas empresas.

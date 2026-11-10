@@ -1,0 +1,64 @@
+id: 35
+hanzi: 请求
+pinyin: qǐng qiú
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to request; to ask; to appeal; request; petition
+  es: solicitar; pedir; rogar; petición; solicitud
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to ask politely or formally for assistance, permission, or a favor | pedir con cortesía o formalidad ayuda, autorización o concesión de algo | 请求上级批准 (request superior approval)
+  2 | Noun | Standard | an act of asking politely; a formal petition or appeal | petición, solicitud formal o ruego respetuoso | 提出合理请求 (put forward a reasonable request)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 因家中突发紧急变故，他怀着歉意向部门主管诚恳地请求准予三天带薪事假。 | Yīn jiāzhōng tūfā jǐnjí biàngù, tā huáizhe qiànyì xiàng bùmén zhǔguǎn chéngkěn de qǐngqiú zhǔnyǔ sān tiān dàixīn shìjià. | Due to a family emergency, he apologetically and earnestly requested three days of paid personal leave from his manager. | Por una emergencia familiar imprevista, solicitó respetuoso y sincero a su superior tres días de permiso retribuido.
+  #2 | 面对受灾群众迫切的救援请求，应急救援抢险分队顶风冒雨连夜赶往滑坡现场。 | Miànduì shòuzāi qúnzhòng pòqiè de jiùyuán qǐngqiú, yīngjí jiùyuán qiǎngxiǎn fēnduì dǐngfēng-màoyǔ liányè gǎnwǎng huápō xiànchǎng. | Confronted with victims' urgent requests for rescue, emergency teams braved rainstorms overnight to rush to the landslide site. | Ante los apremiantes ruegos de auxilio de los damnificados, brigadas de rescate acudieron de noche bajo el temporal al lugar del desprendimiento.
+
+collocations[6]{hanzi,en}:
+  提出请求 | put forward a request
+  答应请求 | agree to a request
+  拒绝请求 | refuse a request
+  请求支援 | request reinforcements/support
+  请求原谅 | beg forgiveness / request pardon
+  合理请求 | reasonable request
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  不情之请 | bù qíng zhī qǐng | my presumptuous request; an uncalled-for favor (polite formula)
+  求之不得 | qiú zhī bù dé | seek but cannot get; all that one could wish for
+  有求必应 | yǒu qiú bì yìng | grant every request; never say no to appeals
+  恳切哀求 | kěn qiè āi qiú | beseech earnestly and piteously
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  请 | qǐng | please; ask; invite; request | por favor; invitar; rogar; pedir | 讠 | speech | 讠 (courteous spoken words) | 青 (qīng, pure green / phonetic) | 10 | 左右结构 | Spoken words 讠 delivered with sincere purity 青; denotes polite requests and hospitable invitations. | Polite words (讠) spoken with sincerity (青) frame a courteous request (请). | Palabras gentiles (讠) expresadas con pureza sincera (青) articulan un ruego cortés (请). | 214 | IVQMB | 請
+  求 | qiú | seek; beg; plead; demand | buscar; pedir; implorar; exigir | 水 | water | 裘 (fur coat with tails) -> simplified to hand grasping | 求 (qiú) | 7 | 单一结构 | Originally a fur coat 裘 worn for warmth; borrowed phonetically to mean seeking, pleading, or praying for blessings. | Hands reach out clasping together in earnest prayer to plead for help (求). | Manos juntas que se extienden en ferviente súplica para rogar auxilio (求). | 35 | IJE | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Polite words (请) accompanied by earnest pleading (求) formulate a respectful request (请求).
+  composite_memory_hook_es: Palabras corteses (请) unidas a una súplica sentida (求) formalizan la petición (请求).
+  cultural_and_cognitive_roots: Politeness register in Chinese social hierarchy (礼貌用语); pairing deferential speech (请) with respectful appeal (求) maintains social harmony.
+  tone_sandhi_and_pitch_modulation: Dipping third tone followed by rising second tone: 'qǐng qiú' (214-35). Dip low on 'qǐng' then rise smoothly on 'qiú'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    清 | qīng | clear; pure | Has water radical 氵 on left of 青 instead of speech 讠 in 请
+    晴 | qíng | sunny; clear sky | Has sun radical 日 on left of 青
+    球 | qiú | ball; sphere | Has jade radical 王 on left of 求
+    救 | jiù | rescue; save | Has tap radical 攵 on right of 求
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    恳 | kěn | earnest; sincere heart
+    托 | tuō | entrust in hand; request
+    索 | suǒ | search rope; demand
+    要 | yào | want; demand with hands
+
+semantic_boundary_contrasts:
+  core_nuance: 请求 is a polite, formal appeal directed towards superiors, peers, or authorities for consent or aid.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 请求 vs. 要求 | yāoqiú | 要求 expresses an authoritative demand or mandatory requirement from superiors or contracts, while 请求 is deferential and polite.
+    2 | 请求 vs. 祈求 | qíqiú | 祈求 is religious prayer or desperate pleading to deities or fate ('祈求平安'), while 请求 operates in human social affairs.
+    3 | 请求 vs. 申请 | shēnqǐng | 申请 is an official bureaucratic application requiring written paperwork and formal qualification vetting ('申请签证'), while 请求 can be oral.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 科研攻关过程中，年轻的博士生遇到了前所未见的实验数据异常。他虚心整理好全部观测记录与推导草稿，恭敬地向前辈院士提出请教请求。老科学家深受其求真精神感动，毫无保留地指点迷津。 | Kēyán gōngguān guòchéng zhōng, niánqīng de bóshìshēng yùdào le qiánsuǒwèijiàn de shíyàn shùjù yìcháng. Tā xūxīn zhěnglǐ hǎo quánbù guāncè jìlù yǔ tuīdǎo cǎogǎo, gōngjìng de xiàng qiánbèi yuànshì tíchū qǐngjiào qǐngqiú. Lǎo kēxuéjiā shēn shòu qí qiúzhēn jīngshén gǎndòng, háowú-bǎoliú de zhǐdiǎn míjīn. | Encountering unprecedented data anomalies, a young doctoral student organized notes and respectfully requested guidance from a senior academician. Moved by his sincerity, the veteran scientist offered guidance. | Ante anomalías insólitas en sus datos, un joven doctorando ordenó sus notas solicitando con respeto el consejo de un académico emérito. Conmovido por su afán, el veterano científico lo orientó con generosidad.
+  #2 | 在现代政务服务大厅里，“一网通办”便民改革切实落实了让数据多跑路、群众少跑腿的惠民承诺。市民只需在手机终端提交相关证明与业务审批请求，便能在短短几个工作日内足不出户办结各项民生手续。 | Zài xiàndài zhèngwù fúwù dàtīng lǐ, 'yìwǎngtōngbàn' biànmín gǎigé qièshí luòshí le ràng shùjù duō pǎolù, qúnzhòng shǎo pǎotuǐ de huìmín chéngnuò. Shìmín zhǐxū zài shǒujī duān tíjiāo xiāngguān zhèngmíng yǔ yèwù shěnpī qǐngqiú, biàn néng zài duǎnduǎn jǐ ge gōngzuòrì nèi zúbùchūhù bànjié gèxiàng mínshēng shǒuxù. | In government service halls, digital administration fulfills the promise of letting data travel instead of citizens. Submitting approvals and requests via smartphones, residents complete civil formalities seamlessly. | En la administración digitalizada, el ciudadano ahorra desplazamientos gracias a la tramitación telemática. Remitiendo solicitudes desde el teléfono móvil, se despachan trámites en pocos días sin salir de casa.

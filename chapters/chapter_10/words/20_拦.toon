@@ -1,0 +1,62 @@
+id: 20
+hanzi: 拦
+pinyin: lán
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to block; to stop; to bar; to intercept
+  es: bloquear; detener; atajar; interceptar; impedir el paso
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to obstruct, block, or hold back someone or something from proceeding forward | obstruir el paso, atajar o detener a alguien o algo en su trayectoria | 拦住去路 (block the way / obstruct the path)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 暴雨导致山体滑坡，倒塌的大树和泥石横在路中，拦住了所有过往车辆的去路。 | Bàoyǔ dǎozhì shāntǐ huápō, dǎotā de dàshù hé níshí héng zài lù zhōng, lánzhù le suǒyǒu guòwǎng chēliàng de qùlù. | Torrential rain triggered landslides; fallen trees and rocks blocked the road, barring all passing vehicles. | La tromba provocó un desprendimiento; árboles caídos y lodo cortaron la calzada, bloqueando el paso a todos los vehículos.
+  #2 | 他刚想冲动地冲出门去理论，被身旁冷静的好友一把拦了下来。 | Tā gāng xiǎng chōngdòng de chōng chū mén qù lǐlùn, bèi shēnpáng lěngjìng de hǎoyǒu yì bǎ lán le xiàlai. | Just as he impulsively bolted out to argue, his calm friend beside him held him back. | Justo cuando pretendía salir airado a pedir explicaciones, su sereno amigo lo retuvo de inmediato sujetándolo del brazo.
+
+collocations[6]{hanzi,en}:
+  拦住 | block / hold back
+  拦车 | hail or stop a vehicle
+  阻拦 | obstruct / deter
+  拦截 | intercept
+  拦路虎 | stumbling block; road obstacle
+  拦网 | block at the net (sports)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  拦路打劫 | lán lù dǎ jié | highway robbery; rob along roads
+  势不可挡 | shì bù kě dǎng | unstoppable; irresistible force
+  无可阻挡 | wú kě zǔ dǎng | incapable of being held back
+  挡箭牌 | dǎng jiàn pái | shield; pretext / scapegoat
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  拦 | lán | block; stop; bar; obstruct | bloquear; atajar; parar; impedir paso | 扌 | hand | 扌 (hand action) | 兰 (lán, orchid / phonetic) | 8 | 左右结构 | Hand radical 扌 combined with 兰 (lán phonetic); hand reaching out horizontally to halt movement. | A firm hand (扌) reaches out across the road to bar (拦) anyone from passing. | Una mano extendida (扌) corta el paso en el camino para atajar (拦) el avance. | 35 | QTFM | 攔
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A hand (扌) reaches out horizontally (lán) to block the way (拦).
+  composite_memory_hook_es: La mano extendida (扌) corta el paso (lán) deteniendo la marcha (拦).
+  cultural_and_cognitive_roots: Derived from the physical barrier of wooden railing fences (栏), evolving a hand radical (扌) to express active manual interception.
+  tone_sandhi_and_pitch_modulation: Rising second tone: 'lán' (35). Sweep upward smoothly from mid pitch 3 to high 5.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    栏 | lán | fence; railing; column | Has wood radical 木 on left instead of hand 扌 in 拦
+    烂 | làn | rotten; worn out | Has fire radical 火 on left
+    滥 | làn | overflow; excessive | Has water radical 氵 on left
+    览 | lǎn | look at; view | Has see radical 见 at bottom
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    挡 | dǎng | ward off; shield against
+    阻 | zǔ | hinder; impede progression
+    截 | jié | cut off; intercept midway
+    遏 | è | halt; suppress advance
+
+semantic_boundary_contrasts:
+  core_nuance: 拦 focuses on stepping in front of someone or something in motion to physically halt their path.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 拦 vs. 挡 | dǎng | 挡 emphasizes shielding against wind, rain, or blows (挡风, 挡雨), while 拦 specifically halts forward motion.
+    2 | 拦 vs. 阻 | zǔ | 阻 is more formal and abstract, denoting setting up obstacles or deterrents (阻止, 阻碍), while 拦 is concrete manual action.
+    3 | 拦 vs. 截 | jié | 截 emphasizes cutting off or intercepting midway (截断, 截获), while 拦 is holding back.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 深山巡护员老张在林区巡查时，敏锐地察觉到前方灌木丛有异动。他毫不犹豫地跨前一步，大声喝止并伸手拦住了一名企图偷运珍稀中草药的可疑人员，成功保护了国家重点自然保护区的生态安全。 | Shēnshān xúnhùyuán Lǎo Zhāng zài línqū xúnchá shí, mǐnruì de cháchuédào qiánfāng guānmùcóng yǒu yìdòng. Tā háobùyóuyù de kuàqián yíbù, dàshēng hèzhǐ bìng shēnshǒu lánzhù le yì míng qǐtú tōuyùn zhēnxī zhōngcǎoyào de kěyí rényuán, chénggōng bǎohù le guójiā zhòngdiǎn zìrán bǎohùqū de shēngtài ānquán. | Patrolling the deep forest, Ranger Lao Zhang noticed rustling in bushes. Stepping forward, he shouted and stretched his arm to bar a suspect smuggling rare herbs, protecting the reserve. | Patrullando la espesura, el guardabosques notó movimientos sospechosos. Dio un paso al frente y extendió el brazo reteniendo a un infractor que traficaba hierbas medicinales, salvaguardando la reserva.
+  #2 | 科研攻关道路上从没有一帆风顺的坦途，各种始料不及的技术壁垒就像一只只凶猛的“拦路虎”，横亘在团队面前。然而，年轻的科学家们毫不气馁，迎难而上日夜攻坚，终于踢开绊脚石，迎来了核心突破。 | Kēyán gōngguān dàolù shàng cóng méiyǒu yīfānfēngshùn de tǎntú, gèzhǒng shǐliàobùjí de jìshù bìlěi jiù xiàng yìzhīzhī xiōngměng de 'lánlùhǔ', hénggèn zài tuánduì miànqián. Rán'ér, niánqīng de kēxuéjiāmen háobù qìněi, yíngnán'érshàng rìyè gōngjiān, zhōngyú tīkāi bànjiǎoshí, yínglái le héxīn tūpò. | The path of scientific innovation is never smooth; unexpected barriers stand like fierce roadblocks. Yet young scientists press forward tirelessly, kicking away stumbling blocks to achieve breakthroughs. | La senda investigadora jamás es un camino llano; barreras técnicas inesperadas se alzan como fieros escollos ante el equipo. Los jóvenes científicos perseveran superando tropiezos hasta coronar un hito decisivo.

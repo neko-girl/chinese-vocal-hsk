@@ -1,0 +1,63 @@
+id: 5
+hanzi: 蹄子
+pinyin: tí zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: hoof (of horse, ox, sheep, pig, etc.); trotter
+  es: pezuña; casco (de caballo, buey, oveja o cerdo); pata de animal
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the hard, horny covering protecting the feet of ungulate mammals like horses, cattle, and sheep | envoltura córnea y dura que protege el extremo de las extremidades de mamíferos ungulados | 马的蹄子 (horse's hooves)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 铁匠熟练地为骏马修剪变长的角质，随后牢牢钉上特制的铁马掌，以保护马匹的蹄子不被碎石磨损。 | Tiějiang shúliàn de wèi jùnmǎ xiūjiǎn biàn cháng de jiǎozhì, suìhòu láoláo dīng shàng tèzhì de tiě mǎzhǎng, yǐ bǎohù mǎpǐ de tízi bú bèi suìshí mósǔn. | The blacksmith skillfully trimmed the overgrown horn of the steed, then nailed on custom iron horseshoes to protect its hooves from gravel wear. | El herrero recortó con pericia el casco del corcel y clavó la herradura para proteger sus pezuñas del desgaste de las piedras.
+  #2 | 当年那场关于马奔跑时四个蹄子是否同时离地的著名争论，激发了连续动态摄影技术的划时代实验。 | Dāngnián nà chǎng guānyú mǎ bēnpǎo shí sì ge tízi shìfǒu tóngshí lídì de zhùmíng zhēnglùn, jīfā le liánxù dòngtài shèyǐng jìshù de huàshídài shíyàn. | The historic debate over whether a galloping horse's four hooves leave the ground simultaneously stimulated epoch-making motion photography. | Aquel célebre debate sobre si los cuatro cascos del caballo dejaban el suelo al galopar inspiró el histórico ensayo de fotografía secuencial.
+
+collocations[6]{hanzi,en}:
+  马蹄子 | horse's hoof
+  猪蹄子 | pig's trotter
+  蹄子着地 | hooves touch the ground
+  蹄子腾空 | hooves airborne in the air
+  修剪蹄子 | trim hooves
+  蹄声清脆 | crisp clip-clop sound of hooves
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  马不停蹄 | mǎ bù tíng tí | the horse does not stop its hooves; advance without pause
+  得胜回朝 | dé shèng huí cháo | return victorious to the imperial court
+  金戈铁马 | jīn gē tiě mǎ | golden spears and armored horses; battlefield glory
+  风驰电掣 | fēng chí diàn chè | swift as wind and lightning
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  蹄 | tí | hoof; leg of pork | pezuña; casco; pata | 足 | foot | 𧾷 (foot) | 帝 (dì, sovereign / phonetic harmony) | 16 | 左右结构 | Phono-semantic character where foot radical 𧾷 indicates an animal foot and 帝 provides phonetic harmony. | An animal foot (𧾷) crowned with a majestic hard horny shield (帝) forms a galloping hoof (蹄). | La extremidad del animal (𧾷) protegida por un escudo córneo soberbio (帝) forma el casco o pezuña (蹄). | 35 | RMYJB | ""
+  子 | zi | noun suffix; child; son | sufijo nominal; niño; hijo | 子 | child | 子 (pictogram of swaddled child) | 子 (zǐ) | 3 | 单一结构 | Ancient pictogram of an infant child; used productively as an unstressed colloquial noun suffix. | A child (子) stands with open arms; appended to nouns to turn roots into familiar spoken words. | Un niño pequeño (子) abre los brazos; sirve de sufijo para formar nombres cotidianos. | 214 | ND | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The hard horny foot (蹄) of an animal takes the common noun suffix (子) to name a hoof (蹄子).
+  composite_memory_hook_es: La pata córnea del animal (蹄) con el sufijo nominal (子) designa la pezuña o casco (蹄子).
+  cultural_and_cognitive_roots: Crucial in equine husbandry and cavalry logistics; in Chinese idiom, 'mǎbùtíngtí' (马不停蹄) symbolizes tireless work ethic and unending motion.
+  tone_sandhi_and_pitch_modulation: Rising tone followed by neutral tone: 'tí zi' (35-2). Syllable 'tí' glides upward, followed by a soft, light neutral tone on 'zi'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    啼 | tí | cry; weep; crow | Has mouth radical 口 on left instead of foot 𧾷 in 蹄
+    帝 | dì | emperor; sovereign | Lacks the left foot radical 𧾷 of 蹄
+    跑 | pǎo | run | Has 包 on right of 𧾷 instead of 帝
+    跳 | tiào | jump | Has 兆 on right of 𧾷 instead of 帝
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    爪 | zhuǎ | claw; bird/animal talons
+    掌 | zhǎng | palm; bear paw; horseshoe pad
+    趾 | zhǐ | toe; foot phalange
+    踝 | huái | ankle joint
+
+semantic_boundary_contrasts:
+  core_nuance: 蹄子 refers to the hard horny foot of ungulate animals (horses, cows, pigs, goats).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 蹄子 vs. 爪子 | zhuǎzi | 爪子 refers to sharp claws of carnivores, birds, or rodents (cats, dogs, eagles), while 蹄子 is strictly for hooved animals.
+    2 | 蹄子 vs. 脚 | jiǎo | 脚 is the universal biological term for human feet or furniture legs, while 蹄子 designates hooves.
+    3 | 蹄子 vs. 马蹄 | mǎtí | 马蹄 specifically means a horse's hoof (or water chestnut), while 蹄子 covers cattle, pigs, and sheep as well.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走在茶马古道的青石板路上，凹凸不平的石面上依然清晰可见当年马帮踩踏出的深深蹄印。数百年间，成群结队的骡马驮着茶叶与盐巴翻山越岭，坚硬的蹄子在坚石上叩击出清脆回响，谱写了西南边疆一段沧桑古朴的商贸传奇。 | Zǒu zài Chá-Mǎ Gǔdào de qīngshíbǎn lù shàng, āotū-bùpíng de shímiàn shàng yīrán qīngxī kějiàn dāngnián mǎbāng cǎità chū de shēnshēn tíyìn. Shùbǎi nián jiān, chéngqún-jiéduì de luómǎ tuó zhe cháyè yǔ yánbā fānshān-yuèlǐng, jiānyìng de tízi zài jiānshí shàng kòujī chū qīngcuì huíxiǎng, pǔxiě le xīnán biānjiāng yí duàn cāngsāng gǔpǔ de shāngmào chuánqí. | Walking the Tea Horse Road, deep hoofprints trodden by caravans remain etched in stones. For centuries, pack mules carrying tea and salt scaled ridges, hard hooves ringing against stone, writing a frontier trade legend. | En la Ruta del Té y los Caballos, hondas huellas de pezuñas siguen grabadas en el empedrado. Durante siglos, recuas de mulas cargadas de té cruzaron cordilleras, cuyos cascos repicaban en la roca tejiendo la leyenda del comercio.
+  #2 | 视觉残留原理与连续动态摄影的结合，彻底颠覆了人类对运动瞬间的传统认知。在早期油画中，画家们习惯将疾驰中的奔马画成前后蹄子同时向外伸展的平展姿态；直到实拍照片面世，人们才惊讶地发现，马匹腾空时四只蹄子其实是收拢在腹下的。 | Shìjué cánliú yuánlǐ yǔ liánxù dòngtài shèyǐng de jiéhé, chèdǐ diānfù le rénlèi duì yùndòng shùnjiān de chuántǒng rènzhī. Zài zǎoqī yóuhuà zhōng, huàjiāmen xíguàn jiāng jíchí zhōng de bēnmǎ huàchéng qiánhòu tízi tóngshí xiàng wài shēnzhǎn de píngzhǎn zītài; zhídào shípāi zhàopiàn miànshì, rénmen cái jīngyà de fāxiàn, mǎpǐ téngkōng shí sì zhī tízi qíshí shì shōulǒng zài fù xià de. | Motion photography overturned perceptions of movement. Early painters depicted galloping horses with hooves stretched front and back; real photos revealed that when airborne, all four hooves are actually tucked beneath the belly. | La fotografía secuencial revolucionó la percepción del movimiento. Los viejos pintores dibujaban caballos al galope con los cascos estirados; las fotos demostraron que, en el aire, el animal pliega en verdad las pezuñas bajo el vientre.

@@ -1,0 +1,63 @@
+id: 36
+hanzi: 或许
+pinyin: huò xǔ
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: perhaps; maybe; probably
+  es: quizás; tal vez; acaso; a lo mejor
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | expressing uncertainty, possibility, speculation, or polite conjecture | expresa conjetura, incertidumbre o posibilidad prudente sobre un hecho | 或许他已经知道了 (perhaps he already knows)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 会议室的灯还亮着，或许项目攻关小组今晚又要通宵加班赶制测试版本了。 | Huìyìshì de dēng hái liàng zhe, huòxǔ xiàngmù gōngguān xiǎozǔ jīnwǎn yòuyào tōngxiāo jiābān gǎnzhì cèshì bǎnběn le. | The lights in the conference room are still on; perhaps the project team is working overnight again to rush out test versions. | Las luces de la sala de juntas siguen encendidas; tal vez el equipo del proyecto vuelva a trasnochar para apurar la versión beta.
+  #2 | 面对眼前看似无法逾越的困难，换一种全新的逆向思维，或许能迎来柳暗花明。 | Miànduì yǎnqián kànsì wúfǎ yúyuè de kùnnán, huàn yì zhǒng quánxīn de nìxiàng sīwéi, huòxǔ néng yínglái liǔ'àn-huāmíng. | Facing seemingly insurmountable difficulties, shifting to reverse thinking might perhaps lead to an unexpected breakthrough. | Ante dificultades en apariencia insuperables, adoptar un enfoque inverso tal vez depare una solución tan luminosa como inesperada.
+
+collocations[6]{hanzi,en}:
+  或许会 | perhaps will / might
+  或许可以 | perhaps could / maybe can
+  或许正是 | perhaps precisely is
+  或许因为 | perhaps because
+  或许不是 | perhaps not
+  或许有人 | perhaps someone
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  柳暗花明 | liǔ àn huā míng | dark willows and bright flowers; light at the end of the tunnel
+  未可厚非 | wèi kě hòu fēi | not entirely blameworthy; understandable
+  若隐若现 | ruò yǐn ruò xiàn | partly visible and partly hidden; faint and elusive
+  莫衷一是 | mò zhōng yī shì | unable to agree on which is right; opinions vary
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  或 | huò | or; either; perhaps; someone | o; tal vez; quizás; alguien | 戈 | dagger-axe | 戈 (weapon guarding border) + 囗/一 (walled city territory) | 或 (huò) | 8 | 单一结构 | Original form of 國 (state/city defended by spear 戈); later borrowed to mean hypothetical choices, someone, or perhaps. | A spear (戈) defends a city border where choices between peace or battle hang in balance (或). | Una lanza (戈) guarda el baluarte fronterizo donde la paz o la lid penden de un hilo (或). | 51 | IRM | ""
+  许 | xǔ | allow; permit; promise; praise; perhaps | permitir; prometer; tal vez; alabar | 讠 | speech | 讠 (spoken commitment) + 午 (pestle / noon) | 午 (wǔ, noon / phonetic) | 6 | 左右结构 | Spoken words 讠 agreeing to allow an action; extended to approximate estimation (许多) and conditional possibility. | Spoken words (讠) assent with a nod at high noon (午), permitting possibility (许). | Palabras meditadas (讠) otorgan su venia al mediodía (午) admitiendo la posibilidad (许). | 214 | IVO | 許
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Balancing options on the border (或) and permitting conditional possibilities (许) suggests 'perhaps' (或许).
+  composite_memory_hook_es: Sopesar opciones (或) y admitir la posibilidad (许) da sentido a 'quizás' o 'tal vez' (或许).
+  cultural_and_cognitive_roots: Polite hedging in Chinese dialectics and literature; softening declarative assertions with 或许 demonstrates intellectual modesty and nuanced deliberation.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by dipping third tone: 'huò xǔ' (51-214). Drop decisively on 'huò' then dip down and rise gently on 'xǔ'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    惑 | huò | delude; confused | Has heart radical 心 underneath 或
+    域 | yù | territory; realm | Has earth radical 土 on left of 或
+    计 | jì | calculate; plan | Has 十 on right of 讠 instead of 午 in 许
+    诈 | zhà | cheat; pretend | Has 乍 on right of 讠
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    可 | kě | can; permissible
+    能 | néng | able; potential power
+    若 | ruò | as if; supposing
+    殆 | dài | perilous; nearly probable
+
+semantic_boundary_contrasts:
+  core_nuance: 或许 introduces speculative, soft, and polite possibilities in literary or analytical prose.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 或许 vs. 也许 | yěxǔ | 也许 is more frequent in everyday conversational oral speech, while 或许 possesses a more formal, reflective, and literary stylistic flavor.
+    2 | 或许 vs. 可能 | kěnéng | 可能 can function as a noun ('有这种可能') or an adjective/auxiliary ('可能发生'), whereas 或许 functions solely as a sentence adverb.
+    3 | 或许 vs. 大概 | dàgài | 大概 denotes high probability or rough numerical estimation ('大概八点钟'), whereas 或许 expresses open, speculative conjecture.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫漫人生旅途犹如攀登险峰，难免遭遇浓雾与陡坡。当我们感到迷茫疲惫时，不妨停下匆匆的脚步稍作歇息。或许在下一个蜿蜒的转角处，就会迎面撞见一片云蒸霞蔚、令人心醉神迷的绚丽壮景。 | Mànmàn rénshēng lǚtú yóurú pāndēng xiǎnfēng, nánmiǎn zāoyù nóngwù yǔ dǒupō. Dāng wǒmen gǎndào mímáng píbèi shí, bùfáng tíngxià cōngcōng de jiǎobù shāozuò xiēxī. Huòxǔ zài xià yí ge wānyán de zhuǎnjiǎochù, jiùhuì yíngmiàn zhuàngjiàn yí piàn yúnzhēng-xiáwèi, lìngrén-xīnduì-shénmí de xuànlì zhuàngjǐng. | Life's journey is like scaling peaks; fog and slopes are inevitable. When feeling weary and lost, pause your hurried steps. Perhaps at the next bend, breathtaking scenery bathed in golden clouds awaits you. | La senda vital asemeja la ascensión de cumbres, entre nieblas y pendientes. Ante la fatiga conviene detenerse y tomar aliento. Tal vez al doblar el próximo recodo se revele un deslumbrante mar de nubes doradas.
+  #2 | 在浩瀚无垠的宇宙深处，地球或许并不是唯一的生命摇篮。天文学家们借助先进的空间射电望远镜，日夜不停地巡视深邃星空、捕捉微弱无线电脉冲信号。或许在遥远的未来，人类终将揭开地外智慧文明的神秘面纱。 | Zài hàohàn-wúyín de yǔzhòu shēnchù, Dìqiú huòxǔ bìng bùshì wéiyī de shēngmìng yáolán. Tiānwénxuéjiāmen jièzhù xiānjìn de kōngjiān shèdiàn wàngyuǎnjìng, rìyè-bùtíng de xúnshì shēnsù xīngkōng, bǔzhuō wēiruò wúxiàndiàn màichōng xìnhào. Huòxǔ zài yáoyuǎn de wèilái, rénlèi zhōngjiāng jiēkāi dìwài zhìhuì wénmíng de shénmì miànshā. | In the boundless cosmos, Earth is perhaps not the sole cradle of life. Astronomers scan deep space with space telescopes, capturing radio pulses. Perhaps in the distant future, humanity will unveil extraterrestrial civilizations. | En la inmensidad del cosmos, la Tierra quizás no sea la única cuna viviente. Astrónomos rastrean señales de radio con radiotelescopios espaciales. Tal vez en un futuro remoto desvelaremos el enigma de inteligencias alienígenas.

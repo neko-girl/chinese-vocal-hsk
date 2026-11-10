@@ -1,0 +1,63 @@
+id: 21
+hanzi: 拍
+pinyin: pāi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to clap; to pat; to swat; to photograph; to shoot (film)
+  es: aplaudir; palmear; golpear suavemente; fotografiar; filmar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to clap, pat, slap, or strike lightly with the palm or an implement | palmear, aplaudir o golpear suavemente con la palma de la mano o una pala | 拍手欢迎 (clap hands in welcome)
+  2 | Verb | Standard | to take a photograph, shoot film, or record video with a camera | tomar una fotografía o rodar una escena cinematográfica | 拍照留念 (take a photo as a souvenir)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 摄影师蹲在跑道旁，抓住运动员跃起过杆的瞬间连续拍下了数十张照片。 | Shèyǐngshī dūn zài pǎodào páng, zhuāzhù yùndòngyuán yuèqǐ guò gān de shùnjiān liánxù pāixià le shùshí zhāng zhàopiàn. | Squatting beside the track, the photographer seized the moment the athlete vaulted over the bar, snapping dozens of photos. | Acuclillado junto a la pista, el fotógrafo aprovechó el instante en que el atleta saltaba el listón para disparar decenas de fotos.
+  #2 | 看到舞台上精彩的杂技表演，全场观众忍不住激动地起立拍手喝彩。 | Kàndào wǔtái shàng jīngcǎi de zájì biǎoyǎn, quánchǎng guānzhòng rěnbuzhù jīdòng de qǐlì pāishǒu hècǎi. | Seeing the magnificent acrobatic performance on stage, the entire audience couldn't help standing up excitedly to clap and cheer. | Ante la magnífica acrobacia sobre el escenario, todo el auditorio se puso en pie emocionado para aplaudir y ovacionar.
+
+collocations[6]{hanzi,en}:
+  拍照 | take photographs
+  拍电影 | film a movie
+  拍手 | clap hands / applaud
+  拍马屁 | flatter / brown-nose
+  拍打 | pat; slap gently
+  节拍 | musical beat / rhythm
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  拍手称快 | pāi shǒu chēng kuài | clap hands and shout with satisfaction; express delight
+  拍案叫绝 | pāi àn jiào jué | slap the table in amazement and admiration
+  一拍即合 | yì pāi jí hé | hit it off right away; click immediately
+  拍案而起 | pāi àn ér qǐ | strike the table and rise up in indignation
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  拍 | pāi | clap; pat; shoot photo; racket | palmear; aplaudir; fotografiar; raqueta | 扌 | hand | 扌 (hand action) | 白 (bái, clear / phonetic) | 8 | 左右结构 | Hand radical 扌 combined with 白 (clear/flat); striking down with an open flat palm, extended to shutter clicks. | An open hand (扌) turns its pale palm (白) outward to clap and snap (拍). | Una mano abierta (扌) muestra su blanca palma (白) para palmear y disparar la foto (拍). | 55 | QHA | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A flat hand (扌) pats smoothly (pāi, 拍) or clicks the camera shutter.
+  composite_memory_hook_es: La mano abierta (扌) golpea suave o acciona el obturador (pāi, 拍).
+  cultural_and_cognitive_roots: From the physical clapping of hands to rhythmic musical beats (乐拍), modernizing in the 20th century to optical photography (拍摄).
+  tone_sandhi_and_pitch_modulation: High flat level tone: 'pāi' (55). Articulate with crisp level pitch 55 like a quick handclap.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    怕 | pà | fear; afraid | Has heart radical 忄 on left instead of hand 扌 in 拍
+    迫 | pò | compel; urgent | Has movement radical 辶 with 白 inside
+    伯 | bó | uncle; elder brother | Has person radical 亻 on left
+    柏 | bǎi | cypress tree | Has wood radical 木 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    击 | jī | strike; hit firmly
+    掌 | zhǎng | palm of hand
+    打 | dǎ | hit; strike with hand
+    摄 | shè | capture image; shoot photo
+
+semantic_boundary_contrasts:
+  core_nuance: 拍 involves striking lightly with a flat surface or capturing photos/videos via camera shutter.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 拍 vs. 打 | dǎ | 打 denotes forceful hitting or striking with a fist or weapon, whereas 拍 is a light pat with an open flat palm.
+    2 | 拍 vs. 摄 | shè | 摄 is a formal literary term for optical absorption and filming (摄影, 摄制), while 拍 is everyday conversational (拍照, 拍片).
+    3 | 拍 vs. 敲 | qiāo | 敲 implies knocking or tapping repeatedly with knuckles or a mallet on a hard surface, unlike flat-palmed 拍.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 金秋十月天高气爽，漫山遍野的红叶如诗如画。许多摄影爱好者纷纷背起沉重的相机三脚架，赶在清晨第一缕阳光照耀山谷的时刻，抢拍薄雾缭绕间层林尽染的绝美自然秋色。 | Jīnqiū shíyuè tiāngāo-qìshuǎng, mànshān-biànyě de hóngyè rúshī-rúhuà. Xǔduō shèyǐng àihàozhě fēnfēn bēiqǐ chénzhòng de xiàngjī sānjiǎojià, gǎnzài qīngchén dì-yī lǚ yángguāng zhàoyào shāngǔ de shíkè, qiǎngpāi bówù liáorào jiān cénglín-jìnrǎn de juéměi zìrán qiūsè. | In pleasant October autumn, crimson leaves carpet hillsides. Photography enthusiasts carrying heavy tripods rush to capture the ethereal beauty of mist-clad forests bathed in morning dawn. | En el apacible otoño de octubre, el follaje carmesí viste los cerros. Entusiastas provistos de trípodes madrugan para captar la bruma dorada por los primeros rayos solares sobre el bosque otoñal.
+  #2 | 在早期电影拍摄试验中，爱德华·迈布里奇在跑道边排列了数十台照相机。当奔马飞驰而过扯断细线时，相机的快门被瞬间触发，连续拍下了一组定格马蹄腾空的珍贵照片，开创了活动影像技术的新纪元。 | Zài zǎoqī diànyǐng pāishè shíyàn zhōng, Àidéhuá Màibùlǐqí zài pǎodào biān páiliè le shùshí tái zhàoxiàngjī. Dāng bēnmǎ fēichí ér guò chěduàn xìxiàn shí, xiàngjī de kuàimén bèi shùnjiān chùfā, liánxù pāixià le yì zǔ dìnggé mǎtí téngkōng de zhēnguì zhàopiàn, kāichuàng le huódòng yǐngxiàng jìshù de xīn jìyuán. | In early cinematographic experiments, Muybridge arranged cameras along the track. As the galloping horse tripped tripwires, shutters fired in sequence, capturing hooves in mid-air and ushering in cinema. | En pioneros experimentos cinematográficos, Muybridge alineó cámaras junto a la pista. El galope del caballo rompió los hilos activando los obturadores, captando cascos suspendidos e inaugurando el cine.

@@ -1,0 +1,64 @@
+id: 33
+hanzi: 导演
+pinyin: dǎo yǎn
+level: HSK 5
+part_of_speech: Noun / Verb
+
+meanings_summary:
+  en: director (of film/play); to direct (film/play)
+  es: director (de cine o teatro); dirigir (una película u obra)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person who directs the artistic performance and visual staging of a film, play, or television show | persona que dirige la puesta en escena, actuación e interpretación artística de una película u obra teatral | 著名电影导演 (famous movie director)
+  2 | Verb | Standard | to guide, stage, or oversee the dramatic performance of a production | guiar, orquestar o supervisar la realización artística de un montaje escénico o audiovisual | 导演一部经典话剧 (direct a classic stage play)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这位才华横溢的年轻导演凭借对细节的敏锐把控，将一部低成本文艺片打磨成了震撼人心的艺术杰作。 | Zhè wèi cáihuá-héngyì de niánqīng dǎoyǎn píngjiè duì xìjié de mǐnruì bǎkòng, jiāng yí bù dīchéngběn wényìpiān dǎmó chéng le zhènhàn-rénxīn de yìshù jiézuò. | With sharp control over details, this talented young director polished a low-budget indie film into a moving artistic masterpiece. | Con un afinado dominio de los detalles, este talentoso director novel convirtió una modesta película de autor en una conmovedora obra maestra.
+  #2 | 在排练现场，导演耐心地为男女主演分析人物内心独白与情感转折，引导他们渐入佳境。 | Zài páiliàn xiànchǎng, dǎoyǎn nàixīn de wèi nán-nǚ zhǔyǎn fēnxī rénwù nèixīn dúbái yǔ qínggǎn zhuǎnzhé, yǐndǎo tāmen jiànrùjiājìng. | In rehearsals, the director patiently analyzed characters' inner monologues and emotional shifts, guiding leads into peak performance. | En los ensayos, el director analizaba con paciencia el monólogo interior de los protagonistas, guiándolos a una interpretación insuperable.
+
+collocations[6]{hanzi,en}:
+  执行导演 | executive director
+  总导演 | chief director / artistic director
+  副导演 | assistant director
+  新锐导演 | cutting-edge up-and-coming director
+  导演风格 | directorial style
+  自编自导 | write and direct oneself
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  运筹帷幄 | yùn chóu wéi wò | devise strategies within a command tent; mastermind operations
+  别出心裁 | bié chū xīn cái | adopt an original approach; show novelty
+  绘声绘色 | huì shēng huì sè | vivid and expressive in sound and imagery
+  独树一帜 | dú shù yì zhì | raise a unique banner; develop a distinctive style
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  导 | dǎo | guide; lead; instruct; conduct | guiar; conducir; orientar; dirigir | 寸 | inch / hand measure | 巳 (offspring / path) + 寸 (hand measuring / pointing way) | 道 (dào, the way / phonetic origin) | 6 | 上下结构 | A hand 寸 pointing out the path 道; guiding people along the correct route. | A hand (寸) points ahead, guiding (导) followers safely along the right course. | Una mano orientadora (寸) señala la ruta correcta conduciendo (导) los pasos del grupo. | 214 | RDI | 導
+  演 | yǎn | perform; act; play; deduce; develop | actuar; interpretar; representar; deducir | 氵 | water | 氵 (water flowing smoothly) | 寅 (yín, bow / dawn / phonetic) | 14 | 左右结构 | Water radical 氵 combined with 寅; streams flowing continuously, extended to continuous staged performances and deductions. | Water (氵) flows rhythmically like drama unfolding smoothly across the stage (演). | Las aguas (氵) fluyen cadenciosas como la trama que se desenvuelve en escena (演). | 214 | EJMC | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Guiding the path (导) for actors performing on stage (演) is the duty of a director (导演).
+  composite_memory_hook_es: Guiar el rumbo escénico (导) para quienes actúan e interpretan (演) es labor del director (导演).
+  cultural_and_cognitive_roots: Compound created in early 20th-century Chinese spoken drama (话剧) movements; merges classical guidance (引导) with theatrical acting (表演).
+  tone_sandhi_and_pitch_modulation: Two third tones in succession triggering tone sandhi: 'dǎo yǎn' becomes [dáo yǎn] (35-214). Pronounce 'dǎo' with rising second tone pitch 35, then dip fully on 'yǎn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    寻 | xún | seek; search | Has 彐 on top of 寸 instead of 巳 in 导
+    异 | yì | different; strange | Has 廾 underneath 巳
+    滨 | bīn | shore; coast | Has 宾 on right of 氵 instead of 寅 in 演
+    漠 | mò | desert; indifferent | Has 莫 on right of 氵
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    编 | biān | weave bamboo; edit script
+    摄 | shè | capture image; shoot camera
+    戏 | xì | theatrical drama; play
+    领 | lǐng | lead forward; collar
+
+semantic_boundary_contrasts:
+  core_nuance: 导演 designates the artistic commander who shapes and coordinates acting, lighting, camera work, and narrative pacing.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 导演 vs. 编剧 | biānjù | 编剧 writes the dialogue, plot, and script, while 导演 realizes the written text into visual cinematic or theatrical reality.
+    2 | 导演 vs. 制片人 | zhìpiànrén | 制片人 (producer) manages financing, logistics, commercial scheduling, and marketing, while 导演 commands creative artistic decisions.
+    3 | 导演 vs. 摄影师 | shèyǐngshī | 摄影师 executes lighting and lens framing under the conceptual artistic guidance of 导演.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在一部优秀的电影作品背后，导演就像是一艘巨轮的掌舵者。从最初推敲剧本角色、挑选演员阵容，到拍摄现场把控演员情绪与摄影机调度，导演的审美眼光与艺术构思决定了整部作品的精神内核与艺术高度。 | Zài yí bù yōuxiù de diànyǐng zuòpǐn bèihòu, dǎoyǎn jiù xiàng shì yì sōu jùlún de zhǎngduòzhě. Cóng zuìchū tuīqiāo jùběn juésè, tiāoxuǎn yǎnyuán zhènróng, dào pāishè xiànchǎng bǎkòng yǎnyuán qíngxù yǔ shèyǐngjī diàodù, dǎoyǎn de shěnměi yǎnguāng yǔ yìshù gòusī juédìng le zhěng bù zuòpǐn de jīngshén nèihé yǔ yìshù gāodù. | Behind every great film, the director is the helmsman of a colossal ship. From polishing scripts and casting leads to modulating performance on set, their aesthetic vision determines the film's artistic soul. | Tras toda película magistral, el director pilota una nave inmensa. Desde pulir el guion y elegir el reparto hasta modular la emoción ante la cámara, su criterio estético define el alma y la altura de la obra.
+  #2 | 中国第五代著名电影导演张艺谋，善于运用饱满浓烈的色彩美学与宏大的场面调度传达深厚的东方历史文化底蕴。无论是早期的经典文艺片，还是近年来震撼全球的奥运会开幕式，都充分展现了他卓越非凡的导演才华。 | Zhōngguó dìwǔdài zhùmíng diànyǐng dǎoyǎn Zhāng Yìmóu, shànyú yùnyòng bǎomǎn nóngliè de sècǎi měixué yǔ hóngdà de chǎngmiàn diàodù chuándá shēnhòu de dōngfāng lìshǐ wénhuà dǐyùn. Wúlùn shì zǎoqī de jīngdiǎn wényìpiān, háishì jìnniánlái zhènhàn quánqiú de Àoyùnhuì kāimùshì, dōu chōngfèn zhǎnxiàn le tā zhuóyuè-fēifán de dǎoyǎn cáihuá. | Renowned director Zhang Yimou uses intense color palettes and grand staging to convey deep Eastern culture. From early art films to stunning Olympic opening ceremonies, he exhibits extraordinary directorial talent. | El célebre cineasta Zhang Yimou emplea vivos contrastes cromáticos y composiciones grandiosas para plasmar la cultura oriental. Desde sus filmes de autor hasta ceremonias olímpicas, demuestra una maestría insigne.

@@ -1,0 +1,63 @@
+id: 9
+hanzi: 始终
+pinyin: shǐ zhōng
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: from beginning to end; all along; throughout; invariably
+  es: de principio a fin; en todo momento; invariablemente; desde el comienzo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | continuously and consistently throughout the entire process from start to finish | de manera continua y constante a lo largo de todo el proceso de principio a fin | 始终保持冷静 (remain calm throughout)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对突如其来的危机与复杂的舆论风波，团队负责人始终保持沉着冷静，有条不紊地组织应对。 | Miànduì tūrúqílái de wēijī yǔ fùzá de yúlùn fēngbō, tuánduì fùzérén shǐzhōng bǎochí chénzhuó lěngjìng, yǒutiáo-bùwěn de zǔzhī yìngduì. | Facing unexpected crises and complex media storms, the team leader remained calm and composed throughout, organizing responses in an orderly manner. | Ante la repentina crisis y las habladurías, el líder del equipo mantuvo la serenidad en todo momento, organizando la respuesta con temple.
+  #2 | 在长达数年的学术论战中，斯坦福始终坚信马奔跑时四个蹄子会同时腾空，并最终用实验相片证实了自己的判断。 | Zài chángdá shù nián de xuéshù lùnzhàn zhōng, Sītǎnfú shǐzhōng jiānxìn mǎ bēnpǎo shí sì ge tízi huì tóngshí téngkōng, bìng zuìzhōng yòng shíyàn xiàngpiàn zhèngshí le zìjǐ de pànduàn. | In years of debate, Stanford firmly believed all along that a galloping horse's four hooves leave the ground, ultimately proving his judgment with photos. | Durante años de controversia, Stanford sostuvo de principio a fin que el caballo suspendía sus cuatro cascos, probando su tesis con fotos.
+
+collocations[6]{hanzi,en}:
+  始终坚持 | persist from start to finish
+  始终保持 | maintain throughout
+  始终如一 | consistent from beginning to end
+  始终不渝 | unswerving all along
+  始终未能 | failed all along to
+  贯穿始终 | run through from start to finish
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  始终如一 | shǐ zhōng rú yī | consistent and steadfast from beginning to end
+  始终不渝 | shǐ zhōng bù yú | unswerving, unflagging, and steadfast throughout
+  善始善终 | shàn shǐ shàn zhōng | start well and end well; carry through conscientiously to the end
+  贯彻始终 | guàn chè shǐ zhōng | run continuously through from inception to finish
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  始 | shǐ | begin; start; initial; first | comenzar; iniciar; principio; origen | 女 | woman | 女 (woman giving birth to life) | 台 (tái, foundation / platform) | 8 | 左右结构 | Ancient ideogram showing a mother 女 giving birth to offspring, marking the initial beginning 始 of a new human life. | A mother (女) on a platform (台) gives birth to a newborn, marking the very beginning (始) of life. | Una madre (女) en el tálamo (台) alumbra a su criatura, señalando el principio y origen (始) de la vida. | 214 | VIR | ""
+  终 | zhōng | end; finish; death; final | fin; concluir; muerte; final | 纟 | silk | 纟 (silk thread reaching end) | 夂 (zhǐ, following foot / conclusion) | 8 | 左右结构 | Phono-semantic character where a silk thread 纟 reaches its terminal knot 夂, meaning conclusion and finish. | A spun silk thread (纟) is tied off with a firm final knot (夂) at its finish (终). | El hilo de seda (纟) se remata con un nudo firme (夂) alcanzando su final (终). | 55 | VMHEY | 終
+
+mnemonics_and_roots:
+  composite_memory_hook_en: From the very beginning of life (始) to the final tying of the knot (终), persist all along (始终).
+  composite_memory_hook_es: Desde el primer inicio (始) hasta el nudo final (终), manténte firme en todo momento (始终).
+  cultural_and_cognitive_roots: Derived from classical Chinese polar compounds (antonym pairing: 始 start + 终 end); encapsulates the Confucian moral virtue of steadfast perseverance without wavering.
+  tone_sandhi_and_pitch_modulation: Dipping tone followed by level high tone: 'shǐ zhōng' (214-55). Dip fully on 'shǐ', then leap to an elevated level high tone on 'zhōng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    胎 | tāi | fetus; tire | Has flesh radical 月 on left instead of woman 女 in 始
+    治 | zhì | govern; cure | Has water radical 氵 on left instead of 女
+    钟 | zhōng | clock; bell | Has metal radical 钅 on left instead of 纟 in 终
+    冬 | dōng | winter | Has two dots at bottom instead of 纟
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    初 | chū | initial; cut cloth at beginning
+    末 | mò | tip; end; ultimate branch
+    恒 | héng | constant; unchanging moon
+    总 | zǒng | always; gather all strands
+
+semantic_boundary_contrasts:
+  core_nuance: 始终 emphasizes unwavering continuity throughout an entire chronological timeline from start to finish.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 始终 vs. 一直 | yìzhí | 一直 is a common colloquial adverb for continuous action or direction ('一直往前走'), while 始终 is formal and emphasizes steadfast consistency across a completed duration.
+    2 | 始终 vs. 从来 | cónglái | 从来 emphasizes habitual custom or negative absolutes ('从来不吃肉'), while 始终 emphasizes maintaining a constant state throughout an ordeal.
+    3 | 始终 vs. 最终 | zuìzhōng | 最终 solely marks the final terminal result ('最终获胜'), while 始终 covers the entire span from beginning to end.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 人这一辈子，最难能可贵的品格就是始终如一。当身处顺境繁花似锦时，不骄不躁保持谦逊；当身处逆境风雨交加时，不气不馁坚守初心。无论外界环境如何变幻，内心始终保有一方净土，这才是最强大的人生定力。 | Rén zhè yíbèizi, zuì nánnéng-kěguì de pǐngé jiùshì shǐzhōng-rúyī. Dāng shēnchǔ shùnjìng fánhuā-sìjǐn shí, bùjiāo-bùzào bǎochí qiānxùn; dāng shēnchǔ nìjìng fēngyǔ-jiāojiā shí, bùqì-bùněi jiānshǒu chūxīn. Wúlùn wàijiè huánjìng rúhé biànhuàn, nèixīn shǐzhōng bǎoyǒu yì fāng jìngtǔ, zhè cáishì zuì qiángdà de rénshēng dìnglì. | In life, the rarest virtue is consistency from beginning to end. Staying humble in prosperity and steadfast in adversity. Whatever changes outside, keeping a pure sanctuary within all along is life's greatest composure. | La mayor virtud en la vida es la constancia de principio a fin. Guardar la humildad en el triunfo y la entereza en la adversidad. Mudarán los tiempos, pero conservar limpia la propia conciencia en todo momento otorga serenidad invencible.
+  #2 | 中国在国际事务中始终奉行独立自主的和平外交政策。坚定维护以联合国宪章宗旨为核心的国际秩序，始终坚持通过平等对话协商化解地缘政治分歧。中国致力于推动构建人类命运共同体，始终做世界和平的建设者与全球发展的贡献者。 | Zhōngguó zài guójì shìwù zhōng shǐzhōng fèngxíng dúlì-zìzhǔ de hépíng wàijiāo zhèngcè. Jiāndìng wéihù yǐ Liánhéguó xiànzhāng zōngzhǐ wéi héxīn de guójì zhìxù, shǐzhōng jiānchí tōngguò píngděng duìhuà xiéshāng huàjiě dìyuán zhèngzhì fēnqí. Zhōngguó zhìlì yú tuīdòng gòujiàn rénlèi mìngyùn gòngtóngtǐ, shǐzhōng zuò shìjiè hépíng de jiànshèzhě yǔ quánqiú fāzhǎn de gòngxiànzhě. | China has invariably pursued an independent foreign policy of peace in international affairs. Defending the UN Charter and resolving disputes through dialogue, it remains a builder of peace and contributor to global development all along. | China sostiene en todo momento una diplomacia pacífica e independiente. Defiende la Carta de la ONU y aboga por el diálogo sin fisuras para resolver tensiones, consolidándose invariablemente como constructora de concordia mundial.

@@ -1,0 +1,63 @@
+id: 27
+hanzi: 高档
+pinyin: gāo dàng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: high-grade; top-quality; upscale; high-end; superior
+  es: de alta gama; de primera calidad; exclusivo; selecto; de lujo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | of superior quality, high price, exquisite material, or upscale market grade | de calidad superior, precio elevado, acabados esmerados o gama comercial exclusiva | 高档消费品 (high-end consumer goods)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 商业步行街两侧林立着各类高档时装旗舰店与珠宝专柜，在璀璨的霓虹灯下显得格外繁华。 | Shāngyè bùxíngjiē liǎngcè línlì zhe gèlèi gāodàng shízhuāng qíjiàndiàn yǔ zhūbǎo zhuānguì, zài cuǐcàn de níhóngdēng xià xiǎnde géwài fánhuá. | Both sides of the pedestrian street are lined with high-end fashion flagships and jewelry counters, looking exceptionally bustling under neon lights. | A ambos lados del bulevar peatonal se alinean tiendas de alta costura y joyerías selectas, que lucen vibrantes bajo las luces de neón.
+  #2 | 鲁迅宴请文友并不盲目迷信昂贵的高档酒楼，而是更看重菜品的独特风味与席间无拘无束的谈兴。 | Lǔ Xùn yànqǐng wényǒu bìng bù mángmù míxìn ángguì de gāodàng jiǔlóu, ér shì gèng kànzhòng càipǐn de dútè fēngwèi yǔ xíjiān wújū-wúshù de tánxìng. | When entertaining writer friends, Lu Xun never blindly worshipped costly high-end restaurants, valuing unique flavors and uninhibited conversation far more. | Al convidar amigos, Lu Xun no se desvivía por suntuosos mesones de postín, sino que apreciaba el sabor único y la tertulia desenfadada.
+
+collocations[6]{hanzi,en}:
+  高档商品 | high-end merchandise
+  高档小区 | upscale residential community
+  高档餐厅 | fine dining / upscale restaurant
+  高档服装 | high-grade apparel
+  档次高 | high caliber / high-grade
+  高档耐用品 | high-end durable goods
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  美轮美奂 | měi lún měi huàn | magnificent and stately architectural beauty
+  身价倍增 | shēn jià bèi zēng | value and social stature multiply dramatically
+  物美价廉 | wù měi jià lián | excellent quality at low price (antonym nuance)
+  琳琅满目 | lín láng mǎn mù | a feast for the eyes; dazzling array of precious goods
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  高 | gāo | tall; high; lofty; superior | alto; elevado; superior; eminente | 高 | tall | 高 (pictogram of a tall multistory tower) | 高 (gāo) | 10 | 单一结构 | Oracle bone pictogram depicting a tall multistory watchtower with roof, terrace, and entrance archway. | A towering watchtower (高) with lofty roofs and terraces rises above common city rooftops. | Una atalaya señorial (高) con terrazas y tejados elevados descuella sobre las casas bajas. | 55 | YRBR | ""
+  档 | dàng | grade; file; shelf; pigeonhole; crosspiece | gama; categoría; estante; expediente | 木 | wood | 木 (wooden shelves/dividers) | 当 (dāng, proper value / phonetic) | 10 | 左右结构 | Phono-semantic character where wooden shelving dividers 木 sort items into designated quality grades 当. | Wooden shelves (木) divide merchandise into proper categories (当), sorting goods into distinct grades (档). | Estantes de madera (木) clasifican los artículos según su valía (当) en distintas gamas (档). | 51 | DFSM | 檔
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Goods placed on the highest (高) wooden shelf tier (档) represent top high-grade quality (高档).
+  composite_memory_hook_es: Las mercancías colocadas en el estante de madera (档) más alto (高) pertenecen a la gama superior (高档).
+  cultural_and_cognitive_roots: Derived from classical artisan categorization where goods were sorted on wooden racks (格档) into low, medium, and high tiers (低档, 中档, 高档).
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'gāo dàng' (55-51). Articulate 'gāo' on level pitch 55, then drop crisply into 4th tone 'dàng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    亮 | liàng | bright | Has 冖 and 儿 at bottom instead of 口 in 高
+    毫 | háo | hair | Has 毛 at bottom instead of 口 in 高
+    档 | dàng | file/grade | Has 木 on left; do not confuse with 挡 (hand radical 扌)
+    铛 | dāng | clang; pan | Has metal radical 钅 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    级 | jí | tier; degree; silk steps
+    品 | pǐn | rank; quality; three mouths
+    优 | yōu | superior; abundant actor
+    贵 | guì | costly; noble; cowrie basket
+
+semantic_boundary_contrasts:
+  core_nuance: 高档 refers to upscale market classification, superior material quality, and high consumer pricing tier.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 高档 vs. 高级 | gāojí | 高级 can describe abstract ranks, advanced engineering technology ('高级职称', '高级算法'), while 高档 strictly describes commercial goods, commodities, and venues.
+    2 | 高档 vs. 昂贵 | ángguì | 昂贵 solely notes high monetary price, whereas 高档 implies refined materials, exquisite craftsmanship, and prestigious brand status.
+    3 | 高档 vs. 低档 | dīdàng | 低档 (low-end / budget tier) is the direct commercial antonym of 高档.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 一个人的品位与格调，从不取决于消费了多少高档奢侈品，而在于对生活细节的专注与审美的纯粹。穿着质朴舒适的布衣，读着启迪智慧的经典，内心的安宁与自信便足以抵御世俗的浮华。真正的贵气，源于精神的丰盈。 | Yí ge rén de pǐnwèi yǔ gédiào, cóng bù qǔjué yú xiāofèi le duōshǎo gāodàng shēchǐpǐn, ér zàiyú duì shēnghuó xìjié de zhuānzhù yǔ shěnmǐ de chúncuì. Chuānzhe zhìpǔ shūshì de bùyī, dú zhe qǐdí zhìhuì de jīngdiǎn, nèixīn de ānníng yǔ zìxìn biàn zúyǐ dǐyù shìsú de fúhuá. Zhēnzhèng de guìqì, yuányú jīngshén de fēngyíng. | Taste and stature never depend on consuming high-end luxury, but on mindful attention to detail and pure aesthetics. Wearing simple cotton clothes and reading classics, inner peace and self-assurance easily withstand secular vanity. | La distinción no estriba en comprar lujos de alta gama, sino en cuidar los detalles con esmero. Vestir lino sobrio y leer a los clásicos brinda un sosiego y una seguridad que disipan la vanidad terrenal. La nobleza emana del espíritu.
+  #2 | 制造业向高端迈进是经济高质量发展的核心抓手。国内工业母机与高档数控机床研发团队通过突破多轴联动核心算法，全面打破了长期以来的外部技术垄断，不仅提升了高端装备制造国产化率，更为现代化工业体系构筑了坚固防线。 | Zhìzàoyè xiàng gāoduān màijìn shì jīngjì gāo zhìliàng fāzhǎn de héxīn zhuāshǒu. Guónèi gōngyè mǔjī yǔ gāodàng shùkòng jīchuáng yánfā tuánduì tōngguò tūpò duōzhóu liándòng héxīn suànfǎ, quánmiàn dǎpò le chángqī yǐlái de wàibù jìshù lǒngduàn, bùjǐn tíshēng le gāoduān zhuāngbèi zhìzào guóchǎnhuà lǜ, gèng wèi xiàndàihuà gōngyè tǐxì gòuzhù le jiāngù fángxiàn. | Stepping into high-end manufacturing drives economic quality. Breaching monopolies in high-grade CNC machine tools and core algorithms, domestic teams raised domestic equipment ratios, fortifying defenses for modern industry. | El avance hacia la alta gama fabril dinamiza la economía. Los equipos de mecanizado avanzado rompieron monopolios técnicos al desarrollar algoritmos propios, elevando la cuota de producción nacional y blindando la industria moderna.

@@ -1,0 +1,64 @@
+id: 1
+hanzi: 表现
+pinyin: biǎo xiàn
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to show; to manifest; to display; expression; performance; conduct
+  es: manifestar; mostrar; expresar; rendimiento; conducta; comportamiento
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to show or manifest internal qualities, thoughts, or emotions through external words or actions | manifestar o mostrar cualidades, ideas o sentimientos a través de actos o palabras | 表现出色 (perform exceptionally well)
+  2 | Noun | Standard | conduct, behavioral manifestation, or work performance | conducta, comportamiento o rendimiento laboral observable | 工作表现良好 (good work performance)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 小李在面试中表现得从容自信，对主考官提出的专业问题对答如流，赢得了高度评价。 | Xiǎo Lǐ zài miànshì zhōng biǎoxiàn de cóngróng zìxìn, duì zhǔkǎoguān tíchū de zhuānyè wèntí duìdá-rúliú, yíngdé le gāodù píngjià. | Xiao Li performed calmly and confidently in the interview, answering professional questions fluently and winning high praise. | Xiao Li se desenvolvió con serenidad y aplomo durante la entrevista, respondiendo con soltura las preguntas profesionales.
+  #2 | 鲁迅在文学创作中表现出深刻的现实关怀，而在日常宴请朋友时则表现得热情随和，毫无大家架子。 | Lǔ Xùn zài wénxué chuàngzuò zhōng biǎoxiàn chū shēnkè de xiànshí guānhuái, ér zài rìcháng yànqǐng péngyou shí zé biǎoxiàn de rèqíng suíhe, háowú dàjiā jiàzi. | Lu Xun displayed profound social concern in writing, yet showed warm approachability when hosting friends in daily life. | Lu Xun mostró una profunda preocupación social en sus obras, mientras que al convidar amigos se mostraba cálido y accesible.
+
+collocations[6]{hanzi,en}:
+  良好表现 | good performance
+  具体表现 | concrete manifestation
+  表现突出 | outstanding performance
+  表现出 | display; exhibit
+  临床表现 | clinical manifestation
+  表现形式 | form of expression
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  各抒己见 | gè shū jǐ jiàn | everyone expresses their own personal views
+  直抒胸臆 | zhí shū xiōng yì | express one's inner feelings candidly
+  表里如一 | biǎo lǐ rú yī | external appearance and internal character are identical; sincere
+  显山露水 | xiǎn shān lù shuǐ | show off one's abilities or wealth visibly
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  表 | biǎo | surface; exterior; watch; show | superficie; exterior; reloj; manifestar | 衣 | clothing | 衣 (garment, outer fur robe) | 毛 (máo, fur / phonetic harmony) | 8 | 单一结构 | Ancient ideogram showing an outer fur garment worn outside, symbolizing the outer surface or visible manifestation. | An ornate outer fur coat (衣) worn on the exterior displays one's status openly (表). | Un abrigo de pieles (衣) llevado en el exterior exhibe la compostura hacia afuera (表). | 214 | QMV | ""
+  现 | xiàn | appear; reveal; present; current | aparecer; manifestar; actual; presente | 王 | jade | 王 (jade luster) | 见 (jiàn, see / phonetic) | 8 | 左右结构 | Phono-semantic character where jade luster 王 is revealed to the eye 见, meaning to shine forth or appear. | A cut jade stone (王) is held up so onlookers can see (见) its brilliance shine into view (现). | Una gema de jade (王) se alza para que todos la vean (见) resplandecer ante la mirada (现). | 51 | MGBUU | 現
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Turn your outer garment (表) outward to let your true qualities appear (现) in full view (表现).
+  composite_memory_hook_es: Gira tu prenda exterior (表) para dejar que tus talentos aparezcan (现) a plena luz (表现).
+  cultural_and_cognitive_roots: Derived from the ancient distinction between the inner self (里) and the observable outer conduct (表); 'biǎoxiàn' reflects how internal virtue is made tangible to the external world.
+  tone_sandhi_and_pitch_modulation: Dipping tone followed by falling tone: 'biǎo xiàn' (214-51). Syllable 'biǎo' dips low before dropping sharply into 4th tone 'xiàn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    规 | guī | rule; compass | Left side has 夫 instead of 王 in 现
+    视 | shì | look at; vision | Left side has radical 礻 instead of 王
+    袁 | yuán | surname Yuan | Middle has 口 structure, unlike 表
+    哀 | āi | sorrow; grief | Middle has 口 between top and bottom clothing strokes
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    见 | jiàn | see; perceive visually
+    视 | shì | look; examine carefully
+    览 | lǎn | survey; read through
+    显 | xiǎn | prominent; manifest
+
+semantic_boundary_contrasts:
+  core_nuance: 表现 emphasizes the visible manifestation or behavioral output of internal qualities, thoughts, or abilities.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 表现 vs. 表明 | biǎomíng | 表现 focuses on observable behavior or conduct over time, while 表明 emphasizes making a clear intellectual statement or signaling a conclusive fact.
+    2 | 表现 vs. 表达 | biǎodá | 表现 pertains to general behavioral and performance display, whereas 表达 is restricted to communicating thoughts, feelings, or ideas through language and art.
+    3 | 表现 vs. 显示 | xiǎnshì | 表现 suggests subjective effort or spontaneous human performance, while 显示 denotes objective display of data, indicators, or evident results.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 一个人真正的教养，往往在不经意的微小细节中表现得淋漓尽致。无论是在餐桌上礼貌地夹菜，还是在拥挤的电梯里耐心等待，这些无声的表现都是心灵深处最真实的映照。懂得体贴他人，才是最高贵的风度。 | Yí ge rén zhēnzhèng de jiàoyǎng, wǎngwǎng zài bùjīngyì de wēixiǎo xìjié zhōng biǎoxiàn de línlí-jìnzhì. Wúlùn shì zài cānzhuō shàng lǐmào de jiācài, háishì zài yōngjǐ de diàntī lǐ nàixīn děngdài, zhèxiē wúshēng de biǎoxiàn dōu shì xīnlíng shēnchù zuì zhēnshí de yìngzhào. Dǒngdé tǐtiē tārén, cáishì zuì gāoguì de fēngdù. | True cultivation is often manifested most thoroughly in small careless details. Whether politely taking food at table or waiting patiently in an elevator, these silent expressions reflect the inner heart. Thoughtfulness is the noblest elegance. | La verdadera educación se manifiesta en los detalles más espontáneos. Ya sea sirviéndose con cortesía a la mesa o esperando con paciencia en el ascensor, estas muestras silenciosas revelan el alma. Considerar a los demás es la máxima distinción.
+  #2 | 现代企业考核机制越来越注重员工的全面表现。管理者不仅关注个人销售业绩的突出成果，更考量团队协作中的沟通表现与危机应对能力。科学的评估体系通过多维度反馈，全面反映员工在岗位上的真实综合素质。 | Xiàndài qǐyè kǎohé jīzhì yuèláiyuè zhùzhòng yuángōng de quánmiàn biǎoxiàn. Guǎnlǐzhě bùjǐn guānzhù gèrén xiāoshòu yèjì de tūchū chéngguǒ, gèng kǎoliáng tuánduì xiézuò zhōng de gōutōng biǎoxiàn yǔ wēijī yìngduì nénglì. Kēxué de pínggù tǐxì tōngguò duō wéidù fǎnkuì, quánmiàn fǎnyìng yuángōng zài gǎngwèi shàng de zhēnshí zōnghé sùzhì. | Modern appraisal systems increasingly focus on comprehensive employee performance. Managers review not only notable sales achievements, but collaborative communication and crisis management. Multi-dimensional feedback objectively gauges overall competence. | La evaluación corporativa moderna prioriza el desempeño integral del empleado. Los directivos analizan no solo los logros en ventas, sino la cooperación grupal y la resolución de imprevistos. Este sistema multidimensional refleja las competencias laborales.

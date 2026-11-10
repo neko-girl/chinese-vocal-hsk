@@ -1,0 +1,63 @@
+id: 25
+hanzi: 艰苦
+pinyin: jiān kǔ
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: arduous; grueling; difficult; tough; hard
+  es: arduo; difícil; penoso; riguroso; sacrificado
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | arduous, strenuous, and beset by harsh material privations or grueling trials | arduo, penoso y marcado por duras privaciones materiales o rigurosas pruebas | 艰苦的环境 (harsh / grueling environment)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 地质勘探队员顶着烈日暴风雪在荒无人烟的高原扎营，工作环境异常艰苦。 | Dìzhì kāntàn duìyuán dǐngzhe lièrì bàofēngxuě zài huángwúrényān de gāoyuán zhāyíng, gōngzuò huánjìng yìcháng jiānkǔ. | Braving blazing sun and blizzards, geologists camp on unpopulated plateaus in an exceptionally grueling working environment. | Desafiando soles abrasadores y ventiscas, los geólogos acampan en mesetas desiertas bajo un entorno laboral sumamente penoso.
+  #2 | 历经数年艰苦卓绝的科研攻关，团队终于攻克了高端芯片材料的制造瓶颈。 | Lìjīng shù nián jiānkǔ-zhuójué de kēyán gōngguān, tuánduì zhōngyú gōngkè le gāoduān xīnpiàn cáiliào de zhìzào píngjǐng. | Through years of grueling scientific research, the team finally overcame manufacturing bottlenecks for high-end chip materials. | Tras años de arduo y tenaz esfuerzo investigador, el equipo superó el cuello de botella en materiales para chips punteros.
+
+collocations[6]{hanzi,en}:
+  艰苦奋斗 | struggle hard; work arduous hours
+  艰苦朴素 | plain and hardworking; simple living
+  条件艰苦 | harsh/grueling conditions
+  艰苦岁月 | hard and grueling years
+  艰苦创业 | start a business amidst hardships
+  历尽艰苦 | endure all kinds of hardships
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  艰苦卓绝 | jiān kǔ zhuó jué | arduous and unyielding; showing peerless resilience
+  自力更生 | zì lì gēng shēng | rely on one's own efforts; self-reliance
+  茹苦含辛 | rú kǔ hán xīn | endure hardships and bitter sacrifices stoically
+  坚忍不拔 | jiān rěn bù bá | firm and unyielding; persistent perseverance
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  艰 | jiān | difficult; hard; arduous | difícil; arduo; penoso; espinoso | 又 | right hand | 𡏳 (muddy cliff obstacle) + 又 (hand climbing) | 艮 (gèn, obstinate / phonetic carrier) | 8 | 左右结构 | A person climbing a rocky and muddy mountain cliff with bare hands 又; signifying arduous difficulty. | Hands (又) grip slippery rocky cliffs as one labours over difficult obstacles (艰). | Manos desnudas (又) trepan por escarpados riscos afrontando la dura dificultad (艰). | 55 | EO | 艱
+  苦 | kǔ | bitter; hardship; pain; toil | amargo; penoso; sufrimiento; fatiga | 艹 | grass / plant | 艹 (bitter herb / sow-thistle) | 古 (gǔ, old / phonetic) | 8 | 上下结构 | Grass radical 艹 combined with 古; originally bitter-tasting medicinal herbs, extended to bitter hardship and toilsome life. | Tasting wild bitter weeds (艹) of old (古) reminds the tongue of hardship (苦). | Masticar hierbas amargas (艹) ancestrales (古) evoca la aspereza de la fatiga (苦). | 214 | TJR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Climbing steep cliffs (艰) while chewing bitter herbs (苦) epitomizes grueling hardship (艰苦).
+  composite_memory_hook_es: Escalar riscos escarpados (艰) probando hierbas amargas (苦) resume lo arduo y penoso (艰苦).
+  cultural_and_cognitive_roots: Central to traditional Chinese ethos (吃苦耐劳) and revolutionary history (延安艰苦奋斗精神); enduring material privation for high ideals.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by dipping tone: 'jiān kǔ' (55-214). Maintain steady pitch 55 on 'jiān', then dip low and rise on 'kǔ'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    坚 | jiān | firm; hard; solid | Has earth radical 土 at bottom instead of 又 in 艰
+    若 | ruò | as if; like | Has 右 underneath 艹 instead of 古 in 苦
+    苗 | miáo | seedling; sprout | Has field 田 underneath 艹
+    苟 | gǒu | careless; illicit | Has 句 underneath 艹
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    难 | nán | difficult; disaster
+    辛 | xīn | pungent; toilsome
+    困 | kùn | trapped; distress
+    劳 | láo | labor; weary toil
+
+semantic_boundary_contrasts:
+  core_nuance: 艰苦 highlights harsh material conditions and physical privations demanding strenuous perseverance.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 艰苦 vs. 艰难 | jiānnán | 艰难 emphasizes severe obstacles, impasses, and crises in progress ('行路艰难', '度过艰难时期'), while 艰苦 emphasizes harsh living or working environments ('艰苦朴素').
+    2 | 艰苦 vs. 辛苦 | xīnkǔ | 辛苦 denotes everyday physical fatigue and hard work ('你辛苦了'), while 艰苦 implies deep, austere privation and trials.
+    3 | 艰苦 vs. 痛苦 | tòngkǔ | 痛苦 refers to acute emotional agony or severe physical pain, whereas 艰苦 describes objective rugged conditions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在塞罕坝林场建设初期，创业者们住着简陋的地窝子，喝着浑浊的雪水，在零下四十度的极寒天气中顶风冒雪植树造林。正是凭着这股艰苦创业的顽强毅力，他们终于将昔日飞沙走石的荒原变成了浩瀚林海。 | Zài Sàihǎnbà línchǎng jiànshè chūqī, chuàngyèzhěmen zhù zhe jiǎnlòu de dìwōzi, hē zhe húnzhuó de xuěshuǐ, zài língxià sìshí dù de jíhán tiānqì zhōng dǐngfēng-màoxuě zhíshù zàolín. Zhèngshì píngzhe zhè gǔ jiānkǔ-chuàngyè de wánqiáng yìlì, tāmen zhōngyú jiāng xīrì fēishā-zǒushí de huāngyuán biànchéng le hàohàn línhǎi. | Founders of Saihanba lived in earthen dugouts, drinking melted snow in minus 40-degree cold to plant trees. Through such grueling entrepreneurship, they transformed barren wastelands into a sea of green forests. | Los pioneros de Saihanba moraban en chozas de barro y bebían nieve derretida a 40 bajo cero para plantar árboles. Con perseverancia y sacrificio transformaron yermos desérticos en un océano boscoso.
+  #2 | 无论个人事业还是国家建设，艰苦奋斗的优良传统永不过时。物质条件的丰富改善，绝不意味着可以贪图安逸、丢弃拼搏斗志。唯有保持清醒头脑，在顺境中居安思危、迎难而上，才能行稳致远、铸就辉煌业绩。 | Wúlùn gèrén shìyè háishì guójiā jiànshè, jiānkǔ-fèndòu de yōuliáng chuántǒng yǒng bù guòshí. Wùzhì tiáojiàn de fēngfù gǎishàn, juébù yìwèizhe kěyǐ tāntú ānyì, diūqì pīnbó dòuzhì. Wéiyǒu bǎochí qīngxǐng tóunǎo, zài shùnjìng zhōng jū'ān-sīwēi, yíngnán'érshàng, cáinéng xíngwěn-zhìyuǎn, zhùjiù huīhuáng yèjì. | Whether in personal careers or national development, the virtue of arduous struggle never goes out of style. Improved living conditions should never lead to complacency; enduring trials ensures enduring success. | En la superación personal o el desarrollo patrio, la tradición del esfuerzo abnegado jamás caduca. La bonanza material no debe invitar a la holganza; afrontar retos con sobriedad garantiza logros perdurables.

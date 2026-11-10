@@ -1,0 +1,63 @@
+id: 18
+hanzi: 位于
+pinyin: wèi yú
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to be located at / in; to lie; to be situated in
+  es: situarse en; ubicarse en; hallarse en; encontrarse en
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to occupy a specific geographical position or physical location | ocupar una posición geográfica determinada o hallarse emplazado en un lugar | 位于市中心 (located in the city center)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这座闻名遐迩的历史文化名城位于长江下游平原，水网密布气候温和，自古就是鱼米之乡。 | Zhè zuò wénmíng-xiá'ěr de lìshǐ wénhuà míngchéng wèiyú Chángjiāng xiàyóu píngyuán, shuǐwǎng mìbù qìhòu wēnhé, zìgǔ jiùshì yúmǐ-zhīxiāng. | This famous historical city is located on the lower Yangtze plain; interlaced with canals and mild, it has been a land of fish and rice since antiquity. | Esta célebre urbe histórica se ubica en la llanura del curso bajo del Yangtsé; con clima templado y ríos, ha sido desde siempre emporio de arroz.
+  #2 | 鲁迅在北京长期居住的故居位于阜成门内宫门口二条，如今已被改建为国家级鲁迅博物馆。 | Lǔ Xùn zài Běijīng chángqī jūzhù de gùjū wèiyú Fùchéngmén nèi Gōngménkǒu èrtiáo, rújīn yǐ bèi gǎijiàn wéi guójiājí Lǔ Xùn Bówùguǎn. | Lu Xun's long-term former residence in Beijing is located at Fuchengmen; today it has been renovated into the national Lu Xun Museum. | La antigua morada de Lu Xun en Pekín se ubica en el callejón Gongmenkou de Fuchengmen; hoy ha sido convertida en Museo Nacional Lu Xun.
+
+collocations[6]{hanzi,en}:
+  位于中心 | located in the center
+  位于沿海 | located along the coast
+  位于交界处 | situated at the border/junction
+  位于两座山之间 | located between two mountains
+  地理位置位于 | geographical location is situated at
+  位于核心区 | situated in the core zone
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  身居要职 | shēn jū yào zhí | occupy an essential, pivotal official post
+  得天独厚 | dé tiān dú hòu | blessed with exceptional natural advantages
+  坐北朝南 | zuò běi cháo nán | face south with back to the north; ideal orientation
+  依山傍水 | yī shān bàng shuǐ | nestled against mountains and beside water
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  位 | wèi | position; place; seat; status | posición; lugar; asiento; estatus | 亻 | person | 亻 (person) | 立 (lì, stand upright / position) | 7 | 左右结构 | Ideogram showing an official person 亻 standing upright 立 in an assigned rank or court seat. | A respected person (亻) stands tall (立) at their rightful appointed post and seat (位). | Una persona digna (亻) permanece erguida (立) ocupando el puesto y sitial que le corresponde (位). | 51 | OYT | ""
+  于 | yú | in; at; on; than; by | en; a; sobre; que; por | 二 | two | 一 (heaven and earth bounds) | 亅 (hook / breath) | 3 | 单一结构 | Ancient pictogram showing breath curling forth freely; grammatical preposition denoting location in or at. | A level beam supports a vertical plumb line that marks exact placement at (于) the destination. | El travesaño horizontal sostiene una plomada que señala la ubicación exacta en (于) el mapa. | 35 | MD | 於
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Take an assigned place (位) at a specific geographical coordinate (于) to be located in (位于).
+  composite_memory_hook_es: Ocupa un sitial físico (位) en un punto exacto (于) para hallarte ubicado en (位于).
+  cultural_and_cognitive_roots: Combining the spatial noun 'wèi' (seat/post) with the classical locative coverb 'yú' (in/at); standard formal expression in geographic and academic literature.
+  tone_sandhi_and_pitch_modulation: Falling tone followed by rising tone: 'wèi yú' (51-35). Crisp descent on 'wèi', followed by a smooth upward glide on 'yú'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    拉 | lā | pull | Has hand radical 扌 on left instead of person 亻
+    泣 | qì | weep | Has water radical 氵 on left instead of 亻
+    干 | gān | dry; stem | Has straight vertical stroke without bottom right hook
+    子 | zǐ | child | Has curved hook and crossing horizontal stroke
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    置 | zhì | place; set down firmly
+    坐 | zuò | sit; face direction
+    座 | zuò | seat; pedestal; base
+    处 | chù | dwelling place; department
+
+semantic_boundary_contrasts:
+  core_nuance: 位于 is a formal locative verb indicating precise geographical coordinates or physical orientation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 位于 vs. 在 | zài | 在 is the ubiquitous everyday preposition/verb for general presence, whereas 位于 is a formal written verb reserved for geography, buildings, and territories.
+    2 | 位于 vs. 处于 | chǔyú | 位于 denotes static physical/geographic placement ('位于东亚'), whereas 处于 denotes dynamic abstract condition, status, or stage ('处于转型期').
+    3 | 位于 vs. 坐落 | zuòluò | 坐落 is poetic and descriptive of buildings resting on landscapes ('坐落于山谷'), while 位于 is objective, factual, and cartographic.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 位于云贵高原深处的古老村落，千百年来被苍翠的崇山峻岭环抱。奔腾的溪流穿寨而过，青石板路在薄雾中若隐若现。这里没有都市车马的喧嚣，只有晨钟暮鼓与袅袅炊烟，宛如世外桃源般静谧安详，守护着古朴的民风。 | Wèiyú Yún-Guì gāoyuán shēnchù de gǔlǎo cūnluò, qiānbǎi nián lái bèi cāngcuì de chóngshān-jùnlǐng huánbào. Bēnténg de xīliú chuānzhài-érguò, qīngshíbǎn lù zài báowù zhōng ruòyǐn-ruòxiàn. Zhèlǐ méiyǒu dūshì chēmǎ de xuānxiāo, zhǐyǒu chénzhōng-mùgǔ yǔ niǎoniǎo chuīyān, wǎnrú shìwài-táoyuán bān jìngmì ānxiáng, shǒuhù zhe gǔpǔ de mínfēng. | The ancient village located in the Yunnan-Guizhou plateau has been cradled by peaks for millennia. Rushing streams bisect stone paths in mist. Free from urban clamor, morning bells and hearth smoke guard pastoral tranquility. | Ubicada en la meseta de Yunnan y Guizhou, la aldea milenaria reposa entre cumbres. El arroyo cruza las veredas de piedra bajo la niebla. Lejos del fragor urbano, las campanas y el humo del hogar custodian la paz rústica.
+  #2 | 位于欧亚大陆十字路口的中亚重镇，自古便是丝绸之路贸易通道上的战略要冲。随着跨境货运班列的常态化开行，这座内陆枢纽城市焕发出勃勃生机，现代物流基地与保税仓储设施拔地而起，有力促进了跨区域多边经贸合作。 | Wèiyú Ōu-Yà dàlù shízìlùkǒu de Zhōngyà zhòngzhèn, zìgǔ biàn shì Sīchóu zhī Lù màoyì tōngdào shàng de zhànlüè yàochōng. Suízhe kuājìng huòyùn bānliè de chángtàihuà kāixíng, zhè zuò nèilù shūniǔ chéngshì huànfā chū bóbó shēngjī, xiàndài wùliú jīdì yǔ bǎoshuì cāngchǔ shèshī bádì-érqǐ, yǒulì cùjìn le kuà-qūyù duōbiān jīngmào hézuò. | A central Asian town located at the Eurasian crossroads has long been a Silk Road bastion. Regular cross-border rail links revive this hub, where logistics parks and bonded warehouses boost multilateral trade. | Ubicado en la encrucijada euroasiática, este enclave de Asia Central fue baluarte de la Ruta de la Seda. Gracias al ferrocarril transfronterizo, el nodo renace con almacenes logísticos que impulsan el comercio multilateral.

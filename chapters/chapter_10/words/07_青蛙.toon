@@ -1,0 +1,63 @@
+id: 7
+hanzi: 青蛙
+pinyin: qīng wā
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: frog; amphibian (known as beneficial insect-eater)
+  es: rana; anfibio anuro comedor de plagas
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | tailless amphibious animal known for jumping, croaking, and eating agricultural pests | anfibio anuro de piel verdosa, patas traseras largas para saltar y voz característica que devora plagas agrícolas | 池塘里的青蛙 (frogs in the pond)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 夏夜的稻田里蛙声一片，绿油油的青蛙蹲在荷叶上捕捉害虫，是农家最好的天然卫士。 | Xiàyè de dàotián lǐ wāshēng yípiàn, lǜyóuyóu de qīngwā dūn zài héyè shàng bǔzhuō hàichóng, shì nóngjiā zuì hǎo de tiānrán wèishì. | On summer nights, the paddy fields resound with croaking; bright green frogs squat on lotus leaves catching pests, the farmers' finest natural guardians. | En las noches estivales, los arrozales vibran con el croar; ranas verdosas apostadas en las hojas de loto cazan insectos, fieles guardianas del campo.
+  #2 | 在现代生物生理学课堂上，老师常以青蛙神经反射实验为例，生动讲解动物神经传导的基本机理。 | Zài xiàndài shēngwù shēnglǐxué kètáng shàng, lǎoshī cháng yǐ qīngwā shénjīng fǎnshè shíyàn wéi lì, shēngdòng jiǎngjiě dòngwù shénjīng chuándǎo de jīběn jīlǐ. | In modern physiology classes, teachers frequently use frog nerve reflex experiments to explain basic mechanisms of animal neural transmission. | En las clases de fisiología, los profesores emplean reflejos nerviosos de rana para ilustrar la transmisión de impulsos en los animales.
+
+collocations[6]{hanzi,en}:
+  小青蛙 | little frog
+  青蛙叫 | croaking of frogs
+  井底之蛙 | frog in the bottom of a well (narrow worldview)
+  青蛙跳 | frog jump/leap
+  青蛙产卵 | frogs laying eggs
+  保护青蛙 | protect frogs
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  井底之蛙 | jǐng dǐ zhī wā | a frog at the bottom of a well; person of narrow outlook and shallow experience
+  沉鱼落雁 | chén yú luò yàn | sinking fish and falling geese; enchanting female beauty
+  蛙鸣蝉噪 | wā míng chán zào | croaking frogs and buzzing cicadas; clamorous annoying din
+  井蛙之见 | jǐng wā zhī jiàn | shallow, narrow view of a frog in a well
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  青 | qīng | green; blue; verdant; young; youth | verde; azul; lozano; joven; juventud | 青 | green/blue | 生 (plant sprout budding) | 丹 (red cinnabar mine / contrasting color) | 8 | 上下结构 | Oracle bone pictogram of green plant shoots 生 sprouting from the earth, representing verdant green color and spring youth. | Fresh plant sprouts (生) burst from the dark soil, clothing the world in verdant green (青). | Brotes tiernos (生) germinan de la tierra fértil, tiñendo el paisaje de verde lozano (青). | 55 | QMB | ""
+  蛙 | wā | frog; toad; amphibian | rana; sapo; batracio | 虫 | insect / creature | 虫 (creature/crawler/amphibian) | 圭 (guī, jade tablet / onomatopoeia for croaking 'wa') | 12 | 左右结构 | Phono-semantic character combining creature radical 虫 with 圭 simulating the rhythmic croak 'wa' of frogs. | A green marsh creature (虫) croaks rhythmically by the royal jade boundary (圭), leaping as a frog (蛙). | Un anfibio de laguna (虫) croa con compás junto a las lindes (圭), saltando como una rana (蛙). | 55 | LIGG | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The verdant green (青) amphibian creature (蛙) leaps through the paddies catching pests as a beneficial frog (青蛙).
+  composite_memory_hook_es: El batracio de piel verde lozana (青) que croa en las charcas (蛙) es la beneficiosa rana (青蛙).
+  cultural_and_cognitive_roots: A cherished seasonal motif in traditional Chinese literature (辛弃疾: '听取蛙声一片'); celebrated in agriculture as an ally of farmers and indicator of clean freshwater ecosystems.
+  tone_sandhi_and_pitch_modulation: Two level high tones: 'qīng wā' (55-55). Hold both syllables on a steady, high melodic plateau.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    晴 | qíng | clear sunny weather | Has sun radical 日 on left instead of standalone 青
+    清 | qīng | clear; clean | Has water radical 氵 on left of 青
+    娃 | wá | baby; child | Has woman radical 女 on left instead of 虫 in 蛙
+    洼 | wā | low-lying hollow | Has water radical 氵 on left instead of 虫
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    蟾 | chán | toad; moon toad in folklore
+    蜍 | chú | toad species
+    蝌 | kē | tadpole; frog larvae
+    蚪 | dǒu | tadpole tail
+
+semantic_boundary_contrasts:
+  core_nuance: 青蛙 denotes the green, jumping, insectivorous anuran amphibian living near ponds and paddies.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 青蛙 vs. 蟾蜍 | chánchú | 蟾蜍 (toad / 癞蛤蟆) has warty skin, shorter legs for crawling, and lives on dry land, while 青蛙 has smooth green skin and webbed jumping feet.
+    2 | 青蛙 vs. 蝌蚪 | kēdǒu | 蝌蚪 is the aquatic tadpole larval stage of the frog with a tail and gills, prior to metamorphosis into a 青蛙.
+    3 | 青蛙 vs. 牛蛙 | niúwā | 牛蛙 is the massive American bullfrog species farmed commercially for meat, distinct from the common native farm frog 青蛙.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | “稻花香里说丰年，听取蛙声一片。”宋代词人笔下的田园夏夜，总少不了青蛙那生机勃勃的合唱。在清风微拂的荷塘边，几只碧绿的青蛙伏在荷叶上静静守候，偶有飞虫掠过便迅捷一跃，勾勒出人与自然和谐共生的宁静诗画。 | 'Dàohuā xiāng lǐ shuō fēngnián, tīngqǔ wāshēng yípiàn.' Sòngdài círén bǐxià de tiányuán xiàyè, zǒng shǎobùliǎo qīngwā nà shēngjī-bóbó de héchàng. Zài qīngfēng wēifú de hétáng biān, jǐ zhī bìlǜ de qīngwā fú zài héyè shàng jìngjìng shǒuhòu, ǒu yǒu fēichóng lüèguò biàn xùnjié yí yuè, gōulè chū rén yǔ zìrán héxié-gòngshēng de níngjìng shīhuà. | 'Fragrance of rice flowers speaks of harvest, listening to croaking frogs.' Song dynasty verses capture summer nights. Green frogs wait on lotus pads, leaping at insects, painting a peaceful portrait of humans in harmony with nature. | 'El aroma del arroz presagia cosecha entre el concierto de las ranas'. En los versos Song resuena la noche estival. Las ranas descansan sobre hojas de loto y cazan al vuelo, pintando la armonía entre el hombre y el campo.
+  #2 | 青蛙作为农田湿地生态系统的重要指示物种，对农药残留与水体污染极为敏感。近年来，农业部门大力推广生态绿色种植，大幅减少化学杀虫剂用量，为青蛙等有益两栖动物创造了健康的生存繁衍空间，有效恢复了农田生物多样性。 | Qīngwā zuòwéi nóngtián shīdì shēngtài xìtǒng de zhòngyào zhǐshì wùzhǒng, duì nóngyào cánliú yǔ shuǐtǐ wūrǎn jíwéi mǐngǎn. Jìnniánlái, nóngyè bùmén dàlì tuīguǎng shēngtài lǜsè zhòngzhí, dàfú jiǎnshǎo huàxué shāchóngjì yòngliàng, wèi qīngwā děng yǒuyì liǎngqī dòngwù chuàngzào le jiànkāng de shēngcún fányǎn kōngjiān, yǒuxiào huīfù le nóngtián shēngwù duōyàngxìng. | As a bio-indicator of wetland health, frogs are sensitive to pesticides and pollution. Promoting organic farming and curbing chemicals creates safe breeding habitats for amphibians, restoring agricultural biodiversity. | Como bioindicador de los humedales, la rana es muy sensible a pesticidas y aguas turbias. Fomentar la agricultura ecológica y reducir tóxicos recupera su hábitat reproductor, restableciendo la biodiversidad en los cultivos.
