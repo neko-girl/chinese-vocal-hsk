@@ -1,0 +1,64 @@
+id: 31
+hanzi: 精神
+pinyin: jīng shén
+level: HSK 5
+part_of_speech: Noun / Adjective
+
+meanings_summary:
+  en: spirit; mind; consciousness; energetic; lively
+  es: espíritu; mente; ánimo; enérgico; vivaz; despierto
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | spirit, mind, mental state, or conscious psychological vitality | espíritu, mente, estado anímico o vitalidad psíquica | 精神饱满 (full of vitality / energetic in spirit)
+  2 | Adjective | Standard | vigorous, spirited, lively, looking smart and energetic | despierto, vivaz, lozano o con aspecto saludable y enérgico | 小伙子很精神 (the young man looks very sharp and lively)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 规律的作息与充足的睡眠能够让人每天早晨保持饱满的精神状态，显著提高学习和工作效率。 | Guīlǜ de zuòxī yǔ chōngzú de shuìmián nénggòu ràng rén měitiān zǎochén bǎochí bǎomǎn de jīngshén zhuàngtài, xiǎnzhù tígāo xuéxí hé gōngzuò xiàolǜ. | A regular daily schedule and sufficient sleep enable people to maintain an energetic mental state every morning, significantly boosting study and work efficiency. | Tener horarios regulares y dormir lo suficiente permite a las personas mantener un ánimo radiante cada mañana, aumentando notablemente la eficiencia.
+  #2 | 这位年轻军官穿上整洁的军装后显得格外精神，步伐坚定而充满自信。 | Zhè wèi niánqīng jūnguān chuānshàng zhěngjié de jūnzhuāng hòu xiǎnde géwài jīngshen, bùfá jiāndìng ér chōngmǎn zìxìn. | Wearing a crisp uniform, this young military officer looked exceptionally spirited, marching with firm and confident strides. | Con el pulcro uniforme militar puesto, este joven oficial lucía sumamente apuesto y vivaz, marchando con paso firme y seguro.
+
+collocations[6]{hanzi,en}:
+  精神饱满 | full of energy; high-spirited
+  精神状态 | mental state; condition
+  时代精神 | spirit of the times; zeitgeist
+  精神财富 | spiritual wealth; cultural legacy
+  提振精神 | boost one's spirits
+  精神压力 | mental stress; psychological strain
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  精益求精 | jīng yì qiú jīng | constantly perfect one's skills; pursue perfection
+  聚精会神 | jù jīng huì shén | concentrate one's attention; fully focused
+  神采奕奕 | shén cǎi yì yì | radiant with vigor and high spirits
+  心旷神怡 | xīn kuàng shén yí | relaxed in mind and joyful in spirit
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  精 | jīng | essence; pure; refined; spirit; skilled | esencia; puro; refinado; espíritu; hábil | 米 | rice | 米 (husked refined white rice) + 青 (pure clear blue/green) | 青 (qīng, clear / phonetic) | 14 | 左右结构 | Milled white rice 米 refined to perfection with 青 symbolizing pure clear essence; hence the finest core quality. | Polished premium rice grains (米) cleansed to pristine green purity (青) represent essence (精). | Granos de arroz puro (米) seleccionados con frescura vegetal (青) encarnan la quintaesencia (精). | 55 | FDQB | ""
+  神 | shén | spirit; deity; soul; expression; mind | dios; divinidad; espíritu; alma; expresión | 礻 | altar / ritual sign | 礻 (ancestral altar / spiritual revelation) + 申 (lightning bolts / stretch) | 申 (shēn, stretch / phonetic) | 9 | 左右结构 | Altar sign 礻 paired with 申 depicting celestial lightning bolts descending from heaven; divinity and invisible soul power. | At a sacred altar (礻), lightning flashes in the sky (申), manifesting divine spirit (神). | Frente al altar sagrado (礻), un rayo cruza el cielo (申) revelando la presencia del espíritu divino (神). | 35 | IFLWL | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The refined quintessence of grain (精) united with divine consciousness (神) constitutes true human spirit and vitality (精神).
+  composite_memory_hook_es: La quintaesencia refinada del cereal (精) unida a la conciencia divina (神) forja el espíritu y vigor humano (精神).
+  cultural_and_cognitive_roots: In traditional Chinese medicine and philosophy, 精 (vital physical essence) and 神 (conscious mental awareness) form the dual foundation of health.
+  tone_sandhi_and_pitch_modulation: First tone followed by second tone: 'jīng shén' (55-35). When used colloquially as an adjective ('真精神'), 'shén' often softens into a light neutral tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    晴 | qíng | sunny; clear | Has sun radical 日 on left instead of rice 米 in 精
+    清 | qīng | clear; clean | Has water radical 氵 on left
+    绅 | shēn | gentry; gentleman | Has silk radical 纟 on left instead of altar 礻 in 神
+    伸 | shēn | stretch; extend | Has person radical 亻 on left of 申
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    心 | xīn | heart; conscious mind
+    气 | qì | vital life breath
+    志 | zhì | will; aspiration
+    魂 | hún | ethereal soul
+
+semantic_boundary_contrasts:
+  core_nuance: 精神 refers to mental energy, conscious psychological state, or the overarching soul/ideology of an era, while also acting as an adjective for looking lively.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 精神 vs. 思想 | sīxiǎng | 思想 focuses on intellectual thought, cognitive ideology, or philosophical viewpoints, whereas 精神 denotes psychological vitality, courage, or emotional energy.
+    2 | 精神 vs. 情绪 | qíngxù | 情绪 refers to transient psychological mood swings (e.g. happiness, anger, depression), while 精神 reflects overall vitality, morale, or inner spirit.
+    3 | 精神 vs. 活力 | huólì | 活力 emphasizes dynamic physical and bodily stamina, whereas 精神 combines psychological alertness with physical vigor.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 健康的生活方式是滋养充沛精神的基石。在当今节奏飞快的社会中，长期的熬夜与心理重压容易导致精神萎靡。唯有坚持科学锻炼与规律睡眠，才能使人神采飞扬，以最佳状态迎接每日挑战。 | Jiànkāng de shēnghuó fāngshì shì zīyǎng chōngpèi jīngshén de jīshí. Zài dāngjīn jiézòu fēikuài de shèhuì zhōng, chángqī de áoyè yǔ xīnlǐ zhòngyā róngyì dǎozhì jīngshén wěimǐ. Wéiyǒu jiānchí kēxué duànliàn yǔ guīlǜ shuìmián, cáinéng shǐ rén shéncǎi-fēiyáng, yǐ zuìjiā zhuàngtài yíngjiē měirì tiǎozhàn. | A healthy lifestyle forms the cornerstone for nourishing abundant vitality. In fast-paced modern society, chronic late nights and psychological stress easily cause spiritual exhaustion. Only scientific exercise and regular sleep keep one radiant. | Un estilo de vida saludable cimienta la vitalidad anímica. En la apresurada sociedad moderna, trasnochar y el estrés psíquico minan el vigor. Solo el ejercicio metódico y el sueño regular nos mantienen radiantes ante los retos diarios.
+  #2 | 中华民族在五千年的历史长河中，铸就了坚忍不拔、自强不息的伟大精神。无论面对自然灾害还是外来挑战，这种深沉的文化精神力量始终激励着亿万儿女团结奋斗，在困境中开拓前行，开创出举世瞩目的繁荣发展奇迹。 | Zhōnghuá mínzú zài wǔqiān nián de lìshǐ chánghé zhōng, zhùjiùle jiānrěn-bùbá, zìqiáng-bùxī de wěidà jīngshén. Wúlùn miànduì zìrán zāihài háishì wàilái tiǎozhàn, zhèzhǒng shēnchén de wénhuà jīngshén lìliang shǐzhōng jīlì zhe yìwàn érnǚ tuánjié fèndòu, zài kùnjìng zhōng kāituò qiánxíng, kāichuàng chū jǔshì zhǔmù de fánróng fāzhǎn qíjī. | Through five thousand years of history, the Chinese nation has forged an indomitable spirit of self-reliance. Facing natural disasters or hardships, this profound cultural spirit inspires unity and perseverance, creating miracles of development. | A lo largo de cinco milenios, la nación china forjó un espíritu tenaz de superación constante. Ante adversidades naturales o desafíos, esta honda fuerza espiritual impulsa la unión y el avance perseverante, alumbrando milagros de prosperidad admirados por el mundo.

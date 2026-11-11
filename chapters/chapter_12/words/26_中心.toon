@@ -1,0 +1,64 @@
+id: 26
+hanzi: 中心
+pinyin: zhōng xīn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: center; heart; core; hub; institution/facility (research center, sports center)
+  es: centro; núcleo; corazón; eje neurálgico; sede o complejo institucional
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the middle point or central part of an area, geometry, or city; the core or heart of an activity | punto central o parte neurálgica de un espacio, ciudad o asunto | 市中心 (city center / downtown)
+  2 | Noun | Standard | an organization, agency, or physical facility dedicated to a specific operational or research mission | organismo, entidad o instalación destinada a una actividad especializada | 研发中心 (R&D center)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了贴近海外用户的真实使用习惯，腾讯在海外多个大都市设立了本地化技术支持与运营中心。 | Wèile tiējìn hǎiwài yònghù de zhēnshí shǐyòng xíguàn, Téngxùn zài hǎiwài duō gè dàdūshì shèlìle běndìhuà jìshù zhīchí yǔ yùnyíng zhōngxīn. | To stay close to overseas users' authentic usage habits, Tencent established local tech support and operations centers across major foreign metropolises. | Para ajustarse a los hábitos de los usuarios extranjeros, Tencent abrió centros de soporte técnico y operaciones en varias metrópolis mundiales.
+  #2 | 繁华的国际金融中心不仅汇聚了全球顶尖的跨国银行，更掌握着庞大资本在全球范围内的配置方向。 | Fánhuá de guójì jīnróng zhōngxīn bùjǐn huìjùle quánqiú dǐngjiān de kuàguó yínháng, gèng zhǎngwò zhe pángdà zīběn zài quánqiú fànwéi nèi de pèizhì fāngxiàng. | The bustling international financial center not only gathers the world's top multinational banks, but steers the global allocation of massive capital. | El floreciente centro financiero internacional reúne a los mayores bancos mundiales y pilota la distribución de ingentes capitales por el globo.
+
+collocations[6]{hanzi,en}:
+  研发中心 | R&D center
+  市中心 | city center / downtown
+  数据中心 | data center
+  金融中心 | financial center
+  中心任务 | central task / primary mission
+  购物中心 | shopping center / mall
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  正中下怀 | zhèng zhòng xià huái | fit in exactly with one's wishes; just what one hoped for
+  万人空巷 | wàn rén kōng xiàng | thousands empty out streets to flock to a central event
+  独具匠心 | dú jù jiàng xīn | possessing ingenious core craftsmanship and original mind
+  众望所归 | zhòng wàng suǒ guī | central pivot of all people's hopes; universally acclaimed
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  中 | zhōng | middle; center; within; inside; hit | medio; centro; interior; acertar; dentro | 丨 | vertical line | A flagpole with banners 口 planted precisely in the geometric center with a vertical staff 丨 | Self-phonetic zhōng | 4 | 单一结构 | A ceremonial banner pole planted squarely in the middle of a military camp; represents the exact center and golden mean. | A vertical staff (丨) planted squarely in the center box (口) marks the exact bullseye middle (中). | Un asta vertical (丨) clavada justo en el medio del recuadro (口) marca el centro exacto (中). | 55 | L | ""
+  心 | xīn | heart; mind; core; feeling; spirit | corazón; mente; núcleo; sentimiento | 心 | heart | Pictograph of the human physical heart with chambers and aorta valves | Pictograph of heart xīn | 4 | 单一结构 | A pictograph of the muscular human heart showing ventricle chambers; regarded in traditional thought as the seat of thought and vital core. | The curved muscular chamber of the human heart (心) pulsates as the vital core of life. | La cavidad muscular del corazón humano (心) que late como motor vital de la existencia. | 55 | P | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The exact geometric middle (中) joined with the beating life core (心) forms the true heart and center (中心).
+  composite_memory_hook_es: El centro geométrico exacto (中) unido al corazón vital palpitante (心) conforma el núcleo o centro (中心).
+  cultural_and_cognitive_roots: Derived from the ancient cosmology of the Central Plain (中原) and the human heart as the supreme ruler (心者，君主之官) in Chinese traditional medicine.
+  tone_sandhi_and_pitch_modulation: Two high level first tones: 'zhōng xīn' (55-55). Hold clear, sustained high level 55 pitch across both syllables.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    申 | shēn | express; state | Vertical stroke crosses top and bottom, unlike 中 which enters bottom
+    巾 | jīn | cloth; towel | Has downward left slant flap
+    必 | bì | must; surely | Has a long slash stroke crossing right through 心
+    沁 | qìn | soak; percolate | Has water radical 氵 on left of 心
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    核 | hé | core; nucleus
+    枢 | shū | pivot; hub
+    基 | jī | base; foundation
+    央 | yāng | center; middle
+
+semantic_boundary_contrasts:
+  core_nuance: 中心 designates the geometric core, downtown hub, or specialized organizational facility (data center, research center).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 中心 vs. 核心 | héxīn | 核心 emphasizes the indispensable essence, crucial nucleus, or key deciding element ('核心竞争力', '核心技术'), while 中心 can be purely spatial or institutional.
+    2 | 中心 vs. 中间 | zhōngjiān | 中间 simply refers to physical relative position between two extremes or temporal intervals ('坐在两人中间'), while 中心 is a focal hub.
+    3 | 中心 vs. 枢纽 | shūniǔ | 枢纽 emphasizes traffic or network interconnection switching (e.g. 交通枢纽 transport hub), whereas 中心 focuses on attraction and aggregation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在超大型现代化城市规划中，多中心组团式布局正逐步取代传统的单中心扩张模式。通过在城市外围副中心高标准配套优质教育、医疗资源与综合交通枢纽，有效缓解了主城区的交通拥堵，实现了城市功能的均衡布局。 | Zài chāodàxíng xiàndàihuà chéngshì guīhuà zhōng, duōzhōngxīn zǔtuánshì bùjú zhèng zhúbù qǔdài chuántǒng de dānzhōngxīn kuòzhāng móshì. Tōngguò zài chéngshì wàiwéi fùzhōngxīn gāobiāozhǔn pèitào yōuzhì jiàoyù, yīliáo zīyuán yǔ zōnghé jiāotōng shūniǔ, yǒuxiào huǎnjiěle zhǔchéngqū de jiāotōng yōngdǔ, shíxiànle chéngshì gōngnéng de jīnhéng bùjú. | In megacity planning, polycentric clustered layouts are replacing monocentric sprawl. Equipping sub-centers with quality schools, healthcare, and transit hubs eases downtown congestion, achieving balanced urban functionality. | En el urbanismo de grandes urbes, los esquemas policéntricos relevan la concentración en un solo núcleo. Dotar a centros periféricos de colegios, hospitales y nudos de transporte descongestiona el centro histórico equilibrando la ciudad.
+  #2 | 国家超级计算中心作为支撑战略高科技前沿探索的核心大科学装置，在天气预报精细模拟、深空探测轨道计算以及新药分子动力学筛选等领域发挥着中流砥柱的作用。源源不断的澎湃算力，成为推动国家创新驱动发展的强大引擎。 | Guójiā chāojí jìsuàn zhōngxīn zuòwéi zhīchēng zhànlüè gāokējì qiányán tànsuǒ de héxīn dàkēxué zhuāngzhì, zài tiānqì yùbào jīngxì mónǐ, shēnkōng tàncè guǐdào jìsuàn yǐjí xīnyào fēnzǐ dònglìxué shāixuǎn děng lǐngyù fāhuī zhe zhōngliú-dǐzhù de zuòyòng. Yuányuán-bùduàn de péngbài suànlì, chéngwéi tuīdòng guójiā chuàngxīn qūdòng fāzhǎn de qiángdà yǐnqíng. | As a large-scale facility supporting frontier tech, the National Supercomputing Center anchors fine weather modeling, deep space orbit plotting, and drug discovery. Continuous computational power acts as an engine driving innovation. | El Centro Nacional de Supercomputación, como gran infraestructura de ciencia de frontera, es un pilar en predicción meteorológica, cálculo aeroespacial y diseño de fármacos. Su inagotable potencia de cómputo propulsa el desarrollo.

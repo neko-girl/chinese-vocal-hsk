@@ -1,0 +1,63 @@
+id: 10
+hanzi: 浅
+pinyin: qiǎn
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: shallow; light (color/sleep); superficial; simple
+  es: poco profundo; superficial; claro (color); ligero (sueño)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | shallow in depth from surface to bottom (opposite of deep/深) | de poca profundidad o fondo; somero (opuesto a profundo/深) | 水很浅 (the water is shallow)
+  2 | Adjective | Standard | light, superficial, or brief (of color, sleep, knowledge, or emotional bonds) | claro (de color), superficial (de saber) o ligero y fácil de interrumpir (de sueño) | 浅睡眠 / 浅蓝色 (light sleep / light blue)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清澈见底的溪水很浅，刚没过脚踝，成群的银色小鱼在光滑的鹅卵石间欢快游动。 | Qīngchè jiàndǐ de xīshuǐ hěn qiǎn, gāng mòguò jiǎohuái, chéngqún de yínsè xiǎoyú zài guānghuá de éluǎnshí jiān huānkuài yóudòng. | The crystal-clear stream water is very shallow, barely covering ankles, as schools of silver minnows dart among smooth pebbles. | El arroyo cristalino es tan somero que apenas cubre los tobillos, con pececillos plateados nadando alegres entre cantos rodados.
+  #2 | 在半夜处于浅睡眠阶段时，哪怕是远处传来极其微弱的关门声也容易让人警醒过来。 | Zài bànyè chǔyú qiǎn shuìmián jiēduàn shí, nǎpà shì yuǎnchù chuánlái jíqí wēiruò de guānmén shēng yě róngyì ràng rén jǐngxǐng guòlai. | When in the light sleep stage in the middle of the night, even a faint distant door-closing sound easily jolts one awake. | En la fase de sueño ligero a medianoche, el más leve chasquido de una puerta lejana despierta de inmediato al durmiente.
+
+collocations[6]{hanzi,en}:
+  浅睡眠 | light sleep
+  浅色 | light color
+  浅蓝色 | light blue
+  由浅入深 | from shallow to deep; step by step
+  水浅 | shallow water
+  学识浅薄 | shallow learning / superficial knowledge
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  浅尝辄止 | qiǎn cháng zhé zhǐ | stop after tasting a little; skim the surface without deep study
+  深浅莫测 | shēn qiǎn mò cè | depth unpredictable; unfathomable and hard to gauge
+  深入浅出 | shēn rù qiǎn chū | explain profound truths in simple, accessible language
+  浅见寡闻 | qiǎn jiàn guǎ wén | have superficial views and limited experience
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  浅 | qiǎn | shallow; light; superficial | poco profundo; claro; superficial | 氵 | water | 氵 (water flow) + 戋 (small / narrow / shallow) | 戋 (jiān, small / phonetic) | 8 | 左右结构 | Water radical 氵 combined with 戋 (two small halberds / petty); little depth of water, meaning shallow or light. | Water drops (氵) pool only in tiny, narrow amounts (戋), revealing a shallow stream (浅). | Un hilillo de agua (氵) apenas llena un cuenco menguado (戋) formando un charco somero (浅). | 214 | EII | 淺
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Water (氵) that is scanty and narrow (戋) is shallow and light (浅).
+  composite_memory_hook_es: El agua (氵) escasa y menguada (戋) denota lo somero y claro (浅).
+  cultural_and_cognitive_roots: Spatial depth paired with cognitive depth: paired universally as an antonym with 深 (deep); symbolizes introductory knowledge (深入浅出).
+  tone_sandhi_and_pitch_modulation: Dipping third tone: 'qiǎn' (214). Dip down low into pitch 2 and curve gently back up to 4.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    钱 | qián | money; coin | Has metal radical 钅 on left instead of water 氵 in 浅
+    线 | xiàn | thread; line | Has silk radical 纟 on left of 戋
+    残 | cán | cruel; disabled; remnant | Has bone radical 歹 on left of 戋
+    践 | jiàn | trample; fulfill | Has foot radical 足 on left of 戋
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    薄 | báo | thin; slight layer
+    浮 | fú | float on surface
+    轻 | qīng | light weight; gentle
+    淡 | dàn | mild; insipid; pale
+
+semantic_boundary_contrasts:
+  core_nuance: 浅 strictly denotes lack of depth (physical water, cognitive learning, sleep, or color saturation).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 浅 vs. 薄 | báo | 薄 refers to physical planar thickness or insubstantiality ('薄纸', '感情淡薄'), while 浅 refers to water depth, sleep lightness, or colors.
+    2 | 浅 vs. 淡 | dàn | 淡 focuses on flavor (mild/bland), scent, or weak concentration of liquids ('淡水', '味道淡'), while 浅 describes visual color hue or water level.
+    3 | 浅 vs. 短 | duǎn | 短 refers to linear physical length or chronological duration ('时间短'), while 浅 refers to vertical depth.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 初学者研读晦涩深奥的古代哲学经典，最忌讳浅尝辄止与浮躁求快。唯有循序渐进、由浅入深，耐下心来一字一句细细推敲字里行间的微言大义，方能真正领会圣贤先哲博大精深的治世智慧与处世哲学。 | Chūxuézhě yándú huìsè shēn'ào de gǔdài zhéxué jīngdiǎn, zuì jìhuì qiǎncháng-zhézhǐ yǔ fúzào qiúkuài. Wéiyǒu xúnxù-jiànjìn, yóuqiǎn-rùshēn, nàixià xīnlái yízì-yíjù xìxì tuīqiāo zìlǐ-hángjiān de wēiyán-dàyì, fāngnéng zhēnzhèng lǐnghuì shèngxián-xiānzhé bódà-jīngshēn de zhìshì zhìhuì yǔ chǔshì zhéxué. | When novices study ancient philosophy, superficial skimming and impatient haste are worst. Only progressing step by step from shallow to deep and pondering sentences carefully can one grasp profound wisdom. | Al abordar la filosofía clásica, el peor vicio es el desdén superficial. Solo avanzando con sosiego de lo elemental a lo hondo y saboreando cada renglón se asimila la magna sabiduría de los sabios.
+  #2 | 盛夏时节，年轻女孩换上一袭优雅的浅绿色亚麻连衣裙，微风吹拂裙摆如荷叶摇曳，给人一种清爽宜人的清凉之感。浅色系服饰不仅在视觉上令人赏心悦目，更能在炎炎夏日有效反射刺目的阳光热量。 | Shèngxià shíjié, niánqīng nǚhái huànshàng yì xí yōuyǎ de qiǎnlǜsè yàmá liányīqún, wēifēng chuīfú qúnbǎi rú héyè yáoyè, jǐrén yì zhǒng qīngshuǎng yírén de qīngliángzhīgǎn. Qiǎnsèxì fúshì bùjǐn zài shìjué shàng lìngrén shǎnxīn-yuèmù, gèng néng zài yányán xiàrì yǒuxiào fǎnshè cìmù de yángguāng rèliàng. | In midsummer, a girl wears a light green linen dress, swaying like lotus leaves in the breeze with refreshing coolness. Light-colored clothing pleases the eye and reflects scorching sunlight heat effectively. | En canícula, un vestido de lino verde claro ondea como hoja de loto brindando una grata frescura. La gama de tonos claros deleita la vista y refleja el calor del sol abrasador con eficacia.

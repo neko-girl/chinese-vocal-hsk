@@ -1,0 +1,63 @@
+id: 29
+hanzi: 导致
+pinyin: dǎo zhì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to lead to; to cause; to bring about; to result in
+  es: conducir a; provocar; causar; desembocar en; originar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to cause, bring about, or result in (almost exclusively introducing negative, undesirable, or adverse outcomes) | provocar, acarrear o desembocar en (casi siempre introduciendo consecuencias adversas o desfavorables) | 导致严重后果 (lead to serious consequences)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 由于施工人员严重违反安全操作规程，最终导致了这起性质恶劣的特大火灾事故。 | Yóuyú shīgōng rényuán yánzhòng wéifǎn ānquán cāozuò guīchéng, zuìzhōng dǎozhì le zhè qǐ xìngzhì èliè de tàdà huǒzāi shìgù. | Because construction workers seriously violated safety regulations, it ultimately led to this egregious major fire disaster. | Por infringir gravemente los protocolos de seguridad los operarios, se produjo este terrible siniestro con consecuencias devastadoras.
+  #2 | 长期处于严重睡眠不足与高压紧绷状态，容易导致人体自主神经功能紊乱与记忆力衰退。 | Chángqī chǔyú yánzhòng shuìmián bùzú yǔ gāoyā jǐnbēng zhuàngtài, róngyì dǎozhì réntǐ zìzhǔ shénjīng gōngnéng wěnluàn yǔ jìyìlì shuāituì. | Prolonged severe sleep deprivation and high-stress tension easily lead to autonomic nervous system dysfunction and memory decline. | La falta crónica de descanso y el estrés continuo conducen al desajuste del sistema nervioso autónomo y al deterioro de la memoria.
+
+collocations[6]{hanzi,en}:
+  导致失败 | lead to failure
+  导致严重后果 | result in serious consequences
+  导致事故 | cause an accident
+  直接导致 | directly lead to
+  可能导致 | may lead to; potentially cause
+  导致疾病 | cause illness/disease
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  自食其果 | zì shí qí guǒ | reap what one has sown; eat the bitter fruit of one's own making
+  玩火自焚 | wán huǒ zì fén | play with fire and burn oneself; court disaster
+  前因后果 | qián yīn hòu guǒ | antecedents and consequences; causes and effects
+  因小失大 | yīn xiǎo shī dà | lose big because of petty greed; penny wise pound foolish
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  导 | dǎo | lead; guide; conduct; direct | guiar; conducir; canalizar; dirigir | 寸 | inch / hand measure | 巳 (offspring / river channel) + 寸 (hand guiding way) | 道 (dào, path / phonetic origin) | 6 | 上下结构 | A hand 寸 pointing out the path 道; guiding movement along a channel, leading to a consequence. | A hand (寸) points the channel ahead, leading (导) events toward their result. | Una mano (寸) canaliza la ruta orientando (导) los hechos hacia su desenlace. | 214 | RDI | 導
+  致 | zhì | send; deliver; arrive; cause; delicate | entregar; llegar; provocar; delicado; causar | 至 | arrive | 至 (arrow hitting ground / arrival) + 攵 (gentle tapping hand) | 至 (zhì, arrive / phonetic) | 10 | 左右结构 | An arrow arriving at its final ground target 至 guided by a hand 攵; represents bringing about, sending, or arriving at a terminus. | An arrow reaches its final mark (至) propelled by hand (攵), causing completion (致). | Una flecha hace diana al llegar (至) impulsada por la mano (攵), consumando el efecto (致). | 51 | MGOIK | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Guiding a course (导) until it hits the final destination (致) leads to an adverse outcome (导致).
+  composite_memory_hook_es: Canalizar los hechos (导) hasta que dan en el blanco final (致) provoca o acarrea un resultado (导致).
+  cultural_and_cognitive_roots: Causal grammar constraint: 导 (channeling trajectory) + 致 (final arrival); in modern syntax, strictly polarizes toward adverse or undesirable results.
+  tone_sandhi_and_pitch_modulation: Dipping third tone followed by falling fourth tone: 'dǎo zhì' (214-51). Dip down on 'dǎo', then strike down firmly on 'zhì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    寻 | xún | seek | Has 彐 on top of 寸 instead of 巳 in 导
+    异 | yì | different | Has 廾 underneath 巳
+    到 | dào | arrive | Has knife radical 刂 on right of 至 instead of 攵 in 致
+    敌 | dí | enemy | Has 舌 on left of 攵 instead of 至
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    引 | yǐn | draw bow; trigger
+    起 | qǐ | rise; originate
+    成 | chéng | become; result in
+    致 | zhì | reach terminal result
+
+semantic_boundary_contrasts:
+  core_nuance: 导致 strictly introduces negative, unwanted, or harmful consequences (diseases, accidents, failures, losses).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 导致 vs. 引起 | yǐnqǐ | 引起 can introduce positive, neutral, or negative reactions ('引起关注', '引起共鸣'), while 导致 is almost exclusively negative ('导致破产').
+    2 | 导致 vs. 造成 | zàochéng | 造成 emphasizes creating a tangible adverse state or loss ('造成经济损失', '造成人员伤亡'), largely interchangeable with 导致.
+    3 | 导致 vs. 致使 | zhìshǐ | 致使 is more literary and formal, common in legal verdicts and forensic police accident reports, while 导致 is standard in all prose.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 全球气候变暖引发的极端天气频发，直接导致了部分沿海低洼岛国面临被上升海平面淹没的严峻生存威胁。极端干旱与洪涝灾害更导致大面积粮食作物减产，进一步加剧了全球范围内的饥饿与地缘动荡危机。 | Quánqiú qìhòu biànnuǎn yǐnfā de jíduān tiānqì pínfā, zhíjiē dǎozhì le bùfen yánhǎi dīwā dǎoguó miànlín bèi shàngshēng hǎipíngmiàn yānmò de yánjùn shēngcún wēixié. Jíduān gānhàn yǔ hónglào zāihài gèng dǎozhì dàmiànjī liángshi zuòwù jiǎnchǎn, jìnyíbù jiājù le quánqiú fànwéi nèi de jī'è yǔ dìyuán dòngdàng wēijī. | Climate change triggers extreme weather, leading low-lying island states to face threats of rising seas. Droughts and floods also lead to major crop reductions, exacerbating hunger and geopolitical unrest. | El cambio climático provoca anomalías meteorológicas que conducen a la sumersión de atolones por el mar. Sequías y riadas acarrean la ruina de cosechas agravando el hambre y la inestabilidad internacional.
+  #2 | 盲目贪大求全、盲目举债扩张，是许多昔日辉煌的大型企业最终走向资金链断裂、轰然倒闭的核心主因。缺乏敬畏市场规律的盲目决策，必然导致资产负债率居高不下，最终在金融风暴来临时难逃破产厄运。 | Mángmù tāndà-qiúquán, mángmù jǔzhài kuòzhāng, shì xǔduō xīrì huīhuáng de dàxíng qǐyè zuìzhōng zǒuxiàng zījīnliàn duànliè, hōngrán dǎobì de héxīn zhǔyīn. Quēfá jìngwèi shìchǎng guīlǜ de mángmù juécè, bìrán dǎozhì zīchǎn-fùzhàilǜ jūgāobùxià, zuìzhōng zài jīnróng fēngbào láilín shí nántáo pòchǎn èyùn. | Reckless borrowing and overexpansion are key factors leading once-glorious firms into liquidity defaults and collapse. Disregarding market rules inevitably leads to sky-high debt ratios, courting bankruptcy during storms. | Endeudarse a ciegas para expandirse condujo a la quiebra a consorcios antes boyantes. Desoír las leyes del mercado acarrea un endeudamiento insostenible que naufraga en la bancarrota al estallar crisis financieras.

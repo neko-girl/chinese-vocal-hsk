@@ -1,0 +1,62 @@
+id: 15
+hanzi: 铃
+pinyin: líng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: bell; chime; ring; buzzer
+  es: campana; campanilla; timbre; cascabel
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a hollow metallic acoustic device with a clapper that rings when struck, or an electrical buzzer | dispositivo acústico metálico hueco con badajo que tintinea al agitarse, o timbre eléctrico | 按门铃 (press the doorbell)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清脆悦耳的下课铃声刚刚响起，安静的教学楼走廊里瞬间充满了欢声笑语。 | Qīngcuì yuè'ěr de xiàkè língshēng gānggāng xiǎngqǐ, ānjìng de jiàoxuélóu zǒuláng lǐ shùnjiān chōngmǎn le huānshēng-xiàoyǔ. | Just as the crisp, melodious end-of-class bell rang, quiet hallways erupted into cheers and laughter in an instant. | Apenas sonó el timbre alegre de fin de clase, los silenciosos pasillos se llenaron al instante de risas y algarabía.
+  #2 | 小猫咪的脖子上系着一枚精致小巧的金色小铜铃，走起路来发出叮叮当当的声响。 | Xiǎomāomī de bózi shàng jì zhe yì méi jīngzhì xiǎoqiǎo de jīnsè xiǎotónglíng, zǒu qǐ lù lai fāchū dīngdīng-dāngdāng de shēngxiǎng. | The kitten had an exquisite golden brass bell tied to its neck, making tinkling sounds as it trotted along. | El gatito llevaba atado al cuello un primoroso cascabel de latón dorado que tintineaba con gracia a cada paso.
+
+collocations[6]{hanzi,en}:
+  门铃 | doorbell
+  铃声 | ringtone; bell chime
+  闹铃 | alarm chime
+  车铃 | bicycle bell
+  铜铃 | bronze bell
+  摇铃 | handbell / ring bell
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  掩耳盗铃 | yǎn ěr dào líng | cover one's ears while stealing a bell; deceive oneself
+  解铃系铃 | jiě líng xì líng | whoever tied the bell must untie it; solve what one caused
+  顺手牵羊 | shùn shǒu qiān yáng | lead away sheep in passing; steal opportunistically
+  铜铃大眼 | tóng líng dà yǎn | eyes as wide and round as bronze bells
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  铃 | líng | bell; chime; ring; small rattle | campana; timbre; cascabel; campanilla | 钅 | metal / gold | 钅 (cast bronze/brass metal) + 令 (order / command) | 令 (lìng, command / phonetic) | 10 | 左右结构 | Metal radical 钅 paired with 令 (issuing commands); small cast bronze bells rung by heralds to assemble people for public orders. | A small bell of metal (钅) rings to issue authoritative commands (令) to listeners (铃). | Una campanilla de metal (钅) tañe para promulgar bandos y órdenes (令) a la vecindad (铃). | 35 | COEI | 鈴
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A metal object (钅) that rings to command attention (令) is a bell (铃).
+  composite_memory_hook_es: Una pieza metálica (钅) que tañe dando la voz de orden (令) es el timbre o cascabel (铃).
+  cultural_and_cognitive_roots: Bronze bell culture; ancient carriages had chariot bells (銮铃) to announce imperial convoys, transforming into modern school bells and electronic ringtones.
+  tone_sandhi_and_pitch_modulation: Rising second tone: 'líng' (35). Sweep upward cleanly from pitch 3 to high pitch 5 like a crisp bell chime.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    领 | lǐng | collar; lead | Has page/head radical 页 on right of 令 instead of 钅 in 铃
+    冷 | lěng | cold | Has ice radical 冫 on left of 令
+    钟 | zhōng | clock; large bell | Has 中 on right of 钅 instead of 令
+    钢 | gāng | steel | Has 冈 on right of 钅
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    铎 | duó | large handbell with wooden clapper
+    磬 | qìng | sonorous chime stone
+    钲 | zhēng | army gong used to halt soldiers
+    叮 | dīng | tinkling metallic sound
+
+semantic_boundary_contrasts:
+  core_nuance: 铃 designates small acoustic bells, chimes, or electronic buzzers, distinct from colossal temple bells.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 铃 vs. 钟 | zhōng | 钟 refers to large hanging bronze bells or timepiece clocks, while 铃 refers to small handheld bells, door buzzers, or bicycle bells.
+    2 | 铃 vs. 锣 | luó | 锣 is a flat bronze gong struck with a mallet, producing a flat resonant clash rather than tinkling 铃.
+    3 | 铃 vs. 哨 | shào | 哨 is a blown whistle producing high-pitched acoustic air vibrations, not struck metal.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在风光旖旎的江南水乡古镇，微风吹拂屋檐，悬挂在古刹飞檐四角的铜质风铃随风摇曳，发出一阵阵空灵悠扬的叮当铃声。那纯净清脆的回响洗涤着旅人的浮躁尘心，令人仿佛置身于物我两忘的世外桃源。 | Mànbù zài fēngguāng-yǐnǐ de Jiāngnán shuǐxiāng gǔzhèn, wēifēng chuīfú wūyán, xuánguà zài gǔchà fēiyán sì jiǎo de tóngzhì fēnglíng suífēng yáoyè, fāchū yízhènzhèn kōnglíng yōuyáng de dīngdāng língshēng. Nà chúnjìng qīngcuì de huíxiǎng xǐdí zhe lǚrén de fúzào chénxīn, lìngrén fǎngfú zhìshēn yú wù-wǒ-liǎngwàng de shìwàitáoyuán. | Strolling through an ancient southern wetland town, breezes caress eaves where brass wind chimes sway, chiming melodiously. That crisp echo washes away travelers' restless thoughts, transporting minds into tranquil seclusion. | Paseando por una villa fluvial del sur, la brisa mece los carillones de bronce colgados de los aleros del templo, emitiendo un tintineo místico que sosiega el espíritu del caminante en un remanso de paz.
+  #2 | 古代成语“掩耳盗铃”生动讽刺了自欺欺人的愚蠢行为。春秋时期有人偷盗大钟，因钟体太重难以搬运便妄图用锤子敲碎，又害怕发出响亮铃声被他人发觉，竟自作聪明地用棉花捂住自己的耳朵，最终落得人赃俱获的下场。 | Gǔdài chéngyǔ 'yǎn'ěr-dàolíng' shēngdòng fěngcì le zìqī-qīrén de yúchǔn xíngwéi. Chūnqiū shíqī yǒurén tōudào dàzhōng, yīn zhōngtǐ tài zhòng nányǐ bānyùn biàn wàngtú yòng chuízi qiāosuì, yòu hàipà fāchū xiǎngliàng língshēng bèi tārén fājué, jìng zìzuò-cōngmíng de yòng miánhuā wǔzhù zìjǐ de ěrduo, zuìzhōng luòdé rénzāng-jùhuò de xiàchǎng. | The idiom 'cover one's ears to steal a bell' mocks self-deceit. A thief broke a bell with a hammer, but fearing its ring, stuffed his own ears with cotton, getting caught red-handed in foolish delusion. | La locución 'taparse los oídos para robar el cascabel' censura el autoengaño necio. Un ladrón quiso quebrar una campana para llevarse el bronce; temiendo el tañido se tapó los oídos cayendo preso en flagrante ridículo.

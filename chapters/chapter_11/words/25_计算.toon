@@ -1,0 +1,63 @@
+id: 25
+hanzi: 计算
+pinyin: jì suàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to calculate; to compute; to reckon; calculation
+  es: calcular; computar; contar; cálculo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to determine mathematically through numerical operations, formulas, or algorithms | determinar matemáticamente mediante operaciones numéricas, fórmulas o algoritmos | 计算成本 / 计算机 (calculate costs / computer)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 航天测控中心的超级计算机仅用数秒时间，便精确计算出了飞船重返大气层的最佳轨道参数。 | Hángtiān cèkòng zhōngxīn de chāojí jìsuànjī jǐn yòng shù miǎo shíjiān, biàn jīngquè jìsuàn chū le fēichuán chóngfǎn dàqìcéng de zuìjiā guǐdào cānshù. | In mere seconds, the aerospace control center's supercomputer precisely calculated optimal orbital parameters for the spacecraft's reentry. | En escasos segundos, el superordenador del centro aeroespacial calculó con exactitud los parámetros orbitales para la reentrada de la nave.
+  #2 | 在做出这项重大商业投资决定之前，财务分析师必须严谨计算潜在的投资回报率与市场风险。 | Zài zuòchū zhè xiàng zhòngdà shāngyè tóuzī juédìng zhīqián, cáiwù fēnxīshī bìxū yánjǐn jìsuàn qiánzài de tóuzī huíbàolǜ yǔ shìchǎng fēngxiǎn. | Before making this major commercial investment decision, financial analysts must rigorously calculate potential return rates and market risks. | Antes de acometer esta inversión mercantil de calado, los analistas financieros deben calcular con rigor la rentabilidad y el riesgo de mercado.
+
+collocations[6]{hanzi,en}:
+  计算机 | computer
+  精确计算 | calculate precisely / exact computation
+  计算成本 | calculate costs
+  云计算 | cloud computing
+  计算能力 | computing power / computational capability
+  计算结果 | calculation result
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  精打细算 | jīng dǎ xì suàn | careful calculation and strict budgeting; meticulous planning
+  神机妙算 | shén jī miào suàn | miraculous calculation and ingenious reckoning; prescient planning
+  算无遗策 | suàn wú yí cè | never fail in one's calculations; plans foolproof
+  失算 | shī suàn | miscalculate; misjudge
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  计 | jì | count; calculate; plan; meter | contar; calcular; plan; medidor | 讠 | speech | 讠 (spoken numbers counted) + 十 (ten / base-10 completeness) | 计 (jì) | 4 | 左右结构 | Spoken words 讠 counting numbers up to ten 十 in the decimal system; signifies counting, tallying, calculating, and planning. | A clerk speaks numbers (讠) counting neatly up to ten (十) to reckon accounts (计). | Un contable recita números (讠) sumando hasta diez (十) para cuadrar cuentas (计). | 51 | IVJ | 計
+  算 | suàn | calculate; reckon; count; plan; consider | calcular; contar; planear; considerar | 竹 | bamboo | 竹 (bamboo counting rods) + 具/廾 (hands holding rods) | 算 (suàn) | 14 | 上下结构 | Two hands 廾 manipulating bamboo counting rods 竹 atop an abacus frame; denotes arithmetic calculation and mathematical reckoning. | Two hands (廾) manipulate bamboo counting sticks (竹) across an abacus frame to calculate (算). | Dos manos (廾) mueven varillas de bambú (竹) sobre el tablero del ábaco para calcular (算). | 51 | HBUD | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Tallying numbers to ten (计) with bamboo counting rods (算) executes mathematical calculation (计算).
+  composite_memory_hook_es: Sumar cifras de diez en diez (计) con varillas de bambú en el ábaco (算) ejecuta el cálculo (计算).
+  cultural_and_cognitive_roots: Ancient Chinese mathematics: counting rods (算筹) and the suanpan abacus (算盘); formed the computational basis for the Nine Chapters on Mathematical Art (九章算术).
+  tone_sandhi_and_pitch_modulation: Double falling fourth tones: 'jì suàn' (51-51). Descend sharply on 'jì', then land with a firm snap on 'suàn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    订 | dìng | book; agree | Has 丁 on right of 讠 instead of 十 in 计
+    讨 | tǎo | discuss; demand | Has 寸 on right of 讠
+    鼻 | bí | nose | Has 自 on top of 畀 instead of bamboo 竹 in 算
+    笨 | bèn | clumsy | Has 本 underneath 竹
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    数 | shǔ | count; tally grain
+    核 | hé | audit core numbers; verify
+    量 | liàng | measure grain bucket
+    估 | gū | estimate; appraise ancient value
+
+semantic_boundary_contrasts:
+  core_nuance: 计算 focuses on rigorous mathematical, algorithmic, or numerical computation of figures.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 计算 vs. 估算 | gūsuàn | 估算 refers to rough approximation or guesswork without precise formulas, while 计算 requires exact arithmetic or algorithmic deduction.
+    2 | 计算 vs. 运算 | yùnsuàn | 运算 specifically designates the mathematical operational process (+, -, ×, ÷ or boolean logic), while 计算 is the broader determination of quantities.
+    3 | 计算 vs. 打算 | dǎsuàn | 打算 is a common colloquial verb meaning 'to plan / intend to do something' ('我打算去旅游'), not mathematical calculation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代数学家祖冲之凭借惊人的坚韧毅力，利用数千根简陋的竹制算筹在地上日夜演算，在世界上首次将圆周率精细计算到小数点后第七位。这项领先世界近千年的卓越数学计算成就，在人类科技史上铸就了永恒丰碑。 | Zhōngguó gǔdài shùxuéjiā Zǔ Chōngzhī píngjiè jīngrén de jiānrèn yìlì, lìyòng shùqiān gēn jiǎnlòu de zhúzhì suànchóu zài dìshang rìyè yǎnsuàn, zài shìjiè shàng shǒucì jiāng yuánzhōulǜ jīngxì jìsuàn dào xiǎoshùdiǎn hòu dì-qī wèi. Zhè xiàng lǐngxiān shìjiè jìn qiān nián de zhuóyuè shùxué jìsuàn chéngjiù, zài rénlèi kējì shǐ shàng zhùjiù le yǒnghéng fēngbēi. | Ancient mathematician Zu Chongzhi, calculating with thousands of bamboo rods, first determined Pi to seven decimal places. Leading the world for nearly a millennium, this outstanding calculation remains a monument in science. | El matemático antiguo Zu Chongzhi, con miles de varillas de bambú, calculó por primera vez el número Pi hasta siete decimales. Su proeza computacional, adelantada casi un milenio al mundo, es un hito de la ciencia.
+  #2 | 在人工智能与量子计算浪潮席卷全球的今天，强大的算力已成为衡量国家综合科研实力的战略支柱。量子计算机凭借颠覆性的量子叠加与纠缠特性，展现出指数级飞跃的计算速度，将彻底重塑药物研发与气象预测格局。 | Zài réngōng zhìnéng yǔ liàngzǐ jìsuàn làngcháo xíjuǎn quánqiú de jīntiān, qiángdà de suànlì yǐ chéngwéi héngliáng guójiā zōnghé kēyán shílì de zhànlüè zhīzhù. Liàngzǐ jìsuànjī píngjiè diānfùxìng de liàngzǐ diéjiā yǔ jiūchán tèxìng, zhǎnxiàn chū zhǐshùjí fēiyuè de jìsuàn sùdù, jiāng chèdǐ chóngsù yàowù yánfā yǔ qìxiàng yùcè géjú. | In the era of AI and quantum computing, computational power is a strategic pillar of national science strength. Harnessing quantum superposition, quantum computers show exponential leap in speeds, reshaping drug discovery. | En la era de la inteligencia artificial y la computación cuántica, la potencia de cálculo es pilar estratégico nacional. Con el entrelazamiento cuántico, los nuevos ordenadores multiplican su velocidad transformando la ciencia médica.

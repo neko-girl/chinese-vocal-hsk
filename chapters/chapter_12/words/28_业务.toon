@@ -1,0 +1,63 @@
+id: 28
+hanzi: 业务
+pinyin: yè wù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: business; professional work; commercial operations; service transactions
+  es: negocio; operaciones comerciales; actividad profesional; gestiones o servicios
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the specialized operations, commercial transactions, or professional services conducted by an enterprise or institution | operaciones comerciales, cartera de servicios o actividad técnica propia de una empresa o entidad | 拓展海外业务 (expand overseas business)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着海外用户数量的急剧攀升，微信迅速设立了专门负责跨国支付与企业级云服务的海外业务部。 | Suízhe hǎiwài yònghù shùliàng de jíjù pānshēng, Wēixìn xùnsù shèlìle zhuānmén fùzé kuàguó zhīfù yǔ qǐyèjí yún fúwù de hǎiwài yèwùbù. | With the sharp surge in overseas users, WeChat quickly established an overseas business department dedicated to cross-border payments and enterprise cloud services. | Ante el fuerte incremento de usuarios en el extranjero, WeChat creó un departamento internacional dedicado a pagos transfronterizos y servicios en la nube.
+  #2 | 银行大厅里增设了多台智能化自助服务终端，使市民办理个人储蓄与转账业务的时间缩短了一大半。 | Yínháng dàtīng lǐ zēngshèle duō tái zhìnénghuà zìzhù fúwù zhōngduān, shǐ shìmín bànlǐ gèrén chǔxù yǔ zhuǎnzhàng yèwù de shíjiān suōduǎnle yí dàbàn. | Additional smart self-service kiosks were installed in the bank lobby, cutting the time citizens spend on personal savings and transfer transactions by more than half. | Se instalaron cajeros inteligentes en el vestíbulo del banco reduciendo a más de la mitad el tiempo para gestionar depósitos y transferencias.
+
+collocations[6]{hanzi,en}:
+  开展业务 | conduct / carry out business
+  业务范围 | scope of business
+  业务能力 | professional competence / operational skill
+  海外业务 | overseas business operations
+  核心业务 | core business
+  办理业务 | transact business / handle service matters
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  业精于勤 | yè jīng yú qín | mastery in one's profession thrives on diligence
+  恪尽职守 | kè jìn zhí shǒu | scrupulously abide by one's professional duty
+  精益求精 | jīng yì qiú jīng | constantly refine skills and pursue professional perfection
+  蒸蒸日上 | zhēng zhēng rì shàng | business flourishing and prospering day by day
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  业 | yè | profession; business; industry; undertaking; karma | oficio; profesión; negocio; industria; patrimonio | 一 | one | A sturdy carved frame used to hang ceremonial bells and drums in ancient rituals | Archaic phonetic yè | 5 | 单一结构 | Carved notched stand supporting grand ritual musical instruments; extended to lifelong business pursuits and professional vocations. | A majestic framed stand for ritual instruments represents lifelong professional enterprise (业). | Un sólido atril para instrumentos rituales que encarna el patrimonio y la vocación profesional (业). | 51 | TC | 業
+  务 | wù | affair; business; be engaged in; duty | asunto; tarea; deber; dedicarse a; ocupación | 力 | power / strength | 攴/攵 (hand holding whip/tool to guide) + 力 (physical strength/exertion) | Archaic phonetic nuance in 務 | 5 | 上下结构 | Exerting physical strength 力 with hands driven to complete assigned tasks; denotes duties, tasks, and commercial affairs. | Directing physical strength (力) onto essential chores completes assigned duties (务). | Aplicar esfuerzo y fuerza física (力) para cumplir con esmero los deberes encomendados (务). | 51 | EHK | 務
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Applying diligent strength to assigned tasks (务) within one's professional vocation (业) drives commercial business (业务).
+  composite_memory_hook_es: Consagrar esfuerzo al cumplimiento del deber (务) en el ámbito del oficio o empresa (业) son las operaciones comerciales (业务).
+  cultural_and_cognitive_roots: From classical administrative maxims (勤于吏务): officials devoting constant energy (力) to state affairs without neglecting economic craft (治业).
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'yè wù' (51-51). Pronounce both syllables with firm, crisp falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    亚 | yà | Asia; second | Has two horizontal bars enclosing center, unlike vertical strokes of 业
+    严 | yán | strict; severe | Has top bars and slanted bottom stroke
+    条 | tiáo | strip; classifier | Has tree radical 木 at bottom instead of 力 in 务
+    冬 | dōng | winter | Has two dots at bottom instead of 力
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    职 | zhí | duty; office
+    事 | shì | matter; business
+    责 | zé | duty; responsibility
+    商 | shāng | trade; commerce
+
+semantic_boundary_contrasts:
+  core_nuance: 业务 specifically refers to concrete commercial operations, professional lines of service, or routine administrative procedures.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 业务 vs. 职业 | zhíyè | 职业 denotes a person's broad career, trade, or occupation (e.g. teacher, lawyer), while 业务 refers to the concrete operational work or commercial transactions conducted.
+    2 | 业务 vs. 事务 | shìwù | 事务 refers to routine clerical, administrative, or housekeeping affairs ('日常事务'), while 业务 emphasizes specialized commercial services or professional functions.
+    3 | 业务 vs. 商业 | shāngyè | 商业 is the macroeconomic concept of commerce and trade in society, whereas 业务 is a specific firm's line of operational service.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在数字化转型大潮中，商业银行纷纷重构核心业务流程。通过全面引入人工智能风控算法与人脸识别技术，不仅大幅压缩了中小微企业贷款审批的业务流转时间，更有效防范了金融欺诈风险，实现了业务创新与稳健运营的双赢。 | Zài shùzìhuà zhuǎnxíng dàcháo zhōng, shāngyè yínháng fēnfēn chónggòu héxīn yèwù liúchéng. Tōngguò quánmiàn yǐnrù réngōng zhìnéng fēngkòng suànfǎ yǔ rénliǎn shíbié jìshù, bùjǐn dàfú yāsuōle zhōng-xiǎo-wēi qǐyè dàikuǎn shěnpī de yèwù liúzhuǎn shíjiān, gèng yǒuxiào fángfànle jīnróng qīzhà fēngxiǎn, shíxiànle yèwù chuàngxīn yǔ wěnjiàn yùnyíng de shuāngyíng. | Amid digital transformation, commercial banks are restructuring core business processes. Introducing AI risk control and facial recognition shortens SME loan approval times and guards against fraud, achieving a win-win in innovation and stability. | En la digitalización bancaria, las entidades rediseñan sus operaciones clave. Incorporando control de riesgos por IA y reconocimiento facial, agilizan créditos a pymes y blindan fraudes, aunando innovación y seguridad financiera.
+  #2 | 一家高科技企业的持续生命力，取决于其能否在深耕主营核心业务的同时敏锐捕捉未来产业新赛道。科技巨头在巩固传统移动通信与广告业务盈利优势的基础上，果断布局智能云计算与大模型服务，为公司业务的长远稳健增长打下了坚实基础。 | Yī jiā gāokējì qǐyè de chíxù shēngmìnglì, qǔjué yú qí néngfǒu zài shēngēng zhǔyíng héxīn yèwù de tóngshí mǐnruì bǔzhuō wèilái chǎnyè xīn sàidào. Kējì jùtóu zài gǒnggù chuántǒng yídòng tōngxìn yǔ guǎnggào yèwù yínglì yōushì de jīchǔ shàng, guǒduàn bùjú zhìnéng yúnjìsuàn yǔ dàmóxíng fúwù, wèi gōngsī yèwù de chángyuǎn wěnjiàn zēngzhǎng dǎxiàle jiānshí jīchǔ. | A tech firm's vitality hinges on cultivating its core operations while capturing future industries. Solidifying mobile communications and advertising, tech giants boldly deploy cloud computing and LLM services, laying ground for long-term growth. | La vitalidad de una tecnológica radica en afianzar su actividad medular mientras explora nuevos nichos. Consolidando telecomunicaciones y publicidad, los gigantes apuestan por la computación en la nube para asegurar su crecimiento futuro.

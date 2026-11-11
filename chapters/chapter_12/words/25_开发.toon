@@ -1,0 +1,64 @@
+id: 25
+hanzi: 开发
+pinyin: kāi fā
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to develop; exploit; open up (resources, software, products, markets)
+  es: desarrollar; explotar; poner en valor; programar; abrir (recursos, software, mercados)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to systematically research, engineer, and build software programs, technologies, or industrial products | investigar, programar y construir sistemáticamente software, productos o patentes tecnológicas | 开发新软件 (develop new software)
+  2 | Verb | Standard | to open up, exploit, and put natural resources, tourist attractions, or virgin land into productive economic use | abrir, explotar o poner en valor productivo yacimientos naturales, parajes turísticos o tierras yermas | 开发新能源 (develop new energy sources)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 腾讯广州研发团队仅用不到三个月时间，就成功开发出了微信最初的第一代即时通讯核心版本。 | Téngxùn Guǎngzhōu yánfā tuánduì jǐn yòng búdào sān gè yuè shíjiān, jiù chénggōng kāifā chūle Wēixìn zuìchū de dì-yī dài jíshí tōngxùn héxīn bǎnběn. | In less than three months, Tencent's Guangzhou R&D team successfully developed WeChat's very first generation instant messaging core version. | En menos de tres meses, el equipo de I+D de Tencent en Cantón desarrolló con éxito la primera versión de mensajería instantánea de WeChat.
+  #2 | 为了摆脱对化石燃料的严重依赖，沿海各省正大力投资开发海上风电与潮汐发电等清洁海洋资源。 | Wèile bǎituō duì huàshí ránliào de yánzhòng yīlài, yánhǎi gè shěng zhèng dàlì tóuzī kāifā hǎishàng fēngdiàn yǔ cháoxī fādiàn děng qīngjié hǎiyáng zīyuán. | To break heavy reliance on fossil fuels, coastal provinces are heavily investing to develop clean marine resources like offshore wind and tidal power. | Para dejar atrás la dependencia de combustibles fósiles, las provincias litorales invierten con fuerza en desarrollar energía eólica marina y mareomotriz.
+
+collocations[6]{hanzi,en}:
+  软件开发 | software development
+  产品开发 | product development
+  开发资源 | develop / exploit resources
+  自主开发 | independent / in-house development
+  开发市场 | develop / open up a market
+  开发区 | development zone (economic/tech)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  开天辟地 | kāi tiān pì dì | split heaven and earth apart; epoch-making creation
+  开疆拓土 | kāi jiāng tuò tǔ | open up borders and expand territorial frontiers
+  大显身手 | dà xiǎn shēn shǒu | fully display one's prowess and capabilities
+  发家致富 | fā jiā zhì fù | build up family fortune and achieve prosperity
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  开 | kāi | open; unlock; commence; operate | abrir; descerrajar; iniciar; operar | 廾 | two hands | Two hands 廾 lifting off the gate crossbar 一 to open up an entrance | Historical phonetic nuance in 開 | 4 | 单一结构 | Two hands removing a locking bar to throw open gates; extended to initiating, pioneering, and unlocking new potential. | Two hands lifting away a barrier bar throw open wide gates to new frontiers (开). | Dos manos apartan la traba para abrir de par en par los portales de lo nuevo (开). | 55 | MT | 開
+  发 | fā | shoot arrow; emit; launch; develop; prosper | disparar flecha; emitir; lanzar; desarrollarse; prosperar | 又 | hand / again | A hand shooting an arrow from a drawn bow; simplified from 發 | Historical phonetic nuance in 發 | 5 | 单一结构 | Releasing an arrow from an archer's bowstring; setting into powerful forward flight, launching, expanding, and developing. | An arrow shot from a bowstring surges forward with unstoppable momentum (发). | Una flecha disparada desde el arco que se proyecta con fuerza incontenible (发). | 55 | IVE | 發
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Throwing open new gates (开) and releasing productive forces into forward flight (发) is development (开发).
+  composite_memory_hook_es: Abrir nuevos caminos (开) y lanzar con fuerza el potencial creador (发) es desarrollar o explotar (开发).
+  cultural_and_cognitive_roots: Derived from classical frontier statecraft (辟土开发): clearing wilderness and opening mines to enrich the national treasury and people's livelihood.
+  tone_sandhi_and_pitch_modulation: Two high level first tones: 'kāi fā' (55-55). Maintain steady, clear high melodic level throughout.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    升 | shēng | rise; liter | Has slanted top-left drop, unlike 开
+    井 | jǐng | water well | Has two vertical parallel strokes crossing two horizontals
+    伐 | fá | cut down; fell trees | Has person radical 亻 on left of halberd 戈, unlike 发
+    拨 | bō | dial; push aside | Has hand radical 扌 on left of 发
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    研 | yán | grind; research
+    制 | zhì | manufacture; make
+    拓 | tuò | expand; pioneer
+    掘 | jué | dig; unearth
+
+semantic_boundary_contrasts:
+  core_nuance: 开发 emphasizes systematically building software, uncovering natural resources, or opening new commercial markets from scratch.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 开发 vs. 发展 | fāzhǎn | 发展 is an intransitive or broad noun/verb describing natural or economic growth, expansion, and maturation ('经济发展'), while 开发 is active human engineering/exploitation.
+    2 | 开发 vs. 研制 | yánzhì | 研制 emphasizes trial laboratory scientific synthesis and prototype manufacturing ('研制新药', '研制火箭'), while 开发 encompasses commercial software and resources.
+    3 | 开发 vs. 开辟 | kāipì | 开辟 focuses on physically cutting a new path or symbolically inaugurating a new historical era ('开辟新航线', '开辟新纪元').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在人工智能革命汹涌澎湃的浪潮中，软件开发工程师的角色正经历着深刻的重构。过去繁重冗长的基础代码编写工作正逐步被大语言模型接管，开发者能够将更多心力聚焦于顶层架构设计与底层算法的突破性创新。 | Zài réngōng zhìnéng gémìng xiōngyǒng-péngpài de làngcháo zhōng, ruǎnjiàn kāifā gōngchéngshī de juésè zhèng jīnglì zhe shēnchén de chónggòu. Guòqù fánzhòng rǒngcháng de jīchǔ dàimǎ biānxiě gōngzuò zhèng zhúbù bèi dàyǔyán móxíng jiēguǎn, kāifāzhě nénggòu jiāng gèngduō xīnlì jùjiāo yú dǐngcéng jiàgòu shèjì yǔ dǐcéng suànfǎ de tūpòxìng chuàngxīn. | Amid the surging AI revolution, the role of software engineers is undergoing profound reconstruction. Tedious coding is increasingly assumed by large language models, letting developers focus on top-level architecture and algorithmic breakthroughs. | En plena revolución de la inteligencia artificial, el rol del programador se reinventa a fondo. La tediosa escritura de código básico recae en grandes modelos lingüísticos, permitiendo a los creadores centrarse en la arquitectura del sistema.
+  #2 | 合理开发利用自然资源是实现经济社会可持续发展的必然要求。在推进矿产与水利资源开发的同时，必须坚持生态保护红线不动摇，严格落实水土保持与环境修复治理，绝不能以牺牲绿水青山为代价换取短期的经济收益。 | Hélǐ kāifā lìyòng zìrán zīyuán shì shíxiàn jīngjì shèhuì kěchíxù fāzhǎn de bìrán yāoqiú. Zài tuījìn kuàngchǎn yǔ shuǐlì zīyuán kāifā de tóngshí, bìxū jiānchí shēngtài bǎohù hóngxiàn bù dòngyáo, yángé luòshí shuǐtǔ bǎochí yǔ huánjìng xiūfù zhìlǐ, juébù néng yǐ xīshēng lǜshuǐ-qīngshān wéi dàijià huànqǔ duǎnqī de jīngjì shōuyì. | Rational exploitation of natural resources is mandatory for sustainable development. While tapping minerals and hydropower, red lines for ecological protection must remain unswerving, never trading pristine waters and green mountains for short-term gain. | La explotación racional de los recursos naturales es indispensable para el desarrollo sostenible. Al aprovechar yacimientos y saltos de agua, deben blindarse los ecosistemas sin sacrificar jamás la naturaleza por ganancias efímeras.

@@ -1,0 +1,63 @@
+id: 15
+hanzi: 实现
+pinyin: shí xiàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to realize; achieve; fulfill; bring about; materialize
+  es: realizar; cumplir; materializar; hacer realidad; alcanzar (metas, sueños)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to make a wish, goal, ideal, plan, or potential reality through concrete action | llevar a efecto una aspiración, plan, ideal o meta convirtiéndolos en realidad palpable | 实现梦想 (realize one's dream)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 通过技术创新与全球化布局，微信成功实现了让全球海外用户随时随地免费跨国语音互联的愿景。 | Tōngguò jìshù chuàngxīn yǔ quánqiúhuà bùjú, Wēixìn chénggōng shíxiànle ràng quánqiú hǎiwài yònghù suíshí-suídì miǎnfèi kuàguó yǔyīn hùlián de yuànjǐng. | Through technological innovation and global layout, WeChat successfully realized its vision of enabling overseas users worldwide to connect freely via voice anytime. | Mediante la innovación y su despliegue mundial, WeChat logró hacer realidad el sueño de que los usuarios se comuniquen gratis por voz en cualquier rincón.
+  #2 | 经过研发团队历经数百次反复调试，这款高精度医疗检测设备终于实现了核心部件的完全自主可控。 | Jīngguò yánfā tuánduì lìjīng shùbǎi cì fǎnfù tiáoshì, zhè kuǎn gāojīngdù yīliáo jiǎncè shèbèi zhōngyú shíxiànle héxīn bùjiàn de wánquán zìzhǔ kěkòng. | After hundreds of rounds of tuning by the R&D team, this precision medical detection device finally achieved full independence for its core components. | Tras cientos de ensayos del equipo de desarrollo, este equipo médico de precisión logró por fin la total autonomía tecnológica en sus piezas clave.
+
+collocations[6]{hanzi,en}:
+  实现目标 | achieve / realize an objective
+  实现梦想 | fulfill / realize a dream
+  实现价值 | realize one's value
+  逐步实现 | gradually achieve
+  难以实现 | hard to achieve / realize
+  全面实现 | fully realize / achieve in full
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  如愿以偿 | rú yuàn yǐ cháng | have one's wish completely fulfilled
+  梦想成真 | mèng xiǎng chéng zhēn | dreams come true; aspirations turn into reality
+  水到渠成 | shuǐ dào qú chéng | when water flows, a channel is formed; success comes naturally
+  大功告成 | dà gōng gào chéng | grand task successfully accomplished
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  实 | shí | solid; real; true; fruit; reality | sólido; real; verdadero; fruto; realidad | 宀 | roof | 宀 (safe domestic house) + 头/贯 (abundance of wealth and grain filling house) | Historical phonetic nuance in 實 | 8 | 上下结构 | A house 宀 packed full of solid tangible treasures and grains; signifies substance, truth, and solid reality. | A house (宀) filled to the brim with real solid grains and wealth embodies substance (实). | El hogar (宀) colmado de grano y bienes tangibles encarna la solidez y la realidad (实). | 35 | JYK | 實
+  现 | xiàn | appear; present; current; manifest | aparecer; presente; actual; manifestarse | 王 | jade | 王/玉 (shining jade jewel) + 见 (see / visible to eyes) | 见 (jiàn, see / phonetic nuance xiàn) | 8 | 左右结构 | Polishing a rough stone until the brilliant luster of jade 王 is clearly visible 见 to all eyes; becoming manifest and present. | A precious jade gem (王) uncovered and held up for all to see (见) manifests into reality (现). | Una gema de jade (王) pulida que se expone a la vista de todos (见) se manifiesta en el presente (现). | 51 | MGBU | 現
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Taking solid substance (实) and bringing it into visible manifestation (现) is realizing and fulfilling a goal (实现).
+  composite_memory_hook_es: Dar solidez tangible (实) a algo haciéndolo visible y presente (现) es hacer realidad o materializar (实现).
+  cultural_and_cognitive_roots: Philosophical concept originating from Song Dynasty Neo-Confucianism: transforming abstract principle (理) into living experiential actuality (实体展现).
+  tone_sandhi_and_pitch_modulation: Second tone followed by fourth tone: 'shí xiàn' (35-51). Rising contour gliding into sharp falling drop.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    头 | tóu | head | Lacks the roof radical 宀 on top of 实
+    买 | mǎi | buy | Has 乛 on top instead of 宀
+    观 | guān | view; watch | Has 又 on left of 见 instead of jade 王 in 现
+    规 | guī | rule; compass | Has husband 夫 on left of 见
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    达 | dá | reach; attain
+    成 | chéng | complete; succeed
+    践 | jiàn | tread; practice
+    行 | xíng | execute; conduct
+
+semantic_boundary_contrasts:
+  core_nuance: 实现 emphasizes translating an abstract blueprint, dream, ideal, or capability into actual tangible existence.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 实现 vs. 实行 | shíxíng | 实行 means putting a policy, law, or management system into administrative practice ('实行新法规'), while 实现 is achieving an end result or goal ('实现理想').
+    2 | 实现 vs. 完成 | wánchéng | 完成 means finishing a concrete task, assignment, or construction project ('完成作业', '完成工程'), whereas 实现 applies to dreams, targets, and ambitions.
+    3 | 实现 vs. 达到 | dádào | 达到 refers to hitting a measurable numerical metric, temperature, or physical standard ('达到国际标准'), while 实现 encompasses comprehensive fulfillment.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 实现中华民族伟大复兴是近代以来全体中国人民最深沉的共同梦想。一代代奋斗者前赴后继、自强不息，在艰难险阻中开拓创新，使国家经济实力、科技实力和综合国力跃上崭新台阶，让千年梦想步步化为宏伟壮丽的现实。 | Shíxiàn Zhōnghuá mínzú wěidà fùxīng shì jìndài yǐlái quántǐ Zhōngguó rénmín zuì shēnchén de gòngtóng mèngxiǎng. Yīdàidài fèndòuzhě qiánfù-hòujì, zìqiáng-bùxī, zài jiānnán xiǎnzǔ zhōng kāituò chuàngxīn, shǐ guójiā jīngjì shílì, kējì shílì hé zōnghé guólì yuèshàng zhǎnxīn táijiē, ràng qiān nián mèngxiǎng bùbù huà wéi hóngwěi zhuànglì de xiànshí. | Realizing the rejuvenation of the Chinese nation has been the deepest shared dream of its people in modern times. Generations of strivers persevered through hardships, lifting national strength and turning millennial dreams into grand reality. | Hacer realidad la gran revitalización nacional ha sido el mayor anhelo del pueblo chino. Generaciones de luchadores perseveraron superando escollos y elevando el poderío científico y económico, transformando un sueño milenario en realidad tangible.
+  #2 | 青年科研工作者要敢于有梦、勇于追梦。科学研究是一场漫长而艰苦的马拉松，只有把个人的人生理想紧密融入国家重大发展战略之中，耐得住寂寞、扛得住挫折，才能在一次次攻坚克难中最终实现自己的人生科学价值。 | Qīngnián kēyán gōngzuòzhě yào gǎnyú yǒumèng, yǒngyú zhuīmèng. Kēxué yánjiū shì yī cháng màncháng ér jiānkǔ de mǎlāsōng, zhǐyǒu bǎ gèrén de rénshēng lǐxiǎng jǐnmì róngrù guójiā zhòngdà fāzhǎn zhànlüè zhīzhōng, nàidezhù jìmò, kángdezhù cuòzhé, cáinéng zài yīcìcì gōngjiān-kènán zhōng zuìzhōng shíxiàn zìjǐ de rénshēng kēxué jiàzhí. | Young scientists must dare to dream and pursue them. Research is a grueling marathon; only by weaving personal aspirations into national strategic goals and withstanding setbacks can one ultimately realize one's scientific value in life. | Los jóvenes científicos deben soñar con valentía. La investigación es un maratón exigente; solo aunando la vocación personal con las prioridades nacionales y superando la soledad de la probeta se materializa el valor científico propio.

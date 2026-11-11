@@ -1,0 +1,64 @@
+id: 37
+hanzi: 市场
+pinyin: shì chǎng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: market; marketplace; commercial arena; market demand
+  es: mercado; plaza de abastos; ámbito comercial; demanda de mercado
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a physical or virtual commercial arena where goods, commodities, and services are traded between buyers and sellers | espacio físico o virtual donde se compran y venden mercancías, bienes o servicios | 开拓海外市场 (open up overseas markets)
+  2 | Noun | Standard | the collective demand and commercial purchasing potential for a particular product category | la demanda colectiva y potencial comercial de un determinado tipo de producto o servicio | 市场潜力巨大 (tremendous market potential)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 敏锐的商家洞察到现代人对健康唤醒的迫切需求，在市场上推出了各式各样模拟自然光线的智能闹钟。 | Mǐnruì de shāngjiā dòngchá dào xiàndàirén duì jiànkāng huànxǐng de pòqiè xūqiú, zài shìchǎng shàng tuīchūle gèshì-gèyàng mónǐ zìrán guāngxiàn de zhìnéng nàozhōng. | Keen merchants discerned modern people's urgent need for healthy wake-ups and launched various smart alarms simulating natural daylight onto the market. | Comerciantes perspicaces detectaron la necesidad de un despertar saludable y lanzaron al mercado despertadores inteligentes que simulan la luz natural.
+  #2 | 面对日趋激烈的国际竞争，企业唯有不断加大技术创新投入，才能在全球市场上立于不败之地。 | Miànduì rìqū jīliè de guójì jìngzhēng, qǐyè wéiyǒu bùduàn jiādà jìshù chuàngxīn tóurù, cáinéng zài quánqiú shìchǎng shàng lìyú búbài zhī dì. | Facing increasingly fierce international competition, enterprises can remain invincible in the global market only by continually increasing technological innovation. | Ante la encarnizada competencia internacional, las empresas solo se mantendrán invictas en el mercado mundial redoblando su inversión en innovación.
+
+collocations[6]{hanzi,en}:
+  开拓市场 | expand / open up the market
+  市场需求 | market demand
+  市场份额 | market share
+  国际市场 | international market
+  市场准入 | market access
+  市场竞争 | market competition
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  门庭若市 | mén tíng ruò shì | courtyard bustling like a crowded marketplace; busy with visitors
+  招摇过市 | zhāo yáo guò shì | parade boastfully through the streets to attract attention
+  日中为市 | rì zhōng wéi shì | gather at noon for marketing (ancient trade custom)
+  市场繁荣 | shì chǎng fán róng | flourishing market and thriving commercial activity
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  市 | shì | market; city; trade; municipality | mercado; ciudad; comercio; municipio | 巾 | cloth | 亠 (city gate roof) + 巾 (market trade banner) | Pictographic trading post banner | 5 | 上下结构 | A trading flag 巾 flying high over the town pavilion 亠 where merchants gathered to barter; later denoting city and market. | Under a market roof (亠), trade banners (巾) flutter to welcome merchants to the market (市). | Bajo el pabellón comunal (亠), el estandarte textil (巾) anuncia la plaza comercial y mercado (市). | 51 | YBL | ""
+  场 | chǎng | open ground; field; threshing floor; scene | campo; plaza; explanada; era; escenario | 土 | earth / ground | 土 (earth/ground) + 𠃓/昜 (open sunlight shining broadly) | 昜 (yáng, sunlit open / phonetic) | 6 | 左右结构 | An open leveled ground of earth 土 warmed by sunshine where grain was threshed and people assembled for public events. | A wide plot of leveled earth (土) bathed in open sunlight serves as a public assembly field (场). | Una explanada de tierra llana (土) al sol abierto que sirve de era, plaza o escenario (场). | 214 | GNSH | 場
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A civic trading center (市) situated on a broad public gathering ground (场) constitutes a market (市场).
+  composite_memory_hook_es: El comercio urbano (市) celebrado en una explanada o plaza comunal (场) forma el mercado (市场).
+  cultural_and_cognitive_roots: From the ancient Zhou Dynasty 'well-field' system: farmers gathered at noon on public threshing grounds (场) to trade surpluses (市).
+  tone_sandhi_and_pitch_modulation: Fourth tone followed by third tone: 'shì chǎng' (51-214). Sharp initial fall dropping into a full low-dip third tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    布 | bù | cloth; spread | Has 𠂇 at top instead of 亠 in 市
+    帅 | shuài | commander; handsome | Has 刂-like stroke on left of 巾
+    扬 | yáng | raise; scatter | Has hand radical 扌 on left instead of earth 土 in 场
+    汤 | tāng | soup; hot water | Has water radical 氵 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    商 | shāng | commerce; merchant
+    贾 | gǔ | trader; goods
+    市 | shì | fair; marketplace
+    坊 | fāng | workshop; urban quarter
+
+semantic_boundary_contrasts:
+  core_nuance: 市场 encompasses both concrete physical marketplaces (farmer's market, supermarket) and abstract commercial macroeconomic systems.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 市场 vs. 商场 | shāngchǎng | 商场 specifically refers to a large physical commercial department store or modern shopping mall ('去商场购物'), whereas 市场 can refer to abstract economic demand ('股票市场', '全球市场').
+    2 | 市场 vs. 集市 | jíshì | 集市 denotes traditional rural periodic bazaars or country fairs, whereas 市场 is the modern comprehensive economic term.
+    3 | 市场 vs. 行业 | hángyè | 行业 categorizes a specific domain of trade/industry (e.g. IT, finance), while 市场 reflects trading transactions and consumer demand.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着消费者对睡眠健康认知的不断深化，全球助眠产品市场迎来爆发式增长。从智能香薰机到光照唤醒灯，各类高科技睡眠产品层出不穷，精准切中都市职场人群的痛点，展现出巨大的市场增长潜力。 | Suízhe xiāofèizhě duì shuìmián jiànkāng rènzhī de bùduàn shēnhuà, quánqiú zhùmián chǎnpǐn shìchǎng yínglái bàofāshì zēngzhǎng. Cóng zhìnéng xiāngxūnjī dào guāngzhào huànxǐngdēng, gèlèi gāokējì shuìmián chǎnpǐn céngchū-bùqióng, jīngzhǔn qièzhòng dūshì zhíchǎng rénqún de tòngdiǎn, zhǎnxiàn chū jùdà de shìchǎng zēngzhǎng qiánlì. | With deepening consumer awareness of sleep health, the global sleep-aid market is experiencing explosive growth. From aromatherapy diffusers to wake-up lights, diverse gadgets emerge continuously, showing immense market potential. | Con el aumento de la conciencia sobre la salud del sueño, el mercado global de artículos de descanso vive un auge espectacular. Desde difusores inteligentes hasta lámparas de amanecer, surgen productos que muestran un enorme potencial de mercado.
+  #2 | 开放有序的市场环境是激发实体经济活力的根本保障。政府部门通过持续优化营商环境、打破行业垄断壁垒，有效保护了中小型创新企业的合法权益，促使优质资源在全球市场大循环中实现更加高效的配置。 | Kāifàng yǒuxù de shìchǎng huánjìng shì jīfā shítǐ jīngjì huólì de gēnběn bǎozhàng. Zhèngfǔ bùmén tōngguò chíxù yōuhuà yíngshāng huánjìng, dǎpò hángyè lǒngduàn bìlěi, yǒuxiào bǎohùle zhōng-xiǎoxíng chuàngxīn qǐyè de héfǎ quányì, cùshǐ yōuzhì zīyuán zài quánqiú shìchǎng dàxúnhuán zhōng shíxiàn gèngjiā gāoxiào de pèizhì. | An open and orderly market environment is the fundamental guarantee for vitalizing the real economy. By optimizing business environments and lowering barriers, governments protect small innovators and allocate resources efficiently. | Un entorno de mercado abierto y ordenado apuntala la economía productiva. Al mejorar las condiciones comerciales y suprimir monopolios, las autoridades tutelan a pequeñas empresas innovadoras y asignan recursos con suma eficiencia.

@@ -1,0 +1,63 @@
+id: 16
+hanzi: 覆盖
+pinyin: fù gài
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to cover; blanket; overlay; encompass; reach
+  es: cubrir; tapar; arropar; abarcar; extender la cobertura sobre
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to spread over the surface of something; or to extend telecommunications, media, or service reach across a geographical territory or population | extenderse sobre una superficie cubriéndola; o abarcar una red de telecomunicaciones o servicio un territorio o población | 网络全面覆盖 (network full coverage)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 得益于全球云服务器节点的广泛铺设，微信国际版的高速数据通信网络已经覆盖了一百多个国家和地区。 | Déyì yú quánqiú yún fúwùqì jiédiǎn de guǎngfàn pūshè, Wēixìn guójìbǎn de gāosù shùjù tōngxìn wǎngluò yǐjīng fùgàile yībǎi duō gè guójiā hé dìqū. | Thanks to the extensive deployment of global cloud server nodes, WeChat International's high-speed network has covered over one hundred countries and regions. | Gracias al despliegue mundial de servidores en la nube, la red de alta velocidad de WeChat cubre ya más de un centenar de países y territorios.
+  #2 | 一场罕见的漫天大雪在一夜之间覆盖了整座北方古城，城墙与古寺屋顶银装素裹、宛若仙境。 | Yī chǎng hǎnjiàn de màntiān dàxuě zài yíyè zhījiān fùgàile zhěng zuò běifāng gǔchéng, chéngqiáng yǔ gǔsì wūdǐng yínzhuāng-sùguǒ, wǎnrù xiānjìng. | A rare heavy snowfall blanketed the ancient northern city overnight, cloaking city walls and temple roofs in pristine silver like a wonderland. | Una gran nevada cubrió por completo la urbe histórica norteña en una noche, arropando murallas y templos con un manto blanco de cuento de hadas.
+
+collocations[6]{hanzi,en}:
+  全面覆盖 | full / comprehensive coverage
+  网络覆盖 | network coverage
+  覆盖范围 | coverage area / scope
+  森林覆盖率 | forest coverage rate
+  信号覆盖 | signal coverage
+  覆盖面积 | coverage area
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  翻云覆雨 | fān yún fù yǔ | capriciously manipulate situations; play fast and loose
+  天翻地覆 | tiān fān dì fù | heaven and earth overturned; earth-shattering changes
+  席卷天下 | xí juǎn tiān xià | sweep across the entire world like a rolling mat
+  铺天盖地 | pū tiān gài dì | blot out sky and earth; engulfing everywhere
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  覆 | fù | cover; capsize; overturn; repeat | cubrir; tapar; volcar; zozobrar; repetir | 覀 | cover / west | 覀/襾 (lid/cover placed from above) + 復 (return / repeat over surface) | 復 (fù, repeat / phonetic) | 18 | 上下结构 | A cover 覀 placed over an object repeatedly 復 until its entire surface is blanketed or overturned. | Spreading a wide woven sheet (覀) repeatedly (復) until it completely blankets the land (覆). | Extender un amplio toldo (覀) que vuelve a tapar (復) hasta cubrir la superficie por entero (覆). | 51 | MTMOE | ""
+  盖 | gài | lid; cap; cover; build; surpass | tapa; cubierta; techar; edificar; sobrepasar | 皿 | dish / vessel | 羊/𦍌 (auspicious wool/meat) + 皿 (shallow dish container covered from above) | Historical phonetic nuance in 蓋 | 11 | 上下结构 | A thatch roof or lid covering a vessel 皿 to protect precious contents; placing a lid or building over something. | Placing an ornate lid over a broad dish container (皿) to seal and cover it (盖). | Poner una cubierta protectora sobre la vasija (皿) para taparla y techarla (盖). | 51 | TOTBT | 蓋
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Spreading a blanket from above (覆) and securing a protective lid over all (盖) constitutes complete coverage (覆盖).
+  composite_memory_hook_es: Arropar desde arriba (覆) y poner una cubierta total (盖) es cubrir o dar cobertura completa (覆盖).
+  cultural_and_cognitive_roots: Used in traditional cosmology: Heaven blankets all things (天覆地载), which transitioned in modern technological parlance to wireless signal grids (信号覆盖).
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'fù gài' (51-51). Pronounce both syllables with firm, crisp falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    复 | fù | repeat; complex | Lacks the top lid radical 覀 of 覆
+    履 | lǚ | shoe; fulfill | Has corpse radical 尸 enclosing 復
+    益 | yì | benefit; profit | Has 丷 and 一 over 皿 instead of 羊 in 盖
+    盂 | yú | basin; cup | Has 于 over 皿
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    罩 | zhào | cover; shade; hood
+    遮 | zhē | block; screen
+    掩 | yǎn | cover; conceal
+    蒙 | méng | drape; blindfold
+
+semantic_boundary_contrasts:
+  core_nuance: 覆盖 denotes spreading over a surface physically, or extending operational telecom/policy reach over a population or geographic territory.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 覆盖 vs. 笼罩 | lǒngzhào | 笼罩 is poetic/descriptive for atmospheric mist, fog, darkness, or mood enveloping a place ('夜幕笼罩', '大雾笼罩'), while 覆盖 is factual and measurable ('5G覆盖').
+    2 | 覆盖 vs. 包括 | bāokuò | 包括 indicates structural membership or logical containment of elements ('费用包括税金'), while 覆盖 emphasizes geographical span or reach.
+    3 | 覆盖 vs. 淹没 | yānmò | 淹没 means being physically submerged underwater or drowned out by loud noise ('洪水淹没农田'), whereas 覆盖 simply blankets the top.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着第五代移动通信技术的深入推进，中国已经建成了全球规模最大的高速宽带网络。即使在崇山峻岭环抱的偏远高原村落，高速无线网络信号也实现了无缝覆盖，让大山深处的孩子们能够与一线城市学生同上一堂名师网课。 | Suízhe dì-wǔ dài yídòng tōngxìn jìshù de shēnrù tuījìn, Zhōngguó yǐjīng jiànchéngle quánqiú guīmó zuìdà de gāosù kuāndài wǎngluò. Jíshǐ zài chóngshān-jùnlǐng huánbào de piānyuǎn gāoyuán cūnluò, gāosù wúxiàn wǎngluò xìnhào yě shíxiànle wúfèng fùgài, ràng dàshān shēnchù de háizimen nénggòu yǔ yīxiàn chéngshì xuésheng tóng shàng yī táng míngshī wǎngkè. | With the deep rollout of 5G, China has built the world's largest broadband network. Even in remote plateau villages, high-speed wireless signals achieve seamless coverage, allowing mountain children to share live classes with urban peers. | Con el despliegue del 5G, China ha erigido la mayor red de banda ancha del planeta. Incluso en aldeas remotas de montaña, la señal inalámbrica ofrece cobertura total permitiendo a los niños compartir clases en línea con alumnos de las metrópolis.
+  #2 | 经过持续数十年的植树造林与退耕还林工程，三北防护林体系有效遏制了北方沙尘暴的肆虐侵袭。郁郁葱葱的防护林带像绿色巨龙般覆盖在辽阔荒漠边缘，区域森林覆盖率显著攀升，构筑起抵御风沙生态退化的坚实屏障。 | Jīngguò chíxù shùshí nián de zhíshù zàolín yǔ tuìgēng huánlín gōngchéng, Sānběi Fánghùlín tǐxì yǒuxiào èzhìle běifāng shāchénbào de sìnüè qīnxí. Yùyù-cōngcōng de fánghùlíndài xiàng lǜsè jùlóng bān fùgài zài liáokuò huāngmò biānyuán, qūyù sēnlín fùgàilǜ xiǎnzhù pānshēng, gòuzhù qǐ dǐyù fēngshā shēngtài tuìhuà de jiānshí píngzhàng. | Decades of afforestation have checked sandstorms via the Three-North Shelter Forest. Verdant forest belts blanket the edges of vast deserts like a green dragon, lifting regional forest coverage and erecting an ecological shield against erosion. | Décadas de reforestación frenaron las tormentas de arena gracias a la Gran Muralla Verde. Exuberantes franjas boscosas cubren el linde de los desiertos elevando la cobertura forestal y levantando un baluarte contra la desertificación.

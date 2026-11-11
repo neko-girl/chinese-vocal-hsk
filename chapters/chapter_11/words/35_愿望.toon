@@ -1,0 +1,63 @@
+id: 35
+hanzi: 愿望
+pinyin: yuàn wàng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: wish; desire; aspiration; longing
+  es: deseo; anhelo; aspiración; ilusión
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an earnest desire, wish, or aspiration for a particular state of affairs or future outcome to come true | deseo o anhelo vehemente de que se cumpla algo favorable o esperado en el porvenir | 美好的愿望 (cherished / beautiful wish)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每天清晨能在自然光线中舒服地自然醒来，是很多饱受闹钟折磨的上班族最朴素的愿望。 | Měitiān qīngchén néng zài zìrán guāngxiàn zhōng shūfu de zìrán xǐnglái, shì hěnduō bǎoshòu nàozhōng zhémó de shàngbānzú zuì pǔsù de yuànwàng. | Being able to wake up comfortably and naturally in morning daylight every day is the most modest wish of many office workers tormented by alarms. | Poder despertarse plácidamente con la luz natural cada mañana es el anhelo más sencillo de multitud de oficinistas martirizados por el despertador.
+  #2 | 经过多年的刻苦攻读与拼搏，他终于实现了考取重点大学的童年愿望。 | Jīngguò duō nián de kèkǔ gōngdú yǔ pīnbó, tā zhōngyú shíxiànle kǎoqǔ zhòngdiǎn dàxué de tóngnián yuànwàng. | After years of assiduous study and hard work, he finally realized his childhood wish of gaining admission into a key university. | Tras años de empeño y estudio tesonero, vio cumplido por fin su sueño de infancia de ingresar en una universidad de prestigio.
+
+collocations[6]{hanzi,en}:
+  实现愿望 | fulfill a wish / realize an aspiration
+  美好愿望 | cherished wish; wonderful hope
+  表达愿望 | express one's desire / wish
+  共同愿望 | shared desire; common aspiration
+  强烈的愿望 | fervent wish; strong longing
+  童年愿望 | childhood wish
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  如愿以偿 | rú yuàn yǐ cháng | have one's wish completely fulfilled
+  天从人愿 | tiān cóng rén yuàn | Heaven fulfills human wishes; events turn out as hoped
+  事与愿违 | shì yǔ yuàn wéi | things turn out contrary to one's wishes
+  梦寐以求 | mèng mèi yǐ qiú | crave something even in one's dreams
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  愿 | yuàn | wish; willing; desire; honest | desear; querer; voluntad; anhelo | 心 | heart | 原 (meadow source / sincere plainness) + 心 (inner heart's intent) | 原 (yuán, origin / phonetic) | 14 | 上下结构 | Heart 心 resting beneath meadow source 原; the honest, unvarnished desire bubbling up from deep within one's soul. | From the original spring source (原) of the heart (心) flows sincere willingness and wish (愿). | Desde el manantial original (原) del corazón (心) brota el anhelo puro y la voluntad (愿). | 51 | MHP | 願
+  望 | wàng | look into distance; hope; gaze; expect | mirar a lo lejos; esperar; contemplar; anhelar | 月 | moon | 亡 (hide / vanish) + 月 (full moon) + 王/𡈼 (person standing on tiptoe to gaze) | Historical phonetic wàng | 11 | 上下结构 | A person standing tall on high ground gazing at the distant full moon 月; looking far away with intense longing. | Standing tall on tiptoes to gaze toward the moon (月), eyes filled with hopeful longing (望). | De puntillas sobre una colina contemplando la luna llena (月), la mirada se llena de anhelo y esperanza (望). | 51 | YGB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A deep heart's intent (愿) looking toward distant lunar heights (望) creates an earnest wish (愿望).
+  composite_memory_hook_es: El sincero sentir del corazón (愿) oteando esperanzas lejanas (望) da cuerpo al anhelo o deseo (愿望).
+  cultural_and_cognitive_roots: Derived from the ancient poetic custom of gazing at the full moon (望月) while whispering unspoken prayers for reunion and fortune.
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'yuàn wàng' (51-51). Execute two crisp authoritative drops.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    原 | yuán | origin; meadow | Lacks heart radical 心 at bottom of 愿
+    怨 | yuàn | resentment; blame | Has 夗 at top instead of 原
+    忘 | wàng | forget | Has 亡 over 心, lacking moon 月
+    妄 | wàng | absurd; rash | Has 亡 over woman radical 女
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    希 | xī | hope; rare
+    盼 | pàn | look forward to
+    祈 | qí | pray for
+    求 | qiú | seek; beseech
+
+semantic_boundary_contrasts:
+  core_nuance: 愿望 refers to an inner, cherished hope or subjective yearning for happiness, peace, or personal aspirations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 愿望 vs. 希望 | xīwàng | 希望 can act as both verb ('我希望...') and noun ('满怀希望'), whereas 愿望 is predominantly a noun signifying a specific cherished wish.
+    2 | 愿望 vs. 理想 | lǐxiǎng | 理想 denotes grand, rational life ambitions and socio-political ideals ('崇高理想'), whereas 愿望 often reflects immediate, personal sentiments.
+    3 | 愿望 vs. 欲望 | yùwàng | 欲望 carries a strong appetite, instinctive urge, or acquisitive craving ('金钱欲望'), while 愿望 is benign, positive, and gentle.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在孩子纯真的心目中，新年最大的愿望往往不过是得到一件心仪的玩具，或是父母能抽空陪自己去游乐园度过周末。这种简单质朴的心愿，却映射出家庭温暖对童年成长无可替代的珍贵意义。 | Zài háizi chúnzhēn de xīnmù zhōng, xīnnián zuìdà de yuànwàng wǎngwǎng búguò shì dédào yī jiàn xīnyí de wánjù, huòshì fùmǔ néng chōukòng péi zìjǐ qù yóulèyuán dùguò zhōumò. Zhèzhǒng jiǎndān zhìpǔ de xīnyuàn, què yìngshè chū jiātíng wēnnuǎn duì tóngnián chéngzhǎng wúkě tìdài de zhēnguì yìyì. | In the innocent eyes of children, the greatest New Year wish is often just getting a favorite toy or spending the weekend at an amusement park with parents. Such simple longings mirror the irreplaceable warmth of family in childhood. | Para el corazón inocente de un niño, el mayor anhelo de Año Nuevo suele ser un juguete soñado o que sus padres le lleven al parque de atracciones. Tan entrañable ilusión refleja el calor familiar insustituible en la infancia.
+  #2 | 渴望和平与繁荣是全人类跨越国界与种族的共同愿望。历史深刻证明，封闭隔阂只会加剧争端，唯有坚持合作共赢与开放包容，才能让各国人民安居乐业的美好憧憬真正化作生动的现实，携手构建和谐美好的地球家园。 | Kěwàng hépíng yǔ fánróng shì quán rénlèi kuàyuè guójiè yǔ zhǒngzú de gòngtóng yuànwàng. Lìshǐ shēnkè zhèngmíng, fēngbì géhé zhǐhuì jiājù zhēngduān, wéiyǒu jiānchí hézuò gòngyíng yǔ kāifàng bāoróng, cáinéng ràng gè guó rénmín ānjū-lèyè de měihǎo chōngjǐng zhēnzhèng huàzuò shēngdòng de xiànshí, xiéshǒu gòujiàn héxié měihǎo de dìqiú jiāyuán. | Longing for peace and prosperity is a shared aspiration of mankind across borders. History proves isolation heightens conflict; only cooperation and open inclusion transform the dream of peaceful living into reality. | El anhelo de paz y bonanza une a toda la humanidad por encima de fronteras. La historia demuestra que el aislamiento agrava disputas; solo la cooperación y la inclusión hacen realidad el sueño de vivir en armonía en nuestro planeta común.

@@ -1,0 +1,63 @@
+id: 17
+hanzi: 状态
+pinyin: zhuàng tài
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: state; condition; status; situation
+  es: estado; condición; situación; disposición
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the current physical, mental, biological, or operational mode and condition of a person or system | modo de estar físico, anímico, biológico u operativo en que se halla una persona, sistema o materia | 处于良好状态 (be in good condition)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 大赛开始前，教练通过科学的心理疏导帮助运动员迅速调整到了最佳竞技状态。 | Dàsài kāishǐ qián, jiàoliàn tōngguò kēxué de xīnlǐ shūdǎo bāngzhù yùndòngyuán xùnsù tiáozhěng dào le zuìjiā jìngjì zhuàngtài. | Before the tournament began, the coach helped athletes adjust rapidly into peak competitive condition through psychological counseling. | Antes del certamen, el entrenador ayudó a los atletas a alcanzar su estado competitivo óptimo mediante asesoramiento psicológico.
+  #2 | 经过长途连续飞行，飞机发动机各项监测参数均显示正常，整机处于完全适航状态。 | Jīngguò chángtú liánxù fēixíng, fēijī fādòngjī gèxiàng jiāncè cānshù jūn xiǎnshì zhèngcháng, zhěngjī chǔyú wánquán shìháng zhuàngtài. | After long-distance continuous flight, all aircraft engine monitoring parameters read normal, the plane remaining in airworthy condition. | Tras un vuelo prolongado sin escalas, los parámetros de las turbinas marcaron normalidad hallándose el aparato en perfecto estado de vuelo.
+
+collocations[6]{hanzi,en}:
+  心理状态 | psychological state / mindset
+  精神状态 | mental state; spiritual vigor
+  处于状态 | in a state of
+  调整状态 | adjust one's state/mindset
+  工作状态 | working state / operational mode
+  最佳状态 | peak condition / best state
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  渐入佳境 | jiàn rù jiā jìng | gradually enter a pleasant condition; steadily improve
+  浑然一体 | hún rán yì tǐ | integrated into an organic whole; seamless harmony
+  如入梦境 | rú rù mèng jìng | as if entering a dreamland; entranced state
+  安之若素 | ān zhī ruò sù | bear hardships with tranquil composure as if habitual
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  状 | zhuàng | form; shape; state; certificate; describe | forma; aspecto; estado; acta; describir | 犬 | dog | 丬 (wooden bed split) + 犬 (hound dog form) | 状 (zhuàng) | 7 | 左右结构 | A hound dog 犬 lying against a split wooden bed board 丬; picturing the posture, visible outline, or condition of creatures. | A dog (犬) rests beside a bed plank (丬), showing its physical form and posture (状). | Un lebrel (犬) reposa junto a un tablón de lecho (丬) mostrando su aspecto y postura (状). | 51 | LMID | ""
+  态 | tài | manner; appearance; voice; posture; state | ademán; porte; actitud; postura; estado | 心 | heart / mind | 太 (grand / excessive) + 心 (heart/mind posture) | 太 (tài, great / phonetic) | 8 | 上下结构 | Grand appearance 太 guided by internal mental dispositions of the heart 心; denotes external demeanor, attitude, or physical phase. | A grand demeanor (太) guided by feelings inside the heart (心) shapes posture (态). | Un porte altivo (太) regido por los impulsos del corazón (心) define la actitud y estado (态). | 51 | KIP | 態
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Physical posture (状) combined with internal mental disposition (态) establishes a comprehensive state (状态).
+  composite_memory_hook_es: La postura exterior (状) combinada con la disposición interna (态) configura el estado (状态).
+  cultural_and_cognitive_roots: Physics, psychology, and cybernetics calque: 状 (visible morphological configuration) paired with 态 (internal phase/state of matter: 固态, 液态, 气态).
+  tone_sandhi_and_pitch_modulation: Double falling fourth tones: 'zhuàng tài' (51-51). Descend sharply on 'zhuàng', then strike down firmly on 'tài'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    壮 | zhuàng | strong; robust | Has 士 on right instead of hound dog 犬 in 状
+    伏 | fú | prostrate; bend down | Has person radical 亻 on left of 犬
+    怂 | sǒng | timid; instigate | Has 从 atop 心 instead of 太 in 态
+    思 | sī | think; ponder | Has field 田 atop 心
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    形 | xíng | shape; physical form
+    况 | kuàng | condition; compare water
+    势 | shì | momentum; physical force
+    相 | xiàng | appearance; posture
+
+semantic_boundary_contrasts:
+  core_nuance: 状态 designates the immediate operational mode, health condition, or psychological state of a person, machine, or matter.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 状态 vs. 情况 | qíngkuàng | 情况 refers to external situational facts, circumstances, and developments ('了解具体情况'), while 状态 refers to the internal condition or functioning mode of a subject ('身体状态').
+    2 | 状态 vs. 态度 | tàidù | 态度 denotes subjective human attitude, stance, or behavioral disposition toward others ('工作态度认真'), while 状态 is objective condition.
+    3 | 状态 vs. 形式 | xíngshì | 形式 refers to external aesthetic structure, genre, or format ('表现形式'), whereas 状态 is operational condition.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代高压职场环境中，保持良好的心理健康状态是战胜困难与实现自我突破的关键。当感到焦虑烦躁时，主动停下手中繁重的事务做深呼吸，适度散步放空大脑，有助于迅速摆脱精神内耗，重回专注高效的工作状态。 | Zài xiàndài gāoyā zhíchǎng huánjìng xià, bǎochí liánghǎo de xīnlǐ jiànkāng zhuàngtài shì zhànshèng kùnnán yǔ shíxiàn zìwǒ tūpò de guānjiàn. Dāng gǎndào jiāolǜ fánzào shí, zhǔdòng tíngxià shǒuzhōng fánzhòng de shìwù zuò shēnhūxī, shìdù sànbù fàngkōng dànǎo, yǒuzhùyú xùnsù bǎituō jīngshén nèihào, chónghuí zhuānzhù gāoxiào de gōngzuò zhuàngtài. | In high-pressure workplaces, maintaining good mental state is key to overcoming obstacles. When feeling anxious, pausing for deep breaths and a stroll clears the mind, shedding friction to regain productive focus. | En la vorágine laboral, guardar un estado anímico equilibrado es clave para superar escollos. Ante la zozobra, respirar hondo y pasear oxigena la mente, disipando el estrés para rendir con lucidez.
+  #2 | 高铁列车在以每小时三百五十公里飞驰时，车体各部传感器实时采集受电弓、轴承与制动系统的运行状态数据。车载中央电脑利用智能算法对机车运行状态进行毫秒级高频诊断，确保列车始终处于绝对安全运行状态。 | Gāotiě lièchē zài yǐ měi xiǎoshí sānbǎi wǔshí gōnglǐ fēichí shí, chētǐ gèbù chuángǎnqì shíshí cǎijí shòudiàngōng, zhóuchéng yǔ zhìdòng xìtǒng de yùnxíng zhuàngtài shùjù. Chēzài zhōngyāng diànnǎo lìyòng zhìnéng suànfǎ duì jīchē yùnxíng zhuàngtài jìnxíng háomiǎojí gāopín zhěnduàn, quèbǎo lièchē shǐzhōng chǔyú juéduì ānquán yùnxíng zhuàngtài. | As bullet trains race at 350 km/h, sensors collect operational data on pantographs, bearings, and brakes. Computers diagnose running states at millisecond speeds, ensuring absolute safety throughout journeys. | A 350 km/h, sensores del tren bala monitorizan pantógrafos, cojinetes y frenos en tiempo real. Ordenadores a bordo diagnostican el estado del convoy al milisegundo garantizando un viaje enteramente seguro.

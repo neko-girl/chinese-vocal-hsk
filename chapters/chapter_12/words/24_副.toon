@@ -1,0 +1,63 @@
+id: 24
+hanzi: 副
+pinyin: fù
+level: HSK 5
+part_of_speech: Adjective / Measure Word
+
+meanings_summary:
+  en: vice-; deputy; secondary; classifier for sets/pairs (glasses, gloves, expressions)
+  es: vice-; adjunto; segundo; clasificador para juegos, pares o expresiones (gafas, guantes, cara)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | occupying a secondary, assisting, or deputy rank beneath a chief or principal officer | que ocupa un rango subalterno o de auxilio inmediato respecto al cargo titular principal | 副总裁 (vice president)
+  2 | Measure Word | Standard | classifier for things in pairs or sets (glasses, gloves), or facial expressions and attitudes | clasificador para objetos que van en pares o juegos (gafas, guantes), o para expresiones del semblante | 一副眼镜 (a pair of glasses)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这位刚刚晋升的高级副总裁在新闻发布会上宣布，微信海外用户注册量已突破一亿大关。 | Zhè wèi gānggāng jìnshēng de gāojí fù-zǒngcái zài xīnwén fābùhuì shàng xuānbù, Wēixìn hǎiwài yònghù zhùcèliàng yǐ tūpò yī yì dàguān. | This newly promoted senior vice president announced at the press conference that overseas registered WeChat users had surpassed the 100 million mark. | El recién ascendido vicepresidente sénior anunció en rueda de prensa que los usuarios de WeChat en el extranjero superaron la barrera de cien millones.
+  #2 | 他戴上一副深黑色的太阳镜，脸上挂着一副自信从容的微笑，大步流星地走上国际讲台。 | Tā dàishàng yī fù shēnhēisè de tàiyángjìng, liǎn shàng guàzhe yī fù zìxìn cóngróng de wēixiào, dàbù-liúxīng de zǒushàng guójì jiǎngtái. | Wearing a pair of dark sunglasses and sporting a confident, calm smile, he strode vigorously onto the international podium. | Poniéndose unas gafas de sol oscuras y luciendo una sonrisa serena y segura, subió con paso firme al estrado internacional.
+
+collocations[6]{hanzi,en}:
+  副总裁 | Vice President (VP)
+  副总理 | Vice Premier / Deputy Prime Minister
+  一副眼镜 | a pair of glasses
+  一副手套 | a pair of gloves
+  副作用 | side effect
+  副业 | sideline production / moonlighting occupation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  名副其实 | míng fù qí shí | worthy of the name; name matches reality
+  全副武装 | quán fù wǔ zhuāng | fully armed from head to toe; fully equipped
+  盛气凌人 | shèng qì líng rén | put on overbearing arrogant airs
+  严阵以待 | yán zhèn yǐ dài | stand in tight battle array awaiting enemy
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  副 | fù | vice; deputy; assist; divide; classifier for sets | vice; adjunto; secundario; dividir; clasificador de juegos o pares | 刂 | knife | 畐 (full clay jar / abundance) + 刂 (knife dividing into matching halves) | 畐 (fú, jar / phonetic nuance fù) | 11 | 左右结构 | Using a knife 刂 to split a full sacrificial vessel 畐 into two complementary halves; signifies a secondary matching duplicate or deputy. | A sharp knife (刂) neatly dividing a full vessel (畐) into matching auxiliary sets creates a deputy copy (副). | Una cuchilla afilada (刂) que divide una tinaja llena (畐) en mitades complementarias crea un duplicado adjunto (副). | 51 | MTLN | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Dividing a full jar in half with a blade (刂) produces an auxiliary counterpart (副) ready to assist the principal.
+  composite_memory_hook_es: Dividir una tinaja colmada con el cuchillo (刂) rinde una mitad auxiliar (副) que complementa al titular.
+  cultural_and_cognitive_roots: Originates from ancient imperial ritual tallies (契约剖半): jade or bronze tallies cut in two, with the sovereign holding the master and the deputy general holding the auxiliary tally (副符).
+  tone_sandhi_and_pitch_modulation: Fourth tone: 'fù' (51). Crisp, authoritative falling drop.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    福 | fú | fortune; blessing | Has altar radical 礻 on left instead of knife 刂 on right in 副
+    幅 | fú | width; classifier for paintings | Has cloth radical 巾 on left of 畐
+    富 | fù | rich; wealthy | Has roof radical 宀 on top of 畐
+    逼 | bī | force; compel | Has walk radical 辶 on outside of 畐
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    佐 | zuǒ | assist; auxiliary officer
+    助 | zhù | help; assist
+    配 | pèi | match; subordinate mate
+    套 | tào | set; suit
+
+semantic_boundary_contrasts:
+  core_nuance: 副 serves as an adjective prefix for deputy/assistant roles, or as a measure word for paired items (glasses, gloves) and facial expressions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 副 vs. 正 | zhèng | 正 is the direct antonym meaning principal, chief, or head officer ('正局长' vs. '副局长').
+    2 | 副 vs. 双 | shuāng | 双 is a measure word for symmetric natural body pairs like shoes, socks, hands, and eyes ('一双鞋'), while 副 applies to composite sets like glasses, gloves, playing cards ('一副扑克牌', '一副手套').
+    3 | 副 vs. 套 | tào | 套 classifies complete multi-piece suites, furniture sets, apartments, or series of suits ('一套西装', '一套房子'), while 副 is for smaller accessories or expressions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代企业高管团队中，副职干部承担着承上启下与统筹协调的关键中枢职责。优秀的副总裁善于精准领会董事长的宏观战略意图，并在分管的具体业务领域雷厉风行地抓好执行落实，成为协助一把手决策的得力助手。 | Zài xiàndài qǐyè gāoguǎn tuánduì zhōng, fùzhí gànbù chéngdān zhe chéngshàng-qǐxià yǔ tǒngchóu xiétiáo de guānjiàn zhōngshū zhízé. Yōuxiù de fù-zǒngcái shànyú jīngzhǔn lǐnghuì dǒngshìzhǎng de hóngguān zhànlüè yìtú, bìng zài fēnguǎn de jùtǐ yèwù lǐngyù léilì-fēngxíng de zhuāhǎo zhíxíng luòshí, chéngwéi xiézhù yībǎshǒu juécè de délì zhùshǒu. | In modern corporate executive teams, deputy leaders shoulder the vital hub duty of bridging top strategy and execution. An exceptional VP accurately grasps the chairman's vision and vigorously executes within their division as a trusted right hand. | En la cúpula corporativa, los directivos adjuntos asumen la crucial labor de enlace y coordinación. Un vicepresidente brillante interpreta la visión de la presidencia y la ejecuta con dinamismo en su división como mano derecha indispensable.
+  #2 | 寒冬腊月里的北方乡村，集市上摆满了红彤彤的对联与窗花。老书法家铺展红纸、饱蘸浓墨，挥毫为赶集的乡邻书写出一副副寓意吉祥喜庆的新春对联。红纸黑字映衬着老百姓一张张幸福的笑脸，勾勒出浓郁淳厚的年味图景。 | Hándōng-làyuè lǐ de běifāng xiāngcūn, jíshì shàng bǎimǎnle hóngtōngtōng de duìlián yǔ chuānghuā. Lǎo shūfǎjiā pūzhǎn hóngzhǐ, bǎozhàn nóngmò, huīháo wèi gǎnjí de xiānglín shūxiě chū yī fù fù yùyì jíxiáng xǐqìng de xīnchūn duìlián. Hóngzhǐ hēizì yìngchèn zhe lǎobǎixìng yī zhāng zhāng xìngfú de xiàoliǎn, gōulè chū nóngyù chúnhòu de niánwèi tújǐng. | In deep winter northern villages, rural markets brim with crimson couplets and paper-cuttings. Veteran calligraphers dip brushes into rich ink, penning pairs of auspicious New Year couplets for villagers, framing joy and warm festive cheer. | En pleno rigor invernal en el norte rural, los mercados rebosan de coplas y recortables escarlata. Calígrafos veteranos empapan sus pinceles en tinta china componiendo pares de pareados festivos que enmarcan las sonrisas de los aldeanos.

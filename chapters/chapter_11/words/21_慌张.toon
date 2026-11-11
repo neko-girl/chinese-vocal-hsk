@@ -1,0 +1,63 @@
+id: 21
+hanzi: 慌张
+pinyin: huāng zhāng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: flustered; panic-stricken; confused; agitated
+  es: nervioso; atolondrado; desconcertado; presa del pánico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | flustered, hurried, agitated, and losing self-possession due to sudden panic or unexpected events | inquieto, atolondrado y visiblemente turbado por una alarma o sorpresa repentina | 神色慌张 (look flustered / panic-stricken in expression)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 看到巡逻民警迎面走来，小偷神色慌张地低下头，加快脚步试图溜走。 | Kàndào xúnluó mínjǐng yíngmiàn zǒulái, xiǎotōu shénsè huāngzhāng de dīxià tóu, jiākuài jiǎobù shìtú liūzǒu. | Seeing patrolling police officers approaching, the thief lowered his head with a flustered expression, quickening his steps to slip away. | Al ver aproximarse a la patrulla policial, el ratero bajó la cabeza con aire desconcertado apurando el paso para escaquearse.
+  #2 | 遭遇突发火灾警报时千万不要慌张，应当用湿毛巾捂住口鼻、弯腰有序撤离。 | Zāoyù tūfā huǒzāi jǐngbào shí qiānwàn búyào huāngzhāng, yīngdāng yòng shī máojīn wǔzhù kǒu-bí, wānyāo yǒuxù chèlí. | Never panic when facing a sudden fire alarm; cover mouth and nose with a damp towel, bend down, and evacuate in an orderly manner. | Jamás cunda el pánico ante una alarma de incendio repentina; cúbranse boca y nariz con un paño húmedo y desalojen agachados y en orden.
+
+collocations[6]{hanzi,en}:
+  神色慌张 | flustered expression; panicked look
+  慌张失措 | flustered and at a loss what to do
+  不必慌张 | no need to panic
+  举止慌张 | agitated/flustered manners
+  十分慌张 | extremely flustered
+  显得慌张 | appear panicked / look flurried
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  惊慌失措 | jīng huāng shī cuò | panic-stricken and at a loss what to do; lose one's head
+  手忙脚乱 | shǒu máng jiǎo luàn | hands and feet in a fluster; frantic disorder
+  张皇失措 | zhāng huáng shī cuò | bewildered, terrified, and helpless in crisis
+  镇定自若 | zhèn dìng zì ruò | calm, composed, and completely in control of oneself
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  慌 | huāng | panicky; flurried; confused; nervous | inquieto; turbado; asustado; aturdido | 忄 | heart | 忄 (distressed agitated heart) + 荒 (wasteland overgrown with weeds) | 荒 (huāng, wasteland / phonetic) | 12 | 左右结构 | Heart radical 忄 combined with 荒 (wild desolate weed fields); feelings thrown into disarray like a wild overgrown wasteland. | Emotions in the heart (忄) run wild like weeds in an unkempt wasteland (荒), sparking panic (慌). | Las emociones del corazón (忄) se desbordan como maleza en páramo yermo (荒) desatando el pavor (慌). | 55 | PTYU | ""
+  张 | zhāng | draw bow; stretch; spread; display | tensar arco; abrir; extender; desplegar | 弓 | bow | 弓 (archery bow) + 长 (long / extended tension) | 长 (cháng/zhǎng, long / phonetic carrier) | 7 | 左右结构 | An archer drawing a bow 弓 to full length 长; represents stretching, tension, spreading out, or looking wide-eyed. | Pulling an archer's bow (弓) taut to its longest stretch (长) strains tension (张). | Tensar la cuerda del arco (弓) a su máxima longitud (长) refleja tirantez y agitación (张). | 55 | NPO | 張
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A heart thrown into wasteland panic (慌) stretched taut like a drawn bow (张) acts flustered (慌张).
+  composite_memory_hook_es: El corazón en páramo de pánico (慌) tenso como cuerda de arco (张) actúa atolondrado (慌张).
+  cultural_and_cognitive_roots: Folk psychological portrait: 慌 (internal mental confusion) paired with 张 (visible outward bodily agitation and frantic pacing).
+  tone_sandhi_and_pitch_modulation: Double level high first tones: 'huāng zhāng' (55-55). Hold level high pitch 55 across both syllables smoothly.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    谎 | huǎng | lie; falsehood | Has speech radical 讠 on left instead of heart 忄 in 慌
+    荒 | huāng | wasteland; famine | Has grass radical 艹 on top, lacking 忄
+    涨 | zhǎng | rise; swell | Has water radical 氵 on left instead of bow 弓 in 张
+    帐 | zhàng | tent; curtain | Has cloth radical 巾 on left of 长
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    恐 | kǒng | fear in heart
+    乱 | luàn | tangled silk disorder
+    忙 | máng | busy heart; rushed
+    躁 | zào | restless feet stamping
+
+semantic_boundary_contrasts:
+  core_nuance: 慌张 emphasizes visible behavioral disarray, hurried clumsiness, and loss of composure under sudden fright.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 慌张 vs. 紧张 | jǐnzhāng | 紧张 describes normal physiological nervousness before exams or performances without losing control ('考试前紧张'), while 慌张 is visible flustered disarray.
+    2 | 慌张 vs. 害怕 | hàipà | 害怕 emphasizes subjective cowardice or dread of pain/danger ('害怕黑暗'), whereas 慌张 describes chaotic outward behavioral manner.
+    3 | 慌张 vs. 匆忙 | cōngmáng | 匆忙 focuses simply on being rushed for time ('匆忙赶路'), without the panic or flustered fright of 慌张.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代空难与火灾逃生演练中，安全专家反复强调“遇险不慌张”的核心生存法则。当灾难降临时，盲目慌张奔逃只会导致致命的踩踏事故，唯有沉着冷静、服从指挥引导，才能在黄金时间内安全疏散。 | Zài xiàndài kōngnàn yǔ huǒzāi táoshēng yǎnliàn zhōng, ānquán zhuānjiā fǎnfù qiángdiào 'yùxiǎn bù huāngzhāng' de héxīn shēngcún fǎzé. Dāng zāinàn jiànglín shí, mángmù huāngzhāng bēntáo zhǐhuì dǎozhì zhìmìng de cǎità shìgù, wéiyǒu chénzhuó-lěngjìng, fúcóng zhǐhuī yǐndǎo, cáinéng zài huángjīn shíjiān nèi ānquán shūsàn. | In fire and emergency drills, experts stress the rule of avoiding panic. When disaster strikes, blind panic leads to fatal stampedes; remaining calm and following guidance ensures safe evacuation within golden minutes. | En simulacros de evacuación, expertos recalcan la regla de oro: mantener la calma ante el peligro. Huir despavoridos provoca avalanchas letales; solo la serenidad y la disciplina salvan vidas en minutos clave.
+  #2 | 当清晨闹钟骤然大作时，深度睡眠中的人体交感神经被强行激活，常常伴随一阵莫名的心慌意乱与神色慌张。这种突发性惊醒破坏了大脑从浅睡眠自然唤醒的平稳节律，长期以往会使人形成神经质的早起焦虑症。 | Dāng qīngchén nàozhōng zhòurán dàzuò shí, shēndù shuìmián zhōng de réntǐ jiāogǎn shénjīng bèi qiángxíng jīhuó, chángcháng bànsuí yí zhèn mòmíng de xīnhuāng-yìluàn yǔ shénsè huāngzhāng. Zhè zhǒng tūfāxìng jīngxǐng pòhuài le dànǎo cóng qiǎn shuìmián zìrán huànxǐng de píngwěn jiélǜ, chángqī yǐwǎng huì shǐ rén xíngchéng shénjīngzhì de zǎoqǐ jiāolǜzhèng. | When alarms blare, sympathetic nerves in deep sleepers activate abruptly, accompanied by heart palpitations and flustered panic. This sudden jolt disrupts smooth natural awakening, inducing chronic morning anxiety. | Al rugir el despertador, el sistema simpático se activa de golpe provocando palpitaciones y agitación ansiosa. Esta sacudida quiebra el despertar apacible desde el sueño ligero, induciendo una neurosis matinal crónica.

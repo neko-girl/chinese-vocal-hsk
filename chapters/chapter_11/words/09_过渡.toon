@@ -1,0 +1,64 @@
+id: 9
+hanzi: 过渡
+pinyin: guò dù
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to transition; to transit; transition; interim phase
+  es: hacer la transición; transitar; transición; fase intermedia
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to pass, shift, or transit smoothly from one stage, state, or era to another | pasar, evolucionar o mudar paulatinamente de un estado o etapa a otra | 平稳过渡 (smooth transition)
+  2 | Noun | Standard | a transitional period, interim stage, or passage connecting two phases | período de transición, fase intermedia o puente entre dos épocas | 过渡时期 (transitional period)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 从深度睡眠到完全清醒，人体的中枢神经系统需要经历一段温和的生理过渡阶段。 | Cóng shēndù shuìmián dào wánquán qīngxǐng, réntǐ de zhōngshū shénjīng xìtǒng xūyào jīnglì yí duàn wēnhé de shēnglǐ guòdù jiēduàn. | From deep sleep to full alertness, the human central nervous system requires a gentle physiological transitional phase. | Del sueño profundo a la vigilia plena, el sistema nervioso central precisa un sosegado período de transición fisiológica.
+  #2 | 在老厂长退休之际，新老管理团队密切配合，实现了企业经营管理权的平稳过渡。 | Zài lǎo chǎngzhǎng tuìxiū zhī jì, xīn-lǎo guǎnlǐ tuánduì mìqiè pèihé, shíxiàn le qǐyè jīngyíng guǎnlǐquán de píngwěn guòdù. | Upon the veteran director's retirement, new and old management teams collaborated closely, achieving a smooth handover of managerial power. | Con la jubilación del veterano director, la directiva saliente y entrante cooperaron estrechamente logrando un traspaso de poderes impecable.
+
+collocations[6]{hanzi,en}:
+  平稳过渡 | smooth transition
+  过渡时期 | transitional period
+  过渡阶段 | interim/transition stage
+  自然过渡 | natural transition
+  过渡性措施 | transitional/interim measures
+  顺利过渡 | successful/smooth transition
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  承前启后 | chéng qián qǐ hòu | carry forward the past and open up the future; link past and future
+  继往开来 | jì wǎng kāi lái | build on past achievements and open up path forward
+  渐入佳境 | jiàn rù jiā jìng | gradually enter a pleasant phase; steadily improve
+  水到渠成 | shuǐ dào qú chéng | water flows and a channel is formed; succeed naturally when ripe
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  过 | guò | pass; cross; go beyond; mistake | pasar; cruzar; sobrepasar; error | 辶 | walk / movement | 辶 (walk/movement) + 寸 (inch / hand measure) | 呙 (guō, twisted mouth / phonetic origin) | 6 | 半包围结构 | Footsteps 辶 pacing across a threshold or measured mark 寸; signifies crossing over, passing through, or exceeding boundaries. | Footsteps (辶) measure out distance (寸) to cross over the boundary line (过). | Pasos firmes (辶) miden el espacio (寸) para cruzar la frontera hacia el otro lado (过). | 51 | YDI | 過
+  渡 | dù | ferry; cross river; transit; tide over | cruzar río; vadear; transitar; superar | 氵 | water | 氵 (water/river) + 度 (measure/ferry pace) | 度 (dù, degree/measure / phonetic) | 12 | 左右结构 | Water radical 氵 paired with 度 (measure/capacity); crossing across rivers by ferryboat, extended to traversing transitions. | A ferry carries passengers across deep waters (氵) to the opposite shore (度), crossing over safely (渡). | Una barcaza surca las aguas (氵) arribando a la orilla opuesta (度) para vadear el río (渡). | 51 | EITO | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Crossing a boundary (过) like ferrying across a wide river (渡) achieves a smooth transition (过渡).
+  composite_memory_hook_es: Cruzar el linde (过) como quien cruza en barca el río (渡) describe la transición (过渡).
+  cultural_and_cognitive_roots: Ferry river crossing metaphor: ancient travelers took ferries (渡口) to cross treacherous currents; applied conceptually to shifts in politics and physiology.
+  tone_sandhi_and_pitch_modulation: Double falling fourth tones: 'guò dù' (51-51). Descend sharply on 'guò', then drop down decisively again on 'dù'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    这 | zhè | this | Has 文 inside 辶 instead of 寸 in 过
+    进 | jìn | enter; advance | Has 井 inside 辶
+    度 | dù | degree; measure | Lacks the water radical 氵 of 渡
+    镀 | dù | plate; coat with metal | Has metal radical 钅 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    迁 | qiān | migrate; move house
+    移 | yí | shift; transplant rice
+    变 | biàn | change; alter form
+    化 | huà | transform; melt
+
+semantic_boundary_contrasts:
+  core_nuance: 过渡 emphasizes the progressive, intermediate bridging process between two distinct historical, physical, or physiological stages.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 过渡 vs. 转变 | zhuǎnbiàn | 转变 emphasizes changing the direction, nature, or attitude of something ('转变观念'), while 过渡 emphasizes the temporal interim bridging phase.
+    2 | 过渡 vs. 转换 | zhuǎnhuàn | 转换 emphasizes switching between discrete modes or formats ('转换频道', '转换格式'), while 过渡 is a gradual smooth shift.
+    3 | 过渡 vs. 过度 | guòdù | 过度 (homophone with 度) means excessive or going beyond healthy limits ('过度疲劳', '过度饮酒'), while 过渡 means transition.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四季更迭时节，秋天是大自然从夏日的繁盛喧嚣向冬日的沉静萧瑟平稳过渡的金色桥梁。树叶在阵阵微风中缓缓由绿变黄，候鸟成群结队整齐南飞，一切生物都在从容不迫地做好迎接寒冬的过渡准备。 | Sìjì gèngdié shíjié, qiūtiān shì dànzìrán cóng xiàrì de fánshèng xuānxiāo xiàng dōngrì de chénjìng xiāosè píngwěn guòdù de jīnsè qiáoliáng. Shùyè zài zhènzhèn wēifēng zhōng huǎnhuǎn yóu lǜ biàn huáng, hòuniǎo chéngqún-jiéduì zhěngqí nánfēi, yíqiè shēngwù dōu zài cóngróng-bùpò de zuòhǎo yíngjiē hándōng de guòdù zhǔnbèi. | During seasonal change, autumn is nature's golden bridge transitioning smoothly from summer lushness to winter dormancy. Leaves turn yellow and migratory birds fly south, readying for winter. | En la rueda del año, el otoño es puente áureo que transita con sosiego de la fronda estival al letargo invernal. Hojas amarillas y aves rumbo al sur preparan a la biosfera para el invierno.
+  #2 | 从传统化石能源向绿色清洁能源转型，是一个涉及千行百业的宏大系统工程。在这个历史过渡时期，必须统筹兼顾能源安全保供与节能减排目标，合理发展天然气等过渡清洁替代能源，确保国民经济平稳运行。 | Cóng chuántǒng huàshí néngyuán xiàng lǜsè qīngjié néngyuán zhuǎnxíng, shì yí ge shèjí qiānháng-bǎiyè de hóngdà xìtǒng gōngchéng. Zài zhè ge lìshǐ guòdù shíqī, bìxū tǒngchóu jiāngù néngyuán ānquán bǎogōng yǔ jiénéng jiǎnpái mùbiāo, hélǐ fāzhǎn tiānránqì děng guòdù qīngjié tìdài néngyuán, quèbǎo guómín jīngjì píngwěn yùnxíng. | Transitioning from fossil fuels to clean energy is a vast systemic undertaking. In this transitional era, balancing energy security with emissions reduction via bridge fuels like natural gas ensures economic stability. | Migrar del combustible fósil a la energía limpia es un cambio estructural. En este período de transición, compaginar el suministro con la descarbonización mediante energías puente asegura la estabilidad económica.

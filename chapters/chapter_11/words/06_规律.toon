@@ -1,0 +1,64 @@
+id: 6
+hanzi: 规律
+pinyin: guī lǜ
+level: HSK 5
+part_of_speech: Noun / Adjective
+
+meanings_summary:
+  en: law; regular pattern; rule; regular; disciplined
+  es: ley natural; pauta regular; norma; ordenado; regular
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | objective inner connections and necessary laws governing the development of things | ley intrínseca objetiva o pauta constante que rige el desarrollo de los fenómenos | 自然规律 (laws of nature)
+  2 | Adjective | Standard | regular, disciplined, and recurring at orderly predictable intervals | ordenado, pautado o regular en horarios y hábitos | 生活很有规律 (lead a regular/disciplined life)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 遵循大自然春生夏长、秋收冬藏的客观规律，农业生产才能获得丰厚的回报。 | Zūnxún dànzìrán chūnshēng-xiàzhǎng, qiūshōu-dōngcáng de kèguān guīlǜ, nóngyè shēngchǎn cáinéng huòdé fēnghòu de huíbào. | Only by following nature's objective laws of seasonal growth and harvest can agricultural production reap abundant yields. | Acatando las leyes objetivas de la naturaleza según las estaciones, el cultivo agrícola rinde cosechas ubérrimas.
+  #2 | 坚持健康科学的作息规律，保证充足睡眠和合理饮食，是增强身体免疫力的基石。 | Jiānchí jiànkāng kēxué de zuòxī guīlǜ, bǎozhèng chōngzú shuìmián hé hélǐ yǐnshí, shì zēngqiáng shēntǐ miǎnyìlì de jīshí. | Maintaining regular, scientific daily routines with ample sleep and balanced diet forms the foundation of immune vitality. | Mantener hábitos diarios regulares y saludables con sueño reparador y dieta equilibrada es la base del vigor inmunológico.
+
+collocations[6]{hanzi,en}:
+  自然规律 | laws of nature
+  客观规律 | objective law/pattern
+  生活规律 | regular lifestyle habits
+  作息规律 | regular daily routine
+  寻找规律 | search for patterns/laws
+  发展规律 | developmental laws
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  按图索骥 | àn tú suǒ jì | look for a noble steed according to a picture; act by rules
+  墨守成规 | mò shǒu chéng guī | stick stubbornly to obsolete rules
+  循规蹈矩 | xún guī dǎo jǔ | follow rules strictly; abide by convention
+  铁证如山 | tiě zhèng rú shān | irrefutable evidence as solid as a mountain
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  规 | guī | compass; rule; regulate; plan | compás; regla; pauta; planificar | 见 | see | 夫 (measuring master) + 见 (observing eye) | 规 (guī) | 8 | 左右结构 | A person observing with eye 见 holding a drawing compass 夫 to draw a perfect circle; represents rules and standards. | A watchful eye (见) guides a compass (夫) to draw a perfect circle according to rule (规). | Un ojo atento (见) guía el compás de dibujo (夫) trazando círculos según la regla (规). | 55 | QOUU | 規
+  律 | lǜ | law; pitch; regulate; rhythm | ley; tono; ritmo; precepto | 彳 | step / walk | 彳 (step / walking on path) + 聿 (hand holding scribe brush) | 律 (lǜ) | 9 | 左右结构 | A scribe brush 聿 recording laws for travelers walking the public street 彳; represents laws, codes, and musical pitches. | A hand writes laws with a brush (聿) to govern footsteps along public highways (彳). | Una mano escribe decretos con pincel (聿) para ordenar los pasos por el camino real (彳). | 51 | HOLQ | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A compass establishing standards (规) combined with recorded legal and pitch codes (律) reveals regular laws (规律).
+  composite_memory_hook_es: El compás de trazar normas (规) y el código de leyes escritas (律) revelan las pautas regulares (规律).
+  cultural_and_cognitive_roots: Derived from classical standardizing tools (规 compass + 矩 square) paired with acoustic pitch pipes (十二律: twelve musical pitches); laws of the cosmos.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'guī lǜ' (55-51). Hold high pitch 55 on 'guī', then drop down sharply on 'lǜ'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    视 | shì | look; inspect | Has altar radical 礻 on left instead of 夫 in 规
+    现 | xiàn | appear; present | Has jade radical 王 on left of 见
+    津 | jīn | ferry; saliva | Has water radical 氵 on left of 聿 instead of 彳 in 律
+    建 | jiàn | build; construct | Has long stride 廴 enclosing 聿
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    法 | fǎ | law; water level fairness
+    矩 | jǔ | carpenter square rule
+    则 | zé | knife carving standard rule
+    常 | cháng | constant invariant cloth
+
+semantic_boundary_contrasts:
+  core_nuance: 规律 denotes the invariant, inherent objective laws of science/nature, or disciplined regularity of habits.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 规律 vs. 规则 | guīzé | 规则 refers to artificial, human-made regulations and game rules ('交通规则', '比赛规则'), while 规律 refers to inviolable objective natural laws ('自然规律').
+    2 | 规律 vs. 法律 | fǎlǜ | 法律 refers specifically to the penal and civil statutes enacted by the state legislature, whereas 规律 is universal and scientific.
+    3 | 规律 vs. 惯例 | guànlì | 惯例 denotes customary conventions established through precedent, not necessary underlying scientific patterns.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 日月星辰运行不息，春夏秋冬寒来暑往，大自然以其严整深邃的规律维系着生态系统的动态平衡。人类若狂妄自大企图凌驾于自然之上盲目索取，必将遭受客观自然规律的严厉惩罚与无回报应。 | Rì-yuè-xīngchén yùnxíng bùxī, chūn-xià-qiū-dōng hánlái-shǔwǎng, dànzìrán yǐ qí yánzhěng shēnsù de guīlǜ wéixì zhe shēngtài xìtǒng de dòngtài pínghéng. Rénlèi ruò kuángwàng-zìdà qǐtú língjià yú zìrán zhīshàng mángmù suǒqǔ, bìjiāng zāoshòu kèguān zìrán guīlǜ de yánlì chéngfá yǔ wúqíng bàoyìng. | Stars turn endlessly and seasons cycle; nature maintains ecological balance through deep laws. If humans arrogantly exploit resources blind to these laws, nature will punish us severely. | Los astros giran y las estaciones se suceden; la naturaleza preserva su equilibrio dinámico mediante leyes inexorables. Si el hombre depreda con soberbia, la ley cósmica impondrá su castigo.
+  #2 | 在现代金融投资领域，优秀的基金经理从不轻信虚幻的市场传言，而是潜心通过历史大数据挖掘资本市场运转的内在规律。只有顺应宏观经济周期规律、坚守理性价值投资，才能在惊涛骇浪的市场波动中行稳致远。 | Zài xiàndài jīnróng tóuzī lǐngyù, yōuxiù de jījīn jīnglǐ cóng bù qīngxìn xūhuàn de shìchǎng chuányán, érshì qiánxīn tōngguò lìshǐ dàshùjù wājué zīběn shìchǎng yùnzhuǎn de nèizài guīlǜ. Zhǐyào shùnyìng hóngguān jīngjì zhōuqī guīlǜ, jiānshǒu lǐxìng jiàzhí tóuzī, cáinéng zài jīngtāo-hàilàng de shìchǎng bōdòng zhōng xíngwěn-zhìyuǎn. | In finance, astute fund managers rely on big data to uncover intrinsic patterns of capital markets rather than rumors. Following economic cycles and disciplined value investing yields steady returns amidst volatility. | En finanzas, los gestores expertos desdeñan rumores para rastrear las leyes del mercado mediante datos masivos. Acatar los ciclos macroeconómicos con sensatez garantiza navegar la volatilidad con éxito.

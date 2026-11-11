@@ -1,0 +1,63 @@
+id: 32
+hanzi: 程度
+pinyin: chéng dù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: degree; extent; level; stage; measure
+  es: grado; nivel; medida; alcance; intensidad
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the level, extent, intensity, or stage reached in the progression or quality of an affair or skill | nivel, medida, intensidad o fase alcanzada en el desarrollo de un proceso, cualidad o conocimiento | 文化程度 (level of educational attainment)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信在海外不同国家市场的普及程度，很大程度上取决于当地移动网络基础设施的发达水准。 | Wēixìn zài hǎiwài bùtóng guójiā shìchǎng de pǔjí chéngdù, hěn dà chéngdù shàng qǔjué yú dāngdì yídòng wǎngluò jīchǔ shèshī de fādá shuǐzhǔn. | The degree of WeChat's adoption in various overseas markets depends to a great extent on the development level of local mobile network infrastructure. | El grado de popularidad de WeChat en los diversos mercados internacionales depende en gran medida del nivel de las redes locales.
+  #2 | 经过长达一年的严格康复训练，这位运动员腿部肌肉机能已经恢复到了相当高的程度。 | Jīngguò chángdá yī nián de yángé kāngfù xùnliàn, zhè wèi yùndòngyuán tuǐbù jīròu jīnéng yǐjīng huīfù dàole xiāngdāng gāo de chéngdù. | After a full year of rigorous rehabilitation, the athlete's leg muscle function has recovered to a considerably high level. | Tras un año de estricta rehabilitación deportiva, la musculatura de las piernas del atleta ha recuperado un grado de funcionalidad notable.
+
+collocations[6]{hanzi,en}:
+  很大程度上 | to a great extent; largely
+  文化程度 | educational level
+  严重程度 | degree of severity
+  发展程度 | degree of development
+  某种程度上 | to a certain degree / in a sense
+  加深程度 | deepen the degree
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  适可而止 | shì kě ér zhǐ | stop at the proper degree; do not overdo things
+  过犹不及 | guò yóu bù jí | going beyond the proper degree is as bad as falling short
+  恰如其分 | qià rú qí fèn | to just the right degree; appropriate and fitting
+  进退有度 | jìn tuì yǒu dù | advance and retreat with proper measure and dignity
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  程 | chéng | order; measure; journey; rule; procedure | regla; medida; trayecto; procedimiento; norma | 禾 | grain | 禾 (grain harvest measured by bushel) + 呈 (display / present petition) | 呈 (chéng, present / phonetic) | 12 | 左右结构 | Weighing seasonal harvested grain 禾 against standard regulatory measures 呈; represents standards, measurements, procedures, and stages. | Presenting harvested grain stalks (禾) for standard measurement sets the rule (程). | Presentar espigas cosechadas (禾) ante el baremo oficial fija la medida y el procedimiento (程). | 35 | HDRMG | ""
+  度 | dù | measure; degree; limit; cross; spend time | medida; grado; límite; pasar tiempo; cruzar | 广 | shelter | 广 (hall / ruler shop) + 廿/又 (hand holding ruler to measure span) | Archaic phonetic nuance | 9 | 半包围结构 | A hand holding a wooden measuring ruler under a workshop hall 广; measuring length, degree, moderation, and limits. | Inside a sheltered hall (广), a hand measures dimensions with a ruler to find the degree (度). | Bajo el alero del taller (广), una mano mide con una regla graduada el alcance exacto (度). | 51 | ITE | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Standard measurements of grain (程) calibrated against a hand ruler (度) determine the level and degree (程度).
+  composite_memory_hook_es: Los baremos de ponderación (程) cotejados con la regla graduada (度) determinan el grado o nivel (程度).
+  cultural_and_cognitive_roots: Derived from classical Chinese metrology: 程 denoted weight measures while 度 denoted linear distance measures; combined, they encompass the continuum of intensity and level.
+  tone_sandhi_and_pitch_modulation: Second tone followed by fourth tone: 'chéng dù' (35-51). Rising second tone followed by brisk decisive drop to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    惩 | chéng | punish; penalize | Has heart radical 心 at bottom under 征 instead of grain 禾 in 程
+    呈 | chéng | present; submit | Lacks the grain radical 禾 on left of 程
+    席 | xí | mat; seat | Has cloth radical 巾 at bottom under 广 instead of 又 in 度
+    庶 | shù | commoner; ordinary | Has four dots 灬 at bottom under 广
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    级 | jí | level; rank
+    阶 | jiē | step; tier
+    准 | zhǔn | standard; norm
+    量 | liàng | quantity; capacity
+
+semantic_boundary_contrasts:
+  core_nuance: 程度 focuses on the internal intensity, depth, or maturity reached along a continuous abstract spectrum.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 程度 vs. 水平 | shuǐpíng | 水平 highlights measurable skill attainment, proficiency, or economic living standard ('技术水平', '生活水平'), while 程度 emphasizes the extent or depth of an effect ('严重程度', '在很大程度上').
+    2 | 程度 vs. 阶段 | jiēduàn | 阶段 emphasizes a chronological time period or distinct historical step in progression ('初级阶段'), whereas 程度 evaluates qualitative degree.
+    3 | 程度 vs. 范围 | fànwéi | 范围 indicates spatial, quantitative, or jurisdictional boundary scope ('适用范围'), while 程度 measures intensity.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代心理学研究中，人们对工作压力的耐受程度存在着极其显著的个体差异。合理的适度心理压力能够有效激发人的工作潜能，但若长期承受超负荷重压，则会在很大程度上损害身心健康，甚至引发抑郁情绪。 | Zài xiàndài xīnlǐxué yánjiū zhōng, rénmen duì gōngzuò yālì de nàishòu chéngdù cúnzài zhe jíqí xiǎnzhù de gètǐ chāyì. Hélǐ de shìdù xīnlǐ yālì nénggòu yǒuxiào jīfā rén de gōngzuò qiánnéng, dàn ruò chángqī chéngshòu chāofùhè zhòngyā, zé huì zài hěn dà chéngdù shàng sǔnhài shēnxīn jiànkāng, shènzhì yǐnfā yìyù qíngxù. | In modern psychology, individuals' tolerance degree for workplace stress exhibits stark differences. Moderate pressure stimulates professional potential, but chronic overload impairs health to a great extent, triggering depressive moods. | En psicología laboral, la tolerancia al estrés varía según el individuo. Un grado razonable de exigencia estimula el rendimiento, pero una sobrecarga prolongada menoscaba la salud psicosomática desatando cuadros depresivos.
+  #2 | 衡量一个现代化社会文明进步程度的重要标尺，不仅在于其摩天大楼的宏伟数量与经济生产总值，更在于其对社会弱势群体的人文关怀深度。无障碍基础设施的健全完备程度，真实映照出一座城市的文明温度与制度包容性。 | Héngliáng yī gè xiàndàihuà shèhuì wénmíng jìnbù chéngdù de zhòngyào biāochǐ, bùjǐn zàiyú qí mótiān-dàlóu de hóngwěi shùliàng yǔ jīngjì shēngchǎn zǒngzhí, gèng zàiyú qí duì shèhuì ruòshì qúntǐ de rénwén guānhuái shēndù. Wúzhàng'ài jīchǔ shèshī de jiànquán wánbèi chéngdù, zhēnshí yìngzhào chū yī zuò chéngshì de wénmíng wēndù yǔ zhìdù bāoróngxìng. | The gauge measuring a modern society's civilization degree lies not in skyscrapers or GDP, but in the depth of humane care for vulnerable groups. The completeness degree of accessible facilities reflects urban warmth and institutional inclusivity. | El grado de civilización de una sociedad no se mide por rascacielos o el PIB, sino por su amparo a colectivos vulnerables. La plenitud de accesibilidad para personas con discapacidad refleja la calidez humana y tolerancia de una urbe.

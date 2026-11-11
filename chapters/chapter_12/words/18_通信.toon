@@ -1,0 +1,64 @@
+id: 18
+hanzi: 通信
+pinyin: tōng xìn
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to communicate; correspond by mail/signals; telecommunications; message transmission
+  es: comunicarse; cartearse; telecomunicaciones; transmisión de señales o mensajes
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to exchange letters, messages, or electronic signals between distant parties | mantener correspondencia por carta, mensajes o intercambiar señales electrónicas a distancia | 保持通信 (keep up correspondence)
+  2 | Noun | Standard | the science, technology, industry, or system of transmitting information over distance via cable, radio, or satellite | tecnología, sector o sistema de transmisión de información a distancia mediante cables, ondas o satélites | 卫星通信 (satellite telecommunications)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信以其极致清晰的语音与视频通信功能，彻底颠覆了海外华人与国内亲朋好友跨洋联络的传统方式。 | Wēixìn yǐ qí jízhì qīngxī de yǔyīn yǔ shìpín tōngxìn gōngnéng, chèdǐ diānfùle hǎiwài Huárén yǔ guónèi qīnpéng hǎoyǒu kuàyáng liánluò de chuántǒng fāngshì. | With its exceptionally clear voice and video telecommunications features, WeChat completely overturned traditional overseas communication between Chinese diaspora and domestic families. | Con llamadas de voz y vídeo nítidas, WeChat transformó la forma en que los chinos en el extranjero contactan con sus allegados en la patria.
+  #2 | 即便远隔重洋数万公里，两位老学者几十年间始终坚持通过书信保持密切通信，探讨学术前沿问题。 | Jíbiàn yuǎngé chóngyáng shùwàn gōnglǐ, liǎng wèi lǎo xuézhě jǐshí nián jiān shǐzhōng jiānchí tōngguò shūxìn bǎochí mìqiè tōngxìn, tàntǎo xuéshù qiányán wèntí. | Even separated by oceans over tens of thousands of kilometers, the two senior scholars maintained close correspondence by letter for decades, discussing frontiers of learning. | Pese a vivir separados por océanos a miles de kilómetros, los dos veteranos eruditos mantuvieron correspondencia epistolar debatiendo dilemas académicos.
+
+collocations[6]{hanzi,en}:
+  通信网络 | telecommunications network
+  卫星通信 | satellite communications
+  移动通信 | mobile communications
+  通信技术 | communications technology
+  保持通信 | maintain correspondence / keep in touch
+  通信卫星 | communications satellite
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  音信杳然 | yīn xìn yǎo rán | no news whatsoever; completely out of communication
+  四通八达 | sì tōng bā dá | accessible from all directions; extending far and wide
+  通风报信 | tōng fēng bào xìn | tip off; secretly pass information to someone
+  鸿雁传书 | hóng yàn chuán shū | wild geese delivering letters; postal correspondence
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  通 | tōng | pass through; connect; open; unblocked; thorough | pasar; conectar; abierto; despejado; expedito | 辶 | walk / movement | 辶 (movement along path) + 甬 (flourishing bell stalk / unblocked channel) | 甬 (yǒng, canal / phonetic nuance) | 10 | 半包围结构 | Moving along footsteps 辶 down an unblocked tunnel or channel 甬; unobstructed, clear, through-and-through communication. | Steps traveling along a pathway (辶) through an open clear tunnel (甬) connect unobstructed (通). | Los pasos que avanzan por el sendero (辶) a través de un canal expedito (甬) conectan sin trabas (通). | 55 | YNIB | ""
+  信 | xìn | letter; message; trust; faith; believe | carta; mensaje; fe; confianza; creer | 亻 | person | 亻 (person / speaker) + 言 (speech / words) | Self-phonetic xìn | 9 | 左右结构 | A person 亻 standing faithfully behind their spoken words 言; trustworthiness, sincerity, and by extension messages and letters sent in good faith. | A righteous person (亻) whose spoken words (言) are genuine sends a faithful letter (信). | Una persona honrada (亻) cuyas palabras (言) son sinceras envía una misiva de confianza (信). | 51 | OYMR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Connecting unobstructed pathways (通) to deliver faithful messages and letters (信) is telecommunications (通信).
+  composite_memory_hook_es: Abrir vías expeditas (通) para hacer llegar mensajes y misivas de confianza (信) es la telecomunicación (通信).
+  cultural_and_cognitive_roots: Derived from classical frontier relay postal posts (驿传): sending reliable runners to pass letters (信) through connecting roads (通达).
+  tone_sandhi_and_pitch_modulation: First tone followed by fourth tone: 'tōng xìn' (55-51). Hold level high tone 55, then fall sharply to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    痛 | tòng | pain; ache | Has illness radical 疒 on outside instead of walk 辶 in 通
+    桶 | tǒng | bucket; barrel | Has wood radical 木 on left of 甬
+    伸 | shēn | stretch; extend | Has 申 on right of 亻 instead of 言 in 信
+    件 | jiàn | piece; document | Has ox 牛 on right of 亻
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    达 | dá | reach; communicate
+    讯 | xùn | inquire; dispatch message
+    讯 | xùn | telecom signal
+    电 | diàn | electricity; electronic telegraph
+
+semantic_boundary_contrasts:
+  core_nuance: 通信 encompasses technical telecommunications transmission networks, as well as postal/epistolary correspondence.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 通信 vs. 通讯 | tōngxùn | 通信 highlights technical point-to-point electronic transmission of signals and mutual letter-writing, while 通讯 can also mean a journalistic news dispatch or feature report ('通讯报道').
+    2 | 通信 vs. 联络 | liánluò | 联络 focuses on maintaining human social touch or building networking bridges ('联络感情'), whereas 通信 refers to functional data or postal transmission.
+    3 | 通信 vs. 交流 | jiāoliú | 交流 emphasizes reciprocal exchange of ideas, feelings, or culture ('文化交流'), whereas 通信 is the transmission medium itself.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 量子通信技术是保障未来信息安全的战略制高点。利用量子纠缠效应传输加密密钥，能够在物理层面上实现绝不被窃听与破译的安全通信，为国防军工、国家金融网络与关键基础设施构筑起牢不可破的量子防护盾牌。 | Liàngzǐ tōngxìn jìshù shì bǎozhàng wèilái xìnxī ānquán de zhànlüè zhìgāodiǎn. Lìyòng liàngzǐ jiūchán xiàoyìng chuánshū jiāmì mìyuè, nénggòu zài wùlǐ céngmiàn shàng shíxiàn juébù bèi qiètīng yǔ pòyì de ānquán tōngxìn, wèi guófáng jūngōng, guójiā jīnróng wǎngluò yǔ guānjiàn jīchǔ shèshī gòuzhù qǐ láobùkěpò de liàngzǐ fánghù dùnpái. | Quantum communication represents the strategic high ground of information security. Using entanglement to transmit encryption keys, it enables unhackable transmissions physically, creating an impenetrable shield for defense and finance. | La comunicación cuántica es la cúspide de la ciberseguridad. Al emplear el entrelazamiento cuántico para transmitir claves cifradas, garantiza una transmisión invulnerable a escuchas, blindando redes de defensa y finanzas.
+  #2 | 在人迹罕至的远洋航行与极地科考探险中，可靠的卫星通信系统是科考队员维系外界联系的唯一生命线。科考队员不仅能够依靠海事卫星实时上传海洋生态监测数据，还能在佳节之夜与远隔万里的家人进行高清视频通话互道平安。 | Zài rénjì-hǎnji de yuǎnyáng hángxíng yǔ jídì kěkǎo tànxiǎn zhōng, kěkào de wèixīng tōngxìn xìtǒng shì kěkǎo duìyuán wéixì wàijiè liánxì de wéiyī shēngmìngxiàn. Kěkǎo duìyuán bùjǐn nénggòu yīkào hǎishì wèixīng shíshí shàngchuán hǎiyáng shēngtài jiāncè shùjù, hái néng zài jiājié zhī yè yǔ yuǎngé wànlǐ de jiārén jìnxíng gāoqīng shìpín tōnghuà hùdào píng'ān. | In uninhabited ocean expeditions and polar surveys, satellite communication is the sole lifeline connecting teams with the world. Scientists upload marine ecological data via satellite while making HD video calls home during holidays. | En expediciones oceánicas y polares, la comunicación por satélite es el único cordón umbilical con el mundo. Los científicos transmiten datos oceanográficos y mantienen videoconferencias con sus familias en noches festivas.

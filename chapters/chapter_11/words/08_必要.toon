@@ -1,0 +1,63 @@
+id: 8
+hanzi: 必要
+pinyin: bì yào
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: necessary; essential; indispensable
+  es: necesario; indispensable; esencial; imperativo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | indispensable, essential, or strictly required for achieving an objective | indispensable, imperioso o preceptivo para lograr un fin o garantizar un resultado | 有必要这样做 (it is necessary to do so)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在野外进行高风险探险之前，做好充足的体能储备并携带必要的应急药品是绝对不可忽视的。 | Zài yěwài jìnxíng gāofēngxiǎn tànxiǎn zhīqián, zuòhǎo chōngzú de tǐnéng chǔbèi bìng xiédài bìyào de yīngjí yàopǐn shì juéduì bùkě hūshì de. | Before engaging in high-risk outdoor expeditions, preparing physical stamina and carrying necessary emergency medicines must never be neglected. | Antes de emprender una expedición arriesgada al aire libre, contar con buena preparación física y botiquines necesarios resulta imperativo.
+  #2 | 为了确保工程项目保质保量如期交付，项目部认为有必要召开一次全员安全质量交底大会。 | Wèile quèbǎo gōngchéng xiàngmù bǎozhì-bǎoliàng rúqī jiāofù, xiàngmùbù rènwéi yǒu bìyào zhàokāi yí cì quányuán ānquán zhìliàng jiāodǐ dàhuì. | To ensure the engineering project is delivered on schedule with quality, the team considered it necessary to convene a safety briefing. | Para garantizar la entrega puntual y con calidad de la obra, la dirección estimó necesario convocar una junta general de seguridad.
+
+collocations[6]{hanzi,en}:
+  非常有必要 | highly necessary; very essential
+  必要条件 | necessary condition / prerequisite
+  必要措施 | necessary measures
+  必要的准备 | necessary preparations
+  毫无必要 | completely unnecessary
+  视为必要 | deemed necessary
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  不可或缺 | bù kě huò quē | indispensable; cannot do without
+  必不可少 | bì bù kě shǎo | absolutely essential; indispensable
+  刻不容缓 | kè bù róng huǎn | brook no delay; demand immediate action
+  迫在眉睫 | pò zài méi jié | imminent and urgent; pressing close to eyelashes
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  必 | bì | certainly; must; surely; necessary | sin falta; deber; forzoso; necesario | 心 | heart | 弋 (stake / split) + 八 (slash through / decisive resolve) | 必 (bì) | 5 | 单一结构 | Originally a measuring weapon or divider stroke slashing decisively through; signifies certainty, necessity, and firmness. | A firm slash cuts decisively across, making an unavoidable, necessary mark (必). | Un trazo firme cruza con rotunda certeza fijando un imperativo ineludible (必). | 51 | PHX | ""
+  要 | yào | want; need; must; vital; important | querer; necesitar; esencial; vital | 覀 | west / cover | 覀 (two hands on human waist) + 女 (woman) | 要 (yào) | 9 | 上下结构 | Original pictograph of hands resting on a woman's waist 女; waist being the vital pivot of the body, extended to vital necessity. | Hands embrace the waist (覀) of a figure (女), holding the vital core of need (要). | Manos que sujetan la cintura (覀) femenina (女) destacando el eje vital indispensable (要). | 51 | MWV | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Decisive absolute certainty (必) paired with the vital waist pivot (要) makes something indispensable (必要).
+  composite_memory_hook_es: Certeza ineludible (必) y eje vital indispensable (要) conforman lo necesario (必要).
+  cultural_and_cognitive_roots: Philosophical logic pairing: 必 (categorical imperative) + 要 (vital pivot), widely used in logic (必要条件 vs. 充分条件).
+  tone_sandhi_and_pitch_modulation: Double falling fourth tones: 'bì yào' (51-51). Descend sharply on 'bì', then strike down firmly on 'yào'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    心 | xīn | heart; mind | Lacks the long slash crossing stroke of 必
+    毖 | bì | careful; caution | Consists of two 必 side by side
+    耍 | shuǎ | play; juggle | Has 而 atop 女 instead of 覀 in 要
+    妥 | tuǒ | proper; settled | Has 爪 atop 女
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    需 | xū | rain on beard; need
+    须 | xū | must; beard hairs
+    重 | zhòng | heavy burden; important
+    切 | qiè | cut close; urgent
+
+semantic_boundary_contrasts:
+  core_nuance: 必要 emphasizes that a condition, action, or tool is indispensable and cannot be dispensed with.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 必要 vs. 重要 | zhòngyào | 重要 describes high value, significance, or weight ('重要会议'), while 必要 emphasizes that an action is strictly mandatory or prerequisite ('有必要进行核实').
+    2 | 必要 vs. 必须 | bìxū | 必须 is an adverb/auxiliary verb meaning 'must / have to' modifying verbs ('必须按时到达'), while 必要 is an adjective ('必要的步骤').
+    3 | 必要 vs. 需要 | xūyào | 需要 functions as a common verb meaning 'to need / demand' ('需要帮助'), while 必要 is descriptive.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代企业治理中，定期的财务审计是防范经营风险的必要手段。独立审计机构通过核查账目流水、盘点资产负债，能够及时发现管理漏洞与合规隐患，为企业稳健长远发展筑牢不可或缺的制度屏障。 | Zài xiàndài qǐyè zhìlǐ zhōng, dìngqī de cáiwù shěnjì shì fángfàn jīngyíng fēngxiǎn de bìyào shǒuduàn. Dúlì shěnjì jīgòu tōngguò héchá zhàngmù liúshuǐ, pándiǎn zīchǎn-fùzhài, nénggòu jíshí fāxiàn guǎnlǐ lòudòng yǔ hégūi yǐnhuàn, wèi qǐyè wěnjiàn chángyuǎn fāzhǎn zhùláo bùkě-huòquē de zhìdù píngzhàng. | In corporate governance, periodic financial audits are necessary tools to avert operational risks. Independent auditors verify balances to plug compliance loopholes, fortifying institutional barriers. | En la gestión corporativa, las auditorías financieras periódicas son un resorte necesario contra riesgos. Auditores independientes cotejan balances subsanando lagunas y afianzando la solvencia empresarial.
+  #2 | 人际交往中，保持适当的心理边界是维护健康友谊的必要前提。即使再要好的知己朋友，也应当相互尊重彼此的私人空间与独立选择，不横加干涉。唯有保持这种有分寸的默契，友谊之花才能长盛不衰。 | Rénjì jiāowǎng zhōng, bǎochí shìdàng de xīnlǐ biānjiè shì wéihù jiànkāng yǒuyì de bìyào qiántí. Jíshǐ zài yàohǎo de zhījǐ péngyou, yě yīngdāng xiānghù zūnzhòng bǐcǐ de sīrén kōngjiān yǔ dúlì xuǎnzé, bù héngjiā gānshè. Wéiyǒu bǎochí zhè zhǒng yǒu fēncùn de mòqì, yǒuyì zhī huā cáinéng chángshèng-bùshuāi. | In interpersonal relations, healthy boundaries are a necessary prerequisite. Even the closest friends should respect private space and choices without meddling, allowing true friendship to flourish. | En el trato humano, delimitar el espacio personal es premisa necesaria para una amistad sana. Incluso íntimos camaradas deben respetar la intimidad ajena sin entrometerse para que florezca el aprecio mutuo.

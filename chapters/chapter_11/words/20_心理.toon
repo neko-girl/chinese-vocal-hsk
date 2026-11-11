@@ -1,0 +1,63 @@
+id: 20
+hanzi: 心理
+pinyin: xīn lǐ
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: psychology; mentality; mindset; psychological
+  es: psicología; mentalidad; psique; psicológico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the mental and emotional states, cognitive processes, or subjective mindset of an individual or group | conjunto de procesos anímicos, cognitivos y afectivos que configuran la mente de un individuo o colectivo | 心理健康 (mental health)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对重重学业考核与升学压力，学校设立了专门的心理咨询辅导室帮助学生排解心理焦虑。 | Miànduì chóngchóng xuéyè kǎohé yǔ shēngxué yālì, xuéxiào shèlì le zhuānmén de xīnlǐ zīxún fǔdǎoshì bāngzhù xuésheng páijiě xīnlǐ jiāolǜ. | Facing mounting academic exams and admission pressures, the school established a dedicated psychological counseling room to help students dispel anxiety. | Ante la presión de los exámenes y el ingreso escolar, el colegio habilitó un gabinete de orientación psicológica para canalizar la ansiedad del alumnado.
+  #2 | 资深谈判专家敏锐地洞察到了对方买家急于求成的焦躁心理，因势利导掌握了定价的主动权。 | Zīshēn tánpàn zhuānjiā mǐnruì de dòngchá dào le duìfāng mǎijiā jíyú-qiúchéng de jiāozào xīnlǐ, yīnshì-lìdǎo zhǎngwò le dìngjià de zhǔdòngquán. | The veteran negotiator keenly discerned the buyer's impatient psychology to close the deal, seizing the upper hand in pricing discussions. | El avezado negociador caló la impaciente psicología del comprador por cerrar el trato, tomando la iniciativa en las condiciones de precio.
+
+collocations[6]{hanzi,en}:
+  心理健康 | mental health; psychological wellbeing
+  心理医生 | psychiatrist; psychotherapist
+  心理压力 | psychological stress/pressure
+  心理状态 | psychological state / mindset
+  心理学 | psychology (discipline)
+  心理准备 | psychological readiness/preparation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  心照不宣 | xīn zhào bù xuān | understand each other tacitly without a word spoken
+  心满意足 | xīn mǎn yì zú | fully satisfied and contented in heart
+  居安思危 | jū ān sī wēi | in peace prepare for danger; mental vigilance
+  忐忑不安 | tǎn tè bù ān | fidgety and restless; uneasy in mind
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  心 | xīn | heart; mind; center; core | corazón; mente; centro; núcleo | 心 | heart | 心 (anatomical heart with pericardium chambers) | 心 (xīn) | 4 | 单一结构 | Oracle bone pictograph of the human heart, depicting the muscular chambers and aorta; the seat of thoughts and feelings in ancient epistemology. | The human heart (心) beats with chambers pumping blood and cradling feelings. | El corazón (心) con sus ventrículos bombea sangre cobijando pensamientos y emociones. | 55 | P | ""
+  理 | lǐ | reason; logic; veins in jade; manage; principle | razón; lógica; vetas del jade; gestionar; principio | 王 | jade | 王 (fine jade stone) + 里 (orderly village grid lines) | 里 (lǐ, village / phonetic) | 11 | 左右结构 | Carving jade 王 along its natural internal grain and veins 里; signifies intrinsic principles, logic, reason, and orderly management. | A master carves jade (王) following its natural inner vein lines (里) with logic and reason (理). | El tallista pule el jade (王) siguiendo sus vetas naturales (里) con destreza y razón (理). | 214 | MGWG | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The internal veins and rational principles (理) governing the human heart and mind (心) make up psychology (心理).
+  composite_memory_hook_es: Las vetas y principios lógicos (理) que rigen el corazón y la mente (心) componen la psicología (心理).
+  cultural_and_cognitive_roots: Song-Ming Neo-Confucian philosophy (心学与理学: Wang Yangming and Zhu Xi debates on 心 vs. 理); modern science fused them to translate Western psychology (心理学).
+  tone_sandhi_and_pitch_modulation: Level high tone followed by dipping third tone: 'xīn lǐ' (55-214). Maintain steady high pitch 55 on 'xīn', then dip down and rebound on 'lǐ'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    必 | bì | must; surely | Has long slash stroke crossing through 心
+    息 | xī | breath; rest | Has 自 atop 心
+    埋 | mái | bury | Has earth radical 土 on left of 里 instead of jade 王 in 理
+    野 | yě | wild; field | Has 里 on left of 予
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    性 | xìng | human nature; character
+    情 | qíng | emotion; sentiment
+    念 | niàn | mindful thought; memory
+    志 | zhì | ambition; intent of heart
+
+semantic_boundary_contrasts:
+  core_nuance: 心理 encompasses the inner subjective emotional states, attitudes, and cognitive processes of individuals or groups.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 心理 vs. 生理 | shēnglǐ | 生理 pertains to biological, anatomical bodily functions (hormones, digestion, heartbeat), while 心理 pertains to mental, cognitive, and emotional processes.
+    2 | 心理 vs. 心态 | xīntài | 心态 specifically designates psychological attitude or emotional outlook ('保持平稳心态'), while 心理 covers the entire academic discipline and mental structure.
+    3 | 心理 vs. 思想 | sīxiǎng | 思想 refers to political, philosophical, or ideological systems of belief ('哲学思想'), whereas 心理 refers to affective emotional states.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代竞争激烈的体育赛场上，顶尖运动员之间的技术差距往往微乎其微，最终决定胜负走向的关键往往在于心理素质的较量。面对逆境时能否顶住心理压力、保持沉着冷静，往往直接决定了冠军金牌的归属。 | Zài xiàndài jìngzhēng jīliè de tǐyù sàichǎng shàng, dǐngjiān yùndòngyuán zhījiān de jìshù chājù wǎngwǎng wēihūqíwēi, zuìzhōng juédìng shèngfù zǒuxiàng de guānjiàn wǎngwǎng zàiyú xīnlǐ sùzhì de jiàoliàng. Miànduì nìjìng shí néngfǒu dǐngzhù xīnlǐ yālì, bǎochí chénzhuó lěngjìng, wǎngwǎng zhíjiē juédìng le guànjūn jīnpái de guīshǔ. | In elite athletic competitions, technical gaps between champions are minuscule; victory is decided by psychological fortitude. Withstanding mental pressure in adversity and keeping cool determines gold medalists. | En la alta competición atlética, las diferencias técnicas son mínimas; el triunfo se decide en la solidez psicológica. Resistir la presión anímica en la adversidad con aplomo es lo que corona a los campeones.
+  #2 | 关注青少年心理健康已成为全社会的共识。家庭与学校应当摒弃“唯成绩论”的片面观念，营造包容温润的成长氛围，引导孩子正确看待挫折与失败。当孩子遭遇心理困惑时，多倾听、多肯定，筑牢守护心灵的阳光港湾。 | Guānzhù qīng-shàonián xīnlǐ jiànkāng yǐ chéngwéi quán shèhuì de gòngshí. Jiātíng yǔ xuéxiào yīngdāng bǐngqì 'wéi chéngjì lùn' de piànmiàn guānniàn, yíngzào bāoróng wēnrùn de chéngzhǎng fēnwéi, yǐndǎo háizi zhèngquè kàndài cuòzhé yǔ shībài. Dāng háizi zāoyù xīnlǐ kùnhuò shí, duō qīngtīng, duō kěndìng, zhùláo shǒuhù xīnlíng de yángguāng gǎngwān. | Attending to adolescent mental health is a societal consensus. Families and schools should abandon grading-only biases, building nurturing environments. Listening and encouraging children facing dilemmas builds a haven for their souls. | Atender la salud mental de la juventud es un deber social unánime. Hogares y escuelas deben desterrar el culto exclusivo a las notas, acogiendo con empatía para que los jóvenes encajen tropiezos y crezcan con ilusión.

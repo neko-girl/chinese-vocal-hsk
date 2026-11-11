@@ -1,0 +1,63 @@
+id: 4
+hanzi: 机制
+pinyin: jī zhì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: mechanism; internal workings; operating structure
+  es: mecanismo; engranaje interno; funcionamiento orgánico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the structural parts and interworking processes of a biological organism, machine, or social institution | estructura, funcionamiento o conjunto de procesos coordinados de un organismo, máquina o sistema social | 工作机制 / 防御机制 (working mechanism / defense mechanism)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 诺贝尔生理学或医学奖得主成功阐明了控制人体生物钟昼夜节律的分子运转机制。 | Nuòbèi'ěr shēnglǐxué huò yīxuéjiǎng dézhǔ chénggōng chǎnmíng le kòngzhì réntǐ shēngwùzhōng zhòuyè jiélǜ de fēnzǐ yùnzhuǎn jīzhì. | Nobel laureates in Physiology or Medicine successfully elucidated the molecular operating mechanism controlling the human circadian clock. | Los laureados con el Nobel de Medicina desentrañaron el mecanismo molecular que regula el ritmo circadiano del reloj biológico humano.
+  #2 | 为了有效遏制市场垄断行为，监管部门迅速建立起了跨部门联合执法的常态化工作机制。 | Wèile yǒuxiào èzhì shìchǎng lǒngduàn xíngwéi, jiānguǎn bùmén xùnsù jiànlì qǐ le kuà-bùmén liánhé zhífǎ de chángtàihuà gōngzuò jīzhì. | To curb market monopolistic behavior, regulators rapidly instituted a normalized inter-departmental joint enforcement mechanism. | Para frenar prácticas monopolísticas, las autoridades supervisoras establecieron un mecanismo interdepartamental permanente de inspección conjunta.
+
+collocations[6]{hanzi,en}:
+  长效机制 | long-term mechanism
+  运行机制 | operating/functioning mechanism
+  激励机制 | incentive mechanism
+  防御机制 | defense mechanism
+  形成机制 | formation mechanism
+  调解机制 | mediation mechanism
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  环环相扣 | huán huán xiāng kòu | interlinked closely like rings of a chain; tightly linked
+  相辅相成 | xiāng fǔ xiāng chéng | complement and reinforce each other
+  自圆其说 | zì yuán qí shuō | make one's statement consistent and plausible
+  因势利导 | yīn shì lì dǎo | guide action according to circumstances
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  机 | jī | machine; mechanism; trigger; opportunity | máquina; mecanismo; disparador; ocasión | 木 | wood | 木 (wooden loom/crossbow mechanism) + 几 (small table / trigger) | 几 (jī, small table / phonetic) | 6 | 左右结构 | A wooden loom or the trigger mechanism 几 of a wooden crossbow 木; represents triggers and machinery. | Wooden components (木) and sensitive triggers (几) spring into coordinated machine motion (机). | Piezas de madera (木) y un gatillo sensible (几) se ensamblan en un mecanismo coordinado (机). | 55 | DHN | 機
+  制 | zhì | system; make; formulate; control; restrict | sistema; elaborar; formular; controlar | 刂 | knife | 刂 (knife cutting to pattern) + 未/制 (tree branches shaped) | 制 (zhì) | 8 | 左右结构 | A knife 刂 pruning overgrown tree branches to follow regular form; signifies rules, systems, and manufacturing. | A sharp knife (刂) trims wild branches into orderly, regulated shape (制). | Un cuchillo afilado (刂) poda ramas desordenadas imponiendo un patrón regulado (制). | 51 | HBLN | 製
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A machine trigger (机) functioning under regulated rules (制) constitutes a mechanism (机制).
+  composite_memory_hook_es: Un disparador mecánico (机) que actúa bajo una pauta regulada (制) integra un mecanismo (机制).
+  cultural_and_cognitive_roots: Scientific calque translating 'mechanism' (mechanics of machinery) into biological physiology (生理机制) and administrative governance.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'jī zhì' (55-51). Hold high pitch 55 on 'jī', then descend firmly on 'zhì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    饥 | jī | hungry; famine | Has food radical 饣 on left instead of wood 木 in 机
+    肌 | jī | muscle; flesh | Has flesh radical 月 on left
+    到 | dào | arrive; reach | Has 至 on left of 刂 instead of 制's left side
+    刷 | shuā | brush; swipe | Has 尸 on left of 刂
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    体 | tǐ | body; structural system
+    理 | lǐ | jade veins; principle
+    度 | dù | measure; degree; system
+    构 | gòu | construct; frame of timbers
+
+semantic_boundary_contrasts:
+  core_nuance: 机制 designates the dynamic internal processes and interrelationships causing an organism, engine, or policy to function.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 机制 vs. 体制 | tǐzhì | 体制 refers to macroscopic static state structures and political/economic governance frameworks ('政治体制'), while 机制 refers to active operational processes.
+    2 | 机制 vs. 制度 | zhìdù | 制度 refers to written statutory rules, codes of conduct, or laws ('规章制度'), while 机制 is how components interact in practice.
+    3 | 机制 vs. 器官 | qìguān | 器官 is an anatomical bodily organ (heart, lungs), while 机制 is the physiological process coordinating those organs.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 人体免疫机制是一道精密神奇的生理防线。当外界病毒侵入机体时，免疫细胞会迅速启动识别机制，分工协作产生抗体将病原体围剿消灭，同时建立免疫记忆机制，为下一次抵御同类病菌打下坚实屏障。 | Réntǐ miǎnyì jīzhì shì yí dào jīngmì shénqí de shēnglǐ fángxiàn. Dāng wàijiè bìngdú qīnrù jītǐ shí, miǎnyì xìbāo huì xùnsù qǐdòng shíbié jīzhì, fēngōng-xiézuò chǎnshēng kàngtǐ jiāng bìngyuántǐ wéijiǎo xiāomiè, tóngshí jiànlì miǎnyì jìyì jīzhì, wèi xià yí cì dǐyù tónglèi bìngjūn dǎxià jiānshí píngzhàng. | The human immune mechanism is an intricate biological defense line. Upon viral invasion, immune cells trigger recognition mechanisms, cooperating to generate antibodies and establish memory. | El sistema inmunológico humano es un portentoso mecanismo de defensa. Ante virus invasores activa sensores celulares coordinando anticuerpos y fijando memorias que blindan futuras infecciones.
+  #2 | 推进现代高新技术成果转化，亟须打破科研院所与企业之间的壁垒，构建起产学研深度融合的利益共享机制。唯有完善科技成果评估体系与收益分配激励机制，才能充分调动科研人员创新创业的内生动力与澎湃活力。 | Tuījìn xiàndài gāoxīnjìshù chéngguǒ zhuǎnhuà, jíxū dǎpò kēyán yuànsuǒ yǔ qǐyè zhījiān de bìlěi, gòujiàn qǐ chǎn-xué-yán shēndù rónghé de lìyì gòngxiǎng jīzhì. Wéiyǒu wánshàn kējì chéngguǒ pínggū tǐxì yǔ shòuyì fēnpèi jīlì jīzhì, cáinéng chōngfèn diàodòng kēyán rényuán chuàngxīn-chuàngyè de nèishēng dònglì yǔ péngpài huólì. | Translating high-tech achievements demands breaking barriers between institutes and enterprises to build profit-sharing mechanisms. Reforming incentives stimulates researchers' innovation vitality. | Para transferir tecnología punta urge tender puentes entre academias y empresas creando mecanismos de beneficio mutuo. Recompensar el mérito investigador desata el dinamismo emprendedor.

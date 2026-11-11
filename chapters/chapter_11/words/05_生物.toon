@@ -1,0 +1,64 @@
+id: 5
+hanzi: 生物
+pinyin: shēng wù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: living organism; living creature; biology
+  es: ser vivo; organismo vivo; criatura; biología
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | living beings having vitality, growth, metabolism, and reproduction (animals, plants, microbes) | ser que posee vida, capaz de nutrirse, crecer y reproducirse (animales, plantas, microorganismos) | 海洋生物 (marine organisms)
+  2 | Noun | Standard | the academic subject or science of biology | la asignatura académica o ciencia de la biología | 生物课 (biology class)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 热带雨林是地球上生物多样性最为丰富的宝库，栖息着数百万种未被人类发现的奇异生物。 | Rèdài yǔlín shì Dìqiú shàng shēngwù duōyàngxìng zuìwéi fēngfù de bǎokù, qīxī zhe shùbǎiwàn zhǒng wèibèi rénlèi fāxiàn de qíyì shēngwù. | Tropical rainforests are Earth's richest treasure troves of biodiversity, harboring millions of exotic living species undiscovered by humans. | La selva tropical es el tesoro de mayor biodiversidad del planeta, albergando millones de singulares seres vivos aún ignotos para la ciencia.
+  #2 | 高三年级的生物老师通过生动形象的三维模型动画，深入浅出地讲解了细胞分裂过程。 | Gāosān niánjí de shēngwù lǎoshī tōngguò shēngdòng-xíngxiàng de sānwéi móxíng dònghuà, shēnrù-qiǎnchū de jiǎngjiě le xìbāo fēnliè guòchéng. | The high school senior biology teacher used vivid 3D animation models to explain the cell division process with remarkable clarity. | El profesor de biología de bachillerato explicó el proceso de mitosis celular con diáfana sencillez mediante animaciones 3D.
+
+collocations[6]{hanzi,en}:
+  生物多样性 | biodiversity
+  生物钟 | biological clock; circadian rhythm
+  海洋生物 | marine life / organisms
+  微生物 | microorganism; microbe
+  生物工程 | bioengineering; biotechnology
+  水生生物 | aquatic organisms
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  万物复苏 | wàn wù fù sū | all living things revive and return to life in spring
+  生机勃勃 | shēng jī bó bó | brimming with vitality; flourishing and vigorous
+  生生不息 | shēng shēng bù xī | endless generation and ceaseless cycle of life
+  芸芸众生 | yún yún zhòng shēng | all living mortals; the teeming masses of beings
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  生 | shēng | life; give birth; grow; raw; fresh | vida; nacer; brotar; crudo; vivo | 生 | life / birth | 土 (fertile soil) + 屮 (young sprout budding upward) | 生 (shēng) | 5 | 单一结构 | Oracle bone pictograph of a green seedling 屮 sprouting out from the fertile earth 土; represents life, growth, and birth. | A tender shoot sprouts up from fertile soil, bursting with fresh life (生). | Un brote verde brota pujante de la tierra fértil rebosando nueva vida (生). | 55 | HQM | ""
+  物 | wù | thing; object; matter; creature | cosa; objeto; materia; criatura | 牜 | cow / ox | 牜 (spotted cattle) + 勿 (multicolored flags / diverse things) | 勿 (wù, do not / phonetic) | 8 | 左右结构 | Cattle radical 牜 paired with multicolored banners 勿; sorting speckled domestic cattle, generalizing to all worldly objects and creatures. | An ox (牜) plows fields amidst diverse colored banners (勿), classifying things (物). | Un buey (牜) pasta entre banderas multicolores (勿) que clasifican los seres y cosas (物). | 51 | HQPHI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Living, growing entities (生) among the physical things of the world (物) constitute organisms (生物).
+  composite_memory_hook_es: Entidades que gozan de vida y crecimiento (生) entre las materias del orbe (物) son los seres vivos (生物).
+  cultural_and_cognitive_roots: Classical philosophy (万物: myriad entities); in modern science, 生物 translates both biological organisms and academic biology.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'shēng wù' (55-51). Hold high pitch 55 on 'shēng', then drop decisively on 'wù'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    牛 | niú | cow; bull | Vertical stroke crosses top stroke, unlike 生
+    午 | wǔ | noon; 7th earthly branch | Has two horizontal strokes
+    特 | tè | special | Has 寺 on right of 牜 instead of 勿 in 物
+    牧 | mù | herd; pasture | Has tap radical 攵 on right of 牜
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    植 | zhí | plant; upright tree
+    兽 | shòu | beast; four-footed mammal
+    命 | mìng | life span; command
+    禽 | qín | birds; feathered fowl
+
+semantic_boundary_contrasts:
+  core_nuance: 生物 is the comprehensive biological term for all living organisms possessing cellular metabolism.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 生物 vs. 动物 | dòngwù | 动物 is a subset of 生物 specifically designating motile animals, whereas 生物 includes plants, fungi, and bacteria.
+    2 | 生物 vs. 植物 | zhíwù | 植物 specifically designates photosynthesizing flora, which is only one branch of 生物.
+    3 | 生物 vs. 活物 | huówù | 活物 is a folksy colloquial term for live animals ('笼子里有活物'), while 生物 is rigorous and academic.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在漆黑冰冷的万米深海马里亚纳海沟底部，承受着常人难以想象的超高水压。然而科学家们惊喜地发现，这里并非生命的荒漠，许多特化的深海发光生物依靠地热喷口附近的化学能量生生不息，展现了生命极致的适应力。 | Zài qīhēi bīnglěng de wànmǐ shēnhǎi Mǎlǐyànà Hǎigōu dǐbù, chéngshòu zhe chángrén nányǐ xiǎngxiàng de chāogāo shuǐyā. Rán'ér kēxuéjiāmen jīngxǐ de fāxiàn, zhèlǐ bìngfēi shēngmìng de huāngmò, xǔduō tèhuà de shēnhǎi fāguāng shēngwù yīkào dìrè pēnkǒu fùjìn de huàxué néngliàng shēngshēng-bùxī, zhǎnxiàn le shēngmìng jízhì de shìyìnglì. | At the freezing bottom of the Mariana Trench, high hydrostatic pressures reign. Yet scientists discovered it is no desert; bioluminescent organisms thrive near hydrothermal vents, proving life's resilience. | En la sima de las Marianas reina una presión titánica. Empero, los oceanógrafos hallaron que no es un erial; seres bioluminiscentes prosperan junto a fumarolas térmicas revelando la tenacidad de la vida.
+  #2 | 保护生物多样性就是保护人类自身的未来。每一种生物都是漫长演化历史中不可复制的宝贵基因库，一旦灭绝便永远无法挽回。建立国家公园体制、严格划定生态保护红线，正是为了给野生动植物留下充足繁衍生息的乐土。 | Bǎohù shēngwù duōyàngxìng jiùshì bǎohù rénlèi zìshēn de wèilái. Měi yì zhǒng shēngwù dōu shì màncháng yǎnhuà lìshǐ zhōng bùkě fùzhì de bǎoguì jīyīnkù, yídàn mièjué biàn yǒngyuǎn wúfǎ wǎnhuí. Jiànlì guójiā gōngyuán tǐzhì, yángé huàdìng shēngtài bǎohù hóngxiàn, zhèngshì wèile gěi yěshēng dòng-zhíwù liúxià chōngzú fányǎn-shēngxī de lètǔ. | Protecting biodiversity is safeguarding humanity's future. Every species is an irreplaceable genetic library; once extinct, it is lost forever. National park systems preserve habitats for wildlife to multiply. | Preservar la biodiversidad es blindar el porvenir humano. Cada organismo es un banco genético irrepetible cuya extinción es irreparable. La red de parques nacionales brinda a la fauna y flora un edén seguro.

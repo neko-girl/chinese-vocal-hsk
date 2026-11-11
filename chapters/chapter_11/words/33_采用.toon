@@ -1,0 +1,63 @@
+id: 33
+hanzi: 采用
+pinyin: cǎi yòng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to adopt; employ; apply; introduce (a method, policy, or technology)
+  es: adoptar; emplear; utilizar; aplicar (métodos, criterios o tecnologías)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to select and implement or put to use a specific technique, proposal, material, or approach after evaluation | escoger y poner en práctica una determinada técnica, propuesta, material o política tras evaluar su idoneidad | 采用新技术 (adopt new technology)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了减小对心脏的突发惊吓，很多上班族开始采用模拟日出的光线渐亮闹钟来代替刺耳的铃声。 | Wèile jiǎnxiǎo duì xīnzàng de tūfā jīngxià, hěnduō shàngbānzú kāishǐ cǎiyòng mónǐ rìchū de guāngxiàn jiànliàng nàozhōng lái dàitì cì'ěr de língshēng. | To lessen sudden fright to the heart, many commuters have begun adopting sunrise-simulating light-gradual alarms instead of harsh bells. | Para mitigar sobresaltos al corazón, muchos oficinistas comenzaron a adoptar alarmas que simulan el amanecer en vez de timbres estridentes.
+  #2 | 这家环保企业在生产过程中大胆采用可降解材料，极大降低了工业废弃物对自然环境的污染。 | Zhè jiā huánbǎo qǐyè zài shēngchǎn guòchéng zhōng dàdǎn cǎiyòng kějiàngjiě cáiliào, jídà jiàngdīle gōngyè fèiqìwù duì zìrán huánjìng de wūrǎn. | This eco-friendly enterprise boldly adopted biodegradable materials during production, tremendously reducing industrial waste pollution. | Esta empresa ecológica adoptó resueltamente materiales biodegradables en su producción, reduciendo con creces los residuos contaminantes.
+
+collocations[6]{hanzi,en}:
+  采用方法 | adopt a method
+  采用技术 | apply / employ technology
+  采用标准 | adopt a standard
+  采用建议 | adopt a recommendation / suggestion
+  广泛采用 | widely adopt / employ extensively
+  决定采用 | decide to adopt
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  采长补短 | cǎi cháng bǔ duǎn | adopt others' strengths to make up for one's shortcomings
+  兼收并蓄 | jiān shōu bìng xù | absorb and assimilate broadly; embrace everything
+  物尽其用 | wù jìn qí yòng | make the best and fullest use of all materials
+  博采众长 | bó cǎi zhòng cháng | gather and adopt strengths from many sources
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  采 | cǎi | pick; pluck; collect; choose | recoger; recolectar; seleccionar; escoger | 爫 | claw / hand grasping from above | 爫 (hand reaching down) + 木 (tree branch / fruits) | Pictographic pluck | 8 | 上下结构 | A hand 爫 reaching down to pluck ripe fruit or leaves from a tree 木; picking out and selecting the best. | A hand reaching from above (爫) plucks select ripe fruits from a tree (木) to gather (采). | Una mano descendente (爫) recolecta fruta madura del árbol (木) para escoger lo mejor (采). | 214 | BD | ""
+  用 | yòng | use; employ; apply; consume | usar; emplear; aplicar; utilizar | 用 | use | Depiction of a divinatory turtle shell pierced with strokes, ready to be utilized in ritual | Self-phonetic yòng | 5 | 单一结构 | Pictograph of an implement, vessel, or oracle bone being put to active operational use. | A framed tool bucket ready in hand to be put to active functional use (用). | Una herramienta encuadrada dispuesta para prestar servicio y utilidad inmediata (用). | 51 | BQI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Selectively plucking the best method (采) and putting it into active practice (用) is adopting it (采用).
+  composite_memory_hook_es: Recolectar y elegir la opción idónea (采) para darle uso práctico (用) es adoptar o aplicar (采用).
+  cultural_and_cognitive_roots: Derived from classical governance and agronomy: selecting (采) proven folk techniques and deploying (用) them across the realm.
+  tone_sandhi_and_pitch_modulation: Third tone followed by fourth tone: 'cǎi yòng' (214-51). Dip low with 214 then drop sharply with 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    彩 | cǎi | color; prize; splendor | Has hair/pattern radical 彡 on right of 采
+    踩 | cǎi | step on; trample | Has foot radical 足 on left of 采
+    甩 | shuǎi | swing; fling | Bottom stroke bends rightwards like a flicking tail, unlike 用
+    角 | jiǎo | horn; corner | Has knife-like top slant, unlike squared top of 用
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    选 | xuǎn | choose; select
+    取 | qǔ | take; seize
+    使 | shǐ | use; deploy
+    行 | xíng | put into action
+
+semantic_boundary_contrasts:
+  core_nuance: 采用 implies selecting a policy, measure, method, standard, or material among alternatives and putting it into implementation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 采用 vs. 使用 | shǐyòng | 使用 is generic for operating or using any physical tool, phone, or money ('使用工具'), while 采用 focuses on adopting strategic methods, models, or materials.
+    2 | 采用 vs. 采取 | cǎiqǔ | 采取 collocates primarily with abstract actions, stances, or measures ('采取行动', '采取态度'), whereas 采用 emphasizes concrete systems, techniques, or inputs.
+    3 | 采用 vs. 采纳 | cǎinà | 采纳 specifically means accepting verbal advice, opinions, or proposals from other people ('采纳建议'), whereas 采用 applies to designs and methods.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代智能制造领域，许多工厂纷纷采用全自动机器人流水线来替代繁重的高危人工岗位。这不仅大幅提升了装配精度与产能，还有效避免了工伤事故的发生，为企业带来了显著的竞争优势。 | Zài xiàndài zhìnéng zhìzào lǐngyù, xǔduō gōngchǎng fēnfēn cǎiyòng quánzìdòng jīqìrén liúshuǐxiàn lái tìdài fánzhòng de gāowēi réngōng gǎngwèi. Zhè bùjǐn dàfú tíshēngle zhuāngpèi jīngdù yǔ chǎnnéng, hái yǒuxiào bìmiǎnle gōngshāng shìgù de fāshēng, wèi qǐyè dàiláile xiǎnzhù de jìngzhēng yōushì. | In intelligent manufacturing, many factories have adopted fully automated robotic assembly lines to replace hazardous manual posts. This not only elevates precision and capacity but also averts workplace injuries, yielding competitive edge. | En la fabricación inteligente, múltiples fábricas han adoptado líneas automatizadas de robots en sustitución de labores peligrosas. Ello no solo mejora la precisión y la producción, sino que evita percances laborales, generando ventajas competitivas.
+  #2 | 为了应对全球气候变暖带来的挑战，国际建筑行业正积极采用新型隔热节能材料与自然通风系统。这种绿色低碳设计不仅降低了建筑物夏季制冷的电能消耗，还创造出宜居舒适的室内小气候，深受崇尚环保的现代居民青睐。 | Wèile yìngduì quánqiú qìhòu biànnuǎn dàilái de tiǎozhàn, guójì jiànzhù hángyè zhèng jījí cǎiyòng xīnxíng gérè jiénéng cáiliào yǔ zìrán tōngfēng xìtǒng. Zhèzhǒng lǜsè dītàn shèjì bùjǐn jiàngdīle jiànzhùwù xiàjì zhìlěng de diànnéng xiāohào, hái chuàngzào chū yíjū shūshì de shìnèi xiǎoqìhòu, shēnshòu chóngshàng huánbǎo de xiàndài jūmín qīnglài. | To combat global warming challenges, international architects actively adopt novel thermal insulation materials and natural ventilation. Such eco-designs decrease cooling power consumption while creating comfortable indoor microclimates favored by residents. | Ante el reto del calentamiento global, la arquitectura internacional adopta nuevos materiales aislantes y ventilación natural. Estos diseños ecológicos reducen el consumo eléctrico de refrigeración y crean microclimas confortables muy valorados por ciudadanos concienciados.

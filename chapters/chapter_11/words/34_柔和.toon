@@ -1,0 +1,63 @@
+id: 34
+hanzi: 柔和
+pinyin: róu hé
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: gentle; soft; mild; mellow; soothing (light, voice, tone, texture)
+  es: suave; blando; apacible; tenue; meloso (luz, voz, tono, textura)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | gentle, mild, and pleasing to the senses without sharpness or glare (of light, color, sound, texture, or temperament) | suave, tenue, templado o agradable a los sentidos sin estridencias (dícese de luz, voz, color o carácter) | 柔和的光线 (gentle / diffused light)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨柔和的阳光透过薄窗帘洒在床头，唤醒了沉睡中的身体，让人感到格外舒服惬意。 | Qīngchén róuhé de yángguāng tòuguò báo chuānglián sǎ zài chuángtóu, huànxǐngle chénshuì zhōng de shēntǐ, ràng rén gǎndào géwài shūfu qièyì. | Gentle morning sunlight filtered through the thin curtains onto the bedside, gently awakening the sleeping body and making one feel exceptionally cozy. | La tenue luz matinal atravesó el fino visillo sobre la cabecera despertando el cuerpo dormido con una sensación sumamente apacible.
+  #2 | 心理咨询师用柔和而平缓的语调与来访者交谈，帮助他们逐渐放松紧绷的神经。 | Xīnlǐ zīxúnshī yòng róuhé ér pínghuǎn de yǔdiào yǔ láifǎngzhě jiāotán, bāngzhù tāmen zhújiàn fàngsōng jǐnbēng de shénjīng. | The counselor spoke in a gentle and soothing tone with the visitor, helping them gradually relax their tense nerves. | El terapeuta conversó con el visitante en un tono suave y sosegado, ayudándole a relajar paso a paso sus tensos nervios.
+
+collocations[6]{hanzi,en}:
+  柔和的光线 | soft / gentle light
+  声音柔和 | gentle voice / mellow sound
+  色调柔和 | subdued / soft hues
+  目光柔和 | gentle gaze / kind eyes
+  触感柔和 | soft to the touch
+  柔和的音乐 | gentle / soothing music
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  以柔克刚 | yǐ róu kè gāng | overcome hardness with softness; subdue brute force by gentle means
+  和风细雨 | hé fēng xì yǔ | gentle breeze and mild rain; patient persuasion
+  心平气和 | xīn píng qì hé | tranquil mind and even temper; calm and good-humored
+  温柔体贴 | wēn róu tǐ tiē | gentle, considerate, and deeply tender
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  柔 | róu | soft; pliable; flexible; gentle | blando; flexible; maleable; suave | 木 | wood / tree | 矛 (spear handle bent pliantly) + 木 (pliant tree twig) | 矛 (máo / archaic flex) | 9 | 上下结构 | A supple tree branch 木 pliable enough to bend without snapping; flexibility and tender softness. | A slender wooden branch (木) bending gracefully like a spear shaft (矛) displays softness (柔). | La rama tierna del árbol (木) que se comba dócil como asta elástica (矛) personifica la suavidad (柔). | 35 | NHD | ""
+  和 | hé | harmonious; calm; gentle; peace; and | armonioso; apacible; templado; paz; y | 口 | mouth | 禾 (grain stalks) + 口 (mouth singing or sharing grain) | 禾 (hé, grain / phonetic harmony) | 8 | 左右结构 | Mouth 口 fed harmoniously with seasonal grain 禾; symbolizes peaceful consensus, balance, and mild harmony. | Stalks of ripe grain (禾) nourishing every hungry mouth (口) cultivate peaceful harmony (和). | Las espigas de trigo (禾) que colman la boca (口) engendran sosiego, calidez y armonía (和). | 35 | HDR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pliant bending softness (柔) paired with balanced soothing harmony (和) yields gentle soothing comfort (柔和).
+  composite_memory_hook_es: La elasticidad blanda (柔) hermanada con la melodiosa armonía (和) da lugar a una textura o luz apacible y suave (柔和).
+  cultural_and_cognitive_roots: Daoist aesthetic principle: softness (柔) endures while brittleness breaks; harmonious moderation (中和) creates timeless elegance.
+  tone_sandhi_and_pitch_modulation: Two rising second tones: 'róu hé' (35-35). Rise cleanly across both syllables smoothly.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    揉 | róu | rub; knead | Has hand radical 扌 on left of 柔
+    桑 | sāng | mulberry tree | Has three hands 又 over 木, lacking spear 矛
+    私 | sī | private; selfish | Has 厶 on right of 禾 instead of 口 in 和
+    利 | lì | sharp; profit | Has knife radical 刂 on right of 禾
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    温 | wēn | warm; mild
+    软 | ruǎn | soft; pliable
+    缓 | huǎn | gentle; slow
+    顺 | shùn | smooth; compliant
+
+semantic_boundary_contrasts:
+  core_nuance: 柔和 describes sensory qualities (lighting, vocal tone, color, melody) or dispositions that are mellow, non-glaring, and gently pleasing.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 柔和 vs. 柔软 | róuruǎn | 柔软 specifically describes physical, tactile flexibility and plush softness of touch (e.g. beddings, pillows, wool), whereas 柔和 describes light, sound, and mood.
+    2 | 柔和 vs. 温和 | wēnhé | 温和 focuses primarily on personality, climate/temperature, or medicinal effects ('脾气温和', '气候温和'), while 柔和 is strongly tied to optical and acoustic sensations.
+    3 | 柔和 vs. 平和 | pínghé | 平和 denotes emotional equanimity, balance, and lack of confrontation ('心态平和'), whereas 柔和 is perceptual soothing softness.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 室内设计师在布置卧室时，通常偏好采用米黄色等柔和的色彩系统。柔和的光线不仅能缓解视网膜的日间疲劳，更能从心理层面上消除戒备与焦虑，引导身心在宁静温馨的氛围中逐步放松。 | Shìnèi shèjìshī zài bùzhì wòshì shí, tōngcháng piānhào cǎiyòng mǐhuángsè děng róuhé de sècǎi xìtǒng. Róuhé de guāngxiàn bùjǐn néng huǎnjiě shìwǎngmó de rìjiān píláo, gèng néng cóng xīnlǐ céngmiàn shàng xiāochú jièbèi yǔ jiāolǜ, yǐndǎo shēnxīn zài níngjìng wēnxīn de fēnwéi zhōng zhúbù fàngsōng. | Interior designers typically prefer soft color palettes like beige when decorating bedrooms. Soft light not only relieves retinal fatigue accumulated during daytime, but also psychologically diffuses tension, guiding mind and body into calm rest. | Los interioristas prefieren gamas suaves como el crema al decorar dormitorios. La luz tenue mitiga la fatiga ocular y disipa la ansiedad a nivel psicológico, invitando al cuerpo y la mente a relajarse en una atmósfera acogedora.
+  #2 | 暮色降临时，海滩上的风渐渐平息，晚霞为整片海湾披上了一层柔和的金红色轻纱。散步的人们伴着舒缓的浪花声低语交谈，空气中弥漫着宁静的气息，白日里一切喧嚣与烦恼都在这柔和的黄昏景致中融化消散。 | Mùsè jiànglín shí, hǎitān shàng de fēng jiànjiàn píngxī, wǎnxiá wèi zhěng piàn hǎiwān pīshàngle yī céng róuhé de jīnhóngsè qīngshā. Sànbù de rénmen bànzhe shūhuǎn de lànghuā shēng dīyǔ jiāotán, kōngqì zhōng mímàn zhe níngjìng de qìxī, báirì lǐ yīqiè xuānxiāo yǔ fánnǎo dōu zài zhè róuhé de huánghūn jǐngzhì zhōng rónghuà xiāosàn. | At dusk, coastal breezes softened, and the sunset cast a gentle veil of gold and crimson over the bay. Strollers whispered along the rhythmic waves, as all daytime hubbub dissolved effortlessly into the soothing twilight landscape. | Al caer el crepúsculo, la brisa marina amainó y el arrebol cubrió la bahía con un velo suave de tonos dorados y rojizos. Los paseantes conversaban al compás de las olas, desvaneciendo las tribulaciones del día en la quietud de la tarde.

@@ -1,0 +1,63 @@
+id: 7
+hanzi: 光线
+pinyin: guāng xiàn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: light; light ray; beam of light
+  es: luz; rayo de luz; haz luminoso; iluminación
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a ray, beam, or ambient condition of visible illumination emitted from a light source | haz o rayo luminoso proyectado por una fuente de luz, o iluminación ambiental | 光线充足 (plenty of light / well-lit)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨拉开厚厚的窗帘，温暖明媚的金色光线洒满了整间宽敞的书房。 | Qīngchén lākāi hòuhòu de chuānglián, wēnnuǎn míngmèi de jīnsè guāngxiàn sǎmǎn le zhěng jiān kuānchǎng de shūfáng. | Drawing open thick curtains in the morning, warm golden rays of light spilled across the spacious study. | Al descorrer las tupidas cortinas por la mañana, los cálidos rayos dorados de luz inundaron el amplio despacho.
+  #2 | 在光线昏暗的环境下长时间阅读电子屏幕，极易导致眼睛睫状肌疲劳与近视度数加深。 | Zài guāngxiàn hūn'àn de huánjìng xià cháng shíjiān yuèdú diànzǐ píngmù, jíyì dǎozhì yǎnjing jiézhuàngjī píbèi yǔ jìnshì dùshù jiāshēn. | Reading electronic screens for extended hours in dimly lit environments easily causes eye strain and worsening myopia. | Leer pantallas electrónicas en un entorno de luz tenue fatiga los músculos oculares y acelera la miopía.
+
+collocations[6]{hanzi,en}:
+  光线柔和 | soft/gentle light
+  光线充足 | well-lit; sufficient lighting
+  光线昏暗 | dimly lit; poor lighting
+  强烈的阳光光线 | intense sunlight rays
+  阻挡光线 | block light
+  调整光线 | adjust the lighting
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  浮光掠影 | fú guāng lüè yǐng | skimming over light and shadow; superficial impression
+  光彩夺目 | guāng cǎi duó mù | dazzlingly brilliant; radiant and colorful
+  日月生辉 | rì yuè shēng huī | sun and moon shining with radiant splendor
+  流光溢彩 | liú guāng yì cǎi | flowing with radiance and overflowing with color
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  光 | guāng | light; ray; glory; bare; only | luz; rayo; brillo; descalzo; solo | 儿 | human / legs | 火 (fire torch) + 儿 (kneeling person carrying fire above head) | 光 (guāng) | 6 | 上下结构 | Oracle bone pictograph of a human 儿 carrying a blazing torch 火 atop their head to illuminate the dark; represents light and radiance. | A runner holds a blazing fire torch high overhead (火), illuminating the dark with radiant light (光). | Una figura alza una antorcha de fuego (火) sobre su cabeza disipando las sombras con viva luz (光). | 55 | FMU | ""
+  线 | xiàn | thread; string; wire; line; ray | hilo; hebra; línea; alambre; rayo | 纟 | silk | 纟 (spun silk thread) + 戋 (small slender / phonetic) | 戋 (jiān, slender / phonetic) | 8 | 左右结构 | Spun silk threads 纟 stretching out in a thin linear fiber 戋; extended to geometric lines and straight optical rays. | A delicate strand of silk (纟) pulls straight and thin like a linear beam (线). | Una fina hebra de seda (纟) se estira recta y delgada dibujando una línea luminosa (线). | 51 | VMII | 線
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Torches shedding radiant illumination (光) extending in linear threads (线) make beams of light (光线).
+  composite_memory_hook_es: La antorcha que alumbra (光) trazando hebras rectas en la penumbra (线) forma el haz de luz (光线).
+  cultural_and_cognitive_roots: Optical geometric physics; traditional Chinese shadow puppetry (皮影戏) mastered the projection of luminous lines through translucent parchment.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling fourth tone: 'guāng xiàn' (55-51). Hold high pitch 55 on 'guāng', then drop down sharply on 'xiàn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    先 | xiān | first; ancestor | Has 丿 on top instead of central dot and stroke of 光
+    充 | chōng | fill; charge | Has 亠 atop 厶 and 儿
+    钱 | qián | money; coin | Has metal radical 钅 on left instead of silk 纟 in 线
+    浅 | qiǎn | shallow; light | Has water radical 氵 on left of 戋
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    芒 | máng | ray of light; awn of grass
+    束 | shù | bundle; beam of rays
+    缕 | lǚ | strand; wisp of smoke/light
+    照 | zhào | shine; illuminate path
+
+semantic_boundary_contrasts:
+  core_nuance: 光线 designates linear rays of optical illumination or environmental ambient lighting conditions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 光线 vs. 光芒 | guāngmáng | 光芒 emphasizes brilliant, dazzling radiating halos ('太阳的光芒', '放射光芒'), while 光线 is neutral physical illumination ('光线太暗').
+    2 | 光线 vs. 阳光 | yángguāng | 阳光 is specifically natural sunlight from the solar orb, while 光线 includes artificial bulbs, laser beams, and candles.
+    3 | 光线 vs. 灯光 | dēngguāng | 灯光 specifically denotes the glow produced by manufactured electric lamps, whereas 光线 covers all rays.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在绘画与摄影艺术中，光线被称为塑造形象的“第二支画笔”。大师们熟练运用侧光展现人物面部坚毅深邃的轮廓，用逆光勾勒秀发的金色光晕，恰到好处的光线明暗反差赋予画面无限的生命力与艺术感染力。 | Zài huìhuà yǔ shèyǐng yìshù zhōng, guāngxiàn bèi chēngwéi sùzào xíngxiàng de 'dì-èr zhī huàbǐ'. Dàshīmen shúliàn yùnyòng cèguāng zhǎnxiàn rénwù miànbù jiānyì-shēnsù de lúnkuò, yòng nìguāng gōulè xiùfà de jīnsè guāngyùn, qiàdàohǎochù de guāngxiàn míng'àn fǎnchà fùyǔ huàmiàn wúxiàn de shēngmìnglì yǔ yìshù gǎnrǎnlì. | In painting and photography, light is called the second paintbrush. Masters skillfully use sidelight to sculpt facial profiles and backlighting to outline hair halos, infusing imagery with vital contrast. | En pintura y fotografía, la luz se considera el segundo pincel. Los maestros emplean luces laterales para cincelar perfiles y contraluces dorados, infundiendo un vivo contraste y plasticidad al lienzo.
+  #2 | 盛夏午后烈日当空，茂密幽静的原始森林中，缕缕金色光线穿透重重叠叠的树冠枝叶倾泻而下，在布满松针的湿润地面上投下斑驳陆离的光影。这奇幻宁静的自然丁达尔效应景观，令人叹为观止、流连忘返。 | Shèngxià wǔhòu lièrì dāngkōng, màomì yōujìng de yuánshǐ sēnlín zhōng, lǚlǚ jīnsè guāngxiàn chuāntòu chóngchóng-diédié de shùguān zhīyè qīngxiè ér xià, zài bùmǎn sōngzhēn de shīrùn dīmiàn shàng tóuxià bānbó-lùlí de guāngyǐng. Zhè qíhuàn níngjìng de zìrán Dīngdá'ěr xiàoyìng jǐngguān, lìngrén tànwéiguānzhǐ, liúlián-wàngfǎn. | Under scorching midsummer sun, rays of golden light pierce dense forest canopies, casting dappled shadows over pine needles. This Tyndall effect phenomenon captivates visitors with quiet natural beauty. | Bajo el sol estival, hebras de luz dorada perforan el follaje del bosque virgen proyectando sombras sobre agujas de pino. El efecto Tyndall crea una estampa mágica y sosegada que embelesa al paseante.

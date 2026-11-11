@@ -1,0 +1,63 @@
+id: 3
+hanzi: 人类
+pinyin: rén lèi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: humankind; humanity; mankind; human race
+  es: humanidad; género humano; especie humana; seres humanos
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the human race or species collectively, distinct from animals and divine beings | el conjunto de seres humanos o la especie Homo sapiens en su totalidad | 人类文明 (human civilization)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 探索未知浩瀚宇宙、寻找地外宜居星球，是整个人类自古以来共同怀揣的浪漫梦想。 | Tànsuǒ wèizhī hàohàn yǔzhòu, xúnzhǎo dìwài yíjū xīngqiú, shì zhěng gè rénlèi zìgǔ yǐlái gòngtóng huáichuāi de làngmàn mèngxiǎng. | Exploring the vast unknown cosmos and searching for habitable exoplanets is a romantic dream shared by all humanity since ancient times. | Explorar el cosmos ignoto y buscar planetas habitables es un sueño poético que comparte la humanidad entera desde tiempos remotos.
+  #2 | 文字的发明与普及是人类进化史上的一座丰碑，它让人类的智慧与思想得以世代相传。 | Wénzì de fāmíng yǔ pǔjí shì rénlèi jìnhuà shǐ shàng de yí zuò fēngbēi, tā ràng rénlèi de zhìhuì yǔ sīxiǎng déyǐ shìdài xiāngchuán. | The invention and spread of writing marks a milestone in human evolution, enabling human wisdom and ideas to be passed across generations. | La invención y difusión de la escritura marca un hito en la evolución humana, permitiendo transmitir la sabiduría de generación en generación.
+
+collocations[6]{hanzi,en}:
+  人类社会 | human society
+  人类文明 | human civilization
+  全人类 | all humankind; entire humanity
+  人类历史 | human history
+  人类基因 | human genome/genes
+  人类命运共同体 | community with a shared future for mankind
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  生生不息 | shēng shēng bù xī | perpetuate endlessly; continuous reproduction and renewal
+  源远流长 | yuán yuǎn liú cháng | have a long history and deep roots; date back to remote antiquity
+  改天换地 | gǎi tiān huàn dì | transform heaven and earth; reshape the physical world
+  薪火相传 | xīn huǒ xiāng chuán | pass the torch from generation to generation
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  人 | rén | person; human; mankind | persona; ser humano; hombre | 人 | human | 人 (side profile of walking bipedal human) | 人 (rén) | 2 | 单一结构 | Oracle bone pictograph depicting a person standing upright on two feet with arms extended forward. | Two sturdy legs stride forward upright, embodying the noble human being (人). | Dos piernas firmes avanzan erguidas dibujando la silueta del ser humano (人). | 35 | O | ""
+  类 | lèi | kind; type; category; class; species | clase; especie; categoría; tipo | 米 | rice | 米 (grains of rice of same variety) + 犬 (hound sorting species) | 类 (lèi) | 9 | 上下结构 | Sorting grains of harvested rice 米 by variety and breed; signifies category, species, and kinds. | Grains of rice (米) sorted into distinct types (大) define a biological class or species (类). | Granos de arroz (米) seleccionados por variedades (大) tipifican una clase o especie (类). | 51 | FDK | 類
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The species (类) of upright thinking beings (人) makes up humankind (人类).
+  composite_memory_hook_es: La especie (类) que camina erguida pensando (人) conforma la humanidad (人类).
+  cultural_and_cognitive_roots: Universal collective biological noun: combines 人 (bipedal moral human) with 类 (taxonomic genus/kind), reflecting both natural history and humanism.
+  tone_sandhi_and_pitch_modulation: Rising second tone followed by falling fourth tone: 'rén lèi' (35-51). Rise smoothly on 'rén', then land firmly on 'lèi'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    入 | rù | enter | Right stroke overlaps left stroke, opposite of 人
+    八 | bā | eight | Two strokes do not touch at the top
+    粪 | fèn | manure; dung | Has 共 underneath 米 instead of 大 in 类
+    迷 | mí | bewilder; lost | Has movement radical 辶 enclosing 米
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    群 | qún | crowd; flock of sheep
+    生 | shēng | life; birth of plant
+    属 | shǔ | belong to; taxonomic genus
+    民 | mín | people; populace
+
+semantic_boundary_contrasts:
+  core_nuance: 人类 refers to the entire human species on a macroscopic, evolutionary, or global civilizational scale.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 人类 vs. 人们 | rénmen | 人们 refers casually to ordinary people or a crowd of individuals present ('人们议论纷纷'), while 人类 is the biological species or civilization as a whole.
+    2 | 人类 vs. 人口 | rénkǒu | 人口 is a demographic statistical term counting numbers of inhabitants in a country or city, while 人类 is anthropological.
+    3 | 人类 vs. 人员 | rényuán | 人员 denotes staff or personnel belonging to an organization ('医务人员'), completely distinct from species-wide 人类.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 从原始狩猎采集时代学会使用火与石器，到现代掌握人工智能与核能，人类在漫长的数万年漫漫岁月中创造了璀璨辉煌的物质与精神文明。然而伴随科技进步，如何与自然万物和谐相处，已成为全人类必须正视的课题。 | Cóng yuánshǐ shòuliè-cǎijí shídài xuéhuì shǐyòng huǒ yǔ shíqì, dào xiàndài zhǎngwò réngōng zhìnéng yǔ hénéng, rénlèi zài màncháng de shùwàn nián mànmàn suìyuè zhōng chuàngzào le cuǐcàn huīhuáng de wùzhì yǔ jīngshén wénmíng. Rán'ér bànsuí kējì jìnbù, rúhé yǔ zìrán wànwù héxié xiāngchǔ, yǐ chéngwéi quán rénlèi bìxū zhèngshì de kètí. | From mastering fire and flint tools to modern AI and nuclear energy, humankind created brilliant civilizations over millennia. Yet as science advances, living in harmony with nature is an imperative for all humanity. | Desde dominar el fuego y la piedra hasta la inteligencia artificial y la energía atómica, el ser humano forjó civilizaciones brillantes. Ahora, convivir en armonía con la biosfera es el gran dilema de la humanidad.
+  #2 | 面对气候恶化、生态失衡与跨国流行疾病等重大全球性危机，没有哪一个国家或民族能够独善其身。各国应当超越意识形态偏见与地缘政治争端，秉持人类命运共同体理念，携手筑牢守护地球家园的安全屏障。 | Miànduì qìhòu èhuà, shēngtài shīhéng yǔ kuàguó liúxíng jíbìng děng zhòngdà quánqiúxìng wēijī, méiyǒu nǎ yí ge guójiā huò mínzú nénggòu dúshàn-qíshēn. Gèguó yīngdāng chāoyuè yìshí-xíngtài piānjiàn yǔ dìyuán zhèngzhì zhēngduān, bǐngchí rénlèi mìngyùn gòngtóngtǐ lǐniàn, xiéshǒu zhùláo shǒuhù Dìqiú jiāyuán de ānquán píngzhàng. | Confronting climate crises and pandemics, no country can stand in isolation. Transcending ideological biases, nations must uphold a shared community for mankind, building barriers to protect our planet. | Ante la crisis climática y las pandemias globales, ningún país se salva en solitario. Superando rivalidades geopolíticas, las naciones deben cobijar un destino compartido para blindar el hogar terrenal común.

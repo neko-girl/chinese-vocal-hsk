@@ -1,0 +1,64 @@
+id: 30
+hanzi: 个人
+pinyin: gè rén
+level: HSK 5
+part_of_speech: Noun / Adjective
+
+meanings_summary:
+  en: individual; personal; private; oneself
+  es: individuo; persona particular; personal; privado; particular
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a single distinct human being as contrasted with a collective group, society, or state | el ser humano individual considerado en contraposición a la colectividad, grupo o Estado | 个人利益 (individual interests)
+  2 | Adjective | Standard | concerning or belonging to a single private person rather than the public or an organization | propio o perteneciente a una persona determinada; privado o particular | 个人隐私 (personal privacy)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在拓展海外市场的过程中，微信高度尊重并严格保护不同国家用户的个人隐私与数据安全。 | Zài tuòzhǎn hǎiwài shìchǎng de guòchéng zhōng, Wēixìn gāodù zūnzhòng bìng yángé bǎohù bùtóng guójiā yònghù de gèrén yǐnsī yǔ shùjù ānquán. | In expanding overseas markets, WeChat highly respects and strictly safeguards the personal privacy and data security of users across nations. | Al expandirse en ultramar, WeChat respeta escrupulosamente la privacidad personal y la seguridad de los datos de usuarios de todo el mundo.
+  #2 | 这篇学术论文中所阐述的政策建议仅代表学者的个人观点，并不代表其所在研究所的官方立场。 | Zhè piān xuéshù lùnwén zhōng suǒ chánshù de zhèngcè jiànyì jǐn dàibiǎo xuézhě de gèrén guāndiǎn, bìng bù dàibiǎo qí suǒzài yánjiūsuǒ de guānfāng lìchǎng. | The policy recommendations elaborated in this academic paper represent solely the scholar's personal views, not the official stance of the research institute. | Las propuestas formuladas en este artículo académico reflejan exclusivamente la opinión personal del autor, no la postura oficial de su instituto.
+
+collocations[6]{hanzi,en}:
+  个人隐私 | personal privacy
+  个人所得税 | individual income tax
+  个人简历 | personal resume / CV
+  个人观点 | personal viewpoint / individual opinion
+  个人利益 | individual / personal interest
+  个人空间 | personal space
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  各抒己见 | gè shū jǐ jiàn | each expresses one's own personal opinion freely
+  人人自危 | rén rén zì wēi | everyone feels personally insecure and endangered
+  推己及人 | tuī jǐ jí rén | treat others by putting oneself in their personal shoes
+  严于律己 | yán yú lǜ jǐ | be strict with oneself in personal conduct
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  个 | gè | individual; piece; single; classifier | individual; pieza; unidad; clasificador general | 人 | person | 人 (human person standing upright) + 丨 (single vertical bamboo slip / unit) | Self-phonetic gè | 3 | 单一结构 | A single person 人 holding a single tally stick 丨; denotes a distinct individual unit or single item. | A single person (人) holding one upright tally stick (丨) stands as one distinct individual (个). | Una persona singular (人) con un listón vertical (丨) representa una unidad individual (个). | 51 | OL | 個
+  人 | rén | person; human; people; mankind | persona; ser humano; gente; hombre | 人 | person | Pictograph of a human being standing erect on two walking legs | Pictograph of human rén | 2 | 单一结构 | A profile pictograph of a human being standing upright with two legs supporting the torso; human being, individual, or people. | A human standing tall on two walking legs walking upright in the world (人). | Un ser humano que se alza y camina sobre dos piernas erguido en el mundo (人). | 35 | O | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A single individual unit (个) of a human being (人) forms an individual or personal self (个人).
+  composite_memory_hook_es: La unidad singular (个) de un ser humano (人) constituye el individuo o lo personal (个人).
+  cultural_and_cognitive_roots: Contrasts with the Confucian collective concept of society (集体、家国): balancing the moral integrity of the individual (修身) with harmonious community.
+  tone_sandhi_and_pitch_modulation: Fourth tone followed by second tone: 'gè rén' (51-35). Crisp falling 51 gliding up to smooth rising 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    入 | rù | enter | Right stroke overlaps over left, opposite of 人
+    八 | bā | eight | Two strokes do not touch at top, leaving gap
+    大 | dà | big; large | Has horizontal bar 一 across 人
+    介 | jiè | introduce; between | Has two strokes inside 人
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    己 | jǐ | oneself; self
+    私 | sī | private; personal
+    自 | zì | self; from
+    独 | dú | solitary; alone
+
+semantic_boundary_contrasts:
+  core_nuance: 个人 highlights the single private human being in contrast to the collective, group, or state.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 个人 vs. 集体 | jítǐ | 集体 is the direct antonym meaning collective group or organization, whereas 个人 is the individual entity.
+    2 | 个人 vs. 自己 | zìjǐ | 自己 is a reflexive pronoun meaning oneself ('我自己' myself), while 个人 can be an adjective ('个人账户') or noun contrastive to society.
+    3 | 个人 vs. 私人 | sīrén | 私人 strongly emphasizes non-public private ownership, secrecy, or personal confidentiality ('私人财产', '私人飞机'), while 个人 is a neutral demographic term.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代法治社会中，依法加强个人信息保护已成为维护公民合法权益的重中之重。随着人工智能与大数据技术的深度应用，必须严厉打击非法采集与贩卖个人数据的违法行径，切实为每一位公民筑牢个人数字安全屏障。 | Zài xiàndài fǎzhì shèhuì zhōng, yīfǎ jiāqiáng gèrén xìnxī bǎohù yǐ chéngwéi wéihù gōngmín héfǎ quányì de zhòngzhōngzhīzhòng. Suízhe réngōng zhìnéng yǔ dàshùjù jìshù de shēndù yìngyòng, bìxū yánlì dǎjī fēifǎ cǎijí yǔ fànmài gèrén shùjù de wéifǎ xíngjìng, qièshí wèi měi yī wèi gōngmín zhùláo gèrén shùzì ānquán píngzhàng. | In a modern rule-of-law society, protecting personal information under law has become a top priority. With deep AI and big data usage, illegal harvesting of personal data must be cracked down on to erect solid digital safety barriers for all. | En un Estado de derecho, blindar los datos personales es prioritario para salvaguardar derechos cívicos. Ante el uso de la IA, debe castigarse el tráfico de información privada afianzando un escudo digital para cada ciudadano.
+  #2 | 个人的成长成才从来不是孤立进行的，而是与国家的前途命运紧密相连。青年学者应当将个人的学术志趣主动融入解决国家重大科技难题的实践中去，在为社会大众创造福祉的宏伟事业中，实现个人崇高的人生理想与时代价值。 | Gèrén de chéngzhǎng chéngcái cónglái búshì gūlì jìnxíng de, érshì yǔ guójiā de qiántú mìngyùn jǐnmì xiānglián. Qīngnián xuézhě yīngdāng jiāng gèrén de xuéshù zhìqù zhǔdòng róngrù jiějué guójiā zhòngdà kējì nántí de shíjiàn zhōng qù, zài wèi shèhuì dàzhòng chuàngzào fúzhǐ de hóngwěi shìyè zhōng, shíxiàn gèrén chónggāo de rénshēng lǐxiǎng yǔ shídài jiàzhí. | Individual growth never unfolds in isolation, but is intimately intertwined with national destiny. Young scholars should weave personal interests into solving critical tech challenges, fulfilling ideals and values by creating social welfare. | El desarrollo individual jamás ocurre aislado, sino entrelazado con el destino colectivo. Los jóvenes investigadores deben volcar su vocación en solventar retos estratégicos realizando sus ideales al servicio del bien común.

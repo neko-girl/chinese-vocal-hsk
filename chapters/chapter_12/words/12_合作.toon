@@ -1,0 +1,64 @@
+id: 12
+hanzi: 合作
+pinyin: hé zuò
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to cooperate; collaborate; work together; cooperation; partnership
+  es: cooperar; colaborar; trabajar conjuntamente; cooperación; colaboración
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to work jointly with others toward a common goal or mutual benefit | obrar juntamente con otro u otros para la consecución de un fin común | 真诚合作 (cooperate sincerely)
+  2 | Noun | Standard | joint operation, collaborative alliance, or mutual association | asociación, alianza colaborativa o acción conjunta | 经贸合作 (economic and trade cooperation)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信通过与各国本地电信企业展开多维度合作，成功降低了跨国数据漫游资费，方便了全球用户。 | Wēixìn tōngguò yǔ gè guó běndì diànxìn qǐyè zhǎnkāi duōwéidù hézuò, chénggōng jiàngdīle kuàguó shùjù mànyóu zīfèi, fāngbiànle quánqiú yònghù. | Through multidimensional cooperation with local telecom companies, WeChat successfully cut cross-border data roaming fees, benefiting global users. | Mediante una estrecha colaboración con operadoras locales, WeChat redujo las tarifas de itinerancia de datos beneficiando a usuarios del mundo entero.
+  #2 | 两家高科技企业决定在云计算和大数据算法领域开展全面战略合作，共同拓展海外新兴市场。 | Liǎng jiā gāokējì qǐyè juédìng zài yúnjìsuàn hé dàshùjù suànfǎ lǐngyù kāizhǎn quánmiàn zhànlüè hézuò, gòngtóng tuòzhǎn hǎiwài xīnxīng shìchǎng. | The two high-tech enterprises decided to launch comprehensive strategic cooperation in cloud computing and big data, jointly expanding into emerging markets. | Las dos firmas tecnológicas acordaron una cooperación estratégica en computación en la nube y macrodatos para expandirse en mercados emergentes.
+
+collocations[6]{hanzi,en}:
+  战略合作 | strategic cooperation / partnership
+  开展合作 | launch / carry out cooperation
+  深化合作 | deepen collaboration
+  合作伙伴 | cooperative partner / associate
+  国际合作 | international cooperation
+  合作共赢 | win-win cooperation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  精诚合作 | jīng chéng hé zuò | cooperate with utmost sincerity and dedication
+  分工合作 | fēn gōng hé zuò | divide the labor and collaborate smoothly
+  同心协力 | tóng xīn xié lì | unite in one heart and pool collaborative efforts
+  风雨同舟 | fēng yǔ tóng zhōu | stand together through storm and tempest in the same boat
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  合 | hé | combine; join; gather; fit; harmonious | unir; juntar; encajar; armonizar | 口 | mouth | 亼 (three lines coming together at top / lid) + 口 (mouth / container) | Self-phonetic hé | 6 | 上下结构 | A container with its lid fitted tightly on top; symbolizes meeting together, closing gaps, and harmonious joining. | A snug lid (亼) fitting over a round bowl container (口) unites two halves seamlessly (合). | Una tapa (亼) que encaja exacta sobre el cuenco (口) uniendo las partes en perfecta armonía (合). | 35 | OMR | ""
+  作 | zuò | do; make; write; act; work | hacer; actuar; crear; obrar; trabajar | 亻 | person | 亻 (person / human laborer) + 乍 (sudden sprouting / initial start) | 乍 (zhà, sudden / phonetic zuò) | 7 | 左右结构 | A person 亻 stepping forward to begin crafting, working, or manufacturing something new. | A diligent person (亻) rising promptly at daybreak (乍) to perform creative work (作). | Un hombre trabajador (亻) que inicia con presteza (乍) su faena creadora (作). | 51 | OHS | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Joining hearts harmoniously together (合) to execute work and creations (作) is cooperation (合作).
+  composite_memory_hook_es: Unirse en sintonía (合) para llevar a cabo obras conjuntas (作) es cooperar (合作).
+  cultural_and_cognitive_roots: Derived from ancient guild agricultural traditions: neighboring villages pooling draft oxen and sickles to complete harvest under the banner of '分工合作'.
+  tone_sandhi_and_pitch_modulation: Second tone followed by fourth tone: 'hé zuò' (35-51). Smooth rising tone followed by sharp decisive fall.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    盒 | hé | box; case | Has dish radical 皿 under 合
+    答 | dá | answer; reply | Has bamboo radical 竹 on top of 合
+    昨 | zuó | yesterday | Has sun radical 日 on left of 乍 instead of person 亻 in 作
+    诈 | zhà | deceive; cheat | Has speech radical 讠 on left of 乍
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    协 | xié | joint; harmonize
+    同 | tóng | together; same
+    联 | lián | ally; connect
+    帮 | bāng | help; assist
+
+semantic_boundary_contrasts:
+  core_nuance: 合作 emphasizes mutual coordination and complementary pooling of resources between parties toward shared benefit.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 合作 vs. 协作 | xiézuò | 协作 emphasizes technical operational coordination between different units or departments on a joint production line ('分工协作'), while 合作 is broader covering business, diplomacy, and trade.
+    2 | 合作 vs. 配合 | pèihé | 配合 indicates playing a subordinate or supporting role to assist a main actor's lead ('积极配合警方工作'), whereas 合作 implies equal partnership.
+    3 | 合作 vs. 联合 | liánhé | 联合 denotes merging distinct groups into a unified coalition or formal federation ('联合声明', '联合国'), while 合作 refers to ongoing joint actions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在经济全球化日益深入的今天，任何国家都无法在封闭隔绝中谋求长久繁荣。深化国际经贸合作与人文交流，坚持多边主义与互利共赢原则，不仅能够促进生产要素在全球范围内高效流动，更是维护世界和平稳定的共同基石。 | Zài jīngjì quánqiúhuà rìyì shēnrù de jīntiān, rènhé guójiā dōu wúfǎ zài fēngbì géjué zhōng móuqiú chángjiǔ fánróng. Shēnhuà guójì jīngmào hézuò yǔ rénwén jiāoliú, jiānchí duōbiān zhǔyì yǔ hùlì gòngyíng yuánzé, bùjǐn nénggòu cùjìn shēngchǎn yàosù zài quánqiú fànwéi nèi gāoxiào liúdòng, gèng shì wéihù shìjiè hépíng wěndìng de gòngtóng jīshí. | In today's interconnected global economy, no nation can seek enduring prosperity in isolation. Deepening trade cooperation and upholding win-win multilateralism optimizes resource flows and lays a cornerstone for world peace. | En la economía global actual, ninguna nación puede prosperar aislada. Profundizar la cooperación comercial y defender el multilateralismo agiliza el flujo de recursos mundiales y afianza la paz y estabilidad compartidas.
+  #2 | 现代医学攻关早已跨越了单一学科的狭隘界限，呈现出多学科深度交叉合作的鲜明特征。临床医生、生物化学家与计算机算法专家紧密携手，通过海量临床数据建模与药物分子筛选，成功研制出针对罕见疾病的高效靶向新药。 | Xiàndài yīxué gōngguān zǎoyǐ kuàyuèle dānyī xuékē de xiá'ài jièxiàn, chéngxiàn chū duōxuékē shēndù jiāochā hézuò de xiānmíng tèzhēng. Línchuáng yīshēng, shēngwù-huàxuéjiā yǔ jìsuànjī suànfǎ zhuānjiā jǐnmì xiéshǒu, tōngguò hǎiliàng línchuáng shùjù jiànmó yǔ yàowù fēnzǐ shāixuǎn, chénggōng yánzhì chū zhēnduì hǎnjiàn jíbìng de gāoxiào bǎxiàng xīnyào. | Modern medical breakthroughs have broken disciplinary boundaries, showcasing deep cross-field collaboration. Physicians, biochemists, and AI experts join hands, modeling clinical data to formulate targeted medicines for rare diseases. | Los avances biomédicos trascienden barreras académicas reflejando una estrecha colaboración interdisciplinar. Médicos, bioquímicos y expertos en computación aunaron esfuerzos creando fármacos dirigidos contra patologías raras.

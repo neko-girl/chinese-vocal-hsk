@@ -1,0 +1,64 @@
+id: 5
+hanzi: 宝贝
+pinyin: bǎo bèi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: baby; darling; cherished treasure; precious object
+  es: bebé; tesoro; cariño; joya preciada; persona o cosa idolatrada
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Colloquial | term of endearment for a baby, beloved child, or romantic partner | apelativo cariñoso para un bebé, niño pequeño o persona amada | 可爱的宝贝 (adorable baby / darling)
+  2 | Noun | Standard | a rare, valuable, or cherished object or treasure | objeto de gran valor o joya preciosa atesorada con veneración | 传家宝贝 (heirloom treasure)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在宣传广告中，梅西在手机这头逗着视频里啼哭的宝贝，温馨的亲情画面深深打动了海外观众。 | Zài xuānchuán guǎnggào zhōng, Méixī zài shǒujī zhètóu dòuzhe shìpín lǐ tíkū de bǎobèi, wēnxīn de qīnqíng huàmiàn shēndēn dǎdòngle hǎiwài guānzhòng. | In the commercial, Messi teased his crying baby over the phone video; this warm picture of family love deeply touched overseas audiences. | En el anuncio, Messi divertía a su bebé que lloraba al otro lado del móvil; una tierna escena familiar que conmovió a los televidentes.
+  #2 | 这块古老的怀表是祖父留下的传家宝贝，他始终小心翼翼地珍藏在首饰盒最深处。 | Zhè kuài gǔlǎo de huáibiǎo shì zǔfù liúxià de chuánjiā bǎobèi, tā shǐzhōng xiǎoxīn-yìyì de zhēncáng zài shǒushìhé zuì shēnchù. | This antique pocket watch is an heirloom treasure left by his grandfather, which he always cautiously cherishes deep in his jewelry box. | Este reloj de bolsillo antiguo es una joya familiar legada por su abuelo, conservada con sumo celo en el joyero.
+
+collocations[6]{hanzi,en}:
+  心爱宝贝 | beloved treasure / darling
+  可爱的宝贝 | cute baby; darling
+  无价宝贝 | priceless treasure
+  宝贝儿子 | darling son
+  传家宝贝 | family heirloom
+  淘到宝贝 | hunt down a rare treasure
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  如获至宝 | rú huò zhì bǎo | as if finding a priceless treasure; overjoyed
+  奇珍异宝 | qí zhēn yì bǎo | rare and extraordinary treasures
+  物华天宝 | wù huá tiān bǎo | land rich in natural wealth and glories of heaven
+  视若珍宝 | shì ruò zhēn bǎo | cherish and prize something like precious jewels
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  宝 | bǎo | treasure; precious; jewel; cherish | tesoro; precioso; joya; atesorar | 宀 | roof | 宀 (safe shelter/house) + 玉 (jade stone jewels) | Historical phonetic nuance in 寶 | 8 | 上下结构 | A house 宀 safely housing precious polished jade 玉 inside; represents priceless valuables and cherished jewels. | Safely guarded under a house roof (宀), precious jade (玉) sparkles as treasure (宝). | A buen recaudo bajo el techo del hogar (宀), el jade resplandeciente (玉) brilla como tesoro (宝). | 214 | JMI | 寶
+  贝 | bèi | cowrie shell; currency; wealth | concha marina; caurí; moneda antigua; riqueza | 贝 | shell | Cowrie seashell used as ancient primordial currency | Pictograph of prized seashell bèi | 4 | 单一结构 | Pictograph of a bivalve cowrie seashell, the earliest currency of the Shang Dynasty; signifies wealth and valuable things. | A rare shiny cowrie shell (贝) prized since ancient times as money and treasure. | Una reluciente concha de caurí (贝), divisa ancestral símbolo de gran fortuna. | 51 | BO | 貝
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Sheltered jade jewels (宝) paired with golden cowrie seashells (贝) constitute a precious treasure or darling baby (宝贝).
+  composite_memory_hook_es: El jade familiar bien resguardado (宝) junto a valiosas conchas (贝) conforma un tesoro o querido bebé (宝贝).
+  cultural_and_cognitive_roots: Cowries (贝) were China's earliest legal tender. Loving parents naturally regard their offspring as jewels more precious than silver and jade.
+  tone_sandhi_and_pitch_modulation: Third tone followed by fourth tone: 'bǎo bèi' (214-51). In familial speech ('我的小宝贝'), 'bèi' is often pronounced as a gentle neutral tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    字 | zì | character; word | Has child 子 under 宀 instead of jade 玉 in 宝
+    宗 | zōng | ancestor; sect | Has altar 示 under 宀
+    见 | jiàn | see | Top stroke has an open window-eye, with legs, unlike 贝
+    页 | yè | page; head | Has top horizontal stroke 一 over 贝-like frame
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    珍 | zhēn | precious; treasure
+    珠 | zhū | pearl; bead
+    玉 | yù | jade stone
+    金 | jīn | gold; metal
+
+semantic_boundary_contrasts:
+  core_nuance: 宝贝 is used affectionately for darling babies, loved ones, or cherished irreplaceable personal possessions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 宝贝 vs. 宝物 | bǎowù | 宝物 refers strictly to historical relics, antique art, or magical treasures in stories ('洞穴中的宝物'), and cannot be used as an affectionate term for children.
+    2 | 宝贝 vs. 孩子 | háizi | 孩子 is an objective neutral term for children or offspring, whereas 宝贝 conveys intense emotional fondness and parental pampering.
+    3 | 宝贝 vs. 珍品 | zhēnpǐn | 珍品 denotes museum-grade rare collector items or high-end luxuries, whereas 宝贝 can be intimate, familial, and warm.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 婴儿清脆纯净的笑声往往是整个家庭最温馨的治愈良药。每当年轻父母劳累一天回到家中，看到摇篮里熟睡的可爱宝贝，所有疲惫与烦恼都会在刹那间烟消云散，心中满溢着为人父母的幸福与责任。 | Yīng'ér qīngcuì chúnjìng de xiàoshēng wǎngwǎng shì zhěnggè jiātíng zuì wēnxīn de zhìyù liángyào. Měidāng niánqīng fùmǔ láolèi yītiān huídào jiāzhōng, kàndào yáolán lǐ shúshuì de kě'ài bǎobèi, suǒyǒu píbèi yǔ fánnǎo dōuhuì zài chànà jiān yānxiāo-yúnsàn, xīnzhōng mǎnyì zhe wéirén fùmǔ de xìngfú yǔ zérèn. | An infant's pure laughter is often the most soothing medicine for a family. When exhausted young parents return home and see their sweet darling sleeping in the cradle, fatigue vanishes instantly, replaced by parental joy and duty. | La risa cantarina de un bebé es el mejor bálsamo en el hogar. Al volver del trabajo y ver al dulce angelito dormido en su cuna, el cansancio se esfuma de golpe, colmando el corazón de dicha y ternura paternal.
+  #2 | 民间收藏家老王对古代陶瓷情有独钟，走遍大江南北寻访流散在民间的艺术瑰宝。他将自己历经数十载淘来的这几件宋代青瓷视若性命，逢人便如数家珍地夸赞这些传世宝贝，字里行间流露出对中华传统工匠精神的无限崇敬。 | Mínjiān shǒucángjiā Lǎo Wáng duì gǔdài táocí qíngyǒudúzhōng, zǒubiàn dàjiāng-nánběi xúnfǎng liúsàn zài mínjiān de yìshù guībǎo. Tā jiāng zìjǐ lìjīng shùshí zǎi táolái de zhè jǐ jiàn Sòngdài qīngcí shì ruò xìngmìng, féng rén biàn rúshǔjiāzhēn de kuāzàn zhèxiē chuánshì bǎobèi, zìlǐ-xíngjiān liúlù chū duì Zhōnghuá chuántǒng gōngjiàng jīngshén de wúxiàn chóngjìng. | Folk collector Lao Wang has a passion for ancient ceramics, traveling nationwide to seek dispersed gems. Prized Song celadons collected over decades are cherished like life itself, praised to guests with profound respect for Chinese craft. | El coleccionista Lao Wang siente pasión por la cerámica clásica y ha recorrido el país en busca de tesoros. Valora como oro en paño sus celadones de la dinastía Song, alabándolos con devoción ante quienes admiran el arte tradicional.

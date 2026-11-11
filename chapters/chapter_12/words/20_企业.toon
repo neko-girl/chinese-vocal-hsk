@@ -1,0 +1,63 @@
+id: 20
+hanzi: 企业
+pinyin: qǐ yè
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: enterprise; business; company; corporation
+  es: empresa; compañía; corporación mercantil; firma comercial
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an economic organization engaged in manufacturing, trading, or providing commercial services for profit and social value | organización económica dedicada a actividades industriales, mercantiles o de servicios con fines productivos | 跨国企业 (multinational enterprise)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对日趋激烈的海外市场竞争，中国高科技企业唯有持续加大自主研发投入，才能在全球产业链中赢得尊重。 | Miànduì rìqū jīliè de hǎiwài shìchǎng jìngzhēng, Zhōngguó gāokējì qǐyè wéiyǒu chíxù jiādà zìzhǔ yánfā tóurù, cáinéng zài quánqiú chǎnyèliàn zhōng yíngdé zūnzhòng. | Facing increasingly fierce competition in overseas markets, Chinese high-tech enterprises can win respect in global industrial chains only by steadily increasing R&D. | Ante la competencia en ultramar, las tecnológicas chinas solo ganarán respeto en la cadena de valor global redoblando su inversión en I+D.
+  #2 | 政府出台了多项减税降费扶持政策，旨在有效减轻中小微企业的经营成本与融资负担。 | Zhèngfǔ chūtáile duō xiàng jiǎnshuì jiàngfèi fúchí zhèngcè, zhǐzài yǒuxiào jiǎnqīng zhōng-xiǎo-wēi qǐyè de jīngyíng chéngběn yǔ róngzī fùdān. | The government introduced multiple tax and fee cut policies aimed at effectively reducing operating costs and financing burdens for micro, small, and medium enterprises. | Las autoridades promulgaron exenciones fiscales para aliviar los costes operativos y cargas de financiación de las pequeñas y medianas empresas.
+
+collocations[6]{hanzi,en}:
+  国有企业 | state-owned enterprise (SOE)
+  跨国企业 | multinational corporation (MNC)
+  民营企业 | private enterprise
+  企业文化 | corporate culture
+  企业形象 | corporate image
+  中小企业 | small and medium-sized enterprises (SMEs)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  万象更新 | wàn xiàng gēng xīn | everything takes on a completely fresh new look
+  百折不挠 | bǎi zhé bù náo | indomitable and unyielding despite repeated setbacks
+  蒸蒸日上 | zhēng zhēng rì shàng | thriving, prosperous, and flourishing day by day
+  基业长青 | jī yè cháng qīng | evergreen foundation; enduring business longevity
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  企 | qǐ | stand on tiptoe; look forward to; scheme; business | ponerse de puntillas; anhelar; planear; empresa | 人 | person | 人 (person) + 止 (foot standing on tiptoe to gaze into distance) | Historical phonetic nuance | 6 | 上下结构 | A person 人 standing on tiptoe on their feet 止 to gaze far into the future; represents vision, anticipation, ambition, and enterprise. | A visionary person (人) standing on tiptoes on their feet (止) gazes far into future markets (企). | Una persona visionaria (人) que se alza de puntillas sobre sus pies (止) oteando el porvenir (企). | 214 | OYM | ""
+  业 | yè | business; profession; trade; karma; estate | negocio; profesión; oficio; industria; patrimonio | 一 | one | Originally a wooden stand with notched boards used to hang large ceremonial bronze bells and drums | Archaic phonetic yè | 5 | 单一结构 | Carved notched stand for grand ritual musical instruments; extended to grand accomplishments, industries, professions, and corporate undertakings. | A majestic framed stand supporting ceremonial instruments symbolizes lifelong business endeavors (业). | Un sólido atril labrado para campanas ceremoniales que simboliza las grandes empresas y oficios (业). | 51 | TC | 業
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Looking forward with strategic vision on tiptoe (企) to build an enduring industrial foundation (业) creates an enterprise (企业).
+  composite_memory_hook_es: Mirar con visión de futuro (企) para erigir un próspero patrimonio productivo (业) forja una empresa (企业).
+  cultural_and_cognitive_roots: Coined during modernization to translate 'enterprise': 企 expresses visionary planning and entrepreneurial ambition, while 业 grounds it in durable trade.
+  tone_sandhi_and_pitch_modulation: Third tone followed by fourth tone: 'qǐ yè' (214-51). Low dip followed by strong, decisive drop.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    乞 | qǐ | beg; plead | Lacks the bottom horizontal base stroke of 止 in 企
+    止 | zhǐ | stop; halt | Lacks the top person 人 radical of 企
+    亚 | yà | Asia; second | Has two horizontal bars enclosing center, unlike vertical strokes of 业
+    严 | yán | strict; severe | Has top bars and slanted bottom stroke
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    商 | shāng | commerce; business
+    司 | sī | manage; company division
+    行 | háng | trade; firm
+    店 | diàn | shop; store
+
+semantic_boundary_contrasts:
+  core_nuance: 企业 refers to a formal economic, commercial, industrial, or corporate entity engaged in production, services, or trade.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 企业 vs. 公司 | gōngsī | 公司 is the specific legal structural form (corporation, LLC, etc.), whereas 企业 is broader and economic in nature encompassing state factories, farms, and conglomerates.
+    2 | 企业 vs. 事业 | shìyè | 事业单位 refers to non-profit public sector institutions (schools, public hospitals, museums), whereas 企业 operates for economic sustainability and profit.
+    3 | 企业 vs. 行业 | hángyè | 行业 designates an entire economic industry or branch of business (e.g. IT industry, steel industry), while 企业 is an individual firm within an industry.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 企业是推动国家经济高质量发展和技术创新的关键市场微观主体。面对全球绿色低碳转型的历史趋势，广大制造企业主动加大环保设备改造投入，以精益求精的工匠精神提升产品附加值，为实现可持续发展目标贡献了澎湃动能。 | Qǐyè shì tuīdòng guójiā jīngjì gāozhìliàng fāzhǎn yǔ jìshù chuàngxīn de guānjiàn shìchǎng wēiguān zhǔtǐ. Miànduì quánqiú lǜsè dītàn zhuǎnxíng de lìshǐ qūshì, guǎngdà zhìzào qǐyè zhǔdòng jiādà huánbǎo shèbèi gǎizào tóurù, yǐ jīngyìqiújīng de gōngjiàng jīngshén tíshēng chǎnpǐn fùjiāzhí, wèi shíxiàn kěchíxù fāzhǎn mùbiāo gòngxiànle péngbài dòngnéng. | Enterprises are the key market micro-entities driving economic growth and tech innovation. Confronting green low-carbon trends, manufacturers invest in eco-friendly upgrades, elevating product value with craftsmanship to boost sustainable development. | Las empresas son el motor microeconómico que impulsa el crecimiento y la innovación técnica. Ante la transición ecológica, las fábricas renuevan su maquinaria elevando el valor añadido del producto con rigor artesano.
+  #2 | 一家卓越的企业不仅能在商业竞争中创造优异的经济效益，更应当在社会公益、员工福祉与生态保护方面勇于承担责任。将崇高的企业社会责任深深融入企业文化之中，才能赢得全社会的长久赞誉，在风云变幻的商海中基业长青。 | Yī jiā zhuóyuè de qǐyè bùjǐn néng zài shāngyè jìngzhēng zhōng chuàngzào yōuyì de jīngjì xiàoyì, gèng yīngdāng zài shèhuì gōngyì, yuángōng fúzhǐ yǔ shēngtài bǎohù fāngmiàn yǒngyú chéngdān zérèn. Jiāng chónggāo de qǐyè shèhuì zérèn shēndēn róngrù qǐyè wénhuà zhīzhōng, cáinéng yíngdé quán shèhuì de chángjiǔ zànyù, zài fēngyún-biànhuàn de shānghǎi zhōng jīyè-chángqīng. | An outstanding enterprise not only generates stellar economic returns in business competition, but also shoulders duties in charity, employee welfare, and ecology. Embedding corporate social responsibility into culture ensures lasting success. | Una empresa sobresaliente no solo genera beneficios económicos, sino que asume compromisos en filantropía, bienestar laboral y ecología. Arraigar la responsabilidad social corporativa en su cultura garantiza un prestigio duradero.

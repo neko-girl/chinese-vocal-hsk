@@ -1,0 +1,64 @@
+id: 24
+hanzi: 记忆
+pinyin: jì yì
+level: HSK 5
+part_of_speech: Noun / Verb
+
+meanings_summary:
+  en: memory; recollection; to memorize; to remember
+  es: memoria; recuerdo; acordarse; memorizar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the cognitive faculty of encoding, retaining, and recalling past experiences, information, or skills | facultad cognitiva de retener y recordar vivencias o nociones pasadas; recuerdo | 记忆力很强 (have a strong memory)
+  2 | Verb | Standard | to commit to memory, memorize, or keep consciously in mind | memorizar, retener o fijar conocimientos en la mente | 记忆生词 (memorize new vocabulary)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 童年在外婆家门前那条清澈溪流边捉螃蟹的快乐时光，是他脑海中永不褪色的美好记忆。 | Tóngnián zài wàipó jiā ménqián nà tiáo qīngchè xīliú biān zhuō pángxiè de kuàilè shíguāng, shì tā nǎohǎi zhōng yǒngbútùisè de měihǎo jìyì. | Childhood happy hours catching crabs beside the clear brook before maternal grandmother's house are timeless memories that never fade in his mind. | Las risas de infancia atrapando cangrejos en el arroyo límpido frente a casa de la abuela son recuerdos imborrables en su memoria.
+  #2 | 神经科学研究表明，高质量的深度睡眠对于大脑巩固日间所学知识与形成长期记忆至关重要。 | Shénjīng kēxué yánjiū biǎomíng, gāozhìliàng de shēndù shuìmián duìyú dànǎo gǒnggù rìjiān suǒ xué zhīshi yǔ xíngchéng chángqī jìyì zhìguān-zhòngyào. | Neuroscience indicates that high-quality deep sleep is crucial for the brain to consolidate daytime knowledge and form long-term memories. | La neurociencia constata que el sueño profundo de calidad es crucial para que el cerebro fije lo aprendido y consolide la memoria duradera.
+
+collocations[6]{hanzi,en}:
+  记忆力 | memory capacity; power of recollection
+  童年记忆 | childhood memories
+  恢复记忆 | recover memory
+  长期记忆 | long-term memory
+  失去记忆 | lose memory / amnesia
+  唤醒记忆 | awaken/evoke memories
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  记忆犹新 | jì yì yóu xīn | remain fresh in one's memory; remember as if yesterday
+  难以忘怀 | nán yǐ wàng huái | hard to forget; cherished unforgettable memory
+  过目不忘 | guò mù bù wàng | photographic memory; never forget what has once been seen
+  铭肌镂骨 | míng jī lòu gǔ | engraved on flesh and bone; indelible deep gratitude
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  记 | jì | record; remember; chronicle; mark | anotar; recordar; crónica; marca | 讠 | speech | 讠 (spoken words recorded) + 己 (self / boundary marker) | 己 (jǐ / phonetic) | 5 | 左右结构 | Spoken words 讠 committed to personal awareness 己 on bamboo slips; signifies recording, noting down, or remembering. | Words (讠) are noted down carefully for oneself (己) so as to remember (记). | Las palabras (讠) se anotan para uno mismo (己) a fin de recordarlas bien (记). | 51 | IVSU | 記
+  忆 | yì | remember; recall; memory | recordar; evocar; memoria | 忄 | heart | 忄 (inner heart sentiment) + 乙 (twisted sprouting sprout) | 乙 (yǐ / phonetic origin) | 4 | 左右结构 | Heart radical 忄 storing uncurling thoughts and recollections 乙; represents reflecting back upon past events in the heart. | The heart (忄) traces back through winding past experiences (乙) to recall memories (忆). | El corazón (忄) desanda meandros del pasado (乙) evocando tiernos recuerdos (忆). | 51 | PN | 憶
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Notes recorded in words (记) that uncurl feelings in the heart (忆) form our memories (记忆).
+  composite_memory_hook_es: Apuntes transcritos en palabras (记) que despiertan el eco del corazón (忆) forman la memoria (记忆).
+  cultural_and_cognitive_roots: Epistemological pairing: 记 (external recorded inscription) + 忆 (internal affective recall in the heart); cognitive retaining and retrieving.
+  tone_sandhi_and_pitch_modulation: Double falling fourth tones: 'jì yì' (51-51). Descend sharply on 'jì', then land firmly with equal force on 'yì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    纪 | jì | era; record | Has silk radical 纟 on left of 己 instead of speech 讠 in 记
+    订 | dìng | book; subscribe | Has 丁 on right of 讠
+    乞 | qǐ | beg | Has upper horizontal stroke, unlike 乙
+    忙 | máng | busy | Has 亡 on right of 忄 instead of 乙 in 忆
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    念 | niàn | think of; mindful thought
+    怀 | huái | bosom; cherish memory
+    思 | sī | ponder deeply; yearn
+    想 | xiǎng | imagine; remember tree
+
+semantic_boundary_contrasts:
+  core_nuance: 记忆 encompasses both the biological cognitive storage faculty (memory capacity) and individual recollections of past events.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 记忆 vs. 回忆 | huíyì | 回忆 is an active dynamic verb meaning 'to recall / reminisce about past events' ('回忆童年往事'), while 记忆 is the noun faculty ('记忆力') or content of memory.
+    2 | 记忆 vs. 纪念 | jìniàn | 纪念 involves public honoring or keeping souvenirs of historical legacies ('人民英雄纪念碑'), while 记忆 is psychological storage.
+    3 | 记忆 vs. 记录 | jìlù | 记录 refers to written notes, recorded logs, or athletic sports scores ('打破世界纪录'), not neural cognitive storage.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在故乡斑驳青石板铺成的小巷深处，古老民居院落里飘散出熟悉的饭菜香气，总能瞬间激活沉睡在脑海深处的童年记忆。时光虽已匆匆流逝数十载，但那份浸润着亲情与乡愁的温馨回忆，却历久弥新、清晰如昨。 | Mànbù zài gùxiāng bānbó qīngshíbǎn pūchéng de xiǎoxiàng shēnchù, gǔlǎo mínjū yuànluò lǐ piāosàn chū shúxī de fàncài xiāngqì, zǒng néng shùnjiān jīhuó chénsù zài nǎohǎi shēnchù de tóngnián jìyì. Shíguāng suī yǐ cōngcōng liúshì shùshí zǎi, dàn nà fèn jìnrùn zhe qīnqíng yǔ xiāngchóu de wēnxīn huíyì, què lìjiǔ-míxīn, qīngxī rú zuó. | Strolling deep in old paved alleyways of home, aromas from ancient courtyards instantly awaken dormant childhood memories. Though decades passed, warm recollections soaked in family love remain fresh as yesterday. | Pasear por callejuelas empedradas de la aldea natal oliendo guisos caseros revive recuerdos de infancia adormecidos. Aunque pasen decenios, esa memoria teñida de cariño y nostalgia sigue viva como ayer.
+  #2 | 数字化时代，海量外部智能设备在极大拓展人类信息储存边界的同时，也在不知不觉中削弱了人们的本能记忆能力。面对电话号码与日常行程安排，现代人越来越依赖手机备忘录，自主大脑记忆训练显得愈发重要。 | Shùzìhuà shídài, hǎiliàng wàibù zhìnéng shèbèi zài jídà tuòzhǎn rénlèi xìnxī chǔcún biānjiè de tóngshí, yě zài bùzhī-bùjué zhōng xuēruò le rénmen de běnnéng jìyì nénglì. Miànduì diànhuà hàomǎ yǔ rìcháng xíngchéng ānpái, xiàndàirén yuèláiyuè yīlài shǒujī bèiwànglù, zìzhǔ dànǎo jìyì xùnliàn xiǎnde yùfā zhòngyào. | In the digital age, smart devices expand information storage boundaries yet subtly weaken innate memory. Relying on phone memos for contacts and agendas, autonomous brain memory exercise is ever more vital. | En la era digital, la memoria externa de los dispositivos móviles expande datos pero merma la retentiva natural. Confiando teléfonos y citas a blocs digitales, ejercitar la propia memoria cerebral se torna indispensable.

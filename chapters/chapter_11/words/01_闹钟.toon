@@ -1,0 +1,63 @@
+id: 1
+hanzi: 闹钟
+pinyin: nào zhōng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: alarm clock; alarm
+  es: despertador; reloj despertador
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a clock equipped with an acoustic mechanism to awaken sleeper or alert at a preset hour | reloj provisto de mecanismo sonoro para despertar al durmiente o avisar a una hora fijada | 调好闹钟 (set the alarm clock)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了赶上清晨首班高铁，他在睡觉前特意把手机闹钟设置在清晨五点整。 | Wèile gǎnshàng qīngchén shǒubān gāotiě, tā zài shuìjiào qián tèyì bǎ shǒujī nàozhōng shèzhì zài qīngchén wǔ diǎn zhěng. | In order to catch the morning's first high-speed train, he deliberately set his phone alarm clock to five o'clock sharp before sleeping. | Para no perder el primer tren de alta velocidad de la mañana, programó el despertador del móvil a las cinco en punto antes de acostarse.
+  #2 | 医学研究表明，长期被刺耳的机械闹钟突然惊醒容易引起心跳加速与情绪焦虑。 | Yīxué yánjiū biǎomíng, chángqī bèi cì'ěr de jīxiè nàozhōng tūrán jīngxǐng róngyì yǐnqǐ xīntiào jiāsù yǔ qíngxù jiāolǜ. | Medical research indicates that being startled awake for long periods by piercing mechanical alarms easily triggers rapid heartbeat and anxiety. | Estudios médicos señalan que ser despertado bruscamente por alarmas estridentes provoca taquicardia y desasosiego emocional prolongado.
+
+collocations[6]{hanzi,en}:
+  定闹钟 | set an alarm clock
+  闹钟响了 | alarm clock rings
+  机械闹钟 | mechanical alarm clock
+  电子闹钟 | electronic/digital alarm clock
+  关掉闹钟 | turn off / silence alarm
+  静音闹钟 | silent / vibration alarm
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  晨钟暮鼓 | chén zhōng mù gǔ | morning bell and evening drum; timely reminders of time's passing
+  警钟长鸣 | jǐng zhōng cháng míng | alarm bell ringing continuously; remain vigilant
+  鸡鸣戒旦 | jī míng jiè dàn | rooster crowing at dawn; diligent early rising
+  闻鸡起舞 | wén jī qǐ wǔ | rise upon hearing rooster crow to practice swords; hardworking vigor
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  闹 | nào | noisy; make noise; stir up; suffer from | ruidoso; alborotar; bullir; padecer | 门 | door / gate | 门 (city marketplace gates) + 市 (bustling market) | 闹 (nào) | 8 | 半包围结构 | Market crowds 市 shouting inside market gates 门; represents loud clamor, racket, and bustling commotion. | A bustling market (市) clamors noisily inside open city gates (门), making a lively commotion (闹). | El mercado bullicioso (市) vocifera tras las puertas (门) armando un alboroto sonoro (闹). | 51 | LSYB | 鬧
+  钟 | zhōng | clock; bell; cup; time unit | reloj; campana; copa; minuto | 钅 | metal / gold | 钅 (cast bronze metal) + 中 (straight upright spindle) | 重 (chóng/zhòng / phonetic origin) | 9 | 左右结构 | Metal radical 钅 paired with a hanging vessel; originally an ancient musical bronze bell, later timepiece clocks. | A bronze bell cast of metal (钅) rings at centered intervals (中) to mark the hour (钟). | Una campana forjada en metal (钅) tañe con compás equilibrado (中) midiendo la hora (钟). | 55 | CLP | 鐘
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A metallic bell (钟) that makes a loud, clamorous noise (闹) to awaken you is an alarm clock (闹钟).
+  composite_memory_hook_es: Una campana metálica (钟) que arma ruido estridente (闹) para despertarte es el despertador (闹钟).
+  cultural_and_cognitive_roots: Traditional Chinese temple bell and drum towers (钟鼓楼) announced dawn and curfew; Western mechanical clocks replaced them in the late Qing.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by level high tone: 'nào zhōng' (51-55). Strike down on 'nào', then sustain a clear high ring on 'zhōng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    闲 | xián | idle; leisure | Has wood 木 inside 门 instead of 市 in 闹
+    阔 | kuò | broad; vast | Has 活 inside 门
+    针 | zhēn | needle; pin | Has 十 on right of 钅 instead of 中 in 钟
+    钢 | gāng | steel | Has 冈 on right of 钅
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    表 | biǎo | watch; external surface
+    铃 | líng | little bell; tinkling chime
+    钲 | zhēng | ancient metallic gong
+    铎 | duó | large ancient handbell
+
+semantic_boundary_contrasts:
+  core_nuance: 闹钟 specifically denotes a timepiece designed to ring aloud at a pre-set alert time, distinguished from passive wall clocks.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 闹钟 vs. 时钟 | shízhōng | 时钟 refers generically to any large clock or clock tower, while 闹钟 specifically features an audible alarm mechanism.
+    2 | 闹钟 vs. 手表 | shǒubiǎo | 手表 designates a personal wrist watch worn on the wrist, whereas 闹钟 typically rests on a bedside nightstand or phone app.
+    3 | 闹钟 vs. 门铃 | ménlíng | 门铃 is an entrance doorbell triggered by arriving visitors, not a wake-up scheduling alarm.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 很多上班族为了防止早晨赖床迟到，往往习惯在床头设置多个间隔五分钟的响亮闹钟。然而生理学家指出，反复被吵醒又迷糊入睡会打乱大脑正常的睡眠节律，反而让人整天昏昏沉沉、精力不济。 | Hěnduō shàngbānzú wèile fángzhǐ zǎochen làichuáng chídào, wǎngwǎng xíguàn zài chuángtóu shèzhì duō ge jiàngé wǔ fēnzhōng de xiǎngliàng nàozhōng. Rán'ér shēnglǐxuéjiā zhǐchū, fǎnfù bèi chǎoxǐng yòu míhu rùshuì huì dǎluàn dànǎo zhèngcháng de shuìmián jiélǜ, fǎn'ér ràng rén zhěng tiān hūnhūn-chénchén, jīnglì bújì. | Many office workers set multiple alarms five minutes apart to prevent oversleeping. Yet physiologists warn that repeatedly being jolted awake disrupts brain sleep cycles, causing lethargy all day long. | Muchos empleados programan varias alarmas cada cinco minutos para no dormirse. Empero, fisiólogos advierten que despertar y adormilarse en bucle rompe el ciclo circadiano, causando sopor y fatiga todo el día.
+  #2 | 与刺耳突兀的传统机械铃声相比，新型智能光照闹钟能够模拟清晨自然日出的柔和光线。它在设定起床时间前半小时缓慢渐亮，温和地唤醒人体内部沉睡的生物钟，有效避免心血管系统骤然承受惊吓与血压波动。 | Yǔ cì'ěr tūwù de chuántǒng jīxiè língshēng xiāngbǐ, xīnxíng zhìnéng guāngzhào nàozhōng nénggòu mónǐ qīngchén zìrán rìchū de róuhé guāngxiàn. Tā zài shèdìng qǐchuáng shíjiān qián bàn xiǎoshí huǎnmàn jiànliàng, wēnhé de huànxǐng réntǐ nèibù chénsù de shēngwùzhōng, yǒuxiào bìmiǎn xīnxuèguǎn xìtǒng zhòurán chéngshòu jīngxià yǔ xuèyā bōdòng. | Compared with jarring mechanical rings, new smart sunrise alarms simulate morning dawn. Gradually brightening 30 minutes before waking, they gently awaken the internal biological clock without cardiovascular shocks. | Frente al estridente zumbador tradicional, los despertadores solares simulan el alba. Iluminando la estancia media hora antes, activan suavemente el reloj biológico sin sacudidas cardiovasculares ni alzas de presión.

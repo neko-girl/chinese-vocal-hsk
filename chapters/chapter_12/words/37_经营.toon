@@ -1,0 +1,64 @@
+id: 37
+hanzi: 经营
+pinyin: jīng yíng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to manage; operate; run (business, shop); orchestrate; deliberate
+  es: gestionar; administrar; regentar; dirigir un negocio; cultivar esmeradamente
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to organize, operate, and manage a commercial business, retail store, enterprise, or agricultural farm for revenue | organizar, dirigir y administrar una empresa, tienda o explotación agraria con fines económicos | 经营商铺 (operate a shop / retail store)
+  2 | Verb | Standard | to nurture, cultivate, and build up a relationship, family, or personal career with meticulous care | cultivar, cuidar y fomentar una relación afectiva, hogar o trayectoria con esmero continuo | 用心经营生活 (manage / cultivate life with care)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在海外多个新兴市场，腾讯秉持本地化经营理念，雇佣当地优秀人才负责日常社群运营与品牌拓展。 | Zài hǎiwài duō gè xīnxīng shìchǎng, Téngxùn bǐngchí běndìhuà jīngyíng lǐniàn, gùyōng dāngdì yōuxiù réncái fùzé rìcháng shèqún yùnyíng yǔ pǐnpái tuòzhǎn. | Across emerging overseas markets, Tencent upholds a localized management philosophy, hiring outstanding local talents to oversee community operations and brand expansion. | En mercados emergentes, Tencent aplica una filosofía de gestión localizada, contratando talento local para coordinar la comunidad y la marca.
+  #2 | 老夫妻俩在古城巷弄里精心经营着一家传统手工艺茶馆，几十年如一日的热情招待赢得了四方茶客的赞誉。 | Lǎo fūqī liǎ zài gǔchéng xiàngnòng lǐ jīngxīn jīngyíng zhe yī jiā chuántǒng shǒugōngyì cháguǎn, jǐshí nián rùyīrì de rèqíng zhāodài yíngdéle sìfāng chákè de zànyù. | The elderly couple meticulously managed a traditional artisanal teahouse in the ancient alleyway, winning travelers' acclaim with warm hospitality for decades. | La anciana pareja regenta con mimo una tetería artesanal en el casco antiguo, cosechando elogios con su hospitalidad entrañable a lo largo de décadas.
+
+collocations[6]{hanzi,en}:
+  经营模式 | business model / operating mode
+  合法经营 | lawfully operate / legal management
+  经营理念 | management philosophy / business ethos
+  精心经营 | meticulously manage / run with care
+  经营成本 | operating costs / business expenses
+  自主经营 | autonomous management / self-operation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  惨淡经营 | cǎn dàn jīng yíng | work painstakingly under difficult circumstances to build something up
+  苦心经营 | kǔ xīn jīng yíng | manage and build up through painstaking labor and deep dedication
+  精明强干 | jīng míng qiáng gàn | shrewd, capable, and efficient in business management
+  日进斗金 | rì jìn dǒu jīn | bring in bushels of gold daily; highly lucrative business
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  经 | jīng | warp thread; pass through; classics; manage | urdimbre; hilo longitudinal; pasar por; clásicos; regir | 纟 | silk | 纟 (longitudinal silk warp threads on loom) + 𢀖/巠 (flowing water veins) | 巠 (jīng, underground stream / phonetic) | 8 | 左右结构 | The vertical warp threads 纟 anchored on a weaving loom through which the shuttle passes; organizing, regulating, and planning an enterprise. | Guiding silk threads (纟) along straight continuous loom tracks plans the whole fabric (经). | Tensar los hilos de seda (纟) a lo largo del telar para ordenar el tejido del negocio (经). | 55 | VMNMO | 經
+  营 | yíng | camp; barracks; build; seek; operate | campamento; cuartel; edificar; gestionar; buscar | 艹 | grass | 艹/𤇾 (surrounding boundary / twin signal torches) + 吕/宫 (encircled tents and living chambers) | Archaic phonetic yíng | 11 | 上中下结构 | Encircling wooden palisades with watchfires at night around living quarters 吕; organizing military camps, constructing, and managing operations. | Guarding torchlights over interconnected barracks encampments (营) to manage troop affairs securely. | Lumbres de vigía sobre las estancias del campamento (营) para organizar con celo la plaza. | 35 | TRBR | 營
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Weaving the strategic warp threads (经) around a thriving commercial encampment (营) is business management (经营).
+  composite_memory_hook_es: Ordenar los hilos de la urdimbre (经) dentro del campamento de operaciones (营) es gestionar o regentar (经营).
+  cultural_and_cognitive_roots: Derived from classical planning (经之营之，不日成之 in the Book of Songs): surveying land, laying foundations, and running institutions to completion.
+  tone_sandhi_and_pitch_modulation: First tone followed by second tone: 'jīng yíng' (55-35). Hold high pitch 55, then glide up smoothly to 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    径 | jìng | path; diameter | Has step radical 彳 on left instead of silk 纟 in 经
+    茎 | jīng | stalk; stem | Has grass radical 艹 on top of 𢀖
+    荧 | yíng | fluorescent; glimmer | Has fire 火 at bottom instead of 吕 in 营
+    莹 | yíng | lustrous jade | Has jade 玉 at bottom
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    理 | lǐ | manage; put in order
+    管 | guǎn | control; supervise
+    运 | yùn | operate; transport
+    办 | bàn | manage; conduct
+
+semantic_boundary_contrasts:
+  core_nuance: 经营 emphasizes commercial decision-making, running shops/enterprises, or cultivating relationships with devoted care.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 经营 vs. 管理 | guǎnlǐ | 管理 focuses on internal administrative regulation, employee oversight, and operational order ('行政管理'), while 经营 focuses on external market strategy, profit, and commercial enterprise ('经营理念').
+    2 | 经营 vs. 运营 | yùnyíng | 运营 highlights the functional, technical, or day-to-day ongoing running of a railway, app, or system ('地铁运营', '用户运营'), while 经营 is broader commercial governance.
+    3 | 经营 vs. 营业 | yíngyè | 营业 refers simply to opening doors for business hours and sales during the day ('正常营业', '营业时间').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在市场竞争日趋白热化的互联网时代，企业唯有恪守诚信经营的道德底线，才能在消费者心中树立牢固的品牌丰碑。任何依靠虚假夸大宣传或侵害用户隐私牟取短期暴利的违规行为，终将在法治与市场的双重审判下自食恶果。 | Zài shìchǎng jìngzhēng rìqū báirèhuà de hùliánwǎng shídài, qǐyè wéiyǒu kèshǒu chéngxìn jīngyíng de dàodé dǐxiàn, cáinéng zài xiāofèizhě xīnzhōng shùlì láogù de pǐnpái fēngbēi. Rènhé yīkào xūjiǎ kuādà xuānchuán huò qīnhài yònghù yǐnsī móuqǔ duǎnqī bàolì de wéiguī xíngwéi, zhōng jiàng zài fǎzhì yǔ shìchǎng de shuāngzhòng shěnpàn xià zìshí-èguiǒ. | Amid cutthroat competition, enterprises must adhere to honest management to erect an enduring brand monument. Unlawful behavior relying on false advertising or privacy infringement for fast windfalls will inevitably face severe punishment. | En la feroz competencia digital, las empresas deben ceñirse a una gestión honesta para ganarse el aprecio del público. Lucrarse con publicidad engañosa o violar la intimidad acarrea el reproche inexorable de la ley y del mercado.
+  #2 | 家庭幸福与真挚友谊同样需要双方倾注心血去悉心经营。生活中难免会经历风雨坎坷与琐碎摩擦，懂得包容谅解、经常保持真诚深度的沟通，才能让爱的暖流在平凡的岁月长河中历久弥新，构筑起抵御一切外界风浪的温馨港湾。 | Jiātíng xìngfú yǔ zhēnzhì yǒuyì tóngyàng xūyào shuāngfāng qīngzhù xīnxuè qù xīxīn jīngyíng. Shēnghuó zhōng nánmiǎn huì jīnglì fēngyǔ kǎnkě yǔ suǒsuì mócā, dǒngde bāoróng liàngjiě, chángcháng bǎochí zhēnchéng shēndù de gōutōng, cáinéng ràng ài de nuǎnliú zài píngfán de suìyuè chánghé zhōng lìjiǔ-míxīn, gòuzhù qǐ dǐyù yīqiè wàijiè fēnglàng de wēnxīn gǎngwān. | Family bliss and sincere friendship similarly demand devoted care to cultivate. Life inevitably encounters friction; practicing forgiveness and honest communication keeps the warmth of love enduring, building a cozy haven against all storms. | La dicha familiar y la amistad entrañable exigen cultivarse con esmero constante. En la vida surgen fricciones; la comprensión y el diálogo sincero avivan el cariño construyendo un puerto seguro frente a cualquier temporal.

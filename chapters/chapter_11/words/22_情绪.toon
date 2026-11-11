@@ -1,0 +1,63 @@
+id: 22
+hanzi: 情绪
+pinyin: qíng xù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: emotion; mood; sentiment; morale
+  es: emoción; estado de ánimo; humor; temple
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a conscious mental reaction (anger, joy, grief, fear) subjectively experienced and accompanied by physiological changes | reacción psicofisiológica que refleja el estado de ánimo (alegría, cólera, pena, desánimo) | 控制情绪 (control one's emotions)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 成年人最重要的一项修养，就是在遇到挑衅或不顺心的事情时能够理智地管理好自己的负面情绪。 | Chéngniánrén zuì zhòngyào de yí xiàng xiūyǎng, jiùshì zài yùdào tiǎoxìn huò búshùnxīn de shìqing shí nénggòu lǐzhì de guǎnlǐ hǎo zìjǐ de fùmiàn qíngxù. | An adult's most important cultivation is managing negative emotions rationally when facing provocation or setbacks. | El rasgo primordial de madurez es saber gobernar las emociones negativas con raciocinio ante afrentas o contrariedades.
+  #2 | 连日阴雨绵绵、不见天日，灰暗低沉的天气容易导致部分敏感体质的人产生烦躁压抑的消极情绪。 | Liánrì yīnyǔ miánmián, bú jiàn tiānrì, huī'àn dīchén de tiānqì róngyì dǎozhì bùfen mǐngǎn tǐzhì de rén chǎnshēng fánzào yāyì de xiāojí qíngxù. | Successive days of continuous overcast rain and lack of sunshine easily cause sensitive people to develop irritable, depressed moods. | Días seguidos de llovizna plomiza y falta de sol inducen fácilmente desánimo, fastidio y melancolía en personas sensibles.
+
+collocations[6]{hanzi,en}:
+  稳定情绪 | stabilize emotions / calm down
+  负面情绪 | negative emotions
+  情绪低落 | depressed mood / low spirits
+  情绪激动 | emotionally agitated / excited
+  控制情绪 | control one's temper/emotions
+  情绪波动 | mood swings / emotional fluctuations
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  喜怒无常 | xǐ nù wú cháng | capricious and temperamental; unpredictable mood swings
+  喜形于色 | xǐ xíng yú sè | joy beaming on one's face; visibly joyful
+  心平气和 | xīn píng qì hé | calm and even-tempered; placid in mind and breath
+  意气风发 | yì qì fēng fā | in high and enthusiastic spirits; daring vigor
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  情 | qíng | feeling; emotion; sentiment; passion; situation | sentimiento; afecto; emoción; situación | 忄 | heart | 忄 (inner heart feelings) + 青 (pure green / budding life) | 青 (qīng, green/pure / phonetic) | 11 | 左右结构 | Heart radical 忄 combined with 青 (pure youthful vigor); feelings and emotional affections welling up from within the human soul. | Feelings in the human heart (忄) bloom fresh and genuine like spring greenery (青), creating emotion (情). | Los afectos del corazón (忄) brotan con la lozanía de la primavera verde (青) expresando la emoción (情). | 35 | PQMB | ""
+  绪 | xù | thread end; beginning; mental state; clue | cabo de hilo; principio; hilo mental; pista | 纟 | silk | 纟 (skein of silk thread) + 者 (person sorting fibers) | 者 (zhě, person / phonetic origin) | 11 | 左右结构 | Silk radical 纟 paired with 者; pulling the initial lead thread end out of a tangled cocoon to unravel order, extended to mental strands of mood. | A hand pulls the lead thread (纟) from a silk cocoon (者), sorting tangled emotional strands (绪). | Una mano desentraña el cabo (纟) de un capullo de seda (者) ordenando la maraña de afectos (绪). | 51 | VMJKA | 緒
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Heartfelt affections (情) tangled like unraveled silk threads (绪) make up human emotions and moods (情绪).
+  composite_memory_hook_es: Afectos del corazón (情) deshilvanados como hebras de seda (绪) componen el estado anímico (情绪).
+  cultural_and_cognitive_roots: Literary psychological metaphor (千头万绪: thousands of tangled emotional thread-ends); silk reeling mirrors the delicate sorting of complex psychological states.
+  tone_sandhi_and_pitch_modulation: Rising second tone followed by falling fourth tone: 'qíng xù' (35-51). Rise smoothly on 'qíng', then descend decisively on 'xù'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    晴 | qíng | sunny; clear | Has sun radical 日 on left of 青 instead of heart 忄 in 情
+    请 | qǐng | please; invite | Has speech radical 讠 on left of 青
+    绩 | jì | merit; achievement | Has 责 on right of 纟 instead of 者 in 绪
+    续 | xù | continue | Has 卖 on right of 纟
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    感 | gǎn | feel; moved by emotion
+    意 | yì | inner voice of heart; intent
+    心 | xīn | seat of feelings; heart
+    志 | zhì | willpower of mind
+
+semantic_boundary_contrasts:
+  core_nuance: 情绪 refers to dynamic, subjective psychological moods and emotional reactions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 情绪 vs. 情感 | qínggǎn | 情感 refers to deep, enduring, and stable moral or interpersonal sentiments (patriotic affection, love of family), while 情绪 refers to transient moods (anger, sadness, joy).
+    2 | 情绪 vs. 心情 | xīnqíng | 心情 is colloquial and refers to personal daily good/bad moods ('心情愉快'), while 情绪 can describe collective morale of crowds ('群众情绪稳定').
+    3 | 情绪 vs. 脾气 | píqi | 脾气 refers to innate human temperament or anger tantrums ('发脾气'), distinct from scientific emotional states.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 现代心理学研究发现，情绪并非理性思考的对立面，而是人类漫长演化历程中形成的高效生存预警机制。接纳自身情绪的存在，学会识别恐惧、愤怒或悲伤背后的心理诉求，是建立强大心理复原力不可或缺的第一步。 | Xiàndài xīnlǐxué yánjiū fāxiàn, qíngxù bìngfēi lǐxìng sīkǎo de duìlìmiàn, érshì rénlèi màncháng yǎnhuà lìchéng zhōng xíngchéng de gāoxiào shēngcún yùjǐng jīzhì. Jiēnà zìshēn qíngxù de cúnzài, xuéhuì shíbié kǒngjù, fènnù huò bēishāng bèihòu de xīnlǐ sùqiú, shì jiànlì qiángdà xīnlǐ fùyuánlì bùkě-huòquē de dì-yī bù. | Psychology shows emotions are not foes of reason, but efficient survival alert mechanisms evolved over eons. Accepting emotions and decoding the needs behind fear or anger is the first step toward building resilience. | La psicología moderna demuestra que la emoción no riñe con la razón, sino que es una alerta evolutiva de supervivencia. Asumir los afectos y descifrar el temor o la ira es clave para forjar resiliencia.
+  #2 | 在团队管理与团队协作中，领导者的情绪稳定度直接决定了整个团队的凝聚力与战斗力。面对突如其来的危机考验，主心骨若能从容镇定、临危不乱，便能有效抚平下属的恐慌情绪，带领大家迎难而上化解险情。 | Zài tuánduì guǎnlǐ yǔ tuánduì xiézuò zhōng, lǐngdǎozhě de qíngxù wěndìngdù zhíjiē juédìng le zhěng gè tuánduì de níngjùlì yǔ zhàndòulì. Miànduì tūrúqílái de wēijī kǎoyàn, zhǔxīngǔ ruò néng cóngróng-zhèndìng, línwēi-búluàn, biàn néng yǒuxiào fǔpíng xiàshǔ de kǒnghuāng qíngxù, dàilǐng dàjiā yíngnán'érshàng huàjiě xiǎnqíng. | In leadership, emotional stability determines team cohesion and fighting power. When facing crises, an unshakeable leader calms subordinates' panic, guiding everyone to confront difficulties and defuse peril. | En la dirección de equipos, el temple anímico del líder apuntala la cohesión colectiva. Ante las tempestades, un guía sereno sosiega el pánico general liderando con firmeza la superación del trance.

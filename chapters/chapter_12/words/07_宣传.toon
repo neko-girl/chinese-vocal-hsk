@@ -1,0 +1,64 @@
+id: 7
+hanzi: 宣传
+pinyin: xuān chuán
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to publicize; propagate; promote; advertising; publicity
+  es: publicitar; difundir; promover; propaganda; divulgación; campaña publicitaria
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to disseminate information, concepts, policies, or brand values to the public to convince, attract, or educate them | dar a conocer al público doctrinas, políticas, productos o marcas para persuadir o informar | 宣传新政策 (publicize new policies)
+  2 | Noun | Standard | publicity materials, promotional drives, or advertising campaigns aimed at widespread audience reach | campaña publicitaria, difusión mediática o conjunto de materiales divulgativos | 宣传手册 (promotional brochure)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了在欧美和东南亚市场迅速打响知名度，微信策划了一系列极具视觉冲击力的国际宣传广告。 | Wèile zài Ōu-Měi hé Dōngnányà shìchǎng xùnsù dǎxiǎng zhīmíngdù, Wēixìn cèhuàle yī xìliè jíjù shìjué chōngjīlì de guójì xuānchuán guǎnggào. | To quickly build brand awareness in Western and Southeast Asian markets, WeChat planned a series of visually striking international promotional ads. | Para ganar notoriedad en Europa, América y el Sudeste Asiático, WeChat diseñó una serie de anuncios promocionales de gran impacto visual.
+  #2 | 社区志愿者走上街头向居民发放垃圾分类宣传手册，耐心讲解低碳环保的绿色生活理念。 | Shèqū zhìyuànzhě zǒushàng jiētóu xiàng jūmín fāfàng lājī fēnlèi xuānchuán shǒucè, nàixīn jiǎngjiě dītàn huánbǎo de lǜsè shēnghuó lǐniàn. | Community volunteers took to the streets to distribute garbage-sorting brochures to residents, patiently explaining green low-carbon living concepts. | Voluntarios comunitarios salieron a la calle para repartir folletos divulgativos sobre reciclaje, explicando pautas para un estilo de vida sostenible.
+
+collocations[6]{hanzi,en}:
+  宣传活动 | publicity campaign / promotional event
+  大力宣传 | vigorously promote / publicize widely
+  宣传手册 | promotional brochure / flyer
+  宣传海报 | promotional poster
+  加大宣传 | step up publicity
+  宣传效果 | publicity effect
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  广而告之 | guǎng ér gào zhī | broadcast to all; advertise widely
+  名扬四海 | míng yáng sì hǎi | fame resonates across the four seas
+  大张旗鼓 | dà zhāng qí gǔ | with great fanfare and flying banners
+  宣宾夺主 | xuān bīn duó zhǔ | minor guest eclipses the principal host
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  宣 | xuān | proclaim; declare; announce; spread | proclamar; declarar; publicar; promulgar | 宀 | roof | 宀 (imperial palace hall) + 亘 (soaring circular heaven / broad span) | 亘 (xuān/gèn, broad span) | 9 | 上下结构 | An imperial palace 宀 where imperial edicts are pronounced outward across all quarters 亘; solemn announcement. | From high inside the palace pavilion (宀), the herald proclaims decrees broadly (宣). | Desde el palacio imperial (宀), el pregonero proclama solemnemente a los cuatro vientos (宣). | 55 | JMAM | ""
+  传 | chuán | pass on; spread; convey; transmit | transmitir; difundir; pasar; propagar | 亻 | person | 亻 (person / messenger) + 专 (spinning spindle / focused transmission) | 专 (zhuān / carrier phonetic) | 6 | 左右结构 | A courier person 亻 traveling between relay posts to convey news and messages uninterruptedly like spun thread 专. | A diligent messenger (亻) bearing single-minded focus (专) transmits announcements (传). | Un emisario (亻) que viaja consagrado (专) a propagar las noticias por todo el reino (传). | 35 | OQNI | 傳
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Proclaiming openly from the palace (宣) and having messengers pass the word widely (传) is publicizing and promoting (宣传).
+  composite_memory_hook_es: Proclamar edictos en público (宣) y hacer que los emisarios los difundan (传) es publicitar y divulgar (宣传).
+  cultural_and_cognitive_roots: From the ancient imperial office of the Grand Herald (宣谕使) tasked with broadcasting imperial laws and moral codes to the populace.
+  tone_sandhi_and_pitch_modulation: First tone followed by second tone: 'xuān chuán' (55-35). Hold high pitch 55, then glide cleanly up to 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    宙 | zhòu | universe; time | Has 由 under 宀 instead of 亘 in 宣
+    室 | shì | room; chamber | Has 至 under 宀
+    专 | zhuān | specialized | Lacks person radical 亻 on left of 传
+    转 | zhuǎn | turn; shift | Has vehicle radical 车 on left of 专
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    告 | gào | tell; inform
+    布 | bù | declare; spread out
+    扬 | yáng | raise; praise; scatter
+    播 | bō | broadcast; disperse
+
+semantic_boundary_contrasts:
+  core_nuance: 宣传 involves planned, organized campaigns to broadcast policies, ideas, or products to mold public opinion or boost sales.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 宣传 vs. 推广 | tuīguǎng | 宣传 stresses message dissemination and mental awareness through media/ads, whereas 推广 focuses on concrete adoption, operational deployment, and market penetration.
+    2 | 宣传 vs. 广告 | guǎnggào | 广告 refers specifically to commercial advertising spots and paid media placements, while 宣传 can encompass non-commercial social/political advocacy.
+    3 | 宣传 vs. 传达 | chuándá | 传达 denotes conveying internal directives, superior orders, or specific information to subordinates within an organization ('传达上级指示').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在新技术与新模式层出不穷的商业环境中，卓越的品牌宣传策略能够显著缩短新产品被大众市场接纳的周期。市场营销团队通过精准投放多维度多语种宣传物料，将核心科技亮点转化为消费者通俗易懂的生动故事。 | Zài xīnjìshù yǔ xīnmóshì céngchū-bùqióng de shāngyè huánjìng zhōng, zhuóyuè de pǐnpái xuānchuán cèlüè nénggòu xiǎnzhù suōduǎn xīn chǎnpǐn bèi dàzhòng shìchǎng jiēnà de zhōuqī. Shìchǎng yíngxiāo tuánduì tōngguò jīngzhǔn tóufàng duōwéidù duōyǔyán xuānchuán wùliào, jiāng héxīn kējì liàngdiǎn zhuǎnhuà wéi xiāofèizhě tōngsú-yìdǒng de shēngdòng gùshi. | Amid rapid technological evolution, exceptional promotional strategies shorten adoption cycles for new products. Marketing teams place multilingual materials strategically, translating tech highlights into compelling stories for consumers. | En un mercado de constante cambio técnico, una promoción brillante agiliza la adopción de productos novedosos. Los equipos de mercadotecnia lanzan contenidos en varias lenguas traduciendo avances técnicos en relatos atractivos.
+  #2 | 公共卫生部门在传染病高发季节之前，便深入各大学校与企事业单位开展防疫知识科普宣传。通过制作生动有趣的动画短片与分发图文并茂的宣传折页，不仅提高了广大居民的自我防护意识，更为构建坚实的群体免疫屏障奠定了群众基础。 | Gōnggòng wèishēng bùmén zài chuánrǎnbìng gāofā jìjié zhīqián, biàn shēnrù gè dà xuéxiào yǔ qǐshìyè dānwèi kāizhǎn fángyì zhīshi kēpǔ xuānchuán. Tōngguò zhìzuò shēngdòng yǒuqù de dònghuà duǎnpiàn yǔ fēnfā túwén-bìngmào de xuānchuán zhéyè, bùjǐn tígāole guǎngdà jūmín de zìwǒ fánghù yìshí, gèng wèi gòujiàn jiānshí de qúntǐ miǎnyì píngzhàng diàndìngle qúnzhòng jīchǔ. | Before seasonal contagion peaks, public health agencies conduct preventive publicity in schools and enterprises. By producing animated shorts and distributing brochures, they enhance self-protection awareness and build collective health defenses. | Sanidad Pública emprende campañas divulgativas en colegios y empresas antes de la temporada epidémica. Mediante vídeos animados y folletos ilustrados, fomentan la prevención individual apuntalando la inmunidad colectiva.

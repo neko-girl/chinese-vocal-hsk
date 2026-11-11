@@ -1,0 +1,64 @@
+id: 11
+hanzi: 现代
+pinyin: xiàn dài
+level: HSK 5
+part_of_speech: Noun / Adjective
+
+meanings_summary:
+  en: modern times; the contemporary era; modern; contemporary
+  es: época moderna; era contemporánea; moderno; actual
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the historical period of current or recent times | período histórico actual o reciente; la época contemporánea | 现代社会 (modern society)
+  2 | Adjective | Standard | belonging to or characteristic of present or recent times; up-to-date | perteneciente o relativo a la época presente; avanzado y actual | 现代化的设施 (modernized facilities)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 高速发展的高新科技正在以惊人的速度深刻重塑着现代人们的日常生活方式。 | Gāosù fāzhǎn de gāoxīnkējì zhèngzài yǐ jīngrén de sùdù shēnkè chóngsù zhe xiàndài rénmen de rìcháng shēnghuó fāngshì. | Rapidly advancing high technology is deeply reshaping the everyday lifestyles of modern people at an astonishing pace. | El veloz desarrollo de la alta tecnología está remodelando profundamente y a ritmo vertiginoso el modo de vida de las personas de hoy.
+  #2 | 这座新建的国际机场航站楼设计前卫，配备了世界顶尖水准的现代化智能值机系统。 | Zhè zuò xīnjiàn de guójì jīchǎng hángzhànlóu shèjì qiánwèi, pèibèi le shìjiè dǐngjiān shuǐzhǔn de xiàndàihuà zhìnéng zhíjī xìtǒng. | The newly built international airport terminal boasts avant-garde design and is equipped with world-class modernized smart check-in systems. | La nueva terminal del aeropuerto internacional luce un diseño vanguardista y cuenta con sistemas de facturación inteligentes de última generación.
+
+collocations[6]{hanzi,en}:
+  现代社会 | modern society
+  现代化 | modernization; modernize
+  现代科学 | modern science
+  现代生活 | modern life
+  现代艺术 | modern/contemporary art
+  现代汉语 | Modern Chinese (Putonghua)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  与时俱进 | yǔ shí jù jìn | advance with the times; keep abreast of developments
+  日新月异 | rì xīn yuè yì | change and progress with each passing day
+  古为今用 | gǔ wéi jīn yòng | make the ancient serve the present
+  革故鼎新 | gé gù dǐng xīn | cast off the old and embrace the new
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  现 | xiàn | appear; present; current; now | aparecer; presente; actual; ahora | 王 | jade | 王 (fine jade emerging) + 见 (observing eye seeing clearly) | 见 (jiàn / phonetic origin) | 8 | 左右结构 | Carving raw jade stone 王 until its inner luster becomes visible to the eye 见; denotes appearing, manifesting, or the present moment. | A lapidary polishes jade (王) until its brilliant luster appears (现) before our eyes (见). | Un artesano pule el jade (王) hasta que su brillo resplandece patente (现) a la vista (见). | 51 | MGBU | 現
+  代 | dài | generation; era; substitute; replace | generación; era; época; sustituir | 亻 | person | 亻 (person) + 弋 (stake marking boundary/shift) | 弋 (yì, stake / phonetic) | 5 | 左右结构 | A person 亻 standing guard at a post marked by a stake 弋 until replaced by the next sentinel; represents generations, eras, and substitution. | A guard (亻) takes over the post marked by a stake (弋), handing duties down from generation to generation (代). | Un centinela (亻) releva la guardia junto a la estaca (弋) transmitiendo el relevo generacional (代). | 51 | OIP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The era (代) manifesting in the living present (现) is the modern era (现代).
+  composite_memory_hook_es: La época o relevo (代) que se manifiesta en el presente vivo (现) es la era moderna (现代).
+  cultural_and_cognitive_roots: Historiographical era triad: 古代 (ancient times), 近代 (modern era from late Qing/Opium War to May Fourth), 现代 (contemporary era).
+  tone_sandhi_and_pitch_modulation: Double falling fourth tones: 'xiàn dài' (51-51). Descend sharply on 'xiàn', then land with a firm snap on 'dài'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    规 | guī | rule; compass | Has 夫 on left of 见 instead of jade 王 in 现
+    视 | shì | look; inspect | Has altar 礻 on left of 见
+    伐 | fá | cut down; attack | Has dagger-axe 戈 on right of 亻 instead of 弋 in 代
+    化 | huà | transform | Has 匕 on right of 亻
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    今 | jīn | present time; now
+    世 | shì | generation of thirty years; world
+    纪 | jì | silk thread era; century
+    新 | xīn | new; fresh timber
+
+semantic_boundary_contrasts:
+  core_nuance: 现代 denotes the present historical era (spanning roughly from the 20th century to the present day).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 现代 vs. 当代 | dāngdài | 当代 specifically denotes the immediate current living generation (post-1949 or current decades), while 现代 broadly spans the 20th century forward.
+    2 | 现代 vs. 近代 | jìndài | 近代 in Chinese historiography designates the era from the 1840 Opium War to 1919 May Fourth Movement, strictly distinct from 现代.
+    3 | 现代 vs. 目前 | mùqián | 目前 is a short-term temporal adverb meaning 'at present / currently' ('目前没有问题'), whereas 现代 is macroscopic historical time.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 步入现代社会，都市生活节奏日益加快，琳琅满目的智能手机与移动网络极大地便利了人们的衣食住行。然而伴随信息爆炸与全天候连接，现代人也面临着前所未有的心理压力、数字焦虑与睡眠剥夺挑战。 | Bùrù xiàndài shèhuì, dūshì shēnghuó jiézòu rìyì jiākuài, línláng-mǎnmù de zhìnéng shǒujī yǔ yídòng wǎngluò jídà de biànlì le rénmen de yī-shí-zhù-xíng. Rán'ér bànsuí xìnxī bàozhà yǔ quántiānhòu liánjiē, xiàndàirén yě miànlín zhe qiánsuǒwèijiàn de xīnlǐ yālì, shùzì jiāolǜ yǔ shuìmián bōduó tiǎozhàn. | Entering modern society, urban tempos accelerate as smartphones and mobile networks streamline life. Yet alongside information explosions and perpetual connectivity, modern people face unprecedented mental stress and sleep deprivation. | En la sociedad moderna el ritmo urbano se acelera con móviles y redes telemáticas. Empero, la hiperconexión acarrea tensiones inéditas, ansiedad digital y privación del descanso reparador.
+  #2 | 中国式现代化既有各国现代化的共同特征，更有基于自己国情的鲜明中国特色。它是人口规模巨大的现代化，是全体人民共同富裕的现代化，是物质文明和精神文明相协调的现代化，为人类探索更好社会制度贡献了中国智慧。 | Zhōngguóshì xiàndàihuà jì yǒu gèguó xiàndàihuà de gòngtóng tèzhēng, gèng yǒu jīyú zìjǐ guóqíng de xiānmíng Zhōngguó tèsè. Tā shì rénkǒu guīmó jùdà de xiàndàihuà, shì quántǐ rénmín gòngtóng fùyù de xiàndàihuà, shì wùzhì wénmíng hé jīngshén wénmíng xiāng xiétiáo de xiàndàihuà, wèi rénlèi tànsuǒ gèng hǎo shèhuì zhìdù gòngxiàn le Zhōngguó zhìhuì. | Chinese modernization shares universal traits while rooted in national conditions: massive population scale, common prosperity, and harmony between material and cultural progress, contributing wisdom to human institutions. | La modernización china combina rasgos universales y peculiaridades propias: escala demográfica ingente, prosperidad compartida y armonía material y espiritual, enriqueciendo la gobernanza global.

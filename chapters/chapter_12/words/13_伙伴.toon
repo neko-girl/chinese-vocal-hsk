@@ -1,0 +1,63 @@
+id: 13
+hanzi: 伙伴
+pinyin: huǒ bàn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: partner; companion; associate; pal; ally
+  es: compañero; socio; aliado; partícipe; colega
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person, entity, or nation closely associated with another in a joint activity, business endeavor, or friendship | persona, empresa o país que comparte una actividad, negocio, causa o estrecha amistad con otro | 合作伙伴 (cooperative business partner)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国互联网企业在拓展海外市场时，积极寻找当地实力雄厚的电信运营商作为战略合作伙伴。 | Zhōngguó hùliánwǎng qǐyè zài tuòzhǎn hǎiwài shìchǎng shí, jījí xúnzhǎo dāngdì shílì xiónghòu de diànxìn yùnyíngshāng zuòwéi zhànlüè hézuò huǒbàn. | When expanding into overseas markets, Chinese Internet firms actively seek powerful local telecom carriers as strategic partners. | Al expandirse en ultramar, las tecnológicas chinas buscan operadoras locales consolidadas como socios estratégicos de confianza.
+  #2 | 每当回忆起童年时代在村头小河边与小伙伴们嬉水抓鱼的情景，他心中总会泛起阵阵暖意。 | Měidāng huíyì qǐ tóngnián shídài zài cūntóu xiǎohé biān yǔ xiǎohuǒbànmen xīshuǐ zhuāyú de qíngjǐng, tā xīnzhōng zǒng huì fànqǐ zhènzhèn nuǎnyì. | Whenever he reminisces about splashing and catching fish by the village stream with childhood pals, warmth wells up in his heart. | Al evocar cómo chapoteaba pescando en el arroyo con sus compañeros de infancia, una oleada de entrañable calidez inunda su corazón.
+
+collocations[6]{hanzi,en}:
+  合作伙伴 | cooperative partner / associate
+  战略伙伴 | strategic partner
+  小伙伴 | little companion / childhood pal
+  忠实伙伴 | faithful companion
+  贸易伙伴 | trading partner
+  寻找伙伴 | seek a partner
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  同甘共苦 | tóng gān gòng kǔ | share joys and sorrows through thick and thin
+  休戚与共 | xiū qī yǔ gòng | share common weal and woe in close solidarity
+  莫逆之交 | mò nì zhī jiāo | bosom friends with complete mutual understanding
+  金石为开 | jīn shí wéi kāi | sincerity splits even gold and stone
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  伙 | huǒ | companion; partner; group; mess food | compañero; socio; cuadrilla; rancho de comida | 亻 | person | 亻 (person / comrade) + 火 (campfire / hearth flame) | 火 (huǒ, fire / phonetic companion) | 6 | 左右结构 | Soldiers or comrades 亻 sharing meals cooked over the same campfire flame 火; fellow messmates. | Comrades (亻) gathered around a warm camp cooking fire (火) share food as brothers (伙). | Soldados (亻) reunidos al calor de la hoguera (火) compartiendo el rancho como camaradas (伙). | 214 | OF | ""
+  伴 | bàn | accompany; partner; associate; attend | acompañar; compañero; pareja; escoltar | 亻 | person | 亻 (person walking beside) + 半 (half / equal counterpart) | 半 (bàn, half / phonetic) | 7 | 左右结构 | A person 亻 who serves as the other matching half 半 of a pair; a walking companion or partner. | A loving person (亻) standing as your missing half (半) walks beside you as a companion (伴). | Una persona (亻) que encarna tu otra mitad (半) y camina a tu lado como fiel compañera (伴). | 51 | OFQ | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Comrades sharing the mess fire (伙) who stand as your other matching half (伴) are true partners (伙伴).
+  composite_memory_hook_es: Los camaradas que comparten el fogón (伙) y caminan a tu lado como tu otra mitad (伴) son compañeros (伙伴).
+  cultural_and_cognitive_roots: Originates from the military logistics system of ancient China (火伴): ten soldiers forming a single mess squad sharing one cooking pot.
+  tone_sandhi_and_pitch_modulation: Third tone followed by fourth tone: 'huǒ bàn' (214-51). Dip low with 214, then drop sharply with 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    秋 | qiū | autumn | Has grain radical 禾 on left of 火 instead of person 亻 in 伙
+    狄 | dí | northern tribes | Has dog radical 犭 on left of 火
+    判 | pàn | judge; distinguish | Has knife radical 刂 on right of 半
+    胖 | pàng | fat; stout | Has flesh radical 月 on left of 半
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    友 | yǒu | friend; friendship
+    朋 | péng | friend; peer
+    侣 | lǚ | companion; mate
+    俦 | chóu | comrade; fellow
+
+semantic_boundary_contrasts:
+  core_nuance: 伙伴 highlights mutual accompaniment, joint participation in ventures, or informal camaraderie.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 伙伴 vs. 朋友 | péngyou | 朋友 emphasizes emotional personal friendship and social closeness, whereas 伙伴 often includes shared commercial tasks or business alliances ('商业伙伴').
+    2 | 伙伴 vs. 同事 | tóngshì | 同事 specifically denotes coworkers employed at the same firm or institution, while 伙伴 can cross corporate and national boundaries.
+    3 | 伙伴 vs. 同伴 | tóngbàn | 同伴 usually refers to people traveling or carrying out a specific transient trip together ('旅行同伴'), while 伙伴 can denote lasting strategic partners.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在携手推进共建“一带一路”高质量发展的征程中，各参与国秉持共商共建共享原则，结成了休戚与共的紧密合作伙伴。通过加强港口、铁路与新能源电站等重大基础设施联通，为沿线各国人民带来了沉甸甸的发展福祉。 | Zài xiéshǒu tuījìn gòngjiàn 'Yīdài Yīlù' gāozhìliàng fāzhǎn de zhēngchéng zhōng, gè cānyùguó bǐngchí gòngshāng-gòngjiàn-gòngxiǎng yuánzé, jiéchéngle xiūqī-yǔgòng de jǐnmì hézuò huǒbàn. Tōngguò jiāqiáng gǎngkǒu, tiělù yǔ xīnnéngyuán diànzhàn děng zhòngdà jīchǔ shèshī liántōng, wèi yánxiàn gè guó rénmín dàiláile chéndiāndiān de fāzhǎn fúzhǐ. | In promoting high-quality Belt and Road development, participating nations adhere to consultation and joint building, forging close partnerships. Upgrading ports, railways, and power grids brings tangible well-being to all peoples. | En la Franja y la Ruta, los países asociados cooperan bajo el principio de consulta y beneficio compartido forjando alianzas sólidas. La interconexión de puertos, vías férreas y centrales de energía genera prosperidad palpable.
+  #2 | 科研团队的带头人常说，在探索未知真理的漫长而孤独的道路上，志同道合的实验室伙伴是给予自己最大精神力量的源泉。大家在无数次试验失败时不离不弃、互相打气，正是这种肝胆相照的伙伴情谊铸就了最后的突破奇迹。 | Kēyán tuánduì de dàitóurén cháng shuō, zài tànsuǒ wèizhī zhēnlǐ de màncháng ér gūdú de dàolù shàng, zhìtóng-dàohé de shíyànshì huǒbàn shì jǐyǔ zìjǐ zuìdà jīngshén lìliang de yuánquán. Dàjiā zài wúshù cì shìyàn shībài shí bùlí-búqì, hùxiāng dǎqì, zhèngshì zhèzhǒng gāndǎn-xiāngzhào de huǒbàn qíngyì zhùjiùle zuìhòu de tūpò qíjī. | The research lead often said that on the lonely road of seeking scientific truth, like-minded lab partners are the greatest source of strength. Standing by each other through repeated failures, this deep camaraderie forged ultimate breakthroughs. | El jefe de investigación afirma que en el arduo camino de la ciencia, los colegas de laboratorio son el mayor sostén anímico. Apoyándose en cada tropiezo con lealtad inquebrantable, ese compañerismo obró el milagro del éxito final.

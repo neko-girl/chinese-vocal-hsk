@@ -1,0 +1,64 @@
+id: 8
+hanzi: 手笔
+pinyin: shǒu bǐ
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: style of handling affairs; bold financial move; master stroke; original manuscript
+  es: estilo magnánimo de obrar; despliegue audaz; golpe maestro; autógrafo; pluma
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the scale, boldness, generosity, or impressive style shown in executing an endeavor or commercial venture | magnitud, audacia o generosidad con la que se acomete un proyecto, gasto o negocio | 大手笔投资 (large-scale investment / bold financial move)
+  2 | Noun | Formal | an original piece of calligraphy, painting, or literary work executed by a renowned master's own hand | manuscrito, cuadro o caligrafía original salido del propio puño y letra de un maestro | 名家手笔 (the hand of a celebrated master)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 花费数千万美元签下全球最贵足球巨星并制作世界级广告，堪称中国互联网企业出海的大手笔。 | Huāfèi shùqiānwàn měiyuán qiānxià quánqiú zuì guì zúqiú jùxīng bìng zhìzuò shìjièjí guǎnggào, kānchēng Zhōngguó hùliánwǎng qǐyè chūhǎi de dàshǒubǐ. | Spending tens of millions of dollars to sign the world's highest-paid soccer superstar and produce ads was hailed as a magnificent bold stroke for Chinese tech expansion. | Invertir decenas de millones de dólares en fichar al futbolista más cotizado y rodar anuncios mundiales fue un despliegue grandioso del software chino.
+  #2 | 这座气势磅礴的国家大剧院建筑出自国际知名设计大师的手笔，线条流畅且极具未来感。 | Zhè zuò qìshì pángbó de guójiā dàjùyuàn jiànzhù chūzì guójì zhīmíng shèjì dàshī de shǒubǐ, xiàntiáo liúchàng qiě jíjù wèiláigǎn. | This majestic National Grand Theatre building came from the hand of an internationally renowned master architect, boasting flowing futuristic lines. | El monumental Gran Teatro Nacional salió de la pluma de un prestigioso arquitecto internacional, con líneas fluidas de aire vanguardista.
+
+collocations[6]{hanzi,en}:
+  大手笔 | grand gesture; bold scale; huge investment
+  名家手笔 | master's hand; work of a celebrated master
+  惊人手笔 | astonishingly bold move
+  出自手笔 | from the hand of...
+  挥霍手笔 | lavish spending style
+  大师手笔 | hand of a great master
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  神来之笔 | shén lái zhī bǐ | a stroke of inspired genius; exquisite artistic touch
+  妙笔生花 | miào bǐ shēng huā | gifted pen blossoming into brilliant literary works
+  大手大脚 | dà shǒu dà jiǎo | wasteful, extravagant, and loose with money
+  行家手笔 | háng jiā shǒu bǐ | the skilled craftsmanship of an expert professional
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  手 | shǒu | hand; skill; person engaged in a craft | mano; destreza; operario; artesano | 手 | hand | Pictograph of an outstretched human hand with five fingers | Pictograph of hand | 4 | 单一结构 | A pictograph of an open human hand showing palm lines and five outstretched fingers; agency, skill, and personal execution. | An outstretched hand (手) ready to grasp tools and execute grand bold deeds. | Una mano abierta (手) que blande instrumentos para ejecutar obras con destreza. | 214 | Q | ""
+  笔 | bǐ | writing brush; pen; stroke of brush; write | pincel; pluma; trazo caligráfico; escribir | 竹 | bamboo | 竹 (bamboo brush shaft) + 毛 (animal hair brush tip) | Historical phonetic nuance in 筆 | 10 | 上下结构 | A writing instrument made from a slender bamboo shaft 竹 tufted with animal hair 毛; the traditional Chinese writing brush. | Slender bamboo (竹) tipped with soft animal hair (毛) forms a writing brush (笔). | Una caña de bambú (竹) con pelo fino en la punta (毛) da cuerpo al pincel de escribir (笔). | 214 | HHU | 筆
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A master's capable hand (手) wielding the ink brush (笔) with magnificent flourish represents a bold move or master stroke (手笔).
+  composite_memory_hook_es: La mano diestra (手) blandiendo el pincel (笔) con audacia majestuosa representa un despliegue grandioso o golpe maestro (手笔).
+  cultural_and_cognitive_roots: Originates from literary and artistic patronage: an emperor or wealthy patron deploying immense gold to commission grand poems and scrolls from famous brushes (名家手笔).
+  tone_sandhi_and_pitch_modulation: Two third tones in succession: 'shǒu bǐ' transforms via tone sandhi into (35-214). Pronounce 'shóu bǐ'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    毛 | máo | hair; fur | Bottom stroke curves rightwards with a hook, unlike 手
+    乎 | hū | particle; at | Has a slanted hook and dots at top, unlike 手
+    竿 | gān | pole; rod | Has 干 under bamboo 竹 instead of 毛 in 笔
+    笛 | dí | flute | Has 由 under bamboo 竹
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    作 | zuò | make; compose; masterpiece
+    画 | huà | paint; drawing
+    划 | huà | plan; divide
+    构 | gòu | construct; conceive
+
+semantic_boundary_contrasts:
+  core_nuance: 手笔 denotes the boldness of scale and generous artistic or financial vision behind a venture or creative masterpiece.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 手笔 vs. 作风 | zuòfēng | 作风 refers to habitual ethical conduct, workplace discipline, or political style ('艰苦朴素的作风'), whereas 手笔 evaluates the grandeur and daring scale of action.
+    2 | 手笔 vs. 举措 | jǔcuò | 举措 refers to specific policy measures or strategic steps taken by governments or firms ('重大改革举措'), while 手笔 is evaluative and rhetorical.
+    3 | 手笔 vs. 魄力 | pòlì | 魄力 denotes internal psychological courage and daring decisiveness of a person ('有魄力的领导'), while 手笔 describes the concrete scale and manifestation of work.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在推动数字经济与实体产业深度融合的进程中，该科技集团斥资数千亿元设立前沿基础科学实验室，展现出极具前瞻性的大手笔。这种不计短期成本、深耕底层核心算法与芯片研发的雄心，赢得了国际科技界的高度赞誉。 | Zài tuīdòng shùzì jīngjì yǔ shítǐ chǎnyè shēndù rónghé de jìnchéng zhōng, gāi kējì jítuán chìzī shùqiān yì yuán shèlì qiányán jīchǔ kēxué shíyànshì, zhǎnxiàn chū jíjù qiánzhānxìng de dàshǒubǐ. Zhèzhǒng bújì duǎnqī chéngběn, shēngēng dǐcéng héxīn suànfǎ yǔ xīnpiàn yánfā de xióngxīn, yíngdéle guójì kējìjiè de gāodù zànyù. | In merging the digital and real economies, the tech group invested hundreds of billions in foundational science labs, showing visionary boldness. This ambition to pioneer core algorithms regardless of short-term costs won global praise. | Para fundir la economía digital y la industria real, el consorcio invirtió cientos de miles de millones en laboratorios científicos, en un despliegue visionario. Esta apuesta por algoritmos y microchips cosechó elogios mundiales.
+  #2 | 漫步在苏州古典园林之中，游客无不惊叹于叠山理水之间所透露出的大师手笔。叠石高低错落、亭台曲径通幽，哪怕是窗框对准的一枝疏竹，都构成了宛若水墨画卷的精妙框景，处处流露出中国古典造园艺术的非凡神韵。 | Mànbù zài Sūzhōu gǔdiǎn yuánlín zhīzhōng, yóukè wúbù jīngtàn yú diéshān-lǐshuǐ zhījiān suǒ tòulù chū de dàshī shǒubǐ. Diéshí gāodī-cuòluò, tíngtái qūjìng-tōngyōu, nǎpà shì chuāngkuàng duìzhǔn de yī zhī shūzhú, dōu gòuchéngle wǎnrù shuǐmò huàjuàn de jīngmiào kuàngjǐng, chùchù liúlù chū Zhōngguó gǔdiǎn zàoyuán yìshù de fēifán shényùn. | Strolling through classical Suzhou gardens, visitors marvel at the masterly hand revealed in rocking and water layouts. Terraced stones, pavilions, and single bamboo branches framed in windows capture the timeless spirit of Chinese landscape art. | Al pasear por los jardines de Suzhou, los visitantes admiran la pluma magistral que dispuso rocallas y estanques. Pabellones y senderos serpenteantes enmarcan ramas de bambú evocando lienzos de aguada de inigualable belleza.

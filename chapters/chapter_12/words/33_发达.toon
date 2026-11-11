@@ -1,0 +1,64 @@
+id: 33
+hanzi: 发达
+pinyin: fā dá
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: developed; flourishing; advanced; well-developed; muscular
+  es: desarrollado; próspero; avanzado; floreciente; fornido; vigoroso
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | highly advanced, flourishing, and prosperous in economy, technology, culture, or communications | que ha alcanzado un alto nivel de progreso, bonanza y desarrollo económico, técnico o cultural | 发达国家 (developed country)
+  2 | Adjective | Standard | well-formed, strong, and highly developed physically (of muscles, root systems, limbs) | robusto, musculoso o bien formado anatómicamente (dícese de músculos o raíces) | 肌肉发达 (well-developed muscles; muscular)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在欧美等经济高度发达的国家，移动互联网应用生态起步早、竞争极其白热化。 | Zài Ōu-Měi děng jīngjì gāodù fādá de guójiā, yídòng hùliánwǎng yìngyòng shēngtài qǐbù zǎo, jìngzhēng jíqí báirèhuà. | In highly economically developed Western nations, mobile internet app ecosystems took off early and face intensely cutthroat competition. | En países occidentales de economías muy desarrolladas, las aplicaciones móviles maduraron antes y compiten con feroz intensidad.
+  #2 | 这名职业体操运动员不仅动作优美舒展，双臂与后背那格外发达的肌肉线条更是令人惊叹。 | Zhè míng zhíyè tǐcāo yùndòngyuán bùjǐn dòngzuò yōuměi shūzhǎn, shuāngbì yǔ hòubèi nà géwài fādá de jīròu xiàntiáo gèngshì lìngrén jīngtàn. | This professional gymnast not only executes graceful, extended movements, but boasts astonishingly well-developed muscle lines across arms and back. | Este gimnasta profesional ejecuta rutinas elegantes luciendo una musculatura asombrosamente desarrollada en brazos y espalda.
+
+collocations[6]{hanzi,en}:
+  发达国家 | developed country
+  经济发达 | economically developed
+  交通发达 | well-developed transportation
+  肌肉发达 | muscular; well-developed muscles
+  高度发达 | highly developed / advanced
+  科技发达 | technologically advanced
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  四通八达 | sì tōng bā dá | accessible from all directions; well-connected transit
+  发家致富 | fā jiā zhì fù | build up family fortune and achieve prosperity
+  兴旺发达 | xīng wàng fā dá | thriving, prosperous, and flourishing vigorously
+  通达世情 | tōng dá shì qíng | worldly-wise; understanding human ways thoroughly
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  发 | fā | shoot; emit; launch; develop; prosper | disparar; emitir; lanzar; expandir; prosperar | 又 | hand / again | A hand shooting an arrow from a drawn bow forward; simplified from 發 | Historical phonetic nuance in 發 | 5 | 单一结构 | Releasing an arrow from an archer's bow; surging forward into swift dynamic expansion, launch, and flourishing development. | An arrow shot from a bowstring surges forward with unstoppable momentum (发). | Una flecha impulsada por la cuerda del arco que avanza con brío arrollador (发). | 55 | IVE | 發
+  达 | dá | reach; arrive at; communicate; express; succeed | llegar; alcanzar; comunicar; acceder; prosperar | 辶 | walk / movement | 辶 (traveling footsteps) + 大 (person striding broadly ahead) | 大 (dà, big / phonetic nuance dá) | 6 | 半包围结构 | Stepping along a smooth clear path 辶 until arriving 大 at one's intended goal; reaching, arriving, and achieving eminence. | Striding proudly down the pathway (辶) until arriving at a grand destination (达). | Caminar con paso firme por la calzada (辶) hasta alcanzar la gran meta soñada (达). | 35 | YK | 達
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Surging forward with explosive energy (发) until reaching the highest destination (达) is being developed and advanced (发达).
+  composite_memory_hook_es: Expandirse con pujanza (发) hasta alcanzar el cenit del progreso (达) es ser desarrollado o próspero (发达).
+  cultural_and_cognitive_roots: Classical idiom (通达、发迹): achieving prosperous success in social rank, which modern political economy applied to industrialized nations (发达国家).
+  tone_sandhi_and_pitch_modulation: First tone followed by second tone: 'fā dá' (55-35). Hold high ceiling 55, then glide up cleanly to 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    伐 | fá | cut down; fell trees | Has person radical 亻 on left of halberd 戈, unlike 发
+    拔 | bá | pull up; pluck | Has hand radical 扌 on left of 发
+    过 | guò | pass; cross | Has 寸 inside 辶 instead of 大 in 达
+    边 | biān | side; edge | Has 力 inside 辶
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    展 | zhǎn | unfold; develop
+    荣 | róng | glory; flourish
+    盛 | shèng | abundant; flourishing
+    旺 | wàng | prosperous; vigorous
+
+semantic_boundary_contrasts:
+  core_nuance: 发达 describes the mature, prosperous, high-level status of an economy, communications grid, or physical musculature.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 发达 vs. 发展 | fāzhǎn | 发展 is an active process or dynamic verb/noun of growth ('可持续发展'), whereas 发达 is primarily an adjective describing the achieved state of advanced maturity ('发达国家').
+    2 | 发达 vs. 先进 | xiānjìn | 先进 highlights being technologically cutting-edge, ahead of its peers, or politically progressive ('先进制造', '先进理念'), while 发达 describes overall economic affluence.
+    3 | 发达 vs. 繁荣 | fánróng | 繁荣 describes bustling vibrancy, commercial liveliness, and cultural flowering ('市场繁荣', '文化繁荣'), while 发达 focuses on infrastructure and structural wealth.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四通八达的高速铁路与公路运输网络，是现代经济高度发达的关键基础设施命脉。纵横交错的交通动脉将沿海港口城市与内陆腹地紧密串联在一起，极大加速了物资与人才的高效流动，为区域协调发展提供了强劲动力。 | Sìtōng-bādá de gāosù tiělù yǔ gōnglù yùnshū wǎngluò, shì xiàndài jīngjì gāodù fādá de guānjiàn jīchǔ shèshī mìngmài. Zònghéng-jiāocuò de jiāotōng dòngmài jiāng yánhǎi gǎngkǒu chéngshì yǔ nèilù fùdì jǐnmì chuànlián zài yīqǐ, jídà jiāsùle wùzī yǔ réncái de gāoxiào liúdòng, wèi qūyù xiétiáo fāzhǎn tígōngle qiángjìn dònglì. | Well-connected high-speed railways and highways form the infrastructure lifeline of advanced modern economies. Transportation arteries link coastal ports with the hinterland, accelerating resource flows to empower regional coordination. | La intrincada red viaria y ferroviaria de alta velocidad es la arteria de una economía desarrollada. Estas vías conectan puertos costeros con el interior agilizando flujos de mercancías y talento, impulsando el desarrollo territorial.
+  #2 | 在漫长严酷的干旱荒漠生存竞争中，骆驼进化出了极其发达的生理储水机能与长达数米的粗壮根系植物形成了鲜明照应。这种高度发达的适应性生物演化机制，展现出大自然在极端恶劣环境下塑造顽强生命奇迹的非凡智慧。 | Zài màncháng yánkù de gānhàn huāngmò shēngcún jìngzhēng zhōng, luòtuo jìnhuà chūle jíqí fādá de shēnglǐ chǔshuǐ jīnéng yǔ chángdá shù mǐ de cūzhuàng gēnxì zhíwù xíngchéngle xiānmíng zhàoyìng. Zhèzhǒng gāodù fādá de shìyìngxìng shēngwù yǎnhuà jīzhì, zhǎnxiàn chū dàzìrán zài jíduān èliè huánjìng xià shùzào wánqiáng shēngmìng qíjī de fēifán zhìhuì. | In desert survival, camels evolved highly developed water-storage physiology, mirroring flora with meters-long root systems. Such advanced evolutionary adaptations demonstrate nature's wisdom in sculpting life miracles in harsh lands. | En la aridez del desierto, los camellos desarrollaron un sistema de retención de agua admirable, parejo a raíces profundas de la flora local. Esa avanzada adaptación biológica revela la sabiduría natural forjando vida en climas extremos.

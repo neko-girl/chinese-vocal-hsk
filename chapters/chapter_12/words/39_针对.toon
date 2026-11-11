@@ -1,0 +1,64 @@
+id: 39
+hanzi: 针对
+pinyin: zhēn duì
+level: HSK 5
+part_of_speech: Preposition / Verb
+
+meanings_summary:
+  en: to target; be directed against; in response to; be aimed at
+  es: dirigirse a; apuntar a; en respuesta a; enfocado a; contra (orientado específicamente)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Preposition | Standard | in connection with; in view of; directed toward a specific circumstance, group, or problem | en vista de; con relación a; enfocado directamente hacia un problema, situación o grupo concreto | 针对这一问题 (in response to this problem)
+  2 | Verb | Standard | to focus or aim specifically at a particular demographic, target market, or condition | tener como blanco u objeto específico a un determinado sector o condición | 针对年轻消费者 (targeted at young consumers)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信针对海外不同国家用户的语言习惯与使用痛点，专门推出了多语种界面与跨境网络优化方案。 | Wēixìn zhēnduì hǎiwài bùtóng guójiā yònghù de yǔyán xíguàn yǔ shǐyòng tòngdiǎn, zhuānmén tuīchūle duōyǔyán jièmiàn yǔ kuàjìng wǎngluò yōuhuà fāng'àn. | Targeting language habits and pain points of users across diverse foreign nations, WeChat specially rolled out multilingual interfaces and cross-border network optimizations. | En respuesta a los hábitos lingüísticos de los usuarios internacionales, WeChat lanzó una interfaz multilingüe y mejoras de conectividad exterior.
+  #2 | 研发团队针对深海高压与高盐腐蚀的极端恶劣环境，历经多年成功研制出新型钛合金耐压潜水外壳。 | Yánfā tuánduì zhēnduì shēnhǎi gāoyā yǔ gāoyán fǔshí de jíduān èliè huánjìng, lìjīng duō nián chénggōng yánzhì chū xīnxíng tàihéjīn nàiyā qiánshuǐ wàiké. | Targeting the extreme environment of deep-sea high pressure and saline corrosion, the R&D team spent years developing a novel titanium alloy pressure-resistant submersible hull. | Para responder a la presión abisal y la corrosión salina, el equipo concibió tras años de ensayos un casco sumergible de aleación de titanio.
+
+collocations[6]{hanzi,en}:
+  针对性 | targeted focus; relevance; specificity
+  针对问题 | target / direct at the problem
+  针对不同 | in response to different...
+  针对目前 | in response to the current situation
+  有针对性地 | in a targeted manner; pointedly
+  特别针对 | specially targeted at
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  对症下药 | duì zhèng xià yào | prescribe the right remedy for a specific ailment; targeted solution
+  有的放矢 | yǒu dì fàng shǐ | shoot arrow with clear target in mind; purposeful and targeted
+  针锋相对 | zhēn fēng xiāng duì | oppose each other with sharp needlepoints; tit for tat
+  切中要害 | qiè zhòng yào hài | hit the vital spot; touch on the crux of the matter
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  针 | zhēn | needle; pin; injection; acupuncture needle | aguja; alfiler; inyección; puntero | 钅 | metal / gold | 钅 (metal / steel wire) + 十 (crosshairs / sharp target point) | Historical phonetic nuance in 針 | 7 | 左右结构 | A fine pointed steel metal 钅 wire with an eye; sewing needle or sharp medical acupuncture needle aiming at specific acupoints. | A slender metal wire (钅) ground down to a sharp pinpoint aims directly at the mark (针). | Un hilo de metal (钅) afilado hasta formar una punta que apunta con precisión al blanco (针). | 55 | C十 | 針
+  对 | duì | face; direct at; match; correct; toward | hacia; frente a; correcto; encarar; corresponder | 寸 | hand / measure | 又 (hand) + 寸 (ruler / measuring distance) | Historical phonetic nuance in 對 | 5 | 左右结构 | Two hands facing one another across a measured distance 寸; facing directly, aiming toward, and matching opposites. | Two hands measuring exact distance face directly toward one another (对). | Dos manos midiendo la distancia exacta se miran y encaran de frente (对). | 51 | EKI | 對
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Aiming a sharp needle point (针) directly facing the bullseye mark (对) is targeting purposefully (针对).
+  composite_memory_hook_es: Apuntar la punta de la aguja (针) encarando de lleno el blanco (对) es dirigirse o enfocar con precisión (针对).
+  cultural_and_cognitive_roots: Derived from classical acupuncture (针灸辨证): inserting the silver needle (针) directly against (对) the specific afflicted meridian node to restore balance.
+  tone_sandhi_and_pitch_modulation: First tone followed by fourth tone: 'zhēn duì' (55-51). Hold high pitch 55, then execute a sharp decisive fall to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    钓 | diào | fish with hook | Has 勺 on right of 钅 instead of 十 in 针
+    钉 | dīng | nail | Has 丁 on right of 钅
+    树 | shù | tree | Has wood 木 on left of 对 in 树
+    封 | fēng | seal; envelop | Has 圭 on left of 寸 instead of 又 in 对
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    向 | xiàng | toward; face
+    朝 | cháo | face; toward
+    对 | duì | toward; face
+    冲 | chòng | face toward; point
+
+semantic_boundary_contrasts:
+  core_nuance: 针对 indicates purposeful targeting toward a specific problem, situation, or audience group to deliver customized solutions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 针对 vs. 面向 | miànxiàng | 面向 indicates broad orientation, audience catering, or outward perspective ('面向未来', '面向大众'), whereas 针对 emphasizes pointed, problem-solving specificity.
+    2 | 针对 vs. 鉴于 | jiànyú | 鉴于 is a formal causative preposition meaning 'in light of' or 'considering that' ('鉴于目前局势'), while 针对 emphasizes target focus.
+    3 | 针对 vs. 指向 | zhǐxiàng | 指向 highlights physical or metaphorical directional pointing of an arrow or spearhead ('指向南方'), while 针对 is strategic targeting.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代精准医学前沿领域，科研人员致力于针对不同患者独特的基因突变类型，量身研发定制专属靶向抗癌药物。这种有的放矢的针对性治疗策略，能够最大限度杀伤肿瘤细胞，同时将对正常人体健康组织的损伤降至最低。 | Zài xiàndài jīngzhǔn yīxué qiányán lǐngyù, kēyán rényuán zhìlì yú zhēnduì bùtóng huànzhě dútè de jīyīn tūbiàn lèixíng, liàngshēn yánfā dìngzhì zhuānshǔ bǎxiàng kàng'ái yàowù. Zhèzhǒng yǒudì-fàngshǐ de zhēnduìxìng zhìliáo cèlüè, nénggòu zuìdà xiàndù shāshāng zhǒngliú xìbāo, tóngshí jiāng duì zhèngcháng réntǐ jiànkāng zǔzhī de sǔnshāng jiàng zhì zuìdī. | In precision medicine, researchers develop targeted cancer drugs tailored to patients' unique gene mutations. This targeted therapeutic strategy maximizes tumor cell destruction while keeping collateral damage to healthy tissues minimal. | En la medicina de precisión, los investigadores diseñan fármacos oncológicos dirigidos a mutaciones genéticas específicas de cada paciente. Esta terapia dirigida destruye células tumorales minimizando el daño en tejidos sanos.
+  #2 | 为了有效遏制青少年网络游戏沉迷问题，文化主管部门针对未成年人的生理认知特征，出台了严格的实名身份认证与限时防沉迷新规。各大网络平台积极落实相关技术防范措施，为广大家庭筑牢守护未成年人身心健康的数字防线。 | Wèile yǒuxiào èzhì qīngshàonián wǎngluò yóuxì chénmí wèntí, wénhuà zhǔguǎn bùmén zhēnduì wèichéngniánrén de shēnglǐ rènzhī tèzhēng, chūtáile yángé de shímíng shēnfèn rènzhèng yǔ xiànshí fángchénmí xīnguī. Gè dà wǎngluò píngtái jījí luòshí xiāngguān jìshù fángfàn cuòshī, wèi guǎngdà jiātíng zhùláo shǒuhù wèichéngniánrén shēnxīn jiànkāng de shùzì fángxiàn. | To curb youth gaming addiction, authorities introduced strict real-name authentication and time-limit regulations targeting minors' cognitive traits. Internet platforms implement technical defenses to safeguard minors' health. | Para frenar la adicción a los videojuegos en menores, las autoridades promulgaron normas de autenticación y límites horarios ajustadas a su madurez. Las plataformas reforzaron filtros técnicos protegiendo la salud juvenil.

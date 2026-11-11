@@ -1,0 +1,63 @@
+id: 10
+hanzi: 注册
+pinyin: zhù cè
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to register; enroll; sign up; incorporate (company, trademark, user account)
+  es: inscribirse; matricularse; registrarse; dar de alta; registrar (empresa o marca)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to formally enter one's name, credentials, or corporate details into an official record, university registry, or software user database | inscribir formalmente el nombre, datos personales o mercantiles en un registro oficial, matrícula escolar o cuenta virtual | 注册新账号 (register a new account)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 新用户只需在智能手机上输入手机号码并完成短信验证，就能在半分钟内轻松完成微信账号注册。 | Xīn yònghù zhǐxū zài zhìnéng shǒujī shàng shūrù shǒujī hàomǎ bìng wánchéng duǎnxìn yànzhèng, jiù néng zài bàn fēnzhōng nèi qīngsōng wánchéng Wēixìn zhànghào zhùcè. | New users need only enter their phone number on a smartphone and complete SMS verification to easily finish WeChat account registration in half a minute. | A un nuevo usuario le basta con introducir su número móvil y verificar el SMS para completar el registro de su cuenta de WeChat en medio minuto.
+  #2 | 为了保护自主研发的核心技术，初创公司第一时间向国家知识产权局提交了相关商标与专利的注册申请。 | Wèile bǎohù zìzhǔ yánfā de héxīn jìshù, chūchuàng gōngsī dì-yī shíjiān xiàng guójiā zhīshi chǎnquánjú tíjiāole xiāngguān shāngbiāo yǔ zhuānlì de zhùcè shēnqǐng. | To protect core independently-developed technologies, the startup immediately submitted registration applications for relevant trademarks and patents to the IP office. | Para proteger su tecnología patentada, la empresa emergente presentó de inmediato la solicitud de registro de marcas y patentes ante la oficina oficial.
+
+collocations[6]{hanzi,en}:
+  注册用户 | registered user
+  注册账号 | register an account
+  注册资本 | registered capital
+  注册商标 | registered trademark
+  完成注册 | complete registration
+  注册手续 | registration formalities / procedures
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  名册在案 | míng cè zài àn | name entered on the official record or registry
+  金榜题名 | jīn bǎng tí míng | one's name listed on the golden board of imperial exam successes
+  著于竹帛 | zhù yú zhú bó | inscribed on bamboo slips and silk; recorded in history
+  千秋留名 | qiān qiū liú míng | leave a glorious name down through thousands of autumns
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  注 | zhù | pour into; record; concentrate; annotate | verter; anotar; registrar; concentrar; inyectar | 氵 | water | 氵 (water poured continuously) + 主 (flame / lamp core / master) | 主 (zhǔ, master / phonetic zhù) | 8 | 左右结构 | Water 氵 flowing steadily into a vessel; extended to pouring attention, injecting funds, or entering records into registers. | Streams of ink water (氵) poured by a master (主) onto paper to record names into a registry (注). | Gotas de tinta (氵) que el titular (主) vierte sobre el pliego para asentar una partida (注). | 51 | EYG | ""
+  册 | cè | book; volume; booklet; bound ledger | libro; tomo; registro encuadernado; censo | 丿 | slash | Pictograph of bamboo slips strung together with leather thongs into an accordion roll | Pictographic bound bamboo book cè | 5 | 单一结构 | A pictograph of ancient bamboo slips tied together side by side with cords; an archival volume, roster, or book. | Slender bamboo strips linked side by side with leather strings form an ancient registry volume (册). | Tablillas de bambú enlazadas con correas formando un códice o libro de registro (册). | 51 | BT | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pouring one's verified credentials (注) into the official bound ledger volume (册) is completing registration (注册).
+  composite_memory_hook_es: Anotar con tinta (注) el nombre en el libro encuadernado o censo (册) es inscribirse o registrarse (注册).
+  cultural_and_cognitive_roots: From the ancient imperial census roster (黄册) where each household's taxes and land parcels were recorded into binding books (册).
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'zhù cè' (51-51). Pronounce both syllables with firm, crisp falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    住 | zhù | reside; live | Has person radical 亻 on left of 主 instead of water 氵 in 注
+    往 | wǎng | go; toward | Has step radical 彳 on left of 主
+    珊 | shān | coral | Has jade radical 王 on left of 册
+    删 | shān | delete; edit | Has knife radical 刂 on right of 册
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    登 | dēng | ascend; record on roster
+    记 | jì | record; remember
+    录 | lù | record; register
+    籍 | jí | census register; record
+
+semantic_boundary_contrasts:
+  core_nuance: 注册 refers specifically to formal administrative, legal, academic, or digital entry into an authorized registry or system.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 注册 vs. 登记 | dēngjì | 登记 is a broader term for writing down names or information (e.g. hotel check-in 住宿登记, visitor logs 来访登记), while 注册 often confers official membership, corporate legal standing, or an online account.
+    2 | 注册 vs. 报名 | bàomíng | 报名 specifically denotes signing up for an exam, competition, or event ('报名参赛'), whereas 注册 is matriculating or setting up an account.
+    3 | 注册 vs. 备案 | bèi'àn | 备案 means filing documents with authorities for future record without necessarily needing prior approval ('网站备案'), while 注册 establishes formal standing.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每年九月初秋时节，各大高校校园里随处可见充满朝气的大一新生。新生们手持录取通知书在各个学院报到点有序办理入学注册手续，领取属于自己的学生证与校园卡，满怀憧憬地翻开人生崭新的大学篇章。 | Měinián jiǔyuè chūqiū shíjié, gè dà gāoxiào xiàoyuán lǐ suíchù kějiàn chōngmǎn zhāoqì de dàyī xīnshēng. Xīnshēngmen shǒuchí lùqǔ tōngzhīshū zài gègè xuéyuàn bàodào diǎn yǒuxù bànlǐ rùxué zhùcè shǒuxù, lǐngqǔ shǔyú zìjǐ de xuéshēngzhèng yǔ xiàoyuánkǎ, mǎnhuái chōngjǐng de fānkāi rénshēng zhǎnxīn de dàxué piānzhāng. | In early September, university campuses are filled with vibrant freshmen. Holding acceptance letters, new students orderly complete matriculation registration at faculties, receiving student IDs to begin a new college chapter. | A principios de septiembre, los campus universitarios bullen de novatos ilusionados. Con la carta de admisión en mano, formalizan la matrícula en sus facultades y recogen el carné estudiantil abriendo una nueva etapa vital.
+  #2 | 在推动数字政务转型的背景下，政府部门大幅简化了新设企业的营业执照注册流程。如今创业者只需登录统一政务服务平台在线填报电子材料，不到一个工作日便能顺利拿到电子营业执照，极大地激发了全社会的创新创业活力。 | Zài tuīdòng shùzì zhèngwù zhuǎnxíng de bèijǐng xià, zhèngfǔ bùmén dàfú jiǎnhuàle xīnsè qǐyè de yíngyè zhízhào zhùcè liúchéng. Rújīn chuàngyèzhě zhǐxū dēnglù tǒngyī zhèngwù fúwù píngtái zàixiàn tiánbào diànzǐ cáiliào, búdào yī gè gōngzuòrì biàn néng shùnlì nádào diànzǐ yíngyè zhízhào, jídà de jīfāle quán shèhuì de chuàngxīn chuàngyè huólì. | Amid digital administration reforms, governments have drastically streamlined business license registration. Today, entrepreneurs fill out electronic forms online to obtain e-licenses in less than one business day, spurring entrepreneurship. | En plena digitalización administrativa, las autoridades han simplificado el registro mercantil. Los emprendedores completan formularios en línea obteniendo su licencia electrónica en menos de un día hábil, impulsando la iniciativa empresarial.

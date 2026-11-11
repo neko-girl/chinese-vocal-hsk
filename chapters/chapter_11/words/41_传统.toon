@@ -1,0 +1,64 @@
+id: 41
+hanzi: 传统
+pinyin: chuán tǒng
+level: HSK 5
+part_of_speech: Noun / Adjective
+
+meanings_summary:
+  en: tradition; traditional; conventional; heritage
+  es: tradición; tradicional; convencional; legado cultural
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | historical customs, ethical norms, cultural values, and practices handed down from generation to generation | costumbres históricas, valores éticos y prácticas culturales transmitidas de generación en generación | 优良传统 (fine tradition / glorious heritage)
+  2 | Adjective | Standard | conforming to long-established custom or practice rather than modern innovations | que se apega a las pautas y hábitos consuetudinarios frente a las novedades modernas | 传统手工艺 (traditional handicraft / craftsmanship)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 与传统机械闹钟刺耳的铃声相比，新型智能光照唤醒设备更符合人体自然清醒的生理规律。 | Yǔ chuántǒng jīxiè nàozhōng cì'ěr de língshēng xiāngbǐ, xīnxíng zhìnéng guāngzhào huànxǐng shèbèi gèng fúhé réntǐ zìrán qīngxǐng de shēnglǐ guīlǜ. | Compared to the harsh ringing of traditional mechanical alarms, new smart lighting wake-up devices conform better to natural physiological waking laws. | Frente al estridente timbre del despertador tradicional mecánico, los nuevos dispositivos de luz inteligente armonizan mejor con la fisiología humana.
+  #2 | 每逢中秋佳节，全家人围坐在一起品尝月饼、共赏明月，是中华民族流传千百年的美好传统。 | Měiféng zhōngqiū jiājié, quánjiā rén wéizuò zài yīqǐ pǐncháng yuèbǐng, gòngshǎng míngyuè, shì Zhōnghuá mínzú liúchuán qiānbǎi nián de měihǎo chuántǒng. | Every Mid-Autumn Festival, the entire family gathering to savor mooncakes and admire the full moon is a cherished tradition passed down for centuries. | Cada Fiesta del Medio Otoño, la familia congregada degustando pasteles de luna bajo el plenilunio celebra una hermosa tradición centenaria.
+
+collocations[6]{hanzi,en}:
+  传统文化 | traditional culture
+  传统美德 | traditional virtues
+  继承传统 | inherit / carry forward traditions
+  发扬传统 | carry forward / promote traditional heritage
+  传统节日 | traditional festival
+  打破传统 | break with tradition
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  薪火相传 | xīn huǒ xiāng chuán | pass the torch from generation to generation
+  因循守旧 | yīn xún shǒu jiù | stick to conventions and resist reform
+  继往开来 | jì wǎng kāi lái | carry forward past heritage and forge ahead into future
+  代代相传 | dài dài xiāng chuán | handed down from generation to generation
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  传 | chuán | pass on; hand down; transmit; impart | transmitir; difundir; traspasar; propagar | 亻 | person | 亻 (person passing along) + 专 (spinning spindle thread / focused transmission) | 专 (zhuān, carrier / phonetic) | 6 | 左右结构 | A postal relay person 亻 handing down messages like uninterrupted spun thread 专 along roads; transmitting knowledge. | A messenger person (亻) carrying single-minded focus (专) transmits news across generations (传). | Un mensajero (亻) que corre con devoción concentrada (专) transmite legados y noticias sin cesar (传). | 35 | OQNI | 傳
+  统 | tǒng | interconnected thread; unify; gather; govern | hilo conductor; unificar; reunir; regir; sistema | 纟 | silk | 纟 (continuous silk strand) + 充 (fill up / nourish completely) | 充 (chōng, phonetic carrier) | 9 | 左右结构 | The main guiding thread 纟 that gathers and unifies all filling fibers 充 into a coherent fabric; lineage and system. | A continuous silk thread (纟) gathering all parts into an interconnected whole (充) unifies the system (统). | La hebra de seda (纟) que enlaza y nutre la totalidad del tejido (充) mantiene unido el linaje (统). | 214 | VMYIU | 統
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Passing along down the ages (传) through an uninterrupted lineage thread (统) constitutes living tradition (传统).
+  composite_memory_hook_es: Transmitir de generación en generación (传) a lo largo de un hilo conductor histórico (统) conforma la tradición (传统).
+  cultural_and_cognitive_roots: Derived from historiographical lineages (正统, 道统): Confucian cultural continuity preserved like a seamless silk thread passing across dynastic shifts.
+  tone_sandhi_and_pitch_modulation: Second tone followed by third tone: 'chuán tǒng' (35-214). Smooth rising glide followed by dip-and-rise contour.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    专 | zhuān | specialized; focused | Lacks person radical 亻 on left of 传
+    转 | zhuǎn | turn; shift | Has vehicle radical 车 on left of 专
+    统 | tǒng | unify; tradition | Has silk radical 纟 on left of 充
+    充 | chōng | fill; charge | Lacks silk radical 纟 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    承 | chéng | inherit; carry on
+    继 | jì | continue; succeed
+    俗 | sú | custom; convention
+    祖 | zǔ | ancestor; origin
+
+semantic_boundary_contrasts:
+  core_nuance: 传统 refers to long-standing cultural customs, ethical practices, and time-honored conventions passed down across generations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 传统 vs. 习俗 | xísú | 习俗 focuses on specific folk customs and habits (e.g. eating zongzi, lion dances), whereas 传统 encompasses deep philosophical values, artistic lineages, and institutions.
+    2 | 传统 vs. 常规 | chángguī | 常规 refers to routine administrative rules, standard operational procedures, or normal conventions, lacking 传统's historical cultural depth.
+    3 | 传统 vs. 古老 | gǔlǎo | 古老 simply describes age and ancient vintage ('古老的城堡'), while 传统 emphasizes living transmission and active generational heritage.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 优秀传统文化是一座取之不竭的精神宝库。在现代文创设计中，青年设计师巧妙地将传统水墨写意美学与现代数码科技相融合，让陈列在博物馆深处的千年非物质文化遗产重新焕发出蓬勃的当代生机。 | Yōuxiù chuántǒng wénhuà shì yī zuò qǔzhībùjié de jīngshén bǎokù. Zài xiàndài wénchuàng shèjì zhōng, qīngnián shèjìshī qiǎomiào de jiāng chuántǒng shuǐmò xièyì měixué yǔ xiàndài shùmǎ kējì xiāng rónghé, ràng chénliè zài bówùguǎn shēnchù de qiān nián fēiwùzhì wénhuà yíchǎn chóngxīn huànfā chū péngbó de dāngdài shēngjī. | Fine traditional culture is an inexhaustible treasure house of spirit. In contemporary creative design, young artists blend ink-wash aesthetics with digital technologies, breathing vibrant life into intangible cultural heritage. | La cultura tradicional es un manantial inagotable de riqueza espiritual. En el diseño contemporáneo, los creadores funden la aguada clásica con tecnologías digitales, revitalizando el patrimonio inmaterial con brío renovado.
+  #2 | 随着全球化浪潮奔涌向前，如何在坚守民族文化传统的同时拥抱世界文明，成为各国共同探索的重要时代课题。历史证明，唯有立足自身优秀的文化传统根基，以包容开放的胸襟博采众长，文明之树才能根深叶茂、历久弥新。 | Suízhe quánqiúhuà làngcháo bēnyǒng qiánxiáng, rúhé zài jiānshǒu mínzú wénhuà chuántǒng de tóngshí yōngbào shìjiè wénmíng, chéngwéi gè guó gòngtóng tànsuǒ de zhòngyào shídài kètí. Lìshǐ zhèngmíng, wéiyǒu lìzú zìshēn yōuxiù de wénhuà chuántǒng gēnjī, yǐ bāoróng kāifàng de xiōngjīn bócǎi-zhòngcháng, wénmíng zhī shù cáinéng gēnshēn-yèmào, lìjiǔ-míxīn. | As globalization surges, preserving national traditions while embracing world civilizations has become a vital shared question. Grounded in cultural roots while adopting diverse strengths, civilization flourishes with enduring vitality. | Con el avance imparable de la globalización, preservar las tradiciones patrias al tiempo que se abraza la civilización mundial es un reto clave. Solo arraigados en el legado propio y abiertos al diálogo florece la cultura con perenne vigor.

@@ -1,0 +1,64 @@
+id: 29
+hanzi: 现实
+pinyin: xiàn shí
+level: HSK 5
+part_of_speech: Noun / Adjective
+
+meanings_summary:
+  en: reality; actual fact; realistic; practical; down-to-earth
+  es: realidad; hechos reales; realista; práctico; pragmático
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the state of things as they actually exist objectively, as opposed to idealistic, fictional, or imaginary notions | el estado objetivo y tangible de las cosas tal como existen, frente a lo ilusorio o imaginario | 面对现实 (face reality)
+  2 | Adjective | Standard | conforming to actual situations; practical, sensible, and down-to-earth | que se atiene a los hechos y circunstancias reales; práctico y realista | 现实的想法 (a realistic / practical idea)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在规划海外市场扩张蓝图时，企业既要满怀抱负，也必须清醒面对各地文化习惯与法律准入差异的客观现实。 | Zài guīhuà hǎiwài shìchǎng kuòzhāng lántú shí, qǐyè jì yào mǎnhuái bàofù, yě bìxū qīngxǐng miànduì gèdì wénhuà xíguàn yǔ fǎlǜ zhǔnrù chāyì de kèguān xiànshí. | When planning an overseas expansion blueprint, enterprises must be ambitious yet soberly face the objective reality of cultural and legal regulatory differences across regions. | Al trazar planes de expansión exterior, las empresas deben albergar ambición pero asumir con lucidez la realidad de las diferencias culturales y legales.
+  #2 | 经过科学家数十年坚持不懈的攻关，当年科幻小说中描绘的无人驾驶汽车如今已经真正化作了现实。 | Jīngguò kēxuéjiā shùshí nián jiānchí-búxiè de gōngguān, dāngnián kēhuàn xiǎoshuō zhōng miáohuì de wúrén jiàshǐ qìchē rújīn yǐjīng zhēnzhèng huàzuòle xiànshí. | Through decades of unremitting efforts by scientists, the autonomous self-driving cars once depicted in science fiction novels have truly materialized into reality. | Tras decenios de tesonero empeño científico, los vehículos autónomos descritos antaño en relatos de ciencia ficción se han trocado en realidad palpable.
+
+collocations[6]{hanzi,en}:
+  面对现实 | face reality
+  客观现实 | objective reality
+  变成现实 | turn into reality; materialize
+  脱离现实 | divorced from reality; out of touch with facts
+  现实意义 | practical / realistic significance
+  现实生活 | real life
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  实事求是 | shí shì qiú shì | seek truth from facts; realistic and pragmatic
+  脚踏实地 | jiǎo tà shí dì | feet planted firmly on solid ground; earnest and down-to-earth
+  空中楼阁 | kōng zhōng lóu gé | castles in the air; unrealistic fantasies
+  梦想成真 | mèng xiǎng chéng zhēn | dreams come true; aspirations turn into reality
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  现 | xiàn | appear; present; now; visible; manifest | aparecer; presente; ahora; visible; manifestar | 王 | jade | 王/玉 (glistening jade jewel) + 见 (open eye seeing clearly) | 见 (jiàn, see / phonetic nuance xiàn) | 8 | 左右结构 | A lustrous jade gem 王 uncovered and placed directly before one's eyes 见; present, visible, actual reality. | A sparkling jade gem (王) brought out into the open to see (见) manifests in the present (现). | Una gema de jade (王) expuesta ante los ojos de todos (见) se manifiesta en el presente (现). | 51 | MGBU | 現
+  实 | shí | solid; real; true; fruit; substance | sólido; real; verdadero; fruto; sustancia | 宀 | roof | 宀 (safe domestic house) + 头/贯 (abundant wealth and grain filling house) | Historical phonetic nuance in 實 | 8 | 上下结构 | A house 宀 packed full of solid tangible treasures and grain; indicates substance, factuality, and solid reality. | A house (宀) filled to the roof with solid grain embodies tangible truth (实). | Un hogar (宀) colmado de grano sólido y cosechas encarna la verdad palpable (实). | 35 | JYK | 實
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Visible present facts (现) filled with solid tangible substance (实) constitute reality (现实).
+  composite_memory_hook_es: Lo que se manifiesta visible en el presente (现) respaldado por hechos sólidos (实) es la realidad (现实).
+  cultural_and_cognitive_roots: Philosophical concept contrasting the ethereal void (虚) with tangible actuality (实): grounding human endeavors in actual worldly conditions.
+  tone_sandhi_and_pitch_modulation: Fourth tone followed by second tone: 'xiàn shí' (51-35). Crisp falling 51 tone gliding immediately up to rising 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    观 | guān | view; watch | Has 又 on left of 见 instead of jade 王 in 现
+    规 | guī | rule; compass | Has husband 夫 on left of 见
+    头 | tóu | head | Lacks the roof radical 宀 of 实
+    买 | mǎi | buy | Has 乛 on top instead of 宀
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    真 | zhēn | true; authentic
+    存 | cún | exist; survive
+    确 | què | solid; certain
+    在 | zài | exist; present
+
+semantic_boundary_contrasts:
+  core_nuance: 现实 denotes objective, tangible reality versus fiction, or describes an attitude of being pragmatic and realistic.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 现实 vs. 实际 | shíjì | 实际 highlights practical operation or concrete down-to-earth action ('从实际出发'), while 现实 highlights objective reality versus imagination or ideals ('理想与现实').
+    2 | 现实 vs. 真实 | zhēnshí | 真实 emphasizes genuineness and truth versus falsehood/lies ('真实的故事', '真实情况'), while 现实 emphasizes objective existence.
+    3 | 现实 vs. 事实 | shìshí | 事实 refers to specific individual historical facts or evidence already proven ('铁的事实'), whereas 现实 is the comprehensive present state of affairs.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 青年人在确立人生奋斗目标时，既需要仰望星空的远大理想，更离不开脚踏实地的现实态度。如果脱离社会发展规律与自身客观条件的现实基础，哪怕再宏伟壮丽的抱负，最终也只能沦为脱离大地的空中楼阁。 | Qīngniánrén zài quèlì rénshēng fèndòu mùbiāo shí, jì xūyào yǎngwàng xīngkōng de yuǎndà lǐxiǎng, gèng líbùkāi jiǎotà-shídì de xiànshí tàidù. Rúguǒ tuōlí shèhuì fāzhǎn guīlǜ yǔ zìshēn kèguān tiáojiàn de xiànshí jīchǔ, nǎpà zài hóngwěi zhuànglì de bàofù, zuìzhōng yě zhǐnéng lúnwéi tuōlí dàdì de kōngzhōng-lóugé. | When setting life goals, youth need lofty ideals looking up at the stars, but equally require a realistic attitude with feet on the ground. Divorced from objective social realities, even the grandest ambition becomes a castle in the air. | Al fijar metas vitales, los jóvenes deben aspirar a las estrellas sin despegar los pies del suelo con actitud realista. Desconectadas de las leyes sociales y la realidad objetiva, las mayores ambiciones se tornan castillos en el aire.
+  #2 | 现实主义文学艺术长盛不衰的生命力，在于创作者始终怀着深厚的人文关怀去凝视社会的真实百态。优秀的艺术家敢于直面复杂的现实矛盾，通过细腻传神的笔触勾勒出普通百姓的喜怒哀乐，引发跨越时代的强烈心灵共鸣。 | Xiànshízhǔyì wénxué yìshù chángshèng-bùshuāi de shēngmìnglì, zàiyú chuàngzuòzhě shǐzhōng huáizhe shēnhòu de rénwén guānhuái qù níngshì shèhuì de zhēnshí bǎitài. Yōuxiù de yìshùjiā gǎnyú zhímiàn fùzá de xiànshí máodùn, tōngguò xìnì chuánshén de bǐchù gōulè chū pǔtōng bǎixìng de xǐ-nù-āi-lè, yǐnfā kuàyuè shídài de qiángliè xīnlíng gòngmíng. | The enduring vitality of realist art lies in creators gazing at social reality with profound human care. Exceptional artists face complex contradictions, sketching ordinary people's sorrows and joys to evoke soul-stirring resonance across eras. | La perenne vigencia del arte realista emana de contemplar la sociedad con honda sensibilidad humana. Grandes creadores encaran contradicciones palpables retratando los anhelos del pueblo y conmoviendo a través del tiempo.

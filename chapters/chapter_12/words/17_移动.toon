@@ -1,0 +1,64 @@
+id: 17
+hanzi: 移动
+pinyin: yí dòng
+level: HSK 5
+part_of_speech: Verb / Adjective
+
+meanings_summary:
+  en: to move; shift; mobile; portable (telecom, internet)
+  es: mover; desplazarse; trasladar; móvil; portátil; telecomunicaciones móviles
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to change physical position or location; to shift or dislodge | cambiar de lugar o posición; trasladarse de un punto a otro | 缓慢移动 (move slowly)
+  2 | Adjective | Standard | capable of moving, functioning while moving, or relating to cellular wireless communications | que puede moverse o relativo a la tecnología inalámbrica y teléfonos celulares | 移动互联网 (mobile internet)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 智能手机的飞速普及与移动通信网络的全面升级，深刻重塑了二十一世纪人类社会的日常生活方式。 | Zhìnéng shǒujī de fēisù pǔjí yǔ yídòng tōngxìn wǎngluò de quánmiàn shēngjí, shēnkè zhòngsùle èrshíyī shìjì rénlèi shèhuì de rìcháng shēnghuó fāngshì. | The rapid spread of smartphones and comprehensive upgrading of mobile networks have profoundly reshaped the daily lifestyle of 21st-century human society. | La popularización del teléfono inteligente y las redes móviles han reconfigurado profundamente el estilo de vida cotidiano del siglo XXI.
+  #2 | 护士小心翼翼地移动病床，将刚刚完成心脏手术的老人平稳推入安静舒适的重症监护室。 | Hùshi xiǎoxīn-yìyì de yídòng bìngchuáng, jiāng gānggāng wánchéng xīnzàng shǒushù de lǎorén píngwěn tuīrù ānjìng shūshì de zhòngzhèng jiānhùshì. | The nurse moved the hospital bed cautiously, smoothly wheeling the elderly patient who just completed heart surgery into the quiet ICU. | La enfermera movió la camilla con sumo cuidado trasladando al anciano recién operado del corazón hacia la sala de cuidados intensivos.
+
+collocations[6]{hanzi,en}:
+  移动互联网 | mobile Internet
+  移动通信 | mobile communications
+  移动支付 | mobile payment
+  移动电话 | mobile phone / cellular phone
+  缓慢移动 | move slowly
+  禁止移动 | prohibited from moving
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  坚定不移 | jiān dìng bù yí | firm and unswerving; steadfast without moving
+  潜移默化 | qián yí mò huà | influence subtly and imperceptibly over time
+  移山填海 | yí shān tián hǎi | move mountains and fill seas; gigantic resolve
+  轻举妄动 | qīng jǔ wàng dòng | act rashly and blindly without thought
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  移 | yí | shift; move; alter; transplant | mover; trasladar; cambiar; trasplantar | 禾 | grain | 禾 (grain seedlings) + 多 (many / sequential steps) | 多 (duō, many / phonetic yí) | 11 | 左右结构 | Transplanting multiple green rice seedlings 禾 from nursery beds to wide water paddies; moving position. | A farmer transplanting many rice shoots (禾) from bed to paddy shifts positions (移). | Un campesino que trasplanta brotes de arroz (禾) a lo largo del campo desplaza su posición (移). | 35 | HDNIN | ""
+  动 | dòng | move; stir; act; mobilize; action | mover; actuar; movilizar; acción; dinámico | 力 | power / strength | 云 (vapor clouds churning in heaven) + 力 (physical strength/force) | 重 (zhòng / phonetic in traditional 動) | 6 | 左右结构 | Clouds churning 云 with dynamic physical power 力; exertion of muscular kinetic energy creating movement. | Churning sky clouds (云) driven by muscular strength (力) set everything in motion (动). | Las nubes que se arremolinan (云) impulsadas por la fuerza (力) se ponen en movimiento (动). | 51 | MMKS | 動
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Shifting location like transplanted seedlings (移) propelled by kinetic power (动) is moving or mobile (移动).
+  composite_memory_hook_es: Trasladar de sitio (移) aplicando energía y dinamismo (动) es mover o desplazarse (移动).
+  cultural_and_cognitive_roots: From the agrarian custom of transplanting young rice shoots (移秧), transferred in modern times to cellular untethered mobility (移动网络).
+  tone_sandhi_and_pitch_modulation: Second tone followed by fourth tone: 'yí dòng' (35-51). Rising second tone followed by brisk decisive drop.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    私 | sī | private; selfish | Has 厶 on right of 禾 instead of 多 in 移
+    税 | shuì | tax; duty | Has 兑 on right of 禾
+    劝 | quàn | advise; urge | Has 又 on left of 力 instead of 云 in 动
+    劫 | jié | rob; disaster | Has 去 on left of 力
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    挪 | nuó | shift; nudge
+    徙 | xǐ | migrate; relocate
+    迁 | qiān | move; transfer
+    转 | zhuǎn | turn; shift
+
+semantic_boundary_contrasts:
+  core_nuance: 移动 refers to changing spatial coordinates, or functions as a prefix for untethered wireless cellular technology.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 移动 vs. 运动 | yùndòng | 运动 refers to physical exercise/athletics or sociopolitical campaigns ('体育运动', '群众运动'), while 移动 is changing physical position or mobile telecom.
+    2 | 移动 vs. 挪动 | nuódòng | 挪动 specifically stresses minor, slow, or painstaking shifting over very small distances ('吃力地挪动脚步'), while 移动 is neutral and broad.
+    3 | 移动 vs. 迁移 | qiānyí | 迁移 refers to large-scale relocation of populations, habitats, or plants ('人口迁移', '鸟类迁移'), while 移动 covers ordinary object movement.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 移动支付的全面普及深刻改变了现代人的消费习惯。如今出门只需携带一部智能手机，无论是乘坐公共交通工具还是在便利店购物，轻轻一扫便能瞬间完成结算，展现出无处不在的高效与便捷。 | Yídòng zhīfù de quánmiàn pǔjí shēnkè gǎibiànle xiàndàirén de xiāofèi xíguàn. Rújīn chūmén zhǐxū xiàidài yī bù zhìnéng shǒujī, wúlùn shì chéngzuò gōnggòng jiāotōng gōngjù háishì zài biànlìdiàn gòuwù, qīngqīng yī sǎo biàn néng shùnjiān wánchéng jiésuàn, zhǎnxiàn chū wúchù-bùzài de gāoxiào yǔ biànjié. | The ubiquity of mobile payment has profoundly reshaped modern consumer habits. Leaving home requires only a smartphone; riding transit or shopping at convenience stores settles instantly with a scan, demonstrating omnipresent convenience. | El pago móvil ha transformado los hábitos de compra modernos. Hoy basta salir con el móvil para abonar el transporte o comprar en tiendas escaneando un código, haciendo gala de una comodidad y rapidez asombrosas.
+  #2 | 在现代智能化仓储物流中心内部，数百台橙色自主移动搬运机器人穿梭往来于高耸的货架之间。机器人依托地面二维码与激光雷达导航精准移动，不仅彻底免去了人工繁重搬运的疲劳，更将货品分拣出库的准确率提升至惊人的极限水平。 | Zài xiàndài zhìnénghuà cāngchǔ wùliú zhōngxīn nèibù, shùbǎi tái chéngsè zìzhǔ yídòng bānyùn jīqìrén chuānsuō wǎnglái yú gāosǒng de huòjià zhījiān. Jīqìrén yītuō dīmiàn èrwéimǎ yǔ jīguāng léidá dǎoháng jīngzhǔn yídòng, bùjǐn chèdǐ miǎnqùle réngōng fánzhòng bānyùn de píláo, gèng jiāng huòpǐn fēnjiǎn chūkù de zhǔnquèlǜ tíshēng zhì jīngrén de jíxiàn shuǐpíng. | Inside smart logistics centers, hundreds of orange autonomous mobile robots weave through towering shelves. Navigating precisely via QR codes and LiDAR, they eliminate exhausting manual lifting and elevate sorting accuracy to astonishing heights. | En los centros logísticos inteligentes, robots móviles autónomos de color naranja circulan entre altas estanterías. Guiados por códigos y sensores láser, eliminan el esfuerzo manual y elevan la precisión de empaquetado a cotas asombrosas.

@@ -1,0 +1,64 @@
+id: 19
+hanzi: 应用
+pinyin: yìng yòng
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to apply; put to practical use; application; app; software application
+  es: aplicar; poner en práctica; aplicación; app informática; uso práctico
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to put theoretical knowledge, principles, techniques, or scientific findings into practical implementation | poner en práctica conocimientos teóricos, fórmulas o principios técnicos en situaciones reales | 应用新技术 (apply new technologies)
+  2 | Noun | Standard | a computer software program or mobile phone app designed to perform specific user functions | programa informático o aplicación móvil (app) diseñada para tareas concretas del usuario | 下载手机应用 (download mobile app)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 作为一款集即时通讯、移动支付与社交分享于一体的超级应用，微信极大简化了现代人的数字生活。 | Zuòwéi yī kuǎn jí jíshí tōngxùn, yídòng zhīfù yǔ shèjiāo fēnxiǎng yú yītǐ de chāojí yìngyòng, Wēixìn jídà jiǎnhuàle xiàndàirén de shùzì shēnghuó. | As a super-app integrating instant messaging, mobile payment, and social sharing, WeChat has drastically simplified modern digital life. | Como súper-aplicación que integra mensajería, pagos móviles y redes sociales, WeChat ha simplificado enormemente la vida digital moderna.
+  #2 | 科研人员致力于将人工智能算法深入应用到医学影像智能识别领域，显著提高了早期癌症的诊断准确率。 | Kēyán rényuán zhìlì yú jiāng réngōng zhìnéng suànfǎ shēnrù yìngyòng dào yīxué yǐngxiàng zhìnéng shíbié lǐngyù, xiǎnzhù tígāole zǎoqī áizhèng de zhěnduàn zhǔnquèlǜ. | Researchers are devoted to deeply applying AI algorithms to medical image recognition, significantly improving early cancer diagnostic accuracy. | Los investigadores aplican algoritmos de inteligencia artificial al diagnóstico por imagen, elevando la precisión en la detección precoz de tumores.
+
+collocations[6]{hanzi,en}:
+  应用软件 | application software / app
+  手机应用 | mobile application / app
+  广泛应用 | widely applied / extensive application
+  实际应用 | practical application
+  应用科学 | applied sciences
+  开发应用 | develop applications
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  洋为中用 | yáng wéi zhōng yòng | make foreign things serve China's needs
+  古为今用 | gǔ wéi jīn yòng | make the past serve the present
+  学以致用 | xué yǐ zhì yòng | learn in order to practice and apply
+  物尽其用 | wù jìn qí yòng | make the best and fullest use of all materials
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  应 | yìng | respond; echo; correspond; should; cope with | responder; corresponder; deber; reaccionar | 广 | shelter / hall | 广 (hall / room acoustic) + 隹/心 (bird answering call from heart) | Historical phonetic nuance in 應 | 7 | 半包围结构 | A voice calling into a wide hall 广 and receiving an immediate matching acoustic echo; responding appropriately to practical conditions. | A shout echoed under a wide hall roof (广) answers promptly to match reality (应). | Un eco que resuena bajo el pabellón (广) dando respuesta precisa a la llamada (应). | 51 | IF | 應
+  用 | yòng | use; employ; apply; utility | usar; emplear; aplicar; utilizar; utilidad | 用 | use | A framed implement ready in hand for ritual or functional work | Self-phonetic yòng | 5 | 单一结构 | A tool or container put into active operation; represents functional utility, deployment, and practical use. | A wooden tool bucket held in hand put to active functional use (用). | El armazón de una herramienta listo para prestar utilidad práctica inmediata (用). | 51 | BQI | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Responding appropriately to practical needs (应) by deploying useful functional tools (用) is application (应用).
+  composite_memory_hook_es: Dar respuesta a necesidades reales (应) haciendo uso de herramientas útiles (用) es aplicar o una aplicación (应用).
+  cultural_and_cognitive_roots: Derived from traditional Confucian practical learning (经世致用): scholarship must not remain in abstract clouds, but must be actively applied (应用) to social benefit.
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'yìng yòng' (51-51). Pronounce both syllables with firm, crisp falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    庄 | zhuāng | village; solemn | Has 土 under 广 instead of dots and strokes in 应
+    床 | chuáng | bed | Has wood 木 under 广
+    甩 | shuǎi | fling; swing | Bottom stroke hooks out sideways like a tail, unlike 用
+    角 | jiǎo | horn; corner | Has slanted peak on top
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    使 | shǐ | employ; use
+    行 | xíng | put into action
+    操 | cāo | operate; grasp
+    效 | xiào | render effect
+
+semantic_boundary_contrasts:
+  core_nuance: 应用 means translating theories or tools into practical use, or refers specifically to software applications (apps).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 应用 vs. 运用 | yùnyòng | 运用 emphasizes skillful, agile, and flexible mastery of rules, tactics, or language ('熟练运用语言'), while 应用 emphasizes the direct practical implementation of technology or an app.
+    2 | 应用 vs. 使用 | shǐyòng | 使用 is the everyday generic term for operating any physical tool, money, or vehicle ('使用电脑'), while 应用 is broader for applied sciences and software systems.
+    3 | 应用 vs. 适用 | shìyòng | 适用 is an adjective meaning suitable, applicable, or fitting under specific laws or parameters ('该条款不适用'), while 应用 is active.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在智能移动终端深度融入日常生活的当下，手机应用生态正展现出前所未有的繁荣景象。从在线政务办理到跨境电商购物，各式各样的应用程序不仅极大地节约了人们的办事成本，更重构了现代城市的公共服务体系。 | Zài zhìnéng yídòng zhòngduān shēndù róngrù rìcháng shēnghuó de dāngxià, shǒujī yìngyòng shēngtài zhèng zhǎnxiàn chū qiánsuǒwèiyǒu de fánróng jǐngxiàng. Cóng zàixiàn zhèngwù bànlǐ dào kuàjìng diànshāng gòumǎi, gèshì-gèyàng de yìngyòng chéngxù bùjǐn jídà de jiéyuēle rénmen de bànshì chéngběn, gèng chónggòule xiàndài chéngshì de gōnggòng fúwù tǐxì. | With smart terminals woven into daily life, mobile app ecosystems are booming. From online public services to cross-border e-commerce, diverse applications cut errands costs and reconfigure municipal public service systems. | Con el móvil integrado en la rutina, el ecosistema de apps vive un florecimiento sin precedentes. De trámites administrativos al comercio transfronterizo, las aplicaciones agilizan gestiones redefiniendo los servicios públicos urbanos.
+  #2 | 基础科学研究向工业实际应用的转化周期正在全球范围内大幅缩短。各大研究型高校纷纷成立产业孵化基地，推动前沿实验室里的尖端技术成果尽快应用到先进制造与新能源生产一线，将科技论文转化为驱动经济高质量发展的实际生产力。 | Jīchǔ kēxué yánjiū xiàng gōngyè shíjì yìngyòng de zhuǎnhuà zhōuqī zhèng zài quánqiú fànwéi nèi dàfú suōduǎn. Gè dà yánjiūxíng gāoxiào fēnfēn chénglì chǎnyè fūhuà jīdì, tuīdòng qiányán shíyànshì lǐ de jiānduān jìshù chéngguǒ jǐnkuài yìngyòng dào xiānjìn zhìzào yǔ xīnnéngyuán shēngchǎn yīxiàn, jiāng kējì lùnwén zhuǎnhuà wéi qūdòng jīngjì gāozhìliàng fāzhǎn de shíjì shēngchǎnlì. | The cycle from basic science research to industrial application is shrinking globally. Research universities establish incubators, pushing lab innovations to manufacturing and green energy lines, turning papers into economic productivity. | El ciclo que media entre la ciencia básica y su aplicación industrial se acorta en el mundo. Las universidades fundan incubadoras para llevar avances de laboratorio a la industria y la energía limpia, transformando estudios en motor económico.

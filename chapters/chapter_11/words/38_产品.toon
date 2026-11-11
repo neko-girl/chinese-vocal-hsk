@@ -1,0 +1,63 @@
+id: 38
+hanzi: 产品
+pinyin: chǎn pǐn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: product; merchandise; goods; manufactured output
+  es: producto; mercancía; artículo fabricado; bien producido
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | tangible goods, items, or commercial services manufactured, processed, or developed to satisfy market consumer needs | artículo manufacturado, bien material o servicio elaborado para satisfacer necesidades en el mercado | 电子产品 (electronic products / gadgets)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 科研团队历时两年研发出这款新型助眠产品，能通过渐进式柔和光线模拟大自然的日出过程。 | Kēyán tuánduì lìshí liǎng nián yánfā chū zhè kuǎn xīnxíng zhùmián chǎnpǐn, néng tōngguò jiànjìnshì róuhé guāngxiàn mónǐ dàzìrán de rìchū guòchéng. | The research team spent two years developing this new sleep-aid product, which simulates nature's sunrise through progressive gentle light. | El equipo científico dedicó dos años a concebir este nuevo producto para dormir, que simula el amanecer natural con luz suave progresiva.
+  #2 | 只有严格把控每一个生产环节的产品质量，企业才能在激烈的市场竞争中赢得消费者的信赖。 | Zhǐyǒu yángé bǎkòng měi yī gè shēngchǎn huánjié de chǎnpǐn zhìliàng, qǐyè cáinéng zài jīliè de shìchǎng jìngzhēng zhōng yíngdé xiāofèizhě de xìnlài. | Only by strictly controlling product quality at every production phase can an enterprise win consumer trust amid fierce market competition. | Solo supervisando con rigor la calidad del producto en cada eslabón productivo puede la empresa granjearse la lealtad del consumidor.
+
+collocations[6]{hanzi,en}:
+  产品质量 | product quality
+  研发产品 | research and develop a product
+  产品设计 | product design
+  电子产品 | electronic products
+  产品线 | product line
+  推广产品 | promote / market a product
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  优胜劣汰 | yōu shèng liè tài | survival of the fittest; superior wins and inferior is weeded out
+  品学兼优 | pǐn xué jiān yōu | excelling in both moral character and academic learning
+  推陈出新 | tuī chén chū xīn | weed through the old to bring forth the new
+  价廉物美 | jià lián wù měi | excellent quality at a modest price
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  产 | chǎn | produce; give birth; output; property | producir; engendrar; parir; bienes; producción | 亠 | lid / roof | A newborn plant growing out of fertile soil; simplified from 產 | Historical phonetic component | 6 | 单一结构 | Depicts a living plant sprouting forth and bearing fruit; represents giving birth, producing, yield, and manufactured output. | Sprouts rising out of fertile land yielding harvest produce (产). | Tallos que brotan de tierra fértil rindiendo cosecha y producción (产). | 214 | YHH | 產
+  品 | pǐn | goods; quality; grade; evaluate; taste | mercancía; calidad; grado; degustar; catar | 口 | mouth | Three mouths 口 stacked together representing many vessels or people tasting and judging items | Ideographic cluster of mouths evaluating goods | 9 | 品字结构 | Three mouths 口 arranged in a pyramid, depicting multiple judges evaluating, savoring, and grading the quality of merchandise. | Three critical mouths (口) sample and appraise goods to ensure certified grade and quality (品). | Tres bocas (口) que degustan y evalúan mercancías para calibrar su calidad y categoría (品). | 214 | RRR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Goods produced through human labor (产) inspected and certified for consumer taste (品) form a product (产品).
+  composite_memory_hook_es: Bienes engendrados o producidos (产) cuya calidad pasa la prueba de los evaluadores (品) integran un producto (产品).
+  cultural_and_cognitive_roots: Derived from ancient guild standards where newly produced items (产) had to pass threefold taste/grade scrutiny (品) before reaching public trade.
+  tone_sandhi_and_pitch_modulation: Two third tones in succession: 'chǎn pǐn' transforms via tone sandhi into (35-214). Pronounce 'chán pǐn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    严 | yán | strict; severe | Has two horizontal bars at top, unlike 产
+    立 | lì | stand; erect | Bottom horizontal stroke is straight without downward sweep
+    器 | qì | utensil; vessel | Has dog 犬 enclosed by four mouths 口
+    晶 | jīng | crystal; glittering | Composed of three suns 日, not mouths 口
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    物 | wù | thing; commodity
+    货 | huò | goods; merchandise
+    商 | shāng | trade; commodity
+    具 | jù | tool; appliance
+
+semantic_boundary_contrasts:
+  core_nuance: 产品 emphasizes the output of manufacturing, software development, or industrial processing designed for commercial utility.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 产品 vs. 商品 | shāngpǐn | 商品 specifically stresses goods circulating in monetary trade on the market, while 产品 emphasizes the manufactured item itself (even before selling).
+    2 | 产品 vs. 用品 | yòngpǐn | 用品 denotes items grouped by everyday utility function (e.g. 办公用品, 生活用品), whereas 产品 is a broader industrial category.
+    3 | 产品 vs. 作品 | zuòpǐn | 作品 refers to creative, artistic, literary, or intellectual works (books, paintings, symphonies), while 产品 refers to commercial/industrial output.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代科技企业中，优秀的产品经理必须始终将用户体验置于首位。一款成功的科技硬件产品不仅需要具备出色的工业设计与稳定的功能表现，更应融入对当代人生活痛点的人文关怀，让科技真正润物无声地服务于人。 | Zài xiàndài kējì qǐyè zhōng, yōuxiù de chǎnpǐn jīnglǐ bìxū shǐzhōng jiāng yònghù tǐyàn zhìyú shǒuwèi. Yī kuǎn chénggōng de kējì yìngjiàn chǎnpǐn bùjǐn xūyào jùbèi chūsè de gōngyè shèjì yǔ wěndìng de gōngnéng biǎoxiàn, gèng yīng róngrù duì dāngdàirén shēnghuó tòngdiǎn de rénwén guānhuái, ràng kējì zhēnzhèng rùnwù-wúshēng de fúwù yú rén. | In tech firms, great product managers prioritize user experience above all. A successful tech hardware product demands exceptional industrial design, stable performance, and humane care addressing daily pain points. | En las tecnológicas, los jefes de producto priorizan la experiencia del usuario. Un producto de hardware exitoso conjuga un diseño depurado, estabilidad funcional y sensibilidad humana hacia los problemas cotidianos.
+  #2 | 随着全球绿色低碳消费风潮的兴起，节能环保型产品正迅速占据各大消费市场的主流地位。制造厂商积极更新工艺，减少产品在整个生命周期中的能源消耗与碳排放，不仅履行了企业社会责任，也塑造了卓越的品牌形象。 | Suízhe quánqiú lǜsè dītàn xiāofèi fēngcháo de xīngqǐ, jiénéng huánbǎoxíng chǎnpǐn zhèng xùnsù zhànjù gè dà xiāofèi shìchǎng de zhǔliú dìwèi. Zhìzào chǎngshāng jījí gēngxīn gōngyì, jiǎnshǎo chǎnpǐn zài zhěnggè shēngmìng zhōuqī zhōng de néngyuán xiāohào yǔ tànpáifàng, bùjǐn lǚxíngle qǐyè shèhuì zérèn, yě shùzàole zhuóyuè de pǐnpái xíngxiàng. | With the rise of green consumption, eco-friendly products are rapidly dominating mainstream markets. Manufacturers actively upgrade processes to cut life-cycle energy consumption and carbon emissions, fulfilling social duties while elevating brand image. | Con el auge del consumo ecológico, los productos energéticamente sostenibles dominan el mercado. Los fabricantes renuevan sus procesos recortando emisiones y huella de carbono a lo largo del ciclo vital del producto, forjando un prestigio ejemplar.

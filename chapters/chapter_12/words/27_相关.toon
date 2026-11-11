@@ -1,0 +1,64 @@
+id: 27
+hanzi: 相关
+pinyin: xiāng guān
+level: HSK 5
+part_of_speech: Adjective / Verb
+
+meanings_summary:
+  en: related; relevant; correlated; pertinent; to be interrelated
+  es: relacionado; pertinente; correspondiente; correlativo; vincularse
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | having a mutual connection, correlation, or logical relevance to a topic or event | que guarda conexión, afinidad lógica o relación de interdependencia con otro asunto | 相关政策 (relevant policies)
+  2 | Verb | Formal | to be interrelated or linked with one another in cause, effect, or operation | estar mutuamente vinculado o guardar estrecha relación causal o funcional | 息息相关 (closely bound together; vitally interrelated)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在进入海外不同国家市场前，企业合规团队必须细致研读当地与数据跨境传输相关的法律法规。 | Zài jìnrù hǎiwài bùtóng guójiā shìchǎng qián, qǐyè hégūi tuánduì bìxū xìzhì yándú dāngdì yǔ shùjù kuàjìng chuánshū xiāngguān de fǎlǜ fǎguī. | Before entering diverse overseas markets, the corporate compliance team must meticulously study local laws and regulations related to cross-border data transfer. | Antes de desembarcar en mercados extranjeros, el departamento legal examina con rigor las leyes locales relativas a la transferencia de datos.
+  #2 | 现代医学流行病学调查证实，日常长期高糖高盐的饮食结构与心血管慢性疾病的诱发高度相关。 | Xiàndài yīxué liúxíngbìngxué diàochá zhèngshí, rìcháng chángqī gāotáng gāoyán de yǐnshí jiégòu yǔ xīnxuěguǎn mànxìng jíbìng de yòufā gāodù xiāngguān. | Epidemiological studies confirm that long-term daily diets high in sugar and salt are highly correlated with the onset of chronic cardiovascular diseases. | Estudios epidemiológicos demuestran que las dietas ricas en azúcares y sal están sumamente correlacionadas con dolencias cardiovasculares crónicas.
+
+collocations[6]{hanzi,en}:
+  相关部门 | relevant departments / authorities
+  相关政策 | pertinent policies
+  密切相关 | closely related / intimately correlated
+  相关法律 | relevant laws
+  息息相关 | closely linked; bound together
+  相关数据 | relevant data / correlated figures
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  息息相关 | xī xī xiāng guān | as closely interrelated as breath to life; inextricably linked
+  休戚相关 | xiū qī xiāng guān | bound up together in mutual weal and woe
+  相辅相成 | xiāng fǔ xiāng chéng | supplement and complement each other
+  声气相通 | shēng qì xiāng tōng | in close harmony and mutual sympathy
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  相 | xiāng | each other; mutual; look at; appearance | mutuo; recíproco; mirar; aspecto | 目 | eye | 木 (tree branch) + 目 (human eye closely observing tree) | Self-phonetic xiāng | 9 | 左右结构 | An eye 目 gazing thoughtfully at a tree 木 to inspect its quality; extended to mutual reciprocal inspection and interrelationship. | An eye (目) looking thoughtfully at a tree (木) reflects reciprocal interaction (相). | Un ojo vigilante (目) que examina la madera del árbol (木) observando de forma recíproca (相). | 55 | DB | ""
+  关 | guān | frontier pass; close; shut; connect; concern | paso fronterizo; cerrar; trancar; conectar; concernir | 丷 | eight / disperse | Double crossbars barring an imperial mountain pass gate; simplified from 關 | Historical phonetic nuance in 關 | 6 | 单一结构 | A mountain pass checkpoint with locked wooden gates; passing through the barrier connects regions and concerns vital safety. | Passing through the barred boundary gate marks the crucial checkpoint connection (关). | Franquear la barrera del paso fortificado conecta valles y concierne a la seguridad (关). | 55 | YTK | 關
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Interacting mutually with one another (相) across the crucial connection barrier (关) establishes relevance and correlation (相关).
+  composite_memory_hook_es: Interactuar de forma recíproca (相) enlazados a través de un paso común (关) define lo pertinente o correlativo (相关).
+  cultural_and_cognitive_roots: Ancient philosophical notion of resonance (天人感应): events in human affairs and nature are invisibly interconnected through resonant gates (相关关联).
+  tone_sandhi_and_pitch_modulation: Two high level first tones: 'xiāng guān' (55-55). Hold clear, sustained high level pitch throughout.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    想 | xiǎng | think; miss | Has heart radical 心 at bottom under 相
+    箱 | xiāng | box; chest | Has bamboo radical 竹 on top of 相
+    美 | měi | beautiful | Has 羊 at top over 大 instead of 丷 in 关
+    天 | tiān | sky; day | Lacks the top two dots of 关
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    联 | lián | connect; link
+    系 | xì | tie; system; relation
+    连 | lián | link; continuous
+    牵 | qiān | pull; involve
+
+semantic_boundary_contrasts:
+  core_nuance: 相关 functions as an adjective prefix for pertinent/connected subjects or statistical correlation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 相关 vs. 有关 | yǒuguān | 有关 often introduces a prepositional phrase ('有关环境保护的报告' report concerning environmental protection), whereas 相关 frequently functions directly as an adjective modifier ('相关文件' relevant documents) or statistical term ('正相关').
+    2 | 相关 vs. 相连 | xiānglián | 相连 denotes direct spatial or physical contiguous contact ('山水相连'), whereas 相关 indicates logical, causal, or statistical linkage.
+    3 | 相关 vs. 相应 | xiāngyìng | 相应 means corresponding, matching, or commensurate in proportion/countermeasure ('采取相应措施'), while 相关 merely denotes connection.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代大数据与人工智能分析领域，“相关性并不等同于因果性”是一条至关重要的统计学准则。两个经济变量之间存在高度相关，可能仅仅是因为它们同时受到某个未被观测到的深层第三方因素驱动，需要科学家严谨辨析。 | Zài xiàndài dàshùjù yǔ réngōng zhìnéng fēnxī lǐngyù, 'xiāngguānxìng bìng bù děngtóng yú yīnguǒxìng' shì yī tiáo zhìguān zhòngyào de tǒngjìxué zhǔnzé. Liǎng gè jīngjì biànliàng zhījiān cúnzài gāodù xiāngguān, kěnéng jǐnjǐn shì yīnwèi tāmen tóngshí shòudào mǒu gè wèibèi guāncè dào de shēncéng dì-sān fāng yīnsù qūdòng, xūyào kēxuéjiā yánjǐn biànxī. | In big data and AI analysis, 'correlation does not imply causation' is a crucial axiom. High correlation between two economic variables may stem from an unobserved third factor, requiring rigorous scientific differentiation. | En la analítica de macrodatos e IA, 'correlación no implica causalidad' es una máxima crucial. Dos variables correlacionadas pueden responder a un tercer factor oculto, requiriendo un riguroso discernimiento científico.
+  #2 | 生态系统的健康稳定与每一种珍稀物种的生存繁衍息息相关。科学家通过长期生态监测发现，森林中顶级掠食者数量的骤降，会直接引发食草动物过度繁殖并破坏植被，最终导致整片森林水土流失加剧，破坏生物多样性。 | Shēngtài xìtǒng de jiànkāng wěndìng yǔ měi yī zhǒng zhēnxī wùzhǒng de shēngcún fányǎn xīxī-xiāngguān. Kēxuéjiā tōngguò chángqī shēngtài jiāncè fāxiàn, sēnlín zhōng dǐngjí lüèshízhě shùliàng de zhòujiàng, huì zhíjiē yǐnfā shícǎo dòngwù guòdù fánzhí bìng pòhuài zhíbèi, zuìzhōng dǎozhì zhěng piàn sēnlín shuǐtǔ liúshī jiājù, pòhuài shēngwù duōyàngxìng. | Ecosystem stability is closely related to the survival of rare species. Long-term monitoring shows that a sudden drop in apex predators causes herbivores to overpopulate and degrade flora, ultimately exacerbating erosion and harming biodiversity. | La salud del ecosistema está íntimamente ligada a la supervivencia de especies raras. El declive de grandes depredadores dispara la sobrepoblación de herbívoros dañando la flora y desatando la erosión del suelo forestal.

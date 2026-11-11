@@ -1,0 +1,64 @@
+id: 23
+hanzi: 高级
+pinyin: gāo jí
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: high-ranking; senior; high-grade; advanced; premium
+  es: de alto rango; superior; avanzado; de alta gama; distinguido; prémium
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | ranking high in hierarchy, status, professional seniority, or technological advancement | situado en un nivel jerárquico superior, de categoría avanzada o gran maestría profesional | 高级工程师 (senior engineer)
+  2 | Adjective | Standard | luxurious, high-grade, premium quality, or tasteful | de primera calidad, lujoso, refinado o de gama alta | 高级餐厅 (high-end / fine-dining restaurant)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 腾讯集团委派多位资深高级副总裁亲自负责海外业务拓展，彰显出企业对国际化战略的高度重视。 | Téngxùn jítuán wěipài duō wèi zīshēn gāojí fù-zǒngcái qīnzì fùzé hǎiwài yèwù tuòzhǎn, zhāngxiǎn chū qǐyè duì guójìhuà zhànlüè de gāodù zhòngshì. | Tencent appointed several senior vice presidents to personally oversee overseas expansion, underscoring the firm's profound commitment to globalization. | Tencent designó a varios vicepresidentes sénior para liderar la expansión exterior, demostrando su firme compromiso con la internacionalización.
+  #2 | 这家高科技研发中心汇聚了数十位高级算法专家，致力于攻克新一代量子计算核心理论难题。 | Zhè jiā gāokējì yánfā zhōngxīn huìjùle shùshí wèi gāojí suànfǎ zhuānjiā, zhìlì yú gōngkè xīn yí dài liàngzǐ jìsuàn héxīn lǐlùn nántí. | This high-tech R&D center gathers dozens of senior algorithm experts dedicated to cracking core theoretical bottlenecks in next-gen quantum computing. | Este centro de I+D reúne a decenas de expertos en algoritmos avanzados consagrados a resolver dilemas en computación cuántica.
+
+collocations[6]{hanzi,en}:
+  高级官员 | senior official; high-ranking official
+  高级副总裁 | Senior Vice President (SVP)
+  高级职称 | senior professional title
+  高级餐厅 | high-end / fine-dining restaurant
+  高级阶段 | advanced stage
+  高级定制 | haute couture; premium customization
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  高瞻远瞩 | gāo zhān yuǎn zhǔ | stand high and see far; possess visionary foresight
+  高屋建瓴 | gāo wū jiàn líng | pour water from rooftop; operate from a vantage point of commanding height
+  步步高升 | bù bù gāo shēng | rise step by step in official ranking; steady promotion
+  高朋满座 | gāo péng mǎn zuò | hall filled with distinguished and eminent guests
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  高 | gāo | tall; high; elevated; lofty; superior | alto; elevado; noble; superior; eminente | 高 | tall / high | Pictograph of a multi-tiered wooden watchtower or city gate pavilion rising into the sky | Pictograph of high tower gāo | 10 | 单一结构 | A pictograph of a soaring multi-story gate tower with an arched entrance 口, rooftop 亠, and viewing chamber; denotes height and superiority. | A multi-tiered majestic imperial watchtower rises tall and lofty into the clouds (高). | Una atalaya imperial de varios pisos que se alza majestuosa hacia las nubes (高). | 55 | YRBR | ""
+  级 | jí | level; grade; rank; step; degree | nivel; grado; peldaño; rango; escalón | 纟 | silk | 纟 (graded silk threads arranged in ordered sequence) + 及 (reach / attain) | 及 (jí, reach / phonetic) | 6 | 左右结构 | Silk fibers 纟 arranged sequentially according to quality until each grade reaches 及 its proper standard; steps, ranks, and degrees. | Strands of silk (纟) reaching up step by step (及) climb to the next higher rank (级). | Madejas de seda (纟) que alcanzan (及) un peldaño superior en la escala de categorías (级). | 35 | VMNE | 級
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Standing at the loftiest tower heights (高) on the highest hierarchical step (级) is advanced or senior-ranking (高级).
+  composite_memory_hook_es: Situarse en la torre más alta (高) sobre el peldaño supremo de la jerarquía (级) es de alto rango o avanzado (高级).
+  cultural_and_cognitive_roots: Derived from bureaucratic rank examinations in imperial China: ascending nine official grades (九品中正制) toward senior court rank (高级官员).
+  tone_sandhi_and_pitch_modulation: First tone followed by second tone: 'gāo jí' (55-35). Hold high ceiling 55, then glide up cleanly to 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    亮 | liàng | bright; shine | Has 几 at bottom instead of 口 in 高
+    亭 | tíng | pavilion | Has 丁 at bottom
+    极 | jí | extreme; pole | Has wood radical 木 on left of 及 instead of silk 纟 in 级
+    吸 | xī | inhale; suck | Has mouth radical 口 on left of 及
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    上 | shàng | upper; superior
+    尊 | zūn | venerable; senior
+    贵 | guì | noble; premium
+    超 | chāo | super; surpass
+
+semantic_boundary_contrasts:
+  core_nuance: 高级 indicates high rank in an organization, advanced technological maturity, or premium/luxurious consumer tier.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 高级 vs. 高等 | gāoděng | 高等 applies strictly to advanced education or biological taxonomy ('高等教育', '高等动物'), while 高级 applies to personnel rank, tech maturity, and quality.
+    2 | 高级 vs. 高档 | gāodàng | 高档 specifically refers to consumer commodities, apparel, or furnishings that are expensive and high-grade ('高档商品'), whereas 高级 can describe abstract theories, ranks, and jobs.
+    3 | 高级 vs. 顶级 | dǐngjí | 顶级 denotes the very pinnacle apex or tier-one best in the entire world ('顶级配置'), surpassing regular 高级.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 现代跨国企业在选拔高级管理人才时，越来越看重候选人的战略大局观与危机应变能力。一位称职的高级主管不仅要在顺境中带领团队开疆拓土，更要在行业遭遇严冬时临危不乱，以远见卓识为企业开辟出全新的增长空间。 | Xiàndài kuàguó qǐyè zài xuǎnbá gāojí guǎnlǐ réncái shí, yuèláiyuè kànzhòng hòuxuǎnrén de zhànlüè dàjúguān yǔ wēijī yìngbiàn nénglì. Yī wèi chènzhí de gāojí zhǔguǎn bùjǐn yào zài shùnjìng zhōng dàilǐng tuánduì kāijiāng-tuòtǔ, gèng yào zài hángyè zāoyù yándōng shí línwéi-búlùan, yǐ yuǎnjiàn-zhuóshí wèi qǐyè kāipì chū quánxīn de zēngzhǎng kōngjiān. | Multinationals increasingly value vision and crisis response when selecting senior executives. A competent senior director not only expands business during good times, but stays calm during industry downturns, charting fresh growth avenues. | Las multinacionales valoran la visión estratégica y la gestión de crisis al elegir directivos sénior. Un alto ejecutivo competente no solo expande el negocio en tiempos de bonanza, sino que mantiene el temple en recesiones abriendo nuevos horizontes.
+  #2 | 随着我国综合国力与居民生活水平的持续提升，消费市场呈现出从基础物质满足向高级精神享受转变的鲜明趋势。越来越多的消费者愿意为高级文化定制旅游、高雅艺术展演以及高品质有机健康食品买单，催生出多元蓬勃的品质消费新蓝海。 | Suízhe wǒguó zōnghé guólì yǔ jūmín shēnghuó shuǐpíng de chíxù tíshēng, xiāofèi shìchǎng chéngxiàn chū cóng jīchǔ wùzhí mǎnzú xiàng gāojí jīngshén xiǎngshòu zhuǎnbiàn de xiānmíng qūshì. Yuèláiyuè duō de xiāofèizhě yuànyì wèi gāojí wénhuà dìngzhì lǚyóu, gāoyǎ yìshù zhǎnyǎn yǐjí gāopǐnzhì yǒujī jiànkāng shípǐn mǎidān, cuīshēng chū duōyuán péngbó de pǐnzhì xiāofèi xīn lánhǎi. | With rising living standards, the consumer market is shifting from basic material needs toward higher spiritual enjoyment. Consumers readily pay for premium customized travel, fine arts, and organic health foods, spurring vibrant quality markets. | Con la mejora del nivel de vida, el consumo evoluciona de cubrir necesidades básicas hacia el disfrute cultural refinado. Crece la demanda de viajes exclusivos, arte selecto y alimentos ecológicos prémium, impulsando un mercado de gran calidad.

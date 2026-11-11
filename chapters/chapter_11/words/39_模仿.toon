@@ -1,0 +1,63 @@
+id: 39
+hanzi: 模仿
+pinyin: mó fǎng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to imitate; mimic; emulate; model after; copy
+  es: imitar; remedar; copiar; emular; reproducir pautas
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to copy, simulate, or model one's behavior, style, sound, or mechanism after an existing example or natural phenomenon | reproducir o copiar adrede los ademanes, el aspecto, el funcionamiento o el sonido de un modelo natural o ajeno | 模仿自然声音 (mimic natural sounds)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 新型健康闹钟通过模仿大自然中鸟鸣和清泉的流动声，让人们在清晨舒缓地苏醒过来。 | Xīnxíng jiànkāng nàozhōng tōngguò mófǎng dàzìrán zhōng niǎomíng hé qīngquán de liúdòng shēng, ràng rénmen zài qīngchén shūhuǎn de sūxǐng guòlái. | New wellness alarms awaken people soothingly in the morning by mimicking birdsong and flowing springs found in nature. | Los nuevos despertadores saludables despiertan a las personas con suavidad matutina imitando el trino de pájaros y el fluir de manantiales.
+  #2 | 儿童在语言学习的初期阶段，主要通过大量模仿父母的语音和语调来掌握日常交流表达。 | Értóng zài yǔyán xuéxí de chūqī jiēduàn, zhǔyào tōngguò dàliàng mófǎng fùmǔ de yǔyīn hé yǔdiào lái zhǎngwò rìcháng jiāoliú biǎodá. | In early stages of language acquisition, children master daily communication expressions mainly through mimicking parents' pronunciation and intonation. | En fases tempranas de adquisición lingüística, los niños dominan la expresión cotidiana imitando ampliamente la entonación de sus padres.
+
+collocations[6]{hanzi,en}:
+  模仿能力 | imitative ability / capacity to mimic
+  盲目模仿 | blindly imitate
+  模仿声音 | mimic sounds / voices
+  刻意模仿 | deliberately emulate / imitate
+  模仿动作 | mimic movements / actions
+  善于模仿 | be good at imitating
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  东施效颦 | dōng shī xiào pín | blindly mimic others with ridiculous and grotesque results
+  惟妙惟肖 | wéi miào wéi xiào | imitated or portrayed with remarkable fidelity and lifelikeness
+  鹦鹉学舌 | yīng wǔ xué shé | parrot others' words without genuine comprehension
+  生搬硬套 | shēng bān yìng tào | mechanically copy and apply rules without adapting to context
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  模 | mó | mold; pattern; model; standard | molde; patrón; modelo; pauta | 木 | wood | 木 (wooden casting mold) + 莫 (dusk / phonetic casting frame) | 莫 (mò, dusk / phonetic) | 14 | 左右结构 | A wooden mold 木 used by artisans to cast duplicates into uniform shape; hence a model, archetype, or standard pattern. | Carving wood (木) into a prototype mold (莫) allows accurate reproduction of models (模). | Tallar madera (木) para hacer un molde maestro (莫) permite reproducir fielmente un modelo (模). | 35 | DTAK | ""
+  仿 | fǎng | resemble; imitate; copy; like | parecerse; imitar; asemejarse; copiar | 亻 | person | 亻 (person / human action) + 方 (square / standard boundary) | 方 (fāng, square / phonetic) | 6 | 左右结构 | A person 亻 aligning gestures according to the square measurements 方 of an existing archetype; imitating. | A person (亻) shaping behavior to fit the exact four-corner frame (方) of a teacher imitates (仿). | Una persona (亻) que ajusta sus ademanes al patrón cuadrado (方) del maestro imita con destreza (仿). | 214 | OYHS | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Taking a standard archetype mold (模) and having a person copy its shape (仿) is imitating (模仿).
+  composite_memory_hook_es: Tomar un molde patrón (模) y hacer que la persona reproduzca su diseño (仿) es imitar (模仿).
+  cultural_and_cognitive_roots: Bionics (仿生学): human engineering has historically advanced by observing and copying flight, acoustics, and camouflage from nature.
+  tone_sandhi_and_pitch_modulation: Second tone followed by third tone: 'mó fǎng' (35-214). Smooth rising glide followed by low dipping third tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    摸 | mō | touch; feel; grope | Has hand radical 扌 on left instead of wood 木 in 模
+    膜 | mó | membrane; film | Has flesh radical 月 on left
+    访 | fǎng | visit; interview | Has speech radical 讠 on left instead of person 亻 in 仿
+    防 | fáng | defend; guard | Has mound radical 阝 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    拟 | nǐ | simulate; draft
+    抄 | chāo | copy; transcribe
+    效 | xiào | emulate; effect
+    学 | xué | study; learn by imitation
+
+semantic_boundary_contrasts:
+  core_nuance: 模仿 involves actively observing an external model (behavior, speech, nature) and reproducing its characteristics.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 模仿 vs. 模拟 | mónǐ | 模拟 emphasizes technical simulation, scientific modeling, or mock testing (e.g. 模拟考试, 模拟飞行), while 模仿 leans toward human or artistic imitation.
+    2 | 模仿 vs. 抄袭 | chāoxí | 抄袭 carries strong negative legal and moral condemnation for plagiarizing essays, songs, or patents, whereas 模仿 can be a neutral learning method.
+    3 | 模仿 vs. 效仿 | xiàofǎng | 效仿 is more formal, often describing following an admirable historical role model or policy precedent ('效仿先贤').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 仿生学是一门建立在向大自然求教基础上的前沿交叉学科。科学家通过深入观察与模仿鸟类飞行的羽翼结构、海豚游动的流线体态，成功研制出阻力极小的超高速飞行器和潜艇，极大推动了现代交通工程的革新跨越。 | Fǎngshēngxué shì yī mén jiànlì zài xiàng dàzìrán qiújiào jīchǔ shàng de qiányán jiāochā xuékē. Kēxuéjiā tōngguò shēnrù guānchá yǔ mófǎng niǎolèi fēixíng de yǔyì jiégòu, hǎitún yóudòng de liúxiàntǐ tài, chénggōng yánzhì chū zǔlì jí xiǎo de chāogāosù fēixíngqì hé qiántǐng, jídà tuīdòngle xiàndài jiāotōng gōngchéng de géxīn kuàyuè. | Bionics is a frontier discipline built on learning from nature. By observing and mimicking birds' wing structures and dolphins' streamlined bodies, scientists engineered aircraft and submersibles with minimal drag, revolutionizing transit. | La biónica es una disciplina puntera nacida de aprender de la naturaleza. Imitando el diseño de las alas de aves y la silueta hidrodinámica de delfines, los científicos concibieron naves y sumergibles que reducen la resistencia revolucionando el transporte.
+  #2 | 初涉艺术创作的青年画师，往往需要经历一段临摹大师经典的模仿阶段。然而，真正的艺术家绝不会永远停留于简单机械的模仿。唯有在扎实掌握传统笔墨技巧后勇敢融入个人独到的生命体验，方能破茧成蝶，开创出自成一家的独特美学风格。 | Chūshè yìshù chuàngzuò de qīngnián huàshī, wǎngwǎng xūyào jīnglì yī duàn línmó dàshī jīngdiǎn de mófǎng jiēduàn. Rán'ér, zhēnzhèng de yìshùjiā juébù huì yǒngyuǎn tíngliú yú jiǎndān jīxiè de mófǎng. Wéiyǒu zài zhāshi zhǎngwò chuántǒng bǐmò jìqiǎo hòu yǒnggǎn róngrù gèrén d способ/dúdào de shēngmìng tǐyàn, fāng néng pòjiǎn-chéngdié, kāichuàng chū zìchéng-yījiā de dútè měixué fēnggé. | Young painters starting in art often pass through a stage of imitating masters. Yet true artists never stagnate in mechanical copying. Only by infusing personal life experience after mastering fundamentals can one forge a distinct aesthetic style. | Los pintores noveles suelen atravesar una etapa de imitación copiando obras maestras. Con todo, el auténtico creador no se estanca en la copia mecánica; solo infundiendo vivencias propias tras dominar el oficio brota un estilo estético genuino.

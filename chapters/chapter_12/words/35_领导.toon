@@ -1,0 +1,64 @@
+id: 35
+hanzi: 领导
+pinyin: lǐng dǎo
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to lead; guide; leader; leadership; management
+  es: liderar; dirigir; guiar; líder; dirigente; jefatura; liderazgo
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to guide, direct, command, or head an organization, team, or political movement toward a goal | guiar, dirigir, encabezar o mandar un equipo, organismo o nación hacia una meta | 领导团队 (lead a team)
+  2 | Noun | Standard | a person who holds a managerial or leadership post; superiors in office | persona que ostenta un cargo directivo; superior jerárquico o dirigente | 公司领导 (company leadership / executive)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在杰出企业领导团队的远见卓识指引下，微信成功从一款国内即时通讯软件蜕变为享誉全球的超级应用。 | Zài jiéchū qǐyè lǐngdǎo tuánduì de yuǎnjiàn-zhuóshí zhǐyǐn xià, Wēixìn chénggōng cóng yī kuǎn guónèi jíshí tōngxùn ruǎnjiàn tuìbiàn wéi xiǎngyù quánqiú de chāojí yìngyòng. | Guided by the foresight of its outstanding corporate leadership team, WeChat successfully metamorphosed from a domestic chat app into a globally acclaimed super-app. | Guiado por la visión de su cúpula directiva, WeChat evolucionó de un chat doméstico a una súper-aplicación aclamada en el mundo entero.
+  #2 | 一位真正优秀的领导者不仅要懂得指挥调度，更要懂得倾听一线基层员工的真实诉求与创新想法。 | Yī wèi zhēnzhèng yōuxiù de lǐngdǎozhě bùjǐn yào dǒngde zhǐhuī diàodù, gèng yào dǒngde qīngtīng yīxiàn jīcéng yuángōng de zhēnshí sùqiú yǔ chuàngxīn xiǎngfǎ. | A truly great leader must not only know how to command, but equally know how to listen to frontline staff's genuine needs and creative thoughts. | Un auténtico líder no solo sabe impartir directrices, sino que escucha con atención las inquietudes y propuestas de los empleados de base.
+
+collocations[6]{hanzi,en}:
+  领导干部 | leading cadres / leaders
+  领导班子 | leadership group / management team
+  正确领导 | correct / sound leadership
+  领导能力 | leadership ability
+  单位领导 | work unit leadership / supervisor
+  直接领导 | immediate supervisor / direct superior
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  率先垂范 | shuài xiān chuí fàn | take the lead and set a fine example for others
+  身先士卒 | shēn xiān shì zú | charge at the head of one's troops; lead from the front
+  群龙无首 | qún lóng wú shǒu | a host of dragons without a head; leaderless group in chaos
+  上行下效 | shàng xíng xià xiào | subordinates follow the example set by superiors
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  领 | lǐng | neck; collar; lead; guide; receive | cuello; cuello de ropa; liderar; guiar; percibir | 页 | head / page | 令 (command / order) + 页 (human head / neck) | 令 (lìng, command / phonetic lǐng) | 11 | 左右结构 | The neck or collar 页 beneath the head that directs where the body turns, following orders 令; taking the lead. | Turning the head and neck (页) to issue authoritative guidance orders (令) leads the crowd (领). | El cuello de la cabeza (页) que gira al dictar órdenes firmes (令) encabeza la marcha (领). | 214 | OIMBO | 領
+  导 | dǎo | guide; lead; instruct; direct; channel | guiar; conducir; instruir; encauzar; dirigir | 寸 | hand / measure | 巳/道 (pathway of truth) + 寸 (guiding hand) | Historical phonetic nuance in 導 | 6 | 上下结构 | A hand 寸 holding a lamp or staff to point out the proper roadway 道; guiding, channeling water, and leading followers safely. | A steady hand (寸) pointing out the correct route along the road guides the way (导). | Una mano prudente (寸) que señala la calzada correcta encauzando a los caminantes (导). | 214 | AUD | 導
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Turning one's neck at the head of the vanguard (领) and guiding the road with a steady hand (导) is leading (领导).
+  composite_memory_hook_es: Encabezar la comitiva al frente (领) señalando la senda con la mano (导) es liderar o dirigir (领导).
+  cultural_and_cognitive_roots: Originates from tailoring collars and coats (提纲挈领): grasping the main collar (领) to align the entire garment effortlessly; executive leadership.
+  tone_sandhi_and_pitch_modulation: Two third tones in succession: 'lǐng dǎo' transforms via tone sandhi into (35-214). Pronounce 'líng dǎo'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    邻 | lín | neighbor; adjacent | Has mound radical 阝 on right of 令 instead of 页 in 领
+    冷 | lěng | cold; chill | Has ice radical 冫 on left of 令
+    异 | yì | different; strange | Has 廾 at bottom instead of 寸 in 导
+    寻 | xún | seek; search | Has 双-like top over 寸
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    率 | shuài | lead; command
+    带 | dài | lead; carry along
+    帅 | shuài | commander; general
+    首 | shǒu | head; chief leader
+
+semantic_boundary_contrasts:
+  core_nuance: 领导 can refer to the overarching leadership role, or to the specific executive officials heading an organization.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 领导 vs. 指导 | zhǐdǎo | 指导 focuses on providing technical advice, academic tutoring, or tactical pointers ('学术指导', '教练指导'), without commanding organizational administrative power like 领导.
+    2 | 领导 vs. 管理 | guǎnlǐ | 管理 emphasizes daily operations, workflow regulation, resource logistics, and rules ('时间管理', '企业管理'), whereas 领导 inspires strategic vision and steers goals.
+    3 | 领导 vs. 首领 | shǒulǐng | 首领 refers to tribal chiefs, rebel leaders, or underworld syndicates, while 领导 is standard for legitimate civil/corporate leadership.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在波谲云诡的商业市场大变局中，优秀的领导者最核心的品质是临危不乱的战略定力。领导团队必须能够在迷雾中洞见未来的发展大势，凝聚全体员工的信念与力量，带领整个企业化被动为主动、化危机为转机。 | Zài bōjué-yúnguǐ de shāngyè shìchǎng dàbiànjú zhōng, yōuxiù de lǐngdǎozhě zuì héxīn de pǐnzhì shì línwéi-búlùan de zhànlüè dìnglì. Lǐngdǎo tuánduì bìxū nénggòu zài míwù zhōng dòngjiàn wèilái de fāzhǎn dàshì, níngjù quántǐ yuángōng de xìnniàn yǔ lìliang, dàilǐng zhěnggè qǐyè huà bèidòng wéi zhǔdòng, huà wēijī wéi zhuǎnjī. | Amid market upheavals, a great leader's core trait is calm strategic resolve. A leadership team must discern future trends through the fog, rallying employee conviction to turn passive stances into initiative and crises into turning points. | Ante la volatilidad del mercado, la mayor virtud de un líder es el aplomo estratégico. La directiva debe otear el porvenir entre la niebla uniendo la fuerza del equipo para trocar la adversidad en oportunidad de éxito.
+  #2 | 领导干部应当始终把人民群众的安危冷暖放在心中最高位置。真正深入基层调查研究，倾听百姓在医疗、教育与养老方面的操心事与烦心事，以实干担当的精神为老百姓排忧解难，才能赢得广大人民群众由衷的信赖与拥护。 | Lǐngdǎo gànbù yīngdāng shǐzhōng bǎ rénmín qúnzhòng de ānwēi lěngnuǎn fàng zài xīnzhōng zuìgāo wèizhì. Zhēnzhèng shēnrù jīcéng diàochá yánjiū, qīngtīng bǎixìng zài yīliáo, jiàoyù yǔ yǎnglǎo fāngmiàn de cāoxīnshì yǔ fánxīnshì, yǐ shígàn dāndāng de jīngshén wèi lǎobǎixìng páiyōu-jiěnán, cáinéng yíngdé guǎngdà rénmín qúnzhòng yóuzhōng de xìnlài yǔ yōnghù. | Leading cadres must always hold the people's welfare in the highest esteem. Deeply surveying the grassroots to listen to everyday concerns in healthcare and education, and solving hardships with pragmatic work wins the people's heartfelt trust. | Los dirigentes deben priorizar el bienestar popular por encima de todo. Pisando el terreno para atender desvelos en sanidad, educación y jubilación, su entrega sincera a la ciudadanía les granjea el respaldo y cariño del pueblo.

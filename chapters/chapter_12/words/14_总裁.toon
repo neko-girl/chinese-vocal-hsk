@@ -1,0 +1,63 @@
+id: 14
+hanzi: 总裁
+pinyin: zǒng cái
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: president (of a corporation); CEO; director-general
+  es: presidente ejecutivo; director general; CEO de empresa corporativa
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the highest executive officer or president managing the operations of a large corporation, conglomerate, or international financial institution | máximo responsable ejecutivo o presidente con mando supremo en una corporación, consorcio o banco | 执行总裁 (chief executive officer / CEO)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在微信国际化战略研讨会上，腾讯公司总裁发表了关于打造全球移动互联生态圈的主题演讲。 | Zài Wēixìn guójìhuà zhànlüè yántǎohuì shàng, Téngxùn gōngsī zǒngcái fābiǎole guānyú dǎzào quánqiú yídòng hùlián shēngtàiquān de zhǔtí yǎnjiǎng. | At the WeChat globalization seminar, the president of Tencent delivered a keynote address on building a worldwide mobile internet ecosystem. | En las jornadas de internacionalización de WeChat, el presidente de Tencent pronunció un discurso magistral sobre el ecosistema móvil global.
+  #2 | 跨国银行新任总裁雷厉风行地启动了组织架构改革，旨在全面提升数字化金融服务的响应速度。 | Kuàguó yínháng xīnrèn zǒngcái léilì-fēngxíng de qǐdòngle zǔzhī jiàgòu gǎigé, zhǐzài quánmiàn tíshēng shùzìhuà jīnróng fúwù de xiǎngyìng sùdù. | The multinational bank's new president swiftly initiated an organizational restructure aiming to elevate the responsiveness of digital financial services. | El nuevo presidente ejecutivo del banco internacional acometió con pulso firme una reforma organizativa para agilizar la banca digital.
+
+collocations[6]{hanzi,en}:
+  执行总裁 | Chief Executive Officer (CEO)
+  副总裁 | Vice President (VP)
+  公司总裁 | company president
+  出任总裁 | assume the post of president
+  集团总裁 | group president / conglomerate CEO
+  高级副总裁 | Senior Vice President (SVP)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  运筹帷幄 | yùn chóu wéi wò | devise strategies within a command tent; mastermind decisions
+  独当一面 | dú dāng yī miàn | take charge of a major area independently with mastery
+  总揽大局 | zǒng lǎn dà jú | oversee the entire situation and steer overall direction
+  断事如神 | duàn shì rú shén | judge and resolve affairs with godlike insight
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  总 | zǒng | general; overall; assemble; always; chief | general; total; reunir; supremo; siempre | 丷 | eight / disperse | Silk thread bundle gathered together at center over heart 心 | Archaic phonetic nuance in 總 | 9 | 上下结构 | Gathering separate strands of raw silk into a central unified thread over one's heart 心; overarching general control. | Gathering diverse silk threads under the head of heart-centered control unifies the whole (总). | Reunir los hilos dispersos bajo un corazón directivo (心) centraliza el mando supremo (总). | 214 | CRP | 總
+  裁 | cái | cut out; trim; judge; decide; arbitrate | cortar tela; recortar; juzgar; decidir; arbitrar | 衣 | clothing | 衣 (fabric garment) + 𢦏/戈 (halberd cutting tool / weapon) | 𢦏 (zāi, phonosemantic cut) | 12 | 半包围结构 | Cutting patterned fabric 衣 with a sharp blade 戈 to tailor fine garments; extended to judging, ruling, and deciding corporate policy. | Using a sharp blade to cut out silk cloth (衣) to measure tailor garments; ruling with decisive judgment (裁). | Empuñar la cuchilla afilada sobre la tela (衣) para cortar con precisión y dictar sentencia (裁). | 35 | JIYHV | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: One who holds overall central authority (总) and makes decisive executive rulings (裁) is the corporate president (总裁).
+  composite_memory_hook_es: Quien ostenta el mando general unificado (总) y toma decisiones ejecutivas de peso (裁) es el presidente (总裁).
+  cultural_and_cognitive_roots: Historically, 总裁 denoted high imperial court editors or examiners overseeing major compilations (like the Siku Quanshu 四库全书总裁官). Modern usage adopted it for corporate CEOs.
+  tone_sandhi_and_pitch_modulation: Third tone followed by second tone: 'zǒng cái' (214-35). Low dipping third tone rising smoothly into second tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    忽 | hū | suddenly; neglect | Has 勿 over 心 instead of 丷 and 口 in 总
+    思 | sī | think; thought | Has field 田 over 心
+    栽 | zāi | plant; cultivate | Has tree radical 木 inside instead of cloth 衣 in 裁
+    载 | zài | carry; load | Has vehicle radical 车 inside
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    董 | dǒng | direct; board director
+    长 | zhǎng | senior; chief
+    领 | lǐng | lead; collar
+    首 | shǒu | head; leader
+
+semantic_boundary_contrasts:
+  core_nuance: 总裁 designates the highest operating executive or corporate president responsible for overall company management.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 总裁 vs. 董事长 | dǒngshìzhǎng | 董事长 is the Chairman of the Board representing shareholders with supreme governance authority, while 总裁 is the CEO executing daily operational management.
+    2 | 总裁 vs. 总经理 | zǒngjīnglǐ | 总经理 is the general manager of a company branch or standard firm, whereas 总裁 is typically used in large conglomerates, multinationals, or international groups.
+    3 | 总裁 vs. 首席执行官 | shǒuxí zhíxíngguān | 首席执行官 is the direct translation of CEO; in many Chinese corporate structures, 总裁 and CEO are identical or overlapping roles.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 跨国企业的总裁不仅需要具备敏锐的商业洞察力和卓越的决断力，更应当具有跨越多元文化背景的包容心。在面对复杂多变的全球地缘政治与国际贸易挑战时，一位优秀的总裁总能审时度势，带领企业破浪前行。 | Kuàguó qǐyè de zǒngcái bùjǐn xūyào jùbèi mǐnruì de shāngyè dòngchàlì yǔ zhuóyuè de juéduànlì, gèng yīngdāng jùyǒu kuàyuè duōyuán wénhuà bèijǐng de bāoróngxīn. Zài miànduì fùzá-duōbiàn de quánqiú dìyuán zhèngzhì yǔ guójì màoyì tiǎozhàn shí, yī wèi yōuxiù de zǒngcái zǒng néng shěnshí-duóshì, dàilǐng qǐyè pòlàng-qiánxíng. | The president of a multinational must possess sharp commercial insight, decisiveness, and intercultural tolerance. Facing volatile geopolitical and trade challenges, an exceptional CEO gauges trends to steer the firm forward. | El presidente de una multinacional aúna visión comercial, pulso firme e integración intercultural. Ante la volatilidad geopolítica y arancelaria, un directivo ejemplar calibra los tiempos guiando la corporación hacia buen puerto.
+  #2 | 在年度全球商业创新峰会上，多家世界五百强企业的执行总裁齐聚一堂，围绕人工智能与绿色低碳转型的战略交汇点展开高端对话。总裁们一致指出，未来十年科技企业必须主动拥抱可持续发展，将社会责任融入核心经营逻辑。 | Zài niándù quánqiú shāngyè chuàngxīn fēnghuì shàng, duō jiā shìjiè wǔbǎiqiáng qǐyè de zhíxíng zǒngcái qíjù-yītáng, wéirào réngōng zhìnéng yǔ lǜsè dītàn zhuǎnxíng de zhànlüè jiāohuìdiǎn zhǎnkāi gāoduān duìhuà. Zǒngcáimen yīzhì zhǐchū, wèilái shí nián kējì qǐyè bìxū zhǔdòng yōngbào kěchíxù fāzhǎn, jiāng shèhuì zérèn róngrù héxīn jīngyíng luójí. | At the annual business innovation summit, Fortune 500 CEOs gathered for dialogue on AI and green low-carbon transitions. The presidents agreed that tech firms must embrace sustainability over the coming decade, embedding ethics into core strategies. | En la cumbre anual de innovación empresarial, los presidentes de gigantes de Fortune 500 dialogaron sobre inteligencia artificial y sostenibilidad verde, coincidiendo en arraigar la responsabilidad social en la estrategia corporativa.

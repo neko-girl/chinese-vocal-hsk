@@ -1,0 +1,63 @@
+id: 30
+hanzi: 失眠
+pinyin: shī mián
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to suffer from insomnia; sleeplessness; insomnia
+  es: padecer insomnio; no poder dormir; insomnio
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to be unable to fall asleep or remain asleep throughout the night; to suffer insomnia | ser incapaz de conciliar o mantener el sueño durante la noche; desvelarse | 彻夜失眠 (suffer sleeplessness all night long)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 明天就要迎来期待已久的博士论文答辩，他躺在床上辗转反侧，竟然失眠了整整大半夜。 | Míngtiān jiùyào yínglái qīdài yǐ jiǔ de bóshì lùnwén dábiàn, tā tǎng zài chuáng shàng zhǎnzhuǎn-fǎncè, jìngrán shīmián le zhěngzhěng dàbànyè. | With tomorrow's long-awaited doctoral defense approaching, he tossed and turned in bed, suffering insomnia for half the night. | Ante la inminente defensa de su tesis doctoral, dio vueltas en la cama desvelado durante más de media noche.
+  #2 | 长期慢性失眠不仅会加速容颜衰老，更会导致人体免疫细胞活性大幅下降，诱发多种慢性疾病。 | Chángqī mànxìng shīmián bùjǐn huì jiāsù róngyán shuāilǎo, gèng huì dǎozhì réntǐ miǎnyì xìbāo huóxìng dàfú xiàjiàng, yòufā duō zhǒng mànxìng jíbìng. | Chronic long-term insomnia not only accelerates skin aging, but also causes significant drops in immune cell activity, inducing chronic diseases. | El insomnio crónico no solo envejece el semblante, sino que deprime las defensas inmunitarias propiciando dolencias crónicas.
+
+collocations[6]{hanzi,en}:
+  慢性失眠 | chronic insomnia
+  经常失眠 | frequently suffer from insomnia
+  严重失眠 | severe insomnia
+  彻夜失眠 | sleepless all night
+  引起失眠 | cause insomnia
+  治疗失眠 | treat insomnia
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  辗转反侧 | zhǎn zhuǎn fǎn cè | toss and turn restlessly in bed unable to sleep
+  彻夜难眠 | chè yè nán mián | unable to fall asleep all night through
+  夜不能寐 | yè bù néng mèi | unable to sleep at night due to worries
+  高枕无忧 | gāo zhěn wú yōu | sleep soundly on a high pillow; free from all worries
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  失 | shī | lose; miss; fail; mistake | perder; dejar escapar; fallar; error | 大 | big | 手 (hand) + 一 (object slipping away from grasp) | 失 (shī) | 5 | 单一结构 | A hand 手 dropping an object that slips through fingers 一; signifies losing, slipping away, or missing. | A hand opens and an object slips away through the fingers, lost (失). | Una mano se abre y un objeto resbala de entre los dedos perdiéndose (失). | 55 | HQO | ""
+  眠 | mián | sleep; close eyes; dormant | dormir; cerrar ojos; letargo | 目 | eye | 目 (eye closing shut) + 民 (blinded eye / sleep) | 民 (mín, people / phonetic) | 10 | 左右结构 | Eye radical 目 paired with 民 (eyes closed in blindness/slumber); closing one's eyelids in peaceful sleep or hibernation. | Eyelids (目) close softly shut as a person falls peacefully into deep sleep (眠). | Los párpados (目) se cierran mansos cuando el durmiente concilia el sueño (眠). | 35 | BURVP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Losing (失) the ability to close eyes in peaceful sleep (眠) results in insomnia (失眠).
+  composite_memory_hook_es: Perder (失) la facultad de cerrar los ojos al plácido sueño (眠) es el insomnio (失眠).
+  cultural_and_cognitive_roots: Traditional Chinese medicine (中医神志学: 阳不入阴 / yang failing to enter yin); sleep represents restoring vital spirit (安神定志).
+  tone_sandhi_and_pitch_modulation: Level high tone followed by rising second tone: 'shī mián' (55-35). Hold high pitch 55 on 'shī', then climb upward smoothly on 'mián'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    矢 | shǐ | arrow; vow | Top stroke does not cross the horizontal stroke, unlike 失
+    夫 | fū | man; husband | Has straight horizontal top stroke
+    眼 | yǎn | eye | Has 艮 on right of 目 instead of 民 in 眠
+    睛 | jīng | eyeball | Has 青 on right of 目
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    睡 | shuì | drooping eyes in sleep
+    寐 | mèi | sleep soundly under roof
+    醒 | xǐng | wake from slumber/wine
+    梦 | mèng | dream while asleep
+
+semantic_boundary_contrasts:
+  core_nuance: 失眠 specifically designates the clinical condition or sleepless experience of inability to sleep.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 失眠 vs. 熬夜 | áoyè | 熬夜 is voluntary staying up late to study, party, or work overtime, while 失眠 is the involuntary, painful inability to fall asleep in bed.
+    2 | 失眠 vs. 睡不着 | shuìbùzháo | 睡不着 is an everyday colloquial spoken phrase ('我今晚睡不着'), whereas 失眠 is a formal medical noun and verb.
+    3 | 失眠 vs. 困倦 | kùnjuàn | 困倦 describes feeling drowsy and weary with heavy eyelids, while 失眠 is inability to obtain sleep.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫漫长夜里，许多失眠者越是强迫自己尽快入睡，大脑皮层反而愈发兴奋清醒。心理医生建议，遇到辗转反侧失眠时，不必强赖在床上苦苦熬煎，不妨起身坐在柔和灯光下翻阅几页晦涩书卷，困意往往会在不经意间悄然降临。 | Mànmàn chángyè lǐ, xǔduō shīmiánzhě yuèshì qiǎngpò zìjǐ jǐnkuài rùshuì, dànǎo pícéng fǎn'ér yùfā xīngfèn qīngxǐng. Xīnlǐ yīshēng jiànyì, yùdào zhǎnzhuǎn-fǎncè shīmián shí, búbì qiáng lài zài chuáng shàng kǔkǔ áojiān, bùfáng qǐshēn zuò zài róuhé dēngguāng xià fānyuè jǐ yè huìsè shūjuǎn, kùnyì wǎngwǎng huì zài bùjīngyì jiān qiǎorán jiànglín. | In the dead of night, the more insomniacs force sleep, the more alert the brain becomes. Therapists suggest leaving bed to read under dim light rather than tossing restlessly; drowsiness soon arrives unbidden. | En la noche en vela, cuanto más se empeña el insomne en dormir, más se excita la corteza cerebral. Psiquiatras aconsejan levantarse a hojear un libro bajo luz tenue; el sueño vendrá por sí solo sin forzarlo.
+  #2 | 现代都市人失眠的主要诱因之一，是睡前长时间近距离刷短视频或打电子游戏。手机屏幕发射的强烈高频蓝光会抑制松果体分泌褪黑素，从而扰乱正常的昼夜生理节律，导致入睡困难与睡眠浅碎易醒。 | Xiàndài dūshìrén shīmián de zhǔyào yòuyīn zhīyī, shì shuìqián cháng shíjiān jìn jùlí shuā duǎnshìpín huò dǎ diànzǐ yóuxì. Shǒujī píngmù fāshè de qiángliè gāopín lánguāng huì yìzhì sōngguǒtǐ fēnmì tuìhēisù, cóng'ér rǎoluàn zhèngcháng de zhòuyè shēnglǐ jiélǜ, dǎozhì rùshuì kùnnán yǔ shuìmián qiǎnsuì yìxǐng. | A major trigger of modern urban insomnia is scrolling videos or gaming before bed. High-frequency blue light emitted by phone screens inhibits pineal melatonin, disrupting circadian rhythms and causing light, fragmented sleep. | Un detonante del insomnio actual es mirar pantallas antes de acostarse. La luz azulada de los móviles inhibe la melatonina en la glándula pineal, quebrando el ritmo circadiano y provocando un descanso superficial y entrecortado.

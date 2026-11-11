@@ -1,0 +1,63 @@
+id: 2
+hanzi: 颠球
+pinyin: diān qiú
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to juggle a ball; bounce a ball continuously on one's foot/head
+  es: dar toques al balón; hacer jueguitos con la pelota; dominar el balón en el aire
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to bounce or juggle a ball repeatedly in the air using one's feet, thighs, chest, or head without letting it hit the ground (especially in soccer) | dar toques consecutivos a una pelota en el aire con los pies, rodillas o cabeza sin dejarla caer al suelo | 花式颠球 (freestyle football juggling)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在微信推广宣传片中，阿根廷足球明星梅西对着智能手机摄像头熟练地颠球，引发了海外球迷的狂热追捧。 | Zài Wēixìn tuīguǎng xuānchuánpiān zhōng, Āgēntíng zúqiú míngxīng Méixī duìzhe zhìnéng shǒujī shèxiàngtóu shúliàn de diānqiú, yǐnfāle hǎiwài qiúmí de kuángrè zhuīpěng. | In the WeChat promotional commercial, Argentine soccer star Messi skillfully juggled a ball toward the smartphone camera, triggering wild fan enthusiasm overseas. | En el anuncio promocional de WeChat, la estrella argentina Messi dio toques al balón ante la cámara del móvil, desatando el furor de los hinchas.
+  #2 | 小男孩每天放学后都在操场角落练习颠球，如今已经能够连续颠上一百多次而不落地。 | Xiǎonánhái měitiān fàngxué hòu dōu zài cǎochǎng jiǎoluò liànxí diānqiú, rújīn yǐjīng nénggòu liánxù diān shàng yībǎi duō cì ér bú luòdì. | The boy practices ball juggling in a playground corner every day after school; now he can juggle more than a hundred times without dropping the ball. | El niño entrena toques de balón en la cancha cada día al salir de clase; hoy ya consigue dar más de cien toques seguidos sin que toque el césped.
+
+collocations[6]{hanzi,en}:
+  练习颠球 | practice ball juggling
+  熟练颠球 | juggle a ball skillfully
+  连续颠球 | juggle continuously
+  双脚颠球 | juggle with both feet
+  颠球技巧 | ball juggling technique
+  花式颠球 | freestyle juggling
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  颠扑不破 | diān pū bú pò | solid, irrefutable, and standing up to any test
+  颠沛流离 | diān pèi liú lí | homeless and wandering; destitute in distress
+  颠倒黑白 | diān dǎo hēi bái | turn black into white; invert right and wrong
+  球场风云 | qiú chǎng fēng yún | ever-shifting fortunes on the ball field
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  颠 | diān | crown of head; top; jolt; toss; bump | coronilla; cima; botar; sacudir; tambalearse | 页 | head / page | 真 (genuine balance / erect posture) + 页 (human head / face) | 真 (zhēn / phonetic nuance diān) | 16 | 左右结构 | Crown of the head 页 bouncing up and down; by extension, tossing, jolting, or tapping something up into the air. | The crown of a head (页) bobbing vertically while bouncing an object up and down (颠). | La coronilla de la cabeza (页) cabeceando hacia arriba y abajo mientras bota un objeto (颠). | 55 | JCMBO | 顛
+  球 | qiú | ball; sphere; globe; orb | pelota; balón; esfera; globo | 王 | jade | 王/玉 (precious polished jade orb) + 求 (fur coat / seeking round form) | 求 (qiú, seek / phonetic) | 11 | 左右结构 | Jade radical 王 indicating a smooth polished spherical jade ball; later used for all sports balls and celestial globes. | A gem of polished jade (王) carved into a perfect round ball to play with (球). | Una gema de jade (王) pulida en esfera perfecta convertida en balón de juego (球). | 35 | MGIJE | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Tossing and jolting upward (颠) a round spherical ball (球) without letting it touch ground is ball juggling (颠球).
+  composite_memory_hook_es: Mantener botando en alto (颠) la pelota redonda (球) a toques rítmicos es dar toques al balón (颠球).
+  cultural_and_cognitive_roots: Relates to the ancient Chinese game of Cuju (蹴鞠), an imperial ball-bouncing ancestor of modern soccer practiced since the Han Dynasty.
+  tone_sandhi_and_pitch_modulation: First tone followed by second tone: 'diān qiú' (55-35). Hold high ceiling 55, then glide up cleanly to 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    镇 | zhèn | town; suppress | Has metal radical 钅 on left instead of 页 in 颠
+    慎 | shèn | cautious; prudent | Has heart radical 忄 on left
+    救 | jiù | rescue; save | Has rap radical 攵 on right instead of jade 王 on left
+    求 | qiú | request; seek | Single character lacking jade radical 王
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    踢 | tī | kick
+    顶 | dǐng | head a ball; top
+    传 | chuán | pass the ball
+    射 | shè | shoot a goal
+
+semantic_boundary_contrasts:
+  core_nuance: 颠球 specifically means juggling or bouncing a ball continuously off one's feet, knees, or head in mid-air.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 颠球 vs. 运球 | yùnqiú | 运球 refers to dribbling a ball across the ground or basketball court while advancing ('带球突破'), whereas 颠球 is juggling in the air without advancing.
+    2 | 颠球 vs. 踢球 | tīqiú | 踢球 is the general term for playing soccer or kicking a football, while 颠球 is an individual technical ball-control drill.
+    3 | 颠球 vs. 垫球 | diànqiú | 垫球 is a volleyball term for bumping the ball with forearms ('排球垫球'), while 颠球 predominantly applies to soccer ball juggling.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 颠球是足球运动员培养敏锐球感与身体协调性的必修基础功课。无论是世界顶级球星还是青训小将，每天都需要通过反复颠球来增强双脚对皮球旋转与弹跳力度的掌控感，为在激烈对抗中做出精妙停球打下扎实基石。 | Diānqiú shì zúqiú yùndòngyuán péiyǎng mǐnruì qiúgǎn yǔ shēntǐ xiétiáoxìng de bìxiū jīchǔ gōngkè. Wúlùn shì shìjiè dǐngjí qiúxīng háishì qīngxùn xiǎojiàng, měitiān dōu xūyào tōngguò fǎnfù diānqiú lái zēngqiáng shuāngjiǎo duì píqiú xuánzhuǎn yǔ tántiào lìdù de zhǎngkònggǎn, wèi zài jīliè duìkàng zhōng zuòchū jīngmiào tíngqiú dǎxià zhāshi jīshí. | Ball juggling is a mandatory fundamental for soccer players to hone sharp touch and bodily coordination. World-class stars and academy youths alike juggle daily to master ball spin and bounce, laying bedrock for exquisite ball control. | Dar toques al balón es un ejercicio imprescindible para futbolistas al pulir la sensibilidad del pie y la coordinación. Astros mundiales y canteranos dominan la pelota a toques cada día para controlar el bote y el efecto en el juego.
+  #2 | 在繁华都市的街头广场上，常能见到身怀绝技的街头花式足球高手。伴随着动感欢快的音乐节奏，他们不仅能用脚尖轻盈颠球，还能瞬间将球停在后颈或额头之上，精湛绝伦的颠球控球技巧引得围观市民阵阵喝彩。 | Zài fánhuá dūshì de jiētóu guǎngchǎng shàng, cháng néng jiàndào shēnhuái-juéjì de jiētóu huāshì zúqiú gāoshǒu. Bànsuízhe dònggǎn huānkuài de yīnyuè jiézòu, tāmen bùjǐn néng yòng jiǎojiān qīngyíng diānqiú, hái néng shùnjiān jiāng qiú tíng zài hòujǐng huò étóu zhīshàng, jīngzhàn juélún de diānqiú kòngqiú jìqiǎo yǐndé wéiguān shìmín zhènzhèn hècǎi. | In urban plazas, skilled freestyle football masters often perform. To upbeat music rhythms, they not only juggle lightly with toe tips, but freeze the ball on the back of neck or forehead, eliciting enthusiastic cheers from the crowd. | En las plazas céntricas es habitual ver a malabaristas del fútbol callejero. Al son de ritmos alegres, dan toques con la puntera y clavan el balón en la nuca o la frente, cosechando ovaciones con su portentoso control.

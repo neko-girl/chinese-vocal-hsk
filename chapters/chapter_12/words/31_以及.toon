@@ -1,0 +1,63 @@
+id: 31
+hanzi: 以及
+pinyin: yǐ jí
+level: HSK 5
+part_of_speech: Conjunction
+
+meanings_summary:
+  en: as well as; along with; and; together with
+  es: así como; junto con; y; además de (conjunción coordinante formal)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Conjunction | Formal | used in formal discourse to connect words or phrases of parallel relation, often introducing secondary or supplementary items | conjunción que enlaza elementos coordinados en discursos formales o escritos, introduciendo a menudo puntos secundarios | 教师、学生以及家长 (teachers, students, as well as parents)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信不仅支持便捷的即时语音通信，还整合了朋友圈、移动支付以及海量第三方小程序生态。 | Wēixìn bùjǐn zhīchí biànjié de jíshí yǔyīn tōngxìn, hái zhěnghéle péngyouquān, yídòng zhīfù yǐjí hǎiliàng dì-sān fāng xiǎochéngxù shēngtài. | WeChat not only supports convenient instant voice communication, but also integrates Moments, mobile payments, as well as vast third-party mini-program ecosystems. | WeChat no solo permite una ágil comunicación por voz, sino que integra Momentos, pagos móviles así como un nutrido ecosistema de mini-programas.
+  #2 | 本次国际科技峰会吸引了来自欧美、亚洲以及非洲等数十个国家的顶尖学者与青年创业者。 | Běncì guójì kējì fēnghuì xīyǐnle láizì Ōu-Měi, Yàzhōu yǐjí Fēizhōu děng shùshí gè guójiā de dǐngjiān xuézhě yǔ qīngnián chuàngyèzhě. | This international tech summit attracted top scholars and young entrepreneurs from dozens of nations across Europe, America, Asia, as well as Africa. | Esta cumbre tecnológica internacional congregó a eminentes científicos y jóvenes emprendedores de decenas de países de Europa, América, Asia y África.
+
+collocations[6]{hanzi,en}:
+  以及其他 | as well as others / and so forth
+  以及相关 | as well as relevant...
+  以及各种 | as well as various...
+  国内外以及 | domestic and abroad, as well as...
+  政府以及企业 | government as well as enterprises
+  理论以及实践 | theory as well as practice
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  由表及里 | yóu biǎo jí lǐ | from exterior to interior; penetrate from surface to essence
+  爱屋及乌 | ài wū jí wū | love the house and even the crow on its roof; love everything related
+  推己及人 | tuī jǐ jí rén | put oneself in another's place; treat others with empathy
+  过犹不及 | guò yóu bù jí | going too far is as bad as not going far enough; moderation
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  以 | yǐ | by means of; according to; with; so as to | mediante; según; con; a fin de; por medio de | 人 | person | A person 人 holding an agricultural bone spade or implement 厶 | Archaic phonetic yǐ | 4 | 左右结构 | A person holding an implement in hand to perform labor; signifies taking hold of, using as means, or connecting ideas. | A capable worker holding an essential tool ready to connect tasks together (以). | Un operario que empuña una herramienta idónea para acometer la faena (以). | 214 | VIO | ""
+  及 | jí | reach; attain; catch up with; and | alcanzar; llegar a; extenderse a; y | 又 | hand | 人 (a person running in front) + 又 (a hand grasping from behind) | Self-phonetic jí | 3 | 单一结构 | A hand 又 reaching forward from behind to catch up with and touch a running person 人; reaching and connecting. | An outstretched hand (又) reaching forward to touch the runner ahead connects with them (及). | Una mano estirada (又) que alcanza a tocar la espalda del que corre delante (及). | 35 | NHE | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Taking one idea (以) and reaching out to connect the next item (及) forms the formal conjunction 'as well as' (以及).
+  composite_memory_hook_es: Partir de una premisa (以) y extender el alcance a la siguiente (及) compone el nexo coordinante 'así como' (以及).
+  cultural_and_cognitive_roots: Classical syntactic evolution from Han Dynasty prose: connecting parallel items in state memorials and imperial edicts, placing primary items first followed by 以及.
+  tone_sandhi_and_pitch_modulation: Third tone followed by second tone: 'yǐ jí' (214-35). Low dipping third tone rising smoothly into second tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    似 | sì | similar; seem | Has person radical 亻 on left of 以
+    比 | bǐ | compare; than | Composed of two horizontal spoon-like strokes side by side
+    乃 | nǎi | be; then; so | Has only two strokes (横折折折钩 and 撇), lacking the 又-like loop of 及
+    反 | fǎn | reverse; oppose | Has 厂 over 又
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    和 | hé | and; harmonious
+    与 | yǔ | and; with; together
+    同 | tóng | same; with
+    并 | bìng | and; furthermore
+
+semantic_boundary_contrasts:
+  core_nuance: 以及 is a formal conjunction joining parallel nouns or clauses, often introducing the final or supplementary item in a list.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 以及 vs. 和 | hé | 和 is the most common colloquial and general connector for equivalent items, while 以及 is formal, literary, and often introduces a secondary tier in a series ('A、B、C以及D').
+    2 | 以及 vs. 与 | yǔ | 与 is concise, formal, and typically joins two closely coordinated parallel nouns ('理论与实践'), whereas 以及 can link longer phrases and series.
+    3 | 以及 vs. 并 | bìng | 并 primarily coordinates verbs, verb phrases, or adjectives ('讨论并批准'), whereas 以及 connects noun phrases.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 现代高校图书馆正经历着全面的数字化重构。馆舍不仅为师生提供丰富的纸质馆藏，还全面整合了海量中外文电子数据库、多媒体影音资源以及开放式学术研讨空间，为跨学科创新研究搭建了全天候知识服务平台。 | Xiàndài gāoxiào túshūguǎn zhèng jīnglì zhe quánmiàn de shùzìhuà chónggòu. Guǎnshè bùjǐn wèi shīshēng tígōng fēngfù de zhǐzhì guǎncáng, hái quánmiàn zhěnghéle hǎiliàng zhōng-wàiwén diànzǐ shùjùkù, duōméitǐ yǐngyīn zīyuán yǐjí kāifàngshì xuéshù yántǎo kōngjiān, wèi kuàxuékē chuàngxīn yánjiū dājiànle quántiānhòu zhīshi fúwù píngtái. | Modern university libraries are undergoing comprehensive digital upgrades. Beyond rich print collections, they integrate vast bilingual databases, multimedia resources, as well as open seminar spaces, building a 24/7 knowledge platform for interdisciplinary innovation. | Las bibliotecas universitarias acometen una honda reconversión digital. Además de volúmenes impresos, integran bases de datos electrónicas, recursos audiovisuales así como aulas de debate interdisciplinar, sirviendo de plataforma continua del saber.
+  #2 | 在全球生态环境保护与治理进程中，各国政府、国际科研组织、民间环保社团以及广大公民群体，都承担着不可或缺的责任。唯有大家汇聚智慧与行动力量，坚持绿色低碳转型，才能有效应对气候变暖危机，让蔚蓝星球永葆生机。 | Zài quánqiú shēngtài huánjìng bǎohù yǔ zhìlǐ jìnchéng zhōng, gè guó zhèngfǔ, guójì kēyán zǔzhī, mínjiān huánbǎo shètuán yǐjí guǎngdà gōngmín qúntǐ, dōu chéngdān zhe bùkě-huòquē de zérèn. Wéiyǒu dàjiā huìjù zhìhuì yǔ xíngdòng lìliang, jiānchí lǜsè dītàn zhuǎnxíng, cáinéng yǒuxiào yìngduì qìhòu biànnuǎn wēijī, ràng wèilán xīngqiú yǒngbǎo shēngjī. | In global ecological protection, national governments, international science bodies, NGOs, as well as citizens, shoulder indispensable duties. Only by pooling wisdom and actions toward green transitions can we resolve climate crises and keep our planet vibrant. | En la tutela ambiental planetaria, gobiernos, organismos científicos, asociaciones cívicas así como la ciudadanía asumen deberes ineludibles. Solo aunando voluntades hacia un modelo ecológico frenaremos el cambio climático preservando la Tierra.

@@ -1,0 +1,63 @@
+id: 1
+hanzi: 用户
+pinyin: yòng hù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: user; consumer; subscriber; account holder
+  es: usuario; abonado; consumidor; cliente de servicios
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person, household, or organization that uses a service, product, telecommunications network, or software application | persona, entidad o abonado que utiliza habitualmente un servicio, software o red de telecomunicaciones | 注册用户 (registered user)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信凭借便捷的即时语音通信与朋友圈分享功能，在全球范围内吸引了数以亿计的活跃用户。 | Wēixìn píngjiè biànjié de jíshí yǔyīn tōngxìn yǔ péngyouquān fēnxiǎng gōngnéng, zài quánqiú fànwéi nèi xīyǐnle shùyǐyìjì de huóyuè yònghù. | Relying on convenient instant voice messaging and Moments sharing features, WeChat has attracted hundreds of millions of active users worldwide. | Gracias a la mensajería de voz instantánea y la función de Momentos, WeChat ha atraído a cientos de millones de usuarios activos en todo el mundo.
+  #2 | 互联网产品团队每周都会深入分析海外用户的操作反馈，以持续优化多语言界面体验。 | Hùliánwǎng chǎnpǐn tuánduì měizhōu dōuhuì shēnrù fēnxī hǎiwài yònghù de cāozuò fǎnkuì, yǐ chíxù yōuhuà duōyǔyán jièmiàn tǐyàn. | The Internet product team analyzes overseas users' operational feedback in depth every week to continuously optimize multilingual interface experience. | El equipo de desarrollo web analiza cada semana las valoraciones de los usuarios internacionales para optimizar la interfaz multilingüe.
+
+collocations[6]{hanzi,en}:
+  活跃用户 | active users
+  海外用户 | overseas users
+  注册用户 | registered users
+  用户体验 | user experience (UX)
+  潜在用户 | potential users
+  用户反馈 | user feedback
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  家喻户晓 | jiā yù hù xiǎo | known to every household; widely known
+  挨家挨户 | āi jiā āi hù | from door to door; every household
+  门当户对 | mén dāng hù duì | well-matched in social and economic status
+  物尽其用 | wù jìn qí yòng | make the best and fullest use of everything
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  用 | yòng | use; employ; apply; utility | usar; emplear; aplicar; utilidad | 用 | use | Depiction of a divinatory shell/bucket utilized for ceremonial and practical tasks | Self-phonetic yòng | 5 | 单一结构 | A pictograph of an implement, framed container, or oracle shell being put into active functional service. | A handy tool frame ready in hand to be put to active functional use (用). | El armazón de una herramienta dispuesto para prestar utilidad inmediata (用). | 51 | BQI | ""
+  户 | hù | door; family; household; account | puerta de una hoja; hogar; familia; cuenta | 户 | door | Single wing of a wooden door hinged to a post | Pictograph of single door leaf | 4 | 单一结构 | A pictograph of a single wooden door flap (half of a double gate 門); extended to household and registered account. | A single wooden door flap (户) swings open to welcome each registered household member. | La hoja batiente de una puerta (户) que da paso a cada familia o titular abonado. | 51 | IS | 戶
+
+mnemonics_and_roots:
+  composite_memory_hook_en: One who enters the doorway of a service (户) to actively use its tools (用) is a registered user (用户).
+  composite_memory_hook_es: Quien cruza el umbral (户) para servirse de un sistema (用) es un usuario o abonado (用户).
+  cultural_and_cognitive_roots: Derived from the ancient household registration system (户籍): each registered door (户) receiving state utilities and services.
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'yòng hù' (51-51). Pronounce both with crisp falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    甩 | shuǎi | fling; swing | Bottom stroke hooks out sideways like an uncoiling whip, unlike 用
+    角 | jiǎo | horn; corner | Has slanted peak on top
+    尸 | shī | corpse | Lacks the top dot/slant stroke of 户
+    卢 | lú | surname Lu / vessel | Has bottom enclosure, unlike 户
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    客 | kè | guest; client
+    家 | jiā | family; household
+    民 | mín | people; citizen
+    人 | rén | human; person
+
+semantic_boundary_contrasts:
+  core_nuance: 用户 stresses the person or entity operating software, telecom, hardware, or subscribed digital accounts.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 用户 vs. 客户 | kèhù | 客户 emphasizes business-to-business commercial purchasing clients who pay for goods ('大客户'), while 用户 emphasizes actual operational users of an app or tool.
+    2 | 用户 vs. 顾客 | gùkè | 顾客 specifically denotes retail shoppers patronizing brick-and-mortar stores, restaurants, or supermarkets ('百货店顾客').
+    3 | 用户 vs. 消费者 | xiāofèizhě | 消费者 is a macroeconomic legal term for consumers spending money to consume goods, whereas 用户 focuses on utility/software usage.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在移动互联网时代，海量活跃用户是数字平台赖以生存和壮大的根基。软件开发商必须深入洞察不同国家用户的文化习惯与隐私顾虑，不断升级算法与界面交互，才能在全球化数字浪潮中赢得广大用户的长久信任。 | Zài yídòng hùliánwǎng shídài, hǎiliàng huóyuè yònghù shì shùzì píngtái làiyǐ shēngcún hé zhuàngdà de gēnjī. Ruǎnjiàn kāifāshāng bìxū shēnrù dòngchá bùtóng guójiā yònghù de wénhuà xíguàn yǔ yǐnsī gùlǜ, bùduàn shēngjí suànfǎ yǔ jièmiàn jiāohù, cáinéng zài quánqiúhuà shùzì làngcháo zhōng yíngdé guǎngdà yònghù de chángjiǔ xìnlài. | In the mobile internet era, vast active users are the cornerstone of digital platforms. Developers must discern cultural habits and privacy concerns across nations to continuously optimize interactions and win lasting user trust. | En la era del internet móvil, los usuarios activos son el pilar de las plataformas digitales. Las tecnológicas deben atender las costumbres culturales y la privacidad en cada país para ganar la confianza duradera de sus usuarios.
+  #2 | 为了有效提升海外用户的黏性，技术团队定期召开跨国视频会议，细致梳理每一条来自拉美和欧洲用户的测评意见。从精简注册验证流程到优化慢速网络下的语音通话质量，每一个细微功能的改善都体现出以用户需求为核心的创新理念。 | Wèile yǒuxiào tíshēng hǎiwài yònghù de niánxìng, jìshù tuánduì dìngqī zhāokāi kuàguó shìpín huìyì, xìzhì shūlǐ měi yī tiáo láizì Lāměi hé Ōuzhōu yònghù de cèpíng yìjiàn. Cóng jīngjiǎn zhùcè yànzhèng liúchéng dào yōuhuà mànsù wǎngluò xià de yǔyīn tōnghuà zhìliàng, měi yī gè xìwēi gōngnéng de gǎishàn dōu tǐxiàn chū yǐ yònghù xūqiú wéi héxīn de chuàngxīn lǐniàn. | To boost overseas user retention, technical teams hold international conferences to address feedback from Latin America and Europe. From streamlining registration to improving low-bandwidth calls, each update centers on user needs. | Para afianzar a los usuarios foráneos, el equipo técnico celebra reuniones periódicas analizando sugerencias de Latinoamérica y Europa. De agilizar el registro a optimizar llamadas con baja cobertura, cada ajuste prioriza al usuario.

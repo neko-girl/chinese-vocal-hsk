@@ -1,0 +1,63 @@
+id: 41
+hanzi: 代言
+pinyin: dài yán
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to speak on behalf of; endorse (a brand/product); act as spokesperson
+  es: hacer de portavoz; prestar la imagen; patrocinar; ser imagen publicitaria de una marca
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to publicly speak on behalf of an organization, or to endorse a commercial brand as a celebrity ambassador | hablar en representación de una entidad o prestar la imagen pública para promocionar una marca comercial | 代言知名品牌 (endorse a renowned brand)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信签约足坛超级明星梅西作为其全球品牌形象代言人，这在海外引发了轰动性的传播效应。 | Wēixìn qiānyuē zútán chāojí míngxīng Méixī zuòwéi qí quánqiú pǐnpái xíngxiàng dàiyánrén, zhè zài hǎiwài yǐnfāle hōngdòngxìng de chuánbō xiàoyìng. | WeChat signed football superstar Messi as its global brand ambassador, which sparked a sensational promotional effect overseas. | WeChat fichó a la superestrella del fútbol Messi como embajador de marca global, causando un impacto mediático formidable en ultramar.
+  #2 | 作为深受年轻一代喜爱的杰出青年代表，她积极为联合国的多项环保公益倡议倾情代言。 | Zuòwéi shēnshòu niánqīng yídài xǐ'ài de jiéchū qīngnián dàibiǎo, tā jījí wèi Liánhéguó de duō xiàng huánbǎo gōngyì chàngyì qīngqíng dàiyán. | As an outstanding youth representative beloved by the younger generation, she enthusiastically speaks on behalf of various UN eco-charity initiatives. | Como joven destacada muy admirada por su generación, presta activamente su voz e imagen a iniciativas medioambientales de la ONU.
+
+collocations[6]{hanzi,en}:
+  形象代言人 | brand ambassador; image spokesperson
+  明星代言 | celebrity endorsement
+  品牌代言 | brand endorsement
+  代言广告 | endorsement commercial
+  为公益代言 | speak on behalf of public welfare
+  倾情代言 | enthusiastically endorse
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  代言立言 | dài yán lì yán | speak on behalf of the era and establish immortal words
+  言为心声 | yán wéi xīn shēng | words are the genuine voice of the inner heart
+  众口铄金 | zhòng kǒu shuò jīn | public opinion melts even gold; power of collective voice
+  名正言顺 | míng zhèng yán shùn | fitting in title and justified in speech; completely legitimate
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  代 | dài | replace; substitute; represent; generation; era | reemplazar; sustituir; representar; generación; época | 亻 | person | 亻 (person stepping forward) + 弋 (wooden stake / shoot with arrow/cord) | 弋 (yì / phonetic nuance dài) | 5 | 左右结构 | A person 亻 standing in as substitute for another to plant a stake 弋; represents representing, substituting, or generations. | A reliable person (亻) stepping forward to hold the banner stake (弋) on another's behalf represents them (代). | Una persona leal (亻) que empuña la estaca (弋) en lugar de otro asume su representación (代). | 51 | OIP | ""
+  言 | yán | speech; spoken words; talk; state | palabra; habla; decir; lenguaje; discurso | 言 | speech | 口 (human mouth) + 辛/䇂 (flute reeds or sounding tongue projecting notes) | Self-phonetic yán | 7 | 单一结构 | Breath and sounds projecting upward from an open human mouth 口; represents articulated human speech, declarations, and words. | Clear soundwaves rising upward from an open mouth (口) formulate words and speech (言). | Ondas sonoras que brotan nítidas desde la boca abierta (口) dando forma a las palabras (言). | 35 | YMR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Standing in as an official substitute (代) to utter spoken declarations (言) is acting as spokesperson or endorser (代言).
+  composite_memory_hook_es: Actuar en lugar de otro (代) pronunciando palabras públicas (言) es hacer de portavoz o prestar la imagen (代言).
+  cultural_and_cognitive_roots: Historically, ancient court heralds spoke for the sovereign (为天子代言). In modern marketing, extended to celebrities lending their credibility to commercial brands (代言人).
+  tone_sandhi_and_pitch_modulation: Fourth tone followed by second tone: 'dài yán' (51-35). Crisp falling 51 tone gliding immediately up to rising 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    伐 | fá | cut down; fell | Has halberd 戈 on right of 亻 instead of 弋 in 代
+    化 | huà | transform | Has 匕 on right of 亻
+    信 | xìn | letter; trust | Has person radical 亻 on left of 言 in 信
+    誓 | shì | swear; vow | Has 折 over 言
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    表 | biǎo | express; represent
+    推 | tuī | promote; recommend
+    荐 | jiàn | recommend; introduce
+    赞 | zàn | praise; sponsor
+
+semantic_boundary_contrasts:
+  core_nuance: 代言 indicates serving as the public face or official spokesperson for a commercial brand, social movement, or organization.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 代言 vs. 代表 | dàibiǎo | 代表 is a broad political, legal, or demographic term meaning to represent a constituency, class, or entity ('人民代表'), whereas 代言 specifically focuses on public vocal advocacy or commercial celebrity endorsement.
+    2 | 代言 vs. 宣传 | xuānchuán | 宣传 is the general act of spreading information or publicity materials, whereas 代言 specifically links an individual's personal image to the brand.
+    3 | 代言 vs. 推荐 | tuījiàn | 推荐 means casually or professionally recommending a book, friend, or candidate to someone ('推荐一本好书'), without a formal contractual endorsement.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代商业广告营销策略中，挑选高度契合品牌核心调性的明星代言人至关重要。一位形象健康阳光、作风低调扎实的体育明星代言，不仅能够显著提升海外消费者的信任感，更能为品牌注入拼搏进取的鲜明人格魅力。 | Zài xiàndài shāngyè guǎnggào yíngxiāo cèlüè zhōng, tiāoxuǎn gāodù qìhé pǐnpái héxīn diàoxìng de míngxīng dàiyánrén zhìguān zhòngyào. Yī wèi xíngxiàng jiànkāng yángguāng, zuòfēng dīdiào zhāshi de tǐyù míngxīng dàiyán, bùjǐn nénggòu xiǎnzhù tíshēng hǎiwài xiāofèizhě de xìnlàigǎn, gèng néng wèi pǐnpái zhùrù pīnbó jìnqǔ de xiānmíng réngé mèilì. | In marketing strategy, selecting an ambassador aligned with the brand's core identity is paramount. An energetic, disciplined sports star's endorsement builds consumer trust abroad while infusing the brand with an inspiring fighting spirit. | En mercadotecnia publicitaria, elegir un embajador en sintonía con la marca es crucial. El patrocinio de un deportista modélico afianza la confianza del consumidor en el exterior insuflándole un carisma de superación.
+  #2 | 作为当红公众人物，文体明星在接受商业代言时应当严守法律与社会道德规范。在签约之前必须对所代言产品的真实品质展开细致核查，绝不能因诱人的商业代言酬劳而误导广大消费者，切实捍卫自身的社会信誉与职业操守。 | Zuòwéi dānghóng gōngzhòng rénwù, wéntǐ míngxīng zài jiēshòu shāngyè dàiyán shí yīngdāng yánshǒu fǎlǜ yǔ shèhuì dàodé guīfàn. Zài qiānyuē zhīqián bìxū duì suǒ dàiyán chǎnpǐn de zhēnshí pǐnzhì zhǎnkāi xìzhì héchá, juébù néng yīn yòurén de shāngyè dàiyán chóuláo ér wùdǎo guǎngdà xiāofèizhě, qièshí hànwèi zìshēn de shèhuì xìnyù yǔ zhíyè cāoshǒu. | As public figures, entertainment stars must observe legal and ethical norms when accepting endorsements. Meticulously verifying product quality before signing avoids misleading consumers, safeguarding social reputation and professional integrity. | Como figuras públicas, los artistas y atletas deben acatar la ética al aceptar contratos publicitarios. Comprobar la calidad real del producto antes de firmar previene engaños al consumidor protegiendo el honor profesional propio.

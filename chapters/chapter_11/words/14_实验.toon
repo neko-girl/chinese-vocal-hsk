@@ -1,0 +1,64 @@
+id: 14
+hanzi: 实验
+pinyin: shí yàn
+level: HSK 5
+part_of_speech: Noun / Verb
+
+meanings_summary:
+  en: experiment; scientific test; to experiment; to test
+  es: experimento; ensayo científico; experimentar; probar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a controlled scientific test or trial conducted in a laboratory to prove hypotheses or uncover natural laws | operación científica controlada realizada en laboratorio para comprobar hipótesis o descubrir leyes | 物理实验 (physics experiment)
+  2 | Verb | Standard | to conduct controlled experiments in order to test theories or explore phenomena | realizar ensayos o pruebas sistemáticas para contrastar un principio | 在实验室反复实验 (experiment repeatedly in lab)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 化学老师在通风橱前为全班同学演示了浓硫酸与铜片在加热条件下发生反应的对比实验。 | Huàxué lǎoshī zài tōngfēngchú qián wèi quánbān tóngxué yǎnshì le nóngliúsuān yǔ tóngpiàn zài jiārè tiáojiàn xià fāshēng fǎnyìng de duìbǐ shíyàn. | The chemistry teacher demonstrated a comparative experiment under the fume hood showing reactions between concentrated sulfuric acid and copper under heat. | El profesor de química realizó ante los alumnos una prueba comparativa en la campana extractora con ácido sulfúrico concentrado y cobre al calor.
+  #2 | 科研攻关团队经过上万次失败的实验摸索，终于成功合成了具有超导性能的全新结晶化合物。 | Kēyán gōngguān tuánduì jīngguò shàngwàn cì shībài de shíyàn mōsuǒ, zhōngyú chénggōng héchéng le jùyǒu chāodǎo xìngnéng de quánxīn jiéjīng huàhéwù. | After exploring through tens of thousands of failed experiments, the research team finally synthesized a new crystalline compound with superconducting properties. | Tras tantear en decenas de miles de experimentos fallidos, el equipo de investigación sintetizó con éxito un compuesto superconductor inédito.
+
+collocations[6]{hanzi,en}:
+  实验室 | laboratory / research lab
+  做实验 | conduct/run an experiment
+  科学实验 | scientific experiment
+  对比实验 | comparative/control experiment
+  实验结果 | experimental results
+  实验数据 | experimental data
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  真凭实据 | zhēn píng shí jù | ironclad, irrefutable evidence and solid facts
+  按图索骥 | àn tú suǒ jì | seek a thoroughbred according to picture; follow instructions mechanically
+  实事求是 | shí shì qiú shì | seek truth from facts; be practical and realistic
+  身体力行 | shēn tǐ lì xíng | practice personally what one preaches
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  实 | shí | solid; real; true; fruit; honest | sólido; real; verdadero; fruto; lleno | 宀 | roof | 宀 (house roof) + 头/贯 (strings of cowrie currency filling home) | 实 (shí) | 8 | 上下结构 | A house 宀 fully packed with stringed cowrie riches 贯; signifies substance, reality, truth, and solid fulfillment. | A house (宀) packed solid with real treasures embodies truth and reality (实). | Una casa (宀) colmada de riquezas tangibles personifica lo sólido y veraz (实). | 35 | JND | 實
+  验 | yàn | examine; check; verify; test | examinar; comprobar; verificar; eficaz | 马 | horse | 马 (horse inspected for pedigree) + 佥 (all together / assembled) | 佥 (qiān, all / phonetic carrier) | 10 | 左右结构 | Horse radical 马 paired with 佥 (assembled traits); thoroughly inspecting an equine to verify health, age, and pedigree. | A breeder examines a horse (马) thoroughly to verify (验) its authentic pedigree. | Un perito examina al corcel (马) de pies a cabeza para verificar (验) su brío y salud. | 51 | NMSOI | 驗
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Using solid tangible physical facts (实) to verify hypotheses (验) defines a laboratory experiment (实验).
+  composite_memory_hook_es: Usar hechos tangibles y sólidos (实) para verificar principios (验) define el experimento científico (实验).
+  cultural_and_cognitive_roots: Scientific epistemology (实事求是); imported modernly as the standard translation for empirical experimental science (empiricism).
+  tone_sandhi_and_pitch_modulation: Rising second tone followed by falling fourth tone: 'shí yàn' (35-51). Rise smoothly on 'shí', then drop down sharply and decisively on 'yàn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    买 | mǎi | buy; purchase | Has 头 underneath 乛 instead of 宀 in 实
+    卖 | mài | sell | Has 十 on top of 头
+    脸 | liǎn | face | Has flesh radical 月 on left of 佥 instead of horse 马 in 验
+    险 | xiǎn | danger | Has hill radical 阝 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    测 | cè | measure water depth; gauge
+    试 | shì | test against model template
+    证 | zhèng | prove with words; testify
+    查 | chá | inspect trees; investigate
+
+semantic_boundary_contrasts:
+  core_nuance: 实验 highlights controlled laboratory testing to uncover natural laws or verify scientific hypotheses.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 实验 vs. 试验 | shìyàn | 实验 emphasizes rigorous laboratory verification of scientific natural laws ('物理实验'), while 试验 refers to practical field trials of prototypes or seed crops ('田间试验').
+    2 | 实验 vs. 实践 | shíjiàn | 实践 denotes broad philosophical human social activity and real-world implementation, while 实验 is a specialized scientific method.
+    3 | 实验 vs. 化验 | huàyàn | 化验 specifically denotes laboratory chemical analysis of blood, urine, or soil samples ('抽血化验'), a subset of scientific tests.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在空间站微重力环境下，中国航天员顺利完成了多项具有国际前沿水准的空间生命科学实验。研究人员通过实时下传的高清实验数据，细致观测植物根系与哺乳动物骨细胞在太空微重力状态下的发育演化规律。 | Zài kōngjiānzhàn wēizhònglì huánjìng xià, Zhōngguó hángtiānyuán shùnlì wánchéng le duō xiàng jùyǒu guójì qiányán shuǐzhǔn de kōngjiān shēngmìng kēxué shíyàn. Yánjiū rényuán tōngguò shíshí xiàchuán de gāoqīng shíyàn shùjù, xìzhì guāncè zhíwù gēnxì yǔ shǔlèi dòngwù gǔxìbāo zài tàikōng wēizhònglì zhuàngtài xià de fāyù yǎnhuà guīlǜ. | In space station microgravity, Chinese astronauts completed frontier life science experiments. Researchers used real-time high-definition data to observe plant roots and bone cell development in space. | En microgravedad en la estación espacial, los astronautas chinos culminaron experimentos punteros de biología cósmica. Con datos en tiempo real observaron raíces y células óseas bajo ingravidez.
+  #2 | 现代医学的每一次巨大进步，都深深植根于严谨科学的临床对照实验。从新型抗癌靶向药物的分阶段人体试验，到大数据双盲对照评估，唯有经过确凿真实的实验证据检验，创新疗法才能获准走向临床挽救生命。 | Xiàndài yīxué de měi yí cì jùdà jìnbù, dōu shēnsēn zhígēn yú yánjǐn kēxué de línchuáng duìbǐ shíyàn. Cóng xīnxíng kàng'ái bǎxiàng yàowù de fēnjiēduàn réntǐ shìyàn, dào dàshùjù shuāngmáng duìbǐ pínggū, wéiyǒu jīngguò quèzáo zhēnshí de shíyàn zhèngjù jiǎnyàn, chuàngxīn liáofǎ cáinéng huòzhǔn zǒuxiàng línchuáng wǎnjiù shēngmìng. | Every progress in modern medicine is rooted in rigorous controlled clinical experiments. From phased trials of targeted drugs to double-blind assessments, only verified therapies reach clinics to save lives. | Los avances de la medicina moderna descansan en rigurosos ensayos clínicos de control. Desde pruebas farmacológicas hasta análisis a doble ciego, solo la evidencia experimental fidedigna avala tratamientos que salvan vidas.

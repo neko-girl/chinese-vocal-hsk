@@ -1,0 +1,64 @@
+id: 2
+hanzi: 危害
+pinyin: wēi hài
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to harm; to jeopardize; to damage; harm; peril
+  es: dañar; perjudicar; atentar contra; peligro; daño
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to cause severe injury, damage, jeopardy, or impairment to health, safety, or society | causar daño grave, perjuicio o menoscabo a la salud, seguridad o bienestar social | 危害身体健康 (harm bodily health)
+  2 | Noun | Standard | harm, danger, detriment, or hazardous damage | perjuicio, daño, peligro o estrago | 认识吸烟的危害 (recognize harms of smoking)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 长期吸烟与吸二手烟会对人体肺部和心脑血管系统造成极大的不可逆危害。 | Chángqī xīyān yǔ xī èrshǒuyān huì duì réntǐ fèibù hé xīn-nǎoxiěguǎn xìtǒng zàochéng jí dà de bùkěnì wēihài. | Long-term smoking and second-hand smoke cause immense and irreversible harm to lungs and cardiovascular systems. | Fumar de forma prolongada e inhalar humo ajeno causa daños de enorme gravedad e irreversibles a los pulmones y vasos sanguíneos.
+  #2 | 任何危害国家主权、安全与公共利益的违法犯罪行为，都必将受到法律的严惩。 | Rènhé wēihài guójiā zhǔquán, ānquán yǔ gōnggòng lìyì de wéifǎ fànzuì xíngwéi, dōu bìjiāng shòudào fǎlǜ de yánchéng. | Any illegal criminal conduct that jeopardizes national sovereignty, security, or public interests will be punished severely by law. | Toda conducta delictiva que atente contra la soberanía, la seguridad y el bien público será castigada con el rigor de la ley.
+
+collocations[6]{hanzi,en}:
+  严重危害 | serious harm / severely jeopardize
+  危害健康 | harm health
+  危害安全 | jeopardize safety/security
+  环境危害 | environmental hazard/harm
+  造成危害 | cause harm / inflict damage
+  危害社会 | harm society
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  后患无穷 | hòu huàn wú qióng | no end of future troubles; endless disastrous aftermath
+  贻害无穷 | yí hài wú qióng | leave boundless harm for future generations
+  防患未然 | fáng huàn wèi rán | prevent troubles before they happen; take precautions
+  除暴安良 | chú bào ān liáng | eliminate the violent and protect the peaceful
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  危 | wēi | danger; perilous; precarious; high | peligro; arriesgado; precario; alto | 厄 | distress / cliff | 𠂆 (precipitous cliff) + 卩 (kneeling person on edge) | 危 (wēi) | 6 | 半包围结构 | A person 卩 kneeling trembling atop a high, dizzying cliff 𠂆; signifies peril, danger, and precariousness. | A figure crouches cautiously on the edge of a sheer cliff (𠂆), facing extreme danger (危). | Una figura se agacha aterrada al borde de un risco escarpado (𠂆) ante el abismo peligroso (危). | 55 | NMSU | ""
+  害 | hài | harm; damage; injure; evil | dañar; perjudicar; matar; mal | 宀 | roof | 宀 (house roof) + 丰 (thorn weapon) + 口 (malevolent words) | 害 (hài) | 10 | 上下结构 | Spiteful words 口 and sharp thorns entering a home 宀 to hurt inhabitants; signifies injury and damage. | Harmful weapons and words pierce into a peaceful house (宀), causing painful injury (害). | Espinas punzantes y rencores entran bajo el techo del hogar (宀) infligiendo daño (害). | 51 | JQMR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Perched on a perilous cliff (危) while suffering painful damage (害) captures severe jeopardy (危害).
+  composite_memory_hook_es: Al borde del abismo peligroso (危) sufriendo un daño lesivo (害) se configura el perjuicio grave (危害).
+  cultural_and_cognitive_roots: Classical moral pairing: 危 (instability/hazard) compounded with 害 (malevolent harm/destruction); frequently used in legal statutes.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling tone: 'wēi hài' (55-51). Hold high pitch 55 on 'wēi', then descend sharply and heavily on 'hài'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    免 | miǎn | exempt; avoid | Lacks the upper cliff lid 𠂆 of 危
+    角 | jiǎo | horn; corner | Has central vertical stroke penetrating down
+    割 | gē | cut; sever | Has knife radical 刂 on right of 害
+    豁 | huò | open; exempt | Has 谷 on right of 害
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    损 | sǔn | damage; decrease loss
+    伤 | shāng | wound; injure flesh
+    祸 | huò | calamity; disaster
+    殃 | yāng | misfortune; disaster
+
+semantic_boundary_contrasts:
+  core_nuance: 危害 highlights active, systemic jeopardy or severe societal/physiological harm.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 危害 vs. 损害 | sǔnhài | 损害 emphasizes concrete financial loss or physical damage to interests and rights ('损害名誉', '损害利益'), while 危害 emphasizes perilous threats to safety and existence.
+    2 | 危害 vs. 破坏 | pòhuài | 破坏 emphasizes physical smashing or disrupting orders and treaties ('破坏公物', '破坏协议'), while 危害 can be invisible and chronic.
+    3 | 危害 vs. 伤害 | shānghài | 伤害 focuses primarily on biological injury to living bodies or wounded emotions ('伤害感情'), while 危害 applies broadly to public security, health, and ecosystems.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着现代工业文明飞速发展，未经妥善处理的塑料微粒和有毒工业废水正严重危害着海洋生态系统。有毒重金属在海洋鱼类体内持续富集，最终通过食物链回流至人类餐桌，对人体健康构成了潜在的长期危害。 | Suízhe xiàndài gōngyè wénmíng fēisù fāzhǎn, wèijīng tuǒshàn chǔlǐ de sùliào wēilì hé yǒudú gōngyè fèishuǐ zhèng yánzhòng wēihài zhe hǎiyáng shēngtài xìtǒng. Yǒudú zhòngjīnshǔ zài hǎiyáng yúlèi tǐnèi chíxù fùjí, zuìzhōng tōngguò shíwùliàn huíliú zhì rénlèi cānzhuō, duì réntǐ jiànkāng gòuchéng le qiánzài de chángqī wēihài. | With rapid industrialization, untreated microplastics and chemical effluents severely jeopardize marine ecosystems. Toxic heavy metals accumulate up food chains to dinner tables, posing long-term hazards to human health. | Con el auge industrial, microplásticos y aguas residuales tóxicas dañan gravemente la ecología marina. Metales pesados se bioacumulan en la fauna llegando a la mesa y amenazando la salud humana a largo plazo.
+  #2 | 在数字化信息时代，网络谣言与虚假信息的广泛传播对正常社会秩序造成了不可忽视的重大危害。不法分子利用公众的焦虑情绪恶意炮制耸人听闻的谎言，挑拨社会矛盾，执法机关必须依法坚决打击、严厉惩治。 | Zài shùzìhuà xìnxī shídài, wǎngluò yáoyán yǔ xūjiǎ xìnxī de guǎngfàn chuánbō duì zhèngcháng shèhuì zhìxù zàochéng le bùkě hūshì de zhòngdà wēihài. Bùfǎ fènzǐ lìyòng gōngzhòng de jiāolǜ qíngxù èyì páozhì sǒngrén-tīngwén de huǎngyán, tiǎobō shèhuì máodùn, zhífǎ jīguān bìxū yīfǎ jiānjué dǎjī, yánlì chéngzhì. | In the digital era, proliferation of online rumors inflicts unignorable harm on social order. Criminals exploit anxiety to fabricate sensational lies and sow discord, demanding resolute crackdowns by law enforcement. | En la era digital, la proliferación de bulos causa estragos innegables en la paz social. Maleantes explotan la zozobra pública urdiendo patrañas para sembrar discordia, exigiendo una respuesta implacable de la justicia.

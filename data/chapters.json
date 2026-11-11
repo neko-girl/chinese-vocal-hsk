@@ -78,5 +78,21 @@
     "title": "争论的奇迹 (The Miracle of Debate)",
     "word_count": 37,
     "level": "HSK 5"
+  },
+  {
+    "id": 11,
+    "dir": "chapter_11",
+    "name": "Chapter 11",
+    "title": "闹钟的危害 (The Harm of Alarm Clocks)",
+    "word_count": 41,
+    "level": "HSK 5"
+  },
+  {
+    "id": 12,
+    "dir": "chapter_12",
+    "name": "Chapter 12",
+    "title": "海外用户玩儿微信 (Overseas Users of WeChat)",
+    "word_count": 43,
+    "level": "HSK 5"
   }
 ]

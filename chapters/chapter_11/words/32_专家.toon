@@ -1,0 +1,63 @@
+id: 32
+hanzi: 专家
+pinyin: zhuān jiā
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: expert; specialist; authority in a professional field
+  es: experto; especialista; perito; autoridad profesional
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person who has authoritative, specialized knowledge or skill in a specific technical, medical, scientific, or artistic domain | persona con profundos conocimientos técnicos, científicos o artísticos en una disciplina concreta | 医学专家 (medical specialist / authority)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 睡眠医学专家指出，长期依赖刺耳的机械闹钟容易诱发心血管疾病与情绪焦虑。 | Shuìmián yīxué zhuānjiā zhǐchū, chángqī yīlài cì'ěr de jīxiè nàozhōng róngyì yòufā xīnxuěguǎn jíbìng yǔ qíngxù jiāolǜ. | Sleep medicine experts point out that long-term reliance on jarring mechanical alarms easily triggers cardiovascular problems and emotional anxiety. | Expertos en medicina del sueño señalan que depender crónicamente de alarmas estridentes provoca dolencias cardiovasculares y ansiedad.
+  #2 | 为了攻克技术难关，研究所特意邀请了多位海外人工智能领域的知名专家前来进行学术指导。 | Wèile gōngkè jìshù nánguān, yánjiūsuǒ tèyì yāoqǐngle duō wèi hǎiwài réngōng zhìnéng lǐngyù de zhīmíng zhuānjiā qiánlái jìnxíng xuéshù zhǐdǎo. | To overcome technological bottlenecks, the research institute specially invited several renowned overseas AI specialists for academic guidance. | Para superar escollos técnicos, el instituto invitó expresamente a varios célebres expertos foráneos en inteligencia artificial para asesoramiento.
+
+collocations[6]{hanzi,en}:
+  知名专家 | renowned expert; famous specialist
+  特聘专家 | specially appointed expert
+  行业专家 | industry expert; trade specialist
+  专家学者 | experts and scholars
+  专家意见 | expert opinion / advisory advice
+  咨询专家 | consult an expert
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  行家手笔 | háng jiā shǒu bǐ | the master stroke of an expert; professional workmanship
+  名家辈出 | míng jiā bèi chū | celebrated masters emerging generation after generation
+  专心致志 | zhuān xīn zhì zhì | wholly devoted and deeply concentrated
+  博古通今 | bó gǔ tōng jīn | erudite in both ancient lore and modern knowledge
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  专 | zhuān | specialized; concentrated; exclusive; single-minded | especializado; dedicado; concentrado; exclusivo | 一 | one | A hand 寸 rotating a spindle of spun thread; simplified to focused devotion | Historical phonetic zhān | 4 | 单一结构 | Originally depicting a spinning spindle handled with extreme steady care; transformed to mean single-minded specialized focus. | Focusing every stroke of work exclusively on one single (一) path creates mastery (专). | Concentrar cada trazo en una sola (一) meta constante engendra maestría (专). | 55 | QNI | 專
+  家 | jiā | family; home; master; specialist | familia; hogar; maestro; especialista de renombre | 宀 | roof | 宀 (sheltering roof) + 豕 (pig / domestic wealth and family school) | 豕 (shǐ / domestic symbol) | 10 | 上下结构 | A roof 宀 with domestic livestock 豕 beneath; extended to denote a prestigious household, scholastic tradition, or distinguished master. | Under the roof (宀) of a scholastic household, a master raises knowledge to become a specialist (家). | Bajo el techo (宀) de la escuela o gremio, el virtuoso se corona maestro consumado (家). | 55 | JMO | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: One who devotes single-minded focus (专) to master an entire intellectual school or discipline (家) is an expert (专家).
+  composite_memory_hook_es: Quien dedica consagración absoluta (专) a dominar una escuela o rama del saber (家) es un experto (专家).
+  cultural_and_cognitive_roots: In classical Chinese, 家 denotes philosophical schools (e.g. 儒家 Confucianism, 道家 Daoism) and masters of recognized crafts (画家, 作家).
+  tone_sandhi_and_pitch_modulation: Two high level first tones: 'zhuān jiā' (55-55). Maintain steady high melodic ceiling without dropping pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    传 | chuán | pass on; transmit | Has person radical 亻 on left of 专
+    转 | zhuǎn | turn; rotate | Has vehicle radical 车 on left of 专
+    冢 | zhǒng | mound; tomb | Has 冖 cover over 豕 with extra stroke, unlike 家
+    稼 | jià | sow grain; crops | Has grain radical 禾 on left of 家
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    师 | shī | master; teacher
+    匠 | jiàng | artisan; craftsman
+    工 | gōng | work; engineer
+    儒 | rú | scholar
+
+semantic_boundary_contrasts:
+  core_nuance: 专家 denotes an established specialist or authority with deep technical or academic credentials in a specific discipline.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 专家 vs. 学者 | xuézhě | 学者 highlights academic and theoretical research in universities/humanities, whereas 专家 encompasses practical engineering, clinical, or technical masters.
+    2 | 专家 vs. 行家 | hángjia | 行家 emphasizes practical savvy, trade experience, and knack in a commercial market ('这行里的行家'), while 专家 is more formal and authoritative.
+    3 | 专家 vs. 大师 | dàshī | 大师 is an exalted title for pinnacle creative or spiritual giants (e.g. painting, chess), whereas 专家 is a standard professional classification.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着现代生活节奏不断加快，大众对健康的关注度日益提升。各大医院的睡眠医学专家建议，睡前一小时尽量远离电子屏幕，营造昏暗安静的卧室氛围，从而利用人体自然的生理机制平稳进入深度睡眠。 | Suízhe xiàndài shēnghuó jiézòu bùduàn jiākuài, dàzhòng duì jiànkāng de guānzhùdù rìyì tíshēng. Gè dà yīyuàn de shuìmián yīxué zhuānjiā jiànyì, shuì qián yī xiǎoshí jǐnliàng yuǎnlí diànzǐ píngmù, yíngzào hūn'àn ānjìng de wòshì fēnwéi, cóng'ér lìyòng réntǐ zìrán de shēnglǐ jīzhì píngwěn jìnrù shēndù shuìmián. | As modern life speeds up, public attention to health steadily climbs. Sleep medicine experts recommend staying away from electronic screens an hour before bed and creating a dim quiet bedroom atmosphere to smoothly enter deep sleep. | Con el ritmo de vida moderno acelerándose, el interés por la salud crece. Expertos en medicina del sueño aconsejan alejarse de las pantallas una hora antes de dormir y procurar un dormitorio tenue y silencioso para conciliar el sueño profundo.
+  #2 | 在城市规划与环境保护项目中，政府广泛听取了生态学与地质学专家的科学论证。专家们通过大数据模拟分析，提出了兼顾经济发展与绿水青山的多套建设方案，为城市未来的可持续发展奠定了扎实坚实的科学依据。 | Zài chéngshì guīhuà yǔ huánjìng bǎohù xiàngmù zhōng, zhèngfǔ guǎngfàn tīngqǔle shēngtàixué yǔ dìzhìxué zhuānjiā de kēxué lùnzhèng. Zhuānjiāmen tōngguò dàshùjù mónǐ fēnxī, tíchūle jiāngù jīngjì fāzhǎn yǔ lǜshuǐ-qīngshān de duō tào jiànshè fāng'àn, wèi chéngshì wèilái de kěchíxù fāzhǎn diàndìngle zhāshi jiānshí de kēxué yījù. | In urban planning and environmental projects, the government widely consulted scientific evaluations from ecological and geological experts. Through big data simulations, specialists proposed balanced plans laying solid scientific ground. | En planes de urbanismo y medio ambiente, las autoridades recabaron dictámenes de expertos en ecología y geología. Mediante simulaciones de macrodatos, los especialistas formularon proyectos equilibrados para garantizar un desarrollo urbano sostenible.

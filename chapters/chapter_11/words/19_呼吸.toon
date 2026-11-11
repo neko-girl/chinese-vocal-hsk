@@ -1,0 +1,64 @@
+id: 19
+hanzi: 呼吸
+pinyin: hū xī
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to breathe; to respire; respiration; breath
+  es: respirar; respiración; aliento
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to inhale oxygen and exhale carbon dioxide through respiratory organs | inhalar oxígeno y exhalar dióxido de carbono a través de los órganos respiratorios | 深呼吸 (take a deep breath)
+  2 | Noun | Standard | the physiological process or sound of breathing; respiration | el proceso fisiológico o sonido del aire al respirar; respiración | 呼吸急促 (rapid and hurried breathing)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 清晨漫步在松柏苍翠的山间小路上，深深地呼吸着富含负氧离子的清新空气，顿觉心旷神怡。 | Qīngchén mànbù zài sōngbǎi cāngcuì de shānjiān xiǎolù shàng, shēnshēn de hūxī zhe fùhán fùyǎnglízǐ de qīngxīn kōngqì, dùnjué xīnkuàng-shényí. | Strolling on pine-lined mountain paths in the morning, breathing deeply the fresh air rich in negative oxygen ions brings instant serenity. | Paseando al amanecer por un sendero entre pinos y respirando hondo el aire puro del bosque, el espíritu se serena y regocija.
+  #2 | 医生仔细检查患者的胸腔起伏与脉搏跳动，发现其呼吸极其微弱，立刻组织团队展开紧急气管插管抢救。 | Yīshēng zǐxì jiǎnchá huànzhě de xiōngqiāng qǐfú yǔ màibó tiàodòng, fāxiàn qí hūxī jíqí wēiruò, lìkè zǔzhī tuánduì zhǎnkāi jǐnjí qìguǎn chāguǎn qiǎngjiù. | The doctor checked chest movements and pulse, finding the patient's breathing extremely faint, immediately organizing intubation rescue. | El médico comprobó el pulso y el tórax del paciente hallando su respiración sumamente débil, procediendo a una intubación traqueal de urgencia.
+
+collocations[6]{hanzi,en}:
+  深呼吸 | deep breath; take a deep breath
+  呼吸困难 | difficulty breathing; dyspnea
+  呼吸系统 | respiratory system
+  屏住呼吸 | hold one's breath
+  呼吸急促 | rapid breathing; shortness of breath
+  人工呼吸 | artificial respiration / CPR
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  同呼吸共命运 | tóng hū xī gòng mìng yùn | breathe the same air and share the same destiny; united in fate
+  屏气凝神 | bǐng qì níng shén | hold one's breath and concentrate with rapt attention
+  气喘吁吁 | qì chuǎn xū xū | panting and out of breath after exertion
+  苟延残喘 | gǒu yán cán chuǎn | barely manage to prolong lingering breath; scrape along
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  呼 | hū | call; shout; exhale; breathe out | llamar; gritar; exhalar; expirar | 口 | mouth | 口 (open mouth) + 乎 (sound of air sighing out) | 乎 (hū, sighing exhalation / phonetic) | 8 | 左右结构 | Open mouth 口 blowing air outward or sighing 乎; signifies exhalation, calling out, or shouting. | An open mouth (口) exhales air smoothly outward into the wind (乎), breathing out (呼). | Una boca abierta (口) exhala el aire hacia afuera en suave suspiro (乎), espirando (呼). | 55 | RHFD | ""
+  吸 | xī | inhale; breathe in; absorb; suck | inhalar; inspirar; absorber; chupar | 口 | mouth | 口 (mouth opening) + 及 (hand reaching and catching) | 及 (jí, reach / phonetic) | 6 | 左右结构 | Mouth 口 catching and drawing air into the body 及; represents inhalation, sucking, or absorption. | A mouth (口) reaches inward to draw in (及) fresh air, inhaling deeply (吸). | Una boca (口) atrae hacia adentro (及) el aire fresco, inspirando con hondura (吸). | 55 | RNHE | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Blowing air out (呼) and drawing air in (吸) forms the natural rhythm of respiration (呼吸).
+  composite_memory_hook_es: Expulsar el aire (呼) y tomar aire hacia adentro (吸) constituye el ciclo de la respiración (呼吸).
+  cultural_and_cognitive_roots: Daoist inner cultivation (吐纳之术: spitting out turbid air and inhaling fresh qi); breathing forms the vital conduit linking cosmos and human physiology.
+  tone_sandhi_and_pitch_modulation: Double level high first tones: 'hū xī' (55-55). Hold level high pitch 55 smoothly across both syllables like calm, steady breathing.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    乎 | hū | modal particle | Lacks the mouth radical 口 of 呼
+    呼 | hū | breathe out; call | Has mouth radical 口 on left
+    及 | jí | reach; and | Lacks mouth radical 口 of 吸
+    级 | jí | level; grade | Has silk radical 纟 on left of 及
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    气 | qì | vapor; vital air/energy
+    喘 | chuǎn | pant; gasp for breath
+    吸 | xī | inhale into mouth
+    吐 | tǔ | spit out; exhale
+
+semantic_boundary_contrasts:
+  core_nuance: 呼吸 is the comprehensive biological term for the complete cycle of inhaling and exhaling.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 呼吸 vs. 喘气 | chuǎnqì | 喘气 specifically describes rapid, labored gasping for breath after exhausting physical exercise, while 呼吸 is regular calm respiration.
+    2 | 呼吸 vs. 叹气 | tànqì | 叹气 refers to sighing out of sorrow, frustration, or relief ('唉声叹气'), not physiological gas exchange.
+    3 | 呼吸 vs. 气息 | qìxī | 气息 refers to the faint stream of air from the nostrils/mouth or emotional atmosphere ('春天的气息'), while 呼吸 is the bodily process.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代瑜伽与冥想练习中，调整呼吸被视为平复思绪与连接身心的核心纽带。练习者通过放慢呼吸节奏、进行腹式深呼吸，能够有效激活体内副交感神经系统，促使紧绷的心率与血压平稳回落，带来深度的平静与放松。 | Zài xiàndài yújiā yǔ míngxiǎng liànxí zhōng, tiáozhěng hūxī bèi shìwéi píngfù sīxù yǔ liánjiē shēn-xīn de héxīn niǔdài. Liànxízhě tōngguò fàngmàn hūxī jiézòu, jìnxíng fùshì shēnhūxī, nénggòu yǒuxiào jīhuó tǐnèi fùjiāogǎn shénjīng xìtǒng, cùshǐ jǐnbēng de xīnlǜ yǔ xuèyā píngwěn huíluò, dàilái shēndù de píngjìng yǔ fàngsōng. | In yoga and meditation, regulating breath connects body and mind. Slowing breathing and using deep diaphragmatic breaths activates parasympathetic systems, lowering heart rates and blood pressure for deep relaxation. | En el yoga y la meditación, acompasar la respiración une cuerpo y mente. Una respiración abdominal pausada activa el sistema parasimpático, serenando el pulso y la tensión para un sosiego hondo.
+  #2 | 广袤繁茂的热带雨林被誉为“地球之肺”，全球数以百亿计的绿色植物通过光合作用日夜不停地进行着碳氧气体交换。大自然的每一次呼吸，不仅维系着大气层中氧气含量的动态平衡，更是守护所有生命延续的生命源泉。 | Guǎngmào fánmào de rèdài yǔlín bèi yùwéi 'Dìqiúzhīfèi', quánqiú shùyǐbǎiyìjì de lǜsè zhíwù tōngguò guānghé zuòyòng rìyè-bùtíng de jìnxíng zhe tàn-yǎng qìtǐ jiāohuàn. Dànzìrán de měi yí cì hūxī, bùjǐn wéixì zhe dàqìcéng zhōng yǎngqì hánliàng de dòngtài pínghéng, gèng shì shǒuhù suǒyǒu shēngmìng yánxù de shēngmìng yuánquán. | Rainforests are hailed as Earth's lungs, billions of green plants exchanging carbon and oxygen through photosynthesis day and night. Every breath of nature maintains oxygen balance, sustaining the fountain of life. | La selva amazónica es el pulmón de la Tierra; miles de millones de plantas fotosintetizan noche y día. Cada hálito de la naturaleza equilibra el oxígeno de la atmósfera custodiando la fuente misma de la vida.

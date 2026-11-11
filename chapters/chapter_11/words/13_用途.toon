@@ -1,0 +1,63 @@
+id: 13
+hanzi: 用途
+pinyin: yòng tú
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: use; purpose; practical application; function
+  es: uso; utilidad; aplicación práctica; finalidad
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the practical application, utility, or specific purpose for which something is used | aplicación práctica, destino o finalidad a que sirve un objeto o recurso | 用途广泛 (has a wide range of uses)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 竹子在我国南方民间用途极其广泛，不仅可以制作坚韧耐用的家具，还能用来造纸和编织工艺品。 | Zhúzi zài wǒguó nánfāng mínjiān yòngtú jíqí guǎngfàn, bùjǐn kěyǐ zhìzuò jiānrèn nàiyòng de jiājù, hái néng yònglái zàozhǐ hé biānzhī gōngyìpǐn. | Bamboo has an exceptionally wide range of uses in southern Chinese folk life, crafting sturdy furniture as well as papermaking and weaving. | El bambú tiene incontables usos en el sur de China: no solo sirve para fabricar muebles robustos, sino también para papel y cestería.
+  #2 | 财务制度明确严格规定，任何专项扶贫资金都必须专款专用，严禁挪作他用或改变资金用途。 | Cáiwù zhìdù míngquè yángé guīdìng, rènhé zhuānxiàng fúpín zījīn dōu bìxū zhuānkuǎn-zhuānyòng, yánjìn nuózuò tāyòng huò gǎibiàn zījīn yòngtú. | Financial regulations strictly stipulate that special poverty-alleviation funds must be ear-marked, barring diversion or altered purposes. | La normativa fiscal estipula que los fondos de ayuda deben destinarse a su fin exclusivo, prohibiendo desviar su uso o aplicación.
+
+collocations[6]{hanzi,en}:
+  用途广泛 | widely used; versatile utility
+  实际用途 | practical use/purpose
+  资金用途 | allocation / use of funds
+  军事用途 | military applications
+  改变用途 | change the purpose/use
+  说明用途 | explain the purpose
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大材小用 | dà cái xiǎo yòng | put fine timber to petty use; waste great talents on menial jobs
+  物尽其用 | wù jìn qí yòng | make the best and fullest use of all resources
+  学以致用 | xué yǐ zhì yòng | study in order to apply in practice
+  别有用意 | bié yǒu yòng yì | have ulterior motives; have special hidden purpose
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  用 | yòng | use; employ; apply; utility | usar; emplear; utilizar; utilidad | 用 | use | 卜 (divination oracle bone) + 中 (centering target hit) | 用 (yòng) | 5 | 单一结构 | Oracle bone pictograph of a bronze tripod vessel or divination bone hitting the target 中; signifies effectiveness, application, and using tools. | A wooden tool is grabbed firmly by its frame to use (用) it for daily tasks. | Un útil resistente se empuña por el bastidor para usarlo (用) en la labor cotidiana. | 51 | BQ | ""
+  途 | tú | way; route; road; path | camino; ruta; vía; sendero | 辶 | walk / movement | 辶 (walk/movement) + 余 (thatched hut shelter along path) | 余 (yú, surplus / phonetic) | 10 | 半包围结构 | Footsteps 辶 traveling along a highway lined with post huts 余; denotes routes, paths, destinations, or avenues of development. | Footsteps (辶) follow a well-trodden route past roadside huts (余), marking the path (途). | Pasos firmes (辶) transitan la calzada junto a ventas camineras (余) siguiendo la ruta (途). | 35 | YOMD | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The path or avenue (途) along which a tool is put to use (用) is its purpose or application (用途).
+  composite_memory_hook_es: El camino o vía (途) por donde se aplica un útil (用) define su destino y uso (用途).
+  cultural_and_cognitive_roots: Utilitarian philosophy (体用之道: essence and utility); 途 maps out the functional trajectory through which matter serves human needs.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by rising second tone: 'yòng tú' (51-35). Drop sharply on 'yòng', then climb smoothly on 'tú'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    甩 | shuǎi | fling; swing | Tail curves to right at bottom instead of central vertical stroke of 用
+    角 | jiǎo | horn; angle | Has ⺈ on top of enclosure
+    除 | chú | eliminate; divide | Has hill radical 阝 on left of 余 instead of 辶 in 途
+    叙 | xù | narrate | Has 又 on right of 余
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    功 | gōng | merit; functional work
+    效 | xiào | efficacy; imitate result
+    路 | lù | road; route of journey
+    径 | jìng | narrow path; diameter
+
+semantic_boundary_contrasts:
+  core_nuance: 用途 emphasizes the practical objective purpose or utilitarian domain an object is applied to.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 用途 vs. 功能 | gōngnéng | 功能 refers to the inherent technical capability or feature of a device ('手机拍照功能'), while 用途 refers to what human purpose it serves in practice ('用途是防盗').
+    2 | 用途 vs. 作用 | zuòyòng | 作用 focuses on the effect, positive impact, or influence exerted on another object ('起到关键作用'), while 用途 is the intended application.
+    3 | 用途 vs. 目的 | mùdì | 目的 refers to a person's conscious goal or target ('达到目的'), whereas 用途 applies to inanimate tools, funds, or materials.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 石墨烯作为一种颠覆性的新型纳米碳素材料，凭借其超轻薄、超强韧性与卓越的导电导热性能，拥有极其广泛的工业用途。无论是应用于下一代超快充电电池，还是航空航天防热涂层，都展现出巨大的应用前景。 | Shímòxī zuòwéi yì zhǒng diānfùxìng de xīnxíng nàmǐ tànsù cáiliào, píngjiè qí chāoqīngbáo, chāoqiáng rènxìng yǔ zhuóyuè de dǎodiàn dǎorè xìngnéng, yǒngyǒu jíqí guǎngfàn de gōngyè yòngtú. Wúlùn shì yìngyòng yú xià yí dài chāokuài chōngdiàn diànchí, háishì hángkōng-hángtiān fángrè túcéng, dōu zhǎnxiàn chū jùdà de yìngyòng qiánjǐng. | As a disruptive nanomaterial, graphene possesses wide industrial uses due to ultra-thinness, strength, and conductivity. From fast-charging batteries to aerospace coatings, it shows immense application prospects. | Como nanomaterial disruptivo, el grafeno ofrece incontables aplicaciones por su ligereza, dureza y conductividad. Desde baterías ultrarrápidas hasta revestimientos aeroespaciales, promete una revolución técnica.
+  #2 | 科研人员在野外考察时发现了一种具有特殊荧光特性的深海植物。经过实验室深入分析，专家们不仅证实了其作为生物传感器的新奇用途，更为开发无毒无害的新型医学造影试剂开辟了一条富有前景的创新技术路径。 | Kēyán rényuán zài yěwài kǎochá shí fāxiàn le yì zhǒng jùyǒu tèshū yíngguāng tèxìng de shēnhǎi zhíwù. Jīngguò shíyànshì shēnrù fēnxī, zhuānjiāmen bùjǐn zhèngshí le qí zuòwéi shēngwù chuángǎnqì de xīnqí yòngtú, gèng wèi kāifā wúdú-wúhài de xīnxíng yīxué zàoyǐng shìjì kāipì le yì tiáo fùyǒu qiánjǐng de chuàngxīn jìshù lùjìng. | Researchers on field surveys discovered a deep-sea plant with fluorescent properties. Laboratory analysis confirmed its novel use as a biosensor, opening paths to develop non-toxic medical imaging agents. | Exploradores hallaron una planta abisal de fluorescencia singular. Análisis de laboratorio demostraron su insólito uso como biosensor, abriendo una prometedora vía para agentes de contraste médico inocuos.

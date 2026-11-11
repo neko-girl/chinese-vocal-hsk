@@ -1,0 +1,64 @@
+id: 43
+hanzi: 移民
+pinyin: yí mín
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: immigrant; to immigrate; emigrate; migration; resettlement
+  es: inmigrante; emigrante; inmigrar; emigrar; reasentamiento de población
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to move and settle permanently in another country or region | trasladarse para afincar la residencia permanente en otro país o región | 移民海外 (immigrate overseas)
+  2 | Noun | Standard | a person who migrates to another country or region to establish permanent residency | persona que se traslada a otro país para establecer en él su residencia definitiva | 新移民 (new immigrant)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了方便与远在大洋彼岸的故乡亲人视频通话，许多定居海外多年的老移民纷纷学会了使用微信。 | Wèile fāngbiàn yǔ yuǎn zài dàyáng bǐ'àn de gùxiāng qīnrén shìpín tōnghuà, xǔduō dìngjū hǎiwài duō nián de lǎo yímín fēnfēn xuéhuìle shǐyòng Wēixìn. | To conveniently make video calls with relatives far across the ocean back home, many veteran immigrants settled abroad learned to use WeChat. | Para conversar por vídeo con sus parientes al otro lado del océano, veteranos emigrantes afincados en el exterior aprendieron a usar WeChat.
+  #2 | 这座国际化大都市在过去半个世纪中接纳了数百万来自世界各地的移民，形成了多元包容的文化风貌。 | Zhè zuò guójìhuà dàdūshì zài guòqù bàn gè shìjì zhōng jiēnàle shùbǎiwàn láizì shìjiè gèdì de yímín, xíngchéngle duōyuán bāoróng de wénhuà fēngmào. | Over the past half-century, this international metropolis has welcomed millions of immigrants from across the globe, forging a diverse and inclusive cultural landscape. | A lo largo del último medio siglo, esta metrópolis cosmopolita acogió a millones de inmigrantes de todo el mundo conformando un mosaico multicultural.
+
+collocations[6]{hanzi,en}:
+  移民政策 | immigration policy
+  投资移民 | immigrant investor / investment immigration
+  移民海外 | emigrate / immigrate overseas
+  新移民 | new immigrant
+  非法移民 | undocumented / illegal immigrant
+  移民社区 | immigrant community
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  安土重迁 | ān tǔ zhòng qiān | attached to one's native land and loath to move
+  流离失所 | liú lí shī suǒ | displaced and wandering without a roof; destitute
+  入乡随俗 | rù xiāng suí sú | when entering a village, adapt to local customs
+  安家落户 | ān jiā luò hù | settle down and establish a home in a new place
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  移 | yí | shift; move; relocate; transplant | mover; trasladar; desplazar; trasplantar | 禾 | grain | 禾 (young grain shoots) + 多 (many / multiple steps) | 多 (duō / phonetic nuance yí) | 11 | 左右结构 | Transplanting multiple green rice seedlings 禾 from nursery beds to open wide fields; moving location, shifting, and resettling. | Transplanting delicate rice shoots (禾) from nursery plots to new soil shifts location (移). | Trasplantar brotes tiernos de cereal (禾) hacia un nuevo suelo desplaza el asentamiento (移). | 35 | HDNIN | ""
+  民 | mín | people; subjects; citizens; folk | pueblo; súbditos; ciudadanos; gente | 氏 | clan | An eye pierced with an ancient tattooing needle or needle sign; historical subjects | Archaic phonetic nuance mín | 5 | 单一结构 | Pictograph of the common populace or subjects governed beneath heaven; the mass of people and citizens. | A multitude of ordinary people standing firmly together as the foundation of the nation (民). | La multitud de gentes y ciudadanos que componen los cimientos de la comunidad (民). | 35 | RVP | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Relocating and transplanting like seedlings (移) the common citizens and people (民) to another land is migration (移民).
+  composite_memory_hook_es: Trasladar de tierra (移) a los ciudadanos o población (民) para afincarse es la migración o inmigrante (移民).
+  cultural_and_cognitive_roots: Historic policies of frontier state resettlement (移民实边): emperors moving hundreds of thousands of farming households to border garrisons to develop wasteland and secure peace.
+  tone_sandhi_and_pitch_modulation: Two rising second tones: 'yí mín' (35-35). Rise cleanly across both syllables smoothly.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    秋 | qiū | autumn | Has fire 火 on right of 禾 instead of 多 in 移
+    私 | sī | private | Has 厶 on right of 禾
+    氏 | shì | clan; surname | Lacks the closed box-like stroke on top right of 民
+    氓 | máng | hooligan; people | Has 亡 over 民
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    迁 | qiān | move; relocate
+    徙 | xǐ | migrate; move
+    客 | kè | guest; stranger; Hakka
+    侨 | qiáo | sojourn; overseas
+
+semantic_boundary_contrasts:
+  core_nuance: 移民 encompasses both the act of international relocation/resettlement and the individuals who settle abroad.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 移民 vs. 难民 | nànmín | 难民 specifically denotes refugees fleeing war, persecution, or environmental catastrophes, while 移民 is voluntary or legal demographic relocation.
+    2 | 移民 vs. 侨民 | qiáomín | 侨民 refers to citizens living in a foreign country who still retain their homeland citizenship, while 移民 frequently involves acquiring foreign permanent residency or citizenship.
+    3 | 移民 vs. 居民 | jūmín | 居民 simply denotes residents living in a specific neighborhood or city, regardless of ancestry or migration history.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在近代波澜壮阔的跨洋大迁徙历史中，“下南洋”成为了中国东南沿海无数家庭改变命运的艰难选择。成千上万的早期移民凭借一把汗水与坚韧不拔的吃苦精神，在异国他乡开荒经商，为当地经济繁荣打下了不可磨灭的坚实功绩。 | Zài jìndài bōlán-zhuàngkuò de kuàyáng dà qiānxǐ lìshǐ zhōng, 'xià nányáng' chéngwéile Zhōngguó dōngnán yánhǎi wúshù jiātíng gǎibiàn mìngyùn de jiānnán xuǎnzé. Chéngqiān-shàngwàn de zǎoqī yímín píngjiè yī bǎ hànshuǐ yǔ jiānrèn-bùbá de chīkǔ jīngshén, zài yìguó tāxiāng kāihuāng jīngshāng, wèi dāngdì jīngjì fánróng dǎxiàle bùkě-mómè de jiānshí gōngjì. | In transoceanic migration history, venturing to Southeast Asia became a fateful choice for coastal families. Thousands of early immigrants, relying on toil and perseverance, cleared land and ran businesses, leaving an indelible mark on local prosperity. | En la migración transoceánica, marchar al Sudeste Asiático fue una ardua senda para familias del litoral. Miles de pioneros, con tesón y sudor, roturaron tierras y abrieron comercios en el extranjero dejando una huella perenne.
+  #2 | 随着全球经济一体化与跨国人才流动的不断深化，许多国家纷纷出台了极具吸引力的技术移民政策。通过为海外高层次科学、工程与金融创新人才开辟绿色签证通道，不仅有效缓解了本国老龄化社会的劳动力短缺，更为知识经济注入了蓬勃的新鲜血液。 | Suízhe quánqiú jīngjì yītǐhuà yǔ kuàguó réncái liúdòng de bùduàn shēnhuà, xǔduō guójiā fēnfēn chūtáile jíjù xīyǐnlì de jìshù yímín zhèngcè. Tōngguò wèi hǎiwài gāocéngcì kēxué, gōngchéng yǔ jīnróng chuàngxīn réncái kāipì lǜsè qiānzhèng tōngdào, bùjǐn yǒuxiào huǎnjiěle běnguó lǎolínghuà shèhuì de láodònglì duǎnquē, gèng wèi zhīshi jīngjì zhùrùle péngbó de xīnxiān xuèyè. | With globalization, many nations formulate skilled immigration policies. Opening green visa channels for overseas scientists, engineers, and financiers eases labor shortages from aging while injecting fresh blood into knowledge economies. | Con la globalización, muchos países promulgan políticas de inmigración cualificada. Abrir visados rápidos a científicos y tecnólogos alivia el envejecimiento demográfico insuflándole savia nueva a la economía del conocimiento.

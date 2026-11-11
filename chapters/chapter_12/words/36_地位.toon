@@ -1,0 +1,64 @@
+id: 36
+hanzi: 地位
+pinyin: dì wèi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: status; position; standing; rank; social stature
+  es: estatus; posición; rango; condición social; lugar de honor
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | social standing, official rank, or relative prestige enjoyed by a person, group, or nation in society | estatus, rango o posición relativa de consideración que ocupa una persona, entidad o país en la sociedad | 社会地位 (social status / standing)
+  2 | Noun | Standard | the relative importance, weight, or significance held by an entity or subject in a system | relevancia, peso o función primordial que ostenta algo dentro de un sistema o ámbito | 核心地位 (core / pivotal position)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 凭借庞大的用户基数与创新的移动生态，微信牢固确立了在全球移动互联网社交领域的领先地位。 | Píngjiè pángdà de yònghù jīshù yǔ chuàngxīn de yídòng shēngtài, Wēixìn láogù quèlìle zài quánqiú yídòng hùliánwǎng shèjiāo lǐngyù de lǐngxiān dìwèi. | Relying on its massive user base and innovative mobile ecosystem, WeChat firmly established its leading status in global mobile internet social networking. | Gracias a su ingente base de usuarios y su ecosistema móvil, WeChat afianzó una posición de liderazgo en las redes sociales del mundo.
+  #2 | 在新中国妇女解放运动的推动下，女性在政治、经济与文化生活中的社会地位得到了历史性的显著提升。 | Zài Xīn Zhōngguó fùnǚ jiěfàng yùndòng de tuīdòng xià, nǚxìng zài zhèngzhì, jīngjì yǔ wénhuà shēnghuó zhōng de shèhuì dìwèi dédàole lìshǐxìng de xiǎnzhù tíshēng. | Propelled by women's liberation in New China, women's social status in political, economic, and cultural life witnessed historic and remarkable elevation. | Impulsado por el movimiento de emancipación femenina, el estatus social de la mujer en la política y la cultura experimentó un salto histórico.
+
+collocations[6]{hanzi,en}:
+  社会地位 | social status
+  领先地位 | leading position / status
+  确立地位 | establish one's standing / status
+  国际地位 | international standing / stature
+  核心地位 | core position / pivotal role
+  巩固地位 | consolidate one's standing / position
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  举足轻重 | jǔ zú qīng zhòng | hold decisive weight; play a pivotal role
+  不可动摇 | bù kě dòng yáo | unshakeable; rock-solid in standing
+  名列前茅 | míng liè qián máo | rank among the very top of lists
+  安身立命 | ān shēn lì mìng | settle down and establish one's life position securely
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  地 | dì | earth; ground; land; soil; place | tierra; suelo; terreno; lugar; posición | 土 | earth | 土 (fertile soil/earth) + 也 (female vessel / yielding expanse of terrain) | 也 (yě / phonetic nuance dì) | 6 | 左右结构 | Mounds of fertile soil 土 stretching across the yielding receptive expanse 也 of Mother Earth; physical terrain, place, and grounding. | Mounds of rich soil (土) stretching across the vast landscape (也) form the supportive earth (地). | Montículos de tierra fértil (土) extendidos por el llano (也) componen el suelo sobre el que nos afirmamos (地). | 51 | GPD | ""
+  位 | wèi | position; place; seat; polite classifier for people | posición; lugar; asiento; rango; clasificador de personas | 亻 | person | 亻 (person / human standing) + 立 (stand erect on earth) | 立 (lì, stand / phonetic nuance wèi) | 7 | 左右结构 | A person 亻 standing erect 立 in their appointed formal post or seat at ancestral court; assigned place and rank. | A dignified person (亻) standing proudly (立) occupies their rightful seat and post (位). | Una persona distinguida (亻) que se alza erguida (立) en su escaño legítimo (位). | 51 | OYT | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The plot of earth (地) upon which a person stands erect (位) defines their social status and position (地位).
+  composite_memory_hook_es: El suelo firme (地) sobre el que la persona se alza erguida (位) define su estatus o posición (地位).
+  cultural_and_cognitive_roots: Derived from classical court feudal protocol: each nobleman assigned a precise mat and geographic territory according to ancestral rank (席位、爵位).
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'dì wèi' (51-51). Pronounce both syllables with firm, crisp falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    池 | chí | pond; pool | Has water radical 氵 on left of 也 instead of earth 土 in 地
+    他 | tā | he; him | Has person radical 亻 on left of 也
+    拉 | lā | pull; drag | Has hand radical 扌 on left of 立 instead of 亻 in 位
+    泣 | qì | weep; sob | Has water radical 氵 on left of 立
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    阶 | jiē | step; social rank
+    等 | děng | rank; class
+    席 | xí | seat; status
+    爵 | jué | feudal peerage; rank
+
+semantic_boundary_contrasts:
+  core_nuance: 地位 describes relative social stature, political prestige, or systemic weight within an industry or hierarchy.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 地位 vs. 位置 | wèizhì | 位置 primarily refers to physical, geographical coordinates or physical seats ('地理位置', '坐在我的位置上'), whereas 地位 refers to social prestige or relative standing.
+    2 | 地位 vs. 身份 | shēnfèn | 身份 emphasizes individual legal/social identity, membership, or pedigree ('公民身份', '学者身份'), while 地位 measures level of prestige and power.
+    3 | 地位 vs. 职位 | zhíwèi | 职位 is a specific corporate/administrative job title (e.g. manager, accountant), while 地位 is broader stature.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在激烈的全球半导体产业链竞争中，光刻机制造技术占据着举足轻重的基石地位。任何一家科技企业要想在全球供应链中拥有话语权，就必须牢牢掌握关键核心技术，巩固不可替代的产业地位，方能立于不败之地。 | Zài jīliè de quánqiú bàndǎotǐ chǎnyèliàn jìngzhēng zhōng, guāngkèjī zhìzào jìshù zhànjù zhe jǔzú-qīngzhòng de jīshí dìwèi. Rènhé yī jiā kējì qǐyè yào xiǎng zài quánqiú gōngyìngliàn zhōng yǒngyǒu huàyǔquán, jiù bìxū láoláo zhǎngwò guānjiàn héxīn jìshù, gǒnggù bùkě-tìdài de chǎnyè dìwèi, fāng néng lìyú búbài zhī dì. | In semiconductor competition, photolithography manufacturing occupies a pivotal cornerstone position. For any tech enterprise to wield a voice in the global supply chain, it must master core technologies to consolidate an irreplaceable standing. | En la pugna de semiconductores, la litografía ostenta un peso estratégico decisivo. Toda tecnológica que aspire a influir en la cadena de suministros debe dominar tecnologías críticas para blindar una posición industrial insustituible.
+  #2 | 中国作为联合国安理会常任理事国，在维护世界和平与推动全球可持续发展方面发挥着不可替代的关键作用。通过积极参与国际维和行动与全球气候治理谈判，中国的国际地位与大国影响力与日俱增，赢得了国际社会的普遍赞誉。 | Zhōngguó zuòwéi Liánhéguó Ānlǐhuì chángrèn lǐshìguó, zài wéihù shìjiè hépíng yǔ tuīdòng quánqiú kěchíxù fāzhǎn fāngmiàn fāhuī zhe bùkě-tìdài de guānjiàn zuòyòng. Tōngguò jījí cānyù guójì wéihé xíngdòng yǔ quánqiú qìhòu zhìlǐ tánpàn, Zhōngguó de guójì dìwèi yǔ dàguó yǐngxiǎnglì yǔrì-jùzēng, yíngdéle guójì shèhuì de pǔbiàn zànyù. | As a permanent member of the UN Security Council, China plays an irreplaceable role in world peace and sustainable development. By engaging in peacekeeping and climate negotiations, China's international status and influence steadily climb, earning global acclaim. | Como miembro permanente del Consejo de Seguridad de la ONU, China desempeña un papel clave en la paz y el desarrollo mundial. Participando en misiones de paz y cumbres climáticas, su estatura internacional e influencia crecen cosechando estima global.

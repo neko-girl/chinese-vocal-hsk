@@ -1,0 +1,63 @@
+id: 36
+hanzi: 窗帘
+pinyin: chuāng lián
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: window curtain; drapes; window blinds
+  es: cortina; visillo; cortinaje de ventana
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a hanging cloth, screen, or drapery used to cover a window to block out light, provide privacy, or decorate an interior | paño o tejido suspendido en una ventana para tamizar la luz solar, preservar la intimidad o decorar el aposento | 拉开窗帘 (draw open the curtains)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 专家建议睡前不要把窗帘拉得过于严实，留出一道缝隙让清晨柔和的阳光洒入房间。 | Zhuānjiā jiànyì shuì qián búyào bǎ chuānglián lā de guòyú yánshi, liúchū yī dào fèngxì ràng qīngchén róuhé de yángguāng sǎ rù fángjiān. | Experts suggest not drawing the window curtains shut too tightly before sleep, leaving a small gap for gentle morning light to filter in. | Los especialistas aconsejan no cerrar las cortinas del todo al acostarse, dejando una rendija para que penetre la tenue luz matutina.
+  #2 | 她轻轻拉上卧室的遮光窗帘，隔绝了窗外繁华街道闪烁的霓虹灯光，安静地躺下入睡。 | Tā qīngqīng lāshàng wòshì de zhēguāng chuānglián, géjuéle chuāngwài fánhuá jiēdào shǎnshuò de níhóng dēngguāng, ānjìng de tǎngxià rùshuì. | She gently drew the bedroom blackout curtains shut, blocking out the glittering neon lights of the busy street, and laid down quietly to sleep. | Corrió suavemente las cortinas tupidas del dormitorio, aislando el resplandor de los neones de la concurrida calle para dormir en paz.
+
+collocations[6]{hanzi,en}:
+  拉开窗帘 | draw open the curtains
+  拉上窗帘 | close / draw the curtains
+  遮光窗帘 | blackout curtain
+  百叶窗帘 | Venetian blinds / louver curtain
+  窗帘布 | curtain fabric
+  更换窗帘 | replace window curtains
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  开窗见日 | kāi chuāng jiàn rì | open the window to see the bright sun; instant clarity
+  铁幕窗下 | tiě mù chuāng xià | behind heavy iron curtains; cloistered secrecy
+  帘卷西风 | lián juǎn xī fēng | curtains stirred by autumn west winds; bittersweet wistfulness
+  垂帘听政 | chuí lián tīng zhèng | govern from behind the curtain (imperial empress dowager rule)
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  窗 | chuāng | window; opening | ventana; tragaluz; vano | 穴 | cave / hole | 穴 (roof opening/cave) + 囱 (chimney / smoke hole with lattice bars) | 囱 (cōng, smoke flue / phonetic) | 12 | 上下结构 | A cave dwelling opening 穴 with a wooden lattice 囱 to ventilate smoke and admit natural daylight; hence a window. | A vent cut into a cave roof (穴) crossed with wooden window grates (囱) lets light through the window (窗). | Una abertura en la cueva (穴) cruzada con una celosía (囱) permite que la luz entre por la ventana (窗). | 55 | JCHUK | ""
+  帘 | lián | curtain; screen; banner | cortina; visillo; biombo; tela suspendida | 巾 | cloth / towel | 穴 (window aperture) + 巾 (hanging cloth / textile drapery) | 廉 (lián, phonetic in full traditional form 簾) | 8 | 上下结构 | A piece of cloth 巾 hung over a window aperture 穴 to shield against draft and sunlight; a hanging drapery screen. | A soft cloth fabric (巾) suspended across an aperture (穴) hangs gracefully as a curtain (帘). | Una tela de paño (巾) suspendida sobre el vano (穴) actúa como cortina protectora (帘). | 35 | JCLB | 簾
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A window opening (窗) fitted with a protective hanging cloth (帘) forms the household curtain (窗帘).
+  composite_memory_hook_es: El vano de la ventana (窗) cubierto por un paño suspendido (帘) compone la cortina (窗帘).
+  cultural_and_cognitive_roots: Traditional courtyard houses used bamboo screens (竹帘) in summer and silk padded drapes (布帘) in winter to regulate temperature and social privacy.
+  tone_sandhi_and_pitch_modulation: First tone followed by second tone: 'chuāng lián' (55-35). Hold high 55, then glide up smoothly to 35.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    窜 | cuàn | flee; scurry | Has rat 鼠 at bottom under 穴 instead of 囱 in 窗
+    窟 | kū | hole; cave | Has 屈 under 穴
+    市 | shì | market; city | Single character with 亠 over 巾, lacking 穴 in 帘
+    希 | xī | hope | Has 乂 over cloth 巾
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    幕 | mù | curtain; theatrical drape
+    帐 | zhàng | canopy; tent; screen
+    幔 | màn | hanging drapery
+    屏 | píng | folding screen
+
+semantic_boundary_contrasts:
+  core_nuance: 窗帘 refers specifically to window drapes or curtains meant for shading light and protecting indoor privacy.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 窗帘 vs. 门帘 | ménlián | 门帘 is a curtain hung at a doorway or entrance portal to block cold drafts or insects, whereas 窗帘 is hung at windows.
+    2 | 窗帘 vs. 帷幕 | wéimù | 帷幕 refers to large-scale theatrical curtains, formal stage drapes, or figurative political curtains ('拉开帷幕'), not domestic window curtains.
+    3 | 窗帘 vs. 百叶窗 | bǎiyèchuāng | 百叶窗 refers to slatted blinds (made of wood, aluminum, or plastic), while 窗帘 broadly denotes fabric drapes or curtains in general.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 现代智能家居系统赋予了窗帘崭新的科技内涵。用户可以通过手机软件预设开启时间，每天清晨窗帘便会自动缓缓拉开一道缝隙，让初升的旭日柔和地唤醒睡眠者，帮助人体生物钟实现平稳的自然过渡。 | Xiàndài zhìnéng jiājū xìtǒng fùyǔle chuānglián zhǎnxīn de kējì nèihán. Yònghù kěyǐ tōngguò shǒujī ruǎnjiàn yùshè kāiqǐ shíjiān, měitiān qīngchén chuānglián biàn huì zìdòng huǎnhuǎn lākāi yī dào fèngxì, ràng chūshēng de xùrì róuhé de huànxǐng shuìmiánzhě, bāngzhù réntǐ shēngwùzhōng shíxiàn píngwěn de zìrán guòdù. | Modern smart home systems give window curtains fresh technological utility. Users preset opening times via smartphone apps, allowing curtains to automatically part slightly at dawn, letting sunrise gently awaken the sleeper. | La domótica moderna confiere a las cortinas un papel tecnológico puntero. Mediante aplicaciones móviles, se programa su apertura para que el sol matutino despierte plácidamente al durmiente, regulando el reloj biológico.
+  #2 | 老宅书房的那副厚实亚麻窗帘，见证了祖父伏案著书的数十载光阴。每当午后斜阳照耀，拉上一半窗帘便能让斑驳柔和的光影洒在满架线装古籍上。微风吹过，窗帘轻轻摇曳，伴着浓郁的墨香，勾勒出一幅宁静深邃的传统文人生活图景。 | Lǎozhái shūfáng de nà fù hòushí yàmá chuānglián, jiànzhèngle zǔfù fú'àn zhùshū de shùshí zǎi guāngyīn. Měidāng wǔhòu xiéyáng zhàoyào, lāshàng yībàn chuānglián biàn néng ràng bānbó róuhé de guāngyǐng sǎ zài mǎnjià xiànzhuāng gǔjí shàng. Wēifēng chuīguò, chuānglián qīngqīng yáoyè, bànzhe nóngyù de mòxiāng, gōulè chū yī fú níngjìng shēnsuì de chuántǒng wénrén shēnghuó tújǐng. | The thick linen curtains in the ancestral study witnessed decades of grandfather writing books. Drawing them halfway diffused gentle afternoon shadows over antique shelves, drifting with ink fragrance into an aura of scholarly peace. | Las gruesas cortinas de lino del viejo despacho presenciaron décadas de labor literaria del abuelo. Correrlas a medias matizaba sombras suaves sobre volúmenes antiguos, trazando un cuadro sereno de aromas de tinta y calma letrada.

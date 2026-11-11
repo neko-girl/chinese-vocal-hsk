@@ -1,0 +1,63 @@
+id: 42
+hanzi: 华裔
+pinyin: huá yì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: person of Chinese descent; ethnic Chinese holding foreign nationality
+  es: descendiente de chinos; persona de ascendencia china nacida o nacionalizada en el extranjero
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person of Chinese ancestral lineage who holds foreign citizenship or was born and raised abroad | persona de linaje u origen étnico chino que ostenta nacionalidad extranjera o ha crecido fuera de China | 华裔科学家 (scientist of Chinese descent)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信最初在海外迅速传播的阶段，海外华人与广大华裔群体成为了第一批最热情的忠实种子用户。 | Wēixìn zuìchū zài hǎiwài xùnsù chuánbō de jiēduàn, hǎiwài Huárén yǔ guǎngdà Huáyì qúntǐ chéngwéile dì-yī pī zuì rèqíng de zhōngshí zhǒngzǐ yònghù. | During the initial phase of WeChat's rapid overseas spread, overseas Chinese and the broad ethnic Chinese diaspora served as the first batch of enthusiastic seed users. | En la primera fase de expansión de WeChat en el exterior, los chinos residentes y la comunidad de ascendencia china fueron los usuarios pioneros más fieles.
+  #2 | 这位出生于旧金山的年轻华裔建筑师，巧妙地将中国古典园林飞檐美学融入了现代摩天大楼设计之中。 | Zhè wèi chūshēng yú Jiùjīnshān de niánqīng Huáyì jiànzhùshī, qiǎomiào de jiāng Zhōngguó gǔdiǎn yuánlín fēiyán měixué róngrùle xiàndài mótiān-dàlóu shèjì zhīzhōng. | This young architect of Chinese descent born in San Francisco ingeniously integrated the upturned-eaves aesthetics of classical Chinese gardens into modern skyscraper design. | Este joven arquitecto de origen chino nacido en San Francisco integró con ingenio los aleros curvados tradicionales en el diseño de rascacielos vanguardistas.
+
+collocations[6]{hanzi,en}:
+  华裔青年 | youth of Chinese descent
+  华裔科学家 | scientist of Chinese descent
+  华裔群体 | ethnic Chinese community
+  第二代华裔 | second-generation ethnic Chinese
+  美籍华裔 | Chinese American
+  华裔学者 | scholar of Chinese ancestry
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  叶落归根 | yè luò guī gēn | fallen leaves return to their roots; return to ancestral homeland
+  源远流长 | yuán yuǎn liú cháng | roots run deep and flow from distant antiquity
+  同宗同源 | tóng zōng tóng yuán | sharing the exact same lineage and ancestral origin
+  四海一家 | sì hǎi yī jiā | the four seas belong to one grand human family
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  华 | huá | magnificent; splendid; China; Chinese | magnífico; esplendoroso; China; chino | 十 | ten / cross | A tree crowned with blooming flowers and luxuriant foliage; simplified from 華 | Historical phonetic nuance in 華 | 6 | 上下结构 | A tree bearing radiant blossoming flowers; historically adopted as the proud name for the civilized Chinese nation (华夏). | A luxuriant tree blooming with splendid flowers symbolizes the grand Chinese culture (华). | Un árbol floreciente de ramaje resplandeciente que encarna la brillante civilización china (华). | 35 | OPJ | 華
+  裔 | yì | descendants; offspring; hem of garment; border | descendientes; prole; estirpe; orla de la túnica; confín | 衣 | clothing | 衣 (flowing lower garment/hem) + 冏/谷 (valley opening / generational lineage) | Archaic phonetic nuance yì | 13 | 上下结构 | The trailing hem 衣 of an ancestral ceremonial robe that reaches to the ground; represents successive generations of offspring and descendants. | The flowing hem of an ancestral silk robe (衣) extending generation after generation of descendants (裔). | La orla de la túnica ceremonial (衣) que se extiende generación tras generación de descendientes (裔). | 51 | YCHV | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The trailing generational descendants (裔) of the grand Chinese culture (华) living across the world are the ethnic Chinese diaspora (华裔).
+  composite_memory_hook_es: Los descendientes lejanos (裔) de la cultura china (华) repartidos por el mundo son los ciudadanos de origen chino (华裔).
+  cultural_and_cognitive_roots: Distinction in international law and sociology: 华侨 holds Chinese citizenship while living abroad; 华裔 holds foreign nationality while carrying Chinese heritage.
+  tone_sandhi_and_pitch_modulation: Second tone followed by fourth tone: 'huá yì' (35-51). Rising second tone followed by brisk decisive drop to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    毕 | bì | complete; finish | Has 比 at top instead of 化 in 华
+    代 | dài | generation; replace | Has person radical 亻 on left of 弋
+    商 | shāng | commerce; trade | Has 冂 and 口 inside instead of 衣 in 裔
+    裁 | cái | cut out; judge | Has 𢦏 on outside around 衣
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    侨 | qiáo | sojourn; overseas compatriot
+    胄 | zhòu | lineage; descendant
+    嗣 | sì | heir; inherit
+    孙 | sūn | grandchild; descendant
+
+semantic_boundary_contrasts:
+  core_nuance: 华裔 designates individuals of Chinese lineage who hold foreign nationality or were born in foreign countries.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 华裔 vs. 华侨 | huáqiáo | 华侨 specifically refers to Chinese citizens who reside abroad while retaining PRC citizenship, whereas 华裔 refers to foreign citizens of Chinese ethnic ancestry.
+    2 | 华裔 vs. 华人 | huárén | 华人 is a broad cultural/ethnic term embracing all Chinese people globally regardless of citizenship, whereas 华裔 emphasizes ancestral lineage in foreign countries.
+    3 | 华裔 vs. 后代 | hòudài | 后代 is a generic term for biological descendants of any person or animal, whereas 华裔 specifically relates to Chinese ethnicity.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着全球文化交流日益频繁，各地的华裔青年正发挥着重要的桥梁作用。他们既深度融入所在国的主流社会，又对祖籍国的历史文化保持着认同感，成为连接中外友好的使者。 | Suízhe quánqiú wénhuà jiāoliú rìyì pínfán, gèdì de Huáyì qīngnián zhèng fāhuī zhe zhòngyào de qiáoliáng zuòyòng. Tāmen jì shēndù róngrù suǒzàiguó de zhǔliú shèhuì, yòu duì zǔjíguó de lìshǐ wénhuà bǎochí zhe rèntónggǎn, chéngwéi liánjiē zhōng-wài yǒuhǎo de shǐzhě. | Amid frequent cultural exchanges, youth of Chinese descent serve as vital bridges. Fully integrated into host societies, they maintain affinity with ancestral culture, acting as envoys of goodwill. | Con el intercambio cultural al alza, las jóvenes generaciones de ascendencia china actúan como puentes. Integrados en sus países de adopción, conservan un lazo con sus raíces siendo embajadores de entendimiento.
+  #2 | 在现代科学技术与高等教育领域，一大批杰出的华裔科学家凭借严谨求实的治学精神与卓越非凡的科研成果，屡获诺贝尔奖与图灵奖等国际学术顶级桂冠。他们的杰出贡献不仅为海外华裔赢得了崇高赞誉，更极大地推动了人类科技文明的进步。 | Zài xiàndài kēxué jìshù yǔ gāoděng jiàoyù lǐngyù, yí dà pī jiéchū de Huáyì kēxuéjiā píngjiè yánjǐn qiúshí de zhìxué jīngshén yǔ zhuóyuè fēifán de kēyán chéngguǒ, lǚ huò Nuòbèi'ěr jiǎng yǔ Túlíng jiǎng děng guójì xuéshù dǐngjí guìguān. Tāmen de jiéchū gòngxiàn bùjǐn wèi hǎiwài Huáyì yíngdéle chónggāo zànyù, gèng jídà de tuīdòngle rénlèi kējì wénmíng de jìnbù. | In science and academia, eminent scientists of Chinese descent have garnered Nobel and Turing prizes through rigorous scholarship. Their contributions win acclaim for the diaspora while powerfully advancing human civilization. | En la ciencia contemporánea, insignes investigadores de origen chino cosechan premios Nobel y Turing con su rigor metódico. Sus aportaciones prestigian a la comunidad en ultramar impulsando el progreso de la civilización humana.

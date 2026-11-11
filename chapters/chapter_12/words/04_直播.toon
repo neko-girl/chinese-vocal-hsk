@@ -1,0 +1,64 @@
+id: 4
+hanzi: 直播
+pinyin: zhí bō
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to live broadcast; live stream; real-time webcast
+  es: transmitir en directo; retransmitir en vivo; emisión en vivo; directo
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to transmit audio and video signals in real time without pre-recording or post-editing | emitir señales de audio o vídeo en tiempo real sin grabación previa ni montaje posterior | 现场直播 (live broadcast on site)
+  2 | Noun | Standard | a live telecast, audio show, or internet streaming session conducted in real time | programa audiovisual o sesión por internet difundida en riguroso directo | 网络直播 (internet live streaming)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 亿万球迷通过手机客户端准时观看了世界杯决赛的全程高清网络直播，随时在聊天室分享喜悦。 | Yìwàn qiúmí tōngguò shǒujī kèhùduān zhǔnshí guānkànle Shìjièbēi juésài de quánchéng gāoqīng wǎngluò zhíbō, suíshí zài liáotiānshì fēnxiǎng xǐyuè. | Hundreds of millions of fans watched the HD live stream of the World Cup final on mobile apps, sharing excitement in chat rooms. | Cientos de millones de aficionados siguieron en directo de alta definición la final del Mundial por el móvil compartiendo su emoción en el chat.
+  #2 | 科技公司举行全球新品发布会时开启多平台同步直播，吸引了超过千万海外科技爱好者的在线参与。 | Kējì gōngsī jǔxíng quánqiú xīnpǐn fābùhuì shí kāiqǐ duō píngtái tóngbù zhíbō, xīyǐnle chāoguò qiānwàn hǎiwài kējì àihàozhě de zàixiàn cānyù. | When hosting its global product launch, the tech company streamed synchronously across multiple platforms, drawing tens of millions of overseas fans. | Al presentar su nuevo producto mundial, la tecnológica emitió en directo en múltiples plataformas, atrayendo a millones de entusiastas extranjeros.
+
+collocations[6]{hanzi,en}:
+  网络直播 | internet live streaming
+  现场直播 | live broadcast from site
+  电视直播 | live television telecast
+  直播带货 | live-stream shopping / e-commerce streaming
+  开启直播 | start a live stream
+  同步直播 | simulcast / synchronous live broadcast
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  直抒胸臆 | zhí shū xiōng yì | express one's feelings candidly and directly
+  名播四海 | míng bō sì hǎi | one's fame spreads across the four seas
+  直截了当 | zhí jié liǎo dàng | direct and straightforward; blunt
+  广播英名 | guǎng bō yīng míng | widely disseminate renowned glory
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  直 | zhí | straight; direct; candid; directly | recto; directo; sincero; sin rodeos | 目 | eye | 目 (eye looking straight ahead) + 十 (crosshairs / upright line) | Archaic phonetic nuance | 8 | 单一结构 | An eye 目 gazing along a plumb line without wavering; signifies straightness, immediacy, and directness. | An open eye (目) fixed along a level plumb line looks straight and direct (直). | El ojo (目) enfocado en línea perpendicular fija la mirada recta y directa sin desvíos (直). | 35 | JBM | ""
+  播 | bō | sow seeds; scatter; broadcast; disseminate | sembrar; esparcir; difundir; emitir | 扌 | hand | 扌 (hand scattering seed) + 番 (sowing field partitions) | 番 (fān/bō, turn / phonetic) | 15 | 左右结构 | A hand 扌 scattering seeds across plowed field furrows 番; extended to transmitting signals widely over airwaves. | A hand (扌) scattering grain seeds across wide farmland (番) broadcasts signals outward (播). | Una mano (扌) que esparce semillas sobre campos de labranza (番) propaga ondas al aire (播). | 55 | QHDW | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Transmitting directly in real time (直) while broadcasting signals across the globe (播) is live broadcasting (直播).
+  composite_memory_hook_es: Emitir de forma directa e inmediata (直) esparciendo la señal al mundo (播) es transmitir en directo (直播).
+  cultural_and_cognitive_roots: Evolved from agricultural sowing (播种) to radio wave transmission (广播) and modern digital interactive live-streaming (网络直播).
+  tone_sandhi_and_pitch_modulation: Second tone followed by first tone: 'zhí bō' (35-55). Rise up with 35, then sustain flat high pitch 55.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    真 | zhēn | true; real | Has bottom feet 八-like strokes, unlike horizontal bar base of 直
+    值 | zhí | value; worth | Has person radical 亻 on left of 直
+    翻 | fān | turn over; translate | Has wings 羽 on right of 番 instead of hand 扌 on left
+    潘 | pān | surname Pan / water | Has water radical 氵 on left of 番
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    传 | chuán | transmit; disseminate
+    发 | fā | emit; launch
+    播 | bō | broadcast; sow
+    映 | yìng | reflect; project movie
+
+semantic_boundary_contrasts:
+  core_nuance: 直播 denotes real-time simultaneous broadcast without recorded delays or post-production montage.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 直播 vs. 转播 | zhuǎnbō | 转播 emphasizes relaying or rebroadcasting a feed produced by another television station or satellite source, while 直播 is original real-time broadcasting.
+    2 | 直播 vs. 录播 | lùbō | 录播 involves pre-recording, editing, and screening footage at a scheduled later time, the direct antonym of 直播.
+    3 | 直播 vs. 广播 | guǎngbō | 广播 generally refers to radio broadcasting or public loudspeaker announcements, while 直播 emphasizes zero-latency live real-time coverage.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 得益于高速无线通信网络的全面覆盖，网络直播早已深入大众日常生活的方方面面。无论是大型国际体育赛事的实时战况，还是偏远乡村农产品的产地直销，直播技术拉近了人与人之间的时空距离，激发了数字经济的蓬勃活力。 | Déyì yú gāosù wúxiàn tōngxìn wǎngluò de quánmiàn fùgài, wǎngluò zhíbō zǎoyǐ shēnrù dàzhòng rìcháng shēnghuó de fāngfāng-miànmiàn. Wúlùn shì dàxíng guójì tǐyù sàishì de shíshí zhànkuàng, háishì piānyuǎn xiāngcūn nóngchǎnpǐn de chǎndì zhíxiāo, zhíbō jìshù lājìnle rén yǔ rén zhījiān de shíkōng jùlí, jīfāle shùzì jīngjì de péngbó huólì. | Benefiting from comprehensive high-speed mobile network coverage, live streaming has permeated daily life. From live sports events to farm produce sales in remote villages, streaming shortens spatial distance and invigorates digital commerce. | Gracias a la cobertura móvil de alta velocidad, las emisiones en directo forman parte de la vida cotidiana. De torneos deportivos a ventas agrícolas en aldeas, la retransmisión en vivo acorta distancias y dinamiza la economía digital.
+  #2 | 在线教育与学术交流领域同样深刻受益于高清直播技术的广泛应用。知名专家通过网络直播平台向全球不同时区的青年学者开展远程讲座，观众不仅能实时提问交流，还能通过互动弹幕即时探讨疑难问题，极大促进了优质教育资源的全球共享。 | Zàixiàn jiàoyù yǔ xuéshù jiāoliú lǐngyù tóngyàng shēnkè shòuyì yú gāoqīng zhíbō jìshù de guǎngfàn yìngyòng. Zhīmíng zhuānjiā tōngguò wǎngluò zhíbō píngtái xiàng quánqiú bùtóng shíqū de qīngnián xuézhě kāizhǎn yuǎnchéng jiǎngzuò, guānzhòng bùjǐn néng shíshí tíwèn jiāoliú, hái néng tōngguò hùdòng dànmù jíshí tàntǎo yínán wèntí, jídà cùjìnle yōuzhì jiàoyù zīyuán de quánqiú gòngxiǎng. | Online education and scholarship benefit profoundly from HD live streaming. Renowned scholars deliver lectures globally via streaming platforms, where audiences pose questions and debate in real-time, sharing quality educational resources. | La educación a distancia y el intercambio académico aprovechan la retransmisión en alta definición. Catedráticos imparten conferencias a diversas zonas horarias, donde el público interactúa en directo compartiendo recursos docentes de calidad.

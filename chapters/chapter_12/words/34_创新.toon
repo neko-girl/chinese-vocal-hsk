@@ -1,0 +1,64 @@
+id: 34
+hanzi: 创新
+pinyin: chuàng xīn
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to innovate; innovation; novelty; groundbreaking creation
+  es: innovar; innovación; novedad pionera; renovación creadora
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to introduce new methods, ideas, technologies, or products by breaking away from conventional molds | introducir novedades creadoras, métodos o tecnologías rompiendo moldes consuetudinarios | 勇于创新 (dare to innovate)
+  2 | Noun | Standard | the process or result of developing new solutions, inventions, or business models | el proceso o fruto de concebir nuevas soluciones, inventos o modelos pioneros | 科技创新 (technological innovation)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信之所以能在激烈的国际竞争中脱颖而出，核心在于其在语音对讲与移动支付模式上的持续技术创新。 | Wēixìn zhīsuǒyǐ néng zài jīliè de guójì jìngzhēng zhōng tuōyǐng-érchū, héxīn zàiyú qí zài yǔyīn duìjiǎng yǔ yídòng zhīfù móshì shàng de chíxù jìshù chuàngxīn. | The reason WeChat stood out in fierce international competition lies fundamentally in its continuous technological innovation in voice walkie-talkie and mobile payment models. | El motivo por el que WeChat despuntó en la lid internacional reside en su continua innovación técnica en notas de voz y pagos móviles.
+  #2 | 科技创新已经成为引领国家高质量发展的第一动力，唯有培育具有全球竞争力的创新人才，才能抢占未来产业制高点。 | Kējì chuàngxīn yǐjīng chéngwéi yǐnlǐng guójiā gāozhìliàng fāzhǎn de dì-yī dònglì, wéiyǒu péiyù jùyǒu quánqiú jìngzhēnglì de chuàngxīn réncái, cáinéng qiǎngzhàn wèilái chǎnyè zhìgāodiǎn. | Technological innovation has become the primary driving force for national high-quality growth; only by cultivating globally competitive talents can we capture the future high ground. | La innovación científica es el primer motor del desarrollo de calidad; solo formando talento competitivo a escala global se liderarán las industrias del porvenir.
+
+collocations[6]{hanzi,en}:
+  科技创新 | technological innovation
+  自主创新 | independent / indigenous innovation
+  创新能力 | innovative capability
+  持续创新 | continuous innovation
+  创新理念 | innovative concept / idea
+  制度创新 | institutional innovation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  推陈出新 | tuī chén chū xīn | weed through the old to bring forth the new
+  独树一帜 | dú shù yī zhì | fly one's own unique banner; develop an original unique style
+  别具匠心 | bié jù jiàng xīn | possess ingenious and unique artistic originality
+  标新立异 | biāo xīn lì yì | display new and distinctive originality; pioneer trends
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  创 | chuàng | create; start; initiate; originate | crear; iniciar; fundar; originar; inventar | 刂 | knife | 仓/倉 (storehouse of ideas) + 刂 (knife carving out original form) | 仓 (cāng, storehouse / phonetic chuàng) | 6 | 左右结构 | Carving 刂 out an unprecedented path from a storehouse 仓 of wisdom; creating or originating something brand-new. | A sharp chisel knife (刂) carving a storehouse (仓) of raw ideas into an unprecedented creation (创). | Un cincel afilado (刂) que labra el almacén (仓) de ideas dando a luz una creación inédita (创). | 51 | OSN | 創
+  新 | xīn | new; fresh; novel; modern; newly | nuevo; fresco; moderno; reciente | 斤 | axe | 亲/𣐀 (young green tree twigs) + 斤 (axe felling fresh timber) | Historical phonetic nuance xīn | 13 | 左右结构 | Using an axe 斤 to fell fresh fragrant green timber 亲 in the forest; symbolizes freshness, renewal, and beginning anew. | An axe (斤) cutting down aromatic fresh cedar branches (亲) welcomes the new (新). | El hacha (斤) talando ramas verdes y lozanas (亲) evoca la fragante novedad de lo recién nacido (新). | 55 | YDHIL | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Carving out original shapes (创) to bring forth the fresh and new (新) is innovation (创新).
+  composite_memory_hook_es: Fundar o labrar con originalidad (创) para alumbrar lo fresco y novedoso (新) es innovar (创新).
+  cultural_and_cognitive_roots: Originates from the ancient Shang Dynasty bathtub inscription (如《大学》引《汤之盘铭》): '苟日新，日日新，又日新' (If you can renovate yourself one day, do so every day, and again renovate!).
+  tone_sandhi_and_pitch_modulation: Fourth tone followed by first tone: 'chuàng xīn' (51-55). Sharp drop from 51 followed by sustained high level 55.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    仓 | cāng | storehouse; barn | Lacks the knife radical 刂 of 创
+    抢 | qiǎng | rob; snatch | Has hand radical 扌 on left of 仓
+    亲 | qīn | parent; intimate | Lacks the axe radical 斤 on right of 新
+    斩 | zhǎn | behead; sever | Has vehicle 车 on left of 斤 instead of 亲
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    造 | zào | create; invent
+    作 | zuò | make; produce
+    变 | biàn | change; transform
+    革 | gé | reform; renew
+
+semantic_boundary_contrasts:
+  core_nuance: 创新 emphasizes introducing unprecedented originality, breaking past paradigms, and delivering fresh technological or institutional value.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 创新 vs. 创造 | chuàngzào | 创造 means creating something out of nothing (art, miracles, life), whereas 创新 emphasizes renewing, improving, or innovating upon existing systems and products.
+    2 | 创新 vs. 改革 | gǎigé | 改革 refers specifically to political, economic, or institutional restructuring to fix legacy defects ('深化改革'), while 创新 focuses on novelty in technology, design, and models.
+    3 | 创新 vs. 发明 | fāmíng | 发明 denotes inventing an entirely new physical device, mechanism, or patent ('发明指南针'), while 创新 is broader encompassing business models and ideas.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在当今科技变革一日千里的时代，创新是企业赖以生存和基业长青的永恒灵魂。墨守成规、故步自封的企业终将被汹涌的市场浪潮无情淘汰；唯有勇于打破惯性思维、敢于试错探索，才能在无人区中开辟出崭新的发展蓝海。 | Zài dāngjīn kējì biàngé yīrì-qiānlǐ de shídài, chuàngxīn shì qǐyè làiyǐ shēngcún hé jīyè-chángqīng de yǒnghéng línghún. Mòshǒu-chéngguī, gùbù-zìfēng de qǐyè zhōng jiāng bèi xiōngyǒng de shìchǎng làngcháo wúqíng táotài; wéiyǒu yǒngyú dǎpò guànxìng sīwéi, gǎnyú shìcuò tànsuǒ, cáinéng zài wúrénqū zhōng kāipì chū zhǎnxīn de fāzhǎn lánhǎi. | In rapid tech change, innovation is the eternal soul for corporate survival. Businesses clinging to conventions will be weeded out by markets; only those daring to shatter inertia and experiment can open fresh blue oceans in unchartered territory. | En tiempos de vertiginoso cambio técnico, la innovación es el alma de la longevidad corporativa. Quien se atrinchere en viejas fórmulas será barrido por el mercado; solo arriesgando e innovando se descubren nuevos océanos de oportunidad.
+  #2 | 推进国家治理体系和治理能力现代化，必须高度重视制度创新与技术创新的双轮驱动。将前沿数字通信、大数据算法与政务便民服务紧密结合，不仅打破了部门之间长期存在的“数据孤岛”，更为广大民众提供了高效普惠的智慧公共服务。 | Tuījìn guójiā zhìlǐ tǐxì yǔ zhìlǐ nénglì xiàndàihuà, bìxū gāodù zhòngshì zhìdù chuàngxīn yǔ jìshù chuàngxīn de shuānglún qūdòng. Jiāng qiányán shùzì tōngxìn, dàshùjù suànfǎ yǔ zhèngwù biànmín fúwù jǐnmì jiéhé, bùjǐn dǎpòle bùmén zhījiān chángqī cúnzài de 'shùjù gūdǎo', gèng wèi guǎngdà mínzhòng tígōngle gāoxiào pǔhuì de zhìhuì gōnggòng fúwù. | Modernizing national governance demands equal attention to institutional and tech innovation. Fusing communications, big data, and public services breaks departmental data silos, delivering smart and inclusive public services for all. | Modernizar la gobernanza nacional exige aunar innovación institucional y técnica. Vincular telecomunicaciones, algoritmos de datos y atención ciudadana derriba silos burocráticos brindando servicios públicos inteligentes a la población.

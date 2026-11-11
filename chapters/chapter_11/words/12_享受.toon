@@ -1,0 +1,64 @@
+id: 12
+hanzi: 享受
+pinyin: xiǎng shòu
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to enjoy; to savor; enjoyment; treat; benefit
+  es: disfrutar; gozar de; deleitarse; disfrute; goce
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to take pleasure in, savor, or benefit from pleasant conditions, treatment, or sensations | gozar, deleitarse o beneficiarse de condiciones gratas, delicias o derechos | 享受生活 (enjoy life)
+  2 | Noun | Standard | pleasure, gratification, or luxurious satisfaction derived from experience | deleite, fruición, bienestar o placer derivado de una vivencia | 是一种精神享受 (is a spiritual treat)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 周末的午后，他喜欢泡上一壶芬芳的乌龙茶，静静地享受阳光洒满窗台的惬意时光。 | Zhōumò de wǔhòu, tā xǐhuan pào shàng yì hú fēnfāng de wūlóngchá, jìngjìng de xiǎngshòu yángguāng sǎmǎn chuāngtái de qièyì shíguāng. | On weekend afternoons, he loves brewing a fragrant pot of Oolong tea, quietly savoring the cozy hours of sunlight bathing the windowsill. | Los fines de semana por la tarde le complace preparar una tetera de aromático té Oolong, disfrutando de la agradable luz sobre el alféizar.
+  #2 | 聆听这位享誉世界的钢琴大师演奏古典协奏曲，对在场的所有乐迷而言无疑是一场无与伦比的艺术享受。 | Língtīng zhè wèi xiǎngyù-shìjiè de gāngqín dàshī yǎnzòu gǔdiǎn xiézòuqǔ, duì zàichǎng de suǒyǒu yuèmí éryán wúyí shì yì chǎng wúyǔlúnbǐ de yìshù xiǎngshòu. | Listening to the world-renowned pianist perform classical concertos was undoubtedly an incomparable artistic treat for all music lovers. | Escuchar al célebre virtuoso interpretar conciertos clásicos al piano constituyó un deleite estético incomparable para todos los melómanos.
+
+collocations[6]{hanzi,en}:
+  享受生活 | enjoy life
+  物质享受 | material comfort/enjoyment
+  精神享受 | spiritual/aesthetic enjoyment
+  享受待遇 | enjoy benefits / receive entitlements
+  享受美食 | savor delicacies
+  尽情享受 | enjoy to the fullest
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  乐在其中 | lè zài qí zhōng | find joy in it; derive great pleasure from an activity
+  怡然自得 | yí rán zì dé | contented and serene; peaceful self-satisfaction
+  养尊处优 | yǎng zūn chǔ yōu | live in luxury and comfort; coddled lifestyle
+  其乐无穷 | qí lè wú qióng | boundless joy and endless amusement
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  享 | xiǎng | enjoy; benefit; sacrificial banquet | disfrutar; gozar; banquete de ofrenda | 亠 | lid | 高 (lofty ancestral temple roof) + 子 (offspring presenting feast) | 享 (xiǎng) | 8 | 上下结构 | An ancestral temple lid 亠 where offspring 子 present aromatic sacrificial banquets for spirits to partake; denotes enjoying feast and favor. | Under a decorated roof (亠), filial children (子) present fine food to enjoy together (享). | Bajo el alero del templo (亠), los vástagos (子) ofrecen un manjar exquisito para disfrutarlo (享). | 214 | YRND | ""
+  受 | shòu | receive; accept; endure; suffer | recibir; aceptar; soportar; experimentar | 又 | hand | 爪 (hand from above giving) + 又 (hand from below receiving) | 舟 (zhōu, boat / vessel in between) | 8 | 上下结构 | A hand from above 爪 passing a vessel into an eager hand below 又; denotes receiving, accepting, and experiencing sensations. | Two hands pass and receive (受) a generous gift vessel smoothly. | Una mano superior entrega y otra inferior acoge (受) una copa con deleite. | 51 | BBME | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Feasting on temple delicacies (享) and receiving them gratefully with open hands (受) means to enjoy (享受).
+  composite_memory_hook_es: Participar del banquete grato (享) recibiéndolo con ambas manos (受) es disfrutar a fondo (享受).
+  cultural_and_cognitive_roots: Derived from classical sacrificial communion (享通: spiritual reception); shifted in modern vernacular to hedonistic or aesthetic pleasures.
+  tone_sandhi_and_pitch_modulation: Dipping third tone followed by falling fourth tone: 'xiǎng shòu' (214-51). Dip deeply on 'xiǎng', then drop down firmly on 'shòu'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    亨 | hēng | prosperous; smooth | Lacks the central horizontal stroke of 子 in 享
+    孝 | xiào | filial piety | Has 老-top atop 子 instead of 亠 and 口
+    爱 | ài | love | Has friend 友 at bottom instead of 又 in 受
+    妥 | tuǒ | proper; settled | Has woman 女 at bottom instead of 又
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    乐 | lè | joy; cheerful music
+    悦 | yuè | pleased in heart
+    欣 | xīn | joyous laughter
+    怡 | yí | serene harmony of mind
+
+semantic_boundary_contrasts:
+  core_nuance: 享受 emphasizes deep, comfortable sensory, psychological, or material gratification.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 享受 vs. 贪图 | tāntú | 贪图 has a negative connotation of coveting comfort or illicit gain ('贪图安逸', '贪图小便宜'), while 享受 is neutral or positive.
+    2 | 享受 vs. 忍受 | rěnshòu | 忍受 means enduring pain or unpleasant hardship ('忍受痛苦'), the polar emotional opposite of pleasant 享受.
+    3 | 享受 vs. 欣赏 | xīnshǎng | 欣赏 emphasizes intellectual and aesthetic appraisal of art or talent ('欣赏画作', '欣赏才华'), while 享受 is holistic sensory delight.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 忙碌的工作之余，我们要学会放慢脚步，用心去感知生活中的点滴美好。不必追求奢华的物质铺张，清晨的一缕暖阳、窗台的一抹花香、与家人围坐的一顿热饭，都是值得我们细细品味与感念的无上享受。 | Mánglù de gōngzuò zhīyú, wǒmen yào xuéhuì fàngmàn jiǎobù, yòngxīn qù gǎnzhī shēnghuó zhōng de diǎndī měihǎo. Búbì zhuīqiú shēhuá de wùzhì pūzhāng, qīngchén de yì lǚ nuǎnyáng, chuāngtái de yì mǒ huāxiāng, yǔ jiārén wéizuò de yí dùn rèfàn, dōu shì zhíde wǒmen xìxì pǐnwèi yǔ gǎnniàn de wúshàng xiǎngshòu. | Amid busy work, we should learn to slow our steps to perceive life's simple joys. Luxuries are unneeded; morning sun, floral scents, and a warm meal with family are supreme delights worthy of savoring. | Entre el ajetreo laboral conviene pausar el paso y saborear la belleza menuda. Sin ostentaciones superfluas, el sol matinal, el aroma de una flor y una cena en familia son un goce inestimable para el alma.
+  #2 | 现代社会保障体系的建立与健全，让越来越多的劳动者在年老退休后能够切实享受到国家发展带来的民生红利。按时足额发放的养老金与普惠性医疗保障，为千万老年人安享幸福尊严的晚年生活提供了坚实后盾。 | Xiàndài shèhuì bǎozhàng tǐxì de jiànlì yǔ jiànquán, ràng yuèláiyuè duō de láodòngzhě zài niánlǎo tuìxiū hòu nénggòu qièshí xiǎngshòudào guójiā fāzhǎn dàilái de mínshēng hónglì. Ànshí zú'é fāfàng de yǎnglǎojīn yǔ pǔhuìxìng yīliáo bǎozhàng, wèi qiānwàn lǎoniánrén ānxiǎng xìngfú zūnyán de wǎnnián shēnghuó tígōng le jiānshí hòudùn. | The modern social safety net ensures retirees enjoy the fruits of national development. Timely pensions and universal healthcare provide firm backing for millions of seniors to enjoy dignified twilight years. | La red de protección social moderna permite a los jubilados gozar de las conquistas del progreso. Pensiones dignas y cobertura médica universal garantizan una vejez plácida y honrosa a millones de ancianos.

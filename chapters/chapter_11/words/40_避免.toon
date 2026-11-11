@@ -1,0 +1,63 @@
+id: 40
+hanzi: 避免
+pinyin: bì miǎn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to avoid; avert; prevent; steer clear of (harm, errors, conflicts)
+  es: evitar; eludir; esquivar; prevenir (daños, errores, colisiones)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to take preventive measures to keep an undesirable, unfavorable, or harmful situation from taking place | tomar precauciones para impedir que suceda una situación desfavorable, perjudicial o conflictiva | 避免发生意外 (prevent / avoid accidents)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 改用渐亮的光线闹钟能够有效避免身体在深睡眠中突然受到惊吓，从而呵护心血管系统健康。 | Gǎiyòng jiànliàng de guāngxiàn nàozhōng nénggòu yǒuxiào bìmiǎn shēntǐ zài shēn shuìmián zhōng tūrán shòudào jīngxià, cóng'ér hēhù xīnxuěguǎn xìtǒng jiànkāng. | Switching to a light-gradual alarm can effectively avoid the body being abruptly startled during deep sleep, protecting cardiovascular health. | Pasarse a un despertador de luz gradual previene eficazmente que el cuerpo sufra sobresaltos en pleno sueño profundo, cuidando el corazón.
+  #2 | 在方案制订过程中多方征求团队意见，有助于及时发现设计漏洞，避免不必要的人力与资金浪费。 | Zài fāng'àn zhìdìng guòchéng zhōng duōfāng zhēngqiú tuánduì yìjiàn, yǒuzhùyú jíshí fāxiàn shèjì lòudòng, bìmiǎn bú bìyào de rénlì yǔ zījīn làngfèi. | Soliciting multi-party team feedback while formulating plans helps detect design loopholes promptly and avoids unnecessary waste of labor and funds. | Consultar al equipo al trazar un plan ayuda a detectar fallos a tiempo, evitando despilfarros innecesarios de personal y presupuesto.
+
+collocations[6]{hanzi,en}:
+  避免发生 | prevent from happening; avoid occurring
+  不可避免 | unavoidable; inevitable
+  有效避免 | effectively avert / prevent
+  避免冲突 | avoid conflict / confrontation
+  避免错误 | avoid mistakes / errors
+  尽量避免 | try one's best to avoid
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  在所难免 | zài suǒ nán miǎn | hard to avoid; virtually inevitable
+  防患未然 | fáng huàn wèi rán | take preventive measures before mishaps occur
+  未雨绸缪 | wèi yǔ chóu móu | repair house before it rains; plan ahead prudently
+  避实就虚 | bì shí jiù xū | avoid the enemy's strength and strike at his weakness
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  避 | bì | avoid; evade; shun; seek shelter | evitar; esquivar; huir de; resguardarse | 辶 | walk / movement | 辶 (walking/moving away) + 辟 (law punishment / danger) | 辟 (bì/pì, punish / phonetic) | 16 | 半包围结构 | Walking footsteps 辶 actively moving aside to evade criminal punishment or danger 辟; dodging peril. | Stepping along the path (辶) away from hazardous confrontations (辟) to avoid danger (避). | Apresurar los pasos (辶) para sortear una sanción o peligro eminente (辟) esquivándolo a tiempo (避). | 51 | YSRJ | ""
+  免 | miǎn | exempt; excuse; remove; avoid | eximir; dispensar; quitar; librar de | 刀 | knife | Pictograph of an official taking off a heavy ceremonial helmet to be excused from duty | Phonetic carrier in traditional scripts | 7 | 单一结构 | Removing headgear or shedding an official burden; signifies exemption, forgiveness, or being spared from danger. | Taking off a heavy restrictive helmet to be exempt and spared from burdensome trial (免). | Despojarse del pesado casco militar quedando exonerado o libre de penalidad (免). | 214 | NAU | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Dodging sideways on foot (避) to be spared and exempt from hardship (免) is actively avoiding trouble (避免).
+  composite_memory_hook_es: Apartarse a paso ligero (避) para quedar eximido o a salvo de percances (免) es evitar (避免).
+  cultural_and_cognitive_roots: Classical Sunzi Art of War: true strategic victory lies not in bloody clashes, but in avoiding enemy strongholds (避实击虚) and preventing unnecessary casualties.
+  tone_sandhi_and_pitch_modulation: Fourth tone followed by third tone: 'bì miǎn' (51-214). Sharp decisive fall dropping into low dipping contour.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    僻 | pì | isolated; remote | Has person radical 亻 on left of 辟 instead of walk 辶 in 避
+    壁 | bì | wall; cliff | Has earth radical 土 at bottom
+    兔 | tù | rabbit; hare | Has extra dot inside representing a rabbit's tail, unlike 免
+    勉 | miǎn | strive; exhort | Has power radical 力 on right of 免
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    躲 | duǒ | hide; evade
+    防 | fáng | defend; guard against
+    省 | shěng | save; spare
+    闪 | shǎn | dodge; flash
+
+semantic_boundary_contrasts:
+  core_nuance: 避免 is an active transitive verb indicating taking prudent preventive measures to forestall errors, accidents, or undesirable outcomes.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 避免 vs. 逃避 | táobì | 逃避 has a negative connotation of cowardly shirking responsibilities, reality, or legal duties ('逃避现实', '逃避责任'), whereas 避免 is rational preventive caution.
+    2 | 避免 vs. 阻止 | zǔzhǐ | 阻止 means actively stepping in to physically halt an action already underway ('阻止他的鲁莽行为'), while 避免 forestalls events beforehand.
+    3 | 避免 vs. 免除 | miǎnchú | 免除 means officially waiving, exempting, or removing a duty, tax, or debt ('免除学费'), while 避免 prevents bad consequences.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代航空安全管理体系中，预防性检修是避免重大飞行安全事故的核心屏障。地勤机务人员严格依照规范流程对引擎、电子雷达及液压线路展开细致排查，唯有将隐患消灭在萌芽状态，才能确保万米高空飞行万无一失。 | Zài xiàndài hángkōng ānquán guǎnlǐ tǐxì zhōng, yùfángxìng jiǎnxiū shì bìmiǎn zhòngdà fēixíng ānquán shìgù de héxīn píngzhàng. Dìqín jīwù rényuán yángé yīzhào guīfàn liúchéng duì yǐnqíng, diànzǐ léidá jí yèyā xiànlù zhǎnkāi xìzhì páichá, wéiyǒu jiāng yǐnhuàn xiāomiè zài méngyá zhuàngtài, cáinéng quèbǎo wàn mǐ gāokōng fēixíng wànwúyīshī. | In modern aviation safety, preventive maintenance is the core barrier to avoiding major flight accidents. Ground crews scrupulously inspect engines, radars, and hydraulics according to protocol, nipping hazards in the bud to ensure absolute safety. | En la seguridad aeronáutica, las revisiones preventivas son la barrera clave para evitar siniestros. El personal de tierra inspecciona minuciosamente motores y circuitos para atajar riesgos en su origen y garantizar vuelos seguros.
+  #2 | 人际交往中难免会产生观点分歧，明智的沟通者懂得换位思考，通过委婉温和的表达来避免正面语言冲突。学会倾听对方的真实顾虑，不仅能够有效化解误会与隔阂，更能为双方维系长久而稳固的信任基石。 | Rénjì jiāowǎng zhōng nánmiǎn huì chǎnshēng guāndiǎn fēnqí, míngzhì de gōutōngzhě dǒngde huànwèi-sīkǎo, tōngguò wěiwǎn wēnhé de biǎodá lái bìmiǎn zhèngmiàn yǔyán chōngtū. Xuéhuì qīngtīng duìfāng de zhēnshí gùlǜ, bùjǐn nénggòu yǒuxiào huàjiě wùhuì yǔ géhé, gèng néng wèi shuāngfāng wéixì chángjiǔ ér wěngù de xìnlài jīshí. | In interpersonal exchanges, divergent views inevitably arise. Wise communicators practice empathy and use gentle phrasing to avoid direct clashes. Listening to genuine concerns resolves misunderstandings and cements long-lasting trust. | En el trato humano surgen desacuerdos de forma inevitable. Quien se comunica con sensatez sabe ponerse en el lugar del otro y expresarse con tacto para eludir choques frontales, disipando malentendidos y consolidando la confianza mutua.

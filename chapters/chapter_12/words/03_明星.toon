@@ -1,0 +1,63 @@
+id: 3
+hanzi: 明星
+pinyin: míng xīng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: celebrity; star (movie, sports, entertainment); famous figure
+  es: estrella; celebridad; astro del deporte o espectáculo; figura famosa
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a widely famous and admired person in the performing arts, music, sports, or public life | persona célebre y aclamada en el ámbito del espectáculo, el cine, el deporte o la vida pública | 影视明星 (movie / TV star)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 腾讯公司重金签约国际足坛超级明星梅西作为微信的全球代言人，全面开启海外市场推广。 | Téngxùn gōngsī zhòngjīn qiānyuē guójì zútán chāojí míngxīng Méixī zuòwéi Wēixìn de quánqiú dàiyánrén, quánmiàn kāiqǐ hǎiwài shìchǎng tuīguǎng. | Tencent spent heavily to sign international football superstar Messi as WeChat's global brand ambassador, initiating worldwide market promotion. | Tencent invirtió cuantiosos fondos para fichar a la superestrella futbolística Messi como imagen global de WeChat, abriendo la campaña internacional.
+  #2 | 这位备受瞩目的青年体育明星不仅在奥运赛场上屡创佳绩，还热心投身于各项环保公益事业。 | Zhè wèi bèishòu zhǔmù de qīngnián tǐyù míngxīng bùjǐn zài Àoyùn sàichǎng shàng lǚ chuàng jiājì, hái rèxīn tóushēn yú gèxiàng huánbǎo gōngyì shìyè. | This high-profile young sports star not only repeatedly achieved excellence in the Olympic arena, but also enthusiastically dedicated himself to environmental charity. | Esta célebre promesa deportiva no solo cosechó laureles en los Juegos Olímpicos, sino que se involucró activamente en causas medioambientales.
+
+collocations[6]{hanzi,en}:
+  超级明星 | superstar
+  体育明星 | sports star
+  影视明星 | film and television star
+  明星效应 | celebrity effect / star power
+  明星代言 | celebrity endorsement
+  当红明星 | popular / current hot celebrity
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  群星璀璨 | qún xīng cuǐ càn | brilliant cluster of bright stars; galaxy of talents
+  明眸皓齿 | míng móu hào chǐ | bright eyes and gleaming white teeth; radiant beauty
+  大红大紫 | dà hóng dà zǐ | extremely popular and widely successful in fame
+  众星拱月 | zhòng xīng gǒng yuè | stars revolving around the moon; cluster around a respected center
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  明 | míng | bright; clear; understand; brilliant | brillante; claro; luminoso; comprender | 日 | sun | 日 (sun / solar brilliance) + 月 (moon / lunar clarity) | Pictographic cosmic light | 8 | 左右结构 | Sun 日 and Moon 月 placed side by side, illuminating heaven and earth with celestial radiance and total clarity. | The sun (日) and moon (月) shining together radiate supreme brightness (明). | El sol (日) y la luna (月) brillando al unísono irradian una luz diáfana y deslumbrante (明). | 35 | AB | ""
+  星 | xīng | star; heavenly body; spark; tiny dot | estrella; astro; chispa; punto brillante | 日 | sun / day | 日 (celestial luminary) + 生 (sprout / birth of light) | 生 (shēng, born / phonetic xīng) | 9 | 上下结构 | A celestial body 日 born 生 in the night sky; points of light glistening across the heavens. | Bright solar sparks (日) born (生) across the dark night sky glitter as stars (星). | Luces celestes (日) nacidas (生) en la bóveda nocturna titilan como estrellas (星). | 55 | AHM | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A brilliant shining light (明) glittering high like a stellar luminary (星) in public life is a celebrity star (明星).
+  composite_memory_hook_es: La luminosidad deslumbrante (明) que brilla en lo alto cual astro del cielo (星) define a la estrella o celebridad (明星).
+  cultural_and_cognitive_roots: Originally denoted Venus the Morning Star (启明星). In modern media culture, extended to celebrated entertainment and athletic figures.
+  tone_sandhi_and_pitch_modulation: Second tone followed by first tone: 'míng xīng' (35-55). Rise smoothly then sustain steady high pitch 55.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    朋 | péng | friend | Composed of two moons 月 月, lacking sun 日 in 明
+    萌 | méng | sprout; cute | Has grass radical 艹 on top of 明
+    醒 | xǐng | sober; wake up | Has wine vessel radical 酉 on left of 星
+    晨 | chén | morning; dawn | Has 辰 at bottom under 日 instead of 生 in 星
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    辰 | chén | celestial body; dragon sign
+    宿 | xiù | lunar constellation
+    曜 | yào | bright luminary; daylight
+    光 | guāng | light; glory
+
+semantic_boundary_contrasts:
+  core_nuance: 明星 specifically denotes widely celebrated performers, musicians, athletes, or public media idols.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 明星 vs. 名人 | míngrén | 名人 encompasses prominent figures across politics, science, business, and literature, whereas 明星 concentrates on popular entertainment and sports icons.
+    2 | 明星 vs. 偶像 | ǒuxiàng | 偶像 denotes an idol idolized passionately by fans for persona and looks, while 明星 highlights fame and star status in an industry.
+    3 | 明星 vs. 巨星 | jùxīng | 巨星 is a superstar of legendary stature and historic cultural impact (e.g. Messi, Michael Jackson), far beyond a regular 明星.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在当今全球商业品牌竞争中，跨国企业常常借助体育明星的巨大声誉来迅速打开海外市场。足球明星那健康阳光的竞技形象与顽强拼搏的职业精神，能够跨越语言与文化的鸿沟，极大地增强全球年轻消费者对品牌的认同感。 | Zài dāngjīn quánqiú shāngyè pǐnpái jìngzhēng zhōng, kuàguó qǐyè chángcháng jièzhù tǐyù míngxīng de jùdà shēngyù lái xùnsù dǎkāi hǎiwài shìchǎng. Zúqiú míngxīng nà jiànkāng yángguāng de jìngjì xíngxiàng yǔ wánqiáng pīnbó de zhíyè jīngshén, nénggòu kuàyuè yǔyán yǔ wénhuà de hónggōu, jídà de zēngqiáng quánqiú niánqīng xiāofèizhě duì pǐnpái de rèntónggǎn. | In global brand competition, multinationals leverage sports stars' renown to unlock overseas markets. Athletes' energetic image and fighting spirit transcend language barriers, boosting brand loyalty among young consumers worldwide. | En la competencia de marcas globales, las multinacionales recurren al tirón de estrellas deportivas para abrir mercados. Su imagen enérgica y espíritu combativo salvan barreras culturales, afianzando la lealtad de la juventud mundial.
+  #2 | 随着自媒体与短视频平台的爆发式普及，聚光灯下的明星群体正面临着更为严格的社会公众审视。作为公众人物，明星不仅需要在专业演艺领域精益求精，更应在日常言行与社会公益中树立积极守法的优良榜样，传递文明向善的社会正能量。 | Suízhe zìméitǐ yǔ duǎnshìpín píngtái de bàofāshì pǔjí, jùguāngdēng xià de míngxīng qúntǐ zhèng miànlín zhe gèngwéi yángé de shèhuì gōngzhòng shěnshì. Zuòwéi gōngzhòng rénwù, míngxīng bùjǐn xūyào zài zhuānyè yǎnyì lǐngyù jīngyìqiújīng, gèng yīng zài rìcháng yánxíng yǔ shèhuì gōngyì zhōng shùlì jījí shǒufǎ de yōuliáng bǎngyàng, chuándì wénmíng xiàngshàn de shèhuì zhèngnéngliàng. | With the rise of social media and video apps, celebrities under the spotlight face stricter public scrutiny. As role models, they must hone their craft while setting positive moral examples in speech and charity. | Con el auge de las redes y vídeos cortos, las celebridades afrontan un escrutinio social más severo. Como figuras públicas, deben perfeccionar su arte y dar ejemplo de civismo y solidaridad en su conducta diaria.

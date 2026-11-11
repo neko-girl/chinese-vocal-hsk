@@ -1,0 +1,62 @@
+id: 28
+hanzi: 数
+pinyin: shù
+level: HSK 5
+part_of_speech: Numeral
+
+meanings_summary:
+  en: several; a few; number; figure
+  es: varios; unos cuantos; número; cifra
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Numeral | Standard | several; a few (indicating an unspecified small quantity, usually greater than two) | varios; unos cuantos (indica cantidad reducida indeterminada superior a dos) | 数天 / 数年 (several days / several years)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这位老科学家在偏僻的大西北戈壁滩默默坚守数十载，为国家核工业发展奉献了青春。 | Zhè wèi lǎo kēxuéjiā zài piānpì de dàxīběi Gēbìtān mòmò jiānshǒu shùshí zǎi, wèi guójiā hégōngyè fāzhǎn fèngxiàn le qīngchūn. | This veteran scientist quietly persevered for several decades on the remote Gobi desert, dedicating his youth to the nation's nuclear industry. | Este veterano científico perseveró silencioso durante varias décadas en el remoto desierto de Gobi, consagrando su juventud a la energía nuclear patricia.
+  #2 | 长途跋涉了数天之后，科考队终于穿过茫茫原始密林，抵达了神秘的高原冰川源头。 | Chángtú báshè le shù tiān zhīhòu, kěkǎoduì zhōngyú chuānguò mángmáng yuánshǐ mìlín, dǐdá le shénmì de gāoyuán bīngchuān yuántóu. | After trekking for several days, the scientific expedition finally traversed dense virgin forests, arriving at the mysterious glacier source. | Tras varios días de penosa marcha, la expedición cruzó la espesura virgen arribando al misterioso nacimiento del glaciar de alta meseta.
+
+collocations[6]{hanzi,en}:
+  数天 | several days
+  数年 | several years
+  数十个 | several dozen
+  数以万计 | tens of thousands; numbered in tens of thousands
+  数月 | several months
+  数倍 | several times / several-fold
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  数以万计 | shù yǐ wàn jì | numbered in the tens of thousands; myriad
+  寥寥无几 | liáo liáo wú jǐ | very few; sparse and countable on fingers
+  不可胜数 | bù kě shèng shǔ | too numerous to count; countless
+  屈指可数 | qū zhǐ kě shǔ | can be counted on the fingers; very few in number
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  数 | shù | number; several; count; fate | número; varios; contar; destino | 攵 | tap / action | 娄 (woman with hair tied / tallying grain) + 攵 (tapping rod counting) | 娄 (lóu / phonetic origin) | 13 | 左右结构 | A woman 娄 holding a counting rod 攵 tapping and reckoning grain tallies; signifies counting (shǔ) or mathematical quantity and indefinite numbers (shù). | A hand taps a counting rod (攵) across organized sacks of grain (娄) to reckon several numbers (数). | Una mano maneja la vara de conteo (攵) sobre sacos de grano (娄) para contar varios números (数). | 51 | FDOK | 數
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Tapping a rod (攵) across grain tallies (娄) reckons several quantities (shù, 数).
+  composite_memory_hook_es: Contar grano con una vara (攵) sobre montones (娄) suma varios días o números (shù, 数).
+  cultural_and_cognitive_roots: Polyphonic root: verbal shǔ (action of counting: 数数), nominal shù (number: 数字), and indefinite numeral shù (several/a few: 数天, 数载).
+  tone_sandhi_and_pitch_modulation: Falling fourth tone when functioning as numeral or noun: 'shù' (51). Drop sharply from pitch 5 to 1.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    楼 | lóu | building; floor | Has wood radical 木 on left instead of 娄 and 攵
+    搂 | lǒu | hug; embrace | Has hand radical 扌 on left of 娄
+    救 | jiù | rescue; save | Has 求 on left of 攵 instead of 娄 in 数
+    敏 | mǐn | agile; sensitive | Has 每 on left of 攵
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    几 | jǐ | how many; a few
+    各 | gè | each; various
+    量 | liàng | measure; quantity
+    度 | dù | degree; rule measure
+
+semantic_boundary_contrasts:
+  core_nuance: 数 (shù) is a literary and formal indefinite numeral prefix meaning 'several / a few' (数天, 数载).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 数 vs. 几 | jǐ | 几 is the standard colloquial spoken word for 'a few / several' ('几天', '几个人'), while 数 is literary, written, and dignified ('数日', '数载').
+    2 | 数 vs. 许多 | xǔduō | 许多 indicates an abundant large quantity ('many / a lot of'), while 数 indicates an indefinite modest quantity ('several').
+    3 | 数 vs. 若干 | ruògān | 若干 is an official bureaucratic administrative pronoun meaning 'a certain number of' ('若干规定'), while 数 directly quantifies time and items.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫长数载的光阴弹指一挥间，当年偏僻荒凉的南海小渔村，在改革开放的浩荡春风中化作了高楼林立、充满创新活力的现代化国际大都市。数以万计怀揣梦想的奋斗者汇聚于此，谱写出震撼人心的时代奇迹。 | Màncháng shù zǎi de guāngyīn tánzhǐ-yīhuī jiān, dāngnián piānpì huāngliáng de Nánhǎi xiǎoyúcūn, zài gǎigé-kāifàng de hàodàng chūnfēng zhōng huàzuò le gāolóu-línlì, chōngmǎn chuàngxīn huólì de xiàndàihuà guójì dàdūshì. Shùyǐwànjì huáichuāi mèngxiǎng de fèndǒuzhě huìjù yúcǐ, pǔxiě chū zhènhàn-rénxīn de shídài qíjì. | In several years, a once-barren fishing hamlet transformed into a towering modern metropolis under reform winds. Tens of thousands of dreamers gathered here, composing a moving miracle of the era. | En unos cuantos decenios, una modesta aldea pesquera se convirtió en una deslumbrante metrópoli cosmopolita. Decenas de miles de soñadores forjaron aquí un milagro contemporáneo sin parangón.
+  #2 | 面对突如其来的全球供应链断裂危机，企业研发团队在数月时间内夜以继日连续攻关。他们试验了数百种替代原材料与数十套算法架构，终于彻底突破卡脖子技术瓶颈，确保了关键设备生产线的平稳运转。 | Miànduì tūrúqílái de quánqiú gōngyìngliàn duànliè wēijī, qǐyè yánfā tuánduì zài shù yuè shíjiān nèi yèyǐjìrì liánxù gōngjiān. Tāmen shìyàn le shùbǎi zhǒng tìdài yuáncáiliào yǔ shùshí tào suànfǎ jiàgòu, zhōngyú chèdǐ tūpò qiǎbózi jìshù píngjǐng, quèbǎo le guānjiàn shèbèi shēngchǎnxiàn de píngwěn yùnzhuǎn. | Facing global supply chain disruptions, the R&D team worked day and night over several months. Testing hundreds of materials and dozens of algorithms, they broke technological bottlenecks to secure production. | Ante la rotura de suministros mundiales, ingenieros investigaron día y noche durante varios meses. Ensayando cientos de materiales y decenas de algoritmos, vencieron el cuello de botella garantizando la producción.

@@ -1,0 +1,64 @@
+id: 38
+hanzi: 销售
+pinyin: xiāo shòu
+level: HSK 5
+part_of_speech: Verb / Noun
+
+meanings_summary:
+  en: to sell; market; sales; commercial merchandising
+  es: vender; comercializar; ventas; expedición y enajenación de mercancías
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to market, sell, and distribute goods or commercial services to buyers in exchange for money | poner a la venta, traspasar y despachar mercancías o servicios a compradores a cambio de un precio | 销售产品 (sell / market products)
+  2 | Noun | Standard | the department, volume, or business operations concerning commercial selling and distribution | el departamento, volumen o actividad general concerniente a las transacciones de venta | 销售总额 (total sales volume / gross sales)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信通过打通移动社交生态与线上电子商务闭环，有力推动了中小商家海外销售额的翻倍增长。 | Wēixìn tōngguò dǎtōng yídòng shèjiāo shēngtài yǔ xiànshàng diànzǐ shāngwù bìhuán, yǒulì tuīdòngle zhōng-xiǎo shāngjiā hǎiwài xiāoshòu'é de fānbèi zēngzhǎng. | By connecting mobile social ecosystems with closed-loop online e-commerce, WeChat vigorously boosted the doubling of overseas sales for small merchants. | Al integrar redes móviles y comercio electrónico, WeChat impulsó una duplicación en las ventas exteriores de pequeños comerciantes.
+  #2 | 由于产品外观设计新颖且性价比极高，这款智能手机在海外市场上市首周便打破了历史销售纪录。 | Yóuyú chǎnpǐn wàiguān shèjì xīnyǐng qiě xìngjiàbǐ jí gāo, zhè kuǎn zhìnéng shǒujī zài hǎiwài shìchǎng shàngshì shǒuzhōu biàn dǎpòle lìshǐ xiāoshòu jìlù. | Because of its novel exterior design and superb cost-performance ratio, this smartphone shattered historical sales records during its debut week overseas. | Gracias a su diseño vanguardista y su magnífica relación calidad-precio, este móvil pulverizó marcas de ventas en su debut internacional.
+
+collocations[6]{hanzi,en}:
+  销售额 | sales volume / revenue
+  销售渠道 | sales channels / distribution channels
+  销售人员 | sales personnel / salespeople
+  直销 | direct sales
+  促销活动 | sales promotion campaign
+  销售网络 | sales network / distribution grid
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  畅销不衰 | chàng xiāo bù shuāi | sell briskly without flagging; enduring bestseller
+  供不应求 | gōng bù yìng qiú | demand exceeds supply; sold out immediately
+  买卖兴隆 | mǎi mài xīng lóng | brisk and prosperous buying and selling
+  门庭若市 | mén tíng ruò shì | courtyard bustling like a crowded market with customers
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  销 | xiāo | melt metal; cancel; disperse; sell | fundir metal; cancelar; disipar; vender; despachar | 钅 | metal / gold | 钅 (precious metal / bronze coins) + 肖 (resemble / small particles) | 肖 (xiào, small / phonetic nuance xiāo) | 12 | 左右结构 | Melting metal 钅 in a foundry so it flows away like small particles 肖; extended to goods melting away briskly in trade like flowing coins. | Melting shining bronze metal (钅) down into flowing currency that circulates in trade (销). | Fundir metal brillante (钅) en moneda fluyente que circula con agilidad en el mercado (销). | 55 | CFB | 銷
+  售 | shòu | sell; market; dispose of goods | vender; enajenar; despachar; expender | 口 | mouth | 隹 (short-tailed bird / valuable pheasant) + 口 (mouth bargaining in marketplace) | Archaic phonetic nuance | 11 | 上下结构 | Holding up a prized captured bird 隹 in the market and using one's mouth 口 to bargain prices; selling merchandise. | Holding up a rare bird (隹) while crying out with a lively mouth (口) to sell to customers (售). | Alzar una preciada ave (隹) pregonando a viva voz (口) para cerrar la venta (售). | 51 | OGR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Flowing metal coins briskly in trade (销) while shouting prices in the market (售) is selling goods (销售).
+  composite_memory_hook_es: Hacer circular monedas de metal (销) mientras se vocea el género en la plaza (售) es vender (销售).
+  cultural_and_cognitive_roots: Metaphorical blend: goods flying off shelves so fast they seem to dissolve like melted gold (销) matched with bargaining at trading posts (售).
+  tone_sandhi_and_pitch_modulation: First tone followed by fourth tone: 'xiāo shòu' (55-51). Hold high pitch 55, then execute a sharp decisive fall to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    消 | xiāo | disappear; eliminate | Has water radical 氵 on left instead of metal 钅 in 销
+    硝 | xiāo | saltpeter | Has stone radical 石 on left of 肖
+    焦 | jiāo | burnt; anxious | Has four dots 灬 at bottom of 隹 instead of 口 in 售
+    集 | jí | gather; collect | Has tree radical 木 at bottom of 隹
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    卖 | mài | sell; betray
+    货 | huò | goods; merchandise
+    商 | shāng | commerce; trade
+    贸 | mào | trade; barter
+
+semantic_boundary_contrasts:
+  core_nuance: 销售 emphasizes the formal, structured business operations, channels, and transactions of selling products or services.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 销售 vs. 卖 | mài | 卖 is colloquial and everyday for any act of selling ('卖苹果', '卖菜'), while 销售 is a formal commercial term used for corporate distribution, sales volume, and marketing strategy.
+    2 | 销售 vs. 营销 | yíngxiāo | 营销 (marketing) encompasses market research, brand building, pricing strategy, and promotional positioning, whereas 销售 focuses on the transaction and distribution execution.
+    3 | 销售 vs. 倾销 | qīngxiāo | 倾销 specifically denotes predatory trade dumping at below-market costs abroad, while 销售 is standard commercial trade.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着全球数字贸易的迅猛崛起，跨国跨境电商平台正在深刻重塑传统外贸销售格局。借助海外前置智能仓储与高效的航空冷链物流网络，过去需要数周乃至数月的跨洋商品销售配送，如今在几天之内即可顺利送达消费者手中。 | Suízhe quánqiú shùzì màoyì de xùnměng juéqǐ, kuàguó kuàjìng diànshāng píngtái zhèng shēnkè zhòngsù chuántǒng wàimào xiāoshòu gégú. Jièzhù hǎiwài qiánzhì zhìnéng cāngchǔ yǔ gāoxiào de hángkōng lěngliàn wùliú wǎngluò, guòqù xūyào shù zhōu nǎizhì shù yuè de kuàyáng shāngpǐn xiāoshòu pèisòng, rújīn zài jǐ tiān zhīnèi jíkě shùnlì sòngdá xiāofèizhě shǒuzhōng. | With the rise of digital trade, cross-border e-commerce platforms are restructuring foreign trade sales patterns. Leveraging overseas smart warehouses and cold-chain logistics, transoceanic deliveries that once took months now arrive within days. | Con el comercio digital en alza, las plataformas transfronterizas reconfiguran las ventas exteriores. Apoyándose en almacenes inteligentes y transporte aéreo frigorífico, envíos que antes tardaban meses se entregan hoy en pocos días.
+  #2 | 新能源汽车制造厂商通过在各大都市核心商圈开设直营体验中心，打破了传统经销商中介销售模式。消费者不仅能在优雅舒适的环境中零距离体验前沿智能座舱科技，还能通过手机软件自主定制配置并一键下单，开创了透明高效的直销新生态。 | Xīnnéngyuán qìchē zhìzào chǎngshāng tōngguò zài gè dà dūshì héxīn shāngquān kāishè zhíyíng tǐyàn zhōngxīn, dǎpòle chuántǒng jīngxiāoshāng zhōngjiè xiāoshòu móshì. Xiāofèizhě bùjǐn néng zài yōuyǎ shūshì de huánjìng zhōng língjùlí tǐyàn qiányán zhìnéng zuòcāng kējì, hái néng tōngguò shǒujī ruǎnjiàn zìzhǔ dìngzhì pèizhì bìng yíjiàn xiàdān, kāichuàngle tòumíng gāoxiào de zhíxiāo xīn shēngtài. | Automakers establish direct experience stores in urban shopping hubs, disrupting traditional dealership models. Consumers experience smart cockpit tech up close, customizing features and ordering via apps in a transparent direct-sales ecosystem. | Los fabricantes de vehículos eléctricos abren centros de experiencia en zonas comerciales clave rompiendo con concesionarios tradicionales. Los usuarios prueban la tecnología del habitáculo y configuran su compra desde el móvil con total transparencia.

@@ -1,0 +1,63 @@
+id: 21
+hanzi: 称霸
+pinyin: chēng bà
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to dominate; reign supreme; hold hegemony; lord it over
+  es: dominar; erigirse en potencia hegemónica; imponer supremacía; reinar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to dominate, rule supreme, or exert undisputed hegemony in a commercial, political, or sporting arena | ejercer hegemonía o dominio indiscutible en el terreno comercial, político o deportivo | 称霸市场 (dominate the market)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在群雄逐鹿的国际移动社交市场上，传统西方应用长期称霸的格局正受到新兴创新力量的强力挑战。 | Zài qúnxióng-zhùlù de guójì yídòng shèjiāo shìchǎng shàng, chuántǒng xīfāng yìngyòng chángqī chēngbà de gégú zhèng shòudào xīnxīng chuàngxīn lìliang de qiánglì tiǎozhàn. | In the fiercely contested international mobile social market, the long-term dominance of traditional Western apps is being strongly challenged by emerging innovators. | En el reñido mercado global de redes móviles, la hegemonía histórica de las apps occidentales afronta el pujante reto de nuevos rivales.
+  #2 | 这家老牌足球豪门在过去十几年间多次称霸欧洲冠军联赛，铸就了一段辉煌夺目的王朝传奇。 | Zhè jiā lǎopái zúqiú háomén zài guòqù shí jǐ nián jiān duō cì chēngbà Ōuzhōu Guānjùn Liánsài, zhùjiùle yī duàn huīhuáng duómù de wángcháo chuánqí. | This storied football powerhouse dominated the UEFA Champions League multiple times over the past decade, forging a glorious dynasty legend. | Este histórico coloso del fútbol reinó en varias ediciones de la Liga de Campeones en la última década, forjando una dinastía legendaria.
+
+collocations[6]{hanzi,en}:
+  称霸世界 | dominate the world; achieve world hegemony
+  称霸市场 | dominate the market
+  称霸一方 | hold sway over a whole region
+  企图称霸 | attempt to seek hegemony
+  难以称霸 | hard to dominate
+  长期称霸 | dominate for a long time
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  称霸一方 | chēng bà yī fāng | hold undisputed sway over a region; local despot
+  独霸天下 | dú bà tiān xià | monopolize supreme power over all under heaven
+  争霸天下 | zhēng bà tiān xià | contend for hegemony over the whole realm
+  横行霸道 | héng xíng bà dào | tyrannize and ride roughshod over everyone
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  称 | chēng | call; praise; weigh; claim | llamar; proclamar; elogiar; pesar; atribuirse | 禾 | grain | 禾 (grain harvest on scale) + 爯 (hand lifting balance scale weight) | 爯 (chēng, balance / phonetic) | 10 | 左右结构 | A hand lifting a steelyard scale 爯 to balance and weigh grain 禾; extended to evaluating, calling, claiming, or proclaiming titles. | Holding up a scale to weigh harvested grain (禾) fairly determines and claims title (称). | Alzar una balanza para calibrar el grano cosechado (禾) y proclamar su justo rango (称). | 55 | HDFB | 稱
+  霸 | bà | hegemon; overlord; tyrant; dominate | hegemón; señor feudal supremo; tirano; dominar | 雨 | rain | 雨 (clouds/rain pouring down) + 革/月 (moonlight crescent / leather force) | Archaic phonetic nuance in 覇 | 21 | 上下结构 | Originally the emerging white glow of the new moon beneath rain clouds; extended in the Spring and Autumn period to feudal warlords who held supreme military hegemony (五霸). | Thunderclouds of rain (雨) gathering over a defiant warrior wielding supreme warlord might (霸). | Nubarrone de lluvia (雨) bajo los que se alza un caudillo marcial que impone su supremacía (霸). | 51 | MBUB | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Proclaiming titles on the scales (称) backed by undisputed warlord hegemony (霸) is dominating the realm (称霸).
+  composite_memory_hook_es: Proclamarse con orgullo (称) señor hegemónico supremo (霸) es dominar o reinar (称霸).
+  cultural_and_cognitive_roots: Originates from the Spring and Autumn Period (春秋五霸): powerful dukes who subdued all other feudal lords through formidable military alliances and supreme power.
+  tone_sandhi_and_pitch_modulation: First tone followed by fourth tone: 'chēng bà' (55-51). Hold high pitch 55, then execute a sharp decisive fall to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    秤 | chèng | steelyard balance | Has 平 on right of 禾 instead of 尔 in simplified 称
+    积 | jī | accumulate | Has 只 on right of 禾
+    霞 | xiá | sunset clouds | Has 叚 under rain 雨 instead of 䩗 in 霸
+    霜 | shuāng | frost | Has 相 under rain 雨
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    统 | tǒng | unify; govern
+    主 | zhǔ | master; lord
+    雄 | xióng | hero; powerful entity
+    王 | wáng | king; rule
+
+semantic_boundary_contrasts:
+  core_nuance: 称霸 emphasizes asserting overwhelming, undisputed hegemony or monopoly over rivals in an industry, market, or athletic arena.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 称霸 vs. 垄断 | lǒngduàn | 垄断 is an economic legal term for market monopoly cornering supply/pricing, while 称霸 highlights triumphant supremacy, athletic reign, or military dominance.
+    2 | 称霸 vs. 领先 | lǐngxiān | 领先 simply means being in the lead in score, speed, or tech ('技术领先'), without necessarily subjugating or overpowering all rivals.
+    3 | 称霸 vs. 称雄 | chēngxióng | 称雄 is more literary and positive, praising heroic eminence and prowess, while 称霸 can carry overtones of aggressive overbearing hegemony.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在当今高科技半导体产业竞争中，没有任何一家跨国巨头能够凭借昔日的专利壁垒永远称霸市场。随着新兴经济体在先进制程与材料科学领域的全力追赶，全球芯片产业链正迎来前所未有的多元重构时代。 | Zài dāngjīn gāokējì bàndǎotǐ chǎnyè jìngzhēng zhōng, méiyǒu rènhé yī jiā kuàguó jùtóu nénggòu píngjiè xīrì de zhuānlì bìlěi yǒngyuǎn chēngbà shìchǎng. Suízhe xīnxīng jīngjìtǐ zài xiānjìn zhìchéng yǔ cáiliào kēxué lǐngyù de quánlì zhuīgǎn, quánqiú xīnpiàn chǎnyèliàn zhèng yínglái qiánsuǒwèiyǒu de duōyuán chónggòu shídài. | In semiconductor competition, no multinational giant can dominate the market forever relying on legacy patent barriers. As emerging economies catch up in advanced fabrication, the global chip chain enters a diverse era of restructuring. | En la pugna de semiconductores, ningún titán domina el mercado para siempre amparado en viejas patentes. Con economías emergentes recortando distancias en nanotecnología, la cadena de microchips se diversifica como nunca.
+  #2 | 中国女子乒乓球队在国际体坛长期称霸数十载，凭借的是科学严谨的选拔梯队、日复一日的高强度体能磨砺以及永不言败的坚韧斗志。面对世界各国顶尖高手的轮番冲击，女乒健儿始终临危不乱，用沉甸甸的金牌捍卫了王者荣耀。 | Zhōngguó nǚzǐ pīngpāngqiú duì zài guójì tǐtán chángqī chēngbà shùshí zǎi, píngjiè de shì kēxué yánjǐn de xuǎnbá tīduì, rìfùyīrì de gāoxiàngdù tǐnéng mólì yǐjí yǒngbùyánbài de jiānrèn dòuzhì. Miànduì shìjiè gè guó dǐngjiān gāoshǒu de lúnfān chōngjī, nǚpīng jiàn'ér shǐzhōng línwéi-búlùan, yòng chéndiāndiān de jīnpái hànwèile wángzhě róngyào. | The Chinese women's table tennis team has dominated international sports for decades, relying on scientific selection, grueling training, and an indomitable spirit. Facing global challengers, players remain calm, defending glory with gold medals. | El equipo femenino chino de tenis de mesa reina en el deporte mundial desde hace décadas gracias a su rigurosa cantera, disciplina espartana y espíritu indómito. Ante rivales internacionales, las jugadoras defienden su hegemonía con oro.

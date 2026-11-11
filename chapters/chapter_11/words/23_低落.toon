@@ -1,0 +1,63 @@
+id: 23
+hanzi: 低落
+pinyin: dī luò
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: downcast; depressed; low (spirits/morale); slumped
+  es: decaído; abatido; deprimido; bajo (ánimo, moral)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | low, depressed, slumped, or sinking (of mood, morale, spirits, or tide) | decaído, abatido o en declive (dicho del ánimo, moral o nivel de las aguas) | 情绪低落 (downcast in mood)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这次全国选拔赛痛失冠军后，他连续好几天情绪低落，一个人躲在房间里闭门不出。 | Zhè cì quánguó xuǎnbásài tòngshī guànjūn hòu, tā liánxù hǎojǐ tiān qíngxù dīluò, yí ge rén duǒ zài fángjiān lǐ bìmén-bùchū. | After painfully missing the championship in this national trial, he remained in low spirits for days, hiding alone behind closed doors. | Tras perder el campeonato nacional por la mínima, anduvo abatido varios días encerrado a solas en su cuarto sin ver a nadie.
+  #2 | 部队遭遇强敌阻击受挫，指挥官发表了慷慨激昂的动员讲话，彻底扭转了士气低落的被动局面。 | Bùduì zāoyù qiángdí zǔjī shòucuò, zhǐhuīguān fābiǎo le kāngkǎi-jī'áng de dòngyuán jiǎnghuà, chèdǐ niǔzhuǎn le shìqì dīluò de bèidòng júmiàn. | Suffering setbacks against strong enemy ambushes, the commander delivered an impassioned rousing speech, reversing the low morale. | Ante el repliegue por el fuego enemigo, la vibrante arenga del comandante levantó la alicaída moral de la tropa trocando el rumbo del combate.
+
+collocations[6]{hanzi,en}:
+  情绪低落 | depressed mood / low spirits
+  士气低落 | low morale
+  神情低落 | downcast expression
+  情绪非常低落 | extremely despondent
+  走出低落 | step out of depression/slump
+  潮水低落 | ebb tide / low water level
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  垂头丧气 | chuí tóu sàng qì | hang one's head in dejection; crestfallen
+  闷闷不乐 | mèn mèn bú lè | gloomy and sullen; out of sorts
+  灰心丧气 | huī xīn sàng qì | lose heart and despondent; disheartened
+  振作精神 | zhèn zuò jīng shén | pull oneself together; summon up one's spirits
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  低 | dī | low; beneath; hang down; inferior | bajo; inferior; agachar; descender | 亻 | person | 亻 (person bowing) + 氐 (bottom / foundation) | 氐 (dǐ, base / phonetic) | 7 | 左右结构 | A person 亻 bowing low down to the ground or foundation 氐; signifies low height, drooping head, or modest depth. | A standing person (亻) bows down low to the soil baseline (氐), hanging the head (低). | Una persona (亻) agacha la cabeza humilde hacia la base del suelo (氐) inclinándose baja (低). | 55 | OHYPM | ""
+  落 | luò | fall; drop; descend; decline; settlement | caer; descender; declinar; aldea | 艹 | grass / plant | 艹 (leaves/foliage) + 洛 (water swirling down) | 洛 (luò, water river / phonetic) | 12 | 上下结构 | Autumn leaves 艹 falling drifting down upon swirling waters 洛; signifies descending, falling, or dropping low. | Withered autumn leaves (艹) swirl downward on flowing river water (洛), falling low (落). | Hojas marchitas de otoño (艹) flotan descendiendo por el agua del río (洛), cayendo al suelo (落). | 51 | TEHR | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Bowing low (低) like withered autumn leaves falling to earth (落) portrays downcast spirits (低落).
+  composite_memory_hook_es: Inclinarse bajo (低) como hojas de otoño cayendo a tierra (落) retrata el abatimiento (低落).
+  cultural_and_cognitive_roots: Spatial elevation metaphor (Lakoff & Johnson: happy is up, sad is down); dropping down from high vitality into a despondent trough.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling fourth tone: 'dī luò' (55-51). Hold high pitch 55 on 'dī', then plunge down sharply on 'luò'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    底 | dǐ | bottom; foundation | Has shelter radical 广 enclosing 氐 instead of person 亻 in 低
+    抵 | dǐ | resist;抵押 mortgage | Has hand radical 扌 on left of 氐
+    满 | mǎn | full | Has water radical 氵 on left of 艹 and 两
+    暮 | mù | dusk | Has 日 underneath 艹 and 大
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    沉 | chén | sink into water deep
+    降 | jiàng | descend from steep hill
+    下 | xià | below; downwards
+    垂 | chuí | droop down heavy
+
+semantic_boundary_contrasts:
+  core_nuance: 低落 specifically modifies psychological moods or collective morale sinking into a disheartened trough.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 低落 vs. 沮丧 | jǔsàng | 沮丧 emphasizes acute disappointment, frustration, and wounded self-esteem following a setback, while 低落 is quiet, passive emotional flatness.
+    2 | 低落 vs. 低沉 | dīchén | 低沉 modifies acoustic voice pitch (deep, muffled voice: '声音低沉') or dark gloomy weather, while 低落 modifies mood and morale.
+    3 | 低落 vs. 悲伤 | bēishāng | 悲伤 refers to sharp sorrow, weeping, and grief over loss, while 低落 is low energy and apathy.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 人生的旅途中总会经历潮起潮落，遭遇挫折时情绪低落是极其正常的生理应激反应。关键在于不要长期沉溺于自我怀疑的消极泥潭中，应当多与良师益友交流倾诉，在温暖关爱中重燃对美好生活的信心与热爱。 | Rénshēng de lǚtú zhōng zǒng huì jīnglì cháoqǐ-cháoluò, zāoyù cuòzhé shí qíngxù dīluò shì jíqí zhèngcháng de shēnglǐ yìngjī fǎnyìng. Guānjiàn zàiyú búyào chángqī chénnì yú zìwǒ huáiyí de xiāojí nítán zhōng, yīngdāng duō yǔ liángshī-yìyǒu jiāoliú qīngsù, zài wēnnuǎn guān'ài zhōng chóngrán duì měihǎo shēnghuó de xìnxīn yǔ rè'ài. | In life's journey, tides ebb and flow; low moods after setbacks are normal stress reactions. The key is avoiding prolonged self-doubt, confiding in mentors and friends to rekindle confidence and love for life. | La vida conoce pleamares y bajamares; decaerse ante reveses es una respuesta humana natural. Lo crucial es no encallarse en la apatía, desahogándose con leales amigos para avivar la confianza en el porvenir.
+  #2 | 医学临床调查显示，慢性失眠患者由于夜间缺乏深度脑部休息，白天更容易陷入情绪低落与注意力涣散的恶性循环。保证规律作息、适当接受日光照射，能够有效促进大脑分泌多巴胺与血清素，驱散心灵阴霾。 | Yīxué línchuáng diàochá xiǎnshì, mànxìng shīmián huànzhě yóuyú yèjiān quēfá shēndù nǎobù xiūxi, báitiān gèng róngyì xiànrù qíngxù dīluò yǔ zhùyìlì huànsàn de èxìng xúnhuán. Bǎozhèng guīlǜ zuòxī, shìdàng jiēshòu rìguāng zhàoshè, nénggòu yǒuxiào cùjìn dànǎo fēnmì duōbā'àn yǔ xuèqīngsù, qūsàn xīnlíng yīnmái. | Clinical surveys show chronic insomniacs, lacking deep brain rest at night, easily fall into cycles of low spirits and distraction. Maintaining regular routines and soaking in sunlight stimulates dopamine to dispel gloom. | Estudios clínicos revelan que el insomnio crónico aboca de día a un círculo vicioso de desánimo y dispersión. Guardar horarios regulares y tomar el sol estimula la serotonina, disipando la bruma anímica.

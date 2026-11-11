@@ -1,0 +1,63 @@
+id: 9
+hanzi: 推广
+pinyin: tuī guǎng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to popularize; spread; promote; expand the adoption of
+  es: popularizar; generalizar; difundir; promover; extender el uso de
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to spread, expand, and popularize a method, technology, product, or experience so that it becomes widely adopted across broader areas | difundir y extender el empleo o conocimiento de una técnica, experiencia, producto o idea para que se generalice ampliamente | 推广新技术 (popularize / spread new technology)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信团队通过与多国本地知名电信运营商展开深度合作，在海外市场全力推广其移动社交平台。 | Wēixìn tuánduì tōngguò yǔ duō guó běndì zhīmíng diànxìn yùnyíngshāng zhǎnkāi shēndù hézuò, zài hǎiwài shìchǎng quánlì tuīguǎng qí yídòng shèjiāo píngtái. | Through deep cooperation with prominent local telecom carriers in multiple countries, the WeChat team fully promoted its mobile social platform overseas. | Colaborando estrechamente con operadoras de telecomunicaciones de varios países, el equipo de WeChat promocionó su red social móvil en el exterior.
+  #2 | 农业科技专家在西部干旱地区大力推广节水滴灌技术，帮助当地农民大幅提升了粮食产量。 | Nóngyè kējì zhuānjiā zài xībù gānhàn dìqū dàlì tuīguǎng jiéshuǐ dīguàn jìshù, bāngzhù dāngdì nóngmín dàfú tíshēngle liángshi chǎnliàng. | Agricultural science experts vigorously popularized water-saving drip irrigation in arid western regions, helping local farmers boost grain yields. | Expertos agrónomos promovieron el riego por goteo en zonas áridas del oeste, ayudando a los agricultores a elevar sustancialmente sus cosechas.
+
+collocations[6]{hanzi,en}:
+  大力推广 | vigorously promote / popularize
+  推广应用 | popularize the application of
+  市场推广 | market promotion / marketing
+  推广经验 | disseminate experience
+  广泛推广 | widely popularize
+  推广普通话 | popularize Putonghua (Standard Mandarin)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  推陈出新 | tuī chén chū xīn | weed through the old to bring forth the new
+  广种薄收 | guǎng zhòng bó shōu | sow widely but reap meagerly
+  推波助澜 | tuī bō zhù lán | push the waves and add to the billows; instigate
+  广结良缘 | guǎng jié liáng yuán | form widespread ties of goodwill
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  推 | tuī | push; shove; advance; elect; postpone | empujar; impulsar; promover; postergar | 扌 | hand | 扌 (hand pushing forward) + 隹 (short-tailed bird moving ahead) | 隹 (zhuī, bird / phonetic nuance) | 11 | 左右结构 | A hand 扌 pushing a bird 隹 forward to make it take flight; represents exerting force to propel, promote, or recommend. | A hand (扌) gently pushing a bird (隹) to take wing into the open air pushes forward (推). | Una mano (扌) que impulsa suavemente a un ave (隹) a alzar el vuelo propulsa y empuja (推). | 55 | QOG | ""
+  广 | guǎng | wide; broad; vast; spread out | amplio; ancho; vasto; extender; difundir | 广 | shelter / hall open on side | A spacious hillside building or hall with wide open sides | Archaic phonetic guǎng | 3 | 单一结构 | A wide sheltered building built against a cliff face with an open unobstructed expanse; denotes breadth, width, and spaciousness. | A vast mountain pavilion roof (广) sheltering an expansive open ground. | El alero de un vasto pabellón de montaña (广) que cubre una explanada sin límites. | 214 | I | 廣
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pushing an innovation with one's hand (推) across a vast and wide open realm (广) is popularizing and promoting it (推广).
+  composite_memory_hook_es: Empujar e impulsar con la mano (推) a lo largo de un vasto territorio (广) es difundir y popularizar (推广).
+  cultural_and_cognitive_roots: Used historically in agronomic treatises (如《齐民要术》): taking successful cultivation experiments in one village and pushing them wide (推广) across all prefectures.
+  tone_sandhi_and_pitch_modulation: First tone followed by third tone: 'tuī guǎng' (55-214). High level 55 followed by full dipping third tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    准 | zhǔn | standard; accurate | Has water 冫 on left of 隹 instead of hand 扌 in 推
+    堆 | duī | pile; heap | Has earth radical 土 on left of 隹
+    厂 | chǎng | factory; mill | Lacks the top dot stroke of 广
+    矿 | kuàng | mine; ore | Has stone radical 石 on left of 广
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    扩 | kuò | expand; enlarge
+    延 | yán | extend; prolong
+    展 | zhǎn | unfold; display
+    宣 | xuān | proclaim; spread
+
+semantic_boundary_contrasts:
+  core_nuance: 推广 emphasizes expanding the practical application, usage base, or territory of a product, technology, or successful method.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 推广 vs. 宣传 | xuānchuán | 宣传 focuses on informational publicity and perceptual persuasion, while 推广 focuses on actual user adoption, distribution, and operational implementation.
+    2 | 推广 vs. 普及 | pǔjí | 普及 describes the resulting state of something becoming ubiquitous and universally known among the masses, while 推广 is the active process to achieve it.
+    3 | 推广 vs. 拓宽 | tuòkuān | 拓宽 applies to physically widening roads or abstractly broadening channels/horizons ('拓宽思路'), whereas 推广 refers to spreading methods and products.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着全球对绿色低碳理念的普遍重视，新能源汽车的推广普及工作在世界各大都市全面提速。各地政府通过完善公共充电桩基础设施、出台购车补贴与税收优惠政策，有力推动了绿色出行方式走进寻常百姓家。 | Suízhe quánqiú duì lǜsè dītàn lǐniàn de pǔbiàn zhòngshì, xīnnéngyuán qìchē de tuīguǎng pǔjí gōngzuò zài shìjiè gè dà dūshì quánmiàn tísù. Gèdì zhèngfǔ tōngguò wánshàn gōnggòng chōngdiànzhuāng jīchǔ shèshī, chūtái gòuchē bǔtiē yǔ shuìshōu yōuhuì zhèngcè, yǒulì tuīdòngle lǜsè chūxíng fāngshì zǒujìn xúncháng bǎixìng jiā. | With global emphasis on low-carbon ideals, promotion of new energy vehicles has accelerated worldwide. Governments expand charging piles and offer tax credits, propelling green commuting into everyday households. | Con el énfasis en la sostenibilidad, la promoción de vehículos eléctricos se acelera en las urbes. Al instalar puntos de carga y conceder exenciones fiscales, los gobiernos acercan el transporte ecológico a la ciudadanía.
+  #2 | 中国在脱贫攻坚与乡村振兴中总结出的一系列行之有效的发展模式，正通过联合国南南合作机制向广大发展中国家积极推广。从菌草种植到杂交水稻选育，这些因地制宜的农业技术为全球消除饥饿与贫困贡献了东方智慧。 | Zhōngguó zài tuōpín-gōngjiān yǔ xiāngcūn zhènxīng zhōng zǒngjié chū de yī xìliè xíngzhī-yǒuxiào de fāzhǎn móshì, zhèng tōngguò Liánhéguó Nán-Nán hézuò jīzhì xiàng guǎngdà fāzhǎnzhōng guójiā jījí tuīguǎng. Cóng jùncǎo zhòngzhí dào zájiāo shuǐdào xuǎnyù, zhèxiē yīndì-zhìyí de nóngyè jìshù wèi quánqiú xiāochú jī'è yǔ pínkùn gòngxiànle dōngfāng zhìhuì. | Effective rural revitalisation models developed in China are actively promoted to developing countries through UN South-South cooperation. From Juncao cultivation to hybrid rice, these adaptive technologies offer wisdom in ending hunger. | Los modelos de desarrollo rural cosechados en China se promueven activamente en países en desarrollo mediante la ONU. Del cultivo de hierba Juncao al arroz híbrido, estas técnicas agrícolas aportan sabiduría contra el hambre.

@@ -1,0 +1,63 @@
+id: 27
+hanzi: 持续
+pinyin: chí xù
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to continue; to persist; to last; continuous; sustained
+  es: continuar; durar; prolongarse; persistir; sostenido
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to extend without interruption or cessation over a period of time; to sustain | mantenerse, prolongarse o proseguir sin interrupción en el tiempo; perdurar | 持续发展 (sustainable development)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 连日来南方地区持续出现高温酷暑天气，多地最高气温突破了历史观测极值。 | Liánrì lái nánfāng dìqū chíxù chūxiàn gāowēn kùshǔ tiānqì, duō dì zuìgāo qìwēn tūpò le lìshǐ guāncè jízhí. | Over recent days, southern regions have experienced continuous scorching heat, with record temperatures shattered in multiple locations. | En los últimos días el sur del país ha padecido una persistente ola de calor tórrido, batiéndose récords históricos de temperatura en varias provincias.
+  #2 | 只有坚持走绿色低碳的可持续发展道路，才能为子孙后代留下天蓝地绿水清的美丽家园。 | Zhǐyào jiānchí zǒu lǜsè dītàn de kěchíxù fāzhǎn dàolù, cáinéng wèi zǐsūn-hòudài liúxià tiānlán-dìlǜ-shuǐqīng de měilì jiāyuán. | Only by adhering to green, low-carbon sustainable development can we bequeath a homeland with blue skies, green earth, and clear waters to posterity. | Solo perseverando en una senda ecológica de desarrollo sostenible legaremos a las generaciones venideras un hogar de cielos limpios y aguas diáfanas.
+
+collocations[6]{hanzi,en}:
+  持续发展 | sustainable development
+  可持续 | sustainable
+  持续增长 | sustained growth
+  持续时间 | duration; duration time
+  持续进行 | continue ongoing
+  持续高温 | persistent high temperatures
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  持之以恒 | chí zhī yǐ héng | persevere relentlessly; persist constantly with constancy
+  连绵不断 | lián mián bú duàn | continuous without break; unbroken stretch
+  经久不衰 | jīng jiǔ bù shuāi | endure long without declining; unfailing vigor
+  源源不断 | yuán yuán bú duàn | steady and continuous flow like a spring
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  持 | chí | hold; grasp; support; maintain; persist | sostener; agarrar; mantener; perseverar | 扌 | hand | 扌 (hand holding firmly) + 寺 (temple court / measure rule) | 寺 (sì, temple / phonetic origin) | 9 | 左右结构 | A hand 扌 upholding temple law and justice 寺; signifies firmly grasping, holding, maintaining, and supporting. | A steady hand (扌) holds firm to temple principles (寺), upholding constancy (持). | Una mano firme (扌) sostiene las leyes del templo (寺) perseverando sin desmayo (持). | 35 | QGDI | ""
+  续 | xù | continue; join; extend; succession | continuar; empalmar; enlazar; suceder | 纟 | silk | 纟 (silk thread) + 卖 (sell / continuous exchange) | 卖 (mài / phonetic) | 11 | 左右结构 | Tying new silk thread ends 纟 onto depleted skeins to keep weaving continuously; represents joining, continuing, and prolonging. | A weaver splices new silk strands (纟) into the loom (卖) to continue uninterrupted (续). | El tejedor empalma nuevas hebras de seda (纟) en el telar (卖) para hilar sin corte (续). | 51 | VMJDC | 續
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Holding firmly in hand (持) and splicing continuous threads (续) maintains sustained duration (持续).
+  composite_memory_hook_es: Sostener firme en la mano (持) y empalmar hebras sin fin (续) mantiene la continuidad (持续).
+  cultural_and_cognitive_roots: Textile weaving metaphor: splicing silk filament ends (续丝) to maintain ceaseless cloth production; applied modernly to ecological sustainability (可持续发展).
+  tone_sandhi_and_pitch_modulation: Rising second tone followed by falling fourth tone: 'chí xù' (35-51). Rise smoothly on 'chí', then descend firmly on 'xù'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    特 | tè | special | Has cow radical 牜 on left of 寺 instead of hand 扌 in 持
+    待 | dài | wait; treat | Has step radical 彳 on left of 寺
+    读 | dú | read | Has speech radical 讠 on left of 卖 instead of silk 纟 in 续
+    渎 | dú | ditch; blaspheme | Has water radical 氵 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    继 | jì | inherit; join silk fibers
+    连 | lián | chariots connected in line
+    久 | jiǔ | long duration of time
+    恒 | héng | constant moon; persistent
+
+semantic_boundary_contrasts:
+  core_nuance: 持续 emphasizes unbroken, sustained temporal progression or economic stability across an uninterrupted duration.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 持续 vs. 继续 | jìxù | 继续 focuses on resuming an action after an interruption or progressing to the next step ('休息后继续干'), while 持续 means uninterrupted sustaining over a time span ('持续高温三周').
+    2 | 持续 vs. 连续 | liánxù | 连续 emphasizes discrete instances repeated one after another without gap ('连续打了五个电话'), while 持续 modifies continuous ongoing states.
+    3 | 持续 vs. 保持 | bǎochí | 保持 is a transitive verb meaning to maintain a state or record ('保持整洁'), while 持续 emphasizes the natural duration itself.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国作为全球第二大经济体，近年来坚定不移践行新发展理念，大力推动经济社会绿色低碳转型。通过持续加大风电、光伏等清洁能源投资布局，不仅实现了能源结构的优化升级，更为全球应对气候变化注入了强大的可持续动能。 | Zhōngguó zuòwéi quánqiú dì-èr dà jīngjìtǐ, jìnniánlái jiāndìng-bùyí jiànxíng xīn fāzhǎn lǐniàn, dàlì tuīdòng jīngjì shèhuì lǜsè dītàn zhuǎnxíng. Tōngguò chíxù jiàdà fēngdiàn, guāngfú děng qīngjié néngyuán tóuzī bùjú, bùjǐn shíxiàn le néngyuán jiégòu de yōuhuà shēngjí, gèng wèi quánqiú yìngduì qìhòu biànhuà zhùrù le qiángdà de kěchíxù dòngnéng. | As the world's second-largest economy, China embraces green low-carbon transformation. Through sustained investment in wind and solar power, it upgrades its energy mix, injecting sustainable momentum into global climate efforts. | Como segunda economía mundial, China impulsa la transición verde descarbonizada. Invirtiendo de forma continuada en eólica y fotovoltaica, optimiza su matriz energética aportando un dinamismo sostenible a la lucha climática.
+  #2 | 求知钻研的道路漫长曲折，没有任何捷径可走。要想在学术研究中有所建树，不仅需要敏锐的学术眼光，更依赖于十年如一日持续深耕的专注毅力。唯有耐得住寂寞、持之以恒攻关，才能在厚积薄发中迎来璀璨突破。 | Qiúzhī zuānyán de dàolù màncháng qūzhé, méiyǒu rènhé jiéjìng kě zǒu. Yàoxiǎng zài xuéshù yánjiū zhōng yǒu suǒ jiànshù, bùjǐn xūyào mǐnruì de xuéshù yǎnguāng, gèng yīlài yú shí nián rú yí rì chíxù shēngēng de zhuānzhù yìlì. Wéiyǒu nàidézhu jìmò, chízhīyǐhéng gōngguān, cáinéng zài hòujī-bófā zhōng yínglái cuǐcàn tūpò. | The path of scholarship is winding with no shortcuts. Success demands academic insight and sustained dedication over decades. Enduring solitude and persevering brings breakthroughs through deep accumulated wisdom. | La senda del saber no admite atajos. Triunfar en la investigación exige sagacidad y un esfuerzo sostenido año tras año. Quien persevera con paciencia y rigor corona hallazgos fecundos.

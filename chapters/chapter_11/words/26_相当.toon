@@ -1,0 +1,64 @@
+id: 26
+hanzi: 相当
+pinyin: xiāng dāng
+level: HSK 5
+part_of_speech: Adverb / Verb
+
+meanings_summary:
+  en: quite; considerably; equivalent to; to match; to balance
+  es: bastante; considerablemente; equivalente a; equiparable; equivaler
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | to a considerable degree; quite; fairly; pretty | en grado notable; bastante; considerablemente | 相当不错 (pretty good / quite impressive)
+  2 | Verb | Standard | to be equal to, equivalent to, or balanced with in proportion or value | equivaler, corresponder o igualarse en valor o proporción con otra cosa | 与去年持平或相当 (be equivalent to last year)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过长达一年的严格系统训练，这位年轻选手的专业竞技水平已经相当出色了。 | Jīngguò chángdá yì nián de yángé xìtǒng xùnliàn, zhè wèi niánqīng xuǎnshǒu de zhuānyè jìngjì shuǐpíng yǐjīng xiāngdāng chūsè le. | After a year of rigorous systematic training, this young athlete's professional competitive level is already quite remarkable. | Tras un año de riguroso entrenamiento sistemático, el nivel competitivo de este joven deportista es ya bastante sobresaliente.
+  #2 | 这处新发现的特大型盐湖锂矿储量极其丰富，其总经济价值相当于一座大型金矿。 | Zhè chù xīnfāxiàn de tàdàxíng yánhú lǐkuàng chǔliàng jíqí fēngfù, qí zǒng jīngjì jiàzhí xiāngdāng yú yí zuò dàxíng jīnkuàng. | This newly discovered mega salt-lake lithium reserve is rich, its economic value equivalent to that of a major gold mine. | Las reservas de este megayacimiento de litio en salar son riquísimas, equivaliendo su valor total al de una gran mina de oro.
+
+collocations[6]{hanzi,en}:
+  相当不错 | pretty good; quite nice
+  相当于 | equivalent to; equal to
+  势均力敌相当 | evenly matched in balance
+  相当严重 | quite serious; considerably severe
+  旗鼓相当 | well-matched; equal in strength
+  水平相当 | on an equal level
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  旗鼓相当 | qí gǔ xiāng dāng | banners and drums well-matched; equal in force and prowess
+  势均力敌 | shì jūn lì dí | evenly matched in power and influence
+  半斤八两 | bàn jīn bā liǎng | six of one and half a dozen of the other; much of a muchness
+  相差无几 | xiāng chà wú jǐ | almost identical; differing by very little
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  相 | xiāng | each other; mutually; reciprocal | mutuamente; el uno al otro; recíproco | 木 | wood / tree | 木 (tree) + 目 (observing eye gazing at tree) | 相 (xiāng) | 9 | 左右结构 | An eye 目 scrutinizing timber 木 up close; denotes inspecting, mutual gazing, and reciprocal relations. | An eye (目) inspects a tree (木) face to face, engaging in mutual appraisal (相). | Un ojo atento (目) contempla un árbol (木) frente a frente en mutuo examen recíproco (相). | 55 | DOU | ""
+  当 | dāng | bear; serve as; equal; match; when | asumir; ejercer de; igualar; corresponder | ⺌ | small / top | 尚 (high / value) + 田 (fertile land value) | 当 (dāng) | 6 | 上下结构 | Equal value of agricultural land 田 matched in valuation 尚; signifies balancing, matching, serving as, or corresponding to. | Fields (田) balanced evenly on scales correspond in equal value (当). | Campos de cultivo (田) pesados en la balanza igualan su valor recíproco (当). | 55 | FSM | 當
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Mutual inspection (相) reveals equal balanced value (当), meaning 'equivalent to' or 'quite' (相当).
+  composite_memory_hook_es: La mirada mutua (相) comprueba un peso equilibrado (当) significando equivalente o bastante (相当).
+  cultural_and_cognitive_roots: Metrology and barter trade: balancing equal goods on scale pans (相当: counterpart equivalence), which generalized adverbially to indicate considerable degree.
+  tone_sandhi_and_pitch_modulation: Double level high first tones: 'xiāng dāng' (55-55). Hold level high pitch 55 steadily across both syllables.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    想 | xiǎng | think | Has heart radical 心 underneath 相
+    箱 | xiāng | chest; trunk | Has bamboo radical 竹 atop 相
+    党 | dǎng | party; clan | Has 儿 at bottom instead of 彐 in 当
+    光 | guāng | light | Has 儿 underneath ⺌
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    等 | děng | equal bamboo slips
+    均 | jūn | potter wheel balance; equal
+    齐 | qí | ears of grain level
+    匹 | pǐ | equal match; bolt of cloth
+
+semantic_boundary_contrasts:
+  core_nuance: 相当 functions adverbially expressing a notable degree ('quite / rather') or verbally expressing equivalence ('equal to').
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 相当 vs. 挺 | tǐng | 挺 is colloquial spoken Chinese ('挺好的'), while 相当 has higher formality suitable for written reports and analytical essays ('相当成功').
+    2 | 相当 vs. 非常 | fēicháng | 非常 expresses an absolute superlative degree ('极度 / very'), while 相当 expresses a moderate to high degree ('quite / considerably').
+    3 | 相当 vs. 等于 | děngyú | 等于 is an exact mathematical equals sign (1+1=2), whereas 相当于 means equivalent in weight, value, or metaphoric significance.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在古代丝绸之路的黄金贸易时代，一匹做工极为精细奢华的中国蜀锦，在罗马帝国市场上能换取等重的纯金，其昂贵程度相当于普通贵族一整座豪华庄园的价值，见证了东西方文明交融的繁荣传奇。 | Zài gǔdài Sīchóuzhīlù de huángjīn màoyì shídài, yì pǐ zuògōng jíwéi jīngxì shēhuá de Zhōngguó shǔjǐn, zài Luómǎ Dìguó shìchǎng shàng néng huànqǔ děngzhòng de chúnjīn, qí ángguì chéngdù xiāngdāng yú pǔtōng guìzú yì zhěng zuò háohuá zhuāngyuán de jiàzhí, jiànzhèng le dōng-xīfāng wénmíng jiāoróng de fánróng chuánqí. | In the golden age of the Silk Road, a bolt of exquisite Chinese Shu brocade could trade for its weight in pure gold in Rome, its value equivalent to an entire noble estate, witnessing East-West exchange. | En la era dorada de la Ruta de la Seda, una pieza de fino brocado de Shu se trocaba en Roma por su peso en oro puro, equivaliendo a una villa aristocrática entera en el floreciente comercio euroasiático.
+  #2 | 科研人员在南极冰川钻取的这根深海冰芯样品具有相当高的学术研究价值。通过分析封存在微小冰层气泡中的古大气成分，科学家能够精确还原距今数十万年前地球气候冷暖交替的历史全貌，为预测全球变暖提供依据。 | Kēyán rényuán zài Nánjí bīngchuān zuānqǔ de zhè gēn shēnhǎi bīngxīn yàngpǐn jùyǒu xiāngdāng gāo de xuéshù yánjiū jiàzhí. Tōngguò fēnxī fēngcún zài wēixiǎo bīngcéng qìpào zhōng de gǔdàqì chéngfèn, kēxuéjiā nénggòu jīngquè huányuán jùjīn shùshíwàn nián qián Dìqiú qìhòu lěngnuǎn jiāotì de lìshǐ quánmào, wèi yùcè quánqiú biànnuǎn tígōng yījù. | The ice core drilled in Antarctica holds considerably high research value. By analyzing ancient atmospheric bubbles sealed in ice layers, scientists reconstruct climate cycles from millennia ago to model global warming. | El testigo de hielo extraído en la Antártida reviste un valor científico considerable. Analizando burbujas de aire fósil, los climatólogos reconstruyen épocas glaciares milenarias para pronosticar el calentamiento global.

@@ -1,0 +1,64 @@
+id: 18
+hanzi: 清醒
+pinyin: qīng xǐng
+level: HSK 5
+part_of_speech: Adjective / Verb
+
+meanings_summary:
+  en: clear-headed; sober; awake; to regain consciousness; to sober up
+  es: lúcido; sobrio; despierto; despejado; recobrar el conocimiento
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | clear-headed, sober, alert, and rationally aware (not drunk, asleep, or confused) | despierto, despejado, sereno y con pleno uso de las facultades racionales | 头脑清醒 (clear-headed)
+  2 | Verb | Standard | to regain consciousness after fainting, coma, or intoxication | volver en sí, despejarse o recobrar el sentido tras desmayo o embriaguez | 病人已经清醒过来 (the patient has regained consciousness)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 面对突如其来的巨大利益诱惑与外界吹捧，保持清醒的头脑是做出明智判断的底线。 | Miànduì tūrúqílái de jùdà lìyì yòuhuò yǔ wàijiè chuīpěng, bǎochí qīngxǐng de tóunǎo shì zuòchū míngzhì pànduàn de dǐxiàn. | Confronted with sudden temptations of huge profit and outside flattery, keeping a clear head is the bottom line for making wise decisions. | Ante la tentación de pingües ganancias y halagos desmedidos, mantener la mente despejada es premisa ineludible para obrar con juicio.
+  #2 | 在重症监护室医护人员连续两天的精心治疗下，陷入深度昏迷的伤者终于逐渐清醒了过来。 | Zài zhòngzhèng jiānhùshì yīhù rényuán liánxù liǎng tiān de jīngxīn zhìliáo xià, xiànrù shēndù hūnmí de shāngzhě zhōngyú zhújiàn qīngxǐng le guòlai. | Under two days of intensive care by ICU medical staff, the critically injured patient in a deep coma finally regained consciousness gradually. | Gracias a los minuciosos cuidados en la unidad de cuidados intensivos, el herido en coma profundo recobró paulatinamente el conocimiento.
+
+collocations[6]{hanzi,en}:
+  头脑清醒 | clear-headed; sober-minded
+  清醒过来 | regain consciousness / come round
+  保持清醒 | stay alert / remain sober
+  十分清醒 | fully awake / wide awake
+  清醒认识 | sober understanding / clear realization
+  难以清醒 | hard to sober up
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  大梦初醒 | dà mèng chū xǐng | as if waking from a long dream; sudden awakening to reality
+  神志清醒 | shén zhì qīng xǐng | fully conscious and alert; completely lucid
+  如梦初醒 | rú mèng chū xǐng | wake up as from a dream; suddenly see the light
+  从容不迫 | cóng róng bù pò | calm and unhurried; serene composure
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  清 | qīng | clear; pure; clean; quiet; settle | claro; puro; limpio; transparente; saldar | 氵 | water | 氵 (clear spring water) + 青 (lush green / pure) | 青 (qīng, green/pure / phonetic) | 11 | 左右结构 | Water radical 氵 combined with 青 (lush pure green); clear, limpid water without sediment, extended to mental clarity. | Water (氵) as pure and tranquil as spring greenery (青) reflects crystal clarity (清). | El agua (氵) tan pura y diáfana como el verdor primaveral (青) destila transparencia (清). | 55 | EQMB | ""
+  醒 | xǐng | wake up; sober up; awaken; realize | despertar; despejarse; volver en sí; despabilar | 酉 | wine / vessel | 酉 (fermenting wine vessel) + 星 (bright stars in morning sky) | 星 (xīng, stars / phonetic origin) | 16 | 左右结构 | Wine vessel 酉 dissipating intoxication as morning stars 星 shine; recovering sobriety and waking from slumber. | Fumes from a wine jar (酉) clear away as bright morning stars (星) signal waking up (醒). | Los vapores del jarro de vino (酉) se disipan cuando las estrellas matinales (星) despabilan al durmiente (醒). | 214 | MWAHM | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Clear water (清) dispels wine fumes as dawn breaks (醒), making one clear-headed and awake (清醒).
+  composite_memory_hook_es: El agua cristalina (清) disipa los vapores del vino al romper el alba (醒), recobrando la lucidez (清醒).
+  cultural_and_cognitive_roots: Derived from classical Chinese drinking culture and philosophical mindfulness (屈原: 众人皆醉我独醒: all the world is drunk, I alone am sober).
+  tone_sandhi_and_pitch_modulation: Level high tone followed by dipping third tone: 'qīng xǐng' (55-214). Maintain steady high pitch 55 on 'qīng', then dip and rise on 'xǐng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    晴 | qíng | sunny; clear | Has sun radical 日 on left of 青 instead of water 氵 in 清
+    请 | qǐng | please; invite | Has speech radical 讠 on left of 青
+    醉 | zuì | drunk; intoxicated | Has 卒 on right of 酉 instead of 星 in 醒
+    醋 | cù | vinegar | Has 昔 on right of 酉
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    觉 | jué | awaken to sense; feel
+    明 | míng | bright; lucid mind
+    悟 | wù | apprehend truth; enlighten
+    澈 | chè | limpid; penetrate through
+
+semantic_boundary_contrasts:
+  core_nuance: 清醒 emphasizes cognitive lucidity and rational wakefulness, free from intoxication, delirium, or illusion.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 清醒 vs. 醒来 | xǐnglái | 醒来 focuses on the physical transitional action of opening eyes and leaving sleep ('从梦中醒来'), while 清醒 describes state of alertness or recovering from coma/drunkenness.
+    2 | 清醒 vs. 明白 | míngbai | 明白 denotes intellectual understanding of a concept or fact ('我明白了'), whereas 清醒 is the physiological and psychological state of alertness.
+    3 | 清醒 vs. 镇静 | zhènjìng | 镇静 emphasizes emotional calm and lack of agitation in panic ('保持镇静'), while 清醒 is intellectual lucidity.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古往今来，身处顺境高位时最难能可贵的便是保持内心的清醒与戒惧。战国楚国大诗人屈原曾慨叹“举世皆浊我独清，众人皆醉我独醒”。在名利喧嚣中守住本心，不为浮华所惑，方能行止有度、立身长远。 | Gǔwǎng-jīnlái, shēnchǔ shùnjìng gāowèi shí zuì nánnéng-kěguì de biànshì bǎochí nèixīn de qīngxǐng yǔ jièjù. Zhànguó Chǔguó dà shīrén Qū Yuán céng kǎitàn 'jǔshì jiē zhuó wǒ dú qīng, zhòngrén jiē zuì wǒ dú xǐng'. Zài mínglì xuānxiāo zhōng shǒuzhù běnxīn, bù wéi fúhuá suǒ huò, fāngnéng xíngzhǐ-yǒudù, lìshēn chángyuǎn. | Throughout history, staying lucid and vigilant in prosperity is rare. Poet Qu Yuan lamented, 'The whole world is turbid, I alone am pure; all are drunk, I alone am sober.' Staying grounded amidst fame leads to lasting integrity. | A lo largo de los siglos, guardar la lucidez y la prudencia en el éxito ha sido la más rara virtud. Como sentenció el poeta Qu Yuan: 'Ebrio está el mundo, solo yo velo lúcido'. Desoír los halagos vanos forja un carácter intachable.
+  #2 | 早晨被刺耳闹钟惊醒的人，常常会经历长达十数分钟的“睡眠惯性”状态。此时大脑皮层尚未彻底恢复清醒，血液循环与思维反应相对迟钝，若立即下床剧烈运动极易头晕目眩，应静坐片刻温和苏醒。 | Zǎochen bèi cì'ěr nàozhōng jīngxǐng de rén, chángcháng huì jīnglì chángdá shíshù fēnzhōng de 'shuìmián guànxìng' zhuàngtài. Cǐshí dànǎo pícéng shàngwèi chèdǐ huīfù qīngxǐng, xuèyè xúnhuán yǔ sīwéi fǎnyìng xiāngduì chídùn, ruò lìjí xiàchuáng jùliè yùndòng jíyì tóuyūn-mùxuàn, yīng jìngzuò piànkè wēnhé sùxǐng. | Those jolted awake by loud alarms often endure minutes of sleep inertia. The cerebral cortex has not regained full lucidity, blood flow is sluggish; jumping out of bed causes dizziness, so resting gently is best. | Quien despierta sobresaltado por el despertador padece minutos de inercia del sueño. La corteza cerebral aún no está despejada y la mente reacciona lenta; levantarse de golpe causa mareos, siendo prudente reposar un momento.

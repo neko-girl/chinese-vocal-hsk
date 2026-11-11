@@ -1,0 +1,63 @@
+id: 40
+hanzi: 当地
+pinyin: dāng dì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: local; in the locality; indigenous; on site
+  es: local; del lugar; autóctono; en la localidad; in situ
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the specific geographical place, locality, or region where an event occurs or where a person resides | el lugar o localidad precisa donde sucede un acontecimiento o reside una comunidad | 当地政府 (local government)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微信在海外推广时，通过签约广受当地民众喜爱的本土体育明星，迅速拉近了与消费者的情感距离。 | Wēixìn zài hǎiwài tuīguǎng shí, tōngguò qiānyuē guǎngshòu dāngdì mínzhòng xǐ'ài de běntǔ tǐyù míngxīng, xùnsù lājìnle yǔ xiāofèizhě de qínggǎn jùlí. | When promoting overseas, WeChat quickly bridged emotional distance with consumers by signing local sports stars widely beloved by local residents. | Al promocionarse en el exterior, WeChat acortó distancias fichando a figuras del deporte autóctonas muy queridas por el público local.
+  #2 | 旅行者每到一个全新的国度，都应当主动尊重当地的风俗习惯与宗教信仰，以包容的心态体验异域文化。 | Lǚxíngzhě měi dào yī gè quánxīn de guódù, dōu yīngdāng zhǔdòng zūnzhòng dāngdì de fēngsú xíguàn yǔ zōngjiào xìnyǎng, yǐ bāoróng de xīntài tǐyàn yìyù wénhuà. | Whenever arriving in a brand-new country, travelers should proactively respect local customs and religious beliefs, experiencing foreign cultures with tolerance. | Al llegar a un nuevo país, el viajero debe respetar los usos y credos locales con espíritu tolerante para empaparse de la cultura autóctona.
+
+collocations[6]{hanzi,en}:
+  当地政府 | local government
+  当地居民 | local residents
+  当地文化 | local culture
+  融入当地 | integrate into the local community
+  当地特色 | local characteristics / specialties
+  当地时间 | local time
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  入乡随俗 | rù xiāng suí sú | when entering a village, follow its customs; do as the Romans do
+  因地制宜 | yīn dì zhì yí | adapt measures to local conditions; take suited actions
+  土生土长 | tǔ shēng tǔ zhǎng | born and bred locally; native born
+  安土重迁 | ān tǔ zhòng qiān | attached to one's native soil and reluctant to move away
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  当 | dāng | ought; equal; match; just at (time/place); serve as | deber; corresponder; justo en; ejercer de; en el acto | ⺌ | small / top dots | 尚 (lofty banner / value) + 田 (field / land of value) | Historical phonetic nuance in 當 | 6 | 上下结构 | Value of land 田 matched equally against price 尚; indicates being right on site, corresponding directly to the present time or place. | Marking an exact value directly on the designated plot of land (当). | Fijar un justo valor sobre la parcela concreta señalando el lugar presente (当). | 55 | FS | 當
+  地 | dì | earth; ground; place; region; locality | tierra; suelo; paraje; comarca; localidad | 土 | earth | 土 (soil mounds) + 也 (yielding expanse of terrain) | 也 (yě / phonetic nuance dì) | 6 | 左右结构 | Mounds of earth 土 spreading across receptive expanses 也; indicates place, location, region, and ground. | Mounds of fertile soil (土) defining a distinct regional place (地). | La tierra fértil (土) que delimita una comarca o lugar geográfico (地). | 51 | GPD | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Right at the designated present spot (当) upon that specific plot of earth (地) is the local scene (当地).
+  composite_memory_hook_es: Estar en el acto (当) sobre el propio suelo o paraje (地) es ser del lugar o local (当地).
+  cultural_and_cognitive_roots: Classical administrative terminology (当时、当地): anchoring judicial rulings and tax levies to the concrete historical time and geographic locality.
+  tone_sandhi_and_pitch_modulation: First tone followed by fourth tone: 'dāng dì' (55-51). Hold high pitch 55, then execute a sharp decisive fall to 51.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    党 | dǎng | political party | Has 儿 at bottom instead of 彐 in 当
+    常 | cháng | frequent; common | Has towel 巾 at bottom
+    池 | chí | pond; pool | Has water radical 氵 on left of 也 instead of earth 土 in 地
+    场 | chǎng | field; open ground | Has 𠃓 on right of 土 instead of 也
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    本 | běn | root; native; local
+    土 | tǔ | soil; native; local
+    坊 | fāng | neighborhood; local quarter
+    乡 | xiāng | countryside; native place
+
+semantic_boundary_contrasts:
+  core_nuance: 当地 designates the specific geographical locality under discussion, often contrasted with foreign, distant, or national levels.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 当地 vs. 本地 | běndì | 本地 emphasizes 'this local place' from the speaker's own perspective ('我是本地人' I am a local), while 当地 is objective third-person referring to the place where events occur ('当地居民').
+    2 | 当地 vs. 地方 | dìfang | 地方 is a broad general noun meaning any physical place or region, or provincial authorities as opposed to central government ('中央与地方').
+    3 | 当地 vs. 本土 | běntǔ | 本土 refers to the homeland or mainland territory of a nation as opposed to overseas colonies ('本土作战', '本土品牌').
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 跨国企业在海外开展投资建设时，必须高度重视与当地社会的良性互动。主动招募培训当地劳动力、积极参与当地教育医疗公益事业，不仅能够有效化解文化摩擦与隔阂，更能为企业的长期稳健经营赢得深厚的民间土壤。 | Kuàguó qǐyè zài hǎiwài kāizhǎn tóuzī jiànshè shí, bìxū gāodù zhòngshì yǔ dāngdì shèhuì de liángxìng hùdòng. Zhǔdòng zhāomù péixùn dāngdì láodònglì, jījí cānyù dāngdì jiàoyù yīliáo gōngyì shìyè, bùjǐn nénggòu yǒuxiào huàjiě wénhuà mócā yǔ géhé, gèng néng wèi qǐyè de chángqī wěnjiàn jīngyíng yíngdé shēnhòu de mínjiān tǔrǎng. | When investing overseas, multinationals must foster healthy interaction with the local community. Recruiting and training local labor and participating in education charity smooths cultural frictions, cultivating popular goodwill for corporate longevity. | Al invertir en el exterior, las multinacionales deben estrechar lazos con la sociedad local. Contratar mano de obra autóctona e invertir en educación suaviza fricciones culturales ganándose el aprecio de la comunidad.
+  #2 | 漫步在云南边陲的古老村寨中，扑面而来的是极其淳朴浓郁的当地民族风情。村民们身着五彩斑斓的手工刺绣服饰，热情地邀请远道而来的中外游客品尝当地特制的竹筒饭与山泉香茗，在欢歌笑语中体验天人合一的原生态民俗文化。 | Mànbù zài Yúnnán biānchuí de gǔlǎo cūnzhài zhōng, pūmiàn'érlái de shì jíqí chúnpǔ nóngyù de dāngdì mínzú fēngqíng. Cūnmínmen shēnzhe wǔcǎi-bānlán de shǒugōng cìxiù fúshì, rèqíng de yāoqǐng yuǎndào'érlái de zhōng-wài yóukè pǐncháng dāngdì tèzhì de zhútǒngfàn yǔ shānquán xiāngmíng, zài huāngē-xiàoyǔ zhōng tǐyàn tiānrén-héyī de yuánshēngtài mínsú wénhuà. | Strolling through ancient Yunnan border villages, visitors are greeted by rustic local ethnic charm. Villagers in colorful embroidered attire invite guests to taste local bamboo rice and mountain tea, sharing authentic folklore in song and laughter. | Al pasear por aldeas fronterizas de Yunnan, el viajero se sumerge en el rico tipismo local. Vestidos con bordados multicolores, los aldeanos convidan a degustar arroz en bambú y té de manantial compartiendo cantos y danzas ancestrales.

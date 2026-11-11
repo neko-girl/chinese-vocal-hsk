@@ -1,0 +1,63 @@
+id: 11
+hanzi: 召开
+pinyin: zhào kāi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to convene; convoke; hold (a formal meeting or conference)
+  es: convocar; celebrar; inaugurar (una reunión, asamblea o cumbre formal)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Formal | to formally summon participants together to open and hold an assembly, press conference, or council | convocar a los participantes y abrir formalmente una asamblea, rueda de prensa o congreso | 召开新闻发布会 (hold a press conference)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 腾讯公司在海外多个国家首都同步召开大型媒体沟通会，隆重推介微信国际版全新升级功能。 | Téngxùn gōngsī zài hǎiwài duō gè guójiā shǒudū tóngbù zhàokāi dàxíng méitǐ gōutōnghuì, lóngzhòng tuījiè Wēixìn guójìbǎn quánxīn shēngjí gōngnéng. | Tencent held large media briefings simultaneously across several foreign capitals to grandly introduce the newly upgraded features of WeChat's international edition. | Tencent celebró ruedas de prensa simultáneas en varias capitales extranjeras para presentar por todo lo alto las novedades de la versión internacional de WeChat.
+  #2 | 联合国气候变化大会每年定期召开，汇聚全球数百个国家的元首与专家共同商讨减排方案。 | Liánhéguó qìhòu biànhuà dàhuì měinián dìngqī zhàokāi, huìjù quánqiú shùbǎi gè guójiā de yuánshǒu yǔ zhuānjiā gòngtóng shāngtǎo jiǎnpái fāng'àn. | The United Nations Climate Change Conference is convened annually, gathering leaders and specialists from hundreds of nations to negotiate emission cuts. | La Cumbre del Clima de la ONU se convoca cada año reuniendo a jefes de Estado y expertos de cientos de países para consensuar recortes de emisiones.
+
+collocations[6]{hanzi,en}:
+  召开会议 | convene a meeting / conference
+  召开发布会 | hold a press conference
+  召开股东大会 | convene a shareholders' meeting
+  定期召开 | convene regularly
+  紧急召开 | convene urgently
+  决定召开 | decide to convene
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  广开言路 | guǎng kāi yán lù | open wide all channels of speech and counsel
+  群英荟萃 | qún yīng huì cuì | distinguished assembly of heroes and talents
+  集思广益 | jí sī guǎng yì | pool collective wisdom for fruitful benefit
+  盛况空前 | shèng kuàng kōng qián | unprecedented grandeur and spectacular turnout
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  召 | zhào | summon; call together; invoke | convocar; llamar; citar; invocar | 口 | mouth | 刀 (knife/authority command) + 口 (mouth speaking imperial order) | Self-phonetic zhào | 5 | 上下结构 | A mouth 口 issuing an authoritative command backed by legal power 刀; summons to assemble. | An authoritative mouth (口) issuing decisive sharp orders (刀) summons everyone to assemble (召). | Una boca autoritaria (口) profiere órdenes tajantes (刀) para convocar a la reunión (召). | 51 | SHR | ""
+  开 | kāi | open; unfold; start; hold | abrir; desplegar; iniciar; celebrar | 廾 | two hands | Two hands 廾 lifting off the crossbar 一 of a heavy gate | Historical phonetic nuance in 開 | 4 | 单一结构 | Two hands lifting away a wooden bolt to unbar double doors; extended to opening, initiating, and commencing meetings. | Two hands lifting the heavy door bolt open wide the palace gates (开). | Dos manos apartan el cerrojo de madera para abrir de par en par la sesión (开). | 55 | MT | 開
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Summoning participants together with authority (召) and opening the proceedings (开) is convening a conference (召开).
+  composite_memory_hook_es: Convocar con autoridad (召) y dar inicio a la sesión (开) es inaugurar o celebrar una reunión (召开).
+  cultural_and_cognitive_roots: Derived from ancient sovereign edicts: emperors issued royal summons (召令) to open court councils (开朝会) across the provinces.
+  tone_sandhi_and_pitch_modulation: Fourth tone followed by first tone: 'zhào kāi' (51-55). Sharp drop from 51 followed by sustained high level 55.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    绍 | shào | introduce; carry on | Has silk radical 纟 on left of 召
+    招 | zhāo | beckon; recruit | Has hand radical 扌 on left of 召
+    升 | shēng | rise; liter | Has a slanted drop on top left, unlike 开
+    井 | jǐng | water well | Has two vertical parallel strokes crossing two horizontals
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    举 | jǔ | hold; elevate
+    行 | xíng | conduct; execute
+    办 | bàn | manage; organize
+    聚 | jù | gather; assemble
+
+semantic_boundary_contrasts:
+  core_nuance: 召开 is a formal transitive verb used exclusively for assembling participants to hold large, organized conferences or meetings.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 召开 vs. 举行 | jǔxíng | 举行 applies broadly to ceremonies, sports games, banquets, and contests ('举行婚礼', '举行比赛'), while 召开 applies almost exclusively to meetings and conferences.
+    2 | 召开 vs. 开会 | kāihuì | 开会 is colloquial and general for attending or holding any routine workplace or school meeting, whereas 召开 is solemn and formal.
+    3 | 召开 vs. 召集 | zhàojí | 召集 focuses on the preliminary act of rounding up or summoning people together, whereas 召开 focuses on formally holding the proceedings.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为进一步深化多边科技创新合作，国际电信联盟在日内瓦召开全球数字通信发展研讨会。来自数十个国家的行业代表围绕下一代移动网络安全标准展开深入探讨，为弥合全球数字鸿沟凝聚了广泛的国际共识。 | Wèi jìnyíbù shēnhuà duōbiān kējì chuàngxīn hézuò, Guójì Diànxìn Liánméng zài Rìnèiwǎ zhàokāi quánqiú shùzì tōngxìn fāzhǎn yántǎohuì. Láizì shùshí gè guójiā de hángyè dàibiǎo wéirào xià yí dài yídòng wǎngluò ānquán biāozhǔn zhǎnkāi shēnrù tàntǎo, wèi míhé quánqiú shùzì hónggōu níngjùle guǎngfàn de guójì gòngshí. | To deepen multilateral tech cooperation, the ITU convened a global symposium in Geneva. Industry delegates from dozens of countries debated next-gen network standards, forging broad international consensus to bridge digital divides. | Para estrechar lazos técnicos, la UIT convocó en Ginebra un simposio sobre telecomunicaciones digitales. Delegados de decenas de países debatieron estándares de seguridad de red consensuando vías para acortar la brecha digital.
+  #2 | 在企业面临产业转型的关键历史节点，董事会紧急召开临时特别会议，细致审议关于全面进军海外智能软件市场的战略方案。与会高管经过长达数小时的热烈论证，最终全票通过了重组海外营销事业群的重大决议。 | Zài qǐyè miànlín chǎnyè zhuǎnxíng de guānjiàn lìshǐ jiédiǎn, dǒngshìhuì jǐnjí zhàokāi línshí tèbié huìyì, xìzhì shěnyì guānyú quánmiàn jìnjūn hǎiwài zhìnéng ruǎnjiàn shìchǎng de zhànlüè fāng'àn. Yùhuì gāoguǎn jīngguò chángdá shù xiǎoshí de rèliè lùnzhèng, zuìzhōng quánpiào tōngguòle chóngzǔ hǎiwài yíngxiāo shìyèqún de zhòngdà juéyì. | At a critical juncture of industrial transformation, the board urgently convened an extraordinary meeting to review strategic plans for expanding overseas. After hours of debate, executives unanimously approved restructuring the overseas division. | En plena reconversión, el consejo convocó una junta extraordinaria para examinar la expansión de software inteligente en el exterior. Tras horas de deliberación, la directiva aprobó por unanimidad la reestructuración internacional.

@@ -1,0 +1,63 @@
+id: 6
+hanzi: 逗
+pinyin: dòu
+level: HSK 5
+part_of_speech: Verb / Adjective
+
+meanings_summary:
+  en: to tease; amuse; provoke laughter; funny; amusing
+  es: hacer gracia; bromear; provocar risa; gracioso; chistoso; entretener
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to tease, play with, or playfully provoke a child or pet to bring forth laughter or amusement | bromear con un niño o animal con ademanes cariñosos para hacerle sonreír o jugar | 逗孩子笑 (tease a child to laugh)
+  2 | Adjective | Colloquial | funny, comical, amusing, or witty | divertido, cómico, ocurrente o gracioso | 这人真逗 (this person is really funny / amusing)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 足球巨星在微信视频广告中一边娴熟颠球一边逗孩子开心的场景，极具生活情趣。 | Zúqiú jùxīng zài Wēixìn shìpín guǎnggào zhōng yībiān xiánshú diānqiú yībiān dòu háizi kāixīn de chǎngjǐng, jíjù shēnghuó qíngqù. | The football superstar juggling a ball while teasing a child to make them happy in the WeChat ad was brimming with endearing warmth. | La escena del astro del fútbol dando toques al balón mientras hacía reír a un niño en el anuncio de WeChat derrochaba ternura.
+  #2 | 台上相声演员惟妙惟肖的滑稽模仿把全场观众逗得捧腹大笑，剧场里充满了快活的掌声。 | Tái shàng xiàngsheng yǎnyuán wéimiào-wéixiào de huájī mófǎng bǎ quánchǎng guānzhòng dòu de pěngfù-dàxiào, jùchǎng lǐ chōngmǎnle kuàihuo de zhǎngshēng. | The comic performer's lifelike mimicry on stage amused the entire audience into roaring laughter, filling the theater with merry clapping. | La cómica imitación del humorista sobre las tablas hizo desternillarse de risa al público, inundando la sala de aplausos alegres.
+
+collocations[6]{hanzi,en}:
+  逗乐 | amuse; evoke laughter
+  逗笑 | make somebody laugh
+  逗孩子 | play with / tease a child playfully
+  逗小猫 | tease / play with a kitten
+  真逗 | really funny; comical
+  逗趣 | funny; delight in jokes
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  逗人喜爱 | dòu rén xǐ ài | endearing and lovely; appealing to everyone
+  捧腹大笑 | pěng fù dà xiào | hold one's sides with uncontrollable laughter
+  诙谐幽默 | huī xié yōu mò | humorous, witty, and playfully funny
+  妙趣横生 | miào qù héng shēng | overflowing with delightful wit and fun
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  逗 | dòu | tease; play; stay; funny; comma | bromear; provocar risa; detenerse; coma; gracioso | 辶 | walk / movement | 辶 (movement/action) + 豆 (ancient sacrificial vessel / bean) | 豆 (dòu, bean / phonetic carrier) | 10 | 半包围结构 | Movement radical 辶 combined with 豆; originally lingering or halting on a path, evolved to making playful gestures to entice laughter. | Stopping on a stroll (辶) offering a sweet bean snack (豆) to tease a smile out of a puppy (逗). | Hacer un alto en el camino (辶) tentando con un granito (豆) para hacer sonreír al chiquillo (逗). | 51 | YMRT | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Pausing on your path (辶) with sweet playful gestures (豆) to amuse and tease (逗) a laughing child.
+  composite_memory_hook_es: Detener el paso (辶) ofreciendo juegos y chanzas (豆) para hacer reír con gracia (逗).
+  cultural_and_cognitive_roots: In classical literature, 逗 meant 'linger' or 'punctuation pause' (句逗). In vernacular Beijing Mandarin, it blossomed into the lively verb for comical amusement.
+  tone_sandhi_and_pitch_modulation: Fourth tone: 'dòu' (51). Crisp, energetic falling pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    豆 | dòu | bean; pea | Lacks the movement radical 辶 surrounding it in 逗
+    通 | tōng | connect; pass | Has 甬 inside 辶 instead of 豆 in 逗
+    透 | tòu | penetrate; clear | Has 秀 inside 辶
+    选 | xuǎn | choose | Has 先 inside 辶
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    戏 | xì | play; drama
+    玩 | wán | play with; amuse
+    弄 | nòng | handle; play with
+    耍 | shuǎ | frolic; brandish
+
+semantic_boundary_contrasts:
+  core_nuance: 逗 emphasizes lighthearted playful teasing or provoking benign laughter and entertainment.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 逗 vs. 戏弄 | xìnòng | 戏弄 carries malicious prankish mockery or making a fool of someone, whereas 逗 is affectionate, benign, and warm.
+    2 | 逗 vs. 开玩笑 | kāiwánxiào | 开玩笑 refers to making verbal jokes or harmless kidding, whereas 逗 includes physical gestures, facial expressions, and animal/baby teasing.
+    3 | 逗 vs. 取笑 | qǔxiào | 取笑 means ridiculing someone's shortcomings to laugh at them, while 逗 is cheerful entertainment.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 午后温暖的阳台上，小女孩拿着一根逗猫棒不停地上下晃动，逗引着毛茸茸的波斯猫在木地板上翻滚扑腾。看着猫咪憨态可掬的滑稽动作，全家人都被逗得笑逐颜开，屋子里洋溢着浓郁温馨的家庭幸福气息。 | Wǔhòu wēnnuǎn de yángtái shàng, xiǎonǚhái názhe yī gēn dòumāobàng bùtíng de shàngxià huàngdòng, dòuyǐn zhe máorōngrōng de Bōsīmāo zài mùdìbǎn shàng fāngǔn pūteng. Kànzhe māomī hāntài-kějū de huájī dòngzuò, quánjiā rén dōu bèi dòu de xiàozhúyánkāi, wūzi lǐ yángyì zhe nóngyù wēnxīn de jiātíng xìngfú qìxī. | On the sunlit balcony, a girl waved a cat-teaser wand up and down, enticing a Persian cat to tumble on the wooden floor. Watching the kitty's comical antics, the family was amused into beaming smiles, basking in cozy household joy. | En la soleada terraza, la niña ondeaba un plumero haciendo jugar al gato persa, que rodaba por la tarima. Ante las cómicas piruetas del felino, todos estallaron en risas inundando la casa de calidez hogareña.
+  #2 | 北方传统相声艺术之所以历经百年沧桑仍深受欢迎，其核心魅力正在于演员高超的逗乐技巧。逗哏演员与捧哏搭档默契配合，凭借幽默诙谐的语言包袱与夸张传神的面部表情，总能出其不意地将现场观众逗得前仰后合。 | Běifāng chuántǒng xiàngsheng yìshù zhīsuǒyǐ lìjīng bǎinián cāngsāng réng shēnshòu huānyíng, qí héxīn mèilì zhèng zàiyú yǎnyuán gāochāo de dòulè jìqiǎo. Dòugén yǎnyuán yǔ pěnggén dādàng mòqì pèihé, píngjiè yōumò huīxié de yǔyán bāofu yǔ kuāzhāng chuánshén de miànbù biǎoqíng, zǒng néng chūqíbùyì de jiāng xiànchǎng guānzhòng dòu de qiányǎng-hòuhé. | Traditional crosstalk remains celebrated because of masters' comedic artistry. Comedians coordinate seamlessly, delivering witty punchlines and expressive miming that surprise and amuse spectators into helpless laughter. | La comedia tradicional crosstalk sigue cautivando por la maestría de sus cómicos. Los dos actores se compenetran con remates ingeniosos y gesticulaciones que arrancan carcajadas incontenibles entre el público.

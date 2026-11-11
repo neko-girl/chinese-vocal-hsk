@@ -1,0 +1,63 @@
+id: 16
+hanzi: 所
+pinyin: suǒ
+level: HSK 5
+part_of_speech: Particle / Measure Word / Noun
+
+meanings_summary:
+  en: structural particle (that which / receiver of action); measure word for buildings; place
+  es: partícula estructural (lo que / aquello que); clasificador de edificios; lugar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Particle | Standard | particle placed before a transitive verb to form a nominal phrase representing the object or receiver of the action | partícula antepuesta al verbo que nominaliza la acción señalando al objeto paciente ('lo que') | 所见所闻 / 他所说的 (what is seen and heard / what he said)
+  2 | Measure Word | Standard | measure word used for houses, schools, hospitals, and institutional establishments | clasificador numeral empleado para escuelas, hospitales, institutos o edificios | 一所大学 / 一所医院 (a university / a hospital)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 正如古人所说，“读万卷书，行万里路”，唯有将理论求知与社会实践紧密结合，才能增长才干。 | Zhèngrú gǔrén suǒ shuō, 'dú wànjuǎn shū, xíng wànlǐ lù', wéiyǒu jiāng lǐlùn qiúzhī yǔ shèhuì shíjiàn jǐnmì jiéhé, cáinéng zēngzhǎng cáigàn. | Just as the ancients said, 'read ten thousand books and travel ten thousand miles'; only by linking theory with practice can ability flourish. | Tal como decían los antiguos: 'leer diez mil tomos y recorrer diez mil leguas'; solo aunando teoría y práctica crece el talento.
+  #2 | 经过多年的持续建设，这所位于西北偏远山区的小学拥有了明亮宽敞的多媒体网络教室。 | Jīngguò duōnián de chíxù jiànshè, zhè suǒ wèiyú xīběi piānyuǎn shānqū de xiǎoxué yǒngyǒu le míngliàng kuānchǎng de duōméitǐ wǎngluò jiàoshì. | Through years of sustained construction, this primary school located in remote northwestern mountains gained bright, multimedia classrooms. | Tras años de mejoras sostenidas, esta escuela de la serranía noroccidental cuenta ya con aulas multimedia luminosas y conectadas.
+
+collocations[6]{hanzi,en}:
+  一所学校 | a school
+  一所医院 | a hospital
+  所见所闻 | what one sees and hears
+  所谓 | so-called; what is meant by
+  所有人 | everyone; owner
+  无所畏惧 | fearless; afraid of nothing
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  各得其所 | gè dé qí suǒ | each is in their proper place; everyone is well-accommodated
+  无所适从 | wú suǒ shì cóng | at a loss what to follow; not knowing which way to turn
+  无所作为 | wú suǒ zuò wéi | accomplish nothing; passive and ineffective
+  无所不能 | wú suǒ bù néng | omnipotent; capable of doing anything
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  所 | suǒ | place; that which; structural particle; classifier for houses | lugar; lo que; partícula estructural; clasificador de edificios | 户 | door | 户 (single-leaf doorway / household) + 斤 (carpenter axe) | 斤 (jīn, axe / sound of chopping) | 8 | 左右结构 | A carpenter's axe 斤 hewing wood beside a doorway 户 to clear building timber; originally sound of chopping wood, generalized to a building site or place. | An axe (斤) shapes building timber beside a wooden door (户) to build an establishment (所). | Un hacha (斤) desbasta maderos junto a la puerta (户) para alzar un edificio (所). | 214 | HSHML | ""
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An axe (斤) at the door (户) establishes a physical place, or tags 'that which' (suǒ, 所).
+  composite_memory_hook_es: El hacha (斤) ante la puerta (户) levanta un recinto y marca 'aquello que' (suǒ, 所).
+  cultural_and_cognitive_roots: Classical Chinese grammatical marker (所字结构): prefixing 所 to transitive verbs nominalizes action, creating literary relative clauses ('所学', '所作').
+  tone_sandhi_and_pitch_modulation: Dipping third tone: 'suǒ' (214). Dip down to pitch 2 then rise lightly to 4.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    斤 | jīn | half kilogram; axe | Single character lacking door radical 户 on left of 所
+    斥 | chì | reproach; scold | Has extra dot at upper right of 斤
+    房 | fáng | room; house | Has 方 underneath 户 instead of 斤 in 所
+    启 | qǐ | open; start | Has 口 underneath 户
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    处 | chù | place; location
+    地 | dì | earth; ground territory
+    方 | fāng | square; direction; place
+    居 | jū | dwell; reside under roof
+
+semantic_boundary_contrasts:
+  core_nuance: 所 functions syntactically as a nominalizing verbal prefix ('所+V') or classifier for institutions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 所 vs. 处 | chù | 处 is primarily a noun designating a physical geographic spot or administrative bureau ('到处', '教务处'), while 所 has rich grammatical nominalizing particle roles.
+    2 | 所 vs. 家 | jiā | 家 is the classifier for commercial companies, restaurants, and shops ('一家公司'), while 所 counts schools and hospitals ('一所学校').
+    3 | 所 vs. 个 | gè | 个 is a generic classifier, while 所 conveys institutional formality when counting establishments.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代先哲老子在《道德经》中曾深刻指出，“知人者智，自知者明。胜人者有力，自胜者强。”先贤所阐发的辩证哲理历经数千年历史淘洗，依然在今天闪耀着穿越时空的智慧光芒，指引着人们修身克己。 | Zhōngguó gǔdài xiānzhé Lǎozǐ zài Dàodéjīng zhōng céng shēnkè zhǐchū, 'zhīrén zhě zhì, zìzhī zhě míng. Shèngrén zhě yǒulì, zìshèng zhě qiáng.' Xiānxián suǒ chǎnfā de biànzhèng zhélǐ lìjīng shùqiān nián lìshǐ táoxǐ, yīrán zài jīntiān shǎnyào zhe chuānyuè shíkōng de zhìhuì guāngmáng, zhǐyǐn zhe rénmen xiūshēn-kèjǐ. | In the Tao Te Ching, Laozi observed that knowing others is intelligence, while self-knowledge is true enlightenment. The dialectical wisdom expounded by sages shines timelessly across millennia, guiding self-cultivation. | Lao Tse afirmó en el Tao Te King que conocer a los demás es sabiduría, mas conocerse a sí mismo es iluminación. Aquello que dilucidaron los antiguos sabios alumbra la conciencia moral con fulgor eterno.
+  #2 | 百年大计，教育为本。近十年来，国家财政性教育经费持续向农村中西部倾斜，新建改建了数以万计标准化乡村中小学校。在这每一所现代化的校园里，偏远山区的孩子们都能通过宽带互联网共享全国名校的优质名师网络课程。 | Bǎinián dàjì, jiàoyù wéiběn. Jìn shí nián lái, guójiā cáizhèngxìng jiàoyù jīngfèi chíxù xiàng nóngcūn qīngxié, xīnjiàn gǎijiàn le shùyǐwànjì biāozhǔnhuà xiāngcūn zhōng-xiǎoxué. Zài zhè měi yì suǒ xiàndàihuà de xiàoyuán lǐ, piānyuǎn shānqū de háizimen dōunéng tōngguò kuāndài hùliánwǎng gòngxiǎng quánguó míngxiào de yōuzhì míngshī wǎngluò kèchéng. | Education is foundational to a nation's destiny. Over the past decade, public funding built tens of thousands of rural schools. In each modernized school, rural children access courses from top teachers via internet. | La enseñanza es cimiento de la nación. La inversión pública ha levantado decenas de miles de escuelas rurales en el interior. En cada una de estas escuelas los escolares acceden a lecciones magistrales por red.
