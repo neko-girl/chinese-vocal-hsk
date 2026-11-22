@@ -1,0 +1,63 @@
+id: 4
+hanzi: 缺乏
+pinyin: quē fá
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to lack; to be deficient in; shortage
+  es: carecer de; faltar; escasear; deficiencia
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to not have enough of something necessary (resources, experience, vitality, or confidence) | no disponer de la cantidad suficiente de algo indispensable o valioso | 缺乏实际经验 (lack practical experience)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 由于长期缺乏户外运动和充足的阳光照射，不少办公室白领出现了亚健康症状。 | Yóuyú chángqī quēfá hùwài yùndòng hé chōngzú de yángguāng zhàoshè, bùshǎo bàngōngshì báilǐng chūxiàn le yàjiànkāng zhèngzhuàng. | Due to a prolonged lack of outdoor exercise and sufficient sunshine, many office white-collar workers exhibit sub-health symptoms. | Debido a una prolongada carencia de ejercicio al aire libre y luz solar, muchos oficinistas manifiestan síntomas de fatiga crónica.
+  #2 | 这家初创公司在技术研发上极具前瞻性，但在海外市场开拓方面依然严重缺乏专业人才。 | Zhè jiā chūchuàng gōngsī zài jìshù yánfā shang jí jù qiánzhānxìng, dàn zài hǎiwài shìchǎng kāituò fāngmiàn yīrán yánzhòng quēfá zhuānyè réncái. | This startup is visionary in technology R&D, but still severely lacks experienced professionals in overseas market expansion. | Esta empresa emergente es visionaria en desarrollo técnico, pero aún acusa una grave falta de profesionales para expandirse al extranjero.
+
+collocations[6]{hanzi,en}:
+  缺乏经验 | lack experience
+  缺乏资金 | lack financial funds
+  缺乏信心 | lack confidence
+  缺乏证据 | lack evidence
+  严重缺乏 | severely lack
+  缺乏耐心 | lack patience
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  捉襟见肘 | zhuō jīn jiàn zhǒu | pull up sleeves and reveal elbows; severely strapped for resources
+  缺衣少食 | quē yī shǎo shí | short of food and clothing; living in dire poverty
+  供不应求 | gōng bù yìng qiú | supply falls short of demand; acute shortages
+  短斤少两 | duǎn jīn shǎo liǎng | give short weight; lack fair measure
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  缺 | quē | deficient; gap; lack | falta; defecto; hendidura | 缶 | earthenware pot | 缶 (earthen jar with chipped rim) | 夬 (guài / break off; phonetic) | 10 | 左右结构 | Pottery jar radical 缶 beside 夬 (archery glove/breach); an earthenware jar missing a chip on its rim, denoting an incomplete defect. | A clay pottery jar (缶) chipped and cracked at the rim (夬) shows an obvious gap or deficiency (缺). | Una vasija de arcilla (缶) desportillada en su borde (夬) muestra una hendidura o carencia (缺). | 55 | OUDK | 缺
+  乏 | fá | short of; tired; depleted | carente; exhausto; falto | 丿 | slash | distorted inverted pictograph of 正 (straight foot) | 乏 (fá) | 4 | 单一结构 | Inversion of 正 (walking upright); walking in reverse or limping from exhaustion, depleted of strength and provisions. | Footsteps wavering backward due to sheer exhaustion, signaling that vital energy has run out (乏). | Pasos tambaleantes que retroceden por agotamiento, señal de que las provisiones se han vaciado (乏). | 35 | HINO | 乏
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When a chipped pottery bowl (缺) runs out of provisions, you suffer from a total lack (缺乏).
+  composite_memory_hook_es: Cuando una vasija desportillada (缺) agota sus víveres, se padece una total escasez (缺乏).
+  cultural_and_cognitive_roots: Derived from ancient grain storage metaphors where cracked vessels leak grain, resulting in impoverishment.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by rising tone: 'quē fá' (55-35). Hold a clean high pitch on 'quē', then soar upward on 'fá'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    缺 | quē | lack; gap | Contains pottery radical 缶 on the left
+    决 | jué | decide; determine | Contains ice/water radical 冫 with 夬
+    乏 | fá | lacking; weary | 4 strokes starting with slanted撇 and horizontal line
+    之 | zhī | possessive particle; go | Top dot 丶 instead of slanted horizontal hook
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    少 | shǎo | few; little
+    短 | duǎn | short; deficient
+    贫 | pín | poor; destitute
+    耗 | hào | consume; deplete
+
+semantic_boundary_contrasts:
+  core_nuance: 缺乏 denotes the absence or insufficiency of intangible qualities or vital resources needed for success.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 缺乏 vs. 缺少 | quēshǎo | 缺少 is often used for countable items or people (缺少两人), while 缺乏 applies to abstract qualities (缺乏经验, 缺乏耐心).
+    2 | 缺乏 vs. 贫乏 | pínfá | 贫乏 implies utter cultural, spiritual, or linguistic poverty (语言贫乏), while 缺乏 simply means falling below necessary quota.
+    3 | 缺乏 vs. 损失 | sǔnshī | 损失 denotes tangible damage or loss of what was already possessed, while 缺乏 describes non-existence of resources.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 年轻人在职业规划初期往往缺乏对行业全貌的清醒认识，容易在盲目跟风中迷失方向。唯有多向经验丰富的行业前辈请教，踏踏实实深入一线岗位磨练，才能有效弥补知识结构的短板与实战能力的匮乏。 | Niánqīngrén zài zhíyè guīhuà chūqī wǎngwǎng quēfá duì hángyè quánmào de qīngxǐng rènshi, róngyì zài mángmù gēnfēng zhōng míshī fāngxiàng. Wéi yǒu duō xiàng jīngyàn fēngfù de hángyè qiánbèi qǐngjiào, tātā-shíshí shēnrù yīxiàn gǎngwèi móliàn, cái néng yǒuxiào míbǔ zhīshi jiégòu de duǎnbǎn yǔ shízhàn nénglì de kuìfá. | Young people often lack clear insight into their industries early in their careers, easily drifting with trends. Only by consulting veterans and gaining solid frontline experience can they remedy blind spots in their knowledge. | Los jóvenes carecen a menudo de una visión lúcida de su profesión al inicio, perdiéndose en modas. Sólo consultando a veteranos y fogueándose en el terreno compensarán las lagunas de su formación práctica.
+  #2 | 当年奈史密斯发明篮球运动时，学校正缺乏专门的室内器械与活动经费。然而物质条件的缺乏并没有阻碍创新的诞生，反倒逼迫他跳出思维惯性，用两只极为廉价的竹筐巧妙设计出风靡全球的体育项目。 | Dāngnián Nàishǐmīsī fāmíng lánqiú yùndòng shí, xuéxiào zhèng quēfá zhuānmén de shìnèi qìxiè yǔ huódòng jīngfèi. Rán'ér wùzhì tiáojiàn de quēfá bìng méiyǒu zǔ'ài chuàngxīn de dànshēng, fǎndào bīpò tā tiào chū sīwéi guànxìng, yòng liǎng zhī jíwéi liánjià de zhúkuāng qiǎomiào shèjì chū fēngmí quánqiú de tǐyù xiàngmù. | When Naismith invented basketball, the school lacked indoor apparatus and athletic funding. Yet this material scarcity never stifled innovation; instead, it prompted him to break mental ruts and use two cheap peach baskets to birth a worldwide sport. | Cuando Naismith ideó el baloncesto, la escuela carecía de equipamiento y fondos. Lejos de frenar la creatividad, tal escasez le forzó a quebrar la rutina, concibiendo con dos canastas baratas un deporte universal.

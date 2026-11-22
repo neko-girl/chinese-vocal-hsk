@@ -1,0 +1,63 @@
+id: 23
+hanzi: 散布
+pinyin: sàn bù
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to spread; disseminate; diffuse; scatter
+  es: difundir; esparcir; diseminar; propagar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to spread rumors, information, or opinions widely; to scatter objects across a surface | propagar o difundir rumores, noticias o doctrinas en diversas direcciones; diseminar | 散布谣言 (spread rumors)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 秦相范雎派间谍潜入邯郸，四处散布“秦军只怕赵奢之子赵括”的谣言，企图实施反间计。 | Qínxiàng Fàn Jū pài jiàndié qiánrù Hándān, sìchù sànbù 'Qínjūn zhǐ pà Zhào Shē zhī zǐ Zhào Kuò' de yáoyán, qǐtú shíshī fǎnjiànjì. | Qin's minister sent spies into Handan to spread rumors that 'Qin feared only Zhao Kuo,' aiming to carry out counter-espionage. | El canciller de Qin infiltró espías en Handan para propagar rumores de que Qin solo temía a Zhao Kuo, urdiendo un ardid de contraespionaje.
+  #2 | 在现代互联网公共空间中，任何网民都应当自觉抵制并拒绝散布未经证实的虚假消息。 | Zài xiàndài hùliánwǎng gōnggòng kōngjiān zhōng, rènhé wǎngmín dōu yīngdāng zìjué dǐzhì bìng jùjué sànbù wèijīng zhèngshí de xūjiǎ xiāoxi. | In modern internet cyberspace, every netizen should consciously resist and refuse to disseminate unverified false information. | En el ciberespacio actual, los internautas deben abstenerse conscientemente de difundir informaciones falsas no corroboradas.
+
+collocations[6]{hanzi,en}:
+  散布谣言 | spread rumors / hearsay
+  散布虚假信息 | disseminate false information
+  四处散布 | disseminate everywhere
+  散布言论 | spread statements / opinions
+  散布种子 | scatter seeds (literal)
+  散布恐惧 | spread fear and panic
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  造谣生事 | zào yáo shēng shì | concoct rumors and stir up trouble
+  风言风语 | fēng yán fēng yǔ | groundless talk and malicious slander in the wind
+  满城风雨 | mǎn chéng fēng yǔ | the whole town is rife with gossip and rumors
+  防民之口，甚于防川 | fáng mín zhī kǒu, shèn yú fáng chuān | stopping people's mouths is more dangerous than stopping a river
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  散 | sàn | scatter; disperse; spread; break up | dispersar; esparcir; desbandar; difundir | 攵 | tap / strike | 𢽳/𣏟 (hemp fibers beaten out) + 攵 (striking stick) | 散 (sàn) | 12 | 左右结构 | Beating bundles of hemp with a stick 攵 so the fibers separate and scatter widely 散. | Beating flax fibers with a rod (攵) so they disperse and scatter in all directions (散). | Golpear gavillas con una vara (攵) para que las fibras se dispersen en todas direcciones (散). | 51 | TBOK | 散
+  布 | bù | cloth; spread; declare; deploy | tela; paño; difundir; desplegar; proclamar | 巾 | cloth / fabric | 巾 (woven cloth) + 𠂇 (hand spreading it out) | 布 (bù) | 5 | 半包围结构 | A hand spreading out a woven bolt of cloth 巾 across the counter; signifies diffusing and publishing. | Unrolling and spreading a long bolt of cloth (巾) across a broad table (布). | Desenrollar y extender un lienzo de tela (巾) con la mano sobre la mesa (布). | 51 | KLB | 布
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Scattering outward in fragments (散) and spreading wide like a roll of cloth (布) means to disseminate (散布).
+  composite_memory_hook_es: Dispersar en fragmentos (散) y extender a lo ancho como un paño de tela (布) conforma la difusión (散布).
+  cultural_and_cognitive_roots: Associated with psychological warfare (反间计) in classical statecraft where false rumors were circulated into rival courts.
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'sàn bù' (51-51). Articulate both syllables with decisive downward force.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    敦 | dūn | honest; sincere | Xiang 享 on left instead of 𣏟
+    敬 | jìng | respect | Gou 苟 on left of 攵 instead of 𣏟
+    希 | xī | hope; rare | Contains 爻/乂-like strokes on top of 巾
+    市 | shì | city; market | Dot and horizontal bar over 巾 instead of 𠂇
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    散发 | sànfā | distribute; emit
+    分散 | fēnsàn | disperse; scatter
+    公布 | gōngbù | promulgate; announce
+    分布 | fēnbù | distribute; spread over
+
+semantic_boundary_contrasts:
+  core_nuance: 散布 carries a negative or covert connotation when applied to rumors, panic, or false stories.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 散布 vs. 传播 | chuánbō | 传播 is a neutral or positive term for spreading knowledge or culture, while 散布 often targets rumors or toxic ideas.
+    2 | 散布 vs. 辟谣 | pìyáo | 辟谣 is the direct antonym meaning to debunk and refute false rumors.
+    3 | 散布 vs. 搜集 | sōují | 搜集 means gathering and collecting materials in one place, opposite to scattering outward 散布.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 秦国名臣范雎深知正面强攻赵国壁垒难以奏效，便以千金巨资派细作潜入赵国都城邯郸，秘密散布流言，称“秦国独畏赵奢之子赵括为将，廉颇老矣不堪一击”。赵王听信了这番散布的谣言，果然中计换将。 | Qínguó míngchén Fàn Jū shēnzhī zhèngmiàn qiánggōng Zhàoguó bìlěi nányǐ zòuxiào, biàn yǐ qiānjīn jùzī pài xìzuò qiánrù Zhàoguó dūchéng Hándān, mìmì sànbù liúyán, chēng 'Qínguó dú wèi Zhào Shē zhī zǐ Zhào Kuò wéi jiàng, Lián Pō lǎo yǐ bùkān-yījī'. Zhàowáng tīngxìn le zhè fān sànbù de yáoyán, guǒrán zhòngjì huànjiàng. | Knowing storming Zhao's bastions would fail, Qin's minister Fan Ju sent spies into Handan with bribes to spread rumors: 'Qin fears only Zhao Kuo; Lian Po is old and weak.' Duped by the rumors, King Zhao replaced his general. | Sabiendo que asaltar las murallas de Zhao costaría caro, Fan Ju infiltró espías en Handan para difundir bulos: 'Qin solo teme a Zhao Kuo; Lian Po está viejo y acabado.' Engañado por los rumores, el rey de Zhao relevó al general.
+  #2 | 在当今信息爆炸的网络时代，虚假信息与恶意谣言的散布速度之快、影响之广前所未有。广大公众应当提高自身的信息鉴别能力，不盲从、不偏信，做到“谣言止于智者”，共同维护清朗健康的网络舆论生态环境。 | Zài dāngjīn xìnxī-bàozhà de wǎngluò shídài, xūjiǎ xìnxī yǔ èyì yáoyán de sànbù sùdù zhī kuài, yǐngxiǎng zhī guǎng qiánsuǒwèiyǒu. Guǎngdà gōngzhòng yīngdāng tígāo zìshēn de xìnxī jiànbié nénglì, bù mángcóng, bù piānxìn, zuòdào 'yáoyán zhǐ yú zhìzhě', gòngtóng wéihù qīnglǎng jiànkāng de wǎngluò yúlùn shēngtài huánjìng. | In today's digital era, false information and malicious rumors spread at unprecedented speeds. The public must sharpen critical thinking to avoid gullibility; as the proverb goes, 'rumors stop with the wise,' safeguarding a healthy cyberspace. | En la era digital, la difusión de bulos y noticias falsas se propaga con rapidez insólita. La ciudadanía debe aguzar su juicio crítico para no caer en patrañas; como reza el refrán, 'el rumor cesa ante el sabio', protegiendo el entorno público.

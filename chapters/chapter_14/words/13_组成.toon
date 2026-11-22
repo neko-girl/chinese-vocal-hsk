@@ -1,0 +1,63 @@
+id: 13
+hanzi: 组成
+pinyin: zǔ chéng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to compose; form; constitute; component
+  es: componer; formar; constituir; conformar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to combine individual elements or members together into a coherent whole or organization | combinar elementos o integrantes individuales para formar un todo u organización | 由……组成 (be composed of ...)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经典的北京四合院由正房、倒座房以及东西两座对称的厢房组合围成，形式浑然一体。 | Jīngdiǎn de Běijīng sìhéyuàn yóu zhèngfáng, dàozuòfáng yǐjí dōngxī liǎng zuò duìchèn de xiāngfáng zǔhé wéichéng, xíngshì húnrányītǐ. | The classic Beijing courtyard is formed by the main room, reverse front room, and two symmetrical side wings, creating an integrated whole. | El clásico patio pekinés está constituido por la sala principal, la habitación frontal y dos alas laterales simétricas, formando una unidad armónica.
+  #2 | 本次联合考察队由地质勘探专家、生物学者以及数位资深摄影师共同组成。 | Běncì liánhé kǎocháduì yóu dìzhì kāntàn zhuānjiā, shēngwù xuézhě yǐjí shù wèi zīshēn shèyǐngshī gòngtóng zǔchéng. | This joint expedition team is composed of geological survey specialists, biologists, and several veteran photographers. | La expedición conjunta está integrada por especialistas en exploración geológica, biólogos y varios fotógrafos experimentados.
+
+collocations[6]{hanzi,en}:
+  组成部分 | constituent part; integral component
+  由……组成 | be composed / formed of
+  组成小组 | form a working team
+  基本组成 | basic makeup / structural makeup
+  人员组成 | personnel composition
+  组成联盟 | form an alliance
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  聚沙成塔 | jù shā chéng tǎ | grains of sand build a pagoda; small efforts accumulate to big feats
+  众志成城 | zhòng zhì chéng chéng | unity of will forms an impregnable fortress
+  融为一体 | róng wéi yī tǐ | fuse into an indivisible whole
+  相辅相成 | xiāng fǔ xiāng chéng | complement and reinforce each other
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  组 | zǔ | braid; organize; form; group | trenzar; organizar; agrupar; serie | 纟 | silk / thread | 纟 (threads/cords) + 且 (ancestral altar/heaping stones) | 且 (qiě / phonetic root) | 8 | 左右结构 | Silken cords 纟 woven and tied together around ceremonial markers 且; to organize into a firm group. | Weaving silk strings (纟) into neat patterned bands to unite members into a group (组). | Trenzar cordones de seda (纟) en bandas uniformes para congregar miembros en un grupo (组). | 214 | VMBM | 組
+  成 | chéng | become; complete; achieve; succeed | convertirse en; completar; lograr; éxito | 戈 | dagger-axe / weapon | 戊 (weapon / axe) + 丁 (striking pin / nail) | 成 (chéng) | 6 | 单一结构 | A warrior completing a task through decisive action with a halberd 戈; signifies completion. | Using a weapon tool (戈) decisively to accomplish and finish a great work (成). | Blandir la alabarda (戈) con determinación para culminar y completar una gran obra (成). | 35 | IHS | 成
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Weaving threads together (组) to accomplish a completed structure (成) means to compose or form (组成).
+  composite_memory_hook_es: Entrelazar hebras (组) hasta culminar una estructura completa (成) conforma el acto de componer (组成).
+  cultural_and_cognitive_roots: Originates from weaving terminology where separate strands unite into strong textiles, applied to systems and groups.
+  tone_sandhi_and_pitch_modulation: Third tone to second tone: 'zǔ chéng' (214-35). Dip the voice deeply on 'zǔ' and soar smoothly on 'chéng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    阻 | zǔ | block; hinder | Mound radical 阝 on the left instead of 纟
+    租 | zū | rent; lease | Grain radical 禾 on the left instead of 纟
+    城 | chéng | city; wall | Earth radical 土 to the left of 成
+    诚 | chéng | honest; sincere | Speech radical 讠 to the left of 成
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    构成 | gòuchéng | constitute; construct
+    组织 | zǔzhī | organization; to organize
+    合成 | héchéng | synthesize; compound
+    成立 | chénglì | establish; found
+
+semantic_boundary_contrasts:
+  core_nuance: 组成 stresses the dynamic assembly or structural parts comprising an integrated whole.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 组成 vs. 构成 | gòuchéng | 构成 focuses more on abstract structural formation or legal elements, whereas 组成 often deals with tangible components or teams.
+    2 | 组成 vs. 组织 | zǔzhī | 组织 denotes the managerial act of coordinating people or an enterprise, while 组成 states the compositional ingredients.
+    3 | 组成 vs. 拆散 | chāisàn | 拆散 is the complete direct antonym meaning to dismantle or break up an assembled entity.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统四合院建筑的奇妙之处，在于它由几个独立单体建筑巧妙组成。正房、厢房与门楼通过抄手游廊相互勾连，共同组成一个围合的天井庭院。各个部分各司其职，在空间上形成紧密呼应的和谐整体。 | Zhōngguó chuántǒng sìhéyuàn jiànzhù de qímiào zhīchù, zàiyú tā yóu jǐ gè dúlì dāntǐ jiànzhù qiǎomiào zǔchéng. Zhèngfáng, xiāngfáng yǔ ménlóu tōngguò chāoshǒu yóuláng xiānghù gōulián, gòngtóng zǔchéng yī gè wéihé de tiānjǐng tíngyuàn. Gègè bùfen gè sī qí zhí, zài kōngjiān shang xíngchéng jǐnmì hūyìng de héxié zhěngtǐ. | The wonder of traditional Chinese courtyards lies in being cleverly composed of several independent individual buildings. The main room, wings, and gatehouse connect via covered verandas, together forming an enclosed courtyard. | La maravilla del siheyuan estriba en componerse ingeniosamente de varios edificios independientes. La sala principal, las alas y el pórtico se enlazan mediante galerías, conformando un patio cerrado que armoniza en un todo solidario.
+  #2 | 在现代科学视角下，任何繁复的物质系统都是由微小基础单元组成的。比如细胞由生物分子组成，大厦由砖石钢筋组成，精密的计算机程序由一行行逻辑代码组成。理解了基础组成的规律，就能在复杂现象中把握本质。 | Zài xiàndài kēxué shìjiǎo xià, rènhé fánfù de wùzhì xìtǒng dōu shì yóu wēixiǎo jīchǔ dānyuán zǔchéng de. Bǐrú xìbāo yóu shēngwù fēnzǐ zǔchéng, dàshà yóu zhuānshí gāngjīn zǔchéng, jīngmì de jìsuànjī chéngxù yóu yī háng háng luóji dàimǎ zǔchéng. Lǐjiě le jīchǔ zǔchéng de guīlǜ, jiù néng zài fùzá xiànxiàng zhōng bǎwò běnzhì. | From the perspective of modern science, any complex physical system is composed of tiny fundamental units. Cells are made of molecules, towers composed of bricks and steel, and programs composed of code. Grasping these basic components clarifies the essence. | Bajo la mirada científica moderna, todo sistema complejo se compone de diminutas unidades básicas: las células se componen de biomoléculas, los edificios de acero y piedra, y el software de líneas de código lógico.

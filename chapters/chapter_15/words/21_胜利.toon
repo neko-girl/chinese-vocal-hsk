@@ -1,0 +1,63 @@
+id: 21
+hanzi: 胜利
+pinyin: shèng lì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to win victory; triumph; victory; successfully
+  es: vencer; triunfar; victoria; triunfo; con éxito
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to vanquish an opponent, win a contest or battle, or achieve success in an undertaking | derrotar al adversario, coronar con éxito una batalla o alcanzar el triunfo en un empeño | 取得辉煌胜利 (achieve a glorious victory)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 秦军凭借高超的诱敌战术与严密的包围圈，在惨烈的长平之战中取得了决定性的战略胜利。 | Qínjūn píngjiè gāochāo de yòudí zhànshù yǔ yánmì de bāowéiquān, zài cǎnliè de Chángpíng zhī zhàn zhōng qǔdé le juédìngxìng de zhànlüè shènglì. | Relying on tactics of luring the enemy and tight encirclement, Qin secured a decisive strategic victory at the Battle of Changping. | Valiéndose de astutas celadas y un cerco impenetrable, el ejército de Qin obtuvo una decisiva victoria estratégica en Changping.
+  #2 | 经过长达数年的艰苦攻关，该科研项目终于胜利完成了全部核心技术指标的验证工作。 | Jīngguò cháng dá shù nián de jiānkǔ gōngguān, gāi kēyán xiàngmù zhōngyú shènglì wánchéng le quánbù héxīn jìshù zhǐbiāo de yànzhèng gōngzuò. | After years of arduous research breakthroughs, the scientific project finally concluded the verification of all core technical benchmarks with success. | Tras años de abnegada investigación, el proyecto culminó con éxito la verificación de todos sus parámetros técnicos primordiales.
+
+collocations[6]{hanzi,en}:
+  取得胜利 | achieve / win victory
+  胜利闭幕 | successfully conclude (a congress/meeting)
+  胜利成果 | fruits of victory
+  走向胜利 | march toward triumph
+  重大胜利 | major / momentous victory
+  胜利在望 | victory in sight
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  旗开得胜 | qí kāi dé shèng | win victory at the first unfurling of the flag
+  克敌制胜 | kè dí zhì shèng | vanquish the foe and secure victory
+  战无不胜 | zhàn wú bù shèng | invincible in every battle; triumph in all campaigns
+  反败为胜 | fǎn bài wéi shèng | turn defeat into victory at the critical juncture
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  胜 | shèng | win; victory; surpass; bear; superb | vencer; triunfar; superar; magnífico | 月 | flesh / organ | 月/肉 (flesh / inner sinew strength) + 𢎘/生 (bursting upward growth) | 𢎘 (shèng) | 9 | 左右结构 | Robust muscular endurance 月 overcoming obstacles to rise above all rivals 生; to vanquish. | Muscular vitality (月) surging forth with explosive power to conquer challenges (胜). | La pujanza física (月) emergiendo con vigor invicto para superar al oponente (胜). | 51 | BFQ | 勝
+  利 | lì | sharp; benefit; profit; favorable | afilado; beneficio; provecho; favorable | 刂 | knife / blade | 禾 (ripe grain crop) + 刂 (reaping sickle blade) | 利 (lì) | 7 | 左右结构 | A sharp sickle 刂 harvesting golden ripe grain stalks 禾 with swift ease; signifies reaping benefits and success. | A sharp blade (刂) smoothly cutting golden grain stalks (禾) to reap a bountiful harvest (利). | Una hoz afilada (刂) segando espigas doradas (禾) para recoger una cosecha provechosa (利). | 51 | HDN | 利
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Vanquishing an adversary through strength (胜) and reaping the fruitful spoils (利) defines victory (胜利).
+  composite_memory_hook_es: Superar al adversario en la contienda (胜) y recoger los frutos laureados (利) constituye la victoria (胜利).
+  cultural_and_cognitive_roots: Blends martial triumph over rivals with the auspicious harvest of benefits and peace.
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'shèng lì' (51-51). Pronounce both syllables with energetic, triumphant downward inflection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    脸 | liǎn | face | Lian 佥 on right of 月 instead of 𢎘
+    服 | fú | clothes; obey | Fu 𠬝 on right of 月 instead of 𢎘
+    科 | kē | science | Dipper 斗 on right of 禾 instead of 刂
+    和 | hé | harmony; with | Mouth 口 on right of 禾 instead of 刂
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    胜利者 | shènglìzhě | victor; winner
+    获胜 | huòshèng | win victory; triumph
+    利益 | lìyì | benefit; interest
+    利用 | lìyòng | utilize; exploit
+
+semantic_boundary_contrasts:
+  core_nuance: 胜利 indicates triumphant conquest of an opponent, challenge, or military campaign.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 胜利 vs. 失败 | shībài | 失败 is the direct antonym meaning defeat, failure, or collapse.
+    2 | 胜利 vs. 成功 | chénggōng | 成功 is broader and applies to fulfilling personal plans or tasks, while 胜利 strongly implies defeating a rival in a contest or battle.
+    3 | 胜利 vs. 平局 | píngjú | 平局 means a tie or draw, where neither side secures 胜利.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 长平之战的胜利，使秦国彻底摧毁了东方六国中军事实力最强的赵国主力。秦军主帅白起以高超的诱敌与穿插包围战术载入史册。这场巨大的军事胜利，为后来秦始皇吞并六国、一统华夏奠定了坚实的战略基础。 | Chángpíng zhī zhàn de shènglì, shǐ Qínguó chèdǐ cuīhuǐ le dōngfāng liùguó zhōng jūnshì shílì zuì qiáng de Zhàoguó zhǔlì. Qínjūn zhǔshuài Bái Qǐ yǐ gāochāo de yòudí yǔ chuānchā-bāowéi zhànshù zǎirù shǐcè. Zhè chǎng jùdà de jūnshì shènglì, wèi hòulái Qín Shǐhuáng tūnbìng liùguó, yītǒng Huáxià diàndìng le jiānshí de zhànlüè jīchǔ. | Victory at Changping allowed Qin to crush the elite army of Zhao, the strongest among the six states. General Bai Qi's brilliant tactics entered history. This monumental victory laid the strategic foundation for Qin Shihuang's unification of China. | La victoria en Changping permitió a Qin aniquilar al ejército de Zhao, el rival más formidable de los reinos orientales. Las maniobras de Bai Qi pasaron a la historia, sentando las bases estratégicas para la unificación de China.
+  #2 | 在漫长曲折的人生征程中，真正的胜利从来不是唾手可得的偶然幸运，而是无数个日夜默默耕耘、百折不挠的必然奖赏。在挫折面前永不放弃、在逆境中越战越勇的人，最终必将迎来属于自己的辉煌胜利。 | Zài màncháng-qūzhé de rénshēng zhēngchéng zhōng, zhēnzhèng de shènglì cónglái bùshì tuòshǒu-kědé de ǒurán xìngyùn, ér shì wúshù gè rìyè mòmò gēngyún, bǎizhé-bùnáo de bìrán jiǎngshǎng. Zài cuòzhé miànqián yǒng bù fàngqì, zài nìjìng zhōng yuè zhàn yuè yǒng de rén, zuìzhōng bìjiāng yínglái shǔyú zìjǐ de huīhuáng shènglì. | On life's winding journey, authentic victory is never a windfall of luck, but the inevitable reward for quiet dedication and unyielding resilience. Those who refuse to surrender before adversity will embrace their glorious triumph in the end. | En la travesía de la vida, el triunfo auténtico no es fruto del azar, sino el premio al tesón callado y a la entereza indomable. Quien no ceja ante los reveses y se crece en el infortunio alcanza tarde o temprano su propia victoria.

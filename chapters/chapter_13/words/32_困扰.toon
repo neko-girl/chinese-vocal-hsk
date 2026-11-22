@@ -1,0 +1,64 @@
+id: 32
+hanzi: 困扰
+pinyin: kùn rǎo
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to perplex; trouble; haunt; distress; dilemma
+  es: atormentar; agobiar; desconcertar; quebradero de cabeza
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to cause someone persistent worry, difficulty, or psychological perplexity | inquietar o causar desazón mental continua ante un problema difícil de resolver | 深受失眠问题的困扰 (deeply troubled by insomnia problems)
+  2 | Noun | Standard | a nagging difficulty, dilemma, or source of perplexity | motivo de honda preocupación o dilema persistente | 摆脱长期的生活困扰 (shake off long-term troubles of life)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 连续数周的高强度加班和日益严苛的业绩考核，让这位年轻的项目总监饱受焦虑和失眠的困扰。 | Liánxù shù zhōu de gāo qiángdù jiābān hé rìyì yánkē de yèjì kǎohé, ràng zhè wèi niánqīng de xiàngmù zǒngjiān bǎoshòu jiāolǜ hé shīmián de kùnrǎo. | Weeks of intense overtime and increasingly harsh performance metrics left the young project director deeply troubled by anxiety and insomnia. | Semanas consecutivas de horas extras y exigentes evaluaciones de rendimiento dejaron al joven director de proyectos agobiado por el insomnio y la ansiedad.
+  #2 | 长期困扰该地区经济发展的交通瓶颈问题，终于在新建的高速公路通车后得到了根本性缓解。 | Chángqī kùnrǎo gāi dìqū jīngjì fāzhǎn de jiāotōng píngjǐng wèntí, zhōngyú zài xīnjiàn de gāosù gōnglù tōngchē hòu dédào le gēnběnxìng huǎnjiě. | The transportation bottleneck that had long troubled regional economic development was fundamentally alleviated once the new expressway opened. | El cuello de botella logístico que atormentaba el desarrollo económico comarcal se resolvió con la inauguración de la nueva autovía.
+
+collocations[6]{hanzi,en}:
+  深受困扰 | deeply troubled / harassed
+  摆脱困扰 | cast off troubles / perplexities
+  解决困扰 | resolve a nagging difficulty
+  带来困扰 | bring distress or trouble
+  长期困扰 | long-term dilemma / trouble
+  精神困扰 | mental / psychological distress
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  焦头烂额 | jiāo tóu làn é | scorched head and battered forehead; overwhelmed with distress
+  心烦意乱 | xīn fán yì luàn | agitated and confused; perturbed in mind
+  不知所措 | bù zhī suǒ cuò | at one's wits' end; not knowing what to do
+  忧心忡忡 | yōu xīn chōng chōng | laden with heavy anxieties and care
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  困 | kùn | trapped; surrounded; hard-pressed | acorralado; sitiado; fatigado | 囗 | enclosure | 囗 (enclosing perimeter) + 木 (tree / timber) | 困 (kùn) | 7 | 全包围结构 | A tree 木 trapped tightly within an enclosure 囗; unable to grow or spread roots, symbolizing being trapped in dire straits. | A leafy tree (木) confined inside a cramped stone wall (囗), stunted and trapped in distress (困). | Un árbol (木) enclaustrado dentro de cuatro muros (囗), asfixiado y atrapado en apuros (困). | 51 | WDI | 困
+  扰 | rǎo | disturb; trouble; harass; agitate | molestar; perturbar; desasosegar | 扌 | hand | 扌 (restless hand) + 尤 (outstanding / faulty) | 尤 (yóu / phonetic association) | 7 | 左右结构 | Hand radical 扌 beside 尤; restless hands stirring up trouble, creating irritation and emotional agitation. | A meddling hand (扌) stirring up trouble (尤) to disturb domestic peace (扰). | Una mano inquieta (扌) que agita y remueve discordias (尤) turbando la paz (扰). | 214 | QIKU | 擾
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Being trapped like a walled-in tree (困) while agitated by meddling hands (扰) produces deep distress (困扰).
+  composite_memory_hook_es: Estar acorralado sin salida (困) mientras te inquietan agitaciones ajenas (扰) genera hondo agobio (困扰).
+  cultural_and_cognitive_roots: Blends spatial confinement (困) with psychic agitation (扰) into an evocative compound for modern dilemmas.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by dipping third tone: 'kùn rǎo' (51-214). Drop decisively on 'kùn', then dip low and scoop upward on 'rǎo'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    困 | kùn | trapped; sleepy | Tree 木 inside enclosure 囗
+    因 | yīn | cause; reason | Big 大 inside enclosure 囗
+    扰 | rǎo | disturb | Hand radical 扌 on left with 尤
+    拢 | lǒng | gather; draw together | Hand radical 扌 on left with 龙
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    烦 | fán | vexed; troublesome
+    恼 | nǎo | irritated; angry
+    缠 | chán | entangle; pester
+    乱 | luàn | chaos; disorder
+
+semantic_boundary_contrasts:
+  core_nuance: 困扰 denotes persistent psychological vexation or chronic technical dilemmas requiring resolution.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 困扰 vs. 骚扰 | sāorǎo | 骚扰 involves malicious, intrusive harassment from external predators or spam, whereas 困扰 is an ongoing internal mental distress or technical bottleneck.
+    2 | 困扰 vs. 打扰 | dǎrǎo | 打扰 is a polite colloquial term for interrupting someone temporarily (打扰一下), without deep existential anguish.
+    3 | 困扰 vs. 障碍 | zhàng'ài | 障碍 refers to concrete tangible physical or policy barriers, while 困扰 is cognitive distress.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 很多职场人在面对海量碎片化信息与无休止的即时通讯时，常常深陷注意力涣散与精神焦虑的困扰。若想重获心灵的宁静与工作的高效，就必须勇于自我设限，学会定期给大脑做‘断舍离’的清理减负。 | Hěnduō zhíchǎngrén zài miànduì hǎiliàng suìpiànhuà xìnxī yǔ wúxiūzhǐ de jíshí tōngxùn shí, chángcháng shēnxiàn zhùyìlì huànsàn yǔ jīngshén jiāolǜ de kùnrǎo. Ruò xiǎng chónghuò xīnlíng de níngjìng yǔ gōngzuò de gāoxiào, jiù bìxū yǒngyú zìwǒ shèxiàn, xuéhuì dìngqī gěi dànǎo zuò 'duànshělí' de qīnglǐ jiǎnfù. | Faced with fragmented info and endless instant chats, professionals suffer from distraction and anxiety. To regain mental peace and work efficiency, one must dare to set boundaries and declutter the brain regularly. | Ante la avalancha de mensajes instantáneos, muchos profesionales padecen dispersión y agobio. Para recobrar la calma y rendir con eficacia, urge fijar límites y depurar la sobrecarga mental.
+  #2 | 在篮球运动诞生最初的那段岁月里，每次投篮进球后的强制取球停顿，曾是让所有人焦头烂额的巨大困扰。大家习惯性地在‘如何更省力地把球取出来’的固有逻辑里打转，直到锯开筐底的直截了当，才彻底粉碎了这一旷日持久的困扰。 | Zài lánqiú yùndòng dànshēng zuìchū de nà duàn suìyuè lǐ, měicì tóulán jìnqiú hòu de qiángzhì qǔ qiú tíngdùn, céng shì ràng suǒyǒurén jiāotóu-làn'é de jùdà kùnrǎo. Dàjiā xíguànxìng de zài 'rúhé gèng shěnglì de bǎ qiú qǔ chūlái' de gùyǒu luóji lǐ dǎzhuàn, zhídào jù kāi kuāngdǐ de zhíjié-liǎodàng, cái chèdǐ fěnsuì le zhè yí kuàngrì-jiǔchí de kùnrǎo. | In basketball's nascent days, retrieving balls after scores was a persistent headache. People circled round the premise of 'how to extract balls with less effort', until sawing off the bottoms shattered this chronic dilemma. | En la infancia del baloncesto, recuperar el balón tras encestar fue un agobio constante. Todos cavilaban sobre cómo extraerlo con menos esfuerzo, hasta que una sierra abrió la base extirpando el quebradero de cabeza.

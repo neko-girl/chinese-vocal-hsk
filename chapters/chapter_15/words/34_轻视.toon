@@ -1,0 +1,63 @@
+id: 34
+hanzi: 轻视
+pinyin: qīng shì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to look down upon; underestimate; belittle; slight
+  es: menospreciar; subestimar; desestimar; desdeñar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to treat someone or something with condescension, insufficient seriousness, or disdain | tratar a alguien o algo con desdén, falta de seriedad o subestimación | 轻视对手 (underestimate the opponent)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括自夸天下用兵莫能当，公然轻视身经百战的廉颇老将，结果在长平决战中酿成滔天大祸。 | Zhào Kuò zìkuā tiānxià yòngbīng mò néng dāng, gōngrán qīngshì shēnjīng-bǎizhàn de Lián Pō lǎojiàng, jiéguǒ zài Chángpíng juézhàn zhōng niàngchéng tāotiān dàhuò. | Zhao Kuo boasted none could match his military skills and openly belittled the veteran general Lian Po, causing a monumental catastrophe at Changping. | Zhao Kuo presumía de ser inigualable en la guerra y menospreció al veterano Lian Po, desatando una catástrofe sin igual en Changping.
+  #2 | 在激烈的市场竞争中，任何成熟企业都绝不能轻视初创小微企业的创新活力与颠覆潜力。 | Zài jīliè de shìchǎng jìngzhēng zhōng, rènhé chéngshú qǐyè dōu jué bù néng qīngshì chūchuàng xiǎowēi qǐyè de chuàngxīn huólì yǔ diānfù qiánlì. | In fierce market rivalry, no established firm must ever underestimate the innovative vigor and disruptive potential of emerging startups. | En la encarnizada competencia mercantil, ninguna gran empresa debe desestimar el dinamismo innovador de las empresas emergentes.
+
+collocations[6]{hanzi,en}:
+  轻视对手 | underestimate an opponent
+  轻视困难 | make light of difficulties
+  受到轻视 | be slighted / looked down upon
+  不容轻视 | cannot be taken lightly
+  轻视经验 | belittle practical experience
+  轻视细节 | overlook minor details
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  骄兵必败 | jiāo bīng bì bài | an arrogant army is bound to suffer defeat
+  不可小觑 | bù kě xiǎo qù | not to be underestimated or taken lightly
+  等闲视之 | děng xián shì zhī | treat as ordinary and of no significance; dismiss lightly
+  自视甚高 | zì shì shèn gāo | think very highly of oneself; pretentious
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  轻 | qīng | light; slight; gentle; frivolous | ligero; leve; suave; frívolo | 车 | cart / chariot | 车 (war chariot / weight) + 𢀖 (weaving shuttle flying swiftly) | 𢀖 (qīng) | 9 | 左右结构 | A light vehicle 车 darting effortlessly like a weaver's shuttle 𢀖; signifies light weight and lack of seriousness. | A light wagon (车) gliding along swiftly without heavy burden (轻). | Un carromato ligero (车) que avanza con soltura sin peso excesivo (轻). | 55 | KQNOM | 輕
+  视 | shì | look; gaze; inspect; regard | mirar; observar; inspeccionar; considerar | 礻 | spirit / display | 礻/示 (reveal / examine) + 见 (see / behold) | 示 (shì) | 8 | 左右结构 | To fix one's eyes 见 upon an altar 礻 to observe closely; denotes inspecting, seeing, and regarding. | Observing (见) signs shown before the altar (礻) to judge their importance (视). | Mirar con atención (见) las señales sagradas (礻) para valorar su alcance (视). | 51 | IFHU | 視
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Viewing (视) someone as weighing nothing (轻) means underestimating or belittling them (轻视).
+  composite_memory_hook_es: Mirar (视) a alguien como si no tuviera peso alguno (轻) equivale a menospreciarlo (轻视).
+  cultural_and_cognitive_roots: Derives from contrasting weight (heavy vs. light), where 'heavy' equals respect and 'light' equals contempt.
+  tone_sandhi_and_pitch_modulation: First tone to fourth tone: 'qīng shì' (55-51). High level pitch dropping sharply on 'shì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    经 | jīng | pass through; scripture | Radical 纟 on left instead of cart 车
+    轮 | lún | wheel | Right side 仑 instead of 𢀖
+    规 | guī | rule; regulate | Left side 夫 instead of 礻
+    现 | xiàn | appear; present | Jade 王 on left instead of 礻
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    轻蔑 | qīngmiè | scornful; contemptuous
+    轻浮 | qīngfú | frivolous; flippant
+    藐视 | miǎoshì | disdain; look down upon
+    重视 | zhòngshì | attach importance to; value
+
+semantic_boundary_contrasts:
+  core_nuance: 轻视 refers to undervaluing, taking lightly, or condescending toward an opponent, duty, or risk.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 轻视 vs. 蔑视 | mièshì | 蔑视 carries visceral moral disdain or scorn, whereas 轻视 primarily means underestimating strength or importance.
+    2 | 轻视 vs. 忽视 | hūshì | 忽视 means overlooking unintentionally due to negligence, while 轻视 involves conscious underestimation.
+    3 | 轻视 vs. 歧视 | qíshì | 歧视 denotes unfair prejudice against a demographic group, whereas 轻视 applies to specific opponents or tasks.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古兵法有言：“轻敌者必受制于人。”赵括熟读兵法典籍，自以为通晓天下战阵，因而极度轻视廉颇的固守策略与秦军将领的智谋。正是这种对强敌的轻视与狂傲，最终让他付出了全军覆没的惨烈代价。 | Gǔ bīngfǎ yǒu yán: 'Qīngdí zhě bì shòuzhì yú rén.' Zhào Kuò shúdú bīngfǎ diǎnjí, zìyǐwéi tōngxiǎo tiānxià zhànzhèn, yīn'ér jídù qīngshì Lián Pō de gùshǒu cèlüè yǔ Qín jūn jiànglǐng de zhìmóu. Zhèng shì zhè zhǒng duì qiángdí de qīngshì yǔ kuáng'ào, zuìzhōng ràng tā fùchū le quánjūn fùmò de cǎnliè dàijià. | Ancient military wisdom says: 'He who slights the enemy will be subdued by him.' Zhao Kuo believed he knew all warfare, belittling Lian Po's defense and Qin's cunning. This arrogance and underestimation of his foe cost him the annihilation of his army. | La doctrina militar antigua dictaba: 'Quien subestima al rival termina sometido.' Zhao Kuo creía saberlo todo y desdeñó la prudente defensa de Lian Po y el ingenio de Qin. Esa arrogancia le costó la total destrucción de sus tropas.
+  #2 | 无论个人修养还是事业发展，都切忌轻视微小的积累与潜在的危险。千里之堤溃于蚁穴，很多看似无足轻重的隐患，往往因为受到人们的长期轻视而演变为难以挽回的灾难。保持谦逊谨慎，方为成事之道。 | Wúlùn gèrén xiūyǎng háishì shìyè fāzhǎn, dōu qièjì qīngshì wēixiǎo de jīlěi yǔ qiánzài de wēixiǎn. Qiānlǐ zhī dī kuì yú yǐxué, hěnduō kànsì wúzúqīngzhòng de yǐnhuàn, wǎngwǎng yīnwèi shòudào rénmen de chángqī qīngshì ér yǎnbiàn wéi nányǐ wǎnhuí de zāinàn. Bǎochí qiānxùn jǐnshèn, fāng wéi chéngshì zhī dào. | Whether in self-cultivation or career, never underestimate tiny habits or hidden hazards. A dike collapses from an ant hole; small risks become irreversible disasters when slighted. Humility and vigilance remain the keys to success. | En la superación personal y los negocios, jamás se deben menospreciar los pequeños detalles ni los peligros latentes. Grietas ignoradas destruyen diques; la humildad constante es el verdadero camino hacia el logro.

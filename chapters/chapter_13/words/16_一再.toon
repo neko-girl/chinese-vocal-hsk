@@ -1,0 +1,63 @@
+id: 16
+hanzi: 一再
+pinyin: yí zài
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: repeatedly; time and again; over and over
+  es: reiteradamente; una y otra vez; repetidamente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | doing something repeatedly, multiple times, often regarding reminders, warnings, or occurrences | hacer algo reiteradas veces, especialmente en advertencias, solicitudes o retrasos | 一再强调安全生产 (repeatedly emphasize workplace safety)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 班主任在出发前一再叮嘱同学们，在野外徒步考察时必须听从领队指挥，切勿私自脱离团队行动。 | Bānzhǔrèn zài chūfā qián yízài dīngzhǔ tóngxuémen, zài yěwài túbù kǎochá shí bìxū tīngcóng lǐngduì zhǐhuī, qièwù sīsì tuōlí tuánduì xíngdòng. | Before setting off, the teacher repeatedly urged students to heed the group leader's orders during field hikes and never wander off alone. | Antes de partir, el tutor insistió repetidamente a los alumnos en obedecer al guía durante la excursión y no alejarse jamás del grupo.
+  #2 | 尽管项目组一再压缩开支并优化施工流程，但因国际原材料价格暴涨，整体预算依然超出了预期。 | Jǐnguǎn xiàngmùzǔ yízài yāsuō kāizhī bìng yōuhuà shīgōng liúchéng, dàn yīn guójì yuáncáiliào jiàgé bàozhǎng, zhěngtǐ yùsuàn yīrán chāochū le yùqī. | Although the project team repeatedly compressed expenses and streamlined operations, surging global raw material prices still drove budgets beyond expectations. | Aunque el equipo recortó gastos reiteradamente y optimizó los procesos, el alza internacional de materias primas disparó el presupuesto por encima de lo previsto.
+
+collocations[6]{hanzi,en}:
+  一再强调 | repeatedly emphasize
+  一再推迟 | repeatedly postpone / delay
+  一再重申 | reiterate time and again
+  一再表示 | express repeatedly
+  一再要求 | request insistently
+  一再保证 | guarantee repeatedly
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  三番五次 | sān fān wǔ cì | time and time again; over and over repeatedly
+  再三再四 | zài sān zài sì | again and again; repeated endlessly
+  苦口婆心 | kǔ kǒu pó xīn | admonish with earnest patient words
+  言犹在耳 | yán yóu zài ěr | words still ringing in one's ears
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  一 | yī | one; single; whole | uno; solo; entero | 一 | one | pictograph of single counting rod | 一 (yī) | 1 | 单一结构 | Single horizontal line representing the primordial unity and initial starting point in counting. | A single straight horizontal beam (一), marking the foundation of all counting. | Una sola viga horizontal recta (一), base y principio de todo cálculo numérico. | 55 | M | 一
+  再 | zài | again; once more; second time | otra vez; de nuevo; reiterar | 冂 | down open box | two strokes stacked over a frame base | 再 (zài) | 6 | 单一结构 | Originally a pair of horizontal counting sticks tied together, indicating two times, repetition, or renewal. | Stacking another crossbar across the wooden frame, signifying repeating an action once more (再). | Añadir otro travesaño sobre el bastidor, denotando repetir una acción una vez más (再). | 51 | GBY | 再
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Doing once (一) and then once again (再) means doing something repeatedly (一再).
+  composite_memory_hook_es: Hacerlo una vez (一) y de inmediato otra vez más (再) expresa actuar reiteradamente (一再).
+  cultural_and_cognitive_roots: Expresses strong intentional insistence or unavoidable recurrence in classical and contemporary rhetoric.
+  tone_sandhi_and_pitch_modulation: Tone sandhi: 'yī' changes to rising second tone before fourth tone 'zài': 'yí zài' (35-51). Rise on 'yí', then drop forcefully on 'zài'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    再 | zài | again; once more | Has horizontal stroke through top of 冂 and base line
+    在 | zài | at; in; exist | Starts with 𠂇 and has earth radical 土 at bottom
+    冉 | rǎn | gradually; drooping | Middle vertical stroke extends downward
+    甫 | fǔ | just; ancient honorific | Has a top dot and crossing vertical stroke
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    屡 | lǚ | repeatedly; frequently
+    频 | pín | frequency; repeatedly
+    复 | fù | duplicate; repeat
+    迭 | dié | alternate; repeatedly
+
+semantic_boundary_contrasts:
+  core_nuance: 一再 indicates intentional human speech, insistence, or action recurring multiple times consecutively.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 一再 vs. 再次 | zàicì | 再次 simply denotes doing something a second time or once more, while 一再 emphasizes persistent multiple repetitions (一再申明).
+    2 | 一再 vs. 常常 | chángcháng | 常常 describes habitual customary actions over time, whereas 一再 emphasizes insistent recurrence in a specific context.
+    3 | 一再 vs. 重新 | chóngxīn | 重新 means starting over completely from the beginning, while 一再 signifies reiterating or repeating an existing act.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 科学家在发布气候变化评估报告时一再警告，全球气温持续上升将引发极端风暴与严重干旱。如果各国不能尽快达成碳减排约束性协议，人类社会赖以生存的生态平衡系统将在不远的将来面临不可逆转的灾难性崩溃。 | Kēxuéjiā zài fābù qìhòu biànhuà pínggū bàogào shí yízài jǐnggào, quánqiú qìwēn chíxù shàngshēng jiāng yǐnfā jíduān fēngbào yǔ yánzhòng gānhàn. Rúguǒ gèguó bùnéng jǐnkuài dáchéng tàn jiǎnpái yuēshùxìng xiéyì, rénlèi shèhuì làiyǐ shēngcún de shēngtài pínghéng xìtǒng jiāng zài bù yuǎn de jiānglái miànlín bùkě nìzhuǎn de zāinànxìng bēngkuì. | Scientists issuing climate assessment reports warned repeatedly that rising temperatures will trigger extreme storms and droughts. Without binding carbon reduction pacts, the ecological equilibrium sustaining civilization faces irreversible collapse. | Al presentar su informe climático, los científicos advirtieron reiteradamente del riesgo de tormentas extremas y sequías por el calentamiento. Sin pactos vinculantes de emisiones, el equilibrio ecológico del planeta colapsará de forma irreversible.
+  #2 | 在早期篮球教学实践中，学生们对每次投篮后不得不搬梯子取球的笨拙流程一再抱怨。比赛节奏的一再中断，让激烈的对抗气氛大打折扣。正是面对这种频繁发生的困扰，体育工匠才下定决心拿起锯子锯掉筐底，彻底革除了这一弊端。 | Zài zǎoqī lánqiú jiàoxué shíjiàn zhōng, xuéshengmen duì měicì tóulán hòu bùdébù bān tīzi qǔ qiú de bènzhuō liúchéng yízài bàoyuàn. Bǐsài jiézòu de yízài zhòngduàn, ràng jīliè de duìkàng qìfēn dàdǎ-zhékòu. Zhèng shì miànduì zhè zhǒng pínfán fāshēng de kùnrǎo, tǐyù gōngjiàng cái xiàdìng juéxīn ná qǐ jùzi jù diào kuāngdǐ, chèdǐ géchú le zhè yí bìduān. | During early basketball training, students complained repeatedly about fetching ladders after each score. The repeated game interruptions dampened the fierce competition. Prompted by these constant annoyances, craftsmen resolved to saw off the basket bottoms, eliminating the hassle forever. | En los primeros entrenamientos de baloncesto, los alumnos se quejaban reiteradamente de tener que acarrear escaleras tras cada canasta. El ritmo roto enfriaba el duelo, empujando a los conserjes a serrar el fondo para desterrar el problema.

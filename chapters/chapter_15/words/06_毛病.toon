@@ -1,0 +1,63 @@
+id: 6
+hanzi: 毛病
+pinyin: máo bìng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: defect; shortcoming; fault; flaw; illness; habit
+  es: defecto; fallo; avería; imperfección; mala costumbre; indisposición
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a flaw, defect, mechanical malfunction, personal shortcoming, bad habit, or minor illness | defecto, fallo mecánico, imperfección de carácter, mala costumbre o afección de salud | 克服自身的毛病 (overcome one's own shortcomings)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 战国名将赵奢深知儿子赵括有着轻敌自负、眼高手低的致命毛病，因而再三告诫他不可轻易领兵。 | Zhànguó míngjiàng Zhào Shē shēnzhī érzi Zhào Kuò yǒu zhe qīngdí zìfù, yǎngāo-shǒudī de zhìmìng máobìng, yīn'ér zàisān gàojiè tā bùkě qīngyì lǐngbīng. | General Zhao She knew his son Zhao Kuo suffered from the fatal flaw of arrogance and underestimating foes, repeatedly warning him against command. | El general Zhao She conocía el defecto mortal de su hijo Zhao Kuo de subestimar al adversario, aconsejándole no tomar jamás el mando militar.
+  #2 | 这台二手复印机由于使用年限较长，最近几天频繁出现卡纸的小毛病，需要彻底检修。 | Zhè tái èrshǒu fùyìnjī yóuyú shǐyòng niánxiàn jiàocháng, zuìjìn jǐ tiān pínfán chūxiàn kǎzhǐ de xiǎo máobìng, xūyào chèdǐ jiǎnxiū. | Due to its long service life, this secondhand photocopier has frequently developed paper jam glitches recently and needs an overhaul. | Debido a los años de servicio, la fotocopiadora sufre frecuentes averías de atasco de papel, requiriendo una revisión exhaustiva.
+
+collocations[6]{hanzi,en}:
+  出毛病 | break down / go wrong
+  改掉毛病 | correct a bad habit / defect
+  挑毛病 | find fault / nitpick
+  致命毛病 | fatal flaw / critical defect
+  老毛病 | old habit / recurring ailment
+  机器毛病 | mechanical trouble / glitch
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  吹毛求疵 | chuī máo qiú cī | blow away hair to find scars; nitpick petty flaws
+  自相矛盾 | zì xiāng máo dùn | self-contradictory in thought or speech
+  防微杜渐 | fáng wēi dù jiàn | nip evil in the bud before small flaws grow big
+  改过自新 | gǎi guò zì xīn | turn over a new leaf by correcting past errors
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  毛 | máo | hair; fur; feather; flaw; down | pelo; vello; pluma; pelusa; mínimo | 毛 | fur / hair | pictograph of fine curved strands of animal fur or hair | 毛 (máo) | 4 | 单一结构 | Ancient pictograph depicting thin strands of animal hair blowing in the wind. | Fine strands of animal fur and hair (毛) blowing lightly in the breeze. | Mechones de pelo fino de animal (毛) que ondean suavemente con el viento. | 35 | HQU | 毛
+  病 | bìng | illness; disease; fault; defect | enfermedad; padecimiento; defecto; tara | 疒 | sickness | 疒 (sickbed / unwell frame) + 丙 (third Heavenly Stem / feverish tail) | 丙 (bǐng) | 10 | 半包围结构 | A person lying unwell on a sickbed 疒 with body heat and ailment 丙; denotes illness or defect. | Lying restfully on a patient's sickbed (疒) recovering from an ailment (病). | Guardar reposo en el lecho del enfermo (疒) para sanar de una dolencia (病). | 51 | KMBW | 病
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A tiny flaw as minute as hair (毛) that causes systematic disorder (病) is a defect or glitch (毛病).
+  composite_memory_hook_es: Una imperfección diminuta como un pelo (毛) que engendra malestar o avería (病) conforma un defecto (毛病).
+  cultural_and_cognitive_roots: Derived from ancient horse breeding where veterinarians blew animal fur aside to check for hidden sores or skin defects.
+  tone_sandhi_and_pitch_modulation: Second tone to fourth tone: 'máo bìng' (35-51). Lift cleanly on 'máo', followed by a decisive drop on 'bìng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    手 | shǒu | hand | Central vertical stroke curves inward, not rightward hook
+    痛 | tòng | pain | Yong 甬 inside 疒 instead of 丙
+    痴 | chī | foolish | Zhi 知 inside 疒 instead of 丙
+    疗 | liáo | heal; treat | Liao 了 inside 疒 instead of 丙
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    缺点 | quēdiǎn | shortcoming; defect
+    疾病 | jíbìng | disease; illness
+    皮毛 | pímáo | fur and skin; superficial know-how
+    毛料 | máoliào | woolen material
+
+semantic_boundary_contrasts:
+  core_nuance: 毛病 is an everyday colloquial term covering mechanical glitches, bad personal habits, and character flaws.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 毛病 vs. 缺点 | quēdiǎn | 缺点 is formal and refers to general shortcomings in work/character, while 毛病 spans machine glitches and bad quirks.
+    2 | 毛病 vs. 错误 | cuòwù | 错误 refers to an incorrect action or mistaken calculation, whereas 毛病 refers to a habitual flaw or defect.
+    3 | 毛病 vs. 优点 | yōudiǎn | 优点 is the direct antonym meaning merit, virtue, or strong point.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括自幼聪颖好学，谈论兵法时连他的父亲赵奢也难不倒他。但他最大的毛病在于缺乏谦逊之心，自以为天下兵法已尽在胸中。这种目空一切、脱离实际的毛病，最终让他在残酷的长平之战中付出了生命的惨痛代价。 | Zhào Kuò zìyòu cōngyǐng hàoxué, tánlùn bīngfǎ shí lián tā de fùqīn Zhào Shē yě nánbùdǎo tā. Dàn tā zuì dà de máobìng zàiyú quēfá qiānxùn zhī xīn, zì yǐwéi tiānxià bīngfǎ yǐ jìn zài xiōngzhōng. Zhè zhǒng mùkōng-yīqiè, tuōlí shíjì de máobìng, zuìzhōng ràng tā zài cánkù de Chángpíng zhī zhàn zhōng fùchū le shēngmìng de cǎntòng dàijià. | Zhao Kuo was brilliant from youth, stumping even his father on tactics. Yet his greatest defect was lack of humility, assuming he mastered warfare completely. This arrogant flaw cost him his life and an army at Changping. | Zhao Kuo fue aventajado desde niño, deslumbrando a su padre al hablar de táctica. Pero su peor defecto fue la arrogancia; su vanidad alejada de la realidad le costó la vida y la derrota de su tropa en Changping.
+  #2 | 在现代精密机械与航空工业中，任何微小的设计毛病都可能演变成灾难性的重大事故。工程技术人员必须具备高度的责任感，耐心地通过反复模拟排查系统中的每一个潜在毛病，精益求精，确保装备万无一失。 | Zài xiàndài jīngmì jīxiè yǔ hángkōng gōngyè zhōng, rènhé wēixiǎo de shèjì máobìng dōu kěnéng yǎnbiàn chéng zāinànxìng de zhòngdà shìgù. Gōngchéng jìshù rényuán bìxū jùbèi gāodù de zérèngǎn, nàixīn de tōngguò fǎnfù mónǐ páichá xìtǒng zhōng de měi yī gè qiánzài máobìng, jīngyìqiújīng, quèbǎo zhuāngbèi wànwúyīshī. | In precision engineering and aerospace, any tiny design flaw can trigger catastrophic accidents. Technicians must maintain immense accountability, repeatedly simulating stress to eliminate latent glitches and ensure flawless reliability. | En la ingeniería aeronáutica de precisión, cualquier imperfección de diseño acarrea catástrofes. Los ingenieros deben actuar con rigor exhaustivo, subsanando fallos potenciales para garantizar una fiabilidad intachable.

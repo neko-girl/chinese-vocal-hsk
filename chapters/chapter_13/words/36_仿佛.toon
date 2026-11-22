@@ -1,0 +1,63 @@
+id: 36
+hanzi: 仿佛
+pinyin: fǎng fú
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: as if; to seem; like; resemblance
+  es: como si; parecer; semejante a; tal parece
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Literary | seeming as if; resembling in appearance, impression, or feeling | da la impresión de que; como si; de manera muy semejante o ilusoria | 仿佛回到了快乐的童年时代 (as if returning to happy childhood days)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 微风吹拂过宁静的湖面，层层荡漾的粼粼波光仿佛无数碎银在月色下欢快跳跃。 | Wēifēng chuīfú guò níngjìng de húmiàn, céngcéng dàngyàng de línlín bōguāng fǎngfú wúshù suìyín zài yuèyè xià huānkuài tiàoyuè. | Gentle breezes swept across the peaceful lake; rippling glimmering wavelets looked as if countless shards of broken silver were dancing under the moonlight. | La brisa rozaba el lago plácido; los reflejos centelleantes en las ondas parecían trozos de plata viva danzando bajo la luna.
+  #2 | 听着老艺人悠扬婉转的古筝弹奏，台下观众仿佛置身于烟雨蒙蒙的江南古镇水巷之中。 | Tīng zhe lǎo yìrén yōuyáng wǎnzhuǎn de gǔzhēng tánzòu, táixià guānzhòng fǎngfú zhìshēn yú yānyǔ-méngméng de Jiāngnán gǔzhèn shuǐxiàng zhīzhōng. | Listening to the veteran artist's melodious guzheng performance, the audience felt as if they were transported into misty water lanes of Jiangnan canal towns. | Al escuchar las notas cadenciosas del laúd tradicional, el público creyó hallarse inmerso entre los canales neblinosos de las villas ribereñas del sur.
+
+collocations[6]{hanzi,en}:
+  仿佛是 | seeming as if it were
+  仿佛置身于 | as if placed in the midst of
+  仿佛看到了 | as if having seen
+  仿佛在说 | as if saying
+  仿佛回到了 | as if having returned to
+  神态仿佛 | bearing strikingly resembles
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  如梦初醒 | rú mèng chū xǐng | as if waking from a dream; sudden awakening
+  若即若离 | ruò jí ruò lí | seeming both close and distant; keeping at arm's length
+  宛若天仙 | wǎn ruò tiān xiān | graceful and lovely as a celestial fairy
+  栩栩如生 | xǔ xǔ rú shēng | lifelike as if alive; vivid artistic realism
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  仿 | fǎng | imitate; like; resemble | imitar; parecerse; semejante | 亻 | person | 亻 (person model) + 方 (square / directions) | 方 (fāng / phonetic) | 6 | 左右结构 | A person 亻 aligning oneself to standard squares 方; copying models, imitating form, or bearing close likeness. | An artist (亻) copying lines precisely along a carpenter's square pattern (方) to replicate an image (仿). | Un dibujante (亻) guiándose por una escuadra (方) para calcar una figura con exactitud (仿). | 214 | OYS | 倣
+  佛 | fú | resemble; like (fú); Buddha (fó) | asemejarse; parecer (fú); Buda (fó) | 亻 | person | 亻 (person) + 弗 (bent bows / negative bound) | 弗 (fú / phonetic) | 7 | 左右结构 | Person radical 亻 with 弗; phonetic borrowing meaning hazy resemblance; pronounced fú in compound '仿佛'. | A figure (亻) seen faintly through mist like a bending willow bow (弗), appearing as if in a dream (佛). | Una silueta humana (亻) divisada entre brumas (弗), que parece casi una ilusión vaporosa (佛). | 35 | OLLN | 彿
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A figure imitating form (仿) glimpsed faintly through misty silhouettes (佛) appears as if real (仿佛).
+  composite_memory_hook_es: Una figura que imita un modelo (仿) divisada entre brumas tenues (佛) se asemeja a una ilusión (仿佛).
+  cultural_and_cognitive_roots: Classical evocative literary conjunction prevalent in poetry and prose (e.g. 朱自清《荷塘月色》) for sensory similes.
+  tone_sandhi_and_pitch_modulation: Dipping third tone followed by rising second tone: 'fǎng fú' (214-35). Note second-tone reading 'fú' (not 'fó').
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    仿 | fǎng | resemble; imitate | Person radical 亻 on left with 方
+    伤 | shāng | wound; injure | Has 𠂉 and 力 inside
+    佛 | fú/fó | resemble; Buddha | Person radical 亻 on left with 弗
+    拂 | fú | brush off; whisk | Hand radical 扌 on left of 弗
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    宛 | wǎn | as if; winding
+    似 | sì | resemble; like
+    像 | xiàng | resemble; picture
+    若 | ruò | seem like; if
+
+semantic_boundary_contrasts:
+  core_nuance: 仿佛 is a literary connective establishing poetic similes or subjective dreamlike impressions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 仿佛 vs. 好像 | hǎoxiàng | 好像 is neutral and ubiquitous in everyday conversation, while 仿佛 carries poetic elegance and literary flavor.
+    2 | 仿佛 vs. 似乎 | sìhū | 似乎 conveys logical conjecture or mild uncertainty about facts (他似乎不知道), whereas 仿佛 introduces imaginative figurative similes.
+    3 | 仿佛 vs. 犹如 | yóurú | 犹如 is an explicit literary simile marker directly equating two concrete nouns, while 仿佛 can function adverbially across full narrative clauses.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在雨后苍翠欲滴的幽静竹林中，泥土的清芬混合着竹叶的幽香沁人心脾。偶尔几声婉转清脆的鸟鸣穿透林间薄雾，让人心旷神怡，仿佛步入了一幅遗世独立的古代水墨写意长卷。 | Mànbù zài yǔhòu cāngcuì-yùdī de yōujìng zhúlín zhōng, nítǔ de qīngfēn hùnhé zhe zhúyè de yōuxiāng qìnrénxīnpí. Ǒu'ěr jǐ shēng wǎnzhuǎn qīngcuì de niǎomíng chuāntòu línjiān báowù, ràng rén xīnkuàng-shényí, fǎngfú bùrù le yì fú yíshì-dúlì de gǔdài shuǐmò xièyì chángjuàn. | Strolling in verdant bamboo groves after rain, the scent of damp earth and bamboo fragrance was intoxicating. Crisp birdsong pierced thin mists; one felt as though stepping straight into an ancient timeless ink wash scroll. | Pasear entre bambúes tras la lluvia embriagaba con aroma a tierra húmeda y hojas frescas. Los trinos rompían la neblina; parecía como si uno se adentrara en un cuadro tradicional de tinta china al margen del mundo.
+  #2 | 当工人们终于挥动锯子将桃筐底部锯开的那一刹那，在场的所有人仿佛卸下了一幅沉重不堪的枷锁。篮球在投中后顺滑地穿筐而落，场馆内爆发出雷鸣般的喝彩，现代篮球运动仿佛在这一声落地中重获新生。 | Dāng gōngrénmen zhōngyú huīdòng jùzi jiāng táokuāng dǐbù jù kāi de nà yí chànà, zàichǎng de suǒyǒurén fǎngfú xièxià le yì fú chénzhòng-bùkān de jiāsuǒ. Lánqiú zài tóu zhòng hòu shùnhuá de chuān kuāng ér luò, chǎngguǎn nèi bàofā chū léimíng bān de hècǎi, xiàndài lánqiú yùndòng fǎngfú zài zhè yì shēng luòdì zhōng chónghuò xīnshēng. | The moment workmen sawed open the basket bottoms, everyone present felt as if a heavy shackle had been lifted. Balls dropped through smoothly; thunderous cheers erupted, as if modern basketball was reborn in that bounce. | En el instante en que la sierra cercenó el fondo de la cesta, todos sintieron como si se liberaran de un pesado yugo. La bola cayó limpia entre ovaciones atronadoras; el baloncesto moderno parecía renacer con aquel bote.

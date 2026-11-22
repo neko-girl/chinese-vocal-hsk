@@ -1,0 +1,63 @@
+id: 12
+hanzi: 形势
+pinyin: xíng shì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: situation; circumstance; terrain; state of affairs
+  es: situación; coyuntura; panorama; relieve orográfico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the evolving state of affairs, overall situation, strategic landscape, or military terrain | estado o panorama general de los acontecimientos, coyuntura estratégica o relieve geográfico | 看清当前形势 (discern the current situation clearly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老将廉颇根据长平前线秦强赵弱的严峻形势，果断采取坚壁清野、坚守营垒的稳健策略。 | Lǎojiàng Lián Pō gēnjù Chángpíng qiánxiàn Qín qiáng Zhào ruò de yánjùn xíngshì, guǒduàn cǎiqǔ jiānbì-qīngyě, jiānshǒu yínglěi de wěnjiàn cèlüè. | General Lian Po, assessing the grim situation where Qin was strong and Zhao weak at Changping, decisively adopted a strategy of fortification and defense. | El curtido Lian Po, calibrando la delicada situación en Changping donde Qin aventajaba a Zhao, optó con prudencia por fortificar sus líneas.
+  #2 | 面对瞬息万变的全球经济形势，企业必须具备高度敏锐的战略洞察力，及时调整业务布局。 | Miànduì shùnxī-wànbiàn de quánqiú jīngjì xíngshì, qǐyè bìxū jùbèi gāodù mǐnruì de zhànlüè dòngchálì, jíshí tiáozhěng yèwù bùjú. | Confronting the fast-changing global economic situation, enterprises must possess keen strategic foresight to adapt operations promptly. | Ante la volátil coyuntura económica mundial, las corporaciones requieren perspicacia estratégica para reajustar a tiempo sus operaciones.
+
+collocations[6]{hanzi,en}:
+  当前形势 | current situation / present state of affairs
+  形势严峻 | the situation is grave / grim
+  形势大好 | the situation is splendid / favorable
+  分析形势 | analyze the situation / landscape
+  客观形势 | objective situation
+  军事形势 | military situation / tactical landscape
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  审时度势 | shěn shí duó shì | judge the hour and size up the situation
+  势如破竹 | shì rú pò zhú | sweeping forward with irresistible momentum
+  顺势而为 | shùn shì ér wéi | act in accordance with the prevailing trend
+  形势逼人 | xíng shì bī rén | the situation is pressing and brook no delay
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  形 | xíng | shape; form; appearance; body | forma; contorno; aspecto; figura | 彡 | hair / ornament | 开/井 (framework / balance) + 彡 (delicate brushwork/ornament) | 开 (kāi / xíng) | 7 | 左右结构 | Outer physical contours carved or drawn with brush strokes 彡; denotes physical form. | Traced lines (彡) defining the clean external silhouette and form of an object (形). | Pinceladas estilizadas (彡) que delinean el contorno y la forma exterior de una figura (形). | 35 | MTTH | 形
+  势 | shì | power; momentum; tendency; posture | fuerza; impulso; tendencia; postura | 力 | strength / power | 执 (holding authority / grasping seeds) + 力 (physical strength) | 埶 (shì) | 8 | 上下结构 | Exerting dynamic strength 力 from an elevated authoritative position 执; signifies momentum and power. | Channeling strength (力) from high ground to unleash irresistible momentum (势). | Canalizar la fuerza muscular (力) desde un promontorio para desatar un empuje imparable (势). | 51 | GIS | 勢
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The concrete visible form of reality (形) combined with its dynamic momentum (势) creates the strategic situation (形势).
+  composite_memory_hook_es: El contorno visible de las cosas (形) sumado a su impulso dinámico (势) define la situación estratégica (形势).
+  cultural_and_cognitive_roots: Sunzi's 'Art of War' dedicated chapters to 'Form' (形, static defense) and 'Momentum' (势, dynamic attack), synthesizing into macro situation.
+  tone_sandhi_and_pitch_modulation: Second tone to fourth tone: 'xíng shì' (35-51). Lift cleanly on 'xíng', descending firmly on 'shì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    行 | xíng | walk; line | Step 彳 on left instead of 幵 and 彡
+    刑 | xíng | punishment | Knife radical 刂 on right instead of 彡
+    热 | rè | hot; heat | Fire dots 灬 under 执 instead of 力
+    挚 | zhì | sincere | Hand 手 under 执 instead of 力
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    态势 | tàishì | posture; situational trend
+    局势 | júshì | situation; political landscape
+    形象 | xíngxiàng | image; figure
+    形成 | xíngchéng | form; take shape
+
+semantic_boundary_contrasts:
+  core_nuance: 形势 points to macro-level developments, strategic military layouts, or collective political landscapes.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 形势 vs. 情况 | qíngkuàng | 情况 is concrete and covers specific details/status of an individual or incident, while 形势 denotes broader strategic tides.
+    2 | 形势 vs. 局势 | júshì | 局势 highlights critical, volatile political or military chess games, whereas 形势 includes economic, social, or geographic trends.
+    3 | 形势 vs. 环境 | huánjìng | 环境 emphasizes surrounding physical or cultural conditions, while 形势 describes dynamic trends over time.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 长平对峙初期，老将廉颇准确研判了战场形势。秦军远道而来利在速战，而赵军粮道畅通利在持久防守。廉颇依据形势修筑坚固壁垒坚守不战，秦军久攻不下疲惫不堪，双方形势本已朝着有利于赵国的方向发展。 | Chángpíng duìzhì chūqī, lǎojiàng Lián Pō zhǔnquè yánpàn le zhànchǎng xíngshì. Qínjūn yuǎndào-érlái lì zài sùzhàn, ér Zhàojūn liángdào chàngtōng lì zài chíjiǔ fángshǒu. Lián Pō yījù xíngshì xiūzhù jiāngù bìlěi jiānshǒu-bùzhàn, Qínjūn jiǔgōng-bùxià píbèi-bùkān, shuāngfāng xíngshì běn yǐ cháozhe yǒulìyú Zhàoguó de fāngxiàng fāzhǎn. | Early at Changping, General Lian Po accurately sized up the situation. Qin needed a swift fight, while Zhao benefited from protracted defense. Lian Po built sturdy bastions; Qin grew weary, and the strategic landscape swung in Zhao's favor. | Al inicio de Changping, el general Lian Po calibró con lucidez el panorama bélico. A Qin le convenía una victoria relámpago, mientras que a Zhao le favorecía la guerra de desgaste. Los baluartes de Lian Po inclinaban la coyuntura a favor de Zhao.
+  #2 | 在复杂多变的市场竞争中，卓越的领导者必须善于审时度势。不仅要深入分析行业当下的客观形势，更要前瞻性预判未来的科技与消费趋势。根据形势变化及时优化战略布局，企业方能在激流险滩中稳操胜券。 | Zài fùzá-duōbiàn de shìchǎng jìngzhēng zhōng, zhuóyuè de lǐngdǎozhě bìxū shànyú shěnshí-duóshì. Bùjǐn yào shēnrù fēnxī hángyè dāngxià de kèguān xíngshì, gèng yào qiánzhānxìng yùpàn wèilái de kējì yǔ xiāofèi qūshì. Gēnjù xíngshì biànhuà jíshí yōuhuà zhànlüè bùjú, qǐyè fāng néng zài jīliú-xiǎntān zhōng wěncāo-shèngquàn. | Amid complex market competition, outstanding leaders must size up situations astutely. Beyond analyzing current sector dynamics, they anticipate tech and consumer trends, optimizing strategies to steer firms safely to victory. | En la competencia mercantil, los líderes preclaros deben juzgar la coyuntura con agudeza. No basta examinar el panorama presente; es preciso prever tendencias y adaptar la estrategia para navegar con éxito en aguas turbulentas.

@@ -1,0 +1,63 @@
+id: 35
+hanzi: 方案
+pinyin: fāng àn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: scheme; plan; program; proposal
+  es: plan; proyecto; esquema; propuesta de solución
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a systematically formulated program, method, or proposal designed to accomplish a specific objective | programa, método o propuesta sistemática diseñada para resolver un problema o alcanzar un objetivo | 制定作战方案 (formulate an operational battle plan)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 秦军将领白起在战前周密勘察长平地形，精心制定了诱敌深入与分割包围的作战方案。 | Qín jūn jiànglǐng Bái Qǐ zài zhànqián zhōumì kānchá Chángpíng dìxíng, jīngxīn zhìdìng le yòudí shēnrù yǔ fēn’gē bāowéi de zuòzhàn fāng'àn. | Before the clash, Qin general Bai Qi meticulously scouted the terrain of Changping and formulated an operational plan to lure the enemy deep and encircle them. | Antes de la batalla, el general Bai Qi de Qin reconoció minuciosamente el terreno y diseñó un plan de operaciones para atraer al enemigo y cercarlo.
+  #2 | 工程师团队夜以继日地攻克技术难关，最终拿出了一套兼顾施工安全与成本控制的改造方案。 | Gōngchéngshī tuánduì yèyǐjìrì de gōngkè jìshù nánguān, zuìzhōng náchū le yí tào jiāngù shīgōng ānquán yǔ chéngběn kòngzhì de gǎizào fāng'àn. | The engineering team worked around the clock on technical hurdles and delivered a renovation proposal balancing safety and budget. | El equipo de ingenieros resolvió día y noche las dificultades técnicas y presentó una propuesta de remodelación que equilibra seguridad y costes.
+
+collocations[6]{hanzi,en}:
+  制定方案 | formulate a plan / proposal
+  实施方案 | implement a plan
+  替代方案 | alternative proposal / plan B
+  优化方案 | optimize a proposal
+  解决方案 | solution scheme
+  设计方案 | design proposal
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  谋定后动 | móu dìng hòu dòng | plan thoroughly before taking action
+  运筹帷幄 | yùn chóu wéi wò | devise strategies in the command tent; masterminding operations
+  足智多谋 | zú zhì duō móu | wise and full of stratagems; resourceful
+  深思熟虑 | shēn sī shú lǜ | mature and deep consideration; carefully weighed
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  方 | fāng | square; direction; side; method; prescription | cuadrado; dirección; lado; método; fórmula | 方 | square / direction | Pictograph of two boats lashed together moving forward or a carpenter's square | 方 (fāng) | 4 | 单一结构 | Denotes standard rectangular orientation, orderly directions, and systematic formulas or recipes. | A carpenter's square measuring directions and prescribing orderly formulas (方). | Una escuadra de carpintero que mide rumbos y pauta fórmulas exactas (方). | 55 | YHS | 方
+  案 | àn | desk; table; record; legal case; proposal | mesa; pupitre; expediente; caso; propuesta | 木 | wood | 木 (wooden desk / table) + 安 (peaceful / rest) | 安 (ān) | 10 | 上下结构 | A wooden table 木 upon which documents rest peacefully 安 for judicial review or formal planning. | Official documents laid securely (安) on the magistrate's wooden desk (木) for scrutiny (案). | Documentos oficiales descansando en calma (安) sobre el escritorio de madera (木) para su estudio (案). | 51 | JVD | 案
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A structured method (方) drafted on the wooden desk (案) forms an operational proposal (方案).
+  composite_memory_hook_es: El método riguroso (方) redactado sobre el pupitre (案) da origen al plan de acción (方案).
+  cultural_and_cognitive_roots: Originates from ancient statecraft dockets and strategies drafted on ministerial desks.
+  tone_sandhi_and_pitch_modulation: First tone to fourth tone: 'fāng àn' (55-51). High level pitch followed by falling pitch with clear apostrophe syllable break.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    按 | àn | press; according to | Hand 扌 on left of 安 instead of 木 below
+    安 | ān | peaceful; safe | No wood 木 radical below
+    芳 | fāng | fragrant | Grass 艹 radical on top of 方
+    仿 | fǎng | imitate | Person 亻 on left of 方
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    档案 | dàng'àn | archives; official files
+    草案 | cǎo'àn | draft proposal
+    破案 | pò'àn | solve or crack a criminal case
+    方法 | fāngfǎ | method; manner
+
+semantic_boundary_contrasts:
+  core_nuance: 方案 denotes a comprehensive, systematic, and concrete blueprint tailored to solve an explicit problem.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 方案 vs. 计划 | jìhuà | 计划 is broader, emphasizing timeline and agenda, whereas 方案 emphasizes actionable methodology and concrete design.
+    2 | 方案 vs. 策略 | cèlüè | 策略 emphasizes high-level tactical maneuvers, whereas 方案 is the complete operational document.
+    3 | 方案 vs. 政策 | zhèngcè | 政策 indicates overarching government or corporate guidelines, while 方案 is execution-level design.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在古代重大战事中，作战方案的优劣直接决定三军将士的生死存亡。秦国名将白起针对赵括急躁冒进的性格弱点，精心设计了诱敌入伏的作战方案，最终成功斩断赵军后路，一举取得了长平之战的彻底胜利。 | Zài gǔdài zhòngdà zhànshì zhōng, zuòzhàn fāng'àn de yōuliè zhíjiē juédìng sānjūn jiàngshì de shēngsǐ-cúnwáng. Qínguó míngjiàng Bái Qǐ zhēnduì Zhào Kuò jízào-màojìn de xìnggé ruòdiǎn, jīngxīn shèjì le yòudí-rùfú de zuòzhàn fāng'àn, zuìzhōng chénggōng zhǎnduàn Zhào jūn hòulù, yìjǔ qǔdé le Chángpíng zhī zhàn de chèdǐ shènglì. | In ancient warfare, the quality of operational plans determined survival. Qin general Bai Qi exploited Zhao Kuo's rashness, formulating a trap plan that cut Zhao's retreat and delivered total victory at Changping. | En la guerra antigua, la calidad de los planes decidía la vida o la muerte. Bai Qi se aprovechó de la temeridad de Zhao Kuo y diseñó un plan de emboscada que cortó la retirada enemiga, alcanzando la victoria total en Changping.
+  #2 | 现代企业在启动任何重大项目之前，都必须经历多轮严密的可行性方案论证。一套优秀的方案不仅要有开阔前瞻的战略构想，更要具备严谨细致的操作步骤和风险应急预案，从而确保各项业务平稳有序落地。 | Xiàndài qǐyè zài qǐdòng rènhé zhòngdà xiàngmù zhīqián, dōu bìxū jīnglì duō lún yánmì de kěxíngxìng fāng'àn lùnzhèng. Yí tào yōuxiù de fāng'àn bùjǐn yào yǒu kāikuò qiánzhān de zhànlüè gòuxiǎng, gèng yào jùbèi yánjǐn xìzhì de cāozuò bùzhòu yǔ fēngxiǎn yīngjí yù'àn, cóng'ér quèbǎo gè xiàng yèwù píngwěn yǒuxù luòdì. | Before launching projects, modern enterprises must vet feasibility schemes through rigorous evaluations. An outstanding proposal combines strategic foresight with concrete operational steps and risk contingencies. | Antes de iniciar proyectos, las empresas modernas someten sus propuestas a rigurosos estudios de viabilidad. Un buen plan aúna visión estratégica con pasos minuciosos y contingencias de riesgo para garantizar su éxito.

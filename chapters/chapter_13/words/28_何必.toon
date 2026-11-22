@@ -1,0 +1,63 @@
+id: 28
+hanzi: 何必
+pinyin: hé bì
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: why should; there is no need; what is the point of
+  es: ¿para qué?; ¿qué necesidad hay de...?; no es menester
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | used in rhetorical questions to emphasize that something is completely unnecessary or superfluous | empleado en oraciones retóricas para indicar que algo resulta totalmente innecesario o redundante | 何必为此大惊小怪呢 (why make such a fuss over this?)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 既然双方在主要商业合作条款上已经达成高度共识，又何必为了几个微不足道的细枝末节争执不休呢。 | Jìrán shuāngfāng zài zhǔyào shāngyè hézuò tiáokuǎn shang yǐjīng dáchéng gāodù gòngshí, yòu hébì wèile jǐ ge wēibùzúdào de xìzhī-mòjié zhēngzhí-bùxiū ne. | Since both sides have reached strong consensus on main business terms, why bother arguing endlessly over trifling trivialities? | Si ambas partes concuerdan en los términos sustanciales, ¿qué necesidad hay de disputar interminablemente por nimiedades secundarias?
+  #2 | 人生苦短且岁月匆匆，我们何必整日为了过去的微小挫折耿耿于怀、自我消耗呢。 | Rénshēng kǔduǎn qiě suìyuè cōngcōng, wǒmen hébì zhěngrì wèile guòqù de wēixiǎo cuòzhé gěnggěng-yùhuái, zìwǒ xiāohào ne. | Life is brief and years slip swiftly by; why should we brood incessantly over past minor setbacks and consume ourselves in grief? | La vida es breve y los años fugaces; ¿para qué atormentarse y desgastarse a diario rumiando pequeños tropiezos del pasado?
+
+collocations[6]{hanzi,en}:
+  何必如此 | why go so far; no need for this
+  又何必 | why should; there's even less need to
+  何必介意 | why take it to heart; don't mind
+  何必当初 | why act thus in the first place
+  何必多此一举 | why make an unnecessary move
+  何必计较 | why haggle or bother over
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  何必当初 | hé bì dāng chū | why did one act so initially; hindsight regret (早知今日何必当初)
+  画蛇添足 | huà shé tiān zú | draw snake and add feet; superfluous over-elaboration
+  多此一举 | duō cǐ yī jǔ | make a totally unnecessary gesture; redundant act
+  庸人自扰 | yōng rén zì rǎo | worry about imaginary troubles; create problems out of nothing
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  何 | hé | why; what; how | por qué; qué; cómo | 亻 | person | 亻 (person carrying burden) + 可 (exclamation) | 可 (kě) | 7 | 左右结构 | A person 亻 carrying a pole 可, serving as an interrogative asking why or for what reason. | A traveler (亻) setting down his shoulder pole (可) questioning why to go further (何). | Un viajero (亻) posando su pesada pértiga (可) preguntándose el motivo de tanto afán (何). | 35 | ONR | 何
+  必 | bì | must; surely; necessity | necesario; deber; ciertamente | 心 | heart | 八 (divide) + line piercing heart 心 | 必 (bì) | 5 | 单一结构 | A decisive line dividing or staking certainty through 心; absolute necessity and certainty. | A firm stake driven into the center of resolve, signaling absolute necessity (必). | Una estaca clavada con aplomo en el centro de la decisión, denotando necesidad imperiosa (必). | 51 | PHT | 必
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Asking why (何) something should be an absolute necessity (必) rhetorical declares: there is no need (何必).
+  composite_memory_hook_es: Cuestionar el porqué (何) de una pretendida necesidad forzosa (必) afirma que no es menester (何必).
+  cultural_and_cognitive_roots: A classic rhetorical rhetorical adverb (反问副词) common in philosophical persuasion and Daoist simplicity.
+  tone_sandhi_and_pitch_modulation: Rising second tone followed by falling fourth tone: 'hé bì' (35-51). Lift upwards on 'hé' and drop emphatically on 'bì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    何 | hé | what; why | Person radical 亻 with 可
+    荷 | hé | lotus; carry | Grass radical 艹 on top of 何
+    必 | bì | must; necessity | Heart 心 pierced with a diagonal slash
+    心 | xīn | heart; mind | Without the piercing diagonal slash
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    需 | xū | require; need
+    用 | yòng | use; need (不用)
+    须 | xū | must; beard
+    宜 | yí | fitting; suitable
+
+semantic_boundary_contrasts:
+  core_nuance: 何必 explicitly poses a rhetorical question rejecting the necessity of an action or worry.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 何必 vs. 不必 | búbì | 不必 is a direct declarative statement stating lack of need (你明天不必来), while 何必 is an emotive rhetorical counter-question (你何必亲自去呢).
+    2 | 何必 vs. 何苦 | hékǔ | 何苦 emphasizes that the action brings unnecessary suffering or pain (何苦自讨苦吃), while 何必 merely focuses on superfluity.
+    3 | 何必 vs. 为何 | wèihé | 为何 is a genuine inquiry asking 'why' (你为何迟到), whereas 何必 implies 'there is no reason to'.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 苏轼在《前赤壁赋》中豁达地写道：‘天地之间，物各有主，苟非吾之所有，虽一毫而莫取。’人生在世不过数十寒暑，清风明月皆可取用不竭，我们又何必贪恋身外虚名浮利，徒增无谓的心灵枷锁与身心疲惫呢。 | Sū Shì zài Qián Chìbì Fù zhōng huòdá de xiědào: 'Tiāndì zhījiān, wù gè yǒu zhǔ, gǒu fēi wú zhī suǒyǒu, suī yìháo ér mò qǔ.' Rénshēng zài shì bùguò shùshí hánshǔ, qīngfēng míngyuè jiē kě qǔyòng-bùjié, wǒmen yòu hébì tānliàn shēnwài xūmíng fúlì, tú zēng wúwèi de xīnlíng jiāsuǒ yǔ shēnxīn píbèi ne. | Su Shi magnanimously noted: in heaven and earth each thing has its master; if not mine, take not a hair. Life is a brief flash; cool breezes and bright moons are inexhaustible. Why covet transient vanities and shackle one's soul? | Su Shi proclamó con serenidad: cada bien tiene su dueño; no tomes ni una brizna ajena. La brisa y la luna son dádivas inagotables. ¿Para qué codiciar vanidades efímeras que sólo encadenan y fatigan el espíritu?
+  #2 | 小男孩好奇的质问如雷贯耳：‘大家每次投篮后何必大费周章搬梯子爬上去取球呢？’这句反问瞬间点醒了被条条框框束缚的大人们。是啊，既然目的是投球计分，何必死守着一个带底的完整果筐？锯掉多余的底子，问题便迎刃而解。 | Xiǎo nánhái hàoqí de zhìwèn rúléi-guàn'ěr: 'Dàjiā měicì tóulán hòu hébì dàfèi-zhōuzhāng bān tīzi pá shàngqu qǔ qiú ne?' Zhè jù fǎnwèn shùnjiān diǎnxǐng le bèi tiáotiáo-kuàngkuàng shùfù de dàrenmen. Shì a, jìrán mùdì shì tóu qiú jìfēn, hébì sǐshǒu zhe yí ge dàidǐ de wánzhěng guǒkuāng? Jù diào duōyú de dǐzi, wèntí biàn yíngrèn'érjiě. | The boy's question rang out: 'Why go to all the trouble of hauling ladders after each score?' This rhetorical query woke adults chained by convention. If the goal is scoring, why cling to a closed basket? Saw off the superfluous bottom, and the knot unties. | La pregunta del niño resonó con fuerza: '¿Para qué complicarse subiendo a una escalera tras cada tiro?' Aquella duda abrió los ojos a los adultos. Si el fin es encestar, ¿qué necesidad hay de conservar el fondo? Serrarlo disipó el problema.

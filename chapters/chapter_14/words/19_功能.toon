@@ -1,0 +1,63 @@
+id: 19
+hanzi: 功能
+pinyin: gōng néng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: function; capability; feature
+  es: función; capacidad; funcionalidad
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the specific purpose, natural capacity, or operational duty of an object, organ, or system | propósito específico, capacidad operativa o función determinada de un objeto, órgano o sistema | 发挥功能 (bring one's function into play)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在四合院的四面建筑中，各个房屋具备明确而互补的起居功能，共同满足大家庭的生活需要。 | Zài sìhéyuàn de sìmiàn jiànzhù zhōng, gègè fángwū jùbèi míngquè ér hùbǔ de qǐjū gōngnéng, gòngtóng mǎnzú dàjiātíng de shēnghuó xūyào. | Among the four-sided buildings of a courtyard, each room possessed clear, complementary living functions fulfilling the extended family's needs. | Entre las cuatro alas del patio, cada edificio reunía funciones residenciales precisas y complementarias para satisfacer a la familia extendida.
+  #2 | 长期坚持适度的有氧运动，能够显著增强人体心肺系统的机能与免疫调节功能。 | Chángqī jiānchí shìdù de yǒuyǎng yùndòng, nénggòu xiǎnzhù zēngqiáng réntǐ xīnfèi xìtǒng de jīnéng yǔ miǎnyì tiáojié gōngnéng. | Consistently practicing moderate aerobic exercise over the long term can notably strengthen the cardiopulmonary capacity and immune regulatory functions. | La práctica continua de ejercicio aeróbico moderado fortalece notablemente el rendimiento cardiopulmonar y las funciones de regulación inmunológica.
+
+collocations[6]{hanzi,en}:
+  主要功能 | primary function / key feature
+  发挥功能 | bring function into full play
+  功能齐全 | fully equipped with all features
+  实用功能 | practical function / utility
+  生理功能 | physiological function
+  特殊功能 | special feature / unique function
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  各尽其能 | gè jìn qí néng | each does one's utmost according to abilities
+  无所不能 | wú suǒ bù néng | omnipotent; capable of doing anything
+  用武之地 | yòng wǔ zhī dì | scope or battlefield to exercise one's talents
+  实至名归 | shí zhì míng guī | reputation deserved by actual merit
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  功 | gōng | merit; achievement; skill; work | mérito; logro; destreza; trabajo | 力 | strength / power | 工 (work/carpenter's square) + 力 (physical strength) | 工 (gōng) | 5 | 左右结构 | Applying physical effort 力 to complete constructive craft work 工; signifies fruitful results. | Exerting strength (力) through skilled artisan craft (工) to produce fruitful work (功). | Aplicar la fuerza física (力) mediante el hábil trabajo artesanal (工) para lograr frutos útiles (功). | 55 | MKS | 功
+  能 | néng | ability; capable; can; energy | capacidad; poder; apto; energía | 月 | flesh / meat | pictograph of a powerful muscular bear with strong claws and jaw | 能 (néng) | 10 | 左右结构 | Ancient pictograph of a bear with immense muscular endurance and prowess; signifies capability. | A vigorous bear possessing the raw strength and boundless ability (能) to climb high peaks. | Un oso robusto provisto de gran fortaleza muscular y facultad para dominar cumbres (能). | 35 | IBPP | 能
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Work-merit (功) combined with inherent capability (能) creates an effective function (功能).
+  composite_memory_hook_es: El fruto del trabajo (功) sumado a la facultad inherente (能) da lugar a la funcionalidad práctica (功能).
+  cultural_and_cognitive_roots: Blends Confucian practical efficacy (功用) with systemic capabilities, ubiquitous in modern engineering and biology.
+  tone_sandhi_and_pitch_modulation: First tone to second tone: 'gōng néng' (55-35). Begin high and level, then lift dynamically upward.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    攻 | gōng | attack; assault | Rap radical 攵 on the right instead of 力
+    巧 | qiǎo | skillful; clever | Beg radical 丂 on the right instead of 力
+    熊 | xióng | bear | Four fire dots 灬 under the 能 glyph
+    态 | tài | manner; state | Heart radical 心 at bottom instead of full bear form
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    功效 | gōngxiào | efficacy; curative effect
+    能力 | nénglì | ability; capability
+    技能 | jìnéng | skill; craftsmanship
+    功能性 | gōngnéngxìng | functionality
+
+semantic_boundary_contrasts:
+  core_nuance: 功能 points to the objective operating utility, purpose, or capacity designed into an entity.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 功能 vs. 作用 | zuòyòng | 作用 focuses on external consequences or effects exerted on something else, while 功能 is the intrinsic capability itself.
+    2 | 功能 vs. 性能 | xìngnéng | 性能 measures the quality or benchmark of performance (e.g. engine speed), while 功能 lists the features.
+    3 | 功能 vs. 缺陷 | quēxiàn | 缺陷 denotes structural bugs or flaws impairing an object's intended functionality.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 北京四合院的各处构件不仅造型优美，更蕴含着实用的物理功能。例如房顶上层层交错的筒瓦具备迅速排水与隔热遮阳的功能，庭院中央栽植的绿树则具备夏季遮阳、秋冬防风落叶的自然生态调节功能。 | Běijīng sìhéyuàn de gèchù gòujiàn bùjǐn zàoxíng yōuměi, gèng yùnhán zhe shíyòng de wùlǐ gōngnéng. Lìrú fángdǐng shang céngcéng jiāocuò de tǒngwǎ jùbèi xùnsù páishuǐ yǔ gérè zhēyáng de gōngnéng, tíngyuàn zhōngyāng zāizhí de lǜshù zé jùbèi xiàjì zhēyáng, qiūdōng fángfēng luòyè de zìrán shēngtài tiáojié gōngnéng. | Every element of Beijing quadrangles not only boasts graceful form, but also harbors practical physical functions. The overlapping roof tiles channel rapid drainage and insulation, while trees provide ecological shade and wind protection. | Cada componente del siheyuan pekinés encierra una valiosa función física. Las tejas curvas del tejado canalizan el desagüe y aíslan del calor, mientras la arboleda del patio aporta sombra en estío y cortavientos en otoño.
+  #2 | 智能手机的发展史，正是设备功能不断高度集成的演进史。如今的移动通信设备早已超越了单纯的通话功能，兼备了专业摄影、移动办公以及实时健康监测等多重功能。强大的综合功能，深刻重塑了当代人类的生活图景。 | Zhìnéng shǒujī de fāzhǎnshǐ, zhèngshì shèbèi gōngnéng bùduàn gāodù jíchéng de yǎnjìnshǐ. Rújīn de yídòng tōngxìn shèbèi zǎoyǐ chāoyuè le dānchún de tōnghuà gōngnéng, jiānbèi le zhuānyè shèyǐng, yídòng bàngōng yǐjí shíshí jiànkāng jiāncè děng duōchóng gōngnéng. Qiángdà de zōnghé gōngnéng, shēnkè zhòngsù le dāngdài rénlèi de shēnghuó tújǐng. | The history of smartphones is an evolution of heightened functional integration. Modern mobile devices have surpassed mere voice calls to incorporate photography, remote office suites, and health metrics, reshaping modern living. | La evolución del teléfono inteligente refleja una creciente convergencia de funcionalidades. Los terminales modernos van más allá de la telefonía para incorporar fotografía, trabajo en remoto y control de la salud, transformando la vida.

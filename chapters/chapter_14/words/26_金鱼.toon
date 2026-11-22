@@ -1,0 +1,63 @@
+id: 26
+hanzi: 金鱼
+pinyin: jīn yú
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: goldfish
+  es: pez dorado; pez de colores
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a small domesticated freshwater cyprinid fish, bred for brilliant colors and ornamental beauty in garden ponds and bowls | pequeño pez de agua dulce de vistosos colores y aletas ondulantes, criado con fines ornamentales en estanques y peceras | 大鱼缸里养金鱼 (raise goldfish in a large fishbowl)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京四合院的庭院正中，常常摆放着一口青石大鱼缸，几尾红艳艳的金鱼在浮萍间悠然游动。 | Lǎo Běijīng sìhéyuàn de tíngyuàn zhèngzhōng, chángcháng bǎifàng zhe yī kǒu qīngshí dà yúgāng, jǐ wěi hóngyànyàn de jīnyú zài fúpíng jiān yōurán yóudòng. | In the center of old Beijing courtyards, a large bluestone fish bowl often stood, where crimson goldfish glided leisurely among duckweed. | En medio del patio del siheyuan pekinés solía colocarse una pila de piedra donde varios peces dorados nadaban apacibles entre lentejas de agua.
+  #2 | 公园人工湖畔聚集了许多儿童，兴高采烈地用小网兜捞着游来游去的小金鱼。 | Gōngyuán réngōnghúpàn jùjí le xǔduō értóng, xìnggāo-cǎiliè de yòng xiǎo wǎngdōu lāo zhe yóu lái yóu qù de xiǎo jīnyú. | Many children gathered by the park's artificial lake, joyfully scooping up swimming little goldfish with small dip nets. | Junto al estanque del parque se congregaban niños entusiasmados, atrapando con salabardos los pececillos dorados que surcaban el agua.
+
+collocations[6]{hanzi,en}:
+  几尾金鱼 | several goldfish (classifier 尾/条)
+  金鱼缸 | goldfish bowl / aquarium
+  养金鱼 | keep / raise goldfish
+  喂金鱼 | feed goldfish
+  红金鱼 | red goldfish
+  金鱼摆尾 | goldfish swishing its tail
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  金玉满堂 | jīn yù mǎn táng | hall brimming with gold and jade; boundless wealth and learning
+  如鱼得水 | rú yú dé shuǐ | like a fish back in water; in one's natural element
+  年年有余 | nián nián yǒu yú | surplus year after year (homophonic pun on 鱼 and 余)
+  鱼跃鸢飞 | yú yuè yuān fēi | fishes leap and hawks soar; nature thriving in freedom
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  金 | jīn | gold; metal; golden; money | oro; metal; dorado; dinero | 金 | gold / metal | 人 (roof/cover) + 土 (earth) + two gold nuggets buried inside | 金 (jīn) | 8 | 上下结构 | Precious nuggets of gleaming metal buried deep inside the subterranean earth 土; signifies gold. | Precious gold nuggets shining beneath the earthen surface (金). | Pepitas de oro refulgentes enterradas en las entrañas de la tierra (金). | 55 | OP | 金
+  鱼 | yú | fish | pez; pescado | 鱼 | fish | pictograph of fish head, scale body, and fin tail | 鱼 (yú) | 8 | 单一结构 | Ancient oracle bone pictograph of a fish showing head ⺈, scaled belly 田, and tail 一/灬. | A graceful fish with scales and a swishing tail gliding through water (鱼). | Un pez estilizado con escamas y aleta caudal nadando en aguas cristalinas (鱼). | 35 | NWM | 魚
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A shining golden-scaled (金) aquatic creature (鱼) is an ornamental goldfish (金鱼).
+  composite_memory_hook_es: Un pez (鱼) de brillantes escamas color oro (金) conforma el pez dorado (金鱼).
+  cultural_and_cognitive_roots: Bred in China since the Song Dynasty; '金鱼' puns with '金玉' (gold and jade), symbolizing wealth and good fortune in domestic compounds.
+  tone_sandhi_and_pitch_modulation: First tone to second tone: 'jīn yú' (55-35). Clear elevated pitch on 'jīn', rising smoothly on 'yú'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    全 | quán | all; whole; complete | Roof 人 over 王 instead of full metal form
+    釜 | fǔ | cauldron; pot | Father radical 父 above 金
+    鲁 | lǔ | blunt; Shandong | Fish 鱼 above sun 日
+    鲜 | xiān | fresh; delicious | Sheep 羊 beside fish 鱼
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    黄金 | huángjīn | gold metal
+    金黄色 | jīnhuángsè | golden yellow color
+    游鱼 | yóuyú | swimming fish
+    捕鱼 | bǔyú | catch fish; fishing
+
+semantic_boundary_contrasts:
+  core_nuance: 金鱼 specifically denotes domestic ornamental varieties of carp cultivated for vibrant color and decorative tanks.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 金鱼 vs. 鲤鱼 | lǐyú | 鲤鱼 denotes common culinary carp, while 金鱼 are bred purely as ornamental pets in garden bowls.
+    2 | 金鱼 vs. 热带鱼 | rèdàiyú | 热带鱼 refers to warm-water tropical species requiring heated tanks, whereas 金鱼 are temperate freshwater fish.
+    3 | 金鱼 vs. 鲨鱼 | shāyú | 鲨鱼 denotes predatory marine sharks, entirely distinct from docile domestic 金鱼.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京四合院有“天棚鱼缸石榴树，先生肥狗胖丫头”的俗谚，其中大鱼缸里养金鱼是不可或缺的闲趣。坐在葡萄架下，看着大瓷缸里金鱼摆动着飘逸如丝的尾鳍游来游去，生活平添了无限恬淡与宁静。 | Lǎo Běijīng sìhéyuàn yǒu 'tiānpéng yúgāng shíliushù, xiānsheng féigǒu pàng yātou' de súyàn, qízhōng dà yúgāng lǐ yǎng jīnyú shì bùkě-huòquē de xiánqù. Zuò zài pútáojià xià, kàn zhe dà cígāng lǐ jīnyú bǎidòng zhe piāoyì rú sī de wěiqí yóu lái yóu qù, shēnghuó píngtiān le wúxiàn tiándàn yǔ níngjìng. | Old Beijing folklore recalls courtyards with 'awnings, fish bowls, and pomegranates.' Keeping goldfish in stone basins was an indispensable pleasure; watching their silky fins flutter brought immense serenity to everyday life. | Un viejo adagio pekinés evocaba los patios con 'toldos, estanques y granados'. Criar peces dorados en pilas de barro era un placer inexcusable: ver ondular sus sedosas colas bajo la parra impregnaba la vida de calma.
+  #2 | 中国金鱼的培育历史已有一千多年，被誉为“东方圣鱼”。古代养鱼名家通过代代精心选育，培育出了龙睛、水泡、狮子头等数百种体态优美、色彩斑斓的品种。这种将生命之美融入日常闲赏的艺术，生动展现了中华造物智慧。 | Zhōngguó jīnyú de péiyù lìshǐ yǐ yǒu yīqiān duō nián, bèi yù wéi 'dōngfāng shèngyú'. Gǔdài yǎngyú míngjiā tōngguò dàidài jīngxīn xuǎnyù, péiyù chū le lóngjīng, shuǐpào, shīzitóu děng shùbǎi zhǒng tǐtài yōuměi, sècǎi bānlán de pǐnzhǒng. Zhè zhǒng jiāng shēngmìng zhī měi róngrù rìcháng xiánshǎng de yìshù, shēngdòng zhǎnxiàn le Zhōnghuá zàowù zhìhuì. | China's breeding of goldfish spans over a millennium, earning them the title 'Sacred Fish of the Orient.' Master breeders developed hundreds of graceful varieties, integrating the beauty of nature into leisurely aesthetic contemplation. | La cría del pez dorado en China supera el milenio, apodado 'pez sagrado de Oriente'. Selecciones milenarias dieron origen a variedades de insólita belleza, uniendo el arte de la contemplación y la maestría zootécnica tradicional.

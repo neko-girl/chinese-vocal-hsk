@@ -1,0 +1,63 @@
+id: 29
+hanzi: 独立
+pinyin: dú lì
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: independent; stand alone; self-reliant; sovereignty
+  es: independiente; autónomo; erguirse en solitario; soberanía
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | free from outside control or reliance; able to act, think, or stand alone without depending on others | libre de dependencia o tutela ajena; capaz de obrar, pensar o sostenerse por sí mismo | 独立思考 (think independently)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括自幼缺乏独立带兵作战的经验，一旦真正面临数十万大军的生死决战，便显得束手无策。 | Zhào Kuò zìyòu quēfá dúlì dài bīng zuòzhàn de jīngyàn, yīdàn zhēnzhèng miànlín shùshí wàn dàjūn de shēngsǐ juézhàn, biàn xiǎnde shùshǒu-wúcè. | Zhao Kuo had lacked independent experience in leading troops; when suddenly faced with a life-and-death campaign of thousands, he proved helpless. | Zhao Kuo carecía de experiencia de mando autónomo; al encarar una batalla de cientos de miles de hombres, se halló atado de pies y manos.
+  #2 | 青年人在成长过程中不仅要在经济上逐步自立，更应当在学术和思想上培养独立思考的能力。 | Qīngniánrén zài chéngzhǎng guòchéng zhōng bùjǐn yào zài jīngjì shang zhúbù zìlì, gèng yīngdāng zài xuéshù hé sīxiǎng shang péiyǎng dúlì sīkǎo de nénglì. | In growing up, youth must not only achieve economic self-reliance, but also cultivate the capability for independent thought in academics and ideas. | En su maduración, los jóvenes no solo deben alcanzar la solvencia material, sino cultivar el juicio crítico y el pensamiento autónomo.
+
+collocations[6]{hanzi,en}:
+  独立思考 | think independently
+  国家独立 | national independence
+  独立自主 | independent and self-reliant
+  独立作战 | fight independently
+  经济独立 | financial independence
+  独立人格 | independent personality / integrity
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  特立独行 | tè lì dú xíng | act independently and stay true to principles despite crowds
+  自立更生 | zì lì gēng shēng | regenerate through one's own efforts; self-reliance
+  自食其力 | zì shí qí lì | support oneself by one's own labor
+  卓尔不群 | zhuó ěr bù qún | stand out prominently from the crowd in excellence
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  独 | dú | alone; single; solitary; only | solo; único; solitario; exclusivo | 犭 | dog / beast | 犭 (solitary wild beast) + 虫 (crawling insect standing alone) | 蜀 (shǔ / dú) | 9 | 左右结构 | A wild predatory animal 犭 that hunts in solitude rather than in a herd; signifies standing alone. | A proud solitary wolf (犭) roaming the snowfields alone without relying on the pack (独). | Un lobo solitario (犭) que campea por el páramo con dignidad sin depender de la manada (独). | 35 | KHLI | 獨
+  立 | lì | stand; erect; establish; set up | erguirse; estar de pie; fundar; erigir | 立 | stand | pictograph of a person standing upright firmly on the ground 一 | 立 (lì) | 5 | 单一结构 | A human figure standing firmly upright with feet planted upon the solid earth 一. | A human standing tall and erect on the ground with unshakable balance (立). | Una silueta humana que se yergue con aplomo sobre el suelo firme (立). | 51 | YT | 立
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Standing alone in solitude (独) firmly upright on one's own feet (立) means to be independent (独立).
+  composite_memory_hook_es: Hallarse solo (独) erguido sobre los propios pies con entereza (立) conforma la independencia (独立).
+  cultural_and_cognitive_roots: From classical ethics ('独立而不改') celebrating the noble scholar who preserves moral autonomy against peer pressure.
+  tone_sandhi_and_pitch_modulation: Second tone to fourth tone: 'dú lì' (35-51). Rise smoothly on 'dú', then drop firmly on 'lì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    触 | chù | touch | Horn 角 on left instead of 犭
+    浊 | zhuó | turbid; muddy | Water 氵 on left instead of 犭
+    位 | wèi | position; seat | Person 亻 on left of 立
+    拉 | lā | pull | Hand 扌 on left of 立
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    独自 | dúzì | alone; by oneself
+    自立 | zìlì | self-reliant; stand on own
+    成立 | chénglì | establish; found
+    孤立 | gūlì | isolated; helpless
+
+semantic_boundary_contrasts:
+  core_nuance: 独立 denotes self-reliant autonomy free from external control, subordination, or dependence.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 独立 vs. 依赖 | yīlài | 依赖 is the direct antonym meaning to lean on, depend on, or cling to others.
+    2 | 独立 vs. 孤立 | gūlì | 孤立 carries a negative sense of being cut off from support, while 独立 represents positive sovereign self-reliance.
+    3 | 独立 vs. 附属 | fùshǔ | 附属 means subordinate or attached as an auxiliary annex, opposite to autonomous 独立.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正的军事指挥才能绝不能仅凭书本背诵获得，而必须在尸山血海的实战中磨炼出独立判断的胆略。赵括平生从未独立指挥过哪怕一次真正的大战，在长平前线一旦遭遇白起的诡谲奇袭，其缺乏独立统帅经验的弊端便暴露无遗。 | Zhēnzhèng de jūnshì zhǐhuī cáinéng juébùnéng jǐn píng shūběn bèisòng huòdé, ér bìxū zài shīshān-xuèhǎi de shízhàn zhōng móliàn chū dúlì pànduàn de dǎnlüè. Zhào Kuò píngshēng cóngwèi dúlì zhǐhuī guò nǎpà yī cì zhēnzhèng de dàzhàn, zài Chángpíng qiánxiàn yīdàn zāoyù Bái Qǐ de guǐjué qíxí, qí quēfá dúlì tǒngshuài jīngyàn de bìduān biàn bàolù-wúyí. | True military command can never be memorized from books; it must be forged in combat to temper independent judgment. Zhao Kuo had never independently led an army in a real campaign; facing Bai Qi's ambush, his lack of command experience doomed him. | La maestría bélica no se adquiere memorizando tratados; se forja en el fuego para templar el juicio autónomo. Zhao Kuo jamás había comandado en solitario una gran campaña; ante las celadas de Bai Qi, su inexperiencia quedó al desnudo.
+  #2 | “独立之精神，自由之思想。”在学术探索与人生追求的漫长道路上，保持独立思考的能力是抵御盲从与偏见的最强盾牌。敢于坚持真理、不人云亦云，唯有具备独立人格的人，才能在时代的洪流中站稳脚跟，书写有意义的壮丽篇章。 | 'Dúlì zhī jīngshén, zìyóu zhī sīxiǎng.' Zài xuéshù tànsuǒ yǔ rénshēng zhuīqiú de màncháng dàolù shang, bǎochí dúlì sīkǎo de nénglì shì dǐyù mángcóng yǔ piānjiàn de zuì qiáng dùnpái. Gǎnyú jiānchí zhēnlǐ, bù rényún-yìyún, wéiyǒu jùbèi dúlì réngé de rén, cái néng zài shídài de hóngliú zhōng zhànwěn jiǎogēn, shūxiě yǒuyìyì de zhuànglì piānzhāng. | 'Independence of spirit, freedom of thought.' In academic pursuits, independent thinking is the shield against dogma. Daring to uphold truth without parroting crowds, those with independent character plant firm feet to write meaningful life chapters. | 'Espíritu independiente, pensamiento libre.' En la ciencia y en la vida, el criterio autónomo es el baluarte contra el dogmatismo. Sostener la verdad sin repetir consignas ajenas permite labrarse un destino noble en la historia.

@@ -1,0 +1,63 @@
+id: 3
+hanzi: 敌人
+pinyin: dí rén
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: enemy; foe; opponent; adversary
+  es: enemigo; adversario; rival hostil
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person, hostile group, or opposing army that seeks to harm, defeat, or conquer another | persona, facción armada o fuerza hostil que busca dañar, vencer o destruir a otra | 消灭敌人 (wipe out the enemy)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在古代战争中，优秀的将领必须知己知彼，准确洞察敌人的战略意图与防守弱点。 | Zài gǔdài zhànzhēng zhōng, yōuxiù de jiànglǐng bìxū zhījǐ-zhībǐ, zhǔnquè dòngchá dírén de zhànlüè yìtú yǔ fángshǒu ruòdiǎn. | In ancient warfare, competent commanders had to know themselves and the enemy, accurately discerning foes' strategic intents and defenses. | En la guerra clásica, los buenos generales debían conocerse a sí mismos y al adversario, detectando las intenciones y flaquezas del enemigo.
+  #2 | 拖延和懒惰是我们在求学与自我成长道路上必须时刻警惕并战胜的无形敌人。 | Tuōyán hé lǎnduò shì wǒmen zài qiúxué yǔ zìwǒ chéngzhǎng dàolù shang bìxū shíkè jǐngtì bìng zhànshèng de wúxíng dírén. | Procrastination and indolence are invisible enemies that we must constantly guard against and overcome on our road to self-growth. | La desidia y la procrastinación constituyen enemigos invisibles a los que debemos combatir con tesón en nuestro desarrollo personal.
+
+collocations[6]{hanzi,en}:
+  消灭敌人 | eliminate / defeat the enemy
+  顽强的敌人 | tenacious / stubborn enemy
+  共同的敌人 | common enemy
+  化敌为友 | turn foes into friends
+  敌人的阴谋 | enemy's conspiracy / plot
+  面对敌人 | confront the enemy
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  知己知彼，百战不殆 | zhī jǐ zhī bǐ, bǎi zhàn bù dài | know yourself and know your enemy, and you will never be defeated
+  克敌制胜 | kè dí zhì shèng | overcome the enemy and secure victory
+  同仇敌忾 | tóng chóu dí kài | share common hatred against a mortal foe
+  化敌为友 | huà dí wéi yǒu | turn an enemy into a loyal friend
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  敌 | dí | enemy; resist; match; equal | enemigo; resistir; rivalizar; igualar | 攵 | tap / strike | 啇 (stalk of wheat / opponent across river) + 攵 (striking weapon) | 啇 (dī) | 10 | 左右结构 | Striking with weapons 攵 against an opposing rival 啇 across the front line; marks an adversary. | Striking with an iron weapon (攵) to repel a hostile opponent attacking the stronghold (敌). | Blandir un arma (攵) para repeler al contendiente hostil que ataca la muralla (敌). | 35 | YBOK | 敵
+  人 | rén | person; human | persona; humano | 人 | person | profile pictograph of a human walking | 人 (rén) | 2 | 单一结构 | Profile of a walking person with arms and legs. | An upright walking human being (人). | Un ser humano que marcha erguido (人). | 35 | O | 人
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A hostile adversary facing you in combat (敌) who is a human person (人) is an enemy (敌人).
+  composite_memory_hook_es: Un contrincante hostil que empuña las armas (敌) encarnado en persona (人) define al enemigo (敌人).
+  cultural_and_cognitive_roots: Derived from classical interstate wars where adversaries met in battle, extended figuratively to obstacles and vices.
+  tone_sandhi_and_pitch_modulation: Double second tone: 'dí rén' (35-35). Rise cleanly on both syllables with steady cadence.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    故 | gù | old; cause | Old 古 on left instead of 啇
+    政 | zhèng | politics | Correct 正 on left instead of 啇
+    入 | rù | enter | Right stroke overlaps left stroke
+    大 | dà | big | Horizontal bar across 人
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    敌手 | díshǒu | match; opponent; rival
+    敌对 | díduì | hostile; antagonistic
+    情敌 | qíngdí | romantic rival
+    强敌 | qiángdí | formidable foe
+
+semantic_boundary_contrasts:
+  core_nuance: 敌人 carries acute hostility, animosity, or lethal confrontation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 敌人 vs. 朋友 | péngyou | 朋友 is the direct antonym meaning a friendly companion or trusted ally.
+    2 | 敌人 vs. 对手 | duìshǒu | 对手 refers to sporting or business rivals who compete without wishing each other's physical destruction, unlike 敌人.
+    3 | 敌人 vs. 仇人 | chóurén | 仇人 stresses intense personal hatred/vendetta, whereas 敌人 can be a broad military or political adversary.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 战国末期秦赵长平之战，秦军主帅白起针对赵括缺乏实战经验的弱点，假装败退诱敌深入。骄傲轻敌的赵括误以为敌人溃退，盲目率大军追击，结果主力被秦军切断后路，四十万赵军最终陷入绝境而全军覆没。 | Zhànguó mòqī Qín-Zhào Chángpíng zhī zhàn, Qínjūn zhǔshuài Bái Qǐ zhēnduì Zhào Kuò quēfá shízhàn jīngyàn de ruòdiǎn, jiǎzhuāng bàituì yòudí shēnrù. Jiāo'ào qīngdí de Zhào Kuò wùyǐwéi dírén kuìtuì, mángmù shuài dàjūn zhuījī, jiéguǒ zhǔlì bèi Qínjūn qiēduàn hòulù, sìshí wàn Zhàojūn zuìzhōng xiànrù juéjìng ér quánjūn-fùmò. | At the Battle of Changping, Qin General Bai Qi feigned retreat to lure the enemy, knowing Zhao Kuo's inexperience. Arrogant Zhao Kuo pursued rashly, believing the enemy routed, only for his 400,000 troops to be encircled and annihilated. | En la batalla de Changping, el general Bai Qi fingió huir para atraer al inexperto Zhao Kuo. Confiado, Zhao Kuo persiguió al supuesto enemigo en desbandada, viendo a sus 400.000 soldados rodeados y aniquilados sin remedio.
+  #2 | 在人生的漫长征程中，最可怕的敌人往往不是外界的强劲竞争对手，而是潜藏于内心的傲慢、恐惧与懈怠。学会战胜自满、勇于克服懒惰，将内心的软弱转化为前进的动力，我们才能成为自己命运真正的主宰者。 | Zài rénshēng de màncháng zhēngchéng zhōng, zuì kěpà de dírén wǎngwǎng bùshì wàijiè de qiángjìn jìngzhēng duìshǒu, ér shì qiáncáng yú nèixīn de àomàn, kǒngjù yǔ xièdài. Xuéhuì zhànshèng zìmǎn, yǒngyú kèfú lǎnduò, jiāng nèixīn de ruǎnruò huàwéi qiánjìn de dònglì, wǒmen cái néng chéngwéi zìjǐ mìngyùn zhēnzhèng de zhǔzǎizhě. | On the long journey of life, the most fearsome enemy is often not an external adversary, but the arrogance, fear, and indolence lurking within. Conquering self-satisfaction and converting weakness into momentum makes us true masters of destiny. | En el camino de la vida, el enemigo más temible no suele ser el adversario externo, sino la soberbia, el temor y la holgazanería interior. Vencer la autocomplacencia y mudar la flaqueza en empuje nos convierte en dueños de nuestro destino.

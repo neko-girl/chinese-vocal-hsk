@@ -1,0 +1,63 @@
+id: 15
+hanzi: 踩
+pinyin: cǎi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to step on; tread; stamp on; depress (pedal)
+  es: pisar; pisotear; presionar (pedal)
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to put one's foot down upon something; to tread or stamp | poner el pie sobre algo presionándolo con el peso corporal | 踩着梯子爬上去 (climb up stepping on a ladder)
+  2 | Verb | Standard | to depress a vehicle pedal (accelerator, brake) | accionar un pedal mecánico con el pie | 紧急踩刹车 (slam on the emergency brakes)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 司机在雨天湿滑的路段行驶时突然发现前方有障碍物，连忙果断踩下了防抱死紧急刹车。 | Sījī zài yǔtiān shīhuá de lùduàn xíngshǐ shí tūrán fāxiàn qiánfāng yǒu zhàng'àiwù, liánmáng guǒduàn cǎi xià le fángbàosǐ jǐnjí shāchē. | Driving along the wet and slippery road, the driver suddenly spotted an obstacle ahead and promptly stepped hard on the anti-lock emergency brakes. | Conducía sobre el asfalto mojado cuando divisó un obstáculo adelante, pisando de inmediato y con firmeza el freno de emergencia con ABS.
+  #2 | 为了在早春季节修剪屋檐下的枯树枝，园艺工小心翼翼地踩着折叠木梯一步步往上爬。 | Wèile zài zǎochūn jìjié xiūjiǎn wūyán xià de kū shùzhī, yuányìgōng xiǎoxīn-yìyì de cǎi zhe zhédié mùtī yíbùbù wǎng shàng pá. | To prune dead branches beneath the eaves in early spring, the gardener cautiously climbed up, stepping carefully on the folding wooden ladder. | Para podar ramas secas bajo el alero a principios de primavera, el jardinero subió paso a paso pisando con sumo tiento la escalera plegable.
+
+collocations[6]{hanzi,en}:
+  踩刹车 | step on the brake pedal
+  踩油门 | step on the gas accelerator
+  踩在脚下 | trample under foot
+  踩着梯子 | step on the rungs of a ladder
+  不小心踩到 | accidentally step on
+  踩点 | arrive right on the dot / stake out
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  脚踏实地 | jiǎo tà shí dì | have one's feet planted on solid ground; conscientious and practical
+  步步为营 | bù bù wéi yíng | build camp at every step; proceed cautiously and firmly
+  登高望远 | dēng gāo wàng yuǎn | scale heights to gaze into distance; broad perspective
+  践踏公义 | jiàn tà gōng yì | trample upon public justice and fair play
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  踩 | cǎi | step on; tread; trample | pisar; pisotear | 足 | foot | 足 (foot / stepping leg) | 采 (cǎi / gather; phonetic) | 15 | 左右结构 | Foot radical 足 beside 采 (hand plucking); placing one's foot firmly downward to step or tread upon something. | A nimble foot (足) stepping down firmly while reaching hands gather (采) fruit from overhead. | Un pie firme (足) que pisa con aplomo mientras las manos recolectan (采) fruta de lo alto. | 214 | RMBD | 踩
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Your active foot (足) stepping onto the ground while harvesting (采) means to step on (踩).
+  composite_memory_hook_es: Poner el pie (足) apoyándolo con firmeza mientras cosechas (采) equivale a pisar (踩).
+  cultural_and_cognitive_roots: Everyday physical verb expressing physical foot pressure, stepping on rungs, or driving pedals.
+  tone_sandhi_and_pitch_modulation: Dipping third tone: 'cǎi' (214). Drop into the lower vocal pit and curve gently up.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    踩 | cǎi | step on; tread | Foot radical 足 on left
+    采 | cǎi | pluck; gather; spirit | Base character without foot radical
+    彩 | cǎi | colorful; prize | Has 彡 (hair/feather brush) on right
+    睬 | cǎi | pay attention to; heed | Eye radical 目 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    踏 | tà | tread; step firmly
+    蹬 | dēng | pedal; kick down
+    跨 | kuà | step across; straddle
+    踱 | duó | pace; stroll slowly
+
+semantic_boundary_contrasts:
+  core_nuance: 踩 focuses on placing weight downward with the foot onto a surface or pedal.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 踩 vs. 踏 | tà | 踏 is more literary and formal (脚踏实地, 踏步), while 踩 is the predominant colloquial term in daily life (踩刹车, 踩脚).
+    2 | 踩 vs. 踢 | tī | 踢 involves swinging the leg forward or sideways to strike a ball, whereas 踩 presses straight downward with body weight.
+    3 | 踩 vs. 跺 | duò | 跺 emphasizes violently stomping one's feet in anger or cold (跺脚), unlike ordinary stepping (踩).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 深秋清晨的古朴庭院里落满了厚厚的金黄银杏叶，踩上去发出沙沙的轻响，宛如踏在一张柔软温暖的金色地毯上。晨练的老人放慢了脚步，生怕惊扰了这一片静谧祥和的秋意。 | Shēnqiū qīngchén de gǔpǔ tíngyuàn lǐ luòmǎn le hòuhòu de jīnhuáng yínxìng yè, cǎi shàngqu fāchū shāshā de qīngxiǎng, wǎnrú tà zài yì zhāng róuruǎn wēnnuǎn de jīnsè dìtǎn shang. Chénliàn de lǎorén fàngmàn le jiǎobù, shēngpà jīngrǎo le zhè yí piàn jìngmì xiánghé de qiūyì. | In the courtyard on a late autumn morning, thick golden ginkgo leaves blanketed the flagstones, rustling softly underfoot like a warm carpet. An elderly jogger slowed his pace, reluctant to disturb the serene autumn calm. | En el patio señorial de otoño yacían hojas de ginkgo doradas, que crujían con suavidad bajo las pisadas como una alfombra mullida. El anciano paseante aminoró el paso para no turbar la apacible quietud del alba.
+  #2 | 在早期篮球比赛中，每当皮球落入竹筐，比赛就不得不被迫叫停。工作人员必须搬来折叠木梯，小心翼翼地踩着晃晃悠悠的梯恩子爬到三米多高处把球取出来。这种不断搬梯子、踩梯子的繁琐过程，极大消磨了现场观众和球员的激情。 | Zài zǎoqī lánqiú bǐsài zhōng, měidāng píqiú luòrù zhúkuāng, bǐsài jiù bùdébù bèipò jiàotíng. Gōngzuò rényuán bìxū bān lái zhédié mùtī, xiǎoxīn-yìyì de cǎi zhe huànghuang-yōuyōu de tīzi pá dào sān mǐ duō gāochù bǎ qiú qǔ chūlái. Zhè zhǒng búduàn bān tīzi, cǎi tīzi de fánsuǒ guòchéng, jídà xiāomó le xiànchǎng guānzhòng hé qiúyuán de jīqíng. | In early basketball games, whenever the ball lodged in the basket, play had to be paused. Custodians dragged over folding ladders, gingerly stepping up rickety rungs ten feet high to dislodge it. Continually hauling and stepping onto ladders severely drained players' passion. | Al comienzo del baloncesto, cada enceste paralizaba el juego. El personal arrastraba una escalera de madera y subía con cautela a más de tres metros para retirar la pelota. Aquel trajín de pisar peldaños enfriaba el fervor de jugadores y público.

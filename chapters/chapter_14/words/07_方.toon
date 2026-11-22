@@ -1,0 +1,63 @@
+id: 7
+hanzi: 方
+pinyin: fāng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: square; rectangular; upright; direction; party
+  es: cuadrado; recto; probo; dirección; bando
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | having four equal sides and four right angles; square or rectangular in shape | de cuatro lados iguales y ángulos rectos; de figura cuadrada o rectangular | 中间形成一个方形的院子 (forms a square courtyard in the middle)
+  2 | Adjective | Standard | upright, honest, and morally principled in character | recto, íntegro y firme de carácter moral | 为人正直方正 (a person upright and scrupulously honest)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代四合院的四面房屋围合在一起，正好在中央形成一个规整方正的庭院空间。 | Zhōngguó gǔdài sìhéyuàn de sì miàn fángwū wéihé zài yìqǐ, zhènghǎo zài zhōngyāng xíngchéng yí ge guīzhěng fāngzhèng de tíngyuàn kōngjiān. | The houses on four sides of a traditional siheyuan enclose each other, forming a neatly square courtyard space right in the center. | Los pabellones a cuatro vientos del siheyuan tradicional confluyen delimitando en el centro un patio cuadrangular de gran armonía.
+  #2 | 做人应当有方有圆，既要恪守内心的原则底线，又要懂得在处世待人时保持柔和宽容。 | Zuòrén yīngdāng yǒufāng-yǒuyuán, jì yào kèshǒu nèixīn de yuánzé dǐxiàn, yòu yào dǒngde zài chǔshì dàirén shí bǎochí róuhé kuānróng. | In conducting oneself, one should blend square principles with circular adaptability—holding ethical baselines while remaining gentle toward others. | En la vida conviene aunar firmeza y flexibilidad: ser fiel a los principios morales inquebrantables, pero afable y comprensivo en el trato social.
+
+collocations[6]{hanzi,en}:
+  方形 | square shape
+  四面八方 | all directions; far and wide
+  方正 | square and upright; principled
+  方向 | direction; orientation
+  方法 | method; way
+  对方 | counterpart; the other side
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  方兴未艾 | fāng xīng wèi ài | in the ascent and not yet peaking; rapidly growing
+  落落大方 | luò luò dà fāng | poised, dignified, and natural in bearing
+  方圆百里 | fāng yuán bǎi lǐ | within a radius of a hundred li; across the entire territory
+  天圆地方 | tiān yuán dì fāng | round heaven and square earth; ancient cosmology
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  方 | fāng | square; raft; direction; upright | cuadrado; balsa; rumbo; recto | 方 | square / direction | pictograph of two wooden ferry boats or rafts lashed side by side | 方 (fāng) | 4 | 单一结构 | Ancient pictograph of two twin boats tied parallel to cross rivers; evolved into straight edges, squares, and spatial directions. | Twin wooden boats lashed parallel with straight squared sides (方) to cross the waterway smoothly. | Dos barcas de madera acopladas en paralelo con cantos rectos (方) para cruzar el río. | 55 | YHS | 方
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Twin boats lashed straight (方) form four right angles and determine spatial cardinal directions (方).
+  composite_memory_hook_es: Dos barcazas amarradas en ángulo recto (方) evocan la rectitud del cuadrado y los rumbos (方).
+  cultural_and_cognitive_roots: Foundational in Chinese cosmology ('天圆地方' round sky, square earth); geometry of city planning from Chang'an to Beijing.
+  tone_sandhi_and_pitch_modulation: Level high tone: 'fāng' (55). Hold an even, clear high pitch without wavering.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    方 | fāng | square; direction | Dot, horizontal, turning hook, and sweep
+    万 | wàn | ten thousand | No top dot; horizontal line directly leads into hook
+    芳 | fāng | fragrant | Grass radical 艹 on top of 方
+    仿 | fǎng | imitate; like | Person radical 亻 on left of 方
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    矩 | jǔ | carpenter's square; rule
+    直 | zhí | straight; upright
+    正 | zhèng | proper; correct
+    端 | duān | end; upright
+
+semantic_boundary_contrasts:
+  core_nuance: 方 describes right-angled, square geometric structure as well as moral uprightness.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 方 vs. 圆 | yuán | 方 denotes four-sided right-angled rigidity, while 圆 represents fluid, curved circularity without corners.
+    2 | 方 vs. 直 | zhí | 直 means one-dimensional straightness without bends, while 方 describes a two-dimensional square shape.
+    3 | 方 vs. 平 | píng | 平 denotes flat, level surface elevation without bumps, whereas 方 refers to planar polygon geometry.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代铜钱外圆内方，将‘天圆地方’的哲学宇宙观巧妙地熔铸于方寸金属之间。古人借这枚小小的钱币告诫后世子孙：处世当外圆内方，对外应圆融通达、谦和宽厚，对内则当心如明镜、秉持正道，坚守立身原则。 | Zhōngguó gǔdài tóngqián wàiyuán-nèifāng, jiāng 'tiānyuán-dìfāng' de zhéxué yǔzhòuguān qiǎomiào de róngzhù yú fāngcùn jīnshǔ zhījiān. Gǔrén jiè zhè méi xiǎoxiǎo de qiánbì gàojiè hòushì zǐsūn: chǔshì dāng wàiyuán-nèifāng, duìwài yīng yuánróng-tōngdá, qiānhé kuānhòu, duìnèi zé dāng xīnrú-míngjìng, bǐngchí zhèngdào, jiānshǒu lìshēn yuánzé. | Ancient coins had a round exterior with a square hole, embodying 'round heaven, square earth'. Sages used this design to instruct descendants: be adaptable like a circle outwardly, but unyielding and upright like a square within. | Las monedas clásicas chinas eran redondas con orificio cuadrado, plasmando el cosmos. Enseñaban a ser circulares por fuera en afabilidad, pero cuadrados por dentro en rectitud y fidelidad a los principios.
+  #2 | 所谓四合院，正是由东、西、南、北四面房屋围合在一起，在正中央形成一个规整方正的庭院。这种方方正正的四合院格局，不仅反映了华夏先民对秩序对称与中正之美的追求，更营造出一种安定沉稳、聚气凝神的绝佳居住环境。 | Suǒwèi sìhéyuàn, zhèng shì yóu dōng, xī, nán, běi sì miàn fángwū wéihé zài yìqǐ, zài zhèng zhōngyāng xíngchéng yí ge guīzhěng fāngzhèng de tíngyuàn. Zhè zhǒng fāngfang-zhèngzhèng de sìhéyuàn géjú, bùjǐn fǎnyìng le Huàxià xiānmín duì zhìxù duìchèn yǔ zhōngzhèng zhī měi de zhuīqiú, gèng yíngzào chū yì zhǒng āndìng chénwěn, jùqì-níngshén de juéjiā jūzhù huánjìng. | The siheyuan is formed by houses on four sides enclosing a neat square courtyard in the center. This squared layout reflects ancient desires for symmetry and balance, creating an oasis of stability that gathers positive vitality. | El siheyuan abraza un patio cuadrado en su corazón gracias a sus cuatro pabellones. Esa pulcra traza cuadrangular refleja el amor por la simetría y el orden, forjando un remanso apacible para la vida en familia.

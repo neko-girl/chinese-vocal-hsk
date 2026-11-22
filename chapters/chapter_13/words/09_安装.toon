@@ -1,0 +1,63 @@
+id: 9
+hanzi: 安装
+pinyin: ān zhuāng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to install; to set up; to mount
+  es: instalar; montar; ensamblar; armar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to place equipment, machinery, fixtures, or software into position and connect ready for use | fijar y conectar maquinaria, aparatos o programas informáticos dejándolos listos para su uso | 安装净水器 (install a water purifier)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 装修师傅仅用半天时间，就将全套现代化的智能厨卫设施安装调试完毕了。 | Zhuāngxiū shīfu jǐn yòng bàntiān shíjiān, jiù jiāng quántào xiàndàihuà de zhìnéng chúwèi shèshī ānzhuāng tiáoshì wánbì le. | In merely half a day, the technician finished installing and tuning the complete suite of modern smart kitchen and bathroom facilities. | El técnico tardó apenas media jornada en montar y verificar todo el equipamiento inteligente de la cocina y el baño.
+  #2 | 为了保证办公网络环境的数据安全，企业要求所有员工的电脑必须统一定期安装最新的安全补丁。 | Wèile bǎozhèng bàngōng wǎngluò huánjìng de shùjù ānquán, qǐyè yāoqiú suǒyǒu yuángōng de diànnǎo bìxū tǒngyī dìngqī ānzhuāng zuìxīn de ānquán bǔdīng. | To guarantee data security across office networks, the enterprise requires all employees' computers to regularly install the latest security patches. | Para garantizar la seguridad en la red corporativa, la empresa exige instalar con regularidad los últimos parches de seguridad en los equipos.
+
+collocations[6]{hanzi,en}:
+  安装调试 | install and calibrate
+  安装软件 | install software
+  上门安装 | on-site installation service
+  安装设备 | install equipment
+  免费安装 | free installation
+  重新安装 | reinstall
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  安居乐业 | ān jū lè yè | live in peace and work with contentment
+  转危为安 | zhuǎn wēi wéi ān | turn peril into safety; avert danger
+  乔装打扮 | qiáo zhuāng dǎ bàn | disguise oneself carefully
+  安营扎寨 | ān yíng zhā zhài | pitch camps and build fortifications; settle down
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  安 | ān | safe; secure; quiet; settle | seguro; tranquilo; asentar | 宀 | roof | 宀 (roof / sheltered home) + 女 (woman peacefully at home) | 安 (ān) | 6 | 上下结构 | A woman 女 sitting safely under a solid roof 宀; ancient symbol of security, calmness, and proper positioning. | A woman (女) seated peacefully beneath a warm roof (宀) embodies safety and settling into place (安). | Una mujer (女) descansando a salvo bajo un hogar seguro (宀) evoca estabilidad y sosiego (安). | 55 | JV | 安
+  装 | zhuāng | fit; mount; outfit; load | montar; vestir; empacar | 衣 | clothing | 衣 (cover / outfit) + 壮 (sturdy support) | 壮 (zhuàng) | 12 | 上下结构 | Clothing 衣 affixed upon sturdy 壮 frame; mounting and fitting items securely into place. | Fastening sturdy fixtures (壮) dressed in protective casing (衣) to complete an installation (装). | Fijar piezas robustas (壮) protegidas por carcasas (衣) para ultimar un ensamblaje (装). | 55 | VGHO | 裝
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Carefully settling parts into secure shelter (安) and fastening the fixtures (装) achieves proper installation (安装).
+  composite_memory_hook_es: Asentar piezas con seguridad (安) ajustando los componentes (装) da como resultado una instalación perfecta (安装).
+  cultural_and_cognitive_roots: Evolved from domestic carpentry to modern mechanical engineering and software configuration.
+  tone_sandhi_and_pitch_modulation: Two high level tones: 'ān zhuāng' (55-55). Pronounce with sustained, even pitch across both syllables.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    安 | ān | peace; install | Roof 宀 over 女
+    按 | àn | press; according to | Hand radical 扌 on left of 安
+    案 | àn | table; case; record | Wood radical 木 underneath 安
+    装 | zhuāng | install; pack | Has 衣 at bottom
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    配 | pèi | match; allocate; equip
+    设 | shè | establish; setup
+    置 | zhì | place; install
+    架 | jià | frame; erect
+
+semantic_boundary_contrasts:
+  core_nuance: 安装 specifically denotes assembling, mounting, or configuring physical fixtures or software.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 安装 vs. 组装 | zǔzhuāng | 组装 focuses on assembling dispersed components into a finished product, while 安装 emphasizes mounting the finished unit onto a wall or system.
+    2 | 安装 vs. 安置 | ānzhì | 安置 means settling people, refugees, or furniture into living spaces, while 安装 deals with technical equipment or software.
+    3 | 安装 vs. 修理 | xiūlǐ | 修理 means repairing broken machinery, whereas 安装 is putting brand-new machinery into place initially.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 智能家居工程师在施工现场一丝不苟地对中央空调与全屋温控系统进行安装。他仔细核对线路图纸，严格排查每处管道接口，以确保这套复杂的自动化设施在未来的日常运转中能够长期保持零故障与高能效。 | Zhìnéng jiājū gōngchéngshī zài shīgōng xiànchǎng yìsī-bùgǒu de duì zhōngyāng kōngtiáo yǔ quánwū wēnkòng xìtǒng jìnxíng ānzhuāng. Tā zǐxì héduì xiànlù túzhǐ, yángé páichá měi chù guǎndào jiēkǒu, yǐ quèbǎo zhè tào fùzá de zìdònghuà shèshī zài wèilái de rìcháng yùnzhuǎn zhōng nénggòu chángqī bǎochí líng gùzhàng yǔ gāo néngxiào. | The smart home engineer meticulously installed the central air conditioning and whole-house climate control systems on site. He verified wiring schematics and checked pipe joints to ensure the complex automation ran smoothly. | El técnico de domótica instalaba minuciosamente el climatizador central en la vivienda. Cotejó planos e inspeccionó empalmes para garantizar que el complejo sistema funcionara sin fallos y con óptima eficiencia energética.
+  #2 | 当年奈史密斯发明篮球时，指派学校校工将两只盛桃竹筐安装在室内体育馆两头的栏杆上。谁也没有预料到，这项当时临时起意、极为粗糙的体育设施安装，竟在往后的岁月里演变为一个在全球拥有数以亿计忠实球迷的传奇运动。 | Dāngnián Nàishǐmīsī fāmíng lánqiú shí, zhǐpài xuéxiào xiàogōng jiāng liǎng zhī chéng táo zhúkuāng ānzhuāng zài shìnèi tǐyùguǎn liǎngtóu de lángān shang. Shuí yě méiyǒu yùliào dào, zhè xiàng dāngshí línshí-qǐyì, jíwéi cūcāo de tǐyù shèshī ānzhuāng, jìng zài wǎnghòu de suìyuè lǐ yǎnbiàn wéi yí ge zài quánqiú yǒngyǒu shù yǐ yì jì zhōngshí qiúmí de chuánqí yùndòng. | When Naismith created basketball, he instructed the custodian to mount two peach baskets onto railings at each end of the gym. No one dreamed that this impromptu installation would grow into a legendary sport with hundreds of millions of devotees. | Naismith mandó clavar dos cestas de melocotón en las barandillas del gimnasio escolar. Nadie imaginó que aquel tosco montaje improvisado acabaría convirtiéndose en un deporte legendario con cientos de millones de seguidores.

@@ -1,0 +1,63 @@
+id: 35
+hanzi: 充分
+pinyin: chōng fèn
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: full; ample; abundant; fully; to the full
+  es: pleno; suficiente; abundante; plenamente; al máximo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | fully sufficient in quantity, degree, or condition; thoroughly developed or exercised | enteramente suficiente en cantidad, grado o alcance; cabal; desarrollado al máximo | 充分发挥优势 (give full play to advantages)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四合院坐北朝南的建筑朝向，使正房在一整年里都能享受到充分的阳光照射与良好的采光。 | Sìhéyuàn zuòběi-cháonán de jiànzhù cháoxiàng, shǐ zhèngfáng zài yī zhěng nián lǐ dōu néng xiǎngshòu dào chōngfèn de yángguāng zhàoshè yǔ liánghǎo de cǎiguāng. | The courtyard's south-facing orientation allowed the main room to enjoy ample sunshine and excellent natural lighting throughout the year. | La orientación al sur del siheyuan permitía que la sala principal disfrutara de plena insolación y excelente iluminación natural todo el año.
+  #2 | 在正式递交科研项目立项申请前，课题组成员进行了长达半年的充分文献调研与论证。 | Zài zhèngshì dìjiāo kēyán xiàngmù lìxiàng shēnqǐng qián, kètízǔ chéngyuán jìnxíng le cháng dá bàn nián de chōngfèn wénxiàn diàoyán yǔ lùnzhèng. | Before formally submitting the research grant proposal, the project members carried out half a year of thorough and ample literature review. | Antes de tramitar formalmente la propuesta científica, los investigadores realizaron durante medio año un examen bibliográfico exhaustivo.
+
+collocations[6]{hanzi,en}:
+  充分理由 | ample reason / sufficient justification
+  充分准备 | full / thorough preparation
+  充分发挥 | bring into full play
+  充分利用 | make full use of
+  充分肯定 | fully acknowledge / endorse
+  条件充分 | conditions are ample and satisfied
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  充耳不闻 | chōng ěr bù wén | stuff one's ears and refuse to listen; turn a deaf ear
+  充类至尽 | chōng lèi zhì jìn | push reasoning to the fullest logical extension
+  气壮山河 | qì zhuàng shān hé | spirit full and majestic enough to move mountains and rivers
+  面面俱到 | miàn miàn jù dào | attentive to every aspect meticulously
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  充 | chōng | fill; satisfy; charge; full | llenar; colmar; cargar; pleno | 亠 | lid | 亠 (head) + 育 (nurture / grow to full newborn size) | 充 (chōng) | 6 | 上下结构 | A newborn child nurtured and growing robust until plump and fully developed; to fill to brim. | Nurturing an infant until flourishing and bursting with full vigor (充). | Nutrir a un infante hasta que florece con robusta plenitud física (充). | 55 | YHU | 充
+  分 | fèn | part; portion; share; degree; lot | parte; porción; medida; cuota | 刀 | knife | 八 (divide / separate) + 刀 (cutting blade) | 分 (fēn / fèn) | 4 | 上下结构 | Using a knife 刀 to divide 八 an object into fair portions and full measured shares fèn. | A knife (刀) cleanly apportioning resources into complete, measured shares (分). | Una hoja (刀) que reparte los recursos en raciones justas y medidas (分). | 51 | CSH | 分
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Filled to the brim (充) to meet one's full measured quota (分) is ample and sufficient (充分).
+  composite_memory_hook_es: Colmado hasta el borde (充) en la medida justa y cabal (分) conforma lo pleno y suficiente (充分).
+  cultural_and_cognitive_roots: Blends agricultural fulfillment (grain vessels filled to brim) with philosophical moderation and sufficiency.
+  tone_sandhi_and_pitch_modulation: First tone to fourth tone: 'chōng fèn' (55-51). High steady pitch on 'chōng', descending with decisive strength on 'fèn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    允 | yǔn | permit; allow | Lacks the upper dot/horizontal strokes of 亠
+    弃 | qì | abandon; discard | Fork 廾 radical at bottom instead of 儿
+    刃 | rèn | blade edge | Dot inside knife 刀 instead of 八 on top
+    公 | gōng | public; fair | Private radical 厶 under 八 instead of 刀
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    充满 | chōngmǎn | brimming with; filled
+    充足 | chōngzú | adequate; plentiful
+    分寸 | fēncun | sense of propriety / measure
+    本分 | běnfèn | one's duty; honest lot
+
+semantic_boundary_contrasts:
+  core_nuance: 充分 stresses completeness in degree, depth of argumentation, or maximizing capacity.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 充分 vs. 充足 | chōngzú | 充足 emphasizes quantitative sufficiency of tangible supplies (water, funds), while 充分 highlights qualitative thoroughness (reasons, preparations).
+    2 | 充分 vs. 充实 | chōngshí | 充实 describes substantial inner content (fulfilling life/mind), while 充分 denotes meeting all requirements.
+    3 | 充分 vs. 欠缺 | qiànquē | 欠缺 is the direct antonym denoting inadequate preparation or deficient conditions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统建筑大师在规划四合院时，充分利用了自然地理优势。坐北朝南的布局充分迎纳冬日低斜的暖阳，又通过庭院树冠阻挡酷暑的直射，将自然采光与防风遮阳的功效发挥到了极致，展现出高超的设计智慧。 | Zhōngguó chuántǒng jiànzhù dàshī zài guīhuà sìhéyuàn shí, chōngfèn lìyòng le zìrán dìlǐ yōushì. Zuòběi-cháonán de bùjú chōngfèn yíngnà dōngrì dīxié de nuǎnyáng, yòu tōngguò tíngyuàn shùguān zǔdǎng kùshǔ de zhíshè, jiāng zìrán cǎiguāng yǔ fángfēng-zhēyáng de gōngxiào fāhuī dào le jízhì, zhǎnxiàn chū gāochāo de shèjì zhìhuì. | Master architects fully utilized geographical advantages when planning courtyards. Facing south welcomed low winter sun, while tree canopies shaded summer glare, making full use of natural light and ventilation with supreme wisdom. | Los maestros constructores aprovecharon plenamente la geografía al trazar el siheyuan. Mirar al sur captaba el sol invernal, mientras las copas de los árboles tamizaban el estío, maximizando la luz y brisas con admirable talento.
+  #2 | 在任何重大决策出台之前，必须进行充分的调查研究与风险评估。广泛听取社会各界的意见建议，充分论证各项实施方案的科学性与可行性，才能避免盲目推进带来的决策失误，确保公共政策行稳致远。 | Zài rènhé zhòngdà juécè chūtái zhīqián, bìxū jìnxíng chōngfèn de diàochá yánjiū yǔ fēngxiǎn pínggū. Guǎngfàn tīngqǔ shèhuì gèjiè de yìjiàn jiànyì, chōngfèn lùnzhèng gè xiàng shíshī fāng'àn de kēxuéxìng yǔ kěxíngxìng, cái néng bìmiǎn mángmù tuījìn dàilái de juécè shīwù, quèbǎo gōnggòng zhèngcè xíngwěn-zhìyuǎn. | Before issuing major policies, thorough research and risk assessment are imperative. Gathering wide counsel and fully substantiating feasibility prevents blind missteps, ensuring public decisions remain prudent and sound. | Antes de promulgar resoluciones de calado, es preceptivo un estudio riguroso de riesgos. Recabar pareceres y fundamentar plenamente la viabilidad técnica evita desatinos, garantizando políticas públicas solventes.

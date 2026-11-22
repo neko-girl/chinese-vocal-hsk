@@ -1,0 +1,63 @@
+id: 27
+hanzi: 阻止
+pinyin: zǔ zhǐ
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to prevent; stop; block; hinder; obstruct
+  es: impedir; frenar; detener; obstaculizar; atajar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to stop, obstruct, or prevent an action, person, or development from proceeding forward | detener, obstaculizar o impedir que progrese una acción, persona o acontecimiento perjudicial | 及时阻止事故发生 (prevent accidents promptly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括的母亲深知儿子底细，亲自面见赵王，极力阻止赵王任命毫无实战韬略的赵括为大将。 | Zhào Kuò de mǔqīn shēnzhī érzi dǐxì, qīnzì miànjiàn Zhàowáng, jílì zǔzhǐ Zhàowáng rènmìng háowú shízhàn tāolüè de Zhào Kuò wéi dàjiàng. | Zhao Kuo's mother knew her son's shallow depth and personally saw the king, striving mightily to prevent him from appointing Zhao Kuo as general. | La madre de Zhao Kuo, conocedora de la incapacidad de su hijo, acudió ante el rey para impedir con vehemencia que lo nombrara general.
+  #2 | 巡警在夜间巡逻时敏锐发现了两名可疑分子，果断采取措施，成功阻止了一起严重入室盗窃案。 | Xúnjǐng zài yèjiān xúnluó shí mǐnruì fāxiàn le liǎng míng kěyí fènzǐ, guǒduàn cǎiqǔ cuòshī, chénggōng zǔzhǐ le yī qǐ yánzhòng rùshì dàoqiè'àn. | During night patrol, police spotted two suspicious individuals and took decisive measures, successfully preventing a serious burglary. | Durante la ronda nocturna, los agentes detectaron a dos sospechosos y actuaron con rapidez, impidiendo un grave robo con allanamiento.
+
+collocations[6]{hanzi,en}:
+  极力阻止 | strive mightily to prevent
+  无法阻止 | impossible to stop / prevent
+  阻止事态恶化 | prevent the situation from worsening
+  及时阻止 | prevent in a timely manner
+  设法阻止 | find ways to stop
+  阻止悲剧发生 | prevent tragedy from happening
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  防患未然 | fáng huàn wèi rán | prevent troubles before they happen
+  力挽狂澜 | lì wǎn kuáng lán | pull back raging billows; save a desperate situation
+  截长补短 | jié cháng bǔ duǎn | trim excess to make up for deficiency
+  势不可挡 | shì bù kě dǎng | overwhelming momentum that cannot be stopped
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  阻 | zǔ | block; impede; hinder; obstacle | bloquear; impedir; obstáculo; traba | 阝 | mound / hill | 阝 (steep earthen cliff) + 且 (standing ancestral stone marker) | 且 (qiě / zǔ) | 7 | 左右结构 | A steep earthen cliff 阝 blocking the road ahead like an immovable stone slab 且; signifies obstruction. | A towering rocky precipice (阝) barring travelers' passage like an immovable stone wall (阻). | Un risco escarpado (阝) que corta el camino al viajero como un muro de piedra infranqueable (阻). | 214 | NLBM | 阻
+  止 | zhǐ | stop; halt; cease; only | parar; detener; cesar; límite; solo | 止 | stop / foot | pictograph of human footprint planted firmly on earth | 止 (zhǐ) | 4 | 单一结构 | Ancient oracle bone pictograph of a human foot resting stationary upon the ground; to stop moving. | Planting a firm foot (止) on the ground to halt forward motion. | Plantar el pie con firmeza en el suelo (止) para detener la marcha en seco. | 214 | YLM | 止
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Placing a steep barrier obstacle (阻) that forces forward footsteps to halt (止) means to prevent or stop (阻止).
+  composite_memory_hook_es: Alzar una barrera escarpada (阻) que clava los pies al suelo (止) conforma el acto de impedir (阻止).
+  cultural_and_cognitive_roots: Derived from ancient tactical gate defense where spiked barricades were erected across mountain passes to halt enemy cavalry.
+  tone_sandhi_and_pitch_modulation: Third tone sandhi chain: 'zǔ zhǐ' -> pronounced 'zú zhǐ' (35-214). The first syllable shifts smoothly to second tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    组 | zǔ | group; organize | Silk radical 纟 on left instead of 阝
+    租 | zū | rent; lease | Grain radical 禾 on left instead of 阝
+    正 | zhèng | straight; correct | Has a top horizontal stroke 一 over 止
+    步 | bù | step; stride | Contains lower foot 少 below 止
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    阻拦 | zǔlán | block; hold back
+    障碍 | zhàng'ài | obstacle; hindrance
+    制止 | zhìzhǐ | curb; put an end to
+    停止 | tíngzhǐ | cease; come to a halt
+
+semantic_boundary_contrasts:
+  core_nuance: 阻止 emphasizes proactive intervention to abort an ongoing or impending harmful action.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 阻止 vs. 促进 | cùjìn | 促进 is the direct antonym meaning to advance, promote, and accelerate forward.
+    2 | 阻止 vs. 阻碍 | zǔ'ài | 阻碍 means creating friction or slow progress, while 阻止 means halting the event altogether.
+    3 | 阻止 vs. 纵容 | zòngróng | 纵容 is the antonym meaning to indulge or turn a blind eye to harmful misdeeds.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在赵国面临换将危机的关头，不仅蔺相如拼死苦谏，赵括的母亲更是亲自上书赵王，直言儿子与丈夫截然不同，极力阻止这一致命任命。然而赵王利令智昏，完全听不进任何劝谏，最终导致四十万赵军魂断长平。 | Zài Zhàoguó miànlín huànjiàng wēijī de guāntóu, bùjǐn Lìn Xiàngrú pīnsǐ kǔjiàn, Zhào Kuò de mǔqīn gèng shì qīnzì shàngshū Zhàowáng, zhíyán érzi yǔ zhàngfu jiérán-bùtóng, jílì zǔzhǐ zhè yī zhìmìng rènmìng. Rán'ér Zhàowáng lìlìngzhìhūn, wánquán tīng bù jìn rènhé quànjiàn, zuìzhōng dǎozhì sìshí wàn Zhàojūn hún duàn Chángpíng. | At the crisis of command, not only did Lin Xiangru plead, but Zhao Kuo's mother petitioned the king, stating her son was nothing like her late husband and striving to stop the appointment. Blinded, the king refused, sealing the tragedy. | Ante el relevo en el mando, Lin Xiangru y la madre de Zhao Kuo rogaron al monarca, señalando que el hijo no se parecía en nada al padre e intentando atajar el nombramiento. El soberbio rey desoyó el ruego, consumando la hecatombe.
+  #2 | 在现代法治社会中，任何违法犯罪行为都必须受到法律的严正阻止与制裁。公安干警与各界群众紧密协作，不仅要依法惩处已经发生的犯罪，更要通过精密监控与社区调解，防微杜渐，将各类潜在危害隐患及时阻止在萌芽状态。 | Zài xiàndài fǎzhì shèhuì zhōng, rènhé wéifǎ-fànzuì xíngwéi dōu bìxū shòudào fǎlǜ de yánzhèng zǔzhǐ yǔ zhìcái. Gōng'ān gànjǐng yǔ gèjiè qúnzhòng jǐnmì xiézuò, bùjǐn yào yīfǎ chéngchǔ yǐjīng fāshēng de fànzuì, gèng yào tōngguò jīngmì jiānkòng yǔ shèqū tiáojiě, fángwēi-dùjiàn, jiāng gèlèi qiánzài wēihài yǐnhuàn jíshí zǔzhǐ zài méngyá zhuàngtài. | In modern societies under the rule of law, crimes must be sternly halted by law. Through surveillance and community mediation, police and citizens work together to stop latent hazards in their nascent stages before harm occurs. | En un Estado de derecho, la delincuencia debe ser frenada y sancionada con rigor. La policía y la ciudadanía cooperan para disuadir delitos y atajar peligros en su raíz antes de que causen daños irreparables.

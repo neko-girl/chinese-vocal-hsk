@@ -1,0 +1,63 @@
+id: 13
+hanzi: 命令
+pinyin: mìng lìng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: command; order; decree; to command; to order
+  es: orden; mandato; comando; ordenar; decretar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an authoritative directive, instruction, or decree issued by a superior that must be executed | directriz, disposición imperativa o mandato expedido por una autoridad para su obligado cumplimiento | 服从命令 (obey commands)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括一到长平前线接替廉颇，就立即鲁莽地下达了全军出击、主动进攻秦军的作战命令。 | Zhào Kuò yī dào Chángpíng qiánxiàn jiētì Lián Pō, jiù lìjí lǔmǎng de xiàdá le quán jūn chūjī, zhǔdòng jìngōng Qínjūn de zuòzhàn mìnglìng. | As soon as Zhao Kuo reached the Changping front replacing Lian Po, he rashly issued a combat order commanding the entire army to attack Qin. | Nada más llegar a Changping para relevar a Lian Po, Zhao Kuo impartió la temeraria orden de lanzar a todo el ejército al ataque contra Qin.
+  #2 | 消防救援指挥中心接到火警报警后，迅速下达出警命令，三辆消防车在五分钟内火速赶赴现场。 | Xiāofáng jiùyuán zhǐhuī zhōngxīn jiē dào huǒjǐng bàojǐng hòu, xùnsù xiàdá chūjǐng mìnglìng, sān liàng xiāofángchē zài wǔ fēnzhōng nèi huǒsù gǎnfù xiànchǎng. | Upon receiving the fire alarm, the rescue command center rapidly issued dispatch orders, and three fire engines dashed to the scene within five minutes. | Al recibir la alarma de incendio, el centro de coordinación emitió la orden de salida y tres camiones de bomberos acudieron al lugar en cinco minutos.
+
+collocations[6]{hanzi,en}:
+  下达命令 | issue an order / command
+  服从命令 | obey orders
+  执行命令 | execute orders
+  紧急命令 | urgent order
+  军人以服从命令为天职 | soldiers regard obedience to orders as sacred duty
+  撤销命令 | revoke an order
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  令行禁止 | lìng xíng jìn zhǐ | orders executed promptly and prohibitions strictly observed
+  军令如山 | jūn lìng rú shān | military orders are firm as mountains; non-negotiable
+  唯命是从 | wéi mìng shì cóng | obey every command submissively
+  发号施令 | fā hào shī lìng | bark out orders and order people around
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  命 | mìng | life; fate; command; decree | vida; destino; mandato; ordenar | 口 | mouth | 口 (authoritative spoken decree) + 令 (command proclamation) | 令 (lìng) | 8 | 上下结构 | A mouth 口 delivering an imperative decree 令; signifies an order or destined mandate. | A sovereign's mouth (口) pronouncing a binding decree that defines people's mission (命). | La boca (口) de un soberano proclamando un decreto sagrado que sella un destino (命). | 51 | ROMB | 命
+  令 | lìng | order; command; season; cause | orden; mandato; estación; mandar | 人 | person | 亼 (leader gathering people) + 卩 (kneeling figure obeying) | 令 (lìng) | 5 | 上下结构 | Gathered subjects 亼 kneeling 卩 to receive a formal mandate. | Gathering people under a roof shelter (人) to deliver an official decree (令). | Congregar vasallos bajo el alero real (人) para proclamar una ordenanza (令). | 51 | OII | 令
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An imperative spoken mandate (命) delivered as a formal decree (令) constitutes an authoritative order (命令).
+  composite_memory_hook_es: El mandato soberano (命) promulgado como ordenanza regia (令) conforma una orden de obligado acatamiento (命令).
+  cultural_and_cognitive_roots: Military discipline principle ('军令如山') where failure to execute a superior's lawful command carried summary court-martial.
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'mìng lìng' (51-51). Articulate both syllables with firm, authoritative downward snap.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    伞 | sǎn | umbrella | Contains multiple crossbars under 人
+    今 | jīn | now; present | Lacks the bottom dot/hook of 令
+    冷 | lěng | cold | Ice radical 冫 on left of 令
+    伶 | líng | clever; actor | Person radical 亻 on left of 令
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    命运 | mìngyùn | destiny; fate
+    指令 | zhǐlìng | instruction; computer command
+    寿命 | shòumìng | lifespan; longevity
+    司令 | sīlìng | commander; commanding officer
+
+semantic_boundary_contrasts:
+  core_nuance: 命令 indicates an authoritative, non-negotiable instruction that subordinates must execute without question.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 命令 vs. 请求 | qǐngqiú | 请求 is a polite request asking for assistance, while 命令 is an unbendable directive from above.
+    2 | 命令 vs. 建议 | jiànyì | 建议 offers advice for voluntary consideration, whereas 命令 carries binding administrative compulsion.
+    3 | 命令 vs. 指示 | zhǐshì | 指示 gives guiding parameters or policy orientation, while 命令 demands exact tactical execution.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括接掌赵军兵权后，第一道命令便是废除老将廉颇原先制定的坚守防御策略。他不顾副将们的苦苦劝谏，强行下达全线反攻的严厉命令。正是这一道脱离战场实际的昏庸命令，将数十万赵国将士推向了万劫不复的深渊。 | Zhào Kuò jiēzhǎng Zhàojūn bīngquán hòu, dì-yī dào mìnglìng biàn shì fèichú lǎojiàng Lián Pō yuánxiān zhìdìng de jiānshǒu fángyù cèlüè. Tā bùgù fùjiàng men de kǔkǔ quànjiàn, qiángxíng xiàdá quánxiàn fǎngōng de yánlì mìnglìng. Zhèngshì zhè yī dào tuōlí zhànchǎng shíjì de hūnyōng mìnglìng, jiāng shùshí wàn Zhàoguó jiàngshì tuī xiàng le wànjié-bùfù de shēnyuān. | Taking military command, Zhao Kuo's very first order repealed Lian Po's defensive policy. Disregarding deputies' entreaties, he forced an order for full-scale offensive. This reckless command pushed hundreds of thousands of troops into the abyss. | Al asumir el mando, la primera orden de Zhao Kuo fue abolir la prudente defensa de Lian Po. Desoyendo los ruegos de sus lugartenientes, impartió una estricta orden de contraataque general, precipitando al abismo a sus soldados.
+  #2 | 在现代突发公共安全事件的应急救援处置中，科学高效的统一命令体系是争分夺秒挽救生命的制度保障。指挥部下达的每一道疏散转移命令，都必须依托精确的实时数据与现场研判，做到指令清晰、雷厉风行，确保救援有序推进。 | Zài xiàndài tūfā gōnggòng ānquán shìjiàn de yìngjí jiùyuán chǔzhì zhōng, kēxué gāoxiào de tǒngyī mìnglìng tǐxì shì zhēngfēn-duómiǎo wǎnjiù shēngmìng de zhìdù bǎozhàng. Zhǐhuībù xiàdá de měi yī dào shūsàn zhuǎnyí mìnglìng, dōu bìxū yītuō jīngquè de shíshí shùjù yǔ xiànchǎng yánpàn, zuòdào zhǐlìng qīngxī, léilì-fēngxíng, quèbǎo jiùyuán yǒuxù tuījìn. | In modern public emergency responses, a unified command system safeguards swift lifesaving operations. Every evacuation order issued by headquarters relies on real-time data, ensuring clear instructions executed with decisive speed. | En la gestión de emergencias civiles, una cadena unificada de mando resulta vital para salvar vidas a contrarreloj. Cada orden de evacuación debe fundamentarse en datos en tiempo real, garantizando directrices claras y un auxilio coordinado.

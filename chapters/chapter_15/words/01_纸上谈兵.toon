@@ -1,0 +1,65 @@
+id: 1
+hanzi: 纸上谈兵
+pinyin: zhǐ shàng tán bīng
+level: HSK 5
+part_of_speech: Idiom
+
+meanings_summary:
+  en: to fight on paper; armchair strategy; empty theorizing divorced from reality
+  es: hacer la guerra sobre el papel; teorizar en el vacío; estrategia de sillón
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Idiom | Standard | to discuss military affairs on paper without practical combat experience; refers to engaging in unrealistic idle theorizing | discutir tácticas militares sobre el papel sin experiencia real; teorizar al margen de la práctica | 纯属纸上谈兵 (purely armchair theorizing on paper)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 战国时期的赵括只会死记兵书却不懂灵活应变，在长平之战中纸上谈兵，最终导致赵军惨败。 | Zhànguó shíqī de Zhào Kuò zhǐ huì sǐjì bīngshū què bù dǒng línghuó yìngbiàn, zài Chángpíng zhī zhàn zhōng zhǐshàng-tánbīng, zuìzhōng dǎozhì Zhàojūn cǎibài. | During the Warring States period, Zhao Kuo memorized military texts by rote without flexible adaptation; fighting on paper at Changping, he caused his army's total defeat. | En los Reinos Combatientes, Zhao Kuo memorizó tratados bélicos sin saber adaptarse; su estrategia sobre el papel en Changping causó una hecatombe.
+  #2 | 搞科学研究决不能停留在纸上谈兵，必须深入实验室和一线现场开展扎扎实实的实践验证。 | Gǎo kēxué yánjiū juébùnéng tíngliú zài zhǐshàng-tánbīng, bìxū shēnrù shíyànshì hé yīxiàn xiànchǎng kāizhǎn zhāzhā-shíshí de shíjiàn yànzhèng. | Scientific research must never linger on paper theories; researchers must go deep into labs and field sites for rigorous empirical testing. | La labor científica no puede estancarse en elucubraciones teóricas; exige verificar las hipótesis sobre el terreno y en el laboratorio.
+
+collocations[6]{hanzi,en}:
+  纯属纸上谈兵 | purely armchair theorizing
+  切忌纸上谈兵 | strictly avoid fighting on paper
+  不是纸上谈兵 | not mere idle paper talk
+  纸上谈兵的空论 | empty armchair theorizing
+  克服纸上谈兵 | overcome empty armchair talk
+  沦为纸上谈兵 | degenerate into paper theorizing
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  纸上谈兵 | zhǐ shàng tán bīng | armchair strategy; empty theorizing
+  按图索骥 | àn tú suǒ jì | look for a steed according to a sketch; dogmatic approach
+  实事求是 | shí shì qiú shì | seek truth from facts; pragmatic and realistic
+  坐而论道 | zuò ér lùn dào | sit and talk philosophy without taking action
+
+character_decomposition[4]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  纸 | zhǐ | paper | papel | 纟 | silk / fiber | 纟 (plant silk fibers) + 氏 (pressing mallet / clan surface) | 氏 (shì / zhǐ) | 7 | 左右结构 | Plant and silk fibers 纟 beaten flat into thin writing sheets 氏; represents paper. | Beating fine silk and plant fibers (纟) into smooth flat sheets of writing paper (纸). | Prensando fibras de seda vegetal (纟) hasta obtener hojas lisas de papel para escribir (纸). | 214 | VMHVP | 紙
+  上 | shàng | on; upon; above; upper | sobre; encima; arriba; superior | 一 | one / baseline | horizontal baseline 一 with an indicator stroke pointing above | 上 (shàng) | 3 | 单一结构 | Ancient ideograph with a horizontal baseline 一 and a vertical mark standing above it. | A pointer stroke rising upright above the horizontal horizon line (上). | Un trazo vertical que se yergue por encima de la línea base del horizonte (上). | 51 | YMY | 上
+  谈 | tán | talk; converse; discuss; speak | hablar; conversar; platicar; discutir | 讠 | speech | 讠 (spoken words) + 炎 (blazing flame / glowing warmth) | 炎 (yán) | 10 | 左右结构 | Words 讠 exchanged with glowing, lively enthusiasm like warm burning fires 炎; to discuss. | Words of speech (讠) sparking animated warmth like burning campfire flames (谈). | Palabras orales (讠) que desprenden el entusiasmo cálido del fuego que arde al conversar (谈). | 35 | IVFF | 談
+  兵 | bīng | soldier; weapons; military; troops | soldado; armas; militar; tropas | 八 | eight | 斤 (sharp bronze axe) + 廾/八 (two hands gripping it) | 兵 (bīng) | 7 | 上下结构 | Two hands 廾 firmly gripping a battleaxe 斤; represents a soldier or weapon of war. | Two warrior hands raising a sharp battleaxe (斤) ready to defend the realm (兵). | Dos manos firmes que alzan un hacha de combate (斤) dispuestas a defender las armas (兵). | 55 | OMC | 兵
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Discussing troops and war (谈兵) purely upon written paper (纸上) without battle experience is armchair strategy (纸上谈兵).
+  composite_memory_hook_es: Debatir sobre tropas y tácticas (谈兵) únicamente sobre el papel (纸上) sin experiencia real es teorizar en el vacío (纸上谈兵).
+  cultural_and_cognitive_roots: Originates from Sima Qian's 'Records of the Grand Historian' describing Zhao Kuo's disastrous generalship at the Battle of Changping (260 BC).
+  tone_sandhi_and_pitch_modulation: Four tones: 'zhǐ shàng tán bīng' (214-51-35-55). Dip on 'zhǐ', drop sharply on 'shàng', rise on 'tán', and conclude high on 'bīng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    低 | dī | low; beneath | Person radical 亻 on left instead of 纟
+    卡 | kǎ | card; block | Upper stroke pointing down combined with 上
+    淡 | dàn | bland; pale | Water radical 氵 on left instead of 讠
+    乒 | pīng | ping (table tennis) | Has only left leg stroke, missing right leg
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    报纸 | bàozhǐ | newspaper
+    谈话 | tánhuà | conversation; talk
+    士兵 | shìbīng | soldier; rank-and-file
+    兵法 | bīngfǎ | art of war; military strategy
+
+semantic_boundary_contrasts:
+  core_nuance: 纸上谈兵 mocks bookish theorists who recite dogma fluently but disastrously botch real-world application.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 纸上谈兵 vs. 实战经验 | shízhàn jīngyàn | 实战经验 denotes battle-tested pragmatic capability, the exact remedy for 纸上谈兵.
+    2 | 纸上谈兵 vs. 按图索骥 | àn tú suǒ jì | 按图索骥 criticizes inflexible rule-following, while 纸上谈兵 highlights empty talk lacking battlefield competence.
+    3 | 纸上谈兵 vs. 身体力行 | shēntǐ-lìxíng | 身体力行 is the direct antonym meaning to personally practice and implement ideas in deed.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 战国名将赵奢深谙兵法，其子赵括自幼熟读兵书，谈起用兵之道口若悬河。然而赵奢却预言赵括必败，因为他把战场厮杀视同儿戏。长平之战中赵括盲目出击，惨遭秦军合围，成为后世讽刺“纸上谈兵”的惨痛教训。 | Zhànguó míngjiàng Zhào Shē shēn'ān bīngfǎ, qí zǐ Zhào Kuò zìyòu shúdú bīngshū, tán qǐ yòngbīng zhī dào kǒuruò-xuánhé. Rán'ér Zhào Shē què yùyán Zhào Kuò bì bài, yīnwèi tā bǎ zhànchǎng sīshā shìtóng érxì. Chángpíng zhī zhàn zhōng Zhào Kuò mángmù chūjī, cǎnzāo Qínjūn héwéi, chéngwéi hòushì fěngcì 'zhǐshàng-tánbīng' de cǎntòng jiàoxun. | General Zhao She was versed in strategy; his son Zhao Kuo recited military tactics effortlessly. Yet Zhao She foretold his son's doom for treating war lightly. Zhao Kuo's blunder at Changping became the tragic symbol of 'fighting on paper.' | El general Zhao She dominaba la táctica; su hijo Zhao Kuo recitaba tratados con soltura. Pero Zhao She predijo su fracaso por tomar la guerra como un juego. El desastre de Zhao Kuo en Changping se convirtió en trágico escarmiento.
+  #2 | 在现代企业管理与经济决策中，“纸上谈兵”同样是一大忌讳。再完美的商业策划方案，如果脱离了真实的市场需求与一线调研，最终都只能沦为空洞的设想。唯有深入基层倾听用户心声，在实践中检验真理，方能行稳致远。 | Zài xiàndài qǐyè guǎnlǐ yǔ jīngjì juécè zhōng, 'zhǐshàng-tánbīng' tóngyàng shì yī dà jìhuì. Zài wánměi de shāngyè cèhuà fāng'àn, rúguǒ tuōlí le zhēnshí de shìchǎng xūqiú yǔ yīxiàn diàoyán, zuìzhōng dōu zhǐnéng lúnwéi kōngdòng de shèxiǎng. Wéiyǒu shēnrù jīcéng qīngtīng yònghù xīnshēng, zài shíjiàn zhōng jiǎnyàn zhēnlǐ, fāng néng xíngwěn-zhìyuǎn. | In corporate management, 'fighting on paper' remains a perilous pitfall. No matter how flawless a business proposal appears, divorcing it from market research renders it an empty fantasy. Only testing ideas on the ground yields success. | En la gestión corporativa, teorizar sobre el papel acarrea graves tropiezos. Por impecable que luzca un plan de negocio, si desoye el mercado real queda en vana quimera; solo el examen directo con los usuarios garantiza el éxito.

@@ -1,0 +1,63 @@
+id: 11
+hanzi: 通常
+pinyin: tōng cháng
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: usually; generally; normally; ordinary
+  es: generalmente; por lo general; normalmente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | under normal or customary conditions; as a general rule | en condiciones habituales o normales; por regla general | 通常情况下 (under normal circumstances)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在老北京四合院中，北面的正房通常留给家中辈分最高的老人居住，以示敬重。 | Zài lǎo Běijīng sìhéyuàn zhōng, běimiàn de zhèngfáng tōngcháng liú gěi jiāzhōng bèifèn zuìgāo de lǎorén jūzhù, yǐ shì jìngzhòng. | In old Beijing courtyards, the north main room is usually reserved for the family's senior elders as a mark of respect. | En los patios tradicionales de Pekín, la sala principal del norte suele reservarse a los ancianos de mayor jerarquía familiar en señal de respeto.
+  #2 | 若没有突发状况，国际客运航班通常会按照既定时刻表准点起飞与降落。 | Ruò méiyǒu tūfā zhuàngkuàng, guójì kèyùn hángbān tōngcháng huì ànzhào jìdìng shíkèbiǎo zhǔndiǎn qǐfēi yǔ jiàngluò. | Barring unexpected emergencies, international passenger flights usually take off and land punctually per the schedule. | Salvo imprevistos de última hora, los vuelos comerciales internacionales suelen despegar y aterrizar con puntualidad según el horario fijado.
+
+collocations[6]{hanzi,en}:
+  通常情况下 | under normal circumstances
+  通常认为 | generally considered
+  通常做法 | usual practice
+  按照通常 | according to the usual norm
+  通常规律 | general rule / normal pattern
+  超越通常 | exceed what is normal
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  习以为常 | xí yǐ wéi cháng | accustomed to through long habit
+  屡见不鲜 | lǚ jiàn bù xiān | common sight; not at all novel
+  司空见惯 | sī kōng jiàn guàn | familiar sight; common daily occurrence
+  通情达理 | tōng qíng dá lǐ | fair-minded, sensible, and reasonable
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  通 | tōng | pass through; common; general | pasar a través; común; general | 辶 | walk / movement | 辶 (motion) + 甬 (flowing corridor/path) | 甬 (yǒng) | 10 | 半包围结构 | Motion 辶 moving unobstructed along a paved thoroughfare 甬; implies uninterrupted flow and broad currency. | Moving smoothly along an open road (辶) with nothing blocking the passage (通). | Avanzar con fluidez por un camino expedito (辶) sin obstáculos que cierren el paso (通). | 55 | YNIB | 通
+  常 | cháng | frequent; regular; constant | frecuente; regular; constante | 巾 | cloth / towel | 尚 (elevated roof/spire) + 巾 (standard hanging banner) | 尚 (shàng) | 11 | 上下结构 | A standard skirt or banner 巾 hung prominently; represents constancy, enduring routines, and norms. | A distinctive banner (巾) hung permanently aloft that serves as an enduring everyday standard (常). | Un estandarte ceremonial (巾) suspendido de modo permanente como norma constante de la vida diaria (常). | 35 | FBRB | 常
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Moving openly through (通) enduring daily customs (常) reflects what usually (通常) happens.
+  composite_memory_hook_es: Transitar abiertamente (通) por costumbres constantes (常) define lo que ocurre habitualmente (通常).
+  cultural_and_cognitive_roots: Blends 'thoroughfare connectivity' (通) with 'temporal constancy' (常) to signify everyday default patterns.
+  tone_sandhi_and_pitch_modulation: First tone to second tone: 'tōng cháng' (55-35). Start on a level high pitch and rise steadily.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    痛 | tòng | pain; ache | Sickness radical 疒 instead of 辶
+    勇 | yǒng | brave; courageous | Strength radical 力 below 甬
+    裳 | shang | clothes; garments | Clothing radical 衣 at the base instead of 巾
+    堂 | táng | hall; spacious room | Earth radical 土 at the base instead of 巾
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    平常 | píngcháng | ordinary; common
+    经常 | jīngcháng | often; regularly
+    普及 | pǔjí | popularize; widespread
+    普遍 | pǔbiàn | universal; general
+
+semantic_boundary_contrasts:
+  core_nuance: 通常 expresses standard, prevailing probability under general everyday conditions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 通常 vs. 经常 | jīngcháng | 经常 focuses on high temporal frequency (often/repeatedly), whereas 通常 denotes standard regular practice or probability.
+    2 | 通常 vs. 平常 | píngcháng | 平常 functions as an adjective meaning ordinary or unexceptional, while 通常 acts adverbially for prevailing customs.
+    3 | 通常 vs. 一向 | yīxiàng | 一向 denotes unbroken persistence from the past up to now ('all along'), whereas 通常 expresses the customary norm.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在老北京的合院建筑规制中，建筑用料通常由房主的社会身份决定。王府公馆通常使用考究的青白石台基与琉璃瓦件，而普通平民住宅则通常采用素雅质朴的灰色砖瓦。这种习惯体现了古代严密的礼制等级。 | Zài lǎo Běijīng de héyuàn jiànzhù guīzhì zhōng, jiànzhù yòngliào tōngcháng yóu fángzhǔ de shèhuì shēnfèn juédìng. Wángfǔ gōngguǎn tōngcháng shǐyòng kǎojiu de qīngbáishí táijī yǔ liúliwǎ jiàn, ér pǔtōng píngmín zhùzhái zé tōngcháng cǎiyòng sùyǎ zhìpǔ de huīsè zhuānwǎ. Zhè zhǒng xíguàn tǐxiàn le gǔdài yánmì de lǐzhì děngjí. | In the architectural codes of old Beijing quadrangles, building materials were usually determined by the homeowner's social status. Princely mansions usually featured fine white stone pedestals and glazed tiles, whereas common residences usually utilized modest grey bricks. | En los códigos constructivos de los patios de Pekín, los materiales solían definirse por el rango social del propietario. Los palacios nobiliarios solían emplear zócalos de piedra blanca y tejas esmaltadas, mientras que los hogares plebeyos recurrían al ladrillo gris.
+  #2 | 民间日常邻里交往也通常恪守传统的谦让礼俗。逢年过节，街坊之间通常会互赠亲手制作的应节糕点。若有外来客人登门拜访，主人通常会以最高礼节奉上盖碗茉莉花茶。这些看似平常的举动，深藏着古都街巷独特的淳朴民风与人情滋味。 | Mínjiān rìcháng línlǐ jiāowǎng yě tōngcháng kèshǒu chuántǒng de qiānràng lǐsú. Féng nián guò jié, jiēfang zhījiān tōngcháng huì hù zèng qīnshǒu zhìzuò de yìngjié gāodiǎn. Ruò yǒu wàilái kèrén dēngmén bàifǎng, zhǔrén tōngcháng huì yǐ zuìgāo lǐjié fèngshang gàiwǎn mòlihuā chá. Zhèxiē kànsì píngcháng de jǔdòng, shēncáng zhe gǔdū jiēxiàng dútè de chúnpǔ mínfēng yǔ rénqíng zīwèi. | Daily neighborhood interactions among civilians also usually strictly observed traditional polite customs. During festivals, neighbors usually exchanged homemade seasonal cakes. When outside guests arrived, hosts usually offered covered-bowl jasmine tea with highest etiquette. | Las relaciones vecinales cotidianas solían observar con esmero la cortesía tradicional. En festividades, los vecinos solían regalarse dulces típicos caseros. Ante la llegada de visitas, el anfitrión servía té de jazmín en cuenco con reverencia, reflejando la entrañable hospitalidad pekinesa.

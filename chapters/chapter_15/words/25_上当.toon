@@ -1,0 +1,63 @@
+id: 25
+hanzi: 上当
+pinyin: shàng dàng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to be fooled; be taken in; fall into a trap; be duped
+  es: dejarse engañar; caer en la trampa; ser estafado; ser burlado
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to be deceived, tricked, or taken in by deceptive words, fraudulent schemes, or ambushes | ser víctima de engaño, trampa o fraude; dejarse embaucar por argucias | 上当受骗 (be fooled and swindled)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵王轻信了秦国间谍散布的谣言，果然中计上当，执意派缺乏实战经验的赵括前去替换廉颇。 | Zhàowáng qīngxìn le Qínguó jiàndié sànbù de yáoyán, guǒrán zhòngjì shàngdàng, zhíyì pài quēfá shízhàn jīngyàn de Zhào Kuò qiánqù tìhuàn Lián Pō. | King Zhao believed rumors spread by Qin spies and was taken in by the trap, sending inexperienced Zhao Kuo to replace Lian Po. | El rey de Zhao creyó los infundios de los espías de Qin y cayó en la trampa, relevando a Lian Po por el inexperto Zhao Kuo.
+  #2 | 社区民警深入居民小区开展反诈宣传，提醒老年人提高警惕，切莫轻信高额回报而上当受骗。 | Shèqū mínjǐng shēnrù jūmín xiǎoqū kāizhǎn fǎnzà xuānchuán, tíxǐng lǎoniánrén tígāo jǐngtì, qiè mò qīngxìn gāo'é huíbào ér shàngdàng-shòupiàn. | Community police conducted anti-fraud campaigns in neighborhoods, reminding seniors to stay vigilant and avoid being duped by high-yield scams. | La policía de barrio impartió charlas antifraude, advirtiendo a los ancianos que no caigan en timos que prometen ganancias fáciles.
+
+collocations[6]{hanzi,en}:
+  上当受骗 | be duped and swindled
+  容易上当 | easily taken in / gullible
+  谨防上当 | guard against being deceived
+  绝不上当 | never be fooled
+  上了一次当 | got fooled once
+  上当的滋味 | the bitter taste of being tricked
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  受骗上当 | shòu piàn shàng dàng | be deceived and taken in by trickery
+  吃一堑，长一智 | chī yī qiàn, zhǎng yī zhì | a fall into the pit, a gain in your wit; learn from blunders
+  自投罗网 | zì tóu luó wǎng | hurl oneself into the net; walk blindly into traps
+  引颈受戮 | yǐn jǐng shòu lù | stick out one's neck to receive the axe; submit passively to slaughter
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  上 | shàng | ascend; go up; enter; on | subir; entrar; sobre; arriba | 一 | one / baseline | horizontal baseline 一 with an indicator stroke pointing above | 上 (shàng) | 3 | 单一结构 | Indicator glyph showing an element standing above a baseline; here meaning stepping into a trap. | Stepping upward (上) blindly into a snare. | Dar un paso hacia arriba (上) cayendo inadvertidamente en el lazo. | 51 | YMY | 上
+  当 | dàng | pawnshop; pawn ticket; match; fitting | casa de empeño; boleta; encajar; adecuado | ⺌ | small | 尚/⺌ (value / worth) + 彐/田 (pawn collateral ledger) | 尚 (shàng / dàng) | 6 | 上下结构 | Entering a pawnshop 当 to pledge property; customers often fell victim to sharp valuation swindles (上当). | Pawning heirlooms at a pawnshop (当) only to realize one has been shortchanged. | Empeñar un objeto en el monte de piedad (当) dándose cuenta de la tasación engañosa. | 51 | FNS | 當
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Walking into (上) the sharp valuation trap of a greedy pawnshop (当) gave rise to being fooled (上当).
+  composite_memory_hook_es: Entrar (上) en el engaño de tasación de una casa de empeño (当) dio origen al modismo caer en la trampa (上当).
+  cultural_and_cognitive_roots: Originates from late imperial Beijing pawnshops ('当铺') where appraisers systematically undervalued valuables, leaving patrons swindled ('上当').
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'shàng dàng' (51-51). Pronounce both syllables with firm, emphatic downward cadence.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    下 | xià | down; below | Indicator stroke points downward
+    肖 | xiào | resemble; small | Flesh radical 月 at bottom instead of 彐
+    党 | dǎng | party; faction | Legs radical 儿 at bottom instead of 彐
+    常 | cháng | constant; normal | Towel radical 巾 at bottom instead of 彐
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    当铺 | dàngpù | pawnshop
+    受骗 | shòupiàn | be swindled / cheated
+    中计 | zhòngjì | fall into a trap / stratagem
+    不上当 | bù shàngdàng | not fall for it
+
+semantic_boundary_contrasts:
+  core_nuance: 上当 is an informal, widely used verb describing falling prey to someone else's deceptive scheme or trap.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 上当 vs. 识破 | shípò | 识破 is the direct antonym meaning to see through a trick or unmask a deception.
+    2 | 上当 vs. 认输 | rènshū | 认输 means conceding defeat voluntarily, while 上当 means being tricked into loss.
+    3 | 上当 vs. 迷失 | míshī | 迷失 means losing one's way physically or morally, unlike being actively conned (上当).
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 战国历史上赵王因上当而导致长平惨败的教训极其深刻。秦国运用反间计散布谣言，赵王不仅未能明察秋毫，反而屡次上当，将百战老将廉颇撤换。这一致命决策使四十万将士身首异处，警示后人兼听则明、偏信则暗。 | Zhànguó lìshǐ shang Zhàowáng yīn shàngdàng ér dǎozhì Chángpíng cǎibài de jiàoxun jíqí shēnkè. Qínguó yùnyòng fǎnjiànjì sànbù yáoyán, Zhàowáng bùjǐn wèinéng míngchá-qiūháo, fǎn'ér lǚcì shàngdàng, jiāng bǎizhàn lǎojiàng Lián Pō chèhuàn. Zhè yī zhìmìng juécè shǐ sìshí wàn jiàngshì shēnshǒu-yìchù, jǐngshì hòurén jiāntīng-zémíng, piānxìn-zè'àn. | King Zhao's gullibility leading to Changping disaster is a grave historical lesson. Duped by Qin's counter-espionage rumors, he fell into the trap, replacing Lian Po. Forty thousand soldiers died, warning that credulity breeds ruin. | La caída en la trampa del rey de Zhao en Changping fue una tragedia histórica. Embaucado por bulos de Qin, cesó a Lian Po; 400.000 soldados perecieron, alertando a la posteridad de que la credulidad ciega engendra catástrofes.
+  #2 | “天下没有免费的午餐。”在日常经济生活与投资理财中，形形色色的诈骗陷阱层出不穷。面对各种天花乱坠的暴利诱惑，我们必须保持高度清醒的理性防线，不贪小便宜，多方核实真伪，才能避免落入骗局上当受骗。 | 'Tiānxià méiyǒu miǎnfèi de wǔcān.' Zài rìcháng jīngjì shēnghuó yǔ tóuzī lǐcái zhōng, xíngxíng-sèsè de zhàpiàn xiànjǐng céngchū-bùqióng. Miànduì gè zhǒng tiānhuā-luànzhuì de bàolì yòuhuò, wǒmen bìxū bǎochí gāodù qīngxǐng de lǐxìng fángxiàn, bù tān xiǎo piányi, duōfāng héshí zhēnwěi, cái néng bìmiǎn luòrù piànjú shàngdàng-shòupiàn. | 'There is no free lunch in this world.' In modern financial investments, scams abound. Facing temptations of overnight riches, maintaining a cool, rational defense and refusing petty greed protects us from being taken in by fraudsters. | 'Nadie da duros a cuatro pesetas.' En las finanzas diarias menudean timos y engaños. Ante promesas de ganancias desmedidas, mantener la guardia racional y desconfiar de gangas fáciles evita caer en la trampa de los estafadores.

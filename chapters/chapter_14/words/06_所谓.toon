@@ -1,0 +1,64 @@
+id: 6
+hanzi: 所谓
+pinyin: suǒ wèi
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: so-called; what is called; what is known as
+  es: el llamado; lo que se conoce como; el presunto
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | what is meant by or commonly called; explaining terminology | lo que comúnmente se denomina o entiende por tal concepto | 所谓四合，即四面房屋围在一起 (the so-called 'four-join' means houses on four sides)
+  2 | Adjective | Standard | so-called (used skeptically or disapprovingly to denote false claims) | presunto o supuesto con matiz escéptico o irónico | 别相信那些所谓专家的养生秘诀 (don't trust those so-called experts' secrets)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 所谓四合院，‘四’指东、西、南、北四面，‘合’则是四面房屋围在一起，形成封闭的方形院落。 | Suǒwèi sìhéyuàn, 'sì' zhǐ dōng, xī, nán, běi sì miàn, 'hé' zé shì sì miàn fángwū wéi zài yìqǐ, xíngchéng fēngbì de fāngxíng yuànluò. | As for the so-called siheyuan, 'four' signifies the four directions, while 'join' means enclosing houses on four sides into a private square courtyard. | En el llamado siheyuan, 'cuatro' alude a los cuatro puntos cardinales y 'juntar' describe cuatro pabellones abrazando un patio cuadrado íntimo.
+  #2 | 消费者应当保持理性清醒，切勿轻信网络上那些未经权威科学认证的所谓‘抗衰老神药’。 | Xiāofèizhě yīngdāng bǎochí lǐxìng qīngxǐng, qièwù qīngxìn wǎngluò shang nàxiē wèijīng quánwēi kēxué rènzhèng de suǒwèi 'kàng shuāilǎo shényào'. | Consumers should stay rational and avoid falling for uncertified 'anti-aging miracles' touted by so-called medical gurus online. | Los consumidores deben mantener la cautela y desconfiar de los supuestos 'remedios milagrosos antiedad' que proliferan en internet sin aval científico.
+
+collocations[6]{hanzi,en}:
+  所谓四合 | the so-called four-join
+  所谓专家 | so-called experts
+  所谓的成功 | so-called success
+  无所谓 | doesn't matter; indifferent
+  所谓何事 | what is this concerning (formal)
+  所谓事实 | the alleged facts
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  顾名思义 | gù míng sī yì | as the name implies; self-explanatory from the name
+  名不副实 | míng bù fù shí | the name does not match the reality; unworthy of the name
+  开宗明义 | kāi zōng míng yì | state the primary purpose right at the beginning
+  理所当然 | lǐ suǒ dāng rán | taken for granted; natural and proper as a matter of course
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  所 | suǒ | place; particle indicating receiver of action | lugar; partícula que sustantiva el objeto | 斤 | axe | 户 (single door) + 斤 (axe chopping timber on doorstep) | 所 (suǒ) | 8 | 左右结构 | An axe 斤 chopping wood at a homestead door 户; originally the designated chopping spot, developing into places and passive pronoun particle. | Setting down an axe (斤) at the wooden threshold (户) to mark an established dwelling place (所). | Apoyar el hacha (斤) en el umbral de la puerta (户) para señalar el lugar de asiento (所). | 214 | HSHML | 所
+  谓 | wèi | say; speak of; call; meaning | decir; llamar; denominar; significar | 讠 | speech | 讠 (spoken words) + 胃 (stomach / inner intent) | 胃 (wèi / phonetic) | 11 | 左右结构 | Speech radical 讠 beside stomach 胃; voicing words that express what is harbored in one's stomach/mind. | Uttering spoken words (讠) straight from the gut (胃) to name and define a truth (谓). | Pronunciar palabras claras (讠) que brotan de las entrañas (胃) para nombrar las cosas (谓). | 51 | IWBG | 謂
+
+mnemonics_and_roots:
+  composite_memory_hook_en: What (所) is stated and named by spoken words (谓) defines the so-called term (所谓).
+  composite_memory_hook_es: Aquello (所) que se enuncia y denomina con palabras (谓) es lo que se llama (所谓).
+  cultural_and_cognitive_roots: Essential classical expository marker (所谓的 'what is termed...') used in academic definition and dialectical skepticism.
+  tone_sandhi_and_pitch_modulation: Dipping third tone followed by falling fourth tone: 'suǒ wèi' (214-51). Dip low on 'suǒ', then descend decisively on 'wèi'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    所 | suǒ | place; particle | Single door 户 on left of axe 斤
+    断 | duàn | snap; break | Has 米 and 乚 on left of 斤
+    谓 | wèi | call; speak | Speech radical 讠 on left of 胃
+    渭 | wèi | Wei River | Water radical 氵 on left of 胃
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    称 | chēng | weigh; call; praise
+    名 | míng | name; term; famous
+    号 | hào | call; name; mark
+    指 | zhǐ | point; refer to
+
+semantic_boundary_contrasts:
+  core_nuance: 所谓 introduces an explicit definition of a concept or expresses ironic skepticism toward a label.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 所谓 vs. 名义 | míngyì | 名义 is a noun meaning titular capacity or pretext (以朋友的名义), while 所谓 is a modifier explaining definitions or questioning authenticity.
+    2 | 所谓 vs. 据说 | jùshuō | 据说 introduces reported hearsay from outside sources (据说要下雨), while 所谓 defines terminology or questions validity.
+    3 | 所谓 vs. 称作 | chēngzuò | 称作 is a transitive predicate verb meaning 'to be called' (这种鸟被称作翠鸟), while 所谓 is an attributive modifier.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 探寻传统建筑之美，必须先理解其造字立意的文化源头。所谓四合，‘四’指东、西、南、北四面房屋，‘合’则是四面房屋围合在一起。这简简单单的两个汉字，生动凝练地勾勒出了北方民居中正平和的审美意境。 | Tànxún chuántǒng jiànzhù zhī měi, bìxū xiān lǐjiě qí zàozì lìyì de wénhuà yuántóu. Suǒwèi sìhé, 'sì' zhǐ dōng, xī, nán, běi sì miàn fángwū, 'hé' zé shì sì miàn fángwū wéihé zài yìqǐ. Zhè jiǎnjiǎn-dāndān de liǎng ge Hànzì, shēngdòng níngliàn de gōulè chū le běifāng mínjū zhōngzhèng-pínghé de shěnměi yìjìng. | Exploring the beauty of architecture requires understanding cultural etymology. The 'four-join' implies buildings on four sides enclosing a yard. These two characters sketch the harmonious aesthetic core of northern vernacular homes. | Para apreciar la arquitectura tradicional conviene desentrañar sus raíces léxicas. Lo de 'cuatro juntas' define pabellones en los cuatro rumbos cerrándose en torno al patio, compendiando la serena armonía solariega.
+  #2 | 在快节奏的商业炒作中，不少打着所谓‘传统古建’旗号的新建仿古街区，由于过度追求商业利益而丧失了原汁原味的民俗烟火气。真正值得我们倍加珍视的，从来不是冰冷的水泥仿品，而是老北京四合院里世代相传的质朴温情。 | Zài kuài jiézòu de shāngyè chǎozuò zhōng, bùshǎo dǎ zhe suǒwèi 'chuántǒng gǔjiàn' qíhào de xīnjiàn fǎnggǔ jiēqū, yóuyú guòdù zhuīqiú shāngyè lìyì ér sàngshī le yuánzhī-yuánwèi de mínsú yānhuǒqì. Zhēnzhèng zhíde wǒmen bèijiā zhēnshì de, cónglái búshì bīnglěng de shuǐní fǎngpǐn, érshì lǎo Běijīng sìhéyuàn lǐ shìdài-xiāngchuán de zhípǔ wēnqíng. | Amid commercial hype, many new pedestrian streets under so-called 'heritage' banners forfeit authentic community life in greed. What deserves cherishing is never cold concrete facsimiles, but the timeless warmth preserved in old courtyards. | Entre el bullicio mercantil, muchos recintos que se anuncian como 'patrimonio histórico' pierden su autenticidad por el lucro. Lo que de veras vale la pena rescatar es el calor humano vivo de los patios tradicionales.

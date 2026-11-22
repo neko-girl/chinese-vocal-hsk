@@ -1,0 +1,64 @@
+id: 3
+hanzi: 组合
+pinyin: zǔ hé
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to combine; assemble; composite; combination
+  es: combinar; asociar; integrar; combinación; conjunto
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to unite or bring together distinct components, persons, or groups into a coherent whole | unir o enlazar elementos, personas o piezas diversas para formar un todo estructurado | 自由组合成学习小组 (combine freely into study groups)
+  2 | Noun | Standard | a combination, composite arrangement, or musical group | conjunto estructurado de partes o agrupación artística | 经典的沙发家具组合 (a classic sofa furniture combination set)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这套组合音响设备不仅音质清澈饱满，还支持多种无线传输协议，深受年轻音乐爱好者的青睐。 | Zhè tào zǔhé yīnxiǎng shèbèi bùjǐn yīnzhì qīngchè bǎomǎn, hái zhīchí duō zhǒng wúxiàn chuánshū xiéyì, shēn shòu niánqīng yīnyuè àihàozhě de qīnglài. | This modular audio system not only delivers rich sound, but supports multiple wireless protocols, earning high praise from young music buffs. | Este equipo de sonido modular no sólo ofrece fidelidad acústica, sino conectividad inalámbrica, cautivando a los jóvenes melómanos.
+  #2 | 大型建筑师团队将传统榫卯木构件与现代高强度碳纤维巧妙组合，打造出了具有东方美学的展馆顶棚。 | Dàxíng jiànzhùshī tuánduì jiāng chuántǒng sǔnmǎo mù gòujiàn yǔ xiàndài gāo qiángdù tànxiānwéi qiǎomiào zǔhé, dǎzào chū le jùyǒu dōngfāng měixué de zhǎnguǎn dǐngpéng. | Architects ingeniously combined traditional mortise-and-tenon timber with modern carbon fiber, crafting an exhibition canopy brimming with Oriental aesthetics. | Los arquitectos combinaron ensambles clásicos de madera con fibra de carbono, creando una cubierta que destila elegancia oriental.
+
+collocations[6]{hanzi,en}:
+  组合家具 | modular / sectional furniture
+  强强组合 | combination of powerhouses
+  音乐组合 | musical band / vocal group
+  自由组合 | combine freely
+  有机组合 | organic combination / integration
+  重组 | restructure; reorganize
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  珠联璧合 | zhū lián bì hé | strings of pearls and linked jade; exquisite match of talents
+  相得益彰 | xiāng dé yì zhāng | bring out the best in each other; mutual enhancement
+  巧夺天工 | qiǎo duó tiān gōng | superb craftsmanship outdoing nature
+  水乳交融 | shuǐ rǔ jiāo róng | blended like water and milk; deeply integrated
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  组 | zǔ | group; organize; braided silk cord | grupo; organizar; cordón de seda | 纟 | silk thread | 纟 (woven silk filaments) + 且 (ancestral altar / foundation) | 且 (qiě / phonetic association) | 8 | 左右结构 | Silk radical 纟 beside 且; braiding strands of silk together to form ornamental sashes or cords; organizing parts into teams. | Braiding separate strands of silk thread (纟) into a strong ceremonial cord (且): forming a group (组). | Trenzar hebras sueltas de seda (纟) en un cordel firme (且): formar un grupo o conjunto (组). | 214 | VFBM | 組
+  合 | hé | join; close; fit together | unir; juntar; encajar | 人 | person | 人 (roof / covering lid) + 一 + 口 (box container) | 合 (hé) | 6 | 上下结构 | Lid 人 fitting over box 口; seamless convergence and closing together into a single whole. | Fitting a snug lid (人) onto a square box container (口) so they join seamlessly (合). | Ajustar una tapadera (人) sobre una caja (口) para que encajen a la perfección (合). | 35 | OMR | 合
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Braiding parts together like silk strands (组) and fitting them snugly (合) forms an assembled combination (组合).
+  composite_memory_hook_es: Trenzar piezas sueltas (组) y ensamblarlas con ajuste perfecto (合) da lugar a una combinación sólida (组合).
+  cultural_and_cognitive_roots: Derived from classical silk weaving and joinery carpentry where composite structures gain strength exceeding single elements.
+  tone_sandhi_and_pitch_modulation: Dipping third tone followed by rising second tone: 'zǔ hé' (214-35). Dip low on 'zǔ' and soar smoothly on 'hé'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    组 | zǔ | group; form | Silk radical 纟 with 且
+    阻 | zǔ | block; hinder | Mound radical 阝 on left of 且
+    粗 | cū | coarse; rough | Rice radical 米 on left of 且
+    租 | zū | rent; lease | Grain radical 禾 on left of 且
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    编 | biān | weave; compile
+    排 | pái | align; arrange
+    结 | jié | tie knot; bind
+    集 | jí | gather; collect
+
+semantic_boundary_contrasts:
+  core_nuance: 组合 emphasizes assembling diverse, distinct parts into a harmonious functional set or team.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 组合 vs. 配合 | pèihé | 配合 focuses on cooperative coordination between teammates in dynamic action (配合默契), while 组合 denotes structural grouping.
+    2 | 组合 vs. 集合 | jíhé | 集合 means rallying individuals to gather at a physical location (操场集合), whereas 组合 is configuring elements into an organized whole.
+    3 | 组合 vs. 合并 | hébìng | 合并 involves merging two separate entities into one single legal or physical body, eliminating their distinct identities.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 现代企业在组建跨学科攻关团队时，非常注重不同专业背景人才的科学组合。将具有前瞻视野的战略规划师与脚踏实地的软件工程师有机组合在一起，能够碰撞出思维的灵感火花，催生出颠覆性的前沿科技成果。 | Xiàndài qǐyè zài zǔjiàn kuà-xuékē gōngguān tuánduì shí, fēicháng zhùzhòng bùtóng zhuānyè bèijǐng réncái de kēxué zǔhé. Jiāng jùyǒu qiánzhān shìyě de zhànlüè guīhuàshī yǔ jiǎotà-shídì de ruǎnjiàn gōngchéngshī yǒujī zǔhé zài yìqǐ, nénggòu pèngzhuàng chū sīwéi de línggǎn huǒhuā, cuīshēng chū diānfùxìng de qiányán kējì chéngguǒ. | Modern enterprises building interdisciplinary teams focus on blending diverse talents. Pairing visionary strategists with pragmatic software engineers sparks creative inspiration, yielding disruptive innovations. | Las empresas que crean equipos interdisciplinares buscan combinar talentos diversos. Reunir a estrategas visionarios con ingenieros prácticos detona chispas creativas, alumbrando hallazgos revolucionarios.
+  #2 | 四合院正是华北民居中一种精巧绝伦的组合建筑形式。正房、东西厢房以及倒座房等单体建筑并列排布，通过回廊有机组合在一起。大户人家的四合院更是由多座院落纵横并列组合而成，展现了中国传统建筑聚散有度的非凡智慧。 | Sìhéyuàn zhèng shì Huáběi mínjū zhōng yì zhǒng jīngqiǎo-juélún de zǔhé jiànzhù xíngshì. Zhèngfáng, dōngxī xiāngfáng yǐjí dàozuòfáng děng dāntǐ jiànzhù bìngliè páibù, tōngguò huíláng yǒujī zǔhé zài yìqǐ. Dàhù rénjiā de sìhéyuàn gèng shì yóu duō zuò yuànluò zònghéng bìngliè zǔhé ér chéng, zhǎnxiàn le Zhōngguó chuántǒng jiànzhù jùsàn-yǒudù de fēifán zhìhuì. | The siheyuan is an exquisite composite architectural form. Master rooms, side wings, and southern halls align, linked by verandas. In wealthy homes, multiple courtyards combine in series, displaying classic architectural mastery. | El siheyuan es una ingeniosa estructura habitacional combinada. La sala principal, las alas laterales y estancias frontales se integran mediante galerías. En casas nobles, varios patios se yuxtaponen con sublime destreza.

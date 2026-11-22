@@ -1,0 +1,63 @@
+id: 2
+hanzi: 军事
+pinyin: jūn shì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: military affairs; military matters; army defense
+  es: asuntos militares; milicia; arte de la guerra
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | affairs, activities, equipment, and operations relating to armed forces, warfare, and national defense | actividades, pertrechos y operaciones relativas a las fuerzas armadas, la guerra y la defensa nacional | 军事演习 (military exercise)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 战国时期的著名军事家孙武所著的《孙子兵法》，被誉为世界上最古老而深刻的军事理论经典。 | Zhànguó shíqī de zhùmíng jūnshìjiā Sūn Wǔ suǒ zhù de Sūnzǐ Bīngfǎ, bèi yù wéi shìjiè shang zuì gǔlǎo ér shēnkè de jūnshì lǐlùn jīngdiǎn. | The Art of War, authored by renowned military strategist Sun Wu, is hailed as the world's oldest and most profound military theory classic. | El arte de la guerra, escrito por el insigne militar Sun Wu, es ensalzado como el tratado de estrategia bélica más antiguo y profundo del orbe.
+  #2 | 两国边境防务代表团就共同关心的军事安全问题举行了坦诚而深入的会谈。 | Liǎng guó biānjìng fángwù dàibiǎotuán jiù gòngtóng guānxīn de jūnshì ānquán wèntí jǔxíng le tǎncéng ér shēnrù de huìtán. | Border defense delegations from both countries held candid, in-depth talks on shared military and security concerns. | Delegaciones fronterizas de ambos países mantuvieron un diálogo franco y pormenorizado sobre asuntos de seguridad y defensa militar.
+
+collocations[6]{hanzi,en}:
+  军事行动 | military operation
+  军事基地 | military base
+  军事演习 | military drill / exercise
+  军事力量 | military power / capability
+  军事技术 | military technology
+  军事专家 | military expert
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  兵戎相见 | bīng róng xiāng jiàn | meet each other with weapons; go to war
+  投笔从戎 | tóu bǐ cóng róng | throw aside the pen and join the army
+  运筹帷幄 | yùn chóu wéi wò | devise strategies within a military tent; masterminding victory
+  厉兵秣马 | lì bīng mò mǎ | sharpen weapons and feed horses; prepare for combat
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  军 | jūn | army; military; armed forces | ejército; militar; fuerzas armadas | 冖 | cover | 冖 (military tent/encampment cover) + 车 (war chariots) | 军 (jūn) | 6 | 上下结构 | War chariots 车 marshaled beneath protective encampment pavilions 冖; signifies an army. | War chariots (车) gathered securely under an army pavilion shelter (冖) ready for battle (军). | Carros de combate (车) guarnecidos bajo el pabellón de campaña (冖) listos para la marcha (军). | 55 | BKJ | 軍
+  事 | shì | matter; thing; business; affair | asunto; materia; quehacer; labor | 亅 | hook | hand holding an official tally stylus or scribe's recording tablet | 事 (shì) | 8 | 单一结构 | An official scribe holding up a record brush or tally board to record court state affairs. | An officer holding up an administrative record stylus (事) to oversee affairs. | Un escriba alzando una tablilla oficial para registrar los asuntos de gobierno (事). | 51 | JXLN | 事
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Chariots encamped for war (军) combined with administrative governance affairs (事) form military matters (军事).
+  composite_memory_hook_es: Los carros acampados para la batalla (军) unidos a la gestión oficial (事) definen la ciencia militar (军事).
+  cultural_and_cognitive_roots: A cornerstone domain of ancient governance: 'The major affairs of state are ritual sacrifice and military defense' (国之大事，在祀与戎).
+  tone_sandhi_and_pitch_modulation: First tone to fourth tone: 'jūn shì' (55-51). Hold 'jūn' high and firm, then drop decisively on 'shì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    车 | chē | vehicle; car | Lacks the top canopy cover 冖
+    挥 | huī | wave; wield | Hand radical 扌 on left of 军
+    吏 | lì | petty official | Lacks the central horizontal bars of 事
+    中 | zhōng | middle | Single vertical stroke through 口 box
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    军队 | jūnduì | armed forces; army
+    军官 | jūnguān | military officer
+    事务 | shìwù | general affairs; matters
+    事情 | shìqing | affair; matter; thing
+
+semantic_boundary_contrasts:
+  core_nuance: 军事 specifically encompasses strategic, tactical, and organizational affairs of national defense and armed forces.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 军事 vs. 政治 | zhèngzhì | 政治 governs statecraft, law, and ideology, while 军事 represents armed defense instrumentalities.
+    2 | 军事 vs. 民事 | mínshì | 民事 deals with civil laws, domestic contracts, and citizens' rights, contrasted with armed 军事.
+    3 | 军事 vs. 战争 | zhànzhēng | 战争 refers to the armed conflict state itself, while 军事 covers the broader scientific institution, logistics, and doctrines.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代军事理论历史悠久、博大精深。《孙子兵法》强调“兵者，国之大事，死生之地，存亡之道，不可不察也”。它主张以谋略胜敌，强调“不战而屈人之兵”的高超境界，成为历代军事家推崇的至高典范。 | Zhōngguó gǔdài jūnshì lǐlùn lìshǐ yōujiǔ, bódà-jīngshēn. Sūnzǐ Bīngfǎ qiángdiào 'Bīng zhě, guó zhī dàshì, sǐshēng zhī dì, cúnwáng zhī dào, bùkě bù chá yě'. Tā zhǔzhāng yǐ móulüè shèng dí, qiángdiào 'bù zhàn ér qū rén zhī bīng' de gāochāo jìngjiè, chéngwéi lìdài jūnshìjiā tuīchóng de zhìgāo diǎnfàn. | Ancient Chinese military theory has a long and profound history. Sunzi stressed: 'Military affairs are vital to the state—the realm of life and death, the road to survival.' It championed outwitting enemies and subduing them without fighting. | La doctrina militar clásica china goza de una hondura milenaria. Sun Tzu subrayó: 'La guerra es el asunto primordial del Estado, el terreno de la vida y la muerte.' Abogó por vencer al enemigo mediante estratagemas sin librar combate.
+  #2 | 进入现代信息技术时代，军事科技的迅猛发展正在深刻重塑现代战争形态。无人作战平台、人工智能指挥网络以及太空防御系统，成为各大国军事现代化建设的前沿焦点。强大的综合军事实力，是捍卫国家和平安宁的坚强盾牌。 | Jìnrù xiàndài xìnxī jìshù shídài, jūnshì kējì de xùnměng fāzhǎn zhèngzài shēnkè zhòngsù xiàndài zhànzhēng xíngtài. Wúrén zuòzhàn píngtái, réngōng zhìnéng zhǐhuī wǎngluò yǐjí tàikōng fángyù xìtǒng, chéngwéi gè dàguó jūnshì xiàndàihuà jiànshè de qiányán jiāodiǎn. Qiángdà de zōnghé jūnshì shílì, shì hànwèi guójiā hépíng ānníng de jiānqiáng dùnpái. | In the information age, rapid advances in military technology reshape modern warfare. Unmanned combat units, AI command networks, and space defense stand at the forefront of military modernization, shielding national sovereignty and peace. | En la era de la información, el salto tecnológico transforma el arte bélico. Plataformas no tripuladas, redes de mando con IA y defensa aeroespacial lideran la vanguardia militar, protegiendo la paz y la soberanía patria.

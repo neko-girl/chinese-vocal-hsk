@@ -1,0 +1,63 @@
+id: 14
+hanzi: 投篮
+pinyin: tóu lán
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to shoot (basketball); to shoot a hoop
+  es: tirar a canasta; encestar; lanzar a la cesta
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to throw or shoot the basketball toward the hoop to score points | lanzar el balón hacia la canasta o aro para anotar puntos en baloncesto | 三分线外果断投篮 (shoot decisively from outside the three-point line)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在全场比赛只剩最后两秒的生死关头，主力后卫顶住防守压力后仰投篮，皮球压哨空心入网。 | Zài quánchǎng bǐsài zhǐ shèng zuìhòu liǎng miǎo de shēngsǐ guāntóu, zhǔlì hòuwèi dǐngzhù fángshǒu yālì hòuyǎng tóulán, píqiú yāshào kōngxīn rùwǎng. | With merely two seconds left on the clock, the lead guard braved tight defense and sank a buzzer-beating fadeaway jumper cleanly through the net. | Con dos segundos en el marcador, el base titular desafió el marcaje y encestó en suspensión un triple limpio sobre la bocina.
+  #2 | 要想显著提高比赛中的投篮命中率，运动员必须经过日复一日成千上万次肌肉记忆的强化训练。 | Yào xiǎng xiǎnzhù tígāo bǐsài zhōng de tóulán mìngzhònglǜ, yùndòngyuán bìxū jīngguò rì-fù-yírì chéngqiān-shàngwàn cì jīròu jìyì de qiánghuà xùnliàn. | To substantially improve in-game shooting accuracy, players must undergo tens of thousands of repetitions to build muscle memory day after day. | Para mejorar la eficacia de tiro en competición, los jugadores deben acumular miles de lanzamientos diarios consolidando la memoria muscular.
+
+collocations[6]{hanzi,en}:
+  投篮命中率 | field goal shooting percentage
+  后仰投篮 | fadeaway jump shot
+  跳起投篮 | jump shot
+  定点投篮 | set shot / spot-up shooting
+  投篮得分 | score by shooting a basket
+  三分投篮 | three-point shot
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  百步穿杨 | bǎi bù chuān yáng | shoot willow leaf from hundred paces; pinpoint shooting accuracy
+  箭无虚发 | jiàn wú xū fā | no arrow shot in vain; every shot hits target
+  一发中的 | yī fā zhòng dì | hit the bullseye with a single shot; hit the nail on the head
+  百发百中 | bǎi fā bǎi zhòng | hit the target a hundred times out of a hundred
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  投 | tóu | cast; throw; fling; plunge | lanzar; arrojar; tirar | 扌 | hand | 扌 (hand hurling) + 殳 (lance / missile) | 殳 (shū / phonetic association) | 7 | 左右结构 | Hand radical 扌 beside 殳 (hand holding a missile pole); the action of forcefully flinging or tossing a projectile toward a target. | A muscular hand (扌) whipping forward to hurl a javelin missile (殳) toward the target ring (投). | Una mano enérgica (扌) lanzando una jabalina (殳) con precisión hacia la meta (投). | 35 | QHE | 投
+  篮 | lán | basket; goal hoop | cesta; canasta; aro | 竹 | bamboo | 竹 (bamboo weave) + 监 (reflecting supervisor basin) | 监 (jiān / phonetic) | 16 | 上下结构 | Bamboo radical 竹 over 监; a deep woven basket with handles, extended to the basketball target basket. | A round basket woven from bamboo (竹) hung overhead for supervision (监), catching every ball (篮). | Una canasta tejida de bambú (竹) suspendida en alto (监), lista para recibir el balón (篮). | 35 | HWTIT | 籃
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Flinging with your hand (投) toward the elevated bamboo hoop (篮) is shooting a basket (投篮).
+  composite_memory_hook_es: Lanzar el balón con la mano (投) hacia la canasta suspendida de bambú (篮) es tirar a canasta (投篮).
+  cultural_and_cognitive_roots: Direct translation of basketball 'shooting', combining ancient hurling archery terms with modern team sports.
+  tone_sandhi_and_pitch_modulation: Two rising second tones: 'tóu lán' (35-35). Rise cleanly across both syllables with crisp, ascending inflection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    投 | tóu | throw; cast | Hand radical 扌 on left with 殳
+    没 | méi | not have; sink | Water radical 氵 on left
+    篮 | lán | basket | Bamboo radical 竹 on top over 监
+    蓝 | lán | blue color | Grass radical 艹 on top over 监
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    掷 | zhì | hurl; fling
+    抛 | pāo | toss; cast aside
+    扔 | rēng | throw; discard
+    射 | shè | shoot; emit
+
+semantic_boundary_contrasts:
+  core_nuance: 投篮 specifically denotes shooting the ball at the basket hoop in basketball.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 投篮 vs. 传球 | chuánqiú | 传球 means passing the ball to a teammate to advance play, whereas 投篮 aims directly at scoring points.
+    2 | 投篮 vs. 射门 | shèmén | 射门 denotes kicking or striking the ball into a soccer/hockey goal net, not shooting into an elevated hoop.
+    3 | 投篮 vs. 扣篮 | kòulán | 扣篮 (dunk) involves leaping and forcefully slamming the ball downward through the rim, a subset of scoring attempts.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 黄昏的社区球场上，少年一遍又一遍地练习着中距离急停投篮。每一次高高跃起、手腕轻柔拨动皮球的瞬间，橙色的篮球便在空中划出一道优美圆润的弧线。汗水浸透了衣衫，但那声清脆的擦网声就是对坚持最好的奖赏。 | Huánghūn de shèqū qiúchǎng shang, shàonián yí biàn yòu yí biàn de liànxí zhe zhōng jùlí jítíng tóulán. Měi yí cì gāogāo yuèqǐ, shǒuwàn qīngróu bōdòng píqiú de shùnjiān, chéngsè de lánqiú biàn zài kōngzhōng huà chū yí dào yōuměi yuánrùn de húxiàn. Hànshuǐ jìntòu le yīshān, dàn nà shēng qīngcuì de cā wǎng shēng jiùshì duì jiānchí zuì hǎo de jiǎngshǎng. | On the community court at twilight, the boy practiced pull-up jump shots repeatedly. Every time he leaped and gently flicked his wrist, the orange ball traced a graceful arc through the air. Sweat drenched his jersey, but the crisp swish was the sweetest reward. | En la cancha del barrio al anochecer, el joven ensayaba tiros en suspensión una y otra vez. Cada salto y sutil giro de muñeca dibujaban en el aire una parábola perfecta. Empapado en sudor, el chasquido de la red premiaba su constancia.
+  #2 | 在一百多年前篮球刚被发明时，运动员投篮命中后的取球过程极为繁琐。因为球筐底部是封闭的，每次投篮成功后比赛都必须被迫中断，工作人员必须搬来长梯把球掏出来。直到人们锯掉筐底，投篮才真正成为连续、激烈且扣人心弦的高速竞技过程。 | Zài yìbǎi duō nián qián lánqiú gāng bèi fāmíng shí, yùndòngyuán tóulán mìngzhòng hòu de qǔ qiú guòchéng jíwéi fánsuǒ. Yīnwèi qiúkuāng dǐbù shì fēngbì de, měicì tóulán chénggōng hòu bǐsài dōu bìxū bèipò zhòngduàn, gōngzuò rényuán bìxū bān lái chángtī bǎ qiú tāo chūlái. Zhídào rénmen jù diào kuāngdǐ, tóulán cái zhēnzhèng chéngwéi liánxù, jīliè qiě kòurénxīnxuán de gāosù jìngjì guòchéng. | Over a century ago when basketball was invented, retrieving balls after a made basket was tedious. Because basket bottoms were sealed, every score halted the game for staff to haul ladders and fish out the ball. Only when bottoms were sawed open did shooting become a thrilling, continuous thrill. | Hace más de un siglo, recuperar el balón tras encestar era engorroso. Con canastas de fondo cerrado, cada acierto obligaba a parar el partido para bajar la bola con escalera. Al abrir el fondo, el tiro se tornó en un espectáculo trepidante y fluido.

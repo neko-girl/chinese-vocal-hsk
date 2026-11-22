@@ -1,0 +1,63 @@
+id: 10
+hanzi: 栏杆
+pinyin: lán gān
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: railing; balustrade; banister; barrier
+  es: barandilla; pasamanos; baranda; valla
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a barrier made of horizontal rails and vertical posts preventing falls along stairs, balconies, or bridges | armazón compuesto de barras o balaustres que sirve de protección en balcones, escaleras o puentes | 倚在阳台栏杆上看日落 (lean against the balcony railing watching the sunset)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 景区在临崖栈道的陡峭外侧安装了坚固的不锈钢防护栏杆，以确保游客观景时的绝对安全。 | Jǐngqū zài lín yá zhàndào de dǒuqiào wàicè ānzhuāng le jiāngù de búxiùgāng fánghù lángān, yǐ quèbǎo yóukè guānjǐng shí de juéduì ānquán. | The scenic park installed sturdy stainless steel guard railings along the steep cliffside walkways to guarantee the safety of sightseeing visitors. | El parque natural colocó firmes barandillas de acero inoxidable al borde del precipicio para salvaguardar a los turistas mientras contemplan las vistas.
+  #2 | 小男孩调皮地想翻越马路中央的隔离栏杆，被路口执勤的交通警察及时吹哨制止了。 | Xiǎo nánhái tiáopí de xiǎng fānyuè mǎlù zhōngyāng de gélí lángān, bèi lùkǒu zhíqín de jiāotōng jǐngchá jíshí chuīshào zhìzhǐ le. | The mischievous little boy tried to climb over the median barrier railing, but the traffic officer on duty whistled to stop him immediately. | El travieso chiquillo intentó saltar la valla que divide la calzada, pero el agente de tráfico le pitó al instante frenando su imprudencia.
+
+collocations[6]{hanzi,en}:
+  扶着栏杆 | hold onto the railing
+  防护栏杆 | protective barrier / guardrail
+  阳台栏杆 | balcony balustrade
+  楼梯栏杆 | staircase banister
+  跨过栏杆 | step over the railing
+  雕花栏杆 | carved marble/wood balustrade
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  栏杆拍遍 | lán gān pāi biàn | strike railings repeatedly in patriotic grief or surging emotion
+  雕栏玉砌 | diāo lán yù qì | carved balustrades and jade steps; opulent imperial palaces
+  闭门造车 | bì mén zào chē | build cart behind closed doors; divorce theory from reality
+  倚窗远眺 | yǐ chuāng yuǎn tiào | lean on windowsill gazing into distant horizon
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  栏 | lán | railing; pen; column in newspaper | baranda; corral; columna | 木 | tree / wood | 木 (wooden post) | 兰 (lán / orchid; phonetic) | 9 | 左右结构 | Tree radical 木 with phonetic 兰; a wooden pen or protective fence to keep livestock safe and delineate boundaries. | Wooden posts (木) arranged gracefully like fragrant orchids (兰) to form a barrier fence (栏). | Maderos alineados (木) con la pulcritud de orquídeas (兰) formando una cerca protectora (栏). | 35 | DAMM | 欄
+  杆 | gān | pole; rod; shaft | poste; pértiga; vara | 木 | tree / wood | 木 (wooden timber) | 干 (gān / shield; trunk; phonetic) | 7 | 左右结构 | Tree radical 木 beside 干; a tall straight wooden pole used as an upright post or flag staff. | A straight wooden tree trunk (木) standing upright like a sturdy shield post (干) to make a pole (杆). | El tronco recto de un árbol (木) erigido como un poste defensivo (干) formando una pértiga (杆). | 55 | DMJ | 桿
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Wooden boundary fences (栏) supported by upright posts (杆) create a protective railing (栏杆).
+  composite_memory_hook_es: Tablas protectoras de madera (栏) sostenidas por postes verticales (杆) componen una barandilla (栏杆).
+  cultural_and_cognitive_roots: Focal motif in Chinese classical poetry (辛弃疾 '把吴钩看了，栏杆拍遍') expressing patriotic yearning when leaning over grand vistas.
+  tone_sandhi_and_pitch_modulation: Rising second tone followed by level high tone: 'lán gān' (35-55). Ascend smoothly on 'lán', then keep a sustained high level pitch on 'gān'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    栏 | lán | railing; pen | Tree radical 木 with 兰 on right
+    拦 | lán | block; stop; intercept | Hand radical 扌 on left instead of 木
+    杆 | gān | pole; shaft | Tree radical 木 with 干 on right
+    竿 | gān | bamboo rod/pole | Bamboo radical 竹 on top
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    栅 | zhà | palisade; railings
+    篱 | lí | bamboo fence; hedge
+    柱 | zhù | pillar; column
+    墙 | qiáng | wall; barrier
+
+semantic_boundary_contrasts:
+  core_nuance: 栏杆 refers strictly to a slotted waist-high safety barrier along balconies, bridges, or stairs.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 栏杆 vs. 扶手 | fúshǒu | 扶手 is specifically the top grip rail grasped by hands for balance, while 栏杆 includes the whole assembly of vertical balusters and uprights.
+    2 | 栏杆 vs. 栅栏 | zhàlan | 栅栏 denotes ground-level outdoor fencing around gardens or pastures, whereas 栏杆 is mounted on elevated balconies, staircases, and bridges.
+    3 | 栏杆 vs. 围墙 | wéiqiáng | 围墙 is a solid brick or stone masonry enclosure blocking vision and passage, whereas 栏杆 is a see-through safety rail.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 暮色苍茫时分，诗人独自倚靠在江南古桥那饱经风霜的汉白玉栏杆旁。水面上微波荡漾，渔火点点，微凉的晚风吹拂着青衫，那一排雕琢精美的石桥栏杆，默默见证着岁月的流逝与人世间的聚散悲欢。 | Mùsè cāngmáng shífēn, shīrén dúzì yǐkào zài Jiāngnán gǔqiáo nà bǎojīng-fēngshuāng de hànbáiyù lángān páng. Shuǐmiàn shang wēibō dàngyàng, yúhuǒ diǎndiǎn, wēiliáng de wǎnfēng chuīfú zhe qīngshān, nà yì pái diāozhuó jīngměi de shíqiáo lángān, mòmò jiànzhèng zhe suìyuè de liúshì yǔ rénshìjiān de jùsàn bēihuān. | At twilight, the poet leaned alone against weathered white marble railings on an ancient Jiangnan bridge. Ripples shimmered with fishing fires as evening breezes ruffled his robes; the carved railings stood silent witness to passing eras and earthly sorrow. | Al caer el crepúsculo, el poeta se apoyaba en la barandilla de mármol del viejo puente fluvial. Ondulaban las aguas con destellos de barcas mientras la brisa acariciaba su túnica; los balaustres esculpidos contemplaban en silencio el paso inexorable del tiempo.
+  #2 | 体育馆二楼环形看台下方的木质栏杆，原本只是为了防止观众失足跌落的防护设施。而奈史密斯别出心裁地将两只桃筐固定在距离地面三米多高的栏杆边沿，无意间确立了百年来篮球运动篮筐的标准垂直高度。 | Tǐyùguǎn èrlóu huánxíng kàntái xiàfāng de mùzhì lángān, yuánběn zhǐshì wèile fángzhǐ guānzhòng shīzú diēluò de fánghù shèshī. Ér Nàishǐmīsī biéchūxīncái de jiāng liǎng zhī táokuāng gùdìng zài jùlí dìmbiàn sān mǐ duō gāo de lángān biānyán, wúyì jiān quèlì le bǎinián lái lánqiú yùndòng lánkuāng de biāozhǔn chuízhí gāodù. | The wooden railings beneath the second-floor gymnasium balcony were originally mere safety barriers against falls. Yet Naismith ingeniously nailed two peach baskets onto those railings ten feet up, inadvertently establishing the universal rim height for basketball. | La barandilla del graderío en el gimnasio sólo buscaba evitar caídas. Sin embargo, Naismith fijó allí dos cestas a más de tres metros de altura, fijando sin proponérselo la cota reglamentaria del aro que perdura hasta nuestros días.

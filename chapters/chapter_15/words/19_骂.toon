@@ -1,0 +1,62 @@
+id: 19
+hanzi: 骂
+pinyin: mà
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to curse; scold; abuse verbally; call names
+  es: maldecir; insultar; reñir; increpar; reprender
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to utter abusive words, scold angrily, curse, or reprimand someone harshly | proferir insultos, improperios o reprender ásperamente a alguien con enfado | 大声斥骂 (scold and reprimand loudly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 秦军将士遵照白起的密令，在赵军营垒前日夜大声叫骂，讽刺赵括不过是个不敢出战的胆小鬼。 | Qínjūn jiàngshì zūnjào Bái Qǐ de mìlìng, zài Zhàojūn yínglěi qián rìyè dàshēng jiàomà, fěngcì Zhào Kuò bùguò shì gè bù gǎn chūzhàn de dǎnxiǎoguǐ. | Following Bai Qi's secret order, Qin soldiers shouted curses day and night outside Zhao's camp, taunting Zhao Kuo as a coward who feared battle. | Cumpliendo órdenes de Bai Qi, los soldados de Qin insultaban noche y día ante el campamento, tildando a Zhao Kuo de cobarde asustadizo.
+  #2 | 母亲并没有厉声责骂犯错的孩子，而是温和地拉着他的手，耐心地讲明做人应当诚实的道理。 | Mǔqīn bìng méiyǒu lìshēng zémà fàncuò de háizi, ér shì wēnhé de lā zhe tā de shǒu, nàixīn de jiǎngmíng zuòrén yīngdāng chéngshí de dàolǐ. | The mother did not harshly scold her errant child; instead, taking his hand gently, she patiently explained the principle of honesty. | La madre no reprendió con aspereza al hijo que erró; tomándole la mano con ternura, le explicó con paciencia el deber de la honradez.
+
+collocations[6]{hanzi,en}:
+  责骂批评 | scold and criticize
+  大声叫骂 | shout curses loudly
+  挨骂受气 | get scolded and suffer abuse
+  骂人粗话 | curse at people / profanities
+  破口大骂 | burst into abusive curses
+  痛骂一顿 | give someone a fierce dressing-down
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  破口大骂 | pò kǒu dà mà | burst out into violent verbal abuse and cursing
+  嬉笑怒骂 | xī xiào nù mà | ridiculing, joking, and scolding freely in literary prose
+  恶语伤人 | è yǔ shāng rén | hurting people with cruel and venomous words
+  忍气吞声 | rěn qì tūn shēng | swallow one's anger and endure insult without reply
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  骂 | mà | scold; curse; abuse verbally | reñir; maldecir; insultar; increpar | 马 | horse | 吅 (two mouths shouting loudly) + 马 (horse galloping / phonetic) | 马 (mǎ) | 9 | 上下结构 | Two open mouths 吅 clamoring noisily over a horse 马; signifies shouting verbal abuse and scolding. | Two mouths (吅) shouting noisy angry words over a rearing horse (马) in abusive fury (骂). | Dos bocas que vociferan (吅) improperios sobre un corcel enfurecido (马) al increpar (骂). | 51 | RRNS | 罵
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Two shouting mouths (吅) roaring like an agitated stallion (马) signifies abusive scolding (骂).
+  composite_memory_hook_es: Dos bocas vociferantes (吅) rugiendo con la furia de un potro (马) encarnan la acción de insultar o reñir (骂).
+  cultural_and_cognitive_roots: Common psychological warfare tactic in ancient Chinese battles ('骂阵') used to irritate hotheaded commanders into blunders.
+  tone_sandhi_and_pitch_modulation: Fourth tone: 'mà' (51). Sharp, short, and emphatic downward inflection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    马 | mǎ | horse | Lacks the two mouth radical 吅 on top
+    驾 | jià | drive; harness | Add 加 on top of 马 instead of 吅
+    骂 (traditional 罵) | mà | curse | Simplified has 吅 over 马 instead of 网/罒
+    哭 | kū | cry; weep | Dog 犬 under 吅 instead of 马
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    斥责 | chìzé | reprimand; denounce
+    谩骂 | mànmà | hurl abuses; vilify
+    辱骂 | rǔmà | insult and curse
+    责备 | zébèi | blame; reprove
+
+semantic_boundary_contrasts:
+  core_nuance: 骂 focuses on angry, abusive, or disciplinary vocal chastisement.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 骂 vs. 批评 | pīpíng | 批评 is rational objective critique of errors, while 骂 carries angry verbal scolding or profanity.
+    2 | 骂 vs. 夸 | kuā | 夸 is the direct antonym meaning to praise, flatter, or compliment.
+    3 | 骂 vs. 劝 | quàn | 劝 means gentle, patient persuasion, whereas 骂 is harsh and aggressive reprimand.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在长平之战的营垒前，秦军深谙攻心之道。他们派出精悍骑兵在阵前大声叫骂，讽刺赵军将领怯懦无能。老将廉颇心如磐石、置若罔闻，而年轻自负的赵括却经受不住敌军的嘲弄与辱骂，怒火攻心，终于铸成大错。 | Zài Chángpíng zhī zhàn de yínglěi qián, Qínjūn shēn'ān gōngxīn zhī dào. Tāmen pài chū jīnghàn qíbīng zài zhènqián dàshēng jiàomà, fěngcì Zhàojūn jiànglǐng qiènuò-wúnéng. Lián Pō xīnrúpánshí, zhìruòwǎngwén, ér niánqīng zìfù de Zhào Kuò què jīngshòu bù zhù díjūn de cháonòng yǔ rǔmà, nùhuǒ-gōngxīn, zhōngyú zhùchéng dàcuò. | Outside Changping camps, Qin practiced psychological warfare. Horsemen shouted abuses at the gates taunting Zhao generals. Lian Po remained deaf like rock, but vain Zhao Kuo could not endure curses, rushing out in blinding fury. | Ante las trincheras de Changping, Qin libró guerra psicológica. Jinetes vociferaban insultos denigrando al mando enemigo. Lian Po se mantuvo impávido como una roca, mas el vanidoso Zhao Kuo no toleró la mofa y cayó en la trampa.
+  #2 | “良言一句三冬暖，恶语伤人六月寒。”在日常人际交往与家庭教育中，粗暴的责骂往往只会激化矛盾、刺伤自尊，而无法真正解决问题。学会克制怒气、心平气和地沟通，是衡量一个人修养与情商的重要标尺。 | 'Liángyán yījù sāndōng nuǎn, èyǔ shāngrén liùyuè hán.' Zài rìcháng rénjì jiāowǎng yǔ jiātíng jiàoyù zhōng, cūbào de zémà wǎngwǎng zhǐ huì jīhuà máodùn, cìshāng zìzūn, ér wúfǎ zhēnzhèng jiějué wèntí. Xuéhuì kèzhì nùqì, xīnpíng-qìhé de gōutōng, shì héngliáng yī gè rén xiūyǎng yǔ qíngshāng de zhòngyào biāochǐ. | 'A kind word warms three winter months; cruel words chill in June.' In daily relationships and education, harsh curses only aggravate friction and hurt dignity. Controlling anger and speaking calmly reflects high character and empathy. | 'Una palabra afable calienta tres inviernos; la ofensa hiela en pleno estío.' En el hogar y la vida social, los improperios solo agravan heridas; refrenar la ira y dialogar con mesura es la prueba del temple humano.

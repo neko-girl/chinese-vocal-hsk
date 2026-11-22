@@ -1,0 +1,64 @@
+id: 26
+hanzi: 幼儿园
+pinyin: yòu 'ér yuán
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: kindergarten; preschool; nursery school
+  es: jardín de infancia; guardería; parvulario
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an educational establishment or day-care facility for children below the age of compulsory schooling (typically ages 3 to 6) | institución educativa para niños de tres a seis años previa a la enseñanza primaria | 把孩子送到附近的公立幼儿园 (send the child to a nearby public kindergarten)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每天清晨，这所国际双语幼儿园的塑胶操场上都会响起欢快活泼的儿歌和孩子们银铃般的笑声。 | Měitiān qīngchén, zhè suǒ guójì shuāngyǔ yòu'éryuán de sùjiāo cāochǎng shang dōu huì xiǎngqǐ huānkuài huópō de érgē hé háizimen yínlíng bān de xiàoshēng. | Every dawn, cheerful nursery rhymes and silvery children's laughter resonate across the synthetic playground of this international bilingual kindergarten. | Cada mañana, alegres rondas infantiles y risas cantadinas resuenan en el patio de juegos acolchado del jardín de infancia bilingüe.
+  #2 | 学前教育专家强调，幼儿园课程应当以启发好奇心和培养基本生活习惯为主，切不可过早超纲灌输应试知识。 | Xuéqián jiàoyù zhuānjiā qiángdiào, yòu'éryuán kèchéng yīngdāng yǐ qǐfā hàoqíxīn hé péiyǎng jīběn shēnghuó xíguàn wéi zhǔ, qiè bùkě guòzǎo chāogāng guànshū yìngshì zhīshi. | Early childhood education experts emphasize that kindergarten curricula should focus on inspiring curiosity and nurturing life habits, avoiding cramming academic tests. | Expertos en educación preescolar subrayan que el parvulario debe priorizar la curiosidad e higiene personal, evitando sobrecargar al niño con lecciones académicas.
+
+collocations[6]{hanzi,en}:
+  上幼儿园 | attend kindergarten
+  公立幼儿园 | public kindergarten
+  私立幼儿园 | private preschool / kindergarten
+  幼儿园老师 | kindergarten teacher
+  幼儿园小朋友 | kindergarten pupils
+  双语幼儿园 | bilingual nursery school
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  欢声笑语 | huān shēng xiào yǔ | cheers and laughter; joyful atmosphere
+  天真烂漫 | tiān zhēn làn màn | innocent, artless, and delightful like children
+  童心未泯 | tóng xīn wèi mǐn | retaining child-like innocence into adulthood
+  循循善诱 | xún xún shàn yòu | guide systematically and patiently with gentle teaching
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  幼 | yòu | young; tender; infant | joven; tierno; párvulo | 幺 | tiny / small | 幺 (tiny filament) + 力 (infant physical strength) | 幼 (yòu) | 5 | 左右结构 | Tiny 幺 beside strength 力; having only minute infant physical power, denoting tender young age. | A tiny infant (幺) attempting to exert its little arm strength (力) as it learns to walk (幼). | Un tierno bebé (幺) tratando de usar su escasa fuerza (力) al dar sus primeros pasos (幼). | 51 | VIKS | 幼
+  儿 | ér | child; son; young person | niño; hijo; joven | 儿 | legs / person | pictograph of an infant with soft unclosed skull fontanelle and little legs | 儿 (ér) | 2 | 单一结构 | Ancient pictograph of an infant walking on two little legs, head fontanelle still soft. | Two small legs (儿) toddling happily forward, the sweet sign of a growing child. | Dos piernecitas (儿) correteando contentas, la viva imagen de un párvulo. | 35 | HU | 兒
+  园 | yuán | garden; park; enclosed ground | jardín; huerto; parque | 囗 | enclosure | 囗 (surrounding walled perimeter) + 元 (spacious first origin) | 元 (yuán / phonetic) | 7 | 全包围结构 | Enclosure 囗 surrounding 元; an enclosed garden plot for cultivating flowers, crops, or nurturing youngsters. | A fenced protective courtyard (囗) where fruitful seeds take root and grow (元): a peaceful garden (园). | Un recinto cerrado protector (囗) donde florecen brotes jóvenes (元): un bello jardín (园). | 35 | WMMU | 園
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A protective garden enclosure (园) nurturing tender young (幼) children (儿) is a kindergarten (幼儿园).
+  composite_memory_hook_es: Un jardín acogedor (园) que cobija y educa a niños (儿) de tierna edad (幼) es un parvulario (幼儿园).
+  cultural_and_cognitive_roots: Direct conceptual loan from Froebel's German 'Kindergarten' (children's garden), entered Chinese via late Qing reforms.
+  tone_sandhi_and_pitch_modulation: Three syllables: 'yòu 'ér yuán' (51-35-35). Falling fourth tone on 'yòu', followed by two rising second tones on ''ér' and 'yuán'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    幼 | yòu | young; tender | Has 幺 on left and 力 on right
+    幻 | huàn | fantasy; illusion | Has 幺 on left and 弓-like stroke on right
+    园 | yuán | garden | Enclosed 囗 with 元 inside
+    圆 | yuán | round; circle | Enclosed 囗 with 员 inside
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    托 | tuō | nursery; trust; support
+    童 | tóng | child; youthful
+    雏 | chú | chick; fledgling
+    苑 | yuàn | park; academic enclave
+
+semantic_boundary_contrasts:
+  core_nuance: 幼儿园 specifically denotes the pre-primary educational institution for children ages 3 to 6.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 幼儿园 vs. 托儿所 | tuō'érsuǒ | 托儿所 (daycare / creche) accommodates infants and toddlers from birth to 3 years old primarily for care, while 幼儿园 provides structured pre-K education.
+    2 | 幼儿园 vs. 小学 | xiǎoxué | 小学 (elementary school) enters compulsory grade curricula for ages 6 to 12, unlike playtime-based 幼儿园.
+    3 | 幼儿园 vs. 早教中心 | zǎojiào zhōngxīn | 早教中心 provides specialized hourly parent-child developmental sessions, whereas 幼儿园 offers full-day pre-schooling.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 温暖的午后阳光透过树梢洒落在幼儿园的花园草坪上。老师正带着一群扎着羊角辫的孩子们围坐成圆圈做趣味游戏。孩子们清脆纯真的笑声在微风中飘荡，那一双双澄澈无暇的大眼睛里，闪烁着对整个世界最初的奇妙向往。 | Wēnnuǎn de wǔhòu yángguāng tòuguò shùshāo sǎluò zài yòu'éryuán de huāyuán cǎopíng shang. Lǎoshī zhèng dài zhe yì qún zā zhe yángjiǎobiàn de háizimen wéizuò chéng yuánquān zuò qùwèi yóuxì. Háizimen qīngcuì chúnzhēn de xiàoshēng zài wēifēng zhōng piāodàng, nà yì shuāngshuāng chéngchè-wúxiá de dà yǎnjing lǐ, shǎnshuò zhe duì zhěnggè shìjiè zuìchū de qímiào xiàngwǎng. | Warm afternoon sunlight filtered through leaves onto the kindergarten lawn. The teacher gathered children in a circle for playful games. Pure laughter floated on the breeze; within their clear innocent eyes sparkled their very first wonders about the world. | El sol de la tarde bañaba el césped del jardín de infancia. La maestra jugaba en corro con los pequeños, cuyas risas cristalinas mecía la brisa. En sus ojos límpidos resplandecía el asombro inaugural ante la belleza del mundo.
+  #2 | 面对大人被繁琐规则困扰却束手无策的僵局，有时候恰恰是幼儿园里天真无邪的孩子，能以最直白的童眼看穿问题的本质。当年启发大家剪开竹筐底部的，正是一个路过球场的小朋友。孩子未经世俗教条规训的心智，往往蕴含着化繁为简的非凡创造力。 | Miànduì dàren bèi fánsuǒ guīzé kùnrǎo què shùshǒu-wúcè de jiāngjú, yǒushíhou qiàqià shì yòu'éryuán lǐ tiānzhēn-wúxié de háizi, néng yǐ zuì zhíbái de tóngyǎn kànchuān wèntí de běnzhì. Dāngnián qǐfā dàjiā jiǎn kāi zhúkuāng dǐbù de, zhèng shì yí ge lùguò qiúchǎng de xiǎopéngyou. Háizi wèijīng shìsú jiàotiáo guīxùn de xīnjiào, wǎngwǎng yùnhán zhe huà fán wéi jiǎn de fēifán chuàngzàolì. | When adults are bogged down by rules and paralyzed by overthinking, it is often an innocent kindergarten child who cuts straight to the core. The person who prompted everyone to cut open the basket bottoms was a passing kid. Unfettered minds harbor sublime creative breakthroughs. | Cuando los adultos se enredan en trabas burocráticas, a menudo es un parvulito inocente quien vislumbra la solución de raíz. Quien inspiró recortar el fondo de la canasta fue un niño que pasaba. La mente infantil sin prejuicios atesora una sublime creatividad.

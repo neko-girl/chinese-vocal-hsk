@@ -1,0 +1,63 @@
+id: 24
+hanzi: 竹子
+pinyin: zhú zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: bamboo
+  es: bambú
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a fast-growing woody perennial evergreen plant with hollow stems, revered in Chinese culture for upright resilience | planta perenne leñosa de tallos huecos y nudos marcados, venerada en la cultura china por su rectitud e integridad | 一片翠绿的竹子 (a patch of emerald green bamboo)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 主人在四合院的西南隅种了一丛挺拔的翠绿竹子，微风拂过时沙沙作响，别有一番诗情画意。 | Zhǔrén zài sìhéyuàn de xīnányú zhòng le yī cóng tǐngbá de cuìlǜ zhúzi, wēifēng fúguò shí shāshā zuòxiǎng, bié yǒu yī fān shīqíng-huàyì. | The homeowner planted a cluster of emerald bamboos in the courtyard's southwest corner; when breezes stirred, they rustled poetically. | El dueño sembró matas de erguido bambú en un rincón del patio; con el roce de la brisa susurraban hojas, evocando viva poesía.
+  #2 | 在中国传统文化中，坚韧不拔的竹子常常被文人雅士视为刚正高洁君子品格的生动象征。 | Zài Zhōngguó chuántǒng wénhuà zhōng, jiānrèn-bùbá de zhúzi chángcháng bèi wénrén yǎshì shìwéi gāngzhèng gāojié jūnzǐ pǐngé de shēngdòng xiàngzhēng. | In traditional Chinese culture, tenacious and upright bamboo is frequently hailed by scholars as an emblem of gentlemanly integrity. | En la tradición cultural china, el tenaz bambú ha sido ensalzado por letrados como símbolo de la rectitud e integridad del noble caballero.
+
+collocations[6]{hanzi,en}:
+  一丛竹子 | a clump of bamboo
+  翠绿的竹子 | emerald green bamboo
+  挺拔的竹子 | tall, upright bamboo
+  竹子制品 | bamboo wares / handicrafts
+  种竹子 | plant bamboo
+  竹子节节高 | bamboo joints rising step by step (prosperity)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  胸有成竹 | xiōng yǒu chéng zhú | have a well-thought-out plan in mind beforehand
+  势如破竹 | shì rú pò zhú | like splitting bamboo; sweeping forward with irresistible momentum
+  青梅竹马 | qīng méi zhú mǎ | childhood sweethearts playing together from youth
+  竹篮打水 | zhú lán dǎ shuǐ | drawing water with a bamboo basket; all labor in vain
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  竹 | zhú | bamboo | bambú | 竹 | bamboo | pictograph of paired drooping pointed bamboo leaves | 竹 (zhú) | 6 | 左右结构 | Ancient pictograph representing two clusters of pointed bamboo leaves hanging downward. | Slender pointed bamboo leaves (竹) rustling gently on straight green culms. | Hojas de bambú lanceoladas (竹) suspendidas con gracia sobre cañas verdes erguidas. | 35 | HH | 竹
+  子 | zi | noun suffix; son; child | sufijo nominal; hijo; criatura | 子 | child | pictograph of an infant swaddled with outstretched arms | 子 (zǐ) | 3 | 单一结构 | An infant baby waving arms; here serving as a standard nominalizing noun suffix. | A cheerful baby extending welcoming hands (子). | Una pequeña criatura con los bracitos abiertos en ademán vivaz (子). | neutral | ND | 子
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The noble green bamboo stalks (竹) affixed with the everyday noun suffix (子) gives the word for bamboo (竹子).
+  composite_memory_hook_es: Las varas estilizadas de bambú (竹) acompañadas del sufijo nominal (子) designan al bambú (竹子).
+  cultural_and_cognitive_roots: Revered as one of the 'Four Gentlemen' (梅兰竹菊) and 'Three Friends of Winter' (岁寒三友) for staying green through frost.
+  tone_sandhi_and_pitch_modulation: Second tone to neutral tone: 'zhú zi' (35-neutral). Rise crisply on 'zhú' and drop gently into a light, unstressed 'zi'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    笃 | dǔ | sincere; devoted | Horse radical 马 under the bamboo crown ⺮
+    竿 | gān | pole; rod | Shield radical 干 under the bamboo crown ⺮
+    笋 | sǔn | bamboo shoot | Ten radical 十 or 尹 variant under ⺮
+    简 | jiǎn | simple; bamboo slip | Door radical 间 under ⺮
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    竹林 | zhúlín | bamboo forest / grove
+    竹笋 | zhúsǔn | bamboo shoots (edible)
+    竹竿 | zhúgān | bamboo pole
+    竹叶 | zhúyè | bamboo leaf
+
+semantic_boundary_contrasts:
+  core_nuance: 竹子 refers specifically to the bamboo plant, its hollow canes, and cultural aesthetic connotations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 竹子 vs. 树木 | shùmù | 树木 designates woody broadleaf or coniferous trees with bark and solid trunks, unlike hollow-stemmed 竹子.
+    2 | 竹子 vs. 芦苇 | lúwěi | 芦苇 refers to wetlands reeds, which lack the hard woody resilience and tall timber quality of 竹子.
+    3 | 竹子 vs. 竹笋 | zhúsǔn | 竹笋 denotes the tender edible young shoots emerging from the soil, prior to maturing into adult 竹子.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | “宁可食无肉，不可居无竹。”北宋文豪苏东坡的名句道出了中国文人对竹子的偏爱。在老北京四合院中栽种几竿竹子，春发绿枝，冬经寒霜而不凋，使幽静的庭院平添了几分超尘脱俗的高雅风韵。 | 'Nìngkě shí wú ròu, bùkě jū wú zhú.' Běisòng wénháo Sū Dōngpō de míngjù dàochū le Zhōngguó wénrén duì zhúzi de piān'ài. Zài lǎo Běijīng sìhéyuàn zhōng zāizhòng jǐ gān zhúzi, chūn fā lǜzhī, dōng jīng hánshuāng ér bù diāo, shǐ yōujìng de tíngyuàn píngtiān le jǐ fēn chāochén-tuōsú de gāoyǎ fēngyùn. | 'Better to dine without meat than live without bamboo.' Su Dongpo's famous line captured scholars' devotion. Planting bamboo in courtyards preserved evergreen grace through frost, lending tranquil compounds an ethereal elegance. | 'Mejor comer sin carne que habitar sin bambú.' La célebre máxima de Su Dongpo encarna la devoción letrada. Unas cañas de bambú en el patio desafiaban la escarcha sin marchitarse, confiriendo al hogar un aire noble y desprendido.
+  #2 | 竹子不仅具有优美的观赏价值，在日常生活中更有极广的实用功能。从结实耐磨的竹席、轻巧坚固的竹椅，到文房四宝中的竹制毛笔筒，竹子以其坚韧与柔韧并存的独特物理特质，深深融入了中国百姓衣食住行的方方面面。 | Zhúzi bùjǐn jùyǒu yōuměi de guānshǎng jiàzhí, zài rìcháng shēnghuó zhōng gèng yǒu jí guǎng de shíyòng gōngnéng. Cóng jiēshi-nàimó de zhúxí, qīngqiǎo jiāngù de zhúyǐ, dào wénfángsìbǎo zhōng de zhúzhì máobǐtǒng, zhúzi yǐ qí jiānrèn yǔ róurèn bìngcún de dútè wùlǐ tèzhì, shēnkè róngrù le Zhōngguó bǎixìng yī-shí-zhù-xíng de fāngfāng-miànmiàn. | Beyond ornamental grace, bamboo serves extensive practical utilities in daily life. From durable bamboo mats and light chairs to brush holders on writing desks, its balance of strength and flexibility touches every dimension of living. | Más allá de su belleza paisajística, el bambú atesora múltiples utilidades prácticas. Desde esteras resistentes y sillas ligeras hasta portalápices de caligrafía, aúna flexibilidad y firmeza para integrarse en la vida diaria.

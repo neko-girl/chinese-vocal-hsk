@@ -1,0 +1,63 @@
+id: 35
+hanzi: 造成
+pinyin: zào chéng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to cause; bring about; give rise to (usually negative results)
+  es: causar; provocar; ocasionar; dar lugar a
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to cause, bring about, or result in an unfavorable, problematic, or harmful consequence | ocasionar, producir o desembocar en una consecuencia perjudicial, dañina o indeseable | 造成不可挽回的重大损失 (cause irreversible major losses)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 由于施工方在深基坑作业中违规操作，导致地下自来水主管道破裂，给周边居民供水造成了极大不便。 | Yóuyú shīgōngfāng zài shēn jīkēng zuòyè zhōng wéiguī cāozuò, dǎozhì dìxià zìláishuǐ zhǔguǎndào pòliè, gěi zhōubiān jūmín gōngshuǐ zàochéng le jídà búbiàn. | Due to irregular drilling in deep foundation pits by contractors, the underground water main ruptured, causing severe inconvenience to surrounding residents' water supply. | Debido a una maniobra antirreglamentaria en las obras, se rompió la tubería principal subterránea, causando graves molestias al suministro vecinal.
+  #2 | 如果不能及时疏导青少年的负面情绪，长期的心理压抑将对其身心健康造成深远的负面影响。 | Rúguǒ bùnéng jíshí shūdǎo qīng-shàonián de fùmiàn qíngxù, chángqī de xīnlǐ yāyì jiāng duì qí shēnxīn jiànkāng zàochéng shēnyuǎn de fùmiàn yǐngxiǎng. | If adolescents' negative emotions are not channeled in time, prolonged psychological distress will cause profound adverse effects on their well-being. | Si no se encauzan a tiempo las emociones negativas en adolescentes, la represión psicológica prolongada causará hondos perjuicios a su salud mental.
+
+collocations[6]{hanzi,en}:
+  造成损失 | cause financial loss / damage
+  造成严重后果 | cause grave consequences
+  造成不良影响 | cause adverse impact
+  造成伤亡 | cause casualties
+  造成拥堵 | cause traffic congestion
+  造成误解 | cause misunderstanding
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  祸从口出 | huò cóng kǒu chū | disaster comes from careless mouth; loose lips sink ships
+  遗祸无穷 | yí huò wú qióng | bequeath endless disasters; cause endless trouble
+  木已成舟 | mù yǐ chéng zhōu | the timber has been carved into a boat; what is done cannot be undone
+  后患无穷 | hòu huàn wú qióng | breed unending future troubles
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  造 | zào | create; build; fabricate; cause | crear; construir; fabricar; causar | 辶 | movement | 辶 (advance on path) + 告 (announce / sacrifice bull) | 告 (gào / phonetic) | 10 | 半包围结构 | Advancing on the road 辶 toward sacrifice altars to make prayers 告; extended to manufacturing, constructing, and generating outcomes. | Advancing along a road (辶) while making an official announcement (告) to create a new institution (造). | Avanzar por un camino (辶) proclamando decretos (告) para fundar una nueva obra (造). | 51 | YHGR | 造
+  成 | chéng | become; complete; achieve; succeed | convertirse; completar; lograr | 戈 | halberd / spear | 戈 (weapon) + 𢦏 (firm foundation wall) | 成 (chéng) | 6 | 单一结构 | A spear 戈 defending a newly completed fortified wall settlement; accomplishing construction and reaching fruition. | Planting a protective spear (戈) upon the completed stone battlements: full accomplishment (成). | Clavar una lanza (戈) sobre las almenas concluidas de la muralla: obra culminada (成). | 35 | IHSH | 成
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Actions actively built and engineered (造) that settle into a lasting result (成) bring about a consequence (造成).
+  composite_memory_hook_es: Actos fraguados con afán (造) que cuajan en un resultado consumado (成) ocasionan una consecuencia (造成).
+  cultural_and_cognitive_roots: Semantic preference: unlike neutral '产生' or positive '促成', '造成' predominantly introduces negative, regrettable outcomes.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by rising second tone: 'zào chéng' (51-35). Drive down forcefully on 'zào', then rise on 'chéng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    造 | zào | create; cause | Movement radical 辶 with 告
+    选 | xuǎn | choose; select | Movement radical 辶 with 先
+    成 | chéng | become; complete | 6 strokes including slanted hook and 戈 axe
+    戍 | shù | garrison frontier | Has a dot inside the corner
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    致 | zhì | cause; lead to
+    致 | zhì | incur; deliver
+    引 | yǐn | lead to; trigger
+    酿 | niàng | ferment; brew crisis
+
+semantic_boundary_contrasts:
+  core_nuance: 造成 is a causal verb almost exclusively paired with undesirable, negative, or harmful nouns.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 造成 vs. 导致 | dǎozhì | 导致 can be followed by a full explanatory clause or verb phrase (导致比赛中断), whereas 造成 is strictly paired with a noun object (造成恶劣影响).
+    2 | 造成 vs. 产生 | chǎnshēng | 产生 is completely neutral and can introduce positive breakthroughs (产生灵感, 产生效益), unlike the negative bias of 造成.
+    3 | 造成 vs. 引起 | yǐnqǐ | 引起 means to attract or arouse notice, discussion, or reaction (引起广泛关注), without necessarily implying catastrophic damage.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 盲目砍伐原始森林不仅破坏了珍稀野生动物的天然栖息家园，更诱发了严重的水土流失与频繁的山体滑坡，给流域下游居民的生命财产安全造成了巨大威胁。人与自然唯有和谐共生，方能守住绿水青山的美好家园。 | Mángmù kǎnfá yuánshǐ sēnlín bùjǐn pòhuài le zhēnxī yěshēng dòngwù de tiānrán qīxī jiāyuán, gèng yòufā le yánzhòng de shuǐtǔ liúshī yǔ pínfán de shāntǐ huápō, gěi liùyù xiàyóu jūmín de shēngmìng cáichǎn ānquán zàochéng le jùdà wēixié. Rén yǔ zìrán wéiyǒu héxié gòngshēng, fāng néng shǒuzhù lǜshuǐ-qīngshān de měihǎo jiāyuán. | Deforesting virgin timber not only ravages wildlife habitats, but induces severe soil erosion and landslides, posing grave hazards to downstream communities. Only by living in harmony with nature can humanity safeguard its home. | La tala indiscriminada devasta los hábitats silvestres y desata deslaves, causando graves estragos en las poblaciones ribereñas. Sólo conviviendo en armonía con la naturaleza preservaremos la belleza de nuestra tierra.
+  #2 | 当年在篮球运动起步阶段，那个未经改造的带底果筐给整场赛事造成了极大的节奏阻碍。每次投篮得分都迫使比赛停摆，频繁的停滞给观众的观赛体验造成了严重破坏。直到有人果断锯掉筐底，才从根源上消除了这个造成混乱的症结。 | Dāngnián zài lánqiú yùndòng qǐbù jiēduàn, nà ge wèijīng gǎizào de dàidǐ guǒkuāng gěi zhěngchǎng sàishì zàochéng le jídà de jiézòu zǔ'ài. Měicì tóulán défēn dōu pòshǐ bǐsài tíngbǎi, pínfán de tíngzhì gěi guānzhòng de guānsài tǐyàn zàochéng le yánzhòng pòhuài. Zhídào yǒurén guǒduàn jù diào kuāngdǐ, cái cóng gēnyuán shang xiāochú le zhè ge zàochéng hùnluàn de zhèngjié. | At basketball's inception, unadapted closed baskets caused enormous rhythmic bottlenecks. Scores halted play, ruining the spectator experience. Only when someone sawed off the bottoms was this root cause of disruption eliminated for good. | En los inicios del baloncesto, las cestas ciegas causaron grandes parones en el juego. Cada canasta congelaba el partido, arruinando la emoción del público. Al serrar el fondo, se erradicó de raíz la causa de tanto trastorno.

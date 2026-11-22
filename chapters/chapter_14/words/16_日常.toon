@@ -1,0 +1,63 @@
+id: 16
+hanzi: 日常
+pinyin: rì cháng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: daily; everyday; day-to-day; routine
+  es: diario; cotidiano; del día a día; ordinario
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | relating to ordinary everyday activities, life, or routine necessities | perteneciente o relativo a las actividades, rutinas o necesidades de la vida diaria | 日常生活 (daily life)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 居住在胡同四合院里的居民，在葡萄架下喝茶下棋，享受着平静而惬意的日常时光。 | Jūzhù zài hútòng sìhéyuàn lǐ de jūmín, zài pútáojià xià hē chá xià qí, xiǎngshòu zhe píngjìng ér qièyì de rìcháng shíguāng. | Residents living in alley quadrangles sip tea and play chess beneath grape trellises, savoring peaceful everyday moments. | Los vecinos de los patios beben té y juegan al ajedrez bajo emparrados de vid, saboreando el sosiego de la vida cotidiana.
+  #2 | 掌握基本的地道汉语日常口语，是外国留学生快速融入中国大学校园生活的关键。 | Zhǎngwò jīběn de dìdao Hànyǔ rìcháng kǒuyǔ, shì wàiguó liúxuéshēng kuàisù róngrù Zhōngguó dàxué xiàoyuán shēnghuó de guānjiàn. | Mastering authentic daily spoken Chinese is key for foreign students to integrate smoothly into campus life in China. | Dominar expresiones chinas coloquiales de uso diario resulta clave para que los estudiantes extranjeros se integren en la vida universitaria.
+
+collocations[6]{hanzi,en}:
+  日常生活 | daily life / everyday routine
+  日常用品 | daily necessities / toiletries
+  日常工作 | routine day-to-day work
+  日常开支 | everyday living expenses
+  日常维护 | routine maintenance
+  日常交往 | daily social interactions
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  家常便饭 | jiā cháng biàn fàn | homestyle meal; routine matter of course
+  柴米油盐 | chái mǐ yóu yán | firewood, rice, oil, and salt; basic necessities of life
+  日复一日 | rì fù yī rì | day in and day out; continuously without break
+  习以为常 | xí yǐ wéi cháng | become accustomed to as a matter of habit
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  日 | rì | sun; day; daily | sol; día; diario | 日 | sun / day | pictograph of sun with a solar spot in the center | 日 (rì) | 4 | 单一结构 | Ancient oracle bone glyph depicting the radiant round sun traversing the sky day after day. | The shining sun (日) rising every dawn to mark each passing day. | El sol radiante (日) que asciende al alba para seccionar el transcurso de cada día. | 51 | A | 日
+  常 | cháng | constant; regular; frequent; normal | constante; regular; frecuente; normal | 巾 | cloth / towel | 尚 (elevated) + 巾 (standard ceremonial cloth) | 尚 (shàng) | 11 | 上下结构 | A banner 巾 raised prominently overhead 尚 as an unchanging standard and perpetual constant. | An enduring hanging cloth banner (巾) that stands firm across the passage of time (常). | Un estandarte textil (巾) fijado permanentemente como testimonio de lo habitual (常). | 35 | FBRB | 常
+
+mnemonics_and_roots:
+  composite_memory_hook_en: What repeats with each rising sun (日) as a constant custom (常) is everyday daily life (日常).
+  composite_memory_hook_es: Aquello que retorna con cada nuevo sol (日) como pauta constante (常) conforma lo cotidiano (日常).
+  cultural_and_cognitive_roots: Captures the rhythmic cadence of agricultural society revolving around the solar cycle and routine chores.
+  tone_sandhi_and_pitch_modulation: Fourth tone to second tone: 'rì cháng' (51-35). Drop abruptly on 'rì' and glide smoothly up on 'cháng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    目 | mù | eye; item | Contains two internal horizontal lines instead of one
+    白 | bái | white; clear | Has an upper slanting tick stroke on top
+    党 | dǎng | party; faction | Legs radical 儿 at bottom instead of 巾
+    尝 | cháng | taste; try | Small radical 小 inside 𡉚 or 云 variant
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    日记 | rìjì | diary; daily log
+    经常 | jīngcháng | often; regularly
+    日程 | rìchéng | itinerary; schedule
+    常见 | chángjiàn | common; often seen
+
+semantic_boundary_contrasts:
+  core_nuance: 日常 characterizes mundane, regular day-to-day matters as opposed to formal, rare, or festive occasions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 日常 vs. 节日 | jiérì | 节日 marks extraordinary celebratory holidays, contrasting with normal uninterrupted 日常 routines.
+    2 | 日常 vs. 特殊 | tèshū | 特殊 designates rare or exceptional deviations, while 日常 describes habitual default states.
+    3 | 日常 vs. 偶尔 | ǒu'ěr | 偶尔 refers to sporadic occurrences, whereas 日常 represents constant diurnal rhythm.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四合院内部的空间格局巧妙兼顾了家庭成员的日常隐私与集体交往。封闭的高墙将外界的喧嚣隔绝开来，让一家人能够在庭院中自在地处理日常琐事，晾晒衣物、养花逗鸟，享受充满人间烟火气的惬意生活。 | Sìhéyuàn nèibù de kōngjiān géjú qiǎomiào jiāngù le jiātíng chéngyuán de rìcháng yǐnsī yǔ jítǐ jiāowǎng. Fēngbì de gāoqiáng jiāng wàijiè de xuānxīao géjué kāi lái, ràng yī jiā rén nénggòu zài tíngyuàn zhōng zìzài de chǔlǐ rìcháng suǒshì, liàngshài yīwù, yǎng huā dòu niǎo, xiǎngshòu chōngmǎn rénjiān yānhuǒqì de qièyì shēnghuó. | The spatial layout of courtyards skillfully balances everyday family privacy and collective interaction. Enclosing high walls block outside noise, allowing families to attend to daily domestic chores, air laundry, and tend flowers in comfort. | El diseño espacial del siheyuan armoniza la intimidad cotidiana familiar y la convivencia colectiva. Altos muros aíslan el bullicio exterior, permitiendo atender faenas domésticas, secar ropa y cuidar aves en agradable sosiego.
+  #2 | 现代人的生活节奏飞快，常常在忙碌的奔波中忽略了平凡日常的美好。其实，清晨的一缕暖阳、午后的一杯清茶、傍晚与家人共进的一顿热饭，都是日常中最真实动人的幸福。用心体验日常点滴，才能收获内心的宁静与从容。 | Xiàndài rén de shēnghuó jiézòu fēikuài, chángcháng zài mánglù de bēnbō zhōng hūlüè le píngfán rìcháng de měihǎo. Qíshí, qīngchén de yī lǚ nuǎnyáng, wǔhòu de yī bēi qīngchá, bàngwǎn yǔ jiārén gòng jìn de yī dùn rè fàn, dōu shì rìcháng zhōng zuì zhēnshí dòngrén de xìngfú. Yòngxīn tǐyàn rìcháng diǎndī, cái néng shōuhuò nèixīn de níngjìng yǔ cóngróng. | Modern life moves briskly, often causing people to overlook the quiet beauty of ordinary everyday living. The morning warmth, an afternoon cup of tea, and an evening dinner with family are the most authentic joys in daily existence. | El vertiginoso ritmo actual suele hacer olvidar la belleza de lo cotidiano. El sol matinal, una taza de té y una cena compartida en familia constituyen las dichas más genuinas del día a día, colmando el alma de paz.

@@ -1,0 +1,62 @@
+id: 2
+hanzi: 筐
+pinyin: kuāng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: basket (open woven container)
+  es: cesta; canasta; cesto
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a container woven from split bamboo, wicker, or rattan used for carrying produce or objects | recipiente tejido de tiras de bambú, mimbre o caña para transportar productos u objetos | 装满新鲜果子的竹筐 (a bamboo basket filled with fresh fruit)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 果农们天不亮就挑着沉甸甸的竹筐赶往集市，筐里装满了刚采摘下来的水蜜桃。 | Guǒnóngmen tiān bú liàng jiù tiāo zhe chéndiāndiān de zhúkuāng gǎnwǎng jíshì, kuāng lǐ zhuāngmǎn le gāng cǎizhāi xiàlái de shuǐmìtáo. | Before daybreak, fruit farmers carried heavy bamboo baskets on shoulder poles to the market, the baskets filled with freshly picked juicy peaches. | Antes del amanecer, los fruticultores cargaban pesadas cestas de bambú camino al mercado, colmadas de melocotones recién cosechados.
+  #2 | 最初发明篮球时，奈史密斯博士把两只装桃子的圆筐挂在墙头作为球门。 | Zuìchū fāmíng lánqiú shí, Nàishǐmīsī bóshì bǎ liǎng zhī zhuāng táozi de yuánkuāng guà zài qiángtóu zuòwéi qiúmén. | When basketball was first invented, Dr. Naismith hung two round peach baskets on the walls to serve as goals. | Al inventar el baloncesto, el doctor Naismith colgó dos cestas redondas de melocotones en la pared a modo de metas.
+
+collocations[6]{hanzi,en}:
+  竹筐 | bamboo basket
+  一个筐 | a basket (classifier 个)
+  筐底 | bottom of a basket
+  菜筐 | vegetable basket
+  果筐 | fruit basket
+  装筐 | pack into a basket
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  一筐倾尽 | yī kuāng qīng jìn | pour out an entire basket; give all one's resources
+  竹篮打水 | zhú lán dǎ shuǐ | drawing water with a bamboo basket; all in vain
+  同舟共济 | tóng zhōu gòng jì | cross the river in the same boat; cooperate in adversity
+  满载而归 | mǎn zài ér guī | return with a full load; come back richly rewarded
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  筐 | kuāng | basket | cesta; canasto | 竹 | bamboo | 竹 (bamboo weave) | 匡 (kuāng / frame; phonetic) | 12 | 上下结构 | Bamboo radical 竹 on top over frame 匡; traditionally woven with interlocking bamboo splits inside a rectangular or round frame. | Strips of flexible bamboo (竹) woven inside a sturdy wooden frame (匡) create a spacious farm basket (筐). | Tiras de bambú (竹) entrelazadas en un bastidor resistente (匡) conforman una espaciosa canasta (筐). | 55 | HSMG | 筐
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Bamboo (竹) strips woven into a protective rectangular frame (匡) become a carrying basket (筐).
+  composite_memory_hook_es: Tiras de bambú (竹) entretejidas sobre un armazón (匡) forman una práctica cesta de carga (筐).
+  cultural_and_cognitive_roots: Essential harvest container throughout Chinese agrarian history, woven from resilient southern bamboo.
+  tone_sandhi_and_pitch_modulation: High flat level tone: 'kuāng' (55). Maintain a sustained, resonant high-pitch ring without dropping.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    筐 | kuāng | basket | Has bamboo radical 竹 on top
+    匡 | kuāng | frame; rectify | Base character without bamboo radical
+    框 | kuàng | frame; casement | Has tree/wood radical 木 on the left
+    眶 | kuàng | eye socket | Has eye radical 目 on the left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    篮 | lán | basket with handle
+    篓 | lǒu | tall wicker hamper
+    箱 | xiāng | box; chest
+    笼 | lóng | cage; steamer basket
+
+semantic_boundary_contrasts:
+  core_nuance: 筐 is typically a wide, lidless basket woven of bamboo or wicker, primarily used for coarse farm produce.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 筐 vs. 篮子 | lánzi | 篮子 usually has an arching handle for carrying personal purchases, whereas 筐 is larger and carried with shoulder poles.
+    2 | 筐 vs. 箱子 | xiāngzi | 箱子 denotes a rigid rectangular trunk or box with walls and a closing lid, unlike the open breathable weave of 筐.
+    3 | 筐 vs. 桶 | tǒng | 桶 is a watertight wooden or plastic bucket for liquids, whereas 筐 has a porous woven mesh unfit for liquids.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 深秋时节的山村果园里，红彤彤的苹果压弯了枝头。乡亲们手脚麻利地将采摘下来的鲜果整齐码放进竹筐中，欢声笑语伴随着丰收的喜悦，在漫山遍野的清脆鸟鸣声中久久回荡。 | Shēnqiū shíjié de shāncūn guǒyuán lǐ, hóngtóngtóng de píngguǒ yāwān le zhītóu. Xiāngqīnmen shǒujiǎo málì de jiāng cǎizhāi xiàlái de xiānguǒ zhěngqí mǎfàng jìn zhúkuāng zhōng, huānshēng-xiàoyǔ bànsuí zhe fēngshōu de xǐyuè, zài mànshān-biànyě de qīngcuì niǎomíng shēng zhōng jiǔjiǔ huídàng. | In late autumn mountain orchards, crimson apples bent the branches. Villagers swiftly arranged freshly gathered fruit into bamboo baskets, their laughter and harvest joy echoing alongside crisp birdsong across the hills. | En los huertos serranos a finales de otoño, las manzanas doblaban las ramas. Con presteza, los lugareños acomodaban la fruta en cestas de bambú, resonando sus risas y júbilo por doquier entre trinos campestres.
+  #2 | 当年在马萨诸塞州的春田学院，体育教师由于缺乏室内器械，便就地取材把两个盛桃的竹筐固定在离地十英尺的高处。这个不起眼的果筐，不仅成为了现代篮球运动的摇篮，也见证了体育规则在实践中的不断创新与完善。 | Dāngnián zài Mǎsàzhūsuāi zhōu de Chūntián xuéyuàn, tǐyù jiàoshī yóuyú quēfá shìnèi qìxiè, biàn jiùdì-qǔcái bǎ liǎng ge chéng táo de zhúkuāng gùdìng zài lí dì shí yīngchǐ de gāochù. Zhè ge bùqǐyǎn de guǒkuāng, bùjǐn chéngwéi le xiàndài lánqiú yùndòng de yáolán, yě jiànzhèng le tǐyù guīzé zài shíjiàn zhōng de búduàn chuàngxīn yǔ wánshàn. | Back then at Springfield College in Massachusetts, a gym teacher lacking indoor equipment attached two peach baskets ten feet off the ground. That humble basket not only cradled modern basketball but witnessed sports rules constantly evolving through practice. | En el Springfield College de Massachusetts, un profesor sin material colgó dos cestas de melocotón a diez pies de altura. Esa humilde cesta fue la cuna del baloncesto moderno y testigo de la evolución de sus reglas.

@@ -1,0 +1,64 @@
+id: 3
+hanzi: 训练
+pinyin: xùn liàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to train; to drill; training
+  es: entrenar; adiestrar; entrenamiento; adiestramiento
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to instruct and exercise repeatedly to acquire physical skills or professional discipline | instruir y ejercitar metódicamente para adquirir habilidades físicas o disciplina profesional | 严格训练队员 (strictly train team members)
+  2 | Noun | Standard | systematic physical or mental instruction and practice | serie de ejercicios sistemáticos de preparación física o técnica | 高强度的体能训练 (high-intensity physical conditioning)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 为了在下个月的校际运动会上夺冠，长跑队队员们每天清晨都坚持进行五公里耐力训练。 | Wèile zài xià ge yuè de xiàojì yùndònghuì shang duóguàn, chángpǎoduì duìyuánmen měitiān qīngchén dōu jiānchí jìnxíng wǔ gōnglǐ nàilì xùnliàn. | To win the championship at next month's interschool athletic meet, the long-distance runners persisted in five-kilometer endurance training every dawn. | Para alzarse con el título en el torneo interescolar del mes próximo, los fondistas realizaban cada alba un entrenamiento de resistencia de cinco kilómetros.
+  #2 | 新员工入职之后必须接受为期三周的系统技能培训与职业素养考核。 | Xīn yuángōng rùzhí zhīhòu bìxū jiēshòu wéiqī sān zhōu de xìtǒng jìnéng péixùn yǔ zhíyè sùyǎng kǎohé. | After joining, new employees must undergo three weeks of systematic technical training and professional competency assessments. | Tras incorporarse, los nuevos empleados deben completar tres semanas de capacitación técnica sistemática y evaluación de competencias profesionales.
+
+collocations[6]{hanzi,en}:
+  严格训练 | strict training / drill
+  军事训练 | military training
+  体能训练 | physical fitness conditioning
+  训练有素 | well-trained; seasoned
+  训练基地 | training camp / base
+  接受训练 | undergo training
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  训练有素 | xùn liàn yǒu sù | well-drilled; rigorously prepared through long training
+  熟能生巧 | shú néng shēng qiǎo | practice makes perfect; skill comes from practice
+  厉兵秣马 | lì bīng mò mǎ | whet weapons and feed horses; prepare intensively for battle
+  刻苦耐劳 | kè kǔ nài láo | endure hardships through tireless persevering effort
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  训 | xùn | teach; instruct; admonish | instruir; amaestrar; adoctrinar | 讠 | speech | 讠 (spoken instruction) | 川 (chuān / flow; phonetic) | 5 | 左右结构 | Speech radical 讠 with river stream 川; originally guiding words to flow smoothly into understanding like smooth waterways. | Spoken instructions (讠) flow continuously like a river (川) into learners' minds to train their conduct (训). | Las palabras didácticas (讠) fluyen como un río (川) hacia la mente del aprendiz guiando su conducta (训). | 51 | IVLL | 訓
+  练 | liàn | practice; drill; refine | practicar; ejercitar; curtir | 纟 | silk thread | 纟 (raw silk threads) | 东 / 练 (phonetic) | 8 | 左右结构 | Silk radical 纟 beside 练; originally boiling and beating raw coarse silk repeatedly to make it white and supple. | Rough silk fibers (纟) washed and boiled repeatedly under the eastern sun until perfected through practice (练). | Hebras de seda (纟) lavadas y hervidas una y otra vez bajo el sol oriental hasta purificarse mediante la práctica (练). | 51 | VMDF | 練
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Guiding words (训) combined with repetitive silk-like conditioning (练) produce thorough mastery (训练).
+  composite_memory_hook_es: La instrucción verbal (训) combinada con el pulido repetitivo como seda (练) forja el verdadero adiestramiento (训练).
+  cultural_and_cognitive_roots: Derives from ancient martial drills and silk purification metaphors where raw fiber is transformed into strong fabric.
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'xùn liàn' (51-51). Execute two decisive down-slopes without rushing.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    训 | xùn | train; instruct | Speech radical 讠 with 川
+    圳 | zhèn | furrow; ditch | Earth radical 土 with 川 (e.g. 深圳)
+    练 | liàn | practice | Silk radical 纟 on the left
+    炼 | liàn | smelt metals; refine | Fire radical 火 on the left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    演 | yǎn | drill; perform; evolve
+    习 | xí | practice; flap wings
+    操 | cāo | operate; drill
+    修 | xiū | cultivate; mend
+
+semantic_boundary_contrasts:
+  core_nuance: 训练 emphasizes systematic physical, behavioral, or tactical drill to achieve peak execution under pressure.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 训练 vs. 练习 | liànxí | 练习 refers to general self-study practice exercises, whereas 训练 entails structured external coaching and discipline.
+    2 | 训练 vs. 培养 | péiyǎng | 培养 focuses on long-term nurturing of character, habits, or talent over years, while 训练 targets specific motor and tactical drills.
+    3 | 训练 vs. 锻炼 | duànliàn | 锻炼 denotes personal health fitness workout or undergoing hardship, whereas 训练 targets specific competitive standards.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 寒冬腊月里的训练基地格外安静，队员们却早已汗流浃背。教练一遍又一遍地拆解战术动作，纠正每一个细小的传球失误。正是在这种千百次枯燥重复的刻苦训练中，队伍培养出了默契与坚不可摧的团队意志。 | Hándōng-làyuè lǐ de xùnliàn jīdì géwài ānjìng, duìyuánmen què zǎoyǐ hànliújiābèi. Jiàoliàn yí biàn yòu yí biàn de chāijiě zhànshù dòngzuò, jiūzhèng měi yí ge xìxiǎo de chuánqiú shīwù. Zhèng shì zài zhè zhǒng qiānbǎicì kūzào chóngfù de kèkǔ xùnliàn zhōng, duìwù péiyǎng chū le mòqì yǔ jiānbùkěcuī de tuánduì yìzhì. | The training base was quiet in the bitter winter, yet the players were already drenched in sweat. The coach dismantled tactical movements repeatedly, correcting small passing errors. Through this grueling repetition, the team forged chemistry and indomitable will. | La base deportiva permanecía en silencio en el crudo invierno, mas los jugadores sudaban a mares. El entrenador desgranaba las tácticas corrigiendo cada pase. En esa ardua repetición, el equipo forjó compenetración y temple inquebrantable.
+  #2 | 当年奈史密斯发明篮球运动的初衷，正是为了在漫长寒冷的冬季为学生提供一种无需面对面激烈冲撞的室内体能训练方式。然而随着时代发展，现代篮球训练对运动员的速度、爆发力及战术素养提出了更为严苛的综合要求。 | Dāngnián Nàishǐmīsī fāmíng lánqiú yùndòng de chūzhōng, zhèng shì wèile zài màncháng hánlěng de dōngjì wèi xuésheng tígōng yī zhǒng wúxū miànduìmiàn jīliè chōngzhuàng de shìnèi tǐnéng xùnliàn fāngshì. Rán'ér suízhe shídài fāzhǎn, xiàndài lánqiú xùnliàn duì yùndòngyuán de sùdù, bàofālì jí zhànshù sùyǎng tíchū le gèng wéi yánkē de zōnghé yāoqiú. | Naismith's original intention was to provide students with an indoor conditioning method free from violent collisions during harsh winters. As eras shifted, modern basketball training has raised demanding standards for speed, explosive power, and tactical prowess. | Naismith concibió el baloncesto para dotar a los alumnos de entrenamiento bajo techo sin colisiones bruscas durante el crudo invierno. No obstante, el entrenamiento actual exige una velocidad, potencia explosiva y lectura táctica superlativas.

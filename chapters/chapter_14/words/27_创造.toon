@@ -1,0 +1,63 @@
+id: 27
+hanzi: 创造
+pinyin: chuàng zào
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to create; produce; bring about; innovation
+  es: crear; producir; engendrar; innovación
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to bring something entirely new into existence through intellect, labor, imagination, or skill | dar existencia a algo nuevo o inédito mediante el intelecto, trabajo, inventiva o destreza | 创造美好生活 (create a wonderful life)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代劳动人民凭借非凡的智慧，在四合院的规整天地中创造出了人与自然亲密交融的生活环境。 | Zhōngguó gǔdài láodòng rénmín píngjiè fēifán de zhìhuì, zài sìhéyuàn de guīzhěng tiāndì zhōng chuàngzào chū le rén yǔ zìrán qīnmì jiāoróng de shēnghuó huánjìng. | Relying on remarkable wisdom, ancient Chinese working people created a living environment where humanity and nature harmoniously blended inside quadrangles. | Con sabiduría admirable, el pueblo trabajador de la China clásica creó en el siheyuan un entorno residencial donde el hombre y la naturaleza se funden.
+  #2 | 科研团队通过夜以继日的攻关试验，成功创造了一项具有国际自主知识产权的核心技术专利。 | Kēyán tuánduì tōngguò yèyǐjìrì de gōngguān shìyàn, chénggōng chuàngzào le yī xiàng jùyǒu guójì zìzhǔ zhīshichǎnquán de héxīn jìshù zhuānlì. | Through day-and-night testing breakthroughs, the research team successfully created a core technological patent with international proprietary rights. | A través de infatigables pruebas de laboratorio, el equipo científico creó con éxito una patente técnica primordial de titularidad propia.
+
+collocations[6]{hanzi,en}:
+  创造奇迹 | create miracles
+  创造财富 | create wealth
+  创造力 | creativity / creative power
+  创造价值 | create value
+  创造良好条件 | create favorable conditions
+  开拓创造 | pioneer and create
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  巧夺天工 | qiǎo duó tiān gōng | superb craftsmanship excelling nature itself
+  标新立异 | biāo xīn lì yì | pioneer something original and fresh
+  开天辟地 | kāi tiān pì dì | split open heaven and earth; epoch-making creation
+  别出心裁 | bié chū xīn cái | display original and creative genius
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  创 | chuàng | start; create; initiate; establish | iniciar; crear; fundar; emprender | 刂 | knife / cutting edge | 仓 (storehouse / granary structure) + 刂 (cutting tool) | 仓 (cāng) | 6 | 左右结构 | Carving new timber foundations with a blade 刂 to build a new grain storehouse 仓; to initiate or create. | Chiseling raw materials with a sharp knife (刂) to pioneer an innovative design (创). | Desbastar la madera con un cuchillo (刂) para fundar una obra nueva y singular (创). | 51 | OSLN | 創
+  造 | zào | make; build; construct; manufacture | hacer; fabricar; construir; elaborar | 辶 | walk / movement | 辶 (dynamic motion) + 告 (speech proclamation / bull horns) | 告 (gào) | 10 | 半包围结构 | Active physical motion 辶 executing an announced plan 告 to construct tangible works; to make or build. | Taking swift action on foot (辶) to build and fabricate an impressive artifact (造). | Emprender la marcha (辶) para confeccionar y levantar una edificación palpable (造). | 51 | YHGR | 造
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Initiating a pioneering start (创) and fashioning it into reality (造) means to create (创造).
+  composite_memory_hook_es: Fundar una novedad (创) y fabricarla con destreza (造) sintetiza el acto creador (创造).
+  cultural_and_cognitive_roots: Blends the conceptual inception of an idea (创) with the manual execution of building it (造), driving human civilization.
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'chuàng zào' (51-51). Articulate both syllables with energetic downward punch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    仓 | cāng | granary; storehouse | Lacks the knife radical 刂 on the right
+    抢 | qiǎng | rob; scramble for | Hand radical 扌 on left of 仓
+    选 | xuǎn | choose; elect | First radical 先 under 辶 instead of 告
+    迫 | pò | force; compel | White radical 白 under 辶 instead of 告
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    创新 | chuàngxīn | innovate; innovation
+    创业 | chuàngyè | start an enterprise / venture
+    制造 | zhìzào | manufacture; fabricate
+    塑造 | sùzào | shape; mold; sculpt
+
+semantic_boundary_contrasts:
+  core_nuance: 创造 emphasizes bringing unprecedented new ideas, artworks, or social wealth into reality from scratch.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 创造 vs. 制造 | zhìzào | 制造 focuses on routine industrial manufacturing along existing blueprints, whereas 创造 invents original concepts.
+    2 | 创造 vs. 发现 | fāxiàn | 发现 reveals pre-existing things hitherto unnoticed (e.g. islands, laws), while 创造 constructs entirely novel things.
+    3 | 创造 vs. 模仿 | mófǎng | 模仿 is the direct antonym meaning to copy or reproduce existing templates.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代建筑工匠在四合院的营建中展现了惊人的创造才能。他们巧妙利用砖雕、木雕与彩绘艺术，在普通的房檐与门簪上创造出寓意深远的图案，把质朴的居住空间升华为富有诗意与人文温度的艺术殿堂。 | Zhōngguó gǔdài jiànzhù gōngjiàng zài sìhéyuàn de yíngjiàn zhōng zhǎnxiàn le jīngrén de chuàngzào cáinéng. Tāmen qiǎomiào lìyòng zhuāndiāo, mùdiāo yǔ cǎihuì yìshù, zài pǔtōng de fángyán yǔ ménzān shang chuàngzào chū yùyì shēnyuǎn de tú'àn, bǎ zhìpǔ de jūzhù kōngjiān shēnghuá wéi fùyǒu shīyì yǔ rénwén wēndù de yìshù diàntáng. | Ancient artisans demonstrated astounding creative talent constructing courtyards. Ingeniously employing brick carvings and woodwork on eaves, they created profound motifs, sublimating living spaces into artistic halls steeped in poetic warmth. | Los artesanos constructores de la China clásica hicieron gala de un pasmoso ingenio creador. Mediante tallas en ladrillo y madera, crearon motivos de hondo simbolismo en los aleros, transformando la vivienda en una joya artística de viva poesía.
+  #2 | 创新是推动人类文明进步的根本动力。当代青年应当敢于打破传统思维的陈旧藩篱，在科学技术与文化艺术的广阔天地中勇于创造。通过持续不断的探索与实践，我们才能为社会创造出更具价值的成果，让生活变得更加美好。 | Chuàngxīn shì tuīdòng rénlèi wénmíng jìnbù de gēnběn dònglì. Dāngdài qīngnián yīngdāng gǎnyú dǎpò chuántǒng sīwéi de chénjiù fānlí, zài kēxué jìshù yǔ wénhuà yìshù de guǎngkuò tiāndì zhōng yǒngyú chuàngzào. Tōngguò chíxù-bùduàn de tànsuǒ yǔ shíjiàn, wǒmen cái néng wèi shèhuì chuàngzào chū gèng jù jiàzhí de chéngguǒ, ràng shēnghuó biànde gèngjiā měihǎo. | Innovation serves as the fundamental engine driving human progress. Modern youth must dare to shatter dogmas and create courageously across arts and sciences. Constant exploration generates higher value, enriching human existence. | La innovación constituye el motor cardinal del avance humano. La juventud de hoy debe atreverse a derribar dogmas vetustos y crear con audacia en las artes y las ciencias. La experimentación continua crea valor perdurable para el bienestar común.

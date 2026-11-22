@@ -1,0 +1,63 @@
+id: 40
+hanzi: 矛盾
+pinyin: máo dùn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: contradiction; conflict; paradoxical; dispute
+  es: contradicción; conflicto; paradójico; discrepancia
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a clash or conflict between opposing forces, ideas, or interests; self-contradictory proposition | choque o pugna entre ideas, intereses o fuerzas opuestas; situación o enunciado paradójico | 化解邻里矛盾 (resolve neighborhood conflicts)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四合院中几代人同住一个屋檐下，难免会因为生活琐事产生摩擦，但大家总能通过耐心沟通化解矛盾。 | Sìhéyuàn zhōng jǐ dài rén tóng zhù yī gè wūyán xià, nánmiǎn huì yīnwèi shēnghuó suǒshì chǎnshēng mócā, dàn dàjiā zǒng néng tōngguò nàixīn gōutōng huàjiě máodùn. | With generations cohabiting under one courtyard roof, daily frictions were inevitable, yet family members resolved contradictions through patient talk. | Con varias generaciones bajo el mismo techo, surgían roces cotidianos, pero siempre disolvían las discrepancias mediante el diálogo paciente.
+  #2 | 他在求职过程中陷入了既想留在大城市发展又渴望陪伴年迈父母的内心深层矛盾之中。 | Tā zài qiúzhí guòchéng zhōng xiànrù le jì xiǎng liú zài dà chéngshì fāzhǎn yòu kěwàng péibàn niánmài fùmǔ de nèixīn shēncéng máodùn zhīzhōng. | In his job hunting, he was caught in an internal contradiction between pursuing career in the metropolis and caring for elderly parents. | En su búsqueda laboral, cayó en la honda contradicción interna entre triunfar en la gran ciudad y acompañar a sus ancianos padres.
+
+collocations[6]{hanzi,en}:
+  化解矛盾 | resolve / defuse contradictions
+  激化矛盾 | aggravate / intensify conflicts
+  主要矛盾 | principal contradiction
+  内部矛盾 | internal contradiction
+  自相矛盾 | self-contradictory
+  矛盾重重 | ridden with conflicts
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  自相矛盾 | zì xiāng máo dùn | contradict oneself; self-contradictory
+  针锋相对 | zhēn fēng xiāng duì | opposed like needle to awl; tit for tat in confrontation
+  冰释前嫌 | bīng shì qián xián | past resentments melt away like thawing ice
+  殊途同归 | shū tú tóng guī | reach the same destination by different routes
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  矛 | máo | spear; lance; pike | lanza; pica; asta afilada | 矛 | spear | pictograph of a long thrusting spear with a pointed bronze head | 矛 (máo) | 5 | 单一结构 | Ancient oracle bone pictograph of an attacking spear with sharp blade and shaft. | A sharp bronze warrior spear (矛) designed to pierce any defense. | Una lanza de bronce punzante (矛) concebida para quebrar cualquier defensa. | 35 | NINH | 矛
+  盾 | dùn | shield; defense | escudo; defensa; resguardo | 目 | eye | 厂 (protective canopy) + 目 (watchful eye behind visor) | 盾 (dùn) | 9 | 半包围结构 | A warrior's eye 目 peeking cautiously out from behind an armored defensive shield 厂. | A watchful eye (目) peering safely from behind an impenetrable armor shield (盾). | Un ojo avizor (目) que atisba tras la robusta lámina de un escudo defensivo (盾). | 51 | HJBU | 盾
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The sharpest spear (矛) tested against the strongest shield (盾) creates an irresolvable contradiction (矛盾).
+  composite_memory_hook_es: La lanza más afilada (矛) enfrentada al escudo invulnerable (盾) forja la contradicción irresoluble (矛盾).
+  cultural_and_cognitive_roots: Derived from Han Feizi's famous parable of an armorer selling spears piercing anything and shields blocking everything simultaneously.
+  tone_sandhi_and_pitch_modulation: Second tone to fourth tone: 'máo dùn' (35-51). Lift cleanly on 'máo', followed by a sharp downward drop on 'dùn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    予 | yǔ | give; bestow | Lacks the upper curved barbed hook of 矛
+    质 | zhì | quality; substance | Shell 贝 inside 厂 instead of 目 and 十
+    看 | kàn | look; watch | Hand 龵 over 目 instead of shield frame
+    省 | shěng | province; save | Little 少 over 目 instead of 盾
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    冲突 | chōngtū | conflict; clash
+    对立 | duìlì | oppose; stand in opposition
+    盾牌 | dùnpái | shield (weapon/metaphor)
+    分歧 | fēnqí | divergence; disagreement
+
+semantic_boundary_contrasts:
+  core_nuance: 矛盾 refers to logical incompatibilities, structural conflicts of interest, or psychological quandaries.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 矛盾 vs. 冲突 | chōngtū | 冲突 involves active physical or verbal clashes, while 矛盾 can exist latently as an underlying structural clash.
+    2 | 矛盾 vs. 一致 | yīzhì | 一致 is the direct antonym meaning harmonious alignment, consensus, or uniformity.
+    3 | 矛盾 vs. 摩擦 | mócā | 摩擦 emphasizes surface friction in daily interactions, while 矛盾 points to deeper structural opposition.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统院落的大家族生活不仅有天伦之乐，也充斥着代际之间的观念矛盾。正房与厢房的分立布局，既保证了礼制尊卑，也给不同小家庭留下了缓冲空间，使潜在的家庭矛盾能够在屋檐下得到温和调解。 | Zhōngguó chuántǒng yuànluò de dàjiātíng shēnghuó bùjǐn yǒu tiānlún-zhīlè, yě chōngchì zhe dàijì zhījiān de guānniàn máodùn. Zhèngfáng yǔ xiāngfáng de fēnlì bùjú, jì bǎozhèng le lǐzhì zūnbēi, yě gěi bùtóng xiǎojiātíng liúxià le huǎnchōng kōngjiān, shǐ qiánzài de jiātíng máodùn nénggòu zài wūyán xià dédào wēnhé tiáojiě. | Big family life in courtyards enjoyed domestic joy but wrestled with intergenerational contradictions. The separated layout of main and wing rooms maintained hierarchy while providing buffer space to resolve family disputes gently. | La convivencia en el siheyuan aunaba dicha familiar y discrepancias generacionales. La separación entre la sala principal y las alas laterales daba un respiro prudencial para amortiguar y disolver roces familiares.
+  #2 | 事物发展的辩证法则表明，矛盾普遍存在于自然界与人类社会的各个领域。正是矛盾双方的既对立又统一，推动着事物不断打破平衡并迈向更高的发展阶段。勇于正视矛盾、妥善解决矛盾，是推动社会前行的内在动力。 | Shìwù fāzhǎn de biànzhèng fǎzé biǎomíng, máodùn pǔbiàn cúnzài yú zìránjiè yǔ rénlèi shèhuì de gègè lǐngyù. Zhèngshì máodùn shuāngfāng de jì duìlì yòu tǒngyī, tuīdòng zhe shìwù bùduàn dǎpò pínghéng bìng mài xiàng gèng gāo de fāzhǎn jiēduàn. Yǒngyú zhèngshì máodùn, tuǒshàn jiějué máodùn, shì tuīdòng shèhuì qiánxíng de nèizài dònglì. | Dialectical laws reveal that contradictions exist universally in nature and society. The unity and struggle of opposing forces drives progress toward higher stages. Confronting contradictions bravely serves as the engine of societal advance. | Las leyes dialécticas enseñan que la contradicción es consustancial a la naturaleza y a la sociedad. La pugna y unidad de contrarios rompe equilibrios para avanzar; encarar las contradicciones es el motor del progreso.

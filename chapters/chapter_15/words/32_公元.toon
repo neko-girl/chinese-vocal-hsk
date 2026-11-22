@@ -1,0 +1,63 @@
+id: 32
+hanzi: 公元
+pinyin: gōng yuán
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: the Christian Era; Common Era; A.D.
+  es: era cristiana; era común; d.C.
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the international calendar system counting years from the traditionally estimated birth of Jesus Christ (CE / AD) | cómputo cronológico internacional que cuenta los años a partir del nacimiento estimado de Jesucristo | 公元前260年 (in 260 BC)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 著名的长平之战发生于公元前260年，它是中国战国时期规模最为庞大的决定性战役。 | Zhùmíng de Chángpíng zhī zhàn fāshēng yú gōngyuánqián 260 nián, tā shì Zhōngguó Zhànguó shíqī guīmó zuìwéi pángdà de juédìngxìng zhànyì. | The renowned Battle of Changping took place in 260 BC; it was the largest and most decisive campaign of China's Warring States era. | La célebre batalla de Changping ocurrió en el año 260 a.C.; fue la contienda decisiva de mayor envergadura del período de los Reinos Combatientes.
+  #2 | 出土的青铜铭文经碳十四测定，证实该古城遗址始建于公元前十一世纪的西周初期。 | Chūtǔ de qīngtóng míngwén jīng tàn-shísì cèdìng, zhèngshí gāi gǔchéng yízhǐ shǐjiàn yú gōngyuánqián shíyī shìjì de Xī Zhōu chūqī. | Carbon-14 testing of the excavated bronze inscriptions confirmed the ancient city ruins date back to the early Western Zhou in the 11th century BC. | La datación por carbono 14 de las inscripciones de bronce desenterradas confirmó que la antigua ciudad data de principios de la dinastía Zhou Occidental en el siglo XI a.C.
+
+collocations[6]{hanzi,en}:
+  公元前 | Before Christ (BC / BCE)
+  公元纪年 | Christian Era dating system
+  进入公元 | enter the Common Era
+  公元元年 | the year 1 AD
+  公元初期 | early Common Era
+  公元纪元 | Common Era calendar
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  千秋万代 | qiān qiū wàn dài | throughout thousands of autumns and myriad generations; for endless generations
+  历久弥新 | lì jiǔ mí xīn | remain fresh and vibrant with the passage of time
+  年深日久 | nián shēn rì jiǔ | over prolonged years and days; over a very long span of time
+  旷古绝伦 | kuàng gǔ jué lún | unmatched through all antiquity; unsurpassed in history
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  公 | gōng | public; universal; fair; male | público; universal; imparcial; masculino | 八 | eight / divide | 八 (divide outward / open share) + 厶 (private) | 公 (gōng) | 4 | 上下结构 | Distributing private 厶 resources openly 八 among all people; signifies public, common, and universal. | Dividing (八) private goods (厶) to share publicly with everyone (公). | Repartir abiertamente (八) lo privado (厶) para beneficio público de todos (公). | 55 | CI | 公
+  元 | yuán | first; primary; origin; unit | primero; primario; origen; unidad | 儿 | human legs | 一 (supreme origin) + 兀/儿 (human head standing upright) | 元 (yuán) | 4 | 上下结构 | The head 兀 crowned above the human body; denotes primary beginning, the source, and epoch. | The head crowned atop the human figure (儿), representing the original beginning of time (元). | La cabeza sobre la figura humana (儿), símbolo del origen primero y fuente primordial (元). | 35 | MMU | 元
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The public (公) universally agreed upon a common starting epoch (元) for international calendar counting (公元).
+  composite_memory_hook_es: La comunidad pública mundial (公) fijó un origen común de partida (元) para fechar los siglos (公元).
+  cultural_and_cognitive_roots: Adopted universally to align international chronological frameworks from the birth of Christ across scientific records.
+  tone_sandhi_and_pitch_modulation: First tone to second tone: 'gōng yuán' (55-35). High level start rising smoothly in pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    无 | wú | none; without | Extra stroke and bottom curvature
+    天 | tiān | sky; day | Central line pierces through differently
+    公 | gōng | public; fair | Radical 八 on top with 厶 below
+    分 | fēn | divide; minute | Radical 八 on top with knife 刀 below
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    纪元 | jìyuán | epoch; era
+    元年 | yuánnián | first year of a reign or era
+    元首 | yuánshǒu | head of state; sovereign
+    公历 | gōnglì | solar / Gregorian calendar
+
+semantic_boundary_contrasts:
+  core_nuance: 公元 strictly refers to the international Common Era calendar standard used for numbering historical years.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 公元 vs. 纪元 | jìyuán | 纪元 refers broadly to an epoch or transformative historical period, whereas 公元 specifically denotes the Common Era calendar.
+    2 | 公元 vs. 公历 | gōnglì | 公历 refers to the solar Gregorian calendar mechanism itself, while 公元 specifies year counting along that timeline.
+    3 | 公元 vs. 年代 | niándài | 年代 refers to decades or historic epochs (e.g., the 80s), whereas 公元 is the base coordinate benchmark.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 公元前260年，秦赵两国在长平爆发了震动天下的战略决战。这场战役彻底摧毁了赵国的军事主力，为秦国最终实现天下一统奠定了决定性基础，成为公元前中国古代史上的重要分水岭。 | Gōngyuánqián 260 nián, Qín Zhào liǎng guó zài Chángpíng bàofā le zhèndòng tiānxià de zhànlüè juézhàn. Zhè chǎng zhànyì chèdǐ cuīhuǐ le Zhàoguó de jūnshì zhǔlì, wèi Qínguó zuìzhōng shíxiàn tiānxià yītǒng diàndìng le juédìngxìng jīchǔ, chéngwéi gōngyuánqián Zhōngguó gǔdài shǐ shang de zhòngyào fēnshuǐlǐng. | In 260 BC, Qin and Zhao waged an earth-shattering strategic showdown at Changping. This battle destroyed Zhao's main military forces, laying the foundation for Qin's eventual unification of China as a watershed in ancient history. | En el 260 a.C., los reinos de Qin y Zhao libraron un duelo decisivo en Changping. La batalla quebrantó el ejército de Zhao y cimentó la unificación imperial de Qin, marcando un hito en la historia china antes de nuestra era.
+  #2 | 在古代漫长的历史长河中，世界各文明均沿用各自独立的朝代纪年法则。进入近现代后，以公元为基准的通用纪年体系逐渐普及全球，极大便利了不同国家开展跨国商贸、学术交流与历史文献对照。 | Zài gǔdài màncháng de lìshǐ chánghé zhōng, shìjiè gè wénmíng jūn yányòng gèzì dúlì de cháodài jìnián fǎzé. Jìnrù jìnxiàndài hòu, yǐ gōngyuán wéi jīzhǔn de tōngyòng jìnián tǐxì zhújiàn pǔjí quánqiú, jídà biànlì le bùtóng guójiā kāizhǎn kuàguó shāngmào, xuéshù jiāoliú yǔ lìshǐ wénxiàn duìzhào. | Throughout ancient times, world civilizations kept independent dynastic calendars. In modern times, the Common Era chronological framework spread globally, facilitating cross-border trade, scholarship, and historical comparison. | Durante siglos las distintas civilizaciones emplearon cómputos dinásticos independientes. En la era moderna, el cómputo de la era común se consolidó universalmente, favoreciendo el comercio exterior, la ciencia y el cotejo histórico.

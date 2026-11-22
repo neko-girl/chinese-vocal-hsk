@@ -1,0 +1,63 @@
+id: 18
+hanzi: 接待
+pinyin: jiē dài
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to receive; host; entertain (guests/visitors)
+  es: recibir; acoger; atender; hospedar (a huéspedes o visitantes)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to meet, receive, and accommodate guests, clients, or visiting delegations with hospitality | recibir, dar la bienvenida y atender con cortesía a invitados, clientes o delegaciones | 热情接待 (receive warmly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在老北京四合院中，正房正厅通常作为接待重要宾朋的客厅，以展现主人的热情与礼仪。 | Zài lǎo Běijīng sìhéyuàn zhōng, zhèngfáng zhèngtīng tōngcháng zuòwéi jiēdài zhòngyào bīnpéng de kètīng, yǐ zhǎnxiàn zhǔrén de rèqíng yǔ lǐyí. | In old Beijing courtyards, the central hall of the main building served as a parlor to receive important guests with warmth and etiquette. | En el siheyuan pekinés, la sala central del pabellón principal servía de salón para recibir a visitantes ilustres con calidez y cortesía.
+  #2 | 本届博览会的主办方设立了专业的多语种接待中心，全天候为各国展商提供周到细致的服务。 | Běnjiè bólǎnhuì de zhǔbànfāng shèlì le zhuānyè de duōyǔzhǒng jiēdài zhōngxīn, quántiānhòu wèi gèguó zhǎnshāng tígōng zhōudào xìzhì de fúwù. | The organizers of the expo established a professional multilingual reception center to provide attentive service to international exhibitors round the clock. | Los organizadores de la exposición inauguraron un centro de recepción multilingüe para brindar atención solícita a expositores internacionales.
+
+collocations[6]{hanzi,en}:
+  热情接待 | warm reception
+  接待客人 | receive guests / visitors
+  接待中心 | reception center
+  接待人员 | reception staff
+  接待标准 | protocol standard for reception
+  隆重接待 | grand ceremonial reception
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  彬彬有礼 | bīn bīn yǒu lǐ | refined and courteous in manners
+  客客气气 | kè kè qì qì | extremely polite and cordial
+  虚左以待 | xū zuǒ yǐ dài | leave the seat of honor vacant to welcome worthy guests
+  扫榻以待 | sǎo tà yǐ dài | sweep the couch clean to receive esteemed guests
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  接 | jiē | receive; connect; take over; meet | recibir; conectar; tomar el relevo; encontrarse | 扌 | hand | 扌 (hand reaching out) + 妾 (woman bowing in reception) | 妾 (qiè / phonetic association) | 11 | 左右结构 | Extending a welcoming hand 扌 forward to meet and connect with another person; to receive. | Reaching out open hands (扌) warmly to welcome a visitor across the threshold (接). | Extender las manos abiertas (扌) con afecto para recibir a un viajero en el umbral (接). | 55 | QYT | 接
+  待 | dài | treat; entertain; wait for; attend | tratar; acoger; aguardar; atender | 彳 | step / walk slowly | 彳 (step along walkway) + 寺 (monastery/court hall with hand hold) | 寺 (sì / phonetic root) | 9 | 左右结构 | Waiting along a ceremonial hall path 彳 to attend upon arriving guests 寺 with dignified hospitality. | Stepping out onto the porch (彳) to attend to and treat a waited guest with care (待). | Avanzar unos pasos por el porche (彳) para acoger y agasajar al huésped esperado (待). | 51 | HOGDI | 待
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Welcoming with open hands (接) and treating hospitably (待) equals receiving guests (接待).
+  composite_memory_hook_es: Dar la bienvenida con las manos (接) y agasajar con esmero (待) conforma el acto de acoger (接待).
+  cultural_and_cognitive_roots: Essential concept of traditional Chinese hospitality where hosts go out to the courtyard gate to receive visitors.
+  tone_sandhi_and_pitch_modulation: First tone to fourth tone: 'jiē dài' (55-51). High steady pitch on 'jiē', followed by a crisp downward drop on 'dài'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    按 | àn | press; according to | Safe radical 安 on the right instead of 妾
+    搂 | lǒu | hug; embrace | Lou radical 娄 on the right instead of 妾
+    持 | chí | hold; maintain | Hand radical 扌 on left instead of step 彳
+    侍 | shì | serve; attend upon | Person radical 亻 on left instead of 彳
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    接见 | jiējiàn | grant interview; receive officially
+    招待 | zhāodài | entertain; hospitality
+    迎接 | yíngjiē | greet; welcome
+    待遇 | dàiyù | treatment; compensation
+
+semantic_boundary_contrasts:
+  core_nuance: 接待 implies formal or courteous hospitality shown to visitors, clients, or travelers.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 接待 vs. 招待 | zhāodài | 招待 leans heavily toward serving food and drinks (banquets/feasts), while 接待 focuses on overall reception protocol.
+    2 | 接待 vs. 迎接 | yíngjiē | 迎接 is the physical action of going out to meet arriving guests, while 接待 encompasses the entire hosting process.
+    3 | 接待 vs. 怠慢 | dàimàn | 怠慢 is the direct antonym meaning to cold-shoulder or neglect visiting guests.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京四合院的建筑格局对接待客人有着极为明确的礼仪界限。普通访客通常在外院倒座房接待，而尊贵挚友才会被请入内院正房品茗叙旧。这种层次分明的接待规制，体现了中国古人内外有别的待客智慧。 | Lǎo Běijīng sìhéyuàn de jiànzhù géjú duì jiēdài kèrén yǒu zhe jíwéi míngquè de lǐyí jièxiàn. Pǔtōng fǎngkè tōngcháng zài wàiyuàn dàozuòfáng jiēdài, ér zūnguì zhìyǒu cái huì bèi qǐng rù nèiyuàn zhèngfáng pǐnmíng xùjiù. Zhè zhǒng céngcì fēnmíng de jiēdài guīzhì, tǐxiàn le Zhōngguó gǔrén nèiwài-yǒubié de dàikè zhìhuì. | The architectural layout of old Beijing quadrangles had clear etiquette boundaries for receiving guests. Ordinary visitors were received in outer gate rooms, while honored friends entered the inner courtyard parlor, showing refined hospitality codes. | La distribución del siheyuan pekinés establecía límites ceremoniales para recibir visitas. Los visitantes corrientes eran atendidos en el patio exterior, mientras los allegados pasaban al salón interior, reflejando códigos de cortesía.
+  #2 | 在现代涉外商务交流中，专业热情的接待往往能够为合作奠定坚实的信任基石。从机场迎接的真诚微笑，到会谈室中妥帖的茶水准备，每一个接待细节都在无声地传递着企业的文化素养。体贴入微的接待让远道而来的客户宾至如归。 | Zài xiàndài shèwài shāngwù jiāoliú zhōng, zhuānyè rèqíng de jiēdài wǎngwǎng nénggòu wèi hézuò diàndìng jiānshí de xìnrèn jīshí. Cóng jīchǎng yíngjiē de zhēnchéng wēixiào, dào huìtánshì zhōng tuǒtiē de cháshuǐ zhǔnbèi, měi yī gè jiēdài xìjié dōu zài wúshēng de chuándì zhe qǐyè de wénhuà sùyǎng. Tǐtiē-rùwēi de jiēdài ràng yuǎndào-érlái de kèhù bīnzhìrúguī. | In modern foreign business relations, professional and warm reception lays a solid foundation of trust. From welcoming smiles at the airport to thoughtful amenities in the conference room, hospitable details make visiting clients feel truly at home. | En las relaciones comerciales internacionales modernas, una acogida solícita sienta las bases de la confianza. Desde la sonrisa cordial en el aeropuerto hasta los pormenores en la sala de juntas, cada atención hace sentir al huésped en casa.

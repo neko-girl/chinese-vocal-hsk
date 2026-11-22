@@ -1,0 +1,63 @@
+id: 16
+hanzi: 绝对
+pinyin: jué duì
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: absolute; definitely; unconditionally; completely
+  es: absoluto; categórico; definitivamente; incondicional
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | unconditional, unrestricted, and without exception; completely and definitely | incondicional, sin excepción ni limitación; de modo categórico y definitivo | 绝对服从 (obey absolutely and unconditionally)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在纪律森严的军队中，部下必须绝对服从上级指挥官下达的作战命令，不得擅自违抗。 | Zài jìlǜ sēnyán de jūnduì zhōng, bùxià bìxū juéduì fúcóng shàngjí zhǐhuīguān xiàdá de zuòzhàn mìnglìng, bùdé shànzì wéikàng. | In a strictly disciplined army, subordinates must absolutely obey combat orders issued by commanding officers without defiance. | En un ejército de férrea disciplina, los subordinados deben acatar de forma absoluta las órdenes tácticas impartidas sin vacilar.
+  #2 | 这套精密航空发动机控制系统的安全性能经过了反复检验，具备极高的绝对可靠性。 | Zhè tào jīngmì hángkōng fādòngjī kòngzhì xìtǒng de ānquán xìngnéng jīngguò le fǎnfù jiǎnyàn, jùbèi jí gāo de juéduì kěkàoxìng. | The safety performance of this precision aero-engine control system was verified repeatedly, possessing exceptionally high absolute reliability. | El rendimiento de este sistema de control para turbinas aeronáuticas ha sido probado reiteradamente, gozando de una fiabilidad absoluta.
+
+collocations[6]{hanzi,en}:
+  绝对保证 | absolute guarantee
+  绝对安全 | absolutely safe / secure
+  绝对服从 | absolute obedience
+  绝对优势 | absolute advantage
+  绝对真理 | absolute truth
+  绝不可能 | absolutely impossible
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  斩钉截铁 | zhǎn dīng jié tiě | resolute and decisive; cutting nails and severing iron
+  万无一失 | wàn wú yī shī | absolutely sure without a single mistake
+  毋庸置疑 | wú yōng zhì yí | beyond doubt; unquestionable
+  一诺千金 | yī nuò qiān jīn | a promise worth a thousand pieces of gold; solemn vow
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  绝 | jué | cut off; sever; absolute; unique; supreme | cortar; romper; absoluto; único; extremo | 纟 | silk / thread | 纟 (silken thread) + 色/刀 (cutting blade severing threads completely) | 绝 (jué) | 9 | 左右结构 | A sharp knife cleanly severing silk threads 纟 without remaining connection; denotes absolute finality. | Severing silk cords (纟) completely in one decisive cut so nothing remains connected (绝). | Cortar cordones de seda (纟) de un tajo limpio de modo tajante y definitivo (绝). | 35 | VMNAU | 絕
+  对 | duì | correct; opposite; pair; towards | correcto; par; frente a; hacia | 寸 | inch / hand | 又 (hand) + 寸 (ruling hand / matching pair) | 对 (duì) | 5 | 左右结构 | Two hands holding ceremonial paired vessels facing each other; marks comparison or counterpart. | Hands presenting matching paired ceremonial objects face to face (对). | Manos que ofrecen dos vasijas emparejadas cara a cara (对). | 51 | EII | 對
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Severed from all comparisons (绝) and having no parallel counterpart (对) defines the absolute (绝对).
+  composite_memory_hook_es: Sin término de comparación (绝) ni pariente que lo iguale (对) se erige lo absoluto (绝对).
+  cultural_and_cognitive_roots: Philosophical concept originating in Buddhist and Daoist epistemology denoting unconditioned ultimate reality transcending dualities.
+  tone_sandhi_and_pitch_modulation: Second tone to fourth tone: 'jué duì' (35-51). Lift cleanly on 'jué', then drop decisively on 'duì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    断 | duàn | break; sever | Axe 斤 on right instead of 色
+    纪 | jì | discipline; age | Ji 己 on right of 纟 instead of 色
+    时 | shí | time | Sun 日 on left of 寸 instead of 又
+    封 | fēng | seal | Gui 圭 on left of 寸 instead of 又
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    决绝 | juéjué | resolute; breaking ties cleanly
+    绝望 | juéwàng | despair; hopeless
+    对比 | duìbǐ | compare; contrast
+    对方 | duìfāng | the other party; counterpart
+
+semantic_boundary_contrasts:
+  core_nuance: 绝对 marks unconditional certainty without caveats or comparative relativity.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 绝对 vs. 相对 | xiāngduì | 相对 is the direct antonym meaning relative, conditional, or comparative.
+    2 | 绝对 vs. 肯定 | kěndìng | 肯定 expresses personal psychological certainty, while 绝对 emphasizes categorical unconditionality.
+    3 | 绝对 vs. 大概 | dàgài | 大概 denotes approximate probability, completely opposite to non-negotiable 绝对.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 兵法强调“兵无常势，水无常形”。战场上从来没有绝对万全的必胜公式，任何战术都必须根据敌情动态灵活变通。赵括却把书本兵法奉为不可更改的绝对真理，僵化教条，最终在变幻莫测的决战中自取灭亡。 | Bīngfǎ qiángdiào 'bīng wú chángshì, shuǐ wú chángxíng'. Zhànchǎng shang cónglái méiyǒu juéduì wànquán de bìshèng gōngshì, rènhé zhànshù dōu bìxū gēnjù díqíng dòngtài línghuó biàntōng. Zhào Kuò què bǎ shūběn bīngfǎ fèng wéi bùkě gēnggǎi de juéduì zhēnlǐ, jiānghuà jiàotiáo, zuìzhōng zài biànhuàn-mòcè de juézhàn zhōng zìqǔ-mièwáng. | Strategy stresses that 'military posture has no constant form, like water.' Battlefields harbor no absolute victory formulas. Zhao Kuo treated written texts as immutable absolute truth, destroying himself through dogmatism. | El arte militar afirma que la guerra no tiene pautas fijas, como el fluir del agua. No existen fórmulas absolutas de victoria. Zhao Kuo tomó los libros como dogmas inmutables y halló su propia perdición.
+  #2 | 在现代科学哲学体系中，人类对客观世界的认知是一个不断深化的过程，并没有绝对静止的终极真理。任何伟大的科学定律都是在一定边界条件下的相对真理，勇于质疑既有理论，正是推动科学不断迈向新高度的核心动力。 | Zài xiàndài kēxué zhéxué tǐxì zhōng, rénlèi duì kèguān shìjiè de rènzhī shì yī gè bùduàn shēnhuà de guòchéng, bìng méiyǒu juéduì jìngzhǐ de zhōngjí zhēnlǐ. Rènhé wěidà de kēxué dìnglǜ dōu shì zài yīdìng biānjiè tiáojiàn xià de xiāngduì zhēnlǐ, yǒngyú zhìyí jìyǒu lǐlùn, zhèngshì tuīdòng kēxué bùduàn mài xiàng xīn gāodù de héxīn dònglì. | In modern scientific philosophy, human knowledge deepens continually without absolute terminal truths. Great laws are relative truths under boundary conditions; daring to challenge prevailing frameworks propels science forward. | En la filosofía científica contemporánea, el conocimiento es un proceso en constante profundización sin dogmas absolutos. Las leyes físicas rigen bajo condiciones acotadas; cuestionarlas es el motor del avance científico.

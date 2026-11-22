@@ -1,0 +1,64 @@
+id: 5
+hanzi: 项目
+pinyin: xiàng mù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: project; program; sports event; item
+  es: proyecto; programa; disciplina deportiva; rubro
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a planned endeavor undertaking a specific objective within defined scope and budget | empresa o trabajo planificado con objetivos, plazos y recursos específicos | 负责一个重大科研项目 (lead a major scientific research project)
+  2 | Noun | Standard | a specific category in sports competitions or itemized list | prueba o modalidad deportiva en competiciones | 奥运会田径比赛项目 (track and field events in the Olympics)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过两年的刻苦攻关，研发团队终于提前完成了这座现代化跨海大桥的总体设计项目。 | Jīngguò liǎng nián de kèkǔ gōngguān, yánfā tuánduì zhōngyú tíqián wánchéng le zhè zuò xiàndàihuà kuàhǎi dàqiáo de zǒngtǐ shèjì xiàngmù. | After two years of hard research, the R&D team finally completed the overarching design project for this modern sea-crossing bridge ahead of schedule. | Tras dos años de intensa labor, el equipo completó antes del plazo previsto el proyecto de diseño integral del moderno puente marítimo.
+  #2 | 篮球在十九世纪末作为一项全新的体育项目诞生，如今已成为全球参与人数最多的运动之一。 | Lánqiú zài shíjiǔ shìjì mò zuòwéi yī xiàng quánxīn de tǐyù xiàngmù dànshēng, rújīn yǐ chéngwéi quánqiú cānyù rénshù zuì duō de yùndòng zhī yī. | Basketball was born in the late 19th century as a brand-new sporting event, and has now become one of the most widely played sports in the world. | Nacido a finales del siglo XIX como una disciplina deportiva inédita, el baloncesto es hoy uno de los deportes más practicados del planeta.
+
+collocations[6]{hanzi,en}:
+  重大项目 | major project
+  体育项目 | sporting event / discipline
+  项目经理 | project manager
+  启动项目 | launch a project
+  投资项目 | investment project
+  项目进展 | project progress
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  立竿见影 | lì gān jiàn yǐng | set up pole and see shadow; yield instantaneous results
+  开宗明义 | kāi zōng míng yì | state the main purpose right at the beginning
+  各具特色 | gè jù tè sè | each having its own distinct characteristics
+  纲举目张 | gāng jǔ mù zhāng | lift main rope and mesh spreads; organize systematically
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  项 | xiàng | nape of neck; item; clause; sum | nuca; rubro; artículo; proyecto | 工 | work / craft | 工 (artisan work) + 页 (head/neck pictograph) | 工 (gōng / phonetic connection) | 9 | 左右结构 | Craft 工 beside head 页; originally the nape of the neck, extended metaphorically to individual bullet items on an official register. | A clerk bowing his neck (页) over artisan blueprints (工), recording every distinct project clause (项). | Un escriba inclinando la nuca (页) sobre los planos de obra (工), detallando cada rubro del proyecto (项). | 51 | MOMBO | 項
+  目 | mù | eye; item; catalog; index | ojo; índice; epígrafe; categoría | 目 | eye | pictograph of human eye and pupil | 目 (mù) | 5 | 单一结构 | Ancient pictograph of an eyeball and eyelids turned vertically; extended to lines of sight and catalog entries. | An observant eye (目) looking straight ahead, reviewing catalog items one by one. | Un ojo atento (目) mirando de frente, catalogando cada apartado en la lista. | 51 | BU | 目
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Items checked off under the supervisor's neck (项) and watchful eyes (目) form a completed project (项目).
+  composite_memory_hook_es: Los rubros revisados bajo la nuca (项) y la atenta mirada (目) constituyen un proyecto culminado (项目).
+  cultural_and_cognitive_roots: Derived from classical Chinese cataloging where '项' and '目' formed tabular ledger columns for bureaucratic supervision.
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'xiàng mù' (51-51). Deliver both syllables with crisp, distinct downward force.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    项 | xiàng | project; neck | Has 工 on left and 页 on right
+    顶 | dǐng | top; peak; withstand | Has 丁 on left instead of 工
+    目 | mù | eye; catalog | Vertical rectangle with two horizontal strokes inside
+    日 | rì | sun; day | Has only one horizontal stroke inside
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    案 | àn | case; record; plan
+    划 | huà | plan; divide
+    程 | chéng | journey; program
+    款 | kuǎn | clause; fund
+
+semantic_boundary_contrasts:
+  core_nuance: 项目 designates an organized undertaking or a specific event category in sports or enterprise.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 项目 vs. 计划 | jìhuà | 计划 refers to the forward-looking plan or schedule, whereas 项目 is the concrete endeavor encompassing funding, team, and deliverables.
+    2 | 项目 vs. 方案 | fāng'àn | 方案 is a proposed blueprint or problem-solving strategy, while 项目 is the overarching entity being implemented.
+    3 | 项目 vs. 任务 | rènwu | 任务 is a specific delegated assignment or task, whereas 项目 is broader and composed of hundreds of individual tasks.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 大型跨国工程项目的成败，往往取决于项目经理对风险控制与多团队协同沟通的掌控能力。在错综复杂的施工过程中，任何一个关键节点的延误都可能导致连锁反应，甚至给整体工期带来不可挽回的巨大经济损失。 | Dàxíng kuàguó gōngchéng xiàngmù de chéngbài, wǎngwǎng qǔjué yú xiàngmù jīnglǐ duì fēngxiǎn kòngzhì yǔ duō tuánduì xiétóng gōutōng de zhǎngkòng nénglì. Zài cuòzōng-fùzá de shīgōng guòchéng zhōng, rènhé yí ge guānjiàn jiédiǎn de yánwù dōu kěnéng dǎozhì liánsuǒ fǎnyìng, shènzhì gěi zhěngtǐ gōngqī dài lái bùkě wǎnhuí de jùdà jīngjì sǔnshī. | The success of mega multinational engineering projects hinges on project managers' grasp of risk control and cross-team communication. In intricate workflows, any delay in key milestones can trigger domino reactions and huge economic losses. | El éxito de grandes proyectos de ingeniería depende del control de riesgos y la coordinación de equipos. En obras complejas, el retraso en un hito clave desencadena efectos dominó que conllevan cuantiosas pérdidas económicas.
+  #2 | 篮球最初只是作为冬季避免学生受寒的室内辅助项目，谁料在短短数十年间，它便凭借极高的观赏性与竞技魅力迅速风靡五大洲。如今，它不仅是奥运会最引人瞩目的核心比赛项目，更催生了产值数十亿美元的全球体育产业链。 | Lánqiú zuìchū zhǐshì zuòwéi dōngjì bìmiǎn xuésheng shòuhán de shìnèi fǔzhù xiàngmù, shuí liào zài duǎnduǎn shùshí nián jiān, tā biàn píngjiè jí gāo de guānshǎngxìng yǔ jìngjì mèilì xùnsù fēngmí wǔ dàzhōu. Rújīn, tā bùjǐn shì Àoyùnhuì zuì yǐnrén zhǔmù de héxīn bǐsài xiàngmù, gèng cuīshēng le chǎnzhí shùshí yì měiyuán de quánqiú tǐyù chǎnyèliàn. | Basketball was originally an auxiliary indoor program to protect students from the winter chill. Yet within decades, its athletic allure captivated five continents. Today, it is not only an Olympic cornerstone but drives a multibillion-dollar global sports empire. | El baloncesto nació como una disciplina bajo techo contra el frío invernal. En pocas décadas, su espectacularidad conquistó el mundo. Hoy es una prueba olímpica cumbre que impulsa un sector comercial multimillonario.

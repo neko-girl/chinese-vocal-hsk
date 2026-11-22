@@ -1,0 +1,63 @@
+id: 24
+hanzi: 机器
+pinyin: jī qì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: machine; apparatus; mechanical device
+  es: máquina; aparato; ingenio mecánico
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task | conjunto de piezas acopladas que transforma energía para realizar un trabajo mecánico o productivo | 运转正常的生产机器 (smoothly operating production machines)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 全自动数控车间里的数十台精密机器高速运转，有条不紊地加工着微型芯片组件。 | Quán zìdòng shùkòng chējiān lǐ de shùshí tái jīngmì jīqì gāosù yùnzhuǎn, yǒutiáo-bùwěn de jiāgōng zhe wēixíng xīnpìan zǔjiàn. | Dozens of high-precision machines in the automated CNC workshop ran at high speed, processing miniature microchip components with meticulous order. | En la nave de mecanizado automatizado, decenas de máquinas de precisión giraban a gran velocidad procesando microcomponentes con orden perfecto.
+  #2 | 人类发明机器的初衷是为了把双手从繁重危险的体力劳动中解放出来，从而追求更有创造力的精神生活。 | Rénlèi fāmíng jīqì de chūzhōng shì wèile bǎ shuāngshǒu cóng fánzhòng wēixiǎn de tǐlì láodòng zhōng jiěfàng chūlái, cóng'ér zhuīqiú gèng yǒu chuàngzàolì de jīngshén shēnghuó. | Humanity's initial purpose in inventing machines was to liberate hands from grueling, hazardous physical toil, thus enabling more creative pursuits. | La humanidad inventó las máquinas para liberar sus manos del trabajo físico penoso y peligroso, abriendo cauce a una vida intelectual más fecunda.
+
+collocations[6]{hanzi,en}:
+  运转机器 | operate / run a machine
+  机器故障 | machine breakdown / malfunction
+  维修机器 | repair machinery
+  精密机器 | precision machine
+  机器人 | robot
+  机器制造 | machine manufacturing
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  神工鬼斧 | shén gōng guǐ fǔ | superhuman craft and divine axes; miraculous craftsmanship
+  脱胎换骨 | tuō tāi huàn gǔ | shed old body and bone; thorough transformation
+  一日千里 | yī rì qiān lǐ | advance a thousand miles a day; meteoric progress
+  生机勃勃 | shēng jī bó bó | full of vibrant vigor and surging vitality
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  机 | jī | machine; mechanism; opportunity | máquina; mecanismo; ocasión | 木 | tree / wood | 木 (wooden loom / frame) + 几 (small stool; phonetic) | 几 (jī / phonetic) | 6 | 左右结构 | Tree radical 木 beside 几; originally the wooden trigger mechanism of a crossbow or a weaving loom. | A wooden loom frame (木) resting by a small stool (几), forming a weaving mechanism (机). | El bastidor de madera de un telar (木) junto a un banquito (几), formando un mecanismo tejedor (机). | 55 | DHN | 機
+  器 | qì | vessel; utensil; organ; instrument | recipiente; utensilio; aparato | 口 | mouth | four 口 (four vessels/dishes) surrounding 犬 (watchdog) | 器 (qì) | 16 | 上中下结构 | Four mouth radicals 口 representing diverse vessels guarded by a dog 犬; broad category of utensils, gear, and manufactured devices. | Four valuable bronze vessels (口) guarded vigilantly by a faithful dog (犬) in the treasure hall (器). | Cuatro valiosas vasijas ceremoniales (口) guardadas con celo por un perro (犬) en la sala (器). | 51 | RROIK | 器
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Mechanical moving mechanisms (机) combined with manufactured instruments (器) constitute a machine (机器).
+  composite_memory_hook_es: Los mecanismos móviles (机) ensamblados en un aparato funcional (器) componen una máquina (机器).
+  cultural_and_cognitive_roots: Crossbow triggers (弩机) and silk weaving looms (织机) served as ancient China's prototypical automated machines.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling fourth tone: 'jī qì' (55-51). Hold 'jī' at a clear high register, then drop sharply on 'qì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    机 | jī | machine; engine | Wood radical 木 on left with 几
+    几 | jǐ/jī | how many; small table | Without the wood radical
+    器 | qì | utensil; machine | Has four 口 around 犬 in center
+    哭 | kū | weep; cry | Has only two 口 on top over 犬
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    械 | xiè | machinery; implement
+    具 | jù | tool; equipment
+    设 | shè | install; devise
+    备 | bèi | prepare; equipment
+
+semantic_boundary_contrasts:
+  core_nuance: 机器 denotes power-driven mechanisms with coordinated moving parts executing work.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 机器 vs. 工具 | gōngjù | 工具 denotes simple handheld manual implements (hammer, saw), while 机器 involves powered kinetic mechanisms.
+    2 | 机器 vs. 设备 | shèbèi | 设备 encompasses installations, factory plant rooms, and complete setups, whereas 机器 is a specific motorized apparatus.
+    3 | 机器 vs. 仪器 | yíqì | 仪器 is calibrated for analytical scientific testing and measurement, while 机器 performs mechanical power work.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 工业革命以蒸汽机器的应用为标志，重塑了社会生产形态。手工纺织被现代化工厂取代，轰鸣的机器不仅释放了生产力，更开启了波澜壮阔的城市化历史进程。 | Gōngyè gémìng yǐ zhēngqì jīqì de yìngyòng wéi biāozhì, chóngsù le shèhuì shēngchǎn xíngtài. Shǒugōng fǎngzhī bèi xiàndàihuà gōngchǎng qǔdài, hōngmíng de jīqì bùjǐn shìfàng le shēngchǎnlì, gèng kāiqǐ le bōlán-zhuàngkuò de chéngshìhuà lìshǐ jìnchéng. | The Industrial Revolution, marked by steam machines, reshaped production. Modern factories replaced manual mills; roaring machinery unchained productivity and launched rapid urbanization. | La Revolución Industrial, impulsada por la máquina de vapor, transformó la producción. Fábricas mecanizadas relevaron a telares; las máquinas desataron la productividad e impulsaron la urbanización.
+  #2 | 当年发明篮球时，学校没有任何现代化制造机器。面对每次投球后的繁琐取球障碍，人们没有耗费巨资研制复杂的取球机器，而是用一把普通锯子就轻而易举化解了难题。 | Dāngnián fāmíng lánqiú shí, xuéxiào méiyǒu rènhé xiàndàihuà zhìzào jīqì. Miànduì měicì tóu qiú hòu de fánsuǒ qǔ qiú zhàng'ài, rénmen méiyǒu hàofèi jùzī yánzhì fùzá de qǔ qiú jīqì, érshì yòng yì bǎ pǔtōng jùzi jiù qīng'éryǐjǔ huàjiě le nántí. | When basketball was invented, the school had no modern machinery. Faced with tedious ball extraction, rather than building complex automated machines, they solved it effortlessly with an ordinary saw. | Al crearse el baloncesto, la escuela no poseía maquinaria avanzada. Ante el tedio de recuperar balones, en vez de costosas máquinas automáticas, bastó una sencilla sierra para solventar el dilema.

@@ -1,0 +1,63 @@
+id: 26
+hanzi: 再三
+pinyin: zài sān
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: repeatedly; again and again; over and over
+  es: repetidamente; una y otra vez; reiteradamente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | doing something repeatedly, more than once or twice; over and over again with insistence | hacer algo de forma reiterada, más de una o dos veces; insistente y repetidamente | 再三考虑 (consider over and over again)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 名相蔺相如拖着重病之躯进宫，再三劝阻赵王切不可派纸上谈兵的赵括统领大军，但赵王执迷不悟。 | Míngxiàng Lìn Xiàngrú tuō zhe zhòngbìng zhī qū jìn gōng, zàisān quànzǔ Zhàowáng qiè bùkě pài zhǐshàng-tánbīng de Zhào Kuò tǒnglǐng dàjūn, dàn Zhàowáng zhímí-bùwù. | Prime Minister Lin Xiangru, despite heavy illness, entered court and repeatedly pleaded with King Zhao not to dispatch Zhao Kuo, but the king refused to listen. | El canciller Lin Xiangru, aun postrado por la enfermedad, acudió a palacio a disuadir una y otra vez al rey de nombrar a Zhao Kuo, mas fue en vano.
+  #2 | 在正式签署国际贸易合同之前，法务顾问对各项免责条款再三推敲，确保公司权益万无一失。 | Zài zhèngshì qiānshǔ guójì màoyì hétong zhīqián, fǎwù gùwèn duì gè xiàng miǎnzé tiáokuǎn zàisān tuīqiāo, quèbǎo gōngsī quányì wànwúyīshī. | Before formally signing the international trade contract, legal counsel weighed every disclaimer clause over and over to ensure the company's rights. | Antes de suscribir el contrato mercantil, los asesores jurídicos sopesaron reiteradamente cada cláusula de exención para salvaguardar la empresa.
+
+collocations[6]{hanzi,en}:
+  再三考虑 | consider over and over again
+  再三叮嘱 | exhort / urge repeatedly
+  再三推辞 | decline repeatedly
+  再三强调 | stress / emphasize again and again
+  再三挽留 | urge to stay over and over
+  再三申明 | reiterate repeatedly
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  三思而后行 | sān sī ér hòu xíng | think thrice before taking action; prudent deliberation
+  再三再四 | zài sān zài sì | repeatedly time and time again; over and over
+  语重心长 | yǔ zhòng xīn cháng | sincere words and earnest wishes; well-meaning exhortation
+  千叮万嘱 | qiān dīng wàn zhǔ | give repeated instructions and earnest exhortations
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  再 | zài | again; once more; re-; repeatedly | otra vez; de nuevo; reiterar; además | 冂 | down box / upside down | one horizontal bar 一 crossed by another 冉; signifies doing again | 再 (zài) | 6 | 单一结构 | Ancient ideograph showing a balance scale weighing once and then balancing a second time; signifies repetition. | Placing a second weight upon the balance scale to weigh once again (再). | Añadir una segunda pesa sobre el platillo para contrastar la tara otra vez (再). | 51 | GMB | 再
+  三 | sān | three; several; repeated | tres; múltiple; reiterado | 一 | one | three parallel horizontal tally strokes | 三 (sān) | 3 | 单一结构 | Three horizontal strokes representing heaven, earth, and mankind, frequently used idiomatically for multiple times. | Three horizontal tally bars (三) signifying repeated, multiple instances. | Tres líneas horizontales paralelas (三) que simbolizan la reiteración múltiple. | 55 | MMM | 三
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Doing something once again (再) and repeating it for three times (三) means repeatedly (再三).
+  composite_memory_hook_es: Hacer algo de nuevo (再) y multiplicarlo hasta tres veces (三) sintetiza la insistencia reiterada (再三).
+  cultural_and_cognitive_roots: In Chinese numerology, 'three' represents completeness and multiplicity; '再三' denotes exhaustive repetitive effort.
+  tone_sandhi_and_pitch_modulation: Fourth tone to first tone: 'zài sān' (51-55). Drop firmly on 'zài', transitioning into a sustained high pitch on 'sān'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    在 | zài | at; in; exist | Soil 土 on bottom instead of 冂 and horizontal bar
+    冉 | rǎn | tender; gradual | Lacks the top horizontal cap stroke 一
+    二 | èr | two | Two horizontal strokes instead of three
+    丰 | fēng | abundant | Vertical stroke piercing three horizontal lines
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    再次 | zàicì | once again; a second time
+    再见 | zàijiàn | goodbye; see you again
+    屡次 | lǚcì | repeatedly; time and again
+    频繁 | pínfán | frequent; constantly
+
+semantic_boundary_contrasts:
+  core_nuance: 再三 modifies deliberate actions (thinking, pleading, checking) performed multiple times with deep earnestness.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 再三 vs. 屡次 | lǚcì | 屡次 emphasizes objective high frequency of occurrences (e.g. repeated warnings/failures), while 再三 stresses subjective earnest insistence.
+    2 | 再三 vs. 偶尔 | ǒu'ěr | 偶尔 is the direct antonym meaning occasionally or once in a blue moon.
+    3 | 再三 vs. 频繁 | pínfán | 频繁 indicates short intervals between rapid repetitions, while 再三 emphasizes earnest gravity.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 长平之战换将关头，赵国重臣蔺相如在病榻上得知消息，心急如焚。他挣扎着入宫面圣，对赵王再三进言：“赵括徒能读其父书传，不知合变也。大王因其名而用之，危亡必矣！”可惜昏庸的赵王再三拒绝忠言，终成大祸。 | Chángpíng zhī zhàn huànjiàng guāntóu, Zhàoguó zhòngchén Lìn Xiàngrú zài bìngtā shang dézhī xiāoxi, xīnjí-rúfén. Tā zhēngzhá zhe rù gōng miàn shèng, duì Zhàowáng zàisān jìnyán: 'Zhào Kuò tú néng dú qí fù shūzhuàn, bùzhī hébiàn yě. Dàwáng yīn qí míng ér yòng zhī, wēiwáng bì yǐ!' Kěxī hūnyōng de Zhàowáng zàisān jùjué zhōngyán, zhōng chéng dàhuò. | At the threshold of Changping, Lin Xiangru learned of the replacement on his sickbed. Staggering to court, he repeatedly warned King Zhao: 'Zhao Kuo merely recites his father's books without knowing how to adapt. Disaster is certain!' The king rejected him. | Al tramarse el relevo en Changping, Lin Xiangru supo la nueva en su lecho de dolor. Acudió al trono suplicando una y otra vez: '¡Zhao Kuo solo repite libros sin saber adaptarse; nombrarlo es la ruina!' El rey desoyó sus advertencias.
+  #2 | 古人讲求“三思而后行”。在做出关乎人生转折或企业前途的重大抉择时，多花时间深入调研、再三权衡利弊得失，决不是优柔寡断，而是对未来高度负责的深谋远虑。慎始敬终、再三斟酌，才能行稳致远。 | Gǔrén jiǎngqiú 'sān sī ér hòu xíng'. Zài zuòchū guānhū rénshēng zhuǎnzhé huò qǐyè qiántú de zhòngdà juézé shí, duō huā shíjiān shēnrù diàoyán, zàisān quánhéng lìbì-déshī, jué bùshì yōuróu-guǎduàn, ér shì duì wèilái gāodù fùzé de shēnmóu-yuǎnlǜ. Shènshǐ-jìngzhōng, zàisān zhēnzhuó, cái néng xíngwěn-zhìyuǎn. | The ancients taught to 'think thrice before acting.' When making life-turning decisions, weighing pros and cons repeatedly is not indecisiveness, but responsible prudence for the future. Deliberating over and over ensures safe passage. | Los antiguos aconsejaron pensar tres veces antes de obrar. Ante encrucijadas vitales, sopesar los pros y contras una y otra vez no es indecisión, sino madura cautela; meditar con calma conduce al acierto.

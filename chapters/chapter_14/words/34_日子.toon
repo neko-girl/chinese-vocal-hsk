@@ -1,0 +1,63 @@
+id: 34
+hanzi: 日子
+pinyin: rì zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: days; date; livelihood; daily life
+  es: días; fecha; vida cotidiana; subsistencia
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the passage of days; a particular date; one's livelihood and domestic quality of life | el transcurso de las jornadas; fecha señalada; condición de subsistencia y vida diaria | 日子过得红火 (living a prosperous and thriving life)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京四合院里的居民们互相照应、和睦相处，把平平淡淡的寻常日子过得有滋有味。 | Lǎo Běijīng sìhéyuàn lǐ de jūmín men hùxiāng zhàoying, hémù xiāngchǔ, bǎ píngpíng-dàndàn de xúncháng rìzi guò de yǒuzī-yǒuwèi. | Residents in Beijing courtyards cared for each other in harmony, filling ordinary routine days with flavor and zest. | Los vecinos del siheyuan pekinés se ayudaban en armonía, llenando de sazón y alegría el transcurso de los días sencillos.
+  #2 | 转眼之间，大学毕业离校的日子即将来临，同学们依依不舍地合影留念。 | Zhuǎnyǎn zhījiān, dàxué bìyè líxiào de rìzi jíjiāng láilín, tóngxué men yīyī-bùshě de héyǐng liúniàn. | In the blink of an eye, the date for college graduation was drawing near, and classmates reluctantly posed for farewell photos. | En un abrir y cerrar de ojos, la fecha de graduación universitaria se aproximaba y los compañeros se fotografiaban con nostalgia.
+
+collocations[6]{hanzi,en}:
+  过日子 | live one's life / manage domestic life
+  好日子 | good life / happy days
+  日子过得充实 | living fulfilling days
+  苦日子 | hard times / days of hardship
+  特别的日子 | special date / memorable day
+  日子一天天过去 | days slipping by one by one
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  度日如年 | dù rì rú nián | a day dragged out like a year; enduring agony
+  良辰吉日 | liáng chén jí rì | propitious moment and auspicious date
+  旷日持久 | kuàng rì chí jiǔ | protracted and drawn out over many days
+  指日可待 | zhǐ rì kě dài | can be anticipated in the near future; just around the corner
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  日 | rì | sun; day; daily | sol; día; diario | 日 | sun / day | pictograph of sun with a dark central core | 日 (rì) | 4 | 单一结构 | Oracle bone pictograph of the round radiant sun marking diurnal cycles. | The shining sun (日) rising day after day to illuminate life. | El sol refulgente (日) que asciende cada mañana pautando el fluir vital. | 51 | A | 日
+  子 | zi | noun suffix; child; son | sufijo nominal; hijo; infante | 子 | child | pictograph of an infant swaddled with outstretched arms | 子 (zǐ) | 3 | 单一结构 | An infant baby waving arms; serves as a universal nominalizing suffix in everyday vernacular. | A cheerful baby extending welcoming hands (子). | Una criatura sonriente con los brazos en alto (子). | neutral | ND | 子
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Sun-marked days (日) combined with the nominal suffix (子) gives the common word for everyday life and dates (日子).
+  composite_memory_hook_es: La cuenta de los soles (日) unida al sufijo coloquial (子) conforma el transcurso de la vida y los días (日子).
+  cultural_and_cognitive_roots: Deeply emotional colloquial word encapsulating domestic struggle, frugal management ('过日子'), and festive celebrations.
+  tone_sandhi_and_pitch_modulation: Fourth tone to neutral tone: 'rì zi' (51-neutral). Articulate 'rì' with downward emphasis, letting 'zi' fall lightly.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    目 | mù | eye; item | Two inner horizontal bars instead of one
+    白 | bái | white; clear | Has an upper diagonal tick mark on top
+    月 | yuè | moon; month | Curved crescent strokes instead of square box
+    田 | tián | field | Crossed grid strokes inside 囗 frame
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    时光 | shíguāng | time; years; days
+    日月 | rìyuè | sun and moon; passage of time
+    生计 | shēngjì | livelihood; living
+    光阴 | guāngyīn | fleeting time; days
+
+semantic_boundary_contrasts:
+  core_nuance: 日子 functions colloquially for both a calendar date and one's qualitative domestic livelihood/lifestyle.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 日子 vs. 日期 | rìqī | 日期 is formal and strictly refers to a calendar date (year/month/day), while 日子 covers life and livelihood.
+    2 | 日子 vs. 生活 | shēnghuó | 生活 is formal and broad (career, culture, biology), while 过日子 specifically means managing domestic chores and household expenses.
+    3 | 日子 vs. 时间 | shíjiān | 时间 measures hours and chronological duration, whereas 日子 evokes lived domestic experience.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在老北京的四合院里，“过日子”是一门充满温情的艺术。春日扫落花，夏夜纳凉风，秋日摘红枣，冬日煨暖炉。邻里之间借一把葱、添一勺油，朴素的柴米油盐在互助相守中化作了红火踏实的好日子。 | Zài lǎo Běijīng de sìhéyuàn lǐ, 'guò rìzi' shì yī mén chōngmǎn wēnqíng de yìshù. Chūnrì sǎo luòhuā, xiàyè nà liángfēng, qiūrì zhāi hóngzǎo, dōngrì wēi nuǎnlú. Línlǐ zhījiān jiè yī bǎ cōng, tiān yī sháo yóu, pǔsù de chái-mǐ-yóu-yán zài hùzhù xiāngshǒu zhōng huà zuò le hónghuo tàshi de hǎo rìzi. | In old Beijing courtyards, 'living everyday life' was an art of human warmth. Sweeping spring petals, catching summer breezes, and sharing salt and oil between neighbors transformed simple domestic chores into thriving, tranquil happiness. | En el siheyuan pekinés, 'gobernar el hogar' era un arte entrañable. Barrer pétalos primaverales o compartir condimentos entre vecinos convertía las tareas domésticas en un discurrir apacible y dichoso.
+  #2 | 幸福的生活往往并不依赖奢华的物质享受，而在于我们以怎样的心态面对平凡的日子。在日复一日的简单作息中发现惊喜，懂得珍惜身边的家人与挚友，脚踏实地耕耘每一天，就能把看似平淡的日子过得丰盈而充实。 | Xìngfú de shēnghuó wǎngwǎng bù yīlài shēhuá de wùzhì xiǎngshòu, ér zàiyú wǒmen yǐ zěnyàng de xīntài miànduì píngfán de rìzi. Zài rì-fù-yī-rì de jiǎndān zuòxī zhōng fāxiàn jīngxǐ, dǒngdé zhēnxī shēnbiān de jiārén yǔ zhìyǒu, jiǎotà-shídì gēngyún měitiān, jiù néng bǎ kànsì píngdàn de rìzi guò de fēngyíng ér chōngshí. | Happiness rarely depends on lavish luxury, but on our attitude toward ordinary days. Finding surprises in simple routines, cherishing family, and cultivating each moment faithfully transforms plain days into fulfilling abundance. | La felicidad no estriba en el lujo suntuario, sino en encarar las jornadas sencillas con gratitud. Hallar asombro en lo cotidiano y atesorar a los seres queridos colma el transcurso de los días de plenitud y sentido.

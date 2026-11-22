@@ -1,0 +1,64 @@
+id: 37
+hanzi: 阻碍
+pinyin: zǔ 'ài
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to hinder; obstruct; impede; obstacle; barrier
+  es: obstaculizar; entorpecer; estorbar; traba; obstáculo
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to block, hinder, or make difficult the progress, movement, or development of something | dificultar o impedir el paso, avance o desarrollo de algo o alguien | 阻碍社会经济的健康发展 (hinder healthy socioeconomic development)
+  2 | Noun | Standard | a hindrance, obstacle, or impeding condition | cosa que entorpece o estorba la consecución de un fin | 扫清前行道路上的一切阻碍 (sweep away all obstacles on the path ahead)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 地方保护主义和各种隐形市场壁垒，严重阻碍了全国统一大市场的建立与生产要素的自由流动。 | Dìfāng bǎohù zhǔyì hé gèzhǒng yǐnxíng shìchǎng bìlěi, yánzhòng zǔ'ài le quánguó tǒngyī dà shìchǎng de jiànlì yǔ shēngchǎn yàosù de zìyóu liúdòng. | Local protectionism and invisible market barriers severely hinder the formation of a unified national market and the free flow of production factors. | El proteccionismo local y las trabas invisibles obstaculizan gravemente la articulación de un mercado nacional y la libre circulación productiva.
+  #2 | 坚强的探险家从未被大自然险恶的崇山峻岭所吓倒，所有的严寒险阻都化为了砥砺坚强意志的宝贵财富。 | Jiānqiáng de tànxiǎnjiā cóngwèi bèi zìrán xiǎn'è de chóngshān-jùnlǐng suǒ xiàdǎo, suǒyǒu de yánhán xiǎnzǔ dōu huàwéi le dǐlì jiānqiáng yìzhì de bǎoguì cáifù. | The intrepid explorer was never daunted by towering perilous peaks; every frost and hindrance became precious assets forging unbreakable resolve. | El intrépido explorador no se arredró ante los abruptos riscos; el frío y los obstáculos se convirtieron en temple para su inquebrantable voluntad.
+
+collocations[6]{hanzi,en}:
+  清除阻碍 | eliminate / remove obstacles
+  阻碍发展 | hinder development
+  造成阻碍 | create an obstacle / hindrance
+  重大阻碍 | major roadblock / obstacle
+  阻碍交通 | obstruct traffic
+  破除阻碍 | break through impediments
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  排除万难 | pái chú wàn nán | surmount all ten thousand difficulties; overcome all obstacles
+  披荆斩棘 | pī jīng zhǎn jí | hack through brambles and thistles; pioneer through hardships
+  艰难险阻 | jiān nán xiǎn zǔ | perilous obstacles and hardships along a journey
+  畅通无阻 | chàng tōng wú zǔ | completely unimpeded; open passage without obstacle
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  阻 | zǔ | hinder; block; steep mound | frenar; obstruir; loma empinada | 阝 | mound / hill | 阝 (steep mountain cliff) + 且 (sacrificial stand / altar) | 且 (qiě / phonetic association) | 7 | 左右结构 | Mound/hill radical 阝 beside 且; a sheer mountain terrace obstructing travellers' road, requiring arduous detours. | A steep hill cliff (阝) blocking the mountain pass (且), hindering travelers' advance (阻). | Un risco escarpado (阝) cerrando el paso del sendero (且), frenando a los caminantes (阻). | 214 | NLBM | 阻
+  碍 | ài | hinder; obstruct; impede | estorbar; entorpecer | 石 | stone / rock | 石 (heavy boulder) + 旦 (rising sun blocked) | 得 / 碍 (phonetic) | 13 | 左右结构 | Stone radical 石 beside 碍; a massive boulder blocking the roadway, impeding travel and sight lines. | A giant boulder (石) rolled into the middle of the road at dawn (旦), creating an obstacle (碍). | Una enorme roca (石) atravesada al despuntar el día (旦), estorbando el camino (碍). | 51 | MRAPM | 礙
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Steep mountain cliffs (阻) and giant fallen boulders (碍) combine to form a formidable hindrance (阻碍).
+  composite_memory_hook_es: Riscos empinados (阻) y peñascos caídos en la senda (碍) se conjugan en un gran obstáculo (阻碍).
+  cultural_and_cognitive_roots: Derived from classical geographic hazards (险阻) where cliffs and boulders tested perseverance and road-building ingenuity.
+  tone_sandhi_and_pitch_modulation: Dipping third tone followed by falling fourth tone: 'zǔ 'ài' (214-51). Dip low on 'zǔ', then drop decisively on 'ài'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    阻 | zǔ | block; hinder | Mound radical 阝 on left with 且
+    租 | zū | rent; lease | Grain radical 禾 on left of 且
+    碍 | ài | hinder; obstacle | Stone radical 石 on left
+    得 | dé | obtain; get | Step radical 彳 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    障 | zhàng | screen; barrier
+    塞 | sè | cork; choke; obstruct
+    拦 | lán | block; intercept
+    抑 | yì | restrain; suppress
+
+semantic_boundary_contrasts:
+  core_nuance: 阻碍 can be either a verb meaning to impede progress or a noun denoting the obstacle itself.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 阻碍 vs. 妨碍 | fáng'ài | 妨碍 specifically means causing momentary inconvenience or annoyance to others (妨碍别人休息), while 阻碍 implies major systemic blockages to progress.
+    2 | 阻碍 vs. 阻止 | zǔzhǐ | 阻止 means stopping someone from carrying out an action entirely (阻止他犯错), while 阻碍 slows or impairs progress without necessarily halting it.
+    3 | 阻碍 vs. 挫折 | cuòzhé | 挫折 refers to emotional setbacks or defeats experienced after failure, whereas 阻碍 is the external hurdle.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 改革开放四十多年来的恢弘历程昭示我们，任何社会制度的发展都不可能一帆风顺。唯有敢于直面利益固化的藩篱，敢于破除阻碍创新活力的体制机制障碍，国家才能在风云变幻的国际竞争中勇立潮头、行稳致远。 | Gǎigé-kāifàng sìshí duō nián lái de huīhóng lìchéng zhāoshì wǒmen, rènhé shèhuì zhìdù de fāzhǎn dōu bùkěnéng yīfān-fēngshùn. Wéiyǒu gǎnyú zhímiàn lìyì gùhuà de fānlí, gǎnyú pòchú zǔ'ài chuàngxīn huólì de tǐzhì jīzhì zhàng'ài, guójiā cái néng zài fēngyún-biànhuàn de guójì jìngzhēng zhōng yǒnglì-cháotóu, xíngwěn-zhìyuǎn. | Decades of reform reveal that no social development enjoys smooth sailing. Only by confronting entrenchment and dismantling institutional roadblocks hindering innovation can a nation ride cresting waves and advance steadily. | Décadas de reforma demuestran que ningún progreso es coser y cantar. Sólo afrontando los intereses creados y derribando las trabas burocráticas que frenan la innovación, podrá una nación liderar el porvenir con paso firme.
+  #2 | 在人生的漫长赛道上，真正阻碍我们前进步伐的，往往不是外界环境的严苛艰难，而是我们头脑中固步自封的‘思维筐底’。学会用一把锋利的智慧之锯果断锯掉心理上的筐底与局限，所有的阻碍都将化为通向成功的崭新坦途。 | Zài rénshēng de màncháng sàidào shang, zhēnzhèng zǔ'ài wǒmen qiánjìn bùfá de, wǎngwǎng búshì wàijiè huánjìng de yánkē jiānnán, érshì wǒmen tóunǎo zhōng gùbù-zìfēng de 'sīwéi kuāngdǐ'. Xuéhuì yòng yì bǎ fēnglì de zhìhuì zhī jù guǒduàn jù diào xīnlǐ shang de kuāngdǐ yǔ júxiàn, suǒyǒu de zǔ'ài dōu jiāng huàwéi tōngxiàng chénggōng de zhǎnxīn tǎntú. | On life's long track, what truly hinders our stride is seldom external harshness, but the rigid mental bottoms of our own assumptions. Learn to saw away psychological limitations with wisdom's blade, and every obstacle will transform into an open avenue to triumph. | En la carrera de la vida, lo que de verdad frena el paso no son los rigores del entorno, sino los fondos ciegos de nuestra mente. Aprender a serrar con sabiduría esos límites psicológicos transformará cualquier tropiezo en una senda despejada hacia el éxito.

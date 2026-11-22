@@ -1,0 +1,63 @@
+id: 25
+hanzi: 顺畅
+pinyin: shùn chàng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: smooth; unhindered; fluent; unimpeded
+  es: fluido; despejado; expedito; sin trabas
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | flowing smoothly and continuously without obstruction or friction | que fluye con facilidad y continuidad sin tropiezos, trabas ni interrupciones | 道路交通十分顺畅 (road traffic is completely unimpeded and smooth)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过城市交管部门对早高峰路段的科学分流与信号灯智能优化，主干道交通变得非常顺畅。 | Jīngguò chéngshì jiāoguǎn bùmén duì zǎogāofēng lùduàn de kēxué fēnliú yǔ xìnhàodēng zhìnéng yōuhuà, zhǔgàndào jiāotōng biàn de fēicháng shùnchàng. | Through traffic authorities' diversion planning and intelligent light tuning during the morning rush hour, main thoroughfare traffic became exceedingly smooth. | Tras el desvío coordinado del tráfico y la sincronización semafórica en la hora punta, la circulación en la avenida principal discurrió con total fluidez.
+  #2 | 只有建立高效顺畅的跨部门沟通机制，企业才能在瞬息万变的市场竞争中快速响应客户需求。 | Zhǐyǒu jiànlì gāoxiào shùnchàng de kuà-bùmén gōutōng jīzhì, qǐyè cái néng zài shùnxī-wànbiàn de shìchǎng jìngzhēng zhōng kuàisù xiǎngyìng kèhù xūqiú. | Only by establishing an efficient and unhindered cross-departmental communication channel can an enterprise rapidly respond to clients amid volatile market competition. | Sólo forjando una comunicación interdepartamental ágil y fluida podrá la corporación responder con celeridad a las demandas del cambiante mercado.
+
+collocations[6]{hanzi,en}:
+  交通顺畅 | smooth, unhindered traffic
+  呼吸顺畅 | unobstructed, smooth breathing
+  沟通顺畅 | unimpeded communication
+  流程顺畅 | smooth workflow
+  表达顺畅 | fluent, smooth expression
+  心情顺畅 | cheerful, buoyant mood
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  畅通无阻 | chàng tōng wú zǔ | unimpeded and clear; completely unblocked
+  一帆风顺 | yī fān fēng shùn | smooth sailing all the way; plain sailing
+  通达明辨 | tōng dá míng biàn | perceptive and articulate; clear-minded
+  水到渠成 | shuǐ dào qú chéng | when water arrives the canal forms; natural spontaneous success
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  顺 | shùn | along with; obedient; smooth | seguir; propicio; favorable | 川 | river | 川 (smooth flowing river current) + 页 (head/face) | 川 (chuān / phonetic association) | 9 | 左右结构 | Flowing river streams 川 beside head 页; tilting the head to align with natural river currents, symbolizing going with the flow. | Turning one's head (页) to drift along the smooth river current (川) without fighting upstream (顺). | Alinear la mirada (页) a favor de la corriente del río (川) dejándose llevar con fluidez (顺). | 51 | LLMBO | 順
+  畅 | chàng | smooth; unimpeded; free; joyful | expedito; desahogado; contento | 申 | extend | 申 (stretch / extend freely) + 𠮛 (sunshine / vital energy) | 𠮛 (yáng / bright expansion) | 8 | 左右结构 | Expanding 申 under open sky; an unhindered opening through which life energy, fluids, or thoughts flow completely free. | Life energy extending outward (申) under the sun without meeting any roadblocks (畅). | La energía vital expandiéndose (申) libremente a cielo abierto sin ningún obstáculo (畅). | 51 | LNSH | 暢
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Following smooth river currents (顺) to unhindered outward expansion (畅) describes an unblocked flow (顺畅).
+  composite_memory_hook_es: Navegar con la corriente favorable (顺) hacia una expansión libre de trabas (畅) es discurrir con fluidez (顺畅).
+  cultural_and_cognitive_roots: Derived from Daoist natural river metaphors where non-resistance (顺水推舟) yields maximum unobstructed grace.
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'shùn chàng' (51-51). Deliver both syllables with clear downward momentum and confidence.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    顺 | shùn | smooth; along | River 川 on left with 页 on right
+    须 | xū | must; beard | Has 彡 (three strokes) on left with 页
+    畅 | chàng | fluent; unimpeded | Has 申 on left with 𠮛 on right
+    扬 | yáng | raise; scatter | Hand radical 扌 on left of 𠮛
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    通 | tōng | pass through; clear
+    流 | liú | flow; drift
+    利 | lì | sharp; advantageous
+    滑 | huá | slippery; smooth
+
+semantic_boundary_contrasts:
+  core_nuance: 顺畅 emphasizes the unimpeded, friction-free movement of fluids, traffic, air, or processes.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 顺畅 vs. 流畅 | liúchàng | 流畅 focuses on graceful stylistic elegance in speech, prose, or dance (文笔流畅), while 顺畅 focuses on lack of physical blockages (交通顺畅, 呼吸顺畅).
+    2 | 顺畅 vs. 顺利 | shùnlì | 顺利 denotes the favorable outcome of undertakings without mishap (工作顺利), whereas 顺畅 depicts kinetic passage.
+    3 | 顺畅 vs. 舒畅 | shūchàng | 舒畅 exclusively describes internal subjective emotional ease and relief (心情舒畅), not physical traffic.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 晨雾散去后的滨海大道上，微咸的海风拂面而来。极目远眺，宽阔整洁的八车道路面上车流平稳有序、行进顺畅，两侧葱茏挺拔的椰子树在阳光下舒展枝叶，勾勒出一幅舒缓惬意的现代海滨都市生态画卷。 | Chénwù sànqù hòu de bīnhǎi dàdào shang, wēixián de hǎifēng fúmiàn ér lái. Jímù yuǎntiào, kuānkuò zhěngjié de bā chēdào lùmiàn shang chēliú píngwěn yǒuxù, xíngjìn shùnchàng, liǎngcè cōnglóng tǐngbá de yēzǐshù zài yángguāng xià shūzhǎn zhīyè, gōulè chū yì fú shūhuǎn qièyì de xiàndài hǎibīn dūshì shēngtài huàjuàn. | On the coastal boulevard after morning mists lifted, salty sea breezes caressed travelers. Eight lanes of traffic moved with smooth order while verdant coconut palms stretched in the sun, forming a restful coastal city panorama. | Disipada la niebla matinal en el paseo marítimo, la brisa marina rozaba el rostro. En la ancha calzada de ocho carriles, el tráfico fluía con suave compás mientras los cocoteros mecían sus palmas bajo el sol.
+  #2 | 当年篮球比赛之所以常常被球迷抱怨节奏拖沓，根源就在于缺乏顺畅的进球反馈机制。每次投篮得分都意味着一次人为的强制暂停，直到有人把竹筐底锯掉后，篮球才能在穿筐而过的刹那直接坠落回地面，比赛流程自此变得无比顺畅欢快。 | Dāngnián lánqiú bǐsài zhī suǒyǐ chángcháng bèi qiúmí bàoyuàn jiézòu tuōtà, gēnyuán jiù zàiyú quēfá shùnchàng de jìnqiú fǎnhuì jīzhì. Měicì tóulán défēn dōu yìwèizhe yí cì rénwéi de qiángzhì zàntíng, zhídào yǒurén bǎ zhúkuāng dǐ jù diào hòu, lánqiú cái néng zài chuān kuāng ér guò de chànà zhíjiē zhuìluò huí dìmbiàn, bǐsài liúchéng zìcǐ biàn de wúbǐ shùnchàng huānkuài. | Fans complained early basketball was sluggish because it lacked an unimpeded scoring cycle. Every basket forced a manual pause. Only when someone sawed open the bottom could the ball plunge directly to the court, transforming the entire game into an exhilarating, flowing delight. | Los hinchas criticaban la lentitud del baloncesto pionero por carecer de un ciclo fluido tras el enceste. Cada punto obligaba a parar el juego. Al serrar el fondo de la cesta, el balón cayó libremente al suelo, tornando el deporte en una fiesta ágil y continua.

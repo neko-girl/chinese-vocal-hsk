@@ -1,0 +1,64 @@
+id: 8
+hanzi: 启发
+pinyin: qǐ fā
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to enlighten; to inspire; inspiration
+  es: inspirar; iluminar; suscitar; inspiración
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to stimulate someone to think and discover truth or creative solutions on their own | estimular la reflexión en alguien para que descubra soluciones o ideas por sí mismo | 受到大自然奇妙现象的启发 (inspired by wondrous natural phenomena)
+  2 | Noun | Standard | insight or creative spark obtained from an observation or event | chispa de comprensión o idea súbita provocada por un suceso | 这番话给了我很大启发 (these remarks gave me great inspiration)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在课堂讨论中，老师没有直接给出标准答案，而是通过层层设问来启发学生独立思考。 | Zài kètáng tǎolùn zhōng, lǎoshī méiyǒu zhíjiē gěi chū biāozhǔn dá'àn, érshì tōngguò céngcéng shèwèn lái qǐfā xuésheng dúlì sīkǎo. | During class discussions, the teacher never handed out standard answers, instead asking probing questions to inspire students to think independently. | Durante el debate en clase, el profesor no dio respuestas hechas, sino que formuló preguntas para estimular el criterio independiente de los alumnos.
+  #2 | 仿生科学家从荷叶不沾泥水的自洁原理中受到启发，成功研发出了革命性的防水防油纳米涂层。 | Fǎngshēng kēxuéjiā cóng héyè bù zhān níshuǐ de zìjié yuánlǐ zhōng shòudào qǐfā, chénggōng yánfā chū le gémìngxìng de fángshuǐ fángyóu nàmǐ túcéng. | Biomimetic scientists drew inspiration from the lotus leaf's self-cleaning property, developing revolutionary waterproof and oleophobic nano-coatings. | Científicos biomiméticos se inspiraron en la flor de loto para crear un revolucionario nanorrevestimiento impermeable y repelente de aceites.
+
+collocations[6]{hanzi,en}:
+  深受启发 | deeply inspired
+  启发式教学 | heuristic / elicitation teaching
+  受到启发 | receive inspiration
+  启发思维 | stimulate thinking
+  给予启发 | provide inspiration
+  灵感启发 | spark of inspiration
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  举一反三 | jǔ yī fǎn sān | infer three things from one fact; learn by analogy
+  触类旁通 | chù lèi páng tōng | comprehend an entire category by understanding one instance
+  恍然大悟 | huǎng rán dà wù | suddenly see the light; sudden dawn of comprehension
+  茅塞顿开 | máo sè dùn kāi | thickets of doubt suddenly cleared; suddenly enlightened
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  启 | qǐ | open; enlighten; initiate | abrir; alumbrar; iniciar | 户 | single door | 户 (single door leaflet) + 口 (mouth speaking) | 启 (qǐ) | 7 | 半包围结构 | Single leaf door 户 over mouth 口; opening the door and speaking words of wisdom to illuminate the uninitiated. | Unlocking a closed doorway (户) with enlightening words (口) to awaken the mind (启). | Abrir una puerta trancada (户) mediante palabras elocuentes (口) para despejar la mente (启). | 214 | ISR | 啟
+  发 | fā | send out; expand; develop | lanzar; manifestar; florecer | 又 | right hand | pictograph of releasing an arrow from a drawn bow | 发 (fā) | 5 | 单一结构 | A drawn bow releasing an arrow; metaphorically emitting, manifesting, and spurring forward development. | Releasing an arrow from a drawn bow, sparking rapid outward flight and expansion (发). | Soltar una flecha tensada en el arco que vuela rauda hacia el blanco manifestándose (发). | 55 | IVE | 發
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Unlocking the mental doorway (启) lets creative insight burst forth like a flying arrow (发) to inspire (启发).
+  composite_memory_hook_es: Abrir la puerta de la mente (启) permite que la inspiración brote como una flecha en vuelo (发) para iluminar (启发).
+  cultural_and_cognitive_roots: Derived from Confucius in the Analects: '不愤不启，不悱不发' (I do not enlighten someone who is not eager to know).
+  tone_sandhi_and_pitch_modulation: Dipping third tone followed by high level tone: 'qǐ fā' (214-55). Dip down deeply on 'qǐ' before ascending to a sustained high 'fā'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    启 | qǐ | open; enlighten | Single door 户 on top over 口
+    扇 | shān | fan; flap wings | Has 羽 (feathers) inside 户
+    房 | fáng | room; house | Has 方 inside 户
+    发 | fā | emit; hair | 5 strokes with upper crossing slant
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    迪 | dí | enlighten; guide
+    示 | shì | show; reveal
+    诱 | yòu | induce; entice
+    导 | dǎo | lead; instruct
+
+semantic_boundary_contrasts:
+  core_nuance: 启发 centers on unlocking latent human understanding by giving subtle hints rather than spoon-feeding.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 启发 vs. 启示 | qǐshì | 启发 is primarily a verb or internal cognitive spark, while 启示 is usually a noun denoting profound religious or philosophical revelation.
+    2 | 启发 vs. 鼓励 | gǔlì | 鼓励 focuses on boosting morale, emotional courage, and motivation, whereas 启发 triggers intellectual problem-solving.
+    3 | 启发 vs. 指导 | zhǐdǎo | 指导 provides explicit directions and step-by-step instructions, whereas 启发 gently steers one to discover answers independently.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 孔子曾说‘不愤不启，不悱不发’，强调教育应当注重时机与意愿。真正优秀的导师从不生硬灌输现成结论，而是善于捕捉求知者心智困顿的节点适度点拨，从而启发他们自己去勘破迷局、领悟人生真谛。 | Kǒngzǐ céng shuō 'bú fèn bù qǐ, bú fěi bù fā', qiángdiào jiàoyù yīngdāng zhùzhòng shíjī yǔ yìyuàn. Zhēnzhèng yōuxiù de dǎoshī cóngbù shēngyìng guànshū xiànchéng jiélùn, érshì shànyú bǔzhuō qiúzhīzhě xīnjié kùndùn de jiédiǎn shìdù diǎnbō, cóng'ér qǐfā tāmen zìjǐ qù kānpò míjú, lǐngwù rénshēng zhēndì. | Confucius famously asserted that teaching requires receptivity. Great mentors never force-feed conclusions; they identify moments of doubt to drop subtle hints, inspiring seekers to unravel perplexities and grasp life's truths. | Confucio sostenía que la enseñanza requiere receptividad. Un buen mentor jamás impone conclusiones; detecta las dudas del aprendiz y aporta pistas sutiles, incitándole a disipar enigmas y asimilar la verdad.
+  #2 | 面对工人们每次投篮后不得不反复搬梯子取球的繁琐困扰，一个在场边玩耍的小男孩好奇地问：‘为什么不把筐底直接剪开呢？’这句看似天真无邪的童言，却如同当头棒喝瞬间启发了在场的大人，彻底打破了思维的桎梏。 | Miànduì gōngrénmen měicì tóulán hòu bùdébù fǎnfù bān tīzi qǔ qiú de fánsuǒ kùnrǎo, yí ge zài chǎngbiān wánshuǎ de xiǎo nánhái hàoqí de wèn: 'Wèishénme bù bǎ kuāngdǐ zhíjiē jiǎn kāi ne?' Zhè jù kànsì tiānzhēn-wúxié de tóngyán, què rútóng dāngtóu-bànghè shùnjiān qǐfā le zàichǎng de dàren, chèdǐ dǎpò le sīwéi de zhìgù. | Faced with the nuisance of fetching ladders after every scored basket, a boy playing courtside innocently asked: 'Why not just cut open the basket bottom?' This naive remark struck the adults like a lightning bolt, inspiring them to shatter rigid mindsets. | Ante el tedio de subir a una escalera tras cada canasta, un niño preguntó: '¿Por qué no recortan el fondo?' Aquella ingenua observación iluminó a los adultos, quebrando de golpe sus prejuicios mentales.

@@ -1,0 +1,63 @@
+id: 18
+hanzi: 挑战
+pinyin: tiǎo zhàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to challenge; defy; challenge (noun)
+  es: desafiar; retar; reto; desafío
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to invite an opponent to a contest, fight, or duel; to confront difficult trials or obstacles | desafiar o retar a un oponente al combate o competición; afrontar dificultades exigentes | 迎接严峻挑战 (face grim challenges)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 秦军为了诱使赵括脱离坚固阵地，多次派出小股先锋部队到赵军营垒前叫阵挑战、大声辱骂。 | Qínjūn wèile yòushǐ Zhào Kuò tuōlí jiāngù zhèndì, duō cì pài chū xiǎo gǔ xiānfēng bùduì dào Zhàojūn yínglěi qián jiàozhèn tiǎozhàn, dàshēng rǔmà. | To lure Zhao Kuo away from fortified positions, Qin repeatedly sent vanguard units to challenge and taunt before Zhao camps. | Para tentar a Zhao Kuo a abandonar sus baluartes, Qin envió destacamentos a proferir retos e insultos ante el campamento enemigo.
+  #2 | 青年科研工作者应当敢于挑战学术权威，勇于在未知的科技无人区探索创新路径。 | Qīngnián kēyán gōngzuòzhě yīngdāng gǎnyú tiǎozhàn xuéshù quánwēi, yǒngyú zài wèizhī de kējì wúrénqū tànsuǒ chuàngxīn lùjìng. | Young researchers should dare to challenge academic dogmas and boldly explore innovative paths in uncharted scientific frontiers. | Los jóvenes científicos deben atreverse a desafiar dogmas consagrados y explorar sendas inéditas en la vanguardia del saber.
+
+collocations[6]{hanzi,en}:
+  迎接挑战 | meet / embrace challenges
+  面临挑战 | face / confront challenges
+  发起挑战 | launch a challenge
+  巨大的挑战 | formidable / massive challenge
+  挑战极限 | challenge the limits
+  挑战权威 | challenge authority
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  明知山有虎，偏向虎山行 | míng zhī shān yǒu hǔ, piān xiàng hǔ shān xíng | go forward deliberately into danger despite knowing hazards
+  乘风破浪 | chéng fēng pò làng | brave the wind and waves; forge ahead through adversity
+  挺身而出 | tǐng shēn ér chū | step forward bravely to meet the challenge
+  越战越勇 | yuè zhàn yuè yǒng | grow braver and more resolute with each battle
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  挑 | tiǎo | provoke; incite; prick; lift up | provocar; incitar; alzar con la punta; azuzar | 扌 | hand | 扌 (hand action) + 兆 (signs / portents / crackles) | 兆 (zhào / tiāo) | 9 | 左右结构 | Using a hand 扌 or spear tip to prick and stir up 兆 reactions; signifies inciting combat. | Using a weapon tip with hands (扌) to prod and provoke an opponent into a duel (挑). | Usar la punta de la lanza con las manos (扌) para azuzar al contrincante al duelo (挑). | 214 | QLMO | 挑
+  战 | zhàn | war; battle; combat; fight | guerra; batalla; combate; luchar | 戈 | dagger-axe / halberd | 占 (territory claimed by divination) + 戈 (striking halberd) | 占 (zhàn) | 9 | 左右结构 | Wielding bronze halberds 戈 in battle to contest territory 占; signifies combat. | Wielding battle weapons (戈) to contest war prizes in combat (战). | Empuñar las armas de bronce (戈) en el fragor de la contienda armada (战). | 51 | YRI | 戰
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Prodding an adversary with hands (挑) to enter armed combat (战) constitutes a challenge (挑战).
+  composite_memory_hook_es: Provocar al contrincante (挑) para batirse en combate armado (战) conforma un desafío (挑战).
+  cultural_and_cognitive_roots: Originates from ancient chivalric dueling where heralds cast down gauntlets before battle lines ('叫战').
+  tone_sandhi_and_pitch_modulation: Third tone to fourth tone: 'tiǎo zhàn' (214-51). Dip low on 'tiǎo', dropping sharply on 'zhàn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    桃 | táo | peach | Wood radical 木 on left instead of 扌
+    跳 | tiào | jump | Foot radical 足 on left instead of 扌
+    站 | zhàn | stand; station | Stand 立 on left instead of 戈 on right
+    贴 | tiē | stick; paste | Shell 贝 on left of 占
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    挑衅 | tiǎoxìn | provoke; incite defiance
+    挑选 | tiāoxuǎn | choose; pick (first tone tiāo)
+    战胜 | zhànshèng | vanquish; overcome
+    应战 | yìngzhàn | accept a battle challenge
+
+semantic_boundary_contrasts:
+  core_nuance: 挑战 involves initiating combat or confronting daunting obstacles requiring grit and skill.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 挑战 vs. 迎战 | yíngzhàn | 挑战 is issuing the challenge, while 迎战 is accepting and facing the challenge incoming.
+    2 | 挑战 vs. 挑衅 | tiǎoxìn | 挑衅 carries malicious, bullying provocation, whereas 挑战 is often noble, athletic, or ambitious.
+    3 | 挑战 vs. 退缩 | tuìsuō | 退缩 is the direct antonym meaning to cower back from difficulties.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 长平前线，秦军将领深知赵括年少气盛、急于求成的性格弱点，每日派出小队骑兵到赵军壁垒前叫骂挑战。廉颇在位时对挑衅置之不理，而赵括一上任便按捺不住怒火，不顾地形险峻仓促应战，正中秦军诡计。 | Chángpíng qiánxiàn, Qínjūn jiànglǐng shēnzhī Zhào Kuò niánshào-qìshèng, jíyú-qiúchéng de xìnggé ruòdiǎn, měirì pài chū xiǎoduì qíbīng dào Zhàojūn bìlěi qián jiàomà tiǎozhàn. Lián Pō zàiwèi shí duì tiǎoxìn zhìzhī-bùlǐ, ér Zhào Kuò yī shàngrèn biàn ànnà-bùzhù nùhuǒ, bùgù dìxíng xiǎnjùn cāngcù yìngzhàn, zhèngzhòng Qínjūn guǐjì. | At Changping, Qin commanders knew Zhao Kuo's youthful impatience and sent daily riders to taunt and challenge him. Lian Po ignored them, but Zhao Kuo could not contain his fury, rushing into battle and falling into the ambush. | En Changping, los mandos de Qin sabían de la impetuosa soberbia de Zhao Kuo y enviaron jinetes a insultarlo a las puertas. Lian Po los ignoraba; Zhao Kuo, enfurecido, salió a combatir cayendo en la celada.
+  #2 | 人生就是一场不断战胜未知与迎接挑战的壮丽旅程。无论前方的道路多么坎坷漫长，敢于直面挑战、把艰难险阻视作磨砺意志的宝贵财富，我们才能在一次次风浪考验中强健筋骨，最终实现人生的崇高飞跃。 | Rénshēng jiùshì yī chǎng bùduàn zhànshèng wèizhī yǔ yíngjiē tiǎozhàn de zhuànglì lǚchéng. Wúlùn qiánfāng de dàolù duōme kǎnkě màncháng, gǎnyú zhímiàn tiǎozhàn, bǎ jiānnán-xiǎnzǔ shìzuò mólì yìzhì de bǎoguì cáifù, wǒmen cái néng zài yī cì cì fēnglàng kǎoyàn zhōng qiángjiàn jīngǔ, zuìzhōng shíxiàn rénshēng de chónggāo fēiyuè. | Life is a journey of overcoming the unknown and embracing challenges. No matter how rugged the road ahead, facing trials bravely and treating adversity as a forge of will fortifies us to achieve sublime leaps of character. | La vida es una travesía de retos y descubrimientos. Por áspero que sea el camino, encarar los desafíos y asumir los obstáculos como templanza del alma nos fortalece para consumar grandes hazañas personales.

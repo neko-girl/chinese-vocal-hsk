@@ -1,0 +1,63 @@
+id: 22
+hanzi: 调动
+pinyin: diào dòng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to mobilize; transfer; reassign; maneuver; arouse
+  es: movilizar; trasladar; reasignar; maniobrar; incentivar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to redeploy or transfer military forces, personnel, or material resources; to arouse enthusiasm | trasladar o reasignar tropas, personal o recursos; activar la motivación o iniciativa | 调动工作岗位 (transfer to a new job post)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 秦军统帅白起精通兵法，善于调动敌军，通过假装溃败巧妙诱使赵括脱离险要阵地。 | Qínjūn tǒngshuài Bái Qǐ jīngtōng bīngfǎ, shànyú diàodòng dírén, tōngguò jiǎzhuāng kuìbài qiǎomiào yòushǐ Zhào Kuò tuōlí xiǎnyào zhèndì. | Qin General Bai Qi mastered strategy and excelled at maneuvering enemy forces, faking a rout to lure Zhao Kuo out of his bastions. | El general Bai Qi dominaba el arte bélico y sabía mover al enemigo, simulando una desbandada para sacar a Zhao Kuo de sus posiciones.
+  #2 | 优秀的领导者善于建立科学合理的激励机制，充分调动全体员工的工作积极性与创造潜能。 | Yōuxiù de lǐngdǎozhě shànyú jiànlì kēxué hélǐ de jīlì jīzhì, chōngfèn diàodòng quántǐ yuángōng de gōngzuò jījíxìng yǔ chuàngzào qiánnéng. | Outstanding leaders excel at instituting incentive systems to fully mobilize staff enthusiasm and creative potential. | Los líderes sobresalientes saben articular incentivos justos para movilizar la motivación y el potencial creador del personal.
+
+collocations[6]{hanzi,en}:
+  调动兵力 | redeploy / maneuver troops
+  调动积极性 | arouse / mobilize enthusiasm
+  工作调动 | job transfer / reassignment
+  调动资源 | mobilize resources
+  紧急调动 | emergency redeployment
+  调动作战部队 | maneuver combat units
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  兵贵神速 | bīng guì shén sù | speed is precious in warfare; lightning troop movements
+  调兵遣将 | diào bīng qiǎn jiàng | deploy troops and dispatch generals; marshal forces
+  指东打西 | zhǐ dōng dǎ xī | point to the east while attacking the west; feint maneuver
+  声东击西 | shēng dōng jī xī | make a sound in the east and strike in the west
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  调 | diào | transfer; shift; tune; tone; investigate | trasladar; cambiar; tono; melodía; investigar | 讠 | speech | 讠 (spoken command) + 周 (complete cycle / universal circulation) | 周 (zhōu) | 10 | 左右结构 | Spoken administrative directives 讠 circulating troops and personnel around 周 the realm; to transfer. | Words of administrative command (讠) circulating personnel across districts in a smooth cycle (周) to reassign them (调). | Órdenes oficiales orales (讠) que trasladan tropas a través de las comarcas en un circuito ordenado (周) para reasignarlas (调). | 51 | IVBGR | 調
+  动 | dòng | move; act; stir; motion | mover; actuar; movimiento; impulso | 力 | strength / power | 云 (clouds swirling across sky) + 力 (physical strength) | 云 (yún) | 6 | 左右结构 | Applying physical force 力 to induce dynamic motion like drifting clouds 云. | Applying strength (力) to shift heavy objects like dynamic clouds (动). | Aplicar la fuerza (力) para mover objetos pesados con soltura de nubes (动). | 51 | MIS | 動
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Issuing verbal directives (调) to set resources and troops into motion (动) means to mobilize and redeploy (调动).
+  composite_memory_hook_es: Impartir mandatos administrativos (调) para poner recursos en movimiento (动) define la movilización y traslado (调动).
+  cultural_and_cognitive_roots: Derived from imperial tally systems (虎符) where generals redeployed garrisons with royal bronze seals.
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'diào dòng' (51-51). Pronounce both syllables with brisk, administrative firmness.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    词 | cí | word; lyrics | Department 司 on right of 讠 instead of 周
+    诵 | sòng | recite; chant | Yong 甬 on right of 讠 instead of 周
+    功 | gōng | merit; skill | Work 工 on left of 力 instead of 云
+    劫 | jié | plunder | Go 去 on left of 力 instead of 云
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    调度 | diàodù | dispatch; control traffic
+    调换 | diàohuàn | exchange; swap
+    动向 | dòngxiàng | trend; movement
+    发动 | fādòng | launch; mobilize
+
+semantic_boundary_contrasts:
+  core_nuance: 调动 highlights deliberate reallocation of personnel, troops, or psychological motivation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 调动 vs. 移动 | yídòng | 移动 refers to physical shifting in spatial location (move chairs/furniture), while 调动 is administrative reassignment or strategic maneuvering.
+    2 | 调动 vs. 派遣 | pàiqiǎn | 派遣 means sending someone out on an assignment, while 调动 implies shifting or reassigning posts.
+    3 | 调动 vs. 固定 | gùdìng | 固定 is the direct antonym meaning firmly fixed and unchanging.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 善于用兵的统帅，精髓在于“能调动敌人而不被敌人调动”。长平之战中，秦军统帅白起指挥若定，通过诈败后撤与穿插突袭，把四十万赵军一步步调动进预先设好的包围圈，将调动敌军的战术艺术演绎到了极致。 | Shànyú yòngbīng de tǒngshuài, jīngsuǐ zàiyú 'néng diàodòng dírén ér bù bèi dírén diàodòng'. Chángpíng zhī zhàn zhōng, Qínjūn tǒngshuài Bái Qǐ zhǐhuī-ruòdìng, tōngguò zhàbài hòuchè yǔ chuānchā tūxí, bǎ sìshí wàn Zhàojūn yībù-yībù diàodòng jìn yùxiān shè hǎo de bāowéiquān, jiāng diàodòng díjūn de zhànshù yìshù yǎnyì dào le jízhì. | The essence of generalship is moving the enemy without being moved. At Changping, General Bai Qi feigned retreat, maneuvering 400,000 Zhao troops step by step into a prearranged trap, demonstrating the supreme art of tactical redeployment. | La cumbre del arte militar reside en mover al enemigo sin dejarse mover por él. En Changping, Bai Qi fingió retiradas tácticas, atrayendo a 400.000 soldados de Zhao hacia la celada y elevando la maniobra militar a la maestría suprema.
+  #2 | 在现代社会治理与危机应对中，高效调动各方资源是战胜突发灾害的重要保证。无论是调动精锐医疗专家奔赴抗疫一线，还是跨区域调动应急救灾物资，强大的综合调度与动员能力，生动展现了国家治理体系的高效运作。 | Zài xiàndài shèhuì zhìlǐ yǔ wēijī yìngduì zhōng, gāoxiào diàodòng gèfāng zīyuán shì zhànshèng tūfā zāihài de zhòngyào bǎozhèng. Wúlùn shì diàodòng jīngruì yīliáo zhuānjiā bēnfù kàngyì yīxiàn, háishì kuà qūyù diàodòng yìngjí jiùzāi wùzī, qiángdà de zōnghé diàodù yǔ dòngyuán nénglì, shēngdòng zhǎnxiàn le guójiā zhìlǐ tǐxì de gāoxiào yùnzuò. | In modern crisis management, efficiently mobilizing resources guarantees victory over disaster. Whether redeploying medical experts to the frontline or coordinating disaster relief across provinces, mobilization capacity reflects good governance. | En la gestión moderna de catástrofes, movilizar recursos con presteza es la garantía del éxito. Ya sea trasladando médicos a la vanguardia o canalizando suministros de auxilio, la capacidad logística refleja la solidez del Estado.

@@ -1,0 +1,63 @@
+id: 7
+hanzi: 道理
+pinyin: dào lǐ
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: principle; reason; truth; logic; argument
+  es: razón; principio; verdad; lógica; fundamento
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | underlying principles, rationale, or fundamental laws governing nature, morality, or reasoning | principio rector, fundamento lógico o razón moral que rige las cosas y la conducta | 讲清道理 (explain the rationale clearly)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老将军语重心长地向年轻军官解释兵法中“虚实相生、刚柔相济”的深刻道理。 | Lǎo jiāngjūn yǔzhòng-xīncháng de xiàng niánqīng jūnguān jiěshì bīngfǎ zhōng 'xū-shí xiāng shēng, gāng-róu xiāng jì' de shēnkè dàolǐ. | The veteran general earnestly explained the profound principle of 'interplay between void and substance, strength and yielding' in warfare to young officers. | El curtido general explicó a los jóvenes oficiales el hondo fundamento de combinar la firmeza y la flexibilidad en el arte bélico.
+  #2 | 这篇通俗易懂的寓言故事，向孩子们生动揭示了“骄兵必败”的朴素处世道理。 | Zhè piān tōngsú-yìdǒng de yùyán gùshì, xiàng háizi men shēngdòng jiēshì le 'jiāobīng-bìbài' de pǔsù chǔshì dàolǐ. | This easily understood fable vividly revealed the simple life truth to children that 'an arrogant army faces inevitable defeat.' | Esta fábula amena ilustró a los niños el principio elemental de que la soberbia conduce inevitablemente a la derrota.
+
+collocations[6]{hanzi,en}:
+  讲道理 | reason with someone; be reasonable
+  有道理 | makes sense / reasonable
+  深刻的道理 | profound principle / deep truth
+  明白道理 | understand the reason / principle
+  蛮不讲理 | utterly unreasonable
+  符合道理 | accord with reason and logic
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  通情达理 | tōng qíng dá lǐ | fair-minded, reasonable, and sensible
+  至理名言 | zhì lǐ míng yán | golden maxim; words of profound wisdom
+  合情合理 | hé qíng hé lǐ | fair, sensible, and completely justified
+  理所当然 | lǐ suǒ dāng rán | natural and right; taken for granted as logical
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  道 | dào | way; path; road; principle; Dao | camino; sendero; principio; el Tao | 辶 | walk / movement | 辶 (movement on path) + 首 (head of wisdom guiding feet) | 首 (shǒu) | 12 | 半包围结构 | A person walking on a path 辶 with an enlightened head 首; signifies the moral and cosmic Way. | Walking thoughtfully with an enlightened head (首) along the path of moral truth (道). | Avanzar con la cabeza despejada (首) por el camino de la rectitud y la sabiduría (道). | 51 | YHUT | 道
+  理 | lǐ | reason; logic; order; manage | razón; lógica; orden; principio | 王 | jade | 王/玉 (raw jade stone) + 里 (settlement paths) | 里 (lǐ) | 11 | 左右结构 | Carving jade 玉 along its natural veined grain lines 里; signifies intrinsic logic. | Polishing jade (玉) along its natural veins to discover its inner pattern (理). | Tallar el jade (玉) respetando sus vetas para revelar su estructura armónica (理). | 214 | MGWG | 理
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The righteous path of wisdom (道) combined with the natural logic of things (理) forms sound principle (道理).
+  composite_memory_hook_es: El sendero de la rectitud (道) unido al principio lógico intrínseco (理) engendra la razón o fundamento (道理).
+  cultural_and_cognitive_roots: Deeply rooted in classical Chinese philosophy unifying the Cosmic Dao with Neo-Confucian Li (inherent structural principle).
+  tone_sandhi_and_pitch_modulation: Fourth tone to third tone: 'dào lǐ' (51-214). Drop firmly on 'dào', then dip and rebound smoothly on 'lǐ'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    导 | dǎo | lead; guide | Inch 寸 at bottom instead of 首 and 辶
+    首 | shǒu | head; first | Lacks the movement radical 辶
+    埋 | mái | bury | Soil radical 土 on left of 里 instead of 王
+    野 | yě | wild; field | Village 里 on left and予 on right
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    道德 | dàodé | morals; ethics
+    理想 | lǐxiǎng | ideal; dream
+    理解 | lǐjiě | understand; comprehend
+    道义 | dàoyì | morality and justice
+
+semantic_boundary_contrasts:
+  core_nuance: 道理 encompasses moral truths, logical justifications, and natural principles underlying phenomena.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 道理 vs. 理由 | lǐyóu | 理由 refers to a specific pretext, excuse, or justification for an action, whereas 道理 refers to universal principles or sound sense.
+    2 | 道理 vs. 理论 | lǐlùn | 理论 designates a formal academic system, while 道理 can be everyday common sense and moral wisdom.
+    3 | 道理 vs. 歪理 | wāilǐ | 歪理 is the direct antonym meaning fallacious, twisted, or specious arguments.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵国名将赵奢告诫赵括：“兵，死地也，而括易言之。”这句话蕴含着极深的人生道理。战争关乎千家万户生死存亡，若只懂在纸面上空谈道理，却不知在实践中体察险恶，到头来不仅害了自己，更会误国殃民。 | Zhàoguó míngjiàng Zhào Shē gàojiè Zhào Kuò: 'Bīng, sǐdì yě, ér Kuò yì yán zhī.' Zhè jù huà yùnhán zhe jí shēn de rénshēng dàolǐ. Zhànzhēng guānhū qiānjiā-wànhù shēngsǐ-cúnwáng, ruò zhǐ dǒng zài zhǐmiàn shang kōngtán dàolǐ, què bùzhī zài shíjiàn zhōng tǐchá xiǎn'è, dàotóulái bùjǐn hài le zìjǐ, gèng huì wùguó-yāngmín. | General Zhao She cautioned Zhao Kuo: 'War is mortal ground, yet you speak of it lightly.' War touches millions of lives; empty talk on paper without understanding real perils harms oneself and devastates the nation. | Zhao She advirtió a su hijo: 'La guerra es terreno de muerte y hablas de ella con ligereza.' Debatir razones en abstracto sin calibrar la crudeza práctica no solo destruye al individuo, sino que arruina a la patria.
+  #2 | 人与人交往最重要的准则是讲道理与讲信义。遇到矛盾分歧时，彼此心平气和地摆事实、讲道理，尊重对方的合理诉求，往往能化干戈为玉帛。通情达理的沟通方式，是维系社会和谐人际关系的润滑剂。 | Rén yǔ rén jiāowǎng zuì zhòngyào de zhǔnzé shì jiǎng dàolǐ yǔ jiǎng xìnyì. Yùdào máodùn fēnqí shí, bǐcǐ xīnpíng-qìhé de bǎi shìshí, jiǎng dàolǐ, zūnzhòng duìfāng de hélǐ sùqiú, wǎngwǎng néng huà gāngē wéi yùbó. Tōngqíng-dálǐ de gōutōng fāngshì, shì wéixì shèhuì héxié rénjì guānxi de rùnhuájì. | The most vital principle in social dealings is reasoning with good faith. When disputes arise, presenting facts calmly and reasoning with mutual respect turns hostility into harmony, serving as the lubricant of relationships. | En el trato humano, la regla de oro consiste en actuar con razón y probidad. Exponer los hechos con serenidad y atender razones legítimas desarma discordias, actuando como el mejor bálsamo de convivencia.

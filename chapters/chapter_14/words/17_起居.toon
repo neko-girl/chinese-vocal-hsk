@@ -1,0 +1,63 @@
+id: 17
+hanzi: 起居
+pinyin: qǐ jū
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: daily life; daily routine; rise and rest
+  es: vida cotidiana; rutina diaria; descanso y actividad diaria
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | one's daily regimen of waking, resting, eating, and living; routine schedule of domestic existence | régimen diario de vigilia, descanso, alimentación y quehaceres habituales | 照顾起居 (take care of someone's daily routine)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 北京四合院的各栋房舍分工极具智慧，科学周全地照顾到了全家老小的日常起居生活。 | Běijīng sìhéyuàn de gè dòng fángshè fēngōng jí jù zhìhuì, kēxué zhōuquán de zhàogù dào le quánjiā lǎoxiǎo de rìcháng qǐjū shēnghuó. | The various wings of Beijing quadrangles were wisely planned, accommodating the daily routine and living needs of the whole family comprehensively. | Las estancias del siheyuan pekinés reflejan gran prudencia distributiva, atendiendo de forma metódica la vida y descanso cotidiano de la familia.
+  #2 | 医生建议术后康复期的患者务必保持规律的起居作息，切忌熬夜劳累或饮食失调。 | Yīshēng jiànyì shùhòu kāngfùqī de huànzhě wùbì bǎochí guīlǜ de qǐjū zuòxī, qièjì áoyè láolèi huò yǐnshí shītiáo. | The physician recommended that post-operative patients maintain a regular daily schedule, avoiding late nights, fatigue, or irregular diet. | El médico aconsejó a los pacientes en convalecencia mantener una rutina regular de descanso y vigilia, evitando trasnochar o desórdenes alimentarios.
+
+collocations[6]{hanzi,en}:
+  起居饮食 | daily living and eating habits
+  起居有常 | keep regular daily hours in rest and work
+  照顾起居 | attend to someone's daily routine
+  日常起居 | everyday routine of living
+  起居室 | living room / family sitting room
+  起居作息 | daily schedule of sleeping and rising
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  起居有常 | qǐ jū yǒu cháng | keep regular hours in work and rest
+  起早贪黑 | qǐ zǎo tān hēi | work from dawn till dusk; toil early and late
+  安居乐业 | ān jū lè yè | live in peace and work with contentment
+  四海为家 | sì hǎi wéi jiā | make the world one's home; wander anywhere
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  起 | qǐ | rise; wake up; begin; start | levantarse; despertar; iniciar; comenzar | 走 | run / walk | 走 (walking forward) + 己 (one's own body rising) | 己 (jǐ / phonetic association) | 10 | 半包围结构 | A person setting their body 己 into forward walking motion 走; to rise from bed and stand up. | Springing onto one's feet to walk (走) at the start of a fresh day (起). | Ponerse en pie sobre las propias piernas para caminar (走) al clarear el día (起). | 214 | GOSU | 起
+  居 | jū | reside; dwell; live; stay | residir; habitar; morar; aposento | 尸 | corpse / seated body frame | 尸 (body seated in resting posture) + 古 (old ancestral hearth) | 古 (gǔ / phonetic link) | 8 | 半包围结构 | A human body 尸 reposing peacefully inside a time-honored shelter 古; to dwell and repose. | A person sheltered under an ancestral roof (尸) resting peacefully at home (居). | Una persona cobijada bajo el alero familiar (尸) descansando en su morada (居). | 55 | SJR | 居
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Rising at dawn (起) and returning home to rest (居) forms one's whole daily routine of living (起居).
+  composite_memory_hook_es: Levantarse al alba (起) y reposar en el hogar (居) sintetiza el ciclo vital de la rutina cotidiana (起居).
+  cultural_and_cognitive_roots: Derives from ancient medical and imperial records ('起居注') documenting emperors' and scholars' daily movements and rest.
+  tone_sandhi_and_pitch_modulation: Third tone to first tone: 'qǐ jū' (214-55). Dip deeply on 'qǐ' and finish with an elevated steady tone on 'jū'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    赶 | gǎn | catch up; hurry | Shield radical 干 instead of 己
+    越 | yuè | surpass; cross over | Halberd radical 戉 inside instead of 己
+    剧 | jù | drama; play | Knife radical 刂 on the right of 居
+    据 | jù | according to; seize | Hand radical 扌 on the left of 居
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    起床 | qǐchuáng | get up from bed
+    居住 | jūzhù | reside; dwell
+    邻居 | línjū | neighbor
+    居所 | jūsuǒ | dwelling place; abode
+
+semantic_boundary_contrasts:
+  core_nuance: 起居 highlights the biological and domestic rhythm of waking, retiring, and maintaining bodily habits.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 起居 vs. 饮食 | yǐnshí | 饮食 covers drinking and dining nutrition, whereas 起居 emphasizes sleep, rest, and mobility.
+    2 | 起居 vs. 作息 | zuòxī | 作息 focuses narrowly on timetable schedules between work and breaks, while 起居 encompasses full domestic comfort.
+    3 | 起居 vs. 劳碌 | láolù | 劳碌 expresses relentless draining toil, contrasting with peaceful, orderly 起居.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代四合院建筑充分体现了天人合一的居住智慧。四面合围的庭院把自然的光照与四季的新鲜空气引入起居空间，让居住者在起居饮食之间时刻感受到节气的变换，营造出安详悠闲的传统生活节奏。 | Zhōngguó gǔdiǎn sìhéyuàn jiànzhù chōngfèn tǐxiàn le tiānrén-héyī de jūzhù zhìhuì. Sìmiàn héwéi de tíngyuàn bǎ zìrán de guāngzhào yǔ sìjì de xīnxiān kōngqì yǐnrù qǐjū kōngjiān, ràng jūzhùzhě zài qǐjū yǐnshí zhījiān shíkè gǎnshòudào jiéqì de biànhuàn, yíngzào chū ānxiáng yōuxián de chuántǒng shēnghuó jiézòu. | Classical courtyards embodied ancient wisdom of harmony between humanity and nature. The courtyard channeled sunlight and fresh air into daily living quarters, allowing inhabitants to perceive changing seasons throughout their daily routines. | La arquitectura del siheyuan clásico refleja la armonía entre el hombre y el cosmos. Su patio canaliza luz natural y brisas hacia las estancias, permitiendo a los habitantes percibir las estaciones en su descanso y rutina diaria.
+  #2 | 传统养生学认为，起居有常是延年益寿的首要法则。顺应自然日月的更迭，日出而作、日落而息，保持良好的起居节律，不仅能够保养体内的气血精神，更能让心灵在宁静的作息中得到充分的滋养与放松。 | Chuántǒng yǎngshēngxué rènwéi, qǐjū yǒucháng shì yánnián-yìshòu de shǒuyào fǎzé. Shùnyìng zìrán rìyuè de gēngdié, rì chū ér zuò, rì luò ér xī, bǎochí liánghǎo de qǐjū jiélǜ, bùjǐn nénggòu bǎoyǎng tǐnèi de qìxuè jīngshén, gèng néng ràng xīnlíng zài níngjìng de zuòxī zhōng dédào chōngfèn de zīyǎng yǔ fàngsōng. | Traditional wellness asserts that regular daily rising and resting hours are the foremost principle of longevity. Rising with the dawn and resting at dusk preserves vitality and nurtures peace of mind through balanced living. | Las artes milenarias de la salud consideran que la regularidad en el descanso es ley primordial de longevidad. Despertar con el sol y reposar al anochecer templa la energía vital y serena el espíritu mediante un ritmo armónico.

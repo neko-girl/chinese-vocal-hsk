@@ -1,0 +1,63 @@
+id: 31
+hanzi: 糊涂
+pinyin: hú tu
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: confused; muddle-headed; foolish; blurred
+  es: confundido; confuso; despistado; aturdido
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | muddle-headed; lacking clear thinking or judgment; confused | confundido; falto de juicio lúcido; con la mente embotada | 头脑糊涂 (muddle-headed mind)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 长平阵前战局万分危急，主帅如果头脑糊涂、盲目听信虚假情报，势必会导致全军覆没的惨剧。 | Chángpíng zhènqián zhànjú wànfēn wēijí, zhǔshuài rúguǒ tóunǎo hútu, mángmù tīngxìn xūjiǎ qíngbào, shìbì huì dǎozhì quánjūn fùmò de cǎnjù. | At the frontlines of Changping the situation was critical; if the commander was muddle-headed and blindly trusted false intelligence, total army disaster was inevitable. | En el frente de Changping la situación era crítica; si el general estaba confundido y creía ciegamente informes falsos, la destrucción del ejército era ineludible.
+  #2 | 在这个关乎企业未来生死的重大投资决策上，董事会绝对不能犯糊涂，必须进行周密调研。 | Zài zhè ge guānhū qǐyè wèilái shēngsǐ de zhòngdà tóuzī juécè shang, dǒngshìhuì juéduì bù néng fàn hútu, bìxū jìnxíng zhōumì diàoyán. | On this major investment decision concerning the company's survival, the board must never be foolishly muddled; rigorous research is imperative. | En esta crucial decisión de inversión para el porvenir corporativo, la junta directiva no debe cometer torpezas; es indispensable investigar a fondo.
+
+collocations[6]{hanzi,en}:
+  犯糊涂 | make a foolish blunder / act muddle-headed
+  脑子糊涂 | confused in thought / muddled mind
+  一时糊涂 | momentary lapse of reason
+  装糊涂 | feign ignorance / play dumb
+  稀里糊涂 | careless and confused / in a muddle
+  糊涂账 | chaotic accounts / messy situation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  难得糊涂 | nán dé hú tu | where ignorance is bliss; blessed carelessness in small matters
+  一塌糊涂 | yī tà hú tu | in an awful mess; in complete shambles
+  糊里糊涂 | hú li hú tu | dazed and muddled; completely confused
+  不省人事 | bù xǐng rén shì | fall unconscious; insensible to surroundings
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  糊 | hú | paste; porridge; stick together; blur | pasta; engrudo; pegar; nublar | 米 | rice | 米 (rice porridge / sticky cereal paste) | 胡 (hú) | 15 | 左右结构 | Boiling down rice 米 into sticky opaque porridge 胡 that clouds transparency; signifies blurred opacity. | Sticky rice paste (米) spread thick (胡), blurring all clarity (糊). | Una pasta espesa de arroz (米) que al untarse (胡) nubla la visión de todo (糊). | 35 | FDJRB | 糊
+  涂 | tu | smear; daub; mud; erase; route | untar; embadurnar; lodo; borrar | 氵 | water | 氵 (water / muddy sludge) + 余 (surplus) | 余 (yú) | 10 | 左右结构 | Water 氵 mixed with wet muddy silt smeared across writing to blot it out; signifies coating or confusion. | Wet sludge (氵) smeared over clean characters (余) until they become indistinguishable (涂). | Lodo acuoso (氵) embadurnado sobre letras limpias (余) hasta borrarlas por completo (涂). | neutral | EOMD | 塗
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Sticky rice paste (糊) smeared around (涂) blinds one's sight, leaving thoughts muddled (糊涂).
+  composite_memory_hook_es: Engrudo de arroz (糊) embadurnado (涂) que nubla la vista y confunde el juicio (糊涂).
+  cultural_and_cognitive_roots: Derived from culinary pasting and smearing mud, metaphorically applied to mental opacity and indistinct thought.
+  tone_sandhi_and_pitch_modulation: Second tone to neutral tone: 'hú tu' (35-neutral). Gentle drop into a short unstressed syllable.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    湖 | hú | lake | Water 氵 on left instead of rice 米
+    胡 | hú | reckless; beard | No rice 米 component
+    徐 | xú | slow; gentle | Step 彳 on left instead of water 氵
+    途 | tú | road; journey | Walk 辶 radical instead of water 氵
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    糊口 | húkǒu | scrape together a meager livelihood
+    含糊 | hánhu | vague; ambiguous
+    涂鸦 | túyā | scrawl; graffiti
+    抹涂 | mǎtú | daub; smear over
+
+semantic_boundary_contrasts:
+  core_nuance: 糊涂 emphasizes subjective mental haze, poor comprehension, or temporary loss of rational judgment.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 糊涂 vs. 愚蠢 | yúchǔn | 愚蠢 denotes inherent intellectual deficit or folly, whereas 糊涂 describes temporary mental confusion or muddled reasoning.
+    2 | 糊涂 vs. 迷茫 | mímáng | 迷茫 refers to feeling lost regarding future orientation, while 糊涂 denotes clouded logical thinking.
+    3 | 糊涂 vs. 混乱 | hùnluàn | 混乱 describes external structural disorder or chaos, while 糊涂 characterizes an internal psychological state.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古来用兵最忌主帅头脑糊涂。赵括自幼熟读兵法，却缺乏实战临机应变的智慧。在长平阵前，面对白起佯装退却的诱敌战术，他头脑糊涂、轻率追击，将四十万精锐送入重围，千古遗恨。 | Gǔlái yòngbīng zuì jì zhǔshuài tóunǎo hútu. Zhào Kuò zìyòu shúdú bīngfǎ, què quēfá shízhàn línjī-yìngbiàn de zhìhuì. Zài Chángpíng zhènqián, miànduì Bái Qǐ yángzhuāng tuìquè de yòudí zhànshù, tā tóunǎo hútu, qīngshuài zhuījī, jiāng sìshí wàn jīngruì sòngrù zhòngwéi, qiāngǔ yíhèn. | In military history, nothing was more fatal than a commander being muddle-headed. Zhao Kuo had memorized tactics from childhood but lacked adaptive wisdom. Lured by Bai Qi's feigned retreat, his muddled thinking led 400,000 elite troops into total encirclement. | En la historia bélica nada fue más nefasto que un general confuso. Zhao Kuo dominaba la teoría pero carecía de agilidad práctica. Ante la falsa retirada de Bai Qi, su juicio nublado lanzó a 400.000 soldados a un cerco mortal.
+  #2 | 清代书画家郑板桥题写的“难得糊涂”，向来被奉为人际交往的达观境界。然而为人处世的“糊涂”，是指在非关根本原则的微小私利上不予锱铢必较，在面临国家大义与是非抉择时，心智则须如明镜般洞察秋毫。 | Qīngdài shūhuàjiā Zhèng Bǎnqiáo tíxiě de 'nándé hútu', xiànglái bèi fèng wéi rénjì jiāowǎng de dáguān jìngjiè. Rán'ér wéirén chǔshì de 'hútu', shì zhǐ zài fēiguān gēnběn yuánzé de wēixiǎo sīlì shang bù yǔ zīzhū-bìjiào, zài miànlín guójiā dàyì yǔ shìfēi juézé shí, xīnjì zé xū rú míngjìng bān dòngchá-qiūháo. | The famous motto 'where ignorance is bliss' by Zheng Banqiao has long been praised as philosophical detachment. Yet this conscious tolerance applies only to petty personal gains; in confronting major principles and virtue, one's mind must remain crystal clear. | El lema 'dichosa confusión' de Zheng Banqiao siempre ha sido admirado como sabiduría vital. Sin embargo, esa benevolencia solo atañe a pequeñas minucias personales; ante los principios éticos y el bien común, la mente debe conservar una lucidez impecable.

@@ -1,0 +1,63 @@
+id: 30
+hanzi: 资格
+pinyin: zī gé
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: qualifications; competence; credentials; seniority
+  es: cualificación; titulación; competencia; credencial; méritos
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | requisite conditions, credentials, experience, or status enabling one to assume a post or enjoy rights | requisitos, méritos, títulos o condición indispensable para ejercer un cargo o disfrutar de un derecho | 具备任职资格 (possess the qualifications to hold office)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括虽然能熟练背诵各家兵书，但在瞬息万变的实战战场上，他根本不具备统帅数十万大军的资格。 | Zhào Kuò suīrán néng shúliàn bèisòng gè jiā bīngshū, dàn zài shùnxī-wànbiàn de shízhàn zhànchǎng shang, tā gēnběn bù jùbèi tǒnglǐng shùshí wàn dàjūn de zīgé. | Although Zhao Kuo could recite military books, on the fast-changing battlefield he lacked the qualifications to command hundreds of thousands of troops. | Aunque Zhao Kuo recitaba tratados de memoria, en la crudeza del combate real carecía por entero de las cualificaciones para mandar a un ejército.
+  #2 | 通过了全国统一的高级翻译专业资格考试，她顺利获得了联合国同声传译员的执业资格。 | Tōngguò le quánguó tǒngyī de gāojí fānyì zhuānyè zīgé kǎoshì, tā shùnlì huòdé le Liánhéguó tóngshēng chuányìyuán de zhíyè zīgé. | Passing the national advanced translation qualification exam, she obtained the professional credential to practice as a UN interpreter. | Tras aprobar el examen nacional de traducción superior, obtuvo la titulación profesional para ejercer como intérprete simultánea en la ONU.
+
+collocations[6]{hanzi,en}:
+  具备资格 | possess qualifications / credentials
+  取消资格 | disqualify / revoke qualifications
+  审查资格 | examine / verify qualifications
+  获得资格 | obtain qualification
+  老资格 | veteran / senior standing
+  从业资格 | professional certification / practice license
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  名正言顺 | míng zhèng yán shùn | in accordance with proper title and reasons; fully justified
+  德才兼备 | dé cái jiān bèi | possessing both integrity and talent; highly qualified
+  论资排辈 | lùn zī pái bèi | assign ranks strictly according to seniority and tenure
+  实至名归 | shí zhì míng guī | reputation deserved by actual merit
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  资 | zī | money; wealth; resources; capital; qualification | dinero; bienes; recursos; capital; solvencia | 贝 | cowrie shell / money | 次 (order / sequence) + 贝 (cowrie shell / wealth backing) | 次 (cì) | 10 | 上下结构 | Accumulating sequential reserves of wealth 贝 or merit 次 over time; signifies backing capital and qualifications. | Accumulating valuable shell currency (贝) in orderly ranks (次) to earn status (资). | Atesorar caudales valiosos (贝) en riguroso orden (次) para respaldar la solvencia y mérito (资). | 55 | MOBO | 資
+  格 | gé | grid; standard; pattern; style; examine | cuadrícula; norma; patrón; estilo; examinar | 木 | wood | 木 (wooden branch / measuring frame) + 各 (distinct individual items) | 各 (gè) | 10 | 左右结构 | A wooden lattice frame 木 used to measure and sort individual items 各 according to standards; marks standards. | Using a wooden lattice frame (木) to classify items into proper categories (格). | Una regla de madera (木) que clasifica cada objeto en su casilla correspondiente (格). | 35 | DHER | 格
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Accumulated resource capital (资) matching the official standard grid (格) grants formal qualifications (资格).
+  composite_memory_hook_es: El caudal de mérito acumulado (资) que encaja en la norma reglamentaria (格) confiere la cualificación (资格).
+  cultural_and_cognitive_roots: Originates from imperial civil examinations where candidates' family pedigree (资) and test standards (格) were scrutinized.
+  tone_sandhi_and_pitch_modulation: First tone to second tone: 'zī gé' (55-35). High level pitch on 'zī', lifting smoothly on 'gé'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    姿 | zī | posture; gesture | Woman 女 under 次 instead of 贝
+    咨 | zī | consult; inquire | Mouth 口 under 次 instead of 贝
+    洛 | luò | Luo River | Water 氵 on left of 各 instead of 木
+    阁 | gé | pavilion; chamber | Door 门 around 各 instead of 木
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    资历 | zīlì | qualifications and record
+    资本 | zīběn | capital; assets
+    合格 | hégé | qualified; up to standard
+    品格 | pǐngé | moral character; caliber
+
+semantic_boundary_contrasts:
+  core_nuance: 资格 refers to satisfying requisite formal, professional, or legal criteria to undertake duties or enjoy rights.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 资格 vs. 条件 | tiáojiàn | 条件 refers to broad objective factors or prerequisites, while 资格 specifically denotes legal/professional status and eligibility.
+    2 | 资格 vs. 能力 | nénglì | 能力 is actual competence in execution, whereas 资格 can merely be a formal certificate or title.
+    3 | 资格 vs. 资历 | zīlì | 资历 measures accumulated chronological tenure/seniority, while 资格 focuses on meeting qualifying standards.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 兵家常云：“为将者，未料胜，先料败。”统领数十万军民生死存亡的大将，必须具备过人的智谋、沉稳的心态与丰富的实战资历。赵括徒有一腔纸上谈兵的空论，缺乏带兵治军的真才实学，从根本上就不具备统领长平大军的资格。 | Bīngjiā cháng yún: 'Wéi jiàng zhě, wèi liào shèng, xiān liào bài.' Tǒnglǐng shùshí wàn jūnmín shēngsǐ-cúnwáng de dàjiàng, bìxū jùbèi guòrén de zhìmóu, chénwěn de xīntài yǔ fēngfù de shízhàn zīlì. Zhào Kuò tú yǒu yī qiāng zhǐshàng-tánbīng de kōnglùn, quēfá dài bīng zhì jūn de zhēncái-shíxué, cóng gēnběn shang jiù bù jùbèi tǒnglǐng Chángpíng dàjūn de zīgé. | Strategists say: 'A general calculates defeat before victory.' Commanding troops demands wisdom, composure, and combat credentials. Zhao Kuo held only empty book talk without real substance; he lacked the qualifications to lead. | Los maestros castrenses decían: 'El general antes de prever la victoria calcula la derrota.' Comandar miles de vidas exige temple y fogueo real. Zhao Kuo solo poseía vanas teorías; carecía de cualificación para semejante mando.
+  #2 | 在现代社会中，任何专业岗位的准入都建立在严格的资质审核基础之上。从医生的执业医师资格、律师的法律从业资格，到工程师的高级技术职称，只有通过严谨规范的专业考核获取相应资格，才能切实对公众安全负责。 | Zài xiàndài shèhuì zhōng, rènhé zhuānyè gǎngwèi de zhǔnrù dōu jiànlì zài yángé de zīzhì shěnhé jīchǔ zhīshàng. Cóng yīshēng de zhíyè yīshī zīgé, lǜshī de fǎlǜ cóngyè zīgé, dào gōngchéngshī de gāojí jìshù zhíchēng, zhǐyǒu tōngguò yánjǐn guīfàn de zhuānyè kǎohé huòqǔ xiāngyìng zīgé, cái néng qièshí duì gōngzhòng ānquán fùzé. | In modern society, entry into professions rests on strict qualification vetting. From medical licenses and bar exams to engineering certificates, only passing rigorous professional evaluations to earn qualifications ensures public safety. | En la sociedad moderna, el acceso a las profesiones descansa en la acreditación de títulos. Desde la colegiación médica hasta los títulos de ingeniería, acreditar la cualificación mediante exámenes rigurosos garantiza la seguridad pública.

@@ -1,0 +1,63 @@
+id: 15
+hanzi: 阵地
+pinyin: zhèn dì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: battlefield position; front; stronghold; territory
+  es: posición en el frente; trinchera; baluarte; posición de combate
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a designated terrain or fortified area occupied by military troops for defense or attack; figurative sphere of activity | terreno fortificado o sector ocupado por tropas militares para el combate; reducto o baluarte figurado | 坚守阵地 (firmly hold one's battlefield position)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括接替廉颇后轻率放弃了坚固险要的防御阵地，冒然出击，结果使数十万大军落入秦军包围圈。 | Zhào Kuò jiētì Lián Pō hòu qīngshuài fàngqì le jiāngù xiǎnyào de fángyù zhèndì, màorán chūjī, jiéguǒ shǐ shùshí wàn dàjūn luòrù Qínjūn bāowéiquān. | Replacing Lian Po, Zhao Kuo rashly abandoned fortified strategic positions to attack recklessly, causing his army to fall into Qin's encirclement. | Al relevar a Lian Po, Zhao Kuo abandonó con temeridad las sólidas posiciones defensivas, haciendo que su ejército cayera en la trampa enemiga.
+  #2 | 互联网新媒体已经成为当代思想文化传播与公众舆论引导的重要阵地。 | Hùliánwǎng xīn méitǐ yǐjīng chéngwéi dāngdài sīxiǎng wénhuà chuánbō yǔ gōngzhòng yúlùn yǐndǎo de zhòngyào zhèndì. | New digital internet media have become vital battlegrounds for modern cultural communication and public opinion guidance. | Los nuevos medios digitales se han convertido en un baluarte crucial para la difusión cultural y la orientación de la opinión pública.
+
+collocations[6]{hanzi,en}:
+  坚守阵地 | firmly hold the position
+  占领阵地 | occupy / seize the position
+  防御阵地 | defensive position
+  前沿阵地 | frontline position / forward post
+  阵地战 | position warfare / trench combat
+  思想阵地 | ideological frontline / cultural sphere
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  严阵以待 | yán zhèn yǐ dài | stand in battle array waiting for the enemy in combat readiness
+  固若金汤 | gù ruò jīn tāng | strongly fortified like metal ramparts and boiling moats
+  步步为营 | bù bù wéi yíng | make a stand at every step; advance cautiously
+  临阵脱逃 | lín zhèn tuō táo | flee from the battlefield on the eve of battle
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  阵 | zhèn | battle array; battle formation; position; gust | formación de batalla; posición; racha; despliegue | 阝 | mound / hill | 阝 (earthen embankment) + 车 (war chariots deployed along it) | 阵 (zhèn) | 6 | 左右结构 | War chariots 车 deployed along an earthen defensive mound 阝 in tactical battle formation. | Armored chariots (车) positioned in ranks along a defensive earthen ridge (阝) for battle (阵). | Carros de combate (车) apostados a lo largo del terraplén (阝) en rigurosa formación defensiva (阵). | 51 | NLKQ | 陣
+  地 | dì | earth; ground; land; soil; place | tierra; suelo; terreno; lugar | 土 | earth / soil | 土 (soil / earth mound) + 也 (alluvial basin / serpent) | 也 (yě / dì) | 6 | 左右结构 | Fertile soil 土 stretching across the terrestrial basin 也; represents land or territory. | Mounds of fertile soil (土) forming vast terrestrial terrain (地). | Montículos de tierra fértil (土) que conforman el suelo y el territorio (地). | 51 | GPD | 地
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Chariots drawn up in battle ranks (阵) anchored to fortified terrain (地) establish a military position (阵地).
+  composite_memory_hook_es: Carros desplegados en formación táctica (阵) anclados sobre el terreno defensivo (地) forjan la posición de combate (阵地).
+  cultural_and_cognitive_roots: Originates in classical chariot warfare where holding the prepared tactical position (阵) determined survival against cavalry charges.
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'zhèn dì' (51-51). Articulate both syllables with martial, decisive force.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    陈 | chén | old; display | East 东 on right of 阝 instead of 车
+    连 | lián | connect | Movement 辶 on left of 车 instead of 阝
+    池 | chí | pool; pond | Water 氵 on left of 也 instead of 土
+    他 | tā | he; him | Person 亻 on left of 也 instead of 土
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    阵线 | zhènxiàn | battlefront; battle line
+    阵容 | zhènróng | lineup; battle array
+    阵雨 | zhènyǔ | shower; squall
+    地点 | dìdiǎn | location; place
+
+semantic_boundary_contrasts:
+  core_nuance: 阵地 strictly refers to a fortified battlefield stronghold or tactical line held by an army, or metaphorical sphere.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 阵地 vs. 战场 | zhànchǎng | 战场 is the broad operational war theater, while 阵地 is a specific fortified tactical hill or line.
+    2 | 阵地 vs. 营地 | yíngdì | 营地 refers to an encampment for soldiers' bivouac/sleep, whereas 阵地 is deployed for combat.
+    3 | 阵地 vs. 领土 | lǐngtǔ | 领土 is sovereign legal national territory, unlike a localized military 阵地.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 长平之战中，廉颇苦心经营了三年之久的丹河防御阵地，是阻挡秦国大军东进的坚固铁壁。阵地依托险峻关隘修筑堡垒，储粮充足。赵括上任后自作主张全线弃守阵地，最终导致数十万主力在野战中被秦军围歼。 | Chángpíng zhī zhàn zhōng, Lián Pō kǔxīn jīngyíng le sān nián zhī jiǔ de Dānhé fángyù zhèndì, shì zǔdǎng Qínguó dàjūn dōng jìn de jiāngù tiěbì. Zhèndì yītuō xiǎnjùn guān'ài xiūzhù bǎolěi, chǔliáng chōngzú. Zhào Kuò shàngrèn hòu zìzuò-zhǔzhāng quánxiàn qìshǒu zhèndì, zuìzhōng dǎozhì shùshí wàn zhǔlì zài yězhàn zhōng bèi Qínjūn wéijiān. | At Changping, Lian Po's Danhe fortified position held for three years as an iron wall blocking Qin. The position anchored on mountain passes with abundant food. Zhao Kuo rashly abandoned it, leading his troops to slaughter in open combat. | En Changping, la posición fortificada del río Dan sostenida por Lian Po durante tres años frenó el avance de Qin. Bien abastecida en los pasos de montaña, Zhao Kuo la abandonó con temeridad, llevando a sus tropas al cerco en campo abierto.
+  #2 | 在当今全球文化多元激荡的时代，优秀传统文化是守护民族精神根基的重要阵地。面对纷繁复杂的外部思潮，我们必须守好自己的思想文化阵地，传承中华优秀传统美德，坚定文化自信，为民族复兴提供深厚滋养。 | Zài dāngjīn quánqiú wénhuà duōyuán jīdàng de shídài, yōuxiù chuántǒng wénhuà shì shǒuhù mínzú jīngshén gēnjī de zhòngyào zhèndì. Miànduì fēnfán-fùzá de wàibù sīcháo, wǒmen bìxū shǒu hǎo zìjǐ de sīxiǎng wénhuà zhèndì, chuánchéng Zhōnghuá yōuxiù chuántǒng měidé, jiāndìng wénhuà zìxìn, wèi mínzú fùxīng tígōng shēnhòu zīyǎng. | Amid global cultural exchanges, traditional heritage serves as a vital stronghold safeguarding national spirit. Confronting diverse currents, we must defend our cultural ground, passing down classic virtues with steadfast confidence. | En la era de la globalización cultural, la tradición clásica es un baluarte que resguarda el alma patria. Ante influencias foráneas, debemos custodiar nuestras posiciones culturales, preservando virtudes ancestrales con orgullo.

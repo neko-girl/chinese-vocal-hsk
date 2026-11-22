@@ -1,0 +1,63 @@
+id: 33
+hanzi: 思维
+pinyin: sī wéi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: thinking; thought; cognitive mindset; mental logic
+  es: pensamiento; modo de pensar; lógica mental; intelecto
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the cognitive process of reflecting, reasoning, and conceptualizing using the human mind | proceso intelectivo y cognitivo de razonar, abstraer y concebir ideas en la mente | 逻辑思维能力 (logical thinking ability)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 数学奥林匹克竞赛不仅考核基础公式的计算速度，更着重考察参赛选手严密的抽象逻辑思维能力。 | Shùxué Àolínpǐkè jìngsài bùjǐn kǎohé jīchǔ gōngshì de jìsuàn sùdù, gèng zhuózhòng kǎochá cānsài xuǎnshǒu yánmì de chōuxiàng luóji sīwéi nénglì. | Math Olympiad competitions test not only speed in calculating basic formulas, but focus primarily on competitors' rigorous abstract logical thinking skills. | Las Olimpiadas de Matemáticas no sólo evalúan el cálculo de fórmulas, sino el rigor y agudeza del pensamiento lógico abstracto de los participantes.
+  #2 | 面对瞬息万变的技术革命，领导者必须主动打破原有的思维定式，以更加开放包容的心态拥抱未知。 | Miànduì shùnxī-wànbiàn de jìshù gémìng, lǐngdǎozhě bìxū zhǔdòng dǎpò yuányǒu de sīwéi dìngshì, yǐ gèngjiā kāifàng bāoróng de xīntài yōngbào wèizhī. | Confronted by rapid technological upheaval, leaders must proactively shatter existing cognitive mindsets and embrace the unknown with an open heart. | Ante la vertiginosa revolución tecnológica, los líderes deben quebrar sus esquemas mentales preconcebidos y acoger lo ignoto con amplitud de miras.
+
+collocations[6]{hanzi,en}:
+  思维定式 | fixed mindset / mental rut
+  逻辑思维 | logical thinking
+  创新思维 | innovative thinking
+  思维能力 | thinking ability / intellect
+  思维模式 | thought pattern / paradigm
+  批判性思维 | critical thinking
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  深谋远虑 | shēn móu yuǎn lǜ | plan deeply and foresee distantly; farsighted strategy
+  墨守成规 | mò shǒu chéng guī | stick stubbornly to obsolete conventions
+  见微知著 | jiàn wēi zhī zhù | discern future macro trends from minute signs
+  运筹帷幄 | yùn chóu wéi wò | devise strategies within military tents; mastermind victories
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  思 | sī | think; consider; deliberate; miss | pensar; reflexionar; meditar | 心 | heart | 囟 / 田 (brain cranium fontanelle) + 心 (heart consciousness) | 思 (sī) | 9 | 上下结构 | Brain cranium 田 (囟) atop heart 心; in classical Chinese philosophy, the heart and brain collaborate as seat of cognition and contemplation. | The brain (田) and the feeling heart (心) harmonizing in quiet reflection (思). | El cerebro pensante (田) y el corazón sensible (心) concertados en profunda meditación (思). | 55 | WP | 思
+  维 | wéi | tie; maintain; dimension | atar; preservar; dimensión | 纟 | silk thread | 纟 (binding cords) + 隹 (bird with short tail) | 隹 (zhuī / phonetic association) | 11 | 左右结构 | Silk radical 纟 tethering short-tailed bird 隹; tying corners and cords together, extended to mental fabric, dimensions, and maintenance. | Strong silk cords (纟) tying the corner poles of a tent firmly in multi-dimensional balance (维). | Fuertes cuerdas de seda (纟) tensando los amarres de una tienda en armonía tridimensional (维). | 35 | VFOV | 維
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The heart-brain pondering (思) woven into a structured mental framework (维) forms cognitive thinking (思维).
+  composite_memory_hook_es: El juicio reflexivo (思) enhebrado en una red conceptual sólida (维) da lugar al pensamiento (思维).
+  cultural_and_cognitive_roots: Represents the intellectual lattice of human reasoning, balancing philosophical insight with practical problem-solving.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by rising second tone: 'sī wéi' (55-35). Hold 'sī' high, then soar gracefully on 'wéi'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    思 | sī | think; ponder | Field 田 over heart 心
+    恩 | ēn | grace; kindness | Cause 因 over heart 心
+    维 | wéi | maintain; tie | Silk radical 纟 on left with 隹
+    谁 | shuí | who | Speech radical 讠 on left with 隹
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    考 | kǎo | examine; ponder
+    虑 | lǜ | consider; deliberate
+    想 | xiǎng | think; yearn
+    念 | niàn | recollect; idea
+
+semantic_boundary_contrasts:
+  core_nuance: 思维 denotes higher-order cognitive faculties, mental paradigms, and structured logical deduction.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 思维 vs. 思想 | sīxiǎng | 思想 denotes overarching ideological beliefs, philosophical outlooks, or political doctrine, while 思维 refers to cognitive logic and problem-solving patterns.
+    2 | 思维 vs. 想法 | xiǎngfǎ | 想法 refers to a specific concrete opinion, notion, or idea on a matter, whereas 思维 is the cognitive apparatus producing ideas.
+    3 | 思维 vs. 情绪 | qíngxù | 情绪 encompasses physiological affective moods and feelings, directly contrasting with rational 思维.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 哲学家笛卡尔曾留下‘我思故我在’的千古名言，揭示了理性思维是确证个体自我存在与认识宇宙的根本基石。人类唯有保持持续反省与独立深邃的理性思维，才能在纷繁复杂的世俗尘嚣中擦亮双眼，不被盲从的群体偏见所裹挟。 | Zhéxuéjiā Díkǎ'ěr céng liúxià 'wǒ sī gù wǒ zài' de qiāngǔ míngyán, jiēshì le lǐxìng sīwéi shì quèzhèng gètǐ zìwǒ cúnzài yǔ rènzhī yǔzhòu de gēnběn jīshí. Rénlèi wéiyǒu bǎochí chíxù fǎnxǐng yǔ dúlì shēnxuì de lǐxìng sīwéi, cái néng zài fēnfán-fùzá de shìsú chénxiāo zhōng cāliàng shuāngyǎn, bù bèi mángcóng de qúntǐ piānjiàn suǒ guǒxié. | Descartes coined 'I think, therefore I am', proving rational thought is the bedrock confirming existence. Only by nurturing deep reflective thinking can humanity see clearly amid worldly distractions, resisting herd bias. | Descartes proclamó 'pienso, luego existo', situando el raciocinio como cimiento del ser. Sólo cultivando un criterio lúcido y reflexivo preservará el ser humano su discernimiento ante el ruido gregario.
+  #2 | 篮球发展史上的‘筐底革命’，本质上是一场颠覆性的思维突破。工匠们最初被‘筐必定有底’的传统经验死死框住，一心只想研制复杂的取球器械。直到有人跳出思维定势，人们才恍然大悟：去掉无用的底子，才是最高明的思维解法。 | Lánqiú fāzhǎnshǐ shang de 'kuāngdǐ gémìng', běnzhì shang shì yì chǎng diānfùxìng de sīwéi tūpò. Gōngjiàngmen zuìchū bèi 'kuāng bìdìng yǒu dǐ' de chuántǒng jīngyàn sǐsǐ kuàng zhù, yìxīn zhǐ xiǎng yánzhì fùzá de qǔ qiú qìxiè. Zhídào yǒurén tiào chū sīwéi dìngshì, rénmen cái huǎngrán-dàwù: qùdiào wúyòng de dǐzi, cái shì zuì gāomíng de sīwéi jiěfǎ. | The basket revolution in basketball history was at heart a paradigm shift. Craftsmen were trapped by the assumption that 'baskets must have bottoms', scheming complex gizmos. Breaking that mental rut revealed the truth: removing the bottom was the ultimate solution. | La revolución del fondo de la canasta fue un audaz salto cognitivo. Los conserjes creían a ciegas que 'toda cesta debe tener fondo', discurriendo artificios. Romper ese esquema demostró que eliminar lo sobrante era la solución genial.

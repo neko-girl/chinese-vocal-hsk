@@ -1,0 +1,63 @@
+id: 17
+hanzi: 主动
+pinyin: zhǔ dòng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: proactive; taking the initiative; active; of one's own accord
+  es: activo; proactivo; tomar la iniciativa; por propia voluntad
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | acting of one's own volition and taking the initiative rather than being driven by external force | que actúa por propia iniciativa e impulso sin aguardar órdenes o presiones externas | 掌握主动权 (seize the initiative)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 善于指挥的军事统帅总能通过巧妙布阵调动敌人，牢牢掌握战场作战的主动权。 | Shànyú zhǐhuī de jūnshì tǒngshuài zǒng néng tōngguò qiǎomiào bùzhèn diàodòng dírén, láoláo zhǎngwò zhànchǎng zuòzhàn de zhǔdòngquán. | Skillful military commanders always manipulate enemy forces through clever arrays, firmly seizing the combat initiative on the battlefield. | Los comandantes diestros logran mover al enemigo mediante hábiles maniobras, reteniendo con firmeza la iniciativa del combate.
+  #2 | 在大学自主学习过程中，学生应当主动查阅文献并积极向导师请教学术疑惑。 | Zài dàxué zìzhǔ xuéxí guòchéng zhōng, xuéshēng yīngdāng zhǔdòng cháyuè wénxiàn bìng jījí xiàng dǎoshī qǐngjiào xuéshù yíhuò. | During independent university study, students should proactively consult literature and actively seek counsel from advisors on academic puzzles. | En el estudio universitario autónomo, los alumnos deben consultar bibliografía por iniciativa propia y plantear dudas a sus tutores.
+
+collocations[6]{hanzi,en}:
+  掌握主动权 | seize / hold the initiative
+  主动配合 | proactively cooperate
+  争取主动 | strive for the initiative
+  主动沟通 | proactively communicate
+  主动出击 | take the initiative to attack
+  变被动为主动 | turn passive into proactive
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  先发制人 | xiān fā zhì rén | take the initiative and strike first to gain the upper hand
+  反客为主 | fǎn kè wéi zhǔ | turn from guest into host; seize leadership and initiative
+  积极主动 | jī jí zhǔ dòng | enthusiastic and proactive
+  抢占先机 | qiǎng zhàn xiān jī | seize the preemptive opportunity
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  主 | zhǔ | master; host; owner; primary; main | dueño; amo; anfitrión; principal | 丶 | dot | flame burning at the top of an oil lamp stand 王 | 主 (zhǔ) | 5 | 单一结构 | A flame dot 丶 glowing atop an ancestral lamp stand 王; signifies the central master of the household. | A radiant flame (丶) shining atop an oil lamp stand presiding as the master of the hall (主). | La llama radiante (丶) que arde sobre la lámpara ceremonial presidiendo como dueña de casa (主). | 214 | YG | 主
+  动 | dòng | move; act; motion; stir | mover; actuar; movimiento; impulso | 力 | strength / power | 云 (clouds rolling across sky) + 力 (physical strength) | 云 (yún) | 6 | 左右结构 | Using muscular strength 力 to drive physical movement like surging clouds 云; signifies action. | Applying strength (力) to initiate dynamic action like billowing clouds (动). | Aplicar la fuerza (力) para mover las cosas con la soltura de las nubes (动). | 51 | MIS | 動
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Acting as one's own master (主) to initiate purposeful motion (动) means being proactive (主动).
+  composite_memory_hook_es: Obrar como dueño de los propios actos (主) para emprender el movimiento (动) define la proactividad (主动).
+  cultural_and_cognitive_roots: A core strategic concept in Sunzi's Art of War: 'He who arrives first at the battlefield and awaits the enemy is at ease' (致人而不致于人).
+  tone_sandhi_and_pitch_modulation: Third tone to fourth tone: 'zhǔ dòng' (214-51). Dip low on 'zhǔ', then drop decisively on 'dòng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    玉 | yù | jade | Dot inside lower right instead of top flame dot
+    王 | wáng | king | Lacks the upper flame dot 丶 of 主
+    功 | gōng | merit | Work 工 on left instead of 云
+    幼 | yòu | young | Yao 幺 on left instead of 云
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    主人 | zhǔrén | master; host
+    主张 | zhǔzhāng | advocate; proposition
+    动作 | dòngzuò | movement; action
+    自动 | zìdòng | automatic; voluntary
+
+semantic_boundary_contrasts:
+  core_nuance: 主动 emphasizes seizing the initiative, acting by internal drive, and controlling circumstances.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 主动 vs. 被动 | bèidòng | 被动 is the direct antonym meaning passive, reactive, or driven against one's will.
+    2 | 主动 vs. 积极 | jījí | 积极 stresses enthusiastic and optimistic attitude, while 主动 emphasizes taking self-directed initiative.
+    3 | 主动 vs. 盲动 | mángdòng | 盲动 means rash, blind action without planning, contrasting with calculated 主动.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 《孙子兵法》有云：“善战者，致人而不致于人。”高明的将领善于调动敌人，而不是被敌人牵着鼻子走。长平之战中，赵括自恃勇武盲目主动出击，反而丧失了战局的主动权，被狡猾的秦军分割包围在狭长山谷之中。 | Sūnzǐ Bīngfǎ yǒu yún: 'Shàn zhàn zhě, zhì rén ér bù zhì yú rén.' Gāomíng de jiànglǐng shànyú diàodòng dírén, ér bùshì bèi dírén qiānzhe bízi zǒu. Chángpíng zhī zhàn zhōng, Zhào Kuò zìshì yǒngwǔ mángmù zhǔdòng chūjī, fǎn'ér sàngshī le zhànjú de zhǔdòngquán, bèi jiǎohuá de Qínjūn fēngē-bāowéi zài xiácháng shāngǔ zhīzhōng. | The Art of War states: 'The skilled warrior moves the enemy rather than being moved.' In Changping, Zhao Kuo's rash initiative surrendered genuine initiative, allowing the Qin army to lure and encircle him in a narrow gorge. | Sun Tzu afirmó: 'El diestro en la guerra hace que el enemigo acuda a él, no va donde el enemigo quiere.' En Changping, la imprudente iniciativa de Zhao Kuo le hizo perder el control, siendo cercado en una angosta garganta.
+  #2 | 在当今充满机遇与挑战的职场竞争中，具备主动作为的意识往往是脱颖而出的关键。与其坐等任务下达，不如主动思考问题、主动寻找解决突破口。积极主动的人总能在平凡的岗位上创造出非凡的业绩。 | Zài dāngjīn chōngmǎn jīyù yǔ tiǎozhàn de zhíchǎng jìngzhēng zhōng, jùbèi zhǔdòng zuòwéi de yìshí wǎngwǎng shì tuōyǐng-érchū de guānjiàn. Yǔqí zuò děng rènwu xiàdá, bùrú zhǔdòng sīkǎo wèntí, zhǔdòng xúnzhǎo jiějué tūpòkǒu. Jījí-zhǔdòng de rén zǒng néng zài píngfán de gǎngwèi shang chuàngzào chū fēifán de yèjì. | In today's career competition, a proactive mindset is the key to standing out. Rather than sitting waiting for orders, proactively seeking solutions empowers individuals to achieve extraordinary feats in any role. | En la carrera profesional, la proactividad distingue a los sobresalientes. En vez de aguardar órdenes pasivamente, buscar soluciones por iniciativa propia permite forjar logros extraordinarios en cualquier puesto.

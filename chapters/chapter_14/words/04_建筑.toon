@@ -1,0 +1,64 @@
+id: 4
+hanzi: 建筑
+pinyin: jiàn zhù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: building; architecture; to construct; to erect
+  es: edificio; arquitectura; construir; edificar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a building, structure, or physical edifice erected on land | edificio, estructura o inmueble construido sobre el terreno | 风格独特的古代木质建筑 (ancient wooden buildings of unique style)
+  2 | Verb | Standard | to build, construct, or engineer edifices or structures | diseñar, erigir o levantar construcciones arquitectónicas | 建筑防洪大坝 (construct a flood-control dam)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在万国建筑博览群的外滩沿岸，一幢幢巍峨耸立的欧式石砌建筑见证了上海百年的沧桑变迁。 | Mànbù zài wànguó jiànzhù bólǎnqún de Wàitān yán'àn, yí zhuàngzhuàng wēi'é sǒnglì de Ōushì shíqì jiànzhù jiànzhèng le Shànghǎi bǎinián de cāngsāng biànqiān. | Strolling along the Bund with its multinational architectural expo, towering European-style stone buildings bear witness to Shanghai's century of changes. | Paseando por el Bund frente a edificios de estilo europeo, las construcciones de piedra atestiguan un siglo de transformaciones en Shanghái.
+  #2 | 现代建筑设计师越来越注重节能环保与低碳技术的应用，力争让每一座新建大楼都与城市自然生态融为一体。 | Xiàndài jiànzhù shèjìshī yuèláiyuè zhùzhòng jiénéng huánbǎo yǔ dītàn jìshù de yìngyòng, lìzhēng ràng měi yí zuò xīnjiàn dàlóu dōu yǔ chéngshì zìrán shēngtài róng wéi yītǐ. | Modern architects place increasing emphasis on eco-friendly efficiency and low-carbon tech, striving to harmonize every new tower with urban ecology. | Los arquitectos priorizan la eficiencia ecológica y tecnologías bajas en carbono, buscando integrar cada nuevo rascacielos en el ecosistema urbano.
+
+collocations[6]{hanzi,en}:
+  传统建筑 | traditional architecture / building
+  标志性建筑 | iconic landmark building
+  建筑工人 | construction worker
+  建筑风格 | architectural style
+  建筑材料 | building materials
+  古代建筑 | ancient architecture
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  高楼大厦 | gāo lóu dà shà | high-rise skyscrapers and towering mansions
+  琼楼玉宇 | qióng lóu yù yǔ | jeweled towers and jade palaces; fairy-tale architecture
+  鳞次栉比 | lín cì zhì bǐ | buildings standing in close proximity like fish scales
+  土木形骸 | tǔ mù xíng hái | unpretentious like wood and earth; natural simplicity
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  建 | jiàn | build; establish; erect; set up | construir; fundar; erigir; establecer | 廴 | long stride | 廴 (stride forward on long road) + 聿 (hand holding writing brush / measuring compass) | 聿 (yù / setting rules) | 8 | 半包围结构 | Hand holding surveying stylus 聿 marching forward 廴 to lay down city foundations; establishing constitutions or buildings. | A surveyor striding forward (廴) with measuring compass (聿) to lay foundation stones for a new city (建). | Un perito avanzando a paso firme (廴) con su compás (聿) para trazar los cimientos de la urbe (建). | 51 | NKLQ | 建
+  筑 | zhù | build; ram earth; ancient zither | edificar; apisonar tierra; laúd antiguo | 竹 | bamboo | 竹 (bamboo rammers/scaffolding) + 巩 (firm binding with craft 工 and 凡) | 巩 (gǒng / phonetic connection) | 12 | 上下结构 | Bamboo radical 竹 atop 巩 (firm foundation); pounding tamped earth (夯土) walls between wooden planks with heavy rammers. | Heavy bamboo pestles (竹) pounding layers of earth firmly (巩) into rammed earth walls (筑). | Maderos y varas de bambú (竹) apisonando tierra con firmeza (巩) para alzar murallas macizas (筑). | 51 | HHVN | 築
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Laying out foundations (建) and ramming earth walls with bamboo poles (筑) accomplishes architecture (建筑).
+  composite_memory_hook_es: Trazar los planos (建) y apisonar la tierra con pértigas de bambú (筑) define la arquitectura (建筑).
+  cultural_and_cognitive_roots: Rammed earth (夯土) and mortise-and-tenon timber form the twin pillars of historic Chinese construction culture.
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'jiàn zhù' (51-51). Deliver two decisive downward cadences with strength.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    建 | jiàn | build; erect | Has long stride radical 廴 with 聿
+    健 | jiàn | healthy; robust | Person radical 亻 on left of 建
+    筑 | zhù | build; zither | Bamboo radical 竹 on top of 巩
+    恐 | kǒng | fear; dread | Heart radical 心 under 巩
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    造 | zào | create; manufacture
+    搭 | dā | erect; put up scaffolding
+    修 | xiū | repair; construct
+    立 | lì | stand; erect
+
+semantic_boundary_contrasts:
+  core_nuance: 建筑 encompasses architectural engineering, buildings, and the physical act of construction.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 建筑 vs. 房屋 | fángwū | 房屋 refers concretely to residential houses or rooms for living, while 建筑 covers towers, bridges, dams, monuments, and architecture as an art.
+    2 | 建筑 vs. 施工 | shīgōng | 施工 denotes the operational frontline labor process of carrying out engineering blueprints, whereas 建筑 is broader design and discipline.
+    3 | 建筑 vs. 大厦 | dàshà | 大厦 refers specifically to towering multi-story commercial office towers or grand mansions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统木构建筑以神奇的榫卯节点著称，通体不用一钉一铆，却能历经千年风雨侵蚀与剧烈地震考验而巍然屹立。山西应县木塔便是这一建筑奇迹的典范，完美彰显了古代华夏匠人登峰造极的结构力学智慧。 | Zhōngguó chuántǒng mùgòu jiànzhù yǐ shénqí de sǔnmǎo jiédiǎn zhùchēng, tōngtǐ bù yòng yì dīng yì mǎo, què néng lìjīng qiānnián fēngyǔ qīnshí yǔ jùliè dìzhèn kǎoyàn ér wēirán-yìlì. Shānxī Yìngxiàn mùtǎ biàn shì zhè yí jiànzhù qíjì de diǎnfàn, wánměi zhāngxiǎn le gǔdài Huàxià jiàngrén dēngfēng-zàojí de jiégòu lìxué zhìhuì. | Traditional Chinese wooden architecture is famed for ingenious mortise-and-tenon joints, enduring centuries of weathering and quakes without nails. The Yingxian Pagoda stands as an exemplar, showcasing peak structural mechanics. | La arquitectura tradicional china en madera brilla por sus ensambles sin clavos, soportando terremotos durante siglos. La Pagoda de Yingxian es muestra cumbre del dominio mecánico de los maestros constructores.
+  #2 | 四合院不仅是华北平原最具代表性的民居建筑形式，更是一部镌刻在青砖灰瓦间的家族伦理文化史。四合院由正房、厢房和倒座房等单体建筑围合而成，严谨对称的建筑格局，深刻映照出中国传统社会长幼有序、内外有别的宗法礼乐规范。 | Sìhéyuàn bùjǐn shì Huáběi píngyuán zuì jù dàibiǎoxìng de mínjū jiànzhù xíngshì, gèng shì yí bù juānkè zài qīngzhuān-huīwǎ jiān de jiāzú lúnlǐ wénhuà shǐ. Sìhéyuàn yóu zhèngfáng, xiāngfáng hé dàozuòfáng děng dāntǐ jiànzhù wéihé ér chéng, yánjǐn duìchèn de jiànzhù géjú, shēnkè yìngzhào chū Zhōngguó chuántǒng shèhuì zhǎngyòu-yǒuxù, nèiwài-yǒubié de zōngfǎ lǐyuè guīfàn. | The siheyuan is not only North China's signature vernacular architecture, but a clan history engraved in bricks. Arranging master halls and wings around a courtyard, its symmetrical layout mirrors traditional patriarchal ethics. | El siheyuan no es sólo la morada vernácula cumbre del norte, sino un compendio de ética familiar grabado en ladrillos. Su rigurosa simetría refleja los cánones confucianos de jerarquía y decoro doméstico.

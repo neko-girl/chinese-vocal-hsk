@@ -1,0 +1,62 @@
+id: 23
+hanzi: 种
+pinyin: zhòng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to plant; cultivate; grow; sow
+  es: plantar; cultivar; sembrar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to put seeds, bulbs, or plants into the earth to grow; cultivate vegetation | sembrar simientes o plantar vegetales en la tierra para que crezcan; cultivar | 在院子里种树 (plant trees in the courtyard)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 北京人喜欢在四合院的中央天井里种上几株石榴树与海棠花，寓意着家族子孙兴旺、吉祥如意。 | Běijīng rén xǐhuan zài sìhéyuàn de zhōngyāng tiānjǐng lǐ zhòng shang jǐ zhū shíliushù yǔ hǎitánghuā, yùyì zhe jiāzú zǐsūn xīngwàng, jíxiáng-rúyì. | Beijingers love to plant pomegranates and crabapple trees in their courtyard centers, symbolizing thriving progeny and good fortune. | A los pequineses les complace plantar granados y begonias en el patio central del siheyuan, augurando descendencia floreciente y dicha.
+  #2 | 退休后，王老师在郊区租下了一小块菜地，每天细心浇水除草，享受种菜的田园乐趣。 | Tuìxiū hòu, Wáng lǎoshī zài jiāoqū zū xià le yī xiǎo kuài càidì, měitiān xìxīn jiāoshuǐ chúcǎo, xiǎngshòu zhòng cài de tiányuán lèqù. | After retirement, Teacher Wang leased a small vegetable plot in the suburbs, watering and weeding daily to relish the idyllic fun of gardening. | Tras jubilarse, el profesor Wang arrendó una parcela en las afueras, dedicándose a regar y escardar para saborear la paz de cultivar hortalizas.
+
+collocations[6]{hanzi,en}:
+  种花种草 | grow flowers and plants
+  种树造林 | plant trees and afforest
+  种植农作物 | cultivate agricultural crops
+  播种希望 | sow the seeds of hope
+  种菜园 | plant a vegetable patch
+  亲手栽种 | plant with one's own hands
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  种瓜得瓜，种豆得豆 | zhòng guā dé guā, zhòng dòu dé dòu | as you sow, so shall you reap
+  十年树木，百年树人 | shí nián shù mù, bǎi nián shù rén | it takes ten years to grow trees, but a hundred years to cultivate talent
+  广种薄收 | guǎng zhòng bó shōu | plant extensively but reap meagerly; low yield across broad tracts
+  播种未来 | bō zhòng wèi lái | sow the fertile seeds of tomorrow
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  种 | zhòng | plant; cultivate; seed; kind | plantar; cultivar; semilla; especie | 禾 | grain / cereal crop | 禾 (tender grain seedling) + 中 (penetrating soil stake) | 中 (zhōng / phonetic root) | 9 | 左右结构 | Placing a grain seedling 禾 deep into the center 中 of fertile soil to take root; to cultivate. | Carefully planting a young cereal shoot (禾) into the heart (中) of tilled soil (种). | Hincar una espiga lozana (禾) en el seno (中) de la tierra labrada para que brote (种). | 51 | HDL | 種
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Inserting a grain seedling (禾) into the heart of the ground (中) means to plant (种).
+  composite_memory_hook_es: Enterrar un tallo de cereal (禾) en el centro fértil del surco (中) define el acto de sembrar (种).
+  cultural_and_cognitive_roots: Central to traditional Chinese agrarian civilization where planting seasonal crops regulated calendar rhythms and social customs.
+  tone_sandhi_and_pitch_modulation: Fourth tone as verb: 'zhòng' (51). Distinct from third-tone noun/classifier 'zhǒng' (kind/type). Pronounce with resolute downward pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    和 | hé | peace; harmony; with | Mouth radical 口 on the right instead of 中
+    秋 | qiū | autumn; fall | Fire radical 火 on the right instead of 中
+    秒 | miǎo | second (time) | Little radical 少 on the right instead of 中
+    科 | kē | science; branch | Dipper radical 斗 on the right instead of 中
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    种植 | zhòngzhí | plant; cultivate
+    栽种 | zāizhòng | plant; set in ground
+    耕种 | gēngzhòng | till and sow; cultivate farmland
+    种子 | zhǒngzi | seed; grain for sowing
+
+semantic_boundary_contrasts:
+  core_nuance: 种 (zhòng) functions as a transitive agricultural/horticultural verb meaning to embed seeds or saplings into earth.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 种 (zhòng) vs. 种 (zhǒng) | zhǒng | Fourth tone 种 (zhòng) is strictly verbal (to plant), whereas third tone 种 (zhǒng) is nominal/classifier (seed, kind, sort).
+    2 | 种 vs. 养 | yǎng | 种 applies to flora and plants in earth, whereas 养 primarily targets animals (fish, birds) or ongoing personal care.
+    3 | 种 vs. 收 | shōu | 收 is the direct antonym meaning to harvest or reap what was previously planted.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在老北京的四合院文化中，院落里的绿植栽种非常讲究。人们喜欢种石榴寓意“多子多福”，种海棠象征“富贵吉祥”，种紫藤增添春日雅趣。这些亲手栽种的花木，使院落一年四季都洋溢着勃勃生机。 | Zài lǎo Běijīng de sìhéyuàn wénhuà zhōng, yuànluò lǐ de lǜzhí zāizhòng fēicháng jiǎngjiu. Rénmen xǐhuan zhòng shíliu yùyì 'duō zǐ duō fú', zhòng hǎitáng xiàngzhēng 'fùguì jíxiáng', zhòng zǐténg zēngtiān chūnrì yǎqù. Zhèxiē qīnshǒu zāizhòng de huāmù, shǐ yuànluò yī nián sìjì dōu yángyì zhe bóbó shēngjī. | In the courtyard culture of old Beijing, planting greenery followed refined symbolism. Pomegranates meant fruitful posterity, crabapples heralded wealth, and wisteria lent spring elegance. These plants filled courtyards with vibrant vitality. | En la tradición del siheyuan pekinés, plantar especies vegetales respondía a delicados simbolismos. El granado auguraba bendición familiar, la begonia prosperidad y la glicina distinción primaveral, infundiendo lozanía al hogar.
+  #2 | 春种一粒粟，秋收万颗子。大自然的农耕法则生动诠释了付出与回报的朴素道理。只有在春天辛勤播种、耐得住酷暑里的默默灌溉与耕耘，才能在金秋时节迎来稻谷飘香的丰收喜悦。种下的每一滴汗水，都将结出生命的实果。 | Chūn zhòng yī lì sù, qiū shōu wàn kē zǐ. Dàzìrán de nónggēng fǎzé shēngdòng quánshì le fùchū yǔ huíbào de pǔsù dàolǐ. Zhǐyǒu zài chūntiān xīnqín bōzhòng, nàidézhe kùshǔ lǐ de mòmò guàngài yǔ gēngyún, cái néng zài jīnqiū shíjié yínglái dàogǔ piāoxiāng de fēngshōu xǐyuè. Zhòng xià de měi yī dī hànshuǐ, dōu jiāng jiéchū shēngmìng de shíguǒ. | Sow a single grain in spring, reap ten thousand seeds in autumn. Nature's agrarian law demonstrates the truth of effort and return. Only those who toil patiently in planting and irrigating will celebrate fragrant harvest joy in autumn. | Sembrar un grano en primavera y cosechar miríadas en otoño ilustra la relación entre esfuerzo y fruto. Solo la constancia al sembrar y regar en estío permite gozar en otoño de la mies dorada; cada gota de sudor fructifica en vida.

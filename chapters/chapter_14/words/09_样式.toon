@@ -1,0 +1,63 @@
+id: 9
+hanzi: 样式
+pinyin: yàng shì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: style; pattern; design; model; fashion
+  es: estilo; modelo; diseño; hechura; corte
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the design, pattern, cut, or stylistic format of clothing, buildings, or manufactured goods | forma, diseño, corte o modelo exterior de prendas, construcciones o artefactos | 新颖大方的服装样式 (a novel and elegant clothing style)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 这款新上市的运动鞋在外观样式上巧妙融入了中国传统山水纹样，一经推出便赢得了年轻消费者的热烈追捧。 | Zhè kuǎn xīn shàngshì de yùndòngxié zài wàiguān yàngshì shang qiǎomiào róngrù le Zhōngguó chuántǒng shānshuǐ wényàng, yījīng tuīchū biàn yíngdé le niánqīng xiāofèizhě de rèliè zhuīpěng. | This newly released sneaker seamlessly blends traditional Chinese landscape patterns into its design style, instantly captivating young consumers. | Esta nueva zapatilla incorpora motivos de pintura paisajística tradicional en su diseño exterior, cautivando al público juvenil desde su lanzamiento.
+  #2 | 在老城区建筑立面改造过程中，工程师们严格参照历史档案，力求精准还原民国时期的门窗样式。 | Zài lǎochéngqū jiànzhù lìmiàn gǎizào guòchéng zhōng, gōngchéngshīmen yángé cānzhào lìshǐ dàng'àn, lìqiú jīngzhǔn huányuán Mínguó shíqí de ménchuāng yàngshì. | During facade restorations in the old quarters, engineers consulted historic archives to faithfully restore Republican-era window and door styles. | En la rehabilitación de fachadas del casco viejo, los peritos consultaron archivos históricos para recrear fielmente la hechura de puertas y cancelas de época.
+
+collocations[6]{hanzi,en}:
+  服装样式 | clothing style / design
+  建筑样式 | architectural style / pattern
+  发型样式 | haircut style
+  新颖样式 | novel design / style
+  传统样式 | traditional pattern / design
+  改变样式 | change the style
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  千姿百态 | qiān zī bǎi tài | in diverse postures and forms; multifaceted variety
+  别具匠心 | bié jù jiàng xīn | show exceptional ingenuity in design or craft
+  花样翻新 | huā yàng fān xīn | create fresh novel patterns; renovate designs
+  依样画葫芦 | yī yàng huà hú lu | draw gourd copying original model; copy slavishly
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  样 | yàng | appearance; shape; pattern; sample | apariencia; muestra; modelo; tipo | 木 | tree / wood | 木 (wooden casting mold) + 羊 (sheep / auspicious horn shape) | 羊 (yáng / phonetic) | 10 | 左右结构 | Tree radical 木 beside 羊; originally a wooden casting mold carved with decorative patterns to shape prototypes and samples. | Carving fine wooden molds (木) shaped like graceful ram horns (羊) to forge beautiful samples (样). | Tallar moldes de madera (木) con la fina curva de cuernos de carnero (羊) para crear modelos (样). | 51 | DTO | 樣
+  式 | shì | type; pattern; style; rule; formula | tipo; patrón; norma; fórmula | 弋 | shoot arrow / stake | 弋 (reference stake marker) + 工 (carpenter's square) | 弋 (yì) | 6 | 半包围结构 | A carpenter's tool 工 aligned against a stake 弋; an officially approved standard prototype, rule, or model. | Calibrating a craftsman's square (工) against an upright post (弋) to define standard style (式). | Alinear la escuadra artesanal (工) frente al poste patrón (弋) para dictar el estilo normativo (式). | 51 | IPMO | 式
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A carved wooden prototype (样) combined with an approved standard rule (式) defines a tangible style (样式).
+  composite_memory_hook_es: Un molde de madera tallado (样) sumado al patrón normativo (式) compone el estilo o hechura (样式).
+  cultural_and_cognitive_roots: Historic title of imperial architectural draftsmen in Beijing: '样式雷' (Style Lei family), master architects of the Forbidden City and Summer Palace.
+  tone_sandhi_and_pitch_modulation: Two falling fourth tones: 'yàng shì' (51-51). Strike both syllables with decisive, balanced downward cadence.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    样 | yàng | sample; pattern | Tree radical 木 on left with 羊
+    洋 | yáng | ocean; foreign | Water radical 氵 on left of 羊
+    详 | xiáng | detailed; clear | Speech radical 讠 on left of 羊
+    式 | shì | pattern; formula | Contains 工 inside 弋
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    款 | kuǎn | design; model; fund
+    型 | xíng | type; mold; model
+    范 | fàn | pattern; model; limit
+    类 | lèi | category; kind
+
+semantic_boundary_contrasts:
+  core_nuance: 样式 refers to the visual design, cut, or aesthetic configuration of physical manufactured goods or structures.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 样式 vs. 模式 | móshì | 模式 refers to abstract business, operational, or economic paradigms (商业模式), while 样式 denotes tangible physical shape and cut.
+    2 | 样式 vs. 款式 | kuǎnshì | 款式 is commonly used for commercial fashion apparel and consumer gadgets (最新款式), while 样式 encompasses architecture and traditional crafts.
+    3 | 样式 vs. 形式 | xíngshì | 形式 is philosophical/abstract (form vs content), while 样式 is concrete visual aesthetics.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在故宫与颐和园的营造史中，清代内务府‘样式房’执掌了所有皇家宫殿的设计大权。其中声名赫赫的‘样式雷’世家历经八代传承，绘制了成千上万件烫样与精美图纸，将中国古建筑样式的美感推向了举世瞩目的艺术巅峰。 | Zài Gùgōng yǔ Yíhéyuán de yíngzào shǐ zhōng, Qīngdài Nèiwùfǔ 'Yàngshì Fáng' zhízhǎng le suǒyǒu huángjiā gōngdiàn de shèjì dàquán. Qízhōng shēngmíng-hèhè de 'Yàngshì Léi' shìjiā lìjīng bā dài chuánchéng, huìzhì le chéngqiān-shàngwàn jiàn tàngyàng yǔ jīngměi túzhǐ, jiāng Zhōngguó gǔ jiànzhù yàngshì de měigǎn tuīxiàng le jǔshì-zhǔmù de yìshù diānfēng. | In Forbidden City and Summer Palace history, the Qing Imperial Workshop's 'Style Chamber' oversaw designs. The famed 'Style Lei' family across eight generations produced thousands of architectural models, elevating palace styles to global peaks. | En la corte Qing, la 'Cámara de Estilo' diseñó la Ciudad Prohibida. La célebre dinastía 'Estilo Lei' forjó maquetas y planos primorosos durante ocho generaciones, elevando la arquitectura palaciega a su cúspide.
+  #2 | 四合院是北方传统民居最经典的典型样式。这种建筑样式分布广泛，虽然在各地因地制宜产生过细微的构造演化，但四面合围、尊卑有别以及中轴对称的核心格局始终未曾改变，成为千百年来北方人安放乡愁的温馨依托。 | Sìhéyuàn shì běifāng chuántǒng mínjū zuì jīngdiǎn de diǎnxíng yàngshì. Zhè zhǒng jiànzhù yàngshì fēnbù guǎngfàn, suīrán zài gèdì yīndì-zhìyí chǎnshēng guò xìwēi de gòuzào yǎnhuà, dàn sì miàn héwéi, zūnbēi-yǒubié yǐjí zhōngzhóu duìchèn de héxīn géjú shǐzhōng wèicéng gǎibiàn, chéngwéi qiānbǎinián lái běifāngrén ānfàng xiāngchóu de wēnxīn yītuō. | The siheyuan is the signature archetype of northern vernacular dwellings. Widely distributed, while adapting locally with subtle structural tweaks, its central axis symmetry and enclosed yard remained unchanged, cradling nostalgic warmth. | El siheyuan es el modelo arquetípico de la vivienda popular norteña. Con sutiles adaptaciones locales, su patio cerrado y rigurosa simetría se mantuvieron inmutables, acogiendo el apego solariego de generaciones.

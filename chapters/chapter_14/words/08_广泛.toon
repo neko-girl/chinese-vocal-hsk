@@ -1,0 +1,63 @@
+id: 8
+hanzi: 广泛
+pinyin: guǎng fàn
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: extensive; widespread; broad; wide-ranging
+  es: amplio; extenso; generalizado; de gran alcance
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | covering a large area, broad scope, or having widespread application across diverse fields | que abarca un gran espacio, número de personas, materias o campos de aplicación | 引起社会的广泛关注 (attract widespread social attention)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 随着新能源汽车技术的日益成熟，这种绿色低碳的出行方式正在全国各大城市得到广泛普及。 | Suízhe xīnnéngyuán qìchē jìshù de rìyì chéngshú, zhè zhǒng lǜsè dītàn de chūxíng fāngshì zhèng zài quánguó gèdà chéngshì dédào guǎngfàn pǔjí. | With new energy vehicle technologies maturing, this green and low-carbon travel mode is gaining widespread adoption across major cities. | Con el avance del coche eléctrico, este medio de transporte limpio se difunde de forma generalizada en las principales metrópolis del país.
+  #2 | 这位博学多才的大学教授不仅精通古代文献考据，还广泛涉猎天文学、心理学以及认知神经科学。 | Zhè wèi bóxué-duōcái de dàxué jiàoshòu bùjǐn jīngtōng gǔdài wénxiàn kǎojù, hái guǎngfàn shèliè tiānwénxué, xīnlǐxué yǐjí rènzhī shénjīng kēxué. | This erudite professor is not only versed in classical philology, but reads broadly across astronomy, psychology, and cognitive neuroscience. | Este sabio catedrático no sólo domina la filología clásica, sino que estudia con amplitud la astronomía, la psicología y la neurociencia cognitiva.
+
+collocations[6]{hanzi,en}:
+  广泛应用 | widespread application
+  广泛关注 | widespread attention
+  广泛分布 | widely distributed
+  广泛征求意见 | solicit opinions broadly
+  兴趣广泛 | broad interests
+  广泛涉猎 | read or explore extensively
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  遍地开花 | biàn dì kāi huā | blossom everywhere; widespread proliferation
+  博览群书 | bó lǎn qún shū | read widely across all volumes; well-read scholar
+  见多识广 | jiàn duō shí guǎng | experienced and knowledgeable with wide horizons
+  举世皆知 | jǔ shì jiē zhī | known universally across the entire world
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  广 | guǎng | broad; wide; vast; spacious | ancho; amplio; vasto | 广 | cliff / broad shelter | pictograph of a spacious open hall built against a hillside cliff | 广 (guǎng) | 3 | 单一结构 | A spacious mountain pavilion roof built on high crags; vast breadth and far-reaching spatial expanse. | A spacious hillside hall (广) commanding vast unobstructed views across distant plains. | Un amplio cobertizo en el monte (广) con vistas despejadas a extensas llanuras. | 214 | I | 廣
+  泛 | fàn | float; overflow; general; diffuse | flotar; desbordar; general; esparcir | 氵 | water | 氵 (water flow) + 乏 (run out / empty / overturn) | 乏 (fá / phonetic connection) | 7 | 左右结构 | Water radical 氵 beside 乏; flood waters overflowing river banks, diffusing and spreading far across plains. | Flood waters (氵) drifting and overflowing wide banks, diffusing far and wide (泛). | Corrientes de agua (氵) que se desbordan mansamente esparciéndose por el llano (泛). | 51 | EHIO | 泛
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A spacious hall's breadth (广) combined with overflowing water diffusing across plains (泛) is widespread (广泛).
+  composite_memory_hook_es: La vasta amplitud del monte (广) unida al agua que se desborda por el llano (泛) denota lo extenso (广泛).
+  cultural_and_cognitive_roots: Combines spatial breadth (广) with hydrological diffusion (泛) to signify extensive coverage across society and geography.
+  tone_sandhi_and_pitch_modulation: Dipping third tone followed by falling fourth tone: 'guǎng fàn' (214-51). Dip low on 'guǎng' and strike firmly down on 'fàn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    广 | guǎng | broad; wide | 3 strokes: dot, horizontal, and downward left slash
+    厂 | chǎng | factory; plant | 2 strokes: without the top dot
+    泛 | fàn | float; general | Water radical 氵 on left with 乏
+    眨 | zhǎ | blink; wink | Eye radical 目 on left of 乏
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    博 | bó | extensive; abundant
+    阔 | kuò | broad; vast
+    普 | pǔ | universal; general
+    漫 | màn | overflow; boundless
+
+semantic_boundary_contrasts:
+  core_nuance: 广泛 denotes extensive geographic distribution, large participant scale, or multi-disciplinary coverage.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 广泛 vs. 普遍 | pǔbiàn | 普遍 means common or typical across most cases (普遍现象), while 广泛 highlights wide scope and breadth of reach (广泛涉猎).
+    2 | 广泛 vs. 宽阔 | kuānkuò | 宽阔 refers strictly to concrete physical dimensions of spaces or rivers (宽阔的马路), whereas 广泛 applies to abstract domains.
+    3 | 广泛 vs. 全面 | quánmiàn | 全面 emphasizes thoroughness without missing angles (全面分析), while 广泛 emphasizes far-flung reach.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统草本医药在数千年的防病治病实践中积累了丰富经验，其安全有效的治疗理念在世界各地赢得了日益广泛的国际认可。越来越多的海外科研机构建立合作中心，对中医药的天然活性分子展开深入系统研究。 | Zhōngguó chuántǒng cǎoběn yīyào zài shùqiān nián de fángbìng-zhìbìng shíjiàn zhōng jīlěi le fēngfù jīngyàn, qí ānquán yǒuxiào de zhìliáo lǐniàn zài shìjiè gèdì yíngdé le rìyì guǎngfàn de guójì rènkě. Yuèláiyuè duō de hǎiwài kēyán jīgòu jiànlì hézuò zhōngxīn, duì zhōngyīyào de tiānrán huóxìng fēnzǐ zhǎnkāi shēnrù xìtǒng yánjiū. | Traditional Chinese herbal medicine accumulated clinical experience over millennia, winning widespread international acclaim for its safety. Global research centers increasingly partner to analyze natural active molecules. | La medicina herbaria tradicional china goza de un creciente reconocimiento internacional gracias a su eficacia milenaria. Prestigiosos centros extranjeros investigan sus compuestos activos en proyectos conjuntos.
+  #2 | 四合院不仅在北京老城落地生根，作为中国北方传统民居的重要代表，它在河北、山东以及山西等广大北方省份都有着极其广泛的分布。不论是市井平民的简朴小院，还是王府巨贾的深宅大院，四合院的样式都展现出了跨越阶层的强大文化凝聚力。 | Sìhéyuàn bùjǐn zài Běijīng lǎochéng luòdì-shēnggēn, zuòwéi Zhōngguó běifāng chuántǒng mínjū de zhòngyào dàibiǎo, tā zài Héběi, Shāndōng yǐjí Shānxī děng guǎngdà běifāng shěngfèn dōu yǒuzhe jíqí guǎngfàn de fēnbù. Búlùn shì shìjǐng píngmín de jiǎnpǔ xiǎoyuàn, háishì wángfǔ jùjiǎ de shēnzhái-dàyuàn, sìhéyuàn de yàngshì dōu zhǎnxiàn chū le kuàyuè jiēcéng de qiángdà wénhuà níngjùlì. | The siheyuan not only rooted in Beijing, but was widely distributed across Hebei, Shandong, and Shanxi. From humble alley courtyards to aristocratic mansions, the siheyuan showcased unifying cultural cohesion across classes. | El siheyuan floreció en Pekín y se extendió con amplitud por Hebei, Shandong y Shanxi. De las modestas casas del pueblo a los palacetes nobiliarios, este modelo derrochó una admirable cohesión cultural.

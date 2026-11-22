@@ -1,0 +1,63 @@
+id: 27
+hanzi: 好奇
+pinyin: hào qí
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: curious; inquisitive; inquisitive interest
+  es: curioso; inquisitivo; afán de saber
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | eager to know or learn something new, unusual, or unexplained | inclinado a conocer o averiguar cosas nuevas, raras o misteriosas | 对大自然抱有强烈的好奇心 (possess intense curiosity about nature)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 那个年幼的孩子趴在草地旁，好奇地观察着成群结队的黑蚂蚁如何分工搬运沉重的面包屑。 | Nà ge niányòu de háizi pā zài cǎodì páng, hàoqí de guānchá zhe chéngqún-jiéduì de hēi mǎyǐ rúhé fēngōng bānyùn chénzhòng de miànbāoxiè. | Lying upon the grass, the young child curiously observed how marching black ants divided labor to transport heavy breadcrumbs. | Tumbado en la hierba, el niño observaba con viva curiosidad cómo las laboriosas hormigas se repartían el acarreo de las migajas de pan.
+  #2 | 保持对未知世界永不衰退的好奇与敬畏，是每一个真正科学家在漫长探索征途上最宝贵的动力源泉。 | Bǎochí duì wèizhī shìjiè yǒng bù shuāituì de hàoqí yǔ jìngwèi, shì měi yí ge zhēnzhèng kēxuéjiā zài màncháng tànsuǒ zhēngtú shang zuì bǎoguì de dònglì yuánquán. | Maintaining unfading curiosity and reverence toward the unknown is the most precious wellspring of motivation for any true scientist on the quest of discovery. | Preservar una curiosidad infatigable y reverencia ante lo ignoto constituye el motor más valioso de cualquier científico en su afán de saber.
+
+collocations[6]{hanzi,en}:
+  好奇心 | curiosity; inquisitive mind
+  充满好奇 | filled with curiosity
+  感到好奇 | feel curious about
+  强烈的好奇 | intense curiosity
+  满足好奇心 | satisfy one's curiosity
+  好奇地打量 | scrutinize curiously
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  求知若渴 | qiú zhī ruò kě | thirsting for knowledge; eager intellectual yearning
+  探幽索微 | tàn yōu suǒ wēi | probe deep mysteries and investigate subtleties
+  别开生面 | bié kāi shēng miàn | break new ground; open up refreshing perspectives
+  追本溯源 | zhuī běn sù yuán | trace back to the fountainhead; seek underlying origins
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  好 | hào | fond of; like; love; eager for | aficionado a; amar; gustar | 女 | woman | 女 (mother) + 子 (child embracing) | 好 (hào/hǎo) | 6 | 左右结构 | Mother 女 holding her child 子 with deep affection; fourth-tone reading (hào) denotes being fond of or inclined toward. | A loving mother (女) embracing her beloved child (子), fond of nurturing all that is good (好). | Una madre abnegada (女) abrazando a su tierno hijo (子), inclinada a amar y aprender (好). | 51 | VND | 好
+  奇 | qí | strange; rare; wonderful; novel | raro; asombroso; singular | 大 | big | 大 (big / remarkable) + 可 (exclamation of approval) | 奇 (qí) | 8 | 上下结构 | Remarkable person 大 above approved speech 可; something extraordinarily striking, rare, and novel. | A person standing tall (大) exclaiming in astonishment (可) at a wondrous spectacle (奇). | Un hombre con brazos abiertos (大) exclamando con asombro (可) ante un prodigio singular (奇). | 35 | KMNR | 奇
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Being intensely fond of (好) exploring the strange and wonderful (奇) makes you curious (好奇).
+  composite_memory_hook_es: Ser aficionado a (好) descubrir lo insólito y asombroso (奇) define a una persona curiosa (好奇).
+  cultural_and_cognitive_roots: Considered the prime catalyst of philosophical inquiry and scientific invention across Chinese intellectual traditions.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by rising second tone: 'hào qí' (51-35). Note fourth tone 'hào' (not third tone 'hǎo'), soaring upward on 'qí'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    奇 | qí | strange; wonderful | Big 大 on top over 可
+    夺 | duó | seize; snatch | Big 大 over 寸
+    寄 | jì | send; mail; lodge | Roof radical 宀 on top of 奇
+    椅 | yǐ | chair | Tree radical 木 on left of 奇
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    探 | tàn | explore; probe; spy
+    疑 | yí | doubt; suspect
+    问 | wèn | ask; inquire
+    异 | yì | different; extraordinary
+
+semantic_boundary_contrasts:
+  core_nuance: 好奇 denotes the psychological craving to investigate or understand novel and unfamiliar phenomena.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 好奇 vs. 奇怪 | qíguài | 奇怪 is an objective descriptor meaning strange or bizarre (这件事很奇怪), while 好奇 describes a subjective mental state of inquiring eagerness (好奇心).
+    2 | 好奇 vs. 关注 | guānzhù | 关注 means paying close, serious ongoing attention to developments, whereas 好奇 can be whimsical and triggered by novelty.
+    3 | 好奇 vs. 猎奇 | lièqí | 猎奇 carries derogatory connotations of sensationalist novelty-seeking, while 好奇 is healthy intellectual inquisitiveness.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 爱因斯坦曾谦逊地写道：‘我并没有什么特殊的才能，我只是保持了无比强烈的好奇心。’正是对光线传播与时空奥秘那份孩童般纯粹的好奇，指引他在常人习以为常的自然规律深处，开创出颠覆近代物理学常识的相对论宏伟体系。 | Àiyīnsītǎn céng qiānxùn de xiědào: 'Wǒ bìng méiyǒu shénme tèshū de cáinéng, wǒ zhǐshì bǎochí le wúbǐ qiángliè de hàoqíxīn.' Zhèng shì duì guāngxiàn chuánbō yǔ shíkōng àomì nà fèn háitóng bān chúncuì de hàoqí, zhǐyǐn tā zài chángrén xíyǐwéicháng de zìrán guīlǜ shēnchù, kāichuàng chū diānfù jìndài wùlǐxué chángshí de xiāngduìlùn hóngwěi tǐxì. | Einstein humbly wrote: 'I have no special talent; I am only passionately curious.' It was pure curiosity about light and spacetime that guided him to unearth the revolutionary theory of relativity from ordinary natural laws. | Einstein admitió con humildad: 'No tengo talentos especiales, sólo una apasionada curiosidad'. Ese asombro infantil ante la luz y el cosmos le guió a formular la teoría de la relatividad revolucionando la física moderna.
+  #2 | 当年在篮球场边看比赛的孩子，之所以能打破工人们苦思冥想的僵局，恰恰在于他怀揣着一颗未受条框束缚的好奇心。他好奇人们为什么每次都要多此一举地搬梯子取球，正是这份敢于质疑常规的好奇与质朴发问，推开了现代体育创新的一扇大门。 | Dāngnián zài lánqiú chǎngbiān kàn bǐsài de háizi, zhī suǒyǐ néng dǎpò gōngrénmen kǔsī-míngxiǎng de jiāngjú, qiàqià zàiyú tā huáichuāi zhe yì kē wèishòu tiáokuāng shùfù de hàoqíxīn. Tā hàoqí rénmen wèishénme měicì dōu yào duōcǐyìjǔ de bān tīzi qǔ qiú, zhèng shì zhè fèn gǎnyú zhìyí chángguī de hàoqí yǔ zhípǔ fāwèn, tuīkāi le xiàndài tǐyù chuàngxīn de yí shàn dàmén. | The child by the court broke the adults' deadlock because he held uninhibited curiosity. He wondered why adults needlessly lugged ladders after every score. That candid curiosity questioning routine swung wide the doors to modern sports innovation. | El niño de la grada desbloqueó el dilema de los adultos gracias a su curiosidad sin ataduras. Le intrigaba por qué acarreaban escaleras en vano tras cada canasta; esa ingenua pregunta abrió las puertas a la innovación deportiva.

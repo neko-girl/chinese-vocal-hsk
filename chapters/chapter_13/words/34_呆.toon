@@ -1,0 +1,63 @@
+id: 34
+hanzi: 呆
+pinyin: dāi
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: dull; foolish; blank; to stay; dawdle
+  es: atontado; boquiabierto; torpe; quedarse; permanecer
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | dull-witted, sluggish, or staring blankly with an immobile expression | quedarse pasmado, atónito o con la mirada perdida sin reaccionar | 吓得目瞪口呆 (scared stiff and dumbfounded)
+  2 | Verb | Colloquial | to stay, linger, or remain in a place without moving | permanecer o quedarse en un sitio durante un tiempo | 在老家呆了两个星期 (stayed in hometown for two weeks)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 听到突如其来的失业噩耗，他整个人顿时呆立在原地，脑子里一片空白不知该如何是好。 | Tīngdào tūrúqílái de shīyè èhào, tā zhěngrén dùnshí dāi lì zài yuándì, nǎozǐ lǐ yípiàn kòngbái bùzhī gāi rúhé shì hǎo. | Hearing the abrupt catastrophic news of his layoff, he stood blankly rooted to the spot, his mind an utter void not knowing what to do. | Al enterarse del repentino despido, se quedó paralizado en el sitio boquiabierto, con la mente en blanco y sin saber cómo reaccionar.
+  #2 | 周末他哪儿也不想去，就喜欢一个人静静地呆在飘着书香的书房里喝茶看书。 | Zhōumò tā nǎr yě bù xiǎng qù, jiù xǐhuan yí ge rén jìngjìng de dāi zài piāozhe shūxiāng de shūfáng lǐ hēchá kànshū. | On weekends he had no wish to go anywhere, preferring to stay quietly alone in his book-scented study drinking tea and reading. | Los fines de semana no le apetece salir; prefiere quedarse plácidamente en el estudio disfrutando de la lectura y un té aromático.
+
+collocations[6]{hanzi,en}:
+  目瞪口呆 | dumbfounded; flabbergasted
+  发呆 | stare blankly; day-dream
+  呆滞 | dull; sluggish; stagnant
+  呆板 | inflexible; wooden; rigid
+  呆在家里 | stay at home
+  看呆了 | watch in stunned bewilderment
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  目瞪口呆 | mù dèng kǒu dāi | stare wide-eyed and open-mouthed; struck dumb with shock
+  呆若木鸡 | dāi ruò mù jī | transfixed like a wooden cock; motionless with shock or mastery
+  大智若愚 | dà zhì ruò yú | supreme wisdom seems like foolishness; profound depth
+  死板教条 | sǐ bǎn jiào tiáo | dogmatic and rigid in thinking
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  呆 | dāi | dull; foolish; blank; stay | bobo; pasmado; quedarse | 口 | mouth | 口 (open mouth) + 木 (wooden post / immobile tree) | 呆 (dāi) | 7 | 上下结构 | Open mouth 口 resting stiffly on top of wooden post 木; standing frozen with mouth agape like a wooden statue. | Standing stiff as a wooden tree (木) with mouth gaping wide open (口) in stunned silence (呆). | Quedarse inmóvil como un madero seco (木) con la boca abierta (口) atónito de asombro (呆). | 55 | RD | 呆
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Having your mouth open (口) while frozen like a wooden stump (木) makes you look blank and stunned (呆).
+  composite_memory_hook_es: Tener la boca abierta (口) petrificado como un poste de madera (木) te deja boquiabierto (呆).
+  cultural_and_cognitive_roots: Derives from Zhuangzi's fable of the fighting cock (呆若木鸡) which appears motionless and dull but possesses unbeatable calm.
+  tone_sandhi_and_pitch_modulation: Level high tone: 'dāi' (55). Sustain an even high tone without dropping in pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    呆 | dāi | dull; blank; stay | Mouth 口 on top over wood 木
+    杏 | xìng | apricot | Wood 木 on top over mouth 口
+    困 | kùn | trapped; surrounded | Wood 木 inside enclosure 囗
+    保 | bǎo | protect; preserve | Person radical 亻 on left of 呆
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    傻 | shǎ | foolish; silly
+    痴 | chī | infatuated; foolish
+    滞 | zhì | stagnant; sluggish
+    钝 | dùn | blunt; slow-witted
+
+semantic_boundary_contrasts:
+  core_nuance: 呆 indicates temporary mental blankness, frozen immobility, or colloquially lingering in a location.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 呆 vs. 傻 | shǎ | 傻 describes innate silliness, naivety, or lack of intelligence, whereas 呆 emphasizes staring blankly or standing frozen in shock.
+    2 | 呆 vs. 留 | liú | 留 is formal for staying or detaining (留步, 留学), while 呆 is informal colloquial for hanging around (呆在家里).
+    3 | 呆 vs. 愣 | lèng | 愣 stresses sudden momentary bewilderment or rash impulsiveness (发愣, 愣头青), while 呆 can be prolonged dullness.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 庄子曾借斗鸡寓言阐述‘呆若木鸡’的至高境界。真正顶级的斗鸡既不鸣叫炫耀，也不张牙舞爪，而是如木雕般凝神静气、沉稳呆立，却能令一切对手望而生畏、落荒而逃。这体现了超越浮躁的大智与沉敛。 | Zhuāngzǐ céng jiè dòujī yùyán chǎnshù 'dāiruò-mùjī' de zhìgāo jìngjiè. Zhēnzhèng dǐngjí de dòujī jì bù míngjiào xuànyào, yě bù zhāngyá-wǔzhǎo, érshì rú mùdiāo bān nǐngshén-jìngqì, chénwěn dāi lì, què néng lìng yíqiè duìshǒu wàng'ér-shēngwèi, luòhuāng'értáo. Zhè tǐxiàn le chāoyuè fúzào de dàzhì yǔ chénliǎn. | Zhuangzi used the gamecock fable to illustrate the supreme state of 'calm like a wooden rooster'. The finest rooster neither crows nor struts, standing immobile like a wood carving, yet terrifies rivals into flight, exuding calm depth. | Zhuangzi ilustró con el gallo de pelea la cumbre del sosiego impávido. El mejor gallo no cacarea ni aletea; permanece plantado como talla de madera y su aplomo espanta a los rivales, encarnando la serenidad suprema.
+  #2 | 当年在篮球场上，当小男孩说出锯掉筐底的瞬间，满场的大人们全惊呆了。工人们面面相觑地呆立了数秒，随后爆发出一阵如释重负的会心大笑。那一刻的目瞪口呆，正是思维冲破传统牢笼时不可避免的心智激荡。 | Dāngnián zài lánqiúchǎng shang, dāng xiǎo nánhái shuōchū jù diào kuāngdǐ de shùnjiān, mǎn chǎng de dàrenmen quán jīng dāi le. Gōngrénmen miànmiàn-xiāngqù de dāi lì le shù miǎo, suíhòu bàofā chū yí zhèn rúshì-zhòngfù de huìxīn dàxiào. Nà yí kè de mùdèng-kǒudāi, zhèng shì sīwéi chōngpò chuántǒng láolóng shí bùkě-bìmiǎn de xīnjiào jīdàng. | When the boy suggested sawing off the bottom, the adults on the court were struck dumb. Workers stood staring blankly for seconds before bursting into relieved laughter. That stunned moment captured the shock of minds bursting free from ruts. | Al proponer el chiquillo recortar el fondo, los adultos se quedaron boquiabiertos. Se miraron atónitos unos instantes antes de romper en risas de alivio. Ese instante de pasmo reflejó el despertar de la mente rompiendo viejas ataduras.

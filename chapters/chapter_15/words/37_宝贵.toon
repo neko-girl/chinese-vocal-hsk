@@ -1,0 +1,63 @@
+id: 37
+hanzi: 宝贵
+pinyin: bǎo guì
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: precious; valuable; treasured
+  es: precioso; valioso; de gran valor; estimable
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | having great value, worth, or significance; extremely precious | que tiene un gran valor, estima o utilidad trascendente; sumamente preciado | 宝贵的经验 (precious experience)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老将廉颇在数十载沙场征战中积累了极其宝贵的实战经验，这些远非书本空谈所能比拟。 | Lǎojiàng Lián Pō zài shùshí zǎi shāchǎng zhēngzhàn zhōng jīlěi le jíqí bǎoguì de shízhàn jīngyàn, zhèxiē yuǎnfēi shūběn kōngtán suǒ néng bǐnǐ. | Veteran general Lian Po accumulated exceedingly precious combat experience over decades of campaigns, which empty book theories could never rival. | El veterano general Lian Po atesoró una valiosísima experiencia en décadas de combate, inalcanzable para la vana teoría de los libros.
+  #2 | 在快节奏的现代生活中，能够专心陪伴家人共享天伦之乐，是人生中最宝贵的幸福时刻。 | Zài kuài jiézòu de xiàndài shēnghuó zhōng, nénggòu zhuānxīn péibàn jiārén gòngxiǎng tiānlún zhī lè, shì rénshēng zhōng zuì bǎoguì de xìngfú shíkè. | In the fast pace of modern life, being able to focus on accompanying family and enjoying harmony is life's most precious happiness. | En la ajetreada vida moderna, poder dedicar tiempo a la familia y gozar de su afecto constituye el momento más valioso de la existencia.
+
+collocations[6]{hanzi,en}:
+  宝贵经验 | valuable / precious experience
+  宝贵财富 | precious wealth / asset
+  宝贵时间 | valuable time
+  宝贵生命 | precious life
+  宝贵意见 | valuable feedback / advice
+  极为宝贵 | extremely precious
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  分秒必争 | fēn miǎo bì zhēng | seize every minute and second; race against time
+  千金难买 | qiān jīn nán mǎi | priceless; cannot be bought even with a thousand gold coins
+  寸阴可惜 | cùn yīn kě xī | every inch of time is precious and should not be squandered
+  价值连城 | jià zhí lián chéng | worth several cities; invaluable treasure
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  宝 | bǎo | treasure; precious; jewel; precious object | tesoro; precioso; joya; objeto valioso | 宀 | roof / house | 宀 (house / treasury) + 玉 (radiant jade gem) | 缶 (archaic sound in traditional 寶) | 8 | 上下结构 | Precious jade stones 玉 treasured and safeguarded under the roof 宀 of the treasury; signifies jewel and treasure. | Precious polished jade (玉) safeguarded safely under the roof (宀) as a treasure (宝). | Una gema de jade (玉) custodiada bajo el tejado (宀) como un tesoro sagrado (宝). | 214 | JMI | 寶
+  贵 | guì | expensive; precious; noble; honor | caro; precioso; noble; honorable | 贝 | cowrie shell / currency | 贝 (ancient shell currency) + 中/𠀎 (costly merchandise) | 臾/𠀎 (guì) | 9 | 上下结构 | Goods backed by precious cowrie shell money 贝; denotes high value, nobility, and precious worth. | Piles of rare shell money (贝) marking goods of highest noble value (贵). | Montones de valiosas caracolas moneda (贝) que acreditan un alto valor y nobleza (贵). | 51 | LMBO | 貴
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Treasures housed under the roof (宝) backed by costly wealth (贵) are exceedingly precious (宝贵).
+  composite_memory_hook_es: Las gemas del tesoro (宝) respaldadas por caudales valiosos (贵) son sumamente preciadas (宝贵).
+  cultural_and_cognitive_roots: Combines domestic treasury jade with cowrie money, expanding to spiritual, intellectual, and temporal value.
+  tone_sandhi_and_pitch_modulation: Third tone to fourth tone: 'bǎo guì' (214-51). Half-third dip rising before sharp drop on 'guì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    实 | shí | solid; real; fruit | Head has 头 instead of jade 玉
+    定 | dìng | settle; fix | Radical 宀 with 正/疋 below
+    遗 | yí | lose; bequeath | Surrounded by walk radical 辶
+    资 | zī | resources; capital | Top component is 次 instead of 𠀎
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    珍贵 | zhēnguì | precious; invaluable
+    宝贝 | bǎobèi | cherished treasure; baby
+    宝藏 | bǎozàng | treasure trove
+    贵重 | guìzhòng | valuable; costly
+
+semantic_boundary_contrasts:
+  core_nuance: 宝贵 highlights immense intrinsic or non-material utility, wisdom, lessons, or time.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 宝贵 vs. 珍贵 | zhēnguì | 珍贵 leans toward emotional affection and rare physical articles, while 宝贵 emphasizes intrinsic functional and intellectual value.
+    2 | 宝贵 vs. 昂贵 | ángguì | 昂贵 refers strictly to high monetary price, whereas 宝贵 usually describes cherished non-material values.
+    3 | 宝贵 vs. 名贵 | míngguì | 名贵 describes famous luxury specimens (e.g. rare herbs or stones), whereas 宝贵 has broad spiritual application.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在瞬息万变的生死战局中，老将廉颇凭借几十年浴血奋战摸索出的防御经验，是赵国赖以抵御强秦最宝贵的军事财富。赵王因谣言将其撤换，白白葬送了扭转乾坤的宝贵时机，铸成历史悲剧。 | Zài shùnxī-wànbiàn de shēngsǐ zhànjú zhōng, lǎojiàng Lián Pō píngjiè jǐshí nián yùxuè-fènzhàn mōsuǒ chū de fángyù jīngyàn, shì Zhàoguó làiyǐ dǐyù qiáng Qín zuì bǎoguì de jūnshì cáifù. Zhào wáng yīn yáoyán jiāng qí chèhuàn, báibái zàngsòng le niǔzhuǎn qiánkūn de bǎoguì shíjī, zhùchéng lìshǐ bēijù. | In life-and-death warfare, Lian Po's defensive experience forged over decades was Zhao's most precious asset against Qin. Swayed by rumors, King of Zhao replaced him, squandering a precious opportunity and causing historic tragedy. | En la guerra despiadada, la experiencia defensiva de Lian Po era el tesoro militar más preciado de Zhao frente al invasor. El rey de Zhao creyó los rumores y lo relevó, desperdiciando una valiosa ocasión y sellando la tragedia.
+  #2 | 光阴荏苒，日月如梭，时间是世间唯一无法逆转的宝贵资产。金钱耗尽尚有再度创造之机，青春年华一旦虚掷便永不复返。唯有懂得珍惜每一分宝贵光阴，脚踏实地钻研进取，方能铸就无悔的精彩人生。 | Guāngyīn-rěnrǎn, rìyuè-rúsuō, shíjiān shì shìjiān wéiyī wúfǎ nìzhuǎn de bǎoguì zīchǎn. Jīnqián hàojìn shàng yǒu zàidù chuàngzào zhī jī, qīngchūn niánhuá yídàn xūzhì biàn yǒng bù fùfǎn. Wéiyǒu dǒngdé zhēnxī měi yì fēn bǎoguì guāngyīn, jiǎotàshídì zuānyán jìnqǔ, fāng néng zhùjiù wúhuǐ de jīngcǎi rénshēng. | Time passes like a shuttle; it is the only non-renewable precious asset on earth. Lost money can be regained, but squandered youth never returns. Cherishing precious moments and striving forward creates a life without regrets. | El tiempo vuela sin freno y es el activo más valioso e irrecuperable de este mundo. El dinero gastado se puede volver a ganar, pero la juventud perdida no regresa jamás. Atesorar cada instante permite forjar una vida plena.

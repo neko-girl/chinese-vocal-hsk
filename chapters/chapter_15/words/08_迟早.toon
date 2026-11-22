@@ -1,0 +1,63 @@
+id: 8
+hanzi: 迟早
+pinyin: chí zǎo
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: sooner or later; eventually; in time
+  es: tarde o temprano; a la larga; con el tiempo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | inevitably occurring at some future moment, regardless of whether it happens sooner or later | que ocurrirá de modo inexorable en algún instante venidero, antes o después | 迟早要发生 (sooner or later bound to happen)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括如果不改掉狂妄自大、纸上谈兵的毛病，带兵打仗迟早要给赵国招致惨重的灾难。 | Zhào Kuò rúguǒ bù gǎidiào kuángwàng-zìdà, zhǐshàng-tánbīng de máobìng, dài bīng dǎzhàng chízǎo yào gěi Zhàoguó zhāozhì cǎnzhòng de zāinàn. | If Zhao Kuo failed to correct his arrogance and armchair habit, leading troops into combat would sooner or later bring disaster upon the State of Zhao. | Si Zhao Kuo no corregía su fatuidad y diletantismo teórico, mandar tropas al combate traería tarde o temprano una hecatombe al reino de Zhao.
+  #2 | 只要坚持不懈地朝着既定目标努力拼搏，汗水与付出迟早会换来丰硕的收获。 | Zhǐyào jiānchí-bùxiè de cháozhe jìdìng mùbiāo nǔlì pīnbó, hànshuǐ yǔ fùchū chízǎo huì huàn lái fēngshuò de shōuhuò. | As long as one perseveres tirelessly toward the set goal, sweat and dedication will sooner or later yield fruitful rewards. | Con tal de perseverar infatigablemente hacia la meta fijada, el sudor y el tesón cosecharán tarde o temprano frutos ubérrimos.
+
+collocations[6]{hanzi,en}:
+  迟早会 | sooner or later will ...
+  迟早要来 | inevitably bound to arrive
+  迟早明白 | understand eventually
+  迟早成功 | succeed sooner or later
+  迟早水落石出 | truth will out sooner or later
+  迟早露出马脚 | eventually betray oneself
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  水落石出 | shuǐ luò shí chū | as water recedes stones appear; truth comes to light eventually
+  天网恢恢 | tiān wǎng huī huī | the net of heaven is vast; evil will inevitably be punished
+  苦尽甘来 | kǔ jìn gān lái | bitterness ends and sweetness begins; joy comes after sorrow
+  功到自然成 | gōng dào zì rán chéng | when effort is ripe, success comes naturally
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  迟 | chí | late; delayed; slow; tardy | tarde; lento; demorado; retrasado | 辶 | walk / movement | 辶 (motion along road) + 尺 (foot rule / short step) | 尺 (chǐ) | 7 | 半包围结构 | Walking 辶 taking only small measured foot-lengths 尺 along the way; to advance slowly and arrive late. | Advancing along a road (辶) inch by inch (尺), arriving slow and late (迟). | Caminar por el sendero (辶) paso a paso medido a palmos (尺), demorando la marcha (迟). | 35 | YSO | 遲
+  早 | zǎo | early; morning; beforehand | temprano; mañana; con antelación | 日 | sun | 日 (sun) + 十 (first morning light / armor horizon) | 早 (zǎo) | 6 | 上下结构 | The sun 日 peeking just above the horizon 十 at early dawn; marks early time. | The shining morning sun (日) rising above the crossline horizon at dawn (早). | El disco solar (日) despuntando sobre el horizonte en el alba temprana (早). | 214 | AJ | 早
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Whether late (迟) or early (早), the outcome will inevitably occur sooner or later (迟早).
+  composite_memory_hook_es: Sea tarde (迟) o sea temprano (早), el desenlace ocurrirá inexorablemente (迟早).
+  cultural_and_cognitive_roots: Expresses traditional conviction in karmic inevitability and the natural maturation of time.
+  tone_sandhi_and_pitch_modulation: Second tone to third tone: 'chí zǎo' (35-214). Lift smoothly on 'chí', then dip deeply and rise on 'zǎo'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    尺 | chǐ | ruler; foot | Lacks the movement radical 辶
+    送 | sòng | send; deliver | Pass 关 variant under 辶 instead of 尺
+    草 | cǎo | grass | Grass radical 艹 on top of 早
+    旱 | hàn | drought | Shield 干 under 日 instead of 十
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    迟到 | chídào | arrive late; be tardy
+    推迟 | tuīchí | postpone; delay
+    早晨 | zǎochén | early morning
+    及早 | jízǎo | as early as possible
+
+semantic_boundary_contrasts:
+  core_nuance: 迟早 conveys certainty that a future event is inevitable, with timing as the only variable.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 迟早 vs. 早晚 | zǎowǎn | 早晚 is a colloquial synonym for sooner or later, while 迟早 is common across both written prose and spoken registers.
+    2 | 迟早 vs. 最终 | zuìzhōng | 最终 denotes the final concluding stage in a process, whereas 迟早 affirms the inexorability of an occurrence.
+    3 | 迟早 vs. 决不 | juébù | 决不 is the direct antonym asserting that an event will never take place under any circumstance.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 当年赵奢听闻赵括谈论军事时，不仅未露喜色，反而忧心忡忡。他对妻子说：“兵是生死之地，赵括却视若易事。赵国若不用他还罢了，若真让他做大将，破赵军者迟早必是赵括！”历史的演进不幸言中了他的预言。 | Dāngnián Zhào Shē tīngwén Zhào Kuò tánlùn jūnshì shí, bùjǐn wèi lù xǐsè, fǎn'ér yōuxīn-chōngchōng. Tā duì qīzǐ shuō: 'Bīng shì sǐdì yě, ér Kuò shì ruò yì shì. Zhàoguó ruò bù yòng tā hái bà le, ruò zhēn ràng tā zuò dàjiàng, pò Zhàojūn zhě chízǎo bì shì Zhào Kuò!' Lìshǐ de yǎnjìn bùxìng yánzhòng le tā de yùyán. | When Zhao She heard his son talk of war, he frowned: 'War is mortal ground, yet Kuo treats it lightly. If Zhao appoints him general, the one who destroys our army will sooner or later be Kuo!' History tragically fulfilled his prophecy. | Al oír a su hijo hablar de táctica, Zhao She sentenció apesadumbrado: 'La guerra es mortífera y él la toma a la ligera. Si el rey lo nombra general, ¡tarde o temprano será quien hunda a Zhao!' La historia confirmó el presagio.
+  #2 | 自然界的万物生长皆有其内在的节律。春天埋入泥土的种子，只要经历风雨的洗礼与阳光的哺育，迟早会破土成苗、开花结果。在人生的求索道路上，耐得住寂寞与沉淀的人，迟早会迎来属于自己的高光时刻。 | Zìránjiè de wànwù shēngzhǎng jiē yǒu qí nèizài de jiélǜ. Chūntiān máirù nítǔ de zhǒngzi, zhǐyào jīnglì fēngyǔ de xǐlǐ yǔ yángguāng de bǔyù, chízǎo huì pòtǔ chéng miáo, kāihuā-jiéguǒ. Zài rénshēng de qiúsuǒ dàolù shang, nàidézhù jìmò yǔ chéndiàn de rén, chízǎo huì yínglái shǔyú zìjǐ de gāoguāng shíkè. | All living things grow according to nature's rhythms. Seeds buried in spring, nurtured by rain and sun, will sooner or later sprout and bear fruit. Those who endure quiet dedication will eventually embrace their finest hours. | Todo en la naturaleza responde a ritmos armónicos. La semilla que resiste la intemperie primaveral tarde o temprano florece y da fruto; quien persevera en el callado afán alcanza tarde o temprano la plenitud soñada.

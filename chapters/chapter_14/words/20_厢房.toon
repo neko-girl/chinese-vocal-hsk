@@ -1,0 +1,63 @@
+id: 20
+hanzi: 厢房
+pinyin: xiāng fáng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: wing-room; side building (in a courtyard)
+  es: ala lateral; habitación lateral del patio (en un siheyuan)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | rooms built along the east and west flanks of a traditional Chinese quadrangle courtyard compound | estancias o pabellones dispuestos en los flancos este y oeste de un patio cuadrangular chino | 东厢房与西厢房 (east wing-room and west wing-room)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在老北京四合院中，东厢房与西厢房面对面并列排布，通常分配给家中的儿女居住或作为书房。 | Zài lǎo Běijīng sìhéyuàn zhōng, dōngxiāngfáng yǔ xīxiāngfáng miànduìmiàn bìngliè páibù, tōngcháng fēnpèi gěi jiāzhōng de érnǚ jūzhù huò zuòwéi shūfáng. | In old Beijing courtyards, the east and west wings stand face to face, traditionally assigned as residences for sons and daughters or as studies. | En el siheyuan pekinés, las alas este y oeste se disponen frente a frente, reservadas habitualmente para los hijos o como estudios familiares.
+  #2 | 主人经过精心修缮，把原本堆放旧物的西厢房改造成了一间窗明几净、古色古香的客人茶室。 | Zhǔrén jīngguò jīngxīn xiūshàn, bǎ yuánběn duīfàng jiùwù de xīxiāngfáng gǎizào chéng le yī jiān chuāngmíng-jǐjìng, gǔsè-gǔxiāng de kèrén cháshì. | After meticulous restoration, the owner renovated the west wing—once used for storage—into a spotless, classically styled tea room for guests. | Tras una esmerada rehabilitación, el dueño convirtió el ala oeste, otrora trastero, en un salón de té para invitados diáfano y de aire clásico.
+
+collocations[6]{hanzi,en}:
+  东厢房 | east wing-room
+  西厢房 | west wing-room
+  修缮厢房 | renovate / restore wing-rooms
+  两侧厢房 | wing-rooms on both flanks
+  厢房格局 | spatial layout of wing-rooms
+  改建厢房 | remodel wing-rooms
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  西厢待月 | xī xiāng dài yuè | waiting for one's beloved in the west wing under moonlight
+  雕梁画栋 | diāo liáng huà dòng | carved beams and painted rafters; ornate building
+  门当户对 | mén dāng hù duì | matched well in social standing and lineage
+  画栋飞甍 | huà dòng fēi méng | splendid and picturesque architectural cornices
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  厢 | xiāng | wing-room; side building; compartment | ala lateral; habitación contigua; compartimento | 广 | shelter / wide house | 广 (broad rooftop shelter) + 相 (mutual inspection/flanking trees) | 相 (xiāng) | 12 | 半包围结构 | A shelter 广 built alongside flanking rows 相 of trees and courtyards; represents flanking wing-rooms. | A roofed side wing (广) positioned face to face (相) across the garden courtyard (厢). | Un ala techada (广) situada cara a cara (相) al otro lado del patio solariego (厢). | 55 | IDBU | 廂
+  房 | fáng | house; room; building; dwelling | casa; estancia; habitación; morada | 户 | single-leaf door | 户 (single door of a dwelling) + 方 (square foundation plot) | 方 (fāng) | 8 | 半包围结构 | A domestic room accessed via a single front door 户 built atop a square lot 方; a room or chamber. | Pushing open a wooden single door (户) to enter an inviting square bedroom chamber (房). | Empujar una puerta de madera (户) para acceder a una acogedora estancia cuadrangular (房). | 35 | HYSH | 房
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A flanking side shelter (厢) built as a domestic room (房) forms a courtyard wing-room (厢房).
+  composite_memory_hook_es: Un pabellón lateral (厢) construido como estancia habitable (房) conforma el ala del patio (厢房).
+  cultural_and_cognitive_roots: A cornerstone of classical courtyard layout embodying axial symmetry and Confucian generational housing rank.
+  tone_sandhi_and_pitch_modulation: First tone to second tone: 'xiāng fáng' (55-35). Begin high and level, then glide smoothly up.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    箱 | xiāng | box; chest; suitcase | Bamboo radical 竹 on top instead of shelter 广
+    相 | xiāng | mutual; appearance | Lacks the enclosing shelter radical 广
+    防 | fáng | defend; guard against | Mound radical 阝 on left instead of single door 户
+    坊 | fāng | lane; workshop; neighborhood | Earth radical 土 on left instead of single door 户
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    车厢 | chēxiāng | railway carriage; train car
+    包厢 | bāoxiāng | private box (theater/dining)
+    房屋 | fángwū | houses; premises
+    房间 | fángjiān | room; chamber
+
+semantic_boundary_contrasts:
+  core_nuance: 厢房 refers specifically to the east and west flanking lateral wings of a courtyard compound.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 厢房 vs. 正房 | zhèngfáng | 正房 is the principal north-facing building reserved for elders, while 厢房 are secondary lateral flank buildings.
+    2 | 厢房 vs. 倒座房 | dàozuòfáng | 倒座房 sits along the southern perimeter facing north toward the courtyard, distinct from east-west 厢房.
+    3 | 厢房 vs. 耳房 | ěrfáng | 耳房 are small ear-like adjoining annexes attached to the sides of the main room, not standalone lateral wings.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四合院东西两侧的厢房，是维系传统家族生活的重要场所。按照长幼次序的旧礼，东厢房采光更加充足，地位略高于西厢房，多安排给长子居住。两座厢房隔院相对，既保持了各房的独立，又方便彼此照料走动。 | Sìhéyuàn dōngxī liǎngcè de xiāngfáng, shì wéixì chuántǒng jiāzú shēnghuó de zhòngyào chǎngsuǒ. Ànzhào zhǎngyòu cìxù de jiùlǐ, dōngxiāngfáng cǎiguāng gèngjiā chōngzú, dìwèi lüègāo yú xīxiāngfáng, duō ānpái gěi zhǎngzǐ jūzhù. Liǎng zuò xiāngfáng gé yuàn xiāngduì, jì bǎochí le gè fáng de dúlì, yòu fāngbiàn bǐcǐ zhàoliào zǒudòng. | The side wings on the east and west of a courtyard were crucial spaces sustaining traditional family life. By old customs, the east wing enjoyed better daylight and slightly higher rank, housing the eldest son. Facing across the yard, they maintained privacy while facilitating mutual care. | Las alas este y oeste del siheyuan eran vitales para la convivencia familiar. Según la tradición, el ala este recibía mejor luz y rango, habitada por el primogénito. Enfrentadas a través del patio, aseguraban independencia y cercanía.
+  #2 | 中国古代著名的杂剧名作《西厢记》，正是发生在一座幽静寺院西厢房里的爱情传奇。崔莺莺与张生冲破封建礼教的重重禁锢，在月色映照下的西厢房里互诉衷肠。这出优美的经典戏剧，赋予了传统厢房无尽的诗意浪漫与文学底蕴。 | Zhōngguó gǔdài zhùmíng de zájù míngzuò Xīxiāngjì, zhèngshì fāshēng zài yī zuò yōujìng sìyuàn xīxiāngfáng lǐ de àiqíng chuánqí. Cuī Yīngyīng yǔ Zhāng Shēng chōngpò fēngjiàn lǐjiào de chóngchóng jìngù, zài yuèshè yìngzhào xià de xīxiāngfáng lǐ hù sù zhōngcháng. Zhè chū yōuměi de jīngdiǎn xìjù, fùyǔ le chuántǒng xiāngfáng wújìn de shīyì làngmàn yǔ wénxué dǐyùn. | The famous ancient drama 'Romance of the Western Chamber' tells an enduring love legend unfolding in the west wing of a quiet temple. Cui Yingying and Zhang Sheng broke through feudal constraints under moonlight, infusing the term with timeless literary romance. | El célebre drama clásico chino 'Romance del Pabellón Occidental' narra un romance en el ala oeste de un monasterio. Cui Yingying y Zhang Sheng desafiaron las ataduras feudales bajo la luna, impregnando este espacio de eterna poesía y romance literario.

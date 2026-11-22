@@ -1,0 +1,63 @@
+id: 1
+hanzi: 锯子
+pinyin: jù zi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: saw (tool); hand saw
+  es: sierra; serrucho
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a cutting tool consisting of a toothed blade operated by hand or machine | herramienta para cortar madera u otros materiales compuesta por una hoja dentada | 一把锋利的锯子 (a sharp hand saw)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老木匠熟练地拿起锯子，顺着墨线几下就把坚硬的红木板整齐地锯开了。 | Lǎo mùjiang shúliàn de ná qǐ jùzi, shùnzhe mòxiàn jǐ xià jiù bǎ jiānyìng de hóngmù bǎn zhěngqí de jù kāi le. | The veteran carpenter skillfully picked up the saw and neatly cut through the hard mahogany board along the marked ink line in just a few strokes. | El viejo carpintero tomó con destreza la sierra y, siguiendo la línea de tinta, cortó con pulcritud la dura tabla de caoba en pocos pases.
+  #2 | 在现代建筑工地上，传统的简易锯子已经被高效精准的电动切割机所取代。 | Zài xiàndài jiànzhù gōngdì shang, chuántǒng de jiǎnyì jùzi yǐjīng bèi gāoxiào jīngzhǔn de diàndòng qiēgējī suǒ qǔdài. | On modern construction sites, traditional simple saws have largely been replaced by highly efficient and precise electric cutting machines. | En las obras de construcción modernas, las sierras manuales tradicionales han sido sustituidas por cortadoras eléctricas de gran eficiencia y precisión.
+
+collocations[6]{hanzi,en}:
+  用锯子锯断 | saw through with a saw
+  一把锯子 | a saw (classifier 把)
+  木工锯子 | woodworking saw
+  钢锯子 | hacksaw
+  拉锯子 | pull a saw back and forth
+  锋利的锯子 | sharp saw
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  锯齿齿 | jù chǐ chǐ | jagged like saw teeth; serrated
+  笨口拙舌 | bèn kǒu zhuō shé | clumsy in speech; tongue-tied like a stuck saw
+  斧锯齐下 | fǔ jù qí xià | axes and saws striking together; forceful radical overhaul
+  刻舟求剑 | kè zhōu qiú jiàn | notching boat to find fallen sword; rigid outdated methods
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  锯 | jù | saw; to saw; cut with a saw | sierra; serrar; cortar con sierra | 钅 | metal / gold | 钅 (metal blade) | 居 (jū / phonetic) | 13 | 左右结构 | Metal radical 钅 paired with 居; legend says Lu Ban observed serrated grass leaves cutting fingers and invented the iron saw blade. | Lu Ban forged a strip of sharp metal (钅) with serrated teeth to slice wood where timber settled (居). | Lu Ban forjó una hoja de metal (钅) con dientes afilados para cortar maderos donde se asentaban (居). | 51 | OPRJR | 鋸
+  子 | zi | noun suffix; child; son | sufijo sustantivo; hijo; crío | 子 | child / son | pictograph of swaddled infant | 子 (zǐ) | 3 | 单一结构 | Ancient pictograph depicting an infant with outstretched arms, serving here as a productive nominal suffix. | An infant waving little arms (子), attached here to tool names to form common nouns. | Un bebé con brazos abiertos (子), añadido a nombres de herramientas como sufijo nominal. | neutral | ND | 子
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A toothed metal (钅) blade attached to a wooden handle forms a trusty saw (锯子).
+  composite_memory_hook_es: Una hoja metálica (钅) dentada convertida en herramienta básica constituye una sierra (锯子).
+  cultural_and_cognitive_roots: Attributed to master craftsman Lu Ban in the Warring States period, inspired by jagged mountain weeds cutting skin.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by neutral tone: 'jù zi' (51-neutral). Sharp descending drop on 'jù' followed by light, unstressed 'zi'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    锯 | jù | saw | Contains metal radical 钅 with 居
+    据 | jù | according to; seize | Contains hand radical 扌 instead of 钅
+    剧 | jù | theatrical drama; acute | Contains knife radical 刂 on the right
+    裾 | jū | hem of garment | Contains clothing radical 衤 on the left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    斧 | fǔ | axe; hatchet
+    刨 | bào | plane (carpentry tool)
+    凿 | záo | chisel; bore
+    铲 | chǎn | shovel; trowel
+
+semantic_boundary_contrasts:
+  core_nuance: 锯子 specifically denotes a serrated pull-or-push toothed sawing tool, unlike impact or slicing blades.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 锯子 vs. 斧头 | fǔtou | 斧头 splits heavy lumber using downward chopping impact force, whereas 锯子 cuts linearly using repetitive back-and-forth friction.
+    2 | 锯子 vs. 刀子 | dāozi | 刀子 has a continuous smooth cutting edge suited for carving, whereas 锯子 has serrated teeth for abrading hard timber.
+    3 | 锯子 vs. 剪刀 | jiǎndāo | 剪刀 works through double-blade shearing of flexible fabrics or thin sheets, while 锯子 removes dust Kerf from rigid materials.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 相传古代工匠鲁班在陡峭的山上采集木料时，手指不慎被一种边缘带齿的野草割破。他深受启发，经过反复摸索试验，用铁片打制出带有密密麻麻细齿的锯子，大幅提高了伐木与建筑的作业效率。 | Xiāngchuán gǔdài gōngjiàng Lǔ Bān zài dǒuqiào de shān shang cǎijí mùliào shí, shǒuzhǐ búshèn bèi yī zhǒng biānyuán dài chǐ de yěcǎo gēpò. Tā shēn shòu qǐfā, jīngguò fǎnfù mōsuǒ shìyàn, yòng tiěpiàn dǎzhì chū dài yǒu mìmimámá xìchǐ de jùzi, dàfú tígāo le fámù yǔ jiànzhù de zuòyè xiàolǜ. | Legend tells that when ancient master craftsman Lu Ban was cutting timber on a steep mountain, his finger was cut by wild serrated grass. Deeply inspired, he hammered iron into toothed saws, dramatically boosting carpentry productivity. | Cuenta la leyenda que el célebre artesano Lu Ban, cortando madera en el monte, se hirió con una hierba de bordes dentados. Inspirado por ello, forjó sierras de hierro dentadas, elevando enormemente la eficiencia constructiva.
+  #2 | 在早期篮球运动刚刚创立的阶段，人们直接把盛装桃子的竹筐钉在体育馆两端的栏杆上。每次投篮得分之后，工作人员都必须搬来高高的梯子爬上去把球取出，比赛过程因此变得断断续续。直到有人找来锯子直接锯开筐底，才彻底化繁为简。 | Zài zǎoqī lánqiú yùndòng gānggāng chuànglì de jiēduàn, rénmen zhíjiē bǎ chéngzhuāng táozi de zhúkuāng dīng zài tǐyùguǎn liǎngduān de lángān shang. Měicì tóulán défēn zhīhòu, gōngzuò rényuán dōu bìxū bān lái gāogāo de tīzi pá shàngqu bǎ qiú qǔchū, bǐsài guòchéng yīncǐ biàn de duànduàn-xùxù. Zhídào yǒurén zhǎolái jùzi zhíjiē jù kāi kuāngdǐ, cái chèdǐ huà fán wéi jiǎn. | During the early beginnings of basketball, peach baskets were nailed onto gymnasium railings. Every time a basket was made, staff had to haul tall ladders to retrieve the ball, interrupting the game. Only when someone brought a saw to cut off the bottom did the solution simplify. | En los albores del baloncesto, se clavaban cestas de melocotón en las barandillas. Tras cada canasta, un auxiliar debía trepar a una escalera para extraer el balón, cortando el ritmo. Bastó usar una sierra para cortar el fondo y simplificarlo todo.

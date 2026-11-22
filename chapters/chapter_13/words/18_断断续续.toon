@@ -1,0 +1,63 @@
+id: 18
+hanzi: 断断续续
+pinyin: duàn duàn xù xù
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: intermittent; off and on; discontinuous; fitful
+  es: intermitente; entrecortado; discontinuo; a saltos
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | stopping and starting repeatedly at irregular intervals; discontinuous in time, sound, or action | que cesa y recomienza sucesivamente con interrupciones frecuentes de tiempo o sonido | 断断续续的琴声 (intermittent piano notes)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 深夜的山谷里下起了断断续续的微雨，清凉的雨滴敲打着窗外的芭蕉叶，伴随着淅淅沥沥的水声传入耳畔。 | Shēnyè de shāngǔ lǐ xià qǐ le duànduàn-xùxù de wēiyǔ, qīngliáng de yǔdī qiāodǎ zhe chuāngwài de bājiāoyè, bànsuí zhe xīxī-lìlì de shuǐshēng chuán rù ěrpàn. | In the valley at midnight, intermittent drizzle began to fall, cool raindrops tapping upon banana leaves outside the window with gentle splashes. | A medianoche caía una llovizna intermitente en el valle; las frescas gotas golpeaban los bananeros del patio arrullando el sueño con su leve rumor.
+  #2 | 由于山区基站遭受雷击损坏，前线救援队员只能依靠断断续续的卫星无线电信号与指挥中心保持微弱联络。 | Yóuyú shānqū jīzhàn shòuzāo léijī sǔnhuài, qiánxiàn jiùyuánduìyuán zhǐ néng yīkào duànduàn-xùxù de wèixīng wúxiàndiàn xìnhào yǔ zhǐhuī zhōngxīn bǎochí wēiruò liánluò. | Because mountain cell towers were damaged by lightning, rescue teams had to rely on intermittent satellite radio signals to maintain faint contact with headquarters. | Averiada la antena por un rayo, los rescatistas sólo pudieron mantener una débil comunicación con la base mediante señales de radio intermitentes.
+
+collocations[6]{hanzi,en}:
+  断断续续的雨 | intermittent rain / showers
+  断断续续的声音 | broken, intermittent sound
+  断断续续地进行 | proceed in fits and starts
+  断断续续的记忆 | patchy, fragmentary memories
+  信号断断续续 | spotty / intermittent signal
+  断断续续地讲述 | recount haltingly
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  时断时续 | shí duàn shí xù | stopping and starting alternately; intermittent
+  声断气噎 | shēng duàn qì yē | sobbing fitfully with broken gasps
+  连绵不断 | liánmián bú duàn | continuous and unbroken; stretching endlessly
+  藕断丝连 | ǒu duàn sī lián | lotus root snapped but fibers still cling; lingering ties
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  断 | duàn | snap; break off; sever; decide | romper; quebrar; seccionar; decidir | 斤 | axe | 斤 (axe chopping) + 米 (silk threads / grain bundles) | 断 (duàn) | 11 | 左右结构 | An axe 斤 chopping through bundled skeins of thread 米; severing connection and snapping in two. | An axe blade (斤) slicing straight through skeins of silk thread (米) to break them apart (断). | El filo de un hacha (斤) cortando hebras de seda (米) para seccionarlas en dos (断). | 51 | VIDH | 斷
+  续 | xù | continue; replenish; tie together | continuar; reanudar; enlazar | 纟 | silk thread | 纟 (silk cords) + 卖 (prolonged trade) | 卖 (mài / phonetic association) | 11 | 左右结构 | Silk radical 纟 beside 卖; tying broken ends of silk filaments together to maintain an unbroken continuum. | Tying loose silk cords (纟) together at the marketplace (卖) to keep the thread going (续). | Empatar cabos de seda sueltos (纟) para que la línea continúe sin romperse (续). | 51 | VFGND | 續
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Breaking apart (断) and tying back together (续) over and over creates an intermittent rhythm (断断续续).
+  composite_memory_hook_es: Romper (断) y volver a empalmar (续) sucesivamente da lugar a una cadencia intermitente (断断续续).
+  cultural_and_cognitive_roots: A classic AABB four-character reduplicative adjective conveying rhythmic hesitation, fragmentation, or sporadic recurrence.
+  tone_sandhi_and_pitch_modulation: Four syllables: 'duàn duàn xù xù' (51-51-51-51). Pronounce with staccato, rhythmic falling tones mirroring fitful pauses.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    断 | duàn | break; snap | Axe radical 斤 on the right
+    继 | jì | succeed; follow | Has 纟 on left with 米 and 乚
+    续 | xù | continue; join | Has 纟 on left with 卖 on right
+    读 | dú | read; study | Speech radical 讠 on left with 卖
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    停 | tíng | stop; halt
+    歇 | xiē | rest; pause
+    顿 | dùn | pause; sudden
+    缀 | zhuì | stitch together; embellish
+
+semantic_boundary_contrasts:
+  core_nuance: 断断续续 expresses discontinuous cadence, halting pauses, or erratic recurrence.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 断断续续 vs. 陆陆续续 | lùlù-xùxù | 陆陆续续 describes people arriving or events happening one after another over time without back-and-forth breaking, while 断断续续 stresses intermittent interruption.
+    2 | 断断续续 vs. 连续不断 | liánxù-búduàn | 连续不断 denotes smooth unbroken continuity, the direct antonym of 断断续续.
+    3 | 断断续续 vs. 偶尔 | ǒu'ěr | 偶尔 means occasional isolated instances, while 断断续续 implies an ongoing stream plagued by frequent stops and starts.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 病榻上的老红军呼吸微弱，拉着孙子的手断断续续地回忆起战火纷飞的峥嵘岁月。那些零散破碎的字句，虽被剧烈的咳嗽屡次打断，却依然如重锤般撞击着年轻人的心灵，传递着穿越时空的坚贞信仰。 | Bìngtà shang de lǎo hóngjūn hūxī wēiruò, lā zhe sūnzi de shǒu duànduàn-xùxù de huíyì qǐ zhànhuǒ fēnfēi de zhēngróng suìyuè. Nàxiē língsǎn pòsuì de zìjù, suī bèi jùliè de késou lǚcì dǎduàn, què yīrán rú zhòngchuí bān zhuàngjī zhe niánqīngrén de xīnlíng, chuándì zhe chuānyuè shíkōng de jiānzhēn xìnyǎng. | On his sickbed, the frail veteran gripped his grandson's hand, haltingly recalling wartime years. Though interrupted by coughing bouts, his fragmented words struck the young man's heart like hammers, conveying timeless steadfast faith. | En su lecho, el anciano combatiente rememoraba entrecortadamente los años de guerra. Aunque la tos quebraba sus palabras, aquel relato fragmentario conmovió hondamente a su nieto transmitiéndole una fe inquebrantable.
+  #2 | 未开底的桃筐曾给最初的篮球比赛带来了毁灭性的断断续续。每当双方球员在热烈呐喊中投球入网，裁判就必须强行按停计时表，场上热烈沸腾的气氛也随即冷却下来。正是为了消除这种令人烦躁的断断续续，才促成了锯开筐底的革新。 | Wèi kāidǐ de táokuāng céng gěi zuìchū de lánqiú bǐsài dài lái le huǐmièxìng de duànduàn-xùxù. Měidāng shuāngfāng qiúyuán zài rèliè nàhǎn zhōng tóu qiú rù wǎng, cáipàn jiù bìxū qiángxíng àntíng jìshíbiǎo, chǎngshang rèliè fèiténg de qìfēn yě suíjí lěngquè xiàlái. Zhèng shì wèile xiāochú zhè zhǒng lìngrén fánzào de duànduàn-xùxù, cái cùchéng le jù kāi kuāngdǐ de géxīn. | Peach baskets without open bottoms brought frustrating intermittence to early basketball. Whenever a ball went in amid cheers, referees had to freeze the clock, dousing the court's fiery momentum. Eliminating this annoying stop-and-start catalyzed sawing off the basket bottoms. | Las cestas ciegas provocaban una fastidiosa discontinuidad en el baloncesto primigenio. Tras cada enceste en plena ovación, el colegiado paraba el cronómetro enfriando el duelo. Erradicar esas pausas impulsó la genial idea de abrir el fondo.

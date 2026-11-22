@@ -1,0 +1,63 @@
+id: 9
+hanzi: 军队
+pinyin: jūn duì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: army; armed forces; troops
+  es: ejército; fuerzas armadas; tropas
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the organized armed forces of a nation trained and equipped for warfare and national defense | cuerpo militar organizado y equipado de un Estado para la defensa y operaciones bélicas | 强大的军队 (a powerful army)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 一支纪律严明、作风优良的军队，是捍卫国家领土主权与维护人民和平生活的坚固长城。 | Yī zhī jìlǜ-yánmíng, zuòfēng-yōuliáng de jūnduì, shì hànwèi guójiā lǐngtǔ zhǔquán yǔ wéihù rénmín hépíng shēnghuó de jiāngù chángchéng. | A strictly disciplined and well-trained army serves as an impregnable Great Wall defending national sovereignty and peaceful life. | Un ejército de rigurosa disciplina constituye la muralla inexpugnable que salvaguarda la soberanía nacional y la paz del pueblo.
+  #2 | 长平之战中，秦国军队在名将白起的统一指挥下，巧妙分割包围了赵国主力部队。 | Chángpíng zhī zhàn zhōng, Qínguó jūnduì zài míngjiàng Bái Qǐ de tǒngyī zhǐhuī xià, qiǎomiào fēngē-bāowéi le Zhàoguó zhǔlì bùduì. | At the Battle of Changping, the Qin army under General Bai Qi's unified command cleverly partitioned and encircled Zhao's main forces. | En la batalla de Changping, el ejército de Qin bajo el mando de Bai Qi dividió y rodeó con destreza el grueso de las tropas de Zhao.
+
+collocations[6]{hanzi,en}:
+  国家军队 | national army / armed forces
+  军队建设 | army building / military buildup
+  正规军队 | regular army
+  指挥军队 | command the army
+  军队现代化 | military modernization
+  庞大的军队 | vast / formidable army
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  千军万马 | qiān jūn wàn mǎ | thousands of troops and tens of thousands of horses; mighty army
+  纪律严明 | jì lǜ yán míng | strictly disciplined and orderly
+  兵贵神速 | bīng guì shén sù | speed is precious in warfare; lightning strike
+  养兵千日，用兵一时 | yǎng bīng qiān rì, yòng bīng yī shí | train troops for a thousand days to use them for an hour
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  军 | jūn | military; army; armed forces | ejército; militar; fuerzas armadas | 冖 | cover | 冖 (military tent cover) + 车 (war chariots) | 军 (jūn) | 6 | 上下结构 | War chariots 车 assembled beneath encampment canopies 冖; signifies organized troops. | War chariots (车) gathered under camp covers (冖) ready for combat (军). | Carros de guerra (车) agrupados bajo el toldo militar (冖) listos para la marcha (军). | 55 | BKJ | 軍
+  队 | duì | team; squad; queue; unit | equipo; fila; brigada; escuadrón | 阝 | mound / hill | 阝 (earthen ridge/embankment) + 人 (soldiers falling in line) | 队 (duì) | 4 | 左右结构 | Soldiers lining up along an earthen defensive embankment 阝 into an orderly squad; to form a queue. | Soldiers falling into an orderly defensive line along an earthen ridge (阝) to form a squad (队). | Soldados alineados en rigurosa hilera junto al terraplén (阝) formando una unidad (队). | 51 | NLO | 隊
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Chariot encampments (军) assembled into disciplined tactical ranks (队) form an army (军队).
+  composite_memory_hook_es: El cuerpo expedicionario (军) alineado en unidades operativas (队) conforma el ejército (军队).
+  cultural_and_cognitive_roots: Captures the transition from ancient noble chariot formations to mass infantry corps organized in strict echelons.
+  tone_sandhi_and_pitch_modulation: First tone to fourth tone: 'jūn duì' (55-51). High steady pitch on 'jūn', descending decisively on 'duì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    车 | chē | vehicle | Lacks the upper cover radical 冖
+    晕 | yūn | dizzy; faint | Sun 日 on top of 车 instead of 冖
+    防 | fáng | defend | Square 方 on right of 阝 instead of 人
+    阳 | yáng | sun; positive | Sun 日 on right of 阝 instead of 人
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    队员 | duìyuán | team member
+    排队 | páiduì | line up; queue
+    军费 | jūnfèi | military expenditure
+    军纪 | jūnjì | military discipline
+
+semantic_boundary_contrasts:
+  core_nuance: 军队 specifically denotes the formal, institutionalized military forces of a sovereign nation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 军队 vs. 部队 | bùduì | 部队 refers to specific operational divisions or field units, while 军队 encompasses the whole military establishment.
+    2 | 军队 vs. 士兵 | shìbīng | 士兵 refers to individual enlisted fighters, whereas 军队 is the institutional collective armed body.
+    3 | 军队 vs. 警察 | jǐngchá | 警察 handles domestic civic policing and public order, while 军队 defends against foreign external threats.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 战国末期，赵国军队向以骁勇善战著称，胡服骑射更使赵军骑兵名震诸侯。然而长平之战中，赵王临阵撤换沉着稳健的老将廉颇，改派赵括统领全军，最终致使数十万精锐军队被秦军围困全歼，赵国国力从此一蹶不振。 | Zhànguó mòqī, Zhàoguó jūnduì xiàng yǐ xiāoyǒng-shànzhàn zhùchēng, húfú-qíshè gèng shǐ Zhàojūn qíbīng míng zhèn zhūhóu. Rán'ér Chángpíng zhī zhàn zhōng, Zhàowáng línzhèn chèhuàn chénzhuó-wěnjiàn de lǎojiàng Lián Pō, gǎi pài Zhào Kuò tǒnglǐng quán jūn, zuìzhōng zhìshǐ shùshí wàn jīngruì jūnduì bèi Qínjūn wéikùn quánjiān, Zhàoguó guólì cóngcǐ yījué-bùzhèn. | In the late Warring States, the Zhao army was celebrated for fierce cavalry tactics. Yet at Changping, King Zhao replaced cautious General Lian Po with Zhao Kuo; hundreds of thousands of elite troops were encircled, crippling the state forever. | En los Reinos Combatientes, el ejército de Zhao gozaba de fama por su formidable caballería. Mas en Changping, el rey relevó al cauto Lian Po por Zhao Kuo, lo que llevó al aniquilamiento de su tropa de élite y al declive del reino.
+  #2 | 一支现代化的强大军队，不仅必须装备最尖端的科学武器装备，更需要具备高度严明的军纪与无私奉献的战斗精神。在抗击自然灾害与保卫人民生命财产的急难险重关头，军队始终是人民最可信赖的中流砥柱。 | Yī zhī xiàndàihuà de qiángdà jūnduì, bùjǐn bìxū zhuāngbèi zuì jiānduān de kēxué wǔqì zhuāngbèi, gèng xūyào jùbèi gāodù yánmíng de jūnjì yǔ wúsī-fèngxiàn de zhàndòu jīngshén. Zài kàngjī zìrán zāihài yǔ bǎowèi rénmín shēngmìng cáichǎn de jínàn-xiǎnzhòng guāntóu, jūnduì shǐzhōng shì rénmín zuì kě xìnlài de zhōngliú-dǐzhù. | A powerful modern army requires cutting-edge armaments alongside strict discipline and self-sacrificing spirit. During natural disasters and national perils, the armed forces remain the most trustworthy pillar protecting the people. | Un ejército moderno no solo exige armamento de punta, sino férrea disciplina y abnegación. Ante catástrofes naturales y graves crisis nacionales, las fuerzas armadas constituyen el baluarte más leal y firme de la ciudadanía.

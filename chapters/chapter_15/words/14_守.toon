@@ -1,0 +1,62 @@
+id: 14
+hanzi: 守
+pinyin: shǒu
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to guard; defend; keep watch; observe; abide by
+  es: defender; vigilar; guardar; custodiar; acatar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to defend against attack; guard a position; keep watch; abide by rules or promises | defender una posición del asalto enemigo; vigilar; custodiar; acatar normas o promesas | 坚守阵地 (firmly hold and defend a position)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老将廉颇深谙秦军远来求战的心态，严令赵国将士坚守堡垒阵地，绝不轻易出击。 | Lǎojiàng Lián Pō shēn'ān Qínjūn yuǎn lái qiú zhàn de xīntài, yánlìng Zhàoguó jiàngshì jiānshǒu bǎolěi zhèndì, juébù qīngyì chūjī. | General Lian Po understood Qin's urgency to force a quick decision, strictly ordering Zhao soldiers to defend bastions and refrain from sorties. | El general Lian Po conocía la prisa de Qin por librar combate y ordenó a sus tropas defender los bastiones sin salir a campo abierto.
+  #2 | 在现代社会契约精神中，恪守信誉、严守规则是每一个公民和企业应当践行的基本准则。 | Zài xiàndài shèhuì qìyuē jīngshén zhōng, kèshǒu xìnyù, yánshǒu guīzé shì měi yī gè gōngmín hé qǐyè yīngdāng jiànxíng de jīběn zhǔnzé. | In modern civic contract culture, abiding by credit and observing rules are fundamental principles that every citizen and enterprise must practice. | En el espíritu cívico contemporáneo, custodiar la palabra empeñada y acatar las normas son deberes inexcusables de ciudadanos y empresas.
+
+collocations[6]{hanzi,en}:
+  坚守岗位 | stick firmly to one's post
+  守信用 | keep one's word / promise
+  守候在旁 | stand watch / wait attentively beside
+  防守坚固 | stoutly defended
+  守规矩 | abide by rules and etiquette
+  看守大门 | guard the main entrance
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  坚守不移 | jiān shǒu bù yí | adhere unswervingly and hold fast
+  墨守成规 | mò shǒu chéng guī | stick to conventions dogmatically; hidebound
+  守株待兔 | shǒu zhū dài tù | stand by a tree waiting for a hare; wait passively for windfalls
+  守望相助 | shǒu wàng xiāng zhù | keep watch and help each other in neighborhood solidarity
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  守 | shǒu | guard; defend; keep; watch over | defender; vigilar; guardar; custodiar | 宀 | roof | 宀 (household roof) + 寸 (ruling hand / law measurement) | 守 (shǒu) | 6 | 上下结构 | A hand 寸 holding protective authority inside a house 宀; signifies guarding one's home and borders. | Guarding a domestic homestead (宀) with a vigilant, dutiful hand (寸) against intruders (守). | Custodiar el hogar techado (宀) con mano atenta y vigilante (寸) para defenderlo (守). | 214 | JDI | 守
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Stationing a firm hand (寸) under the home roof (宀) means to guard and defend (守).
+  composite_memory_hook_es: Apostar una mano firme (寸) bajo el tejado del hogar (宀) define la acción de custodiar (守).
+  cultural_and_cognitive_roots: Derived from classical territorial defence where magistrates were appointed to guard cities ('太守') and abide by rites.
+  tone_sandhi_and_pitch_modulation: Third tone: 'shǒu' (214). Dip deeply into the lower register and rebound with clarity.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    寸 | cùn | inch; measurement | Lacks the roof radical 宀
+    安 | ān | safe; peaceful | Woman radical 女 under 宀 instead of 寸
+    定 | dìng | fix; settle | Foot 正 under 宀 instead of 寸
+    宇 | yǔ | space; universe | Yu 于 under 宀 instead of 寸
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    防守 | fángshǒu | defend; guard
+    遵守 | zūnshǒu | comply with; observe
+    保守 | bǎoshǒu | conservative; keep secret
+    守护 | shǒuhù | guard and protect
+
+semantic_boundary_contrasts:
+  core_nuance: 守 emphasizes holding ground defensively, guarding securely, or adhering to rules and vows.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 守 vs. 攻 | gōng | 攻 is the direct antonym meaning to attack or launch an offensive.
+    2 | 守 vs. 逃 | táo | 逃 means fleeing or abandoning ground, opposite to firmly holding 守.
+    3 | 守 vs. 护 | hù | 护 stresses providing protective shielding to weaker parties, while 守 focuses on vigilantly defending borders or positions.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在冷兵器战争中，“攻”与“守”是两种截然相反的战略形态。廉颇在长平前线依托地形筑垒坚守，令秦军数十万精锐进退两难。若赵王能坚持“以守待变”的策略，待秦军粮尽自退，战国历史的格局或许将被彻底改写。 | Zài lěngbīngqì zhànzhēng zhōng, 'gōng' yǔ 'shǒu' shì liǎng zhǒng jiérán-xiāngfǎn de zhànlüè xíngtài. Lián Pō zài Chángpíng qiánxiàn yītuō dìxíng zhùlěi jiānshǒu, lìng Qínjūn shùshí wàn jīngruì jìntuì-liǎngnán. Ruò Zhàowáng néng jiānchí 'yǐ shǒu dài biàn' de cèlüè, dài Qínjūn liáng jìn zì tuì, Zhànguó lìshǐ de géjú huòxǔ jiāng bèi chèdǐ gǎixiě. | In ancient warfare, attack and defense represented polar strategies. Lian Po's defense behind fortifications put Qin troops in a dilemma. Had King Zhao maintained this strategy until Qin's food ran out, history might have changed completely. | En la guerra clásica, ataque y defensa eran polos opuestos. La defensa numantina de Lian Po desconcertó a las tropas de Qin. Si el rey de Zhao hubiera mantenido la defensa hasta agotar el grano enemigo, la historia habría cambiado.
+  #2 | “守”不仅是一种军事防御战术，更是一种坚守初心的道德操守。无论是在学术研究中耐得住冷板凳、严守学术底线，还是在日常生活中恪守契约与诚信，“守得云开见月明”的定力与坚韧，是成就卓越人生的基石。 | 'Shǒu' bùjǐn shì yī zhǒng jūnshì fángyù zhànshù, gèng shì yī zhǒng jiānshǒu chūxīn de dàodé cāoshǒu. Wúlùn shì zài xuéshù yánjiū zhōng nàidézhù lěngbǎndèng, yánshǒu xuéshù dǐxiàn, háishì zài rìcháng shēnghuó zhōng kèshǒu qìyuē yǔ chéngxìn, 'shǒu dé yún kāi jiàn yuè míng' de dìnglì yǔ jiānrèn, shì chéngjiù zhuóyuè rénshēng de jīshí. | 'Guarding' is not merely tactical defense, but moral integrity. Whether enduring quiet toil to uphold academic ethics or keeping agreements in life, steadfast tenacity until clouds clear paves the path to an accomplished life. | Defender una posición no es solo maniobra bélica, sino firmeza moral. Ya sea guardando el rigor ético en la ciencia o acatando acuerdos en la vida diaria, perseverar hasta que aclare el cielo es la base de una vida noble.

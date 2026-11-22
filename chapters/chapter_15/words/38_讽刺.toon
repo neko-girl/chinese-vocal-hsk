@@ -1,0 +1,63 @@
+id: 38
+hanzi: 讽刺
+pinyin: fěng cì
+level: HSK 5
+part_of_speech: Verb/Noun
+
+meanings_summary:
+  en: to satirize; mock; sarcasm; irony
+  es: satirizar; burlarse de; ironía; sarcasmo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to criticize, ridicule, or mock through witty irony or caustic metaphor | criticar, ridiculizar o censurar mediante ironía ingeniosa o metáfora mordaz | 辛辣讽刺 (pungent satire)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 后世史学家常以“纸上谈兵”这一典故，深刻讽刺那些空谈高深理论而缺乏实践检验的夸夸其谈之辈。 | Hòushì shǐxuéjiā cháng yǐ 'zhǐshàng-tánbīng' zhè yí diǎngù, shēnkè fěngcì nàxiē kōngtán gāoshēn lǐlùn ér quēfá shíjiàn jiǎnyàn de kuākuā-qítán zhī bèi. | Later historians frequently cited the idiom 'armchair strategy' to sharply satirize those braggarts who preach lofty theories without practical testing. | Los historiadores posteriores utilizaron el modismo 'estrategia en el papel' para satirizar a quienes predican elevadas teorías sin haberlas puesto a prueba en la realidad.
+  #2 | 这部文学杰作运用了极其辛辣的幽默讽刺手法，无情揭示了当年封建官僚体制的虚伪与腐朽。 | Zhè bù wénxué jiézuò yùnyòng le jíqí xīnlà de yōumò fěngcì shǒufǎ, wúqíng jiēshì le dāngnián fēngjiàn guānliáo tǐzhì de xūwěi yǔ fǔxiǔ. | This literary masterpiece employed pungent humorous satire, ruthlessly exposing the hypocrisy and decay of the feudal bureaucratic system. | Esta obra maestra literaria empleó una sátira sumamente mordaz, desnudando sin piedad la hipocresía y corrupción de la burocracia feudal.
+
+collocations[6]{hanzi,en}:
+  辛辣讽刺 | pungent / biting satire
+  充满讽刺 | full of irony / satire
+  讽刺小说 | satirical novel
+  讽刺意味 | satirical undertone
+  加以讽刺 | subject to ridicule / satirize
+  幽默讽刺 | humorous irony
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  冷嘲热讽 | lěng cháo rè fěng | scoffing and jeering; cynical mockery and burning satire
+  指桑骂槐 | zhǐ sāng mà huái | point at the mulberry and scold the locust tree; criticize indirectly
+  拐弯抹角 | guǎi wān mò jiǎo | speak in circumlocutions; beat around the bush
+  尖酸刻薄 | jiān suān kè bó | sharp and biting; caustic and acerbic
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  讽 | fěng | satirize; mock; chant; recite | satirizar; burlarse de; recitar; censurar | 讠 | speech / words | 讠 (speech / words) + 风 (wind / indirect influence) | 风 (fēng) | 8 | 左右结构 | Spoken words 讠 delivered indirectly like gentle wind 风 to critique flaws; denotes indirect satire. | Delivering spoken words (讠) like a sharp gust of wind (风) to criticize obliquely (讽). | Pronunciar palabras (讠) como una ráfaga de viento (风) que censura indirectamente (讽). | 214 | IVHN | 諷
+  刺 | cì | thorn; prick; pierce; sting; assassinate | espina; pinchar; punzar; picar; asesinar | 刂 | knife / blade | 朿 (brambles / thorns) + 刂 (sharp knife blade) | 朿 (cì) | 8 | 左右结构 | A thorny bramble 朿 combined with a sharp knife 刂; signifies pricking, stabbing, and stinging critique. | A thorny plant (朿) with the sharpness of a knife (刂) that pricks and stings (刺). | Una zarza espinosa (朿) tan punzante como una cuchilla (刂) que pincha y escuece (刺). | 51 | DBLN | 刺
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Words delivered obliquely like wind (讽) designed to prick like sharp thorns (刺) deliver biting satire (讽刺).
+  composite_memory_hook_es: Palabras que soplan como viento (讽) y pinchan como afiladas espinas (刺) crean la sátira (讽刺).
+  cultural_and_cognitive_roots: Rooted in classical poetic traditions (Feng) of remonstrating with emperors through subtle allegories.
+  tone_sandhi_and_pitch_modulation: Third tone to fourth tone: 'fěng cì' (214-51). Half-third dip rising before falling sharply on 'cì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    风 | fēng | wind; custom | No speech 讠 radical on left
+    订 | dìng | book; subscribe | Right side is 丁 instead of 风
+    枣 | zǎo | jujube; date | Double 朿 without knife radical 刂
+    策 | cè | policy; strategy | Bamboo ⺮ radical on top
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    讥讽 | jīfěng | taunt; deride; mock
+    讽喻 | fěngyù | parable; moral allegory
+    刺耳 | cì'ěr | grating; harsh on the ears
+    刺激 | cìjī | stimulate; excite; provoke
+
+semantic_boundary_contrasts:
+  core_nuance: 讽刺 uses witty, ironic, or metaphoric critique to pierce and expose hypocrisy, vice, or incompetence.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 讽刺 vs. 嘲笑 | cháoxiào | 嘲笑 denotes direct teasing or derisive laughter, whereas 讽刺 relies on artistic or literary irony with moral critique.
+    2 | 讽刺 vs. 批评 | pīpíng | 批评 is straightforward evaluation pointing out shortcomings, whereas 讽刺 conveys disapproval through irony and sting.
+    3 | 讽刺 vs. 挖苦 | wāku | 挖苦 refers to colloquial, petty barbs aimed at hurting someone's feelings, whereas 讽刺 often carries broader social critique.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | “纸上谈兵”作为流传两千余年的著名成语，不仅记录了长平之战的悲惨结局，更成为汉语中讽刺脱离实际、夸夸其谈的经典隐喻。这种鞭辟入里的历史讽刺，始终警醒着后人必须尊崇实践，切勿自欺欺人。 | 'Zhǐshàng-tánbīng' zuòwéi liúchuán liǎng qiān yú nián de zhùmíng chéngyǔ, bùjǐn jìlù le Chángpíng zhī zhàn de bēicǎn jiéjú, gèng chéngwéi Hànyǔ zhōng fěngcì tuōlí shíjì, kuākuā-qítán de jīngdiǎn yǐnyù. Zhè zhǒng biānpì-rùlǐ de lìshǐ fěngcì, shǐzhōng jǐngxǐng zhe hòurén bìxū zūnchóng shíjiàn, qièwù zìqī-qīrén. | Passing down for two millennia, 'armchair strategy' not only chronicles Changping's tragedy but serves as Chinese's classic satire against impractical talkers. This piercing historical irony cautions us to honor practice and never deceive ourselves. | Con más de dos milenios de historia, 'estrategia en el papel' no solo narra la tragedia de Changping, sino que es la gran sátira china contra quienes teorizan sin base. Esta aguda ironía nos recuerda priorizar la práctica y evitar el autoengaño.
+  #2 | 讽刺艺术向来被誉为社会改良的有力思想武器。无论古代寓言还是现代先锋戏剧，创作者借助精妙的隐喻与讽刺笔触，能够以幽默的形式直击时代弊病，唤醒沉睡的大众心灵，促使全社会反思并不断革故鼎新。 | Fěngcì yìshù xiànglái bèi yù wéi shèhuì gǎiliáng de yǒulì sīxiǎng wǔqì. Wúlùn gǔdài yùyán háishì xiàndài xiānfēng xìjù, chuàngzuòzhě jièzhù jīngmiào de yǐnyù yǔ fěngcì bǐchù, nénggòu yǐ yōumò de xíngshì zhíjī shídài bìbìng, huànxǐng chénshuì de dàzhòng xīnlíng, cùshǐ quán shèhuì fǎnsī bìng bùduàn gégù-dǐngxīn. | The art of satire has long been hailed as an intellectual weapon for social reform. In fables or avant-garde drama, through witty metaphor and satire, artists critique social ills and awaken public conscience to inspire reform. | El arte satírico ha sido considerado un instrumento de mejora social. Tanto en fábulas como en el teatro contemporáneo, mediante metáforas ingeniosas los autores exponen las dolencias de su época para impulsar una constante renovación cívica.

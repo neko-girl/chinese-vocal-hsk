@@ -1,0 +1,62 @@
+id: 41
+hanzi: 浓
+pinyin: nóng
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: dense; thick; strong (atmosphere/feeling); intense; concentrated
+  es: denso; espeso; concentrado; intenso (sabor, atmósfera o afecto)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | having high density, strong consistency, deep color, or intense emotional atmosphere | de gran densidad, consistencia espesa, color intenso o profunda carga emocional | 浓郁的人情味 (strong human warmth)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每逢除夕之夜，北京四合院家家户户挂红灯、贴春联，庭院里弥漫着浓郁而喜庆的节日气氛。 | Měi féng chúxī-zhīyè, Běijīng sìhéyuàn jiājiā-hùhù guà hóngdēng, tiē chūnlián, tíngyuàn lǐ mímàn zhe nóngyù ér xǐqìng de jiérì qìfēn. | Every New Year's Eve, courtyard homes hung red lanterns and pasted couplets, filling the yard with a dense, joyful festive atmosphere. | En Nochevieja, los hogares del siheyuan colgaban faroles rojos y coplas primaverales, llenando el patio de una densa y jubilosa atmósfera festiva.
+  #2 | 在老茶馆里泡上一碗浓郁醇厚的茉莉花茶，细细品味那份穿越岁月的芳香与苦涩。 | Zài lǎo cháguǎn lǐ pào shang yī wǎn nóngyù chúnhòu de mòlihuā chá, xìxì pǐnwèi nà fèn chuānyuè suìyuè de fāngxiāng yǔ kǔsè. | Brewing a bowl of dense, mellow jasmine tea in an old teahouse, one savors the aroma and bitterness across the years. | Preparar un cuenco de té de jazmín denso y maduro en una vieja tetería permite saborear la fragancia y el dulzor que atraviesan los años.
+
+collocations[6]{hanzi,en}:
+  浓郁气氛 | dense / strong atmosphere
+  浓厚的兴趣 | keen / strong interest
+  浓茶 | strong tea
+  浓烟 | dense smoke
+  浓眉大眼 | thick eyebrows and big eyes
+  感情浓厚 | deep and strong affection
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  浓墨重彩 | nóng mò zhòng cǎi | thick ink and heavy colors; paint in glowing, vivid strokes
+  情浓意切 | qíng nóng yì qiè | deep feelings and earnest sincerity
+  春意阑珊 | chūn yì lán shān | spring mood waning (contrasted with 浓)
+  血浓于水 | xiè nóng yú shuǐ | blood is thicker than water; family ties are unbreakable
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  浓 | nóng | dense; thick; concentrated; strong | denso; espeso; concentrado; intenso | 氵 | water | 氵 (water drops) + 农 (fertile agricultural land and dew) | 农 (nóng) | 9 | 左右结构 | Heavy liquid moisture 氵 soaking rich agricultural soils 农; denotes dense dew, thick flavor, or intense saturation. | Abundant water droplets (氵) saturating fertile farmland (农) until rich, dense dew forms (浓). | Gotas abundantes de agua (氵) que impregnan el campo fértil (农) formando un rocío denso (浓). | 35 | EBHV | 濃
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Heavy water moisture (氵) enriching fertile fields (农) yields dense dew and concentrated flavor (浓).
+  composite_memory_hook_es: El rocío abundante (氵) que empapa la tierra de labranza (农) evoca lo denso, espeso e intenso (浓).
+  cultural_and_cognitive_roots: Deeply linked to agrarian imagery of morning mist and heavy dew, widening to rich tea, dark ink, and profound human affection.
+  tone_sandhi_and_pitch_modulation: Second tone: 'nóng' (35). Lift the pitch with smooth, resonant warmth.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    农 | nóng | agriculture; farmer | Lacks the water radical 氵 on the left
+    深 | shēn | deep; profound | Right side is 罙 instead of 农
+    淡 | dàn | bland; pale; weak | Right side is two fires 炎 instead of 农
+    清 | qīng | clear; clean | Right side is 青 instead of 农
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    浓厚 | nónghòu | dense; pronounced; deep
+    浓缩 | nóngsuō | concentrate; condense
+    浓密 | nóngmì | thick; dense (foliage/hair)
+    浓香 | nóngxiāng | heady fragrance
+
+semantic_boundary_contrasts:
+  core_nuance: 浓 signifies high saturation of liquid concentration, deep pigments, thick atmosphere, or profound emotion.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 浓 vs. 淡 | dàn | 淡 is the direct antonym meaning bland, diluted, pale, or emotionally distant.
+    2 | 浓 vs. 深 | shēn | 深 refers to spatial depth or chronological late hours, whereas 浓 emphasizes density and saturation.
+    3 | 浓 vs. 稀 | xī | 稀 indicates sparse population or watery consistency (porridge), opposite to dense 浓.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京四合院最具魅力之处，在于它所散发出的浓浓人情味。院落里邻里街坊相伴几十年，逢年过节互送热气腾腾的饺子，谁家遇难大家齐心相助。这种浓厚的邻里亲情，成了古都胡同最温暖的记忆。 | Lǎo Běijīng sìhéyuàn zuì jù mèilì zhīchù, zàiyú tā suǒ sànfā chū de nóngnóng rénqíngwèi. Yuànluò lǐ línlǐ jiēfang xiāngbàn jǐshí nián, féng nián guò jié hù sòng rèqì-téngténg de jiǎozi, shuí jiā yùnàn dàjiā qíxīn xiāngzhù. Zhè zhǒng nónghòu de línlǐ qīnqíng, chéng le gǔdū hútòng zuì wēnnuǎn de jìyì. | The greatest charm of old Beijing courtyards lies in their dense human warmth. Neighbors living together for decades exchanged steaming dumplings during holidays and aided each other, etching fond memories in historic alleys. | El encanto supremo del siheyuan pekinés radica en su denso calor humano. Familias vecinas convivieron decenios compartiendo empanadillas festivas y auxilio mutuo, grabando el recuerdo más cálido de los viejos hutongs.
+  #2 | 中国书法艺术讲究“浓淡相宜”。书法家蘸上饱满的浓墨，在宣纸上挥毫泼墨，浓墨沉着雄健如磐石，淡墨灵动飘逸如飞云。浓淡干湿的巧妙交融，使得黑白分明的汉字线条展现出无穷无尽的生命气象。 | Zhōngguó shūfǎ yìshù jiǎngjiu 'nóng-dàn xiāngyí'. Shūfǎjiā zhàn shang bǎomǎn de nóngmò, zài xuānzhǐ shang huīháo-pōmò, nóngmò chénzhuó xióngjiàn rú pánshí, dànmò língdòng piāoyì rú fēiyún. Nóng-dàn gān-shī de qiǎomiào jiāoróng, shǐdé hēibái-fēnmíng de Hànzì xiàntiáo zhǎnxiàn chū wúqióng-wújìn de shēngmìng qìxiàng. | Chinese calligraphy emphasizes harmony between thick and diluted ink. Calligraphers dip pens in concentrated ink; dense ink stands sturdy like rocks, while diluted ink floats like clouds, giving boundless vitality to Hanzi strokes. | La caligrafía china aprecia el equilibrio entre tinta espesa y aguada. El trazo de tinta densa muestra firmeza pétrea, mientras la aguada emula nubes al viento; su juego dota al ideograma de vitalidad infinita.

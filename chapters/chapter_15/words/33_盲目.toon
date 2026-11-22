@@ -1,0 +1,63 @@
+id: 33
+hanzi: 盲目
+pinyin: máng mù
+level: HSK 5
+part_of_speech: Adjective/Adverb
+
+meanings_summary:
+  en: blind; blindly; lacking foresight or objective analysis
+  es: ciego; ciegamente; sin criterio objetivo; precipitado
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | acting without clear perception, proper understanding, or rational planning | que carece de discernimiento claro, base racional o criterio objetivo | 盲目出击 (launch a blind assault)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括接任主帅后盲目自信，既不侦察敌情也不熟悉战地形势，便仓促下令全线出击。 | Zhào Kuò jiērèn zhǔshuài hòu mángmù zìxìn, jì bù zhēnchá díqíng yě bù shúxī zhàndì xíngshì, biàn cāngcù xiàlìng quánxiàn chūjī. | After taking command, Zhao Kuo was blindly confident; without scouting enemy dispositions or understanding terrain, he rashly launched an all-out attack. | Al asumir el mando, Zhao Kuo confió ciegamente; sin explorar las líneas enemigas ni el terreno, ordenó un asalto frontal a la carrera.
+  #2 | 投资理财应当立足于严密的数据分析与风险评估，盲目跟风炒作往往会带来惨痛亏损。 | Tóuzī lǐcái yīngdāng lìzú yú yánmì de shùjù fēnxī yǔ fēngxiǎn pínggū, mángmù gēnfēng chǎozuò wǎngwǎng huì dàilái cǎntòng kuīsǔn. | Investing must be grounded in rigorous data analysis and risk appraisal; blindly jumping on speculative bandwagons often brings grievous losses. | Las inversiones deben fundamentarse en análisis de datos y cálculo de riesgos; seguir las modas a ciegas suele acarrear pérdidas devastadoras.
+
+collocations[6]{hanzi,en}:
+  盲目跟风 | blindly follow the crowd / bandwagon
+  盲目自信 | blind overconfidence
+  盲目乐观 | blindly optimistic
+  盲目冲动 | blind impulse
+  盲目行动 | act blindly
+  盲目崇拜 | blind worship / idolatry
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  盲人摸象 | máng rén mō xiàng | blind people feeling an elephant; mistake the part for the whole
+  盲人瞎马 | máng rén xiā mǎ | a blind person on a blind horse; rushing blindly into imminent catastrophe
+  有目共睹 | yǒu mù gòng dǔ | obvious to all with eyes; undeniable fact witnessed by everyone
+  掩耳盗铃 | yǎn ěr dào líng | cover one's ears while stealing a bell; self-deceit
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  盲 | máng | blind; visually impaired; unseeing | ciego; invidente; sin visión | 目 | eye | 目 (eye / vision) + 亡 (perish / lose) | 亡 (wáng) | 8 | 上下结构 | Eyes 目 destroyed or extinguished 亡; signifies loss of sight or blindness. | Loss (亡) of sight in the eye (目) renders one blind (盲). | La pérdida (亡) de visión en el ojo (目) deja a la persona ciega (盲). | 35 | YVBU | 盲
+  目 | mù | eye; gaze; look; item; category | ojo; mirada; ver; renglón; partida | 目 | eye | Pictograph of an eye with iris and pupils | 目 (mù) | 5 | 单一结构 | A realistic pictograph of an open human eye showing the eyeball and pupil. | An open eye (目) looking attentively at everything. | Un ojo abierto (目) observando con fijeza el entorno. | 51 | BU | 目
+
+mnemonics_and_roots:
+  composite_memory_hook_en: When the eyes (目) lose sight (盲), one acts blindly (盲目) without seeing reality.
+  composite_memory_hook_es: Cuando los ojos (目) pierden la visión (盲), se actúa a ciegas (盲目) sin comprender la realidad.
+  cultural_and_cognitive_roots: Extends the physical inability to see to figurative intellectual and strategic blindness.
+  tone_sandhi_and_pitch_modulation: Second tone to fourth tone: 'máng mù' (35-51). Rising tone followed by decisive falling tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    育 | yù | educate; nurture | Radical 月 at bottom instead of 目
+    忘 | wàng | forget | Heart 心 at bottom instead of 目
+    日 | rì | sun; day | One horizontal bar inside instead of two
+    自 | zì | self | Extra tick stroke on top
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    盲区 | mángqū | blind spot
+    色盲 | sèmáng | color blindness
+    文盲 | wénmáng | illiterate
+    注目 | zhùmù | gaze upon; fix attention
+
+semantic_boundary_contrasts:
+  core_nuance: 盲目 highlights acting without rational foresight, factual evidence, or objective analysis.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 盲目 vs. 冲动 | chōngdòng | 冲动 indicates emotional turbulence causing impulsive actions, while 盲目 denotes lack of cognitive basis or clear direction.
+    2 | 盲目 vs. 草率 | cǎoshuài | 草率 stresses careless and rushed execution, whereas 盲目 stresses fundamental ignorance of circumstances.
+    3 | 盲目 vs. 随便 | suíbiàn | 随便 conveys informality or casual unconcern, while 盲目 carries severe consequences.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 孙子兵法云：“不知彼而知己，一胜一负；不知彼不知己，每战必殆。”赵括轻视对手、盲目出兵，既未探清秦军主力虚实，也未明察山川险隘，结果正中白起埋伏，使赵国陷入万劫不复的深渊。 | Sūnzǐ bīngfǎ yún: 'Bù zhī bǐ ér zhī jǐ, yí shèng yí fù; bù zhī bǐ bù zhī jǐ, měi zhàn bì dài.' Zhào Kuò qīngshì duìshǒu, mángmù chūbīng, jì wèi tànqīng Qín jūn zhǔlì xūshí, yě wèi míngchá shānchuān xiǎn'ài, jiéguǒ zhèngzhòng Bái Qǐ máifu, shǐ Zhàoguó xiànrù wànjiébùfù de shēnyuān. | The Art of War states: 'Ignorant of the enemy but knowing yourself, victory is equal to defeat; ignorant of both, peril follows every clash.' Zhao Kuo marched out blindly, falling right into Bai Qi's ambush and ruining the state of Zhao. | El Arte de la Guerra dicta: 'Quien ignora al enemigo y a sí mismo sucumbe en cada lance.' Zhao Kuo avanzó a ciegas, cayendo en la celada de Bai Qi y arrojando a su reino al abismo de la aniquilación.
+  #2 | 在当今海量信息交织的数字化时代，盲目跟风已成为大众心理的普遍隐患。无论是舆论场上的断章取义，还是资本市场的狂热泡沫，唯有保持独立严谨的批判精神，方能在喧嚣迷雾中守住理性底线。 | Zài dāngjīn hǎiliàng xìnxī jiāozhī de shùzìhuà shídài, mángmù gēnfēng yǐ chéngwéi dàzhòng xīnlǐ de pǔbiàn yǐnhuàn. Wúlùn shì yúlùnchǎng shang de duànzhāng-qǔyì, háishì zībǐn shìchǎng de kuángrè pàomò, wéiyǒu bǎochí dúlì yánjǐn de pīpàn jīngshén, fāng néng zài xuānxiāo míwù zhōng shǒuzhù lǐxìng dǐxiàn. | In today's digital era flooded with information, blind conformism is a widespread psychological trap. Whether in polarizing public discourse or asset bubbles, maintaining independent critical thinking is vital to preserving rationality. | En la era digital saturada de información, seguir la corriente a ciegas es un riesgo frecuente. Ya sea ante bulos o burbujas financieras, preservar el pensamiento crítico permite mantener la sensatez en medio del ruido.

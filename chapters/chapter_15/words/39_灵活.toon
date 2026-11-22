@@ -1,0 +1,63 @@
+id: 39
+hanzi: 灵活
+pinyin: líng huó
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: flexible; agile; nimble; adaptable
+  es: flexible; ágil; adaptable; diestro; maniobrable
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | agile and adaptable; not rigid or bound by dogma; adjusting readily to changing situations | ágil y adaptable; no rígido ni atado al dogma; capaz de adecuarse con rapidez a situaciones cambiantes | 灵活机动 (agile and flexible maneuver)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 真正善于带兵的将领深谙兵无常势之理，绝不死搬兵书阵法，而是根据敌地形势灵活机动地调整部署。 | Zhēnzhèng shànyú dài bīng de jiànglǐng shēn'ān bīng wú cháng shì zhī lǐ, jué bù sǐ bān bīngshū zhènfǎ, ér shì gēnjù dídì xíngshì línghuó jīdòng de tiáozhěng bùshǔ. | Generals skilled in command understand warfare has no constant posture; never rigidly copying diagrams, they flexibly adjust troop deployments according to conditions. | Los generales hábiles saben que la guerra no tiene esquemas fijos; lejos de copiar manuales, adecuan sus posiciones con suma agilidad según el enemigo.
+  #2 | 在复杂的商务谈判中，既要坚定守护核心底线，也要根据对话氛围灵活变通具体的合作条款。 | Zài fùzá de shāngwù tánpàn zhōng, jì yào jiāndìng shǒuhù héxīn dǐxiàn, yě yào gēnjù duìhuà fēnwéi línghuó biàntōng jùtǐ de hézuò tiáokuǎn. | In complex commercial negotiations, one must firmly safeguard bottom lines while flexibly adapting specific collaboration clauses to the atmosphere. | En negociaciones comerciales complejas se debe defender la línea roja y, al mismo tiempo, adaptar las cláusulas contractuales con flexibilidad según el diálogo.
+
+collocations[6]{hanzi,en}:
+  灵活变通 | adapt flexibly / accommodate changes
+  灵活运用 | apply flexibly
+  头脑灵活 | quick-witted / nimble mind
+  手脚灵活 | nimble hands and feet / physically agile
+  机制灵活 | flexible mechanism
+  灵活机动 | agile and mobile
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  随机应变 | suí jī yìng biàn | adapt oneself to changing conditions; act according to circumstances
+  见机行事 | jiàn jī xíng shì | act as the occasion demands; act opportunely
+  通权达变 | tōng quán dá biàn | adapt to circumstances; be pragmatic and flexible
+  墨守成规 | mò shǒu chéng guī | stick stubbornly to outdated conventions; hidebound
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  灵 | líng | agile; clever; spirit; soul; effective | ágil; despierto; espíritu; alma; eficaz | 火 | fire | 彐/雨 (celestial rain prayers) + 火 (sparkling fiery spirit) | 霝 (archaic phonetic in traditional 靈) | 7 | 上下结构 | Spiritual quickness and briskness bursting forth like leaping flames 火; denotes agile wit and vitality. | A quick spirit leaping agilely like sparkling flames (火) full of nimble wit (灵). | Un espíritu despierto que salta como llamaradas ágiles (火) desbordando ingenio (灵). | 35 | SMF | 靈
+  活 | huó | live; alive; living; dynamic; lively | vivir; vivo; viviente; dinámico; suelto | 氵 | water | 氵 (flowing water stream) + 舌 (active tongue) | 舌 (shé) | 9 | 左右结构 | Water 氵 flowing with vital living momentum like an agile moving tongue 舌; signifies life and mobility. | Fresh clear water (氵) babbling dynamically like a moving tongue (舌), full of vital life (活). | Agua fresca (氵) que fluye sin cesar como una lengua ágil (舌), rebosante de vida dinámica (活). | 35 | EHR | 活
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A sharp spirit (灵) flowing dynamically like living water (活) gives supreme flexibility (灵活).
+  composite_memory_hook_es: Un ingenio despierto (灵) que fluye con dinamismo como agua viva (活) concede total flexibilidad (灵活).
+  cultural_and_cognitive_roots: Derives from Daoist and military metaphors likening adaptive wisdom to the ever-shifting flow of water.
+  tone_sandhi_and_pitch_modulation: Second tone to second tone: 'líng huó' (35-35). Two consecutive rising pitches smoothly chained.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    寻 | xún | search; seek | Radical 寸 at bottom instead of 火
+    录 | lù | record | Radical 氺 at bottom
+    话 | huà | speech; language | Speech 讠 radical on left instead of water 氵
+    适 | shì | suitable; fit | Walk 辶 radical enclosing 舌
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    灵敏 | língmǐn | sensitive; keen; responsive
+    活跃 | huóyuè | active; dynamic; brisk
+    灵巧 | língqiǎo | dexterous; nimble; ingenious
+    死板 | sǐbǎn | rigid; inflexible (antonym)
+
+semantic_boundary_contrasts:
+  core_nuance: 灵活 emphasizes quick, responsive adaptation to changes in situations or physical agility.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 灵活 vs. 机智 | jīzhì | 机智 emphasizes sharp wit and quick problem-solving during crises, while 灵活 denotes broader situational adaptability or physical agility.
+    2 | 灵活 vs. 敏捷 | mǐnjié | 敏捷 emphasizes high physical speed or rapid reflexes, while 灵活 emphasizes non-dogmatic adaptability.
+    3 | 灵活 vs. 圆滑 | yuánhuá | 圆滑 carries a distinctly negative connotation of being slick, unprincipled, and evasive in social dealings.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 孙子兵法精髓有云：“水因地而制流，兵因敌而制胜。”用兵的核心精义在于随机应变、灵活机动。秦将白起善于根据地形与敌情灵活调动兵力，而赵括死搬兵书阵法，最终导致赵军主力被全歼于崇山峻岭之中。 | Sūnzǐ bīngfǎ jīngsuǐ yǒu yún: 'Shuǐ yīn dì ér zhì liú, bīng yīn dí ér zhì shèng.' Yòngbīng de héxīn jīngyì zàiyú suíjī-yìngbiàn, línghuó jīdòng. Qín jiàng Bái Qǐ shànyú gēnjù dìxíng yǔ díqíng línghuó diàodòng bīnglì, ér Zhào Kuò sǐ bān bīngshū zhènfǎ, zuìzhōng dǎozhì Zhào jūn zhǔlì bèi quánjiān yú chóngshān-jùnlǐng zhīzhōng. | The Art of War states: 'Water shapes its course according to terrain; an army achieves victory by adapting to the enemy.' The soul of warfare lies in flexible mobility. Bai Qi adjusted deftly, while Zhao Kuo copied dogmatic plans, leading his army to total slaughter. | El Arte de la Guerra enseña: 'El agua amolda su cauce al terreno; el ejército forja la victoria adaptándose al adversario.' La clave radica en la agilidad táctica. Bai Qi adaptó sus tropas con maestría, mientras Zhao Kuo copió esquemas rígidos, condenando a su ejército.
+  #2 | 当今时代科技日新月异，社会分工与竞争形态变幻莫测。无论是科技企业的商业模式创新，还是职场人士的技能迭代，墨守成规都难逃淘汰命运。唯有保持敏锐的洞察力与灵活变通的智慧，方能在滔滔浪潮中立于不败之地。 | Dāngjīn shídài kējì rìxīn-yuèyì, shèhuì fēngōng yǔ jìngzhēng xíngtài biànhuàn-mòcè. Wúlùn shì kējì qǐyè de shāngyè móshì chuàngxīn, háishì zhíchǎng rénshì de jìnéng diédài, mòshǒu-chéngguī dōu nántáo táotài mìngyùn. Wéiyǒu bǎochí mǐnruì de dòngchálì yǔ línghuó biàntōng de zhìhuì, fāng néng zài tāotāo làngcháo zhōng lìyú búbài zhī dì. | In today's era of rapid tech advancement, competition shifts unpredictably. Whether in corporate model innovations or personal skill building, clinging to obsolete formulas leads to obsolescence. Sharp insight and flexible adaptability ensure standing invincible amid the waves. | En un mundo de avances tecnológicos vertiginosos, la competencia evoluciona sin cesar. Tanto en modelos de negocio como en la superación laboral, aferrarse a lo viejo conduce al olvido. La agudeza y la flexibilidad constante son la clave para mantenerse invictos.

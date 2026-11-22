@@ -1,0 +1,63 @@
+id: 17
+hanzi: 重复
+pinyin: chóng fù
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to repeat; duplicate; reiterate; repetition
+  es: repetir; duplicar; reiterar; repetición
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to do, say, or undergo something again; to recur identically | volver a hacer, decir o experimentar algo de forma idéntica | 请把刚才的话重复一遍 (please repeat what you just said)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 由于网络信号在隧道中出现中断，会议主持人不得不把刚才的核心议题又向大家重复了一遍。 | Yóuyú wǎngluò xìnhào zài suìdào zhōng chūxiàn zhòngduàn, huìyì zhǔchírén bùdébù bǎ gāngcái de héxīn yìtí yòu xiàng dàjiā chóngfù le yí biàn. | Because network signals dropped inside the tunnel, the meeting host had to repeat the core agenda item to everyone once more. | Al cortarse la conexión en el túnel, el moderador de la reunión tuvo que repetir a los asistentes el punto central tratado.
+  #2 | 历史经验告诉我们，只有深刻汲取教训并完善制度，才能避免在相同的危机面前重复过去的错误。 | Lìshǐ jīngyàn gàosù wǒmen, zhǐyǒu shēnkè jíqǔ jiàoxùn bìng wánshàn zhìdù, cái néng bìmiǎn zài xiāngtóng de wēijī miànqián chóngfù guòqù de cuòwù. | Historical experience teaches that only by profoundly absorbing lessons and refining institutions can we avoid repeating past mistakes during similar crises. | La historia demuestra que sólo aprendiendo de los errores y mejorando las instituciones evitaremos repetir pasadas equivocaciones ante crisis semejantes.
+
+collocations[6]{hanzi,en}:
+  重复一遍 | repeat once again
+  机械重复 | mechanical mindless repetition
+  重复建设 | redundant construction / duplication
+  重复使用 | reuse / repeated use
+  避免重复 | avoid duplication
+  重复劳动 | repetitive manual toil
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  重蹈覆辙 | chóng dǎo fù zhé | follow the overturned cart track; repeat the disastrous mistake
+  周而复始 | zhōu ér fù shǐ | circle round and begin anew; cyclical recurrence
+  日复一日 | rì fù yí rì | day after day; routine uninterrupted persistence
+  老生常谈 | lǎo shēng cháng tán | old scholar's platitude; familiar shopworn talk
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  重 | chóng | repeat; layer; again | repetir; capa; de nuevo | 里 | village / inside | pictograph of heavy baggage piled up in layers | 重 (chóng/zhòng) | 9 | 单一结构 | A person standing over a layered bundle or heavy grain sack; dual reading as heavy (zhòng) and layered repetition (chóng). | Multiple heavy bundles stacked on top of one another layer upon layer (重). | Múltiples fardos pesados apilados uno sobre otro capa tras capa (重). | 35 | HJG | 重
+  复 | fù | return; repeat; complex | regresar; duplicar; complejo | 夂 | go / step | 夂 (trailing footsteps) + 畐 (vessel) | 复 (fù) | 9 | 上下结构 | Footsteps 夂 tracing a path back to a walled settlement; returning along original tracks to repeat an action. | Footsteps (夂) turning around and retracing their exact path back to the starting point (复). | Pasos (夂) que dan media vuelta desandando el camino exacto hacia el punto de partida (复). | 51 | OAE | 複
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Layering over (重) and retracing footsteps back (复) leads to identical repetition (重复).
+  composite_memory_hook_es: Apilar capas (重) y desandar los pasos hacia el inicio (复) da lugar a una repetición idéntica (重复).
+  cultural_and_cognitive_roots: Foundational in cognitive learning theory (熟能生巧) and scientific experimentation where replicability validates truth.
+  tone_sandhi_and_pitch_modulation: Rising second tone followed by falling fourth tone: 'chóng fù' (35-51). Soar upward on 'chóng', then drive down decisively on 'fù'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    重 | chóng/zhòng | repeat; heavy | Single vertical axis piercing horizontal bars
+    童 | tóng | child; youth | Has 立 (stand) on top instead of 千
+    复 | fù | repeat; complex | Has 夂 at bottom
+    夏 | xià | summer | Has 目-like head under the upper horizontal canopy
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    叠 | dié | stack; fold; repeat
+    蹈 | dǎo | tread; repeat steps
+    循 | xún | follow; cycle
+    环 | huán | ring; loop
+
+semantic_boundary_contrasts:
+  core_nuance: 重复 indicates the identical recurrence of an action, sound, or state without substantial variation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 重复 vs. 反复 | fǎnfù | 反复 often connotes back-and-forth instability or wavering (病情反复, 反复无常), whereas 重复 means straightforward copying or reiteration.
+    2 | 重复 vs. 循环 | xúnhuán | 循环 implies a closed systemic loop (血液循环), while 重复 can be an isolated second occurrence of an event.
+    3 | 重复 vs. 重建 | chóngjiàn | 重建 means building from ruins or reconstructing an organization, whereas 重复 merely repeats an action.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 科研工作者在实验室里日复一日地重复着枯燥的数据测定与化学配比实验。正是这种严谨求实、不厌其烦的高精度重复验证，才最终剥离掉偶然误差的干扰，让颠扑不破的科学真理在严苛检验中熠熠生辉。 | Kēyán gōngzuòzhě zài shíyànshì lǐ rì-fù-yírì de chóngfù zhe kūzào de shùjù cèdìng yǔ huàxué pèibǐ shíyàn. Zhèng shì zhè zhǒng yánjǐn qiúshí, bùyàn-qífán de gāo jīngdù chóngfù yànzhèng, cái zuìzhōng bōlí diào ǒurán wùchā de gānrǎo, ràng diānpū-bùpò de kēxué zhēnlǐ zài yánkē jiǎnyàn zhōng yìyì-shēnghuī. | Researchers repeated tedious data calibrations and chemical ratios day after day in the laboratory. It was this rigorous, untiring repetition that stripped away accidental errors, allowing immutable scientific truth to shine through. | Los científicos repetían mediciones y formulaciones día tras día en el laboratorio. Esa meticulosa comprobación reiterada permitió descartar errores fortuitos, corroborando con rigor la verdad científica ante la prueba experimental.
+  #2 | 早期的篮球比赛每得一分，裁判和队员都必须重复相同的繁琐动作：暂停走表、搬出梯子、爬上去把球取出、再放回场中重新跳球。这种单调机械的重复不仅打断了比赛的连贯性，更严重制约了体育竞技激情的释放。 | Zǎoqī de lánqiú bǐsài měi dé yì fēn, cáipàn hé duìyuán dōu bìxū chóngfù xiāngtóng de fánsuǒ dòngzuò: zàntíng zǒu biǎo, bān chū tīzi, pá shàngqu bǎ qiú qǔ chū, zài fàng huí chǎngzhōng chóngxīn tiào qiú. Zhè zhǒng dāndiào jīxiè de chóngfù bùjǐn dǎduàn le bǐsài de liánguànxìng, gèng yánzhòng zhìyuē le tǐyù jìngjì jīqíng de shìfàng. | Every scored point in early basketball forced players and referees to repeat the same tedious cycle: stop the clock, drag out a ladder, climb up to dislodge the ball, and resume with a jump ball. Such mechanical repetition crippled the game's continuity and spirit. | En los albores del baloncesto, cada canasta obligaba a repetir el mismo engorro: parar el reloj, arrastrar la escalera, descolgar el balón y hacer un salto entre dos. Esa pesada rutina cortaba la fluidez ahogando la emoción del juego.

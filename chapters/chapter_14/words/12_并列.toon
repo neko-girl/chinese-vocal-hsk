@@ -1,0 +1,63 @@
+id: 12
+hanzi: 并列
+pinyin: bìng liè
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to stand side by side; juxtapose; tie (in a contest)
+  es: yuxtaponer; alinearse; empatar; estar en el mismo plano
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to be placed side by side; to rank equally without distinction of superior and inferior | colocarse uno al lado del otro; alinearse en el mismo rango o igualdad de condiciones | 并列第一名 (tie for first place)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在老北京四合院的规整格局中，东厢房与西厢房分立在庭院两侧，形成了整齐并列的对称之美。 | Zài lǎo Běijīng sìhéyuàn de guīzhěng géjú zhōng, dōngxiāngfáng yǔ xīxiāngfáng fēnlì zài tíngyuàn liǎngcè, xíngchéng le zhěngqí bìngliè de duìchèn zhī měi. | In the orderly layout of old Beijing quadrangles, east and west wing-rooms stand on either side of the courtyard, forming a neatly juxtaposed symmetrical aesthetic. | En la ordenada traza del siheyuan pekinés, las alas este y oeste se alzan a ambos flancos del patio, creando una equilibrada belleza simétrica yuxtapuesta.
+  #2 | 两位青年学者凭借开创性的理论研究成果，在今年的学术年会上并列荣获一等奖。 | Liǎng wèi qīngnián xuézhě píngjiè kāichuàngxìng de lǐlùn yánjiū chéngguǒ, zài jīntiān de xuéshù niánhuì shang bìngliè rónghuò yīděngjiǎng. | Two young scholars jointly won the first prize in a tie at this year's academic symposium for their groundbreaking theoretical findings. | Dos jóvenes investigadores obtuvieron conjuntamente el primer premio en pie de igualdad en el congreso científico gracias a sus innovadoras teorías.
+
+collocations[6]{hanzi,en}:
+  并列第一 | tie for first place
+  并列关系 | coordinate relationship (grammar)
+  并列排布 | arrayed side by side
+  不分先后 | in no specific precedence
+  并列句子 | coordinate clauses
+  地位并列 | equal status / parallel standing
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  并驾齐驱 | bìng jià qí qū | run neck and neck; keep pace side by side
+  平起平坐 | píng qǐ píng zuò | sit on equal footing; enjoy parity
+  相提并论 | xiāng tí bìng lùn | mention in the same breath; treat as equivalent
+  并肩作战 | bìng jiān zuòzhàn | fight shoulder to shoulder
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  并 | bìng | combine; together; side by side | combinar; juntos; a la vez | 干 | shield / dry | two standing figures joined together at the base | 并 (bìng) | 6 | 单一结构 | Ancient pictograph of two people standing side by side shoulder-to-shoulder in tandem. | Two figures standing shoulder to shoulder (并) walking together in lockstep. | Dos siluetas erguidas hombro con hombro (并) marchando al unísono. | 51 | TT | 並
+  列 | liè | row; line; arrange; list | fila; hilera; alinear; clasificar | 刂 | knife / blade | 歹 (broken bone / clean division) + 刂 (cutting knife) | 列 (liè) | 6 | 左右结构 | A sharp knife 刂 segmenting bone fragments into an orderly row or sequence; line up. | Using a knife blade (刂) to trim components neatly into an organized column or line (列). | Emplear una hoja afilada (刂) para separar elementos en una hilera ordenada (列). | 51 | MNLN | 列
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Standing side by side (并) aligned in an orderly rank (列) signifies parallel juxtaposition (并列).
+  composite_memory_hook_es: Estar hombro con hombro (并) alineados en rigurosa hilera (列) define la yuxtaposición paritaria (并列).
+  cultural_and_cognitive_roots: Derived from classical military formations and grammatical coordinates where neither term subordinates the other.
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'bìng liè' (51-51). Deliver both syllables with crisp, sharp downward inflection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    井 | jǐng | water well | Grid lines without top horizontal dot strokes
+    开 | kāi | open; start | Horizontal bar across two vertical supports
+    例 | lì | example; instance | Person radical 亻 to the left of 列
+    烈 | liè | intense; fiery | Four fire dots 灬 below 列
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    排列 | páiliè | arrange; line up
+    队列 | duìliè | formation; queue
+    合并 | hébìng | merge; coalesce
+    兼并 | jiānbìng | annex; swallow up
+
+semantic_boundary_contrasts:
+  core_nuance: 并列 emphasizes equal rank, simultaneous presence, or horizontal non-hierarchical juxtaposition.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 并列 vs. 从属 | cóngshǔ | 从属 denotes hierarchical subordination where one relies on the master, while 并列 denotes equal status.
+    2 | 并列 vs. 递进 | dìjìn | 递进 marks step-by-step sequential escalation in intensity, whereas 并列 treats all items on the same plane.
+    3 | 并列 vs. 交叉 | jiāochā | 交叉 involves intersecting or overlapping paths, whereas 并列 features parallel non-intersecting lines.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统院落的规划非常讲究对称并列。在四合院内部，东西两侧的厢房无论在进深、开间还是屋顶造型上，都保持着高度的并列对应。这种左右对称的建筑格局，营造出一种端正庄重的居住秩序。 | Zhōngguó chuántǒng yuànluò de guīhuà fēicháng jiǎngjiu duìchèn bìngliè. Zài sìhéyuàn nèibù, dōngxī liǎngcè de xiāngfáng wúlùn zài jìnshēn, kāijiān háishì wūdǐng zàoxíng shang, dōu bǎochí zhe gāodù de bìngliè duìyìng. Zhè zhǒng zuǒyòu duìchèn de jiànzhù géjú, yíngzào chū yī zhǒng duānzhèng zhuāngzhòng de jūzhù zhìxù. | The planning of traditional Chinese courtyards emphasized symmetry and parallel layout. Inside a quadrangle, the east and west wings maintained high coordinate correspondence in depth, span, and roof styling, forging an orderly dignity. | La traza del patio tradicional chino concede enorme importancia a la simetría y alineación. Las alas este y oeste guardaban estricta concordancia en profundidad, crujías y techumbres, forjando un orden residencial solemne.
+  #2 | 在汉语语法构造中，并列短语是由两个或两个以上地位平等的词汇共同组合而成的。它们之间没有修饰与被修饰的依附关系，表达的意思互为补充。学会准确识别并列关系，有助于深入理解古代诗词与现代美文的精妙对仗。 | Zài Hànyǔ yǔfǎ gòuzào zhōng, bìngliè duǎnyǔ shì yóu liǎng gè huò liǎng gè yǐshàng dìwèi píngděng de cíhuì gòngtóng zǔhé ér chéng de. Tāmen zhījiān méiyǒu xiūshì yǔ bèi xiūshì de yīfù guānxi, biǎodá de yìsi hù wéi bǔchōng. Xuéhuì zhǔnquè shíbié bìngliè guānxi, yǒuzhùyú shēnrù lǐjiě gǔdài shīcí yǔ xiàndài měiwén de jīngmiào duìzhàng. | In Chinese grammatical syntax, coordinate phrases are composed of two or more words of equal standing. They share no subordinate modifying relationship and complement each other, enabling learners to appreciate poetic parallelism. | En la sintaxis gramatical china, los sintagmas coordinados se componen de términos de idéntica jerarquía. No guardan dependencia de subordinación sino que se complementan, permitiendo apreciar el pulcro paralelismo poético.

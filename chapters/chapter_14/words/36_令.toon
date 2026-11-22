@@ -1,0 +1,62 @@
+id: 36
+hanzi: 令
+pinyin: lìng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to make; cause (someone to feel); order; command; season
+  es: hacer; causar; infundir; ordenar; mandato; estación
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | pivotal verb meaning to cause or make someone feel a particular emotion; also to command or order | verbo causativo que significa hacer que alguien experimente un sentimiento; ordenar | 令人难忘 (make people remember unforgettable feelings)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在青砖灰瓦、花木扶疏的四合院中，那种安宁祥和的东方意境令人心旷神怡、流连忘返。 | Mànbù zài qīngzhuān-huīwǎ, huāmù-fúshū de sìhéyuàn zhōng, nà zhǒng ānníng xiánghé de dōngfāng yìjìng lìng rén xīnkuàng-shényí, liúlián-wàngfǎn. | Strolling through gray-brick and leafy courtyards, that tranquil Eastern atmosphere makes one feel relaxed, captivated, and reluctant to leave. | Pasear por el siheyuan de ladrillos grises y vegetación frondosa infunde un sosiego que despeja el ánimo y cautiva los sentidos.
+  #2 | 科研团队在极度艰苦的试验环境下取得的这一突破性成果，令同行专家们由衷赞叹。 | Kēyán tuánduì zài jídù jiānkǔ de shìyàn huánjìng xià qǔdé de zhè yī tūpòxìng chéngguǒ, lìng tóngháng zhuānjiā men yóuzhōng zàntàn. | This breakthrough achieved by the research team under arduous conditions caused peers to admire them from the bottom of their hearts. | El hallazgo alcanzado por el equipo científico bajo duras condiciones de laboratorio hizo que sus colegas lo elogiaran con admiración sincera.
+
+collocations[6]{hanzi,en}:
+  令人满意 | make people satisfied / gratifying
+  令人难忘 | make it unforgettable
+  令人震惊 | make people astonished / shocking
+  令人欣慰 | make people gratified / comforting
+  下达命令 | issue an order / command
+  军令如山 | military orders are firm as mountains
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  令人发指 | lìng rén fà zhǐ | make one's hair stand on end with outrage
+  巧言令色 | qiǎo yán lìng sè | fine words and ingratiating manners; deceitful flattery
+  令行禁止 | lìng xíng jìn zhǐ | orders executed promptly and prohibitions strictly obeyed
+  自愧不如 | zì kuì bù rú | feel inferior and ashamed of one's shortcomings
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  令 | lìng | order; command; cause; make | ordenar; mandato; hacer; causar | 人 | person | 亼 (leader's mouth issuing decrees) + 卩 (kneeling person obeying) | 令 (lìng) | 5 | 上下结构 | A ruler gathered atop a hall issuing a decree 亼 to a kneeling subject 卩; evolved into causing an effect. | A leader gathering people under a roof (人) to deliver an inspiring proclamation that moves everyone (令). | Un dignatario congregando vasallos bajo el alero (人) para proclamar una orden que conmueve a todos (令). | 51 | OII | 令
+
+mnemonics_and_roots:
+  composite_memory_hook_en: An authoritative decree issued from above (令) moves or causes (令) people to feel deep reactions.
+  composite_memory_hook_es: Una orden emitida con autoridad (令) provoca o causa (令) una reacción afectiva en quien la recibe.
+  cultural_and_cognitive_roots: Originates as an imperial command in oracle script, widening into a causative literary marker (使/让/令) invoking emotions.
+  tone_sandhi_and_pitch_modulation: Fourth tone: 'lìng' (51). Deliver with crisp, authoritative downward momentum.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    今 | jīn | now; present | Lacks the bottom dot/hook mark of 令
+    冷 | lěng | cold; chill | Ice radical 冫 to the left of 令
+    怜 | lián | pity; sympathize | Heart radical 忄 to the left of 令
+    铃 | líng | bell; chime | Metal radical 钅 to the left of 令
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    命令 | mìnglìng | order; command
+    法令 | fǎlìng | decree; statute laws
+    时令 | shílìng | season; seasonal time
+    指令 | zhǐlìng | instruction; directive
+
+semantic_boundary_contrasts:
+  core_nuance: 令 functions primarily as a causative pivotal verb inducing psychological feelings (令+人+adjective/verb).
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 令 vs. 让 | ràng | 让 is colloquial and can denote giving permission or yielding, while 令 is written and introduces emotional reactions.
+    2 | 令 vs. 使 | shǐ | 使 can link concrete factual transformations, while 令 is heavily favored for emotional sensations (令人感动).
+    3 | 令 vs. 劝 | quàn | 劝 means persuading or advising someone, whereas 令 as causative directly produces the psychological effect.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 走进北京保存完好的古老四合院，高高悬挂的红灯笼与雕刻精美的垂花门令人目不暇接。院落里弥漫着淡淡的茉莉花茶清香，那份穿越历史风尘而来的安详从容，令人瞬间忘却了都市生活的喧嚣与浮躁。 | Zǒu jìn Běijīng bǎocún wánhǎo de gǔlǎo sìhéyuàn, gāogāo xuánguà de hóng dēnglong yǔ diāokè jīngměi de chuíhuāmén lìng rén mùbùxiájiē. Yuànluò lǐ mímàn zhe dàndàn de mòlihuā chá qīngxiāng, nà fèn chuānyuè lìshǐ fēngchén ér lái de ānxiáng cóngróng, lìng rén shùnjiān wàngquè le dūshì shēnghuó de xuānxīao yǔ fúzào. | Entering a preserved Beijing courtyard, high-hanging red lanterns and carved gates leave visitors feast their eyes. Fragrant jasmine tea drifts through the yard, and its historical serenity makes one instantly forget urban bustle. | Al franquear un siheyuan pekinés, los farolillos rojos y cancelas caladas dejan atónita la mirada. El aroma a té de jazmín y la quietud histórica hacen olvidar de golpe las prisas y el tráfago de la gran ciudad.
+  #2 | 中国古代先贤关于自律自省的至理名言，至今读来依然令人振聋发聩。“见贤思齐焉，见不贤而内自省也”，这种虚怀若谷的治学修身精神，令一代代后人深受启迪，成为指引人们不断完善人格的精神明灯。 | Zhōngguó gǔdài xiānxián guānyú zìlǜ-zìxǐng de zhìlǐ míngyán, zhìjīn dú lái yīrán lìng rén zhènlóng-fākuì. 'Jiàn xián sī qí yān, jiàn bù xián ér nèi zìxǐng yě', zhè zhǒng xūhuái-ruògǔ de zhìxué xiūshēn jīngshén, lìng yīdàidài hòurén shēn shòu qǐdí, chéngwéi zhǐyǐn rénmen bùduàn wánshàn réngé de jīngshén míngdēng. | Ancient sages' aphorisms on self-discipline remain thought-provoking today: 'When seeing worthy individuals, strive to emulate them.' This introspective scholarly humility inspires successive generations to cultivate their character. | Las sentencias de los sabios antiguos sobre la templanza siguen conmoviendo: 'Al ver al sabio, procura igualarlo; al ver al necio, examínate a ti mismo.' Esta humildad letrada ha inspirado a generaciones a perfeccionar su alma.

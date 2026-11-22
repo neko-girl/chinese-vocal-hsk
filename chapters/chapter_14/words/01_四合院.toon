@@ -1,0 +1,64 @@
+id: 1
+hanzi: 四合院
+pinyin: sì hé yuàn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: siheyuan; traditional Chinese quadrangle courtyard dwelling
+  es: siheyuan; patio cuadrangular tradicional de Pekín
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a traditional Chinese residential compound consisting of houses arranged around a central square courtyard on four sides | vivienda residencial tradicional china compuesta por pabellones en cuatro lados en torno a un patio central | 北京老城区的四合院 (traditional quadrangle courtyards of old Beijing)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 爷爷在北京胡同里那座青砖灰瓦的四合院里生活了大半辈子，院子里常年种着石榴树与枣树。 | Yéye zài Běijīng hútòng lǐ nà zuò qīngzhuān-huīwǎ de sìhéyuàn lǐ shēnghuó le dàbànbèizi, yuànzi lǐ chángnián zhòng zhe shíliushù yǔ zǎoshù. | Grandfather lived for over half his life in that grey-brick and tiled courtyard house in a Beijing alley, where pomegranate and jujube trees grew year-round. | El abuelo vivió más de media vida en aquel patio cuadrangular de ladrillo gris en un hutong pekinés, donde crecían granados y azufaifos.
+  #2 | 作为中国传统建筑文化的杰出代表，保存完好的四合院如今已成为中外游客体验老北京民俗风情的必访之地。 | Zuòwéi Zhōngguó chuántǒng jiànzhù wénhuà de jiéchū dàibiǎo, bǎocún wánhǎo de sìhéyuàn rújīn yǐ chéngwéi zhōngwài yóukè tǐyàn lǎo Běijīng mínsú fēngqíng de bìfǎng zhīdì. | As an outstanding representative of traditional Chinese architectural culture, well-preserved courtyard homes are now must-visit sites for cultural immersion. | Como joya de la arquitectura tradicional china, los patios bien conservados son paradas obligadas para que viajeros de todo el mundo descubran el viejo Pekín.
+
+collocations[6]{hanzi,en}:
+  北京四合院 | Beijing quadrangle courtyard
+  一座四合院 | a courtyard compound (classifier 座)
+  传统四合院 | traditional quadrangle courtyard
+  住在四合院 | live in a quadrangle courtyard
+  四合院建筑 | siheyuan courtyard architecture
+  四合院格局 | courtyard layout structure
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  深宅大院 | shēn zhái dà yuàn | deep mansions and spacious courtyards; aristocratic compounds
+  庭院深深 | tíng yuàn shēn shēn | courtyards deep and secluded; classical quietude
+  安居乐业 | ān jū lè yè | live in peace and work with contentment
+  和睦相处 | hé mù xiāng chǔ | live together in peaceful harmony
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  四 | sì | four; cardinal directions | cuatro; cuatro puntos cardinales | 囗 | enclosure | 囗 (four-sided enclosure) + 八 (diverging lines) | 四 (sì) | 5 | 全包围结构 | Enclosed box 囗 with two dividing lines inside; represents the four cardinal orientations: East, West, South, and North. | An enclosed space (囗) dividing cleanly into four cardinal quadrants (四). | Un recinto cerrado (囗) dividido en cuatro cuadrantes cardinales (四). | 51 | WC | 四
+  合 | hé | join; enclose; unite; close | unir; juntar; cerrar; confluir | 人 | person | 人 (roof / covering lid) + 一 + 口 (box container) | 合 (hé) | 6 | 上下结构 | A lid 人 fitting seamlessly over a vessel 口; closing on all sides to form an enclosed harmonious unit. | Fitting a snug lid (人) onto a square box container (口) so four walls join seamlessly (合). | Ajustar una tapadera (人) sobre una caja (口) para que las cuatro paredes encajen en unión (合). | 35 | OMR | 合
+  院 | yuàn | courtyard; compound; institution | patio; recinto; claustro | 阝 | mound / wall | 阝 (earthen boundary wall) + 完 (complete / whole) | 完 (wán / phonetic association) | 9 | 左右结构 | Boundary wall 阝 surrounding a completed domestic dwelling 完; a safe, open courtyard enclosed by perimeter walls. | Solid earthen perimeter walls (阝) sheltering a fully completed residential homestead (完): a peaceful courtyard (院). | Muros protectores (阝) que resguardan una vivienda entera y completa (完): el patio solariego (院). | 51 | NLJMU | 院
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Four sides (四) joining in harmony (合) around an enclosed central courtyard (院) form a siheyuan (四合院).
+  composite_memory_hook_es: Cuatro alas (四) cerradas en armonía (合) abrazando un patio interior (院) definen el siheyuan (四合院).
+  cultural_and_cognitive_roots: Emblematic of ancient Chinese cosmological philosophy: square layout reflects 'round heaven and square earth' (天圆地方), fostering filial clan unity.
+  tone_sandhi_and_pitch_modulation: Three syllables: 'sì hé yuàn' (51-35-51). Descend firmly on 'sì', rise smoothly on 'hé', and drop with resonance on 'yuàn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    院 | yuàn | courtyard; institution | Mound radical 阝 on left of 完
+    完 | wán | finish; complete | Roof 宀 over 元 without the 阝 radical
+    合 | hé | join; close | Roof 人 over 一 and 口
+    舍 | shè/shě | cottage; abandon | Has 舌-like structure below 𠆢
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    庭 | tíng | hall; courtyard
+    宅 | zhái | residence; homestead
+    第 | dì | mansion; grade
+    阁 | gé | pavilion; chamber
+
+semantic_boundary_contrasts:
+  core_nuance: 四合院 specifically denotes the quadrangle courtyard residential architecture of northern China.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 四合院 vs. 公寓 | gōngyù | 公寓 designates modern multi-story apartment complexes with elevator lobbies, whereas 四合院 is a single-story walled inward-facing courtyard.
+    2 | 四合院 vs. 别墅 | biéshù | 别墅 is a standalone suburban villa surrounded by open lawns, while 四合院 encloses an internal private courtyard hidden behind high outer walls.
+    3 | 四合院 vs. 窑洞 | yáodòng | 窑洞 refers to cave dwellings carved into Loess Plateau bluffs in northwestern China, distinct from masonry 四合院.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四合院是中国华北地区最为典型的民居建筑形式。所谓四合，‘四’指东、西、南、北四面房屋，‘合’则是四面房屋围在一起，中间形成一个宽敞的方形院落。这种建筑布局既保证了家族起居的私密，又充满了人伦温情。 | Sìhéyuàn shì Zhōngguó Huáběi dìqū zuìwéi diǎnxíng de mínjū jiànzhù xíngshì. Suǒwèi sìhé, 'sì' zhǐ dōng, xī, nán, běi sì miàn fángwū, 'hé' zé shì sì miàn fángwū wéi zài yìqǐ, zhōngjiān xíngchéng yí ge kuānchǎng de fāngxíng yuànluò. Zhè zhǒng jiànzhù bùjú jì bǎozhèng le jiāzú qǐjū de sīmì, yòu chōngmǎn le rénlún wēnqíng. | The siheyuan is the most typical traditional residence in North China. 'Four' refers to the houses on four sides, while 'join' means enclosing them to form a spacious central square courtyard. This layout secures domestic privacy while brimming with clan warmth. | El siheyuan es la vivienda tradicional más emblemática del norte de China. Las cuatro alas en los puntos cardinales abrazan un amplio patio cuadrado central, resguardando la intimidad familiar y albergando un entrañable calor de hogar.
+  #2 | 大户人家的四合院通常由好几座并列组成，院落之间往往有曲折的长廊相通。院内不仅种植着玉兰与海棠，还会摆放几口大水缸饲养金鱼。关起门来，四合院就是一个自成天地的独立世界；打开院门，邻里之间推心置腹，洋溢着极其浓郁的人情味。 | Dàhù rénjiā de sìhéyuàn tōngcháng yóu hǎojǐ zuò bìngliè zǔchéng, yuànluò zhījiān wǎngwǎng yǒu qūzhé de chángláng xiāngtōng. Yuànnèi bùjǐn zhòngzhí zhe yùlán yǔ hǎitáng, hái huì bǎifàng jǐ kǒu dà shuǐgāng sìyǎng jīnyú. Guān qǐ mén lái, sìhéyuàn jiùshì yí ge zìchéng-tiāndì de dúlì shìjiè; dǎkāi yuànmén, línlǐ zhījiān tuīxīn-zhìfù, yángyì zhe jíqí nóngyù de rénqíngwèi. | Wealthy siheyuan compounds comprised multiple courtyards side by side linked by winding verandas. Magnolias and crabapples flourished while ceramic vats held goldfish. Closed doors created a private haven; opened doors fostered neighborly warmth. | Las familias nobles alzaban varios patios yuxtapuestos enlazados por galerías. Plantaban magnolias y criaban peces de colores en tinajas. A puerta cerrada era un remanso íntimo; de par en par, emanaba una entrañable cordialidad vecinal.

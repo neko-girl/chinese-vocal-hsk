@@ -1,0 +1,63 @@
+id: 15
+hanzi: 具备
+pinyin: jù bèi
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to possess; have; be equipped with (qualifications/conditions)
+  es: poseer; contar con; reunir; estar provisto de
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to possess or be provided with necessary conditions, qualities, capabilities, or equipment | poseer o estar provisto de las condiciones, cualidades o medios indispensables | 具备条件 (possess the necessary conditions)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 现代化改造后的传统四合院，既保留了古典建筑风貌，又具备了先进完备的生活设施。 | Xiàndàihuà gǎizào hòu de chuántǒng sìhéyuàn, jì bǎoliú le gǔdiǎn jiànzhù fēngmào, yòu jùbèi le xiānjìn wánbèi de shēnghuó shèshī. | The modernly renovated traditional courtyard retains classical architecture while possessing advanced, complete living amenities. | Tras su remodelación, el patio tradicional preserva su porte clásico a la par que cuenta con avanzadas y completas instalaciones modernas.
+  #2 | 申请海外高水平科研基金的候选人，必须具备扎实的专业理论功底与突出的外语交流能力。 | Shēnqǐng hǎiwài gāoshuǐpíng kēyán jījīn de hòuxuǎnrén, bìxū jùbèi zhāshi de zhuānyè lǐlùn gōngdǐ yǔ tūchū de wàiyǔ jiāoliú nénglì. | Candidates applying for advanced overseas research funds must possess solid professional theoretical foundation and outstanding foreign language skills. | Los postulantes a fondos científicos internacionales deben poseer una sólida base teórica y sobresaliente solvencia en idiomas extranjeros.
+
+collocations[6]{hanzi,en}:
+  具备条件 | possess the qualifications / conditions
+  具备能力 | possess competence / capability
+  具备素质 | possess qualities / caliber
+  具备资格 | possess eligibility / credentials
+  具备功能 | be equipped with functions
+  基本具备 | basically possess / initially equipped
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  万事俱备 | wàn shì jù bèi | all is ready except for one final element
+  德才兼备 | dé cái jiān bèi | possessing both integrity and professional brilliance
+  文武双全 | wén wǔ shuāng quán | accomplished in both civil arts and military prowess
+  面面俱到 | miàn miàn jù dào | meticulously attentive to every single angle
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  具 | jù | tool; possess; furnish; provide | herramienta; poseer; proveer; suministrar | 八 | eight / separate | 鼎 (ritual cauldron) held up by hands 廾 | 具 (jù) | 8 | 上下结构 | Two hands 廾 lifting up a bronze ritual vessel with food prepared for a feast; to furnish and provide completely. | Hands presenting an ornate vessel equipped (具) with every utensil needed for a banquet. | Manos que ofrecen una bandeja repleta con cada cubierto e instrumento necesario (具). | 51 | BMC | 具
+  备 | bèi | prepare; ready; equip; equipment | preparar; dispuesto; equipar; provisto | 夂 | go / step | 夂 (trailing feet) + 田 (quiver carrying arrows / storage) | 备 (bèi) | 8 | 上下结构 | A quiver stocked with arrows ready for deployment on the march 夂; to be thoroughly prepared. | Carrying a quiver packed with spare arrows so a hunter is fully equipped and ready (备). | Llevar un carcaj colmado de flechas para marchar totalmente equipado y prevenido (备). | 51 | HEW | 備
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Holding all necessary tools (具) and being fully prepared (备) means one possesses (具备) all requisites.
+  composite_memory_hook_es: Disponer de las herramientas (具) y hallarse enteramente preparado (备) implica poseer lo indispensable (具备).
+  cultural_and_cognitive_roots: Derived from classical statecraft where a city or army must possess both implements (具) and provisions (备) before setting out.
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'jù bèi' (51-51). Articulate both syllables with decisive firmness.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    真 | zhēn | real; true | Ten radical 十 at top instead of 目/目-like frame
+    直 | zhí | straight; direct | No horizontal bar under the vertical eye box
+    奋 | fèn | strive; exert | Big radical 大 at the top instead of 夂
+    条 | tiáo | strip; clause | Wood radical 木 at the bottom instead of 田
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    具有 | jùyǒu | possess; have
+    设备 | shèbèi | equipment; facilities
+    准备 | zhǔnbèi | prepare; get ready
+    具体 | jùtǐ | concrete; specific
+
+semantic_boundary_contrasts:
+  core_nuance: 具备 signifies possessing non-material qualifications, capabilities, prerequisites, or essential traits.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 具备 vs. 具有 | jùyǒu | 具有 is broader and can describe intrinsic natural features or qualities, while 具备 specifically implies meeting required conditions or criteria.
+    2 | 具备 vs. 拥有 | yōngyǒu | 拥有 often applies to material wealth, vast assets, or large populations, whereas 具备 targets qualifying standards.
+    3 | 具备 vs. 缺乏 | quēfá | 缺乏 is the direct antonym meaning to fall short of or lack necessary components.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 一座理想的中国古典民居，往往具备冬暖夏凉的微气候调节能力。四合院高耸的青砖实心外墙具备优良的保温隔热性能，院内的绿植与水池则具备增加湿度与调节气温的作用，使居民享受到舒适的生活环境。 | Yī zuò lǐxiǎng de Zhōngguó gǔdiǎn mínjū, wǎngwǎng jùbèi dōngnuǎn xiàliáng de wēi qìhòu tiáojié nénglì. Sìhéyuàn gāosǒng de qīngzhuān shíxīn wàiqiáng jùbèi yōuliáng de bǎowēn gérè xìngnéng, yuànnèi de lǜzhí yǔ shuǐchí zé jùbèi zēngjiā shīdù yǔ tiáojié qìwēn de zuòyòng, shǐ jūmín xiǎngshòu dào shūshì de shēnghuó huánjìng. | An ideal classical dwelling possesses microclimate regulation capabilities keeping it warm in winter and cool in summer. Its brick perimeter walls possess insulation performance, while greenery balances humidity and temperature. | Una vivienda clásica ideal reúne facultades para regular su microclima térmico. Los gruesos muros de ladrillo del siheyuan poseen aislamiento superior, y su vegetación y estanques modulan la humedad para el bienestar vecinal.
+  #2 | 在当今瞬息万变的全球化时代，优秀的复合型人才必须具备多维度的跨文化综合素质。他们不仅需要具备扎实深厚的本学科专业功底，更要具备宽广包容的国际视野与敏锐的批判性思维。具备这些卓越素质，方能引领前沿创新。 | Zài dāngjīn shùnxī-wànbiàn de quánqiúhuà shídài, yōuxiù de fùhéxíng réncái bìxū jùbèi duōwéidù de kuà wénhuà zōnghé sùzhì. Tāmen bùjǐn xūyào jùbèi zhāshi shēnhòu de běn xuékē zhuānyè gōngdǐ, gèng yào jùbèi kuānguǎng bāoróng de guójì shìyě yǔ mǐnruì de pīpànxìng sīwéi. Jùbèi zhèxiē zhuóyuè sùzhì, fāng néng yǐnlǐng qiányán chuàngxīn. | In today's fast-changing globalized era, multifaceted talents must possess comprehensive cross-cultural qualities. They must possess solid grounding in their field, an inclusive international vision, and sharp critical thinking to drive innovation. | En la cambiante era global, los talentos multidisciplinares deben reunir aptitudes interculturales complejas. Requieren contar con hondos saberes profesionales, visión integradora y pensamiento crítico para liderar la innovación.

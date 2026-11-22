@@ -1,0 +1,63 @@
+id: 20
+hanzi: 气氛
+pinyin: qì fēn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: atmosphere; ambience; mood (of a place or gathering)
+  es: atmósfera; ambiente; clima (emocional o social)
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the pervading tone, mood, or emotional climate of a place, meeting, or event | estado o tono emocional que se respira en un lugar, reunión o espectáculo | 热烈活跃的节日气氛 (a lively and warm festive atmosphere)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 除夕之夜全家人围坐在热气腾腾的火锅旁守岁，客厅里处处洋溢着团圆祥和的温馨气氛。 | Chúxī zhī yè quánjiā rén wéizuò zài rèqì-téngténg de huǒguō páng shǒusuì, kètīng lǐ chùchù yángyì zhe tuányuán xiánghé de wēnxīn qìfēn. | On New Year's Eve, the whole family gathered around the steaming hotpot to welcome the new year, the parlor brimming with a cozy atmosphere of reunion and peace. | En Nochevieja, la familia se congregó en torno al humeante caldero mongol, respirándose en la sala una atmósfera entrañable de armonía y reencuentro.
+  #2 | 谈判刚开始时双方各不相让，但随着主谈代表幽默机智的开场发言，紧张压抑的会谈气氛逐渐缓和了下来。 | Tánpàn gāng kāishǐ shí shuāngfāng gèbùxiāngràng, dàn suízhe zhǔtán dàibiǎo yōumò jīzhì de kāichǎng fāyán, jǐnzhāng yāyì de huìtán qìfēn zhújiàn huǎnhé le xiàlái. | The talks began with neither side yielding an inch, but with the chief negotiator's witty remarks, the tense and oppressive atmosphere gradually thawed. | La negociación arrancó con total rigidez, pero el ingenioso discurso inaugural del mediador destensó gradualmente el agobiante clima de la sala.
+
+collocations[6]{hanzi,en}:
+  节日气氛 | festive atmosphere
+  紧张气氛 | tense atmosphere
+  热烈气氛 | warm / spirited ambience
+  活跃气氛 | liven up the mood / atmosphere
+  营造气氛 | create an atmosphere
+  气氛融洽 | harmonious / congenial atmosphere
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  欢天喜地 | huān tiān xǐ dì | overjoyed; filled with exuberant rejoicing
+  喜气洋洋 | xǐ qì yáng yáng | beaming with joy; cheerful holiday spirit
+  剑拔弩张 | jiàn bá nǔ zhāng | swords drawn and bows bent; touch-and-go explosive tension
+  和风细雨 | hé fēng xì yǔ | gentle breeze and mild rain; patient kindly persuasion
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  气 | qì | air; gas; energy; mood; spirit | aire; gas; aliento; espíritu | 气 | steam / breath | pictograph of rising clouds and curling steam | 气 (qì) | 4 | 单一结构 | Ancient pictograph of layers of vapor and steam curling upward into the sky; vital life force and atmospheric air. | Wisps of vapor and warm air (气) rising gently into the atmosphere. | Volutas de vapor y aliento cálido (气) elevándose suavemente en el aire. | 51 | ON | 氣
+  氛 | fēn | atmosphere; vapor; misty haze | vaho; atmósfera; halo | 气 | steam / breath | 气 (atmospheric vapor) + 分 (divide / share) | 分 (fēn / phonetic) | 8 | 半包围结构 | Air radical 气 enclosing 分; ambient vapor and mist dividing and drifting across the environment, setting its mood. | Vapors (气) drifting and dispersing (分) to envelope an entire room in a distinct mood (氛). | Vahos etéreos (气) que se dispersan (分) impregnando el ambiente de un matiz singular (氛). | 55 | ONCSH | 氛
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Vaporous air (气) spreading across the room (氛) creates the palpable atmosphere (气氛).
+  composite_memory_hook_es: El aliento invisible del aire (气) que impregna el espacio (氛) conforma la atmósfera del lugar (气氛).
+  cultural_and_cognitive_roots: Deeply linked to traditional Chinese concept of 'Qi' (气), the intangible energetic vibe uniting people and environment.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by level high tone: 'qì fēn' (51-55). Strike down on 'qì', then float evenly on high 'fēn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    氛 | fēn | atmosphere | Contains 分 inside 气
+    氧 | yǎng | oxygen | Contains 羊 inside 气
+    氮 | dàn | nitrogen | Contains 炎 inside 气
+    氢 | qīng | hydrogen | Contains 𢀖 inside 气
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    境 | jìng | environment; realm
+    情 | qíng | emotion; sentiment
+    象 | xiàng | phenomenon; aura
+    象 | xiàng | image; manifestation
+
+semantic_boundary_contrasts:
+  core_nuance: 气氛 denotes the psychological, emotional, or social ambience prevailing in a shared space.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 气氛 vs. 环境 | huánjìng | 环境 refers to objective physical conditions, surroundings, or ecology, whereas 气氛 describes intangible emotional ambience.
+    2 | 气氛 vs. 气候 | qìhòu | 气候 denotes meteorological weather patterns over decades, while 气氛 is the psychological tone of a gathering.
+    3 | 气氛 vs. 心情 | xīnqíng | 心情 is an individual's private emotional state, whereas 气氛 is collective and shared across a group or venue.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 春节期间的大街小巷张灯结彩，到处弥漫着浓郁喜庆的年节气氛。爆竹声声伴随着清脆的欢笑，邻里之间互致吉祥问候，那一份份淳朴热烈的情感，在冬日暖阳的照耀下汇聚成最动人的社会温情画卷。 | Chūnjié qījiān de dàjiē-xiǎoxiàng zhāngdēng-jiécǎi, dàochù mímàn zhe nóngyù xǐqìng de niánjié qìfēn. Bàozhú shēngshēng bànsuí zhe qīngcuì de huānxiào, línlǐ zhījiān hùzhì jíxiáng wènhòu, nà yífènfèn chúnpǔ rèliè de qínggǎn, zài dōngrì nuǎnyáng de zhàoyào xià huìjù chéng zuì dòngrén de shèhuì wēnqíng huàjuàn. | During Spring Festival, streets were adorned with lanterns and festive streamers, suffused with celebratory holiday cheer. Firecrackers popped alongside laughter as neighbors exchanged blessings, weaving a moving tapestry of community warmth. | En Año Nuevo chino, las calles lucían farolillos entre una atmósfera festiva y entrañable. Petardos y risas se fundían con parabienes vecinales, conformando bajo el sol invernal un cálido tapiz de afecto social.
+  #2 | 篮球场上火热的竞技气氛，最忌讳被频繁机械的停顿所扑灭。早年因为桃筐未掏空底部，每次投篮进球后观众都必须百无聊赖地看着工人们踩梯取球，原本紧张刺激的比赛气氛瞬间变得索然无味。锯掉筐底的巧思，真正挽救了这项运动的灵魂活力。 | Lánqiúchǎng shang huǒrè de jìngjì qìfēn, zuì jìhuì bèi pínfán jīxiè de tíngdùn suǒ pūmiè. Zǎonián yīnwèi táokuāng wèi tāokōng dǐbù, měicì tóulán jìnqiú hòu guānzhòng dōu bìxū bǎiwú-liáolài de kàn zhe gōngrénmen cǎi tī qǔ qiú, yuánběn jǐnzhāng cìjī de bǐsài qìfēn shùnjiān biàn de suǒrán-wúwèi. Jù diào kuāngdǐ de qiǎosī, zhēnzhèng wǎnjiù le zhè xiàng yùndòng de línghún huólì. | The fiery atmosphere of the basketball court suffers most from mechanical interruptions. In early years, because peach baskets lacked open bottoms, fans boredly watched workers climb ladders after each score, deflating the thrilling mood. Sawing open the bottom truly salvaged the sport's electric soul. | El fervor de la pista de baloncesto se marchita con parones mecánicos. Al inicio, las canastas ciegas forzaban al público a contemplar cómo se bajaba el balón con escaleras, apagando la pasión. Abrir el fondo rescató el alma vibrante del juego.

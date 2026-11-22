@@ -1,0 +1,63 @@
+id: 28
+hanzi: 情趣
+pinyin: qíng qù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: emotional appeal; charm; aesthetic delight; taste; interest
+  es: encanto; gusto estético; deleite; atractivo emocional
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | aesthetic charm, emotional interest, or refined taste that brings delight to everyday life | gracia, encanto estético o refinamiento afectivo que ameniza y eleva la vida cotidiana | 富有生活情趣 (rich in life's charm and flavor)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京四合院中种花养鸟、摆石理水的生活方式，处处充满了悠闲高雅的东方生活情趣。 | Lǎo Běijīng sìhéyuàn zhōng zhònghuā yǎngniǎo, bǎishí lǐshuǐ de shēnghuó fāngshì, chùchù chōngmǎn le yōuxián gāoyǎ de dōngfāng shēnghuó qíngqù. | The lifestyle of growing flowers, keeping pet birds, and arranging rockeries in courtyards brimmed with relaxed, refined Eastern life charm. | El modo de vida del siheyuan pekinés, cultivando flores, aves canoras y rocallas, rebosaba del distinguido encanto estético del sosiego oriental.
+  #2 | 小李在书房里摆放了一盆苍劲的文竹与精致的紫砂茶具，使整个房间增添了浓郁的文雅情趣。 | Xiǎo Lǐ zài shūfáng lǐ bǎifàng le yī pén cāngjìn de wénzhú yǔ jīngzhì de zǐshā chájù, shǐ zhěnggè fángjiān zēngtiān le nóngyù de wényǎ qíngqù. | Xiao Li arranged a vigorous asparagus fern and delicate clay tea set in his study, infusing the entire room with refined scholarly charm. | Xiao Li dispuso en su estudio un bonsái y un juego de té de gres fino, impregnando la estancia de un elegante gusto letrado.
+
+collocations[6]{hanzi,en}:
+  生活情趣 | charm of daily life / zest for living
+  高雅情趣 | refined aesthetic taste / elegant delight
+  富有情趣 | rich in aesthetic charm and interest
+  增添情趣 | add charm / enhance delight
+  别有情趣 | possess a unique charm of its own
+  低级情趣 | vulgar taste / low interest
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  雅俗共赏 | yǎ sú gòng shǎng | enjoyed by both refined scholars and the common folk alike
+  自得其乐 | zì dé qí lè | find contentment and delight in one's own hobbies
+  情真意切 | qíng zhēn yì qiè | genuine feelings and heartfelt sincerity
+  意趣盎然 | yì qù àng rán | brimming with rich flavor and engaging delight
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  情 | qíng | feeling; emotion; affection; passion | sentimiento; afecto; emoción; pasión | 忄 | heart | 忄 (heart feeling) + 青 (lush verdant youth / clarity) | 青 (qīng) | 11 | 左右结构 | Spontaneous feelings bubbling forth from the heart 忄 as fresh and pure as green shoots 青. | A heart (忄) blooming with fresh, verdant emotions like spring greenery (情). | Un corazón (忄) que vibra con sentimientos limpios y lozanos como la primavera (情). | 35 | PQB | 情
+  趣 | qù | interest; delight; fun; flavor | interés; deleite; gracia; gusto | 走 | walk / run | 走 (hasten toward) + 取 (grasp with hands / ear focus) | 取 (qǔ) | 15 | 半包围结构 | Hurrying eagerly on foot 走 to seize and enjoy 取 something captivating; denotes fun and charm. | Rushing forward enthusiastically (走) to grasp an engaging, delightful experience (趣). | Avanzar con paso ágil (走) para asir una experiencia amena y deleitable (趣). | 51 | GOSE | 趣
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Heartfelt sentiment (情) combined with captivating delight (趣) produces refined emotional charm (情趣).
+  composite_memory_hook_es: El sentimiento hondo (情) enlazado al deleite lúdico (趣) engendra el encanto estético de la vida (情趣).
+  cultural_and_cognitive_roots: A core concept of classical literati aesthetics valuing tea, calligraphy, zither, and gardening to transcend mundane chores.
+  tone_sandhi_and_pitch_modulation: Second tone to fourth tone: 'qíng qù' (35-51). Lift cleanly on 'qíng' and conclude with an expressive downward slope on 'qù'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    清 | qīng | clear; pure | Water radical 氵 on left instead of heart 忄
+    晴 | qíng | clear; sunny sky | Sun radical 日 on left instead of heart 忄
+    赶 | gǎn | rush; catch up | Shield radical 干 beside 走 instead of 取
+    越 | yuè | surpass; cross over | Halberd radical 戉 beside 走 instead of 取
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    兴趣 | xìngqù | interest; hobby
+    趣味 | qùwèi | fun; interest; taste
+    情感 | qínggǎn | emotion; sentiment
+    心境 | xīnjìng | state of mind; mood
+
+semantic_boundary_contrasts:
+  core_nuance: 情趣 denotes aesthetic delight, tasteful hobbies, and poetic sensibility enriching everyday living.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 情趣 vs. 兴趣 | xìngqù | 兴趣 is curiosity or preference for a specific activity (sports, games), while 情趣 emphasizes poetic refinement and aesthetic charm.
+    2 | 情趣 vs. 趣味 | qùwèi | 趣味 leans toward playful fun or amusement, whereas 情趣 embodies deeper spiritual taste and romantic nuance.
+    3 | 情趣 vs. 乏味 | fáwèi | 乏味 is the direct antonym meaning dull, bland, and entirely devoid of delight.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统文人极其讲究起居生活的艺术情趣。在四合院的一隅，摆一盆苍翠菖蒲，焚一炉淡雅线香，邀二三知己在廊檐下品茗漫谈，不求富丽堂皇，但求恬淡自得。这种超凡脱俗的生活情趣，滋养着国人的心灵世界。 | Zhōngguó chuántǒng wénrén jíqí jiǎngjiu qǐjū shēnghuó de yìshù qíngqù. Zài sìhéyuàn de yī yú, bǎi yī pén cāngcuì chāngpú, fén yī lú dànyǎ xiànxiāng, yāo èr sān zhījǐ zài lángyán xià pǐnmíng màntán, bù qiú fùlì-tánghuáng, dàn qiú tiándàn zìdé. Zhè zhǒng chāofán-tuōsú de shēnghuó qíngqù, zīyǎng zhe guórén de xīnlíng shìjiè. | Traditional literati cultivated refined aesthetic taste in daily living. Tending calamus pots, burning incense, and sipping tea with confidants beneath verandas sought no luxury, but tranquil contentment that nurtured the soul. | Los letrados tradicionales cultivaban con esmero el encanto estético en lo cotidiano. Colocar un cálamo verde, quemar incienso y saborear té con amigos bajo el alero no buscaba la opulencia, sino la serenidad interior que nutre el espíritu.
+  #2 | 在快节奏的现代生活中，保持对日常琐事的细腻情趣尤为珍贵。在窗台上栽一束芬芳的鲜花，为家人亲手烹制一道精致的小点心，都能让平凡的日子重新焕发光彩。懂得品味生活情趣的人，总能在纷繁复杂的世界里发现美好的诗意。 | Zài kuàijiézòu de xiàndài shēnghuó zhōng, bǎochí duì rìcháng suǒshì de xìnì qíngqù yóuwéi zhēnguì. Zài chuāngtái shang zāi yī shù fēnfāng de xiānhuā, wèi jiārén qīnshǒu pēngzhì yī dào jīngzhì de xiǎodiǎnxin, dōu néng ràng píngfán de rìzi chóngxīn huànfā guāngcǎi. Dǒngdé pǐnwèi shēnghuó qíngqù de rén, zǒng néng zài fēnfán-fùzá de shìjiè lǐ fāxiàn měihǎo de shīyì. | Amid modern fast-paced living, preserving delicate charm toward everyday chores is precious. Flowers on windowsills and home-baked pastries illuminate routine days. Those with taste for life's charm always uncover poetic grace amidst chaos. | En la vorágine actual, preservar el deleite estético por los pequeños detalles es un tesoro. Unas flores en la ventana o repostería casera devuelven el brillo a los días ordinarios; quien sabe saborear la vida halla poesía dondequiera que mire.

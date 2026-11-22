@@ -1,0 +1,62 @@
+id: 12
+hanzi: 乙
+pinyin: yǐ
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: second (in series); Party B; second Heavenly Stem
+  es: segundo; parte B; segundo Tronco Celestial
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the second of the ten Heavenly Stems, used to denote the second person, grade, or party in a series | segundo de los diez Troncos Celestiales, empleado para designar el segundo elemento, grado o contraparte en una serie | 甲乙双方签署协议 (Parties A and B sign the agreement)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在学术研讨会上，甲组主张激进创新，而乙组则偏向稳健审慎，双方辩论非常热烈。 | Zài xuéshù yántǎohuì shang, jiǎ zǔ zhǔzhāng jījìn chuàngxīn, ér yǐ zǔ zé piānxiàng wěnjiàn shěnshèn, shuāngfāng biànlùn fēicháng rèliè. | At the academic symposium, Group A advocated radical innovation while Group B favored prudent stability, sparking a spirited debate. | En el simposio académico, el grupo A defendió una innovación audaz mientras que el B apostó por la prudencia, entablándose un vivo debate.
+  #2 | 根据保密协议条款，未经甲方书面许可，乙方不得将相关技术文档透露给第三方机构。 | Gēnjù bǎomì xiéyì tiáokuǎn, wèijīng jiǎfāng shūmiàn xǔkě, yǐfāng bùdé jiāng xiāngguān jìshù wéndàng tòulù gěi dì-sān fāng jīgòu. | According to the non-disclosure agreement, without Party A's prior written consent, Party B shall not disclose relevant technical documents to any third party. | Conforme al acuerdo de confidencialidad, la Parte B no divulgará documentos técnicos a terceros sin el consentimiento expreso y por escrito de la Parte A.
+
+collocations[6]{hanzi,en}:
+  乙方 | Party B (contractee)
+  乙等 | second grade / class B
+  乙级联赛 | second division league
+  乙醇 | ethanol; alcohol
+  甲乙 | Party A and Party B; serial sequence
+  乙烯 | ethylene
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  各执一词 | gè zhí yī cí | each sticks to his own version; mutually conflicting stances
+  伯仲之间 | bó zhòng zhī jiān | hard to choose between older and younger brother; closely matched
+  相得益彰 | xiāng dé yì zhāng | bring out the best in each other; mutual complement
+  不相上下 | bù xiāng shàng xià | equally matched; on par with each other
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  乙 | yǐ | second; bent; Heavenly Stem | segundo; curvo; Tronco Celestial | 乙 | second / bent | pictograph of a sprouting seedling pushing its curved shoot up through soil | 乙 (yǐ) | 1 | 单一结构 | Single graceful winding stroke representing a tender shoot curving upward as it breaks through hard ground in spring. | A tender green sprout curving gently (乙) as it pushes through earth, following Jia as the second stem. | Un tierno brote curvándose (乙) al despuntar de la tierra, siguiendo a Jia como segundo tronco. | 214 | N | 乙
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A single curved stroke like a winding sprout (乙) marks the second tier in traditional ranking.
+  composite_memory_hook_es: Un único trazo curvado semejante a un brote (乙) designa la segunda posición en el orden tradicional.
+  cultural_and_cognitive_roots: Second of the Heavenly Stems, symbolizing the budding flexibility of springtime vegetation breaking soil.
+  tone_sandhi_and_pitch_modulation: Dipping third tone: 'yǐ' (214). Drop cleanly and lift slightly at the finish.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    乙 | yǐ | second; stem | A single continuous stroke with horizontal, turn, and curved hook
+    一 | yī | one | Straight horizontal bar
+    已 | yǐ | already; stop | Half-open box with 3 strokes
+    己 | jǐ | self | Fully open upper box with 3 strokes
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    甲 | jiǎ | first Heavenly Stem
+    次 | cì | second; secondary
+    亚 | yà | inferior; runner-up
+    副 | fù | deputy; vice-
+
+semantic_boundary_contrasts:
+  core_nuance: 乙 denotes the immediate sequel or counterpart paired with 甲 in formal categorizations.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 乙 vs. 甲 | jiǎ | 甲 precedes as the initiating partner or primary category, while 乙 follows as the responsive counterpart.
+    2 | 乙 vs. 第二 | dì-èr | 第二 is plain ordinal ranking, while 乙 serves in bilateral agreements and codified schemas.
+    3 | 乙 vs. 亚军 | yàjūn | 亚军 refers strictly to the silver medalist in sporting contests, not a logical category marker.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古人在订立买卖田契与借贷字据时，通篇皆以甲乙二人代称交易双方。这种简明规范的表述不仅清晰界定了彼此的权利与义务，更深刻影响了后世合同法律文书的行文体例，成为契约文明延续千年的重要载体。 | Gǔrén zài dìnglì mǎimài tiánqì yǔ jièdài zìjù shí, tōngpiān jiē yǐ jiǎ-yǐ èr rén dàichēng jiāoyì shuāngfāng. Zhè zhǒng jiǎnmíng guīfàn de biǎoshù bùjǐn qīngxī jièdìng le bǐcǐ de quánlì yǔ yìwù, gèng shēnkè yǐngxiǎng le hòushì hétong fǎlǜ wénshū de xíngwén tǐlì, chéngwéi qìyuē wénmíng yánxù qiānnián de zhòngyào zàitǐ. | In ancient deeds of sale and loans, the two trading sides were universally styled Party A and Party B. This standardized phrasing defined mutual rights and duties with precision, laying enduring stylistic foundations for modern contract jurisprudence. | Antiguamente, en escrituras de compraventa y préstamos, las partes se designaban como A y B. Esa fórmula concisa deslindaba con precisión derechos y deberes, influyendo decisivamente en la redacción de contratos hasta nuestros días.
+  #2 | 在春田学院最初的十八人对抗赛中，詹姆士·奈史密斯将学员随机平分为甲乙两组。由于早期的投篮规则极为严密，乙队即便凭借精湛球技屡屡突破得分，也常常被频繁中断比赛搬梯子取球的环节打乱节奏，球员们迫切盼望能有更为高效顺畅的比赛规则。 | Zài Chūntián xuéyuàn zuìchū de shíbā rén duìkàngsài zhōng, Zhānmǔshì Nàishǐmīsī jiāng xuéyuán suíjī píngfēn wéi jiǎ-yǐ liǎng zǔ. Yóuyú zǎoqī de tóulán guīzé jíwéi yánmì, yǐ duì jíbiàn píngjiè jīngzhàn qiújì lǚlǚ tūpò défēn, yě chángcháng bèi pínfán zhòngduàn bǐsài bān tīzi qǔ qiú de huánjié dǎluàn jiézòu, qiúyuánmen pòqiè pànwàng néng yǒu gèng wéi gāoxiào shùnchàng de bǐsài guīzé. | In the inaugural 18-player contest at Springfield College, James Naismith divided students equally into Teams A and B. Although Team B frequently scored with fine skill, their momentum was broken by paused matches to fetch ladders, fueling desires for smoother rules. | En el partido inaugural de 18 jugadores en Springfield, Naismith dividió a los alumnos en grupos A y B. Aunque el equipo B encestaba con pericia, las pausas para subir a la escalera quebraban su ritmo, ansiando un reglamento más ágil.

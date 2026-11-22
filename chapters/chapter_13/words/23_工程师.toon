@@ -1,0 +1,64 @@
+id: 23
+hanzi: 工程师
+pinyin: gōng chéng shī
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: engineer (professional technical designer)
+  es: ingeniero; técnica/o superior
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person trained in the design, construction, and use of engines, machines, software, or structures | profesional cualificado que aplica principios científicos para diseñar, construir y operar obras, máquinas o programas | 资深软件架构工程师 (senior software architect engineer)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 桥梁工程师和施工人员在悬崖深谷间连续奋战了数月，终于成功合龙了这座特大悬索桥。 | Qiáoliáng gōngchéngshī hé shīgōng rényuán zài xuányá shēngǔ jiān liánxù fènzhàn le shù yuè, zhōngyú chénggōng hélóng le zhè zuò tìdà xuánsuǒqiáo. | Bridge engineers and construction workers fought for months across the deep cliffside chasm, finally joining the spans of this mega suspension bridge. | Los ingenieros de puentes y operarios bregaron durante meses en el desfiladero hasta completar el ensamblaje final del monumental puente colgante.
+  #2 | 优秀的航空工程师在设计客机外壳时，对每一个部件的气动阻力都进行了极为精密严苛的模拟风洞计算。 | Yōuxiù de hángkōng gōngchéngshī zài shèjì kèjī wàiké shí, duì měi yí ge bùjiàn de qìdòng zǔlì dōu jìnxíng le jíwéi jīngmì yánkē de mónǐ fēngdòng jìsuàn. | Distinguished aeronautical engineers perform rigorous wind-tunnel simulations on the aerodynamic drag of every component when designing passenger planes. | Los ingenieros aeronáuticos realizan rigurosos cálculos aerodinámicos en túneles de viento para optimizar cada pieza del fuselaje.
+
+collocations[6]{hanzi,en}:
+  总工程师 | chief engineer
+  软件工程师 | software engineer
+  建筑工程师 | civil / structural engineer
+  机械工程师 | mechanical engineer
+  助理工程师 | assistant engineer
+  高级工程师 | senior engineer
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  匠心独运 | jiàng xīn dú yùn | displaying wonderful ingenuity; singular craftsmanship
+  精雕细刻 | jīng diāo xì kè | carve with fine precision; meticulous craftsmanship
+  开山架桥 | kāi shān jià qiáo | level mountains and build bridges; clear obstacles boldly
+  革故鼎新 | gé gù dǐng xīn | overthrow the old and usher in the new; innovate boldly
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  工 | gōng | work; craft; engineering | obra; técnica; ingeniería | 工 | work / craft | carpenter's plumb square | 工 (gōng) | 3 | 单一结构 | A carpenter's square tool; represents engineering, craftsmanship, and structured construction. | A carpenter's level square (工) measuring structural angles for precision craft. | Una escuadra de carpintero (工) guiando trazos precisos en la construcción. | 55 | M | 工
+  程 | chéng | order; rule; measure; journey | proceso; medida; trayecto | 禾 | grain | 禾 (grain measurement) + 呈 (display / present) | 呈 (chéng / phonetic) | 12 | 左右结构 | Grain radical 禾 beside 呈; weighing grain standards to establish official measurement rules and systematic workflows. | Weighing stalks of golden grain (禾) on an official presentation tray (呈) to establish orderly standards (程). | Pesar espigas de cereal (禾) en una balanza oficial (呈) fijando normas metódicas (程). | 35 | HDRHG | 程
+  师 | shī | master; teacher; expert; army | maestro; perito; experto | 巾 | cloth / towel | 帀 (circling troops banner) + 巾 (standard cloth) | 师 (shī) | 6 | 左右结构 | A commander holding military banners before troops; evolved into revered masters, mentors, and certified professionals. | A revered master raising the banner of knowledge (巾) to instruct apprentices (师). | Un maestro que alza el estandarte de la pericia (巾) guiando a sus discípulos (师). | 55 | HLMLB | 師
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A master (师) who applies technical standards (程) to construction works (工) is a qualified engineer (工程师).
+  composite_memory_hook_es: Un perito acreditado (师) que aplica procesos metódicos (程) a las obras (工) es un ingeniero (工程师).
+  cultural_and_cognitive_roots: Title combining modern technical methodology with historical reverence for masters of craft (师徒制).
+  tone_sandhi_and_pitch_modulation: Three syllables: 'gōng chéng shī' (55-35-55). High level tone on 'gōng', rising on 'chéng', and sustaining high on 'shī'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    程 | chéng | order; journey | Grain radical 禾 on left with 呈
+    呈 | chéng | present; display | Without the grain radical on left
+    师 | shī | master; teacher | Has 刂-like vertical and 巾
+    帅 | shuài | commander; handsome | Has a top stroke  丿 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    工 | gōng | worker; artisan
+    匠 | jiàng | craftsman; artisan
+    家 | jiā | specialist; expert
+    员 | yuán | member; personnel
+
+semantic_boundary_contrasts:
+  core_nuance: 工程师 denotes an educated professional applying science and mathematics to practical design and systems.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 工程师 vs. 工人 | gōngrén | 工人 denotes manual labor execution on the production line, while 工程师 formulates blueprints, software architectures, and mathematical designs.
+    2 | 工程师 vs. 科学家 | kēxuéjiā | 科学家 pursues pure theoretical truth and discovery, whereas 工程师 translates those scientific discoveries into functional commercial products.
+    3 | 工程师 vs. 技师 | jìshī | 技师 focuses on practical operational maintenance and machine adjustment, while 工程师 oversees systemic system design.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 航天工程师团队在深空探测领域攻坚克难。他们凭借务实的科学作风与精益求精的工匠情怀，将探测器精准送达预定轨道，让飞天梦想在浩瀚星空中璀璨绽放。 | Hángtiān gōngchéngshī tuánduì zài shēnkōng tàncè lǐngyù gōngjiān-kènán. Tāmen píngjiè wùshí de kēxué zuòfēng yǔ jīngyìqiújīng de gōngjiàng qínghuái, jiāng tàncèqì jīngzhǔn sòngdá yùdìng guǐdào, ràng fēitiān mèngxiǎng zài hàohàn xīngkōng zhōng cuǐcàn zhànfàng. | Aerospace engineers have overcome challenges in deep space exploration. With scientific pragmatism and meticulous craftsmanship, they delivered orbiters onto precision paths, realizing ancient dreams. | Los ingenieros aeroespaciales superaron grandes hitos espaciales. Con rigor pragmático y esmero artesanal, situaron las sondas en órbita con precisión, materializando el sueño de surcar el cosmos.
+  #2 | 面对取球难题，工程师起初设计了复杂的滑轮装置试图倾倒皮球。然而实践证明，精密图纸反倒不如一把普通锯子直截了当。顶尖的工程智慧，恰恰体现在大道至简之中。 | Miànduì qǔ qiú nántí, gōngchéngshī qǐchū shèjì le fùzá de huálún zhuāngzhì shìtú qīngdào píqiú. Rán'ér shíjiàn zhèngmíng, jīngmì túzhǐ fǎndào bùrú yì bǎ pǔtōng jùzi zhíjié-liǎodàng. Dǐngjiān de gōngchéng zhìhuì, qiàqià tǐxiàn zài dàdào-zhìjiǎn zhīzhōng. | Faced with extracting balls, engineers initially devised complex pulleys to tilt baskets. Yet practice proved intricate designs inferior to an ordinary saw. Supreme engineering brilliance lies in radical simplicity. | Para vaciar las canastas, los ingenieros idearon poleas complejas. Mas la práctica demostró que una modesta sierra superaba a planos sofisticados. La verdadera maestría técnica reside en la sencillez.

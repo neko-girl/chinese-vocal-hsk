@@ -1,0 +1,62 @@
+id: 6
+hanzi: 桃
+pinyin: táo
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: peach (fruit or tree)
+  es: melocotón; durazno
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a round, juicy, sweet fruit with soft downy skin and a rough furrowed stone; also the peach tree | fruta redonda de pulpa jugosa, piel aterciopelada y hueso rugoso; también el árbol melocotonero | 鲜嫩多汁的蜜桃 (tender and juicy honey peach)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 每年七八月份正是蜜桃成熟的黄金季节，满树沉甸甸的粉红果实散发出诱人的甜香。 | Měinián qī-bā yuèfèn zhèng shì mìtáo chéngshú de huángjīn jìjié, mǎn shù chéndiāndiān de fěnhóng guǒshí sànfā chū yòurén de tiánxiāng. | Every July and August marks the peak season for honey peaches, when trees bowed under pink fruits give off enticing sweet fragrances. | Julio y agosto marcan el apogeo de los melocotones; los árboles cargados de frutos rosados despiden un dulce aroma tentador.
+  #2 | 在我国传统文化中，桃子因其吉祥寓意常被用作庆祝老人大寿的贺礼寿桃。 | Zài wǒguó chuántǒng wénhuà zhōng, táozi yīn qí jíxiáng yùyì cháng bèi yòng zuò qìngzhù lǎorén dàshòu de hèlǐ shòutáo. | In traditional Chinese culture, peaches symbolize longevity and are frequently given as congratulatory longevity peaches on seniors' birthdays. | En la cultura china, el melocotón simboliza longevidad y se ofrenda tradicionalmente en banquetes de cumpleaños de ancianos.
+
+collocations[6]{hanzi,en}:
+  水蜜桃 | honey peach
+  寿桃 | longevity peach (confectionery/fruit)
+  桃树 | peach tree
+  桃花 | peach blossom
+  桃子 | peach (common noun)
+  核桃 | walnut
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  世外桃源 | shì wài táo yuán | the Peach Blossom Spring; a hidden haven of peace
+  投桃报李 | tóu táo bào lǐ | give a peach and get a plum in return; exchange mutual courtesies
+  桃李满天下 | táo lǐ mǎn tiān xià | peaches and plums across the land; distinguished students everywhere
+  人面桃花 | rén miàn táo huā | a fair lady's face like peach blossoms; nostalgia for past beauty
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  桃 | táo | peach | melocotón; durazno | 木 | tree / wood | 木 (fruit tree / wood) | 兆 (zhào / split; omen; phonetic) | 10 | 左右结构 | Tree radical 木 beside 兆 (cracking turtle plastron); the fruit of the peach tree with its deeply cleft stone, highly esteemed for warding off evil. | A fruitful tree (木) bearing sacred fruits with omen-like cleft pits (兆): the blessed peach (桃). | Un árbol frutal (木) cuyos frutos tienen un hueso hendido con presagio propicio (兆): el melocotón (桃). | 35 | DLMO | 桃
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A sacred fruit tree (木) bearing auspicious omen-marked pits (兆) gives sweet peaches (桃).
+  composite_memory_hook_es: Un árbol (木) cuyos frutos encierran un hueso de buen agüero (兆) es el melocotonero (桃).
+  cultural_and_cognitive_roots: Revered in Daoist myth as the Queen Mother's divine fruit of immortality (蟠桃), representing longevity and warding against evil spirits.
+  tone_sandhi_and_pitch_modulation: Rising second tone: 'táo' (35). Rise cleanly from mid-pitch to high, smooth and resonant.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    桃 | táo | peach | Tree radical 木 on left
+    挑 | tiāo | pick; carry on pole | Hand radical 扌 on left
+    逃 | táo | flee; escape | Movement radical 辶 at the bottom
+    眺 | tiào | look far into distance | Eye radical 目 on left
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    李 | lǐ | plum
+    杏 | xìng | apricot
+    梨 | lí | pear
+    枣 | zǎo | jujube / date
+
+semantic_boundary_contrasts:
+  core_nuance: 桃 refers specifically to the peach tree or its downy sweet stone fruit, rich in longevity symbolism.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 桃 vs. 李 | lǐ | 桃 is larger with downy skin and furrowed stone, whereas 李 (plum) has smooth skin and is more tart.
+    2 | 桃 vs. 杏 | xìng | 杏 (apricot) is smaller with orange-golden flesh, while 桃 has pink-tinged juicy flesh.
+    3 | 桃 vs. 苹果 | píngguǒ | 苹果 has a crisp interior core with multiple seeds, while 桃 possesses a single hard woody central stone.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代文人常将桃树视为超脱尘俗的象征，陶渊明笔下的《桃花源记》便描绘了一个没有赋税徭役、民风淳朴安详的理想国度。千百年来，那一树树芬芳灿烂的桃花，寄托了中国人对安宁生活的无限憧憬。 | Zhōngguó gǔdài wénrén cháng jiāng táoshù shìwéi chāotuō chénsú de xiàngzhēng, Táo Yuānmíng bǐxià de Táo Huā Yuán Jì biàn miáohuì le yí ge méiyǒu fùshuì yáoyì, mínfēng chúnpǔ ānxiáng de lǐxiǎng guódù. Qiānbǎinián lái, nà yí shùshù fēnfāng cànlàn de táohuā, jìtuō le Zhōngguórén duì ānníng shēnghuó de wúxiàn chōngjǐng. | Ancient Chinese scholars revered peach trees as symbols of transcending vulgarity; Tao Yuanming's Peach Blossom Spring depicted a tranquil haven free from taxes. For centuries, radiant peach blossoms embodied enduring yearnings for peace. | Los literatos chinos veían en el melocotonero un símbolo utópico; Tao Yuanming retrató en su célebre fábula un remanso sin tributos ni discordias. Esas flores encarnaron el anhelo secular de una existencia sosegada.
+  #2 | 篮球运动在起步之初，所使用的球筐正是从当地果农手中找来的两个装桃子的竹筐。谁也没有料到，这个本用来盛放鲜桃的简陋农具，竟然在无意间成就了一项世界级的伟大体育发明，并在百年时光中持续带给全人类无尽的欢乐。 | Lánqiú yùndòng zài qǐbù zhī chū, suǒ shǐyòng de qiúkuāng zhèng shì cóng dāngdì guǒnóng shǒuzhōng zhǎolái de liǎng ge zhuāng táozi de zhúkuāng. Shuí yě méiyǒu liàodào, zhè ge běn yònglái chéngfàng xiāntáo de jiǎnlòu nóngjù, jìngrán zài wúyì jiān chéngjiù le yí xiàng shìjièjí de wěidà tǐyù fāmíng, bìng zài bǎinián shíguāng zhōng chíxù dài gěi quán rénlèi wújìn de huānlè. | At its inception, basketball used two peach baskets sourced from local orchardists. No one anticipated that these humble farm containers, meant for sweet fruit, would serendipitously birth a legendary sport that has brought boundless joy to mankind for over a century. | En sus inicios, el baloncesto empleó dos cestas de melocotón cedidas por campesinos. Nadie previó que un apero rural para cargar fruta alumbraría un invento deportivo monumental, brindando dicha a millones durante más de un siglo.

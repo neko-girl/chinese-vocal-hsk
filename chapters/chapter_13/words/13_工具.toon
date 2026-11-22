@@ -1,0 +1,64 @@
+id: 13
+hanzi: 工具
+pinyin: gōng jù
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: tool; instrument; implement; means
+  es: herramienta; instrumento; útil; medio
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | an implement or machine used to carry out a particular physical or technical function | objeto o utensilio manual o mecánico destinado a realizar un trabajo determinado | 一套修理汽车的专用工具 (a set of specialized car repair tools)
+  2 | Noun | Standard | a means or instrument employed to achieve an objective | recurso o medio instrumental para alcanzar un propósito | 语言是人类沟通的重要工具 (language is an essential tool for communication)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老电工随身携带的皮质工具箱里，整齐排列着螺丝刀、万用表和绝缘钳等常用工具。 | Lǎo diàngōng suíshēn xiédài de pízì gōngjùxiāng lǐ, zhěngqí páiliè zhe luósīdāo, wànyòngbiǎo hé juéyuánqián děng chángyòng gōngjù. | Inside the leather toolbox carried by the senior electrician, common tools like screwdrivers, multimeters, and insulated pliers were neatly arrayed. | En la caja de herramientas de cuero del veterano electricista se alineaban destornilladores, polímetros y alicates aislados.
+  #2 | 现代互联网和人工智能已经从前沿探索全面融入日常生产，成为人类认知世界与提升效率的得力工具。 | Xiàndài hùliánwǎng hé réngōng zhìnéng yǐjīng cóng qiányán tànsuǒ quánmiàn róngrù rìcháng shēngchǎn, chéngwéi rénlèi rènzhī shìjiè yǔ tíshēng xiàolǜ de délì gōngjù. | The modern internet and artificial intelligence have integrated into daily production, serving as powerful tools for humanity to comprehend the world and boost efficiency. | Internet y la inteligencia artificial se han integrado de lleno en el trabajo diario, alzándose como herramientas clave para potenciar la productividad humana.
+
+collocations[6]{hanzi,en}:
+  交通工具 | means of transportation
+  工具箱 | toolbox / tool kit
+  辅助工具 | auxiliary tool / aid
+  专用工具 | specialized tool
+  通讯工具 | communication tool
+  工具书 | reference book / dictionary
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  工欲善其事 | gōng yù shàn qí shì | a workman must sharpen his tools if he is to do his work well
+  巧夺天工 | qiǎo duó tiān gōng | superb craftsmanship outdoing nature
+  莫衷一是 | mò zhōng yī shì | unable to agree on which is right; lack consensus
+  游刃有余 | yóu rèn yǒu yú | handling a butcher's blade with ample leeway; doing with ease
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  工 | gōng | work; craft; carpenter's square | trabajo; oficio; escuadra de carpintero | 工 | work / craft | pictograph of an ancient carpenter's plumb square | 工 (gōng) | 3 | 单一结构 | Ancient pictograph of a carpenter's framing square tool; symbolizes skilled manual fabrication and labor. | A carpenter's sturdy level square (工) used by craftsmen to measure perfect right angles. | La escuadra de madera (工) usada por el carpintero para medir ángulos rectos en su oficio. | 55 | M | 工
+  具 | jù | tool; possess; prepare; utensils | útil; poseer; disponer; vajilla | 八 | eight | 鼎 (cauldron) held by two hands 廾 (represented by 八) | 具 (jù) | 8 | 上下结构 | Two hands holding up a sacrificial bronze vessel full of food; extended to all equipment, utensils, and gear ready for use. | Two hands (八) lifting a laden food vessel with multiple compartments, preparing table gear (具). | Dos manos (八) elevando una vasija bien abastecida, preparando utensilios necesarios (具). | 51 | BAMC | 具
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The carpenter's framing square (工) paired with handy workshop equipment (具) constitutes a trusty tool (工具).
+  composite_memory_hook_es: La escuadra del artesano (工) unida al equipo de taller listo para su uso (具) compone una herramienta útil (工具).
+  cultural_and_cognitive_roots: Tool making is recognized in Chinese philosophy (荀子 '善假于物也') as the hallmark distinguishing human wisdom from wild beasts.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling fourth tone: 'gōng jù' (55-51). Hold 'gōng' steady on a high pitch, then drop sharply on 'jù'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    工 | gōng | work; craft | 3 strokes with top/bottom horizontal bars
+    土 | tǔ | earth; soil | Upper horizontal stroke is shorter
+    具 | jù | tool; utensil | Has 3 horizontal bars inside the 目 framework
+    真 | zhēn | true; real | Has a top horizontal line with vertical stroke over 目
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    器 | qì | utensil; implement; vessel
+    械 | xiè | machinery; device
+    用 | yòng | use; employ
+    件 | jiàn | item; component
+
+semantic_boundary_contrasts:
+  core_nuance: 工具 primarily refers to physical implements held in the hand or instruments used for specific tasks.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 工具 vs. 仪器 | yíqì | 仪器 denotes precision laboratory apparatus with calibrated measuring scales, unlike ordinary rugged manual 工具.
+    2 | 工具 vs. 机械 | jīxiè | 机械 refers to motorized, heavy automated industrial machinery, whereas 工具 are typically hand-held implements.
+    3 | 工具 vs. 武器 | wǔqì | 武器 designates offensive or defensive combat arms meant for warfare, not constructive craft tasks.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 人类之所以能够脱离茹毛饮血的原始蛮荒，关键就在于发明并使用劳动工具。从打制粗糙石斧到冶炼锋利青铜，工具的每一次重大技术迭代，都如同杠杆般撬动着生产力飞跃，深刻重塑着人类社会文明的发展轨迹。 | Rénlèi zhī suǒyǐ nénggòu tuōlí rúmáo-yǐnxuè de yuánshǐ mánhuāng, guānjiàn jiù zàiyú fāmíng bìng shǐyòng láodòng gōngjù. Cóng dǎzhì cūcāo shí fǔ dào yěliàn fēnglì qīngtóng, gōngjù de měi yí cì zhòngdà jìshù jiédài, dōu rútóng gànggǎn bān qiàodòng zhe shēngchǎnlì fēiyuè, shēnkè chóngsù zhe rénlèi shèhuì wénmíng de fāzhǎn guǐjì. | Humanity emerged from savage antiquity largely by inventing and mastering tools. From crude stone axes to cast bronze, each major technological leap in tools acted like a lever hoisting productivity and reshaping human civilization. | La humanidad abandonó el salvajismo primordial gracias a la creación de herramientas de trabajo. Del tosco hacha lítica al bronce afilado, cada salto instrumental multiplicó la fuerza productiva, transformando el curso de la civilización.
+  #2 | 当年奈史密斯发明篮球时，学校体育馆里既缺乏专门护具，也没有合手的投篮工具。面对反复踩梯子取球的笨拙局面，工匠找来最为寻常的锯子这一简单手工工具锯掉了竹筐底部，以极低的成本攻克了比赛流程中的巨大阻碍。 | Dāngnián Nàishǐmīsī fāmíng lánqiú shí, xuéxiào tǐyùguǎn lǐ jì quēfá zhuānmén hùjù, yě méiyǒu héshǒu de tóulán gōngjù. Miànduì fǎnfù cǎi tīzi qǔ qiú de bènzhuō júmiàn, gōngjiàng zhǎolái zuìwéi xúncháng de jùzi zhè yí jiǎndān shǒugōng gōngjù jù diào le zhúkuāng dǐbù, yǐ jí dī de chéngběn gōngkè le bǐsài liúchéng zhōng de jùdà zǔ'ài. | When Naismith created basketball, the gym lacked specialized gear and convenient scoring equipment. Faced with awkward ladder-climbing to retrieve balls, a craftsman grabbed an ordinary saw—a simple tool—to cut off the bottoms, solving the bottleneck at minimal cost. | Al nacer el baloncesto, el gimnasio carecía de protecciones e implementos adecuados. Ante el engorro de subir a escaleras para recuperar el balón, un conserje usó una modesta sierra para abrir el fondo, solventando el escollo con suma sencillez.

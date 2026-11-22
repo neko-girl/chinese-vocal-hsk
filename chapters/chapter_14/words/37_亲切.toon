@@ -1,0 +1,63 @@
+id: 37
+hanzi: 亲切
+pinyin: qīn qiè
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: cordial; genial; warm; amiable; intimate
+  es: cordial; afectuoso; cercano; cálido; entrañable
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | warm, cordial, and approachable in manner or words; evoking familiar domestic warmth | cálido, cariñoso y accesible en el trato o lenguaje; que infunde cercanía y confianza | 亲切的笑容 (a warm and genial smile)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四合院里老街坊们见面时那一声声亲切的问候，让远离故土的游子感受到了久违的家的温暖。 | Sìhéyuàn lǐ lǎo jiēfang men jiànmiàn shí nà yī shēng shēng qīnqiè de wènhòu, ràng yuǎnlí gùtǔ de yóuzǐ gǎnshòudào le jiǔwéi de jiā de wēnnuǎn. | The warm greetings exchanged when neighbors met in courtyards made returning travelers feel long-lost home comfort. | Los saludos entrañables que se cruzaban los viejos vecinos del siheyuan hacían sentir al viajero el calor añorado del hogar.
+  #2 | 那位资深老教授对待青年学生态度极其亲切，总是耐心地解答大家在求学中的每一个疑惑。 | Nà wèi zīshēn lǎo jiàoshòu duìdài qīngnián xuéshēng tàidù jíqí qīnqiè, zǒngshì nàixīn de jiědá dàjiā zài qiúxué zhōng de měi yī gè yíhuò. | That veteran professor was exceptionally warm toward young students, patiently resolving every academic question. | Aquel veterano catedrático dispensaba un trato sumamente afable a los jóvenes, resolviendo con paciencia sus inquietudes.
+
+collocations[6]{hanzi,en}:
+  亲切问候 | cordial greetings
+  亲切关怀 | warm and loving concern
+  感到亲切 | feel warm and familiar
+  态度亲切 | warm and genial attitude
+  亲切交谈 | cordial conversation
+  和蔼亲切 | amiable and approachable
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  和蔼可亲 | hé ǎi kě qīn | affable, genial, and readily approachable
+  平易近人 | píng yì jìn rén | unassuming, approachable, and easy to associate with
+  关怀备至 | guān huái bèi zhì | caring with every possible consideration
+  情同手足 | qíng tóng shǒu zú | affection as close as brothers; tight-knit bond
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  亲 | qīn | parent; relative; close; intimate; kiss | pariente; allegado; íntimo; besar;親 | 亠 | lid | 辛 (hazel tree / upright staff) + 见 (see with eyes) | 亲 (qīn) | 9 | 上下结构 | Standing on tiptoe to gaze out 见 and welcome approaching blood relatives 亲 back home. | Eagerly gazing into the distance (见) to welcome returning family relatives (亲). | Otear el camino (见) con anhelo para abrazar a los familiares que regresan al hogar (亲). | 55 | YFD | 親
+  切 | qiè | close; eager; cut; correspond to | cercano; ferviente; cortar; corresponder | 刀 | knife | 七 (severing line) + 刀 (cutting blade penetrating deep) | 七 (qī) | 4 | 左右结构 | A blade 刀 pressing right up close against material to make a clean cut; denotes utmost intimacy. | A knife (刀) pressing closely and tightly against an object without gap (切). | Una hoja (刀) que se ciñe con estrecha proximidad sin dejar resquicio (切). | 51 | PSH | 切
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Familial kinship (亲) pressing closely and intimately (切) feels thoroughly warm and cordial (亲切).
+  composite_memory_hook_es: El afecto del parentesco (亲) estrechado en íntima cercanía (切) infunde calidez entrañable (亲切).
+  cultural_and_cognitive_roots: Blends Confucian kinship warmth with empathetic proximity, defining the ideal tone for mentors and neighbors.
+  tone_sandhi_and_pitch_modulation: First tone to fourth tone: 'qīn qiè' (55-51). High level pitch on 'qīn', dropping with warm emphasis on 'qiè'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    辛 | xīn | toilsome; bitter | Lacks the bottom small/wood strokes of 亲
+    幸 | xìng | fortunate; lucky | Soil radical 土 at top instead of 立/亠
+    切 (qiē) | qiē | cut; slice | First tone when verbal (to slice veggies)
+    功 | gōng | merit; achievement | Work 工 on left instead of 七
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    亲密 | qīnmì | close; intimate
+    亲人 | qīnrén | family members; loved ones
+    急切 | jíqiè | eager; impatient
+    关切 | guānqiè | deeply concerned
+
+semantic_boundary_contrasts:
+  core_nuance: 亲切 conveys approachable warmth, genial kindness, and familiar affection.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 亲切 vs. 热情 | rèqíng | 热情 highlights lively exuberance and high-energy excitement, while 亲切 emphasizes gentle warmth and intimacy.
+    2 | 亲切 vs. 严肃 | yánsù | 严肃 is the direct antonym denoting stern solemnity, contrasting with approachable 亲切 manner.
+    3 | 亲切 vs. 冷淡 | lěngdàn | 冷淡 means aloof or indifferent, opposite to kind and accessible 亲切.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 漫步在老北京幽深的胡同里，最动人的莫过于四合院门口那几声亲切的乡音问候。“吃了吗您呐？”这句看似普通的招呼，透着邻里之间不分彼此的熟稔与关爱，让冰冷的城市砖石也变得充满人情味。 | Mànbù zài lǎo Běijīng yōushēn de hútòng lǐ, zuì dòngrén de mòguòyú sìhéyuàn ménkǒu nà jǐ shēng qīnqiè de xiāngyīn wènhòu. 'Chī le ma nín na?' Zhè jù kànsì pǔtōng de zhāohu, tòu zhe línlǐ zhījiān bù fēn bǐcǐ de shúrěn yǔ guān'ài, ràng bīnglěng de chéngshì zhuānshí yě biàn de chōngmǎn rénqíngwèi. | Strolling through deep Beijing alleys, nothing touches hearts like cordial local greetings at courtyard gates: 'Have you eaten yet?' This ordinary pleasantry brims with mutual familiarity, infusing stone alleys with human warmth. | Paseando por los callejones de Pekín, lo más conmovedor son los saludos afables ante los portales: '¿Ha comido ya?' Esta pregunta sencilla rebosa de confianza vecinal, templando la frialdad del asfalto con calor humano.
+  #2 | 在医疗护理实践中，医护人员亲切温和的言语往往具备抚慰人心的神奇疗效。面对焦虑不安的病患，一句亲切的鼓励、一个温暖的眼神，不仅能有效缓解患者内心的恐惧，更能建立起深厚互信的医患关系。 | Zài yīliáo hùlǐ shíjiàn zhōng, yīhù rényuán qīnqiè wēnhé de yányǔ wǎngwǎng jùbèi fǔwèi rénxīn de shénqí liáoxiào. Miànduì jiāolǜ-bù'ān de bìnghuàn, yī jù qīnqiè de gǔlì, yī gè wēnnuǎn de yǎnshén, bùjǐn néng yǒuxiào huǎnjiě huànzhě nèixīn de kǒngjù, gèng néng jiànlì qǐ shēnhòu hùxìn de yī-huàn guānxi. | In healthcare, cordial and gentle words from nurses possess wondrous healing power. A kind encouragement or warm glance alleviates anxiety, building trusting relationships between patients and caregivers. | En la labor sanitaria, las palabras afectuosas del personal médico poseen virtudes curativas para el alma. Un estímulo cercano y una mirada compasiva disipan temores y cimentan la mutua confianza clínica.

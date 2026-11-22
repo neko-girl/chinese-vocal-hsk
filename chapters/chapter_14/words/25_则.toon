@@ -1,0 +1,62 @@
+id: 25
+hanzi: 则
+pinyin: zé
+level: HSK 5
+part_of_speech: Conjunction
+
+meanings_summary:
+  en: whereas; on the other hand; then; rule; item
+  es: mientras que; por el contrario; en cambio; norma; artículo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Conjunction | Standard | used to indicate contrast between clauses (whereas / while), or conditional sequence (then) | empleado para marcar contraste entre proposiciones (en cambio, mientras que) o consecuencia lógica | 东厢房住长子，西厢房则住次子 (eldest son in east wing, whereas second son in west wing)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在老北京四合院中，正房通常由家里的长辈居住，东西两侧的厢房则安排给晚辈读书生活。 | Zài lǎo Běijīng sìhéyuàn zhōng, zhèngfáng tōngcháng yóu jiālǐ de zhǎngbèi jūzhù, dōngxī liǎngcè de xiāngfáng zé ānpái gěi wǎnbèi dúshū shēnghuó. | In old Beijing courtyards, the main room was usually occupied by family elders, whereas the side wings were allocated for juniors to study and live. | En el siheyuan pekinés, la estancia principal era para los mayores, mientras que las alas laterales se destinaban al estudio y descanso de los jóvenes.
+  #2 | 遇到突发技术故障时，新手往往容易手忙脚乱，经验丰富的工程师则能沉着冷静地排查隐患。 | Yùdào tūfā jìshù gùzhàng shí, xīnshǒu wǎngwǎng róngyì shǒumáng-jiǎoluàn, jīngyàn fēngfù de gōngchéngshī zé néng chénzhuó-lěngjìng de páichá yǐnhuàn. | When confronting unexpected technical breakdowns, novices tend to panic, whereas seasoned engineers investigate hidden risks calmly. | Ante averías técnicas imprevistas, los novatos suelen perder la serenidad, mientras que los ingenieros curtidos localizan los fallos con calma.
+
+collocations[6]{hanzi,en}:
+  一则消息 | an item of news (classifier 则)
+  规则法则 | rules and regulations
+  反之则不然 | the reverse, on the contrary, is not so
+  原则问题 | matter of principle
+  细则规定 | detailed rules / bylaws
+  多则……少则…… | at most ..., at least ...
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  穷则思变 | qióng zé sī biàn | when at an impasse, think of change and reform
+  以身作则 | yǐ shēn zuò zé | set an example by one's own actions
+  有则改之 | yǒu zé gǎi zhī | correct errors if you have them, guard against them if not
+  物极必反 | wù jí bì fǎn | things turn into opposites when reaching extremes
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  则 | zé | rule; law; standard; whereas; then | norma; ley; criterio; en cambio; entonces | 刂 | knife / blade | 贝 (bronze cauldron / cowrie currency) + 刂 (engraving knife) | 则 (zé) | 6 | 左右结构 | Using a knife 刂 to carve binding statutory laws into bronze vessels 贝; signifies standard laws and conditional clauses. | Carving precise statutory regulations into a bronze vessel with a knife (刂) to establish standard rules (则). | Grabar ordenanzas con un buril (刂) sobre el bronce ceremonial para consagrar la ley (则). | 35 | BCLN | 則
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Carving standard dividing lines with a knife (刂) establishes clear criteria and contrasts (则).
+  composite_memory_hook_es: Marcar deslindes normativos con la hoja del buril (刂) define el criterio legal y la contraposición (则).
+  cultural_and_cognitive_roots: Essential classical particle functioning as a pivotal turning marker in prose to balance paired contrasts and deductions.
+  tone_sandhi_and_pitch_modulation: Second tone: 'zé' (35). Lift the pitch swiftly with crisp tonal clarity.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    恻 | cè | sorrow; sympathy | Heart radical 忄 to the left of 则
+    侧 | cè | side; incline | Person radical 亻 to the left of 则
+    厕 | cè | toilet; latrine | Shelter radical 厂 around 则
+    刚 | gāng | just; firm | Mountain radical 冈 to the left of 刂
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    原则 | yuánzé | principle; fundamental rule
+    法则 | fǎzé | law; rule of nature
+    准则 | zhǔnzé | norm; criterion
+    规则 | guīzé | rule; regulation
+
+semantic_boundary_contrasts:
+  core_nuance: 则 serves primarily in formal prose as a contrastive connective marker highlighting differing parallel behaviors.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 则 vs. 但是 | dànshì | 但是 introduces a sharp spoken adversative turn ('but'), whereas 则 gently sets up parallel contrasts ('whereas/while').
+    2 | 则 vs. 却 | què | 却 highlights an outcome contrary to expectations, whereas 则 simply aligns two contrasting facts side by side.
+    3 | 则 vs. 而 | ér | 而 links general coordination or transition, whereas 则 emphasizes categorical divergence between subjects.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统哲学强调阴阳互济。在四合院的建筑格局中，高大敞亮的正房属阳，处于主导地位；相对低矮的配房与厢房则属阴，处于辅佐地位。二者分工明确、刚柔并济，体现了和谐共生的古老宇宙观。 | Zhōngguó chuántǒng zhéxué qiángdiào yīnyáng-hùjì. Zài sìhéyuàn de jiànzhù géjú zhōng, gāodà kuānchǎng de zhèngfáng shǔ yáng, chǔyú zhǔdǎo dìwèi; xiāngduì dī'ǎi de pèifáng yǔ xiāngfáng zé shǔ yīn, chǔyú fǔzuǒ dìwèi. Èrzhě fēngōng míngquè, gāngróu-bìngjì, tǐxiàn le héxié-gòngshēng de gǔlǎo yǔzhòuguān. | Traditional Chinese philosophy stresses mutual complementarity between Yin and Yang. In courtyards, the spacious main room belongs to Yang in dominant standing, whereas lower wing-rooms belong to Yin in auxiliary role, balancing harmony. | La filosofía tradicional china postula el equilibrio entre el yin y el yang. En el siheyuan, la amplia estancia principal representa la fuerza yang, mientras que las alas laterales encarnan la mesura yin, conjugando orden cósmico.
+  #2 | 面对瞬息万变的市场风云，盲目跟风的企业往往容易陷入危机，坚守核心原则与持续技术创新的企业则能化险为夷。审时度势、以变应变，则是优秀管理者带领团队在激烈的商业竞争中立于不败之地的制胜法宝。 | Miànduì shùnxī-wànbiàn de shìchǎng fēngyún, mángmù gēnfēng de qǐyè wǎngwǎng róngyì xiànrù wēijī, jiānshǒu héxīn yuánzé yǔ chíxù jìshù chuàngxīn de qǐyè zé néng huàxiǎn-wéiyí. Shěnshí-duóshì, yǐ biàn yīng biàn, zé shì yōuxiù guǎnlǐzhě dàilǐng tuánduì zài jīliè de shāngyè jìngzhēng zhōng lìyú-bùbàizhīdì de zhìshèng fǎbǎo. | Facing unpredictable market tides, enterprises following trends blindly fall into crises, whereas firms maintaining core principles and technical innovation turn perils into opportunities, mastering dynamic adaptability. | Ante la volatilidad del mercado, las empresas que imitan a ciegas caen en crisis, mientras que las firmas fieles a sus principios e innovación superan la adversidad; adaptarse al cambio constituye la clave del éxito.

@@ -1,0 +1,63 @@
+id: 21
+hanzi: 何况
+pinyin: hé kuàng
+level: HSK 5
+part_of_speech: Conjunction
+
+meanings_summary:
+  en: let alone; much less; not to mention
+  es: mucho menos; con mayor razón; cuánto más
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Conjunction | Standard | used to introduce a further more obvious point or reason, often equivalent to 'much less' or 'all the more so' | introduce una razón o consideración adicional aún más evidente; mucho más, con más motivo | 大人尚且吃不消，何况小孩呢 (adults can hardly endure it, let alone a child)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 连经验丰富的老船长在如此恶劣的风暴中都感到吃力，何况是初次出海的新水手呢。 | Lián jīngyàn fēngfù de lǎo chuánzhǎng zài rúcǐ èliè de fēngbào zhōng dōu gǎndào chīlì, hékuàng shì chūcì chūhǎi de xīn shuǐshǒu ne. | Even seasoned captains find it arduous in such severe storms, let alone novice sailors putting to sea for the first time. | Incluso un viejo capitán curtido se las ve difíciles en semejante temporal, cuánto más los marineros novatos en su primera travesía.
+  #2 | 目前公司核心产品的销量在本土市场尚且停滞不前，何况盲目进军竞争惨烈的海外新兴市场。 | Mùqián gōngsī héxīn chǎnpǐn de xiàoliàng zài běntǔ shìchǎng shàngqiě tíngzhì-bùqián, hékuàng mángmù jìnjūn jìngzhēng cǎnliè de hǎiwài xīnxīng shìchǎng. | Presently, core product sales remain stagnant even domestically, let alone blindly charging into cutthroat emerging overseas markets. | Las ventas de la empresa están estancadas en el mercado nacional, cuánto más si se aventura a ciegas en el feroz mercado exterior.
+
+collocations[6]{hanzi,en}:
+  更何况 | even more so; not to mention
+  尚且……何况…… | even... let alone...
+  何况是 | much less; let alone being
+  又何况 | and what is more; let alone
+  何况还要 | not to mention having to
+  何况如今 | let alone nowadays
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  顾此失彼 | gù cǐ shī bǐ | attend to one and lose the other; unable to juggle both
+  雪上加霜 | xuě shàng jiā shuāng | add frost to snow; one disaster after another
+  举步维艰 | jǔ bù wéi jiān | hard to take a single step; struggling with difficulty
+  力不从心 | lì bù cóng xīn | ability falls short of one's desires; powerless to help
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  何 | hé | what; how; why | qué; cómo; por qué | 亻 | person | 亻 (person carrying burden) + 可 (exclamation) | 可 (kě / phonetic link) | 7 | 左右结构 | A person 亻 carrying a shoulder pole 可; originally bearing a load, borrowed as an interrogative pronoun (what/why). | A standing person (亻) carrying a heavy shoulder pole asking what burden lies ahead (何). | Una persona (亻) cargando una pértiga al hombro preguntando qué peso le aguarda (何). | 35 | ONR | 何
+  况 | kuàng | condition; situation; furthermore | situación; además; estado | 冫 | ice | 冫 (ice cold water) + 兄 (elder brother speaking) | 兄 (xiōng / phonetic connection) | 7 | 左右结构 | Water/ice radical 冫 beside elder brother 兄; originally cold river conditions, extended to state of affairs and rhetorical comparison. | An elder brother (兄) assessing freezing ice conditions (冫) to explain a further situation (况). | El hermano mayor (兄) comprobando la escarcha helada (冫) para valorar la situación (况). | 51 | EMRU | 況
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Asking why (何) about an already obvious condition (况) introduces a further reason: let alone (何况).
+  composite_memory_hook_es: Preguntar el porqué (何) sobre una evidencia obvia (况) sirve para recalcar con mayor motivo (何况).
+  cultural_and_cognitive_roots: A cornerstone logical conjunction in classical Chinese argumentation (况且/何况) used to reinforce a conclusion a fortiori.
+  tone_sandhi_and_pitch_modulation: Rising second tone followed by falling fourth tone: 'hé kuàng' (35-51). Smooth upward glide on 'hé' followed by crisp fall on 'kuàng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    何 | hé | what; how | Person radical 亻 on left with 可
+    河 | hé | river | Water radical 氵 on left
+    况 | kuàng | situation; moreover | Ice radical 冫 on left with 兄
+    祝 | zhù | wish; pray | Altard radical 礻 on left with 兄
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    且 | qiě | furthermore; moreover
+    兼 | jiān | simultaneously; combine
+    更 | gèng | even more; further
+    况 | kuàng | circumstance; moreover
+
+semantic_boundary_contrasts:
+  core_nuance: 何况 introduces an a fortiori argument highlighting an even stronger, more obvious factor.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 何况 vs. 况且 | kuàngqiě | 况且 adds a supplementary parallel reason (今天很冷，况且下雨), while 何况 is primarily used in rhetorical '尚且……何况……' contrastive logic.
+    2 | 何况 vs. 甚至 | shènzhì | 甚至 emphasizes an extreme surprising example (连老人甚至婴儿), whereas 何况 introduces an obvious deduced truth.
+    3 | 何况 vs. 反而 | fǎn'ér | 反而 indicates an outcome contrary to expectations, whereas 何况 deepens the expected gradient.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 古人讲‘穷则独善其身，达则兼济天下’。普通百姓在困窘之时尚且恪守廉洁良知，不为非分之财所动，何况身为执掌公共权柄的官员，更当常思民生疾苦，以如履薄冰之心坚守清正廉明的政德底线。 | Gǔrén jiǎng 'qióng zé dú shàn qí shēn, dá zé jiān jì tiānxià'. Pǔtōng bǎixìng zài kùnjiǒng zhī shí shàngqiě kèshǒu liánjié liángzhī, bù wéi fēifèn zhī cái suǒ dòng, hékuàng shēnwéi zhízhǎng gōnggòng quánbǐng de guānyuán, gèng dāng cháng sī mínshēng jíkǔ, yǐ rúlǚ-bóbīng zhī xīn jiānshǒu qīngzhèng-liánmíng de zhèngdé dǐxiàn. | The ancients noted that when poor, one should perfect oneself; when prosperous, help all under heaven. If ordinary folks preserve integrity in hardship, all the more should officials holding public power guard incorruptibility. | Decían los antiguos: en la estrechez, cultiva la virtud; en la holgura, ampara al mundo. Si el pueblo humilde guarda su honradez, cuánto más los gobernantes deben velar con probidad por el bienestar común.
+  #2 | 在早期篮球比赛中，让两队队员干等着取球已经令人难以忍受，何况看台上还坐着满怀期待的热情球迷。这种漫长的停顿不仅打断了比赛的顺畅节奏，更让场馆里原本激烈的对抗气氛彻底降至冰点。正是这种多方共有的困扰，推动了规则的大胆革新。 | Zài zǎoqī lánqiú bǐsài zhōng, ràng liǎng duì duìyuán gān děng zhe qǔ qiú yǐjīng lìngrén nányǐ rěnshòu, hékuàng kàntái shang hái zuò zhe mǎnhuái qīdài de rèqíng qiúmí. Zhè zhǒng màncháng de tíngdùn bùjǐn dǎduàn le bǐsài de shùnchàng jiézòu, gèng ràng chǎngguǎn lǐ yuánběn jīliè de duìkàng qìfēn chèdǐ jiàng zhì bīngdiǎn. Zhèng shì zhè zhǒng duōfāng gòngyǒu de kùnrǎo, tuīdòng le guīzé de dàdǎn géxīn. | In early basketball, forcing both teams to stand waiting for the ball was already unbearable, let alone having passionate fans sitting in the stands. The long delay broke game rhythm and froze court excitement, impelling a bold rule revolution. | Hacer esperar a los jugadores tras cada canasta era insufrible, cuánto más con la grada llena de entusiastas aficionados. Esa demora rompía la fluidez congelando el fervor, propiciando una audaz reforma reglamentaria.

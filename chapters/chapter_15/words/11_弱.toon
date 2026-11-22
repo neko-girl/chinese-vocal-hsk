@@ -1,0 +1,62 @@
+id: 11
+hanzi: 弱
+pinyin: ruò
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: weak; feeble; inferior; vulnerable; young
+  es: débil; vulnerable; frágil; inferior
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | lacking physical strength, military power, firmness, or capability; inferior in strength | que carece de fuerza física, poderío militar o solidez; vulnerable; inferior | 力量薄弱 (power is weak and frail)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在群雄逐鹿的战国时期，诸侯各国弱肉强食，弱小的邦国随时面临被强邻吞并的危险。 | Zài qúnxióng-zhúlù de Zhànguó shíqī, zhūhóu gèguó ruòròu-qiángshí, ruòxiǎo de bāngguó suíshí miànlín bèi qiánglín tūnbìng de wēixiǎn. | During the Warring States period, states lived by the law of the jungle; small, weak principalities faced peril of annexation by strong neighbors. | En los Reinos Combatientes imperaba la ley de la selva; los principados débiles afrontaban en todo momento la amenaza de ser anexionados.
+  #2 | 虽然他在长跑耐力方面相对较弱，但凭借极佳的爆发力在短跑项目中斩获了冠军。 | Suīrán tā zài chángpǎo nàilì fāngmiàn xiāngduì jiào ruò, dàn píngjiè jí jiā de bàofālì zài duǎnpǎo xiàngmù zhōng zhǎnhuò le guànjūn. | Although he was relatively weak in long-distance endurance, his explosive sprinting speed secured him the championship. | Aunque su resistencia en fondo era algo débil, su gran potencia de arrancada le permitió coronarse campeón en velocidad.
+
+collocations[6]{hanzi,en}:
+  软弱无力 | weak and powerless
+  弱点缺陷 | weak points and shortcomings
+  以弱胜强 | defeat the strong with the weak
+  敌强我弱 | the enemy is strong while we are weak
+  身体虚弱 | physically frail and weak
+  弱小群体 | vulnerable / weak groups
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  弱肉强食 | ruò ròu qiáng shí | the weak are meat for the strong; law of the jungle
+  以弱胜强 | yǐ ruò shèng qiáng | defeat a stronger opponent through superior strategy
+  扶弱济困 | fú ruò jì kùn | support the weak and relieve the distressed
+  微不足道 | wēi bù zú dào | insignificant and negligible; too frail to mention
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  弱 | ruò | weak; frail; young; inferior | débil; frágil; joven; inferior | 弓 | bow | two limp wooden bows wound with feathers / sinews | 弱 (ruò) | 10 | 左右结构 | Two small, pliable bows decorated with soft feathers; represents pliable frailty and weakness. | Two small, flexible archery bows (弓) lacking sufficient tension to launch heavy arrows (弱). | Dos arcos ligeros (弓) con escasa tensión en la cuerda para disparar dardos pesados (弱). | 51 | NINIM | 弱
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Two pliable bows wound together (弱) lack the taut power of battle bows, embodying weakness (弱).
+  composite_memory_hook_es: Dos arquillos flexibles gemelos (弱) carecen de la tensión férrea de combate, encarnando la debilidad (弱).
+  cultural_and_cognitive_roots: Derived from classical archery where youth practiced with light pliant bows before mastering rigid military warbows.
+  tone_sandhi_and_pitch_modulation: Fourth tone: 'ruò' (51). Crisp and sharp downward inflection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    弓 | gōng | archery bow | Single bow frame without feathers or duplicate
+    引 | yǐn | draw; lead | Single vertical stroke on right of 弓
+    张 | zhāng | stretch; open | Long 长 on right of 弓
+    强 | qiáng | strong | Insect 虫 inside right component
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    弱点 | ruòdiǎn | weakness; vulnerable spot
+    微弱 | wēiruò | faint; feeble (signal/light)
+    减弱 | jiǎnruò | weaken; abate
+    脆弱 | cuìruò | fragile; brittle
+
+semantic_boundary_contrasts:
+  core_nuance: 弱 signifies deficient strength, low resistance, or military disadvantage.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 弱 vs. 强 | qiáng | 强 is the direct antonym meaning strong, powerful, and robust.
+    2 | 弱 vs. 软 | ruǎn | 软 refers to physical softness in texture (cushion/cotton), while 弱 emphasizes lack of strength or capability.
+    3 | 弱 vs. 小 | xiǎo | 小 denotes compact spatial size, while 弱 indicates deficient power or stamina.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在战国军事角逐中，“示敌以弱”是克敌制胜的重要谋略。长平前线秦军主帅白起故意命令前锋部队假装兵力薄弱、败下阵去，让赵括误以为秦军不堪一击，从而轻率放弃坚固防线出击，落入了秦军的致命圈套。 | Zài Zhànguó jūnshì juézhú zhōng, 'shì dí yǐ ruò' shì kèdí-zhìshèng de zhòngyào móulüè. Chángpíng qiánxiàn Qínjūn zhǔshuài Bái Qǐ gùyì mìnglìng qiánfēng bùduì jiǎzhuāng bīnglì bóruò, bài xià zhèn qù, ràng Zhào Kuò wùyǐwéi Qínjūn bùkān-yījī, cóng'ér qīngshuài fàngqì jiāngù fángxiàn chūjī, luòrù le Qínjūn de zhìmìng quāntào. | In Warring States warfare, 'feigning weakness' was a crucial stratagem. At Changping, Qin General Bai Qi ordered vanguards to fake defeat and weakness, deceiving Zhao Kuo into abandoning fortified positions to fall into an ambush. | En la guerra de los Reinos Combatientes, aparentar flaqueza era una astuta estratagema. En Changping, Bai Qi ordenó a la vanguardia fingir debilidad; Zhao Kuo creyó desmoronado al enemigo y abandonó sus baluartes cayendo en la trampa.
+  #2 | 唯物辩证法告诉我们，强与弱并不是绝对固定不变的，在一定条件下双方可以相互转化。处于弱势的一方只要善于扬长避短，集中优势力量攻其不备，同样能够打破平衡、以弱胜强，在逆境中开辟出崭新的胜利天地。 | Wéiwù-biànzhèngfǎ gàosu wǒmen, qiáng yǔ ruò bìng bùshì juéduì gùdìng-bùbiàn de, zài yīdìng tiáojiàn xià shuāngfāng kěyǐ xiānghù zhuǎnhuà. Chǔyú ruòshì de yīfāng zhǐyào shànyú yángcháng-bìduǎn, jízhōng yōushì lìliang gōng qí bù bèi, tóngyàng nénggòu dǎpò pínghéng, yǐ ruò shèng qiáng, zài nìjìng zhōng kāipì chū zhǎnxīn de shènglì tiāndì. | Dialectics teaches that strength and weakness are not immutable; under given conditions, they transform into each other. Disadvantaged forces concentrating strength on vulnerabilities can overturn balances and conquer stronger rivals. | La dialéctica enseña que la fuerza y la debilidad no son estáticas; bajo ciertas condiciones mutan recíprocamente. Quien parte de desventaja pero concentra fuerzas en las fallas ajenas puede vencer al fuerte y triunfar.

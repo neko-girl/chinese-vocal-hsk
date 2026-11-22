@@ -1,0 +1,63 @@
+id: 31
+hanzi: 关闭
+pinyin: guān bì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to close; shut; shut down; turn off
+  es: cerrar; clausurar; apagar; desconectar
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to close doors, windows, valves, or operations of a facility or business | cerrar puertas, ventanas, válvulas o clausurar la actividad de un local o negocio | 关闭大门 (close the main gate)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 夜幕降临之后，四合院厚重的朱红大门缓缓关闭，院内立刻变成了一个安静的世界。 | Yèmù jiànglín zhīhòu, sìhéyuàn hòuzhòng de zhūhóng dàmén huǎnhuǎn guānbì, yuànnèi lìkè biànchéng le yī gè ānjìng de shìjiè. | After nightfall, the thick vermilion gate of the courtyard slowly closed, immediately turning the compound into a tranquil world. | Al caer la noche, el pesado portón bermellón del siheyuan se cerró con lentitud, convirtiendo el patio en un remanso de quietud.
+  #2 | 由于需要进行全面的设备检修与系统升级，该图书馆将临时关闭三天。 | Yóuyú xūyào jìnxíng quánmiàn de shèbèi jiǎnxiū yǔ xìtǒng shēngjí, gāi túshūguǎn jiāng línshí guānbì sān tiān. | Owing to necessary comprehensive equipment overhaul and system upgrades, the library will temporarily close for three days. | Debido a labores integrales de mantenimiento y actualización de sistemas, la biblioteca cerrará temporalmente durante tres días.
+
+collocations[6]{hanzi,en}:
+  关闭门窗 | close doors and windows
+  关闭电源 | turn off power supply
+  临时关闭 | temporarily close / shut
+  永久关闭 | permanently shut down
+  自动关闭 | shut off automatically
+  关闭通道 | close the corridor / channel
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  闭门造车 | bì mén zào chē | build a cart behind closed doors; divorce oneself from reality
+  夜不闭户 | yè bù bì hù | doors unbolted at night; state of great peace and honesty
+  闭门思过 | bì mén sī guò | shut doors to reflect on one's past errors
+  紧闭双眼 | jǐn bì shuāng yǎn | close both eyes tightly
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  关 | guān | close; shut; pass; barrier; concern | cerrar; paso; frontera; concernir | 丷 | horns / split | horizontal wooden crossbar locking two gate leaves | 关 (guān) | 6 | 单一结构 | A heavy wooden beam bolted across gateway doors to close and seal off entry. | Bolting a thick wooden crossbar across the gateway to close the entrance (关). | Cruzar un pesado trinquete de madera sobre el portón para cerrar el paso (关). | 55 | TUK | 關
+  闭 | bì | shut; close; block; conclude | cerrar; clausurar; obstruir; concluir | 门 | door / gate | 门 (double-leaf gateway) + 才 (wooden bar/stake locking it) | 闭 (bì) | 6 | 半包围结构 | Placing a locking bar inside the frame of double doors 门; to shut tightly. | Swinging the heavy wooden doors (门) shut and fastening the lock (闭). | Ajustar las dos hojas del portón (门) asegurando el cerrojo (闭). | 51 | LND | 閉
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Bolting the gateway bar (关) and shutting the double doorleaves (闭) means to close (关闭).
+  composite_memory_hook_es: Echar el cerrojo del zaguán (关) y ajustar ambas hojas (闭) define la acción de cerrar (关闭).
+  cultural_and_cognitive_roots: Originates from ancient city fortification and compound gate locking rites to protect domestic privacy and defense.
+  tone_sandhi_and_pitch_modulation: First tone to fourth tone: 'guān bì' (55-51). High steady pitch on 'guān', followed by a decisive drop on 'bì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    开 | kāi | open; begin | Lacks the upper diagonal tick marks of 关
+    天 | tiān | sky; day | Horizontal line across 大 instead of upper dots
+    闪 | shǎn | flash; dodge | Person radical 人 inside 门 instead of 才
+    问 | wèn | ask; question | Mouth radical 口 inside 门 instead of 才
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    关门 | guānmén | close the door; go out of business
+    闭幕 | bìmù | conclude; curtain falls
+    关注 | guānzhù | pay close attention to
+    封闭 | fēngbì | seal off; secluded
+
+semantic_boundary_contrasts:
+  core_nuance: 关闭 is the universal term for physical closing (doors, valves, screens) or administrative shutdowns.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 关闭 vs. 开启 | kāiqǐ | 开启 is the direct antonym meaning to open, unlock, or power on.
+    2 | 关闭 vs. 封闭 | fēngbì | 关闭 simply shuts access, whereas 封闭 seals off an area completely into seclusion or isolation.
+    3 | 关闭 vs. 停业 | tíngyè | 停业 specifically means suspending business trade, while 关闭 has broader physical and mechanical applications.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京四合院的广亮大门非常讲究。每当夜幕降临，院里的大门便准时关闭并插上坚固的门栓。大门一经关闭，就把外界长巷的纷繁喧嚣完全阻隔在外，为院内聚居的大家族守护着一份恬静私密的天地。 | Lǎo Běijīng sìhéyuàn de guǎngliàng dàmén fēicháng jiǎngjiu. Měi dāng yèmù jiànglín, yuàn lǐ de dàmén biàn zhǔnshí guānbì bìng chā shang jiāngù de ménshuān. Dàmén yījīng guānbì, jiù bǎ wàijiè chángxiàng de fēnfán xuānxīao wánquán zǔgé zài wài, wèi yuànnèi jùjū de dàjiātíng shǒuhù zhe yī fèn tiánjìng sìmì de tiāndì. | The grand gate of old Beijing courtyards followed strict customs. At nightfall, the entrance was punctually closed and barred. Once closed, outside alley clamor was sealed out, protecting a serene and private domestic world for the family. | El portalón señorial del siheyuan pekinés seguía venerables normas. Al caer el crepúsculo, se cerraba con puntualidad pasando la tranca. Una vez cerrado, el bullicio quedaba fuera, salvaguardando un remanso íntimo para el hogar.
+  #2 | 在工业生产与实验操作中，严格遵守关闭程序是保障安全的关键。无论是化工厂切断高压气阀，还是实验室关闭精密设备电源，每一个关闭步骤都必须按照操作手册逐一核对，确保人员和财产万无一失。 | Zài gōngyè shēngchǎn yǔ shíyàn cāozuò zhōng, yángé zūnshǒu guānbì chéngxù shì bǎozhàng ānquán de guānjiàn. Wúlùn shì huàgōngchǎng qiēduàn gāoyā qìfá, háishì shíyànshì guānbì jīngmì shèbèi diànyuán, měi yī gè guānbì bùzhòu dōu bìxū ànzhào cāozuò shǒucè zhúyī héduì, quèbǎo rényuán hé cáichǎn wànwúyīshī. | In industrial production and laboratory work, strictly observing shut-down protocols is vital for safety. Whether isolating high-pressure valves or powering down precision units, every step must be verified to prevent accidents. | En faenas fabriles y de laboratorio, observar los protocolos de cierre resulta indispensable para la seguridad. Ya sea aislar válvulas de gas o apagar equipos sensibles, cada paso debe cotejarse para garantizar la protección común.

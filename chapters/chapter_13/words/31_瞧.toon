@@ -1,0 +1,62 @@
+id: 31
+hanzi: 瞧
+pinyin: qiáo
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to look; see; glance at
+  es: mirar; ver; echar un vistazo
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Colloquial | to look at, glance, or observe with the eyes, predominantly used in colloquial spoken Chinese | mirar u observar con atención; muy habitual en el lenguaje coloquial | 你快瞧瞧那是什么 (take a look quickly at what that is)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 你快到窗前瞧瞧，昨晚的一场大雪把整个小区的树木都裹上了一层银白色的厚霜。 | Nǐ kuài dào chuāngqián qiáoqiao, zuówǎn de yì chǎng dàxuě bǎ zhěnggè xiǎoqū de shùmù dōu guǒ shàng le yì céng yínbáisè de hòushuāng. | Quick, come to the window and take a look; last night's heavy snowfall wrapped all trees in the neighborhood in thick silver frost. | Ven corriendo a la ventana a echar un vistazo; la copiosa nevada de anoche envolvió los árboles de la barriada en una gruesa escarcha plateada.
+  #2 | 他总爱戴着有色眼镜瞧人，这种傲慢偏见的处世态度让身边的很多同事都敬而远之。 | Tā zǒng ài dài zhe yǒusè yǎnjìng qiáo rén, zhè zhǒng àomàn piānjiàn de chǔshì tàidù ràng shēnbiān de hěnduō tóngshì dōu jìng'éryuǎnzhī. | He always looks at people through tinted glasses; this arrogant and prejudiced attitude causes many colleagues around him to keep their distance. | Siempre mira a los demás con prejuicios; esa actitud altanera y despectiva hace que sus compañeros de trabajo prefieran guardar las distancias.
+
+collocations[6]{hanzi,en}:
+  瞧一瞧 | have a look; take a glance
+  瞧不起 | look down upon; despise
+  瞧得起 | think highly of; respect
+  瞧见 | catch sight of; see
+  瞧病 | see a doctor (colloquial)
+  走着瞧 | wait and see (warning/slang)
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  另眼相看 | lìng yǎn xiāng kàn | view in a new and favorable light; treat with special respect
+  刮目相看 | guā mù xiāng kàn | rub eyes and look with new respect
+  冷眼旁观 | lěng yǎn páng guān | look on coldly from the sidelines; detached spectator
+  虎视眈眈 | hǔ shì dān dān | glare like a tiger eyeing its prey covetously
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  瞧 | qiáo | look; glance; see | mirar; ver | 目 | eye | 目 (eye / gaze) + 焦 (scorched / intense longing) | 焦 (jiāo / phonetic association) | 17 | 左右结构 | Eye radical 目 beside 焦 (scorched bird over fire); focusing one's eyes with burning intensity to discern something. | Keen eyes (目) focusing through scorched embers (焦) to catch a sharp glance of the truth (瞧). | Ojos atentos (目) que atisban entre ascuas (焦) para divisar con claridad lo que ocurre (瞧). | 35 | BUPOG | 瞧
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Directing your attentive eyes (目) with sharp focus (焦) allows you to take a close look (瞧).
+  composite_memory_hook_es: Fijar la mirada (目) con ardiente interés (焦) te permite echar un buen vistazo (瞧).
+  cultural_and_cognitive_roots: Expressive northern Mandarin colloquialism for looking, common in vernacular novels and Beijing dialogue.
+  tone_sandhi_and_pitch_modulation: Rising second tone: 'qiáo' (35). Soar upward smoothly with bright colloquial inflection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    瞧 | qiáo | look; see | Eye radical 目 on left with 焦
+    焦 | jiāo | burnt; anxious | Without the eye radical on left
+    樵 | qiáo | woodcutter; gather firewood | Tree radical 木 on left of 焦
+    礁 | jiāo | reef; submerged rock | Stone radical 石 on left of 焦
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    看 | kàn | look; watch
+    望 | wàng | gaze into distance; hope
+    睹 | dǔ | witness; observe
+    瞻 | zhān | look forward; inspect
+
+semantic_boundary_contrasts:
+  core_nuance: 瞧 is an informal, colloquial synonym of 看, often implying a spontaneous glance or evaluation.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 瞧 vs. 看 | kàn | 看 is neutral and universally used across spoken and written Chinese, while 瞧 is vivid northern colloquial speech.
+    2 | 瞧 vs. 望 | wàng | 望 denotes gazing far into the distant horizon or up at stars, whereas 瞧 focuses on nearby objects or people.
+    3 | 瞧 vs. 瞅 | chǒu | 瞅 is strongly regional (Northeastern vernacular), while 瞧 is standard colloquial northern Mandarin.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 母亲常拉着客人的手亲切地说：‘快进屋瞧瞧，院子里的老茶花开得正艳呢。’那些在岁月风雨中悄然绽放的花瓣红艳似火，映照着小院的宁静祥和，也温暖着每一个远道而来寻访乡愁的游子。 | Mǔqīn cháng lā zhe kèrén de shǒu qīnqiè de shuō: 'Kuài jìn wū qiáoqiao, yuànzi lǐ de lǎo cháhuā kāi de zhèng yàn ne.' Nàxiē zài suìyuè fēngyǔ zhōng qiǎorán zhànfàng de huābàn hóngyàn-sìhuǒ, yìngzhào zhe xiǎoyuàn de níngjìng xiánghé, yě wēnnuǎn zhe měi yí ge yuǎndào'érlái xúnfǎng xiāngchóu de yóuzǐ. | Mother warmly took guests' hands: 'Come inside and take a look; the old camellias are blooming splendidly.' Blossoms glowing like fire mirrored the tranquil yard, comforting nostalgic travelers from afar. | La madre tomaba afectuosamente la mano del visitante: 'Pasad a ver qué floridas están las camelias del patio'. Sus pétalos ardientes como fuego acariciaban la paz del hogar, confortando a los viajeros.
+  #2 | 当年路过球场的小男孩好奇地停下脚步，歪着头仔细瞧着那两个挂在高处的桃筐，忍不住随口说了句：‘你们瞧，把筐底直接锯掉不就全解决了吗？’这句看似天真的大实话，瞬间点醒了全场工匠。 | Dāngnián lùguò qiúchǎng de xiǎo nánhái hàoqí de tíngxià jiǎobù, wāi zhe tóu zǐxì qiáo zhe nà liǎng ge guà zài gāochù de táokuāng, rěnbùzhù suíkǒu shuō le jù: 'Nǐmen qiáo, bǎ kuāngdǐ zhíjiē jù diào bù jiù quán jiějué le ma?' Zhè jù kànsì tiānzhēn de dà shíhuà, shùnjiān diǎnxǐng le quánchǎng gōngjiàng. | The boy passing the court paused curiously, tilting his head to look at the elevated baskets, blurted: 'Look, wouldn't sawing off the bottoms solve everything?' That candid remark instantly woke all the workmen. | El niño que pasaba se detuvo con curiosidad, contempló las canastas en lo alto y soltó: 'Miren, ¿acaso no se arregla cortando el fondo?' Aquella obviedad inocente iluminó de golpe a todos los presentes.

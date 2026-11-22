@@ -1,0 +1,63 @@
+id: 22
+hanzi: 空间
+pinyin: kōng jiān
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: space; room; clearance; outer space
+  es: espacio; amplitud; margen; espacio exterior
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | physical expanse or volume available for occupation; room for activity or growth; outer space | extensión física tridimensional disponible; cabida o margen para maniobra; cosmos | 生活空间 (living space)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四合院中心宽敞明亮的天井，为一家老小提供了亲近自然、开展日常交往的开阔空间。 | Sìhéyuàn zhōngxīn kuānchǎng míngliàng de tiānjǐng, wèi yī jiā lǎoxiǎo tígōng le qīnjìn zìrán, kāizhǎn rìcháng jiāowǎng de kāikuò kōngjiān. | The spacious central courtyard provides the whole family with an expansive open space to commune with nature and engage in daily socializing. | El diáfano patio central del siheyuan brinda a la familia un holgado espacio al aire libre para convivir y disfrutar de la naturaleza.
+  #2 | 优秀的城市规划师不仅关注建筑外形，更注重为社区居民营造富有人情味的公共活动空间。 | Yōuxiù de chéngshì guīhuàshī bùjǐn guānzhù jiànzhù wàixíng, gèng zhùzhòng wèi shèqū jūmín yíngzào fùyǒu rénqíngwèi de gōnggòng huódòng kōngjiān. | Talented urban planners focus not only on building aesthetics, but also on crafting public activity spaces rich in human warmth for residents. | Los urbanistas virtuosos no solo atienden a la volumetría exterior, sino a brindar a los vecinos espacios públicos acogedores para la convivencia.
+
+collocations[6]{hanzi,en}:
+  生存空间 | living / survival space
+  公共空间 | public space
+  活动空间 | activity space / room to maneuver
+  广阔空间 | vast space / wide scope
+  提升空间 | room for improvement
+  外层空间 | outer space
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  海阔天空 | hǎi kuò tiān kōng | as boundless as sea and sky; broad-minded and free
+  天高地厚 | tiān gāo dì hòu | high as the heavens and deep as the earth; profound complexity
+  虚怀若谷 | xū huái ruò gǔ | modest mind as receptive as an open valley
+  别有洞天 | bié yǒu dòng tiān | a whole new enchanted world opening up
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  空 | kōng | empty; sky; void; open air | vacío; cielo; aire libre; hueco | 穴 | cave / den | 穴 (open hollow cave) + 工 (work tool / craft boundary) | 工 (gōng) | 8 | 上下结构 | Excavating an underground cave 穴 until an expansive, open empty cavity 空 emerges. | Digging open a rocky cave entrance (穴) to reveal a vast, airy open cavern (空). | Abrir la entrada de una caverna (穴) para descubrir una cámara despejada y vacía (空). | 55 | JCM | 空
+  间 | jiān | between; interval; space; room | entre; intervalo; estancia; medio | 门 | gate / door | 门 (double-leaf gateway) + 日 (sunlight shining through crack) | 间 (jiān) | 7 | 半包围结构 | Sunlight 日 streaming through the gap between two closed gateway doors 门; marks space between. | Beams of sun (日) filtering brightly through the crevice between closed doors (门). | Rayos de sol (日) que se cuelan por el intersticio entre las hojas de la puerta (门). | 55 | LNA | 間
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Open expanse (空) opening between physical boundaries (间) defines three-dimensional space (空间).
+  composite_memory_hook_es: La amplitud diáfana (空) que media entre límites físicos (间) conforma el espacio disponible (空间).
+  cultural_and_cognitive_roots: Paired with 'time' (时间) in Chinese metaphysics: 宇 (infinite space) and 宙 (infinite time), combining emptiness and boundary.
+  tone_sandhi_and_pitch_modulation: Double first tone: 'kōng jiān' (55-55). Maintain a clear, elevated, sustained tone across both syllables.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    突 | tū | sudden; dash | Dog radical 犬 inside 穴 instead of 工
+    究 | jiū | investigate; after all | Nine radical 九 inside 穴 instead of 工
+    问 | wèn | ask; inquire | Mouth radical 口 inside 门 instead of 日
+    闭 | bì | close; shut | Talent radical 才 inside 门 instead of 日
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    空闲 | kòngxián | idle time; leisure
+    天空 | tiānkōng | sky; heavens
+    房间 | fángjiān | room; chamber
+    时间 | shíjiān | time; temporal duration
+
+semantic_boundary_contrasts:
+  core_nuance: 空间 denotes three-dimensional physical room, clearance, or figurative scope for growth.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 空间 vs. 时间 | shíjiān | 时间 governs the temporal dimension (hours, duration), while 空间 governs spatial dimensions (volume, area).
+    2 | 空间 vs. 地点 | dìdiǎn | 地点 pinpoint a specific geographic location, whereas 空间 emphasizes the internal volume or capacity.
+    3 | 空间 vs. 拥挤 | yōngjǐ | 拥挤 describes crowded conditions resulting from an acute shortage of 空间.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国传统院落特别擅长在有限的占地内营造富有层次的空间体验。四合院通过游廊、垂花门与影壁的巧妙穿插，将原本规整的物理空间划分为庭院、起居与私密等不同领域，展现出静谧深沉的东方空间美学。 | Zhōngguó chuántǒng yuànluò tèbié shàncháng zài yǒuxiàn de zhàndì nèi yíngzào fùyǒu céngcì de kōngjiān tǐyàn. Sìhéyuàn tōngguò yóuláng, chuíhuāmén yǔ yǐngbì de qiǎomiào chuānchā, jiāng yuánběn guīzhěng de wùlǐ kōngjiān huàfēn wéi tíngyuàn, qǐjū yǔ sìmì děng bùtóng lǐngyù, zhǎnxiàn chū jìngmì shēnchén de dōngfāng kōngjiān měixué. | Traditional Chinese compounds excel at creating layered spatial experiences within limited footprints. Interlacing verandas, ornate gates, and screen walls partition physical space into garden, living, and private realms with quiet Eastern aesthetics. | El patio tradicional chino descuella por articular ricas transiciones espaciales en solares acotados. Galerías, puertas caladas y cancelas modulan el espacio físico en zonas comunes, privadas y de jardín, expresando una sobria estética oriental.
+  #2 | 探索未知的外层空间，是人类追寻文明未来的宏伟征途。从最早的近地轨道卫星发射，到宇航员在国际空间站长期开展尖端科研，人类对深远空间的求索从未止步。浩瀚无垠的宇宙空间，激发着我们永恒的科学探索精神。 | Tànsuǒ wèizhī de wàicéng kōngjiān, shì rénlèi zhuīxún wénmíng wèilái de hóngwěi zhēngtú. Cóng zuìzǎo de jìndì guǐdào wèixīng fāshè, dào yǔhángyuán zài guójì kōngjiānzhàn chángqī kāizhǎn jiānduān kēyán, rénlèi duì shēnyuǎn kōngjiān de qiúsuǒ cóng wèi zhǐbù. Hàohàn-wúyín de yǔzhòu kōngjiān, jīfā zhe wǒmen yǒnghéng de kēxué tànsuǒ jīngshén. | Exploring unknown outer space represents humanity's grand quest for civilizational advancement. From early near-Earth satellites to long-duration stays aboard international space stations, cosmic space sparks our endless scientific spirit. | La exploración del espacio exterior constituye la gran odisea de la civilización hacia el porvenir. Desde los satélites en órbita baja hasta las misiones en estaciones espaciales, el cosmos infinito aviva un afán inagotable de descubrimiento.

@@ -1,0 +1,63 @@
+id: 39
+hanzi: 人民
+pinyin: rén mín
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: the people; citizens; masses
+  es: el pueblo; los ciudadanos; las masas populares
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the body of citizens of a nation as a collective political and social whole | conjunto de personas que componen una nación o comunidad política y social | 为人民服务 (serve the people)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 北京四合院不仅是古代贵族与士绅的府邸，更是千千万万普通劳动人民安居乐业的温馨家园。 | Běijīng sìhéyuàn bùjǐn shì gǔdài guìzú yǔ shìshēn de fǔdǐ, gèng shì qiānqiān-wànwàn pǔtōng láodòng rénmín ānjū-lèyè de wēnxīn jiāyuán. | Beijing quadrangles were not only mansions of aristocrats, but also cozy homes where millions of ordinary working people lived in peace. | El siheyuan pekinés no fue solo residencia de dignatarios, sino el hogar acogedor donde millones de familias plebeyas vivían y trabajaban en paz.
+  #2 | 任何负责任的国家政府，都应当始终把人民的生命健康安全与切身福祉放在首要位置。 | Rènhé fùzérèn de guójiā zhèngfǔ, dōu yīngdāng shǐzhōng bǎ rénmín de shēngmìng jiànkāng ānquán yǔ qièshēn fúzhǐ fàng zài shǒuyào wèizhì. | Any responsible national government must always prioritize the lives, health, and welfare of the people above all else. | Todo gobierno responsable debe colocar en el centro de sus prioridades la vida, salud y bienestar del pueblo.
+
+collocations[6]{hanzi,en}:
+  中国人民 | the Chinese people
+  全国人民 | the people of the whole country
+  人民群众 | the broad masses of the people
+  造福人民 | bring benefit to the people
+  人民大会堂 | Great Hall of the People
+  人民政府 | People's Government
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  国泰民安 | guó tài mín ān | the country is prosperous and the people enjoy peaceful security
+  民胞物与 | mín bāo wù yǔ | fellow humans are brethren and all creatures are companions
+  爱民如子 | ài mín rú zǐ | love the common people as one's own children
+  水能载舟，亦能覆舟 | shuǐ néng zài zhōu, yì néng fù zhōu | water can float a boat, but can also capsize it (the people's will)
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  人 | rén | person; human; mankind | persona; ser humano; individuo | 人 | person | pictograph of an erect human standing sideways with legs | 人 (rén) | 2 | 单一结构 | Ancient oracle bone glyph showing a standing human figure viewed from profile. | Two supporting legs walking forward with dignity as an upright human (人). | Dos piernas firmes que avanzan con dignidad erguida como ser humano (人). | 35 | O | 人
+  民 | mín | people; citizens; folk; public | pueblo; ciudadanía; plebe; popular | 氏 | clan | eye pierced by a needle (ancient captive/laborer marker) | 民 (mín) | 5 | 单一结构 | Ancient glyph showing an eye pierced by a needle; later evolved to designate common citizens and the people. | The multitude of common people gathered together as one community (民). | La multitud de ciudadanos congregados como comunidad civil (民). | 35 | RVP | 民
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Individual human beings (人) joined in common citizenship (民) constitute the people (人民).
+  composite_memory_hook_es: El individuo (人) unido al cuerpo social de ciudadanos (民) define al pueblo soberano (人民).
+  cultural_and_cognitive_roots: Foundational political concept in Chinese statecraft from Mencius's 'people are most precious' (民为贵) to modern governance.
+  tone_sandhi_and_pitch_modulation: Double second tone: 'rén mín' (35-35). Rise smoothly and harmoniously on both syllables.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    入 | rù | enter | Right stroke overlaps left stroke
+    八 | bā | eight | Two strokes do not touch
+    氏 | shì | clan; family | Has an extra hook on bottom right
+    良 | liáng | good; virtuous | Top dot over 目-like shape
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    民主 | mínzhǔ | democracy; democratic
+    民众 | mínzhòng | the masses; common folk
+    公民 | gōngmín | citizen
+    民俗 | mínsú | folk customs; folklore
+
+semantic_boundary_contrasts:
+  core_nuance: 人民 denotes the collective body of citizens and masses of a country with political and constitutional standing.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 人民 vs. 公民 | gōngmín | 公民 is a strict legal term denoting individuals holding nationality and constitutional rights, whereas 人民 is a collective political concept.
+    2 | 人民 vs. 群众 | qúnzhòng | 群众 refers to the broad non-party masses or spectators, while 人民 covers the entire sovereign national population.
+    3 | 人民 vs. 国民 | guómín | 国民 emphasizes subjects or nationals in relation to the state apparatus, whereas 人民 highlights the democratic mass collective.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京四合院的建筑风格生动反映了普通人民的生活追求。无论王府大宅还是平民院落，四面合围的格局都寄托着人民对家庭和睦、岁月静好的美好憧憬，凝聚着华夏人民千百年来守望相助的生存智慧。 | Lǎo Běijīng sìhéyuàn de jiànzhù fēnggé shēngdòng fǎnyìng le pǔtōng rénmín de shēnghuó zhuīqiú. Wúlùn wángfǔ dàzhái háishì píngmín yuànluò, sìmiàn héwéi de géjú dōu jìtuō zhe rénmín duì jiātíng hémù, suìyuè-jìnghǎo de měihǎo chōngjǐng, níngjù zhe Huáxià rénmín qiānbǎi nián lái shǒuwàng-xiāngzhù de shēngcún zhìhuì. | The architectural character of courtyards reflected the aspirations of common people. From princely mansions to humble dwellings, the enclosed layout embodied hopes for domestic harmony, crystallizing survival wisdom through mutual aid. | La arquitectura del siheyuan refleja los anhelos del pueblo sencillo. Mansiones o patios humildes compartían una traza que cobijaba la armonía familiar, condensando siglos de sabiduría y solidaridad comunitaria.
+  #2 | 人民是历史的创造者，是推动人类文明繁荣发展的根本力量。从古代水利灌溉工程的开凿，到现代高新科技产业的崛起，每一步辉煌跨越都离不开亿万人民的辛勤奋斗。尊重人民的历史主体地位，社会才能长治久安。 | Rénmín shì lìshǐ de chuàngzàozhě, shì tuīdòng rénlèi wénmíng fánróng fāzhǎn de gēnběn lìliàng. Cóng gǔdài shuǐlì guàngài gōngchéng de kāizáo, dào xiàndài gāoxīn kējì chǎnyè de juéqǐ, měi yī bù huīhuáng kuàyuè dōu lìbùkāi yìwàn rénmín de xīnqín fèndòu. Zūnzhòng rénmín de lìshǐ zhǔtǐ dìwèi, shèhuì cái néng chángzhì-jiǔ'ān. | The people are the creators of history and the fundamental force driving human progress. From ancient irrigation works to modern tech industries, every leap relies on the toil of millions. Respecting the people ensures enduring peace. | El pueblo es el artífice de la historia y el motor del avance de la civilización. Desde las acequias milenarias hasta la alta tecnología, cada hito se forja con la brega popular; honrar al pueblo garantiza la estabilidad común.

@@ -1,0 +1,63 @@
+id: 5
+hanzi: 作战
+pinyin: zuò zhàn
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to fight; engage in combat; conduct military operations
+  es: combatir; entrar en combate; librar una batalla; operar militarmente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to conduct military fighting, campaigns, or strategic operations against opposing forces | entrar en combate armado o desplegar maniobras bélicas y estratégicas contra el enemigo | 协同作战 (coordinate joint combat operations)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在复杂多变的高原山地环境中，陆空两军紧密配合，成功完成了联合模拟作战演练。 | Zài fùzá duōbiàn de gāoyuán shāndì huánjìng zhōng, lù-kōng liǎng jūn jǐnmì pèihé, chénggōng wánchéng le liánhé mónǐ zuòzhàn yǎnliàn. | In complex and variable plateau mountain terrain, army and air forces coordinated closely to successfully execute a joint combat simulation. | En la quebrada orografía de la meseta, el ejército de tierra y la aviación coordinaron con éxito un ejercicio de combate simulado conjunto.
+  #2 | 经验丰富的特战分队擅长在恶劣天气与黑夜掩护下神速出击，隐蔽开展敌后作战任务。 | Jīngyàn fēngfù de tèzhàn fēnduì shàncháng zài èliè tiānqì yǔ hēiyè yǎnhù xià shénsù chūjī, yǐnbì kāizhǎn díhòu zuòzhàn rènwu. | Experienced special forces units excel at striking swiftly under foul weather and night cover to conduct covert operations behind enemy lines. | Las tropas de operaciones especiales dominan el ataque relámpago al amparo de la niebla y la noche para combatir tras las líneas enemigas.
+
+collocations[6]{hanzi,en}:
+  作战方案 | operational plan / battle scheme
+  协同作战 | joint / coordinated combat operations
+  作战指挥 | combat command and control
+  独立作战 | fight independently
+  并肩作战 | fight shoulder to shoulder
+  作战能力 | combat readiness / fighting capability
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  并肩作战 | bìng jiān zuò zhàn | fight shoulder to shoulder in solidarity
+  各自为战 | gè zì wéi zhàn | each fighting on one's own without coordination
+  背水一战 | bèi shuǐ yī zhàn | fight with one's back to the river; do or die battle
+  孤军作战 | gū jūn zuò zhàn | fight as an isolated force without reinforcements
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  作 | zuò | do; make; act; write; work | hacer; actuar; elaborar; escribir | 亻 | person | 亻 (person standing) + 乍 (burst into active motion / collar incision) | 乍 (zhà) | 7 | 左右结构 | A person 亻 springing into energetic action 乍 to create or do something; signifies purposeful action. | A person (亻) springing into proactive action to undertake an assignment (作). | Una persona (亻) que se pone en acción decidida para acometer una faena (作). | 51 | OHS | 作
+  战 | zhàn | war; battle; fight; combat | guerra; batalla; luchar; combatir | 戈 | dagger-axe / halberd | 占 (oracle divination / seizing territory) + 戈 (striking halberd) | 占 (zhàn) | 9 | 左右结构 | Wielding bronze halberds 戈 in battle to conquer territory designated by divination 占; signifies armed war. | Warriors brandishing sharp halberds (戈) to contest territorial flags in combat (战). | Guerreros empuñando alabardas de bronce (戈) para disputar el estandarte bélico (战). | 51 | YRI | 戰
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Actively engaging in deliberate physical action (作) with lethal halberds in war (战) means to conduct combat operations (作战).
+  composite_memory_hook_es: Emprender la acción decidida (作) blandiendo las armas de guerra (战) constituye la acción de combatir (作战).
+  cultural_and_cognitive_roots: Military term emphasizing professional tactical deployment and organized campaign execution, extended metaphorically to crises.
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'zuò zhàn' (51-51). Articulate both syllables with martial, punchy firmness.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    昨 | zuó | yesterday | Sun radical 日 on left instead of 亻
+    炸 | zhà | explode; deep-fry | Fire radical 火 on left instead of 亻
+    站 | zhàn | stand; station | Stand 立 on left instead of 戈 on right
+    点 | diǎn | dot; point | Fire dots 灬 under 占 instead of 戈
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    战斗 | zhàndòu | fight; battle; combat
+    战场 | zhànchǎng | battlefield; war front
+    工作 | gōngzuò | work; job
+    作为 | zuòwéi | accomplishment; conduct
+
+semantic_boundary_contrasts:
+  core_nuance: 作战 designates formal, strategic, and organized military operations by armies or organized units.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 作战 vs. 打架 | dǎjià | 打架 denotes colloquial physical brawling between individuals, whereas 作战 is organized military warfare.
+    2 | 作战 vs. 停火 | tínghuǒ | 停火 is the direct antonym meaning ceasefire or suspension of hostilities.
+    3 | 作战 vs. 演习 | yǎnxí | 演习 refers to peacetime practice drills, while 作战 entails authentic enemy combat operations.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在古代冷兵器战争中，主将的临场作战指挥往往直接决定着数万将士的生死存亡。善于作战的名将，绝不墨守陈规，而是能够根据风向、地势与敌军动向灵活调整阵型，因敌制胜，化被动为主动。 | Zài gǔdài lěngbīngqì zhànzhēng zhōng, zhǔjiàng de línchǎng zuòzhàn zhǐhuī wǎngwǎng zhíjiē juédìng zhe shù wàn jiàngshì de shēngsǐ-cúnwáng. Shànyú zuòzhàn de míngjiàng, juébù mòshǒu-chéngguī, ér shì nénggòu gēnjù fēngxiàng, dìshì yǔ díjūn dòngxiàng línghuó tiáozhěng zhènxíng, yīndí-zhìshèng, huà bèidòng wéi zhǔdòng. | In ancient hand-to-hand warfare, a general's battlefield combat command directly decided the survival of thousands. Skilled commanders rejected dogmatism, adjusting formations by winds, terrain, and enemy moves to turn disadvantage into victory. | En la guerra clásica de armas blancas, el mando táctico del general decidía la vida de miles de combatientes. Los grandes estrategas jamás se ataban a fórmulas, amoldando su táctica al terreno y al viento para forjar el triunfo.
+  #2 | 现代信息化战争不仅是前线官兵的英勇作战，更是后方科研、后勤物资保障与电子网络对抗的立体综合较量。只有陆海空天多维兵种实现高度无缝的联合作战，才能在瞬息万变的现代战场上掌握主动权。 | Xiàndài xìnxīhuà zhànzhēng bùjǐn shì qiánxiàn guānbīng de yīngyǒng zuòzhàn, gèng shì hòufāng kēyán, hòuqín wùzī bǎozhàng yǔ diànzǐ wǎngluò duìkàng de lìtǐ zōnghé jiàoliàng. Zhǐyǒu lù-hǎi-kōng-tiān duōwéi bīngzhǒng shíxiàn gāodù wúfèng de liánhé zuòzhàn, cái néng zài shùnxī-wànbiàn de xiàndài zhànchǎng shang zhǎngwò zhǔdòngquán. | Modern digitalized warfare relies not just on bravery at the frontline, but on multi-domain logistics, cyber defense, and aerospace coordination. Only seamless joint operations across land, sea, air, and space secure battlefield dominance. | La contienda moderna supera el combate frontal para implicar logística avanzada, ciberdefensa y pugna electrónica. Solo una integración tridimensional entre tierra, mar y aire permite dominar la iniciativa en el combate contemporáneo.

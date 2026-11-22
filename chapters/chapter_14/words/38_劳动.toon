@@ -1,0 +1,63 @@
+id: 38
+hanzi: 劳动
+pinyin: láo dòng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: labor; work; physical work; toil
+  es: trabajar; laborar; trabajo manual; faena
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to engage in physical or mental work to produce goods, build shelters, or create social wealth | ejercer trabajo físico o intelectual para elaborar bienes, edificar o transformar el entorno | 辛勤劳动 (work diligently / honest toil)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代四合院建筑的每一块砖瓦和雕梁，都凝聚着广大建筑工匠辛勤劳动的汗水与高超技艺。 | Zhōngguó gǔdài sìhéyuàn jiànzhù de měi yī kuài zhuānwǎ hé diāoliáng, dōu níngjù zhe guǎngdà jiànzhù gōngjiàng xīnqín láodòng de hànshuǐ yǔ gāochāo jìyì. | Every brick, tile, and carved beam in traditional courtyards embodies the sweat and mastery of building craftsmen's diligent labor. | Cada ladrillo, teja y viga tallada del siheyuan pekinés encarna el sudor y la primorosa destreza de las faenas de los albañiles clásicos.
+  #2 | 通过亲身参与农场劳动实践，中小学生们深刻体会到了“粒粒皆辛苦”的粮食来之不易。 | Tōngguò qīnshēn cānyù nóngchǎng láodòng shíjiàn, zhōng-xiǎoxuéshēng men shēnkè tǐhuì dào le 'lìlì jiē xīnkǔ' de liángshí láizhībùyì. | Through firsthand participation in farm labor, school students appreciated that every grain of food is hard-won through toil. | Participando en faenas agrícolas, los escolares comprendieron que cada grano en el plato es fruto de un esfuerzo laborioso.
+
+collocations[6]{hanzi,en}:
+  辛勤劳动 | hard and diligent labor
+  劳动人民 | working people / laborers
+  体力劳动 | manual / physical labor
+  脑力劳动 | mental / intellectual labor
+  劳动模范 | model worker
+  热爱劳动 | love labor / cherish hard work
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  自食其力 | zì shí qí lì | earn one's own living through hard work; self-reliant
+  辛勤耕耘 | xīn qín gēng yún | till and cultivate with assiduous diligence
+  不劳而获 | bù láo ér huò | reap without sowing; gain without labor
+  劳苦功高 | láo kǔ gōng gāo | having worked hard and achieved monumental merit
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  劳 | láo | labor; toil; work; weary | trabajo; fatiga; labor; esfuerzo | 力 | strength / power | 𤇾 (torches burning late into night) + 力 (physical strength) | 劳 (láo) | 7 | 上下结构 | Exerting physical strength 力 under burning torches late into night; to toil relentlessly. | Burning torches over head while exerting strength (力) to finish evening labor (劳). | Antorchas encendidas sobre la cabeza mientras se aplica la fuerza muscular (力) en la faena (劳). | 35 | TBS | 勞
+  动 | dòng | move; act; change; motion | mover; actuar; cambiar; movimiento | 力 | strength / power | 云 (clouds swirling across sky) + 力 (muscular force) | 云 (yún) | 6 | 左右结构 | Applying physical force 力 like churning clouds 云 to shift things; marks physical motion. | Applying strength (力) to set heavy objects into swift motion like rolling clouds (动). | Aplicar la fuerza (力) para mover objetos pesados con el dinamismo de las nubes (动). | 51 | MIS | 動
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Exerting muscle power (劳) to initiate dynamic action (动) forms the definition of labor (劳动).
+  composite_memory_hook_es: Aplicar la fuerza muscular (劳) en continuo dinamismo físico (动) constituye la labor (劳动).
+  cultural_and_cognitive_roots: A cornerstone value of Chinese civilization asserting that honest labor creates all material civilization and moral character.
+  tone_sandhi_and_pitch_modulation: Second tone to fourth tone: 'láo dòng' (35-51). Rise smoothly on 'láo', then drop with resolute firmness on 'dòng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    芳 | fāng | fragrant | Square 方 under 艹 instead of 力
+    功 | gōng | merit; skill | Work 工 on left of 力 instead of 云
+    劝 | quàn | persuade | Again 又 on left of 力 instead of 云
+    劫 | jié | rob; plunder | Go 去 on left of 力 instead of 云
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    劳苦 | láokǔ | hard toil; hardship
+    劳碌 | láolù | bustling toil; drudgery
+    运动 | yùndòng | sports; movement
+    行动 | xíngdòng | take action; movement
+
+semantic_boundary_contrasts:
+  core_nuance: 劳动 signifies purposeful human exertion creating material or intellectual value, distinguished from leisure.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 劳动 vs. 工作 | gōngzuò | 工作 refers to formal professional employment or career duties, while 劳动 stresses the physical/mental exertion itself.
+    2 | 劳动 vs. 休闲 | xiūxián | 休闲 is the direct antonym meaning leisure, relaxation, and free time away from work.
+    3 | 劳动 vs. 游戏 | yóuxì | 游戏 denotes playful recreational activity aimed at amusement, not productive creation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 纵览中国建筑史，万里长城、紫禁城与老北京四合院，无一不是古代劳动人民心血智慧的结晶。工匠们用坚韧不拔的劳动开山取石、烧砖构木，在华夏大地上筑就了一座座令人惊叹的建筑奇迹。 | Zònglǎn Zhōngguó jiànzhùshǐ, Wànlǐ Chángchéng, Zǐjìnchéng yǔ lǎo Běijīng sìhéyuàn, wúyībùshì gǔdài láodòng rénmín xīnxuè zhìhuì de jiéjīng. Gōngjiàng men yòng jiānrèn-bùbá de láodòng kāishān qǔshí, shāozhuān gòumù, zài Huáxià dàdì shang zhùjiù le yī zuò zuò lìngrén jīngtàn de jiànzhù qíjì. | Looking across Chinese history, the Great Wall, Forbidden City, and courtyards all crystallize ancient working people's wisdom. With tenacious labor, artisans quarried stones and fired bricks, erecting astonishing architectural wonders. | A lo largo de la historia de China, la Gran Muralla, la Ciudad Prohibida y el siheyuan son fruto del ingenio del pueblo trabajador. Canteros y carpinteros forjaron con su labor maravillas que hoy asombran al mundo.
+  #2 | 劳动不仅创造了灿烂的物质财富，更在潜移默化中塑造着人类崇高坚韧的精神品质。只有脚踏实地尊重劳动、热爱劳动，依靠辛勤的双手去开拓进取，才能创造出真正属于自己的美好前程，赢得社会的普遍尊重。 | Láodòng bùjǐn chuàngzào le cànlàn de wùzhì cáifù, gèng zài qiányí-mòhuà zhōng sùzào zhe rénlèi chónggāo jiānrèn de jīngshén pǐnzhì. Zhǐyǒu jiǎotà-shídì zūnzhòng láodòng, rè'ài láodòng, yīkào xīnqín de shǒusuǒ qù kāituò jìnqǔ, cái néng chuàngzào chū zhēnzhèng shǔyú zìjǐ de měihǎo qiánchéng, yíngdé shèhuì de pǔbiàn zūnzhòng. | Labor creates material wealth while quietly molding noble human virtues. Only by respecting labor and relying on diligent hands can one pioneer a wonderful future and earn enduring social respect. | El trabajo no solo engendra bienes materiales, sino que cincela virtudes morales de entereza. Honrar el trabajo y bregar con honradez es el sendero para labrarse un porvenir próspero y el respeto comunitario.

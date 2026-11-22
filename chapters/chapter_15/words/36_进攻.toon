@@ -1,0 +1,63 @@
+id: 36
+hanzi: 进攻
+pinyin: jìn gōng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to attack; assault; go on the offensive
+  es: atacar; asaltar; pasar a la ofensiva; embestir
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to take offensive armed action or tactical advance against an enemy, opposing line, or objective | iniciar acciones de ataque o avance ofensivo contra el enemigo, su frente o una posición | 发起猛烈进攻 (launch a ferocious offensive)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵括轻率改变廉颇坚守阵地的既定战略，贸然下令数十万赵军向秦军阵地发动全面进攻。 | Zhào Kuò qīngshuài gǎibiàn Lián Pō jiānshǒu zhèndì de jìdìng zhànlüè, màorán xiàlìng shùshí wàn Zhào jūn xiàng Qín jūn zhèndì fādòng quánmiàn jìngōng. | Zhao Kuo rashly altered Lian Po's established defensive strategy and commanded hundreds of thousands of Zhao troops to launch a total offensive against Qin positions. | Zhao Kuo alteró temerariamente la estrategia defensiva de Lian Po y ordenó a miles de soldados de Zhao lanzar una ofensiva frontal contra Qin.
+  #2 | 在决赛最后阶段，处于劣势的球队全力组织进攻，终于在伤停补时阶段打进了扳平比分的关键一球。 | Zài juésài zuìhòu jiēduàn, chǔyú lièshì de qiúduì quánlì zǔzhī jìngōng, zhōngyú zài shāngtíng-bǔshí jiēduàn dǎjìn le bānpíng bǐfēn de guānjiàn yì qiú. | In the final stage of the match, the trailing squad mobilized all-out attacks and scored a crucial equalizer during stoppage time. | En el tramo final del partido, el equipo en desventaja organizó un ataque total y marcó el gol del empate en el tiempo añadido.
+
+collocations[6]{hanzi,en}:
+  发起进攻 | launch an attack / offensive
+  全面进攻 | general / all-out offensive
+  猛烈进攻 | fierce assault
+  组织进攻 | organize an offensive
+  抵御进攻 | repel an offensive
+  转入进攻 | shift into offensive
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  攻守兼备 | gōng shǒu jiān bèi | equally adept at both offense and defense
+  攻其不备 | gōng qí bù bèi | attack where the enemy is least prepared; take by surprise
+  反戈一击 | fǎn gē yī jī | turn one's weapon around to strike back; counterattack
+  无懈可击 | wú xiè kě jī | leaving no flaw or loophole for attack; invulnerable
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  进 | jìn | advance; enter; move forward; progress | avanzar; entrar; progresar; marchar hacia adelante | 辶 | walk / movement | 辶 (walk / movement forward) + 井 (neat well boundary) | 井 (jǐng) | 7 | 半包围结构 | Moving forward 辶 with steady marching pace; signifies advancing into position. | Marching forward steadily along the pathway (辶) to make progress (进). | Marchar con firmeza a lo largo del camino (辶) para abrir paso hacia adelante (进). | 51 | YTT | 進
+  攻 | gōng | attack; assault; strike; study diligently | atacar; asaltar; golpear; dedicarse a fondo | 攵 | strike / tap | 工 (carpenter's tool / labor) + 攵/攴 (hand holding a striking weapon) | 工 (gōng) | 7 | 左右结构 | Holding a tool or weapon 攵 to pound and break enemy barriers 工; signifies attack and assault. | Wielding a striking weapon (攵) with focused force (工) to breach enemy walls (攻). | Empuñar un arma (攵) con ímpetu laborioso (工) para derribar las murallas rivales (攻). | 55 | MOK | 攻
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Advancing forward (进) and striking with weapons (攻) forms a decisive offensive assault (进攻).
+  composite_memory_hook_es: Avanzar con presteza (进) y asestar golpes (攻) conforma una ofensiva decidida (进攻).
+  cultural_and_cognitive_roots: Represents the dynamic movement and assault maneuvers in classical Chinese military treatises.
+  tone_sandhi_and_pitch_modulation: Fourth tone to first tone: 'jìn gōng' (51-55). Sharp falling drop into sustained high tone.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    功 | gōng | merit; achievement | Radical 力 on right instead of strike 攵
+    巧 | qiǎo | skillful; clever | Radical 工 on left with 丂 on right
+    近 | jìn | near; close | Inside component is axe 斤 instead of 井
+    退 | tuì | retreat; withdraw | Antonym; 艮 inside radical 辶
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    攻击 | gōngjī | assault; attack verbally
+    攻克 | gōngkè | capture; overcome
+    主攻 | zhǔgōng | main offensive direction
+    进攻方 | jìngōngfāng | offensive side
+
+semantic_boundary_contrasts:
+  core_nuance: 进攻 specifically denotes dynamic tactical advancement and armed push toward an opponent or fortress.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 进攻 vs. 攻击 | gōngjī | 攻击 can refer to physical attacks as well as verbal or cyber attacks, while 进攻 focuses on strategic military offensive pushes.
+    2 | 进攻 vs. 侵略 | qīnlüè | 侵略 carries the explicit illicit sense of violating sovereign borders, unlike general military 进攻.
+    3 | 进攻 vs. 突击 | tūjī | 突击 denotes a sudden, concentrated short-range raid, whereas 进攻 encompasses wide sustained campaigns.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 长平之战中，赵括自恃勇力，不听老将劝阻，盲目率军向秦军发动全线进攻。秦将白起故意伪装战败退却，引诱赵军长驱直入，随后派遣奇兵包抄后方，将进攻的赵军牢牢围困在崇山峻岭之间。 | Chángpíng zhī zhàn zhōng, Zhào Kuò zìshì-yǒnglì, bù tīng lǎojiàng quànzǔ, mángmù shuài jūn xiàng Qín jūn fādòng quánxiàn jìngōng. Qín jiàng Bái Qǐ gùyì wěizhuāng zhànbài tuìquè, yǐnyòu Zhào jūn chángqū-zhírù, suíhòu pàiqiǎn qíbīng bāochāo hòufāng, jiāng jìngōng de Zhào jūn láoláo wéikùn zài chóngshān-jùnlǐng zhījiān. | At Changping, relying on rash bravado, Zhao Kuo launched an all-out offensive against Qin. Bai Qi feigned retreat to lure Zhao deep, then dispatched cavalry to circle behind, encircling the attacking Zhao army in rugged mountains. | En Changping, cegado por la temeridad, Zhao Kuo atacó frontalmente a Qin. Bai Qi fingió retirarse para atraer al rival; luego envió tropas que envolvieron la retaguardia, cercando al ejército atacante en las montañas.
+  #2 | 体育竞技与军事战略有着异曲同工之妙。高水平的球队从不盲目发动无序进攻，而是通过严密的防守稳住阵脚，在耐心传导中寻觅对手防线的破绽，在关键时刻发起致命进攻，从而一举锁定胜局。 | Tǐyù jìngjì yǔ jūnshì zhànlüè yǒu zhe yìqǔ-tónggōng zhī miào. Gāo shuǐpíng de qiúduì cóng bù mángmù fādòng wúxù jìngōng, ér shì tōngguò yánmì de fángshǒu wěnzhù zhènjiǎo, zài nàixīn chuándǎo zhōng xúnmì duìshǒu fángxiàn de pòzhàn, zài guānjiàn shíkè fāqǐ zhìmìng jìngōng, cóng'ér yìjǔ suǒdìng shèngjú. | Sports competition shares deep parallels with military strategy. Elite teams never launch chaotic attacks; they stabilize defense, patiently seek openings in the opponent's lines, and strike decisively to seal victory. | El deporte y la táctica militar comparten principios comunes. Los equipos de élite nunca atacan sin orden; consolidan su defensa, esperan fisuras en el rival y asestan ataques letales que aseguran la victoria final.

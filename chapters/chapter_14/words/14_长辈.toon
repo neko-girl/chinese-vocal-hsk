@@ -1,0 +1,63 @@
+id: 14
+hanzi: 长辈
+pinyin: zhǎng bèi
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: elder generation; senior relatives; elders
+  es: generación mayor; parientes mayores; mayores de la familia
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | family members or relatives belonging to an older generation than oneself | miembros de la familia o parientes pertenecientes a una generación superior a la propia | 尊敬长辈 (respect one's elders)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四合院的建筑规制处处体现孝道，最好的正房总是安排给家中的长辈安居颐养。 | Sìhéyuàn de jiànzhù guīzhì chùchù tǐxiàn xiàodào, zuì hǎo de zhèngfáng zǒngshì ānpái gěi jiāzhōng de zhǎngbèi ānjū yíyǎng. | The architectural layout of courtyards embodies filial piety everywhere, with the finest main room always allocated to family elders for rest. | La disposición espacial del siheyuan refleja la piedad filial en cada detalle, asignando siempre la mejor estancia a los mayores de la familia.
+  #2 | 逢年过节阖家团聚时，晚辈们都会毕恭毕敬地向长辈敬茶拜年，互道安康祝福。 | Féng nián guò jié héjiā tuánjù shí, wǎnbèi men dōu huì bìgōngbìjìng de xiàng zhǎngbèi jìng chá bàinián, hù dào ānkāng zhùfú. | During festival family reunions, younger generations respectfully serve tea to elders and offer New Year greetings wishing them good health. | En las reuniones familiares festivas, los jóvenes sirven té con sumo respeto a los mayores y les desean prosperidad y salud para el nuevo año.
+
+collocations[6]{hanzi,en}:
+  孝敬长辈 | show filial devotion to elders
+  尊敬长辈 | respect senior generation
+  家族长辈 | family clan elders
+  听从长辈 | heed the advice of elders
+  长辈嘱托 | earnest exhortations of elders
+  长辈关怀 | loving care from elders
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  尊老爱幼 | zūn lǎo ài yòu | respect the elderly and care for the young
+  老当益壮 | lǎo dāng yì zhuàng | old in years but stout at heart
+  安享晚年 | ān xiǎng wǎn nián | enjoy twilight years in peace and serenity
+  孝子贤孙 | xiào zǐ xián sūn | filial sons and virtuous grandchildren
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  长 | zhǎng | senior; elder; to grow; chief | mayor; superior; crecer; jefe | 长 | long / elder | flowing long hair of a wise walking village elder | 长 (zhǎng / cháng) | 4 | 单一结构 | Oracle bone pictograph of an elder with long flowing hair leaning on a walking staff. | An elder with long silver locks (长) guiding the household with gentle wisdom. | Un anciano de larga melena blanca (长) que guía a su familia con serena sabiduría. | 214 | PO | 長
+  辈 | bèi | generation; rank; cohort | generación; rango; camada | 车 | cart / vehicle | 非 (opposing ranks/wings) + 车 (carriages) | 非 (fēi / phonetic root) | 15 | 上下结构 | A procession of military carriages 车 traveling in orderly ranks 非; indicates cohorts and generations. | Carriages (车) arranged in successive historical ranks representing family generations (辈). | Carruajes (车) alineados en riguroso orden ceremonial que representan las generaciones familiares (辈). | 51 | LYKJJ | 輩
+
+mnemonics_and_roots:
+  composite_memory_hook_en: A wise senior elder (长) seated in the honored carriage rank of the generation (辈) is a clan elder (长辈).
+  composite_memory_hook_es: Un anciano venerable (长) en el carruaje de honor de su generación (辈) encarna a los mayores de la familia (长辈).
+  cultural_and_cognitive_roots: Deeply anchored in Confucian filial culture where generational seniority dictates domestic protocol and housing arrangements.
+  tone_sandhi_and_pitch_modulation: Third tone to fourth tone: 'zhǎng bèi' (214-51). Lower the pitch on 'zhǎng', then drop with resolute emphasis on 'bèi'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    非 | fēi | wrong; not | Lacks the carriage 车 radical at the bottom
+    悲 | bēi | sad; sorrow | Heart radical 心 at bottom instead of 车
+    斐 | fěi | graceful; elegant | Pattern radical 文 at bottom instead of 车
+    翡 | fěi | red jadeite; kingfisher | Feather radical 羽 at bottom instead of 车
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    晚辈 | wǎnbèi | younger generation; juniors
+    同辈 | tóngbèi | peers of same generation
+    前辈 | qiánbèi | senior; predecessor
+    辈分 | bèifen | generational seniority
+
+semantic_boundary_contrasts:
+  core_nuance: 长辈 specifically designates relatives of older generations within the domestic family tree.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 长辈 vs. 前辈 | qiánbèi | 长辈 is strictly restricted to family genealogical lineages, whereas 前辈 refers to career mentors or professional seniors.
+    2 | 长辈 vs. 晚辈 | wǎnbèi | 晚辈 is the direct genealogical antonym meaning descendants or family members of junior generations.
+    3 | 长辈 vs. 老人 | lǎorén | 老人 denotes any elderly person based on chronological age, whereas 长辈 is strictly a relational genealogical rank.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在老北京的四合院里，长辈享有崇高的家庭地位。坐北朝南的正房冬暖夏凉、宽敞明亮，理所当然由长辈居住。清晨晚辈们都要先到正房向长辈请安，这种严谨的起居秩序构成了传统家族亲情的核心纽带。 | Zài lǎo Běijīng de sìhéyuàn lǐ, zhǎngbèi xiǎngyǒu chónggāo de jiātíng dìwèi. Zuòběi cháonán de zhèngfáng dōngnuǎn xiàliáng, kuānchǎng míngliàng, lǐsuǒdāngrán yóu zhǎngbèi jūzhù. Qīngchén wǎnbèi men dōu yào xiān dào zhèngfáng xiàng zhǎngbèi qǐng'ān, zhè zhǒng yánjǐn de qǐjū zhìxù gòuchéng le chuántǒng jiāzú qīnqíng de héxīn niǔdài. | In old Beijing courtyards, elders held lofty status within the clan. The spacious, sunlit main room facing south was naturally reserved for them. Juniors greeted elders every morning, forming the core bond of traditional familial affection. | En el siheyuan pekinés, los mayores gozaban de veneración familiar. La sala principal, cálida en invierno y luminosa, les correspondía por derecho. El saludo matutino de los jóvenes afianzaba los lazos del linaje tradicional.
+  #2 | 中国传统家训十分强调对长辈的理解与体贴。随着年岁渐长，长辈的体力和精力大不如前，晚辈不仅要在物质生活上悉心照料长辈的起居，更要在精神上多陪伴倾听。尊重长辈的人生沉淀，是文明薪火相传的重要基石。 | Zhōngguó chuántǒng jiāxùn shífēn qiángdiào duì zhǎngbèi de lǐjiě yǔ tǐtiē. Suízhe niánsuì jiàn zhǎng, zhǎngbèi de tǐlì yǔ jīnglì dà bù rú qián, wǎnbèi bùjǐn yào zài wùzhì shēnghuó shang xīxīn zhàoliào zhǎngbèi de qǐjū, gèng yào zài jīngshén shang duō péibàn qīngtīng. Zūnzhòng zhǎngbèi de rénshēng chéndiàn, shì wénmíng xīnhuǒ xiāngchuán de zhòngyào jīshí. | Chinese familial precepts emphasize empathy and attentiveness toward elders. As age advances, juniors must not only provide physical care for elders' daily routine, but also offer patient companionship and listening to preserve generational wisdom. | Los preceptos familiares chinos inculcan ternura hacia los mayores. Con el paso de los años, los jóvenes no solo deben velar por su bienestar cotidiano, sino brindarles afecto y escucha para perpetuar la sabiduría del linaje.

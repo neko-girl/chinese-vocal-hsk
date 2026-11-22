@@ -1,0 +1,64 @@
+id: 10
+hanzi: 代表
+pinyin: dài biǎo
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: representative; delegate; to represent; stand for
+  es: representante; delegado; representar; simbolizar; ejemplar
+
+senses[2]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a person chosen or appointed to act or speak on behalf of an organization, constituency, or nation | persona elegida o comisionada para actuar en nombre de una colectividad | 出席国际气候峰会的各国代表 (delegates attending international climate summits)
+  2 | Verb | Standard | to serve as a typical symbol, personification, or embodiment of a class, culture, or institution | simbolizar, personificar o constituir la muestra típica de una clase o cultura | 四合院代表了北方民居文化 (siheyuan represents northern dwelling culture)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 作为青年科研人员代表，他在全国科技创新表彰大会上作了激情澎湃的汇报发言。 | Zuòwéi qīngnián kēyán rényuán dàibiǎo, tā zài quánguó kējì chuàngxīn biǎozhāng dàhuì shang zuò le jīqíng-péngpài de huìbào fāyán. | As a representative of young scientific researchers, he delivered an impassioned keynote speech at the National Science and Technology Innovation Conference. | Como portavoz de los jóvenes investigadores, pronunció un vibrante discurso en el Congreso Nacional de Innovación Tecnológica.
+  #2 | 红墙黄瓦的故宫不仅是古代皇权建筑的顶峰，更代表了中华民族源远流长的营造智慧与审美追求。 | Hóngqiáng-huángwǎ de Gùgōng bùjǐn shì gǔdài huángquán jiànzhù de dǐngfēng, gèng dàibiǎo le Zhōnghuá mínzú yuányuǎn-liúcháng de yíngzào zhìhuì yǔ shěnměi zhuīqiú. | The Forbidden City with red walls and yellow glazed tiles is not only the pinnacle of imperial architecture, but represents China's enduring craftsmanship and aesthetic pursuit. | La Ciudad Prohibida no sólo encarna la cúspide palaciega, sino que representa la milenaria sabiduría constructiva y el ideal estético chino.
+
+collocations[6]{hanzi,en}:
+  代表作 | masterpiece; representative work
+  代表团 | delegation; deputation
+  人民代表 | people's representative / deputy
+  法定代表人 | legal representative
+  代表性 | representativeness; typicality
+  完全代表 | fully represent
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  当之无愧 | dāng zhī wú kuì | fully worthy of the title; deserve honor without compunction
+  推陈出新 | tuī chén chū xīn | weed out the chaff to bring forth the new; innovate
+  独领风骚 | dú lǐng fēng sāo | lead the trend exclusively; outshine all peers
+  名副其实 | míng fù qí shí | worthy of the name; name reflects reality
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  代 | dài | replace; substitute; era; generation | sustituir; relevar; época; generación | 亻 | person | 亻 (person proxy) + 弋 (stake marker) | 弋 (yì / phonetic association) | 5 | 左右结构 | A person 亻 standing beside a boundary stake 弋 to relieve or substitute a sentry; replacing, acting as proxy, or generation. | A relief guard (亻) taking his station by the watchtower post (弋) to act as proxy (代). | Un relevo de guardia (亻) que ocupa su puesto junto al poste vigía (弋) en sustitución (代). | 51 | OIP | 代
+  表 | biǎo | exterior; surface; show; express; watch | exterior; superficie; manifestar; reloj | 衣 | clothing | 衣 (fur collar / garment) + 毛 (outer fleece strokes) | 表 (biǎo) | 8 | 上下结构 | Garment radical 衣 displaying outer fur on its surface; the visible exterior manifested outward for all to witness. | Wearing a warm fur robe (衣) with lustrous fleece visible outside, expressing outer dignity (表). | Lucir una túnica (衣) cuyo forro viste por fuera mostrando apostura visible (表). | 214 | QMV | 表
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Standing as a personal proxy (代) to manifest outward representation (表) makes one a delegate (代表).
+  composite_memory_hook_es: Actuar como portavoz suplente (代) para manifestar externamente una voz (表) es representar (代表).
+  cultural_and_cognitive_roots: Blends proxy delegation (代) with manifestation (表), central to governance and canonical typology.
+  tone_sandhi_and_pitch_modulation: Falling fourth tone followed by dipping third tone: 'dài biǎo' (51-214). Drop firmly on 'dài', then dip low and scoop upward on 'biǎo'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    代 | dài | era; replace | Person radical 亻 on left with 弋
+    伐 | fá | fell timber; attack | Person radical 亻 with weapon 戈 on right
+    表 | biǎo | surface; watch | Upper horizontal stroke with crossed vertical over 衣
+    衰 | shuāi | decline; wane | Has 口-like middle element in 衣
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    理 | lǐ | manage; reason
+    使 | shǐ | send; envoy
+    征 | zhēng | symbol; token
+    兆 | zhào | omen; sign
+
+semantic_boundary_contrasts:
+  core_nuance: 代表 indicates authorized proxy status or serving as the definitive exemplar of an entire category.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 代表 vs. 象征 | xiàngzhēng | 象征 refers to symbolic metaphors or artistic emblems (鸽子象征和平), while 代表 denotes authoritative proxy delegation or exemplary prototypes.
+    2 | 代表 vs. 代理 | dàilǐ | 代理 focuses strictly on commercial or legal agency powers (代理人, 代理品牌), whereas 代表 carries broader cultural embodiment.
+    3 | 代表 vs. 典型 | diǎnxíng | 典型 is primarily an adjective meaning quintessential or representative (典型案例), while 代表 can function actively as a verb.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国优秀文学经典作品往往以深刻的人物命运折射出整个时代的精神风貌。鲁迅先生笔下的阿Q形象，作为旧中国国民劣根性与精神胜利法的艺术代表，以极其辛辣深刻的讽刺笔触，唤醒了无数沉睡麻木的心灵。 | Zhōngguó yōuxiù wénxué jīngdiǎn zuòpǐn wǎngwǎng yǐ shēnkè de rénwù mìngyùn zhéshè chū zhěnggè shídài de jīngshén fēngmào. Lǔ Xùn xiānsheng bǐxià de Ā Q xíngxiàng, zuòwéi jiù Zhōngguó guómín liègènxìng yǔ jīngshén-shènglìfǎ de yìshù dàibiǎo, yǐ jíqí xīnlà shēnkè de fěngcì bǐchù, huànxǐng le wúshù chénsùi māmù de xīnlíng. | Chinese literary masterpieces mirror eras through profound character destinies. Lu Xun's Ah Q, as the artistic embodiment of psychological victory and complacency, awakened numb souls with biting, piercing satire. | Las obras maestras chinas retratan épocas mediante destinos memorables. El célebre Ah Q de Lu Xun, como símbolo artístico del autoengaño resignado, sacudió conciencias con una sátira lúcida e implacable.
+  #2 | 四合院不仅是历史悠久的传统民居，更是北方建筑文化当之无愧的重要代表。四面房屋形成的封闭空间，不仅体现了长幼有序的儒家家族伦理，更生动代表了中国人向内凝聚、安居守正的居住哲学，在岁月变迁中绽放着不朽的文明光彩。 | Sìhéyuàn bùjǐn shì lìshǐ-yōujiǔ de chuántǒng mínjū, gèng shì běifāng jiànzhù wénhuà dāngzhī-wúkuì de zhòngyào dàibiǎo. Sì miàn fángwū xíngchéng de fēngbì kōngjiān, bùjǐn tǐxiàn le zhǎngyòu-yǒuxù de Rújiā jiāzú lúnlǐ, gèng shēngdòng dàibiǎo le Zhōngguórén xiàngnèi níngjù, ānjū-shǒuzhèng de jūzhù zhéxué, zài suìyuè biànqiān zhōng zhànfàng zhe bùxiǔ de wénmíng guāngcǎi. | The siheyuan is not only an ancient folk house, but an undisputed representative of northern architectural culture. Its enclosed space embodies Confucian family ethics and reflective residential philosophy, radiating timeless brilliance. | El siheyuan es la máxima encarnación de la cultura constructiva septentrional. Su recinto cerrado simboliza la armonía confuciana y la filosofía del recogimiento sereno, brillando como un legado inmortal.

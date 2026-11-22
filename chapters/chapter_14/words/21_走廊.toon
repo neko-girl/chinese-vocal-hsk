@@ -1,0 +1,63 @@
+id: 21
+hanzi: 走廊
+pinyin: zǒu láng
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: corridor; hallway; veranda; covered walkway
+  es: pasillo; corredor; galería cubierta; soportal
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a roofed passageway or corridor connecting rooms or buildings, often open on one or both sides | pasadizo o galería techada que comunica diversas habitaciones o pabellones | 漫步在走廊上 (strolling along the corridor)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 北京四合院里的抄手走廊将正房与东西厢房紧密相连，即使雨雪天气也能在各屋之间自如穿行。 | Běijīng sìhéyuàn lǐ de chāoshǒu zǒuláng jiāng zhèngfáng yǔ dōngxī xiāngfáng jǐnmì xiānglián, jíshǐ yǔxuě tiānqì yě néng zài gè wū zhījiān zìrú chuānxíng. | The covered verandas in Beijing courtyards connect the main room with the wings, allowing people to walk sheltered even during rain or snow. | Las galerías cubiertas del siheyuan pekinés conectan la sala principal con las alas, permitiendo circular a cubierto incluso con lluvia o nieve.
+  #2 | 这栋现代办公大楼的中心走廊两侧，悬挂着许多展示企业发展历程的历史照片。 | Zhè dòng xiàndài bàngōng dàlóu de zhōngxīn zǒuláng liǎngcè, xuánguà zhe xǔduō zhǎnshì qǐyè fāzhǎn lìchéng de lìshǐ zhàopiàn. | Along both sides of the modern office building's central corridor hang numerous historical photographs detailing the company's evolution. | A ambos lados del pasillo central del moderno edificio corporativo cuelgan fotografías históricas que relatan la trayectoria de la empresa.
+
+collocations[6]{hanzi,en}:
+  抄手走廊 | covered courtyard veranda / corridor
+  穿过走廊 | pass through the corridor
+  走廊尽头 | at the end of the corridor
+  露天走廊 | open-air veranda
+  艺术走廊 | art corridor / gallery
+  绿色走廊 | green ecological corridor
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  雕梁画栋 | diāo liáng huà dòng | carved beams and painted rafters; ornate architectural elegance
+  回廊曲折 | huí láng qū zhé | winding verandas and zigzagging corridors
+  步移景异 | bù yí jǐng yì | scenery transforms with every shifting step
+  曲径通幽 | qū jìng tōng yōu | winding path leading to a secluded sanctuary
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  走 | zǒu | walk; go; leave; run | caminar; andar; marchar; irse | 走 | walk / run | pictograph of a running person with swinging arms and stride | 走 (zǒu) | 7 | 单一结构 | Ancient oracle bone glyph depicting a person swinging arms while striding forward swiftly. | A brisk walker stepping energetically with arms swinging (走). | Un caminante enérgico que bracea con determinación al andar (走). | 214 | GYO | 走
+  廊 | láng | corridor; porch; veranda; hall | corredor; porche; galería; galería columnada | 广 | shelter / wide roof | 广 (broad rooftop shelter) + 郎 (lofty court pavilion) | 郎 (láng) | 11 | 半包围结构 | A roofed colonnade 广 extending outward from noble pavilions 郎; denotes covered passageways. | A graceful overhanging roof shelter (广) lining the pavilion path to shield strollers (廊). | Un elegante alero techado (广) que resguarda el sendero columnado de la galería (廊). | 35 | IIIL | 廊
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Walking along (走) a sheltered colonnade veranda (廊) brings one through the courtyard corridor (走廊).
+  composite_memory_hook_es: Caminar (走) al amparo de una galería columnada techada (廊) define el corredor o pasillo (走廊).
+  cultural_and_cognitive_roots: Essential element in classical Chinese garden and compound architecture, serving both practical transit and picturesque contemplation.
+  tone_sandhi_and_pitch_modulation: Third tone to second tone: 'zǒu láng' (214-35). Dip deep on 'zǒu' and rise melodiously on 'láng'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    郎 | láng | young man; official | Lacks the enclosing shelter radical 广
+    朗 | lǎng | bright; clear | Moon radical 月 on right instead of 阝
+    赶 | gǎn | rush; catch up | Shield radical 干 to the right of 走
+    超 | chāo | transcend; exceed | Knife/call radical 召 to the right of 走
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    长廊 | chángláng | long covered corridor; colonnade
+    游廊 | yóuláng | covered ambulatory walkway
+    走动 | zǒudòng | walk about; visit
+    行走 | xíngzǒu | walk; stride
+
+semantic_boundary_contrasts:
+  core_nuance: 走廊 emphasizes a covered indoor or veranda-style architectural transit passageway.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 走廊 vs. 街道 | jiēdào | 街道 refers to open public streets flanked by city shops, whereas 走廊 is a domestic or building corridor.
+    2 | 走廊 vs. 胡同 | hútòng | 胡同 specifically designates northern Chinese city lanes between compounds, not an internal covered walkway.
+    3 | 走廊 vs. 大厅 | dàtīng | 大厅 is a wide stationary hall, whereas 走廊 is an elongated passageway connecting destinations.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京四合院的抄手游廊极富诗意。这道带顶的曲折走廊顺着院墙蜿蜒伸展，不仅遮挡烈日与骤雨，廊檐下的彩绘更如画卷般引人入胜。雨天漫步走廊，听屋檐滴水，看庭前花木，令人顿生无限雅兴。 | Lǎo Běijīng sìhéyuàn de chāoshǒu yóuláng jí fù shīyì. Zhè dào dài dǐng de qūzhé zǒuláng shùnzhe yuànqiáng wānyán shēnzhǎn, bùjǐn zhēdǎng lièrì yǔ zhòuyǔ, lángyán xià de cǎihuì gèng rú huàjuàn bān yǐnrén-rùshèng. Yǔtiān mànbù zǒuláng, tīng wūyán dīshuǐ, kàn tíngqián huāmù, lìngrén dùn shēng wúxiàn yǎxìng. | The covered veranda in old Beijing courtyards is intensely poetic. Winding along the compound wall, it shelters against sun and downpours, while vivid beam paintings resemble scrolls, turning rainy courtyard strolls into tranquil joy. | La galería techada del siheyuan pekinés encierra una intensa poesía. Serpenteando junto al muro, resguarda del sol y aguaceros, mientras sus vigas policromadas emulan lienzos que invitan a contemplar la lluvia con serenidad.
+  #2 | 在现代建筑设计与生态规划中，“绿色走廊”概念日益受到重视。设计师在林立的城市高楼之间打造通风采光的生态走廊，让候鸟迁徙与冷空气顺利流通，有效缓解了都市热岛效应，赋予了传统走廊更广阔的时代内涵。 | Zài xiàndài jiànzhù shèjì yǔ shēngtài guīhuà zhōng, 'lǜsè zǒuláng' gàiniàn rìyì shòudào zhòngshì. Shèjìshī zài línlì de chéngshì gāolóu zhījiān dǎzào tōngfēng cǎiguāng de shēngtài zǒuláng, ràng hòuniǎo qiānxǐ yǔ lěngkōngqì shùnlì liútōng, yǒuxiào huǎnjiě le dūshì rèdǎo xiàoyìng, fùyǔ le chuántǒng zǒuláng gèng guǎngkuò de shídài nèihán. | In modern architecture and ecological planning, the concept of 'green corridors' receives growing attention. Urban planners weave breezeways among skyscrapers to enable bird migration and ventilation, mitigating urban heat islands. | En la arquitectura contemporánea, el concepto de 'corredor verde' cobra relieve. Los urbanistas integran galerías ecológicas entre rascacielos para facilitar el vuelo de aves y la ventilación, atenuando las islas de calor urbano.

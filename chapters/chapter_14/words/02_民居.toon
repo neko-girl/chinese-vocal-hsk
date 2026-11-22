@@ -1,0 +1,63 @@
+id: 2
+hanzi: 民居
+pinyin: mín jū
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: civilian dwelling; traditional vernacular residence
+  es: vivienda vernácula; residencia tradicional; morada popular
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | traditional houses or residential vernacular dwellings built by ordinary people adapted to local climate and materials | construcción habitacional tradicional civil adaptada a los usos, clima y materiales locales | 独具地域特色的江南民居 (Jiangnan vernacular residences with distinct regional flair)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 依山傍水的皖南古民居以粉墙黛瓦和精美砖雕著称，宛如水墨画般静静坐落在青山绿水之间。 | Yīshān-bàngshuǐ de Wǎnnán gǔ mínjū yǐ fěnqiáng-dàiwǎ hé jīngměi zhuāndiāo zhùchēng, wǎnrú shuǐmòhuà bān jìngjìng zuòluò zài qīngshān-lǜshuǐ zhījiān. | Historic folk dwellings in southern Anhui nestled against hills and waters are famed for white walls, dark tiles, and brick carvings, resting like ink wash paintings. | Las casas tradicionales del sur de Anhui destacan por sus muros blancos, tejas oscuras y relieves primorosos, semejando una acuarela entre cerros y arroyos.
+  #2 | 建筑历史学者深入云贵高原考察传统民居的抗震构造，旨在为现代绿色生态建筑设计汲取宝贵灵感。 | Jiànzhù lìshǐ xuézhě shēnrù Yún-Guì gāoyuán kǎochá chuántǒng mínjū de kàngzhèn gòuzào, zhǐzài wèi xiàndài lǜsè shēngtài jiànzhù shèjì jíqǔ bǎoguì línggǎn. | Architectural historians traveled into the Yunnan-Guizhou plateau to investigate earthquake-resilient structures in folk dwellings, gleaning insights for green architecture. | Historiadores de la arquitectura exploraron las moradas tradicionales en la meseta de Yunnan-Guizhou para incorporar técnicas sismorresistentes a la ecoarquitectura.
+
+collocations[6]{hanzi,en}:
+  传统民居 | traditional folk residence
+  古民居 | ancient civilian dwelling
+  特色民居 | distinctive vernacular housing
+  民居风格 | vernacular architectural style
+  民居建筑 | vernacular domestic architecture
+  保护古民居 | preserve ancient folk residences
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  安土重迁 | ān tǔ zhòng qiān | attached to one's native soil and reluctant to move away
+  鳞次栉比 | lín cì zhì bǐ | arranged tightly like fish scales and comb teeth; dense buildings
+  别具一格 | bié jù yì gé | possessing an extraordinary, unique style of one's own
+  鸟语花香 | niǎo yǔ huā xiāng | birds singing and flowers fragrant; idyllic natural environment
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  民 | mín | people; citizens; folk; civilian | pueblo; ciudadanos; paisano; plebe | 氏 | clan | pictograph of an eye pierced with a needle (ancient slaves/citizens) | 民 (mín) | 5 | 单一结构 | Oracle bone graph of a needle piercing an eye; originally captive labor, developing into common folk, populace, and civilians. | Hardworking commoners and folk (民) toiling peacefully under the clan heavens. | El pueblo laborioso y los ciudadanos comunes (民) conviviendo en paz comunitaria. | 35 | RVP | 民
+  居 | jū | dwell; reside; occupy; house | residir; habitar; morar; vivienda | 尸 | corpse / body frame | 尸 (body seated at rest) + 古 (ancient seat / hearth) | 古 (gǔ / phonetic association) | 8 | 半包围结构 | Body frame 尸 resting on an ancient seat 古; settling down permanently to dwell in safety. | A human body (尸) resting comfortably upon an ancient stone hearth (古): residing at home (居). | El cuerpo humano (尸) acomodado sobre el viejo lar solariego (古): morar en el hogar (居). | 55 | SJR | 居
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The common folk (民) residing in peaceful homes (居) create vernacular folk dwellings (民居).
+  composite_memory_hook_es: El pueblo llano (民) morando en sus hogares ancestrales (居) da origen a la vivienda vernácula (民居).
+  cultural_and_cognitive_roots: Contrasts with monumental imperial or religious architecture (palaces, temples), representing bottom-up domestic wisdom.
+  tone_sandhi_and_pitch_modulation: Rising second tone followed by level high tone: 'mín jū' (35-55). Ascend smoothly on 'mín', then sustain an even high tone on 'jū'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    民 | mín | people; civilian | 5 strokes with 氏 radical
+    眠 | mián | sleep | Eye radical 目 on left of 民
+    居 | jū | dwell; reside | Corpse 尸 over 古
+    据 | jù | according to; seize | Hand radical 扌 on left of 居
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    宅 | zhái | house; homestead
+    室 | shì | room; chamber
+    庐 | lú | thatched cottage; hut
+    舍 | shè | dwelling; lodge
+
+semantic_boundary_contrasts:
+  core_nuance: 民居 refers specifically to vernacular civilian houses and traditional residential architecture.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 民居 vs. 宫殿 | gōngdiàn | 宫殿 refers exclusively to grand monumental imperial palaces, while 民居 belongs to common folk.
+    2 | 民居 vs. 住宅 | zhùzhái | 住宅 is a neutral legal term for any residential housing or modern flat, whereas 民居 implies cultural and vernacular tradition.
+    3 | 民居 vs. 庙宇 | miàoyǔ | 庙宇 designates sacred temples for worshipping gods, not everyday family residences.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国幅员辽阔，多样的地理气候孕育了丰富多彩的传统民居样式。从陕北黄土高坡上的冬暖夏凉窑洞，到江南水乡临河筑居的吊脚楼，这些饱含民间造物智慧的传统民居，处处体现了天人合一与因地制宜的生态理念。 | Zhōngguó fúyuán-liáokuò, duōyàng de dìlǐ qìhòu yùnyù le fēngfù-duōcǎi de chuántǒng mínjū yàngshì. Cóng Shǎnběi huángtǔ gāopō shang de dōngnuǎn-xiàliáng yáodòng, dào Jiāngnán shuǐxiāng línhé zhù jū de diàojiǎolóu, zhèxiē bǎohán mínjiān zàowù zhìhuì de chuántǒng mínjū, chùchù tǐxiàn le tiānrén-héyī yǔ yīndì-zhìyí de shēngtài lǐniàn. | China's vast territory and varied climates birthed rich vernacular housing styles. From cave homes on Loess slopes to riverside stilt houses in water towns, these dwellings embody indigenous wisdom and harmony with nature. | La vasta geografía china alumbró diversas tipologías de vivienda popular. Desde las cuevas bioclimáticas de Shaanxi hasta los palafitos ribereños del sur, estas moradas populares reflejan sintonía ecológica con el medio.
+  #2 | 在华北平原广袤的大地上，四合院无疑是流传最广、最受推崇的代表性民居样式。这种建筑形式不仅与北方干燥寒冷的多风气候相契合，更凭借封闭内敛的四面房屋围合，为世代同堂的普通家族提供了遮风避雨、安居乐业的安宁天地。 | Zài Huáběi píngyuán guǎngmào de dàdì shang, sìhéyuàn wúyí shì liúchuán zuì guǎng, zuì shòu tuīchóng de dàibiǎoxìng mínjū yàngshì. Zhè zhǒng jiànzhù xíngshì bùjǐn yǔ běifāng gānzào hánlěng de duōfēng qìhòu xiāng qìhé, gèng píngjiè fēngbì nèiliǎn de sì miàn fángwū wéihé, wèi shìdài-tóngtáng de pǔtōng jiāzú tígōng le zhēfēng-bìyǔ, ānjū-lèyè de ānníng tiāndì. | Across North China's plains, the siheyuan is the most celebrated vernacular dwelling. Well-suited to the cold, windy climate, its inward-facing perimeter provided multi-generational families with shelter and tranquil harmony. | En la llanura septentrional, el siheyuan es la morada vernácula cumbre. Adaptado al frío y al viento seco, su diseño recogido brindó cobijo y armonía a sucesivas generaciones bajo un mismo techo.

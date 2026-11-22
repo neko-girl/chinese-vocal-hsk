@@ -1,0 +1,63 @@
+id: 5
+hanzi: 形式
+pinyin: xíng shì
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: form; mode; shape; formality; format
+  es: forma; modalidad; formato; apariencia exterior; formalidad
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | the outward shape, structural mode, or organizational manifestation of an entity as opposed to its content | modo o estructura exterior en que se manifiesta una cosa, en oposición a su contenido | 采取多种多样的组织形式 (adopt diverse organizational forms)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 优秀的艺术作品应当实现思想内容与艺术形式的高度统一，切不可为了盲目追求炫目的外在技巧而牺牲作品灵魂。 | Yōuxiù de yìshù zuòpǐn yīngdāng shíxiàn sīxiǎng nèiróng yǔ yìshù xíngshì de gāodù tǒngyī, qiè bùkě wèile mángmù zhuīqiú xuànmù de wàizài jìqiǎo ér xīshēng zuòpǐn línghún. | Masterpieces must achieve sublime unity between ideological content and artistic form, never sacrificing soul for dazzling outward technique. | Una gran obra artística debe aunar armónicamente fondo y forma, sin sacrificar jamás el alma de la creación en pos de fuegos de artificio técnicos.
+  #2 | 不少所谓的节日促销活动往往只是流于形式，商家口头承诺的优惠打折并不能真正让普通消费者获得实惠。 | Bùshǎo suǒwèi de jiérì cùxiāo huódòng wǎngwǎng zhǐshì liú yú xíngshì, shāngjiā kǒutóu chéngnuò de yōuhuì dǎzhé bìng bùnéng zhēnzhèng ràng pǔtōng xiāofèizhě huòdé shíhuì. | Many so-called holiday promotions are mere formalities; verbal discounts promised by merchants rarely provide genuine benefits to consumers. | Muchas rebajas festivas se quedan en mera formalidad; los descuentos prometidos por los comerciantes rara vez aportan un ahorro real.
+
+collocations[6]{hanzi,en}:
+  表现形式 | form of expression / manifestation
+  形式多样 | diverse in forms
+  流于形式 | become a mere formality
+  走形式 | go through the motions
+  组织形式 | organizational structure / form
+  艺术形式 | artistic form / medium
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  形式主义 | xíng shì zhǔ yì | formalism; superficial adherence to rules
+  名存实亡 | míng cún shí wáng | exist in name only; hollow shell
+  形神兼备 | xíng shén jiān bèi | possessing both accurate form and vibrant spirit
+  千姿百态 | qiān zī bǎi tài | in thousands of postures and poses; endless varieties
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  形 | xíng | shape; form; appearance; body | forma; figura; cuerpo; manifestar | 彡 | bristle / hair | 开 / 井 (framing lattice) + 彡 (strokes of beauty / contour) | 井 / 开 (phonetic association) | 7 | 左右结构 | A framing lattice 开 decorated with hair strokes 彡; visible contours, bodily shapes, and outward silhouettes. | Drawing contour brushstrokes (彡) over a framing grid to outline an elegant physical form (形). | Trazar pinceladas de contorno (彡) sobre una cuadrícula para plasmar una figura visible (形). | 35 | MTHHH | 形
+  式 | shì | type; pattern; style; ceremony; formula | modelo; estilo; ceremonia; fórmula | 弋 | shoot arrow / stake | 弋 (arrow stake marker) + 工 (carpenter's square / craft) | 弋 (yì / phonetic link) | 6 | 半包围结构 | Carpenter's square 工 affixed to an arrow stake 弋; an officially approved template, formula, or ceremonial standard. | A carpenter aligning his tool (工) against an upright reference post (弋) to set a standard pattern (式). | El artesano calibrando su escuadra (工) con una estaca patrón (弋) para fijar el modelo normativo (式). | 51 | IPMO | 式
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Visible outward shape (形) modeled on a standard structural pattern (式) determines its form (形式).
+  composite_memory_hook_es: La figura externa visible (形) ajustada a un patrón normativo (式) constituye la forma (形式).
+  cultural_and_cognitive_roots: Central philosophical polarity in Chinese literary theory: the dialectic between 'Content' (内容) and 'Form' (形式).
+  tone_sandhi_and_pitch_modulation: Rising second tone followed by falling fourth tone: 'xíng shì' (35-51). Lift upwards on 'xíng', then drop firmly on 'shì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    形 | xíng | form; shape | Has 彡 (three slants) on the right
+    刑 | xíng | punishment; criminal | Has knife radical 刂 on the right
+    式 | shì | pattern; ceremony | Has 工 inside 弋 without extra dots
+    戒 | jiè | quit; warn | Has 廾 inside 弋
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    态 | tài | attitude; posture
+    貌 | mào | appearance; feature
+    样 | yàng | appearance; model
+    格 | gé | pattern; lattice
+
+semantic_boundary_contrasts:
+  core_nuance: 形式 denotes the structural mode, format, or outward presentation framework.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 形式 vs. 内容 | nèiróng | 内容 is the core substantive message or material inside, while 形式 is the external structural vehicle conveying it.
+    2 | 形式 vs. 形状 | xíngzhuàng | 形状 refers strictly to geometric contour (round, square, triangular), whereas 形式 describes systemic and institutional modes.
+    3 | 形式 vs. 仪式 | yíshì | 仪式 specifically denotes ceremonial solemn rites (wedding ceremony, coronation), a specialized ritual subtype.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 在现代艺术创作中，艺术家们不断探索突破传统媒介形式的崭新可能。从架上绘画延伸到沉浸式数字光影互动，艺术的表现形式虽然历经沧桑巨变，但其核心所承载的人文关怀与对真善美的永恒追寻，却始终历久弥新。 | Zài xiàndài yìshù chuàngzuò zhōng, yìshùjiāmen búduàn tànsuǒ tūpò chuántǒng méijiè xíngshì de zhǎnxīn kěnéng. Cóng jiàshàng huìhuà yánshēn dào chénjìnsì shùzì guāngyǐng hùdòng, yìshù de biǎoxiàn xíngshì suīrán lìjīng cāngsāng jùbiàn, dàn qí héxīn suǒ chéngzài de rénwén guānhuái yǔ duì zhēn-shàn-měi de yǒnghéng zhuīxún, què shǐzhōng lìjiǔ-míxīn. | In contemporary art, creators constantly explore new possibilities breaking classical formats. From canvas paintings to digital light projections, while artistic forms transform, the pursuit of truth, goodness, and beauty remains eternal. | En el arte actual, los creadores trascienden formatos clásicos. Del lienzo a las instalaciones lumínicas digitales, aunque la forma de expresión mute, el anhelo humanista de verdad y belleza pervive intacto.
+  #2 | 四合院是中国传统民居建筑中最具生命力的经典组合形式。四合院由正房、倒座房及东西厢房在四面围合而成，这种形式既有效阻挡了北方的早春风沙与冬季严寒，又在院落中央为家人留出了栽花种草、享受天伦之乐的露天生活空间。 | Sìhéyuàn shì Zhōngguó chuántǒng mínjū jiànzhù zhōng zuì jù shēngmìnglì de jīngdiǎn zǔhé xíngshì. Sìhéyuàn yóu zhèngfáng, dàozuòfáng jí dōngxī xiāngfáng zài sì miàn wéihé ér chéng, zhè zhǒng xíngshì jì yǒuxiào zǔdǎng le běifāng de zǎochūn fēngshā yǔ dōngjì yánhán, yòu zài yuànluò zhōngyāng wèi jiārén liú chū le zāihuā-zhòngcǎo, xiǎngshòu tiānlúnzhīlè de lùtiān shēnghuó kōngjiān. | The siheyuan is the most vital composite form in traditional Chinese housing. Enclosed on four sides by halls and wings, this format blocks cold desert winds while securing a private open garden courtyard for clan communion. | El siheyuan es la forma arquitectónica combinada más señera de China. Rodeado por cuatro alas, este modelo aísla de ventiscas y polvo, reservando un patio al aire libre para disfrutar de la dicha familiar.

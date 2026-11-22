@@ -1,0 +1,63 @@
+id: 30
+hanzi: 连忙
+pinyin: lián máng
+level: HSK 5
+part_of_speech: Adverb
+
+meanings_summary:
+  en: promptly; at once; hurriedly; hastily
+  es: en seguida; apresuradamente; con presteza; al punto
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adverb | Standard | acting immediately and hurriedly in prompt response to a situation or request | actuar con prontitud y rapidez en respuesta inmediata a un estímulo o llamada | 听到敲门声连忙起身开门 (hurriedly get up to answer the knock on the door)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 看到白发苍苍的老奶奶提着沉重的蔬菜上车，坐在前排的年轻小伙子连忙微笑着起身让座。 | Kàndào báifà-cāngcāng de lǎonǎinai tí zhe chénzhòng de shūcài shàngchē, zuò zài qiánpái de niánqīng xiǎohuǒzi liánmáng wēixiào zhe qǐshēn ràngzuò. | Seeing an elderly gray-haired grandmother board carrying heavy vegetables, the young man in the front row promptly stood up with a smile to offer his seat. | Al ver subir al autobús a una anciana con pesadas bolsas de verduras, el joven de la primera fila se levantó de inmediato sonriente para cederle el asiento.
+  #2 | 发现实验室管道接头处有微量气体泄漏，值班技术员连忙按下了紧急切断阀并拉响警报。 | Fāxiàn shíyànshì guǎndào jiētóuchù yǒu wēiliàng qìtǐ xièlòu, zhíbān jìshùyuán liánmáng ànxià le jǐnjí qiēduànfá bìng lāxiǎng jǐngbào. | Spotting a trace gas leak at the laboratory pipe junction, the technician on duty promptly pressed the emergency shut-off valve and sounded the alarm. | Al percatarse de una leve fuga en la junta de la tubería, el técnico de guardia accionó al punto la válvula de corte y activó la alarma.
+
+collocations[6]{hanzi,en}:
+  连忙站起来 | promptly stand up
+  连忙解释 | hastily explain
+  连忙道歉 | hastily apologize
+  连忙答应 | promptly agree / consent
+  连忙跑过去 | hurriedly run over
+  连忙挥手 | hurriedly wave one's hand
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  迫不及待 | pò bù jí dài | too impatient to wait; eager beyond endurance
+  疾足先得 | jí zú xiān dé | the swift-footed arrives first; first come first served
+  闻风而动 | wén fēng ér dòng | act immediately upon hearing news; spring into action
+  雷厉风行 | léi lì fēng xíng | vigorous and speedy as thunder and wind
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  连 | lián | connect; join; continuous; even | unir; conectar; continuo | 辶 | movement | 辶 (movement / road) + 车 (wheeled chariot) | 车 (chē / connection) | 7 | 半包围结构 | Chariots 车 advancing in unbroken convoy along the road 辶; continuous link without break. | War chariots (车) linked one behind another on a rapid march (辶). | Carros de combate (车) enlazados en marcha continua por el camino (辶). | 35 | YKQ | 連
+  忙 | máng | busy; hurried; rushed | ocupado; apresurado; ajetreado | 忄 | heart | 忄 (flustered heart) + 亡 (perish / lose) | 亡 (wáng / phonetic) | 6 | 左右结构 | Heart radical 忄 beside 亡; heart overwhelmed by urgent tasks, losing calm in a state of bustling flurry. | A flustered heart (忄) racing frantically as if time were slipping away (亡): being busy (忙). | Un corazón agitado (忄) que late apresurado como si el tiempo se agotara (亡): andar atareado (忙). | 35 | PYN | 忙
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Continuously advancing without delay (连) with a brisk busy pace (忙) means doing something promptly (连忙).
+  composite_memory_hook_es: Avanzar sin pausa (连) con paso diligente y presto (忙) expresa actuar apresuradamente (连忙).
+  cultural_and_cognitive_roots: Captures the instinctive, prompt physical reaction to unexpected events, polite hospitality, or urgent emergencies.
+  tone_sandhi_and_pitch_modulation: Two rising second tones: 'lián máng' (35-35). Both rise in tone with lively, agile rhythm.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    连 | lián | connect; even | Movement radical 辶 with 车
+    运 | yùn | transport; fortune | Movement radical 辶 with 云
+    忙 | máng | busy; hurried | Heart radical 忄 on left of 亡
+    芒 | máng | awn; miscanthus | Grass radical 艹 on top of 亡
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    急 | jí | urgent; hurried
+    赶 | gǎn | rush; catch up
+    速 | sù | fast; rapid
+    骤 | zhòu | sudden; abrupt
+
+semantic_boundary_contrasts:
+  core_nuance: 连忙 emphasizes prompt, immediate physical reaction in response to external circumstances.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 连忙 vs. 急忙 | jímáng | 连忙 emphasizes instant promptness in reaction (听到敲门连忙开门), whereas 急忙 highlights anxious internal haste and agitation (急忙赶路).
+    2 | 连忙 vs. 赶快 | gǎnkuài | 赶快 is often used in imperatives urging someone else to hurry (你赶快去吧), while 连忙 describes completed past actions in narration.
+    3 | 连忙 vs. 马上 | mǎshàng | 马上 specifies temporal immediacy (I will do it right now), whereas 连忙 denotes brisk responsive physical action.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 暮春时节山间气候多变，刚才还是晴空万里，转眼间天际便乌云翻滚。正在山坡上晾晒新茶的农户们见状，连忙抓起竹箩竹匾快步收拾。大家齐心协力赶在大雨倾盆前，将嫩绿芬芳的春茶悉数抢运进了干燥的库房。 | Mùchūn shíjié shānjiān qìhòu duōbiàn, gāngcái háishì qíngkōng-wànlǐ, zhuǎnyǎn jiān tiānjì biàn wūyún fāngǔn. Zhèng zài shānpō shang liàngshài xīnchá de nónghùmen jiànzhuàng, liánmáng zhuā qǐ zhúluó zhúbiǎn kuàibù shōushi. Dàjiā qíxīn-xiélì gǎn zài dàyǔ qīngpén qián, jiāng nènlǜ fēnfāng de chūnchá xīshù qiǎngyùn jìn le gānzào de kùfáng. | Spring mountain weather is capricious; sunny skies swiftly filled with rolling dark clouds. Tea farmers drying leaves on slopes immediately grabbed wicker trays. Working together, they hustled the fragrant green tea into dry storehouses before downpours struck. | En primavera el clima serrano es veleidoso; el cielo azul se encapotó al punto de nubarrones. Los campesinos que secaban té recogieron las bateas apresuradamente. En equipo, resguardaron la cosecha fragante en el almacén antes del aguacero.
+  #2 | 当听到围观小男孩那句‘为什么不把筐底剪掉’的天真建议时，在场被死板规则困扰的大人们面面相觑，工匠连忙找来锋利的锯子爬上梯恩子。伴随着一阵清脆的拉锯声，桃筐底部应声脱落，困扰所有人多时的繁琐取球障碍瞬间烟消云散。 | Dāng tīngdào wéiguān xiǎo nánhái nà jù 'wèishénme bù bǎ kuāngdǐ jiǎn diào' de tiānzhēn jiànyì shí, zàichǎng bèi sǐbǎn guīzé kùnrǎo de dàrenmen miànmiàn-xiāngqù, gōngjiàng liánmáng zhǎolái fēnglì de jùzi pá shàng tīzi. Bànsuí zhe yí zhèn qīngcuì de lājù shēng, táokuāng dǐbù yìngshēng tuōluò, kùnrǎo suǒyǒurén duōshí de fánsuǒ qǔ qiú zhàng'ài shùnjiān yānxiāo-yúnsàn. | Hearing the boy's suggestion: 'Why not cut off the basket bottom?', dumbfounded adults looked at each other. A worker promptly grabbed a sharp saw and climbed the ladder. With rhythmic rasping strokes, the bottom fell away, dissolving the nuisance in an instant. | Ante la ocurrencia del niño: '¿Por qué no le quitan el fondo?', los adultos se miraron perplejos. El conserje buscó al punto una sierra afilada y subió a la escalera. Al serrar la base, el obstáculo que tanto les agobiaba se esfumó en un abrir y cerrar de ojos.

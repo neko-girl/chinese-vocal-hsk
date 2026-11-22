@@ -1,0 +1,63 @@
+id: 29
+hanzi: 多亏
+pinyin: duō kuī
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: thanks to; luckily; fortunate that
+  es: gracias a; por fortuna; menos mal que
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to express gratitude that an intervention, help, or lucky circumstance averted disaster or achieved success | expresa que gracias a determinada ayuda o circunstancia propicia se evitó un mal o se logró un bien | 多亏了邻居的热心相助 (thanks to the enthusiastic help of our neighbors)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 昨晚突降狂风暴雨，多亏巡查网格员在半夜及时排查隐患，老旧小区的低洼地带才没有发生严重内涝。 | Zuówǎn tūjiàng kuángfēng-bàoyǔ, duōkuī xúnchá wǎnggéyuán zài bànyè jíshí páichá yǐnhuàn, lǎojiù xiǎoqū de dīwā dìdài cái méiyǒu fāshēng yánzhòng nèilào. | A violent storm struck last night; thanks to the neighborhood inspectors identifying hazards at midnight, the low-lying old community avoided flooding. | Anoche arreció un temporal; gracias a que los vigilantes revisaron los sumideros a medianoche, la barriada vieja no sufrió inundaciones.
+  #2 | 这次复杂的跨境并购谈判能够圆满成功，多亏了法务专家团队在关键时刻化解了重大合规风险。 | Zhè cì fùzá de kuàjìng bìnggòu tánpàn nénggòu yuánmǎn chénggōng, duōkuī le fǎwù zhuānjiā tuánduì zài guānjiàn shíkè huàjiě le zhòngdà hégūi fēngxiǎn. | This intricate cross-border merger negotiation succeeded smoothly, thanks to the legal team defusing major compliance risks at critical junctures. | La compleja negociación de fusión internacional culminó con éxito gracias a que el equipo legal resolvió a tiempo graves escollos normativos.
+
+collocations[6]{hanzi,en}:
+  多亏了 | thanks to; fortunately
+  这次多亏你 | I'm indebted to you this time
+  多亏及时 | luckily in the nick of time
+  多亏有准备 | fortunate that we prepared
+  多亏医生抢救 | thanks to doctors' emergency rescue
+  多亏提醒 | thanks for the timely reminder
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  化险为夷 | huà xiǎn wéi yí | turn danger into safety; avert mortal peril
+  绝处逢生 | jué chù féng shēng | find life in a dead end; rescue from desperate straits
+  吉人天相 | jí rén tiān xiàng | heaven assists the good; blessed by good fortune
+  感激不尽 | gǎn jī bú jìn | boundless gratitude; cannot thank enough
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  多 | duō | many; much; abundant | mucho; abundante | 夕 | evening | two 夕 (crescent moons / pieces of meat) stacked | 多 (duō) | 6 | 上下结构 | Two portions of sacrificial meat 夕 stacked together in ancient script, denoting abundance and multiplicity. | Two cuts of choice meat (夕) piled generously one over another: great abundance (多). | Dos piezas de carne (夕) apiladas generosamente en el festín: gran abundancia (多). | 55 | NINI | 多
+  亏 | kuī | loss; deficit; deficient; luckily | déficit; pérdida; menguar; gracia | 一 | one | breath 丂 failing to rise under the sky 一 | 亏 (kuī) | 3 | 单一结构 | Breath striving upward but hindered by a bar; deficit or losing out; used conversely in '多亏' as indebtedness for spared loss. | A debt or deficit averted in time through fortunate assistance (亏). | Un quebranto o déficit esquivado a tiempo gracias a un providencial auxilio (亏). | 55 | MMVS | 虧
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Having great abundance (多) spared from painful deficit (亏) means expressing heartfelt thanks (多亏).
+  composite_memory_hook_es: Contar con abundancia (多) sin sufrir mengua ni pérdida (亏) es motivo para dar gracias (多亏).
+  cultural_and_cognitive_roots: Grammaticalized colloquial construction expressing appreciative relief when a negative outcome is narrowly averted.
+  tone_sandhi_and_pitch_modulation: Two level high tones: 'duō kuī' (55-55). Maintain sustained high, warm vocal pitch.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    多 | duō | many; much | Two 夕 stacked vertically
+    夕 | xī | evening; sunset | Single character with 3 strokes
+    亏 | kuī | loss; luckily | 3 strokes: horizontal, horizontal, vertical hook with slant
+    于 | yú | at; in; to | Has two horizontal bars and a vertical hook without the curving tail
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    幸 | xìng | fortunate; lucky
+    赖 | lài | rely on; thanks to
+    蒙 | méng | receive favor; indebted
+    谢 | xiè | thank; decline
+
+semantic_boundary_contrasts:
+  core_nuance: 多亏 expresses grateful relief that an external person or circumstance averted a looming setback.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 多亏 vs. 幸亏 | xìngkuī | 幸亏 focuses on impersonal luck or chance (幸亏没下雨), while 多亏 can take direct human grammatical objects of gratitude (多亏了你, 多亏老师指点).
+    2 | 多亏 vs. 感谢 | gǎnxiè | 感谢 is an explicit verb expressing appreciation, while 多亏 functions as a clause connective explaining causality.
+    3 | 多亏 vs. 由于 | yóuyú | 由于 is a neutral preposition of cause (can lead to bad or good outcomes), while 多亏 strictly leads to happy relief.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 回首艰辛的创业岁月，创始人感慨万千：‘当年在最资金链濒临断裂的至暗时刻，多亏了老同学毅然抵押房产为我们注资，多亏了团队骨干通宵达旦拼死攻坚，我们这支年轻的企业才能浴火重生、行稳致远。’ | Huíshǒu jiānxīn de chuàngyè suìyuè, chuàngshǐrén gǎnkǎi-wànqiān: 'Dāngnián zài zuì zījīnliàn bīnlín duànliè de zhì'àn shíkè, duōkuī le lǎo tóngxué yìrán dǐyā fángchǎn wèi wǒmen zhùzī, duōkuī le tuánduì gǔgàn tōngxiāo-dádàn pīnsǐ gōngjiān, wǒmen zhè zhī niánqīng de qǐyè cái néng yùhuǒ-chóngshēng, xíngwěn-zhìyuǎn.' | Reflecting on arduous startup days, the founder remarked with emotion: 'When funding ran dry, thanks to an old classmate mortgaging his home and our team working day and night, our venture rose from the ashes and prospered.' | Evocando los duros inicios, el fundador confesó conmovido: 'Al agotarse los fondos, gracias a un viejo amigo que hipotecó su casa y al equipo que bregó sin descanso, esta empresa renació de sus cenizas y prosperó'.
+  #2 | 篮球运动今天能够演变成风靡全球的第一大室内球类项目，多亏了当年那位大胆发问的小男孩。多亏了他一句天真无邪的提醒，工匠们才从僵化死板的思维定势中猛然醒悟，拿起锯子锯开筐底，彻底赋予了比赛畅快淋漓的全新生命力。 | Lánqiú yùndòng jīntiān nénggòu yǎnbiàn wéi fēngmí quánqiú de dì-yī dà shìnèi qiúlèi xiàngmù, duōkuī le dāngnián nà wèi dàdǎn fāwèn de xiǎo nánhái. Duōkuī le tā yí jù tiānzhēn-wúxié de tíxǐng, gōngjiàngmen cái cóng jiānghuà sǐbǎn de sīwéi dìngshì zhōng měngrán xǐngwù, ná qǐ jùzi jù kāi kuāngdǐ, chèdǐ fùyǔ le bǐsài chàngkuài-línlí de quánxīn shēngmìnglì. | That basketball evolved into the world's premier indoor sport is thanks to that daring little boy. Thanks to his innocent reminder, craftsmen snapped out of rigid assumptions, took up saws to cut the basket bottoms, and breathed vibrant life into the game. | Si el baloncesto es hoy el rey de los deportes bajo techo, es gracias al niño de la grada. Gracias a su ingeniosa observación, los conserjes quebraron su ceguera mental y abrieron el fondo con la sierra, dotando al juego de vitalidad.

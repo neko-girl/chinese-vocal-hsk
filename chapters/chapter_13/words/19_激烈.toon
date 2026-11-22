@@ -1,0 +1,63 @@
+id: 19
+hanzi: 激烈
+pinyin: jī liè
+level: HSK 5
+part_of_speech: Adjective
+
+meanings_summary:
+  en: intense; fierce; acute; sharp (competition/debate)
+  es: intenso; feroz; encarnizado; vehemente
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Adjective | Standard | violent, sharp, or intensely competitive in action, speech, or contest | vehemente, violento o sumamente reñido en disputas, combates o competiciones | 激烈的市场竞争 (intense market competition)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 经过四节激烈焦灼的加时鏖战，客场作战的年轻球队终于以一分微弱优势险胜卫冕冠军。 | Jīngguò sì jié jīliè jiāozhuó de jiāshí áozhàn, kèchǎng zuòzhàn de niánqīng qiúduì zhōngyú yǐ yì fēn wēiruò yōushì xiǎnshèng wèimiǎn guànjūn. | After four quarters of intensely grueling overtime struggle, the young visiting team finally edged out the defending champions by a razor-thin one-point margin. | Tras cuatro periodos de encarnizada prórroga, el joven conjunto visitante se impuso al vigente campeón por la mínima renta de un punto.
+  #2 | 在今天举行的听证会上，双方律师围绕核心证据的法律效力展开了异常激烈而尖锐的言语交锋。 | Zài jīntiān jǔxíng de tīngzhènghuì shang, shuāngfāng lǜshī wéirào héxīn zhèngjù de fǎlǜ xiàolì zhǎnkāi le yìcháng jīliè ér jiānruì de yányǔ jiāofēng. | At today's hearing, opposing attorneys engaged in exceptionally fierce and sharp verbal clashes surrounding the admissibility of core evidence. | En la vista judicial de hoy, los letrados sostuvieron un duelo dialéctico sumamente vehemente en torno a la validez de la prueba pericial.
+
+collocations[6]{hanzi,en}:
+  激烈竞争 | fierce / intense competition
+  激烈争论 | heated / fierce debate
+  战斗激烈 | fierce fighting in battle
+  言辞激烈 | vehement / fierce words
+  异常激烈 | unusually intense
+  激烈对抗 | intense confrontation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  龙争虎斗 | lóng zhēng hǔ dòu | struggle between dragon and tiger; fierce titanic clash
+  风起云涌 | fēng qǐ yún yǒng | winds gather and clouds surge; dramatic rapid developments
+  惊心动魄 | jīng xīn dòng pò | thrilling and breathtaking; heart-stirring shock
+  如火如荼 | rú huǒ rú tú | flourishing like wildfire; surging intensely
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  激 | jī | surge; arouse; fierce water flow | desbordar; excitar; torrente | 氵 | water | 氵 (turbulent water) + 敫 (bright white light / strike) | 敫 (jiào / phonetic) | 16 | 左右结构 | Water radical 氵 beside 敫; crashing water surging over rocks, generating rapid currents and white spray. | Turbulent water currents (氵) violently striking against river boulders, surging in white spray (激). | Aguas bravas (氵) que embisten contra los escollos rocosos alzando espumarajos turbulentos (激). | 55 | EHSK | 激
+  烈 | liè | blazing; ardent; fierce; violent | ardiente; violento; vehemente | 灬 | fire | 灬 (four dots of raging fire) + 列 (split with knife) | 列 (liè / phonetic) | 10 | 上下结构 | Raging fire flames 灬 burning fiercely beneath cleaved fuel 列; symbolizes extreme intensity, heat, and vehement force. | Raging flames (灬) consuming split firewood (列) in an inferno of intense heat (烈). | Llamas voraces (灬) devorando leña rajada (列) en una hoguera de calor abrasador (烈). | 51 | MNOF | 烈
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Surging whitewater currents (激) meeting blazing fire flames (烈) produce intense ferocity (激烈).
+  composite_memory_hook_es: El ímpetu del torrente de agua (激) sumado a un fuego abrasador (烈) desata una lucha encarnizada (激烈).
+  cultural_and_cognitive_roots: Metaphor combining torrential water surges and roaring flames to describe heated struggles, sports, and debates.
+  tone_sandhi_and_pitch_modulation: Level high tone followed by falling fourth tone: 'jī liè' (55-51). Sustain 'jī' with energy, then strike sharply down on 'liè'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    激 | jī | surge; fierce | Water radical 氵 on left with 敫
+    澈 | chè | crystal clear | Has 育 in middle instead of 白/方
+    烈 | liè | intense; fiery | Fire radical 灬 at bottom under 列
+    列 | liè | row; line; arrange | Without the fire dots at bottom
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    猛 | měng | fierce; ferocious
+    热 | rè | hot; ardent
+    酷 | kù | ruthless; harsh; intense
+    厉 | lì | stern; severe
+
+semantic_boundary_contrasts:
+  core_nuance: 激烈 describes dynamic confrontations, contests, motions, or debates that reach extreme fever pitch.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 激烈 vs. 强烈 | qiángliè | 强烈 describes sensations, emotions, lights, or desires (强烈愿望, 强烈地震), while 激烈 depicts dynamic external actions, combats, and sports.
+    2 | 激烈 vs. 热烈 | rèliè | 热烈 conveys joyful enthusiasm and warmth (热烈欢迎, 掌声热烈), whereas 激烈 emphasizes aggressive rivalry and conflict.
+    3 | 激烈 vs. 严厉 | yánlì | 严厉 characterizes harsh disciplinary attitudes or punishment (严厉批评), not athletic contests.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 现代商业社会的竞争异常激烈，任何固步自封、安于现状的企业都会在转瞬之间被汹涌的技术浪潮所淘汰。唯有时刻保持敏锐的危机意识，敢于自我颠覆并不断推陈出新，方能在激烈的市场大潮中立于不败之地。 | Xiàndài shāngyè shèhuì de jìngzhēng yìcháng jīliè, rènhé gùbù-zìfēng, ānyú xiànzhuàng de qǐyè dōu huì zài zhuǎnshùn zhījiān bèi xiōngyǒng de jìshù làngcháo suǒ táotài. Wéi yǒu shíkè bǎochí mǐnruì de wēijī yìshí, gǎnyú zìwǒ diānfù bìng búduàn tuīchén-chūxīn, fāng néng zài jīliè de shìchǎng dàcháo zhōng lìyú-búbàizhīdì. | Modern commercial rivalry is brutally intense; any company resting on its laurels will be swept away by surging technological tides. Only by maintaining acute crisis awareness and bold self-disruption can one stay invincible amid fierce market headwinds. | La rivalidad comercial actual es implacable; las empresas acomodadas caen barridas por olas de innovación. Sólo quien mantiene alerta su sentido de supervivencia y se reinventa logra prevalecer invicto en ese agitado mercado.
+  #2 | 奈史密斯发明篮球旨在为冬季青年提供室内运动。随着规则完善，对抗日益激烈。球星们高超的投篮技艺与雷霆万钧的封盖，构成了当今体坛最令人热血沸腾的竞技盛景。 | Nàishǐmīsī fāmíng lánqiú zhǐzài wèi dōngjì qīngnián tígōng shìnèi yùndòng. Suízhe guīzé wánshàn, duìkàng rìyì jīliè. Qiúxīngmen gāocháo de tóulán jìyì yǔ léitíng-wànjūn de fēnggài, gòuchéng le dāngjīn tǐtán zuì lìngrén rèxuè-fèiténg de jìngjì shèngjǐng. | Naismith invented basketball to provide indoor athletic exercise for youth in winter. As rules matured, matchups grew fiercely competitive. Sublime shooting and thunderous blocks now form one of sports' most electrifying spectacles. | Naismith concibió el baloncesto para ejercitar a los jóvenes bajo techo en invierno. Con la madurez reglamentaria, el duelo se tornó encarnizado, deslumbrando al mundo con tiros magistrales y tapones colosales.

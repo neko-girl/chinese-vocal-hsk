@@ -1,0 +1,63 @@
+id: 32
+hanzi: 封闭
+pinyin: fēng bì
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to seal; close off; secluded; isolated; insular
+  es: sellar; aislar; clausurar; cerrado al exterior; incomunicado
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to seal completely so as to prevent entry, exit, or air leakage; to close off from outside contact | sellar herméticamente impidiendo el paso o la comunicación; aislar del exterior | 封闭式管理 (closed / sequestered management)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四合院这种封闭式的建筑格局，既保证了内部生活的私密安全，又营造出独立的院落世界。 | Sìhéyuàn zhè zhǒng fēngbìshì de jiànzhù géjú, jì bǎozhèng le nèibù shēnghuó de sìmì ānquán, yòu yíngzào chū dúlì de yuànluò shìjiè. | The enclosed architectural layout of courtyards guaranteed interior privacy and safety while forging an independent courtyard universe. | La traza cerrada y hermética del siheyuan aseguraba la privacidad de la vida familiar a la par que forjaba un micromundo independiente.
+  #2 | 受强暴风雪恶劣天气影响，通往山区景区的多条高速公路已被交警部门临时封闭。 | Shòu qiáng bàofēngxuě èliè tiānqì yǐngxiǎng, tōngwǎng shānqū jǐngqū de duō tiáo gāosù gōnglù yǐ bèi jiāojǐng bùmén línshí fēngbì. | Affected by severe blizzards, several highways leading to the mountain scenic area have been temporarily closed by traffic police. | Debido a las intensas ventiscas, la policía de tráfico clausuró temporalmente varias autovías que conducen a la zona montañosa.
+
+collocations[6]{hanzi,en}:
+  封闭式管理 | closed-loop management
+  封闭道路 | close off roads
+  自我封闭 | self-enclosure / introverted isolation
+  严密封闭 | tightly sealed off
+  封闭环境 | closed / isolated environment
+  封闭空间 | enclosed space
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  固步自封 | gù bù zì fēng | stand still and cease progress; rest on laurels
+  闭关锁国 | bì guān suǒ guó | close passes and lock ports; self-imposed national isolation
+  风雨不透 | fēng yǔ bù tòu | sealed so tightly that neither wind nor rain penetrates
+  深居简出 | shēn jū jiǎn chū | live in secluded retirement, rarely venturing out
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  封 | fēng | seal; confer; envelope; boundary | sellar; conferir; sobre; frontera | 寸 | inch / measurement | 圭 (earth mounds marking boundaries) + 寸 (ruling hand) | 封 (fēng) | 9 | 左右结构 | Planting trees or heaping mounds of earth 圭 with one's hand 寸 to mark a sealed territorial boundary. | Using official authority (寸) to raise border boundary mounds (圭) sealing an estate (封). | Erguir mojones de tierra (圭) con mano soberana (寸) para delimitar y sellar un territorio (封). | 55 | GDI | 封
+  闭 | bì | close; shut; conclude; obstruct | cerrar; clausurar; concluir; obstruir | 门 | gate / door | 门 (double-leaf gateway) + 才 (locking bolt) | 闭 (bì) | 6 | 半包围结构 | Double doorleaves 门 barred shut with a wooden lock 才; to close tightly. | Fastening a solid bolt across gate leaves (门) to close them shut (闭). | Correr el pasador sobre ambas hojas (门) para dejarlas bien cerradas (闭). | 51 | LND | 閉
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Raising a perimeter boundary seal (封) and barring the gates (闭) creates an isolated enclosure (封闭).
+  composite_memory_hook_es: Levantar un cerco perimetral (封) y echar el cerrojo (闭) aísla el recinto del exterior (封闭).
+  cultural_and_cognitive_roots: Captures the architectural ethos of northern Chinese homesteads prioritizing domestic enclosure against steppes winds and banditry.
+  tone_sandhi_and_pitch_modulation: First tone to fourth tone: 'fēng bì' (55-51). High sustained pitch on 'fēng', followed by a sharp drop on 'bì'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    射 | shè | shoot; emit | Body radical 身 on left instead of 圭
+    对 | duì | correct; towards | Hand/again radical 又 on left instead of 圭
+    闲 | xián | leisure; idle | Wood radical 木 inside 门 instead of 才
+    闹 | nào | noisy; hustle | Market radical 市 inside 门 instead of 才
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    封锁 | fēngsuǒ | blockade; seal off
+    封存 | fēngcún | seal up for safekeeping
+    闭合 | bìhé | close up; seal tightly
+    禁闭 | jìnbì | confinement; solitary
+
+semantic_boundary_contrasts:
+  core_nuance: 封闭 describes complete seclusion, impenetrable sealing, or psychological insularity cutoff from external access.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 封闭 vs. 开放 | kāifàng | 开放 is the direct antonym meaning open, transparent, and welcoming of external exchange.
+    2 | 封闭 vs. 关闭 | guānbì | 关闭 merely refers to swinging a door shut, while 封闭 implies complete systemic isolation or sealing.
+    3 | 封闭 vs. 保守 | bǎoshǒu | 保守 refers to ideological reluctance to change, whereas 封闭 stresses lack of communication or external connection.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 四合院的封闭特征源于古代中国人对家庭安全与安宁的追求。朝向胡同的外墙厚重坚实、极少开窗，整座院落形成了一个对外封闭、对内开放的私密空间。这种内敛的建筑品格，深刻折射出传统文化的含蓄内敛。 | Sìhéyuàn de fēngbì tèzhēng yuányú gǔdài Zhōngguó rén duì jiātíng ānquán yǔ ānníng de zhuīqiú. Cháoxiàng hútòng de wàiqiáng hòuzhòng jiānshí, jí shǎo kāichuāng, zhěng zuò yuànluò xíngchéng le yī gè duìwài fēngbì, duì nèi kāifàng de sìmì kōngjiān. Zhè zhǒng nèiliǎn de jiànzhù pǐngé, shēnkè zhéshè chū chuántǒng wénhuà de hánxù-nèiliǎn. | The enclosed trait of courtyards stemmed from ancient pursuit of family safety and serenity. Exterior walls facing alleys were thick without windows, forging an introverted space sealed outwardly but open inwardly to clan members. | El carácter hermético del siheyuan nació del anhelo de paz y resguardo familiar. Sus gruesos muros exteriores apenas tenían vanos, forjando un espacio cerrado al exterior pero volcado hacia el patio interior con discreta sobriedad.
+  #2 | 在快速发展的现代社会中，任何一个组织或个人如果长期处于自我封闭的状态，就必然会错失时代发展的机遇。只有主动打破封闭的思想藩篱，广泛与外界交流合作，吸纳先进的思想理念，才能在时代浪潮中保持蓬勃活力。 | Zài kuàisù fāzhǎn de xiàndài shèhuì zhōng, rènhé yī gè zǔzhī huò gèrén rúguǒ chángqī chǔyú zìwǒ fēngbì de zhuàngtài, jiù bìrán huì cuòshī shídài fāzhǎn de jīyù. Zhǐyǒu zhǔdòng dǎpò fēngbì de sīxiǎng fānlí, guǎngfàn yǔ wàijiè jiāoliú hézuò, xīnà xiānjìn de sīxiǎng lǐniàn, cái néng zài shídài làngcháo zhōng bǎochí péngbó huólì. | In fast-paced modern society, organizations or individuals lingering in self-enclosure inevitably miss historical opportunities. Only by dismantling closed dogmas and welcoming open collaboration can one sustain vibrant vitality in times of change. | En la sociedad actual, quien se recluye en el aislamiento pierde el compás del progreso. Solo derribando barreras mentales y abriéndose a la cooperación y al intercambio de saberes es posible preservar la lozanía ante los retos del porvenir.

@@ -1,0 +1,64 @@
+id: 33
+hanzi: 打交道
+pinyin: dǎ jiāo dao
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to deal with; come into contact with; interact with
+  es: tratar con; relacionarse con; tener trato con
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to have social contact, business relations, or interpersonal dealings with someone | mantener trato frecuente, relación social o comercial con personas o instituciones | 跟邻居打交道 (interact with neighbors)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 住在北京老胡同四合院里的人们，每天抬头不见低头见，常常与街坊邻里热情地打交道。 | Zhù zài Běijīng lǎo hútòng sìhéyuàn lǐ de rénmen, měitiān táitóu bù jiàn dītóu jiàn, chángcháng yǔ jiēfang línlǐ rèqíng de dǎ jiāodao. | Living in old Beijing alley courtyards, people crossed paths daily and interacted warmly with neighborhood peers. | Los vecinos de los viejos callejones de Pekín, encontrándose a cada paso, mantenían un trato cordial y diario con la vecindad.
+  #2 | 作为一名涉外商务谈判代表，他经常需要与来自不同文化背景的国际客户打交道。 | Zuòwéi yī míng shèwài shāngwù tánpàn dàibiǎo, tā jīngcháng xūyào yǔ láizì bùtóng wénhuà bèijǐng de guójì kèhù dǎ jiāodao. | As an international business negotiator, he frequently needs to deal with global clients from diverse cultural backgrounds. | Como negociador comercial internacional, a menudo debe tratar con clientes de diversos trasfondos culturales.
+
+collocations[6]{hanzi,en}:
+  跟……打交道 | deal with / interact with ...
+  不愿打交道 | unwilling to deal with
+  长期打交道 | deal with over the long term
+  打交道的方式 | manner of dealing with people
+  经常打交道 | frequently interact with
+  打交道的经验 | experience in dealing with others
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  礼尚往来 | lǐ shàng wǎng lái | courtesy demands reciprocity; return of goodwill
+  和睦相处 | hé mù xiāng chǔ | live together in peace and harmony
+  八面玲珑 | bā miàn líng lóng | smooth and tactful in dealing with everyone
+  打成一片 | dǎ chéng yī piàn | merge completely with the masses; become one with
+
+character_decomposition[3]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  打 | dǎ | hit; engage in; do; play; beat | golpear; hacer; practicar; entablar | 扌 | hand | 扌 (active hand action) + 丁 (striking nail / peg) | 丁 (dīng) | 5 | 左右结构 | A hand 扌 driving a nail 丁; evolved into a versatile verbal prefix for initiating activities. | Using hands (扌) to initiate and forge dynamic social activities (打). | Mover las manos (扌) para emprender con soltura cualquier actividad social (打). | 214 | QM | 打
+  交 | jiāo | cross; intersect; associate; exchange | cruzar; intercambiar; asociarse; trato | 亠 | lid | pictograph of a person crossing their legs in dance or barter | 交 (jiāo) | 6 | 上下结构 | A person standing with crossed legs; signifies mutual intersecting exchange and social relations. | Paths crossing and intersecting gracefully to form warm friendships (交). | Caminos que se cruzan armónicamente para forjar relaciones y amistades (交). | 55 | YCK | 交
+  道 | dao | way; path; principle; channel | camino; vía; doctrina; sendero | 辶 | walk / movement | 辶 (movement on path) + 首 (head directing vision) | 首 (shǒu) | 12 | 半包围结构 | Walking 辶 with a clear head 首 guiding one along the proper path; here part of colloquial compound. | Walking thoughtfully with an enlightened head (首) along life's shared path (道). | Caminar con la cabeza despejada (首) siguiendo el sendero del entendimiento mutuo (道). | neutral | YHUT | 道
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Engaging in hands-on action (打) to build mutual paths of connection (交道) means to deal with people (打交道).
+  composite_memory_hook_es: Poner manos a la obra (打) para tender senderos de intercambio (交道) significa tener trato con alguien (打交道).
+  cultural_and_cognitive_roots: Essential colloquial idiom reflecting the bustling warmth and tact of urban Beijing neighborhood and bazaar culture.
+  tone_sandhi_and_pitch_modulation: Third tone to first tone to neutral: 'dǎ jiāo dao' (214-55-neutral). Dip on 'dǎ', stay level on 'jiāo', and conclude lightly on 'dao'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    订 | dìng | order; book | Speech radical 讠 beside 丁 instead of 扌
+    父 | fù | father | Crossed strokes without lid 亠 on top
+    选 | xuǎn | choose | First radical 先 under 辶 instead of 首
+    通 | tōng | through; pass | Yong radical 甬 under 辶 instead of 首
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    交往 | jiāowǎng | associate with; interact
+    交流 | jiāoliú | exchange; communicate
+    打了招呼 | dǎ le zhāohu | greeted; said hello
+    道路 | dàolù | road; path; route
+
+semantic_boundary_contrasts:
+  core_nuance: 打交道 is an idiomatic verb phrase describing ongoing interpersonal contact, working relations, or everyday transactions.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 打交道 vs. 交流 | jiāoliú | 交流 focuses on exchanging information or feelings, whereas 打交道 covers pragmatic daily interaction and business dealings.
+    2 | 打交道 vs. 往来 | wǎnglái | 往来 can refer to physical traffic or written letters, while 打交道 is personal face-to-face or working contact.
+    3 | 打交道 vs. 隔绝 | géjué | 隔绝 is the direct antonym meaning completely severed from contact or dealings.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 老北京四合院的生活充满了浓浓的人情味。院里的邻居们不仅同在一个水龙头下洗菜洗衣服，更常常在庭院中热情打交道。谁家做了解暑绿豆汤，总会盛上一碗端给街坊；这种淳朴真诚的打交道方式，温暖了几代人。 | Lǎo Běijīng sìhéyuàn de shēnghuó chōngmǎn le nóngnóng de rénqíngwèi. Yuàn lǐ de línjū men bùjǐn tóng zài yī gè shuǐlóngtóu xià xǐ cài xǐ yīfu, gèng chángcháng zài tíngyuàn zhōng rèqíng dǎ jiāodao. Shuí jiā zuò le jiěshǔ lǜdòutāng, zǒng huì chéng shang yī wǎn duān gěi jiēfang; zhè zhǒng chúnpǔ zhēnchéng de dǎ jiāodao fāngshì, wēnnuǎn le jǐ dài rén. | Courtyard life in old Beijing overflowed with human warmth. Neighbors sharing a water tap interacted with sincere cordiality. Whoever cooked mung bean soup shared a bowl across the yard; this heartfelt interaction warmed generations. | La vida en el siheyuan pekinés rebosaba de calor humano. Los vecinos, compartiendo la fuente común, mantenían un trato solícito; si alguien cocinaba sopa fresca, ofrecía un tazón a la vecindad, uniendo a generaciones con afecto sincero.
+  #2 | 在现代社会中，如何与形形色色的人友好打交道，是一门极其重要的处世智慧。无论是与职场同事协作推进项目，还是在跨文化舞台上与海外商业伙伴商务谈判，学会换位思考、真诚待人，才能在打交道中赢得长久的尊重与深厚的互信。 | Zài xiàndài shèhuì zhōng, rúhé yǔ xíngxíng-sèsè de rén yǒuhǎo dǎ jiāodao, shì yī mén jíqí zhòngyào de chǔshì zhìhuì. Wúlùn shì yǔ zhíchǎng tóngshì xiézuò tuījìn xiàngmù, háishì zài kuà wénhuà wǔtái shang yǔ hǎiwài shāngyè huǒbàn shāngwù tánpàn, xuéhuì huànwèi sīkǎo, zhēnchéng dàirén, cái néng zài dǎ jiāodao zhōng yíngdé chángjiǔ de zūnzhòng yǔ shēnhòu de hùxìn. | In modern society, dealing amiably with diverse people is vital social wisdom. Whether coordinating team projects or negotiating with foreign business partners, empathy and sincerity are prerequisites for earning enduring respect and trust. | En el mundo contemporáneo, saber relacionarse con toda clase de personas es un arte primordial. Ya sea colaborando con colegas o negociando con socios internacionales, la empatía y la franqueza ganan respeto y confianza duraderos.

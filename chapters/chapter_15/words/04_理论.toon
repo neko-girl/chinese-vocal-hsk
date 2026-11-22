@@ -1,0 +1,63 @@
+id: 4
+hanzi: 理论
+pinyin: lǐ lùn
+level: HSK 5
+part_of_speech: Noun
+
+meanings_summary:
+  en: theory; theoretical system; to argue/debate
+  es: teoría; cuerpo teórico; teorizar; discutir razones
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Noun | Standard | a systematic framework of concepts, principles, and laws derived from practice and used to explain phenomena | conjunto sistemático de leyes, principios y conceptos formulados para explicar fenómenos y guiar la práctica | 理论与实践相结合 (combine theory with practice)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 科学的理论只有与生产实践紧密结合，才能转化为推动社会生产力发展的强大现实动力。 | Kēxué de lǐlùn zhǐyǒu yǔ shēngchǎn shíjiàn jǐnmì jiéhé, cái néng zhuǎnhuà wéi tuīdòng shèhuì shēngchǎnlì fāzhǎn de qiángdà xiànshí dònglì. | Scientific theory can only be transformed into a mighty driving force for productive forces when closely integrated with practical production. | Las teorías científicas solo se convierten en motor del desarrollo cuando se articulan con la práctica transformadora de la producción.
+  #2 | 著名物理学家爱因斯坦提出的相对论理论，深刻彻底地革新了人类关于时间与空间的认知。 | Zhùmíng wùlǐxuéjiā Àiyīnsītǎn tíchū de xiāngduìlùn lǐlùn, shēnkè chèdǐ de géxīn le rénlèi guānyú shíjiān yǔ kōngjiān de rènzhī. | The theory of relativity formulated by Albert Einstein profoundly and thoroughly revolutionized human understanding of time and space. | La teoría de la relatividad formulada por Albert Einstein revolucionó de raíz la comprensión humana del tiempo y el espacio.
+
+collocations[6]{hanzi,en}:
+  理论体系 | theoretical framework / system
+  理论研究 | theoretical research
+  理论与实践 | theory and practice
+  基本理论 | fundamental theory
+  深化理论 | deepen theory
+  理论创新 | theoretical innovation
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  言之成理 | yán zhī chéng lǐ | spoken with cogent reason and sound logic
+  实事求是 | shí shì qiú shì | seek truth from practical facts
+  据理力争 | jù lǐ lì zhēng | argue vigorously on the basis of reason
+  通情达理 | tōng qíng dá lǐ | fair-minded, reasonable, and sensible
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  理 | lǐ | reason; logic; order; manage; polish jade | razón; lógica; orden; gobernar; pulir jade | 王 | jade | 王/玉 (raw jade stone) + 里 (settlement fields with orderly paths) | 里 (lǐ) | 11 | 左右结构 | Carving natural veined patterns in raw jade 玉 following structural lines 里; implies intrinsic logic. | Following the natural grain to carve raw jade (玉) into orderly patterns (理). | Seguir las vetas naturales del jade (玉) para pulirlo conforme a una pauta armónica (理). | 214 | MGWG | 理
+  论 | lùn | discuss; discourse; debate; theory | discutir; disertar; debatir; teoría | 讠 | speech | 讠 (spoken discourse) + 仑 (bamboo slips bound in logical sequence) | 仑 (lún) | 6 | 左右结构 | Spoken words 讠 arranged into logical arguments like sequential bound bamboo slips 仑; to theorize. | Words of speech (讠) arranged methodically like bound slips (仑) into an articulate thesis (论). | Palabras (讠) ensambladas metódicamente como tablillas de bambú encuadernadas (仑) para formular una tesis (论). | 51 | IVOP | 論
+
+mnemonics_and_roots:
+  composite_memory_hook_en: The intrinsic logic of things (理) expounded in systematic discourse (论) forms a theory (理论).
+  composite_memory_hook_es: La lógica interna de las cosas (理) expuesta en discurso ordenado (论) constituye una teoría (理论).
+  cultural_and_cognitive_roots: Blends Neo-Confucian 'Principle' (天理) with classical rhetoric and modern scientific epistemologies.
+  tone_sandhi_and_pitch_modulation: Third tone to fourth tone: 'lǐ lùn' (214-51). Dip deeply on 'lǐ', then drop with academic firmness on 'lùn'.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    埋 | mái | bury; inter | Soil radical 土 on left of 里 instead of 王
+    轮 | lún | wheel; rotate | Vehicle radical 车 on left instead of 讠
+    伦 | lún | ethics; relation | Person radical 亻 on left instead of 讠
+    沦 | lún | sink; degenerate | Water radical 氵 on left instead of 讠
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    理解 | lǐjiě | understand; comprehend
+    道理 | dàolǐ | principle; reason
+    讨论 | tǎolùn | discuss; talk over
+    论文 | lùnwén | thesis; academic paper
+
+semantic_boundary_contrasts:
+  core_nuance: 理论 emphasizes systematic abstract knowledge and conceptual principles explaining reality.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 理论 vs. 实践 | shíjiàn | 实践 is the direct antonym meaning hands-on practical action and empirical testing.
+    2 | 理论 vs. 经验 | jīngyàn | 经验 refers to accumulated perceptual know-how, while 理论 represents systematized conceptual laws.
+    3 | 理论 vs. 空想 | kōngxiǎng | 空想 is baseless day-dreaming, whereas genuine 理论 is rooted in empirical validation.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代兵书不仅记载了行军布阵的具体战术，更构建了博大精深的军事理论体系。然而先贤再三告诫，高深的军事理论唯有结合瞬息万变的战场实际灵活运用，才能化为克敌制胜的法宝，切不可拘泥于书本死板教条。 | Zhōngguó gǔdài bīngshū bùjǐn jìzǎi le xíngjūn bùzhèn de jùtǐ zhànshù, gèng gòujiàn le bódà-jīngshēn de jūnshì lǐlùn tǐxì. Rán'ér xiānxián zàisān gàojiè, gāoshēn de jūnshì lǐlùn wéiyǒu jiéhé shùnxī-wànbiàn de zhànchǎng shíjì línghuó yùnyòng, cái néng huà wéi kèdí-zhìshèng de fǎbǎo, qiè bùkě jūní yú shūběn sǐbǎn jiàotiáo. | Ancient military treatises built rich theoretical systems beyond tactical formations. Yet sages cautioned that military theory guarantees victory only when flexibly adapted to fast-changing battlefield conditions, rather than dogmatically followed. | Los tratados castrenses antiguos forjaron un hondo cuerpo teórico más allá de las formaciones tácticas. No obstante, los maestros advirtieron que la teoría bélica solo triunfa adaptándose a la realidad cambiante del campo de batalla.
+  #2 | 任何重大的科学发现都离不开基础理论的开创性突破。现代量子力学与人工智能算法的飞速发展，无一不是建立在深厚数学物理理论基石之上的。强化基础理论研究，是我们在全球科技竞争中实现原始创新的根本所在。 | Rènhé zhòngdà de kēxué fāxiàn dōu lìbùkāi jīchǔ lǐlùn de kāichuàngxìng tūpò. Xiàndài liàngzǐ lìxué yǔ réngōng zhìnéng suànfǎ de fēisù fāzhǎn, wúyībùshì jiànlì zài shēnhòu shùxué wùlǐ lǐlùn jīshí zhīshàng de. Qiánghuà jīchǔ lǐlùn yánjiū, shì wǒmen zài quánqiú kējì jìngzhēng zhōng shíxiàn yuánshǐ chuàngxīn de gēnběn suǒzài. | Every breakthrough in science rests upon foundational theoretical advances. Quantum physics and artificial intelligence rely squarely on deep mathematical theories. Strengthening basic theoretical research fuels authentic original innovation. | Los grandes descubrimientos de la ciencia nacen de avances teóricos de raíz. La física cuántica y la inteligencia artificial se erigen sobre sólidas bases matemáticas; potenciar la investigación teórica es la clave de la innovación.

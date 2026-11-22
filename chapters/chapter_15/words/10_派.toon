@@ -1,0 +1,62 @@
+id: 10
+hanzi: 派
+pinyin: pài
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to send; dispatch; assign; faction; school of thought
+  es: enviar; mandar; destinar; asignar; facción; escuela
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to dispatch, assign, or depute persons to perform a task, mission, or military duty | enviar, comisionar o despachar a alguien para cumplir un cometido, misión o faena | 派代表出席 (dispatch representatives to attend)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 赵王轻信了秦国散布的离间谣言，执意罢免廉颇，改派毫无实战经验的赵括统领大军前线作战。 | Zhàowáng qīngxìn le Qínguó sànbù de líjiàn yáoyán, zhíyì bàmǐan Lián Pō, gǎi pài háowú shízhàn jīngyàn de Zhào Kuò tǒnglǐng dàjūn qiánxiàn zuòzhàn. | Gullible to rumors spread by Qin, King Zhao insisted on dismissing Lian Po and sent inexperienced Zhao Kuo to command the front lines. | Creyendo los falsos rumores de Qin, el rey de Zhao cesó a Lian Po y mandó al frente al inexperto Zhao Kuo al mando de las tropas.
+  #2 | 得知地震灾区急需医疗救援后，省人民医院立即派出了第一批资深外科专家医疗队连夜奔赴前线。 | Dézhī dìzhèn zāiqū jíxū yīliáo jiùyuán hòu, shěng rénmín yīyuàn lìjí pài chū le dì-yī pī zīshēn wàikē zhuānjiā yīliáoduì liányè bēnfù qiánxiàn. | Learning that the earthquake disaster area urgently needed medical aid, the hospital immediately dispatched its first team of surgeons overnight. | Al conocerse la emergencia en la zona sísmica, el hospital provincial envió de inmediato un primer equipo de cirujanos esa misma noche.
+
+collocations[6]{hanzi,en}:
+  派出代表 | dispatch representatives
+  派人前往 | send someone over
+  派遣专家 | depute / dispatch experts
+  分配任务 | assign tasks / duties
+  一派胡言 | complete nonsense / pack of lies (classifier)
+  各流各派 | various factions and schools
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  名门正派 | míng mén zhèng pài | reputable and orthodox school or lineage
+  一派胡言 | yī pài hú yán | sheer nonsense; absurd drivel
+  自成一派 | zì chéng yī pài | form a unique school of one's own
+  差强人意 | chā qiáng rén yì | barely satisfactory; passable
+
+character_decomposition[1]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  派 | pài | send; dispatch; branch of water; faction | enviar; mandar; ramal fluvial; facción | 氵 | water | 氵 (water flow) + 𠂢 (river branching into tributary streams) | 𠂢 (pài) | 9 | 左右结构 | Water 氵 branching off into several diverging river tributaries 𠂢; signifies sending out streams or people. | A river stream (氵) branching out in diverging channels to carry boats to distant ports (派). | El curso del río (氵) ramificándose en brazos de agua para enviar barcas a diversos rumbos (派). | 51 | EHHV | 派
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Water branching outward into separate channels (氵+𠂢) represents dispatching people outward on missions (派).
+  composite_memory_hook_es: El río que bifurca sus ramales hacia rumbos diversos (氵+𠂢) encarna la acción de enviar o comisionar (派).
+  cultural_and_cognitive_roots: Originates from hydrology meaning tributary branches of a main river, extended to philosophical schools (流派) and executive deputation.
+  tone_sandhi_and_pitch_modulation: Fourth tone: 'pài' (51). Crisp, decisive downward inflection.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    旅 | lǚ | travel; brigade | Square 方 on left instead of 氵
+    波 | bō | wave; ripple | Skin 皮 on right instead of 𠂢
+    泳 | yǒng | swim | Eternal 永 on right instead of 𠂢
+    河 | hé | river | Can 可 on right instead of 𠂢
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    派遣 | pàiqiǎn | dispatch; depute
+    流派 | liúpài | school of thought; sect
+    学派 | xuépài | academic school
+    委派 | wěipài | appoint; assign
+
+semantic_boundary_contrasts:
+  core_nuance: 派 as a verb highlights authoritative or organizational dispatch of personnel on designated tasks.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 派 vs. 送 | sòng | 送 implies delivering an object or escorting someone off, while 派 means assigning someone on an official mission.
+    2 | 派 vs. 遣 | qiǎn | 遣 is formal literary (often paired as 派遣), while 派 is ubiquitous in both spoken and written Chinese.
+    3 | 派 vs. 留 | liú | 留 is the direct antonym meaning to detain, keep in place, or retain.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 长平之战前夕，秦相范雎用重金派间谍潜入赵国，四处散布“秦军最惧怕赵括”的谣言。缺乏政治远见的赵王果然中计，不顾群臣强烈反对，执意派赵括代替廉颇出征，这一昏庸决策最终铸成了无法挽回的亡国悲剧。 | Chángpíng zhī zhàn qiánxī, Qínxiàng Fàn Jū yòng zhòngjīn pài jiàndié qiánrù Zhàoguó, sìchù sànbù 'Qínjūn zuì jùpà Zhào Kuò' de yáoyán. Quēfá zhèngzhì yuǎnjiàn de Zhàowáng guǒrán zhòngjì, bùgù qúnchén qiángliè fǎnduì, zhíyì pài Zhào Kuò dàitì Lián Pō chūzhēng, zhè yī hūnyōng juécè zuìzhōng zhùchéng le wúfǎ-wǎnhuí de wángguó bēijù. | On the eve of Changping, Qin's minister bribed spies to enter Zhao and spread rumors that 'Qin feared only Zhao Kuo.' Blindly duped, King Zhao insisted on dispatching Zhao Kuo to replace Lian Po, sealing a tragic catastrophe. | Antes de Changping, el primer ministro de Qin sobornó espías para difundir que Qin solo temía a Zhao Kuo. El crédulo monarca de Zhao cayó en la trampa y envió a Zhao Kuo al relevo, consumando una tragedia irreparable.
+  #2 | 在现代企业战略管理中，合理选拔与准确派任核心业务骨干，是项目克难制胜的首要关键。管理者必须知人善任，绝不能任人唯亲或盲目指派，唯有派最合适、最有实战能力的人奔赴攻坚战场，才能确保团队战无不胜。 | Zài xiàndài qǐyè zhànlüè guǎnlǐ zhōng, hélǐ xuǎnbá yǔ zhǔnquè pàirèn héxīn yèwù gǔgàn, shì xiàngmù kènán-zhìshèng de shǒuyào guānjiàn. Guǎnlǐzhě bìxū zhīrén-shànrèn, juébùnéng rènrén-wéiqīn huò mángmù zhǐpài, wéiyǒu pài zuì héshì, zuì yǒu shízhàn nénglì de rén bēnfù gōngjiān zhànchǎng, cái néng quèbǎo tuánduì zhànwúbùshèng. | In modern corporate strategy, selecting and dispatching key professionals is essential for project triumph. Managers must appoint candidates based on tested ability rather than favoritism, sending capable people to lead tasks to victory. | En la gestión empresarial moderna, comisionar con acierto a los perfiles idóneos resulta determinante. Los directivos deben asignar cometidos por mérito y solvencia probada; enviar a los más aptos garantiza el éxito de los proyectos.

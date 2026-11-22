@@ -1,0 +1,63 @@
+id: 28
+hanzi: 任命
+pinyin: rèn mìng
+level: HSK 5
+part_of_speech: Verb
+
+meanings_summary:
+  en: to appoint; nominate; commission; designation
+  es: nombrar; designar; conferir cargo; nombramiento
+
+senses[1]{sense_number,part_of_speech,register,definition_en,definition_es,example_phrase}:
+  1 | Verb | Standard | to officially assign someone to a position of leadership, government post, or military command | designar o conferir formalmente a una persona un cargo oficial de gobierno, mando militar o jefatura | 正式任命为院长 (formally appointed as dean)
+
+example_sentences[2]{id,hanzi,pinyin,en,es}:
+  #1 | 昏庸自大的赵王不顾重臣与赵母的极力反对，执意正式任命毫无实战经验的赵括统领长平大军。 | Hūnyōng-zìdà de Zhàowáng bùgù zhòngchén yǔ Zhàomǔ de jílì fǎnduì, zhíyì zhèngshì rènmìng háowú shízhàn jīngyàn de Zhào Kuò tǒnglǐng Chángpíng dàjūn. | The arrogant King Zhao disregarded ministers' and Zhao Kuo's mother's fierce objections, insisting on appointing inexperienced Zhao Kuo to command. | El soberbio rey de Zhao, desoyendo al consejo y a la propia madre de Zhao Kuo, nombró formalmente a este al frente del ejército en Changping.
+  #2 | 经联合国教科文组织理事会审议表决，张教授被正式任命为新一届国际文化遗产保护委员会主席。 | Jīng Liánhéguó Jiàokēwén Zǔzhī lǐshìhuì shěnyì biàojué, Zhāng jiàoshòu bèi zhèngshì rènmìng wéi xīn yī jiè guójì wénhuà yíchǎn bǎohù wěiyuánhuì zhǔxí. | Following deliberation by the UNESCO council, Professor Zhang was formally appointed as president of the World Heritage Protection Committee. | Tras la votación del consejo de la UNESCO, el profesor Zhang fue nombrado presidente del Comité de Protección del Patrimonio Mundial.
+
+collocations[6]{hanzi,en}:
+  正式任命 | formally appoint / nominate
+  任命为代表 | appointed as representative
+  接受任命 | accept the appointment
+  任命书 | letter / certificate of appointment
+  撤销任命 | rescind / revoke an appointment
+  行政任命 | administrative appointment
+
+idioms[4]{hanzi,pinyin,meaning_en}:
+  任人唯贤 | rèn rén wéi xián | appoint people according to their political integrity and competence
+  任人唯亲 | rèn rén wéi qīn | appoint people by favoritism and nepotism (antonym)
+  知人善任 | zhī rén shàn rèn | know people well and assign them to posts suited to abilities
+  委以重任 | wěi yǐ zhòng rèn | entrust someone with heavy responsibilities
+
+character_decomposition[2]{character,pinyin,meaning_en,meaning_es,radical,radical_meaning_en,meaning_component,sound_component,stroke_count,composition_type,etymology_and_mnemonic,visual_mnemonic_story_en,visual_mnemonic_story_es,tone_mnemonic_anchor,cangjie,traditional}:
+  任 | rèn | appoint; task; duty; office; assume | nombrar; cargo; deber; encomendar; asumir | 亻 | person | 亻 (person standing) + 壬 (loom carrier holding heavy warp threads) | 壬 (rén) | 6 | 左右结构 | A person 亻 shouldering a heavy burden on a carrying pole 壬; signifies bearing official responsibility. | A capable person (亻) shouldering a heavy burden on a balance pole (壬) with steady duty (任). | Una persona íntegra (亻) cargando sobre los hombros una balanza de peso (壬) con entereza (任). | 51 | OHG | 任
+  命 | mìng | command; decree; mandate; life | orden; mandato; decreto; vida | 口 | mouth | 口 (authoritative mouth decree) + 令 (binding command) | 令 (lìng) | 8 | 上下结构 | A mouth 口 delivering a binding state command 令 to commission an officer. | A sovereign's mouth (口) pronouncing a royal mandate (令) conferring public rank (命). | La boca del monarca (口) proclamando el mandato regio (令) que confiere dignidad (命). | 51 | ROMB | 命
+
+mnemonics_and_roots:
+  composite_memory_hook_en: Bestowing a public duty burden (任) through an official sovereign mandate (命) is to appoint (任命).
+  composite_memory_hook_es: Encomendar una responsabilidad pública (任) mediante mandato oficial (命) constituye el nombramiento (任命).
+  cultural_and_cognitive_roots: Derived from ancient investiture ceremonies where emperors conferred bronze seals and tallies to magistrates upon appointment.
+  tone_sandhi_and_pitch_modulation: Double fourth tone: 'rèn mìng' (51-51). Articulate both syllables with decisive authoritative weight.
+
+traps_and_cognates:
+  look_alikes[4]{character,pinyin,meaning_en,distinction_note}:
+    住 | zhù | live; reside | Master 主 on right of 亻 instead of 壬
+    仕 | shì | official; serve | Scholar 士 on right of 亻 instead of 壬
+    伞 | sǎn | umbrella | Has multiple horizontal lines under 人
+    令 | lìng | order; season | Lacks the mouth 口 component at the bottom
+  etymological_cognates[4]{character,pinyin,gloss_en}:
+    责任 | zérèn | responsibility; duty
+    任期 | rènqī | term of office
+    使命 | shǐmìng | mission; calling
+    聘任 | pìnrèn | hire; appoint by contract
+
+semantic_boundary_contrasts:
+  core_nuance: 任命 specifically denotes the top-down official conferral of leadership authority or public office.
+  contrasts[3]{id,compared_word,pinyin,analysis}:
+    1 | 任命 vs. 免职 | miǎnzhí | 免职 is the direct antonym meaning to relieve someone of their official duties or remove them from office.
+    2 | 任命 vs. 选举 | xuǎnjǔ | 选举 is bottom-up democratic voting by a constituency, whereas 任命 is top-down designation by superiors.
+    3 | 任命 vs. 聘请 | pìnqǐng | 聘请 implies hiring professional consultants or professors on contractual terms, while 任命 carries administrative sovereign power.
+
+extended_reading_passages[2]{id,hanzi,pinyin,en,es}:
+  #1 | 中国古代选贤任能讲究“知人善任”。长平之战前夕，赵王未能辨明虚实，在关乎国家生死存亡的决战时刻，错误地任命只擅长空谈兵法的赵括取代廉颇。这一轻率的任命打破了战略平衡，最终成为导致赵国亡国的转折点。 | Zhōngguó gǔdài xuǎnxián-rènnéng jiǎngjiu 'zhīrén-shànrèn'. Chángpíng zhī zhàn qiánxī, Zhàowáng wèinéng biànmíng xūshí, zài guānhū guójiā shēngsǐ-cúnwáng de juézhàn shíkè, cuòwù de rènmìng zhǐ shàncháng kōngtán bīngfǎ de Zhào Kuò qǔdài Lián Pō. Zhè yī qīngshuài de rènmìng dǎpò le zhànlüè pínghéng, zuìzhōng chéngwéi dǎozhì Zhàoguó wángguó de zhuǎnzhédiǎn. | Ancient statecraft emphasized appointing people suited to their talents. Before Changping, King Zhao failed to discern true capability, appointing Zhao Kuo to replace Lian Po. This reckless appointment tipped the balance, marking the collapse of Zhao. | La gobernanza clásica valoraba el nombramiento de los hombres según su talento. Antes de Changping, el rey de Zhao erró nombrando al bisoño Zhao Kuo en vez de a Lian Po. Aquel nombramiento temerario rompió el equilibrio y precipitó la ruina del reino.
+  #2 | 在现代企业治理与组织管理中，核心管理层的任命直接关乎整个机构的战略航向与运营成效。唯有坚持“任人唯贤、德才兼备”的考核标准，把真正具备实战经验与卓越领导力的骨干任命到关键岗位，组织才能在激烈的市场竞争中乘风破浪。 | Zài xiàndài qǐyè zhìlǐ yǔ zǔzhī guǎnlǐ zhōng, héxīn guǎnlǐcéng de rènmìng zhíjiē guānhū zhěnggè jīgòu de zhànlüè hángxiàng yǔ yùnyíng chéngxiào. Wéiyǒu jiānchí 'rènrén-wéixián, décái-jiānbèi' de kǎohé biāozhǔn, bǎ zhēnzhèng jùbèi shízhàn jīngyàn yǔ zhuóyuè lǐngdǎolì de gǔgàn rènmìng dào guānjiàn gǎngwèi, zǔzhī cái néng zài jīliè de shìchǎng jìngzhēng zhōng chéngfēng-pòlàng. | In corporate governance, appointing executive leadership directly decides strategic direction and efficiency. Only by adhering to meritocratic standards—appointing talents of proven integrity and tested capability—can an enterprise conquer market tides. | En la gestión corporativa moderna, nombrar a los directivos decide el rumbo estratégico. Guiándose por el mérito y la solvencia ética para designar a los cuadros más aptos, las empresas logran triunfar en mercados competitivos.

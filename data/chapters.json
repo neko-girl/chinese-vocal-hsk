@@ -94,5 +94,29 @@
     "title": "海外用户玩儿微信 (Overseas Users of WeChat)",
     "word_count": 43,
     "level": "HSK 5"
+  },
+  {
+    "id": 13,
+    "dir": "chapter_13",
+    "name": "Chapter 13",
+    "title": "锯掉生活的“筐底” (Sawing Off the Bottom of Life's Baskets)",
+    "word_count": 37,
+    "level": "HSK 5"
+  },
+  {
+    "id": 14,
+    "dir": "chapter_14",
+    "name": "Chapter 14",
+    "title": "北京的四合院 (Quadrangle Courtyards of Beijing)",
+    "word_count": 41,
+    "level": "HSK 5"
+  },
+  {
+    "id": 15,
+    "dir": "chapter_15",
+    "name": "Chapter 15",
+    "title": "纸上谈兵 (Armchair Strategy / Fighting on Paper)",
+    "word_count": 39,
+    "level": "HSK 5"
   }
 ]
